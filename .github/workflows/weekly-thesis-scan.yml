@@ -1,0 +1,48 @@
+name: NPV Veckovis uppsatssökning
+
+on:
+  schedule:
+    - cron: '0 6 * * 1'  # Måndag 06:00 UTC = 07:00 CET (08:00 CEST)
+  workflow_dispatch:
+    inputs:
+      dry_run:
+        description: 'Dry run (posta inte till Slack)'
+        required: false
+        default: 'false'
+        type: choice
+        options:
+          - 'false'
+          - 'true'
+
+jobs:
+  thesis-scan:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run thesis scan
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          SLACK_WEBHOOK_URL: ${{ secrets.SLACK_WEBHOOK_URL }}
+          DRY_RUN: ${{ github.event.inputs.dry_run || 'false' }}
+        run: python src/thesis_main.py
+
+      - name: Commit updated seen_theses.json
+        if: ${{ github.event.inputs.dry_run != 'true' }}
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "NPV Bot"
+          git add data/seen_theses.json
+          git diff --staged --quiet || git commit -m "chore: uppdatera sedda uppsatser [skip ci]"
+          git push

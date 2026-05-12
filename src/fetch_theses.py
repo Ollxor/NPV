@@ -1,7 +1,8 @@
-"""Fetches student theses from DiVA and SwePub."""
+"""Fetches student theses from DiVA and SwePub, limited to the current prize year."""
 
 import time
 from dataclasses import dataclass, field
+from datetime import datetime
 
 import feedparser
 import requests
@@ -13,6 +14,8 @@ HEADERS = {
         "+https://github.com/Ollxor/NPV)"
     )
 }
+
+PRIZE_YEAR = datetime.utcnow().year  # Uppsatser från innevarande år söks löpande
 
 # DiVA: student theses only, sorted by date
 DIVA_THESES_URL = (
@@ -46,8 +49,12 @@ class Thesis:
 
 
 def _today_str() -> str:
-    from datetime import datetime
     return datetime.utcnow().strftime("%Y-%m-%d")
+
+
+def _is_prize_year(date_str: str) -> bool:
+    """Returns True if date_str contains the current prize year."""
+    return str(PRIZE_YEAR) in date_str
 
 
 def fetch_diva_theses() -> list[Thesis]:
@@ -79,7 +86,7 @@ def fetch_diva_theses() -> list[Thesis]:
                 if name:
                     authors.append(name)
 
-            if title and url:
+            if title and url and _is_prize_year(date):
                 theses.append(
                     Thesis(
                         title=title,
@@ -145,7 +152,7 @@ def fetch_swepub_theses() -> list[Thesis]:
 
             level = source.get("contentType", "")
 
-            if title:
+            if title and _is_prize_year(str(date)):
                 theses.append(
                     Thesis(
                         title=title,
@@ -164,6 +171,7 @@ def fetch_swepub_theses() -> list[Thesis]:
 
 
 def fetch_all_theses() -> list[Thesis]:
+    print(f"[fetch_theses] Söker uppsatser från {PRIZE_YEAR}...")
     print("[fetch_theses] DiVA...")
     diva = fetch_diva_theses()
     print(f"  → {len(diva)} uppsatser")

@@ -17,23 +17,20 @@ and we'll also help each other in the meeting. Nobody gets left behind.
 
 > **Important:** Claude Code requires a paid Claude plan **or** an Anthropic API
 > key — the *free* Claude chat plan does **not** include it. The good news: the
-> API key from account #2 can power Claude Code directly (pay-as-you-go), so you
+> API key from account 2 can power Claude Code directly (pay-as-you-go), so you
 > don't need a separate subscription. If you already have Claude Pro or Max, you
-> can use that instead, and then €5 of API credit lasts months.
+> can sign in with that instead.
 
 ---
 
 ## 2. Install Claude Code
 
-The **desktop app** is the easiest route — no terminal required.
+Use the **desktop app** — no terminal required.
 
-- **Mac:** download the app, open it, and sign in with your Anthropic account.
-  Git is usually already installed; if you ever see a prompt to install
-  "command line developer tools," click install.
-- **Windows:** download and install the app, then sign in. **PowerShell is
-  already on your PC — nothing to install there.** Installing
-  [Git for Windows](https://git-scm.com/downloads/win) is optional but
-  recommended.
+- **Mac:** [download the app](https://claude.ai/code), open it, and sign in with
+  your Anthropic account (account 2 above).
+- **Windows:** [download the app](https://claude.ai/code), install it, and sign
+  in with your Anthropic account (account 2 above).
 
 Official, always-current setup guide: <https://code.claude.com/docs/en/setup>
 
@@ -51,12 +48,14 @@ chain works — install, login, **and** the GitHub connection that trips people 
    safe, not a virus warning.
 4. If a new `npv-test` repo shows up on your GitHub account, **you're ready.** 🎉
 
-If it can't push, that's almost always the GitHub login step — message Olle and
-we'll fix it before the call rather than during it.
+If it can't push, it's almost always the GitHub sign-in — or Git isn't installed
+yet. On Mac, accept the "command line developer tools" prompt if it appears; on
+Windows, install [Git for Windows](https://git-scm.com/downloads/win). Still
+stuck? Message Olle and we'll fix it before the call rather than during it.
 
 ---
 
-## If setup defeats you — the no-install fallback
+## If you can't get set up — a no-install option
 
 You can still take full part. Either we help you live in the meeting, or you skip
 Claude Code entirely and **fork the project in your browser**, editing a couple

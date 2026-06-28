@@ -5,8 +5,9 @@ below. It will interview you — asking for your organization, language(s),
 country, and where you want the feed delivered — and then build your own version
 by adapting NPV's working system.
 
-You don't need to understand the code. Just answer Claude's questions and, when
-asked, paste in your two keys.
+You don't need to understand the code. Just answer Claude's questions, and when
+asked, paste in your Anthropic API key (plus one more value if the destination
+you pick needs one — the website option needs none).
 
 See a live example of the finished thing — NPV's multilingual feed:
 **<https://ollxor.github.io/NPV/>**
@@ -43,8 +44,8 @@ MY GitHub account.
 - Organization name:        __________
 - Country:                  __________
 - Topic / field:            __________   (likely the same psychedelic-science scope)
-- Summary language(s):      __________   (one language, or several with a menu —
-                                           see LANGUAGES below; English by default)
+- Summary language(s):      __________   (English by default; or several, shown
+                                           with a language menu on the page)
 - Output destination:       __________   (default: Slack — see OUTPUT below)
 - I will provide later: my Anthropic API key, and any destination key/URL needed
 

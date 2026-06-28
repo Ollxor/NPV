@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Psychedelic Science — Daily Research Feed | NPV</title>
+  <meta name="description" content="A daily, automatically curated feed of new psychedelic research and news, by the Swedish Network for Psychedelic Science (NPV)." />
+  <style>
+    :root {
+      --bg: #0f1117;
+      --card: #181b24;
+      --border: #272b37;
+      --text: #e8eaf0;
+      --muted: #9aa0b0;
+      --accent: #b58cff;
+      --accent-2: #6fd6c4;
+    }
+    * { box-sizing: border-box; }
+    body {
+      margin: 0;
+      background: var(--bg);
+      color: var(--text);
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      line-height: 1.55;
+    }
+    header {
+      padding: 3rem 1.25rem 2rem;
+      text-align: center;
+      background: radial-gradient(120% 100% at 50% 0%, rgba(181,140,255,0.18), transparent 60%);
+      border-bottom: 1px solid var(--border);
+    }
+    header h1 {
+      margin: 0 0 .4rem;
+      font-size: 1.9rem;
+      letter-spacing: -0.02em;
+      background: linear-gradient(90deg, var(--accent), var(--accent-2));
+      -webkit-background-clip: text;
+      background-clip: text;
+      color: transparent;
+    }
+    header p { margin: .2rem auto; color: var(--muted); max-width: 38rem; font-size: .98rem; }
+    .meta { margin-top: 1rem; font-size: .82rem; color: var(--muted); }
+    main { max-width: 46rem; margin: 0 auto; padding: 1.5rem 1.25rem 4rem; }
+    .card {
+      background: var(--card);
+      border: 1px solid var(--border);
+      border-radius: 14px;
+      padding: 1.25rem 1.35rem;
+      margin-bottom: 1rem;
+      transition: border-color .15s ease, transform .15s ease;
+    }
+    .card:hover { border-color: var(--accent); transform: translateY(-1px); }
+    .card h2 { margin: 0 0 .5rem; font-size: 1.12rem; line-height: 1.35; }
+    .card h2 a { color: var(--text); text-decoration: none; }
+    .card h2 a:hover { color: var(--accent); }
+    .source { font-size: .8rem; color: var(--accent-2); margin-bottom: .6rem; font-weight: 600; }
+    .summary { color: var(--text); font-size: .96rem; margin: 0; }
+    .read { display: inline-block; margin-top: .85rem; font-size: .85rem; color: var(--accent); text-decoration: none; }
+    .read:hover { text-decoration: underline; }
+    footer { text-align: center; padding: 2rem 1.25rem 3rem; color: var(--muted); font-size: .82rem; border-top: 1px solid var(--border); }
+    footer a { color: var(--accent); text-decoration: none; }
+    .empty { text-align: center; color: var(--muted); padding: 3rem 1rem; }
+    .disclaimer { font-style: italic; }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Psychedelic Science</h1>
+    <p>A daily, automatically curated feed of new research and news on psychedelics.</p>
+    <p class="meta" id="meta">Loading…</p>
+  </header>
+
+  <main id="feed">
+    <div class="empty">Loading the feed…</div>
+  </main>
+
+  <footer>
+    <p>Curated by the <a href="https://www.psykedeliskvetenskap.org" target="_blank" rel="noopener">Swedish Network for Psychedelic Science (NPV)</a>.</p>
+    <p class="disclaimer">Summaries are generated with AI from public sources (PubMed, Semantic Scholar, Psychedelic Alpha, DiVA) and may contain errors. Always check the original source.</p>
+  </footer>
+
+  <script>
+    function fmtDate(iso) {
+      if (!iso) return "";
+      const d = new Date(iso);
+      if (isNaN(d)) return iso;
+      return d.toLocaleDateString("en-GB", { year: "numeric", month: "short", day: "numeric" });
+    }
+
+    fetch("./data/feed.json?cb=" + Date.now())
+      .then(r => r.json())
+      .then(data => {
+        const meta = document.getElementById("meta");
+        const feed = document.getElementById("feed");
+        const items = data.items || [];
+
+        if (data.generated_at) {
+          meta.textContent = "Last updated " + fmtDate(data.generated_at) + " · " + items.length + " articles";
+        } else {
+          meta.textContent = items.length + " articles";
+        }
+
+        if (!items.length) {
+          feed.innerHTML = '<div class="empty">The feed is being prepared — check back after the first run.</div>';
+          return;
+        }
+
+        feed.innerHTML = items.map(it => `
+          <article class="card">
+            <div class="source">${it.source || ""}${it.date ? " · " + it.date : ""}</div>
+            <h2><a href="${it.url}" target="_blank" rel="noopener">${it.title}</a></h2>
+            <p class="summary">${it.summary || ""}</p>
+            <a class="read" href="${it.url}" target="_blank" rel="noopener">Read the original source →</a>
+          </article>
+        `).join("");
+      })
+      .catch(err => {
+        document.getElementById("feed").innerHTML =
+          '<div class="empty">Could not load the feed. Please try again later.</div>';
+        console.error(err);
+      });
+  </script>
+</body>
+</html>

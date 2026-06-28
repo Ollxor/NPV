@@ -24,6 +24,19 @@ _DOCS_DATA_DIR = os.path.join(os.path.dirname(__file__), "..", "docs", "data")
 SEEN_WEB_FILE = os.path.join(_DATA_DIR, "seen_web.json")
 FEED_FILE = os.path.join(_DOCS_DATA_DIR, "feed.json")
 
+# Summary languages: English (default) + Nordic and Baltic languages.
+LANGUAGES = {
+    "en": "English",
+    "sv": "Swedish",
+    "no": "Norwegian (Bokmål)",
+    "da": "Danish",
+    "fi": "Finnish",
+    "is": "Icelandic",
+    "et": "Estonian",
+    "lv": "Latvian",
+    "lt": "Lithuanian",
+}
+
 FILTER_PROMPT = """\
 You are the editor of an English-language news feed about psychedelic science, \
 run by NPV (the Swedish Network for Psychedelic Science).
@@ -46,17 +59,27 @@ Abstract/summary: {abstract}
 Reply ONLY with JSON: {{"relevant": true/false, "reason": "short reason in English", "relevance_score": 1-5}}"""
 
 SUMMARY_PROMPT = """\
-You are the editor of an English-language news feed about psychedelic science, \
-run by NPV (the Swedish Network for Psychedelic Science).
+You are the editor of a multilingual feed about psychedelic science run by NPV \
+(the Swedish Network for Psychedelic Science).
 
-Write a short, clear summary of the article below for a knowledgeable audience.
+Write a short, clear summary of the article below for a knowledgeable audience, \
+and provide that summary in EACH of these languages:
+- en: English
+- sv: Swedish
+- no: Norwegian (Bokmål)
+- da: Danish
+- fi: Finnish
+- is: Icelandic
+- et: Estonian
+- lv: Latvian
+- lt: Lithuanian
 
-RULES:
-- Maximum 600 characters
+RULES (apply to every language):
+- Maximum 500 characters
 - Neutral, scientific tone — no hype
-- Use the word "psychedelics", not "psychedelic drugs"
-- Where applicable, mention study design and key data
-- Do not end with calls to action like "read more" or "link in bio"
+- Use the local equivalent of "psychedelics", not "psychedelic drugs"
+- Mention study design and key data where applicable
+- Write naturally and fluently for a native reader of that language
 
 Article:
 Title: {title}
@@ -64,7 +87,9 @@ Source/journal: {source}
 Abstract/summary: {abstract}
 URL: {url}
 
-Write ONLY the summary text, no preamble."""
+Reply ONLY with a JSON object whose keys are the language codes \
+(en, sv, no, da, fi, is, et, lv, lt) and whose values are the summary strings. \
+No other text."""
 
 
 def _client() -> anthropic.Anthropic:
@@ -101,7 +126,8 @@ def filter_article(client: anthropic.Anthropic, article: Article) -> dict:
         return {"relevant": False, "reason": "Assessment error", "relevance_score": 1}
 
 
-def summarize(client: anthropic.Anthropic, article: Article) -> str:
+def summarize(client: anthropic.Anthropic, article: Article) -> dict:
+    """Returns {lang_code: summary} for every language in LANGUAGES."""
     prompt = SUMMARY_PROMPT.format(
         title=article.title,
         source=article.source,
@@ -111,13 +137,20 @@ def summarize(client: anthropic.Anthropic, article: Article) -> str:
     try:
         msg = client.messages.create(
             model=MODEL,
-            max_tokens=512,
+            max_tokens=2000,
             messages=[{"role": "user", "content": prompt}],
         )
-        return msg.content[0].text.strip()
+        raw = msg.content[0].text.strip()
+        if raw.startswith("```"):
+            raw = raw.split("```")[1]
+            if raw.startswith("json"):
+                raw = raw[4:]
+        data = json.loads(raw)
+        fallback = data.get("en") or article.title
+        return {code: (data.get(code) or fallback) for code in LANGUAGES}
     except Exception as e:
         print(f"  [summary] Error for '{article.title[:60]}': {e}")
-        return article.title
+        return {code: article.title for code in LANGUAGES}
 
 
 def _load_feed() -> dict:
@@ -183,7 +216,7 @@ def main() -> None:
                 "url": article.url,
                 "source": article.source,
                 "date": article.date,
-                "summary": summarize(client, article),
+                "summaries": summarize(client, article),
                 "added_at": now,
             }
         )

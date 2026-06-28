@@ -40,6 +40,18 @@
     }
     header p { margin: .2rem auto; color: var(--muted); max-width: 38rem; font-size: .98rem; }
     .meta { margin-top: 1rem; font-size: .82rem; color: var(--muted); }
+    .lang-wrap { margin-top: 1.25rem; }
+    .lang-wrap label { font-size: .8rem; color: var(--muted); margin-right: .5rem; }
+    select#lang {
+      background: var(--card);
+      color: var(--text);
+      border: 1px solid var(--border);
+      border-radius: 8px;
+      padding: .45rem .7rem;
+      font-size: .9rem;
+      cursor: pointer;
+    }
+    select#lang:hover { border-color: var(--accent); }
     main { max-width: 46rem; margin: 0 auto; padding: 1.5rem 1.25rem 4rem; }
     .card {
       background: var(--card);
@@ -66,7 +78,11 @@
 <body>
   <header>
     <h1>Psychedelic Science</h1>
-    <p>A daily, automatically curated feed of new research and news on psychedelics.</p>
+    <p id="tagline">A daily, automatically curated feed of new research and news on psychedelics.</p>
+    <div class="lang-wrap">
+      <label for="lang" id="lang-label">Language</label>
+      <select id="lang" aria-label="Choose language"></select>
+    </div>
     <p class="meta" id="meta">Loading…</p>
   </header>
 
@@ -76,44 +92,94 @@
 
   <footer>
     <p>Created by <a href="https://www.ollebjerkas.se" target="_blank" rel="noopener">Olle Bjerkås</a> for <a href="https://www.psykedeliskvetenskap.org" target="_blank" rel="noopener">NPV (Nätverket för Psykedelisk Vetenskap)</a> and sibling organisations.</p>
-    <p class="disclaimer">Summaries are generated with AI from public sources (PubMed, Semantic Scholar, Psychedelic Alpha, DiVA) and may contain errors. Always check the original source.</p>
+    <p class="disclaimer" id="disclaimer">Summaries are generated with AI from public sources (PubMed, Semantic Scholar, Psychedelic Alpha, DiVA) and may contain errors. Always check the original source.</p>
   </footer>
 
   <script>
-    function fmtDate(iso) {
+    // Language menu: native names shown to the user.
+    const LANGS = [
+      { code: "en", name: "English" },
+      { code: "sv", name: "Svenska" },
+      { code: "no", name: "Norsk" },
+      { code: "da", name: "Dansk" },
+      { code: "fi", name: "Suomi" },
+      { code: "is", name: "Íslenska" },
+      { code: "et", name: "Eesti" },
+      { code: "lv", name: "Latviešu" },
+      { code: "lt", name: "Lietuvių" },
+    ];
+
+    // UI strings per language. Best-effort — native speakers welcome to refine.
+    const UI = {
+      en: { label: "Language", tagline: "A daily, automatically curated feed of new research and news on psychedelics.", updated: "Last updated", articles: "articles", read: "Read the original source →", empty: "The feed is being prepared — check back after the first run.", disclaimer: "Summaries are generated with AI from public sources (PubMed, Semantic Scholar, Psychedelic Alpha, DiVA) and may contain errors. Always check the original source.", locale: "en-GB" },
+      sv: { label: "Språk", tagline: "Ett dagligt, automatiskt kurerat flöde av ny forskning och nyheter om psykedelika.", updated: "Senast uppdaterad", articles: "artiklar", read: "Läs originalkällan →", empty: "Flödet förbereds — kom tillbaka efter första körningen.", disclaimer: "Sammanfattningarna genereras med AI från offentliga källor (PubMed, Semantic Scholar, Psychedelic Alpha, DiVA) och kan innehålla fel. Kontrollera alltid originalkällan.", locale: "sv-SE" },
+      no: { label: "Språk", tagline: "En daglig, automatisk kuratert strøm av ny forskning og nyheter om psykedelika.", updated: "Sist oppdatert", articles: "artikler", read: "Les originalkilden →", empty: "Strømmen forberedes — kom tilbake etter første kjøring.", disclaimer: "Sammendragene genereres med KI fra offentlige kilder (PubMed, Semantic Scholar, Psychedelic Alpha, DiVA) og kan inneholde feil. Sjekk alltid originalkilden.", locale: "nb-NO" },
+      da: { label: "Sprog", tagline: "Et dagligt, automatisk kurateret feed med ny forskning og nyheder om psykedelika.", updated: "Senest opdateret", articles: "artikler", read: "Læs den oprindelige kilde →", empty: "Feedet forberedes — kom tilbage efter første kørsel.", disclaimer: "Resuméerne genereres med AI fra offentlige kilder (PubMed, Semantic Scholar, Psychedelic Alpha, DiVA) og kan indeholde fejl. Tjek altid den oprindelige kilde.", locale: "da-DK" },
+      fi: { label: "Kieli", tagline: "Päivittäin automaattisesti koottu syöte uudesta psykedeeleihin liittyvästä tutkimuksesta ja uutisista.", updated: "Päivitetty viimeksi", articles: "artikkelia", read: "Lue alkuperäinen lähde →", empty: "Syötettä valmistellaan — palaa ensimmäisen ajon jälkeen.", disclaimer: "Tiivistelmät on luotu tekoälyllä julkisista lähteistä (PubMed, Semantic Scholar, Psychedelic Alpha, DiVA), ja ne voivat sisältää virheitä. Tarkista aina alkuperäinen lähde.", locale: "fi-FI" },
+      is: { label: "Tungumál", tagline: "Daglegt, sjálfvirkt valið streymi af nýjum rannsóknum og fréttum um hugvíkkandi efni.", updated: "Síðast uppfært", articles: "greinar", read: "Lesa upprunalegu heimildina →", empty: "Streymið er í undirbúningi — líttu við eftir fyrstu keyrslu.", disclaimer: "Samantektir eru búnar til með gervigreind úr opinberum heimildum (PubMed, Semantic Scholar, Psychedelic Alpha, DiVA) og geta innihaldið villur. Athugaðu alltaf upprunalegu heimildina.", locale: "is-IS" },
+      et: { label: "Keel", tagline: "Iga päev automaatselt koostatud uudisvoog uutest psühhedeelikume käsitlevatest uuringutest ja uudistest.", updated: "Viimati uuendatud", articles: "artiklit", read: "Loe algallikat →", empty: "Voogu valmistatakse ette — vaata tagasi pärast esimest käivitamist.", disclaimer: "Kokkuvõtted on loodud tehisintellektiga avalikest allikatest (PubMed, Semantic Scholar, Psychedelic Alpha, DiVA) ja võivad sisaldada vigu. Kontrolli alati algallikat.", locale: "et-EE" },
+      lv: { label: "Valoda", tagline: "Ikdienas automātiski veidota plūsma ar jaunākajiem pētījumiem un ziņām par psihedēliskām vielām.", updated: "Pēdējoreiz atjaunināts", articles: "raksti", read: "Lasīt oriģinālo avotu →", empty: "Plūsma tiek sagatavota — atgriezieties pēc pirmās palaišanas.", disclaimer: "Kopsavilkumus ģenerē mākslīgais intelekts no publiskiem avotiem (PubMed, Semantic Scholar, Psychedelic Alpha, DiVA), un tie var saturēt kļūdas. Vienmēr pārbaudiet oriģinālo avotu.", locale: "lv-LV" },
+      lt: { label: "Kalba", tagline: "Kasdienis automatiškai sudaromas naujų psichodelikų tyrimų ir naujienų srautas.", updated: "Paskutinį kartą atnaujinta", articles: "straipsniai", read: "Skaityti originalų šaltinį →", empty: "Srautas ruošiamas — užsukite po pirmojo paleidimo.", disclaimer: "Santraukas generuoja dirbtinis intelektas iš viešų šaltinių (PubMed, Semantic Scholar, Psychedelic Alpha, DiVA), todėl jose gali būti klaidų. Visada patikrinkite originalų šaltinį.", locale: "lt-LT" },
+    };
+
+    const DEFAULT_LANG = "en";
+    let currentLang = localStorage.getItem("npv_feed_lang") || DEFAULT_LANG;
+    if (!UI[currentLang]) currentLang = DEFAULT_LANG;
+    let feedData = { generated_at: "", items: [] };
+
+    function fmtDate(iso, locale) {
       if (!iso) return "";
       const d = new Date(iso);
       if (isNaN(d)) return iso;
-      return d.toLocaleDateString("en-GB", { year: "numeric", month: "short", day: "numeric" });
+      return d.toLocaleDateString(locale || "en-GB", { year: "numeric", month: "short", day: "numeric" });
     }
+
+    function summaryFor(item, lang) {
+      if (item.summaries) return item.summaries[lang] || item.summaries.en || "";
+      return item.summary || ""; // backward compatibility with older items
+    }
+
+    function render() {
+      const t = UI[currentLang];
+      document.documentElement.lang = currentLang;
+      document.getElementById("tagline").textContent = t.tagline;
+      document.getElementById("lang-label").textContent = t.label;
+      document.getElementById("disclaimer").textContent = t.disclaimer;
+
+      const meta = document.getElementById("meta");
+      const feed = document.getElementById("feed");
+      const items = feedData.items || [];
+
+      meta.textContent = (feedData.generated_at ? t.updated + " " + fmtDate(feedData.generated_at, t.locale) + " · " : "") + items.length + " " + t.articles;
+
+      if (!items.length) {
+        feed.innerHTML = '<div class="empty">' + t.empty + "</div>";
+        return;
+      }
+
+      feed.innerHTML = items.map(it => `
+        <article class="card">
+          <div class="source">${it.source || ""}${it.date ? " · " + it.date : ""}</div>
+          <h2><a href="${it.url}" target="_blank" rel="noopener">${it.title}</a></h2>
+          <p class="summary">${summaryFor(it, currentLang)}</p>
+          <a class="read" href="${it.url}" target="_blank" rel="noopener">${t.read}</a>
+        </article>
+      `).join("");
+    }
+
+    // Build the language menu
+    const sel = document.getElementById("lang");
+    sel.innerHTML = LANGS.map(l => `<option value="${l.code}">${l.name}</option>`).join("");
+    sel.value = currentLang;
+    sel.addEventListener("change", () => {
+      currentLang = sel.value;
+      localStorage.setItem("npv_feed_lang", currentLang);
+      render();
+    });
 
     fetch("./data/feed.json?cb=" + Date.now())
       .then(r => r.json())
-      .then(data => {
-        const meta = document.getElementById("meta");
-        const feed = document.getElementById("feed");
-        const items = data.items || [];
-
-        if (data.generated_at) {
-          meta.textContent = "Last updated " + fmtDate(data.generated_at) + " · " + items.length + " articles";
-        } else {
-          meta.textContent = items.length + " articles";
-        }
-
-        if (!items.length) {
-          feed.innerHTML = '<div class="empty">The feed is being prepared — check back after the first run.</div>';
-          return;
-        }
-
-        feed.innerHTML = items.map(it => `
-          <article class="card">
-            <div class="source">${it.source || ""}${it.date ? " · " + it.date : ""}</div>
-            <h2><a href="${it.url}" target="_blank" rel="noopener">${it.title}</a></h2>
-            <p class="summary">${it.summary || ""}</p>
-            <a class="read" href="${it.url}" target="_blank" rel="noopener">Read the original source →</a>
-          </article>
-        `).join("");
-      })
+      .then(data => { feedData = data; render(); })
       .catch(err => {
         document.getElementById("feed").innerHTML =
           '<div class="empty">Could not load the feed. Please try again later.</div>';

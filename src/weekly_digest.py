@@ -56,14 +56,36 @@ def main() -> None:
         print("Archive not found or empty — nothing to digest.")
         return
 
+    all_items = archive.get("items", [])
     cutoff = (datetime.now(timezone.utc) - timedelta(days=7)).isoformat()
-    week_items = [
-        it for it in archive.get("items", [])
-        if it.get("added_at", "") >= cutoff
-    ]
+    week_items = [it for it in all_items if it.get("added_at", "") >= cutoff]
 
     if not week_items:
-        print("No items in the past 7 days — skipping digest.")
+        if not all_items:
+            print("Archive empty — nothing to digest yet.")
+            return
+        # Archive has data but nothing new in 7 days → the daily feed likely
+        # stopped. Turn this silent gap into a visible Slack alert.
+        last_added = max((it.get("added_at", "") for it in all_items), default="")
+        last_date = last_added[:10] or "okänt datum"
+        warning = (
+            "⚠️ *Bevakningen kan ha stannat*\n"
+            "Inga nya artiklar i arkivet på 7+ dagar. "
+            f"Senaste tillägg: *{last_date}*.\n"
+            "Kontrollera att GitHub Actions-flödet _NPV English Web Feed_ körs "
+            "utan fel."
+        )
+        if dry_run:
+            print("[DRY RUN] Would post stale-archive warning:\n" + warning)
+            return
+        r = requests.post(
+            webhook,
+            json={"blocks": [{"type": "section",
+                              "text": {"type": "mrkdwn", "text": warning}}]},
+            timeout=15,
+        )
+        r.raise_for_status()
+        print("Posted stale-archive warning to Slack.")
         return
 
     print(f"Found {len(week_items)} items from the past week.")

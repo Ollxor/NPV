@@ -101,6 +101,18 @@ Reply ONLY with a JSON object whose keys are the language codes \
 (en, sv, no, da, fi, is, et, lv, lt) and whose values are the summary strings. \
 No other text."""
 
+REASON_PROMPT = """\
+Translate the following short "why this is notable" note about a \
+psychedelic-science article into each of these languages, keeping it concise \
+and preserving technical terms verbatim (drug names, trial phases, journal \
+names, statistics such as n=233):
+- en, sv, no, da, fi, is, et, lv, lt
+
+Note: {reason}
+
+Reply ONLY with a JSON object whose keys are the language codes and whose \
+values are the translated strings. No other text."""
+
 
 def _client() -> anthropic.Anthropic:
     api_key = os.environ.get("ANTHROPIC_API_KEY")
@@ -163,6 +175,27 @@ def summarize(client: anthropic.Anthropic, article: Article) -> dict:
         return {code: article.title for code in LANGUAGES}
 
 
+def translate_reason(client: anthropic.Anthropic, reason: str) -> dict:
+    """Translate a notable-reason note into every language in LANGUAGES."""
+    try:
+        msg = client.messages.create(
+            model=MODEL,
+            max_tokens=800,
+            messages=[{"role": "user", "content": REASON_PROMPT.format(reason=reason)}],
+        )
+        raw = msg.content[0].text.strip()
+        if raw.startswith("```"):
+            raw = raw.split("```")[1]
+            if raw.startswith("json"):
+                raw = raw[4:]
+        data = json.loads(raw)
+        fallback = data.get("en") or reason
+        return {code: (data.get(code) or fallback) for code in LANGUAGES}
+    except Exception as e:
+        print(f"  [reason] Error translating notable reason: {e}")
+        return {code: reason for code in LANGUAGES}
+
+
 def _load_feed() -> dict:
     try:
         with open(FEED_FILE, "r", encoding="utf-8") as f:
@@ -196,7 +229,7 @@ def _append_to_archive(new_items: list[dict]) -> None:
             "doi": it.get("doi", ""),
             "summary_en": (it.get("summaries") or {}).get("en", ""),
             "notable": it.get("notable", False),
-            "notable_reason": it.get("notable_reason"),
+            "notable_reason": (it.get("notable_reasons") or {}).get("en"),
             "added_at": it["added_at"],
         }
         for it in new_items
@@ -264,6 +297,10 @@ def main() -> None:
     for item in relevant:
         article = item["article"]
         print(f"  Summarizing: {article.title[:70]}")
+        summaries = summarize(client, article)
+        notable_reasons = None
+        if item["notable"] and item["notable_reason"]:
+            notable_reasons = translate_reason(client, item["notable_reason"])
         new_items.append(
             {
                 "title": article.title,
@@ -272,9 +309,9 @@ def main() -> None:
                 "date": article.date,
                 "authors": article.authors,
                 "doi": article.doi,
-                "summaries": summarize(client, article),
+                "summaries": summaries,
                 "notable": item["notable"],
-                "notable_reason": item["notable_reason"],
+                "notable_reasons": notable_reasons,
                 "added_at": now,
             }
         )

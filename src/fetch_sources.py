@@ -1,8 +1,10 @@
 """Fetches articles from all configured sources."""
 
+import json
+import os
 import time
 import xml.etree.ElementTree as ET
-from dataclasses import dataclass, field
+from dataclasses import asdict, dataclass, field
 from datetime import datetime
 
 import feedparser
@@ -16,6 +18,14 @@ HEADERS = {
         "+https://github.com/npv-sverige/omvarldsbevakning)"
     )
 }
+
+# Shared same-day fetch cache. The daily Slack scan (06:00 UTC) and the web
+# feed (06:30 UTC) both call fetch_all(); the first fetch of the UTC day hits
+# the sources and writes this file, the second reads it — halving load on the
+# nine sources (notably the two fragile scrapers, EUCTR and DART-Europe).
+# Both workflows commit data/fetch_cache.json so it is shared across runners.
+_DATA_DIR = os.path.join(os.path.dirname(__file__), "..", "data")
+FETCH_CACHE_FILE = os.path.join(_DATA_DIR, "fetch_cache.json")
 
 PUBMED_SEARCH = (
     "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi"
@@ -78,6 +88,46 @@ class Article:
 
 def _today_str() -> str:
     return datetime.utcnow().strftime("%Y-%m-%d")
+
+
+# ── Same-day fetch cache ────────────────────────────────────────────────────
+
+
+def _cache_disabled() -> bool:
+    # Skip the cache on dry runs (want fresh data, don't pollute the file)
+    # or when explicitly disabled.
+    return (
+        os.environ.get("DRY_RUN", "").lower() in ("1", "true", "yes")
+        or os.environ.get("FETCH_NO_CACHE", "").lower() in ("1", "true", "yes")
+    )
+
+
+def _load_cache() -> list[Article] | None:
+    """Return today's cached articles, or None on miss/stale/disabled."""
+    if _cache_disabled():
+        return None
+    try:
+        with open(FETCH_CACHE_FILE, "r", encoding="utf-8") as f:
+            data = json.load(f)
+    except (FileNotFoundError, json.JSONDecodeError):
+        return None
+    if data.get("date") != _today_str():
+        return None
+    articles = [Article(**a) for a in data.get("articles", [])]
+    return articles or None
+
+
+def _write_cache(articles: list[Article]) -> None:
+    if _cache_disabled():
+        return
+    payload = {
+        "date": _today_str(),
+        "cached_at": datetime.utcnow().isoformat() + "+00:00",
+        "articles": [asdict(a) for a in articles],
+    }
+    os.makedirs(os.path.dirname(FETCH_CACHE_FILE), exist_ok=True)
+    with open(FETCH_CACHE_FILE, "w", encoding="utf-8") as f:
+        json.dump(payload, f, indent=2, ensure_ascii=False)
 
 
 # ── PubMed ─────────────────────────────────────────────────────────────────
@@ -508,6 +558,12 @@ def fetch_openaire() -> list[Article]:
 
 
 def fetch_all() -> list[Article]:
+    cached = _load_cache()
+    if cached is not None:
+        print(f"[fetch] Using today's cache ({len(cached)} articles) — "
+              f"skipping live fetch. Set FETCH_NO_CACHE=1 to force refresh.")
+        return cached
+
     print("[fetch] PubMed...")
     pubmed = fetch_pubmed()
     print(f"  → {len(pubmed)} articles")
@@ -572,4 +628,6 @@ def fetch_all() -> list[Article]:
     removed = len(all_articles) - len(deduped)
     if removed:
         print(f"  → dedup removed {removed} cross-source duplicates")
+
+    _write_cache(deduped)
     return deduped

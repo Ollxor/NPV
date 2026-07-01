@@ -10,7 +10,9 @@ import requests
 
 MODEL = "claude-opus-4-8"
 _DATA_DIR = os.path.join(os.path.dirname(__file__), "..", "data")
+_DOCS_DATA_DIR = os.path.join(os.path.dirname(__file__), "..", "docs", "data")
 ARCHIVE_FILE = os.path.join(_DATA_DIR, "archive.json")
+QUARTERLY_FILE = os.path.join(_DOCS_DATA_DIR, "quarterly.json")
 
 TRENDS_PROMPT = """\
 Du är analytiker för NPV (Nätverket för Psykedelisk Vetenskap) och analyserar \
@@ -143,6 +145,25 @@ def main() -> None:
             },
         ]
     }
+
+    # Write to GitHub Pages
+    entry = {
+        "quarter": now_label,
+        "text": analysis,
+        "total_archive": len(items),
+        "quarter_count": len(current_items),
+        "generated_at": datetime.now(timezone.utc).isoformat(),
+    }
+    try:
+        with open(QUARTERLY_FILE, "r", encoding="utf-8") as f:
+            quarterly_store = json.load(f)
+    except (FileNotFoundError, json.JSONDecodeError):
+        quarterly_store = {"analyses": []}
+    quarterly_store["analyses"] = [entry] + quarterly_store["analyses"]
+    os.makedirs(os.path.dirname(QUARTERLY_FILE), exist_ok=True)
+    with open(QUARTERLY_FILE, "w", encoding="utf-8") as f:
+        json.dump(quarterly_store, f, indent=2, ensure_ascii=False)
+    print("Quarterly analysis written to docs/data/quarterly.json")
 
     if dry_run:
         print("[DRY RUN] Quarterly analysis:")

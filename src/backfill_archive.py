@@ -21,7 +21,8 @@ _YEAR = datetime.utcnow().year
 BACKFILL_FROM = os.environ.get("BACKFILL_FROM", f"{_YEAR}-04-01")
 BACKFILL_TO   = os.environ.get("BACKFILL_TO",   f"{_YEAR}-06-30")
 
-MODEL = "claude-sonnet-4-6"
+FILTER_MODEL = "claude-sonnet-4-6"
+SUMMARY_MODEL = "claude-haiku-4-5-20251001"
 MAX_FILTER_BATCH = 120   # cap total articles sent to Claude
 
 _DATA_DIR = os.path.join(os.path.dirname(__file__), "..", "data")
@@ -33,6 +34,17 @@ HEADERS = {
         "+https://github.com/npv-sverige/omvarldsbevakning)"
     )
 }
+
+SUMMARY_PROMPT = """\
+Write a short, clear English summary of the article below for an informed \
+audience interested in psychedelic science. Maximum 400 characters. \
+Neutral, scientific tone. Use "psychedelics", not "psychedelic drugs".
+
+Title: {title}
+Source: {source}
+Abstract: {abstract}
+
+Reply with ONLY the summary text."""
 
 FILTER_PROMPT = """\
 You are an editor for NPV (the Swedish Network for Psychedelic Science).
@@ -277,7 +289,7 @@ def _filter_batch(client: anthropic.Anthropic, articles: list[dict]) -> list[dic
         )
         try:
             msg = client.messages.create(
-                model=MODEL, max_tokens=200,
+                model=FILTER_MODEL, max_tokens=200,
                 messages=[{"role": "user", "content": prompt}],
             )
             raw = msg.content[0].text.strip()
@@ -299,6 +311,31 @@ def _filter_batch(client: anthropic.Anthropic, articles: list[dict]) -> list[dic
         if i < len(articles) - 1:
             time.sleep(0.4)
     return relevant
+
+
+# ── Summarize ──────────────────────────────────────────────────────────────
+
+def _summarize_batch(client: anthropic.Anthropic, articles: list[dict]) -> None:
+    """Add summary_en to each article in-place using Haiku."""
+    print(f"\n── Generating {len(articles)} summaries with {SUMMARY_MODEL} ──────────")
+    for i, a in enumerate(articles):
+        print(f"  [{i+1}/{len(articles)}] {a['title'][:60]}")
+        prompt = SUMMARY_PROMPT.format(
+            title=a["title"],
+            source=a["source"],
+            abstract=_truncate(a.get("abstract", "") or "No abstract."),
+        )
+        try:
+            msg = client.messages.create(
+                model=SUMMARY_MODEL, max_tokens=300,
+                messages=[{"role": "user", "content": prompt}],
+            )
+            a["summary_en"] = msg.content[0].text.strip()
+        except Exception as e:
+            print(f"    → summary error: {e}")
+            a["summary_en"] = ""
+        if i < len(articles) - 1:
+            time.sleep(0.3)
 
 
 # ── Archive write ───────────────────────────────────────────────────────────
@@ -339,7 +376,7 @@ def _write_to_archive(items: list[dict]) -> int:
             "date":          a.get("date", ""),
             "authors":       a.get("authors", []),
             "doi":           a.get("doi", ""),
-            "summary_en":    "",   # no summarization in backfill — saves cost
+            "summary_en":    a.get("summary_en", ""),
             "notable":       a.get("notable", False),
             "notable_reason": a.get("notable_reason"),
             "added_at":      _added_at_for(a, mid_quarter),
@@ -399,6 +436,7 @@ def main() -> None:
             print(f"  {a['source']}{flag} — {a['title'][:70]}")
         return
 
+    _summarize_batch(client, relevant)
     added = _write_to_archive(relevant)
     print(f"\nWrote {added} new items to archive.json.")
     print("Done. Run the quarterly trend analysis next.")

@@ -10,7 +10,9 @@ import requests
 
 MODEL = "claude-sonnet-4-6"
 _DATA_DIR = os.path.join(os.path.dirname(__file__), "..", "data")
+_DOCS_DATA_DIR = os.path.join(os.path.dirname(__file__), "..", "docs", "data")
 ARCHIVE_FILE = os.path.join(_DATA_DIR, "archive.json")
+WEEKLY_FILE = os.path.join(_DOCS_DATA_DIR, "weekly.json")
 
 DIGEST_PROMPT = """\
 Du är redaktör för NPV (Nätverket för Psykedelisk Vetenskap).
@@ -101,6 +103,25 @@ def main() -> None:
             },
         ]
     }
+
+    # Write to GitHub Pages
+    entry = {
+        "week_of": datetime.now(timezone.utc).strftime("%Y-%m-%d"),
+        "text": digest,
+        "article_count": len(week_items),
+        "notable_count": notable_count,
+        "generated_at": datetime.now(timezone.utc).isoformat(),
+    }
+    try:
+        with open(WEEKLY_FILE, "r", encoding="utf-8") as f:
+            weekly_store = json.load(f)
+    except (FileNotFoundError, json.JSONDecodeError):
+        weekly_store = {"digests": []}
+    weekly_store["digests"] = [entry] + weekly_store["digests"][:51]  # keep 52 weeks
+    os.makedirs(os.path.dirname(WEEKLY_FILE), exist_ok=True)
+    with open(WEEKLY_FILE, "w", encoding="utf-8") as f:
+        json.dump(weekly_store, f, indent=2, ensure_ascii=False)
+    print("Weekly digest written to docs/data/weekly.json")
 
     if dry_run:
         print("[DRY RUN] Weekly digest:")

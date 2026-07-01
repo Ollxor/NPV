@@ -18,7 +18,7 @@ jobs:
   digest:
     runs-on: ubuntu-latest
     permissions:
-      contents: read
+      contents: write
 
     steps:
       - uses: actions/checkout@v4
@@ -37,3 +37,13 @@ jobs:
           SLACK_WEBHOOK_URL: ${{ secrets.SLACK_WEBHOOK_URL }}
           DRY_RUN: ${{ github.event.inputs.dry_run || 'false' }}
         run: python src/weekly_digest.py
+
+      - name: Commit weekly digest to pages
+        if: ${{ github.event.inputs.dry_run != 'true' }}
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "NPV Bot"
+          git add docs/data/weekly.json
+          git diff --staged --quiet || git commit -m "chore: update weekly digest [skip ci]"
+          git pull --rebase origin main
+          git push

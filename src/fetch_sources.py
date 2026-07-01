@@ -73,6 +73,7 @@ class Article:
     abstract: str = ""
     date: str = ""
     authors: list[str] = field(default_factory=list)
+    doi: str = ""
 
 
 def _today_str() -> str:
@@ -115,6 +116,11 @@ def fetch_pubmed() -> list[Article]:
                     if last:
                         authors.append(f"{last} {fore}".strip())
 
+                doi = next(
+                    (el.text for el in article_el.findall(".//ArticleId")
+                     if el.get("IdType") == "doi" and el.text),
+                    ""
+                )
                 url = f"https://pubmed.ncbi.nlm.nih.gov/{pmid}/"
                 if title and pmid:
                     articles.append(
@@ -125,6 +131,7 @@ def fetch_pubmed() -> list[Article]:
                             abstract=abstract,
                             date=date,
                             authors=authors,
+                            doi=doi,
                         )
                     )
             except Exception:
@@ -162,6 +169,7 @@ def fetch_semantic_scholar() -> list[Article]:
                     abstract=(paper.get("abstract") or "").strip(),
                     date=paper.get("publicationDate") or str(paper.get("year", "")),
                     authors=authors,
+                    doi=doi,
                 )
             )
     except Exception as e:
@@ -286,6 +294,7 @@ def fetch_europe_pmc() -> list[Article]:
                     abstract=item.get("abstractText", "").strip(),
                     date=date,
                     authors=authors,
+                    doi=doi,
                 )
             )
     except Exception as e:
@@ -487,6 +496,7 @@ def fetch_openaire() -> list[Article]:
                     abstract=abstract,
                     date=date or _today_str(),
                     authors=authors,
+                    doi=doi,
                 )
             )
     except Exception as e:
@@ -543,5 +553,23 @@ def fetch_all() -> list[Article]:
     print(f"  → {len(openaire)} articles")
 
     all_articles = pubmed + ss + pa + diva + epmc + euctr + emcdda + dart + openaire
-    # Drop articles with no URL or title
-    return [a for a in all_articles if a.url and a.title]
+    all_articles = [a for a in all_articles if a.url and a.title]
+
+    # Deduplicate: DOI first (catches cross-source duplicates), then URL
+    seen_dois: set[str] = set()
+    seen_urls: set[str] = set()
+    deduped: list[Article] = []
+    for a in all_articles:
+        if a.doi:
+            if a.doi in seen_dois:
+                continue
+            seen_dois.add(a.doi)
+        if a.url in seen_urls:
+            continue
+        seen_urls.add(a.url)
+        deduped.append(a)
+
+    removed = len(all_articles) - len(deduped)
+    if removed:
+        print(f"  → dedup removed {removed} cross-source duplicates")
+    return deduped

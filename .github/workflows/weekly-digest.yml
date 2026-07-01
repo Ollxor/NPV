@@ -1,0 +1,39 @@
+name: NPV Weekly Digest
+
+on:
+  schedule:
+    - cron: '30 7 * * 1'  # Monday 07:30 UTC — after daily scan (06:00) and web feed (06:30)
+  workflow_dispatch:
+    inputs:
+      dry_run:
+        description: 'Dry run (do not post to Slack)'
+        required: false
+        default: 'false'
+        type: choice
+        options:
+          - 'false'
+          - 'true'
+
+jobs:
+  digest:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install anthropic requests
+
+      - name: Run weekly digest
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          SLACK_WEBHOOK_URL: ${{ secrets.SLACK_WEBHOOK_URL }}
+          DRY_RUN: ${{ github.event.inputs.dry_run || 'false' }}
+        run: python src/weekly_digest.py

@@ -26,51 +26,63 @@ def _post(payload: dict, dry_run: bool = False) -> None:
 def post_article(item: dict, dry_run: bool = False) -> None:
     article = item["article"]
     fb_post = item["fb_post"] or ""
+    notable = item.get("notable", False)
+    notable_reason = item.get("notable_reason") or ""
 
     authors_str = ""
     if article.authors:
-        authors_str = ", ".join(article.authors)
+        authors_str = ", ".join(article.authors[:3])
         if len(article.authors) > 3:
             authors_str += " m.fl."
 
     meta_parts = [p for p in [article.source, article.date, authors_str] if p]
     meta_line = " · ".join(meta_parts)
 
-    payload = {
-        "blocks": [
-            {
-                "type": "section",
-                "text": {
+    blocks = []
+
+    if notable:
+        blocks.append({
+            "type": "section",
+            "text": {
+                "type": "mrkdwn",
+                "text": f"⚡ *Anmärkningsvärt fynd* — {notable_reason}" if notable_reason else "⚡ *Anmärkningsvärt fynd*",
+            },
+        })
+
+    blocks += [
+        {
+            "type": "section",
+            "text": {
+                "type": "mrkdwn",
+                "text": f"*{article.title}*\n_{meta_line}_",
+            },
+        },
+        {
+            "type": "section",
+            "text": {
+                "type": "mrkdwn",
+                "text": f"*Föreslagen FB-text:*\n{fb_post}",
+            },
+        },
+        {
+            "type": "section",
+            "text": {
+                "type": "mrkdwn",
+                "text": f"<{article.url}|🔗 Öppna originalkällan>",
+            },
+        },
+        {
+            "type": "context",
+            "elements": [
+                {
                     "type": "mrkdwn",
-                    "text": f"*{article.title}*\n_{meta_line}_",
-                },
-            },
-            {
-                "type": "section",
-                "text": {
-                    "type": "mrkdwn",
-                    "text": f"*Föreslagen FB-text:*\n{fb_post}",
-                },
-            },
-            {
-                "type": "section",
-                "text": {
-                    "type": "mrkdwn",
-                    "text": f"<{article.url}|🔗 Öppna originalkällan>",
-                },
-            },
-            {
-                "type": "context",
-                "elements": [
-                    {
-                        "type": "mrkdwn",
-                        "text": "✅ publicerad · 👍 posta snart · 👎 ej relevant",
-                    }
-                ],
-            },
-        ]
-    }
-    _post(payload, dry_run=dry_run)
+                    "text": "✅ publicerad · 👍 posta snart · 👎 ej relevant",
+                }
+            ],
+        },
+    ]
+
+    _post({"blocks": blocks}, dry_run=dry_run)
 
 
 def post_summary(
@@ -79,17 +91,18 @@ def post_summary(
     skipped: int,
     dry_run: bool = False,
 ) -> None:
+    sources = "PubMed · Europe PMC · Semantic Scholar · EUCTR · EMCDDA · DART-Europe · OpenAIRE · Psychedelic Alpha · DiVA"
     if relevant > 0:
         text = (
             f"📰 *Dagens genomsökning klar*\n"
             f"Hittade {total} artiklar · {relevant} relevanta · {skipped} redan sedda\n"
-            f"Källor: PubMed, Semantic Scholar, Psychedelic Alpha, DiVA"
+            f"_{sources}_"
         )
     else:
         text = (
             f"📰 Dagens sökning klar — inga nya relevanta artiklar hittades.\n"
             f"Totalt granskade: {total} · Redan sedda: {skipped}\n"
-            f"Källor: PubMed, Semantic Scholar, Psychedelic Alpha, DiVA"
+            f"_{sources}_"
         )
 
     payload = {

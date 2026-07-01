@@ -1,0 +1,40 @@
+name: NPV Quarterly Trend Analysis
+
+on:
+  schedule:
+    # First Monday of January, April, July, October (days 1–7 of those months)
+    - cron: '0 8 1-7 1,4,7,10 1'
+  workflow_dispatch:
+    inputs:
+      dry_run:
+        description: 'Dry run (do not post to Slack)'
+        required: false
+        default: 'false'
+        type: choice
+        options:
+          - 'false'
+          - 'true'
+
+jobs:
+  trends:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install anthropic requests
+
+      - name: Run quarterly trend analysis
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          SLACK_WEBHOOK_URL: ${{ secrets.SLACK_WEBHOOK_URL }}
+          DRY_RUN: ${{ github.event.inputs.dry_run || 'false' }}
+        run: python src/quarterly_trends.py

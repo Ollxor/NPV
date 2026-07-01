@@ -23,6 +23,7 @@ _DATA_DIR = os.path.join(os.path.dirname(__file__), "..", "data")
 _DOCS_DATA_DIR = os.path.join(os.path.dirname(__file__), "..", "docs", "data")
 SEEN_WEB_FILE = os.path.join(_DATA_DIR, "seen_web.json")
 FEED_FILE = os.path.join(_DOCS_DATA_DIR, "feed.json")
+ARCHIVE_FILE = os.path.join(_DATA_DIR, "archive.json")
 
 # Summary languages: English (default) + Nordic and Baltic languages.
 LANGUAGES = {
@@ -51,12 +52,21 @@ anthropology of psychedelics.
 NOT relevant = blog posts, speculative pieces, product promotion, designer-drug \
 hype, or crime reporting without a scientific angle.
 
+Notable (notable=true) = ANY of the following:
+- Phase 2b/3 or pivotal clinical trial results published
+- FDA or EMA breakthrough designation, scheduling decision, or approval
+- First-in-human study for a new compound or route of administration
+- Published in Nature, Science, NEJM, Lancet, JAMA, Cell, or PNAS
+- National-level policy change (legalization or scheduling change)
+- Large RCT (n > 200) or landmark meta-analysis across multiple compounds
+
 Article:
 Title: {title}
 Source: {source}
 Abstract/summary: {abstract}
 
-Reply ONLY with JSON: {{"relevant": true/false, "reason": "short reason in English", "relevance_score": 1-5}}"""
+Reply ONLY with JSON:
+{{"relevant": true/false, "reason": "short reason in English", "relevance_score": 1-5, "notable": true/false, "notable_reason": "one sentence why (e.g. Phase 3 RCT in NEJM, n=233), or null"}}"""
 
 SUMMARY_PROMPT = """\
 You are the editor of a multilingual feed about psychedelic science run by NPV \
@@ -123,7 +133,7 @@ def filter_article(client: anthropic.Anthropic, article: Article) -> dict:
         return json.loads(raw)
     except Exception as e:
         print(f"  [filter] Error for '{article.title[:60]}': {e}")
-        return {"relevant": False, "reason": "Assessment error", "relevance_score": 1}
+        return {"relevant": False, "reason": "Assessment error", "relevance_score": 1, "notable": False, "notable_reason": None}
 
 
 def summarize(client: anthropic.Anthropic, article: Article) -> dict:
@@ -168,6 +178,37 @@ def _save_feed(feed: dict) -> None:
         json.dump(feed, f, indent=2, ensure_ascii=False)
 
 
+def _append_to_archive(new_items: list[dict]) -> None:
+    """Append new feed items to the growing archive (English summary only)."""
+    try:
+        with open(ARCHIVE_FILE, "r", encoding="utf-8") as f:
+            archive = json.load(f)
+    except (FileNotFoundError, json.JSONDecodeError):
+        archive = {"items": []}
+    existing_urls = {it["url"] for it in archive["items"]}
+    to_add = [
+        {
+            "title": it["title"],
+            "url": it["url"],
+            "source": it["source"],
+            "date": it["date"],
+            "authors": it.get("authors", []),
+            "doi": it.get("doi", ""),
+            "summary_en": (it.get("summaries") or {}).get("en", ""),
+            "notable": it.get("notable", False),
+            "notable_reason": it.get("notable_reason"),
+            "added_at": it["added_at"],
+        }
+        for it in new_items
+        if it["url"] not in existing_urls
+    ]
+    archive["items"] = to_add + archive["items"]  # newest first
+    os.makedirs(os.path.dirname(ARCHIVE_FILE), exist_ok=True)
+    with open(ARCHIVE_FILE, "w", encoding="utf-8") as f:
+        json.dump(archive, f, indent=2, ensure_ascii=False)
+    print(f"Archive: added {len(to_add)} items · total {len(archive['items'])}.")
+
+
 def main() -> None:
     dry_run = os.environ.get("DRY_RUN", "").lower() in ("1", "true", "yes")
     if dry_run:
@@ -196,7 +237,12 @@ def main() -> None:
         result = filter_article(client, article)
         print(f"    → relevant={result.get('relevant')}, score={result.get('relevance_score')}")
         if result.get("relevant"):
-            relevant.append({"article": article, "score": result.get("relevance_score", 3)})
+            relevant.append({
+                "article": article,
+                "score": result.get("relevance_score", 3),
+                "notable": result.get("notable", False),
+                "notable_reason": result.get("notable_reason") or None,
+            })
         if i < len(new_articles) - 1:
             time.sleep(0.5)
 
@@ -216,7 +262,11 @@ def main() -> None:
                 "url": article.url,
                 "source": article.source,
                 "date": article.date,
+                "authors": article.authors,
+                "doi": article.doi,
                 "summaries": summarize(client, article),
+                "notable": item["notable"],
+                "notable_reason": item["notable_reason"],
                 "added_at": now,
             }
         )
@@ -235,6 +285,7 @@ def main() -> None:
     _save_feed(feed)
     print(f"\nFeed now holds {len(feed['items'])} items.")
 
+    _append_to_archive(new_items)
     mark_seen([a.url for a in all_articles], path=SEEN_WEB_FILE)
     print(f"Marked {len(all_articles)} articles as seen.")
     print("\nDone.")

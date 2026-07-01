@@ -20,12 +20,21 @@ Relevant = peer-reviewed forskning ELLER trovärdig nyhetsartikel om: kliniska s
 
 INTE relevant = blogginlägg, spekulativa artiklar, produktreklam, kryptodroger, kriminalrapportering utan vetenskaplig vinkling.
 
+Anmärkningsvärt (notable=true) = NÅGOT av följande:
+- Fas 2b/3 eller pivotala kliniska studieresultat publicerade
+- FDA/EMA-beslut om genombrott, klassificering eller godkännande
+- Första human-studien för en ny substans eller applikationsväg
+- Publicerad i Nature, Science, NEJM, Lancet, JAMA, Cell eller PNAS
+- Nationell policyförändring (legalisering eller omklassificering)
+- Stor RCT (n > 200) eller en landsmark-metaanalys
+
 Artikel:
 Titel: {title}
 Källa: {source}
 Sammanfattning/abstract: {abstract}
 
-Svara ENBART med JSON: {{"relevant": true/false, "reason": "kort motivering på svenska", "relevance_score": 1-5}}"""
+Svara ENBART med JSON:
+{{"relevant": true/false, "reason": "kort motivering på svenska", "relevance_score": 1-5, "notable": true/false, "notable_reason": "en mening varför (t.ex. Fas 3 RCT i NEJM, n=233), eller null"}}"""
 
 FB_POST_PROMPT = """\
 Du är social media-redaktör för NPV (Nätverket för Psykedelisk Vetenskap).
@@ -61,7 +70,7 @@ def _truncate(text: str, max_chars: int = 1500) -> str:
 
 
 def filter_article(client: anthropic.Anthropic, article: Article) -> dict:
-    """Returns {"relevant": bool, "reason": str, "relevance_score": int}."""
+    """Returns {relevant, reason, relevance_score, notable, notable_reason}."""
     prompt = FILTER_PROMPT.format(
         title=article.title,
         source=article.source,
@@ -82,7 +91,7 @@ def filter_article(client: anthropic.Anthropic, article: Article) -> dict:
         return json.loads(raw)
     except Exception as e:
         print(f"  [filter] Error for '{article.title[:60]}': {e}")
-        return {"relevant": False, "reason": "Fel vid bedömning", "relevance_score": 1}
+        return {"relevant": False, "reason": "Fel vid bedömning", "relevance_score": 1, "notable": False, "notable_reason": None}
 
 
 def generate_fb_post(client: anthropic.Anthropic, article: Article) -> str:
@@ -125,6 +134,8 @@ def process_articles(articles: list[Article]) -> list[dict]:
                     "article": article,
                     "relevance_score": result.get("relevance_score", 3),
                     "reason": result.get("reason", ""),
+                    "notable": result.get("notable", False),
+                    "notable_reason": result.get("notable_reason") or None,
                     "fb_post": None,
                 }
             )

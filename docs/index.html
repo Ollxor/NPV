@@ -65,12 +65,21 @@
     .card h2 { margin: 0 0 .5rem; font-size: 1.12rem; line-height: 1.35; }
     .card h2 a { color: var(--text); text-decoration: none; }
     .card h2 a:hover { color: var(--accent); }
-    .source { font-size: .8rem; color: var(--accent-2); margin-bottom: .6rem; font-weight: 600; }
+    .source { font-size: .8rem; color: var(--accent-2); margin-bottom: .35rem; font-weight: 600; }
+    .authors { font-size: .8rem; color: var(--muted); margin-bottom: .5rem; }
+    .notable-badge { display: inline-block; background: rgba(181,140,255,.15); color: var(--accent); font-size: .75rem; font-weight: 700; padding: .15rem .5rem; border-radius: 4px; margin-bottom: .45rem; }
+    .notable-reason { font-size: .82rem; color: var(--muted); font-style: italic; margin-bottom: .45rem; }
+    .card-notable { border-color: var(--accent); }
     .summary { color: var(--text); font-size: .96rem; margin: 0; }
     .read { display: inline-block; margin-top: .85rem; font-size: .85rem; color: var(--accent); text-decoration: none; }
     .read:hover { text-decoration: underline; }
+    .filter-bar { display: flex; gap: .5rem; flex-wrap: wrap; margin-bottom: 1.25rem; }
+    .filter-chip { background: var(--card); border: 1px solid var(--border); border-radius: 20px; padding: .3rem .85rem; font-size: .82rem; color: var(--muted); cursor: pointer; transition: border-color .15s, color .15s; }
+    .filter-chip:hover { border-color: var(--accent); color: var(--text); }
+    .filter-chip.active { border-color: var(--accent); color: var(--accent); background: rgba(181,140,255,.1); }
     footer { text-align: center; padding: 2rem 1.25rem 3rem; color: var(--muted); font-size: .82rem; border-top: 1px solid var(--border); }
     footer a { color: var(--accent); text-decoration: none; }
+    footer p { margin: .4rem auto; max-width: 46rem; }
     .empty { text-align: center; color: var(--muted); padding: 3rem 1rem; }
     .disclaimer { font-style: italic; }
   </style>
@@ -86,8 +95,9 @@
     <p class="meta" id="meta">Loading…</p>
   </header>
 
-  <main id="feed">
-    <div class="empty">Loading the feed…</div>
+  <main>
+    <div class="filter-bar" id="filter-bar"></div>
+    <div id="feed"><div class="empty">Loading the feed…</div></div>
   </main>
 
   <footer>
@@ -123,6 +133,16 @@
       lt: { label: "Kalba", tagline: "Kasdienis automatiškai sudaromas naujų psichodelikų tyrimų ir naujienų srautas.", updated: "Paskutinį kartą atnaujinta", articles: "straipsniai", published: "Paskelbta", read: "Skaityti originalų šaltinį →", empty: "Srautas ruošiamas — užsukite po pirmojo paleidimo.", disclaimer: "Santraukas generuoja dirbtinis intelektas ir jose gali būti klaidų. Visada patikrinkite originalų šaltinį.", locale: "lt-LT" },
     };
 
+    // Source filter groups
+    const SOURCE_GROUPS = {
+      all: null,
+      academic: ["PubMed", "Europe PMC", "Semantic Scholar", "OpenAIRE", "DiVA", "DART-Europe"],
+      trials: ["EU Clinical Trials Register"],
+      news: ["EMCDDA", "Psychedelic Alpha"],
+    };
+    const FILTER_LABELS = { all: "All", academic: "Academic", trials: "Clinical Trials", news: "Policy & News" };
+    let currentFilter = "all";
+
     const DEFAULT_LANG = "en";
     let currentLang = localStorage.getItem("npv_feed_lang") || DEFAULT_LANG;
     if (!UI[currentLang]) currentLang = DEFAULT_LANG;
@@ -149,24 +169,58 @@
 
       const meta = document.getElementById("meta");
       const feed = document.getElementById("feed");
-      const items = feedData.items || [];
+      const allItems = feedData.items || [];
+
+      // Apply source filter
+      const allowedSources = SOURCE_GROUPS[currentFilter];
+      const items = allowedSources
+        ? allItems.filter(it => allowedSources.includes(it.source))
+        : allItems;
 
       meta.textContent = (feedData.generated_at ? t.updated + " " + fmtDate(feedData.generated_at, t.locale) + " · " : "") + items.length + " " + t.articles;
 
-      if (!items.length) {
+      if (!allItems.length) {
         feed.innerHTML = '<div class="empty">' + t.empty + "</div>";
         return;
       }
+      if (!items.length) {
+        feed.innerHTML = '<div class="empty">No articles from this source group yet.</div>';
+        return;
+      }
 
-      feed.innerHTML = items.map(it => `
-        <article class="card">
+      feed.innerHTML = items.map(it => {
+        const authorsHtml = it.authors && it.authors.length
+          ? `<div class="authors">${it.authors.slice(0, 3).join(", ")}${it.authors.length > 3 ? " et al." : ""}</div>`
+          : "";
+        const notableHtml = it.notable
+          ? `<div><span class="notable-badge">⚡ Notable</span>${it.notable_reason ? `<span class="notable-reason"> — ${it.notable_reason}</span>` : ""}</div>`
+          : "";
+        return `
+        <article class="card${it.notable ? " card-notable" : ""}">
           <div class="source">${it.source || ""}${it.date ? " · " + t.published + " " + fmtDate(it.date, t.locale) : ""}</div>
+          ${authorsHtml}
+          ${notableHtml}
           <h2><a href="${it.url}" target="_blank" rel="noopener">${it.title}</a></h2>
           <p class="summary">${summaryFor(it, currentLang)}</p>
           <a class="read" href="${it.url}" target="_blank" rel="noopener">${t.read}</a>
-        </article>
-      `).join("");
+        </article>`;
+      }).join("");
     }
+
+    // Build source filter chips
+    const filterBar = document.getElementById("filter-bar");
+    Object.keys(SOURCE_GROUPS).forEach(key => {
+      const chip = document.createElement("button");
+      chip.className = "filter-chip" + (key === "all" ? " active" : "");
+      chip.textContent = FILTER_LABELS[key];
+      chip.addEventListener("click", () => {
+        currentFilter = key;
+        filterBar.querySelectorAll(".filter-chip").forEach(c => c.classList.remove("active"));
+        chip.classList.add("active");
+        render();
+      });
+      filterBar.appendChild(chip);
+    });
 
     // Build the language menu
     const sel = document.getElementById("lang");

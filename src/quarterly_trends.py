@@ -4,7 +4,7 @@ import json
 import os
 import re
 from collections import Counter
-from datetime import datetime, timezone
+from datetime import datetime, timedelta, timezone
 
 import anthropic
 import requests
@@ -92,8 +92,13 @@ def main() -> None:
         notable_note = f" (varav {notable_n} anmärkningsvärda)" if notable_n else ""
         quarter_lines.append(f"  {label}: {len(q_items)} artiklar{notable_note}")
 
-    # Current quarter details
-    now_label = _quarter_label(datetime.now(timezone.utc).isoformat())
+    # Analyze the quarter that JUST ENDED, not the one that just started.
+    # This job is scheduled for the 1st of Jan/Apr/Jul/Oct — "today" is
+    # already the new quarter, so "yesterday" reliably lands in the
+    # completed quarter whether this runs on schedule or is triggered
+    # manually right at a quarter boundary (as happened 2026-07-01).
+    target_dt = datetime.now(timezone.utc) - timedelta(days=1)
+    now_label = _quarter_label(target_dt.isoformat())
     current_items = by_quarter.get(now_label, [])
 
     source_counts = Counter(it.get("source", "okänd") for it in current_items)

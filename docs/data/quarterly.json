@@ -1,1 +1,11 @@
-{"analyses": []}
+{
+  "analyses": [
+    {
+      "quarter": "2026-K2",
+      "text": "**Kvartalsanalys Q2 2026 – NPV**\n\n**1. Volymutveckling**\nKvartalet omfattar 59 artiklar, varav 4 anmärkningsvärda. PubMed dominerar (48), följt av Psychedelic Alpha (8) och Europe PMC (3). Volymen indikerar en stabil, mogen bevakningsnivå med tydlig tyngdpunkt i peer-reviewad litteratur.\n\n**2. Dominerande teman**\nKlinisk depressionsforskning växer markant, särskilt kring LSD och esketamin vid behandlingsresistent respektive egentlig depression. Policy- och lagstiftningsfrågor utgör ett andra starkt spår.\n\n**3. Kliniska studier**\nFältet rör sig tydligt mot sena kliniska faser. Flera fas 3-avläsningar signalerar att psykedelika närmar sig regulatoriskt godkännande – ett viktigt skifte från tidigare explorativa studier.\n\n**4. Anmärkningsvärda fynd**\nDefiniums positiva fas 3-resultat för LSD-kandidaten DT120 vid egentlig depression är kvartalets milstolpe. ESCAPE-TRD stärker evidensen för esketamin. På policysidan undertecknades 17 psykedelikarelaterade lagförslag.\n\n**5. Utblick**\nVi förutspår fortsatt tillväxt inom sen klinisk forskning och accelererande regulatorisk mognad. Policyreformer väntas driva ytterligare studievolym under kommande kvartal.",
+      "total_archive": 59,
+      "quarter_count": 59,
+      "generated_at": "2026-07-01T12:27:19.236953+00:00"
+    }
+  ]
+}

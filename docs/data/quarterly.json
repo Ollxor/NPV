@@ -1,1 +1,11 @@
-{"analyses": []}
+{
+  "analyses": [
+    {
+      "quarter": "2026-K3",
+      "text": "**Kvartalsanalys Q2 2026 – NPV**\n\n**1. Volymutveckling**\nKvartalet omfattar 59 registrerade artiklar, varav fyra initialt flaggades som anmärkningsvärda. Volymen ligger på en stabil, måttlig nivå. Utan jämförbara siffror från föregående kvartal bör trenden tolkas med försiktighet, men flödet indikerar ett fortsatt aktivt men inte accelererande forskningsläge inom psykedelika.\n\n**2. Dominerande teman**\nKällfördelning och temauppdelning saknas i underlaget för detta kvartal, vilket begränsar möjligheten att identifiera växande respektive avtagande ämnesområden. En förbättrad taggning av inkommande material rekommenderas för nästa period.\n\n**3. Kliniska studier**\nInga EUCTR-poster har fångats upp detta kvartal. Det går därför inte att bedöma utvecklingen i det kliniska forskningsröret. Detta kan spegla ett tillfälligt uppehåll i registreringar snarare än minskad aktivitet.\n\n**4. Anmärkningsvärda fynd**\nTrots initial flaggning finns inga bekräftade anmärkningsvärda fynd registrerade detta kvartal.\n\n**5. Utblick**\nLäget bedöms som stabilt. För att stärka framtida analyser bör datainsamlingen kring källor, teman och kliniska poster förbättras inför Q3.",
+      "total_archive": 59,
+      "quarter_count": 0,
+      "generated_at": "2026-07-01T10:23:35.022719+00:00"
+    }
+  ]
+}

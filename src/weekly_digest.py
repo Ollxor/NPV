@@ -2,7 +2,7 @@
 
 import json
 import os
-import time
+import re
 from datetime import datetime, timedelta, timezone
 
 import anthropic
@@ -32,6 +32,11 @@ Veckans artiklar:
 {articles}
 
 Svara ENBART med kröniketexten, inga rubriker eller JSON."""
+
+
+def _md_to_slack(text: str) -> str:
+    """Convert GitHub-style **bold** to Slack mrkdwn *bold*."""
+    return re.sub(r"\*\*(.+?)\*\*", r"*\1*", text)
 
 
 def main() -> None:
@@ -90,7 +95,7 @@ def main() -> None:
             },
             {
                 "type": "section",
-                "text": {"type": "mrkdwn", "text": digest},
+                "text": {"type": "mrkdwn", "text": _md_to_slack(digest)},
             },
             {
                 "type": "context",
@@ -104,9 +109,15 @@ def main() -> None:
         ]
     }
 
-    # Write to GitHub Pages
+    if dry_run:
+        print("[DRY RUN] Weekly digest (not written to disk, not posted):\n")
+        print(digest)
+        return
+
+    # Write to GitHub Pages — dedup by week so re-runs replace, not duplicate
+    week_of = datetime.now(timezone.utc).strftime("%Y-%m-%d")
     entry = {
-        "week_of": datetime.now(timezone.utc).strftime("%Y-%m-%d"),
+        "week_of": week_of,
         "text": digest,
         "article_count": len(week_items),
         "notable_count": notable_count,
@@ -117,16 +128,12 @@ def main() -> None:
             weekly_store = json.load(f)
     except (FileNotFoundError, json.JSONDecodeError):
         weekly_store = {"digests": []}
-    weekly_store["digests"] = [entry] + weekly_store["digests"][:51]  # keep 52 weeks
+    others = [d for d in weekly_store["digests"] if d.get("week_of") != week_of]
+    weekly_store["digests"] = ([entry] + others)[:52]  # keep 52 weeks
     os.makedirs(os.path.dirname(WEEKLY_FILE), exist_ok=True)
     with open(WEEKLY_FILE, "w", encoding="utf-8") as f:
         json.dump(weekly_store, f, indent=2, ensure_ascii=False)
     print("Weekly digest written to docs/data/weekly.json")
-
-    if dry_run:
-        print("[DRY RUN] Weekly digest:")
-        print(json.dumps(payload, ensure_ascii=False, indent=2))
-        return
 
     r = requests.post(webhook, json=payload, timeout=15)
     r.raise_for_status()

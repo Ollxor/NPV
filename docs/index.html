@@ -251,6 +251,15 @@
       t.addEventListener("click", () => switchTab(t.dataset.tab))
     );
 
+    // Escape HTML, then render **bold** and newlines. Order matters: escape
+    // first so any < > in the model text can't inject markup.
+    function digestHtml(s) {
+      return (s || "")
+        .replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;")
+        .replace(/\*\*(.+?)\*\*/g, "<strong>$1</strong>")
+        .replace(/\n/g, "<br>");
+    }
+
     function renderWeekly() {
       const el = document.getElementById("tab-weekly");
       const t = UI[currentLang];
@@ -263,7 +272,7 @@
       const notable = latest.notable_count ? ` · ${latest.notable_count} notable ⚡` : "";
       let html = `<div class="digest-card">
         <div class="digest-meta">Week of ${fmtDate(latest.week_of, t.locale)} · ${latest.article_count} articles${notable}</div>
-        <div class="digest-text">${latest.text.replace(/\n/g, "<br>")}</div>
+        <div class="digest-text">${digestHtml(latest.text)}</div>
       </div>`;
       if (past.length) {
         html += `<div class="archive-heading">Previous weeks</div>`;
@@ -271,7 +280,7 @@
           const n = d.notable_count ? ` · ${d.notable_count} ⚡` : "";
           return `<details class="past-entry">
             <summary>${fmtDate(d.week_of, t.locale)} — ${d.article_count} articles${n}</summary>
-            <div class="digest-text">${d.text.replace(/\n/g, "<br>")}</div>
+            <div class="digest-text">${digestHtml(d.text)}</div>
           </details>`;
         }).join("");
       }
@@ -289,13 +298,13 @@
       const [latest, ...past] = analyses;
       let html = `<div class="digest-card">
         <div class="digest-meta">${latest.quarter} · ${latest.quarter_count} articles this quarter · ${latest.total_archive} total in archive</div>
-        <div class="digest-text">${latest.text.replace(/\n/g, "<br>")}</div>
+        <div class="digest-text">${digestHtml(latest.text)}</div>
       </div>`;
       if (past.length) {
         html += `<div class="archive-heading">Previous quarters</div>`;
         html += past.map(q => `<details class="past-entry">
           <summary>${q.quarter} — ${q.quarter_count} articles</summary>
-          <div class="digest-text">${q.text.replace(/\n/g, "<br>")}</div>
+          <div class="digest-text">${digestHtml(q.text)}</div>
         </details>`).join("");
       }
       el.innerHTML = html;

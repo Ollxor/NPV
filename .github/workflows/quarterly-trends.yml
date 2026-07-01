@@ -2,8 +2,10 @@ name: NPV Quarterly Trend Analysis
 
 on:
   schedule:
-    # First Monday of January, April, July, October (days 1–7 of those months)
-    - cron: '0 8 1-7 1,4,7,10 1'
+    # 1st of January, April, July, October at 08:00 UTC (once per quarter).
+    # NB: cron treats day-of-month AND day-of-week as OR when both are set,
+    # so "first Monday" can't be expressed here — a fixed date is used instead.
+    - cron: '0 8 1 1,4,7,10 *'
   workflow_dispatch:
     inputs:
       dry_run:

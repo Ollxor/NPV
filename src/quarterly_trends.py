@@ -2,6 +2,7 @@
 
 import json
 import os
+import re
 from collections import Counter
 from datetime import datetime, timezone
 
@@ -48,6 +49,11 @@ def _quarter_label(iso_date: str) -> str:
         return f"{d.year}-K{q}"
     except Exception:
         return "okänt"
+
+
+def _md_to_slack(text: str) -> str:
+    """Convert GitHub-style **bold** to Slack mrkdwn *bold*."""
+    return re.sub(r"\*\*(.+?)\*\*", r"*\1*", text)
 
 
 def main() -> None:
@@ -129,7 +135,7 @@ def main() -> None:
             },
             {
                 "type": "section",
-                "text": {"type": "mrkdwn", "text": analysis},
+                "text": {"type": "mrkdwn", "text": _md_to_slack(analysis)},
             },
             {
                 "type": "context",
@@ -146,7 +152,12 @@ def main() -> None:
         ]
     }
 
-    # Write to GitHub Pages
+    if dry_run:
+        print("[DRY RUN] Quarterly analysis (not written to disk, not posted):\n")
+        print(analysis)
+        return
+
+    # Write to GitHub Pages — dedup by quarter so re-runs replace, not duplicate
     entry = {
         "quarter": now_label,
         "text": analysis,
@@ -159,16 +170,12 @@ def main() -> None:
             quarterly_store = json.load(f)
     except (FileNotFoundError, json.JSONDecodeError):
         quarterly_store = {"analyses": []}
-    quarterly_store["analyses"] = [entry] + quarterly_store["analyses"]
+    others = [a for a in quarterly_store["analyses"] if a.get("quarter") != now_label]
+    quarterly_store["analyses"] = [entry] + others
     os.makedirs(os.path.dirname(QUARTERLY_FILE), exist_ok=True)
     with open(QUARTERLY_FILE, "w", encoding="utf-8") as f:
         json.dump(quarterly_store, f, indent=2, ensure_ascii=False)
     print("Quarterly analysis written to docs/data/quarterly.json")
-
-    if dry_run:
-        print("[DRY RUN] Quarterly analysis:")
-        print(json.dumps(payload, ensure_ascii=False, indent=2))
-        return
 
     r = requests.post(webhook, json=payload, timeout=15)
     r.raise_for_status()

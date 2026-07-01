@@ -398,7 +398,7 @@ def main() -> None:
         raise RuntimeError("ANTHROPIC_API_KEY is not set")
 
     print(f"Backfill range: {BACKFILL_FROM} → {BACKFILL_TO}")
-    print(f"Model: {MODEL}  |  dry_run={dry_run}\n")
+    print(f"Filter: {FILTER_MODEL} · Summary: {SUMMARY_MODEL}  |  dry_run={dry_run}\n")
 
     print("── Fetching date-filtered sources ───────────────────────")
     print(f"[fetch] PubMed {BACKFILL_FROM}–{BACKFILL_TO}...")
@@ -423,7 +423,7 @@ def main() -> None:
         print(f"Capping to {MAX_FILTER_BATCH} articles for filtering.")
         all_articles = all_articles[:MAX_FILTER_BATCH]
 
-    print(f"\n── Filtering with {MODEL} ────────────────────────────────")
+    print(f"\n── Filtering with {FILTER_MODEL} ─────────────────────────")
     client = anthropic.Anthropic(api_key=api_key)
     relevant = _filter_batch(client, all_articles)
     notable_n = sum(1 for a in relevant if a.get("notable"))

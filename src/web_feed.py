@@ -250,6 +250,14 @@ def main() -> None:
     relevant = relevant[:MAX_PER_RUN]
     print(f"Relevant this run: {len(relevant)}")
 
+    if dry_run:
+        print("\n[DRY RUN] Would summarize and add these items (no API spend):")
+        for item in relevant:
+            a = item["article"]
+            flag = " ⚡" if item["notable"] else ""
+            print(f"  {a.source}{flag} — {a.title[:70]}")
+        return
+
     print("\n── Summarizing ──────────────────────────────────────────")
     now = datetime.now(timezone.utc).isoformat()
     new_items = []
@@ -271,11 +279,6 @@ def main() -> None:
             }
         )
         time.sleep(0.5)
-
-    if dry_run:
-        print("\n[DRY RUN] Would add these items:")
-        print(json.dumps(new_items, ensure_ascii=False, indent=2))
-        return
 
     # Merge into rolling feed (newest first, dedup by URL, capped)
     feed = _load_feed()

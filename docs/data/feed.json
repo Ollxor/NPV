@@ -1,6 +1,32 @@
 {
-  "generated_at": "2026-06-30T17:21:20.297388+00:00",
+  "generated_at": "2026-07-01T10:28:34.369735+00:00",
   "items": [
+    {
+      "title": "Study Protocol for \"Exploring the safety and therapeutic potential of psilocybin in the treatment of anorexia nervosa in adolescents and young adults\".",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42378255/",
+      "source": "PubMed",
+      "date": "2026",
+      "authors": [
+        "Sjöström David",
+        "Schau Rybäck Olea",
+        "Claesdotter Knutsson Emma"
+      ],
+      "doi": "10.1371/journal.pone.0352246",
+      "summaries": {
+        "en": "The psiAN study is a phase IIa randomized controlled trial investigating psilocybin-assisted therapy for treatment-resistant anorexia nervosa in adolescents and young adults (16-35 years). Participants receive either two 25 mg psilocybin doses with psychological support plus standard care, or standard care alone. Primary outcomes assess safety and tolerability; secondary outcomes measure eating disorder symptoms, relapse rates, mood, and well-being over 12 months. Neurobiological changes are explored via fMRI.",
+        "sv": "Studien psiAN är en fas IIa randomiserad kontrollerad studie av pslocybin-assisterad terapi för behandlingsresistent anorexia nervosa hos ungdomar och unga vuxna (16-35 år). Deltagare får antingen två doser à 25 mg pslocybin med psykologiskt stöd plus standardvård, eller endast standardvård. Primära målparametrar bedömer säkerhet och tolerabilitet; sekundära mäter ätstörningssymtom, återfallsfrekvens, humör och välbefinnande under 12 månader. Neurobiologiska förändringar utforskas via fMRI.",
+        "no": "Studien psiAN er en fase IIa randomisert kontrollert studie av pslocybin-assistert terapi for behandlingsresistent anoreksia nervosa hos ungdommer og unge voksne (16-35 år). Deltakere mottar enten to doser à 25 mg pslocybin med psykologisk støtte pluss standard behandling, eller kun standard behandling. Primære utfall vurderer sikkerhet og tolerabilitet; sekundære mål måler spiseforstyrrelses symptomer, tilbakefallsrate, humør og velvære over 12 måneder. Nevrobiologiske endringer utforskes via fMRI.",
+        "da": "Studien psiAN er et fase IIa randomiseret kontrolforsøg af psilocybin-assisteret terapi for behandlingsresistent anoreksia nervosa hos unge mennesker og unge voksne (16-35 år). Deltagere modtager enten to doser à 25 mg psilocybin med psykologisk støtte plus standardbehandling eller kun standardbehandling. Primære outcomes vurderer sikkerhed og tolerabilitet; sekundære outcomes måler spiseforstyrrelsessymptomer, tilbagefaldshyppighed, stemning og velvære over 12 måneder. Nevrobiologiske ændringer udforskes via fMRI.",
+        "fi": "PsiAN-tutkimus on vaiheen IIa satunnaistettu kontrolloitu tutkimus psylosiini-avusteisesta terapiasta hoitoresistentin anoreksia nervosan hoidossa nuorilla ja nuorilla aikuisilla (16-35 vuotta). Osallistujat saavat joko kaksi 25 mg:n psylosiini-annosta psykologisen tuen kera tavallisen hoidon lisäksi tai vain tavallisen hoidon. Ensisijaiset tulokset mittaavat turvallisuutta ja sietokykyä; toissijaiset mittaavat syömishäiriöoireita, uusiutumisastetta, mielialaa ja hyvinvointia 12 kuukauden aikana. Neurobiologisia muutoksia tutkitaan fMRI:llä.",
+        "is": "PsiAN-rannsóknin er 2. fasa af handahófi skipuðs samanburðarrannsóknar á psílocýbín-aðstoðuðri meðferð við meðferðarþolnu magra kvilli hjá unglingum og ungum fullorðnum (16-35 ára). Þátttakendur fá annað hvort tvær skammtir à 25 mg psílocýbín með sálfræðilegum stuðningi og venjulegri meðferð, eða aðeins venjulega meðferð. Aðalútkoma metur öryggi og þolgæði; aukaútkoma mæla eiturkvildingareinkenni, endurkoma, skap og vellíðan yfir 12 mánuði. Taugabreytingar eru rannsakaðar með fMRI.",
+        "et": "PsiAN-uuring on II faasi juhuslikustatud kontrollitud uuring, mis uurib psülotsübiini-abiga ravi raviresistentse anoreksia nervosa vastu noorte ja noorte täiskasvanute (16-35 aasta vanused) seas. Osalejad saavad kas kaks 25 mg psülotsübiini doosi psühholoogilise toega tavapärase ravi kõrvale või ainult tavapärast ravi. Esmased tulemused hindavad ohutust ja talutavust; teisesed tulemused mõõdavad söömishäirete sümptomeid, relapsside määra, meeleolu ja heaolu 12 kuul. Neurobioloogilisi muutusi uuritakse fMRI abil.",
+        "lv": "PsiAN pētījums ir II fāzes randomizēts kontrolēts pētījums, kurā pēta psīlocibīnu-palīdzētu terapiju ārstēšanas-rezistentai anoreksijas nervosai jauniešiem un jauniem pieaugušajiem (16-35 gadi). Dalībnieki saņem vai nu divas 25 mg psīlocibīna devas ar psiholoģisku atbalstu līdzās parastai ārstēšanai, vai tikai parasto ārstēšanu. Primārie iznākumi novērtē drošību un panesību; sekundārie mēra ēšanas traucējumu simptomus, relapsa biežumu, garastāvokli un labsajūtu 12 mēnešus. Neirobioloģiskās izmaiņas tiek pētītas ar fMRI.",
+        "lt": "PsiAN tyrimas yra II fazės atsitiktinių imčių kontroliuojamas tyrimas, kuriame tiriama psiliocibino pagalbinis gydymas gydymui atspariems anoreksijos nervozos atvejams jaunuoliams ir jauniems suaugusiesiems (16-35 metai). Dalyviai gauna arba dvi 25 mg psiliocibino dozes su psichologine pagalba papildomai įprastam gydymui, arba tik įprastą gydymą. Pirminiai rezultatai vertina saugumą ir toleravimą; antriniai rezultatai matuoja valgymo sutrikimo simptomus, relapsų dažnį, nuotaiką ir savijautą per 12 mėnesių. Neurobiologiniai pokyčiai tiriami naudojant fMRI."
+      },
+      "notable": false,
+      "notable_reasons": null,
+      "added_at": "2026-07-01T10:28:11.207636+00:00"
+    },
     {
       "title": "Esketamine multi-omic biomarker evaluation in major depressive disorder (EMBER-MDD): concept, objectives and methodologies of a non-clinical investigator-initiated study.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42377483/",

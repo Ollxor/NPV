@@ -1,0 +1,58 @@
+name: Backfill Archive (one-time)
+
+on:
+  workflow_dispatch:
+    inputs:
+      from_date:
+        description: 'Start date (YYYY-MM-DD, default Q2 start)'
+        required: false
+        default: '2026-04-01'
+      to_date:
+        description: 'End date (YYYY-MM-DD, default Q2 end)'
+        required: false
+        default: '2026-06-30'
+      dry_run:
+        description: 'Dry run (show what would be added, do not write)'
+        required: false
+        default: 'false'
+        type: choice
+        options:
+          - 'false'
+          - 'true'
+
+jobs:
+  backfill:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run backfill
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          BACKFILL_FROM: ${{ github.event.inputs.from_date }}
+          BACKFILL_TO: ${{ github.event.inputs.to_date }}
+          DRY_RUN: ${{ github.event.inputs.dry_run }}
+        run: python src/backfill_archive.py
+
+      - name: Commit archive
+        if: ${{ github.event.inputs.dry_run != 'true' }}
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "NPV Bot"
+          git add data/archive.json
+          git diff --staged --quiet || git commit -m "chore: backfill archive ${{ github.event.inputs.from_date }} – ${{ github.event.inputs.to_date }} [skip ci]"
+          git pull --rebase origin main
+          git push

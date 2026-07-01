@@ -8,7 +8,7 @@ from datetime import datetime, timedelta, timezone
 import anthropic
 import requests
 
-MODEL = "claude-haiku-4-5-20251001"
+MODEL = "claude-sonnet-4-6"
 _DATA_DIR = os.path.join(os.path.dirname(__file__), "..", "data")
 ARCHIVE_FILE = os.path.join(_DATA_DIR, "archive.json")
 

@@ -1,7 +1,72 @@
 {
-  "date": "2026-07-01",
-  "cached_at": "2026-07-01T09:41:34.981838+00:00",
+  "date": "2026-07-02",
+  "cached_at": "2026-07-02T08:52:46.558011+00:00",
   "articles": [
+    {
+      "title": "Psychedelics and autism spectrum disorder: Mechanistic insights, translational evidence and ethical challenges.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42385294/",
+      "source": "PubMed",
+      "abstract": "Autism spectrum disorder (ASD) is a heterogeneous neurodevelopmental condition characterized by persistent deficits in social communication and interaction, restricted and repetitive patterns of behavior, and sensory processing alterations, frequently accompanied by anxiety, emotional dysregulation, and other psychiatric comorbidities. Despite advances in behavioral and pharmacological interventions, effective treatments for core ASD symptoms remain limited. Psychedelic compounds have recently emerged as potential therapeutic agents in psychiatry because of their ability to modulate serotonergic and glutamatergic signaling, enhance neuroplasticity, reorganize large-scale brain networks, and influence neurobiological pathways implicated in ASD. In this narrative review, we examine the mechanistic rationale supporting psychedelic-based approaches in ASD, including 5-HT2A receptor activation, oxytocin-serotonin interactions, excitation-inhibition dynamics, functional connectivity, and glutamatergic modulation associated with ketamine and related compounds. We also summarize current clinical and preclinical evidence involving substances such as psilocybin, lysergic acid diethylamide, 3,4-methylenedioxymethamphetamine, and ketamine. Particular attention is given to the distinction between core ASD symptoms and associated symptom domains. Current evidence does not support the direct treatment of core social communication deficits or restricted and repetitive behaviors; however, psychedelics may hold greater potential for dimensions such as social anxiety, emotional dysregulation, cognitive rigidity, and co-occurring mood symptoms. Ethical, regulatory, and developmental safety considerations are also discussed, particularly regarding neurodivergent populations and the absence of robust pediatric evidence. Although direct clinical studies in ASD remain scarce, psychedelic-assisted interventions represent a promising translational avenue that warrants further rigorous investigation through carefully designed clinical trials.",
+      "date": "2026-Jun",
+      "authors": [
+        "Claudino Dos Santos Júlio César",
+        "Bolan Sofia Januário",
+        "Lodetti Guilherme"
+      ],
+      "doi": "10.1016/j.jpsychires.2026.06.035"
+    },
+    {
+      "title": "Major depressive disorder-alcohol use disorder comorbidity: diagnosis, mechanisms and treatment.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42384049/",
+      "source": "PubMed",
+      "abstract": "Alcohol Use Disorder (AUD) and Major Depressive Disorder (MDD) are two highly prevalent psychiatric disorders with a high comorbidity rate, which is significantly higher rate than other combinations of mental disorders and substance use disorders. This comorbidity not only imposes a substantial disease burden on individuals but also significantly complicates clinical management, leading to more severe functional impairment, reduced treatment adherence, and increased resistance to monotherapy. AUD diagnosis varies by diagnostic system: DSM-V integrates alcohol dependence and abuse into 11 criteria with severity grading, while ICD-11 retains two subtypes and shows higher diagnostic rates for dependence. MDD, the depressive subtype with the highest AUD comorbidity rate, must be distinguished from alcohol-induced depression. Underlying mechanisms of this comorbidity involve bidirectional pathways as well as core pathophysiological processes including abnormal reward sensitivity, neurotrophic-inflammatory imbalance, dysregulation of neurotransmitter systems and the hypothalamic-pituitary-adrenal (HPA) axis, gut-brain axis disruption, and shared risk factors. Therapeutic strategies encompass multiple modalities: pharmacological interventions include selective serotonin reuptake inhibitors (SSRIs) combined with AUD-targeted therapies, as well as emerging agents like extended-release trazodone and ketamine; psychosocial interventions are dominated by cognitive behavioral therapy (CBT); physical therapies such as repetitive transcranial magnetic stimulation (rTMS) and gut-brain axis-targeted therapies also show therapeutic potential. Notably, integrated treatment models that simultaneously address both disorders have been proven to outperform sequential or parallel approaches. This review systematically synthesizes the latest evidence on the diagnosis, underlying mechanisms, and therapeutic strategies of AUD-MDD comorbidity, aiming to provide evidence-based references for clinical management.",
+      "date": "2026-Jul",
+      "authors": [
+        "Fang Bojia",
+        "Hua Haoshui",
+        "Chen Wenqin"
+      ],
+      "doi": "10.1007/s00406-026-02307-w"
+    },
+    {
+      "title": "Patient-centred education for ketamine and esketamine therapies in mood disorders.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42382981/",
+      "source": "PubMed",
+      "abstract": "Treatment-resistant depression (TRD) and bipolar depression (TRBD) are severe, heterogeneous mood disorders associated with substantial functional impairment, elevated suicide risk and persistent unmet treatment needs. While pharmacological and psychological interventions continue to advance, many patients experience delayed, partial or unsustained benefit, underscoring the need for therapies with novel mechanisms and rapid onset of action. Ketamine and esketamine have emerged as distinctive treatments in this context, demonstrating rapid antidepressant and anti-suicidal effects, yet differing fundamentally from conventional antidepressants in their acute subjective effects, physiological profile, delivery models and misuse potential. This narrative review synthesizes evidence from regulatory guidance, clinical trials, observational studies and qualitative research to identify key patient information needs and propose practical psychoeducational strategies. Core elements include explanations of indications, mechanisms and treatment algorithms; guidance on visit preparation, scheduling and monitoring; management of acute adverse effects; counselling on suicidality and substance misuse; and tailored considerations for special populations, including older adults, women of reproductive potential and medically complex patients. Drawing on this synthesis, the review proposes a patient-centred framework for ketamine and esketamine psychoeducation, outlining key informational domains and practical tools that can be embedded within clinical services, and identifies priorities for future research aimed at optimizing patient experience and supporting the responsible integration of ketamine-based therapies into mood disorder care.",
+      "date": "2026",
+      "authors": [
+        "Kachlik Zofia",
+        "Cubała Wiesław Jerzy",
+        "Walaszek Michał"
+      ],
+      "doi": "10.1177/20451253261456405"
+    },
+    {
+      "title": "Modeled Long-Term Effects of Psilocybin on Dynamic Activity and Effective Connectivity of Fronto-Striatal-Thalamic Circuits.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42381187/",
+      "source": "PubMed",
+      "abstract": "Psilocybin has been shown to induce fast and sustained symptoms improvements across various psychiatric conditions, yet its long-term mechanisms of action are not fully understood. Initial evidence suggests that longitudinal functional and structural brain changes implicate fronto-striatal-thalamic (FST) circuitry, a broad system involved in goal-directed behavior and motivational states. Here, we performed secondary analyses and applied computational modeling to resting-state fMRI data from a within-subject longitudinal psilocybin trial in psychedelic-naïve healthy volunteers. We first showed that dynamic FST activity increased 4 weeks after a full dose of psilocybin. We then proceeded to mechanistically account for these changes by providing tentative model-based support that reductions in the structure-function coupling contribute to increased dynamic FST activity postpsilocybin. Finally, we used computational approaches to show that psilocybin induces longitudinal increases in bottom-up and reduced top-down modulation of FST circuits. We then used publicly available receptor maps to show that cortical reductions in top-down modulation are linked to regional 5-HT2A receptor availability, while increased information outflow via subcortical and limbic regions relates to local D2 receptor availability. Together, these findings suggest that increased FST flexibility weeks after a high dose of psilocybin is linked to serotonergic-mediated decreases in top-down information flow and dopaminergic-mediated increases in bottom-up information flow. This long-term functional re-organization of FST circuits may represent a common mechanism contributing to the potential clinical efficacy of psilocybin across various neuropsychiatric disorders including substance abuse, major depression, and anorexia nervosa.",
+      "date": "2026-Jul",
+      "authors": [
+        "Pasquini Lorenzo",
+        "Vohryzek Jakub",
+        "Escrichs Anira"
+      ],
+      "doi": "10.1002/hbm.70596"
+    },
+    {
+      "title": "Investigating the impact of serotonergic psychedelic drugs, MDMA and ketamine on social cognition in psychiatric disorders: A scoping review.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42380668/",
+      "source": "PubMed",
+      "abstract": "Interest in psychedelic drugs has increased rapidly because of their potential therapeutic role in psychiatric disorders. Impairments in the sociocognitive skills needed to build and maintain social relationships are prominent features of many psychiatric and neurodevelopmental disorders. Emerging evidence suggests that compounds such as 3,4-methylenedioxymethamphetamine (MDMA), lysergic acid diethylamide (LSD), and psilocybin may influence these impairments. This review aimed to determine whether psychedelic drugs may modulate social cognition in individuals with psychiatric or neurodevelopmental disorders associated with cognitive impairment. A search of the MEDLINE, PsycINFO, EMBASE, and Scopus databases was conducted. Twenty studies were identified that evaluated the effects of ketamine, MDMA, psilocybin, LSD, and ayahuasca in depressive disorders, anxiety disorders, autism spectrum disorder (ASD), and post-traumatic stress disorder (PTSD). Findings included neural activation patterns suggesting that ketamine and psilocybin may modulate processes relevant to social perception, particularly facial emotion processing, in depressive disorders. Positive findings were also reported for MDMA in participants with PTSD, including improvements in self-reported psychosocial functioning, self-awareness, and self-compassion. Current evidence suggests that psychedelic drugs may modulate processes relevant to social cognition in psychiatric disorders, although direct evidence of improved social-cognitive functioning remains limited. Not applicable.",
+      "date": "2026-Jul",
+      "authors": [
+        "Smith Sarah Ann",
+        "Mohammad Haseeb",
+        "Lee Lik Hang N"
+      ],
+      "doi": "10.1007/s00213-026-07110-y"
+    },
     {
       "title": "Study Protocol for \"Exploring the safety and therapeutic potential of psilocybin in the treatment of anorexia nervosa in adolescents and young adults\".",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42378255/",
@@ -194,69 +259,6 @@
         "Ross Stephen"
       ],
       "doi": "10.1177/02698811261456191"
-    },
-    {
-      "title": "Multi-metric evaluations of acute psychedelic effects on fMRI brain entropy.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42343098/",
-      "source": "PubMed",
-      "abstract": "A prominent theory of psychedelics is that they increase brain entropy. Thirteen studies have evaluated psychedelic effects on fMRI brain entropy, each applying a distinct measure. Here we evaluated these metrics in an independent 28-participant healthy cohort with 121 pre- and post-psilocybin fMRI scans. We assessed relations between brain entropy and objective and subjective psychedelic drug effects using linear mixed-effects models. All metrics were evaluated using two parcellation strategies and 7 denoising pipelines. We observed consistent significant positive associations for Shannon entropy of the spatial eigendistribution of the time by voxel matrix, path-length, instantaneous correlations, brain-state switching, and sample entropy at short time-scales. We consistently did not observe significant effects for 8 of 14 entropy metrics and observe inconsistent positive effects for Lempel-Ziv complexity of the BOLD signal. Brain entropy quantifications showed limited inter-measure correlations. Our observations support a nuanced acute psychedelic effect on brain entropy, empirically demonstrating that these metrics do not reflect a singular construct.",
-      "date": "2026-Jun",
-      "authors": [
-        "McCulloch Drummond E-Wen",
-        "Olsen Anders Stevnhoved",
-        "Ozenne Brice"
-      ],
-      "doi": "10.1038/s41467-026-74215-5"
-    },
-    {
-      "title": "Mechanistic insights toward dissociating therapeutic from psychedelic effects: bridging the gap between psychedelic research and mental health care.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42342649/",
-      "source": "PubMed",
-      "abstract": "Clinical trials investigating psychedelic compounds for depression and anxiety-related disorders are yielding promising preliminary results. Psychedelics produce profound alterations in brain function-such as suppression of the default mode network and thalamocortical dysregulation-leading to intense subjective experiences including ego dissolution and mystical-type states.While often described as meaningful or therapeutic, these effects can also be unpredictable or distressing. Because of these effects, which require labor-intensive, potentially cost-challenging preparation, administration, integration sessions, and exclude individuals with psychiatric vulnerabilities (e.g., bipolar disorder, borderline personality disorder, schizophrenia), questions remain about their real-world scalability. Consequently, there is growing interest in the possibility of dissociating the therapeutic benefits of psychedelics from their consciousness-altering effects.In this perspective, we examine emerging clinical and preclinical evidence investigating this scientifically timely and pressing question. Pharmacological strategies such as serotonin 2A receptor (5-HT",
-      "date": "2026-Jun",
-      "authors": [
-        "Pettorruso Mauro",
-        "d'Andrea Giacomo",
-        "Inserra Antonio"
-      ],
-      "doi": "10.1038/s41398-026-04203-2"
-    },
-    {
-      "title": "The Role of Monoacylglycerol Lipase (MAGL) in Substance Use: A Systematic Review of Preclinical Studies.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42342190/",
-      "source": "PubMed",
-      "abstract": "Monoacylglycerol lipase (MAGL) is the primary enzyme responsible for the hydrolysis of 2-arachidonoylglycerol (2-AG), a key regulator of endocannabinoid system tone, thereby influencing synaptic function and neuroinflammation. These processes are central to the neurobiology of substance use disorders (SUDs), yet the contribution of MAGL to addiction remains fragmented across studies. With growing interest in MAGL as a therapeutic and imaging target, a comprehensive synthesis is timely. This systematic review aimed to evaluate whether exposure to substances of abuse alters MAGL expression or activity, and whether manipulating MAGL function affects SUD-relevant outcomes. Following the PRISMA 2020 guidelines, we screened preclinical studies that assessed MAGL directly in the context of substance exposure. A total of 42 studies met the inclusion criteria. Chronic substance exposure led to modest, region-specific changes in MAGL protein expression. In the hippocampus, alcohol increased MAGL levels. In the striatum, levels were largely unchanged across substances. In the prefrontal cortex, changes were only seen after repeated stimulant exposure. Findings for opioids and ketamine were mixed and inconsistent across regions. MAGL inhibition consistently reduced withdrawal-like behaviors across cannabis, opioid, and nicotine models, but effects on reward-related behaviors were more variable - reducing opioid-related reward while showing less consistent effects in other models. Collectively, these findings from preclinical models of SUDs suggest a more robust role for MAGL in withdrawal-like-states than in reward. They highlight the need to better understand the dynamic endocannabinoid adaptations, including cannabinoid receptor function and 2-AG signaling, that shape addiction-related behaviors.",
-      "date": "2026-Jun",
-      "authors": [
-        "Jebanesan Bertina",
-        "Brouillette Khadija",
-        "Browne Caleb J"
-      ],
-      "doi": "10.1016/j.biopsych.2026.06.011"
-    },
-    {
-      "title": "Oral Ketamine for Treatment-Resistant Depression-Not Yet Time?",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42340727/",
-      "source": "PubMed",
-      "abstract": "",
-      "date": "2026-Jun",
-      "authors": [
-        "Cusin Cristina"
-      ],
-      "doi": "10.1001/jamanetworkopen.2026.19140"
-    },
-    {
-      "title": "Oral Prolonged-Release Ketamine for Treatment-Resistant Depression: Two Randomized Clinical Trials.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42340723/",
-      "source": "PubMed",
-      "abstract": "Ketamine exerts rapid antidepressant effects. However, currently available ketamine-based treatments are associated with dissociative and cardiovascular adverse effects. To evaluate the antidepressant efficacy and tolerability of KET01, a novel, oral, prolonged-release racemic ketamine tablet formulation. KET01-03 was an active-comparator, double-blind, double-dummy, crossover phase 1 randomized clinical trial (RCT) conducted among healthy adult male volunteers (aged ≥18 years) between July and August 2023 at a single trial site in Germany. KET01-02 was a placebo-controlled, double-blind phase 2 RCT conducted between May 2022 and May 2023 among adult outpatients (aged ≥18 years) with treatment-resistant depression across 29 trial sites in the Czech Republic, Germany, and Poland. KET01-02 data were analyzed from May to October 2023 and KET01-03 data from August to October 2024. KET01-03 investigated a single dose of KET01 (240 mg) vs intranasal esketamine (84 mg), and KET01-02 evaluated KET01 dosages of 120 or 240 mg/d (adjunctive to ongoing standard therapy) against placebo for 3 weeks. The primary end points were the difference in mean maximum change in Clinician-Administered Dissociative States Scale (CADSS) score between KET01 and intranasal esketamine within the first 24 hours in KET01-03 and the least squares (LS) mean change in Montgomery-Åsberg Depression Rating Scale (MADRS) score from baseline to day 21 for 240 mg/d of KET01 vs placebo in KET01-02. KET01-03 randomized 26 males (median age, 32 years [range, 21-45 years]), and KET01-02 randomized 122 outpatients with treatment-resistant depression (72 [59.0%] female; median age, 41 years [range, 19-65 years]). In KET01-03, intranasal esketamine but not KET01 induced significant dissociation within 24 hours after dosing (mean [SD] maximum change in CADSS score, 29.6 [12.5] points vs 0.7 [1.7] points; P < .001). The maximum plasma concentration was lower for KET01 (39.1 ng/mL) than esketamine (104.1 ng/mL); conversely, exposure to metabolites was higher for KET01 (eg, area under the curve [AUC] from baseline to last measurement for norketamine was 3.5 µg × h/mL) than esketamine (AUC for [S]-norketamine, 1.4 µg × h/mL). Pulse and blood pressure did not change markedly in the KET01 group in both trials, in contrast to rapid increases after intranasal esketamine in KET01-03. In KET01-02, the primary efficacy end point at day 21 was not met: LS mean MADRS score difference for 240 mg/d of KET01 vs placebo was -1.82 points (95% CI, -6.21 to 2.57 points; P = .41). However, a reduction in MADRS scores was observed 7 hours after administering the first 240 mg dose of KET01, with an LS mean difference vs placebo at day 4 (-3.66 [95% CI, -6.74 to -0.59] points; nominal P = .02) and day 7 (-3.95 [95% CI, -7.75 to -0.15] points; nominal P = .04). During follow-up, the LS mean MADRS point difference vs placebo at 4 weeks was -3.35 (95% CI, -7.62 to 0.93; nominal P = .13). The antidepressant properties and tolerability profile of KET01 in these RCTs, including minimal dissociation and cardiovascular effects, support further development of oral KET01 formulation for at-home administration. EU Clinical Trials Register Identifiers: 2023-503971-45-00 and 2021-004927-34.",
-      "date": "2026-Jun",
-      "authors": [
-        "Walter Martin",
-        "Zu Eulenburg Christine",
-        "Damyanova Ani"
-      ],
-      "doi": "10.1001/jamanetworkopen.2026.19121"
     },
     {
       "title": "Pα+ Psychedelic Bulletin #226: The Ethics of Psilocybin for Advanced Alzheimer’s; Veterans’ Views on Psychedelics",
@@ -570,7 +572,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2018-004480-31/CZ",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-07-01",
+      "date": "2026-07-02",
       "authors": [],
       "doi": ""
     },
@@ -579,7 +581,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2020-005037-32/CZ",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-07-01",
+      "date": "2026-07-02",
       "authors": [],
       "doi": ""
     },
@@ -588,7 +590,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2021-002909-10/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-07-01",
+      "date": "2026-07-02",
       "authors": [],
       "doi": ""
     },
@@ -597,7 +599,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2015-000550-37/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-07-01",
+      "date": "2026-07-02",
       "authors": [],
       "doi": ""
     },
@@ -606,7 +608,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2021-000041-40/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-07-01",
+      "date": "2026-07-02",
       "authors": [],
       "doi": ""
     },
@@ -615,7 +617,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2020-000829-55/DK",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-07-01",
+      "date": "2026-07-02",
       "authors": [],
       "doi": ""
     },
@@ -624,7 +626,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2020-002790-94/SE",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-07-01",
+      "date": "2026-07-02",
       "authors": [],
       "doi": ""
     },
@@ -633,7 +635,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2021-006200-33/FI",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-07-01",
+      "date": "2026-07-02",
       "authors": [],
       "doi": ""
     },
@@ -642,7 +644,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2019-004812-73/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-07-01",
+      "date": "2026-07-02",
       "authors": [],
       "doi": ""
     },
@@ -651,7 +653,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2022-002369-14/BE",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-07-01",
+      "date": "2026-07-02",
       "authors": [],
       "doi": ""
     }

@@ -1,6 +1,86 @@
 {
   "items": [
     {
+      "title": "Psychedelics and autism spectrum disorder: Mechanistic insights, translational evidence and ethical challenges.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42385294/",
+      "source": "PubMed",
+      "date": "2026-Jun",
+      "authors": [
+        "Claudino Dos Santos Júlio César",
+        "Bolan Sofia Januário",
+        "Lodetti Guilherme"
+      ],
+      "doi": "10.1016/j.jpsychires.2026.06.035",
+      "summary_en": "A narrative review examining psychedelics' potential in autism spectrum disorder treatment. While mechanistic evidence supports effects on serotonergic and glutamatergic signaling, neuroplasticity, and brain network reorganization, current clinical and preclinical data do not support direct treatment of core social communication deficits or repetitive behaviors. Psychedelics may benefit associated symptoms like anxiety and emotional dysregulation.",
+      "notable": false,
+      "notable_reason": null,
+      "added_at": "2026-07-02T09:41:47.101119+00:00"
+    },
+    {
+      "title": "Patient-centred education for ketamine and esketamine therapies in mood disorders.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42382981/",
+      "source": "PubMed",
+      "date": "2026",
+      "authors": [
+        "Kachlik Zofia",
+        "Cubała Wiesław Jerzy",
+        "Walaszek Michał"
+      ],
+      "doi": "10.1177/20451253261456405",
+      "summary_en": "Narrative review synthesizing evidence on patient education for ketamine and esketamine in treatment-resistant depression and bipolar depression. Identifies key information needs including indications, mechanisms, visit preparation, adverse effect management, and suicidality counselling. Proposes patient-centred psychoeducational framework addressing special populations.",
+      "notable": false,
+      "notable_reason": null,
+      "added_at": "2026-07-02T09:41:47.101119+00:00"
+    },
+    {
+      "title": "Modeled Long-Term Effects of Psilocybin on Dynamic Activity and Effective Connectivity of Fronto-Striatal-Thalamic Circuits.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42381187/",
+      "source": "PubMed",
+      "date": "2026-Jul",
+      "authors": [
+        "Pasquini Lorenzo",
+        "Vohryzek Jakub",
+        "Escrichs Anira"
+      ],
+      "doi": "10.1002/hbm.70596",
+      "summary_en": "Secondary fMRI analysis of psilocybin's long-term effects in healthy volunteers shows increased dynamic activity in fronto-striatal-thalamic circuits four weeks post-dose. Computational modeling suggests this involves reduced structure-function coupling and altered top-down/bottom-up modulation, linked to serotonergic and dopaminergic receptor availability. Findings support mechanistic understanding of psilocybin's sustained therapeutic effects.",
+      "notable": false,
+      "notable_reason": null,
+      "added_at": "2026-07-02T09:41:47.101119+00:00"
+    },
+    {
+      "title": "Investigating the impact of serotonergic psychedelic drugs, MDMA and ketamine on social cognition in psychiatric disorders: A scoping review.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42380668/",
+      "source": "PubMed",
+      "date": "2026-Jul",
+      "authors": [
+        "Smith Sarah Ann",
+        "Mohammad Haseeb",
+        "Lee Lik Hang N"
+      ],
+      "doi": "10.1007/s00213-026-07110-y",
+      "summary_en": "Scoping review of 20 studies examining effects of ketamine, MDMA, psilocybin, LSD, and ayahuasca on social cognition in psychiatric disorders. Evidence suggests ketamine and psilocybin may modulate facial emotion processing in depression, while MDMA showed improvements in self-awareness and psychosocial functioning in PTSD. Direct evidence of clinical benefit remains limited.",
+      "notable": false,
+      "notable_reason": null,
+      "added_at": "2026-07-02T09:41:47.101119+00:00"
+    },
+    {
+      "title": "Major depressive disorder-alcohol use disorder comorbidity: diagnosis, mechanisms and treatment.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42384049/",
+      "source": "PubMed",
+      "date": "2026-Jul",
+      "authors": [
+        "Fang Bojia",
+        "Hua Haoshui",
+        "Chen Wenqin"
+      ],
+      "doi": "10.1007/s00406-026-02307-w",
+      "summary_en": "This review examines comorbid alcohol use disorder (AUD) and major depressive disorder (MDD), which occur together more frequently than other psychiatric-substance disorder combinations. Diagnostic criteria differ between DSM-5 and ICD-11. Underlying mechanisms include dysregulated reward processing, neuroinflammation, neurotransmitter imbalance, HPA axis dysfunction, and gut-brain axis disruption. Treatment approaches combine SSRIs with AUD-specific therapies, emerging agents like ketamine, and psychosocial interventions including CBT.",
+      "notable": false,
+      "notable_reason": null,
+      "added_at": "2026-07-02T09:41:47.101119+00:00"
+    },
+    {
       "title": "Study Protocol for \"Exploring the safety and therapeutic potential of psilocybin in the treatment of anorexia nervosa in adolescents and young adults\".",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42378255/",
       "source": "PubMed",

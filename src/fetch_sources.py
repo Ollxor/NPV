@@ -10,6 +10,7 @@ from datetime import datetime
 import feedparser
 import requests
 from bs4 import BeautifulSoup
+from dateutil import parser as date_parser
 
 
 HEADERS = {
@@ -88,6 +89,30 @@ class Article:
 
 def _today_str() -> str:
     return datetime.utcnow().strftime("%Y-%m-%d")
+
+
+def _entry_date(entry) -> str:
+    """Robustly extract an ISO date (YYYY-MM-DD) from a feedparser entry.
+
+    feedparser normalizes many source formats (RFC 822, ISO, etc.) into
+    *_parsed time.struct_time fields — use those instead of slicing the
+    raw string, which mangles non-ISO formats like "Mon, 29 Jun 2026 ..."
+    into garbage such as "Mon, 29 Ju".
+    """
+    for key in ("published_parsed", "updated_parsed"):
+        struct = entry.get(key)
+        if struct:
+            try:
+                return time.strftime("%Y-%m-%d", struct)
+            except (TypeError, ValueError, OverflowError):
+                pass
+    raw = entry.get("published") or entry.get("updated") or ""
+    if raw:
+        try:
+            return date_parser.parse(raw).strftime("%Y-%m-%d")
+        except (ValueError, TypeError, OverflowError):
+            pass
+    return _today_str()
 
 
 # ── Same-day fetch cache ────────────────────────────────────────────────────
@@ -248,7 +273,7 @@ def fetch_psychedelic_alpha() -> list[Article]:
                         abstract=BeautifulSoup(
                             entry.get("summary", ""), "lxml"
                         ).get_text()[:500],
-                        date=entry.get("published", _today_str())[:10],
+                        date=_entry_date(entry),
                     )
                 )
             return articles
@@ -301,7 +326,7 @@ def fetch_diva() -> list[Article]:
                     abstract=BeautifulSoup(
                         entry.get("summary", ""), "lxml"
                     ).get_text()[:500],
-                    date=entry.get("published", _today_str())[:10],
+                    date=_entry_date(entry),
                 )
             )
     except Exception as e:
@@ -413,7 +438,7 @@ def fetch_emcdda() -> list[Article]:
                         abstract=BeautifulSoup(
                             entry.get("summary", ""), "lxml"
                         ).get_text()[:500],
-                        date=entry.get("published", _today_str())[:10],
+                        date=_entry_date(entry),
                     )
                 )
         except Exception as e:

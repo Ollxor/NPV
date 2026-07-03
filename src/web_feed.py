@@ -11,6 +11,7 @@ import time
 from datetime import datetime, timezone
 
 import anthropic
+from dateutil import parser as date_parser
 
 from fetch_sources import Article, fetch_all
 from seen_articles import is_seen, mark_seen
@@ -196,6 +197,31 @@ def translate_reason(client: anthropic.Anthropic, reason: str) -> dict:
         return {code: reason for code in LANGUAGES}
 
 
+_EPOCH = datetime(1970, 1, 1, tzinfo=timezone.utc)
+
+
+def _publication_date(item: dict) -> datetime:
+    """Parse an item's own publication date for sorting the feed.
+
+    Source dates vary wildly in granularity — "2026-06-01" (Europe PMC),
+    "2026-Jun" or bare "2026" (PubMed) — so missing month/day default to
+    the 1st, matching how the page itself displays these dates. Sorting
+    by relevance score (the previous behavior) let a highly-relevant old
+    paper land above a less-relevant recent one; this sorts strictly by
+    the article's own date, newest first.
+    """
+    raw = item.get("date", "")
+    if not raw:
+        return _EPOCH
+    try:
+        d = date_parser.parse(raw, default=_EPOCH)
+        if d.tzinfo is None:
+            d = d.replace(tzinfo=timezone.utc)
+        return d
+    except (ValueError, TypeError, OverflowError):
+        return _EPOCH
+
+
 def _load_feed() -> dict:
     try:
         with open(FEED_FILE, "r", encoding="utf-8") as f:
@@ -321,6 +347,7 @@ def main() -> None:
     feed = _load_feed()
     existing_urls = {it["url"] for it in feed["items"]}
     merged = [it for it in new_items if it["url"] not in existing_urls] + feed["items"]
+    merged.sort(key=_publication_date, reverse=True)
     feed["items"] = merged[:MAX_FEED_ITEMS]
     _save_feed(feed)
     print(f"\nFeed now holds {len(feed['items'])} items.")

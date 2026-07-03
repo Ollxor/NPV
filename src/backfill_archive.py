@@ -16,6 +16,8 @@ import feedparser
 import requests
 from bs4 import BeautifulSoup
 
+from fetch_sources import _entry_date
+
 # Default range: Q2 of current year  (override via env)
 _YEAR = datetime.utcnow().year
 BACKFILL_FROM = os.environ.get("BACKFILL_FROM", f"{_YEAR}-04-01")
@@ -223,7 +225,7 @@ def _fetch_rolling_sources() -> list[dict]:
                 "url": entry.get("link",""),
                 "source": "Psychedelic Alpha",
                 "abstract": BeautifulSoup(entry.get("summary",""),"lxml").get_text()[:500],
-                "date": entry.get("published","")[:10],
+                "date": _entry_date(entry),
                 "authors": [], "doi": "",
             })
     except Exception as e:
@@ -246,7 +248,7 @@ def _fetch_rolling_sources() -> list[dict]:
                     "url": entry.get("link",""),
                     "source": "EMCDDA",
                     "abstract": BeautifulSoup(entry.get("summary",""),"lxml").get_text()[:500],
-                    "date": entry.get("published","")[:10],
+                    "date": _entry_date(entry),
                     "authors": [], "doi": "",
                 })
         except Exception as e:

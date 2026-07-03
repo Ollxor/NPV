@@ -3,9 +3,9 @@
 import os
 import sys
 
-from fetch_sources import fetch_all
+from fetch_sources import check_source_health, fetch_all
 from filter_and_summarize import process_articles
-from post_to_slack import post_article, post_error, post_summary
+from post_to_slack import post_article, post_error, post_source_health, post_summary
 from seen_articles import is_seen, mark_seen
 
 
@@ -26,6 +26,12 @@ def main() -> None:
         sys.exit(1)
 
     print(f"Totalt hämtade: {len(all_articles)}")
+
+    # 1b. Source health — alert once if a source has newly gone dark
+    unhealthy = check_source_health()
+    if unhealthy:
+        print(f"⚠️ Källor som slutat fungera: {[s['source'] for s in unhealthy]}")
+        post_source_health(unhealthy, dry_run=dry_run)
 
     # 2. Deduplication
     new_articles = [a for a in all_articles if not is_seen(a.url)]

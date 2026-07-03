@@ -231,29 +231,6 @@ def _fetch_rolling_sources() -> list[dict]:
     except Exception as e:
         print(f"[Psychedelic Alpha backfill] Error: {e}")
 
-    time.sleep(1)
-
-    # EMCDDA publications RSS
-    for feed_url in [
-        "https://www.emcdda.europa.eu/publications/rss_en",
-        "https://www.emcdda.europa.eu/news/rss_en",
-    ]:
-        try:
-            feed = feedparser.parse(
-                feed_url, request_headers={"User-Agent": HEADERS["User-Agent"]}
-            )
-            for entry in feed.entries[:8]:
-                articles.append({
-                    "title": entry.get("title","").strip(),
-                    "url": entry.get("link",""),
-                    "source": "EMCDDA",
-                    "abstract": BeautifulSoup(entry.get("summary",""),"lxml").get_text()[:500],
-                    "date": _entry_date(entry),
-                    "authors": [], "doi": "",
-                })
-        except Exception as e:
-            print(f"[EMCDDA backfill] Error: {e}")
-
     return articles
 
 

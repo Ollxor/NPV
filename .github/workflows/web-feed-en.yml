@@ -42,7 +42,7 @@ jobs:
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "NPV Bot"
-          git add docs/data/feed.json data/seen_web.json data/archive.json data/fetch_cache.json
+          git add docs/data/feed.json data/seen_web.json data/archive.json data/fetch_cache.json data/source_health.json
           git diff --staged --quiet || git commit -m "chore: update English web feed [skip ci]"
           git pull --rebase origin main
           git push

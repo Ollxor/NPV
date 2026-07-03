@@ -1,13 +1,13 @@
 # NPV Omvärldsbevakning
 
-Automatiserad bevakning av psykedelisk forskning och nyheter för [Nätverket för Psykedelisk Vetenskap](https://npv.se). Systemet hämtar dagligen nya artiklar från nio källor (Norden till EU-nivå), filtrerar och sammanfattar dem med Claude, och levererar resultatet på två spår:
+Automatiserad bevakning av psykedelisk forskning och nyheter för [Nätverket för Psykedelisk Vetenskap](https://npv.se). Systemet hämtar dagligen nya artiklar från sju källor (Norden till EU-nivå), filtrerar och sammanfattar dem med Claude, och levererar resultatet på två spår:
 
 1. **Internt i Slack** — svenska sammanfattningar och Facebook-textförslag för redaktionell granskning.
 2. **Publikt på GitHub Pages** — ett flerspråkigt engelska/nordiska/baltiska webbflöde: **<https://ollxor.github.io/NPV/>**
 
 ## Daglig forskningsbevakning (Slack)
 
-Kör **varje dag kl 06:00 UTC**. Hämtar nya artiklar från samtliga nio källor, filtrerar med Claude och postar relevanta artiklar till Slack med förslag på Facebook-text.
+Kör **varje dag kl 06:00 UTC**. Hämtar nya artiklar från samtliga sju källor, filtrerar med Claude och postar relevanta artiklar till Slack med förslag på Facebook-text.
 
 **Anmärkningsvärda fynd** (⚡) flaggas separat — fas 2b/3-resultat, myndighetsbeslut (FDA/EMA), publicering i toppjournaler (Nature, Science, NEJM, Lancet, JAMA, Cell, PNAS), stora RCT:er (n>200) eller nationella policyändringar får en egen rubrik i Slack-inlägget med en kort motivering.
 
@@ -54,15 +54,19 @@ Kör **varje måndag kl 07:00 CET**. Söker igenom DiVA och SwePub efter nya kan
 **Europeiskt (tillagt 2026):**
 - **Europe PMC** — europeiska tidskrifter, kompletterar PubMed
 - **EU Clinical Trials Register (EUCTR)** — aktiva och avslutade EU-kliniska prövningar
-- **EMCDDA** — EU:s narkotikaövervakningsmyndighet, rapporter och nyheter
-- **DART-Europe** — europeiska doktorsavhandlingar (600+ universitet)
 - **OpenAIRE** — EU-finansierad öppen forskning
+
+> EMCDDA (numera EUDA) och DART-Europe togs bort 2026-07 — EUDA slutade erbjuda RSS och blockerar botar, och DART-Europes domän hade upphört och pekade om till en kryptosajt. Se avsnittet "Källhälsa" nedan.
 
 Artiklar dedupliceras både på DOI (fångar samma artikel från flera källor) och URL.
 
+## Källhälsa
+
+Varje källa kan tystna utan att systemet märker det (varje hämtare fångar sina egna fel och returnerar en tom lista). `fetch_all()` registrerar därför per källa om hämtningen gav ett *hårt fel* (HTTP-fel, parse-fel) i `data/source_health.json`. Om en källa felar två körningar i rad postar den dagliga bevakningen en ⚠️-varning i Slack — en gång per avbrott, återställs när källan fungerar igen. Källor som lagligen returnerar noll träffar (t.ex. EUCTR en lugn dag) räknas *inte* som fel och larmar inte.
+
 ## Delad hämtningscache
 
-`fetch_all()` sparar dagens resultat i `data/fetch_cache.json`. Den svenska bevakningen (06:00) hämtar live och skriver cachen; webbflödet (06:30) läser den istället för att hämta på nytt — halverar belastningen på källorna, särskilt de skörare skraparna (EUCTR, DART-Europe). Om 06:00-körningen är sen eller misslyckas hämtar webbflödet ändå live som fallback.
+`fetch_all()` sparar dagens resultat i `data/fetch_cache.json`. Den svenska bevakningen (06:00) hämtar live och skriver cachen; webbflödet (06:30) läser den istället för att hämta på nytt — halverar belastningen på källorna, särskilt den skörare EUCTR-skrapan. Om 06:00-körningen är sen eller misslyckas hämtar webbflödet ändå live som fallback.
 
 ## Repo-struktur
 
@@ -82,7 +86,7 @@ src/
   quarterly_trends.py       # Entry point: kvartalsvis trendanalys
   backfill_archive.py       # Engångsskript: fyll arkivet med historisk data
   thesis_main.py            # Entry point: uppsatsprisbevakning
-  fetch_sources.py          # Hämtar forskningsartiklar (alla 9 källor + cache)
+  fetch_sources.py          # Hämtar forskningsartiklar (alla 7 källor + cache + källhälsa)
   fetch_theses.py           # Hämtar uppsatser (filtrerat på innevarande år)
   filter_and_summarize.py   # Relevansbedömning + FB-text (svenska)
   filter_theses.py          # Relevansbedömning för uppsatspris
@@ -94,6 +98,7 @@ data/
   seen_web.json             # Sedda artiklar (webbflödet)
   seen_theses.json          # Sedda uppsatser
   fetch_cache.json          # Delad hämtningscache (samma UTC-dag)
+  source_health.json        # Per källa: fel-/nollserier för hälsolarm
   archive.json              # Växande historik för vecko-/kvartalsanalys
 
 docs/                       # GitHub Pages — https://ollxor.github.io/NPV/

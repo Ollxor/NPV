@@ -23,10 +23,24 @@ HEADERS = {
 # Shared same-day fetch cache. The daily Slack scan (06:00 UTC) and the web
 # feed (06:30 UTC) both call fetch_all(); the first fetch of the UTC day hits
 # the sources and writes this file, the second reads it — halving load on the
-# nine sources (notably the two fragile scrapers, EUCTR and DART-Europe).
-# Both workflows commit data/fetch_cache.json so it is shared across runners.
+# sources (notably the EUCTR scraper). Both workflows commit
+# data/fetch_cache.json so it is shared across runners.
 _DATA_DIR = os.path.join(os.path.dirname(__file__), "..", "data")
 FETCH_CACHE_FILE = os.path.join(_DATA_DIR, "fetch_cache.json")
+
+# Per-source health. Each fetcher records a hard failure (HTTP error,
+# parse error, etc.) here; fetch_all() folds these plus per-source counts
+# into data/source_health.json so a source that silently dies (as
+# DART-Europe, OpenAIRE and EMCDDA all did) becomes visible. Distinguishing
+# an *error* from a legitimately-empty result is deliberate: sparse sources
+# like EUCTR or DiVA often return 0 with no problem, and shouldn't alarm.
+SOURCE_HEALTH_FILE = os.path.join(_DATA_DIR, "source_health.json")
+HEALTH_ALERT_THRESHOLD = 2  # consecutive error-runs before a source is flagged
+_run_errors: dict[str, str] = {}
+
+
+def _record_error(source: str, err: Exception) -> None:
+    _run_errors[source] = str(err)
 
 PUBMED_SEARCH = (
     "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi"
@@ -63,16 +77,10 @@ EUCTR_SEARCH = (
     "https://www.clinicaltrialsregister.eu/ctr-search/search"
     "?query=psilocybin+OR+psychedelic+OR+MDMA+OR+ketamine"
 )
-EMCDDA_PUB_RSS = "https://www.emcdda.europa.eu/publications/rss_en"
-EMCDDA_NEWS_RSS = "https://www.emcdda.europa.eu/news/rss_en"
-DART_EUROPE_SEARCH = (
-    "https://www.dart-europe.eu/simple-search"
-    "?query=psilocybin+OR+psychedelic+OR+MDMA+OR+ayahuasca"
-)
 OPENAIRE_API = (
     "https://api.openaire.eu/search/publications"
     "?keywords=psilocybin+psychedelic&format=json&size=10"
-    "&sortBy=dateofacceptance,descending"
+    "&sortBy=resultdateofacceptance,descending"
 )
 
 
@@ -191,6 +199,81 @@ def _write_cache(articles: list[Article]) -> None:
         json.dump(payload, f, indent=2, ensure_ascii=False)
 
 
+# ── Per-source health ───────────────────────────────────────────────────────
+
+
+def _load_health() -> dict:
+    try:
+        with open(SOURCE_HEALTH_FILE, "r", encoding="utf-8") as f:
+            return json.load(f)
+    except (FileNotFoundError, json.JSONDecodeError):
+        return {"sources": {}, "last_updated": ""}
+
+
+def _save_health(data: dict) -> None:
+    data["last_updated"] = datetime.utcnow().isoformat() + "+00:00"
+    os.makedirs(os.path.dirname(SOURCE_HEALTH_FILE), exist_ok=True)
+    with open(SOURCE_HEALTH_FILE, "w", encoding="utf-8") as f:
+        json.dump(data, f, indent=2, ensure_ascii=False)
+
+
+def _update_source_health(counts: dict[str, int]) -> None:
+    """Record this run's per-source outcome. Tracks consecutive *error*-runs
+    (hard failures — the real breakage signal) separately from zero-result
+    runs (which are normal for sparse sources like EUCTR/DiVA). Skipped on
+    dry runs so they don't perturb the persisted state."""
+    if _cache_disabled():
+        return
+    data = _load_health()
+    sources = data.setdefault("sources", {})
+    today = _today_str()
+    for name, count in counts.items():
+        st = sources.setdefault(
+            name,
+            {"error_streak": 0, "zero_streak": 0, "last_ok": "", "alerted": False, "last_error": ""},
+        )
+        if name in _run_errors:
+            st["error_streak"] = st.get("error_streak", 0) + 1
+            st["last_error"] = _run_errors[name]
+        else:
+            st["error_streak"] = 0
+            st["last_error"] = ""
+        if count > 0:
+            st["zero_streak"] = 0
+            st["last_ok"] = today
+        else:
+            st["zero_streak"] = st.get("zero_streak", 0) + 1
+    _save_health(data)
+
+
+def check_source_health() -> list[dict]:
+    """Called by the alerter (the daily scan) after fetch_all(). Returns
+    sources that have newly crossed the error threshold, managing an
+    'alerted' flag so each outage is reported once and re-armed on recovery.
+    Returns a list of {source, error_streak, last_error}."""
+    if _cache_disabled():
+        return []
+    data = _load_health()
+    newly: list[dict] = []
+    changed = False
+    for name, st in data.get("sources", {}).items():
+        if st.get("error_streak", 0) >= HEALTH_ALERT_THRESHOLD:
+            if not st.get("alerted"):
+                st["alerted"] = True
+                changed = True
+                newly.append({
+                    "source": name,
+                    "error_streak": st.get("error_streak", 0),
+                    "last_error": st.get("last_error", ""),
+                })
+        elif st.get("alerted"):
+            st["alerted"] = False  # recovered — re-arm for the next outage
+            changed = True
+    if changed:
+        _save_health(data)
+    return newly
+
+
 # ── PubMed ─────────────────────────────────────────────────────────────────
 
 
@@ -275,6 +358,7 @@ def fetch_pubmed() -> list[Article]:
                 continue
     except Exception as e:
         print(f"[PubMed] Error: {e}")
+        _record_error("PubMed", e)
     return articles
 
 
@@ -284,7 +368,16 @@ def fetch_pubmed() -> list[Article]:
 def fetch_semantic_scholar() -> list[Article]:
     articles: list[Article] = []
     try:
-        r = requests.get(SEMANTIC_SCHOLAR_API, headers=HEADERS, timeout=20)
+        # Semantic Scholar's free tier aggressively rate-limits (HTTP 429).
+        # Retry a few times with exponential backoff before giving up.
+        r = None
+        for attempt in range(4):
+            r = requests.get(SEMANTIC_SCHOLAR_API, headers=HEADERS, timeout=20)
+            if r.status_code != 429:
+                break
+            wait = 2 ** attempt + 1  # 2, 3, 5, 9 seconds
+            print(f"[Semantic Scholar] 429 rate-limited, retrying in {wait}s...")
+            time.sleep(wait)
         r.raise_for_status()
         data = r.json().get("data", [])
         for paper in data:
@@ -311,6 +404,7 @@ def fetch_semantic_scholar() -> list[Article]:
             )
     except Exception as e:
         print(f"[Semantic Scholar] Error: {e}")
+        _record_error("Semantic Scholar", e)
     return articles
 
 
@@ -367,6 +461,7 @@ def fetch_psychedelic_alpha() -> list[Article]:
             )
     except Exception as e:
         print(f"[Psychedelic Alpha] Error: {e}")
+        _record_error("Psychedelic Alpha", e)
     return articles
 
 
@@ -393,6 +488,7 @@ def fetch_diva() -> list[Article]:
             )
     except Exception as e:
         print(f"[DiVA] Error: {e}")
+        _record_error("DiVA", e)
     return articles
 
 
@@ -436,6 +532,7 @@ def fetch_europe_pmc() -> list[Article]:
             )
     except Exception as e:
         print(f"[Europe PMC] Error: {e}")
+        _record_error("Europe PMC", e)
     return articles
 
 
@@ -473,78 +570,7 @@ def fetch_euctr() -> list[Article]:
                 )
     except Exception as e:
         print(f"[EUCTR] Error: {e}")
-    return articles
-
-
-# ── EMCDDA ─────────────────────────────────────────────────────────────────
-
-
-def fetch_emcdda() -> list[Article]:
-    articles: list[Article] = []
-    for feed_url in [EMCDDA_PUB_RSS, EMCDDA_NEWS_RSS]:
-        try:
-            feed = feedparser.parse(
-                feed_url,
-                request_headers={"User-Agent": HEADERS["User-Agent"]}
-            )
-            for entry in feed.entries[:5]:
-                title = entry.get("title", "").strip()
-                url = entry.get("link", "")
-                if not (title and url):
-                    continue
-                articles.append(
-                    Article(
-                        title=title,
-                        url=url,
-                        source="EMCDDA",
-                        abstract=BeautifulSoup(
-                            entry.get("summary", ""), "lxml"
-                        ).get_text()[:500],
-                        date=_entry_date(entry),
-                    )
-                )
-        except Exception as e:
-            print(f"[EMCDDA] Error for {feed_url}: {e}")
-    return articles
-
-
-# ── DART-Europe ─────────────────────────────────────────────────────────────
-
-
-def fetch_dart_europe() -> list[Article]:
-    articles: list[Article] = []
-    try:
-        time.sleep(2)
-        r = requests.get(DART_EUROPE_SEARCH, headers=HEADERS, timeout=30)
-        r.raise_for_status()
-        soup = BeautifulSoup(r.text, "lxml")
-        # DART-Europe renders results as table rows or artifact-title divs
-        for row in soup.select("tr.odd, tr.even, .artifact-title, .ds-artifact-item")[:10]:
-            a_tag = row.find("a", href=True)
-            if not a_tag:
-                continue
-            title = a_tag.get_text(strip=True)
-            href = a_tag["href"]
-            if not href.startswith("http"):
-                href = "https://www.dart-europe.eu" + href
-            cells = row.find_all("td")
-            date = _today_str()
-            if len(cells) >= 2:
-                candidate = cells[-1].get_text(strip=True)
-                if candidate and len(candidate) >= 4 and candidate[:4].isdigit():
-                    date = candidate[:10]
-            if title:
-                articles.append(
-                    Article(
-                        title=title,
-                        url=href,
-                        source="DART-Europe",
-                        abstract="",
-                        date=date,
-                    )
-                )
-    except Exception as e:
-        print(f"[DART-Europe] Error: {e}")
+        _record_error("EU Clinical Trials Register", e)
     return articles
 
 
@@ -638,6 +664,7 @@ def fetch_openaire() -> list[Article]:
             )
     except Exception as e:
         print(f"[OpenAIRE] Error: {e}")
+        _record_error("OpenAIRE", e)
     return articles
 
 
@@ -650,6 +677,8 @@ def fetch_all() -> list[Article]:
         print(f"[fetch] Using today's cache ({len(cached)} articles) — "
               f"skipping live fetch. Set FETCH_NO_CACHE=1 to force refresh.")
         return cached
+
+    _run_errors.clear()
 
     print("[fetch] PubMed...")
     pubmed = fetch_pubmed()
@@ -681,21 +710,22 @@ def fetch_all() -> list[Article]:
     print(f"  → {len(euctr)} articles")
 
     time.sleep(2)
-    print("[fetch] EMCDDA...")
-    emcdda = fetch_emcdda()
-    print(f"  → {len(emcdda)} articles")
-
-    time.sleep(3)
-    print("[fetch] DART-Europe...")
-    dart = fetch_dart_europe()
-    print(f"  → {len(dart)} articles")
-
-    time.sleep(2)
     print("[fetch] OpenAIRE...")
     openaire = fetch_openaire()
     print(f"  → {len(openaire)} articles")
 
-    all_articles = pubmed + ss + pa + diva + epmc + euctr + emcdda + dart + openaire
+    by_source = {
+        "PubMed": pubmed,
+        "Semantic Scholar": ss,
+        "Psychedelic Alpha": pa,
+        "DiVA": diva,
+        "Europe PMC": epmc,
+        "EU Clinical Trials Register": euctr,
+        "OpenAIRE": openaire,
+    }
+    _update_source_health({name: len(items) for name, items in by_source.items()})
+
+    all_articles = [a for items in by_source.values() for a in items]
     all_articles = [a for a in all_articles if a.url and a.title]
 
     # Deduplicate: DOI first (catches cross-source duplicates), then URL

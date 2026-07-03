@@ -43,7 +43,7 @@ jobs:
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "NPV Bot"
-          git add data/seen.json data/fetch_cache.json
+          git add data/seen.json data/fetch_cache.json data/source_health.json
           git diff --staged --quiet || git commit -m "chore: uppdatera sedda artiklar [skip ci]"
           git pull --rebase origin main
           git push

@@ -91,7 +91,7 @@ def post_summary(
     skipped: int,
     dry_run: bool = False,
 ) -> None:
-    sources = "PubMed · Europe PMC · Semantic Scholar · EUCTR · EMCDDA · DART-Europe · OpenAIRE · Psychedelic Alpha · DiVA"
+    sources = "PubMed · Europe PMC · Semantic Scholar · EUCTR · OpenAIRE · Psychedelic Alpha · DiVA"
     if relevant > 0:
         text = (
             f"📰 *Dagens genomsökning klar*\n"
@@ -113,6 +113,22 @@ def post_summary(
             }
         ]
     }
+    _post(payload, dry_run=dry_run)
+
+
+def post_source_health(unhealthy: list[dict], dry_run: bool = False) -> None:
+    """Alert that one or more sources have stopped returning data (repeated
+    hard failures). Fired once per outage by the daily scan."""
+    lines = []
+    for s in unhealthy:
+        err = (s.get("last_error") or "")[:120]
+        lines.append(f"• *{s['source']}* — {s.get('error_streak', 0)} körningar i rad: `{err}`")
+    text = (
+        "⚠️ *Källa(or) har slutat svara*\n"
+        + "\n".join(lines)
+        + "\n_Kontrollera fetch_sources.py — kan behöva uppdaterad URL/API._"
+    )
+    payload = {"blocks": [{"type": "section", "text": {"type": "mrkdwn", "text": text}}]}
     _post(payload, dry_run=dry_run)
 
 

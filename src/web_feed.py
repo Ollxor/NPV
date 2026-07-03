@@ -338,6 +338,7 @@ def main() -> None:
                 "summaries": summaries,
                 "notable": item["notable"],
                 "notable_reasons": notable_reasons,
+                "relevance_score": item["score"],
                 "added_at": now,
             }
         )

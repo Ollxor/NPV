@@ -61,13 +61,27 @@ Notable (notable=true) = ANY of the following:
 - National-level policy change (legalization or scheduling change)
 - Large RCT (n > 200) or landmark meta-analysis across multiple compounds
 
+STUDY TYPE — classify the article's design as exactly one of:
+- "rct": randomized controlled trial
+- "review": systematic review, meta-analysis, or narrative review
+- "case_report": case report or case series
+- "observational": observational, cohort, or cross-sectional study
+- "preclinical": animal or preclinical/mechanistic study
+- "qualitative": qualitative research (interviews, phenomenology, ethnography)
+- "other": anything that doesn't fit above (protocol, commentary, policy analysis, trial registry entry, etc.)
+
+SUBSTANCES — list ALL that the article is substantively about, from this set:
+["psilocybin", "lsd", "mdma", "ketamine", "ayahuasca", "ibogaine", "mescaline", "other"]
+Use "other" only if none of the named substances apply, or the article is a
+general/multi-substance overview not centered on any one of them.
+
 Article:
 Title: {title}
 Source: {source}
 Abstract/summary: {abstract}
 
 Reply ONLY with JSON:
-{{"relevant": true/false, "reason": "short reason in English", "relevance_score": 1-5, "notable": true/false, "notable_reason": "one sentence why (e.g. Phase 3 RCT in NEJM, n=233), or null"}}"""
+{{"relevant": true/false, "reason": "short reason in English", "relevance_score": 1-5, "notable": true/false, "notable_reason": "one sentence why (e.g. Phase 3 RCT in NEJM, n=233), or null", "study_type": "rct"|"review"|"case_report"|"observational"|"preclinical"|"qualitative"|"other", "substances": ["psilocybin", ...]}}"""
 
 SUMMARY_PROMPT = """\
 You are the editor of a multilingual feed about psychedelic science run by NPV \
@@ -135,7 +149,7 @@ def filter_article(client: anthropic.Anthropic, article: Article) -> dict:
     try:
         msg = client.messages.create(
             model=MODEL,
-            max_tokens=256,
+            max_tokens=400,
             messages=[{"role": "user", "content": prompt}],
         )
         raw = msg.content[0].text.strip()
@@ -146,7 +160,11 @@ def filter_article(client: anthropic.Anthropic, article: Article) -> dict:
         return json.loads(raw)
     except Exception as e:
         print(f"  [filter] Error for '{article.title[:60]}': {e}")
-        return {"relevant": False, "reason": "Assessment error", "relevance_score": 1, "notable": False, "notable_reason": None}
+        return {
+            "relevant": False, "reason": "Assessment error", "relevance_score": 1,
+            "notable": False, "notable_reason": None,
+            "study_type": "other", "substances": [],
+        }
 
 
 def summarize(client: anthropic.Anthropic, article: Article) -> dict:
@@ -256,6 +274,8 @@ def _append_to_archive(new_items: list[dict]) -> None:
             "summary_en": (it.get("summaries") or {}).get("en", ""),
             "notable": it.get("notable", False),
             "notable_reason": (it.get("notable_reasons") or {}).get("en"),
+            "study_type": it.get("study_type", "other"),
+            "substances": it.get("substances", []),
             "added_at": it["added_at"],
         }
         for it in new_items
@@ -301,6 +321,8 @@ def main() -> None:
                 "score": result.get("relevance_score", 3),
                 "notable": result.get("notable", False),
                 "notable_reason": result.get("notable_reason") or None,
+                "study_type": result.get("study_type") or "other",
+                "substances": result.get("substances") or [],
             })
         if i < len(new_articles) - 1:
             time.sleep(0.5)
@@ -339,6 +361,8 @@ def main() -> None:
                 "notable": item["notable"],
                 "notable_reasons": notable_reasons,
                 "relevance_score": item["score"],
+                "study_type": item["study_type"],
+                "substances": item["substances"],
                 "added_at": now,
             }
         )

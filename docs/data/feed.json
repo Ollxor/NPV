@@ -26,7 +26,11 @@
       "notable": false,
       "notable_reasons": null,
       "added_at": "2026-07-02T09:41:47.101119+00:00",
-      "relevance_score": 3
+      "relevance_score": 3,
+      "study_type": "observational",
+      "substances": [
+        "psilocybin"
+      ]
     },
     {
       "title": "Investigating the impact of serotonergic psychedelic drugs, MDMA and ketamine on social cognition in psychiatric disorders: A scoping review.",
@@ -53,7 +57,15 @@
       "notable": false,
       "notable_reasons": null,
       "added_at": "2026-07-02T09:41:47.101119+00:00",
-      "relevance_score": 3
+      "relevance_score": 3,
+      "study_type": "review",
+      "substances": [
+        "ketamine",
+        "mdma",
+        "psilocybin",
+        "lsd",
+        "ayahuasca"
+      ]
     },
     {
       "title": "Major depressive disorder-alcohol use disorder comorbidity: diagnosis, mechanisms and treatment.",
@@ -80,7 +92,11 @@
       "notable": false,
       "notable_reasons": null,
       "added_at": "2026-07-02T09:41:47.101119+00:00",
-      "relevance_score": 3
+      "relevance_score": 3,
+      "study_type": "review",
+      "substances": [
+        "ketamine"
+      ]
     },
     {
       "title": "Development and validation of a short-form (6-item) version of the clinician-administered dissociative states scale (CADSS-SF).",
@@ -99,7 +115,11 @@
         "lt": "Mokslininkai sukūrė ir validavo 6 punktų sutrumpintą Clinician-Administered Dissociative States Scale versijos (CADSS-SF) versiją, naudodami duomenis iš azoto oksido tyrimų su 229 sveikais savanoriu. Sutrumpinta versija parodė puikias psichometrines savybes (vienas veiksnys, CFI/TLI>0,99, vidinis nuoseklumas ω=0,87) ir stiprią koreliaciją su pilna skale (r≥0,88). Šis supaprastintas instrumentas leidžia pakartotinai vertinti disociatyvias būsenas, sumažinant dalyvių naštą, ypač vertinga psichedelinių medžiagų tyrimuose."
       },
       "added_at": "2026-06-30T17:20:39.473842+00:00",
-      "relevance_score": 3
+      "relevance_score": 3,
+      "study_type": "observational",
+      "substances": [
+        "other"
+      ]
     },
     {
       "title": "Psychedelics and autism spectrum disorder: Mechanistic insights, translational evidence and ethical challenges.",
@@ -126,7 +146,11 @@
       "notable": false,
       "notable_reasons": null,
       "added_at": "2026-07-02T09:41:47.101119+00:00",
-      "relevance_score": 3
+      "relevance_score": 3,
+      "study_type": "review",
+      "substances": [
+        "other"
+      ]
     },
     {
       "title": "Esketamine multi-omic biomarker evaluation in major depressive disorder (EMBER-MDD): concept, objectives and methodologies of a non-clinical investigator-initiated study.",
@@ -145,7 +169,11 @@
         "lt": "EMBER-MDD yra ne-intervencinė biomarkerių tyrimo studija, analizuojanti biologinius mėginius iš ~420 suaugusių žmonių, sergančių sunkia depresija, siekiant identifikuoti multi-ominių požymių signatūras, prognozuojančias gydymo rezistentiškumą ir atsaką į esketamino nosies purškalą, palyginti su standartine gydymo pradžia. Studija naudoja genomika, epigenomika, transkriptomika ir proteomika klinikinių rezultatų molekulinių koreliacijų žemėlapyje."
       },
       "added_at": "2026-06-30T17:20:39.473842+00:00",
-      "relevance_score": 3
+      "relevance_score": 3,
+      "study_type": "observational",
+      "substances": [
+        "ketamine"
+      ]
     },
     {
       "title": "Optimized Oral Glutamatergic Augmentation in Refractory Home-Dominant Contamination Obsessive-Compulsive Disorder With Somatic, Affective, and Motivational Features: A Case Report of Incremental Functional Gains.",
@@ -164,7 +192,11 @@
         "lt": "Klininis atvejis apie 26 metų moterį su atsparia gydymui taršos sutelkta OCD, gydytą glutamaterginė augmentacija: dekstrometorfanas, CYP2D6 inhibicija, piracetamas ir L-glutaminas. Per devynis mėnesius ambulatorinio gydymo pacientė parodė funkcinį pagerinimą taršos baimėse, ritualiuose, nerimastyje (GAD-7: 14) ir depresijoje (PHQ-9: 18). Šios žodinės ketaminui panašios gydymo įrodymai lieka preliminarūs ir nesuderinami nepriklausomai."
       },
       "added_at": "2026-06-30T10:06:19.250905+00:00",
-      "relevance_score": 3
+      "relevance_score": 3,
+      "study_type": "case_report",
+      "substances": [
+        "other"
+      ]
     },
     {
       "title": "Classical psychedelic microdosing, mood, and cognitive function: An umbrella review with narrative synthesis.",
@@ -183,7 +215,12 @@
         "lt": "Psichedelinių medžiagų mikrodozavimo (≤20 μg LSD arba ≤3 mg psilotsibino) peržvalga, vertinant šio daromo įtaką nuotaikai ir kognityviniams gebėjimams suaugusiems. Trys metaanalizės, apimančios 14 tyrimų, nerado įrodymų kognityviam pagerinimui; mikrodozavimas parodė mažą, tačiau nuoseklų pažiniminio valdymo blogėjimą. Atvirų tyrimų metu stebėti nuotaikos pageriniai dingo sleptosiomis sąlygomis, kas rodo tikėjimo šališkumą. Prieš klinikinius rekomendacijas reikalingi gerai suplaninti, iš anksto užregistruoti kontroliuojami tyrimai."
       },
       "added_at": "2026-06-28T21:45:23.980905+00:00",
-      "relevance_score": 3
+      "relevance_score": 3,
+      "study_type": "review",
+      "substances": [
+        "lsd",
+        "psilocybin"
+      ]
     },
     {
       "title": "The purpose of the psychosocial protocol in the psychedelic-assisted therapy: A scoping review.",
@@ -202,7 +239,11 @@
         "lt": "Apimties apžvalga, kategorijuojanti psichosocialiniai protokolai, naudojami psichodeliku-asistencijos terapijos tyrimuose. Tyrime sistematizuota, kaip psichologinis palaikymas lydi medžiagos skyrymą klasikiniuose psichodelikusuose eksperimentiniuose ir stebėjimuose tyrimuose, analizuojant tikslą, formatą, terapinę orientaciją ir trukmę."
       },
       "added_at": "2026-06-28T21:45:23.980905+00:00",
-      "relevance_score": 3
+      "relevance_score": 3,
+      "study_type": "review",
+      "substances": [
+        "other"
+      ]
     },
     {
       "title": "Novel approaches in depression treatment: from rapid-acting antidepressants to personalized interventions.",
@@ -221,7 +262,11 @@
         "lt": "Šis apžvalga nagrinėja greitai veikiančius depresijos ir atsparios gydymui depresijos gydymo būdus, įskaitant psichedelikus, pavyzdžiui, psilocinį vėlyvame bandymų stadijuje, bei neuromoduliavimo metodus, pavyzdžiui, Stanfordo SAINT protokolą (FDA patvirtintą atspariems gydymui depresijai). Jis pabrėžia naujas suasmenintus intervencijas, pagrįstas EEG biožymekliais ir genetine orientacija, sprendžiant didelę nepatenkintą poreikį alternatyvoms įprastiems antidepresantams, kurie nepadeda daugiau nei 50% ligonių."
       },
       "added_at": "2026-06-28T21:45:23.980905+00:00",
-      "relevance_score": 3
+      "relevance_score": 3,
+      "study_type": "review",
+      "substances": [
+        "psilocybin"
+      ]
     },
     {
       "title": "Increased morning cortisol after ketamine treatment for suicidal depression: Exploratory report from a randomized trial.",
@@ -240,7 +285,11 @@
         "lt": "Atsitiktinė kontroliuojama studija tyrė ketamino infūziją savižudybės sukeliamos depresijos gydymui su midazolamu kaip kontrole ir nustatė greitą savižudybės minčių sumažėjimą per 24 valandas. Tyrinėjamoji analizė matuvo kortizolo lygius pabudus prieš ir po gydymo. Rezultatai parodė reikšmingą ryto kortizolo padidėjimą 24 valandas po ketamino (p=0,0025), su silpna koreliacija su simptomų pagerintimu. Rezultatai rodo, kad vidutinis kortizolo padidėjimas gali padidinti atsparumą stresui, tačiau reikalingas pakartotas tyrimas."
       },
       "added_at": "2026-06-28T21:45:23.980905+00:00",
-      "relevance_score": 3
+      "relevance_score": 3,
+      "study_type": "rct",
+      "substances": [
+        "ketamine"
+      ]
     },
     {
       "title": "Pharmacokinetics and pharmacodynamics of orally administered S-ketamine in healthy participants.",
@@ -259,7 +308,11 @@
         "lt": "Randomizuotas, dvigubai aklai, placebo kontroliuojamas tyrimas (n=16) lygino žalias ir intravenines S-ketamino farmakokinetikos ir saugumo profilius sveikiems dalyviams. Žalia S-ketamino forma parodė žemą biološką prieinamumą (9-12%), dėl ko atsirado žemesni pagrindinės medžiagos, tačiau aukšti aktyvių metabolitų koncentracija lyginant su intravenine forma. Rezultatai iškelia klausimus dėl žalios S-ketamino formos veiksmingumo ir saugumo profilio gydant gydymui atsparia depresiją."
       },
       "added_at": "2026-06-28T21:45:23.980905+00:00",
-      "relevance_score": 3
+      "relevance_score": 3,
+      "study_type": "rct",
+      "substances": [
+        "ketamine"
+      ]
     },
     {
       "title": "The intersection between psychedelics and schizophrenia spectrum disorders: Reevaluating risk and therapeutic potential.",
@@ -278,7 +331,11 @@
         "lt": "Naratyvinė apžvalga, nagrinėjanti psichedelikų ir šizofrenijos spektro sutrikimų ryšį. Nors psichedelikai gali pabloginti esamą psichozę pažeidžiamiems asmenims, fenomenologinė ir mechanistinė analizė atskleidi svarbius skirtumus nuo psichozinių būsenų. Apžvalga suabejoja tradicine psichomimetiniu hipoteze ir siūlo galimas terapines pritaikymas konkretiems simptomams atsargiai parinktiems stabiliems pacientams."
       },
       "added_at": "2026-06-28T21:45:23.980905+00:00",
-      "relevance_score": 3
+      "relevance_score": 3,
+      "study_type": "review",
+      "substances": [
+        "other"
+      ]
     },
     {
       "title": "Multi-metric evaluations of acute psychedelic effects on fMRI brain entropy.",
@@ -297,7 +354,11 @@
         "lt": "Tyrime su 28 dalyviais buvo tiriama, kaip psilocibinas veikia smegenų entropiją naudojant fMRI. Trylika skirtingų entropijos metrikų iš ankstesnių tyrimų buvo išbandyti su 121 skenimu. Penki metrikai parodė nuoseklų padidėjimą: Shannon entropija, kelio ilgis, momentinės koreliacijos, smegenų būsenos persijungimas ir imties entropija. Aštuoni metrikai neparodė reikšmingų efektų, o Lempel-Ziv sudėtingumas parodė nesuderintus rezultatus. Rezultatai rodo, kad smegenų entropijos pokyčiai priklauso nuo metricos ir neatspindi vieningo konstrukto."
       },
       "added_at": "2026-06-28T21:45:23.980905+00:00",
-      "relevance_score": 3
+      "relevance_score": 3,
+      "study_type": "observational",
+      "substances": [
+        "psilocybin"
+      ]
     },
     {
       "title": "Mechanistic insights toward dissociating therapeutic from psychedelic effects: bridging the gap between psychedelic research and mental health care.",
@@ -316,7 +377,11 @@
         "lt": "Klinikiniai tyrimai rodo žadančius rezultatus su klasikiniais psichedelikais gydant depresiją ir nerimą sukėlusias sutrikdymus, naudojant tokius efektus kaip numatytojo režimo tinklo slopinimas. Tačiau intensyvūs subjektyvūs patyriai reikalauja plačaus pasiruošimo ir integracijos, kurie riboja mastelį ir neįtraukia jautrių grupių. Tyrimai vis dažniau tiria galimybę atskirti terapinius pranašumus nuo sąmonės keitimosi efektų, naudojant farmakologinius požiūrius, tokius kaip 5-HT2A receptorių moduliacija."
       },
       "added_at": "2026-06-28T21:45:23.980905+00:00",
-      "relevance_score": 3
+      "relevance_score": 3,
+      "study_type": "review",
+      "substances": [
+        "other"
+      ]
     },
     {
       "title": "Patient-centred education for ketamine and esketamine therapies in mood disorders.",
@@ -343,7 +408,11 @@
       "notable": false,
       "notable_reasons": null,
       "added_at": "2026-07-02T09:41:47.101119+00:00",
-      "relevance_score": 3
+      "relevance_score": 3,
+      "study_type": "review",
+      "substances": [
+        "ketamine"
+      ]
     },
     {
       "title": "Study Protocol for \"Exploring the safety and therapeutic potential of psilocybin in the treatment of anorexia nervosa in adolescents and young adults\".",
@@ -370,7 +439,11 @@
       "notable": false,
       "notable_reasons": null,
       "added_at": "2026-07-01T10:28:11.207636+00:00",
-      "relevance_score": 3
+      "relevance_score": 3,
+      "study_type": "rct",
+      "substances": [
+        "psilocybin"
+      ]
     },
     {
       "title": "Excessive Switching in OCD and Paranoia Arises From Different Deficits in Belief-Updating.",
@@ -389,7 +462,11 @@
         "lt": "Skaičiavimo tyrimas apie tikimybių apvertą mokymąsi atskiria kognityvius mechanizmus, susijusius su obsesiomis ir paranoja. Naudodami Bajeso modeliavimą bendrojoje populiacijoje, mokslininkai nustatė, kad paranoja yra susijusi su nepilna neapibrėžtumo tikėjimo atnaujinimu, o OCD susijusios obsesijos kyla iš veiksmų ir pasekų sąsajų mokymo deficito. Abu būsenys rodo per daug elgesio pokyčių, tačiau per skirtingus tikėjimo atnaujinimo kelius."
       },
       "added_at": "2026-06-30T10:06:19.250905+00:00",
-      "relevance_score": 3
+      "relevance_score": 3,
+      "study_type": "observational",
+      "substances": [
+        "other"
+      ]
     },
     {
       "title": "NMDA receptors are not necessary for burst firing of lateral habenula neurons in mice.",
@@ -408,7 +485,11 @@
         "lt": "Šoninės habenulos neuronų visaląsteliniai įrašai iš pelių patinų (8-10 savaičių amžiaus) parodė, kad NMDA receptorių antagonistai (D-AP5, MK-801) negrąžė spontaninio ar atsigijimo šuolio aktyvumo. Šuolio dažnis, šikų skaičius ir neuronų dalis išliko nepakitę. Kadangi ketamino antidepresyvus poveikis susijęs su LHb šuolio aktyvumo blokavimą, šie rezultatai rodo, kad NMDA receptoriai nėra esminiai šiam mechanizmui."
       },
       "added_at": "2026-06-30T10:06:19.250905+00:00",
-      "relevance_score": 3
+      "relevance_score": 3,
+      "study_type": "preclinical",
+      "substances": [
+        "ketamine"
+      ]
     },
     {
       "title": "Pα+ Psychedelic Bulletin #226: The Ethics of Psilocybin for Advanced Alzheimer’s; Veterans’ Views on Psychedelics",
@@ -427,7 +508,11 @@
         "lt": "Žurnale Frontiers in Neuroscience paskelbtas klinikinės atestacijos ataskaita aprašo 80 metų moterį su pažengusia Alzheimerio liga, gavusią psilocibiną, kuris susilaukė žiniasklaidos dėmesio. Straipsnyje tačiau nagrinėjamos etinės psichedelikų naudojimo aspektai esant pažengusiai demencijai ir ginčijama, ar atskirai klinikinės ataskaitos pateisinamos klinikinius optimizmą. Biuletenis taip pat aptaria veteranų požiūrį į psichedelikus."
       },
       "added_at": "2026-06-29T11:30:32.710936+00:00",
-      "relevance_score": 3
+      "relevance_score": 3,
+      "study_type": "other",
+      "substances": [
+        "psilocybin"
+      ]
     }
   ]
 }

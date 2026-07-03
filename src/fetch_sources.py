@@ -91,6 +91,42 @@ def _today_str() -> str:
     return datetime.utcnow().strftime("%Y-%m-%d")
 
 
+_MONTH_ABBR = {
+    "jan": "01", "feb": "02", "mar": "03", "apr": "04", "may": "05", "jun": "06",
+    "jul": "07", "aug": "08", "sep": "09", "oct": "10", "nov": "11", "dec": "12",
+}
+
+
+def _normalize_month(m: str) -> str:
+    """PubMed month fields are inconsistent — sometimes numeric ('6'),
+    sometimes a 3-letter name ('Jun'). Normalize to zero-padded numeric
+    so different date fields can be compared."""
+    if not m:
+        return ""
+    if m.isdigit():
+        return m.zfill(2)
+    return _MONTH_ABBR.get(m[:3].lower(), "")
+
+
+def _pubmed_history_day(article_el, year: str, month: str) -> str:
+    """Borrow a day from PubMed's History section when the journal's own
+    PubDate has year+month but no day. History/PubMedPubDate entries
+    (when PubMed indexed/revised the record) are always day-precise —
+    a reasonable proxy for "when this became publicly available",
+    used only when its year and month agree with the journal's PubDate."""
+    target_month = _normalize_month(month)
+    for status in ("pubmed", "entrez", "medline", "revised"):
+        h = article_el.find(f".//PubmedData/History/PubMedPubDate[@PubStatus='{status}']")
+        if h is None:
+            continue
+        h_year = h.findtext("Year", "")
+        h_month = _normalize_month(h.findtext("Month", ""))
+        h_day = h.findtext("Day", "")
+        if h_year == year and h_month == target_month and h_day:
+            return h_day
+    return ""
+
+
 def _entry_date(entry) -> str:
     """Robustly extract an ISO date (YYYY-MM-DD) from a feedparser entry.
 
@@ -183,10 +219,26 @@ def fetch_pubmed() -> list[Article]:
                 year = article_el.findtext(".//PubDate/Year", "")
                 month = article_el.findtext(".//PubDate/Month", "")
                 day = article_el.findtext(".//PubDate/Day", "")
+
+                # Prefer the electronic publication date (ArticleDate) when
+                # present — usually more precise than the journal's
+                # issue-level PubDate, and always day-precise when present.
+                ad = article_el.find(".//Article/ArticleDate")
+                if ad is not None:
+                    ad_year = ad.findtext("Year", "")
+                    ad_month = ad.findtext("Month", "")
+                    ad_day = ad.findtext("Day", "")
+                    if ad_year and ad_month and ad_day:
+                        year, month, day = ad_year, ad_month, ad_day
+
                 # PubMed's PubDate is often incomplete (year-only or
-                # year+month) — keep whatever precision is actually
-                # present rather than fabricating a day. The frontend
-                # displays precision-aware dates based on this structure.
+                # year+month). Rather than fabricate a day, borrow one from
+                # History (see _pubmed_history_day) when possible; the
+                # frontend displays precision-aware dates based on whatever
+                # structure survives here.
+                if month and not day:
+                    day = _pubmed_history_day(article_el, year, month)
+
                 if month and day:
                     date = f"{year}-{month}-{day}"
                 elif month:

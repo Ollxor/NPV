@@ -68,6 +68,8 @@
     .source { font-size: .8rem; color: var(--accent-2); margin-bottom: .35rem; font-weight: 600; }
     .authors { font-size: .8rem; color: var(--muted); margin-bottom: .5rem; }
     .notable-badge { display: inline-block; background: rgba(181,140,255,.15); color: var(--accent); font-size: .75rem; font-weight: 700; padding: .15rem .5rem; border-radius: 4px; margin-bottom: .45rem; }
+    .tag-row { display: flex; flex-wrap: wrap; gap: .35rem; margin-bottom: .5rem; }
+    .tag-pill { background: rgba(111,214,196,.12); color: var(--accent-2); font-size: .72rem; padding: .1rem .5rem; border-radius: 10px; }
     .notable-reason { font-size: .82rem; color: var(--muted); font-style: italic; margin-bottom: .45rem; }
     .card-notable { border-color: var(--accent); }
     .summary { color: var(--text); font-size: .96rem; margin: 0; }
@@ -133,6 +135,10 @@
       <div class="controls-row">
         <div class="filter-bar" id="filter-bar"></div>
         <div class="sort-wrap">
+          <label for="substance" id="substance-label">Substance</label>
+          <select id="substance" aria-label="Filter by substance"></select>
+          <label for="study-type" id="study-type-label">Study type</label>
+          <select id="study-type" aria-label="Filter by study type"></select>
           <label for="sort" id="sort-label">Sort by</label>
           <select id="sort" aria-label="Sort articles"></select>
         </div>
@@ -166,15 +172,15 @@
 
     // UI strings per language. Best-effort — native speakers welcome to refine.
     const UI = {
-      en: { label: "Language", tagline: "A daily, automatically curated feed of new research and news on psychedelics.", updated: "Last updated", articles: "articles", published: "Published", notable: "Notable", sortLabel: "Sort by", sortDate: "Newest", sortRelevance: "Most relevant", read: "Read the original source →", empty: "The feed is being prepared — check back after the first run.", disclaimer: "Summaries are AI-generated and may contain errors. Always check the original source.", locale: "en-GB" },
-      sv: { label: "Språk", tagline: "Ett dagligt, automatiskt kurerat flöde av ny forskning och nyheter om psykedelika.", updated: "Senast uppdaterad", articles: "artiklar", published: "Publicerad", notable: "Anmärkningsvärt", sortLabel: "Sortera efter", sortDate: "Nyast", sortRelevance: "Mest relevant", read: "Läs originalkällan →", empty: "Flödet förbereds — kom tillbaka efter första körningen.", disclaimer: "Sammanfattningarna genereras med AI och kan innehålla fel. Kontrollera alltid originalkällan.", locale: "sv-SE" },
-      no: { label: "Språk", tagline: "En daglig, automatisk kuratert strøm av ny forskning og nyheter om psykedelika.", updated: "Sist oppdatert", articles: "artikler", published: "Publisert", notable: "Bemerkelsesverdig", sortLabel: "Sorter etter", sortDate: "Nyest", sortRelevance: "Mest relevant", read: "Les originalkilden →", empty: "Strømmen forberedes — kom tilbake etter første kjøring.", disclaimer: "Sammendragene genereres med KI og kan inneholde feil. Sjekk alltid originalkilden.", locale: "nb-NO" },
-      da: { label: "Sprog", tagline: "Et dagligt, automatisk kurateret feed med ny forskning og nyheder om psykedelika.", updated: "Senest opdateret", articles: "artikler", published: "Udgivet", notable: "Bemærkelsesværdigt", sortLabel: "Sortér efter", sortDate: "Nyeste", sortRelevance: "Mest relevant", read: "Læs den oprindelige kilde →", empty: "Feedet forberedes — kom tilbage efter første kørsel.", disclaimer: "Resuméerne genereres med AI og kan indeholde fejl. Tjek altid den oprindelige kilde.", locale: "da-DK" },
-      fi: { label: "Kieli", tagline: "Päivittäin automaattisesti koottu syöte uudesta psykedeeleihin liittyvästä tutkimuksesta ja uutisista.", updated: "Päivitetty viimeksi", articles: "artikkelia", published: "Julkaistu", notable: "Merkittävä", sortLabel: "Järjestä", sortDate: "Uusin", sortRelevance: "Osuvin", read: "Lue alkuperäinen lähde →", empty: "Syötettä valmistellaan — palaa ensimmäisen ajon jälkeen.", disclaimer: "Tiivistelmät on luotu tekoälyllä ja ne voivat sisältää virheitä. Tarkista aina alkuperäinen lähde.", locale: "fi-FI" },
-      is: { label: "Tungumál", tagline: "Daglegt, sjálfvirkt valið streymi af nýjum rannsóknum og fréttum um hugvíkkandi efni.", updated: "Síðast uppfært", articles: "greinar", published: "Birt", notable: "Athyglisvert", sortLabel: "Raða eftir", sortDate: "Nýjast", sortRelevance: "Mest viðeigandi", read: "Lesa upprunalegu heimildina →", empty: "Streymið er í undirbúningi — líttu við eftir fyrstu keyrslu.", disclaimer: "Samantektir eru búnar til með gervigreind og geta innihaldið villur. Athugaðu alltaf upprunalegu heimildina.", locale: "is-IS" },
-      et: { label: "Keel", tagline: "Iga päev automaatselt koostatud uudisvoog uutest psühhedeelikume käsitlevatest uuringutest ja uudistest.", updated: "Viimati uuendatud", articles: "artiklit", published: "Avaldatud", notable: "Märkimisväärne", sortLabel: "Sorteeri", sortDate: "Uusim", sortRelevance: "Kõige asjakohasem", read: "Loe algallikat →", empty: "Voogu valmistatakse ette — vaata tagasi pärast esimest käivitamist.", disclaimer: "Kokkuvõtted on loodud tehisintellektiga ja võivad sisaldada vigu. Kontrolli alati algallikat.", locale: "et-EE" },
-      lv: { label: "Valoda", tagline: "Ikdienas automātiski veidota plūsma ar jaunākajiem pētījumiem un ziņām par psihedēliskām vielām.", updated: "Pēdējoreiz atjaunināts", articles: "raksti", published: "Publicēts", notable: "Ievērojams", sortLabel: "Kārtot pēc", sortDate: "Jaunākie", sortRelevance: "Visatbilstošākie", read: "Lasīt oriģinālo avotu →", empty: "Plūsma tiek sagatavota — atgriezieties pēc pirmās palaišanas.", disclaimer: "Kopsavilkumus ģenerē mākslīgais intelekts un tie var saturēt kļūdas. Vienmēr pārbaudiet oriģinālo avotu.", locale: "lv-LV" },
-      lt: { label: "Kalba", tagline: "Kasdienis automatiškai sudaromas naujų psichodelikų tyrimų ir naujienų srautas.", updated: "Paskutinį kartą atnaujinta", articles: "straipsniai", published: "Paskelbta", notable: "Reikšminga", sortLabel: "Rikiuoti pagal", sortDate: "Naujausi", sortRelevance: "Aktualiausi", read: "Skaityti originalų šaltinį →", empty: "Srautas ruošiamas — užsukite po pirmojo paleidimo.", disclaimer: "Santraukas generuoja dirbtinis intelektas ir jose gali būti klaidų. Visada patikrinkite originalų šaltinį.", locale: "lt-LT" },
+      en: { label: "Language", tagline: "A daily, automatically curated feed of new research and news on psychedelics.", updated: "Last updated", articles: "articles", published: "Published", notable: "Notable", sortLabel: "Sort by", sortDate: "Newest", sortRelevance: "Most relevant", read: "Read the original source →", empty: "The feed is being prepared — check back after the first run.", disclaimer: "Summaries are AI-generated and may contain errors. Always check the original source.", allOption: "All", substanceLabel: "Substance", studyTypeLabel: "Study type", st_rct: "Randomized controlled trial", st_review: "Review / meta-analysis", st_case_report: "Case report / series", st_observational: "Observational / cohort", st_preclinical: "Preclinical / animal study", st_qualitative: "Qualitative study", st_other: "Other", locale: "en-GB" },
+      sv: { label: "Språk", tagline: "Ett dagligt, automatiskt kurerat flöde av ny forskning och nyheter om psykedelika.", updated: "Senast uppdaterad", articles: "artiklar", published: "Publicerad", notable: "Anmärkningsvärt", sortLabel: "Sortera efter", sortDate: "Nyast", sortRelevance: "Mest relevant", read: "Läs originalkällan →", empty: "Flödet förbereds — kom tillbaka efter första körningen.", disclaimer: "Sammanfattningarna genereras med AI och kan innehålla fel. Kontrollera alltid originalkällan.", allOption: "Alla", substanceLabel: "Substans", studyTypeLabel: "Studietyp", st_rct: "Randomiserad kontrollerad studie", st_review: "Översikt / metaanalys", st_case_report: "Fallrapport / fallserie", st_observational: "Observationsstudie / kohort", st_preclinical: "Preklinisk / djurstudie", st_qualitative: "Kvalitativ studie", st_other: "Övrigt", locale: "sv-SE" },
+      no: { label: "Språk", tagline: "En daglig, automatisk kuratert strøm av ny forskning og nyheter om psykedelika.", updated: "Sist oppdatert", articles: "artikler", published: "Publisert", notable: "Bemerkelsesverdig", sortLabel: "Sorter etter", sortDate: "Nyest", sortRelevance: "Mest relevant", read: "Les originalkilden →", empty: "Strømmen forberedes — kom tilbake etter første kjøring.", disclaimer: "Sammendragene genereres med KI og kan inneholde feil. Sjekk alltid originalkilden.", allOption: "Alle", substanceLabel: "Substans", studyTypeLabel: "Studietype", st_rct: "Randomisert kontrollert studie", st_review: "Oversikt / metaanalyse", st_case_report: "Kasusrapport / kasusserie", st_observational: "Observasjonsstudie / kohort", st_preclinical: "Preklinisk / dyrestudie", st_qualitative: "Kvalitativ studie", st_other: "Annet", locale: "nb-NO" },
+      da: { label: "Sprog", tagline: "Et dagligt, automatisk kurateret feed med ny forskning og nyheder om psykedelika.", updated: "Senest opdateret", articles: "artikler", published: "Udgivet", notable: "Bemærkelsesværdigt", sortLabel: "Sortér efter", sortDate: "Nyeste", sortRelevance: "Mest relevant", read: "Læs den oprindelige kilde →", empty: "Feedet forberedes — kom tilbage efter første kørsel.", disclaimer: "Resuméerne genereres med AI og kan indeholde fejl. Tjek altid den oprindelige kilde.", allOption: "Alle", substanceLabel: "Stof", studyTypeLabel: "Studietype", st_rct: "Randomiseret kontrolleret forsøg", st_review: "Oversigt / metaanalyse", st_case_report: "Case report / -serie", st_observational: "Observationsstudie / kohorte", st_preclinical: "Præklinisk / dyrestudie", st_qualitative: "Kvalitativt studie", st_other: "Andet", locale: "da-DK" },
+      fi: { label: "Kieli", tagline: "Päivittäin automaattisesti koottu syöte uudesta psykedeeleihin liittyvästä tutkimuksesta ja uutisista.", updated: "Päivitetty viimeksi", articles: "artikkelia", published: "Julkaistu", notable: "Merkittävä", sortLabel: "Järjestä", sortDate: "Uusin", sortRelevance: "Osuvin", read: "Lue alkuperäinen lähde →", empty: "Syötettä valmistellaan — palaa ensimmäisen ajon jälkeen.", disclaimer: "Tiivistelmät on luotu tekoälyllä ja ne voivat sisältää virheitä. Tarkista aina alkuperäinen lähde.", allOption: "Kaikki", substanceLabel: "Aine", studyTypeLabel: "Tutkimustyyppi", st_rct: "Satunnaistettu kontrolloitu tutkimus", st_review: "Katsaus / meta-analyysi", st_case_report: "Tapausselostus / -sarja", st_observational: "Havainnointitutkimus / kohortti", st_preclinical: "Prekliininen / eläintutkimus", st_qualitative: "Laadullinen tutkimus", st_other: "Muu", locale: "fi-FI" },
+      is: { label: "Tungumál", tagline: "Daglegt, sjálfvirkt valið streymi af nýjum rannsóknum og fréttum um hugvíkkandi efni.", updated: "Síðast uppfært", articles: "greinar", published: "Birt", notable: "Athyglisvert", sortLabel: "Raða eftir", sortDate: "Nýjast", sortRelevance: "Mest viðeigandi", read: "Lesa upprunalegu heimildina →", empty: "Streymið er í undirbúningi — líttu við eftir fyrstu keyrslu.", disclaimer: "Samantektir eru búnar til með gervigreind og geta innihaldið villur. Athugaðu alltaf upprunalegu heimildina.", allOption: "Allt", substanceLabel: "Efni", studyTypeLabel: "Rannsóknartegund", st_rct: "Slembiröðuð samanburðarrannsókn", st_review: "Yfirlit / safngreining", st_case_report: "Tilfellalýsing / tilfellaröð", st_observational: "Ferilrannsókn / hópur", st_preclinical: "Forklínísk / dýrarannsókn", st_qualitative: "Eigindleg rannsókn", st_other: "Annað", locale: "is-IS" },
+      et: { label: "Keel", tagline: "Iga päev automaatselt koostatud uudisvoog uutest psühhedeelikume käsitlevatest uuringutest ja uudistest.", updated: "Viimati uuendatud", articles: "artiklit", published: "Avaldatud", notable: "Märkimisväärne", sortLabel: "Sorteeri", sortDate: "Uusim", sortRelevance: "Kõige asjakohasem", read: "Loe algallikat →", empty: "Voogu valmistatakse ette — vaata tagasi pärast esimest käivitamist.", disclaimer: "Kokkuvõtted on loodud tehisintellektiga ja võivad sisaldada vigu. Kontrolli alati algallikat.", allOption: "Kõik", substanceLabel: "Aine", studyTypeLabel: "Uuringu tüüp", st_rct: "Randomiseeritud kontrollitud uuring", st_review: "Ülevaade / metaanalüüs", st_case_report: "Juhtumikirjeldus / -sari", st_observational: "Vaatlusuuring / kohort", st_preclinical: "Prekliiniline / loomkatse", st_qualitative: "Kvalitatiivne uuring", st_other: "Muu", locale: "et-EE" },
+      lv: { label: "Valoda", tagline: "Ikdienas automātiski veidota plūsma ar jaunākajiem pētījumiem un ziņām par psihedēliskām vielām.", updated: "Pēdējoreiz atjaunināts", articles: "raksti", published: "Publicēts", notable: "Ievērojams", sortLabel: "Kārtot pēc", sortDate: "Jaunākie", sortRelevance: "Visatbilstošākie", read: "Lasīt oriģinālo avotu →", empty: "Plūsma tiek sagatavota — atgriezieties pēc pirmās palaišanas.", disclaimer: "Kopsavilkumus ģenerē mākslīgais intelekts un tie var saturēt kļūdas. Vienmēr pārbaudiet oriģinālo avotu.", allOption: "Visi", substanceLabel: "Viela", studyTypeLabel: "Pētījuma veids", st_rct: "Randomizēts kontrolēts pētījums", st_review: "Pārskats / metaanalīze", st_case_report: "Gadījuma apraksts / sērija", st_observational: "Novērojumu pētījums / kohorta", st_preclinical: "Preklīniskais / dzīvnieku pētījums", st_qualitative: "Kvalitatīvs pētījums", st_other: "Cits", locale: "lv-LV" },
+      lt: { label: "Kalba", tagline: "Kasdienis automatiškai sudaromas naujų psichodelikų tyrimų ir naujienų srautas.", updated: "Paskutinį kartą atnaujinta", articles: "straipsniai", published: "Paskelbta", notable: "Reikšminga", sortLabel: "Rikiuoti pagal", sortDate: "Naujausi", sortRelevance: "Aktualiausi", read: "Skaityti originalų šaltinį →", empty: "Srautas ruošiamas — užsukite po pirmojo paleidimo.", disclaimer: "Santraukas generuoja dirbtinis intelektas ir jose gali būti klaidų. Visada patikrinkite originalų šaltinį.", allOption: "Visi", substanceLabel: "Medžiaga", studyTypeLabel: "Tyrimo tipas", st_rct: "Atsitiktinių imčių kontroliuojamas tyrimas", st_review: "Apžvalga / metaanalizė", st_case_report: "Atvejo ataskaita / serija", st_observational: "Stebėjimo tyrimas / kohorta", st_preclinical: "Ikiklinikinis / gyvūnų tyrimas", st_qualitative: "Kokybinis tyrimas", st_other: "Kita", locale: "lt-LT" },
     };
 
     // Source filter groups
@@ -188,9 +194,9 @@
     let currentFilter = "all";
 
     // Sort options. "date" relies on the feed already being newest-first
-    // from the server — no client re-sort needed. "relevance" and
-    // "notable" re-sort using Array.sort's stable-sort guarantee, so date
-    // order is preserved as the tiebreaker within each group.
+    // from the server — no client re-sort needed. "relevance" re-sorts
+    // using Array.sort's stable-sort guarantee, so date order is
+    // preserved as the tiebreaker among equally-scored items.
     const SORT_OPTIONS = ["date", "relevance"];
     let currentSort = "date";
 
@@ -200,6 +206,25 @@
       }
       return items; // "date" — already sorted server-side
     }
+
+    // Substance names are scientific/proper nouns — kept identical across
+    // all 9 site languages rather than translated.
+    const SUBSTANCE_OPTIONS = {
+      all: null,
+      psilocybin: "Psilocybin",
+      lsd: "LSD",
+      mdma: "MDMA",
+      ketamine: "Ketamine / esketamine",
+      ayahuasca: "Ayahuasca / DMT",
+      ibogaine: "Ibogaine",
+      mescaline: "Mescaline",
+      other: "Other / multiple",
+    };
+    let currentSubstance = "all";
+
+    // Study type values match web_feed.py's FILTER_PROMPT classification.
+    const STUDY_TYPE_VALUES = ["all", "rct", "review", "case_report", "observational", "preclinical", "qualitative", "other"];
+    let currentStudyType = "all";
 
     let weeklyData = { digests: [] };
     let quarterlyData = { analyses: [] };
@@ -254,15 +279,30 @@
         opt.textContent = opt.value === "date" ? t.sortDate : t.sortRelevance;
       });
 
+      document.getElementById("substance-label").textContent = t.substanceLabel;
+      document.getElementById("substance").options[0].textContent = t.allOption;
+
+      document.getElementById("study-type-label").textContent = t.studyTypeLabel;
+      const studyTypeSel = document.getElementById("study-type");
+      Array.from(studyTypeSel.options).forEach(opt => {
+        opt.textContent = opt.value === "all" ? t.allOption : t["st_" + opt.value];
+      });
+
       const meta = document.getElementById("meta");
       const feed = document.getElementById("feed");
       const allItems = feedData.items || [];
 
-      // Apply source filter, then sort
+      // Apply source, substance, and study-type filters, then sort
       const allowedSources = SOURCE_GROUPS[currentFilter];
-      const filtered = allowedSources
+      let filtered = allowedSources
         ? allItems.filter(it => allowedSources.includes(it.source))
         : allItems;
+      if (currentSubstance !== "all") {
+        filtered = filtered.filter(it => (it.substances || []).includes(currentSubstance));
+      }
+      if (currentStudyType !== "all") {
+        filtered = filtered.filter(it => it.study_type === currentStudyType);
+      }
       const items = sortItems(filtered, currentSort);
 
       meta.textContent = (feedData.generated_at ? t.updated + " " + fmtDate(feedData.generated_at, t.locale) + " · " : "") + items.length + " " + t.articles;
@@ -272,7 +312,7 @@
         return;
       }
       if (!items.length) {
-        feed.innerHTML = '<div class="empty">No articles from this source group yet.</div>';
+        feed.innerHTML = '<div class="empty">No articles match the selected filters yet.</div>';
         return;
       }
 
@@ -284,10 +324,18 @@
         const notableHtml = it.notable
           ? `<div><span class="notable-badge">⚡ ${t.notable}</span>${nreason ? `<span class="notable-reason"> — ${nreason}</span>` : ""}</div>`
           : "";
+        const tagPills = [
+          ...(it.study_type && it.study_type !== "other" ? [t["st_" + it.study_type]] : []),
+          ...(it.substances || []).filter(s => s !== "other").map(s => SUBSTANCE_OPTIONS[s]),
+        ].filter(Boolean);
+        const tagsHtml = tagPills.length
+          ? `<div class="tag-row">${tagPills.map(p => `<span class="tag-pill">${p}</span>`).join("")}</div>`
+          : "";
         return `
         <article class="card${it.notable ? " card-notable" : ""}">
           <div class="source">${it.source || ""}${it.date ? " · " + t.published + " " + fmtDate(it.date, t.locale) : ""}</div>
           ${authorsHtml}
+          ${tagsHtml}
           ${notableHtml}
           <h2><a href="${it.url}" target="_blank" rel="noopener">${it.title}</a></h2>
           <p class="summary">${summaryFor(it, currentLang)}</p>
@@ -390,6 +438,26 @@
     sortSelEl.value = currentSort;
     sortSelEl.addEventListener("change", () => {
       currentSort = sortSelEl.value;
+      render();
+    });
+
+    // Build the substance menu (labels are scientific names — not localized)
+    const substanceSelEl = document.getElementById("substance");
+    substanceSelEl.innerHTML = Object.keys(SUBSTANCE_OPTIONS).map(key =>
+      `<option value="${key}">${key === "all" ? "" : SUBSTANCE_OPTIONS[key]}</option>`
+    ).join("");
+    substanceSelEl.value = currentSubstance;
+    substanceSelEl.addEventListener("change", () => {
+      currentSubstance = substanceSelEl.value;
+      render();
+    });
+
+    // Build the study type menu (labels filled in by render(), per-language)
+    const studyTypeSelEl = document.getElementById("study-type");
+    studyTypeSelEl.innerHTML = STUDY_TYPE_VALUES.map(v => `<option value="${v}"></option>`).join("");
+    studyTypeSelEl.value = currentStudyType;
+    studyTypeSelEl.addEventListener("change", () => {
+      currentStudyType = studyTypeSelEl.value;
       render();
     });
 

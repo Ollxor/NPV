@@ -182,7 +182,17 @@ def fetch_pubmed() -> list[Article]:
                 ).strip()
                 year = article_el.findtext(".//PubDate/Year", "")
                 month = article_el.findtext(".//PubDate/Month", "")
-                date = f"{year}-{month}" if month else year
+                day = article_el.findtext(".//PubDate/Day", "")
+                # PubMed's PubDate is often incomplete (year-only or
+                # year+month) — keep whatever precision is actually
+                # present rather than fabricating a day. The frontend
+                # displays precision-aware dates based on this structure.
+                if month and day:
+                    date = f"{year}-{month}-{day}"
+                elif month:
+                    date = f"{year}-{month}"
+                else:
+                    date = year
                 authors_els = article_el.findall(".//Author")
                 authors = []
                 for a in authors_els[:3]:

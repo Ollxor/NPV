@@ -2,7 +2,7 @@ name: NPV Weekly Digest
 
 on:
   schedule:
-    - cron: '30 7 * * 1'  # Monday 07:30 UTC — after daily scan (06:00) and web feed (06:30)
+    - cron: '0 11 * * 5'  # Friday 11:00 UTC = 12:00 CET (13:00 CEST)
   workflow_dispatch:
     inputs:
       dry_run:
@@ -29,7 +29,7 @@ jobs:
           python-version: '3.11'
 
       - name: Install dependencies
-        run: pip install anthropic requests
+        run: pip install -r requirements.txt  # weekly_digest imports web_feed for LANGUAGES
 
       - name: Run weekly digest
         env:

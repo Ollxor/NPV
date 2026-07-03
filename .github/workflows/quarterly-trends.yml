@@ -32,7 +32,7 @@ jobs:
           python-version: '3.11'
 
       - name: Install dependencies
-        run: pip install anthropic requests
+        run: pip install -r requirements.txt  # quarterly_trends imports web_feed for LANGUAGES
 
       - name: Run quarterly trend analysis
         env:

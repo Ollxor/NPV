@@ -9,7 +9,10 @@ from datetime import datetime, timedelta, timezone
 import anthropic
 import requests
 
+from web_feed import LANGUAGES
+
 MODEL = "claude-opus-4-8"
+TRANSLATE_MODEL = "claude-sonnet-4-6"  # translation doesn't need Opus
 _DATA_DIR = os.path.join(os.path.dirname(__file__), "..", "data")
 _DOCS_DATA_DIR = os.path.join(os.path.dirname(__file__), "..", "docs", "data")
 ARCHIVE_FILE = os.path.join(_DATA_DIR, "archive.json")
@@ -54,6 +57,44 @@ def _quarter_label(iso_date: str) -> str:
 def _md_to_slack(text: str) -> str:
     """Convert GitHub-style **bold** to Slack mrkdwn *bold*."""
     return re.sub(r"\*\*(.+?)\*\*", r"*\1*", text)
+
+
+TRANSLATE_PROMPT = """\
+Translate the following Swedish quarterly research trend analysis into each \
+of these languages, preserving markdown **bold**, numbered sections, numbers, \
+drug/trial names, and paragraph breaks exactly:
+- en, no, da, fi, is, et, lv, lt
+
+Swedish text:
+{text}
+
+Reply ONLY with a JSON object whose keys are the language codes above and \
+whose values are the translated strings. No other text."""
+
+
+def _translate_analysis(client: anthropic.Anthropic, sv_text: str) -> dict:
+    """Returns {lang_code: text} for every language in LANGUAGES, including sv."""
+    texts = {"sv": sv_text}
+    try:
+        msg = client.messages.create(
+            model=TRANSLATE_MODEL,
+            max_tokens=3500,
+            messages=[{"role": "user", "content": TRANSLATE_PROMPT.format(text=sv_text)}],
+        )
+        raw = msg.content[0].text.strip()
+        if raw.startswith("```"):
+            raw = raw.split("```")[1]
+            if raw.startswith("json"):
+                raw = raw[4:]
+        data = json.loads(raw)
+        for code in LANGUAGES:
+            if code != "sv":
+                texts[code] = data.get(code) or sv_text
+    except Exception as e:
+        print(f"  [translate] Error translating analysis: {e}")
+        for code in LANGUAGES:
+            texts.setdefault(code, sv_text)
+    return texts
 
 
 def main() -> None:
@@ -162,10 +203,13 @@ def main() -> None:
         print(analysis)
         return
 
+    print("Translating analysis into all site languages...")
+    texts = _translate_analysis(client, analysis)
+
     # Write to GitHub Pages — dedup by quarter so re-runs replace, not duplicate
     entry = {
         "quarter": now_label,
-        "text": analysis,
+        "texts": texts,
         "total_archive": len(items),
         "quarter_count": len(current_items),
         "generated_at": datetime.now(timezone.utc).isoformat(),

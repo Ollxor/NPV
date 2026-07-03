@@ -8,6 +8,8 @@ from datetime import datetime, timedelta, timezone
 import anthropic
 import requests
 
+from web_feed import LANGUAGES
+
 MODEL = "claude-sonnet-4-6"
 _DATA_DIR = os.path.join(os.path.dirname(__file__), "..", "data")
 _DOCS_DATA_DIR = os.path.join(os.path.dirname(__file__), "..", "docs", "data")
@@ -33,10 +35,47 @@ Veckans artiklar:
 
 Svara ENBART med kröniketexten, inga rubriker eller JSON."""
 
+TRANSLATE_PROMPT = """\
+Translate the following Swedish weekly research digest into each of these \
+languages, preserving markdown **bold**, the ⚡ emoji markers, numbers, \
+drug/trial names, and paragraph breaks exactly:
+- en, no, da, fi, is, et, lv, lt
+
+Swedish text:
+{text}
+
+Reply ONLY with a JSON object whose keys are the language codes above and \
+whose values are the translated strings. No other text."""
+
 
 def _md_to_slack(text: str) -> str:
     """Convert GitHub-style **bold** to Slack mrkdwn *bold*."""
     return re.sub(r"\*\*(.+?)\*\*", r"*\1*", text)
+
+
+def _translate_digest(client: anthropic.Anthropic, sv_text: str) -> dict:
+    """Returns {lang_code: text} for every language in LANGUAGES, including sv."""
+    texts = {"sv": sv_text}
+    try:
+        msg = client.messages.create(
+            model=MODEL,
+            max_tokens=3000,
+            messages=[{"role": "user", "content": TRANSLATE_PROMPT.format(text=sv_text)}],
+        )
+        raw = msg.content[0].text.strip()
+        if raw.startswith("```"):
+            raw = raw.split("```")[1]
+            if raw.startswith("json"):
+                raw = raw[4:]
+        data = json.loads(raw)
+        for code in LANGUAGES:
+            if code != "sv":
+                texts[code] = data.get(code) or sv_text
+    except Exception as e:
+        print(f"  [translate] Error translating digest: {e}")
+        for code in LANGUAGES:
+            texts.setdefault(code, sv_text)
+    return texts
 
 
 def main() -> None:
@@ -136,11 +175,14 @@ def main() -> None:
         print(digest)
         return
 
+    print("Translating digest into all site languages...")
+    texts = _translate_digest(client, digest)
+
     # Write to GitHub Pages — dedup by week so re-runs replace, not duplicate
     week_of = datetime.now(timezone.utc).strftime("%Y-%m-%d")
     entry = {
         "week_of": week_of,
-        "text": digest,
+        "texts": texts,
         "article_count": len(week_items),
         "notable_count": notable_count,
         "generated_at": datetime.now(timezone.utc).isoformat(),

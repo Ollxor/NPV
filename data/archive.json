@@ -1,6 +1,81 @@
 {
   "items": [
     {
+      "title": "Psilocybin as a Transdiagnostic Treatment for Eating Disorders and Comorbid Psychopathology: Implications for Clinical Nosology and Research Directions.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42393007/",
+      "source": "PubMed",
+      "date": "2026-07-02",
+      "authors": [
+        "Koning Elena",
+        "Richard Jérémie",
+        "Keshen Aaron"
+      ],
+      "doi": "10.1002/eat.70164",
+      "summary_en": "A narrative review examines psilocybin as a transdiagnostic treatment for eating disorders and psychiatric comorbidities. Preliminary clinical evidence supports feasibility, safety, and therapeutic effects. Proposed mechanisms—serotonergic agonism, psychoplastogenic effects, neural desynchronization—target shared vulnerabilities across conditions, mapping onto HiTOP and RDoC dimensional frameworks. Future research should optimize trial design for this novel intervention approach.",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "review",
+      "substances": [
+        "psilocybin"
+      ],
+      "added_at": "2026-07-03T09:41:06.927715+00:00"
+    },
+    {
+      "title": "Consensus by design: Conflict of interest and the intravenous ketamine Delphi guidelines.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42392512/",
+      "source": "PubMed",
+      "date": "2026-07-02",
+      "authors": [
+        "Saguin Emeric",
+        "Looten Vincent"
+      ],
+      "doi": "10.1016/j.jad.2026.122194",
+      "summary_en": "Critical analysis of the intravenous ketamine Delphi consensus guidelines, examining potential conflicts of interest in the expert panel and their influence on guideline development methodology.",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "other",
+      "substances": [
+        "ketamine"
+      ],
+      "added_at": "2026-07-03T09:41:06.927715+00:00"
+    },
+    {
+      "title": "Readability of informed consent forms from ClinicalTrials.gov in ketamine clinical trials for mental health conditions: a cross-sectional analysis.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42388555/",
+      "source": "PubMed",
+      "date": "2026-06-29",
+      "authors": [
+        "Swieczkowski Damian",
+        "Kwaśny Aleksander",
+        "Cubała Wiesław Jerzy"
+      ],
+      "doi": "10.1177/20451253261456385",
+      "summary_en": "Cross-sectional analysis of 14 ketamine clinical trials examining readability of informed consent forms (ICFs) on ClinicalTrials.gov. ICFs averaged 5031 words requiring 21.4 minutes to read. Flesch-Kincaid Grade Level averaged 9.8 (13/14 documents above grade 8), indicating readability challenges for participants with cognitive or psychiatric symptoms.",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "observational",
+      "substances": [
+        "ketamine"
+      ],
+      "added_at": "2026-07-03T09:41:06.927715+00:00"
+    },
+    {
+      "title": "Quarterly Psychedelics Briefing: Q2 2026",
+      "url": "https://psychedelicalpha.com/news/quarterly-briefing-q2-2026/",
+      "source": "Psychedelic Alpha",
+      "date": "2026-07-03",
+      "authors": [],
+      "doi": "",
+      "summary_en": "Psychedelic Alpha's Q2 2026 quarterly briefing reviews major developments in hallucinogen research, drug development, policy, and regulation from the past three months. Editor Josh Hardman surveys progress across academia and industry, then forecasts upcoming trends for the next quarter.",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "other",
+      "substances": [
+        "other"
+      ],
+      "added_at": "2026-07-03T09:41:06.927715+00:00"
+    },
+    {
       "title": "Psychedelics and autism spectrum disorder: Mechanistic insights, translational evidence and ethical challenges.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42385294/",
       "source": "PubMed",

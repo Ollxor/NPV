@@ -1,13 +1,51 @@
 {
-  "date": "2026-07-02",
-  "cached_at": "2026-07-02T08:52:46.558011+00:00",
+  "date": "2026-07-03",
+  "cached_at": "2026-07-03T08:58:50.443847+00:00",
   "articles": [
+    {
+      "title": "Psilocybin as a Transdiagnostic Treatment for Eating Disorders and Comorbid Psychopathology: Implications for Clinical Nosology and Research Directions.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42393007/",
+      "source": "PubMed",
+      "abstract": "Eating disorders (EDs) are characterized by high rates of psychiatric comorbidity and suboptimal treatment outcomes. There remain critical gaps in research, including the exploration of effective transdiagnostic interventions. This forum article examines the potential of psilocybin treatment (PT) as a transdiagnostic intervention for EDs and common comorbidities, including the implications for alternative nosological frameworks, trial design, and clinical care. A narrative review was conducted synthesizing clinical, mechanistic, and conceptual literature on PT for EDs and common psychiatric comorbidities. Searches of academic databases were supplemented by hand-searching and clinical trial registries. Thematic synthesis focused on transdiagnostic clinical evidence, mechanistic theories, and implications for the Hierarchical Taxonomy of Psychopathology (HiTOP), Research Domain Criteria (RDoC), treatment development, and clinical trial design. Preliminary clinical evidence supports the feasibility, safety, and therapeutic effects of PT for EDs, with robust transdiagnostic effects observed across comorbid conditions. Proposed mechanisms (i.e., serotonergic receptor agonism, psychoplastogenic effects, neural network desynchronization) target shared vulnerabilities that map onto dimensional constructs in HiTOP (Emotional Dysfunction superspectrum, Internalizing spectrum) and RDoC (negative/positive valence, cognitive, and social process domains) nosologies. Future research should explore pragmatic trial designs and dimensional outcome measures to capture the real-world complexities of PT for EDs. PT demonstrates transdiagnostic therapeutic potential for EDs, and the advancement of dimensional nosologies, complex intervention frameworks, and personalized treatment protocols may address existing gaps in research and clinical care.",
+      "date": "2026-07-02",
+      "authors": [
+        "Koning Elena",
+        "Richard Jérémie",
+        "Keshen Aaron"
+      ],
+      "doi": "10.1002/eat.70164"
+    },
+    {
+      "title": "Consensus by design: Conflict of interest and the intravenous ketamine Delphi guidelines.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42392512/",
+      "source": "PubMed",
+      "abstract": "",
+      "date": "2026-07-02",
+      "authors": [
+        "Saguin Emeric",
+        "Looten Vincent"
+      ],
+      "doi": "10.1016/j.jad.2026.122194"
+    },
+    {
+      "title": "Readability of informed consent forms from ClinicalTrials.gov in ketamine clinical trials for mental health conditions: a cross-sectional analysis.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42388555/",
+      "source": "PubMed",
+      "abstract": "Ensuring participants understand informed consent forms (ICFs) is a core ethical requirement of clinical research, particularly in psychiatry, where cognitive and affective symptoms can compromise decisional capacity. As ketamine-based interventions are increasingly studied for mental health conditions, the readability of consent materials in these trials warrants systematic evaluation. To assess the readability and linguistic complexity of ICFs from ClinicalTrials.gov used in ketamine clinical trials for mental health conditions. Cross-sectional analysis. We conducted a cross-sectional analysis of English-language ICFs posted on ClinicalTrials.gov for interventional ketamine clinical trials involving mental health conditions. All documents were converted to plain text and standardised for text-based analysis. Readability and linguistic complexity were assessed using established indices, including the Flesch-Kincaid Grade Level, Gunning Fog Index, Flesch Reading Ease Score, and Fry Readability Graph. Document length and estimated silent reading time were also calculated. Descriptive statistics summarised the findings. Fourteen ketamine clinical trials met the inclusion criteria. ICFs ranged from 1681 to 8637 words (mean: 5031; median: 4622), with sentence counts from 129 to 503. Estimated silent reading times ranged from 7.0 to 36.0 min (mean: 21.4; median: 19.5). Flesch-Kincaid Grade Level scores ranged from 5.7 to 11.5 (mean: 9.8), with 13 of 14 documents above grade 8. Gunning Fog Index values ranged from 7.7 to 13.8 (mean: 11.7). Flesch Reading Ease Scores ranged from 41.3 to 73.9 (mean: 52.8). Fry Readability scores ranged from grade 6 to grade 13. Thirteen of fourteen ketamine mental health trial consent forms on ClinicalTrials.gov exceeded recommended readability thresholds. Sponsors and ethics committees should require consent materials to meet an eighth-grade reading level, verified by a documented readability assessment before approval, to support informed participation in psychiatric research. Plain language title: how easy are consent forms to read in ketamine mental health trials? People who participate in clinical trials must receive clear and understandable information before deciding whether to take part. This information is usually provided in an informed consent form. In mental health research, this is especially important because symptoms such as low concentration, low mood, or anxiety can make it harder to process complex written information. Ketamine is increasingly studied as a treatment for mental health conditions such as depression, post-traumatic stress disorder, and substance use disorders. In this study, we examined how easy it is to read the informed consent forms used in ketamine clinical trials. We analysed informed consent forms posted on the ClinicalTrials.gov website. Only English-language forms from interventional ketamine trials for mental health conditions were included. In total, 14 consent forms met the inclusion criteria. We measured basic features of the text, such as length and estimated reading time, and applied several widely used readability formulas. These formulas estimate the level of education a reader may need to understand the text. The consent forms varied greatly in length, ranging from about 1,700 to more than 8,600 words. On average, a person would need more than 20 minutes to read a single consent form. Most forms required a reading level above what is usually recommended for health information. Thirteen of the fourteen consent forms exceeded at least one commonly recommended readability threshold. These findings suggest that many consent forms used in ketamine mental health trials may be difficult to read for people with lower reading skills or for patients experiencing mental health symptoms. Using simpler language and clearer sentence structures may help future participants better understand trial information and make more informed decisions about participation.",
+      "date": "2026-06-29",
+      "authors": [
+        "Swieczkowski Damian",
+        "Kwaśny Aleksander",
+        "Cubała Wiesław Jerzy"
+      ],
+      "doi": "10.1177/20451253261456385"
+    },
     {
       "title": "Psychedelics and autism spectrum disorder: Mechanistic insights, translational evidence and ethical challenges.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42385294/",
       "source": "PubMed",
       "abstract": "Autism spectrum disorder (ASD) is a heterogeneous neurodevelopmental condition characterized by persistent deficits in social communication and interaction, restricted and repetitive patterns of behavior, and sensory processing alterations, frequently accompanied by anxiety, emotional dysregulation, and other psychiatric comorbidities. Despite advances in behavioral and pharmacological interventions, effective treatments for core ASD symptoms remain limited. Psychedelic compounds have recently emerged as potential therapeutic agents in psychiatry because of their ability to modulate serotonergic and glutamatergic signaling, enhance neuroplasticity, reorganize large-scale brain networks, and influence neurobiological pathways implicated in ASD. In this narrative review, we examine the mechanistic rationale supporting psychedelic-based approaches in ASD, including 5-HT2A receptor activation, oxytocin-serotonin interactions, excitation-inhibition dynamics, functional connectivity, and glutamatergic modulation associated with ketamine and related compounds. We also summarize current clinical and preclinical evidence involving substances such as psilocybin, lysergic acid diethylamide, 3,4-methylenedioxymethamphetamine, and ketamine. Particular attention is given to the distinction between core ASD symptoms and associated symptom domains. Current evidence does not support the direct treatment of core social communication deficits or restricted and repetitive behaviors; however, psychedelics may hold greater potential for dimensions such as social anxiety, emotional dysregulation, cognitive rigidity, and co-occurring mood symptoms. Ethical, regulatory, and developmental safety considerations are also discussed, particularly regarding neurodivergent populations and the absence of robust pediatric evidence. Although direct clinical studies in ASD remain scarce, psychedelic-assisted interventions represent a promising translational avenue that warrants further rigorous investigation through carefully designed clinical trials.",
-      "date": "2026-Jun",
+      "date": "2026-06-23",
       "authors": [
         "Claudino Dos Santos Júlio César",
         "Bolan Sofia Januário",
@@ -20,7 +58,7 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42384049/",
       "source": "PubMed",
       "abstract": "Alcohol Use Disorder (AUD) and Major Depressive Disorder (MDD) are two highly prevalent psychiatric disorders with a high comorbidity rate, which is significantly higher rate than other combinations of mental disorders and substance use disorders. This comorbidity not only imposes a substantial disease burden on individuals but also significantly complicates clinical management, leading to more severe functional impairment, reduced treatment adherence, and increased resistance to monotherapy. AUD diagnosis varies by diagnostic system: DSM-V integrates alcohol dependence and abuse into 11 criteria with severity grading, while ICD-11 retains two subtypes and shows higher diagnostic rates for dependence. MDD, the depressive subtype with the highest AUD comorbidity rate, must be distinguished from alcohol-induced depression. Underlying mechanisms of this comorbidity involve bidirectional pathways as well as core pathophysiological processes including abnormal reward sensitivity, neurotrophic-inflammatory imbalance, dysregulation of neurotransmitter systems and the hypothalamic-pituitary-adrenal (HPA) axis, gut-brain axis disruption, and shared risk factors. Therapeutic strategies encompass multiple modalities: pharmacological interventions include selective serotonin reuptake inhibitors (SSRIs) combined with AUD-targeted therapies, as well as emerging agents like extended-release trazodone and ketamine; psychosocial interventions are dominated by cognitive behavioral therapy (CBT); physical therapies such as repetitive transcranial magnetic stimulation (rTMS) and gut-brain axis-targeted therapies also show therapeutic potential. Notably, integrated treatment models that simultaneously address both disorders have been proven to outperform sequential or parallel approaches. This review systematically synthesizes the latest evidence on the diagnosis, underlying mechanisms, and therapeutic strategies of AUD-MDD comorbidity, aiming to provide evidence-based references for clinical management.",
-      "date": "2026-Jul",
+      "date": "2026-07-01",
       "authors": [
         "Fang Bojia",
         "Hua Haoshui",
@@ -33,7 +71,7 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42382981/",
       "source": "PubMed",
       "abstract": "Treatment-resistant depression (TRD) and bipolar depression (TRBD) are severe, heterogeneous mood disorders associated with substantial functional impairment, elevated suicide risk and persistent unmet treatment needs. While pharmacological and psychological interventions continue to advance, many patients experience delayed, partial or unsustained benefit, underscoring the need for therapies with novel mechanisms and rapid onset of action. Ketamine and esketamine have emerged as distinctive treatments in this context, demonstrating rapid antidepressant and anti-suicidal effects, yet differing fundamentally from conventional antidepressants in their acute subjective effects, physiological profile, delivery models and misuse potential. This narrative review synthesizes evidence from regulatory guidance, clinical trials, observational studies and qualitative research to identify key patient information needs and propose practical psychoeducational strategies. Core elements include explanations of indications, mechanisms and treatment algorithms; guidance on visit preparation, scheduling and monitoring; management of acute adverse effects; counselling on suicidality and substance misuse; and tailored considerations for special populations, including older adults, women of reproductive potential and medically complex patients. Drawing on this synthesis, the review proposes a patient-centred framework for ketamine and esketamine psychoeducation, outlining key informational domains and practical tools that can be embedded within clinical services, and identifies priorities for future research aimed at optimizing patient experience and supporting the responsible integration of ketamine-based therapies into mood disorder care.",
-      "date": "2026",
+      "date": "2026-06-29",
       "authors": [
         "Kachlik Zofia",
         "Cubała Wiesław Jerzy",
@@ -46,7 +84,7 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42381187/",
       "source": "PubMed",
       "abstract": "Psilocybin has been shown to induce fast and sustained symptoms improvements across various psychiatric conditions, yet its long-term mechanisms of action are not fully understood. Initial evidence suggests that longitudinal functional and structural brain changes implicate fronto-striatal-thalamic (FST) circuitry, a broad system involved in goal-directed behavior and motivational states. Here, we performed secondary analyses and applied computational modeling to resting-state fMRI data from a within-subject longitudinal psilocybin trial in psychedelic-naïve healthy volunteers. We first showed that dynamic FST activity increased 4 weeks after a full dose of psilocybin. We then proceeded to mechanistically account for these changes by providing tentative model-based support that reductions in the structure-function coupling contribute to increased dynamic FST activity postpsilocybin. Finally, we used computational approaches to show that psilocybin induces longitudinal increases in bottom-up and reduced top-down modulation of FST circuits. We then used publicly available receptor maps to show that cortical reductions in top-down modulation are linked to regional 5-HT2A receptor availability, while increased information outflow via subcortical and limbic regions relates to local D2 receptor availability. Together, these findings suggest that increased FST flexibility weeks after a high dose of psilocybin is linked to serotonergic-mediated decreases in top-down information flow and dopaminergic-mediated increases in bottom-up information flow. This long-term functional re-organization of FST circuits may represent a common mechanism contributing to the potential clinical efficacy of psilocybin across various neuropsychiatric disorders including substance abuse, major depression, and anorexia nervosa.",
-      "date": "2026-Jul",
+      "date": "2026-Jul-1",
       "authors": [
         "Pasquini Lorenzo",
         "Vohryzek Jakub",
@@ -59,7 +97,7 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42380668/",
       "source": "PubMed",
       "abstract": "Interest in psychedelic drugs has increased rapidly because of their potential therapeutic role in psychiatric disorders. Impairments in the sociocognitive skills needed to build and maintain social relationships are prominent features of many psychiatric and neurodevelopmental disorders. Emerging evidence suggests that compounds such as 3,4-methylenedioxymethamphetamine (MDMA), lysergic acid diethylamide (LSD), and psilocybin may influence these impairments. This review aimed to determine whether psychedelic drugs may modulate social cognition in individuals with psychiatric or neurodevelopmental disorders associated with cognitive impairment. A search of the MEDLINE, PsycINFO, EMBASE, and Scopus databases was conducted. Twenty studies were identified that evaluated the effects of ketamine, MDMA, psilocybin, LSD, and ayahuasca in depressive disorders, anxiety disorders, autism spectrum disorder (ASD), and post-traumatic stress disorder (PTSD). Findings included neural activation patterns suggesting that ketamine and psilocybin may modulate processes relevant to social perception, particularly facial emotion processing, in depressive disorders. Positive findings were also reported for MDMA in participants with PTSD, including improvements in self-reported psychosocial functioning, self-awareness, and self-compassion. Current evidence suggests that psychedelic drugs may modulate processes relevant to social cognition in psychiatric disorders, although direct evidence of improved social-cognitive functioning remains limited. Not applicable.",
-      "date": "2026-Jul",
+      "date": "2026-07-01",
       "authors": [
         "Smith Sarah Ann",
         "Mohammad Haseeb",
@@ -72,7 +110,7 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42378255/",
       "source": "PubMed",
       "abstract": "Anorexia nervosa (AN) is a severe psychiatric disorder with high morbidity, mortality, and relapse rates, most commonly emerging during adolescence. Despite specialized psychological and nutritional treatments, outcomes remain suboptimal, with high rates of relapse and chronicity. Psilocybin has been investigated with preliminary efficacy in other psychiatric conditions characterized by rigidity and treatment resistance, but clinical evidence in AN-particularly in adolescents-is limited. The psiAN study aims to evaluate the safety, tolerability, and feasibility of psilocybin therapy combined with psychological support in adolescents and young adults with relapsing AN, while exploring clinical, experiential, and neurobiological correlates of change. A phase IIa, open-label, randomized controlled trial enrolling individuals aged 16-35 years with DSM-5 AN and a history of relapse. Participants are randomized to receive either two administrations of psilocybin (25 mg) with manualized psychological support plus treatment as usual (TAU), or TAU alone. Primary outcomes focus on safety and tolerability, assessed through adverse events, psychiatric monitoring, and medical parameters measured from first dosing to primary endpoint. Secondary outcomes include change in eating disorder symptom severity, relapse composite measures, mood, well-being, personality traits from baseline to primary endpoint with follow-up to 12 months. Functional magnetic resonance imaging (fMRI) and peripheral brain-derived neurotrophic factor are included as exploratory mechanistic measures. fMRI will evaluate pre- to post-intervention changes in structural and functional connectivity and task-related responses during a simplified Monetary Incentive Delay task (MIDT) and a Calorie-Cue Task (CCT). ClinicalTrials.gov Identifier: NCT07169747. The study follows Good Clinical Practice (GCP), the Declaration of Helsinki, and EU Clinical Trials Regulation requirements, with staged inclusion of adolescents (16-17-year-olds) after a safety board review of adult data (18-35-year-olds). This protocol was prepared with reference to the SPIRIT 2025 guidelines (Chan et al., 2025) to enhance transparency and inform future trials.",
-      "date": "2026",
+      "date": "2026-06-30",
       "authors": [
         "Sjöström David",
         "Schau Rybäck Olea",
@@ -85,7 +123,7 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42377483/",
       "source": "PubMed",
       "abstract": "Treatment resistance (TR) in major depressive disorder (MDD) affects a substantial minority of patients and is hard to recognize early, delaying intensified care. The Esketamine multi-omic biomarker evaluation in MDD (EMBER-MDD) is a non-interventional, investigator-initiated, in-vitro study within the EU Psych-STRATA programme, analyzing biospecimens collected in the randomized INTENSIFY study and the mirror OBS-TR cohort after participants complete treatment. EMBER-MDD aims to discover individual-omic and integrated multi-omic (hypothesis-free) biomarkers and signatures associated with TR risk, and molecular correlates of clinical response to esketamine nasal spray versus treatment as usual (TAU). Biomaterials will derive from approximately 420 adults with MDD (estimated n = 210 esketamine; n = 210 TAU) and include whole blood, RNA-stabilized whole blood, plasma and serum, sampled at baseline and, when feasible, during and after treatment (up to ~ 5,040 aliquots stored at - 80 °C). Genomics will use baseline DNA genotyping on Illumina Infinium GSA v3.0+MD arrays; epigenomics will profile genome-wide DNA methylation across time points using MethylationEPIC v2.0; transcriptomics will employ mRNA-seq (NovaSeq X/ X Plus); and proteomics/ metabolomics will be generated using high-throughput Olink and/ or Biocrates platforms. Each layer will undergo state-of-the-art preprocessing and analyses (e.g., GWAS/ PRS, EWAS, differential expression, WGCNA, pathway and network analyses), followed by integrative strategies including QTL mapping (meQTL/ eQTL/ pQTL/ mQTL) and intermediate-fusion machine learning with nested cross-validation, explainable AI (SHAP/ LIME) and treatment-effect modelling. All outputs are research-only and will not support individual efficacy, tolerability, or clinical decision-making. The study will deliver robust biosignatures and mechanistic hypotheses to guide future validation and inform stratified, molecularly guided intervention strategies in subsequent prospective trials. Trial registration number: 2023-506617-21-00 and 2025-178-f-S.",
-      "date": "2026-Jun",
+      "date": "2026-06-30",
       "authors": [
         "Hohoff C",
         "Lange T",
@@ -98,7 +136,7 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42369666/",
       "source": "PubMed",
       "abstract": "Both obsessions and paranoia are characterized by cognitive inflexibility, particularly in uncertain environments. Differential diagnosis can be challenging and depends on clinical interviews and self-report symptom questionnaires. We predicted that obsessions and paranoia would be associated with distinct suboptimal choice behavioral patterns in our well-established probabilistic reversal learning (PRL) task. Probabilistic reversal learning involves updating beliefs about rewards when contingencies change. Obsessions and paranoia have been linked to excessive switching behaviors during reversal learning; other reports have found perseveration in both OCD and schizophrenia. Here, we analyze data collected from the general population to assess associations between obsessions, paranoia, and PRL task performance. Using a recently developed computational approach - Bayesian Gaussian graphical modeling combined with a Hierarchical Gaussian Filter - we distinguish the impacts of paranoia and obsessions on reversal learning, which we find to be distinct despite the significant correlation of these clinical states. We find that win-switch behavior arises in paranoia from deficits in updating beliefs about uncertainty (i.e., volatility) in the global task structure, whereas excessive switching in OCD arises from diminished belief updating about choice-outcome associations.",
-      "date": "2026",
+      "date": "2026-06-24",
       "authors": [
         "Freeland Charlotte M",
         "Suthaharan Praveen",
@@ -111,7 +149,7 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42368821/",
       "source": "PubMed",
       "abstract": "Burst firing in the lateral habenula (LHb) is enhanced under stress and depression, and ketamine blocks burst firing in LHb to exert a rapid antidepressant effect. Thus, burst firing in LHb may serve as a cellular mechanism of depression and a promising therapeutic target for developing novel antidepressants. However, the mechanisms underlying burst firing in LHb are not fully understood. The present study aims to investigate the contribution of N-methyl-D-aspartate receptor (NMDAR) to burst firing in LHb. C57BL/6J male mice aged 8 to 10 weeks were used in the present study. Whole-cell recording was performed in brain slices containing LHb. Spontaneous and rebound burst firings were recorded in current-clamp mode. The effect of NMDAR antagonists, D-2-Amino-5-phosphonovaleric acid (D-AP5) and dizocilpine (MK-801), on burst firing was assessed. Spontaneous burst firing in LHb neurons persisted in the presence of a specific NMDAR antagonist, D-AP5. The percentages of neurons with spontaneous burst firing, burst firing frequency, and spike number per burst were not different between in D-AP5-containing bath solution and in control bath solution. D-AP5 also did not affect ongoing spontaneous burst firing. Rebound burst firing was not affected in the presence of D-AP5, nor was ongoing rebound burst firing. Likewise, MK-801, a use-dependent, non-competitive NMDAR antagonist, did not affect rebound burst firing. NMDARs are not necessary for the generation of burst firing in LHb neurons, although they may play a modulating role under certain states.",
-      "date": "2026",
+      "date": "2026-06-11",
       "authors": [
         "Zhou Rong",
         "Lu Jingjing",
@@ -124,7 +162,7 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42368238/",
       "source": "PubMed",
       "abstract": "A proportion of patients with obsessive-compulsive disorder (OCD) continue to experience disabling symptoms despite standard serotonergic treatment, antipsychotic augmentation, and psychological input. Contamination-focused OCD can be especially persistent when rituals are embedded in the home environment and reinforced by family patterns. Recent work has drawn attention to glutamatergic dysfunction, NMDA-AMPA signaling, and synaptic plasticity as possible treatment targets in refractory OCD. The Cheung glutamatergic regimen has been proposed as an oral, low-cost, ketamine-informed glutamatergic strategy using dextromethorphan, CYP2D6 inhibition, piracetam, and L-glutamine to modulate glutamatergic plasticity. The supporting evidence for this proposed regimen remains preliminary, largely case-based, and not independently replicated. A 26-year-old woman presented with several years of contamination fears, repetitive handwashing, prolonged bathing lasting up to 1.5 hours, home-dominant cleaning concerns, anxiety, depressive symptoms, fatigue, somatic complaints, nightmares, and motivational impairment. Baseline screening showed a Patient Health Questionnaire-9 (PHQ-9) of 18 and a Generalized Anxiety Disorder-7 (GAD-7) of 14, with passive suicidal ideation endorsed on one item. Over approximately nine months, treatment was adjusted in routine outpatient care. A glutamatergic-oriented augmentation strategy was used as part of a complex, evolving regimen built around dextromethorphan, piracetam, and later L-glutamine, with pharmacokinetic potentiation via CYP2D6-inhibiting antidepressants, including fluoxetine, bupropion, and later low-dose paroxetine. Low-dose risperidone, clomipramine, pregabalin, propranolol, cyproheptadine, and other symptom-focused adjuncts were used and adjusted according to response and tolerability. Mood, energy, somatic chest discomfort, motivation, and resilience improved. Bathing time decreased from approximately 1.5 hours to about 30 minutes, and ritual preoccupation was at one point described as 20-30% reduced. The PHQ-9 self-harm item changed from \"several days\" at the first standardized assessment to \"not at all\" at Day 41, although passive ideation was again endorsed for several days during later stress. She resumed job-seeking, attended interviews, exercised, learned new skills, and coped better than expected with the illness and death of a long-term pet. Residual contamination and cleaning symptoms remained most prominent at home. No Yale-Brown Obsessive Compulsive Scale, formal ritual count, or structured home-versus-outside severity scale was recorded. This case is best read as a hypothesis-generating clinical observation rather than evidence of regimen-specific efficacy. The response was incomplete but clinically meaningful, especially in affective, somatic, motivational, and functional domains. Larger controlled studies are needed, and home-targeted exposure-based work remains essential.",
-      "date": "2026-Jun",
+      "date": "2026-06-26",
       "authors": [
         "Cheung Hoi Ki",
         "Cheung Ngo"
@@ -136,7 +174,7 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42365488/",
       "source": "PubMed",
       "abstract": "Psychedelic microdosing-repeated sub-perceptual doses of lysergic acid diethylamide (LSD) or psilocybin-has attracted scientific interest as a potential mood and cognitive intervention. The evidence base remains methodologically heterogeneous and vulnerable to expectancy bias. We conducted an umbrella review with narrative synthesis following Joanna Briggs Institute guidance and Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) 2020 standards (International Prospective Register of Systematic Reviews [PROSPERO]: 2020 standards (PROSPERO: CRD420251077340). Six databases were searched through February 2026. Eligible studies were systematic reviews and/or meta-analyses examining microdosing effects (⩽20 μg LSD or ⩽3 mg psilocybin per session) on mood or cognitive outcomes in adults. Quality was appraised with A Measurement Tool to Assess Systematic Reviews-2; primary-study overlap was quantified via corrected covered area (CCA). Three meta-analyses met quantitative criteria, drawing on 14 studies (13 unique samples,  Current evidence does not support cognitive enhancement through microdosing; the only consistent controlled finding runs counter to popular claims: microdosing was associated with a small but reliable impairment of cognitive control. Observed mood benefits are not replicated under blinded conditions, consistent with expectancy-driven responding. Adequately powered, preregistered, expectancy-controlled trials are required before clinical recommendations can be made.",
-      "date": "2026-Jun",
+      "date": "2026-06-28",
       "authors": [
         "Özaydın Yiğit",
         "Canlan Özaydın Buket"
@@ -148,7 +186,7 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42363614/",
       "source": "PubMed",
       "abstract": "With growing research on the use of psychedelics to treat mental health conditions, greater attention to the psychosocial procedures accompanying substance administration is warranted. This scoping review aims to categorize psychosocial protocols used in research involving psychedelics as psychiatric treatment according to their purpose, denomination, format, therapeutic orientation, formalization, and duration. Experimental and observational studies were identified through online search platforms, covering Ayahuasca, Dimethyltryptamine, 5-methoxy-",
-      "date": "2026-Jun",
+      "date": "2026-06-26",
       "authors": [
         "Giaffone de Paiva Ferreira Flavia",
         "Fernandes João Ariel Bonar",
@@ -161,7 +199,7 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42361342/",
       "source": "PubMed",
       "abstract": "The Psychiatric Consultation Service at Massachusetts General Hospital sees medical and surgical inpatients with comorbid psychiatric symptoms and conditions. During their twice-weekly rounds, Dr Stern and other members of the Consultation Service discuss diagnosis and management of hospitalized patients with complex medical or surgical problems who also demonstrate psychiatric symptoms or conditions. These discussions have given rise to rounds reports that will prove useful for clinicians practicing at the interface of medicine and psychiatry.",
-      "date": "2026-Jun",
+      "date": "2026-06-25",
       "authors": [
         "King Franklin",
         "Zambrano Juliana",
@@ -174,7 +212,7 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42361340/",
       "source": "PubMed",
       "abstract": "The Psychiatric Consultation Service at Massachusetts General Hospital sees medical and surgical inpatients with comorbid psychiatric symptoms and conditions. During their twice-weekly rounds, Dr Stern and other members of the Consultation Service discuss diagnosis and management of hospitalized patients with complex medical or surgical problems who also demonstrate psychiatric symptoms or conditions. These discussions have given rise to rounds reports that will prove useful for clinicians practicing at the interface of medicine and psychiatry.",
-      "date": "2026-Jun",
+      "date": "2026-06-23",
       "authors": [
         "King Franklin",
         "Barnett Brian S",
@@ -187,7 +225,7 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42359292/",
       "source": "PubMed",
       "abstract": "Breathwork that increases ventilatory rate or depth represents an accessible non-pharmacological modality for potentially inducing altered states of consciousness (ASCs). Despite gaining traction as a potential therapeutic tool, empirical controlled research on breathwork and ASCs remains limited. We examined the effects of a single session of high ventilation breathwork, compared to body scan meditation, in 24 healthy adults with primary outcomes of acute ASCs including mystical experience and emotional breakthrough. Sub-acute secondary outcomes were collected 1 week later. Breathwork was associated with larger effects on oceanic boundlessness ( Results from this preliminary experimental study indicate that breathwork is associated with larger acute psychedelic-like effects than meditation, alongside greater emotional breakthrough, insight, and self-reported behavioral change. These exploratory relationships and preliminary observations provide greater context around breathwork-induced ASCs, and support the feasibility of ASC-focused breathwork research for future confirmatory trials.",
-      "date": "2026",
+      "date": "2026-06-10",
       "authors": [
         "Fincham Guy W",
         "Caddye Edward",
@@ -200,7 +238,7 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42350785/",
       "source": "PubMed",
       "abstract": "Major depressive disorder (MDD) and treatment-resistant depression (TRD) are prevalent and debilitating conditions. Over 50% of patients have inadequate response to first-line serotonergic antidepressants and are left with suboptimal treatment options. Rapid-acting and individually tailored treatments for MDD remain major unmet needs. This review discusses promising rapid-acting treatments, including psychedelic and neuroplastogen compounds, currently under investigation for the treatment of MDD and TRD. Among these, psilocybin has advanced to late-stage trials. In addition, we examine the emerging role of repetitive transcranial magnetic stimulation (rTMS), including novel personalized interventions, such as the Stanford Accelerated Intelligent Neuromodulation Therapy (SAINT) protocol, which has demonstrated rapid antidepressant effects and is now FDA-cleared for TRD, positioning it closest to clinical translation. We also highlight the ongoing ALTO-300 trial, which is evaluating an adjunctive treatment for MDD in patients identified by an EEG biomarker-representing another promising step toward personalized treatment. Finally, we review the results of a Phase 2 study reporting outcomes that vary by a specific genotype sequence, underscoring the potential for genetically guided personalized interventions. Despite these advances, key limitations, including unblinding in psychedelic trials, scalability challenges of intensive neuromodulation protocols, and the need for validated biomarkers, pose ongoing challenges for real-world implementation.",
-      "date": "2026-Jun",
+      "date": "2026-06-25",
       "authors": [
         "Guidetti Clotilde",
         "Fava Maurizio",
@@ -213,7 +251,7 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/42349524/",
       "source": "PubMed",
       "abstract": "Depression and its severe outcomes, suicidal ideation and behavior, are exacerbated by stress. A broad literature links dysregulation of the hypothalamic-pituitary-adrenocortical (HPA) stress response system to depression, suicidal ideation and behavior. Our midazolam-controlled clinical trial of subanesthetic, intravenous ketamine infusion for suicidal depressed patients found rapid reduction in suicidal ideation within 24 h. Here we report on an exploratory aim of the trial to investigate relationships of treatment effect and clinical response to HPA axis function via saliva cortisol analysis. Saliva cortisol awakening response was measured at baseline/pre-infusion and 24 h after with samples obtained upon morning awakening and 30 min later. A significant increase in waking cortisol 24 h after ketamine treatment was observed (t(61) = -3.15, p = 0.0025). Baseline to post-infusion increase in waking cortisol had a small to medium, nonsignificant, correlation with decrease in SI (r = -0.25, p = 0.052). These preliminary results need to be replicated but are consistent with studies suggesting increases in cortisol, if not excessive or prolonged, may enhance stress-resilience.",
-      "date": "2026-Jun",
+      "date": "2026-06-25",
       "authors": [
         "Choo Tse-Hwei",
         "Galfalvy Hanga C",
@@ -222,50 +260,20 @@
       "doi": "10.1016/j.jad.2026.122175"
     },
     {
-      "title": "Intranasal Esketamine Versus Other Pharmacological Strategies in Treatment-Resistant Depression with High Suicide Risk: A Six-Month Naturalistic Study.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42346193/",
-      "source": "PubMed",
-      "abstract": "",
-      "date": "2026-Jun",
-      "authors": [
-        "de Granda-Beltrán Ana María",
-        "Porras-Segovia Alejandro",
-        "Núñez-Arias Daniel"
-      ],
-      "doi": "10.3390/clinpract16060110"
-    },
-    {
-      "title": "Pharmacokinetics and pharmacodynamics of orally administered S-ketamine in healthy participants.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42345469/",
-      "source": "PubMed",
-      "abstract": "Oral S-ketamine (S-KETPO) is being explored as an alternative to intravenous maintenance treatment (S-KETIV) in treatment-resistant depression (TRD). However, the first-pass effect with S-KETPO significantly alters S-ketamine's bioavailability and the systemic exposure of its active metabolites, raising potential safety and efficacy concerns. This study characterized the pharmacodynamic and safety profiles of S-KETPO related to its pharmacokinetics in healthy participants, compared head-to-head with an S-KETIV dose that had previously demonstrated antidepressant effects in TRD . In a randomized, double-blind, placebo-controlled, double-dummy, four-way cross-over study, 16 healthy participants received a single dose of S-KETPO 0.20 and 0.45 mg/kg, S-KETIV 0.40 mg/kg and placebo. Plasma concentrations of S-KET and its active metabolites norketamine (S-NOR) and S-hydroxynorketamine (S-HNK) were measured, safety assessments were conducted up to 24 hours post-dose, and central nervous system (CNS) effects were evaluated up to 6 hours post-dose. Absolute bioavailability of S-KETPO was poor (9-12%). Peak plasma concentrations for S-KETPO 0.20 mg/kg, 0.45 mg/kg and S-KETIV were 9.81, 22.7 and 146 ng/mL (S-KET); 62.0, 127 and 55.2 ng/mL (S-NOR); and 29.5, 62.1 and 32.2 ng/mL (S-HNK), respectively. S-KET and S-HNK:S-KET metabolite-to-parent compound ratios were 7.52, 6.98 and 0.42, and 3.78, 3.71 and 0.23, for KETPO 0.20 mg/kg, S-KETPO 0.45 mg/kg, and S-KETIV, respectively. S-KETIV produced sedative, psychomotor and psychotomimetic effects coinciding with reductions in quantitative electroencephalography (qEEG) alpha, beta and delta power, whereas S-KETPO 0.45 mg/kg demonstrated inconsistent effects on vigilance and arousal but clear albeit relatively smaller reductions in qEEG alpha, beta and delta power coinciding with limited psychotomimetic effects, and finally, KETPO 0.20 mg/kg lacked effects altogether. Safety was comparable across treatments. Oral administration of S-ketamine alters pharmacokinetic and pharmacodynamic profiles, resulting in poor bioavailability, increased pharmacologically active metabolite exposures, and limited CNS effects relative to intravenous administration. The current findings have implications for S-KETPO dose selection, which may impact safety and/or therapeutic outcomes in future TRD studies. The study was registered in the 'Overview of Medical Research in the Netherlands' (OMON) under NL-OMON55261.",
-      "date": "2026-Jun",
-      "authors": [
-        "van Mechelen Joost C",
-        "Wieles Tobias A",
-        "M Borghans Laura G J"
-      ],
-      "doi": "10.1177/02698811261456187"
-    },
-    {
-      "title": "The intersection between psychedelics and schizophrenia spectrum disorders: Reevaluating risk and therapeutic potential.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42345450/",
-      "source": "PubMed",
-      "abstract": "In the past decade, interest in studying psychedelic compounds as potential therapeutic agents has resurged. These studies carefully exclude individuals at risk for developing psychotic symptoms in response to psychedelic use. Given the potential for psychedelics to be established as treatments in psychiatry, it is important to more robustly understand their link with psychosis and schizophrenia spectrum disorders (SSDs). In this narrative review, we examine the historical and theoretical relationship between psychedelic drugs and SSDs, including the origins of the psychotomimetic hypothesis. For key psychedelic compounds, we review their phenomenological manifestations in relation to the experiential alterations characteristic of SSDs, revealing both areas of overlap and important qualitative differences that challenge the uniform psychotomimetic classification. We also review putative neural mechanisms underlying altered experiential states associated with psychedelic use and SSDs, with attention to serotonergic, dopaminergic, and glutamatergic contributions. Clinical evidence demonstrates that psychedelics can exacerbate pre-existing psychotic illness and may trigger psychosis in vulnerable individuals, though the magnitude of these risks remains inadequately quantified. However, phenomenological and mechanistic distinctions suggest that potential therapeutic applications may exist for carefully selected symptoms (negative symptoms, depression) in stable patients using low-dose, controlled approaches. Based on published work, we provide recommendations regarding psychosis-related risk and potential avenues for the treatment of SSDs as psychedelics gain traction as therapeutics.",
-      "date": "2026-Jun",
-      "authors": [
-        "Brar Pavan S",
-        "Price Rebecca B",
-        "Ross Stephen"
-      ],
-      "doi": "10.1177/02698811261456191"
+      "title": "Quarterly Psychedelics Briefing: Q2 2026",
+      "url": "https://psychedelicalpha.com/news/quarterly-briefing-q2-2026/",
+      "source": "Psychedelic Alpha",
+      "abstract": "Welcome to our Q2 2026 Quarterly Briefing. Every three months, our Founder & Editor Josh Hardman walks you through major developments from the prior quarter across drug development, policy and regulation, science and academia, and much more. He closes with a look ahead to the next quarter, so you know what to look out for.",
+      "date": "2026-07-03",
+      "authors": [],
+      "doi": ""
     },
     {
       "title": "Pα+ Psychedelic Bulletin #226: The Ethics of Psilocybin for Advanced Alzheimer’s; Veterans’ Views on Psychedelics",
       "url": "https://psychedelicalpha.com/news/p%ce%b1-psychedelic-bulletin-226-the-ethics-of-psilocybin-for-advanced-alzheimers-veterans-views-on-psychedelics/",
       "source": "Psychedelic Alpha",
       "abstract": "Miracle or Minefield? The Alzheimer’s Case Report A Case Report published in Frontiers in Neuroscience late last month (Lago et al., 2026) caused quite a stir, with various media outlets and psychedelics advocates hailing it as showing great promise. It reported on a woman in her 80s who has had Alzheimer’s for a decade being […]",
-      "date": "",
+      "date": "2026-06-29",
       "authors": [],
       "doi": ""
     },
@@ -274,7 +282,7 @@
       "url": "https://psychedelicalpha.com/news/a-research-hypothesis-not-a-treatment-recommendation-marcos-lago-on-the-viral-psilocybin-for-alzheimers-case-report/",
       "source": "Psychedelic Alpha",
       "abstract": "",
-      "date": "",
+      "date": "2026-06-26",
       "authors": [],
       "doi": ""
     },
@@ -283,7 +291,7 @@
       "url": "https://psychedelicalpha.com/news/a-sea-change-with-caveats-a-closer-look-at-definiums-phase-3-lsd-for-mdd-readout/",
       "source": "Psychedelic Alpha",
       "abstract": "On Monday, Definium Therapeutics announced topline data from a Phase 3 trial of its LSD candidate (DT120) for major depressive disorder (MDD). Reaction to the topline has been broadly positive, with the company’s stock price appreciating sharply on the news and Definium announcing plans to raise $700M in fresh capital. Following our reporting of the […]",
-      "date": "",
+      "date": "2026-06-25",
       "authors": [],
       "doi": ""
     },
@@ -292,7 +300,7 @@
       "url": "https://psychedelicalpha.com/news/breaking-definium-lands-positive-phase-3-lsd-candidate-shows-strong-antidepressant-effect/",
       "source": "Psychedelic Alpha",
       "abstract": "This morning, Definium Therapeutics announced positive topline results from its Phase 3 study of LSD (DT120) for major depressive disorder (MDD). It’s the first Phase 3 data for LSD, and for Definium.",
-      "date": "",
+      "date": "2026-06-22",
       "authors": [],
       "doi": ""
     },
@@ -301,7 +309,7 @@
       "url": "https://psychedelicalpha.com/news/the-psychedelic-practitioner-issue-5-groups-in-practice/",
       "source": "Psychedelic Alpha",
       "abstract": "",
-      "date": "",
+      "date": "2026-06-18",
       "authors": [],
       "doi": ""
     },
@@ -310,7 +318,7 @@
       "url": "https://psychedelicalpha.com/news/psilocybin-compassionate-use-in-germany-lea-mertens-and-andrea-jungaberle-on-the-first-patients-payers-and-practicalities/",
       "source": "Psychedelic Alpha",
       "abstract": "Last summer, Germany’s medicines regulator quietly green-lit a psilocybin compassionate use program, the first such pathway in the European Union (see Germany Establishes EU’s First Psilocybin Compassionate Access Program). Two centres are permitted to offer psilocybin dosing at present: OVID Clinic Berlin, a private clinic in the nation’s capital, and the Central Institute of Mental […]",
-      "date": "",
+      "date": "2026-06-16",
       "authors": [],
       "doi": ""
     },
@@ -319,7 +327,7 @@
       "url": "https://psychedelicalpha.com/news/may-2026-psychedelic-bill-roundup/",
       "source": "Psychedelic Alpha",
       "abstract": "With most legislatures now adjourned, the 2026 psychedelic policy reform push has passed its peak. Of the 115 psychedelics-related bills we have tracked this year (108 state and 7 federal), 17 distinct measures have been signed into law; more than a quarter of those signings were in May alone. On the other side, 2 bills […]",
-      "date": "",
+      "date": "2026-06-10",
       "authors": [],
       "doi": ""
     },
@@ -328,7 +336,7 @@
       "url": "https://psychedelicalpha.com/news/field-notes-2-dispatches-from-london-and-the-netherlands/",
       "source": "Psychedelic Alpha",
       "abstract": "Welcome to our second Field Note. As a reminder, Field Notes are timely, candid voice notes from our Founder and Editor, Josh Hardman, that provide our Pα+ readers with a pulse on recent developments in psychedelic drug development, policy, and access. In this Field Note, Josh discusses two events he participated in last week: Psychedelics-related […]",
-      "date": "",
+      "date": "2026-06-09",
       "authors": [],
       "doi": ""
     },
@@ -337,16 +345,7 @@
       "url": "https://psychedelicalpha.com/news/p%ce%b1-psychedelic-bulletin-225-q1-lobbying-update-individual-vs-group-mdma-therapy-study-launches-australia-loosens-psychedelics-access-regulations-va-launches-new-mdma-tria/",
       "source": "Psychedelic Alpha",
       "abstract": "It’s been an incredibly busy few weeks since our last Bulletin, with Psychedelic Alpha on the road in the U.S. (for APA’s annual meeting and a visit to Stanford and the valley), The Real Mental Health Summit in London, and now the Interdisciplinary Conference on Psychedelic Research in Haarlem, the Netherlands. We have published a […]",
-      "date": "",
-      "authors": [],
-      "doi": ""
-    },
-    {
-      "title": "A Dispatch from APA’s Annual Meeting: Psychedelics Return at an Awkward Moment for American Psychiatry",
-      "url": "https://psychedelicalpha.com/news/a-dispatch-from-apas-annual-meeting-psychedelics-return-at-an-awkward-moment-for-american-psychiatry/",
-      "source": "Psychedelic Alpha",
-      "abstract": "Last month, our Editor, Josh Hardman, attended the American Psychiatric Association’s (APA) five-day annual meeting in San Francisco. There, he took the temperature of a field that is struggling to make sense of its standing in American society, and that is now confronted with a class of potential therapeutics—psychedelics—that it can’t quite place. Over the […]",
-      "date": "",
+      "date": "2026-06-05",
       "authors": [],
       "doi": ""
     },
@@ -572,7 +571,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2018-004480-31/CZ",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-07-02",
+      "date": "2026-07-03",
       "authors": [],
       "doi": ""
     },
@@ -581,7 +580,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2020-005037-32/CZ",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-07-02",
+      "date": "2026-07-03",
       "authors": [],
       "doi": ""
     },
@@ -590,7 +589,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2021-002909-10/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-07-02",
+      "date": "2026-07-03",
       "authors": [],
       "doi": ""
     },
@@ -599,7 +598,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2015-000550-37/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-07-02",
+      "date": "2026-07-03",
       "authors": [],
       "doi": ""
     },
@@ -608,7 +607,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2021-000041-40/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-07-02",
+      "date": "2026-07-03",
       "authors": [],
       "doi": ""
     },
@@ -617,7 +616,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2020-000829-55/DK",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-07-02",
+      "date": "2026-07-03",
       "authors": [],
       "doi": ""
     },
@@ -626,7 +625,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2020-002790-94/SE",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-07-02",
+      "date": "2026-07-03",
       "authors": [],
       "doi": ""
     },
@@ -635,7 +634,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2021-006200-33/FI",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-07-02",
+      "date": "2026-07-03",
       "authors": [],
       "doi": ""
     },
@@ -644,7 +643,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2019-004812-73/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-07-02",
+      "date": "2026-07-03",
       "authors": [],
       "doi": ""
     },
@@ -653,7 +652,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2022-002369-14/BE",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-07-02",
+      "date": "2026-07-03",
       "authors": [],
       "doi": ""
     }

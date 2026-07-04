@@ -1,6 +1,172 @@
 {
   "items": [
     {
+      "title": "Mitochondrial-inflammation crosstalk in major depressive disorder: molecular mechanisms and therapeutic implications.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42399415/",
+      "source": "PubMed",
+      "date": "2026-07-03",
+      "authors": [
+        "Wang Yu",
+        "Li Ji-Tao",
+        "Zhu Lin-Lin"
+      ],
+      "doi": "10.1038/s41380-026-03732-y",
+      "summary_en": "Recent research identifies mitochondrial dysfunction and neuroinflammation as central to major depressive disorder. Mitochondrial defects impair energy production and trigger inflammatory responses, creating a self-reinforcing cycle. Studies show conventional antidepressants gradually restore mitochondrial function, while ketamine induces rapid metabolic changes. Psychedelics and mitochondria-targeted compounds show additional therapeutic promise through this mechanistic pathway.",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "review",
+      "substances": [
+        "ketamine",
+        "other"
+      ],
+      "added_at": "2026-07-04T09:05:00.086634+00:00"
+    },
+    {
+      "title": "Effects of sub-anesthetic doses of esketamine on immune function and postoperative negative emotions in acoustic neuroma patients: a randomized clinical trial.",
+      "url": "https://doi.org/10.1080/07853890.2026.2692804",
+      "source": "Europe PMC",
+      "date": "2026-07-03",
+      "authors": [
+        "Chen Z",
+        "Wang Y",
+        "Cong P"
+      ],
+      "doi": "10.1080/07853890.2026.2692804",
+      "summary_en": "Effects of sub-anesthetic doses of esketamine on immune function and postoperative negative emotions in acoustic neuroma patients: a randomized clinical trial.",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "rct",
+      "substances": [
+        "ketamine"
+      ],
+      "added_at": "2026-07-04T09:05:00.086634+00:00"
+    },
+    {
+      "title": "Insights into psilocybin use among people with bipolar disorder: A thematic analysis of Reddit posts",
+      "url": "https://doi.org/10.1016/j.jad.2026.121220",
+      "source": "OpenAIRE",
+      "date": "2026-05-01",
+      "authors": [
+        "Laura, Mills",
+        "Susan L, Rossell",
+        "Sean P, Carruthers"
+      ],
+      "doi": "10.1016/j.jad.2026.121220",
+      "summary_en": "Thematic analysis of 354 Reddit posts examining psilocybin use among people with bipolar disorder. Study identified four themes: mania, depression, mixed experiences, and broader perspectives. While some reported reduced depression and cognitive shifts, others experienced increased or new mania, psychosis, and worsening depression. Findings suggest psilocybin may benefit some individuals but carries risks requiring careful consideration.",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "qualitative",
+      "substances": [
+        "psilocybin"
+      ],
+      "added_at": "2026-07-04T09:05:00.086634+00:00"
+    },
+    {
+      "title": "Psilocin mediates long-term synaptic depression in the prelimbic cortex through 5-HT2A receptor-independent mechanisms",
+      "url": "https://doi.org/10.1016/j.neuropharm.2026.110854",
+      "source": "OpenAIRE",
+      "date": "2026-05-01",
+      "authors": [
+        "Ana Domi",
+        "Erika Lucente",
+        "Davide Cadeddu"
+      ],
+      "doi": "10.1016/j.neuropharm.2026.110854",
+      "summary_en": "Psilocin mediates long-term synaptic depression in the prelimbic cortex through 5-HT2A receptor-independent mechanisms",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "preclinical",
+      "substances": [
+        "psilocybin"
+      ],
+      "added_at": "2026-07-04T09:05:00.086634+00:00"
+    },
+    {
+      "title": "Insights from the psychedelic experience integration session: Verbatims differentiate 3-month abstinence in alcohol use disorder with depressive symptoms",
+      "url": "https://doi.org/10.1016/j.jad.2026.121215",
+      "source": "OpenAIRE",
+      "date": "2026-05-01",
+      "authors": [
+        "Garcia Garcia, Maria",
+        "Belahda, Dahbia",
+        "Graux, Carine"
+      ],
+      "doi": "10.1016/j.jad.2026.121215",
+      "summary_en": "Insights from the psychedelic experience integration session: Verbatims differentiate 3-month abstinence in alcohol use disorder with depressive symptoms",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "qualitative",
+      "substances": [
+        "psilocybin"
+      ],
+      "added_at": "2026-07-04T09:05:00.086634+00:00"
+    },
+    {
+      "title": "The Ecstasy of Gold in Neurodiversity: Focus on the Use of Psychedelics in Autism Spectrum Disorder",
+      "url": "https://doi.org/10.20944/preprints202604.1998.v1",
+      "source": "OpenAIRE",
+      "date": "2026-04-29",
+      "authors": [
+        "Stefano Marini",
+        "Domenico De Berardis"
+      ],
+      "doi": "10.20944/preprints202604.1998.v1",
+      "summary_en": "Review of psychedelics (serotonergic compounds including psilocybin, LSD, and MDMA) and their potential therapeutic applications in autism spectrum disorder. These substances may enhance cognitive function, brain connectivity, and neuroplasticity. While no authorized medications exist for core ASD symptoms, emerging studies suggest psychedelics could address specific aspects of autism-related difficulties, though further research is needed.",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "review",
+      "substances": [
+        "psilocybin",
+        "lsd",
+        "mdma",
+        "ketamine",
+        "other"
+      ],
+      "added_at": "2026-07-04T09:05:00.086634+00:00"
+    },
+    {
+      "title": "Acute dose-dependent effects of 4-bromo-2,5-dimethoxyphenethylamine (2C-B) compared with 3,4-methylenedioxymethamphetamine (MDMA) and psilocybin in a double-blind, placebo-controlled study in healthy participants",
+      "url": "https://doi.org/10.1038/s41386-026-02428-9",
+      "source": "OpenAIRE",
+      "date": "2026-04-28",
+      "authors": [
+        "Denis Arikci",
+        "Joran Borgulya",
+        "Isabelle Straumann"
+      ],
+      "doi": "10.1038/s41386-026-02428-9",
+      "summary_en": "Acute dose-dependent effects of 4-bromo-2,5-dimethoxyphenethylamine (2C-B) compared with 3,4-methylenedioxymethamphetamine (MDMA) and psilocybin in a double-blind, placebo-controlled study in healthy participants",
+      "notable": true,
+      "notable_reason": "First-in-human study for 2C-B with direct comparison to psilocybin and MDMA; double-blind RCT design with pharmacokinetic and neuroendocrine outcomes.",
+      "study_type": "rct",
+      "substances": [
+        "psilocybin",
+        "mdma",
+        "other"
+      ],
+      "added_at": "2026-07-04T09:05:00.086634+00:00"
+    },
+    {
+      "title": "Rapid clinical improvement after intravenous ketamine in an adolescent with treatment-resistant depression, severe obesity, and pseudo-Cushing syndrome: A case report.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42398266/",
+      "source": "PubMed",
+      "date": "2026-06-28",
+      "authors": [
+        "Vivekanand B",
+        "Sethi Kanika",
+        "Sharma Eesha"
+      ],
+      "doi": "10.1016/j.ajp.2026.105077",
+      "summary_en": "Case report describing rapid clinical improvement in an adolescent with treatment-resistant depression following intravenous ketamine administration. The patient presented with comorbid severe obesity and pseudo-Cushing syndrome. This single case documents the therapeutic response but requires further investigation through controlled studies to establish efficacy and safety in this population.",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "case_report",
+      "substances": [
+        "ketamine"
+      ],
+      "added_at": "2026-07-04T09:05:00.086634+00:00"
+    },
+    {
       "title": "Psilocybin as a Transdiagnostic Treatment for Eating Disorders and Comorbid Psychopathology: Implications for Clinical Nosology and Research Directions.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42393007/",
       "source": "PubMed",

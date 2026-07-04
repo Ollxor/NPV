@@ -1,6 +1,69 @@
 {
-  "generated_at": "2026-07-03T09:42:06.866663+00:00",
+  "generated_at": "2026-07-04T09:08:03.455647+00:00",
   "items": [
+    {
+      "title": "Mitochondrial-inflammation crosstalk in major depressive disorder: molecular mechanisms and therapeutic implications.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42399415/",
+      "source": "PubMed",
+      "date": "2026-07-03",
+      "authors": [
+        "Wang Yu",
+        "Li Ji-Tao",
+        "Zhu Lin-Lin"
+      ],
+      "doi": "10.1038/s41380-026-03732-y",
+      "summaries": {
+        "en": "Recent research identifies mitochondrial dysfunction and neuroinflammation as central to major depressive disorder. Mitochondrial defects impair energy production and trigger inflammatory responses, creating a self-reinforcing cycle. Studies show conventional antidepressants gradually restore mitochondrial function, while ketamine induces rapid metabolic changes. Psychedelics and mitochondria-targeted compounds show additional therapeutic promise through this mechanistic pathway.",
+        "sv": "Ny forskning identifierar mitokondriell dysfunktion och neuroinflammation som centralt för allvarlig depression. Mitokondriella defekter försämrar energiproduktion och utlöser inflammatoriska svar som förstärker varandra. Studier visar att vanliga antidepressiva långsamt återställer mitokondriell funktion, medan ketamin inducerar snabb metabol omställning. Psykedelika och mitokondrie-riktade substanser visar ytterligare terapeutisk potential genom denna mekanism.",
+        "no": "Ny forskning identifiserer mitokondriell dysfunksjon og nevroinflammation som sentrale i alvorlig depressiv lidelse. Mitokondriefeil forverrer energiproduksjon og utløser inflammatoriske svar som forsterker hverandre. Studier viser at vanlige antidepressiva gradvis gjenoppretter mitokondriell funksjon, mens ketamin induserer rask metabolsk omstilling. Psykedelika og mitokondrie-målrettede forbindelser viser ytterligere terapeutisk potensial gjennom denne mekanismen.",
+        "da": "Ny forskning identificerer mitokondriedy­sfunktion og neuroinflamation som centrale i alvorlig depression. Mitokondriedefekter forværrer energiproduktion og udløser inflammatoriske reaktioner, der forstærker hinanden. Studier viser, at konventionelle antidepressiva gradvist genopretter mitokondriefunktion, mens ketamin inducerer hurtig metabolsk omprogrammering. Psykedelika og mitokondrietargeterede stoffer viser yderligere terapeutisk potentiale gennem denne mekanisme.",
+        "fi": "Uusi tutkimus osoittaa mitokondrioiden väärintoimimisen ja neuroinflammaation olevan keskeiset masennushäiriön tekijät. Mitokondrioiden viat heikentävät energiantuotantoa ja laukaisevat itseään vahvistavia tulehdusreaktioita. Tutkimukset osoittavat, että tavanomaiset masennuslääkkeet palauttavat mitokondrioiden toimintaa asteittain, kun taas ketamiini aiheuttaa nopean aineenvaihdunnan uudelleenjärjestelyn. Psykedeliset yhdisteet ja mitokondrioihin kohdistuvat aineet osoittavat lisää terapeuttista potentiaalia tämän mekanismin kautta.",
+        "is": "Ný rannsókn sýnir að vanvirki í frumuhlýðrum og taugabólgur eru miðlæg í alvarlegri þunglyndi. Gallir í frumuhlýðrum slörkva orkuframleiðslu og kalla fram bólgusvörun sem styrkir hvert annað. Rannsóknir sýna að hefðbundin þunglyndislyf endurheimta starfsemi frumuhlýðra smám saman, á meðan ketamín framkallar skjóta efnaskiptaumskipun. Sálfræðilyf og efni sem miða að frumuhlýðrum sýna frekari meðferðarmöguleika með þessari aðferð.",
+        "et": "Uustest uuringutest selgub, et mitokondriaalne düsfunktsioon ja neuroinflatsioon on depressiivse häire peamised tegurid. Mitokondriaalsed defektid kahandavad energiatootmist ja käivitavad üksteist tugevdavaid põletikuprotsesse. Uuringud näitavad, et tavapärased antidepressandid taastuvad mitokondriaalseid funktsioone järk-järgult, samas kui ketamiin kutsub esile kiire metabolilist ümmeprogram­mimist. Psühhedeelikumid ja mitokondriaalselt suunatud ühendid näitavad lisavõimalusi selle mehhanismi kaudu.",
+        "lv": "Jaunajā pētniecībā konstatēts, ka mitohondriju disfunkcija un neiropiedegunin ir centrāli depresijas mehānismu pamatā. Mitohondriju defekti pasliktina enerģijas ražošanu un izraisa pašu stiprinošas iekaisuma reakcijas. Pētījumi parāda, ka parastie antidepresanti pakāpeniski atjauno mitohondriju funkciju, bet ketamīns izraisa ātru metabolismu reprogrammēšanu. Psihedeliskie savienojumi un mitohondrijus vērstie vielas parāda papildu terapeitisko iespējamību šī mehānisma dēļ.",
+        "lt": "Nauji tyrimai rodo, kad mitochondrijų disfunkcija ir neurouždegimas yra pagrindiniai svarbi depresijos veiksniai. Mitochondrijų defektai sumažina energijos gamybą ir suaktyvina savęs stiprinančias uždegimines reakcijas. Tyrimai rodo, kad įprasti antidepresantai laipsniškai atkuria mitochondrijų funkciją, o ketaminas sukelia greitą metabolizmo pertvarką. Psichedeliniai junginiai ir mitochondrijų veiksniais vaistai parodo papildomą terapinį potencialą šiuo mechanizmu."
+      },
+      "notable": false,
+      "notable_reasons": null,
+      "relevance_score": 4,
+      "study_type": "review",
+      "substances": [
+        "ketamine",
+        "other"
+      ],
+      "added_at": "2026-07-04T09:05:00.086634+00:00"
+    },
+    {
+      "title": "Effects of sub-anesthetic doses of esketamine on immune function and postoperative negative emotions in acoustic neuroma patients: a randomized clinical trial.",
+      "url": "https://doi.org/10.1080/07853890.2026.2692804",
+      "source": "Europe PMC",
+      "date": "2026-07-03",
+      "authors": [
+        "Chen Z",
+        "Wang Y",
+        "Cong P"
+      ],
+      "doi": "10.1080/07853890.2026.2692804",
+      "summaries": {
+        "en": "Effects of sub-anesthetic doses of esketamine on immune function and postoperative negative emotions in acoustic neuroma patients: a randomized clinical trial.",
+        "sv": "Effects of sub-anesthetic doses of esketamine on immune function and postoperative negative emotions in acoustic neuroma patients: a randomized clinical trial.",
+        "no": "Effects of sub-anesthetic doses of esketamine on immune function and postoperative negative emotions in acoustic neuroma patients: a randomized clinical trial.",
+        "da": "Effects of sub-anesthetic doses of esketamine on immune function and postoperative negative emotions in acoustic neuroma patients: a randomized clinical trial.",
+        "fi": "Effects of sub-anesthetic doses of esketamine on immune function and postoperative negative emotions in acoustic neuroma patients: a randomized clinical trial.",
+        "is": "Effects of sub-anesthetic doses of esketamine on immune function and postoperative negative emotions in acoustic neuroma patients: a randomized clinical trial.",
+        "et": "Effects of sub-anesthetic doses of esketamine on immune function and postoperative negative emotions in acoustic neuroma patients: a randomized clinical trial.",
+        "lv": "Effects of sub-anesthetic doses of esketamine on immune function and postoperative negative emotions in acoustic neuroma patients: a randomized clinical trial.",
+        "lt": "Effects of sub-anesthetic doses of esketamine on immune function and postoperative negative emotions in acoustic neuroma patients: a randomized clinical trial."
+      },
+      "notable": false,
+      "notable_reasons": null,
+      "relevance_score": 4,
+      "study_type": "rct",
+      "substances": [
+        "ketamine"
+      ],
+      "added_at": "2026-07-04T09:05:00.086634+00:00"
+    },
     {
       "title": "Quarterly Psychedelics Briefing: Q2 2026",
       "url": "https://psychedelicalpha.com/news/quarterly-briefing-q2-2026/",
@@ -216,6 +279,37 @@
         "ketamine"
       ],
       "added_at": "2026-07-03T09:41:06.927715+00:00"
+    },
+    {
+      "title": "Rapid clinical improvement after intravenous ketamine in an adolescent with treatment-resistant depression, severe obesity, and pseudo-Cushing syndrome: A case report.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42398266/",
+      "source": "PubMed",
+      "date": "2026-06-28",
+      "authors": [
+        "Vivekanand B",
+        "Sethi Kanika",
+        "Sharma Eesha"
+      ],
+      "doi": "10.1016/j.ajp.2026.105077",
+      "summaries": {
+        "en": "Case report describing rapid clinical improvement in an adolescent with treatment-resistant depression following intravenous ketamine administration. The patient presented with comorbid severe obesity and pseudo-Cushing syndrome. This single case documents the therapeutic response but requires further investigation through controlled studies to establish efficacy and safety in this population.",
+        "sv": "Fallrapport som beskriver snabb klinisk förbättring hos en ungdom med behandlingsresistent depression efter intravenös ketamin. Patienten hade samtidiga diagnoser av svår fetma och pseudo-Cushings syndrom. Denna enstaka fallrapport dokumenterar det terapeutiska svaret men kräver vidare utredning genom kontrollerade studier för att fastställa effektivitet och säkerhet.",
+        "no": "Kasuistikk som beskriver rask klinisk forbedring hos en ungdom med behandlingsresistent depresjon etter intravenøs ketamin. Pasienten hadde samtidig alvorlig overvekt og pseudo-Cushings syndrom. Denne enkeltkasuistikken dokumenterer det terapeutiske svaret, men krever videre undersøkelser gjennom kontrollerte studier for å fastslå effektivitet og sikkerhet.",
+        "da": "Kasuistik, der hurtig klinisk forbedring hos en ungdom med behandlingsresistent depression blev observeret efter intravenøs ketamin. Patienten havde samtidig svær overvægt og pseudo-Cushings syndrom. Denne enkelt-kasuistik dokumenterer det terapeutiske svar, men kræver yderligere undersøgelse gennem kontrollerede studier for at etablere effektivitet og sikkerhed.",
+        "fi": "Tapausraportti, jossa kuvataan nopea kliininen paraneminen nuorella, jolla oli hoitoon resistentti masennus, saatuaan intravenöösä ketamiinia. Potilaalla oli samanaikaisesti vakava lihavuus ja pseudo-Cushingin oireyhtymä. Tämä yksittäinen tapausraportti dokumentoi hoitovastauksen, mutta vaatii lisätutkimuksia kontrolloitujen tutkimusten avulla tehokkuuden ja turvallisuuden vahvistamiseksi.",
+        "is": "Tilfellaskýrsla sem lýsir hröðum klínískum bata hjá unglingi með meðferðarþolin þunglyndi eftir intravenósa ketamín. Sjúklingur átti samtímis alvarlega offituð og gervi-Cushings heilkenni. Þessi einföld tilfellaskýrsla skjalfestir meðferðarsvar en krefst frekari rannsókna með stýrðum rannsóknum til að staðfesta verkun og öryggi.",
+        "et": "Juhtumikirjeldus, milles kirjeldatakse kiiresti paranema teraapiavastust noorukil, kellel oli ravi-resistentne depressioon pärast intraveenoosset ketamiini. Patsiendil oli samaaegselt raske rasvumis ja pseudo-Cushingi sündroom. See üksikjuhtumikirjeldus dokumenteerib teraapiavastust, kuid nõuab edasist uurimist kontrollitud uuringutega efektiivsuse ja ohutuse tuvastamiseks.",
+        "lv": "Klīniskais gadījums, kurā aprakstīta ātra klīniska uzlabošanās jaunekļiem ar ārstēšanai rezistentū depresiju pēc intravenozā ketamīna. Pacientam bija vienlaicīga smaga aptaukošanās un pseudo-Cushinga sindroms. Šis vienkāršais gadījums dokumentē terapeitisko atbildi, bet prasa turpmākas izmeklēšanas ar kontrolētiem pētījumiem efektivitātes un drošības noteikšanai.",
+        "lt": "Klinikinė ataskaitą, kurioje aprašomas greitas klininis pagerinimas paaugliu, turinčio gydymui atsparios depresijos, po intraveninio ketamino. Pacientas turėjo tuo pačiu metu sunkų nutukimą ir pseudo-Cushingo sindromą. Šis pavieninis klininis atvejis dokumentuoja terapinį atsaką, tačiau reikalingus papildomi tyrimai kontroliuotais tyrimais, siekiant nustatyti veiksmingumą ir saugumą."
+      },
+      "notable": false,
+      "notable_reasons": null,
+      "relevance_score": 3,
+      "study_type": "case_report",
+      "substances": [
+        "ketamine"
+      ],
+      "added_at": "2026-07-04T09:05:00.086634+00:00"
     },
     {
       "title": "Development and validation of a short-form (6-item) version of the clinician-administered dissociative states scale (CADSS-SF).",
@@ -501,6 +595,176 @@
       "substances": [
         "other"
       ]
+    },
+    {
+      "title": "Insights into psilocybin use among people with bipolar disorder: A thematic analysis of Reddit posts",
+      "url": "https://doi.org/10.1016/j.jad.2026.121220",
+      "source": "OpenAIRE",
+      "date": "2026-05-01",
+      "authors": [
+        "Laura, Mills",
+        "Susan L, Rossell",
+        "Sean P, Carruthers"
+      ],
+      "doi": "10.1016/j.jad.2026.121220",
+      "summaries": {
+        "en": "Thematic analysis of 354 Reddit posts examining psilocybin use among people with bipolar disorder. Study identified four themes: mania, depression, mixed experiences, and broader perspectives. While some reported reduced depression and cognitive shifts, others experienced increased or new mania, psychosis, and worsening depression. Findings suggest psilocybin may benefit some individuals but carries risks requiring careful consideration.",
+        "sv": "Tematisk analys av 354 Reddit-inlägg om pslocybinbruk bland personer med bipolär sjukdom. Studien identifierade fyra teman: mani, depression, blandade erfarenheter och bredare perspektiv. Medan vissa rapporterade minskad depression och kognitiva skiften, upplevde andra ökad eller ny mani, psykos och försämrad depression. Resultaten tyder på potentiella fördelar men också risker som kräver försiktighet.",
+        "no": "Tematisk analyse av 354 Reddit-innlegg om psilocybinbruk blant personer med bipolar lidelse. Studien identifiserte fire temaer: mani, depresjon, blandede erfaringer og bredere perspektiver. Mens noen rapporterte redusert depresjon og kognitive endringer, opplevde andre økt eller ny mani, psykose og forverret depresjon. Funnene tyder på potensielle fordeler, men også risiker som krever forsiktighet.",
+        "da": "Tematisk analyse af 354 Reddit-opslag om psilocybinforbrug blandt personer med bipolær lidelse. Studien identificerede fire temaer: mani, depression, blandede erfaringer og bredere perspektiver. Mens nogle rapporterede reduceret depression og kognitive skift, oplevede andre øget eller ny mani, psykose og forværret depression. Resultaterne tyder på potentielle fordele, men også risici, der kræver forsigtighed.",
+        "fi": "Temaattinen analyysi 354 Reddit-viestistä silosibiinin käytöstä kaksisuuntaisen mielialahäiriön omaavilla henkilöillä. Tutkimuksessa tunnistettiin neljä teemaa: mania, masennus, sekalaiset kokemukset ja laajemmat näkökulmat. Jotkut raportoivat masennuksen lieventymisestä ja kognitiivisista muutoksista, kun taas toiset kokivat lisääntynyttä tai uutta mania-, psykoosi- ja masennusoireita. Tulokset viittaavat mahdollisiin hyötyihin, mutta myös riskeihin, jotka vaativat varovaisuutta.",
+        "is": "Þemaaðgreining á 354 Reddit-færslum um notkun psilósýbíns meðal fólks með tvískiptu geðrofa. Rannsóknin benti á fjóra þætti: oflæti, þunglyndi, blandað reynslu og víðtækari sjónarmið. Sumir greindi frá minnkuðu þunglyndi og vitsmunaaðbreytingum, en aðrir upplifðu aukið eða nýtt oflæti, geðrofa og versnandi þunglyndi. Niðurstöður benda til mögulegra ábata en einnig áhættu sem kallar á varkárni.",
+        "et": "354 Reddit-postituse temaatiline analüüs psillotsibiini kasutamisest bipolaarset häiret põdevate inimeste hulgas. Uuringus tuvastati neli teemat: maania, depressioon, segakogemused ja laiem perspektiiv. Kuigi mõned teatanud depressiooni vähenemisest ja kognitiivsetest muutustest, kogusid teised suurenevat või uut maaniat, psühhooosi ja halvenevat depressiooni. Tulemused viitavad potentsiaalsetele kasudele, kuid ka riskidele, mis nõuavad ettevaatust.",
+        "lv": "354 Reddit postu tematiska analīze par psihodelisku sēņu lietošanu bipolāru traucējumu pacientiem. Pētījumā identificēti četri temati: manija, depresija, jauktas pieredzes un plašāka perspektīva. Dažiem bija lejupslīde depresijas simptomiem un kognitīvas pārmaiņas, bet citi piedzīvoja palielinātu vai jaunu maniju, psihozi un pasliktinātu depresiju. Rezultāti norāda uz iespējamiem labumiem, bet arī riskiem, kas prasa uzmanību.",
+        "lt": "354 Reddit įrašų teminė analizė apie psilocinių naudojimą žmonėms, kuriems yra bipolinė sutrikdyta. Tyrime identifikuoti keturi temati: manija, depresija, mišrūs patyriai ir platesnė perspektyva. Kai kurie pranešė apie sumažėjusią depresiją ir kognityvius pokyčius, tačiau kiti patyrė padidėjusią ar naują maniją, psichozę ir blogėjančią depresiją. Rezultatai rodo galimus naudus, tačiau ir riziką, reikalingą atsargumo."
+      },
+      "notable": false,
+      "notable_reasons": null,
+      "relevance_score": 4,
+      "study_type": "qualitative",
+      "substances": [
+        "psilocybin"
+      ],
+      "added_at": "2026-07-04T09:05:00.086634+00:00"
+    },
+    {
+      "title": "Psilocin mediates long-term synaptic depression in the prelimbic cortex through 5-HT2A receptor-independent mechanisms",
+      "url": "https://doi.org/10.1016/j.neuropharm.2026.110854",
+      "source": "OpenAIRE",
+      "date": "2026-05-01",
+      "authors": [
+        "Ana Domi",
+        "Erika Lucente",
+        "Davide Cadeddu"
+      ],
+      "doi": "10.1016/j.neuropharm.2026.110854",
+      "summaries": {
+        "en": "Psilocin mediates long-term synaptic depression in the prelimbic cortex through 5-HT2A receptor-independent mechanisms",
+        "sv": "Psilocin mediates long-term synaptic depression in the prelimbic cortex through 5-HT2A receptor-independent mechanisms",
+        "no": "Psilocin mediates long-term synaptic depression in the prelimbic cortex through 5-HT2A receptor-independent mechanisms",
+        "da": "Psilocin mediates long-term synaptic depression in the prelimbic cortex through 5-HT2A receptor-independent mechanisms",
+        "fi": "Psilocin mediates long-term synaptic depression in the prelimbic cortex through 5-HT2A receptor-independent mechanisms",
+        "is": "Psilocin mediates long-term synaptic depression in the prelimbic cortex through 5-HT2A receptor-independent mechanisms",
+        "et": "Psilocin mediates long-term synaptic depression in the prelimbic cortex through 5-HT2A receptor-independent mechanisms",
+        "lv": "Psilocin mediates long-term synaptic depression in the prelimbic cortex through 5-HT2A receptor-independent mechanisms",
+        "lt": "Psilocin mediates long-term synaptic depression in the prelimbic cortex through 5-HT2A receptor-independent mechanisms"
+      },
+      "notable": false,
+      "notable_reasons": null,
+      "relevance_score": 4,
+      "study_type": "preclinical",
+      "substances": [
+        "psilocybin"
+      ],
+      "added_at": "2026-07-04T09:05:00.086634+00:00"
+    },
+    {
+      "title": "Insights from the psychedelic experience integration session: Verbatims differentiate 3-month abstinence in alcohol use disorder with depressive symptoms",
+      "url": "https://doi.org/10.1016/j.jad.2026.121215",
+      "source": "OpenAIRE",
+      "date": "2026-05-01",
+      "authors": [
+        "Garcia Garcia, Maria",
+        "Belahda, Dahbia",
+        "Graux, Carine"
+      ],
+      "doi": "10.1016/j.jad.2026.121215",
+      "summaries": {
+        "en": "Insights from the psychedelic experience integration session: Verbatims differentiate 3-month abstinence in alcohol use disorder with depressive symptoms",
+        "sv": "Insights from the psychedelic experience integration session: Verbatims differentiate 3-month abstinence in alcohol use disorder with depressive symptoms",
+        "no": "Insights from the psychedelic experience integration session: Verbatims differentiate 3-month abstinence in alcohol use disorder with depressive symptoms",
+        "da": "Insights from the psychedelic experience integration session: Verbatims differentiate 3-month abstinence in alcohol use disorder with depressive symptoms",
+        "fi": "Insights from the psychedelic experience integration session: Verbatims differentiate 3-month abstinence in alcohol use disorder with depressive symptoms",
+        "is": "Insights from the psychedelic experience integration session: Verbatims differentiate 3-month abstinence in alcohol use disorder with depressive symptoms",
+        "et": "Insights from the psychedelic experience integration session: Verbatims differentiate 3-month abstinence in alcohol use disorder with depressive symptoms",
+        "lv": "Insights from the psychedelic experience integration session: Verbatims differentiate 3-month abstinence in alcohol use disorder with depressive symptoms",
+        "lt": "Insights from the psychedelic experience integration session: Verbatims differentiate 3-month abstinence in alcohol use disorder with depressive symptoms"
+      },
+      "notable": false,
+      "notable_reasons": null,
+      "relevance_score": 4,
+      "study_type": "qualitative",
+      "substances": [
+        "psilocybin"
+      ],
+      "added_at": "2026-07-04T09:05:00.086634+00:00"
+    },
+    {
+      "title": "The Ecstasy of Gold in Neurodiversity: Focus on the Use of Psychedelics in Autism Spectrum Disorder",
+      "url": "https://doi.org/10.20944/preprints202604.1998.v1",
+      "source": "OpenAIRE",
+      "date": "2026-04-29",
+      "authors": [
+        "Stefano Marini",
+        "Domenico De Berardis"
+      ],
+      "doi": "10.20944/preprints202604.1998.v1",
+      "summaries": {
+        "en": "Review of psychedelics (serotonergic compounds including psilocybin, LSD, and MDMA) and their potential therapeutic applications in autism spectrum disorder. These substances may enhance cognitive function, brain connectivity, and neuroplasticity. While no authorized medications exist for core ASD symptoms, emerging studies suggest psychedelics could address specific aspects of autism-related difficulties, though further research is needed.",
+        "sv": "Översikt av psykedelika (serotonerga föreningar inklusive psilocybin, LSD och MDMA) och deras potentiella terapeutiska tillämpningar vid autismspektrumstörning. Dessa ämnen kan förbättra kognitiv funktion, hjärnkonnektivitet och neuroplasticitet. Även om inga godkända läkemedel finns för kärnasymtom vid autism, föreslår nya studier att psykedelika kan påverka specifika aspekter av autismrelaterade svårigheter.",
+        "no": "Oversikt over psykedelika (serotonerge forbindelser inkludert psilocybin, LSD og MDMA) og deres potensielle terapeutiske bruk ved autismespektrumforstyrrelse. Disse stoffene kan forbedre kognitiv fungering, hjernekonnektivitet og neuroplastisitet. Selv om ingen godkjente legemidler finnes for kjernesymptomer ved autisme, antyder nye studier at psykedelika kan påvirke spesifikke aspekter av autismerelaterte vansker.",
+        "da": "Oversigt over psykedelika (serotonerge stoffer som psilocybin, LSD og MDMA) og deres potentielle terapeutiske anvendelse ved autismespektrumforstyrrelser. Disse stoffer kan forbedre kognitiv funktion, hjerneforbindelser og neuroplasticitet. Selvom der ikke findes godkendte lægemidler til kernesymptomer ved autisme, tyder nye studier på, at psykedelika kunne påvirke specifikke aspekter af autismerelaterede vanskeligheder.",
+        "fi": "Katsaus psykedeeleista (serotoniiniergisista yhdisteistä, kuten psilosybiini, LSD ja MDMA) ja niiden mahdollisista terapeuttisista sovelluksista autismikirjon häiriöissä. Nämä aineet voivat parantaa kognitiivista toimintaa, aivojen yhteyttä ja neuroplastisuutta. Vaikka autismin ydinilmenemille ei ole hyväksyttyjä lääkkeitä, uudet tutkimukset viittaavat, että psykedeellit voisivat vaikuttaa tiettyihin autismiin liittyviin vaikeuksiin.",
+        "is": "Yfirlit yfir geislavirkum efnum (serótonín-virk efni eins og psýlósýbín, LSD og MDMA) og hugsanlegri heildrænni notkun þeirra við dreifu-litróf truflunum. Þessi efni geta bætt vitsmunaleg virkni, heilakerfissamanburð og neurókristileikasvörun. Þó engin samþykkt lyf séu til fyrir kjarnaeinkenni deildrænnar, benda nýjar rannsóknir til að geislavirkir efnir gætu haft áhrif á sérstaka þætti erfiðleika tengda dreifu-litrófi.",
+        "et": "Ülevaade psühhedeelidest (serotoninergsetest ühendiest nagu psilotsibin, LSD ja MDMA) ja nende võimalikust terapeutilisest rakendamisest autismispektri häires. Need ained võivad parandada kognitiivset funktsioneerimist, aju ühenduvust ja neuroplastiilsust. Kuigi autismi tuumailmingute jaoks pole heakskiidetud ravimeid, viitavad uued uuringud sellele, et psühhedeelidel võib olla mõju autismiga seotud raskustele.",
+        "lv": "Psihodēliku vielu (serotoninērgu savienojumu, ieskaitant psilo­cibīnu, LSD un MDMA) un to iespējamā terapeitiskā pielietojuma apskats autisma spektra traucējumos. Šīs vielas var uzlabot kognitīvo funkciju, smadzeņu savienojamību un neuroplas­tiskumu. Lai arī autisma pamatsinptomiem nav apstiprinātu medikamentu, jaunie pētījumi liecina, ka psihodēliskas vielas varētu ietekmēt autismam saistītās grūtības.",
+        "lt": "Psichodelinių medžiagų (serotoninergines jungtys, įskaitant psilotsibą, LSD ir MDMA) ir jų galimo terapinio pritaikymo autizmo spektro sutrikime apžvalga. Šios medžiagos gali pagerinti kognityvią funkciją, smegenų ryšius ir neuroplastikumą. Nors nėra patvirtintų vaistų pagrindinėms autizmo simptomams, nauji tyrimai rodo, kad psichodelinės medžiagos galėtų turėti įtakos konkretiems autizmui susijusiems sunkumams."
+      },
+      "notable": false,
+      "notable_reasons": null,
+      "relevance_score": 4,
+      "study_type": "review",
+      "substances": [
+        "psilocybin",
+        "lsd",
+        "mdma",
+        "ketamine",
+        "other"
+      ],
+      "added_at": "2026-07-04T09:05:00.086634+00:00"
+    },
+    {
+      "title": "Acute dose-dependent effects of 4-bromo-2,5-dimethoxyphenethylamine (2C-B) compared with 3,4-methylenedioxymethamphetamine (MDMA) and psilocybin in a double-blind, placebo-controlled study in healthy participants",
+      "url": "https://doi.org/10.1038/s41386-026-02428-9",
+      "source": "OpenAIRE",
+      "date": "2026-04-28",
+      "authors": [
+        "Denis Arikci",
+        "Joran Borgulya",
+        "Isabelle Straumann"
+      ],
+      "doi": "10.1038/s41386-026-02428-9",
+      "summaries": {
+        "en": "Acute dose-dependent effects of 4-bromo-2,5-dimethoxyphenethylamine (2C-B) compared with 3,4-methylenedioxymethamphetamine (MDMA) and psilocybin in a double-blind, placebo-controlled study in healthy participants",
+        "sv": "Acute dose-dependent effects of 4-bromo-2,5-dimethoxyphenethylamine (2C-B) compared with 3,4-methylenedioxymethamphetamine (MDMA) and psilocybin in a double-blind, placebo-controlled study in healthy participants",
+        "no": "Acute dose-dependent effects of 4-bromo-2,5-dimethoxyphenethylamine (2C-B) compared with 3,4-methylenedioxymethamphetamine (MDMA) and psilocybin in a double-blind, placebo-controlled study in healthy participants",
+        "da": "Acute dose-dependent effects of 4-bromo-2,5-dimethoxyphenethylamine (2C-B) compared with 3,4-methylenedioxymethamphetamine (MDMA) and psilocybin in a double-blind, placebo-controlled study in healthy participants",
+        "fi": "Acute dose-dependent effects of 4-bromo-2,5-dimethoxyphenethylamine (2C-B) compared with 3,4-methylenedioxymethamphetamine (MDMA) and psilocybin in a double-blind, placebo-controlled study in healthy participants",
+        "is": "Acute dose-dependent effects of 4-bromo-2,5-dimethoxyphenethylamine (2C-B) compared with 3,4-methylenedioxymethamphetamine (MDMA) and psilocybin in a double-blind, placebo-controlled study in healthy participants",
+        "et": "Acute dose-dependent effects of 4-bromo-2,5-dimethoxyphenethylamine (2C-B) compared with 3,4-methylenedioxymethamphetamine (MDMA) and psilocybin in a double-blind, placebo-controlled study in healthy participants",
+        "lv": "Acute dose-dependent effects of 4-bromo-2,5-dimethoxyphenethylamine (2C-B) compared with 3,4-methylenedioxymethamphetamine (MDMA) and psilocybin in a double-blind, placebo-controlled study in healthy participants",
+        "lt": "Acute dose-dependent effects of 4-bromo-2,5-dimethoxyphenethylamine (2C-B) compared with 3,4-methylenedioxymethamphetamine (MDMA) and psilocybin in a double-blind, placebo-controlled study in healthy participants"
+      },
+      "notable": true,
+      "notable_reasons": {
+        "en": "First-in-human study for 2C-B with direct comparison to psilocybin and MDMA; double-blind RCT design with pharmacokinetic and neuroendocrine outcomes.",
+        "sv": "Första studien på människor för 2C-B med direktjämförelse med psilocybin och MDMA; dubbelblind RCT-design med farmakokinetiska och neuroendokrina utfall.",
+        "no": "Første studie på mennesker for 2C-B med direkte sammenligning med psilocybin og MDMA; dobbeltblind RCT-design med farmakokinetiske og neuroendokrine utfall.",
+        "da": "Første studie på mennesker for 2C-B med direkte sammenligning med psilocybin og MDMA; dobbeltblind RCT-design med farmakokinetiske og neuroendokrine resultater.",
+        "fi": "Ensimmäinen ihmistutkimus 2C-B:lle, jossa vertaillaan suoraan psilocybinia ja MDMA:ta; kaksoissokkoutettu RCT-malli farmakokineettisin ja neuroendokriinisin tuloksin.",
+        "is": "Fyrstu rannsókn á mönnum fyrir 2C-B með beinum samanburði við psilocybin og MDMA; tvöfalt blindað RCT hönnun með farmakokinetískum og neuroendókrínum niðurstöðum.",
+        "et": "Esimene inimestel läbiviidud uuring 2C-B jaoks, mille käigus võrreldi otseselt psilocybiin ja MDMA; topeltpimeda RCT kujundus farmakokineetiliste ja neuroendokriinsete tulemustega.",
+        "lv": "Pirmais pētījums cilvēkiem 2C-B ar tiešu salīdzinājumu ar psilocybīnu un MDMA; dubultus apakts RCT dizains ar farmakokinētiskiem un neuroendokrīniem rezultātiem.",
+        "lt": "Pirmasis žmonių tyrimas su 2C-B su tiesiogiu palyginimų su psilocybinu ir MDMA; dvigubai aklas RCT dizainas su farmakokinetiniais ir neuroendokrininiais rezultatais."
+      },
+      "relevance_score": 4,
+      "study_type": "rct",
+      "substances": [
+        "psilocybin",
+        "mdma",
+        "other"
+      ],
+      "added_at": "2026-07-04T09:05:00.086634+00:00"
     },
     {
       "title": "Patient-centred education for ketamine and esketamine therapies in mood disorders.",

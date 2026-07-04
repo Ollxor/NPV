@@ -1,7 +1,45 @@
 {
-  "date": "2026-07-03",
-  "cached_at": "2026-07-03T08:58:50.443847+00:00",
+  "date": "2026-07-04",
+  "cached_at": "2026-07-04T08:34:03.478021+00:00",
   "articles": [
+    {
+      "title": "Mitochondrial-inflammation crosstalk in major depressive disorder: molecular mechanisms and therapeutic implications.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42399415/",
+      "source": "PubMed",
+      "abstract": "Despite its high prevalence, the precise mechanisms underlying major depressive disorder (MDD) remain incompletely understood. Growing evidence identifies mitochondrial dysfunction, including abnormalities in mitochondrial DNA, impaired bioenergetics, disrupted quality control, and redox imbalance, as a central pathological feature of MDD. Beyond deficits in energy production, mitochondria function as upstream regulators of neuroinflammation. Mitochondria derived damage associated molecular patterns and excessive reactive oxygen species activate innate immune signaling, while inflammatory challenges in turn compromise mitochondrial integrity. This bidirectional and self-reinforcing interaction between mitochondrial dysfunction and inflammation may contribute to disease onset, progression, and clinical heterogeneity. Preclinical and clinical studies indicate that conventional antidepressants gradually restore mitochondrial function while suppressing oxidative and inflammatory stress, whereas rapid-acting agents such as ketamine induce acute metabolic reprogramming and mitophagy, enabling swift functional recovery. Mechanistically distinct interventions, including mitochondria targeted antioxidants, metabolic modulators, and psychedelic compounds, further highlight the therapeutic potential of targeting mitochondrial pathways. By integrating current evidence, this review delineates mitochondrial-inflammation crosstalk in MDD and supports mitochondrial regulation as a promising target for novel antidepressant strategies.",
+      "date": "2026-07-03",
+      "authors": [
+        "Wang Yu",
+        "Li Ji-Tao",
+        "Zhu Lin-Lin"
+      ],
+      "doi": "10.1038/s41380-026-03732-y"
+    },
+    {
+      "title": "Rapid clinical improvement after intravenous ketamine in an adolescent with treatment-resistant depression, severe obesity, and pseudo-Cushing syndrome: A case report.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42398266/",
+      "source": "PubMed",
+      "abstract": "",
+      "date": "2026-06-28",
+      "authors": [
+        "Vivekanand B",
+        "Sethi Kanika",
+        "Sharma Eesha"
+      ],
+      "doi": "10.1016/j.ajp.2026.105077"
+    },
+    {
+      "title": "Semantic confusion between \"MD\" and MDMA in Indian Addiction Psychiatry Practice.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42396418/",
+      "source": "PubMed",
+      "abstract": "",
+      "date": "2026-06-20",
+      "authors": [
+        "Seervi Ashok",
+        "Sharma Indraja"
+      ],
+      "doi": "10.4103/indianjpsychiatry_1207_25"
+    },
     {
       "title": "Psilocybin as a Transdiagnostic Treatment for Eating Disorders and Comorbid Psychopathology: Implications for Clinical Nosology and Research Directions.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42393007/",
@@ -39,6 +77,19 @@
         "Cubała Wiesław Jerzy"
       ],
       "doi": "10.1177/20451253261456385"
+    },
+    {
+      "title": "Biofluid Biomarkers of Cognitive Functioning in Bipolar Disorder: A Systematic Review by the Targeting Cognition and Older-Age Bipolar Disorder ISBD Task Forces.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42387906/",
+      "source": "PubMed",
+      "abstract": "Cognitive impairment is common in bipolar disorder (BD), but the underlying pathophysiology remains unclear. This systematic review aimed to (1) summarize all literature describing relationships of biofluid biomarkers and cognition in BD and (2) identify which biofluid biomarkers correlate most consistently with cognition in BD. This systematic review followed procedures of the PRISMA statement. PubMed, EMBASE, and PsycINFO were searched from inception until July 2023. Original studies assessing the relationships between biofluid biomarkers and cognitive functioning in adults with BD were included. Studies on neuroimaging markers and genetic biomarkers were excluded. We identified 60 studies, together describing 184 biofluid biomarkers that were measured in relation to cognitive functioning in BD. Biomarkers were organized into ten categories: oxidative stress markers (n = 14); growth factors (n = 13); neurotransmitters (n = 14); neuropeptides and hormones (n = 14); neurodegenerative markers (n = 11); inflammatory/immune markers (n = 59); serostatus to infectious agents (n = 11); amino acids, vitamins, and minerals (n = 7); metabolic factors (n = 23); hemogram, coagulation, and fibrinolysis markers (n = 18). Preliminary evidence for a significant relationship with cognition appeared for HSV-1 IgG, CRP, and homocysteine (Hcy); higher biomarker levels were associated with worse cognition. Included studies were heterogeneous and many were deemed to be of low quality following risk of bias assessment. The identified three biofluid biomarkers represent history of previous infections, current inflammation, and/or physical or psychological stress. Poor physical health, possibly represented by a broad range of biomarker aberrations, may play a role in the pathophysiology of cognitive impairment in BD. PROSPERO registration number: CRD42021224226.",
+      "date": "2026-Aug",
+      "authors": [
+        "Beunders Alexandra J M",
+        "Schouws Sigfried N T M",
+        "Olagunju Andrew T"
+      ],
+      "doi": "10.1111/bdi.70109"
     },
     {
       "title": "Psychedelics and autism spectrum disorder: Mechanistic insights, translational evidence and ethical challenges.",
@@ -206,58 +257,6 @@
         "Mauney Erin"
       ],
       "doi": "10.4088/PCC.25f04172"
-    },
-    {
-      "title": "Medical Complications of Psychedelics.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42361340/",
-      "source": "PubMed",
-      "abstract": "The Psychiatric Consultation Service at Massachusetts General Hospital sees medical and surgical inpatients with comorbid psychiatric symptoms and conditions. During their twice-weekly rounds, Dr Stern and other members of the Consultation Service discuss diagnosis and management of hospitalized patients with complex medical or surgical problems who also demonstrate psychiatric symptoms or conditions. These discussions have given rise to rounds reports that will prove useful for clinicians practicing at the interface of medicine and psychiatry.",
-      "date": "2026-06-23",
-      "authors": [
-        "King Franklin",
-        "Barnett Brian S",
-        "Taylor S Trevor"
-      ],
-      "doi": "10.4088/PCC.25f04171"
-    },
-    {
-      "title": "An exploratory study of breathwork-induced altered states of consciousness in experienced practitioners: the airways to alteration (A2A) trial.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42359292/",
-      "source": "PubMed",
-      "abstract": "Breathwork that increases ventilatory rate or depth represents an accessible non-pharmacological modality for potentially inducing altered states of consciousness (ASCs). Despite gaining traction as a potential therapeutic tool, empirical controlled research on breathwork and ASCs remains limited. We examined the effects of a single session of high ventilation breathwork, compared to body scan meditation, in 24 healthy adults with primary outcomes of acute ASCs including mystical experience and emotional breakthrough. Sub-acute secondary outcomes were collected 1 week later. Breathwork was associated with larger effects on oceanic boundlessness ( Results from this preliminary experimental study indicate that breathwork is associated with larger acute psychedelic-like effects than meditation, alongside greater emotional breakthrough, insight, and self-reported behavioral change. These exploratory relationships and preliminary observations provide greater context around breathwork-induced ASCs, and support the feasibility of ASC-focused breathwork research for future confirmatory trials.",
-      "date": "2026-06-10",
-      "authors": [
-        "Fincham Guy W",
-        "Caddye Edward",
-        "Kartar Amy A"
-      ],
-      "doi": "10.3389/fpsyg.2026.1851882"
-    },
-    {
-      "title": "Novel approaches in depression treatment: from rapid-acting antidepressants to personalized interventions.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42350785/",
-      "source": "PubMed",
-      "abstract": "Major depressive disorder (MDD) and treatment-resistant depression (TRD) are prevalent and debilitating conditions. Over 50% of patients have inadequate response to first-line serotonergic antidepressants and are left with suboptimal treatment options. Rapid-acting and individually tailored treatments for MDD remain major unmet needs. This review discusses promising rapid-acting treatments, including psychedelic and neuroplastogen compounds, currently under investigation for the treatment of MDD and TRD. Among these, psilocybin has advanced to late-stage trials. In addition, we examine the emerging role of repetitive transcranial magnetic stimulation (rTMS), including novel personalized interventions, such as the Stanford Accelerated Intelligent Neuromodulation Therapy (SAINT) protocol, which has demonstrated rapid antidepressant effects and is now FDA-cleared for TRD, positioning it closest to clinical translation. We also highlight the ongoing ALTO-300 trial, which is evaluating an adjunctive treatment for MDD in patients identified by an EEG biomarker-representing another promising step toward personalized treatment. Finally, we review the results of a Phase 2 study reporting outcomes that vary by a specific genotype sequence, underscoring the potential for genetically guided personalized interventions. Despite these advances, key limitations, including unblinding in psychedelic trials, scalability challenges of intensive neuromodulation protocols, and the need for validated biomarkers, pose ongoing challenges for real-world implementation.",
-      "date": "2026-06-25",
-      "authors": [
-        "Guidetti Clotilde",
-        "Fava Maurizio",
-        "Papakostas George I"
-      ],
-      "doi": "10.1038/s41380-026-03722-0"
-    },
-    {
-      "title": "Increased morning cortisol after ketamine treatment for suicidal depression: Exploratory report from a randomized trial.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42349524/",
-      "source": "PubMed",
-      "abstract": "Depression and its severe outcomes, suicidal ideation and behavior, are exacerbated by stress. A broad literature links dysregulation of the hypothalamic-pituitary-adrenocortical (HPA) stress response system to depression, suicidal ideation and behavior. Our midazolam-controlled clinical trial of subanesthetic, intravenous ketamine infusion for suicidal depressed patients found rapid reduction in suicidal ideation within 24 h. Here we report on an exploratory aim of the trial to investigate relationships of treatment effect and clinical response to HPA axis function via saliva cortisol analysis. Saliva cortisol awakening response was measured at baseline/pre-infusion and 24 h after with samples obtained upon morning awakening and 30 min later. A significant increase in waking cortisol 24 h after ketamine treatment was observed (t(61) = -3.15, p = 0.0025). Baseline to post-infusion increase in waking cortisol had a small to medium, nonsignificant, correlation with decrease in SI (r = -0.25, p = 0.052). These preliminary results need to be replicated but are consistent with studies suggesting increases in cortisol, if not excessive or prolonged, may enhance stress-resilience.",
-      "date": "2026-06-25",
-      "authors": [
-        "Choo Tse-Hwei",
-        "Galfalvy Hanga C",
-        "Keilp John G"
-      ],
-      "doi": "10.1016/j.jad.2026.122175"
     },
     {
       "title": "Quarterly Psychedelics Briefing: Q2 2026",
@@ -453,6 +452,19 @@
       "doi": "10.5812/ijpr-164903"
     },
     {
+      "title": "Effects of sub-anesthetic doses of esketamine on immune function and postoperative negative emotions in acoustic neuroma patients: a randomized clinical trial.",
+      "url": "https://doi.org/10.1080/07853890.2026.2692804",
+      "source": "Europe PMC",
+      "abstract": "<h4>Background</h4>Patients undergoing acoustic neuroma (AN) surgery often experience postoperative negative emotions, including anxiety, depression, and immune function suppression. This trial evaluated whether perioperative sub-anesthetic esketamine improves early postoperative negative emotions and immune function.<h4>Methods</h4>In this single-center, double-blind, randomized trial, 84 patients scheduled for AN surgery were assigned to esketamine (<i>n</i> = 42) or placebo (<i>n</i> = 42). The esketamine cohort received a continuous intravenous infusion of esketamine at 0.2 mg·kg<sup>-1</sup>·h<sup>-1</sup> during anesthesia, followed by 1 mg·kg<sup>-1</sup> esketamine as an adjuvant in patient-controlled intravenous analgesia (PCIA). The placebo group received saline. The primary outcome was the incidence of depression on postoperative day (POD1), defined as a Hospital Anxiety and Depression Scale-Depression subscale (HADS-D) score > 7.<h4>Results</h4>Seventy-seven patients completed the study (39 in the esketamine group, 38 in the placebo group). Esketamine significantly reduced the incidence of depression at POD1 (7.7% <i>versus</i> 31.6%; relative risk 0.24, 95% CI: 0.08-0.80, <i>p</i> = 0.008) and POD3 (0.0% <i>versus</i> 15.8%, relative risk 0.00, 95% CI: 0.00-0.47, <i>p</i> = 0.031) compared with placebo. The incidences of anxiety on POD1 and 3 and sleep disturbances on POD1 were also significantly reduced (<i>p</i> < 0.05). Notably, no significant differences were observed between the two groups in terms of immune function, postoperative pain scores, or intraoperative morphine equivalent. Adverse events did not differ between the groups.<h4>Conclusion</h4>Perioperative sub-anesthetic esketamine reduced postoperative depression and anxiety, and improve sleep quality after AN surgery, without significant effects on early immune function or acute postoperative analgesia.<h4>Trial registration</h4>Chinese Clinical Trial Registry, ChiCTR2400084537.",
+      "date": "2026-07-03",
+      "authors": [
+        "Chen Z",
+        "Wang Y",
+        "Cong P"
+      ],
+      "doi": "10.1080/07853890.2026.2692804"
+    },
+    {
       "title": "Interpol review of forensic toxicology, 2023-2025.",
       "url": "https://doi.org/10.1016/j.fsisyn.2026.100694",
       "source": "Europe PMC",
@@ -555,23 +567,11 @@
       "doi": "10.1080/21505594.2026.2690777"
     },
     {
-      "title": "Development and validation of a short-form (6-item) version of the clinician-administered dissociative states scale (CADSS-SF).",
-      "url": "https://doi.org/10.1080/20008066.2026.2678662",
-      "source": "Europe PMC",
-      "abstract": "<b>Background:</b> State dissociation is commonly assessed using the Clinician Administered Dissociative States Scale (CADSS; 19-items). A briefer CADSS would have many advantages, enabling assessment of transient dissociative states and allowing repeated assessment within short intervals while minimizing participant burden. This is especially relevant in studies of dissociative drugs which cause sedation and psychomotor slowing. Here we describe the process of developing a short-form version of the CADSS (CADSS-SF), based on nitrous oxide (N<sub>2</sub>O) - induced dissociative responses in healthy volunteers.<b>Methods:</b> In the 'development phase', using data from three experimental pharmacological studies on N<sub>2</sub>O in healthy volunteers (<i>n</i> = 229), we identified the most 'N<sub>2</sub>O-responsive' items with the highest item-total correlations, endorsed by experts and consistent with published accounts on the phenomenology of drug-induced dissociation. Identified items were subjected to confirmatory factor analysis using a separate validation dataset (<i>n</i> = 80), which tested a series of one- and two-factor models with 6-8 items.<b>Results:</b> A 6-item, single-factor CADSS-SF consisted of derealization and depersonalization items and showed excellent model fit (<i>χ</i><sup>2</sup>(9) = 0.246, <i>p</i> = .246, CFI/TLI>0.99, RMSEA = 0.059). The CADSS-SF was internally consistent (w = 0.87), correlated strongly with the full scale (<i>r</i> ≥ 0.88) and moderately with a measure of the related, but distinct construct of psychotomimesis (<i>r</i> = 0.63).<b>Discussion:</b> The CADSS-SF is a promising tool for rapid assessment of dissociation. It may be useful for capturing fleeting experimentally-induced dissociative phenomena that would otherwise be disrupted through the process of extended self-reporting, or for studying dissociation during drug intoxication, which is often accompanied by psychomotor slowing, sedation and inattention. The scale's brevity may allow tracking of changes in dissociation over relatively brief periods. However, like the parent long-form (19-item) CADSS, the CADSS-SF primarily captures variations in derealization/depersonalization only and may therefore be less appropriate for capturing the multidimensionality of dissociative phenomena. Further validation is required to establish the generalisability of the CADSS-SF beyond experimentally-(drug-) induced dissociation in healthy populations.",
-      "date": "2026-06-15",
-      "authors": [
-        "Taujanskaite VU",
-        "Kamboj SK."
-      ],
-      "doi": "10.1080/20008066.2026.2678662"
-    },
-    {
       "title": "CZ",
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2018-004480-31/CZ",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-07-03",
+      "date": "2026-07-04",
       "authors": [],
       "doi": ""
     },
@@ -580,7 +580,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2020-005037-32/CZ",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-07-03",
+      "date": "2026-07-04",
       "authors": [],
       "doi": ""
     },
@@ -589,7 +589,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2021-002909-10/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-07-03",
+      "date": "2026-07-04",
       "authors": [],
       "doi": ""
     },
@@ -598,7 +598,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2015-000550-37/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-07-03",
+      "date": "2026-07-04",
       "authors": [],
       "doi": ""
     },
@@ -607,7 +607,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2021-000041-40/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-07-03",
+      "date": "2026-07-04",
       "authors": [],
       "doi": ""
     },
@@ -616,7 +616,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2020-000829-55/DK",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-07-03",
+      "date": "2026-07-04",
       "authors": [],
       "doi": ""
     },
@@ -625,7 +625,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2020-002790-94/SE",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-07-03",
+      "date": "2026-07-04",
       "authors": [],
       "doi": ""
     },
@@ -634,7 +634,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2021-006200-33/FI",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-07-03",
+      "date": "2026-07-04",
       "authors": [],
       "doi": ""
     },
@@ -643,7 +643,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2019-004812-73/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-07-03",
+      "date": "2026-07-04",
       "authors": [],
       "doi": ""
     },
@@ -652,9 +652,134 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2022-002369-14/BE",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-07-03",
+      "date": "2026-07-04",
       "authors": [],
       "doi": ""
+    },
+    {
+      "title": "ITU and Psychiatry: A Single-Axiom View of K_brain Failures, Predictive Coding, Drug Mechanisms, and the 2026-2050 Roadmap",
+      "url": "https://doi.org/10.5281/zenodo.20177427",
+      "source": "OpenAIRE",
+      "abstract": "We apply the Information-Theoretic Unification (ITU) framework (Terada 2026, concept DOI 10.5281/zenodo.20109209; current version v2.0.0 at 10.5281/zenodo.20133709) to psychiatric biology. Psychiatric disorders are reframed as K_brain-component failures in the predictive-coding machinery; Friston's Free Energy Principle (FEP) is shown to be the brain-specific incarnation of the ITU axiom dS = d<K>. This is Tier 1 paper #7, completing the ITU Medicine Triangle: Cancer (#5, acute) + Aging (#6, chronic) + Psychiatry (#7, brain-circuit failures).  Phase 67: ITU foundation. Eight major psychiatric disorders (schizophrenia, depression, anxiety, PTSD, ASD, ADHD, OCD, bipolar) are mapped onto nine K-component axes (perception, precision, reward, threat, attention, action, social, mood, self-model). Global disease burden is ~136.8 million DALYs (GBD 2021, ~7% of all DALYs; $5T global economic burden). Treatment success correlates inversely with K-identification difficulty (ADHD 70% response with clear K_attention target; ASD 30% with rigid K_social).  Phase 68: Schizophrenia as K_precision failure - top-down prior dominates bottom-up sensory evidence, producing hallucinations and delusions. A Bayesian belief model with precision ratio 0.3 (vs healthy 1.0) produces belief lock-in. Treatment response by symptom group: positive 65-78%, negative 15-45%, cognitive 10-35%. The Howes-Kapur dopamine asymmetry (mesolimbic excess + mesocortical deficit) is reproduced. Six antipsychotics compare",
+      "date": "2026-05-14",
+      "authors": [
+        "Terada, Munehiro"
+      ],
+      "doi": "10.5281/zenodo.20177427"
+    },
+    {
+      "title": "Investigating Psychedelic Tryptamines: Extraction and Quantification from Psilocybe Mushrooms",
+      "url": "https://doi.org/10.48797/sl.2026.498",
+      "source": "OpenAIRE",
+      "abstract": "Scientific Letters, Vol. 1 No. Sup 1 (2026)",
+      "date": "2026-05-05",
+      "authors": [
+        "Senra, Beatriz P.",
+        "Dinis-Oliveira, Ricardo Jorge",
+        "Ribeiro, Carlos J. A."
+      ],
+      "doi": "10.48797/sl.2026.498"
+    },
+    {
+      "title": "Psilocybin and Psilocybe cubensis extract exhibit divergent behavioural and toxicological effects in rats",
+      "url": "https://doi.org/10.48797/sl.2026.497",
+      "source": "OpenAIRE",
+      "abstract": "Scientific Letters, Vol. 1 No. Sup 1 (2026)",
+      "date": "2026-05-05",
+      "authors": [
+        "Dias da Silva, Diana",
+        "Brito-da-Costa, Andreia Machado",
+        "Sacadura, Francisco"
+      ],
+      "doi": "10.48797/sl.2026.497"
+    },
+    {
+      "title": "Native Entropy and State Collapse in High-Potential Profiles: An Extension of the REBUS Model",
+      "url": "https://doi.org/10.5281/zenodo.19961966",
+      "source": "OpenAIRE",
+      "abstract": "Abstract  The present work proposes an extension of the REBUS model (Carhart-Harris & Friston, 2019) through the introduction of the concept of native entropy: a stable neural configuration characterized by reduced predictive filtering, dominance of bottom-up information flow, and chronic operation near the critical point. It is hypothesized that certain high-cognitive-potential and neurodivergent profiles structurally exhibit neural patterns analogous to those observed in psychedelic states—without the need for pharmacological induction. The framework proposes a tripartition of native entropy into emotional, cognitive, and creative subtypes, illustrated through three historical phenomenological archetypes.   Clinical implications include the reinterpretation of depression in these profiles as entropic collapse—distinct from neurotypical hypotonic depression—and an explanation of atypical SSRI responses through 5-HT2A receptor hypersensitivity. Preliminary evidence from EEG studies on gifted and autistic populations supports the plausibility of the hypothesis. The work concludes with a methodological proposal for the empirical verification of the framework through the comparison of brain entropy and alpha power measures between native-entropy profiles and psilocybin-induced psychedelic states.",
+      "date": "2026-05-02",
+      "authors": [
+        "Ceruolo, Eleonora"
+      ],
+      "doi": "10.5281/zenodo.19961966"
+    },
+    {
+      "title": "Insights into psilocybin use among people with bipolar disorder: A thematic analysis of Reddit posts",
+      "url": "https://doi.org/10.1016/j.jad.2026.121220",
+      "source": "OpenAIRE",
+      "abstract": "Psilocybin has been reported to decrease depression symptoms among individuals with bipolar disorder (BD), but has also been associated with reports of mania, psychosis and increased depression. With increasing recreational use of psilocybin, and the potential for psilocybin to be used as a treatment for depression, a better understanding of the risks and benefits of this psychedelic among individuals with BD is warranted. Individuals have used social media sites like Reddit to share their experiences with psilocybin, providing an opportunity to understand a range of perspectives and experiences. The current study aimed to further explore psilocybin experiences as shared on Reddit, with a focus on posts related to BD. A thematic analysis of Reddit posts and comments was undertaken, with a focus on those identified with search terms, \"bipolar\" AND \"psilocybin\" OR \"mushrooms\". A total of 354 comments with a first-hand psilocybin experience were identified and included in the thematic analysis which revealed four core themes: (1) mania, (2) depression, (3) mixed experiences, and (4) broader perspectives. Psilocybin was reported to have benefits in some comments, including reduced depression symptoms and shifts in perspective about oneself and/or the world. However, reports of increased or new mania and psychosis symptoms were also reported, as well as increased depression. While psilocybin may benefit some individuals with BD, there may be potential for increased mania, psychosi",
+      "date": "2026-05-01",
+      "authors": [
+        "Laura, Mills",
+        "Susan L, Rossell",
+        "Sean P, Carruthers"
+      ],
+      "doi": "10.1016/j.jad.2026.121220"
+    },
+    {
+      "title": "Psilocin mediates long-term synaptic depression in the prelimbic cortex through 5-HT2A receptor-independent mechanisms",
+      "url": "https://doi.org/10.1016/j.neuropharm.2026.110854",
+      "source": "OpenAIRE",
+      "abstract": "Psilocybin is a naturally occurring psychedelic compound with potential antidepressant effects. Although it has long been used by humans, primarily for recreational purposes, the molecular mechanisms underlying its actions remain incompletely understood. Here, we examined the acute effects of psilocin, the active metabolite of psilocybin, on excitatory neurotransmission in the prefrontal cortex (PFC). Slice electrophysiological whole-cell and field potential recordings were conducted in the rat prelimbic cortex during bath application of psilocin. We observed a sex-independent long-term synaptic depression (LTD) of presynaptic origin. This effect was independent of 5-HT2A and metabotropic glutamatergic receptor group 2 and mediated through enhanced GABAergic tone. The effect was partially inhibited by 5-HT1A receptor antagonist and completely blocked in slices pre-treated with the neuronal receptor tyrosine kinase 2 (TrkB) receptor antagonist ANA-12. These findings suggest that psilocin exerts a complex modulatory influence on excitatory neurotransmission in the prelimbic PFC, involving GABAergic and serotonergic interactions, and producing sustained alterations in synaptic activity that persist beyond drug exposure. Psilocin-induced LTD, independent of 5-HT2A receptor activation, may be associated with the reduced prefrontal connectivity reported in humans after psilocin administration and could have implications for cognitive function.",
+      "date": "2026-05-01",
+      "authors": [
+        "Ana Domi",
+        "Erika Lucente",
+        "Davide Cadeddu"
+      ],
+      "doi": "10.1016/j.neuropharm.2026.110854"
+    },
+    {
+      "title": "Insights from the psychedelic experience integration session: Verbatims differentiate 3-month abstinence in alcohol use disorder with depressive symptoms",
+      "url": "https://doi.org/10.1016/j.jad.2026.121215",
+      "source": "OpenAIRE",
+      "abstract": "Psilocybin-assisted psychotherapy shows promise in alcohol use disorder (AUD), but therapeutic mechanisms remain poorly understood. Previous qualitative studies have described potential processes such as gaining insights, altered self-perception, connectedness, and changes in coping, yet findings remain limited and inconsistent in AUD, and little is known about early markers of therapeutic response.We conducted a mixed quantitative-qualitative analysis of first integration sessions in the Psilocybin Alcohol Depression (PAD) randomized controlled trial. Only participants randomized to the 25 mg psilocybin group were included in this analysis. Recently detoxified patients with AUD and persisting depressive symptoms underwent semi-structured integration interviews the day after dosing. Transcripts were analyzed with IRaMuTeQ software using the Reinart descending hierarchical classification. Associations with abstinence at 3 months were examined.Twenty participants were included (55% male, median age 49); 55% were abstinent at 3 months. The corpus comprised 127,760 words, with 88% classified into two stable classes. Class 1 (44% of text segments) described sensory and emotional aspects of the psychedelic experience (physical sensations, visual phenomena, emotions, setting) and was predominantly elicited by non-responders. Class 2 (56%) reflected active cognitive processes and inner dialogue, including cognitive restructuring, distancing from habitual patterns, commitment to chang",
+      "date": "2026-05-01",
+      "authors": [
+        "Garcia Garcia, Maria",
+        "Belahda, Dahbia",
+        "Graux, Carine"
+      ],
+      "doi": "10.1016/j.jad.2026.121215"
+    },
+    {
+      "title": "Does Psychological Flexibility Correlate with Mystical Experiences: A Machine Learning Approach Including State of Surrender, Near-Death Experiences, and Psilocybin Consumption",
+      "url": "https://doi.org/10.3390/bs16050686",
+      "source": "OpenAIRE",
+      "abstract": "<jats:p>Mystical experiences are characterized by a profound sense of interconnectedness and transcendence of ordinary reality. These experiences can facilitate feelings of connectedness with oneself and others and have been documented as leading to significant positive changes in thoughts, emotions, and behavior. The purpose of the present study was to evaluate the extent to which the four mindfulness facets of psychological flexibility (i.e., experiential acceptance, present-moment awareness, cognitive defusion, and self-as-context) were associated with self-reported mystical experiences while controlling for established covariates. Using a sample of 150 individuals recruited online, a regularized regression with an elastic net—a computationally efficient machine learning algorithm—was used to model the relationships among mystical experiences, State of Surrender, frequency of psychedelic use, near-death experiences, and facets of psychological flexibility. State of Surrender, experiential acceptance, cognitive defusion, and present-moment awareness emerged as the most robust predictors of mystical experiences. Collectively, these findings underscore the role of psychological processes, including surrender-related processes and facets of psychological flexibility, in predicting mystical experiences.</jats:p>",
+      "date": "2026-04-30",
+      "authors": [
+        "Dylan Briggs",
+        "Thomas B. Sease",
+        "Ruthie Menou"
+      ],
+      "doi": "10.3390/bs16050686"
+    },
+    {
+      "title": "The Ecstasy of Gold in Neurodiversity: Focus on the Use of Psychedelics in Autism Spectrum Disorder",
+      "url": "https://doi.org/10.20944/preprints202604.1998.v1",
+      "source": "OpenAIRE",
+      "abstract": "<jats:p>Psychedelic drugs are serotonergic hallucinogens that can be divided into two types: naturally occurring (psilocybin, psilocin, and N,N-dimethyltryptamine) and synthetic (LSD, MDMA, 2,5-dimethoxy-4-iodoamphetamine, and ketamine). Psychedelics generally work on 5-hydroxytryptamine receptors and might be useful in cognitive enhancement, brain connectivity, neuroplasticity, and neuronal regeneration. These properties could be used in the pharmacological treatment of selected mental disorders. Autism spectrum disorders include a group of developmental disorders characterized by social communication issues, the presence of restricted interests as well as repetitive behaviors that impact the quality of life of patients and their caregivers. Currently, there are no authorized drugs for the treatment of the symptomatic features of ASD, but drugs are used for comorbid psychopathological aspects, but the efficacy and tolerability of such treatments are often questionable. Here, studies demonstrating the therapeutic utility of using psychedelic substances in autism are reported. These findings suggest a therapeutic potential of psychedelics for some aspects of symptoms associated with autism spectrum disorder.</jats:p>",
+      "date": "2026-04-29",
+      "authors": [
+        "Stefano Marini",
+        "Domenico De Berardis"
+      ],
+      "doi": "10.20944/preprints202604.1998.v1"
+    },
+    {
+      "title": "Acute dose-dependent effects of 4-bromo-2,5-dimethoxyphenethylamine (2C-B) compared with 3,4-methylenedioxymethamphetamine (MDMA) and psilocybin in a double-blind, placebo-controlled study in healthy participants",
+      "url": "https://doi.org/10.1038/s41386-026-02428-9",
+      "source": "OpenAIRE",
+      "abstract": "<jats:title>Abstract</jats:title>                   <jats:p>Based on its in vitro profile and preliminary evidence, 4-bromo-2,5-dimethoxyphenethylamine (2C-B) may have psychoactive properties that are similar to 3,4-methylenedioxymethamphetamine (MDMA) and psilocybin, which are investigated for the treatment of posttraumatic stress disorder and depressive disorders. We compared acute effects of 2C-B (10, 20, and 30 mg), 125 mg MDMA, and 25 mg psilocybin in 24 healthy participants (12 women, 12 men) using a double-blind, randomized, placebo-controlled, crossover design. Outcome measures included acute subjective effects, autonomic effects, adverse effects, effects on emotional and cognitive empathy, plasma oxytocin and neurophysin I concentrations, and pharmacokinetics up to 9 h. 2C-B produced dose-dependent subjective effects, with the 30 mg dose exerting comparable “any drug effects” to MDMA but lower “any drug effects” than psilocybin. Only psilocybin induced “bad drug effects” and “anxiety” compared with placebo. The 30 mg dose of 2C-B induced psychedelic-type alterations of state of consciousness and increased emotional empathy similarly to MDMA. The average subjective effect duration of 30 mg 2C-B was 4.9 h and similar to MDMA (4.8 h) and shorter than psilocybin (6.1 h). MDMA produced the highest cardiovascular stimulation, followed by psilocybin and 2C-B. Only MDMA increased plasma oxytocin and neurophysin I concentrations. 2C-B exhibited dose-proportional pharmacokinet",
+      "date": "2026-04-28",
+      "authors": [
+        "Denis Arikci",
+        "Joran Borgulya",
+        "Isabelle Straumann"
+      ],
+      "doi": "10.1038/s41386-026-02428-9"
     }
   ]
 }

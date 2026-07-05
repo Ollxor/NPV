@@ -1,6 +1,99 @@
 {
-  "generated_at": "2026-07-04T09:08:03.455647+00:00",
+  "generated_at": "2026-07-05T09:28:04.789072+00:00",
   "items": [
+    {
+      "title": "High-order brain interactions during ketamine-induced state changes: A functional marker of response in late-life treatment-resistant depression?",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42401545/",
+      "source": "PubMed",
+      "date": "2026-07-04",
+      "authors": [
+        "Shah Krisha",
+        "Herzog Rubén",
+        "Swann Alan C"
+      ],
+      "doi": "10.1038/s41398-026-04212-1",
+      "summaries": {
+        "en": "This secondary analysis of a randomized, double-blind trial examined brain activity patterns in 30 late-life veterans with treatment-resistant depression following ketamine or midazolam infusion. Using EEG-derived high-order interactions, researchers found ketamine induced dynamic changes in brain redundancy, with peak effects in the alpha band at 1 hour. Greater increases in alpha-band redundancy at 24 hours correlated with improved depressive symptoms at day 7, suggesting these neural markers may help identify ketamine responders.",
+        "sv": "I denna sekundäranalys av en randomiserad, dubbelblind studie undersöktes hjärnaktivitet hos 30 äldre veteraner med behandlingsresistent depression efter ketamininfusion. Med hjälp av EEG-baserade mätningar av högre ordningens hjärninteraktioner fann forskarna att ketamin inducerade dynamiska förändringar i hjärnans redundans, med toppeffekter i alfabandet efter 1 timme. Större ökning av alfabandets redundans efter 24 timmar korrelerade med förbättrade depressiva symptom på dag 7, vilket tyder på att dessa neurala markörer kan hjälpa identifiera ketaminresponserare.",
+        "no": "I denne sekundæranalysen av en randomisert, dobbeltblind studie undersøktes hjernaktivitet hos 30 eldre veteraner med behandlingsresistent depresjon etter ketamininfusjon. Ved hjelp av EEG-baserte målinger av høyere ordns hjerninteraksjoner fant forskerne at ketamin induserte dynamiske endringer i hjernens redundans, med toppeffekter i alfabåndet etter 1 time. Større økning i alfabandets redundans etter 24 timer korrelerte med forbedrede depressive symptomer på dag 7, noe som antyder at disse nevrale markørene kan hjelpe til med å identifisere ketaminrespondere.",
+        "da": "I denne sekundæranalyse af et randomiseret, dobbeltblindet forsøg blev hjernens aktivitet undersøgt hos 30 ældre veteraner med behandlingsresistent depression efter ketamininfusion. Ved hjælp af EEG-baserede målinger af højere ordens hjerninteraktioner fandt forskerne, at ketamin inducerede dynamiske ændringer i hjernens redundans, med topeffekter i alfabåndet efter 1 time. Større stigning i alfabandets redundans efter 24 timer korrelerede med forbedrede depressive symptomer på dag 7, hvilket tyder på, at disse neurale markører kan hjælpe med at identificere ketaminrespondere.",
+        "fi": "Tässä satunnaistetun, kaksoissokkoutetun tutkimuksen jälkianalyysissä tutkittiin aivojen aktiivisuutta 30 ikääntyneellä veteraanilla, joilla oli hoitoresistentti masennus ketamiiniinfuusion jälkeen. EEG-pohjaisilla korkeamman asteen aivojen vuorovaikutusmittauksilla tutkijat havaitsivat ketamiinin aiheuttavan dynaamisia muutoksia aivojen redundanssissa, huippavaikutukset alfa-kaistalla 1 tunnin jälkeen. Suurempi nousu alfa-kaistan redundanssissa 24 tunnin jälkeen korreloi parantuneisiin masennusoireisiin päivällä 7, mikä viittaa näiden neuraalisten merkkiaineiden auttavan ketamiiniin reagoivien tunnistamisessa.",
+        "is": "Í þessari afturfræðilegu greiningu á tilviljunarkenndum, tvítviblunduðum rannsóknum var skoðuð heilavirkni hjá 30 eldri vopnahlésdeildum með meðferðarþolna þunglyndi eftir ketamíninnflutning. Með því að nota EEG-undirstaðnar mælingar á hærri röð heilavirkni fundu vísindamenn að ketamín olli kraftmiklum breytingum á heilanum, með hámarkáhrifum á alfabilinu 1 klst. síðar. Meiri aukning á alfabili eftir 24 klst. tengdist bættum þunglyndieinkennum á degi 7, sem bendir til þess að þessir taugamerki geti hjálpað til við að bera kennsl á ketamínrespondere.",
+        "et": "Selles randomiseeritud, kahekordse pimedusega uuringu teisanalüüsis uuriti ajuvõrgustiku tegevust 30 vanemale veteranile raviresistentse depressiooni korral pärast ketamiiniinfusiooni. EEG-põhiste kõrgema järgu ajuvõrgustiku vastasmõju mõõtmiste abil leidsid teadlased, et ketamiin põhjustas dünaamikat muutusi ajus redundantsuses, maksimaalsete mõjudega alfaribal 1 tunni pärast. Suurem tõus alfaribal 24 tunni pärast korreleerus paranenud depressiooniühenduste ja päevaga 7, mis viitab neuraalsete markerite potentsiaalile ketamiinile reageerijate tuvastamisel.",
+        "lv": "Šajā randomizētā, dubulti aklā pētījuma sekundārajā analīzē tika pārbaudīta smadzeņu aktivitāte 30 vecākiem veterāniem ar ārstēšanai rezistentām depresiju pēc ketamīna infūzijas. Izmantojot EEG-balstītus augstākas kārtas smadzeņu mijiedarbības mērus, pētnieki atklāja, ka ketamīns izraisīja dinamiskas izmaiņas smadzeņu redundancē, ar maksimāliem efektiem alfa-joslā pēc 1 stundas. Lielāks pieaugums alfa-joslā pēc 24 stundām korelēja ar uzlabotiem depresijas simptomiem 7. dienā, kas liecina, ka šie neirālie marķieri var palīdzēt identificēt ketamīnā reaģējošus pacientus.",
+        "lt": "Šioje atsitiktinės, dvigubai aklos studijos antrinėje analizėje buvo tiriama smegenų veikla 30 vyresnio amžiaus veteranų su gydymui atsparią depresija po ketamino infuzijos. Naudodami EEG pagrįstas aukštesnės eilės smegenų sąveikos išmatavimus, mokslininkai nustatė, kad ketaminas sukėlė dinaminius pokyčius smegenų redundancijoje, su maksimaliais efektais alfa juostoje po 1 valandos. Didesnis alfa juostos padidėjimas po 24 valandų buvo susijęs su geresniais depresijos simptomais 7 dieną, o tai rodo, kad šie neurologiniai žymenys gali padėti nustatyti ketaminui reagavusius pacientus."
+      },
+      "notable": false,
+      "notable_reasons": null,
+      "relevance_score": 4,
+      "study_type": "rct",
+      "substances": [
+        "ketamine"
+      ],
+      "added_at": "2026-07-05T09:26:35.324757+00:00"
+    },
+    {
+      "title": "Single Ayahuasca administration attenuates alcohol relapse and associated behavioral, neurochemical, and oxidative alterations in rats.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42401369/",
+      "source": "PubMed",
+      "date": "2026-07-04",
+      "authors": [
+        "Lodetti Guilherme",
+        "de Bitencourt Rafael Mariano",
+        "Inserra Antonio"
+      ],
+      "doi": "10.1016/j.pnpbp.2026.111817",
+      "summaries": {
+        "en": "Rat study demonstrates single ayahuasca dose reduces alcohol relapse and anxiety-like behavior following 35-day ethanol exposure. Treatment (2.72 mg/kg DMT + β-carbolines) decreased relapse drinking, normalized dopamine/serotonin levels, elevated BDNF, and restored antioxidant enzyme activity in frontal cortex, hippocampus, and striatum versus controls.",
+        "sv": "Rattförsök visar att en engångsdos ayahuasca minskar återfall i alkoholkonsumtion och ångestliknande beteende efter 35 dagars etanolexponering. Behandlingen (2,72 mg/kg DMT + β-karboliner) reducerade återfallsdrinkande, normaliserade dopamin/serotoninnivåer, höjde BDNF och återställde antioxidantenzymaktivitet i hjärnans frontala cortex, hippocampus och striatum jämfört med kontroller.",
+        "no": "Rotteforsøk viser at en enkelt ayahuasca-dose reduserer tilbakefall til alkoholkonsum og angstliknende atferd etter 35 dagers etanoleksponering. Behandlingen (2,72 mg/kg DMT + β-karboliner) reduserte tilbakefallsdrinking, normaliserte dopamin-/serotoninnivåer, økte BDNF og gjenopprette antioksidantenzymaktivitet i frontal cortex, hippocampus og striatum sammenlignet med kontroller.",
+        "da": "Rotteforsøg viser, at en enkelt ayahuasca-dosis reducerer tilbagefald til alkoholforbrug og angstlignende adfærd efter 35 dages ethanoleksponering. Behandlingen (2,72 mg/kg DMT + β-karboliner) mindskede tilbagefaldsdrikeri, normaliserede dopamin-/serotoninkoncentrationer, øgede BDNF og gjenoprettede antioksidantenzymaktivitet i præfrontal cortex, hippocampus og striatum versus kontroller.",
+        "fi": "Rottalääkkeellinen tutkimus osoittaa, että yksittäinen ayahuascan annos vähentää palautumista alkoholinkäyttöön ja ahdistuneisuuden kaltaista käyttäytymistä 35 päivän etanolaltistumisen jälkeen. Käsittely (2,72 mg/kg DMT + β-karboliinit) vähensi palautumiskelpoista juomista, normalisoi dopamiini-/serotoniinipitoisuuksia, kohotti BDNF-tasoja ja ennallistui antioksidanttientsyymin aktiivisuus aivokuoren, hippocampuksen ja striaatumin alueilla kontrolleista.",
+        "is": "Rotnarannsókn sýnir að ein skammtadæming ayahuasca minnkar endurkoma til alkoholdrykkju og kvíðatengda hegðun eftir 35 daga etanólútsetningu. Meðferð (2,72 mg/kg DMT + β-karbolín) minnkaði endurkomadrykk, jafnaði dopamín-/serótonin-stig, hækkaði BDNF og endurheimti andoxidant-ensím virkni í beinum heilabarki, hippocampus og striatum miðað við stjórnir.",
+        "et": "Rottekatse näitab, et üksik ayahuasca doos vähendab alkoholisse tagasilangemist ja ärevusesarnast käitumist pärast 35 päeva etanoolaltstumist. Ravi (2,72 mg/kg DMT + β-karboliinid) vähendasid taganemisjooki, normaliseerisid dopamiin/serotooniini tasemeid, tõstsid BDNF-d ja taastasid antioksüdantentsuümi tegevust aju ees-, hipokampuse- ja striaatumipiirkondades võrreldes kontrollrühmaga.",
+        "lv": "Žurku pētījums parāda, ka viena ayahuasca deva samazina atgrieršanos pie alkohola lietošanas un trauksmes līdzīgu uzvedību pēc 35 dienu etanola ekspozīcijas. Ārstēšana (2,72 mg/kg DMT + β-karboīni) samazināja atgriešanās dzeršanu, normalizēja dopamīna/serotonīna līmeņus, paaugstināja BDNF un atjaunoja antioksidantu enzīmu aktivitāti priekšējā garoza, hipokampā un striātumā salīdzinājumā ar kontroli.",
+        "lt": "Žiurkių tyrimas rodo, kad viena ayahuascos doza sumažina grįžimą prie alkoholio ir nerimą panašų elgesį po 35 dienų etanolio ekspozicijos. Gydymas (2,72 mg/kg DMT + β-karbolinai) sumažino grįžimo gėrimą, normalizavo dopamino/serotonino lygius, padidino BDNF ir atkūrė antioksidantinių fermentų aktyvumą priekiniame žievės skiautelyje, hipokampe ir striatum, palyginti su kontrole."
+      },
+      "notable": false,
+      "notable_reasons": null,
+      "relevance_score": 4,
+      "study_type": "preclinical",
+      "substances": [
+        "ayahuasca"
+      ],
+      "added_at": "2026-07-05T09:26:35.324757+00:00"
+    },
+    {
+      "title": "Toward a nuanced framework for the Medical development of ibogaine and its analogues and derivatives: implications for psychopharmacology.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42400152/",
+      "source": "PubMed",
+      "date": "2026-07-03",
+      "authors": [
+        "Verrico Christopher D",
+        "Averill Lynnette A",
+        "Moore Cameron J"
+      ],
+      "doi": "10.1080/17460441.2026.2693144",
+      "summaries": {
+        "en": "This review proposes a framework for developing ibogaine analogs and derivatives as therapeutics for substance use disorders, trauma, mood disorders, and suicidality. Two strategies are distinguished: preserving ibogaine's broad polypharmacological effects while reducing safety risks, or creating selective analogs targeting specific conditions (OUD, TBI, PTSD). The authors evaluate evidence for each approach and discuss trade-offs in safety, efficacy, and scalability, emphasizing the need to account for individual pharmacogenetic variability.",
+        "sv": "Denna översikt föreslår ett ramverk för utveckling av ibogananaloga och derivat som terapeutika för substansmissbrukslidanden, traumatiska tillstånd, stämningsrubbningar och suicidalitet. Två strategier särskiljs: att bevara iboganets breda polyfarmakologiska effekter samtidigt som säkerhetsrisker minskas, eller att skapa selektiva analoga för specifika tillstånd (OUD, TBI, PTSD). Författarna värderar evidensen för båda tillvägagångssätten och diskuterar avvägningar gällande säkerhet, effektivitet och skalbarhet, med betoning på vikten av individuell farmakogenetisk variation.",
+        "no": "Denne oversikten foreslår et rammeverk for utvikling av ibogain-analoger og derivater som terapeutika for stoffbrukslidelser, traumatiske tilstander, stemmingslidelser og suisidalitet. To strategier skilles: å bevare iboains brede polifarmakologiske effekter samtidig som sikkerhetskrisiko reduseres, eller å skape selektive analoger for spesifikke tilstander (OUD, TBI, PTSD). Forfatterne evaluerer bevis for begge tilnærminger og diskuterer avveiinger angående sikkerhet, effektivitet og skalerbarhet, med vekt på betydningen av individuell farmakogenetisk variasjon.",
+        "da": "Denne oversigt foreslår en ramme for udvikling af ibogain-analoger og derivater som terapeutika mod stoffmisbrug, traumatiske tilstande, stemningslidelser og selvmordsfaren. To strategier skelnes: at bevare iboains brede polifarmakologiske effekter samtidig med at reducere sikkerhedsrisici, eller at skabe selektive analoger for specifikke tilstande (OUD, TBI, PTSD). Forfatterne evaluerer evidens for begge tilgange og diskuterer afvejninger vedr. sikkerhed, effektivitet og skalerbarhed, med vægt på betydningen af individuelt farmakogenetisk variabilitet.",
+        "fi": "Tämä katsaus ehdottaa kehikkoa ibogaiinin analogien ja johdannaisten kehittämiselle terapeuteiksi päihteiden käytön häiriöihin, traumaperäisiin tiloihin, mielialahäiriöihin ja itsemurhariski. Kaksi strategiaa erotetaan: ibogaiinin laajapohjaisten polifarmakologisten vaikutusten säilyttäminen samalla kun turvallisuusriskejä vähennetään, tai selektiiviisten analogien luominen tiettyihin tiloihin (OUD, TBI, PTSD). Kirjoittajat arvioivat molempien lähestymistapojen näyttöä ja keskustelevat turvallisuuden, tehokkuuden ja skaalautuvuuden välistä kompromisseista, korostaen yksilöllisen farmakogeneettisen vaihtelun merkitystä.",
+        "is": "Þessi yfirlitið leggur til ramma fyrir þróun ibógaín-analóga og afleiðna sem lyfjameðferðar fyrir vímuefnamisnotkun, átroðaskaða, skapsveiflur og sjálfsmorðshættu. Tvær aðferðir eru aðgreindar: að varðveita víðtæk margvirkjanleg áhrif ibógaíns en minnka öryggisáhættu, eða búa til valkvæða analóga fyrir tilteknar aðstæður (OUD, TBI, PTSD). Höfundar meta sönnunargögn fyrir báðum aðferðum og ræða málefnaleg málefni tengdum öryggi, virkni og stærðarhæfni, með áherslu á mikilvægi einstaklingsbundinnar farmakógenætískrar breytileika.",
+        "et": "Käesolev ülevaade pakub raamistikku ibogarni analoogide ja derivaatide väljatöötamiseks terapeutilisteks vahenditeks ainete kuritarvitamise häirete, trauma-seotud seisundite, meeleolu häirete ja enesetapuohu korral. Eristatakse kahte strateegiat: ibogarni laiapõhjaliste polifarmakkoloogiliste mõjude säilitamine ohutusriskide vähendamise kõrval või selektiivsete analoogide loomine konkreetsete seisundite jaoks (OUD, TBI, PTSD). Autorid hindavad tõendeid mõlema lähenemisviisi kohta ning arutlevad ohutuse, tõhususe ja skaleeritavuse vaheliste otsuste üle, rõhutades individuaalse farmakogeenetilise varieerumise tähtsust.",
+        "lv": "Šis pārskats piedāvā sistēmu iboģaīna analogu un atvasinājumu izstrādei kā terapeitiskiem līdzekļiem vielu lietošanas traucējumiem, traumas saistītiem stāvokļiem, garastāvokļa traucējumiem un pašnāvības risku. Izšķir divas stratēģijas: saglabāt iboģaīna plašus polifarmakološkos efektus, vienlaikus samazinot drošības riskus, vai izveidot selektīvus analogue specifiskiem stāvokļiem (OUD, TBI, PTSD). Autori novērtē pierādījumus abiem pieejām un apspriež drošības, efektivitātes un mērogojamības kompromisus, uzsverot individuālas farmakogeneriskās variācijas nozīmi.",
+        "lt": "Šis apžvalga siūlo psichedelinių medžiagų analogų ir darinių kūrimo sistemą kaip terapinius vaistus medžiagų naudojimo sutrikimams, su trauma susijusioms būsenoms, nuotaikos sutrikimams ir savižudybės rizikai. Išskirti dvi strategijos: išlaikyti plataus veikimo psichedelinę medžiagą, kartu sumažinant saugos riziką, arba sukurti selektyvius analogue specifinėms būsenoms (OUD, TBI, PTSD). Autoriai vertina abiejų metodų įrodymus ir svarsto saugumo, veiksmingumo ir mastelio kompromisus, pabrėždami individualios farmakogeninės variacijų svarbą."
+      },
+      "notable": false,
+      "notable_reasons": null,
+      "relevance_score": 4,
+      "study_type": "review",
+      "substances": [
+        "ibogaine"
+      ],
+      "added_at": "2026-07-05T09:26:35.324757+00:00"
+    },
     {
       "title": "Mitochondrial-inflammation crosstalk in major depressive disorder: molecular mechanisms and therapeutic implications.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42399415/",
@@ -151,6 +244,37 @@
         "ketamine"
       ],
       "added_at": "2026-07-03T09:41:06.927715+00:00"
+    },
+    {
+      "title": "Comparative efficacy and acceptability of pharmacological interventions for postpartum depression: a systematic review and network meta-analysis.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42401022/",
+      "source": "PubMed",
+      "date": "2026-07-01",
+      "authors": [
+        "Xiao Yao",
+        "Xie Ping",
+        "Li Danlei"
+      ],
+      "doi": "10.1016/j.psychres.2026.117318",
+      "summaries": {
+        "en": "Network meta-analysis of 18 RCTs (N=1722) comparing pharmacological treatments for postpartum depression. Saffron, fluoxetine, esketamine, brexanolone, and zuranolone showed symptom improvement versus placebo. Fluoxetine, saffron, and zuranolone had higher response rates; brexanolone alone demonstrated significant remission improvement. Brexanolone showed poor acceptability; zuranolone increased adverse events. Evidence quality mostly low-to-moderate.",
+        "sv": "Nätverksmetaanalys av 18 RCT:er (N=1722) jämförde farmakologiska behandlingar för postpartumsdepression. Saffran, fluoxetin, esketamin, brexanolon och zuranolон visade symptomförbättring jämfört med placebo. Fluoxetin, saffran och zuranolон hade högre svarsfrekvenser; endast brexanolon visade signifikant remission. Brexanolon hade dålig acceptabilitet; zuranolон ökade biverkningar. Bevisstyrka övervägande låg till måttlig.",
+        "no": "Nettverksmetaanalyse av 18 RCT-er (N=1722) som sammenlignet farmakologiske behandlinger for postpartumdepresjoner. Safran, fluoksetin, esketamin, brexanolon og zuranolон viste symptomforbedring sammenlignet med placebo. Fluoksetin, safran og zuranolон hadde høyere responsrater; kun brexanolon viste signifikant remisjon. Brexanolon hadde dårlig akseptabilitet; zuranolон økte bivirkninger. Bevisstyrke hovedsakelig lav til moderat.",
+        "da": "Netværksmetaanalyse af 18 RCT'er (N=1722) sammenlignede farmakologiske behandlinger for postpartum-depression. Safran, fluoxetin, esketamin, brexanolon og zuranolон viste symptomforbedring sammenlignet med placebo. Fluoxetin, safran og zuranolон havde højere responsrater; kun brexanolon viste signifikant remission. Brexanolon havde dårlig acceptabilitet; zuranolон øgede bivirkninger. Bevisqualitet overvejende lav til moderat.",
+        "fi": "Verkkonetaanalyysi 18 RCT-tutkimuksesta (N=1722) vertaili farmakologisia hoitoja synnytysjälkeiseen masennukseen. Sahrani, fluoksetiini, esketamiini, breksanolooni ja zuraanolooni osoittivat oirehelpotusta verrattuna platseboon. Fluokseteiinil, sahraniilla ja zuraanolooniilla oli korkeammat vastausasteet; vain breksanolooni osoitti merkitsevää remissiota. Breksanolooni oli huonosti hyväksytty; zuraanolooni lisäsi haittavaikutuksia. Todistusten laatu enimmäkseen matala tai kohtalainen.",
+        "is": "Netverk-metaanalysi 18 slembilegra rannsókna (N=1722) sem báru saman lyfjameðferðir fyrir þunglyndi eftir fæðingu. Krokus, flúoxetín, esketamín, brexanolon og zúranolon sýndu bætingu einkenna samanborið við lyfleysu. Flúoxetín, krokus og zúranolon höfðu hærri svörun; aðeins brexanolon sýndi marktæka bata. Brexanolon var illa þolað; zúranolon jók aukaverkanir. Sönnunargæði að mestu lítil til meðalstærð.",
+        "et": "Võrgumeta-analüüs 18 RCT uuringust (N=1722) võrdles farmakioloogilisi ravimeetodeid sünnitusjärgse depressiooni jaoks. Sahram, fluoksetiin, esketamiin, breksanolon ja zuraanolon näitasid sümptomite paranemist võrreldes platseeboga. Fluokseteiinil, sahrami ja zuraanoloonil oli kõrgemad reageerimismäärad; ainult breksanolon näitas märgatavat remissiooni. Breksanolooni vastuvõtavus oli kehv; zuraanolon suurendas kõrvaltoimeid. Tõendite kvaliteet peamiselt madal kuni mõõdukas.",
+        "lv": "Tīkla metaanalīze no 18 RCT pētījumiem (N=1722), kas salīdzināja farmakologiskās ārstēšanas metodes pēcdzemdību depresijas gadījumā. Šafrāns, fluoksētīns, esketamīns, breksanolons un zuranolons parādīja simptomu uzlabošanos, salīdzinot ar placebо. Fluoksētīnam, šafrānam un zuranolоnam bija augstākie atbildes rādītāji; tikai breksanolons parādīja statistiski nozīmīgu remisiju. Breksanolona pieņemamība bija zema; zuranolons palielināja blakusparādības. Pierādījumu kvalitāte galvenokārt zema līdz vidēja.",
+        "lt": "Tinklo metaanalizė iš 18 RCT tyrimų (N=1722), lyginusių farmakologinius postpartuminės depresijos gydymo būdus. Šafranis, fluoksetinas, esketaminas, breksanolona ir zuranolona parodė simptomų pagerinimą, lyginant su placebо. Fluoksетinas, šafranis ir zuranolona turėjo aukštesnius atsakymo rodiklius; tik breksanolona parodė statistiškai reikšmingą remisiją. Breksanolono priimtinumas buvo žemas; zuranolona padidino šalutinius poveikius. Įrodymų kokybė daugiausia žema arba vidutinė."
+      },
+      "notable": false,
+      "notable_reasons": null,
+      "relevance_score": 3,
+      "study_type": "review",
+      "substances": [
+        "ketamine"
+      ],
+      "added_at": "2026-07-05T09:26:35.324757+00:00"
     },
     {
       "title": "Modeled Long-Term Effects of Psilocybin on Dynamic Activity and Effective Connectivity of Fronto-Striatal-Thalamic Circuits.",

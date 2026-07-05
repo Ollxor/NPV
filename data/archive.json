@@ -1,6 +1,86 @@
 {
   "items": [
     {
+      "title": "High-order brain interactions during ketamine-induced state changes: A functional marker of response in late-life treatment-resistant depression?",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42401545/",
+      "source": "PubMed",
+      "date": "2026-07-04",
+      "authors": [
+        "Shah Krisha",
+        "Herzog Rubén",
+        "Swann Alan C"
+      ],
+      "doi": "10.1038/s41398-026-04212-1",
+      "summary_en": "This secondary analysis of a randomized, double-blind trial examined brain activity patterns in 30 late-life veterans with treatment-resistant depression following ketamine or midazolam infusion. Using EEG-derived high-order interactions, researchers found ketamine induced dynamic changes in brain redundancy, with peak effects in the alpha band at 1 hour. Greater increases in alpha-band redundancy at 24 hours correlated with improved depressive symptoms at day 7, suggesting these neural markers may help identify ketamine responders.",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "rct",
+      "substances": [
+        "ketamine"
+      ],
+      "added_at": "2026-07-05T09:26:35.324757+00:00"
+    },
+    {
+      "title": "Single Ayahuasca administration attenuates alcohol relapse and associated behavioral, neurochemical, and oxidative alterations in rats.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42401369/",
+      "source": "PubMed",
+      "date": "2026-07-04",
+      "authors": [
+        "Lodetti Guilherme",
+        "de Bitencourt Rafael Mariano",
+        "Inserra Antonio"
+      ],
+      "doi": "10.1016/j.pnpbp.2026.111817",
+      "summary_en": "Rat study demonstrates single ayahuasca dose reduces alcohol relapse and anxiety-like behavior following 35-day ethanol exposure. Treatment (2.72 mg/kg DMT + β-carbolines) decreased relapse drinking, normalized dopamine/serotonin levels, elevated BDNF, and restored antioxidant enzyme activity in frontal cortex, hippocampus, and striatum versus controls.",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "preclinical",
+      "substances": [
+        "ayahuasca"
+      ],
+      "added_at": "2026-07-05T09:26:35.324757+00:00"
+    },
+    {
+      "title": "Toward a nuanced framework for the Medical development of ibogaine and its analogues and derivatives: implications for psychopharmacology.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42400152/",
+      "source": "PubMed",
+      "date": "2026-07-03",
+      "authors": [
+        "Verrico Christopher D",
+        "Averill Lynnette A",
+        "Moore Cameron J"
+      ],
+      "doi": "10.1080/17460441.2026.2693144",
+      "summary_en": "This review proposes a framework for developing ibogaine analogs and derivatives as therapeutics for substance use disorders, trauma, mood disorders, and suicidality. Two strategies are distinguished: preserving ibogaine's broad polypharmacological effects while reducing safety risks, or creating selective analogs targeting specific conditions (OUD, TBI, PTSD). The authors evaluate evidence for each approach and discuss trade-offs in safety, efficacy, and scalability, emphasizing the need to account for individual pharmacogenetic variability.",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "review",
+      "substances": [
+        "ibogaine"
+      ],
+      "added_at": "2026-07-05T09:26:35.324757+00:00"
+    },
+    {
+      "title": "Comparative efficacy and acceptability of pharmacological interventions for postpartum depression: a systematic review and network meta-analysis.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42401022/",
+      "source": "PubMed",
+      "date": "2026-07-01",
+      "authors": [
+        "Xiao Yao",
+        "Xie Ping",
+        "Li Danlei"
+      ],
+      "doi": "10.1016/j.psychres.2026.117318",
+      "summary_en": "Network meta-analysis of 18 RCTs (N=1722) comparing pharmacological treatments for postpartum depression. Saffron, fluoxetine, esketamine, brexanolone, and zuranolone showed symptom improvement versus placebo. Fluoxetine, saffron, and zuranolone had higher response rates; brexanolone alone demonstrated significant remission improvement. Brexanolone showed poor acceptability; zuranolone increased adverse events. Evidence quality mostly low-to-moderate.",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "review",
+      "substances": [
+        "ketamine"
+      ],
+      "added_at": "2026-07-05T09:26:35.324757+00:00"
+    },
+    {
       "title": "Mitochondrial-inflammation crosstalk in major depressive disorder: molecular mechanisms and therapeutic implications.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42399415/",
       "source": "PubMed",

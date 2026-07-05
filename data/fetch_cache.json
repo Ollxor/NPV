@@ -1,7 +1,59 @@
 {
-  "date": "2026-07-04",
-  "cached_at": "2026-07-04T08:34:03.478021+00:00",
+  "date": "2026-07-05",
+  "cached_at": "2026-07-05T08:49:44.494329+00:00",
   "articles": [
+    {
+      "title": "Comparative efficacy and acceptability of pharmacological interventions for postpartum depression: a systematic review and network meta-analysis.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42401022/",
+      "source": "PubMed",
+      "abstract": "Pharmacological treatment for postpartum depression (PPD) have mainly involved conventional antidepressants, RCTs have also evaluated rapid-acting glutamatergic agents, neuroactive steroids, hormonal therapies, and botanical preparations. An updated comparative synthesis of these treatments is therefore needed. To synthesize RCT evidence and compare the efficacy, response, remission, acceptability, and safety of pharmacological interventions for PPD. Two reviewers independently extracted data and assessed risk of bias. A frequentist random-effects network meta-analysis was conducted to integrate direct and indirect evidence across interventions. 18 trials (N = 1722) were included. Compared with placebo, saffron (SMD -1.07, 95% CI -1.52 to -0.61), fluoxetine (SMD -0.95, 95% CI -1.43 to -0.47), esketamine (SMD -0.63, 95% CI -0.89 to -0.37), brexanolone, and zuranolone showed signals of improvement in depressive symptom severity. Fluoxetine, saffron, and zuranolone were associated with higher response rates, although the estimates for fluoxetine and saffron were imprecise. Brexanolone was the only intervention showing a statistically significant improvement in remission. Based on all-cause discontinuation, brexanolone may have a potentially unfavourable acceptability signal. Zuranolone was associated with an increased incidence of adverse events. Given the sparse networks and mostly low-to-moderate certainty of evidence, SUCRA rankings should be interpreted cautiously as exploratory findings. Current RCT evidence suggests that saffron, fluoxetine, esketamine, brexanolone, and zuranolone may improve symptoms of PPD. Brexanolone may have a potentially unfavourable acceptability signal, while zuranolone was associated with increased adverse event incidence. However, the evidence is limited by sparse networks, limited active-comparator evidence, imprecision in some estimates, and clinical heterogeneity, and should therefore be interpreted with caution.",
+      "date": "2026-07-01",
+      "authors": [
+        "Xiao Yao",
+        "Xie Ping",
+        "Li Danlei"
+      ],
+      "doi": "10.1016/j.psychres.2026.117318"
+    },
+    {
+      "title": "High-order brain interactions during ketamine-induced state changes: A functional marker of response in late-life treatment-resistant depression?",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42401545/",
+      "source": "PubMed",
+      "abstract": "Ketamine is a fast-acting intervention for treatment-resistant depression (TRD), yet only a subset of patients show robust clinical response, and the underlying neural mechanisms remain unclear. High-order interactions (HOI) derived from multivariate information theory provide a framework for examining nonlinear dependencies among brain regions beyond pairwise connectivity. One such metric, the O-information, captures the balance between synergistic and redundant interactions across three or more variables. In this secondary analysis of a randomized, double-blind, midazolam-controlled trial (NCT02556606), we examined EEG-derived HOI in 30 late-life veterans with TRD following a single 40-minute intravenous infusion of ketamine (0.1, 0.25, 0.5 mg/kg; n = 18) or midazolam (0.03 mg/kg; n = 12). Resting state and mismatch negativity data were analyzed at baseline, 1 h, 24 h, and 7 d post-infusion. Ketamine induced temporally dynamic alterations in redundancy-dominant O-info, with maximal effects in the alpha-band at 1 h (Cohen's d = 2.57), attenuation at 24 h that shifted toward the theta-band, and partial resurgence in beta and gamma by Day 7. Linear mixed-effects modeling identified significant group effects across most band x metric families, with the strongest effects in alpha, beta, and gamma redundancy. Greater increases in 24-hour alpha-band redundancy were associated with greater improvement in depressive symptoms at Day 7 (β = 69.31, q = 0.05). HOI metrics also tracked acute dissociative states, with several 24-hour alpha and beta features remaining positively associated with symptom severity after correction. These findings extend prior HOI work in healthy samples to a controlled TRD cohort and suggest that ketamine induces temporally structured reorganization of higher-order brain interactions, with exploratory associations to clinical outcomes.",
+      "date": "2026-07-04",
+      "authors": [
+        "Shah Krisha",
+        "Herzog Rubén",
+        "Swann Alan C"
+      ],
+      "doi": "10.1038/s41398-026-04212-1"
+    },
+    {
+      "title": "Single Ayahuasca administration attenuates alcohol relapse and associated behavioral, neurochemical, and oxidative alterations in rats.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42401369/",
+      "source": "PubMed",
+      "abstract": "Alcohol use disorder (AUD) remains difficult to treat with lasting success, leading to growing interest in alternative therapeutic approaches. Psychedelic compounds such as Ayahuasca, a traditional brew used in Indigenous Amazonian ceremonies containing N,N-dimethyltryptamine (DMT) along with monoamine oxidase-inhibiting β-carbolines, have shown promise in reducing addictive behaviors. Alcohol dependence was induced in Wistar rats through a voluntary ethanol-consumption paradigm (15% and 30% v/v) of 35 days, followed by a deprivation period of 9 days. Subsequently, rats received a single administration of Ayahuasca containing 2.72 mg/kg N,N-dimethyltryptamine, 3.98 mg/kg harmine, 0.20 mg/kg harmaline, and 3.72 mg/kg tetrahydroharmine or water by gavage, and a relapse protocol of 9 days evaluated relapse-like ethanol intake. Subsequently, rats underwent behavioral testing to assess anxiety- and depressive-like behavior using the elevated plus maze, open field test, splash test, and forced swim test. The levels of dopamine (DA), serotonin (5-HT), brain-derived neurotrophic factor (BDNF), antioxidant enzymes (superoxide dismutase (SOD), catalase (CAT), glutathione peroxidase (GPx), and glutathione reductase (GR)) activities, and oxidative stress biomarkers (2',7'-dichlorodihydrofluorescein (DCFH) oxidation and thiobarbituric acid reactive substances (TBARS) levels) were assessed in the frontal cortex, hippocampus and striatum 15 days after Ayahuasca administration. A single Ayahuasca administration reduced relapse-like ethanol intake in a sex- and concentration-dependent manner; attenuated alcohol-induced anxiety- and depressive-like behavioral alterations, despite limited evidence of locomotor/exploratory changes; increased striatal DA levels in alcohol-exposed males and females and restored cortical 5-HT levels primarily in males; and partially mitigated alcohol-associated reductions in BDNF levels in a region- and sex-dependent manner. Antioxidant enzyme activities did not show consistent treatment-related modulation, whereas oxidative stress markers (DCFH and TBARS) were reduced in the frontal cortex, hippocampus, and striatum following Ayahuasca administration. However, some oxidative stress and BDNF outcomes showed partial rather than complete normalization. Sex-dependent effects were observed for selected ethanol-intake, neurochemical, BDNF, and oxidative-stress outcomes. Ayahuasca reduced alcohol intake during relapse and attenuated several alcohol-induced behavioral, neurochemical, neurotrophic, and oxidative disturbances in a preclinical model of alcohol dependence, withdrawal, and relapse. These findings suggest modulation of neurobiological pathways disrupted by chronic alcohol exposure, while highlighting region- and sex-dependent effects and incomplete normalization for selected outcomes. Dose-response, longitudinal, and mechanistic studies are warranted, alongside controlled clinical studies evaluating safety and efficacy in AUD.",
+      "date": "2026-07-04",
+      "authors": [
+        "Lodetti Guilherme",
+        "de Bitencourt Rafael Mariano",
+        "Inserra Antonio"
+      ],
+      "doi": "10.1016/j.pnpbp.2026.111817"
+    },
+    {
+      "title": "Toward a nuanced framework for the Medical development of ibogaine and its analogues and derivatives: implications for psychopharmacology.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42400152/",
+      "source": "PubMed",
+      "abstract": "Ibogaine is a naturally occurring indole alkaloid with suggested therapeutic potential across substance use disorders, trauma-related conditions, mood disorders, and suicidality. However, its clinical translation has been hindered by safety concerns, regulatory barriers, and uncertainty regarding its complex pharmacology. Recent interest has surged in developing ibogaine analogs and derivatives that retain therapeutic efficacy while minimizing safety risks. Ibogaine pharmacology is complex with many affected targets, which complicates these efforts. Herein, the authors propose a conceptual framework that distinguishes between two primary strategies: (1) development of ibogaine-like compounds that preserve broad, polypharmacological effects while mitigating key safety liabilities, and (2) creation of more selective, purpose-built 'bespoke' analogs designed to optimally target specific neurobiological pathways and clinical indications - such as opioid use disorder (OUD), traumatic brain injury, or post-traumatic stress disorder (PTSD). Furthermore, the authors critically evaluate the current evidence supporting each approach, and discuss the translational trade-offs related to safety, efficacy, comorbidity, and scalability. The authors also highlight the importance of individual variability, including pharmacogenetics in treatment response. It is important, and particularly within policy-driven research initiatives, that this evolving field must resist oversimplified narratives that frame derivatives as uniformly superior or interchangeable. Greater conceptual clarity and mechanistic humility are also essential as ibogaine-based therapies move toward regulated medical use within Westernized healthcare models.",
+      "date": "2026-07-03",
+      "authors": [
+        "Verrico Christopher D",
+        "Averill Lynnette A",
+        "Moore Cameron J"
+      ],
+      "doi": "10.1080/17460441.2026.2693144"
+    },
     {
       "title": "Mitochondrial-inflammation crosstalk in major depressive disorder: molecular mechanisms and therapeutic implications.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42399415/",
@@ -207,56 +259,6 @@
         "Ling Yunxiang"
       ],
       "doi": "10.3389/fpsyt.2026.1828920"
-    },
-    {
-      "title": "Optimized Oral Glutamatergic Augmentation in Refractory Home-Dominant Contamination Obsessive-Compulsive Disorder With Somatic, Affective, and Motivational Features: A Case Report of Incremental Functional Gains.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42368238/",
-      "source": "PubMed",
-      "abstract": "A proportion of patients with obsessive-compulsive disorder (OCD) continue to experience disabling symptoms despite standard serotonergic treatment, antipsychotic augmentation, and psychological input. Contamination-focused OCD can be especially persistent when rituals are embedded in the home environment and reinforced by family patterns. Recent work has drawn attention to glutamatergic dysfunction, NMDA-AMPA signaling, and synaptic plasticity as possible treatment targets in refractory OCD. The Cheung glutamatergic regimen has been proposed as an oral, low-cost, ketamine-informed glutamatergic strategy using dextromethorphan, CYP2D6 inhibition, piracetam, and L-glutamine to modulate glutamatergic plasticity. The supporting evidence for this proposed regimen remains preliminary, largely case-based, and not independently replicated. A 26-year-old woman presented with several years of contamination fears, repetitive handwashing, prolonged bathing lasting up to 1.5 hours, home-dominant cleaning concerns, anxiety, depressive symptoms, fatigue, somatic complaints, nightmares, and motivational impairment. Baseline screening showed a Patient Health Questionnaire-9 (PHQ-9) of 18 and a Generalized Anxiety Disorder-7 (GAD-7) of 14, with passive suicidal ideation endorsed on one item. Over approximately nine months, treatment was adjusted in routine outpatient care. A glutamatergic-oriented augmentation strategy was used as part of a complex, evolving regimen built around dextromethorphan, piracetam, and later L-glutamine, with pharmacokinetic potentiation via CYP2D6-inhibiting antidepressants, including fluoxetine, bupropion, and later low-dose paroxetine. Low-dose risperidone, clomipramine, pregabalin, propranolol, cyproheptadine, and other symptom-focused adjuncts were used and adjusted according to response and tolerability. Mood, energy, somatic chest discomfort, motivation, and resilience improved. Bathing time decreased from approximately 1.5 hours to about 30 minutes, and ritual preoccupation was at one point described as 20-30% reduced. The PHQ-9 self-harm item changed from \"several days\" at the first standardized assessment to \"not at all\" at Day 41, although passive ideation was again endorsed for several days during later stress. She resumed job-seeking, attended interviews, exercised, learned new skills, and coped better than expected with the illness and death of a long-term pet. Residual contamination and cleaning symptoms remained most prominent at home. No Yale-Brown Obsessive Compulsive Scale, formal ritual count, or structured home-versus-outside severity scale was recorded. This case is best read as a hypothesis-generating clinical observation rather than evidence of regimen-specific efficacy. The response was incomplete but clinically meaningful, especially in affective, somatic, motivational, and functional domains. Larger controlled studies are needed, and home-targeted exposure-based work remains essential.",
-      "date": "2026-06-26",
-      "authors": [
-        "Cheung Hoi Ki",
-        "Cheung Ngo"
-      ],
-      "doi": "10.7759/cureus.111573"
-    },
-    {
-      "title": "Classical psychedelic microdosing, mood, and cognitive function: An umbrella review with narrative synthesis.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42365488/",
-      "source": "PubMed",
-      "abstract": "Psychedelic microdosing-repeated sub-perceptual doses of lysergic acid diethylamide (LSD) or psilocybin-has attracted scientific interest as a potential mood and cognitive intervention. The evidence base remains methodologically heterogeneous and vulnerable to expectancy bias. We conducted an umbrella review with narrative synthesis following Joanna Briggs Institute guidance and Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) 2020 standards (International Prospective Register of Systematic Reviews [PROSPERO]: 2020 standards (PROSPERO: CRD420251077340). Six databases were searched through February 2026. Eligible studies were systematic reviews and/or meta-analyses examining microdosing effects (⩽20 μg LSD or ⩽3 mg psilocybin per session) on mood or cognitive outcomes in adults. Quality was appraised with A Measurement Tool to Assess Systematic Reviews-2; primary-study overlap was quantified via corrected covered area (CCA). Three meta-analyses met quantitative criteria, drawing on 14 studies (13 unique samples,  Current evidence does not support cognitive enhancement through microdosing; the only consistent controlled finding runs counter to popular claims: microdosing was associated with a small but reliable impairment of cognitive control. Observed mood benefits are not replicated under blinded conditions, consistent with expectancy-driven responding. Adequately powered, preregistered, expectancy-controlled trials are required before clinical recommendations can be made.",
-      "date": "2026-06-28",
-      "authors": [
-        "Özaydın Yiğit",
-        "Canlan Özaydın Buket"
-      ],
-      "doi": "10.1177/02698811261456196"
-    },
-    {
-      "title": "The purpose of the psychosocial protocol in the psychedelic-assisted therapy: A scoping review.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42363614/",
-      "source": "PubMed",
-      "abstract": "With growing research on the use of psychedelics to treat mental health conditions, greater attention to the psychosocial procedures accompanying substance administration is warranted. This scoping review aims to categorize psychosocial protocols used in research involving psychedelics as psychiatric treatment according to their purpose, denomination, format, therapeutic orientation, formalization, and duration. Experimental and observational studies were identified through online search platforms, covering Ayahuasca, Dimethyltryptamine, 5-methoxy-",
-      "date": "2026-06-26",
-      "authors": [
-        "Giaffone de Paiva Ferreira Flavia",
-        "Fernandes João Ariel Bonar",
-        "Filev Renato"
-      ],
-      "doi": "10.1177/02698811261453850"
-    },
-    {
-      "title": "Psychological Adverse Effects of Psychedelic Use.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42361342/",
-      "source": "PubMed",
-      "abstract": "The Psychiatric Consultation Service at Massachusetts General Hospital sees medical and surgical inpatients with comorbid psychiatric symptoms and conditions. During their twice-weekly rounds, Dr Stern and other members of the Consultation Service discuss diagnosis and management of hospitalized patients with complex medical or surgical problems who also demonstrate psychiatric symptoms or conditions. These discussions have given rise to rounds reports that will prove useful for clinicians practicing at the interface of medicine and psychiatry.",
-      "date": "2026-06-25",
-      "authors": [
-        "King Franklin",
-        "Zambrano Juliana",
-        "Mauney Erin"
-      ],
-      "doi": "10.4088/PCC.25f04172"
     },
     {
       "title": "Quarterly Psychedelics Briefing: Q2 2026",
@@ -571,7 +573,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2018-004480-31/CZ",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-07-04",
+      "date": "2026-07-05",
       "authors": [],
       "doi": ""
     },
@@ -580,7 +582,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2020-005037-32/CZ",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-07-04",
+      "date": "2026-07-05",
       "authors": [],
       "doi": ""
     },
@@ -589,7 +591,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2021-002909-10/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-07-04",
+      "date": "2026-07-05",
       "authors": [],
       "doi": ""
     },
@@ -598,7 +600,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2015-000550-37/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-07-04",
+      "date": "2026-07-05",
       "authors": [],
       "doi": ""
     },
@@ -607,7 +609,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2021-000041-40/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-07-04",
+      "date": "2026-07-05",
       "authors": [],
       "doi": ""
     },
@@ -616,7 +618,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2020-000829-55/DK",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-07-04",
+      "date": "2026-07-05",
       "authors": [],
       "doi": ""
     },
@@ -625,7 +627,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2020-002790-94/SE",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-07-04",
+      "date": "2026-07-05",
       "authors": [],
       "doi": ""
     },
@@ -634,7 +636,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2021-006200-33/FI",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-07-04",
+      "date": "2026-07-05",
       "authors": [],
       "doi": ""
     },
@@ -643,7 +645,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2019-004812-73/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-07-04",
+      "date": "2026-07-05",
       "authors": [],
       "doi": ""
     },
@@ -652,7 +654,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2022-002369-14/BE",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-07-04",
+      "date": "2026-07-05",
       "authors": [],
       "doi": ""
     },

@@ -1,19 +1,19 @@
 {
-  "date": "2026-07-05",
-  "cached_at": "2026-07-05T08:49:44.494329+00:00",
+  "date": "2026-07-06",
+  "cached_at": "2026-07-06T10:14:50.236802+00:00",
   "articles": [
     {
-      "title": "Comparative efficacy and acceptability of pharmacological interventions for postpartum depression: a systematic review and network meta-analysis.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42401022/",
+      "title": "Kynurenine pathway profiles as markers of ketamine response in treatment-resistant depression.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42402321/",
       "source": "PubMed",
-      "abstract": "Pharmacological treatment for postpartum depression (PPD) have mainly involved conventional antidepressants, RCTs have also evaluated rapid-acting glutamatergic agents, neuroactive steroids, hormonal therapies, and botanical preparations. An updated comparative synthesis of these treatments is therefore needed. To synthesize RCT evidence and compare the efficacy, response, remission, acceptability, and safety of pharmacological interventions for PPD. Two reviewers independently extracted data and assessed risk of bias. A frequentist random-effects network meta-analysis was conducted to integrate direct and indirect evidence across interventions. 18 trials (N = 1722) were included. Compared with placebo, saffron (SMD -1.07, 95% CI -1.52 to -0.61), fluoxetine (SMD -0.95, 95% CI -1.43 to -0.47), esketamine (SMD -0.63, 95% CI -0.89 to -0.37), brexanolone, and zuranolone showed signals of improvement in depressive symptom severity. Fluoxetine, saffron, and zuranolone were associated with higher response rates, although the estimates for fluoxetine and saffron were imprecise. Brexanolone was the only intervention showing a statistically significant improvement in remission. Based on all-cause discontinuation, brexanolone may have a potentially unfavourable acceptability signal. Zuranolone was associated with an increased incidence of adverse events. Given the sparse networks and mostly low-to-moderate certainty of evidence, SUCRA rankings should be interpreted cautiously as exploratory findings. Current RCT evidence suggests that saffron, fluoxetine, esketamine, brexanolone, and zuranolone may improve symptoms of PPD. Brexanolone may have a potentially unfavourable acceptability signal, while zuranolone was associated with increased adverse event incidence. However, the evidence is limited by sparse networks, limited active-comparator evidence, imprecision in some estimates, and clinical heterogeneity, and should therefore be interpreted with caution.",
-      "date": "2026-07-01",
+      "abstract": "Treatment-resistant depression (TRD) remains a major clinical challenge, with highly variable responses to ketamine. Immune activation characterizes a subset of patients with TRD. The kynurenine pathway (KP), which integrates immunometabolic signals with glutamatergic neurotransmission, may provide candidate biomarkers to inform personalized treatment. We investigated whether KP metabolites and ratios are associated with ketamine response and clinical outcomes over time. Thirty adults with TRD received six intravenous ketamine infusions over three weeks. At baseline (D1), after the first infusion (D3), and before the final infusion (D18), we quantified serum tryptophan (TRP), kynurenine (KYN), kynurenic acid (KYNA), 3-hydroxykynurenine (3-HK), and quinolinic acid (QUIN), and assessed depression severity using the Montgomery-Åsberg Depression Rating Scale (MADRS). Higher baseline KYNA was associated with greater symptom improvement at D18 (β = -21.80, β",
+      "date": "2026-07-05",
       "authors": [
-        "Xiao Yao",
-        "Xie Ping",
-        "Li Danlei"
+        "Pedraz-Petrozzi Bruno",
+        "Marszalek-Grabska Marta",
+        "Fornal Emilia"
       ],
-      "doi": "10.1016/j.psychres.2026.117318"
+      "doi": "10.1016/j.bbi.2026.106889"
     },
     {
       "title": "High-order brain interactions during ketamine-induced state changes: A functional marker of response in late-life treatment-resistant depression?",
@@ -40,6 +40,19 @@
         "Inserra Antonio"
       ],
       "doi": "10.1016/j.pnpbp.2026.111817"
+    },
+    {
+      "title": "Comparative efficacy and acceptability of pharmacological interventions for postpartum depression: a systematic review and network meta-analysis.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42401022/",
+      "source": "PubMed",
+      "abstract": "Pharmacological treatment for postpartum depression (PPD) have mainly involved conventional antidepressants, RCTs have also evaluated rapid-acting glutamatergic agents, neuroactive steroids, hormonal therapies, and botanical preparations. An updated comparative synthesis of these treatments is therefore needed. To synthesize RCT evidence and compare the efficacy, response, remission, acceptability, and safety of pharmacological interventions for PPD. Two reviewers independently extracted data and assessed risk of bias. A frequentist random-effects network meta-analysis was conducted to integrate direct and indirect evidence across interventions. 18 trials (N = 1722) were included. Compared with placebo, saffron (SMD -1.07, 95% CI -1.52 to -0.61), fluoxetine (SMD -0.95, 95% CI -1.43 to -0.47), esketamine (SMD -0.63, 95% CI -0.89 to -0.37), brexanolone, and zuranolone showed signals of improvement in depressive symptom severity. Fluoxetine, saffron, and zuranolone were associated with higher response rates, although the estimates for fluoxetine and saffron were imprecise. Brexanolone was the only intervention showing a statistically significant improvement in remission. Based on all-cause discontinuation, brexanolone may have a potentially unfavourable acceptability signal. Zuranolone was associated with an increased incidence of adverse events. Given the sparse networks and mostly low-to-moderate certainty of evidence, SUCRA rankings should be interpreted cautiously as exploratory findings. Current RCT evidence suggests that saffron, fluoxetine, esketamine, brexanolone, and zuranolone may improve symptoms of PPD. Brexanolone may have a potentially unfavourable acceptability signal, while zuranolone was associated with increased adverse event incidence. However, the evidence is limited by sparse networks, limited active-comparator evidence, imprecision in some estimates, and clinical heterogeneity, and should therefore be interpreted with caution.",
+      "date": "2026-07-01",
+      "authors": [
+        "Xiao Yao",
+        "Xie Ping",
+        "Li Danlei"
+      ],
+      "doi": "10.1016/j.psychres.2026.117318"
     },
     {
       "title": "Toward a nuanced framework for the Medical development of ibogaine and its analogues and derivatives: implications for psychopharmacology.",
@@ -246,19 +259,6 @@
         "de Obeso Santiago Castiello"
       ],
       "doi": "10.5334/cpsy.136"
-    },
-    {
-      "title": "NMDA receptors are not necessary for burst firing of lateral habenula neurons in mice.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42368821/",
-      "source": "PubMed",
-      "abstract": "Burst firing in the lateral habenula (LHb) is enhanced under stress and depression, and ketamine blocks burst firing in LHb to exert a rapid antidepressant effect. Thus, burst firing in LHb may serve as a cellular mechanism of depression and a promising therapeutic target for developing novel antidepressants. However, the mechanisms underlying burst firing in LHb are not fully understood. The present study aims to investigate the contribution of N-methyl-D-aspartate receptor (NMDAR) to burst firing in LHb. C57BL/6J male mice aged 8 to 10 weeks were used in the present study. Whole-cell recording was performed in brain slices containing LHb. Spontaneous and rebound burst firings were recorded in current-clamp mode. The effect of NMDAR antagonists, D-2-Amino-5-phosphonovaleric acid (D-AP5) and dizocilpine (MK-801), on burst firing was assessed. Spontaneous burst firing in LHb neurons persisted in the presence of a specific NMDAR antagonist, D-AP5. The percentages of neurons with spontaneous burst firing, burst firing frequency, and spike number per burst were not different between in D-AP5-containing bath solution and in control bath solution. D-AP5 also did not affect ongoing spontaneous burst firing. Rebound burst firing was not affected in the presence of D-AP5, nor was ongoing rebound burst firing. Likewise, MK-801, a use-dependent, non-competitive NMDAR antagonist, did not affect rebound burst firing. NMDARs are not necessary for the generation of burst firing in LHb neurons, although they may play a modulating role under certain states.",
-      "date": "2026-06-11",
-      "authors": [
-        "Zhou Rong",
-        "Lu Jingjing",
-        "Ling Yunxiang"
-      ],
-      "doi": "10.3389/fpsyt.2026.1828920"
     },
     {
       "title": "Quarterly Psychedelics Briefing: Q2 2026",
@@ -573,7 +573,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2018-004480-31/CZ",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-07-05",
+      "date": "2026-07-06",
       "authors": [],
       "doi": ""
     },
@@ -582,7 +582,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2020-005037-32/CZ",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-07-05",
+      "date": "2026-07-06",
       "authors": [],
       "doi": ""
     },
@@ -591,7 +591,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2021-002909-10/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-07-05",
+      "date": "2026-07-06",
       "authors": [],
       "doi": ""
     },
@@ -600,7 +600,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2015-000550-37/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-07-05",
+      "date": "2026-07-06",
       "authors": [],
       "doi": ""
     },
@@ -609,7 +609,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2021-000041-40/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-07-05",
+      "date": "2026-07-06",
       "authors": [],
       "doi": ""
     },
@@ -618,7 +618,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2020-000829-55/DK",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-07-05",
+      "date": "2026-07-06",
       "authors": [],
       "doi": ""
     },
@@ -627,7 +627,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2020-002790-94/SE",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-07-05",
+      "date": "2026-07-06",
       "authors": [],
       "doi": ""
     },
@@ -636,7 +636,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2021-006200-33/FI",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-07-05",
+      "date": "2026-07-06",
       "authors": [],
       "doi": ""
     },
@@ -645,7 +645,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2019-004812-73/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-07-05",
+      "date": "2026-07-06",
       "authors": [],
       "doi": ""
     },
@@ -654,7 +654,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2022-002369-14/BE",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-07-05",
+      "date": "2026-07-06",
       "authors": [],
       "doi": ""
     },

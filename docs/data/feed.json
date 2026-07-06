@@ -1,6 +1,37 @@
 {
-  "generated_at": "2026-07-05T09:28:04.789072+00:00",
+  "generated_at": "2026-07-06T11:11:27.552780+00:00",
   "items": [
+    {
+      "title": "Kynurenine pathway profiles as markers of ketamine response in treatment-resistant depression.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42402321/",
+      "source": "PubMed",
+      "date": "2026-07-05",
+      "authors": [
+        "Pedraz-Petrozzi Bruno",
+        "Marszalek-Grabska Marta",
+        "Fornal Emilia"
+      ],
+      "doi": "10.1016/j.bbi.2026.106889",
+      "summaries": {
+        "en": "Study of 30 treatment-resistant depression patients receiving six intravenous ketamine infusions over three weeks. Researchers measured kynurenine pathway metabolites (tryptophan, kynurenine, kynurenic acid, 3-hydroxykynurenine, quinolinic acid) at baseline, day 3, and day 18, correlating levels with depression severity via MADRS scale. Higher baseline kynurenic acid associated with greater symptom improvement by day 18, suggesting kynurenine pathway profiles may serve as biomarkers for predicting ketamine response.",
+        "sv": "Studie på 30 patienter med behandlingsresistent depression som fick sex intravenösa ketamininfusioner under tre veckor. Forskare mätte kynureninvägens metaboliter (tryptofan, kynurenin, kynureninsyra, 3-hydroxykynurenin, kinolinsyra) vid baseline, dag 3 och dag 18, och korrelerade nivåerna med depressionssvårtgraden via MADRS-skalan. Högre baseline-kynureninsyra förknippades med större symtombättring vid dag 18, vilket tyder på att kynureninvägens profiler kan fungera som biomarkörer för att förutsäga keteminsvar.",
+        "no": "Studie av 30 pasienter med behandlingsresistent depresjon som mottok seks intravenøse ketaminfusjoner over tre uker. Forskere målte kynureninbanemetabolitter (tryptofan, kynurenin, kynureninsyre, 3-hydroxykynurenin, kinolinsyre) ved baseline, dag 3 og dag 18, og korrelerte nivåene med depresjonsseveritet via MADRS-skalaen. Høyere baseline-kynureninsyre var assosiert med større symptomforbedring ved dag 18, noe som tyder på at kynureninbaneprofiler kan tjene som biomarkører for å forutsi ketaminrespons.",
+        "da": "Studie af 30 patienter med behandlingsresistent depression, som modtog seks intravenøse ketaminfusioner over tre uger. Forskere målte kynureninbanemetabolitter (tryptofan, kynurenin, kynureninsyre, 3-hydroxykynurenin, kinolinsyre) ved baseline, dag 3 og dag 18 og korrelerede niveauer med depressionsalvorsgrad via MADRS-skalaen. Højere baseline-kynureninsyre var forbundet med større symptomforbedring ved dag 18, hvilket tyder på, at kynureninbaneprofiler kan fungere som biomarkører til forudsigelse af ketaminrespons.",
+        "fi": "Tutkimus 30:lla hoitoon vastustavaisesta masennuksesta kärsivällä potilaalla, jotka saivat kuusi intravenöösä ketamiini-infuusiota kolmen viikon aikana. Tutkijat mittasivat kynureniniradan metaboliitteja (tryptofaani, kynureniini, kynureenihapolle, 3-hydroksikynureniini, kinoliinihappo) lähtötilanteessa, päivän 3 ja päivän 18, ja korreloivat tasot masennuksen vakavuuteen MADRS-asteikolla. Korkeampi lähtötason kynureenihapon korkeus liittyi suurempaan oireiden parantumiseen päivään 18 mennessä, mikä viittaa siihen, että kynureniniradan profiilit voivat toimia biomarkkerina ketamiinin vasteen ennustamiseen.",
+        "is": "Rannsókn á 30 sjúklingum með meðhöndlunarþolna þunglyndi sem fengu sex intravenous ketamín-innflutning á þremur vikum. Vísindamenn mátu kynúrenín-brautir metabolíta (tryptófan, kynúrenín, kynúrenín-sýru, 3-hydroxykynúrenín, quinolín-sýru) við upphaf, dag 3 og dag 18, og tengdu stig við alvarleika þunglyndis með MADRS-kvarða. Hærri upphafsstig kynúrenín-sýru tengdist meiri batnun einkenna á degi 18, sem bendir til þess að kynúrenín-brautir geti þjónað sem líffræðileg merki til að spá fyrir um viðbrögð við ketamíni.",
+        "et": "Uuring 30 ravile resistentse depressiooni diagnoosiga patsiendil, kes said kuus intravenöösset ketamiini infusiooni kolme nädala jooksul. Teadlased mõõtsid kynureniini rada metaboliite (triptofaan, kynureniini, kynureenihappe, 3-hüdroksükynureniini, kinoliinihappe) alguses, 3. päeval ja 18. päeval ning korreleerisid tasemeid depressiooni raskusega MADRS-skaalal. Kõrgem algne kynureenhape seostus suurema sümptomite paranemisega 18. päevaks, mis viitab, et kynureniini rada profiilid võiksid olla biomarkeritena ketamiini reageerimuse ennustamiseks.",
+        "lv": "Pētījums ar 30 pacientiem ar ārstēšanai rezistentām depresiju, kuri saņēma sešas intravenozas ketamīna infūzijas trīs nedēļu laikā. Pētnieki mērīja kinurēnīna ceļa metabolītus (triptofānu, kinurēnīnu, kinurēnsku skābi, 3-hidrokskinurēnīnu, kinolīnsku skābi) sākumā, 3. un 18. dienā un korelēja līmeņus ar depresijas smagumu, izmantojot MADRS skalu. Augstāks sākotnējais kinurēnska skābes līmenis bija saistīts ar lielāku simptomu uzlabošanos 18. dienā, norādot, ka kinurēnīna ceļa profili var kalpot kā biomarkieri ketamīna atbildes prognozēšanai.",
+        "lt": "Tyrimas su 30 pacientų, turinčių atsparia gydymui depresiją, kurie gavo šešias intravenines ketamino infūzijas per tris savaites. Tyrinėtojai išmatavo kinurenino kelio metabolitus (triptofaną, kinureninį, kinurenino rūgštį, 3-hidrokskinureninį, kinolino rūgštį) pradžioje, 3 ir 18 dieną ir susiejus lygius su depresijos sunkumu pagal MADRS skalę. Aukštesnis pradinis kinurenino rūgšties lygis buvo susijęs su didesniu simptomų pagerintu 18 dieną, rodydamas, kad kinurenino kelio profiliai gali tarnauti kaip biomarkeriai ketamino atsakui numatyti."
+      },
+      "notable": false,
+      "notable_reasons": null,
+      "relevance_score": 4,
+      "study_type": "observational",
+      "substances": [
+        "ketamine"
+      ],
+      "added_at": "2026-07-06T11:11:04.418067+00:00"
+    },
     {
       "title": "High-order brain interactions during ketamine-induced state changes: A functional marker of response in late-life treatment-resistant depression?",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42401545/",

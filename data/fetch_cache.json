@@ -1,7 +1,72 @@
 {
-  "date": "2026-07-06",
-  "cached_at": "2026-07-06T10:14:50.236802+00:00",
+  "date": "2026-07-07",
+  "cached_at": "2026-07-07T09:37:00.543128+00:00",
   "articles": [
+    {
+      "title": "MDMA-assisted PTSD and Alcohol Therapy Trial (MPATHY): study protocol for a double-blind, randomised, controlled outpatient trial of MDMA-assisted integrated exposure-based therapy for comorbid post-traumatic stress disorder and alcohol use disorder.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42409408/",
+      "source": "PubMed",
+      "abstract": "The treatment of comorbid post-traumatic stress disorder (PTSD) and alcohol use disorder (AUD) is significantly more challenging than the treatment of either disorder alone. While gold standard evidence-based treatments exist for this comorbidity, clinically significant improvements are only observed in approximately half of clinical trial participants. The use of adjunctive pharmacotherapies, such as 3,4-methylenedioxymethamphetamine (MDMA), may serve to optimise gold standard interventions. The primary aim of the MDMA-assisted PTSD and Alcohol Therapy Trial study is to examine the therapeutic and cost-effectiveness of combining MDMA with evidence-based integrated care for comorbid PTSD+AUD. Specifically, we will examine MDMA-assisted integrated exposure therapy versus active control-assisted integrated exposure therapy in improving treatment outcomes for PTSD+AUD. This world-first double-blind trial will aim to randomise 100 participants with PTSD+AUD to a regimen of Concurrent Treatment of PTSD and Substance Use Disorders Using Prolonged Exposure (COPE) (12 sessions)+MDMA (80-160 mg: 2 dosing and 2 integration sessions) or COPE (12 sessions)+active control (niacin 250 mg: 2 dosing sessions and 2 integration sessions). All participants will receive medical management. The primary PTSD outcome will be the clinician-administered PTSD Scale for DSM-5. The primary drinking outcome will be the number of heavy drinking days (HDDs) per week, validated by phosphatidylethanol. Secondary PTSD and alcohol-related outcomes will include PTSD checklist for DSM-5 scores, absence of any HDDs and standard drinks per drinking day. We will also examine change in other clinical conditions and symptoms including depression, sleep disturbances and post-traumatic cognitions; treatment satisfaction and engagement; adverse events; and cost-effectiveness. This study will be conducted in accordance with the ethical principles outlined in the Declaration of Helsinki and the International Conference on Harmonisation-Good Clinical Practice guidelines. Ethical approval has been granted by the Sydney Local Health District Ethics Review Committee (X22-0121 & 2022/ETH00773). The results of this study will provide world-first data regarding safety, efficacy and cost-effectiveness of MDMA to optimise integrated exposure-based therapy for comorbid AUD and PTSD and will be disseminated to ensure wide accessibility and to support further research and clinical application. NCT05709353.",
+      "date": "2026-07-06",
+      "authors": [
+        "Morley Kirsten C",
+        "Arunogiri S",
+        "Mills K"
+      ],
+      "doi": "10.1136/bmjopen-2025-114896"
+    },
+    {
+      "title": "Depression in neurodegenerative disease: neurobiological mechanisms and emerging treatments.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42410083/",
+      "source": "PubMed",
+      "abstract": "Depression is one of the most common and disabling neuropsychiatric complications of neurodegenerative diseases. In Alzheimer's disease (AD) and Parkinson's disease (PD), depressive syndromes affect more than one-third of patients and are associated with accelerated cognitive decline, reduced quality of life, and increased healthcare utilisation. Despite this burden, current antidepressant treatments show little or no efficacy in these populations, suggesting that depression arising in the context of neurodegeneration may reflect distinct underlying neurobiological mechanisms. Emerging evidence from molecular imaging, neuropathology, and cognitive neuroscience indicates disease-specific disruption of monoaminergic, glutamatergic, inflammatory, and reward-related circuits in AD and PD. These alterations may undermine the mechanisms of action of standard antidepressants and contribute to treatment resistance. Yet patients with cognitive impairment are routinely excluded from antidepressant trials, and few high-quality studies have evaluated novel therapies in neurodegenerative disease. In this narrative review, we synthesise current evidence on the neurobiological mechanisms underpinning depression in AD and PD and critically evaluate emerging pharmacological and neuromodulatory therapies targeting glutamatergic, serotonergic, dopaminergic, immune, and circuit-level dysfunction. Here, we highlight that depression in neurodegenerative disease offers a unique and underutilised model for mechanistically guided antidepressant development. We identify how interventions including glutamate modulators, dopaminergic agents, kappa opioid antagonists, immune-modulating therapies, and next-generation brain stimulation approaches may offer therapeutic promise. By aligning treatment development with disease-specific circuit and molecular pathology, this framework may improve outcomes for this neglected population while advancing precision psychiatry more broadly.",
+      "date": "2026-07-06",
+      "authors": [
+        "Costello Harry",
+        "Reeves Suzanne",
+        "Glue Paul"
+      ],
+      "doi": "10.1038/s41380-026-03728-8"
+    },
+    {
+      "title": "Policy pathways and historical insights: Canada's evolving approach to psychedelic access for end-of-life distress.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42407184/",
+      "source": "PubMed",
+      "abstract": "Canada's evolving attitudes toward psychedelic interventions in palliative and end-of-life care reflect a departure from historically prohibitionist policies and an emerging recognition of their therapeutic potential for individuals facing end-of-life distress. This shift parallels international regulatory developments in jurisdictions such as the United States, Australia and parts of Europe, where cautious policy liberalization has signaled growing acceptance of psychedelics within clinical contexts. Canada is also a relevant case because of its formative role in the development of modern palliative care, its contemporary frameworks emphasizing holistic approaches to suffering at the end of life, and its experience with medical assistance in dying, all of which have shaped national conversations about suffering, autonomy, and end-of-life care. Additionally, Canada's distinctive historical approach to drug regulation-marked by federal flexibility, mechanisms for compassionate access, and responsiveness to patient advocacy-combined with rising public demand and incremental provincial changes, may uniquely position the country along a transitional pathway toward clinical integration of psychedelics in palliative care. At the same time, Canadian drug policy remains heterogeneous across substances and provinces, underscoring the political contingency of reform. Within this dynamic landscape, Canada's psychedelic drug policy trajectory aligns with broader international trends toward cautious medicalization and regulated access to psychedelic therapies, while also offering an instructive case for how end-of-life frameworks and federal-provincial governance shape policy development.",
+      "date": "2026-07-06",
+      "authors": [
+        "Kratina Sarah",
+        "Schwartz Robert",
+        "Strike Carol"
+      ],
+      "doi": "10.1016/j.drugpo.2026.105414"
+    },
+    {
+      "title": "Ketamine alters the aperiodic EEG exponent in major depression: implications for cortical E/I balance and treatment prediction.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42403511/",
+      "source": "PubMed",
+      "abstract": "Ketamine has emerged as a promising rapid-acting antidepressant for treatment-resistant depression (TRD), yet its mechanisms of action and reliable biomarkers of treatment response remain poorly understood. Recent evidence suggests that the aperiodic exponent (1/f slope) of electroencephalography (EEG) power spectra reflects cortical excitation-inhibition balance (EIB), offering a potential non-invasive marker of treatment outcomes. Our study investigated whether subanesthetic ketamine modulates the EEG aperiodic exponent in patients with major depressive disorder (MDD), most of whom met criteria for TRD. We also examined whether pretreatment aperiodic exponent predicts antidepressant response. A placebo-controlled, single-blind, one-arm, fixed-sequence design without randomization trial of intravenous ketamine infusion in patients with MDD. Twenty-four MDD patients underwent both placebo and ketamine (0.54 mg/kg over 30 min) infusions. Resting-state EEG was recorded pre-, start-, end-, and 24 h post-infusion. Aperiodic exponent (1-40 Hz) was extracted using spectral parameterization. Depressive symptoms were assessed using the Montgomery-Åsberg Depression Rating Scale, with responders defined as ⩾33% symptom reduction 24 h post-infusion. Meta-analysis revealed substantial heterogeneity in ketamine's effect on aperiodic exponents. In our cohort, ketamine significantly reduced the aperiodic exponent across the scalp. Notably, responders exhibited higher pretreatment occipital aperiodic exponents than non-responders. A steeper pretreatment 1/f slope in the occipital region predicted better treatment outcomes. Subanesthetic ketamine alters cortical aperiodic dynamics in MDD, potentially reflecting EIB modulation. The EEG aperiodic exponent, particularly in occipital regions, may serve as a useful biomarker for predicting antidepressant response to ketamine. However, our meta-analysis underscores the complexity and variability of the EEG aperiodic exponent. Future large-scale, multimodal studies are needed to validate and expand on these findings. EudraCT Number: 2013-000952-17 (https://www.clinicaltrialsregister.eu/ctr-search/trial/2013-000952-17/CZ). Using brain wave patterns to predict who benefits from ketamine treatment for depression Ketamine is a fast-acting treatment that can reduce symptoms of severe depression, especially in people who have not improved with standard antidepressants. However, not everyone benefits from ketamine, and doctors currently have no reliable way to predict who will respond. In this study, we explored whether a simple, non-invasive brain test called electroencephalography (EEG) could help identify people who are more likely to improve after ketamine treatment. EEG measures the brain’s natural electrical activity using small sensors placed on the scalp. We focused on a specific pattern in brain activity that reflects the balance between two important brain processes: activation and inhibition. This balance helps regulate healthy brain function and may be altered in depression. Twenty-three adults with major depressive disorder received both placebo and ketamine infusions in a controlled study. We measured their brain activity before, during, and after treatment. We found that ketamine temporarily shifted overall brain activity toward greater activation. Importantly, people who showed stronger inhibitory patterns in the back part of the brain before treatment were more likely to experience improvement in their depression symptoms 24 hours later. These findings suggest that a simple brain wave measure could help predict who is most likely to benefit from ketamine. While more research with larger groups is needed, this approach may eventually support more personalized and targeted treatment decisions for people with difficult-to-treat depression.",
+      "date": "2026-07-03",
+      "authors": [
+        "Liu Yujuan",
+        "Liu Xiaorong",
+        "Olbrich Sebastian"
+      ],
+      "doi": "10.1177/20451253261462240"
+    },
+    {
+      "title": "Effectiveness and safety of repeat dose subcutaneous ketamine for treatment-resistant depression, and the impact of prior ketamine treatment: open label extension of the KADS study.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42403004/",
+      "source": "PubMed",
+      "abstract": "Longer-term outcome and safety data of repeated subcutaneous racemic ketamine for treatment-resistant depression (TRD) is lacking, as is knowledge of the impact of prior ketamine treatment on subsequent response. To evaluate the effectiveness and safety of a 4-week course of subcutaneous racemic ketamine over 6 months and investigate whether prior ketamine treatment influences treatment response. An open label extension (OLE) of a randomised controlled trial (RCT) was conducted at seven mood disorder centres in Australasia, enrolling consenting trial participants who had a Montgomery-Åsberg Depression Rating Scale (MADRS) score of ≥20 at post-trial assessment. Participants initially received twice-weekly 0.5 mg/kg subcutaneous racemic ketamine (fixed regimen) for 4 weeks. Dosing was revised after a Data Safety Monitoring Board recommendation, to a 'flexible regimen' (0.5-0.9 mg/kg with response-guided increments). Depression and safety outcomes were assessed throughout treatment, and 4 weeks and 6 months later. 130 RCT participants entered the OLE phase of whom 32 underwent the fixed OLE regimen and 98 the flexible regimen. At treatment end, 30% (36/116) had responded (MADRS reduction ≥50%), and 4 weeks later 17% (19/110) were 'responders'. Over 50% experienced <25% MADRS reduction. There was no difference in depression response at any time point between regimens. Those treated with ketamine during the RCT showed a transient reduced response after first OLE treatment but at no other assessment point. There were no reports of suicide or suicidal behaviour requiring admission and only expected side-effects observed. In a highly treatment-resistant sample, a 4-week course of subcutaneous racemic ketamine produced short-term clinical benefit in a minority of participants, with response rates declining substantially after treatment cessation, and no unexpected safety concerns. Exploratory subgroup analyses showed no association between prior RCT ketamine exposure and OLE outcomes. ACTRN12616001096448 at www.anzctr.org.au.",
+      "date": "2026-07-06",
+      "authors": [
+        "Glozier Nick",
+        "Morris Richard",
+        "Stratton Elizabeth"
+      ],
+      "doi": "10.1192/bjp.2026.10692"
+    },
     {
       "title": "Kynurenine pathway profiles as markers of ketamine response in treatment-resistant depression.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42402321/",
@@ -194,71 +259,6 @@
         "Walaszek Michał"
       ],
       "doi": "10.1177/20451253261456405"
-    },
-    {
-      "title": "Modeled Long-Term Effects of Psilocybin on Dynamic Activity and Effective Connectivity of Fronto-Striatal-Thalamic Circuits.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42381187/",
-      "source": "PubMed",
-      "abstract": "Psilocybin has been shown to induce fast and sustained symptoms improvements across various psychiatric conditions, yet its long-term mechanisms of action are not fully understood. Initial evidence suggests that longitudinal functional and structural brain changes implicate fronto-striatal-thalamic (FST) circuitry, a broad system involved in goal-directed behavior and motivational states. Here, we performed secondary analyses and applied computational modeling to resting-state fMRI data from a within-subject longitudinal psilocybin trial in psychedelic-naïve healthy volunteers. We first showed that dynamic FST activity increased 4 weeks after a full dose of psilocybin. We then proceeded to mechanistically account for these changes by providing tentative model-based support that reductions in the structure-function coupling contribute to increased dynamic FST activity postpsilocybin. Finally, we used computational approaches to show that psilocybin induces longitudinal increases in bottom-up and reduced top-down modulation of FST circuits. We then used publicly available receptor maps to show that cortical reductions in top-down modulation are linked to regional 5-HT2A receptor availability, while increased information outflow via subcortical and limbic regions relates to local D2 receptor availability. Together, these findings suggest that increased FST flexibility weeks after a high dose of psilocybin is linked to serotonergic-mediated decreases in top-down information flow and dopaminergic-mediated increases in bottom-up information flow. This long-term functional re-organization of FST circuits may represent a common mechanism contributing to the potential clinical efficacy of psilocybin across various neuropsychiatric disorders including substance abuse, major depression, and anorexia nervosa.",
-      "date": "2026-Jul-1",
-      "authors": [
-        "Pasquini Lorenzo",
-        "Vohryzek Jakub",
-        "Escrichs Anira"
-      ],
-      "doi": "10.1002/hbm.70596"
-    },
-    {
-      "title": "Investigating the impact of serotonergic psychedelic drugs, MDMA and ketamine on social cognition in psychiatric disorders: A scoping review.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42380668/",
-      "source": "PubMed",
-      "abstract": "Interest in psychedelic drugs has increased rapidly because of their potential therapeutic role in psychiatric disorders. Impairments in the sociocognitive skills needed to build and maintain social relationships are prominent features of many psychiatric and neurodevelopmental disorders. Emerging evidence suggests that compounds such as 3,4-methylenedioxymethamphetamine (MDMA), lysergic acid diethylamide (LSD), and psilocybin may influence these impairments. This review aimed to determine whether psychedelic drugs may modulate social cognition in individuals with psychiatric or neurodevelopmental disorders associated with cognitive impairment. A search of the MEDLINE, PsycINFO, EMBASE, and Scopus databases was conducted. Twenty studies were identified that evaluated the effects of ketamine, MDMA, psilocybin, LSD, and ayahuasca in depressive disorders, anxiety disorders, autism spectrum disorder (ASD), and post-traumatic stress disorder (PTSD). Findings included neural activation patterns suggesting that ketamine and psilocybin may modulate processes relevant to social perception, particularly facial emotion processing, in depressive disorders. Positive findings were also reported for MDMA in participants with PTSD, including improvements in self-reported psychosocial functioning, self-awareness, and self-compassion. Current evidence suggests that psychedelic drugs may modulate processes relevant to social cognition in psychiatric disorders, although direct evidence of improved social-cognitive functioning remains limited. Not applicable.",
-      "date": "2026-07-01",
-      "authors": [
-        "Smith Sarah Ann",
-        "Mohammad Haseeb",
-        "Lee Lik Hang N"
-      ],
-      "doi": "10.1007/s00213-026-07110-y"
-    },
-    {
-      "title": "Study Protocol for \"Exploring the safety and therapeutic potential of psilocybin in the treatment of anorexia nervosa in adolescents and young adults\".",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42378255/",
-      "source": "PubMed",
-      "abstract": "Anorexia nervosa (AN) is a severe psychiatric disorder with high morbidity, mortality, and relapse rates, most commonly emerging during adolescence. Despite specialized psychological and nutritional treatments, outcomes remain suboptimal, with high rates of relapse and chronicity. Psilocybin has been investigated with preliminary efficacy in other psychiatric conditions characterized by rigidity and treatment resistance, but clinical evidence in AN-particularly in adolescents-is limited. The psiAN study aims to evaluate the safety, tolerability, and feasibility of psilocybin therapy combined with psychological support in adolescents and young adults with relapsing AN, while exploring clinical, experiential, and neurobiological correlates of change. A phase IIa, open-label, randomized controlled trial enrolling individuals aged 16-35 years with DSM-5 AN and a history of relapse. Participants are randomized to receive either two administrations of psilocybin (25 mg) with manualized psychological support plus treatment as usual (TAU), or TAU alone. Primary outcomes focus on safety and tolerability, assessed through adverse events, psychiatric monitoring, and medical parameters measured from first dosing to primary endpoint. Secondary outcomes include change in eating disorder symptom severity, relapse composite measures, mood, well-being, personality traits from baseline to primary endpoint with follow-up to 12 months. Functional magnetic resonance imaging (fMRI) and peripheral brain-derived neurotrophic factor are included as exploratory mechanistic measures. fMRI will evaluate pre- to post-intervention changes in structural and functional connectivity and task-related responses during a simplified Monetary Incentive Delay task (MIDT) and a Calorie-Cue Task (CCT). ClinicalTrials.gov Identifier: NCT07169747. The study follows Good Clinical Practice (GCP), the Declaration of Helsinki, and EU Clinical Trials Regulation requirements, with staged inclusion of adolescents (16-17-year-olds) after a safety board review of adult data (18-35-year-olds). This protocol was prepared with reference to the SPIRIT 2025 guidelines (Chan et al., 2025) to enhance transparency and inform future trials.",
-      "date": "2026-06-30",
-      "authors": [
-        "Sjöström David",
-        "Schau Rybäck Olea",
-        "Claesdotter Knutsson Emma"
-      ],
-      "doi": "10.1371/journal.pone.0352246"
-    },
-    {
-      "title": "Esketamine multi-omic biomarker evaluation in major depressive disorder (EMBER-MDD): concept, objectives and methodologies of a non-clinical investigator-initiated study.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42377483/",
-      "source": "PubMed",
-      "abstract": "Treatment resistance (TR) in major depressive disorder (MDD) affects a substantial minority of patients and is hard to recognize early, delaying intensified care. The Esketamine multi-omic biomarker evaluation in MDD (EMBER-MDD) is a non-interventional, investigator-initiated, in-vitro study within the EU Psych-STRATA programme, analyzing biospecimens collected in the randomized INTENSIFY study and the mirror OBS-TR cohort after participants complete treatment. EMBER-MDD aims to discover individual-omic and integrated multi-omic (hypothesis-free) biomarkers and signatures associated with TR risk, and molecular correlates of clinical response to esketamine nasal spray versus treatment as usual (TAU). Biomaterials will derive from approximately 420 adults with MDD (estimated n = 210 esketamine; n = 210 TAU) and include whole blood, RNA-stabilized whole blood, plasma and serum, sampled at baseline and, when feasible, during and after treatment (up to ~ 5,040 aliquots stored at - 80 °C). Genomics will use baseline DNA genotyping on Illumina Infinium GSA v3.0+MD arrays; epigenomics will profile genome-wide DNA methylation across time points using MethylationEPIC v2.0; transcriptomics will employ mRNA-seq (NovaSeq X/ X Plus); and proteomics/ metabolomics will be generated using high-throughput Olink and/ or Biocrates platforms. Each layer will undergo state-of-the-art preprocessing and analyses (e.g., GWAS/ PRS, EWAS, differential expression, WGCNA, pathway and network analyses), followed by integrative strategies including QTL mapping (meQTL/ eQTL/ pQTL/ mQTL) and intermediate-fusion machine learning with nested cross-validation, explainable AI (SHAP/ LIME) and treatment-effect modelling. All outputs are research-only and will not support individual efficacy, tolerability, or clinical decision-making. The study will deliver robust biosignatures and mechanistic hypotheses to guide future validation and inform stratified, molecularly guided intervention strategies in subsequent prospective trials. Trial registration number: 2023-506617-21-00 and 2025-178-f-S.",
-      "date": "2026-06-30",
-      "authors": [
-        "Hohoff C",
-        "Lange T",
-        "Steinbach L"
-      ],
-      "doi": "10.1007/s00406-026-02306-x"
-    },
-    {
-      "title": "Excessive Switching in OCD and Paranoia Arises From Different Deficits in Belief-Updating.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42369666/",
-      "source": "PubMed",
-      "abstract": "Both obsessions and paranoia are characterized by cognitive inflexibility, particularly in uncertain environments. Differential diagnosis can be challenging and depends on clinical interviews and self-report symptom questionnaires. We predicted that obsessions and paranoia would be associated with distinct suboptimal choice behavioral patterns in our well-established probabilistic reversal learning (PRL) task. Probabilistic reversal learning involves updating beliefs about rewards when contingencies change. Obsessions and paranoia have been linked to excessive switching behaviors during reversal learning; other reports have found perseveration in both OCD and schizophrenia. Here, we analyze data collected from the general population to assess associations between obsessions, paranoia, and PRL task performance. Using a recently developed computational approach - Bayesian Gaussian graphical modeling combined with a Hierarchical Gaussian Filter - we distinguish the impacts of paranoia and obsessions on reversal learning, which we find to be distinct despite the significant correlation of these clinical states. We find that win-switch behavior arises in paranoia from deficits in updating beliefs about uncertainty (i.e., volatility) in the global task structure, whereas excessive switching in OCD arises from diminished belief updating about choice-outcome associations.",
-      "date": "2026-06-24",
-      "authors": [
-        "Freeland Charlotte M",
-        "Suthaharan Praveen",
-        "de Obeso Santiago Castiello"
-      ],
-      "doi": "10.5334/cpsy.136"
     },
     {
       "title": "Quarterly Psychedelics Briefing: Q2 2026",
@@ -573,7 +573,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2018-004480-31/CZ",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-07-06",
+      "date": "2026-07-07",
       "authors": [],
       "doi": ""
     },
@@ -582,7 +582,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2020-005037-32/CZ",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-07-06",
+      "date": "2026-07-07",
       "authors": [],
       "doi": ""
     },
@@ -591,7 +591,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2021-002909-10/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-07-06",
+      "date": "2026-07-07",
       "authors": [],
       "doi": ""
     },
@@ -600,7 +600,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2015-000550-37/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-07-06",
+      "date": "2026-07-07",
       "authors": [],
       "doi": ""
     },
@@ -609,7 +609,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2021-000041-40/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-07-06",
+      "date": "2026-07-07",
       "authors": [],
       "doi": ""
     },
@@ -618,7 +618,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2020-000829-55/DK",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-07-06",
+      "date": "2026-07-07",
       "authors": [],
       "doi": ""
     },
@@ -627,7 +627,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2020-002790-94/SE",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-07-06",
+      "date": "2026-07-07",
       "authors": [],
       "doi": ""
     },
@@ -636,7 +636,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2021-006200-33/FI",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-07-06",
+      "date": "2026-07-07",
       "authors": [],
       "doi": ""
     },
@@ -645,7 +645,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2019-004812-73/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-07-06",
+      "date": "2026-07-07",
       "authors": [],
       "doi": ""
     },
@@ -654,7 +654,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2022-002369-14/BE",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-07-06",
+      "date": "2026-07-07",
       "authors": [],
       "doi": ""
     },

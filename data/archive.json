@@ -1,6 +1,86 @@
 {
   "items": [
     {
+      "title": "MDMA-assisted PTSD and Alcohol Therapy Trial (MPATHY): study protocol for a double-blind, randomised, controlled outpatient trial of MDMA-assisted integrated exposure-based therapy for comorbid post-traumatic stress disorder and alcohol use disorder.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42409408/",
+      "source": "PubMed",
+      "date": "2026-07-06",
+      "authors": [
+        "Morley Kirsten C",
+        "Arunogiri S",
+        "Mills K"
+      ],
+      "doi": "10.1136/bmjopen-2025-114896",
+      "summary_en": "MDMA-assisted PTSD and Alcohol Therapy Trial (MPATHY): study protocol for a double-blind, randomised, controlled outpatient trial of MDMA-assisted integrated exposure-based therapy for comorbid post-traumatic stress disorder and alcohol use disorder.",
+      "notable": true,
+      "notable_reason": "World-first double-blind RCT examining MDMA-assisted integrated exposure therapy for comorbid PTSD+AUD, n=100, with cost-effectiveness analysis and rigorous biomarker validation (phosphatidylethanol).",
+      "study_type": "other",
+      "substances": [
+        "mdma"
+      ],
+      "added_at": "2026-07-07T10:05:21.641194+00:00"
+    },
+    {
+      "title": "Policy pathways and historical insights: Canada's evolving approach to psychedelic access for end-of-life distress.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42407184/",
+      "source": "PubMed",
+      "date": "2026-07-06",
+      "authors": [
+        "Kratina Sarah",
+        "Schwartz Robert",
+        "Strike Carol"
+      ],
+      "doi": "10.1016/j.drugpo.2026.105414",
+      "summary_en": "Canada is shifting from prohibitionist drug policies toward recognizing psychedelics' therapeutic potential for end-of-life distress in palliative care. This policy evolution mirrors international trends in the US, Australia, and Europe. Canada's existing frameworks for holistic end-of-life care, medical assistance in dying, compassionate access mechanisms, and patient advocacy positions it uniquely for clinical integration of psychedelics in palliative settings, though heterogeneous provincial regulations remain.",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "other",
+      "substances": [
+        "psilocybin"
+      ],
+      "added_at": "2026-07-07T10:05:21.641194+00:00"
+    },
+    {
+      "title": "Ketamine alters the aperiodic EEG exponent in major depression: implications for cortical E/I balance and treatment prediction.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42403511/",
+      "source": "PubMed",
+      "date": "2026-07-03",
+      "authors": [
+        "Liu Yujuan",
+        "Liu Xiaorong",
+        "Olbrich Sebastian"
+      ],
+      "doi": "10.1177/20451253261462240",
+      "summary_en": "Placebo-controlled study (n=24) examined ketamine's effects on EEG aperiodic exponent in major depression. Subanesthetic ketamine (0.54 mg/kg IV) significantly reduced the aperiodic exponent, a marker of cortical excitation-inhibition balance. Higher pretreatment occipital aperiodic exponent predicted antidepressant response at 24 hours. Findings suggest EEG aperiodic exponent as a potential biomarker for ketamine treatment outcomes in treatment-resistant depression.",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "observational",
+      "substances": [
+        "ketamine"
+      ],
+      "added_at": "2026-07-07T10:05:21.641194+00:00"
+    },
+    {
+      "title": "Effectiveness and safety of repeat dose subcutaneous ketamine for treatment-resistant depression, and the impact of prior ketamine treatment: open label extension of the KADS study.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42403004/",
+      "source": "PubMed",
+      "date": "2026-07-06",
+      "authors": [
+        "Glozier Nick",
+        "Morris Richard",
+        "Stratton Elizabeth"
+      ],
+      "doi": "10.1192/bjp.2026.10692",
+      "summary_en": "Open-label extension of the KADS trial examined repeated subcutaneous ketamine for treatment-resistant depression. 130 participants received twice-weekly injections (0.5-0.9 mg/kg) for 4 weeks across seven Australasian centres. At treatment end, 30% showed ≥50% symptom reduction; only 17% maintained response at 4-week follow-up. Over 50% showed minimal improvement. Prior ketamine exposure produced transiently reduced initial response but outcomes converged. Safety and longer-term efficacy data remain limited.",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "other",
+      "substances": [
+        "ketamine"
+      ],
+      "added_at": "2026-07-07T10:05:21.641194+00:00"
+    },
+    {
       "title": "Kynurenine pathway profiles as markers of ketamine response in treatment-resistant depression.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42402321/",
       "source": "PubMed",

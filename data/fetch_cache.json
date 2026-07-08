@@ -1,19 +1,71 @@
 {
-  "date": "2026-07-07",
-  "cached_at": "2026-07-07T09:37:00.543128+00:00",
+  "date": "2026-07-08",
+  "cached_at": "2026-07-08T08:24:16.559501+00:00",
   "articles": [
     {
-      "title": "MDMA-assisted PTSD and Alcohol Therapy Trial (MPATHY): study protocol for a double-blind, randomised, controlled outpatient trial of MDMA-assisted integrated exposure-based therapy for comorbid post-traumatic stress disorder and alcohol use disorder.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42409408/",
+      "title": "Association between Intravenous Ketamine Treatment and Cognitive Function in Patients with Treatment-Resistant Depression: A Double-Blind, Randomized, Placebo-Controlled Trial.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42413550/",
       "source": "PubMed",
-      "abstract": "The treatment of comorbid post-traumatic stress disorder (PTSD) and alcohol use disorder (AUD) is significantly more challenging than the treatment of either disorder alone. While gold standard evidence-based treatments exist for this comorbidity, clinically significant improvements are only observed in approximately half of clinical trial participants. The use of adjunctive pharmacotherapies, such as 3,4-methylenedioxymethamphetamine (MDMA), may serve to optimise gold standard interventions. The primary aim of the MDMA-assisted PTSD and Alcohol Therapy Trial study is to examine the therapeutic and cost-effectiveness of combining MDMA with evidence-based integrated care for comorbid PTSD+AUD. Specifically, we will examine MDMA-assisted integrated exposure therapy versus active control-assisted integrated exposure therapy in improving treatment outcomes for PTSD+AUD. This world-first double-blind trial will aim to randomise 100 participants with PTSD+AUD to a regimen of Concurrent Treatment of PTSD and Substance Use Disorders Using Prolonged Exposure (COPE) (12 sessions)+MDMA (80-160 mg: 2 dosing and 2 integration sessions) or COPE (12 sessions)+active control (niacin 250 mg: 2 dosing sessions and 2 integration sessions). All participants will receive medical management. The primary PTSD outcome will be the clinician-administered PTSD Scale for DSM-5. The primary drinking outcome will be the number of heavy drinking days (HDDs) per week, validated by phosphatidylethanol. Secondary PTSD and alcohol-related outcomes will include PTSD checklist for DSM-5 scores, absence of any HDDs and standard drinks per drinking day. We will also examine change in other clinical conditions and symptoms including depression, sleep disturbances and post-traumatic cognitions; treatment satisfaction and engagement; adverse events; and cost-effectiveness. This study will be conducted in accordance with the ethical principles outlined in the Declaration of Helsinki and the International Conference on Harmonisation-Good Clinical Practice guidelines. Ethical approval has been granted by the Sydney Local Health District Ethics Review Committee (X22-0121 & 2022/ETH00773). The results of this study will provide world-first data regarding safety, efficacy and cost-effectiveness of MDMA to optimise integrated exposure-based therapy for comorbid AUD and PTSD and will be disseminated to ensure wide accessibility and to support further research and clinical application. NCT05709353.",
-      "date": "2026-07-06",
+      "abstract": "While the rapid and robust effects of ketamine on depressive symptoms in treatment-resistant depression (TRD) have been demonstrated, the influence of ketamine treatment on cognitive function has not yet been fully elucidated. We aimed to evaluate the effects of ketamine treatment on cognitive function as part of a study that investigated the efficacy of repeated ketamine administration in patients with TRD. In addition, we conducted an exploratory analysis to examine whether baseline cognitive function was associated with ketamine response. In this double-blind, randomized, placebo-controlled study, 34 Japanese TRD patients were enrolled and assigned randomly into either ketamine or placebo group. They received ketamine 0.5 mg/kg or saline intravenously for four doses. Objective and subjective cognitive functions were evaluated with a comprehensive assessment battery before and after the intervention. We also assessed depressive symptoms with the Montgomery-Åsberg Depression Rating Scale (MADRS). The response was defined by at least a 50% reduction in the total MADRS score. No significant differences were found between the ketamine and placebo groups on objective or subjective cognitive function scale score changes. Moreover, ketamine responders showed a significant improvement in subjective cognitive function compared to non-responders. The participants who demonstrated less inhibitory control at baseline showed greater MADRS score reductions after the ketamine treatment. Repeated ketamine administration did not significantly deteriorate cognitive function compared to placebo, which supports a possible cognitive safety profile in patients with TRD. In addition, baseline impaired cognitive control may be associated with ketamine response.",
+      "date": "2026-07-07",
       "authors": [
-        "Morley Kirsten C",
-        "Arunogiri S",
-        "Mills K"
+        "Nomoto Kie",
+        "Ohtani Yohei",
+        "Yatomi Taisuke"
       ],
-      "doi": "10.1136/bmjopen-2025-114896"
+      "doi": "10.1055/a-2894-5681"
+    },
+    {
+      "title": "CSF galanin and noradrenaline downregulation by psilocybin therapy in major depressive disorder.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42414566/",
+      "source": "PubMed",
+      "abstract": "Psilocybin is a rapid-acting antidepressant, but its mechanism of action in major depressive disorder remains unclear. In this secondary analysis of randomized, placebo-controlled trial with multimodal CSF and blood biomarker measurements, psilocybin selectively reduced CSF galanin and noradrenaline, implicating that normalization of these co-transmitters is a key pharmacodynamic signature.",
+      "date": "2026-07-07",
+      "authors": [
+        "Paslawski Wojciech",
+        "Doyon Daniel",
+        "Ekman Carl Johan"
+      ],
+      "doi": "10.1038/s41386-026-02490-3"
+    },
+    {
+      "title": "α",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42414551/",
+      "source": "PubMed",
+      "abstract": "Classic serotonergic psychedelics such as psilocybin act as agonists at cortical serotonin (5-HT) 2A receptors (5-HT",
+      "date": "2026-07-07",
+      "authors": [
+        "Rosado Axel F",
+        "Yu Abigail L",
+        "Yang Jen-Hau"
+      ],
+      "doi": "10.1038/s41380-026-03713-1"
+    },
+    {
+      "title": "Psilocybin therapy for adult females with anorexia nervosa: pilot study.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42414058/",
+      "source": "PubMed",
+      "abstract": "Anorexia nervosa is a debilitating eating disorder with high mortality and chronicity rates owing to the paucity of effective existing treatments. Several clinical trials using psilocybin therapy have demonstrated therapeutic efficacy and safety in psychiatric conditions, including anorexia nervosa. This study aimed to further assess the safety, feasibility and potential efficacy of psilocybin therapy in anorexia nervosa. This single-blind, within-individual pilot study recruited 21 females with anorexia nervosa, who underwent three dosing sessions with oral psilocybin (COMP360) over 6 weeks in a fixed order (1 mg, 25 mg, 25 mg), alongside talk therapy and adjunctive to treatment as usual. Adverse events were monitored throughout the study. Primary clinical outcome measures were global Eating Disorder Examination Interview (EDE) and Readiness and Motivation Questionnaire (RMQ) precontemplation scores. Primary time points for the EDE were the 6-week final visit, 3-month follow-up and 6-month follow-up; and for the RMQ, they were the 6-week final visit and comparison between dosing days. Global EDE Questionnaire scores were a key secondary outcome. Key time points were the 6-week final visit and comparison between dosing days. There was a 12-month remote follow-up. Psilocybin was well tolerated by all participants. The most common adverse events were headache, nausea and dizziness. Two serious adverse events (suicide attempts) were reported for one participant within the 6-12-month period. Relative to baseline, participants displayed significant improvements in their eating disorder symptoms (EDE scores:  This study further provides preliminary support for the feasibility, safety and potential efficacy of this intervention to treat adult females with anorexia nervosa, and warrants further investigation in larger and more rigorously designed studies.",
+      "date": "2026-07-08",
+      "authors": [
+        "Douglass Hannah M",
+        "Spriggs Meg J",
+        "Godfrey Kate"
+      ],
+      "doi": "10.1192/bjp.2026.10687"
+    },
+    {
+      "title": "Beyond Enthusiasm: Ayahuasca and the Future of Depression Research.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42413001/",
+      "source": "PubMed",
+      "abstract": "",
+      "date": "2026-07-07",
+      "authors": [
+        "Sá Filho Alberto Souza",
+        "Fajemiroye James Oluwagbamigbe",
+        "Nardi Antonio Egidio"
+      ],
+      "doi": "10.47626/1516-4446-2026-5035"
     },
     {
       "title": "Depression in neurodegenerative disease: neurobiological mechanisms and emerging treatments.",
@@ -27,6 +79,19 @@
         "Glue Paul"
       ],
       "doi": "10.1038/s41380-026-03728-8"
+    },
+    {
+      "title": "MDMA-assisted PTSD and Alcohol Therapy Trial (MPATHY): study protocol for a double-blind, randomised, controlled outpatient trial of MDMA-assisted integrated exposure-based therapy for comorbid post-traumatic stress disorder and alcohol use disorder.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42409408/",
+      "source": "PubMed",
+      "abstract": "The treatment of comorbid post-traumatic stress disorder (PTSD) and alcohol use disorder (AUD) is significantly more challenging than the treatment of either disorder alone. While gold standard evidence-based treatments exist for this comorbidity, clinically significant improvements are only observed in approximately half of clinical trial participants. The use of adjunctive pharmacotherapies, such as 3,4-methylenedioxymethamphetamine (MDMA), may serve to optimise gold standard interventions. The primary aim of the MDMA-assisted PTSD and Alcohol Therapy Trial study is to examine the therapeutic and cost-effectiveness of combining MDMA with evidence-based integrated care for comorbid PTSD+AUD. Specifically, we will examine MDMA-assisted integrated exposure therapy versus active control-assisted integrated exposure therapy in improving treatment outcomes for PTSD+AUD. This world-first double-blind trial will aim to randomise 100 participants with PTSD+AUD to a regimen of Concurrent Treatment of PTSD and Substance Use Disorders Using Prolonged Exposure (COPE) (12 sessions)+MDMA (80-160 mg: 2 dosing and 2 integration sessions) or COPE (12 sessions)+active control (niacin 250 mg: 2 dosing sessions and 2 integration sessions). All participants will receive medical management. The primary PTSD outcome will be the clinician-administered PTSD Scale for DSM-5. The primary drinking outcome will be the number of heavy drinking days (HDDs) per week, validated by phosphatidylethanol. Secondary PTSD and alcohol-related outcomes will include PTSD checklist for DSM-5 scores, absence of any HDDs and standard drinks per drinking day. We will also examine change in other clinical conditions and symptoms including depression, sleep disturbances and post-traumatic cognitions; treatment satisfaction and engagement; adverse events; and cost-effectiveness. This study will be conducted in accordance with the ethical principles outlined in the Declaration of Helsinki and the International Conference on Harmonisation-Good Clinical Practice guidelines. Ethical approval has been granted by the Sydney Local Health District Ethics Review Committee (X22-0121 & 2022/ETH00773). The results of this study will provide world-first data regarding safety, efficacy and cost-effectiveness of MDMA to optimise integrated exposure-based therapy for comorbid AUD and PTSD and will be disseminated to ensure wide accessibility and to support further research and clinical application. NCT05709353.",
+      "date": "2026-07-06",
+      "authors": [
+        "Morley Kirsten C",
+        "Arunogiri S",
+        "Mills K"
+      ],
+      "doi": "10.1136/bmjopen-2025-114896"
     },
     {
       "title": "Policy pathways and historical insights: Canada's evolving approach to psychedelic access for end-of-life distress.",
@@ -120,11 +185,11 @@
       "doi": "10.1016/j.psychres.2026.117318"
     },
     {
-      "title": "Toward a nuanced framework for the Medical development of ibogaine and its analogues and derivatives: implications for psychopharmacology.",
+      "title": "Toward a nuanced framework for the medical development of ibogaine and its analogues and derivatives: implications for psychopharmacology.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42400152/",
       "source": "PubMed",
-      "abstract": "Ibogaine is a naturally occurring indole alkaloid with suggested therapeutic potential across substance use disorders, trauma-related conditions, mood disorders, and suicidality. However, its clinical translation has been hindered by safety concerns, regulatory barriers, and uncertainty regarding its complex pharmacology. Recent interest has surged in developing ibogaine analogs and derivatives that retain therapeutic efficacy while minimizing safety risks. Ibogaine pharmacology is complex with many affected targets, which complicates these efforts. Herein, the authors propose a conceptual framework that distinguishes between two primary strategies: (1) development of ibogaine-like compounds that preserve broad, polypharmacological effects while mitigating key safety liabilities, and (2) creation of more selective, purpose-built 'bespoke' analogs designed to optimally target specific neurobiological pathways and clinical indications - such as opioid use disorder (OUD), traumatic brain injury, or post-traumatic stress disorder (PTSD). Furthermore, the authors critically evaluate the current evidence supporting each approach, and discuss the translational trade-offs related to safety, efficacy, comorbidity, and scalability. The authors also highlight the importance of individual variability, including pharmacogenetics in treatment response. It is important, and particularly within policy-driven research initiatives, that this evolving field must resist oversimplified narratives that frame derivatives as uniformly superior or interchangeable. Greater conceptual clarity and mechanistic humility are also essential as ibogaine-based therapies move toward regulated medical use within Westernized healthcare models.",
-      "date": "2026-07-03",
+      "abstract": "Ibogaine is a naturally occurring indole alkaloid with suggested therapeutic potential across substance use disorders, trauma-related conditions, mood disorders, and suicidality. However, its clinical translation has been hindered by safety concerns, regulatory barriers, and uncertainty regarding its complex pharmacology. Recent interest has surged in developing ibogaine analogs and derivatives that retain therapeutic efficacy while minimizing safety risks. Ibogaine pharmacology is complex with many affected targets, which complicates these efforts. Herein, the authors propose a conceptual framework that distinguishes between two primary strategies: (1) development of ibogaine-like compounds that preserve broad, polypharmacological effects while mitigating key safety liabilities, and (2) creation of more selective, purpose-built 'bespoke' analogs designed to optimally target specific neurobiological pathways and clinical indications-such as opioid use disorder (OUD), traumatic brain injury, or post-traumatic stress disorder (PTSD). Furthermore, the authors critically evaluate the current evidence supporting each approach, and discuss the translational trade-offs related to safety, efficacy, comorbidity, and scalability. The authors also highlight the importance of individual variability, including pharmacogenetics in treatment response. It is important, and particularly within policy-driven research initiatives, that this evolving field must resist oversimplified narratives that frame derivatives as uniformly superior or interchangeable. Greater conceptual clarity and mechanistic humility are also essential as ibogaine-based therapies move toward regulated medical use within Westernized healthcare models.",
+      "date": "2026-07-06",
       "authors": [
         "Verrico Christopher D",
         "Averill Lynnette A",
@@ -196,69 +261,13 @@
       "doi": "10.1016/j.jad.2026.122194"
     },
     {
-      "title": "Readability of informed consent forms from ClinicalTrials.gov in ketamine clinical trials for mental health conditions: a cross-sectional analysis.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42388555/",
-      "source": "PubMed",
-      "abstract": "Ensuring participants understand informed consent forms (ICFs) is a core ethical requirement of clinical research, particularly in psychiatry, where cognitive and affective symptoms can compromise decisional capacity. As ketamine-based interventions are increasingly studied for mental health conditions, the readability of consent materials in these trials warrants systematic evaluation. To assess the readability and linguistic complexity of ICFs from ClinicalTrials.gov used in ketamine clinical trials for mental health conditions. Cross-sectional analysis. We conducted a cross-sectional analysis of English-language ICFs posted on ClinicalTrials.gov for interventional ketamine clinical trials involving mental health conditions. All documents were converted to plain text and standardised for text-based analysis. Readability and linguistic complexity were assessed using established indices, including the Flesch-Kincaid Grade Level, Gunning Fog Index, Flesch Reading Ease Score, and Fry Readability Graph. Document length and estimated silent reading time were also calculated. Descriptive statistics summarised the findings. Fourteen ketamine clinical trials met the inclusion criteria. ICFs ranged from 1681 to 8637 words (mean: 5031; median: 4622), with sentence counts from 129 to 503. Estimated silent reading times ranged from 7.0 to 36.0 min (mean: 21.4; median: 19.5). Flesch-Kincaid Grade Level scores ranged from 5.7 to 11.5 (mean: 9.8), with 13 of 14 documents above grade 8. Gunning Fog Index values ranged from 7.7 to 13.8 (mean: 11.7). Flesch Reading Ease Scores ranged from 41.3 to 73.9 (mean: 52.8). Fry Readability scores ranged from grade 6 to grade 13. Thirteen of fourteen ketamine mental health trial consent forms on ClinicalTrials.gov exceeded recommended readability thresholds. Sponsors and ethics committees should require consent materials to meet an eighth-grade reading level, verified by a documented readability assessment before approval, to support informed participation in psychiatric research. Plain language title: how easy are consent forms to read in ketamine mental health trials? People who participate in clinical trials must receive clear and understandable information before deciding whether to take part. This information is usually provided in an informed consent form. In mental health research, this is especially important because symptoms such as low concentration, low mood, or anxiety can make it harder to process complex written information. Ketamine is increasingly studied as a treatment for mental health conditions such as depression, post-traumatic stress disorder, and substance use disorders. In this study, we examined how easy it is to read the informed consent forms used in ketamine clinical trials. We analysed informed consent forms posted on the ClinicalTrials.gov website. Only English-language forms from interventional ketamine trials for mental health conditions were included. In total, 14 consent forms met the inclusion criteria. We measured basic features of the text, such as length and estimated reading time, and applied several widely used readability formulas. These formulas estimate the level of education a reader may need to understand the text. The consent forms varied greatly in length, ranging from about 1,700 to more than 8,600 words. On average, a person would need more than 20 minutes to read a single consent form. Most forms required a reading level above what is usually recommended for health information. Thirteen of the fourteen consent forms exceeded at least one commonly recommended readability threshold. These findings suggest that many consent forms used in ketamine mental health trials may be difficult to read for people with lower reading skills or for patients experiencing mental health symptoms. Using simpler language and clearer sentence structures may help future participants better understand trial information and make more informed decisions about participation.",
-      "date": "2026-06-29",
-      "authors": [
-        "Swieczkowski Damian",
-        "Kwaśny Aleksander",
-        "Cubała Wiesław Jerzy"
-      ],
-      "doi": "10.1177/20451253261456385"
-    },
-    {
-      "title": "Biofluid Biomarkers of Cognitive Functioning in Bipolar Disorder: A Systematic Review by the Targeting Cognition and Older-Age Bipolar Disorder ISBD Task Forces.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42387906/",
-      "source": "PubMed",
-      "abstract": "Cognitive impairment is common in bipolar disorder (BD), but the underlying pathophysiology remains unclear. This systematic review aimed to (1) summarize all literature describing relationships of biofluid biomarkers and cognition in BD and (2) identify which biofluid biomarkers correlate most consistently with cognition in BD. This systematic review followed procedures of the PRISMA statement. PubMed, EMBASE, and PsycINFO were searched from inception until July 2023. Original studies assessing the relationships between biofluid biomarkers and cognitive functioning in adults with BD were included. Studies on neuroimaging markers and genetic biomarkers were excluded. We identified 60 studies, together describing 184 biofluid biomarkers that were measured in relation to cognitive functioning in BD. Biomarkers were organized into ten categories: oxidative stress markers (n = 14); growth factors (n = 13); neurotransmitters (n = 14); neuropeptides and hormones (n = 14); neurodegenerative markers (n = 11); inflammatory/immune markers (n = 59); serostatus to infectious agents (n = 11); amino acids, vitamins, and minerals (n = 7); metabolic factors (n = 23); hemogram, coagulation, and fibrinolysis markers (n = 18). Preliminary evidence for a significant relationship with cognition appeared for HSV-1 IgG, CRP, and homocysteine (Hcy); higher biomarker levels were associated with worse cognition. Included studies were heterogeneous and many were deemed to be of low quality following risk of bias assessment. The identified three biofluid biomarkers represent history of previous infections, current inflammation, and/or physical or psychological stress. Poor physical health, possibly represented by a broad range of biomarker aberrations, may play a role in the pathophysiology of cognitive impairment in BD. PROSPERO registration number: CRD42021224226.",
-      "date": "2026-Aug",
-      "authors": [
-        "Beunders Alexandra J M",
-        "Schouws Sigfried N T M",
-        "Olagunju Andrew T"
-      ],
-      "doi": "10.1111/bdi.70109"
-    },
-    {
-      "title": "Psychedelics and autism spectrum disorder: Mechanistic insights, translational evidence and ethical challenges.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42385294/",
-      "source": "PubMed",
-      "abstract": "Autism spectrum disorder (ASD) is a heterogeneous neurodevelopmental condition characterized by persistent deficits in social communication and interaction, restricted and repetitive patterns of behavior, and sensory processing alterations, frequently accompanied by anxiety, emotional dysregulation, and other psychiatric comorbidities. Despite advances in behavioral and pharmacological interventions, effective treatments for core ASD symptoms remain limited. Psychedelic compounds have recently emerged as potential therapeutic agents in psychiatry because of their ability to modulate serotonergic and glutamatergic signaling, enhance neuroplasticity, reorganize large-scale brain networks, and influence neurobiological pathways implicated in ASD. In this narrative review, we examine the mechanistic rationale supporting psychedelic-based approaches in ASD, including 5-HT2A receptor activation, oxytocin-serotonin interactions, excitation-inhibition dynamics, functional connectivity, and glutamatergic modulation associated with ketamine and related compounds. We also summarize current clinical and preclinical evidence involving substances such as psilocybin, lysergic acid diethylamide, 3,4-methylenedioxymethamphetamine, and ketamine. Particular attention is given to the distinction between core ASD symptoms and associated symptom domains. Current evidence does not support the direct treatment of core social communication deficits or restricted and repetitive behaviors; however, psychedelics may hold greater potential for dimensions such as social anxiety, emotional dysregulation, cognitive rigidity, and co-occurring mood symptoms. Ethical, regulatory, and developmental safety considerations are also discussed, particularly regarding neurodivergent populations and the absence of robust pediatric evidence. Although direct clinical studies in ASD remain scarce, psychedelic-assisted interventions represent a promising translational avenue that warrants further rigorous investigation through carefully designed clinical trials.",
-      "date": "2026-06-23",
-      "authors": [
-        "Claudino Dos Santos Júlio César",
-        "Bolan Sofia Januário",
-        "Lodetti Guilherme"
-      ],
-      "doi": "10.1016/j.jpsychires.2026.06.035"
-    },
-    {
-      "title": "Major depressive disorder-alcohol use disorder comorbidity: diagnosis, mechanisms and treatment.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42384049/",
-      "source": "PubMed",
-      "abstract": "Alcohol Use Disorder (AUD) and Major Depressive Disorder (MDD) are two highly prevalent psychiatric disorders with a high comorbidity rate, which is significantly higher rate than other combinations of mental disorders and substance use disorders. This comorbidity not only imposes a substantial disease burden on individuals but also significantly complicates clinical management, leading to more severe functional impairment, reduced treatment adherence, and increased resistance to monotherapy. AUD diagnosis varies by diagnostic system: DSM-V integrates alcohol dependence and abuse into 11 criteria with severity grading, while ICD-11 retains two subtypes and shows higher diagnostic rates for dependence. MDD, the depressive subtype with the highest AUD comorbidity rate, must be distinguished from alcohol-induced depression. Underlying mechanisms of this comorbidity involve bidirectional pathways as well as core pathophysiological processes including abnormal reward sensitivity, neurotrophic-inflammatory imbalance, dysregulation of neurotransmitter systems and the hypothalamic-pituitary-adrenal (HPA) axis, gut-brain axis disruption, and shared risk factors. Therapeutic strategies encompass multiple modalities: pharmacological interventions include selective serotonin reuptake inhibitors (SSRIs) combined with AUD-targeted therapies, as well as emerging agents like extended-release trazodone and ketamine; psychosocial interventions are dominated by cognitive behavioral therapy (CBT); physical therapies such as repetitive transcranial magnetic stimulation (rTMS) and gut-brain axis-targeted therapies also show therapeutic potential. Notably, integrated treatment models that simultaneously address both disorders have been proven to outperform sequential or parallel approaches. This review systematically synthesizes the latest evidence on the diagnosis, underlying mechanisms, and therapeutic strategies of AUD-MDD comorbidity, aiming to provide evidence-based references for clinical management.",
-      "date": "2026-07-01",
-      "authors": [
-        "Fang Bojia",
-        "Hua Haoshui",
-        "Chen Wenqin"
-      ],
-      "doi": "10.1007/s00406-026-02307-w"
-    },
-    {
-      "title": "Patient-centred education for ketamine and esketamine therapies in mood disorders.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42382981/",
-      "source": "PubMed",
-      "abstract": "Treatment-resistant depression (TRD) and bipolar depression (TRBD) are severe, heterogeneous mood disorders associated with substantial functional impairment, elevated suicide risk and persistent unmet treatment needs. While pharmacological and psychological interventions continue to advance, many patients experience delayed, partial or unsustained benefit, underscoring the need for therapies with novel mechanisms and rapid onset of action. Ketamine and esketamine have emerged as distinctive treatments in this context, demonstrating rapid antidepressant and anti-suicidal effects, yet differing fundamentally from conventional antidepressants in their acute subjective effects, physiological profile, delivery models and misuse potential. This narrative review synthesizes evidence from regulatory guidance, clinical trials, observational studies and qualitative research to identify key patient information needs and propose practical psychoeducational strategies. Core elements include explanations of indications, mechanisms and treatment algorithms; guidance on visit preparation, scheduling and monitoring; management of acute adverse effects; counselling on suicidality and substance misuse; and tailored considerations for special populations, including older adults, women of reproductive potential and medically complex patients. Drawing on this synthesis, the review proposes a patient-centred framework for ketamine and esketamine psychoeducation, outlining key informational domains and practical tools that can be embedded within clinical services, and identifies priorities for future research aimed at optimizing patient experience and supporting the responsible integration of ketamine-based therapies into mood disorder care.",
-      "date": "2026-06-29",
-      "authors": [
-        "Kachlik Zofia",
-        "Cubała Wiesław Jerzy",
-        "Walaszek Michał"
-      ],
-      "doi": "10.1177/20451253261456405"
+      "title": "Compass Closes Out Phase 3 With 6-Month COMP006 Data, Eyes H1’27 Launch",
+      "url": "https://psychedelicalpha.com/news/compass-closes-out-phase-3-with-6-month-comp006-data-eyes-h127-launch/",
+      "source": "Psychedelic Alpha",
+      "abstract": "This morning, Compass Pathways shared 26-week data from its second Phase 3 study of COMP360 psilocybin for treatment-resistant depression (TRD). The data are from Part B of COMP006, the company’s larger (n=581) Phase 3 trial that initially assessed two doses of either 1 mg, 10 mg, or 25 mg of psilocybin 3 weeks apart. The […]",
+      "date": "2026-07-07",
+      "authors": [],
+      "doi": ""
     },
     {
       "title": "Quarterly Psychedelics Briefing: Q2 2026",
@@ -338,15 +347,6 @@
       "source": "Psychedelic Alpha",
       "abstract": "Welcome to our second Field Note. As a reminder, Field Notes are timely, candid voice notes from our Founder and Editor, Josh Hardman, that provide our Pα+ readers with a pulse on recent developments in psychedelic drug development, policy, and access. In this Field Note, Josh discusses two events he participated in last week: Psychedelics-related […]",
       "date": "2026-06-09",
-      "authors": [],
-      "doi": ""
-    },
-    {
-      "title": "Pα+ Psychedelic Bulletin #225: Q1 Lobbying Update; Individual vs. Group MDMA Therapy Study Launches; Australia Loosens Psychedelics Access Regulations; VA Launches “New” MDMA Trial",
-      "url": "https://psychedelicalpha.com/news/p%ce%b1-psychedelic-bulletin-225-q1-lobbying-update-individual-vs-group-mdma-therapy-study-launches-australia-loosens-psychedelics-access-regulations-va-launches-new-mdma-tria/",
-      "source": "Psychedelic Alpha",
-      "abstract": "It’s been an incredibly busy few weeks since our last Bulletin, with Psychedelic Alpha on the road in the U.S. (for APA’s annual meeting and a visit to Stanford and the valley), The Real Mental Health Summit in London, and now the Interdisciplinary Conference on Psychedelic Research in Haarlem, the Netherlands. We have published a […]",
-      "date": "2026-06-05",
       "authors": [],
       "doi": ""
     },
@@ -573,7 +573,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2018-004480-31/CZ",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-07-07",
+      "date": "2026-07-08",
       "authors": [],
       "doi": ""
     },
@@ -582,7 +582,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2020-005037-32/CZ",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-07-07",
+      "date": "2026-07-08",
       "authors": [],
       "doi": ""
     },
@@ -591,7 +591,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2021-002909-10/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-07-07",
+      "date": "2026-07-08",
       "authors": [],
       "doi": ""
     },
@@ -600,7 +600,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2015-000550-37/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-07-07",
+      "date": "2026-07-08",
       "authors": [],
       "doi": ""
     },
@@ -609,7 +609,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2021-000041-40/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-07-07",
+      "date": "2026-07-08",
       "authors": [],
       "doi": ""
     },
@@ -618,7 +618,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2020-000829-55/DK",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-07-07",
+      "date": "2026-07-08",
       "authors": [],
       "doi": ""
     },
@@ -627,7 +627,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2020-002790-94/SE",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-07-07",
+      "date": "2026-07-08",
       "authors": [],
       "doi": ""
     },
@@ -636,7 +636,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2021-006200-33/FI",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-07-07",
+      "date": "2026-07-08",
       "authors": [],
       "doi": ""
     },
@@ -645,7 +645,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2019-004812-73/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-07-07",
+      "date": "2026-07-08",
       "authors": [],
       "doi": ""
     },
@@ -654,7 +654,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2022-002369-14/BE",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-07-07",
+      "date": "2026-07-08",
       "authors": [],
       "doi": ""
     },

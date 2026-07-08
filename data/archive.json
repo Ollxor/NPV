@@ -1,6 +1,82 @@
 {
   "items": [
     {
+      "title": "Association between Intravenous Ketamine Treatment and Cognitive Function in Patients with Treatment-Resistant Depression: A Double-Blind, Randomized, Placebo-Controlled Trial.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42413550/",
+      "source": "PubMed",
+      "date": "2026-07-07",
+      "authors": [
+        "Nomoto Kie",
+        "Ohtani Yohei",
+        "Yatomi Taisuke"
+      ],
+      "doi": "10.1055/a-2894-5681",
+      "summary_en": "Double-blind RCT (N=34) examining ketamine's effects on cognitive function in treatment-resistant depression. Intravenous ketamine (0.5 mg/kg, 4 doses) produced no significant differences versus placebo on objective or subjective cognitive measures. Ketamine responders showed improved subjective cognition versus non-responders. Baseline inhibitory control deficits predicted greater antidepressant response.",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "rct",
+      "substances": [
+        "ketamine"
+      ],
+      "added_at": "2026-07-08T09:05:02.359572+00:00"
+    },
+    {
+      "title": "CSF galanin and noradrenaline downregulation by psilocybin therapy in major depressive disorder.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42414566/",
+      "source": "PubMed",
+      "date": "2026-07-07",
+      "authors": [
+        "Paslawski Wojciech",
+        "Doyon Daniel",
+        "Ekman Carl Johan"
+      ],
+      "doi": "10.1038/s41386-026-02490-3",
+      "summary_en": "Secondary analysis of a randomized placebo-controlled trial examined cerebrospinal fluid (CSF) biomarkers following psilocybin therapy in major depressive disorder. Psilocybin selectively reduced CSF galanin and noradrenaline levels, suggesting that normalization of these co-transmitters may represent a key mechanism underlying its rapid antidepressant effects.",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "rct",
+      "substances": [
+        "psilocybin"
+      ],
+      "added_at": "2026-07-08T09:05:02.359572+00:00"
+    },
+    {
+      "title": "Psilocybin therapy for adult females with anorexia nervosa: pilot study.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42414058/",
+      "source": "PubMed",
+      "date": "2026-07-08",
+      "authors": [
+        "Douglass Hannah M",
+        "Spriggs Meg J",
+        "Godfrey Kate"
+      ],
+      "doi": "10.1192/bjp.2026.10687",
+      "summary_en": "Pilot study of psilocybin therapy in 21 adult females with anorexia nervosa. Single-blind design with three oral psilocybin sessions (1 mg, 25 mg, 25 mg) over 6 weeks plus talk therapy. Primary outcomes: Eating Disorder Examination and motivation scores at 6 weeks, 3 and 6 months. Psilocybin was well tolerated; common adverse events were headache, nausea, dizziness. One participant reported two suicide attempts. Results suggest potential feasibility and safety for further investigation.",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "rct",
+      "substances": [
+        "psilocybin"
+      ],
+      "added_at": "2026-07-08T09:05:02.359572+00:00"
+    },
+    {
+      "title": "Compass Closes Out Phase 3 With 6-Month COMP006 Data, Eyes H1’27 Launch",
+      "url": "https://psychedelicalpha.com/news/compass-closes-out-phase-3-with-6-month-comp006-data-eyes-h127-launch/",
+      "source": "Psychedelic Alpha",
+      "date": "2026-07-07",
+      "authors": [],
+      "doi": "",
+      "summary_en": "Compass Pathways released 26-week data from COMP006, a Phase 3 trial (n=581) evaluating COMP360 psilocybin for treatment-resistant depression. Participants received two doses of 1 mg, 10 mg, or 25 mg psilocybin three weeks apart. The company targets H1 2027 for a potential market launch.",
+      "notable": true,
+      "notable_reason": "Phase 3 pivotal trial (n=581) with 6-month follow-up data and H1'27 launch timeline suggests imminent regulatory decision/approval pathway.",
+      "study_type": "rct",
+      "substances": [
+        "psilocybin"
+      ],
+      "added_at": "2026-07-08T09:05:02.359572+00:00"
+    },
+    {
       "title": "MDMA-assisted PTSD and Alcohol Therapy Trial (MPATHY): study protocol for a double-blind, randomised, controlled outpatient trial of MDMA-assisted integrated exposure-based therapy for comorbid post-traumatic stress disorder and alcohol use disorder.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42409408/",
       "source": "PubMed",

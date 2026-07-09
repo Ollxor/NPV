@@ -1,6 +1,107 @@
 {
-  "generated_at": "2026-07-08T09:06:22.065991+00:00",
+  "generated_at": "2026-07-09T10:05:55.135725+00:00",
   "items": [
+    {
+      "title": "Blinding integrity in psychedelic research: Evidence from a comparative randomized controlled trial of psilocybin, MDMA, and methylphenidate in healthy volunteers",
+      "url": "https://doi.org/10.1016/j.euroneuro.2026.112879",
+      "source": "OpenAIRE",
+      "date": "2026-10-01",
+      "authors": [
+        "L. Belinger",
+        "N.M. Rieser",
+        "E.J.E. Engeli"
+      ],
+      "doi": "10.1016/j.euroneuro.2026.112879",
+      "summaries": {
+        "en": "Blinding integrity in psychedelic research: Evidence from a comparative randomized controlled trial of psilocybin, MDMA, and methylphenidate in healthy volunteers",
+        "sv": "Blinding integrity in psychedelic research: Evidence from a comparative randomized controlled trial of psilocybin, MDMA, and methylphenidate in healthy volunteers",
+        "no": "Blinding integrity in psychedelic research: Evidence from a comparative randomized controlled trial of psilocybin, MDMA, and methylphenidate in healthy volunteers",
+        "da": "Blinding integrity in psychedelic research: Evidence from a comparative randomized controlled trial of psilocybin, MDMA, and methylphenidate in healthy volunteers",
+        "fi": "Blinding integrity in psychedelic research: Evidence from a comparative randomized controlled trial of psilocybin, MDMA, and methylphenidate in healthy volunteers",
+        "is": "Blinding integrity in psychedelic research: Evidence from a comparative randomized controlled trial of psilocybin, MDMA, and methylphenidate in healthy volunteers",
+        "et": "Blinding integrity in psychedelic research: Evidence from a comparative randomized controlled trial of psilocybin, MDMA, and methylphenidate in healthy volunteers",
+        "lv": "Blinding integrity in psychedelic research: Evidence from a comparative randomized controlled trial of psilocybin, MDMA, and methylphenidate in healthy volunteers",
+        "lt": "Blinding integrity in psychedelic research: Evidence from a comparative randomized controlled trial of psilocybin, MDMA, and methylphenidate in healthy volunteers"
+      },
+      "notable": false,
+      "notable_reasons": null,
+      "relevance_score": 4,
+      "study_type": "rct",
+      "substances": [
+        "psilocybin",
+        "mdma"
+      ],
+      "added_at": "2026-07-09T10:03:12.956794+00:00"
+    },
+    {
+      "title": "Convergent increases in serotonin 1B receptor binding following ketamine and electroconvulsive therapy: a multi-centre bayesian re-analysis of PET data.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42420418/",
+      "source": "PubMed",
+      "date": "2026-07-08",
+      "authors": [
+        "Matheson Granville J",
+        "Lundberg Johan",
+        "Gärde Martin"
+      ],
+      "doi": "10.1038/s41380-026-03704-2",
+      "summaries": {
+        "en": "A multi-centre Bayesian re-analysis of PET imaging data found convergent increases in serotonin 1B receptor binding following both ketamine and electroconvulsive therapy (ECT). The study used PET neuroimaging to measure in vivo serotonin 1B receptor availability, suggesting these two distinct antidepressant treatments may share a common neurobiological mechanism.",
+        "sv": "En flercenteranalys med bayesiansk omanalys av PET-data visade ökad bindning av serotonin 1B-receptorer efter både ketamin och elkonvulsiv terapi (ECT). Studien användes PET-avbildning för att mäta serotonin 1B-receptoravailabilitet in vivo, vilket tyder på ett gemensamt neurobiologiskt mekanisme bakom dessa två antidepressiva behandlingar.",
+        "no": "En multi-senter-studie med Bayesiansk re-analyse av PET-data viste konvergent økning i serotonin 1B-reseptorbinding etter både ketamin og elektrokonvulsiv terapi (ECT). Studien brukte PET-avbildning for å måle serotonin 1B-reseptor-tilgjengelighet in vivo, noe som antyder en felles nevrobiologlsk mekanisme bak disse to antidepressive behandlingene.",
+        "da": "En multi-center Bayesiansk re-analyse af PET-data viste konvergent stigning i serotonin 1B-receptorbinding efter både ketamin og elektrokonvulsiv terapi (ECT). Studien anvendte PET-scanning til at måle serotonin 1B-receptoravailabilitet in vivo, hvilket tyder på en fælles neurobiologisk mekanisme for disse to antidepressive behandlinger.",
+        "fi": "Multi-keskuksisessa Bayesin uudelleenanalyysissa PET-kuvantamisaineistosta havaittiin konvergentin serotoniin 1B -reseptorisidonnan lisääntyminen sekä ketamiinin että elektrokonvulsiivisen hoidon (ECT) jälkeen. Tutkimus käytti PET-kuvantamista in vivo -serotoniin 1B -reseptorin saatavuuden mittaamiseen, mikä viittaa näiden kahden erilaisen masennuksenlääkityksen yhteiseen neurobiologiseen mekanismiin.",
+        "is": "Margflokks Bayesian endurgreiningu á PET-gögnum sýndi sameiginlega aukningu á serotonín 1B-viðtakabökkun eftir bæði ketan og rafhlaupaðri krampi (ECT). Rannsóknin notaði PET-myndun til að mæla serotonín 1B-viðtakaframboð in vivo, sem bendir til sameiginlegrar taugavistfræðilegrar aðferðar á bak við þessar tvær andþunglyndi meðferðir.",
+        "et": "Mitmeosalise Bayesiuse üleanalüüsi tulemusena PET-kuvamisdatatest leiti konvergentne serotoniin 1B retseptorite sidumise suurenemine nii ketamiini kui ka elektrokonvulsiivse ravi (ECT) järel. Uuringus kasutati PET-kujutamist serotoniin 1B retseptorite kättesaadavuse mõõtmiseks in vivo, mis viitab nende kahe erineva depressioonivastase ravi ühisele neurobiioloogilisele mehhanismile.",
+        "lv": "Vairāku centru Bajesa atkārtotā analīze PET attēlveidošanas datiem atklāja konverģentu serotoīna 1B receptoru saistīšanās pieaugumu pēc gan ketamīna, gan elektrokonvulsīvās terapijas (ECT). Pētījumā izmantota PET attēlveidošana, lai izmērītu serotoīna 1B receptoru pieejamību in vivo, kas norāda uz kopīgu neirobioloģisku mehānismu šīm divām dažādām depresijas ārstēšanas metodēm.",
+        "lt": "Daugiacentrinė Bajeso pakartota PET duomenų analizė atskleidė konvergentinį serotonino 1B receptorių rišimosi padidėjimą tiek po ketamino, tiek po elektrokonvulsinės terapijos (ECT). Tyrime naudota PET vaizdinė, norint išmatuoti serotonino 1B receptorių prieinamumą in vivo, o tai rodo bendrą neurobiologinį mechanizmą šiems dviem skirtingiems depresijos gydymo būdams."
+      },
+      "notable": false,
+      "notable_reasons": null,
+      "relevance_score": 4,
+      "study_type": "observational",
+      "substances": [
+        "ketamine"
+      ],
+      "added_at": "2026-07-09T10:03:12.956794+00:00"
+    },
+    {
+      "title": "Pα+ Psychedelic Bulletin #227: A Closer Look at Compass’ 6-Month Data; AtaiBeckley Deal Update; ‘Rysanso’ Brand MDMA?",
+      "url": "https://psychedelicalpha.com/news/p%ce%b1-psychedelic-bulletin-227-a-closer-look-at-compass-6-month-data-ataibeckley-deal-update-rysanso-brand-mdma/",
+      "source": "Psychedelic Alpha",
+      "date": "2026-07-08",
+      "authors": [],
+      "doi": "",
+      "summaries": {
+        "en": "Pα+ Psychedelic Bulletin #227: A Closer Look at Compass’ 6-Month Data; AtaiBeckley Deal Update; ‘Rysanso’ Brand MDMA?",
+        "sv": "Pα+ Psychedelic Bulletin #227: A Closer Look at Compass’ 6-Month Data; AtaiBeckley Deal Update; ‘Rysanso’ Brand MDMA?",
+        "no": "Pα+ Psychedelic Bulletin #227: A Closer Look at Compass’ 6-Month Data; AtaiBeckley Deal Update; ‘Rysanso’ Brand MDMA?",
+        "da": "Pα+ Psychedelic Bulletin #227: A Closer Look at Compass’ 6-Month Data; AtaiBeckley Deal Update; ‘Rysanso’ Brand MDMA?",
+        "fi": "Pα+ Psychedelic Bulletin #227: A Closer Look at Compass’ 6-Month Data; AtaiBeckley Deal Update; ‘Rysanso’ Brand MDMA?",
+        "is": "Pα+ Psychedelic Bulletin #227: A Closer Look at Compass’ 6-Month Data; AtaiBeckley Deal Update; ‘Rysanso’ Brand MDMA?",
+        "et": "Pα+ Psychedelic Bulletin #227: A Closer Look at Compass’ 6-Month Data; AtaiBeckley Deal Update; ‘Rysanso’ Brand MDMA?",
+        "lv": "Pα+ Psychedelic Bulletin #227: A Closer Look at Compass’ 6-Month Data; AtaiBeckley Deal Update; ‘Rysanso’ Brand MDMA?",
+        "lt": "Pα+ Psychedelic Bulletin #227: A Closer Look at Compass’ 6-Month Data; AtaiBeckley Deal Update; ‘Rysanso’ Brand MDMA?"
+      },
+      "notable": true,
+      "notable_reasons": {
+        "en": "Phase 3 pivotal trial (COMP360/COMP006) 6-month data readout with regulatory pathway implications for potential FDA approval.",
+        "sv": "Phase 3 pivotal trial (COMP360/COMP006) 6-månaders datapresentation med implikationer för regulatorisk väg mot potentiellt FDA-godkännande.",
+        "no": "Phase 3 pivotal trial (COMP360/COMP006) 6-måneders datautlesning med konsekvenser for regulatorisk vei mot potensiell FDA-godkjenning.",
+        "da": "Phase 3 pivotal trial (COMP360/COMP006) 6-måneders datapræsentation med konsekvenser for regulatorisk vej mod potentiel FDA-godkendelse.",
+        "fi": "Phase 3 pivotal trial (COMP360/COMP006) 6 kuukauden data-analyysi sääntelyreitillä olevia vaikutuksia FDA-hyväksynnälle.",
+        "is": "Phase 3 pivotal trial (COMP360/COMP006) 6 mánaða gagnaúttekt með afleiðingum fyrir eftirlitsleið í átt að hugsanlegri FDA-samþykki.",
+        "et": "Phase 3 pivotal trial (COMP360/COMP006) 6-kuulise andmete väljund regulatoorse tee implikatsioonidega potentsiaalse FDA-heakskiidu suunal.",
+        "lv": "Phase 3 pivotal trial (COMP360/COMP006) 6 mēnešu datu rezultāti ar normatīvā ceļa sekām iespējamam FDA apstiprinājumam.",
+        "lt": "Phase 3 pivotal trial (COMP360/COMP006) 6 mėnesių duomenų rezultatai su reguliacinių kelių implikacijomis dėl galimos FDA patvirtinimo."
+      },
+      "relevance_score": 4,
+      "study_type": "rct",
+      "substances": [
+        "psilocybin",
+        "mdma"
+      ],
+      "added_at": "2026-07-09T10:03:12.956794+00:00"
+    },
     {
       "title": "Psilocybin therapy for adult females with anorexia nervosa: pilot study.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42414058/",
@@ -754,6 +855,103 @@
       ]
     },
     {
+      "title": "Intensity and Visual Content Dissociate in DMT: Dynamic Integration-Complexity Predicts One, Spatial Configuration the Other",
+      "url": "https://doi.org/10.5281/zenodo.20627783",
+      "source": "OpenAIRE",
+      "date": "2026-06-09",
+      "authors": [
+        "Dobbin, Emma"
+      ],
+      "doi": "10.5281/zenodo.20627783",
+      "summaries": {
+        "en": "EEG study (N=35) in inhaled DMT identifies a novel measure (mac_I) tracking dynamic integration-complexity changes that predicts subjective experience intensity (ρ=0.41, p=0.016), distinct from content. Microstate spatial configuration predicts visual imagery type (ρ=0.56, p<0.001) independently of intensity, forming a pre-specified double dissociation (p=0.007). Results were DMT-specific and did not generalize to psilocybin (N=57).",
+        "sv": "EEG-studie (N=35) med inhalerad DMT identifierar ett nytt mått (mac_I) som spårar dynamiska integrations-komplexitetsförändringar och förutsäger upplevelsens intensitet (ρ=0,41, p=0,016), skild från innehål. Mikrostatens rumsliga konfiguration förutsäger visuell bildtyp (ρ=0,56, p<0,001) oberoende av intensitet, vilket bildar en förspecificerad dubbel dissociation (p=0,007). Resultaten var DMT-specifika och generaliserades inte till psilocybin (N=57).",
+        "no": "EEG-studie (N=35) med inhalert DMT identifiserer et nytt mål (mac_I) som sporer dynamiske integrasjons-kompleksitetsendringer og forutsier opplevelsesintensitet (ρ=0,41, p=0,016), distinkt fra innhold. Mikrostatens romlige konfigurasjon forutsier visuell bildetype (ρ=0,56, p<0,001) uavhengig av intensitet, og danner en forspesifisert dobbel dissosasjon (p=0,007). Resultatene var DMT-spesifikke og generaliserte ikke til psilocybin (N=57).",
+        "da": "EEG-studie (N=35) med inhaleret DMT identificerer et nyt mål (mac_I), der sporer dynamiske integrations-kompleksitetsændringer og forudsiger oplevelsesintensitet (ρ=0,41, p=0,016), adskilt fra indhold. Mikrostatens rumlige konfiguration forudsiger visuelt billedtype (ρ=0,56, p<0,001) uafhængigt af intensitet og danner en forspecificeret dobbelt dissociation (p=0,007). Resultaterne var DMT-specifikke og generaliserede ikke til psilocybin (N=57).",
+        "fi": "EEG-tutkimus (N=35) inhaloitavalla DMT:llä tunnistaa uuden mittarin (mac_I), joka seuraa dynaamisia integraatio-kompleksisuusmuutoksia ja ennustaa kokemuksen intensiteettiä (ρ=0,41, p=0,016), erillään sisällöstä. Mikrotilan spatiaalinen konfiguraatio ennustaa visuaalisen kuvan tyyppiä (ρ=0,56, p<0,001) intensiteetistä riippumattomasti ja muodostaa ennalta määritetyn kaksinkertaisen dissosiaation (p=0,007). Tulokset olivat DMT-spesifisiä eivätkä yleistyneet psilosybiiniin (N=57).",
+        "is": "EEG-rannsókn (N=35) með inhlöðuðu DMT auðkennir nýtt mæligildi (mac_I) sem fylgist með kraftmiklum breytingum á samþættingu-flækjustigi og spáir fyrir um sterk upplifunar (ρ=0,41, p=0,016), aðgreind frá efni. Staðbundið uppsetning örhættar spáir fyrir um tegund sjónræns myndunar (ρ=0,56, p<0,001) óháð styrk og myndar fyrirfram tilgreinda tvöfalda aðskilnaði (p=0,007). Niðurstöður voru DMT-sérstakar og yfirfærðust ekki til psilósýbíns (N=57).",
+        "et": "EEG-uurimus (N=35) inhaalitava DMT-ga identifitseerib uue mõõdiku (mac_I), mis jälgib dünaamilisi integratsioon-keerukuse muutusi ja ennustab kogemuse intensiivsust (ρ=0,41, p=0,016), sisust eraldiseisvalt. Mikropaisaste ruumiline konfiguratsioon ennustab visuaalse pildi tüüpi (ρ=0,56, p<0,001) intensiivsusest sõltumatult ja moodustab eelnevalt määratletud topeltdissotsiatsioon (p=0,007). Tulemused olid DMT-spetsiifilised ja ei üldistunud psilotsibiinile (N=57).",
+        "lv": "EEG pētījums (N=35) ar ieelpotu DMT identificē jaunu mēri (mac_I), kas izseko dinamiskām integrācijas-sarežģītības izmaiņām un prognozē pieredzes intensitāti (ρ=0,41, p=0,016), atšķirts no satura. Mikrostāvokļa telpiskā konfigurācija prognozē vizuālā attēla veidu (ρ=0,56, p<0,001) neatkarīgi no intensitātes un veido iepriekš noteiktu dubultu disociāciju (p=0,007). Rezultāti bija DMT-specifiki un neizvērtējās psilocībīnam (N=57).",
+        "lt": "EEG tyrimas (N=35) su įkvėptu DMT identifikuoja naują matą (mac_I), sekantį dinaminius integracijos-sudėtingumo pokyčius ir numatantį patyrimo intensyvumą (ρ=0,41, p=0,016), atskirią nuo turinio. Mikrobūsenos erdvinė konfigūracija numatytina vaizdinio tipo (ρ=0,56, p<0,001) nepriklausomai nuo intensyvumo ir sudaro iš anksto nurodytą dvigubą dissociaciją (p=0,007). Rezultatai buvo DMT-specifiniai ir nepasigeneravo psilocibinui (N=57)."
+      },
+      "notable": false,
+      "notable_reasons": null,
+      "relevance_score": 4,
+      "study_type": "observational",
+      "substances": [
+        "dmt",
+        "psilocybin"
+      ],
+      "added_at": "2026-07-09T10:03:12.956794+00:00"
+    },
+    {
+      "title": "Lifetime psychedelic use and opioid use disorder severity in a National Survey: the roles of psychedelic type and mental health",
+      "url": "https://doi.org/10.1016/j.addbeh.2026.108652",
+      "source": "OpenAIRE",
+      "date": "2026-06-01",
+      "authors": [
+        "Sebastian Ehmann",
+        "Nathan M. Hager",
+        "Paul S. Regier"
+      ],
+      "doi": "10.1016/j.addbeh.2026.108652",
+      "summaries": {
+        "en": "Cross-sectional analysis of 45,133 U.S. adults using structural equation modeling found divergent associations between psychedelic use and opioid use disorder (OUD) severity. Mescaline/peyote use correlated with lower OUD severity (β=-0.34), while LSD/psilocybin/MDMA/DMT use correlated with higher severity (β=0.60). Mental health impairment moderated these relationships: mescaline/peyote's protective association emerged only in those with high mental health impairment, whereas the adverse association for other psychedelics was attenuated in this group.",
+        "sv": "Tvärsnittsanalys av 45 133 amerikanska vuxna med strukturell ekvationmodellering identifierade divergenta samband mellan psykedelisk användning och allvarlighetsgrad av opioidanvändningsstörning (OUD). Meskalin/peyotl-användning korrelerade med lägre OUD-allvarlighetsgrad (β=-0,34), medan LSD/psilocybin/MDMA/DMT korrelerade med högre grad (β=0,60). Psykisk påfrestning modererade dessa samband: meskalin/peyotl-effekten framträdde endast bland personer med högre psykisk påfrestning.",
+        "no": "Tverrsnittsanalyse av 45 133 amerikanske voksne med strukturell ligningsmodellering fant divergente sammenhenger mellom psykedelisk bruk og alvorlighetsgrad av opioidbrukslidelse (OUD). Meskalin/peyotl-bruk korrelerte med lavere OUD-alvorlighetsgrad (β=-0,34), mens LSD/psilocybin/MDMA/DMT korrelerte med høyere grad (β=0,60). Psykisk belastning modererte disse sammenhengene: meskalin/peyotl-effekten framkom bare blant personer med høyere psykisk belastning.",
+        "da": "Tværsnittsanalyse af 45.133 amerikanske voksne med strukturel ligningsmodellering fandt divergente sammenhænge mellem psykedelisk brug og alvorlighetsgrad af opioidbrugsforstyrrelser (OUD). Meskalin/peyotl-brug korrelerede med lavere OUD-alvorlighed (β=-0,34), mens LSD/psilocybin/MDMA/DMT korrelerede med højere alvorlighed (β=0,60). Psykisk belastning modererede disse sammenhænge: meskalin/peyotl-effekten opstod kun blandt personer med høj psykisk belastning.",
+        "fi": "Strukturaalisen yhtälömallinuksen avulla tehdyssä 45 133 amerikkalaisen aikuisen poikittaistutkimuksessa todettiin eriävät yhteydet psykedeelisen käytön ja opioidiriippuvuuden (OUD) vakavuuden välillä. Meskaaliini/peyotin käyttö korreloi pienemmän OUD-vakavuuden kanssa (β=-0,34), kun taas LSD/psilosybiini/MDMA/DMT korreloi suuremman vakavuuden kanssa (β=0,60). Psyykkinen kuormitus muutti näitä suhteita: meskaaliini/peyotinin suojaava vaikutus ilmeni vain korkean psyykkisen kuormituksen omaavilla.",
+        "is": "Þverskurðargreining á 45.133 bandarískum fullorðnum með skipulagðri jöfnunarlíkani sýndi frábrugðin tengsl milli sáleinkennaefna og alvarleika opioidfíknisjúkdóms (OUD). Meskalin/peyotl-notkun tengdist minni alvarleika (β=-0,34), en LSD/psílosýbín/MDMA/DMT tengdist meiri alvarleika (β=0,60). Geðræn þrek breyttu þessum tengslum: vernd meskalín/peyotls kom fram eingöngu meðal þeirra með mikla geðræna þrek.",
+        "et": "Struktuursete võrrandmudelite abil läbi viidud uuringus 45 133 USA täiskasvanusel leiti psühhedeelidega kasutamise ja opioidisõltuvuse (OUD) raskusastet vahel lahknevaid seoseid. Meskaliin/peyotl kasutamine oli seotud madalama OUD raskusastmega (β=-0,34), samas kui LSD/psiilotsibiin/MDMA/DMT kasutamine kõrgema raskusastmega (β=0,60). Psüühilised häired mõjutasid neid seoseid: meskaliin/peyotl kaitsev toime ilmnes vaid psüühiliselt kuormatud inimestel.",
+        "lv": "Strukturālo vienādojumu modelēšanas izmantošanā 45 133 ASV pieaugušajiem atklāja atšķirīgas saistības starp psihedeliķu lietošanu un opioīdu atkarības (OUD) smagumu. Meskalīna/peyotl lietošana bija saistīta ar zemāku OUD smagumu (β=-0,34), savukārt LSD/psilocibīna/MDMA/DMT lietošana ar augstāku smagumu (β=0,60). Garīgā nespēja moderēja šīs saistības: meskalīna/peyotl aizsargjošais efekts parādījās tikai personas ar augstu garīgo nespēju.",
+        "lt": "Atlikus struktūrinės lygties modeliavimo analizę 45 133 JAV suaugusiems, buvo nustatyti skirtingi ryšiai tarp psichedelijų vartojimo ir opioidų vartojimo sutrikimu (OUD) sunkumo. Meskalino/peyotlio vartojimas buvo susietas su mažesniu OUD sunkumu (β=-0,34), o LSD/psilocinė/MDMA/DMT su didesniu sunkumu (β=0,60). Psichinis sutrikimas moderavo šiuos ryšius: meskalino/peyotlio apsauginis poveikis pasireiškė tik asmenims su aukštu psichikos sutrikimu."
+      },
+      "notable": false,
+      "notable_reasons": null,
+      "relevance_score": 4,
+      "study_type": "observational",
+      "substances": [
+        "mescaline",
+        "lsd",
+        "psilocybin",
+        "mdma"
+      ],
+      "added_at": "2026-07-09T10:03:12.956794+00:00"
+    },
+    {
+      "title": "Psychedelics for treatment of negative symptoms and depressive symptoms in schizophrenia spectrum disorder: A narrative review",
+      "url": "https://doi.org/10.1016/j.schres.2026.03.003",
+      "source": "OpenAIRE",
+      "date": "2026-06-01",
+      "authors": [
+        "Sabe M.",
+        "Grof P.",
+        "Sackett N. B."
+      ],
+      "doi": "10.1016/j.schres.2026.03.003",
+      "summaries": {
+        "en": "Narrative review examining whether serotonergic psychedelics could treat depressive and negative symptoms in schizophrenia spectrum disorders. Both conditions involve dopamine, glutamate, and neuroplasticity disturbances. Preclinical evidence shows psychedelics increase dendritic spine density, enhance BDNF, and modulate network connectivity, suggesting potential therapeutic relevance for addressing maladaptive brain networks in schizophrenia.",
+        "sv": "Narrativ översikt som undersöker om serotonerga psykedelika kan behandla depressiva och negativa symptom vid schizofrenisprektrumsyndrom. Båda tillstånden involverar störningar i dopamin, glutamat och neuroplasticitet. Prekliniska studier visar att psykedelika ökar dendritisk spindeltäthet, förbättrar BDNF och modulerar nätverksanslutning, vilket antyder terapeutisk relevans.",
+        "no": "Narrativ oversikt som undersøker om serotonerge psykedelika kunne behandle depressive og negative symptomer ved schizofrenisprektrumsyndrom. Begge tilstander involverer forstyrrelser i dopamin, glutamat og neuroplastisitet. Prekliniske studier viser at psykedelika øker dendritisk spindeltetthet, forbedrer BDNF og modulerer nettverkstilkobling, noe som antyder terapeutisk relevans.",
+        "da": "Narrativ oversigt, der undersøger, om serotonerge psykedelika kunne behandle depressive og negative symptomer ved skizofrenisprektrumsyndrom. Begge tilstande involverer forstyrrelser i dopamin, glutamat og neuroplasticitet. Præ-kliniske studier viser, at psykedelika øger dendritisk spindeltæthed, forbedrer BDNF og modulerer netværksforbindelser, hvilket antyder terapeutisk relevans.",
+        "fi": "Narratiivinen katsaus tutkii, voisivatko serotonergiset psykedeelit hoitaa depressiivisia ja negatiivisia oireita skitsofreniakirjon häiriöissä. Molempiin tiloihin liittyy dopamiiinin, glutamaatin ja neuroplastisuuden häiriöt. Prekliiniset tutkimukset osoittavat, että psykedeelit lisäävät dendriittisten selkärankojen tiheyttä, parantavat BDNF:ää ja säätelevät verkkoyhteyksien toimintaa.",
+        "is": "Hugleiðandi yfirlit sem kannar hvort serótóninörvandi sáleinkenni gætu meðhöndlað þunglyndi og neikvæð einkenni í sækirófrenískum litrófsflokki. Báðir aðstæður fela í sér truflanir í dópamíni, glútamati og taugabeygjuflexibiliteti. Forrannsóknir sýna að sáleinkenni auka þéttleika taugagreinanna, bæta BDNF og stjórna netkerfistengingum.",
+        "et": "Narratiivne ülevaade, mis uurib, kas serotonergilised psühhedeelikud võiksid ravida depressiivseid ja negatiivseid sümptomeid skisofreenia spektrihaigustes. Mõlemad seisundid hõlmavad dopamiin-, glutamaat- ja neurorplastsususe häireid. Prekliinilised uuringud näitavad, et psühhedeelikud suurendavad dendriitiliste selgroo tihedust, parandavad BDNF-i ja moduleerivad võrgu ühendusi.",
+        "lv": "Narratīvs pārskats, kurā pārbaudīts, vai serotoninērgie psihedeliki varētu ārstēt depresīvus un negatīvus simptomus šizofrēnijas spektra traucējumos. Abi stāvokļi ietver traucējumus dopamīnā, glutamātā un neuropластичности. Preklīniskie pētījumi parāda, ka psihedeliki palielina dendritisko skriemeļu blīvumu, uzlabo BDNF un modulē tīkla savienojumus.",
+        "lt": "Naratyvinė apžvalga, kurioje nagrinėjama, ar serotonininiai psichedelikai galėtų gydyti depresyvius ir negatyvius simptomus schizofrenijos spektro sutrikimų atveju. Abu būsenos apima sutrikimus dopamine, glutamate ir neuroploastcšumoje. Preklinikliniai tyrimai rodo, kad psichedelikai padidina dendritinių stuburo tankį, pagerina BDNF ir modifikuoja tinklo sujungimus."
+      },
+      "notable": false,
+      "notable_reasons": null,
+      "relevance_score": 4,
+      "study_type": "review",
+      "substances": [
+        "psilocybin",
+        "lsd",
+        "other"
+      ],
+      "added_at": "2026-07-09T10:03:12.956794+00:00"
+    },
+    {
       "title": "Psychedelics and autism spectrum disorder: Mechanistic insights, translational evidence and ethical challenges.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42385294/",
       "source": "PubMed",
@@ -1014,6 +1212,94 @@
       "substances": [
         "other"
       ]
+    },
+    {
+      "title": "Classic psychedelics and personality: An updated systematic review",
+      "url": "https://doi.org/10.1177/02698811261449386",
+      "source": "OpenAIRE",
+      "date": "2026-05-31",
+      "authors": [
+        "Anna Beatriz Vicentini",
+        "Caio César de Paula",
+        "José Augusto Silva Reis"
+      ],
+      "doi": "10.1177/02698811261449386",
+      "summaries": {
+        "en": "Updated systematic review (2016–2024) examining how classic psychedelics (5-HT2A agonists) affect personality traits. Analysis of randomized controlled trials, open-label, and observational studies across four databases, using validated personality assessment instruments. Contradictory prior findings suggest need for systematic evaluation of mechanisms underlying personality changes linked to serotonergic receptor agonism.",
+        "sv": "Uppdaterad systematisk granskning (2016–2024) som undersöker hur klassiska psykedelika (5-HT2A-agonister) påverkar personlighetsegenskaper. Analys av randomiserade kontrollerade studier, öppna försök och observationsstudier från fyra databaser med validerade personlighetsassessmentinstrument. Motsägelsefulla tidigare resultat påpekar behovet av systematisk utvärdering av mekanismer bakom personlighetsförändringar.",
+        "no": "Oppdatert systematisk gjennomgang (2016–2024) som undersøker hvordan klassiske psykedelika (5-HT2A-agonister) påvirker personlighetstrekk. Analyse av randomiserte kontrollerte studier, åpne forsøk og observasjonsstudier fra fire databaser med validerte personlighetsvurderingsinstrumenter. Motstridende tidligere funn understreker behovet for systematisk evaluering av mekanismer bak personlighetsendringer.",
+        "da": "Opdateret systematisk oversigt (2016–2024) der undersøger, hvordan klassiske psykedelika (5-HT2A-agonister) påvirker personlighedstræk. Analyse af randomiserede kontrollerede studier, åbne forsøg og observationsstudier fra fire databaser med validerede personlighedsvurderingsinstrumenter. Modstridende tidligere resultater understreger behovet for systematisk evaluering af mekanismer bag personlighedsændringer.",
+        "fi": "Päivitetty systemaattinen katsaus (2016–2024), joka tutkii, kuinka klassiset psykedeellit (5-HT2A-agonistit) vaikuttavat persoonallisuuden piirteisiin. Analysoitiin satunnaistettuja kontrolloituja tutkimuksia, avoimia kokeita ja observaatiotutkimuksia neljästä tietokannasta käyttäen validoituja persoonallisuuden arviointimittareita. Ristiriitaiset aiemmat tulokset korostavat systemaattisen arvioinnin tarvetta persoonallisuuden muutoksiin liittyvistä mekanismeista.",
+        "is": "Uppfærð kerfisbundin yfirlit (2016–2024) um áhrif klassískra sáleinkenjavaka (5-HT2A-agonista) á persónuleikaeinkenni. Greining á handahófskenndum stýrðum rannsóknum, opnum tilraunum og athugunarrannsóknum úr fjórum gagnagrunnum með staðfestum persónuleikamælitækjum. Misvísandi fyrri niðurstöður benda til þarfa fyrir kerfisbundna mat á aðferðum persónuleikabreytinga.",
+        "et": "Värskendatud süstemaatiline ülevaade (2016–2024) klassikaliste psühhedeeliku (5-HT2A-agoniidid) mõjust isiksuse omadustele. Analüüs randomiseeritud kontrollitud uuringutest, avatud uuringutest ja vaatlus-uuringutest neljast andmebaasist valideeritud isiksuse hindamismõõtkavade abil. Vastuolulised varasemat tulemused näitavad vajadust süstemaatiliseks hindamiseks isiksuse muutustega seotud mehhanismide osas.",
+        "lv": "Atjaunota sistēmiska pārskats (2016–2024) par klasisko psihedeliku (5-HT2A agonisti) ietekmi uz personības īpašībām. Analize randomizēto kontrolēto pētījumu, atvērto pētījumu un novērošanas pētījumu no četrām datu bāzēm, izmantojot validētus personības novērtēšanas instrumentus. Pretrunīgie iepriekšējie rezultāti norāda uz nepieciešamību sistemātiski novērtēt personības izmaiņu pamatā esošos mehānismus.",
+        "lt": "Atnaujinta sisteminė apžvalga (2016–2024) apie klasikinių psichedelikų (5-HT2A agonistai) poveikį asmenybės savybėms. Analizė randomizuotų kontroliuojamų tyrimų, atvirų tyrimų ir stebimųjų tyrimų iš keturių duomenų bazių, naudojant validuotus asmenybės vertinimo instrumentus. Prieštaringi ankstesni rezultatai rodo sistematingo asmenybės pokyčių mechanizmų vertinimo poreikį."
+      },
+      "notable": true,
+      "notable_reasons": {
+        "en": "Updated systematic review (2016–2024) on classic psychedelics and personality traits, synthesizing evidence across multiple compounds and study designs.",
+        "sv": "Uppdaterad systematisk översikt (2016–2024) om klassiska psykedelika och personlighetsdrag, som syntetiserar bevis från flera substanser och studiedesigner.",
+        "no": "Oppdatert systematisk oversikt (2016–2024) om klassiske psykedelika og personlighetstrekk, som syntetiserer bevis på tvers av flere forbindelser og studiedesign.",
+        "da": "Opdateret systematisk oversigt (2016–2024) om klassiske psykedelika og personlighedstræk, som syntetiserer evidens på tværs af flere forbindelser og studiedesign.",
+        "fi": "Päivitetty järjestelmällinen katsaus (2016–2024) klassisista psykedeleista ja persoonallisuuden piirteistä, syntetisöiden näyttöä useista yhdisteistä ja tutkimusmalleista.",
+        "is": "Uppfærð kerfisbundin endurskoðun (2016–2024) um klassíska sálfræðilega víma og persónuleikaeinkenni, sem safnar saman sönnunargögnum frá mörgum efnum og rannsóknarkerfum.",
+        "et": "Värskendatud süstemaatiline ülevaade (2016–2024) klassikaliste psühhedeelikate ja isiksuse tunnuste kohta, mis koondab tõendeid mitme ühendi ja uuringudisaini lõikes.",
+        "lv": "Atjauninātais sistematiskais pārskats (2016–2024) par klasiskajiem psihedelikiem un personības iezīmēm, kas sintezē pierādījumus vairākos savienojumos un pētījumu projektos.",
+        "lt": "Atnaujinta sisteminė apžvalga (2016–2024) apie klasikinius psichedelikus ir asmenybės bruožus, sintetinanti įrodymus iš kelių medžiagų ir tyrimų dizainų."
+      },
+      "relevance_score": 4,
+      "study_type": "review",
+      "substances": [
+        "psilocybin",
+        "lsd",
+        "ayahuasca",
+        "mescaline"
+      ],
+      "added_at": "2026-07-09T10:03:12.956794+00:00"
+    },
+    {
+      "title": "A systematic review of the pharmacokinetics of classical serotonergic psychedelic compounds in healthy adult subjects",
+      "url": "https://doi.org/10.1177/02698811261453938",
+      "source": "OpenAIRE",
+      "date": "2026-05-29",
+      "authors": [
+        "Elliot Hampsey",
+        "Kirsty Martin",
+        "Michail Kalfas"
+      ],
+      "doi": "10.1177/02698811261453938",
+      "summaries": {
+        "en": "Systematic review of 32 trials examining pharmacokinetics of classical serotonergic psychedelics (LSD, psilocybin, DMT, mescaline, 5-MeO-DMT) in healthy adults. LSD most studied, followed by DMT across intravenous and oral routes. Key findings: dose-proportional peak concentrations for LSD and psilocybin; notable differences between administration routes.",
+        "sv": "Systematisk översikt av 32 studier om farmakokinetiken för klassiska serotonerga psykedelika (LSD, psilocybin, DMT, meskalin, 5-MeO-DMT) hos friska vuxna. LSD mest studerat, följt av DMT via intravenös och oral väg. Huvudresultat: dosproportionella toppkoncentrationer för LSD och psilocybin; skillnader mellan administreringsvägar.",
+        "no": "Systematisk gjennomgang av 32 studier om farmakokinetikken til klassiske serotonerge psykedelika (LSD, psilocybin, DMT, meskalin, 5-MeO-DMT) hos friske voksne. LSD mest studert, fulgt av DMT via intravenøs og oral rute. Hovedfunn: doseavhengige toppkonsentrasjoner for LSD og psilocybin; forskjeller mellom administreringsmåter.",
+        "da": "Systematisk oversigt over 32 studier af farmakokinetikken for klassiske serotonerge psykedelika (LSD, psilocybin, DMT, meskalin, 5-MeO-DMT) hos raske voksne. LSD mest undersøgt, efterfulgt af DMT via intravenøs og oral vej. Nøglefund: dosisafhængige makskoncentrationer for LSD og psilocybin; forskelle mellem administrationsveje.",
+        "fi": "Systemaattinen katsaus 32 tutkimukseen klassisten serotonergisten psykedeliikkojen (LSD, psilosybiini, DMT, meskaaliini, 5-MeO-DMT) farmakokinetiiasta terveillä aikuisilla. LSD eniten tutkittu, DMT seuraavaksi intravenaarisen ja suullisen antotavan välillä. Keskeiset löydökset: annosnaiset huippupitoisuudet LSD:lle ja psilosybiinille; erot antotapojen välillä.",
+        "is": "Kerfræðileg endurskoðun á 32 rannsóknum um lyfjahverfingu klassískra serótónínerga sálfræðilyfja (LSD, psilosýbín, DMT, meskalín, 5-MeO-DMT) hjá heilbrigðum fullorðnum. LSD mest rannsokað, síðan DMT með intravenófullum og munnlegum leiðum. Lykilniðurstöður: skammtasamhæfð hámarksþéttni fyrir LSD og psilosýbín; mismunur á milli inngerðarleiða.",
+        "et": "Süstemaatiline ülevaade 32 uuringust klassikaliste serotonergiliste psühhedeelikumide (LSD, psülotsübiin, DMT, meskaliin, 5-MeO-DMT) farmakokineetikast tervetel täiskasvanutel. LSD kõige uuritud, millele järgneb DMT intravenoosne ja oraalne manustamisviis. Peamised tulemused: LSD ja psülotsübiini annosesoortne maksimaalne kontsentratsioon; manustamisviiside erinevused.",
+        "lv": "Sistematisks pārskats par 32 pētījumiem par klasisko serotonerģisko psihedeliku (LSD, psilocibīns, DMT, meskaliīns, 5-MeO-DMT) farmakokinētiku veseliem pieaugušajiem. Visvairāk pētīts LSD, kam seko DMT intravēnozajā un mutvārdu formās. Galvenie atradumi: dozas proporcionālas maksimālās koncentrācijas LSD un psilocibīnam; atšķirības starp ievadīšanas ceļiem.",
+        "lt": "Sisteminė 32 tyrimų apžvalga dėl klasikinių serotoninergų psichedelikų (LSD, psilocibino, DMT, meskalino, 5-MeO-DMT) farmakokinetikos sveikiems suaugusiems. Labiausiai tirtas LSD, po to DMT per intravenozinį ir oralinį būdą. Pagrindiniai rezultatai: proporcingi didžiausi LSD ir psilocibino koncentracijos; skirtumai tarp skyrimo būdų."
+      },
+      "notable": true,
+      "notable_reasons": {
+        "en": "Systematic review synthesizing pharmacokinetic data across 32 trials of multiple classical psychedelics (LSD, psilocybin, DMT, mescaline, 5-MEO-DMT), providing foundational neuroscience understanding for clinical development.",
+        "sv": "Systematic review synthesizing pharmacokinetic data across 32 trials of multiple classical psychedelics (LSD, psilocybin, DMT, mescaline, 5-MEO-DMT), providing foundational neuroscience understanding for clinical development.",
+        "no": "Systematic review synthesizing pharmacokinetic data across 32 trials of multiple classical psychedelics (LSD, psilocybin, DMT, mescaline, 5-MEO-DMT), providing foundational neuroscience understanding for clinical development.",
+        "da": "Systematic review synthesizing pharmacokinetic data across 32 trials of multiple classical psychedelics (LSD, psilocybin, DMT, mescaline, 5-MEO-DMT), providing foundational neuroscience understanding for clinical development.",
+        "fi": "Systematic review synthesizing pharmacokinetic data across 32 trials of multiple classical psychedelics (LSD, psilocybin, DMT, mescaline, 5-MEO-DMT), providing foundational neuroscience understanding for clinical development.",
+        "is": "Systematic review synthesizing pharmacokinetic data across 32 trials of multiple classical psychedelics (LSD, psilocybin, DMT, mescaline, 5-MEO-DMT), providing foundational neuroscience understanding for clinical development.",
+        "et": "Systematic review synthesizing pharmacokinetic data across 32 trials of multiple classical psychedelics (LSD, psilocybin, DMT, mescaline, 5-MEO-DMT), providing foundational neuroscience understanding for clinical development.",
+        "lv": "Systematic review synthesizing pharmacokinetic data across 32 trials of multiple classical psychedelics (LSD, psilocybin, DMT, mescaline, 5-MEO-DMT), providing foundational neuroscience understanding for clinical development.",
+        "lt": "Systematic review synthesizing pharmacokinetic data across 32 trials of multiple classical psychedelics (LSD, psilocybin, DMT, mescaline, 5-MEO-DMT), providing foundational neuroscience understanding for clinical development."
+      },
+      "relevance_score": 4,
+      "study_type": "review",
+      "substances": [
+        "lsd",
+        "psilocybin",
+        "mescaline",
+        "other"
+      ],
+      "added_at": "2026-07-09T10:03:12.956794+00:00"
     },
     {
       "title": "Insights into psilocybin use among people with bipolar disorder: A thematic analysis of Reddit posts",

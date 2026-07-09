@@ -1,6 +1,174 @@
 {
   "items": [
     {
+      "title": "Convergent increases in serotonin 1B receptor binding following ketamine and electroconvulsive therapy: a multi-centre bayesian re-analysis of PET data.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42420418/",
+      "source": "PubMed",
+      "date": "2026-07-08",
+      "authors": [
+        "Matheson Granville J",
+        "Lundberg Johan",
+        "Gärde Martin"
+      ],
+      "doi": "10.1038/s41380-026-03704-2",
+      "summary_en": "A multi-centre Bayesian re-analysis of PET imaging data found convergent increases in serotonin 1B receptor binding following both ketamine and electroconvulsive therapy (ECT). The study used PET neuroimaging to measure in vivo serotonin 1B receptor availability, suggesting these two distinct antidepressant treatments may share a common neurobiological mechanism.",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "observational",
+      "substances": [
+        "ketamine"
+      ],
+      "added_at": "2026-07-09T10:03:12.956794+00:00"
+    },
+    {
+      "title": "Pα+ Psychedelic Bulletin #227: A Closer Look at Compass’ 6-Month Data; AtaiBeckley Deal Update; ‘Rysanso’ Brand MDMA?",
+      "url": "https://psychedelicalpha.com/news/p%ce%b1-psychedelic-bulletin-227-a-closer-look-at-compass-6-month-data-ataibeckley-deal-update-rysanso-brand-mdma/",
+      "source": "Psychedelic Alpha",
+      "date": "2026-07-08",
+      "authors": [],
+      "doi": "",
+      "summary_en": "Pα+ Psychedelic Bulletin #227: A Closer Look at Compass’ 6-Month Data; AtaiBeckley Deal Update; ‘Rysanso’ Brand MDMA?",
+      "notable": true,
+      "notable_reason": "Phase 3 pivotal trial (COMP360/COMP006) 6-month data readout with regulatory pathway implications for potential FDA approval.",
+      "study_type": "rct",
+      "substances": [
+        "psilocybin",
+        "mdma"
+      ],
+      "added_at": "2026-07-09T10:03:12.956794+00:00"
+    },
+    {
+      "title": "Blinding integrity in psychedelic research: Evidence from a comparative randomized controlled trial of psilocybin, MDMA, and methylphenidate in healthy volunteers",
+      "url": "https://doi.org/10.1016/j.euroneuro.2026.112879",
+      "source": "OpenAIRE",
+      "date": "2026-10-01",
+      "authors": [
+        "L. Belinger",
+        "N.M. Rieser",
+        "E.J.E. Engeli"
+      ],
+      "doi": "10.1016/j.euroneuro.2026.112879",
+      "summary_en": "Blinding integrity in psychedelic research: Evidence from a comparative randomized controlled trial of psilocybin, MDMA, and methylphenidate in healthy volunteers",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "rct",
+      "substances": [
+        "psilocybin",
+        "mdma"
+      ],
+      "added_at": "2026-07-09T10:03:12.956794+00:00"
+    },
+    {
+      "title": "Intensity and Visual Content Dissociate in DMT: Dynamic Integration-Complexity Predicts One, Spatial Configuration the Other",
+      "url": "https://doi.org/10.5281/zenodo.20627783",
+      "source": "OpenAIRE",
+      "date": "2026-06-09",
+      "authors": [
+        "Dobbin, Emma"
+      ],
+      "doi": "10.5281/zenodo.20627783",
+      "summary_en": "EEG study (N=35) in inhaled DMT identifies a novel measure (mac_I) tracking dynamic integration-complexity changes that predicts subjective experience intensity (ρ=0.41, p=0.016), distinct from content. Microstate spatial configuration predicts visual imagery type (ρ=0.56, p<0.001) independently of intensity, forming a pre-specified double dissociation (p=0.007). Results were DMT-specific and did not generalize to psilocybin (N=57).",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "observational",
+      "substances": [
+        "dmt",
+        "psilocybin"
+      ],
+      "added_at": "2026-07-09T10:03:12.956794+00:00"
+    },
+    {
+      "title": "Lifetime psychedelic use and opioid use disorder severity in a National Survey: the roles of psychedelic type and mental health",
+      "url": "https://doi.org/10.1016/j.addbeh.2026.108652",
+      "source": "OpenAIRE",
+      "date": "2026-06-01",
+      "authors": [
+        "Sebastian Ehmann",
+        "Nathan M. Hager",
+        "Paul S. Regier"
+      ],
+      "doi": "10.1016/j.addbeh.2026.108652",
+      "summary_en": "Cross-sectional analysis of 45,133 U.S. adults using structural equation modeling found divergent associations between psychedelic use and opioid use disorder (OUD) severity. Mescaline/peyote use correlated with lower OUD severity (β=-0.34), while LSD/psilocybin/MDMA/DMT use correlated with higher severity (β=0.60). Mental health impairment moderated these relationships: mescaline/peyote's protective association emerged only in those with high mental health impairment, whereas the adverse association for other psychedelics was attenuated in this group.",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "observational",
+      "substances": [
+        "mescaline",
+        "lsd",
+        "psilocybin",
+        "mdma"
+      ],
+      "added_at": "2026-07-09T10:03:12.956794+00:00"
+    },
+    {
+      "title": "Psychedelics for treatment of negative symptoms and depressive symptoms in schizophrenia spectrum disorder: A narrative review",
+      "url": "https://doi.org/10.1016/j.schres.2026.03.003",
+      "source": "OpenAIRE",
+      "date": "2026-06-01",
+      "authors": [
+        "Sabe M.",
+        "Grof P.",
+        "Sackett N. B."
+      ],
+      "doi": "10.1016/j.schres.2026.03.003",
+      "summary_en": "Narrative review examining whether serotonergic psychedelics could treat depressive and negative symptoms in schizophrenia spectrum disorders. Both conditions involve dopamine, glutamate, and neuroplasticity disturbances. Preclinical evidence shows psychedelics increase dendritic spine density, enhance BDNF, and modulate network connectivity, suggesting potential therapeutic relevance for addressing maladaptive brain networks in schizophrenia.",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "review",
+      "substances": [
+        "psilocybin",
+        "lsd",
+        "other"
+      ],
+      "added_at": "2026-07-09T10:03:12.956794+00:00"
+    },
+    {
+      "title": "Classic psychedelics and personality: An updated systematic review",
+      "url": "https://doi.org/10.1177/02698811261449386",
+      "source": "OpenAIRE",
+      "date": "2026-05-31",
+      "authors": [
+        "Anna Beatriz Vicentini",
+        "Caio César de Paula",
+        "José Augusto Silva Reis"
+      ],
+      "doi": "10.1177/02698811261449386",
+      "summary_en": "Updated systematic review (2016–2024) examining how classic psychedelics (5-HT2A agonists) affect personality traits. Analysis of randomized controlled trials, open-label, and observational studies across four databases, using validated personality assessment instruments. Contradictory prior findings suggest need for systematic evaluation of mechanisms underlying personality changes linked to serotonergic receptor agonism.",
+      "notable": true,
+      "notable_reason": "Updated systematic review (2016–2024) on classic psychedelics and personality traits, synthesizing evidence across multiple compounds and study designs.",
+      "study_type": "review",
+      "substances": [
+        "psilocybin",
+        "lsd",
+        "ayahuasca",
+        "mescaline"
+      ],
+      "added_at": "2026-07-09T10:03:12.956794+00:00"
+    },
+    {
+      "title": "A systematic review of the pharmacokinetics of classical serotonergic psychedelic compounds in healthy adult subjects",
+      "url": "https://doi.org/10.1177/02698811261453938",
+      "source": "OpenAIRE",
+      "date": "2026-05-29",
+      "authors": [
+        "Elliot Hampsey",
+        "Kirsty Martin",
+        "Michail Kalfas"
+      ],
+      "doi": "10.1177/02698811261453938",
+      "summary_en": "Systematic review of 32 trials examining pharmacokinetics of classical serotonergic psychedelics (LSD, psilocybin, DMT, mescaline, 5-MeO-DMT) in healthy adults. LSD most studied, followed by DMT across intravenous and oral routes. Key findings: dose-proportional peak concentrations for LSD and psilocybin; notable differences between administration routes.",
+      "notable": true,
+      "notable_reason": "Systematic review synthesizing pharmacokinetic data across 32 trials of multiple classical psychedelics (LSD, psilocybin, DMT, mescaline, 5-MEO-DMT), providing foundational neuroscience understanding for clinical development.",
+      "study_type": "review",
+      "substances": [
+        "lsd",
+        "psilocybin",
+        "mescaline",
+        "other"
+      ],
+      "added_at": "2026-07-09T10:03:12.956794+00:00"
+    },
+    {
       "title": "Association between Intravenous Ketamine Treatment and Cognitive Function in Patients with Treatment-Resistant Depression: A Double-Blind, Randomized, Placebo-Controlled Trial.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42413550/",
       "source": "PubMed",

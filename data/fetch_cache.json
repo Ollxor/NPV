@@ -1,19 +1,32 @@
 {
-  "date": "2026-07-08",
-  "cached_at": "2026-07-08T08:24:16.559501+00:00",
+  "date": "2026-07-09",
+  "cached_at": "2026-07-09T09:34:22.942792+00:00",
   "articles": [
     {
-      "title": "Association between Intravenous Ketamine Treatment and Cognitive Function in Patients with Treatment-Resistant Depression: A Double-Blind, Randomized, Placebo-Controlled Trial.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42413550/",
+      "title": "Convergent increases in serotonin 1B receptor binding following ketamine and electroconvulsive therapy: a multi-centre bayesian re-analysis of PET data.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42420418/",
       "source": "PubMed",
-      "abstract": "While the rapid and robust effects of ketamine on depressive symptoms in treatment-resistant depression (TRD) have been demonstrated, the influence of ketamine treatment on cognitive function has not yet been fully elucidated. We aimed to evaluate the effects of ketamine treatment on cognitive function as part of a study that investigated the efficacy of repeated ketamine administration in patients with TRD. In addition, we conducted an exploratory analysis to examine whether baseline cognitive function was associated with ketamine response. In this double-blind, randomized, placebo-controlled study, 34 Japanese TRD patients were enrolled and assigned randomly into either ketamine or placebo group. They received ketamine 0.5 mg/kg or saline intravenously for four doses. Objective and subjective cognitive functions were evaluated with a comprehensive assessment battery before and after the intervention. We also assessed depressive symptoms with the Montgomery-Åsberg Depression Rating Scale (MADRS). The response was defined by at least a 50% reduction in the total MADRS score. No significant differences were found between the ketamine and placebo groups on objective or subjective cognitive function scale score changes. Moreover, ketamine responders showed a significant improvement in subjective cognitive function compared to non-responders. The participants who demonstrated less inhibitory control at baseline showed greater MADRS score reductions after the ketamine treatment. Repeated ketamine administration did not significantly deteriorate cognitive function compared to placebo, which supports a possible cognitive safety profile in patients with TRD. In addition, baseline impaired cognitive control may be associated with ketamine response.",
-      "date": "2026-07-07",
+      "abstract": "The serotonin 1B receptor can be studied in vivo with PET using [",
+      "date": "2026-07-08",
       "authors": [
-        "Nomoto Kie",
-        "Ohtani Yohei",
-        "Yatomi Taisuke"
+        "Matheson Granville J",
+        "Lundberg Johan",
+        "Gärde Martin"
       ],
-      "doi": "10.1055/a-2894-5681"
+      "doi": "10.1038/s41380-026-03704-2"
+    },
+    {
+      "title": "Beyond a simple marker of stress: A multiverse analysis of biopsychosocial associations with hair cortisol and cortisone.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42419163/",
+      "source": "PubMed",
+      "abstract": "Hair concentrations of cortisol and cortisone are increasingly used as potential biomarkers of chronic stress. However, their validity as indicators of psychosocial stress remains debated, as prior research shows variable associations with stress-related psychological and behavioral factors. This study systematically investigates a broad set of biopsychosocial correlates of hair glucocorticoids in young adults, leveraging a multiverse framework to evaluate the robustness of associations often reported as variable in prior work. Using data from the Zurich Project on the Social Development from Childhood to Adulthood, a large community-based age cohort, we employed a multiverse analysis to explore relationships between more than 60 biological, psychological, and contextual variables and three hair-based outcomes (cortisol, cortisone, and a combined score of both) at ages 20 (n = 1,002) and 24 (n = 887). Specification curve analyses were performed on the full sample and separately by sex, systematically varying model choices (i.e., inclusion/exclusion of covariates). Hair characteristics (i.e., color, washing intensity, chemical treatment), sampling season, body mass index, and, among women, hormonal contraception, showed strong associations with glucocorticoids and were included as covariates. Sweating intensity was associated with glucocorticoids primarily in females, but not in males. Hair concentrations of drugs (i.e., Δ9-tetrahydrocannabinol, cocaine, 3,4-methylenedioxymethamphetamine [MDMA, \"Ecstasy\"], paracetamol) and the hormone testosterone were consistently linked to steroid outcomes. Several psychosocial factors were associated with hair glucocorticoids: migration background, perceived stress, symptoms of anxiety/depression, sports activity, and social exclusion. These factors exhibited stronger correlations with cortisol, while media use, aggression, and effective coping were more closely associated with cortisone. The combined steroid score mainly reflected associations detected for cortisol, but with weaker effect sizes. Associations varied descriptively by age and sex, with more associations detected in males at age 20 and in females at age 24. In cohort studies, corticosteroids in hair can reflect specific facets of psychosocial stress when critical confounders and sex are considered.",
+      "date": "2026-07-03",
+      "authors": [
+        "Janousch Clarissa",
+        "Eggenberger Lukas",
+        "Johnson-Ferguson Lydia"
+      ],
+      "doi": "10.1016/j.psyneuen.2026.107953"
     },
     {
       "title": "CSF galanin and noradrenaline downregulation by psilocybin therapy in major depressive disorder.",
@@ -53,6 +66,19 @@
         "Godfrey Kate"
       ],
       "doi": "10.1192/bjp.2026.10687"
+    },
+    {
+      "title": "Association between Intravenous Ketamine Treatment and Cognitive Function in Patients with Treatment-Resistant Depression: A Double-Blind, Randomized, Placebo-Controlled Trial.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42413550/",
+      "source": "PubMed",
+      "abstract": "While the rapid and robust effects of ketamine on depressive symptoms in treatment-resistant depression (TRD) have been demonstrated, the influence of ketamine treatment on cognitive function has not yet been fully elucidated. We aimed to evaluate the effects of ketamine treatment on cognitive function as part of a study that investigated the efficacy of repeated ketamine administration in patients with TRD. In addition, we conducted an exploratory analysis to examine whether baseline cognitive function was associated with ketamine response. In this double-blind, randomized, placebo-controlled study, 34 Japanese TRD patients were enrolled and assigned randomly into either ketamine or placebo group. They received ketamine 0.5 mg/kg or saline intravenously for four doses. Objective and subjective cognitive functions were evaluated with a comprehensive assessment battery before and after the intervention. We also assessed depressive symptoms with the Montgomery-Åsberg Depression Rating Scale (MADRS). The response was defined by at least a 50% reduction in the total MADRS score. No significant differences were found between the ketamine and placebo groups on objective or subjective cognitive function scale score changes. Moreover, ketamine responders showed a significant improvement in subjective cognitive function compared to non-responders. The participants who demonstrated less inhibitory control at baseline showed greater MADRS score reductions after the ketamine treatment. Repeated ketamine administration did not significantly deteriorate cognitive function compared to placebo, which supports a possible cognitive safety profile in patients with TRD. In addition, baseline impaired cognitive control may be associated with ketamine response.",
+      "date": "2026-07-07",
+      "authors": [
+        "Nomoto Kie",
+        "Ohtani Yohei",
+        "Yatomi Taisuke"
+      ],
+      "doi": "10.1055/a-2894-5681"
     },
     {
       "title": "Beyond Enthusiasm: Ayahuasca and the Future of Depression Research.",
@@ -162,7 +188,7 @@
       "title": "Single Ayahuasca administration attenuates alcohol relapse and associated behavioral, neurochemical, and oxidative alterations in rats.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42401369/",
       "source": "PubMed",
-      "abstract": "Alcohol use disorder (AUD) remains difficult to treat with lasting success, leading to growing interest in alternative therapeutic approaches. Psychedelic compounds such as Ayahuasca, a traditional brew used in Indigenous Amazonian ceremonies containing N,N-dimethyltryptamine (DMT) along with monoamine oxidase-inhibiting β-carbolines, have shown promise in reducing addictive behaviors. Alcohol dependence was induced in Wistar rats through a voluntary ethanol-consumption paradigm (15% and 30% v/v) of 35 days, followed by a deprivation period of 9 days. Subsequently, rats received a single administration of Ayahuasca containing 2.72 mg/kg N,N-dimethyltryptamine, 3.98 mg/kg harmine, 0.20 mg/kg harmaline, and 3.72 mg/kg tetrahydroharmine or water by gavage, and a relapse protocol of 9 days evaluated relapse-like ethanol intake. Subsequently, rats underwent behavioral testing to assess anxiety- and depressive-like behavior using the elevated plus maze, open field test, splash test, and forced swim test. The levels of dopamine (DA), serotonin (5-HT), brain-derived neurotrophic factor (BDNF), antioxidant enzymes (superoxide dismutase (SOD), catalase (CAT), glutathione peroxidase (GPx), and glutathione reductase (GR)) activities, and oxidative stress biomarkers (2',7'-dichlorodihydrofluorescein (DCFH) oxidation and thiobarbituric acid reactive substances (TBARS) levels) were assessed in the frontal cortex, hippocampus and striatum 15 days after Ayahuasca administration. A single Ayahuasca administration reduced relapse-like ethanol intake in a sex- and concentration-dependent manner; attenuated alcohol-induced anxiety- and depressive-like behavioral alterations, despite limited evidence of locomotor/exploratory changes; increased striatal DA levels in alcohol-exposed males and females and restored cortical 5-HT levels primarily in males; and partially mitigated alcohol-associated reductions in BDNF levels in a region- and sex-dependent manner. Antioxidant enzyme activities did not show consistent treatment-related modulation, whereas oxidative stress markers (DCFH and TBARS) were reduced in the frontal cortex, hippocampus, and striatum following Ayahuasca administration. However, some oxidative stress and BDNF outcomes showed partial rather than complete normalization. Sex-dependent effects were observed for selected ethanol-intake, neurochemical, BDNF, and oxidative-stress outcomes. Ayahuasca reduced alcohol intake during relapse and attenuated several alcohol-induced behavioral, neurochemical, neurotrophic, and oxidative disturbances in a preclinical model of alcohol dependence, withdrawal, and relapse. These findings suggest modulation of neurobiological pathways disrupted by chronic alcohol exposure, while highlighting region- and sex-dependent effects and incomplete normalization for selected outcomes. Dose-response, longitudinal, and mechanistic studies are warranted, alongside controlled clinical studies evaluating safety and efficacy in AUD.",
+      "abstract": "Alcohol use disorder (AUD) remains difficult to treat with lasting success, leading to growing interest in alternative therapeutic approaches. Psychedelic compounds such as Ayahuasca, a traditional brew used in Indigenous Amazonian ceremonies containing N,N-dimethyltryptamine (DMT) along with monoamine oxidase-inhibiting β-carbolines, have shown promise in reducing addictive behaviors. Alcohol dependence was induced in Wistar rats through a voluntary ethanol-consumption paradigm (15% and 30% v/v) of 35 days, followed by a deprivation period of 9 days. Subsequently, rats received a single administration of Ayahuasca containing 2.72 mg/kg N,N-dimethyltryptamine, 3.98 mg/kg harmine, 0.20 mg/kg harmaline, and 3.72 mg/kg tetrahydroharmine or water by gavage, and a relapse protocol of 9 days evaluated relapse-like ethanol intake. Subsequently, rats underwent behavioral testing to assess anxiety- and depressive-like behavior using the elevated plus maze, open field test, splash test, and forced swim test. The levels of dopamine (DA), serotonin (5-HT), brain-derived neurotrophic factor (BDNF), antioxidant enzymes (superoxide dismutase (SOD), catalase (CAT), glutathione peroxidase (GPx), and glutathione reductase (GR)) activities, and oxidative stress biomarkers (2',7'-dichlorodihydrofluorescein (DCFH) oxidation and thiobarbituric acid reactive substances (TBARS) levels) were assessed in the frontal cortex, hippocampus and striatum 15 days after Ayahuasca administration. A single Ayahuasca administration reduced relapse-like ethanol intake in a sex- and concentration-dependent manner; attenuated alcohol-induced anxiety- and depressive-like behavioral alterations, despite limited evidence of locomotor/exploratory changes; increased striatal DA levels in alcohol-exposed males and females and restored cortical 5-HT levels primarily in males; and partially mitigated alcohol-associated reductions in BDNF levels in a region- and sex-dependent manner. Antioxidant enzyme activities did not show consistent treatment-related modulation, whereas oxidative stress markers (DCFH and TBARS) were reduced in the frontal cortex, hippocampus, and striatum following Ayahuasca administration. However, some oxidative stress and BDNF outcomes showed partial rather than complete normalization. Sex-dependent effects were observed for selected ethanol-intake, neurochemical, BDNF, and oxidative-stress outcomes. Ayahuasca reduced alcohol intake during relapse and attenuated several alcohol-induced behavioral, neurochemical, neurotrophic, and oxidative disturbances in a preclinical model of alcohol dependence, withdrawal, and relapse. These findings suggest modulation of neurobiological pathways disrupted by chronic alcohol exposure, while highlighting region- and sex-dependent effects and incomplete normalization for selected outcomes. Dose-response, longitudinal, and mechanistic studies are warranted, alongside controlled clinical studies evaluating safety and efficacy in AUD.",
       "date": "2026-07-04",
       "authors": [
         "Lodetti Guilherme",
@@ -236,29 +262,13 @@
       "doi": "10.4103/indianjpsychiatry_1207_25"
     },
     {
-      "title": "Psilocybin as a Transdiagnostic Treatment for Eating Disorders and Comorbid Psychopathology: Implications for Clinical Nosology and Research Directions.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42393007/",
-      "source": "PubMed",
-      "abstract": "Eating disorders (EDs) are characterized by high rates of psychiatric comorbidity and suboptimal treatment outcomes. There remain critical gaps in research, including the exploration of effective transdiagnostic interventions. This forum article examines the potential of psilocybin treatment (PT) as a transdiagnostic intervention for EDs and common comorbidities, including the implications for alternative nosological frameworks, trial design, and clinical care. A narrative review was conducted synthesizing clinical, mechanistic, and conceptual literature on PT for EDs and common psychiatric comorbidities. Searches of academic databases were supplemented by hand-searching and clinical trial registries. Thematic synthesis focused on transdiagnostic clinical evidence, mechanistic theories, and implications for the Hierarchical Taxonomy of Psychopathology (HiTOP), Research Domain Criteria (RDoC), treatment development, and clinical trial design. Preliminary clinical evidence supports the feasibility, safety, and therapeutic effects of PT for EDs, with robust transdiagnostic effects observed across comorbid conditions. Proposed mechanisms (i.e., serotonergic receptor agonism, psychoplastogenic effects, neural network desynchronization) target shared vulnerabilities that map onto dimensional constructs in HiTOP (Emotional Dysfunction superspectrum, Internalizing spectrum) and RDoC (negative/positive valence, cognitive, and social process domains) nosologies. Future research should explore pragmatic trial designs and dimensional outcome measures to capture the real-world complexities of PT for EDs. PT demonstrates transdiagnostic therapeutic potential for EDs, and the advancement of dimensional nosologies, complex intervention frameworks, and personalized treatment protocols may address existing gaps in research and clinical care.",
-      "date": "2026-07-02",
-      "authors": [
-        "Koning Elena",
-        "Richard Jérémie",
-        "Keshen Aaron"
-      ],
-      "doi": "10.1002/eat.70164"
-    },
-    {
-      "title": "Consensus by design: Conflict of interest and the intravenous ketamine Delphi guidelines.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42392512/",
-      "source": "PubMed",
-      "abstract": "",
-      "date": "2026-07-02",
-      "authors": [
-        "Saguin Emeric",
-        "Looten Vincent"
-      ],
-      "doi": "10.1016/j.jad.2026.122194"
+      "title": "Pα+ Psychedelic Bulletin #227: A Closer Look at Compass’ 6-Month Data; AtaiBeckley Deal Update; ‘Rysanso’ Brand MDMA?",
+      "url": "https://psychedelicalpha.com/news/p%ce%b1-psychedelic-bulletin-227-a-closer-look-at-compass-6-month-data-ataibeckley-deal-update-rysanso-brand-mdma/",
+      "source": "Psychedelic Alpha",
+      "abstract": "A Closer Look at Compass’ 6-Month Data and Commercial Plans On Tuesday, we covered Compass Pathways’ readout covering 26-week data from its second Phase 3 study of COMP360 psilocybin for treatment-resistant depression (TRD): Compass Closes Out Phase 3 With 6-Month COMP006 Data, Eyes H1’27 Launch. After our initial reporting published, the company shared more detailed […]",
+      "date": "2026-07-08",
+      "authors": [],
+      "doi": ""
     },
     {
       "title": "Compass Closes Out Phase 3 With 6-Month COMP006 Data, Eyes H1’27 Launch",
@@ -338,15 +348,6 @@
       "source": "Psychedelic Alpha",
       "abstract": "With most legislatures now adjourned, the 2026 psychedelic policy reform push has passed its peak. Of the 115 psychedelics-related bills we have tracked this year (108 state and 7 federal), 17 distinct measures have been signed into law; more than a quarter of those signings were in May alone. On the other side, 2 bills […]",
       "date": "2026-06-10",
-      "authors": [],
-      "doi": ""
-    },
-    {
-      "title": "Field Notes #2: Dispatches from London and the Netherlands",
-      "url": "https://psychedelicalpha.com/news/field-notes-2-dispatches-from-london-and-the-netherlands/",
-      "source": "Psychedelic Alpha",
-      "abstract": "Welcome to our second Field Note. As a reminder, Field Notes are timely, candid voice notes from our Founder and Editor, Josh Hardman, that provide our Pα+ readers with a pulse on recent developments in psychedelic drug development, policy, and access. In this Field Note, Josh discusses two events he participated in last week: Psychedelics-related […]",
-      "date": "2026-06-09",
       "authors": [],
       "doi": ""
     },
@@ -573,7 +574,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2018-004480-31/CZ",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-07-08",
+      "date": "2026-07-09",
       "authors": [],
       "doi": ""
     },
@@ -582,7 +583,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2020-005037-32/CZ",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-07-08",
+      "date": "2026-07-09",
       "authors": [],
       "doi": ""
     },
@@ -591,7 +592,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2021-002909-10/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-07-08",
+      "date": "2026-07-09",
       "authors": [],
       "doi": ""
     },
@@ -600,7 +601,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2015-000550-37/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-07-08",
+      "date": "2026-07-09",
       "authors": [],
       "doi": ""
     },
@@ -609,7 +610,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2021-000041-40/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-07-08",
+      "date": "2026-07-09",
       "authors": [],
       "doi": ""
     },
@@ -618,7 +619,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2020-000829-55/DK",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-07-08",
+      "date": "2026-07-09",
       "authors": [],
       "doi": ""
     },
@@ -627,7 +628,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2020-002790-94/SE",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-07-08",
+      "date": "2026-07-09",
       "authors": [],
       "doi": ""
     },
@@ -636,7 +637,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2021-006200-33/FI",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-07-08",
+      "date": "2026-07-09",
       "authors": [],
       "doi": ""
     },
@@ -645,7 +646,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2019-004812-73/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-07-08",
+      "date": "2026-07-09",
       "authors": [],
       "doi": ""
     },
@@ -654,134 +655,135 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2022-002369-14/BE",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-07-08",
+      "date": "2026-07-09",
       "authors": [],
       "doi": ""
     },
     {
-      "title": "ITU and Psychiatry: A Single-Axiom View of K_brain Failures, Predictive Coding, Drug Mechanisms, and the 2026-2050 Roadmap",
-      "url": "https://doi.org/10.5281/zenodo.20177427",
+      "title": "Blinding integrity in psychedelic research: Evidence from a comparative randomized controlled trial of psilocybin, MDMA, and methylphenidate in healthy volunteers",
+      "url": "https://doi.org/10.1016/j.euroneuro.2026.112879",
       "source": "OpenAIRE",
-      "abstract": "We apply the Information-Theoretic Unification (ITU) framework (Terada 2026, concept DOI 10.5281/zenodo.20109209; current version v2.0.0 at 10.5281/zenodo.20133709) to psychiatric biology. Psychiatric disorders are reframed as K_brain-component failures in the predictive-coding machinery; Friston's Free Energy Principle (FEP) is shown to be the brain-specific incarnation of the ITU axiom dS = d<K>. This is Tier 1 paper #7, completing the ITU Medicine Triangle: Cancer (#5, acute) + Aging (#6, chronic) + Psychiatry (#7, brain-circuit failures).  Phase 67: ITU foundation. Eight major psychiatric disorders (schizophrenia, depression, anxiety, PTSD, ASD, ADHD, OCD, bipolar) are mapped onto nine K-component axes (perception, precision, reward, threat, attention, action, social, mood, self-model). Global disease burden is ~136.8 million DALYs (GBD 2021, ~7% of all DALYs; $5T global economic burden). Treatment success correlates inversely with K-identification difficulty (ADHD 70% response with clear K_attention target; ASD 30% with rigid K_social).  Phase 68: Schizophrenia as K_precision failure - top-down prior dominates bottom-up sensory evidence, producing hallucinations and delusions. A Bayesian belief model with precision ratio 0.3 (vs healthy 1.0) produces belief lock-in. Treatment response by symptom group: positive 65-78%, negative 15-45%, cognitive 10-35%. The Howes-Kapur dopamine asymmetry (mesolimbic excess + mesocortical deficit) is reproduced. Six antipsychotics compare",
-      "date": "2026-05-14",
+      "abstract": "Maintaining effective blinding is a major methodological challenge in psychedelic research. This study provides a comprehensive evaluation of blinding integrity in 120 healthy volunteers who received either psilocybin, MDMA, or methylphenidate (active placebo) in a double-blind, randomized controlled trial. Using a multi-level assessment incorporating forced-choice substance guesses, certainty ratings, decision factors, and subjective substance effects, the analyses characterize blinding integrity and its relation to the substance experience. Results indicate that overall blinding was insufficient, with psilocybin showing the highest rates of functional unblinding, MDMA moderate levels, and methylphenidate the lowest. As an active placebo, methylphenidate provided more effective blinding for MDMA than for psilocybin. Incorporating certainty levels of substance guesses revealed a more differentiated pattern, with lower functional unblinding rates. Decision factors and subjective substance experiences were associated with phenomenological substance effects. Prior substance experiences did not influence accuracy of forced-choice substance guesses. These findings provide empirical guidance for the design and reporting of blinding procedures in psychedelic trials and underscore the value of systematic, multi-level assessment of blinding integrity.",
+      "date": "2026-10-01",
       "authors": [
-        "Terada, Munehiro"
+        "L. Belinger",
+        "N.M. Rieser",
+        "E.J.E. Engeli"
       ],
-      "doi": "10.5281/zenodo.20177427"
+      "doi": "10.1016/j.euroneuro.2026.112879"
     },
     {
-      "title": "Investigating Psychedelic Tryptamines: Extraction and Quantification from Psilocybe Mushrooms",
-      "url": "https://doi.org/10.48797/sl.2026.498",
+      "title": "Psychedelic and Medicinal Mushrooms: Potent Source of Active Metabolites and Medicines",
+      "url": "https://doi.org/10.2174/0115734072383313250602052217",
       "source": "OpenAIRE",
-      "abstract": "Scientific Letters, Vol. 1 No. Sup 1 (2026)",
-      "date": "2026-05-05",
+      "abstract": "<jats:sec>                     <jats:title>Background:</jats:title>                     <jats:p>Mushrooms, usually used for their nutritional and culinary properties, have recently gained attention for their medicinal effects, so that they are not only used as dietary foods but also as mycotherapeutics, nutraceuticals, and food supplements.</jats:p>                   </jats:sec>                   <jats:sec>                     <jats:title>Objective:</jats:title>                     <jats:p>The aim of this study is therefore to educate readers about various mushrooms with medicinal benefits. Methodology: A large number of English-language publications from different databases were analysed for this purpose.</jats:p>                   </jats:sec>                   <jats:sec>                     <jats:title>Results and Discussion:</jats:title>                     <jats:p>Medicinal mushrooms have been attributed various biological properties, e.g. prebiotic, antihyperlipidaemic, anti-allergic, antioxidant, anticancer, hepatoprotective, antioxidant, cytotoxic, antidiabetic, immunomodulatory, anti-inflammatory, and antimicrobial. These properties are due to the presence of various bioactive compounds presentin the mycelium and fruiting bodies. The biological effects of these bioactive compounds vary according to their chemical nature, and their distribution varies according to the type of mushroom. Psilocybin-containing mushrooms have been consumed in different parts of the world f",
+      "date": "2026-08-01",
       "authors": [
-        "Senra, Beatriz P.",
-        "Dinis-Oliveira, Ricardo Jorge",
-        "Ribeiro, Carlos J. A."
+        "Priya Chaudhary",
+        "Pracheta Janmeda"
       ],
-      "doi": "10.48797/sl.2026.498"
+      "doi": "10.2174/0115734072383313250602052217"
     },
     {
-      "title": "Psilocybin and Psilocybe cubensis extract exhibit divergent behavioural and toxicological effects in rats",
-      "url": "https://doi.org/10.48797/sl.2026.497",
+      "title": "Intensity and Visual Content Dissociate in DMT: Dynamic Integration-Complexity Predicts One, Spatial Configuration the Other",
+      "url": "https://doi.org/10.5281/zenodo.20627783",
       "source": "OpenAIRE",
-      "abstract": "Scientific Letters, Vol. 1 No. Sup 1 (2026)",
-      "date": "2026-05-05",
+      "abstract": "Abstract  Background. The intensity and content of conscious experience are theoretically separable, but rarely dissociated empirically within one dataset using EEG. Existing consciousness measures typically capture level or state without addressing content, or decode content without indexing intensity. No existing measure tracks the dynamic rate of integration-complexity reconfiguration.  Results. We introduce mac_I (mean absolute change of CGI, where CGI = √(φ × ρ); φ = global coherence, ρ = Lempel-Ziv complexity), a rate-of-change measure of the integration-complexity geometric mean. In inhaled-DMT EEG (N = 35), mac_I predicted subjective experience intensity (Spearman ρ = 0.41, p = 0.016, surrogate-validated). Five alternative rate-of-change measures (coherence alone, complexity alone, broadband power, alpha power, aperiodic slope) all failed. The formula is specific and non-replaceable. Separately, EEG microstate spatial configuration (PAT_PC1) predicted visual content type (complex vs elementary imagery; ρ = 0.56, p < 0.001), while being orthogonal to intensity. The two measures formed a pre-specified double dissociation: each predicted its target and failed to predict the other’s (Steiger’s test: p = 0.007 for the pattern arm). The dissociation did not generalise to psilocybin (N = 57, all tests null).  Conclusion. mac_I is a formula-specific, surrogate-validated predictor of DMT experience intensity that dissociates from spatial content encoding. The double dissociati",
+      "date": "2026-06-09",
       "authors": [
-        "Dias da Silva, Diana",
-        "Brito-da-Costa, Andreia Machado",
-        "Sacadura, Francisco"
+        "Dobbin, Emma"
       ],
-      "doi": "10.48797/sl.2026.497"
+      "doi": "10.5281/zenodo.20627783"
     },
     {
-      "title": "Native Entropy and State Collapse in High-Potential Profiles: An Extension of the REBUS Model",
-      "url": "https://doi.org/10.5281/zenodo.19961966",
+      "title": "Lifetime psychedelic use and opioid use disorder severity in a National Survey: the roles of psychedelic type and mental health",
+      "url": "https://doi.org/10.1016/j.addbeh.2026.108652",
       "source": "OpenAIRE",
-      "abstract": "Abstract  The present work proposes an extension of the REBUS model (Carhart-Harris & Friston, 2019) through the introduction of the concept of native entropy: a stable neural configuration characterized by reduced predictive filtering, dominance of bottom-up information flow, and chronic operation near the critical point. It is hypothesized that certain high-cognitive-potential and neurodivergent profiles structurally exhibit neural patterns analogous to those observed in psychedelic states—without the need for pharmacological induction. The framework proposes a tripartition of native entropy into emotional, cognitive, and creative subtypes, illustrated through three historical phenomenological archetypes.   Clinical implications include the reinterpretation of depression in these profiles as entropic collapse—distinct from neurotypical hypotonic depression—and an explanation of atypical SSRI responses through 5-HT2A receptor hypersensitivity. Preliminary evidence from EEG studies on gifted and autistic populations supports the plausibility of the hypothesis. The work concludes with a methodological proposal for the empirical verification of the framework through the comparison of brain entropy and alpha power measures between native-entropy profiles and psilocybin-induced psychedelic states.",
-      "date": "2026-05-02",
+      "abstract": "Opioid use disorder (OUD) remains a major public health crisis in the United States, with mental health disorders substantially increasing risk severity. Emerging evidence suggests psychedelics may relate to reduced OUD risk. This exploratory study examined associations between lifetime psychedelic use and OUD severity and tested whether these associations varied by mental health impairment.Structural equation modeling of the cross-sectional 2023 U.S. National Survey on Drug Use and Health with multiple-group moderation (n = 45,133 adults). OUD severity was the primary outcome. Independent variables were two psychedelic factors derived from factor analysis: mescaline/peyote (Psychedelic_F1) and LSD/psilocybin/MDMA/DMT (Psychedelic_F2). Mental health impairment was modeled as a latent construct and used to define high vs. low impairment groups. Covariates included age, sex, and income.Psychedelic_F1 associated with lower OUD severity (β = -0.34, p = 0.001), whereas Psychedelic_F2 associated with higher severity (β = 0.60, p < 0.001). Mental health impairment positively associated with OUD severity (β = 0.21, p < 0.001). Moderation analyses indicated Psychedelic_F1 related to lower OUD severity only in the high mental health impairment group (β = -0.15, p = 0.041), while the positive association for Psychedelic_F2 was attenuated among those with high impairment (β = 0.38, p < 0.001, vs. β = 0.48, p = 0.004).Psychedelic use patterns showed divergent associations with OUD severit",
+      "date": "2026-06-01",
       "authors": [
-        "Ceruolo, Eleonora"
+        "Sebastian Ehmann",
+        "Nathan M. Hager",
+        "Paul S. Regier"
       ],
-      "doi": "10.5281/zenodo.19961966"
+      "doi": "10.1016/j.addbeh.2026.108652"
     },
     {
-      "title": "Insights into psilocybin use among people with bipolar disorder: A thematic analysis of Reddit posts",
-      "url": "https://doi.org/10.1016/j.jad.2026.121220",
+      "title": "Psychedelics for treatment of negative symptoms and depressive symptoms in schizophrenia spectrum disorder: A narrative review",
+      "url": "https://doi.org/10.1016/j.schres.2026.03.003",
       "source": "OpenAIRE",
-      "abstract": "Psilocybin has been reported to decrease depression symptoms among individuals with bipolar disorder (BD), but has also been associated with reports of mania, psychosis and increased depression. With increasing recreational use of psilocybin, and the potential for psilocybin to be used as a treatment for depression, a better understanding of the risks and benefits of this psychedelic among individuals with BD is warranted. Individuals have used social media sites like Reddit to share their experiences with psilocybin, providing an opportunity to understand a range of perspectives and experiences. The current study aimed to further explore psilocybin experiences as shared on Reddit, with a focus on posts related to BD. A thematic analysis of Reddit posts and comments was undertaken, with a focus on those identified with search terms, \"bipolar\" AND \"psilocybin\" OR \"mushrooms\". A total of 354 comments with a first-hand psilocybin experience were identified and included in the thematic analysis which revealed four core themes: (1) mania, (2) depression, (3) mixed experiences, and (4) broader perspectives. Psilocybin was reported to have benefits in some comments, including reduced depression symptoms and shifts in perspective about oneself and/or the world. However, reports of increased or new mania and psychosis symptoms were also reported, as well as increased depression. While psilocybin may benefit some individuals with BD, there may be potential for increased mania, psychosi",
-      "date": "2026-05-01",
+      "abstract": "Serotonergic psychedelics are re-emerging as therapeutic candidates across psychiatry, particularly for treatment-resistant depression. Their rapid and sustained antidepressant effects, alongside evidence for neuroplastic, dopaminergic, and glutamatergic modulation, have prompted interest in whether they could address depressive and negative symptoms in schizophrenia spectrum disorders (SSDs). This narrative review summarizes mechanistic, preclinical, and early clinical findings relevant to psychedelic use in SSDs. Schizophrenia and major depressive disorder share disturbances in dopamine, glutamate, and neuroplasticity, and both involve large-scale network abnormalities. Schizophrenia is associated with widespread dysconnectivity, mesocortical hypodopaminergia, and striatal hyperdopaminergia linked to NMDA receptor hypofunction. Depression is characterized by fronto-limbic and default mode network hyperconnectivity, mesolimbic hypodopaminergia, and reduced cortical glutamatergic tone. Depressive symptoms within SSDs may reflect an intermediate phenotype combining depressive-like hyperconnectivity with schizophrenia-related global dysconnectivity, suggesting that psychedelics' capacity to transiently increase network flexibility and recalibrate maladaptive connectivity may be clinically relevant. Preclinical studies show increased dendritic spine density, enhanced BDNF expression, restored reward sensitivity, and modulation of network dynamics after psychedelic administration",
+      "date": "2026-06-01",
       "authors": [
-        "Laura, Mills",
-        "Susan L, Rossell",
-        "Sean P, Carruthers"
+        "Sabe M.",
+        "Grof P.",
+        "Sackett N. B."
       ],
-      "doi": "10.1016/j.jad.2026.121220"
+      "doi": "10.1016/j.schres.2026.03.003"
     },
     {
-      "title": "Psilocin mediates long-term synaptic depression in the prelimbic cortex through 5-HT2A receptor-independent mechanisms",
-      "url": "https://doi.org/10.1016/j.neuropharm.2026.110854",
+      "title": "Classic psychedelics and personality: An updated systematic review",
+      "url": "https://doi.org/10.1177/02698811261449386",
       "source": "OpenAIRE",
-      "abstract": "Psilocybin is a naturally occurring psychedelic compound with potential antidepressant effects. Although it has long been used by humans, primarily for recreational purposes, the molecular mechanisms underlying its actions remain incompletely understood. Here, we examined the acute effects of psilocin, the active metabolite of psilocybin, on excitatory neurotransmission in the prefrontal cortex (PFC). Slice electrophysiological whole-cell and field potential recordings were conducted in the rat prelimbic cortex during bath application of psilocin. We observed a sex-independent long-term synaptic depression (LTD) of presynaptic origin. This effect was independent of 5-HT2A and metabotropic glutamatergic receptor group 2 and mediated through enhanced GABAergic tone. The effect was partially inhibited by 5-HT1A receptor antagonist and completely blocked in slices pre-treated with the neuronal receptor tyrosine kinase 2 (TrkB) receptor antagonist ANA-12. These findings suggest that psilocin exerts a complex modulatory influence on excitatory neurotransmission in the prelimbic PFC, involving GABAergic and serotonergic interactions, and producing sustained alterations in synaptic activity that persist beyond drug exposure. Psilocin-induced LTD, independent of 5-HT2A receptor activation, may be associated with the reduced prefrontal connectivity reported in humans after psilocin administration and could have implications for cognitive function.",
-      "date": "2026-05-01",
+      "abstract": "<jats:sec>                     <jats:title>Background:</jats:title>                     <jats:p>                       The impact of classic psychedelics (5-HT2A receptor agonists) on personality traits has been studied for decades, and it has been hypothesized that the mechanisms underlying these changes are linked to agonism at cortical serotonergic 5-HT                       <jats:sub>2A</jats:sub>                       receptors. However, research results are contradictory. Therefore, the present paper aims to systematically evaluate the effects of psychedelics on personality, updating (2016–2024) a previous systematic review by Bouso and collaborators (2018). The International Prospective Register of Systematic Reviews ID for this study is CRD42024582704.                     </jats:p>                   </jats:sec>                   <jats:sec>                     <jats:title>Method:</jats:title>                     <jats:p>Systematic review using four databases (PubMed, LILACS, PsycINFO, and SciELO) including randomized controlled trials, open-label, and observational studies. Interventions included the consumption of any classic psychedelic (lysergic acid diethylamide, psilocybin, ayahuasca/dimethyltryptamine, mescaline), and the studies were required to use some instrument for personality assessment. We followed the Preferred Reporting Items for Systematic Reviews and Meta-Analyses guidelines to conduct the data collection.</jats:p>                   </jats:sec>        ",
+      "date": "2026-05-31",
       "authors": [
-        "Ana Domi",
-        "Erika Lucente",
-        "Davide Cadeddu"
+        "Anna Beatriz Vicentini",
+        "Caio César de Paula",
+        "José Augusto Silva Reis"
       ],
-      "doi": "10.1016/j.neuropharm.2026.110854"
+      "doi": "10.1177/02698811261449386"
     },
     {
-      "title": "Insights from the psychedelic experience integration session: Verbatims differentiate 3-month abstinence in alcohol use disorder with depressive symptoms",
-      "url": "https://doi.org/10.1016/j.jad.2026.121215",
+      "title": "A systematic review of the pharmacokinetics of classical serotonergic psychedelic compounds in healthy adult subjects",
+      "url": "https://doi.org/10.1177/02698811261453938",
       "source": "OpenAIRE",
-      "abstract": "Psilocybin-assisted psychotherapy shows promise in alcohol use disorder (AUD), but therapeutic mechanisms remain poorly understood. Previous qualitative studies have described potential processes such as gaining insights, altered self-perception, connectedness, and changes in coping, yet findings remain limited and inconsistent in AUD, and little is known about early markers of therapeutic response.We conducted a mixed quantitative-qualitative analysis of first integration sessions in the Psilocybin Alcohol Depression (PAD) randomized controlled trial. Only participants randomized to the 25 mg psilocybin group were included in this analysis. Recently detoxified patients with AUD and persisting depressive symptoms underwent semi-structured integration interviews the day after dosing. Transcripts were analyzed with IRaMuTeQ software using the Reinart descending hierarchical classification. Associations with abstinence at 3 months were examined.Twenty participants were included (55% male, median age 49); 55% were abstinent at 3 months. The corpus comprised 127,760 words, with 88% classified into two stable classes. Class 1 (44% of text segments) described sensory and emotional aspects of the psychedelic experience (physical sensations, visual phenomena, emotions, setting) and was predominantly elicited by non-responders. Class 2 (56%) reflected active cognitive processes and inner dialogue, including cognitive restructuring, distancing from habitual patterns, commitment to chang",
-      "date": "2026-05-01",
+      "abstract": "<jats:sec>                     <jats:title>Introduction:</jats:title>                     <jats:p>Despite renewed investigations into classical psychedelic compounds, their pharmacokinetic profiles remain incompletely understood.</jats:p>                   </jats:sec>                   <jats:sec>                     <jats:title>Methods:</jats:title>                     <jats:p>                       This systematic review collated data from healthy adult volunteers on the pharmacokinetic properties of lysergic acid diethylamide (LSD), psilocybin, dimethyltryptamine (DMT), mescaline, and 5-methoxy-                       <jats:italic toggle=\"yes\">N,N</jats:italic>                       -dimethyltryptamine (5-MEO-DMT).                     </jats:p>                   </jats:sec>                   <jats:sec>                     <jats:title>Results:</jats:title>                     <jats:p>                       We identified 32 eligible trials. LSD was the most studied compound, followed by DMT, split between intravenous (IV) and oral formulations. Psilocybin was also frequently studied. Mescaline was reported in two trials, with IV LSD, IV psilocybin, inhalation 5-MEO-DMT, and intranasal 5-MEO-DMT reported in single studies. Key findings include dose proportional                       <jats:italic toggle=\"yes\">C</jats:italic>                       <jats:sub>max</jats:sub>                       values for LSD and psilocybin, alongside differences between oral and IV formulations o",
+      "date": "2026-05-29",
       "authors": [
-        "Garcia Garcia, Maria",
-        "Belahda, Dahbia",
-        "Graux, Carine"
+        "Elliot Hampsey",
+        "Kirsty Martin",
+        "Michail Kalfas"
       ],
-      "doi": "10.1016/j.jad.2026.121215"
+      "doi": "10.1177/02698811261453938"
     },
     {
-      "title": "Does Psychological Flexibility Correlate with Mystical Experiences: A Machine Learning Approach Including State of Surrender, Near-Death Experiences, and Psilocybin Consumption",
-      "url": "https://doi.org/10.3390/bs16050686",
+      "title": "Development and assessment of a psychedelic-assisted therapy music playlist for clinical trials: Theory, intentionality, and metrics",
+      "url": "https://doi.org/10.1556/2054.2026.00462",
       "source": "OpenAIRE",
-      "abstract": "<jats:p>Mystical experiences are characterized by a profound sense of interconnectedness and transcendence of ordinary reality. These experiences can facilitate feelings of connectedness with oneself and others and have been documented as leading to significant positive changes in thoughts, emotions, and behavior. The purpose of the present study was to evaluate the extent to which the four mindfulness facets of psychological flexibility (i.e., experiential acceptance, present-moment awareness, cognitive defusion, and self-as-context) were associated with self-reported mystical experiences while controlling for established covariates. Using a sample of 150 individuals recruited online, a regularized regression with an elastic net—a computationally efficient machine learning algorithm—was used to model the relationships among mystical experiences, State of Surrender, frequency of psychedelic use, near-death experiences, and facets of psychological flexibility. State of Surrender, experiential acceptance, cognitive defusion, and present-moment awareness emerged as the most robust predictors of mystical experiences. Collectively, these findings underscore the role of psychological processes, including surrender-related processes and facets of psychological flexibility, in predicting mystical experiences.</jats:p>",
-      "date": "2026-04-30",
+      "abstract": "<jats:title>Abstract</jats:title>                   <jats:sec>                     <jats:title>Background and Purpose</jats:title>                     <jats:p>Music plays a central role in psychedelic-assisted therapy, yet few methodologies exist to create and assess therapeutic playlists. This study aimed to illustrate a methodology for developing and evaluating a music playlist for a clinical psilocybin trial using an integrative framework grounded in theory, intentionality, and metrics.</jats:p>                   </jats:sec>                   <jats:sec>                     <jats:title>Methods</jats:title>                     <jats:p>A playlist was designed based on clinical experience, phenomenological data, and therapeutic goals across pre-peak, peak, and post-peak phases of psilocybin administration. Each track was evaluated using Spotify's Application Programming Interface (API) metrics (Beats Per Minute, Danceability, Energy, and Valence). In addition, an exploratory human-rated measure of Transcendence was created and included to capture aspects of musical depth not represented by existing API metrics. Together, these tools provided a proof-of-concept model for how intentional playlist design may be supplemented with objective and experiential metrics in future psychedelic-assisted therapy research.</jats:p>                   </jats:sec>                   <jats:sec>                     <jats:title>Results</jats:title>                     <jats:p>Most musical features ",
+      "date": "2026-05-28",
       "authors": [
-        "Dylan Briggs",
-        "Thomas B. Sease",
-        "Ruthie Menou"
+        "Rafaelle L. Lancelotta",
+        "Paul B. Nagib",
+        "Stacey B. Armstrong"
       ],
-      "doi": "10.3390/bs16050686"
+      "doi": "10.1556/2054.2026.00462"
     },
     {
-      "title": "The Ecstasy of Gold in Neurodiversity: Focus on the Use of Psychedelics in Autism Spectrum Disorder",
-      "url": "https://doi.org/10.20944/preprints202604.1998.v1",
+      "title": "Psilocybin-induced neurocardiogenic syncope: a case report",
+      "url": "https://doi.org/10.1007/s00213-026-07079-8",
       "source": "OpenAIRE",
-      "abstract": "<jats:p>Psychedelic drugs are serotonergic hallucinogens that can be divided into two types: naturally occurring (psilocybin, psilocin, and N,N-dimethyltryptamine) and synthetic (LSD, MDMA, 2,5-dimethoxy-4-iodoamphetamine, and ketamine). Psychedelics generally work on 5-hydroxytryptamine receptors and might be useful in cognitive enhancement, brain connectivity, neuroplasticity, and neuronal regeneration. These properties could be used in the pharmacological treatment of selected mental disorders. Autism spectrum disorders include a group of developmental disorders characterized by social communication issues, the presence of restricted interests as well as repetitive behaviors that impact the quality of life of patients and their caregivers. Currently, there are no authorized drugs for the treatment of the symptomatic features of ASD, but drugs are used for comorbid psychopathological aspects, but the efficacy and tolerability of such treatments are often questionable. Here, studies demonstrating the therapeutic utility of using psychedelic substances in autism are reported. These findings suggest a therapeutic potential of psychedelics for some aspects of symptoms associated with autism spectrum disorder.</jats:p>",
-      "date": "2026-04-29",
+      "abstract": "<jats:title>Abstract</jats:title>                   <jats:sec>                     <jats:title>Background</jats:title>                     <jats:p>Psilocybin is among the serotonergic psychedelics closest to potential FDA approval, with growing evidence of therapeutic benefit across psychiatric conditions. As clinical trials expand, systematic characterization of adverse events (AEs) remains essential. While transient hypertensive responses are well documented, hypotensive events such as neurocardiogenic syncope (NCS) are rarely reported.</jats:p>                   </jats:sec>                   <jats:sec>                     <jats:title>Case presentation</jats:title>                     <jats:p>We describe a healthy 35‑year‑old male enrolled in an open‑label study investigating psilocybin‑evoked changes in brain function during transcranial magnetic stimulation and electroencephalography (TMS‑EEG). Approximately 60 minutes after receiving 25 mg oral psilocybin, and shortly after initiation of an eye‑open resting‑state EEG, he experienced prodromal lightheadedness followed by a brief loss of consciousness and postural tone. Immediate blood pressure was 93/51 mmHg with tachycardia and diaphoresis. Supportive measures, including leg elevation and oral hydration, led to rapid stabilization, and no further cardiovascular abnormalities occurred. The participant reported an emotionally intense experience, and contextual factors - including upright seated posture, restrictive EEG equ",
+      "date": "2026-05-28",
       "authors": [
-        "Stefano Marini",
-        "Domenico De Berardis"
+        "Mazen A. Atiq",
+        "Eli Weisman",
+        "Rodrigo B. Guerra"
       ],
-      "doi": "10.20944/preprints202604.1998.v1"
+      "doi": "10.1007/s00213-026-07079-8"
     },
     {
-      "title": "Acute dose-dependent effects of 4-bromo-2,5-dimethoxyphenethylamine (2C-B) compared with 3,4-methylenedioxymethamphetamine (MDMA) and psilocybin in a double-blind, placebo-controlled study in healthy participants",
-      "url": "https://doi.org/10.1038/s41386-026-02428-9",
+      "title": "Exploring the first use of psychedelic macrodoses in Latin American adults: Sociodemographic profiles, consumption factors, and subjective experiences",
+      "url": "https://doi.org/10.1556/2054.2025.00454",
       "source": "OpenAIRE",
-      "abstract": "<jats:title>Abstract</jats:title>                   <jats:p>Based on its in vitro profile and preliminary evidence, 4-bromo-2,5-dimethoxyphenethylamine (2C-B) may have psychoactive properties that are similar to 3,4-methylenedioxymethamphetamine (MDMA) and psilocybin, which are investigated for the treatment of posttraumatic stress disorder and depressive disorders. We compared acute effects of 2C-B (10, 20, and 30 mg), 125 mg MDMA, and 25 mg psilocybin in 24 healthy participants (12 women, 12 men) using a double-blind, randomized, placebo-controlled, crossover design. Outcome measures included acute subjective effects, autonomic effects, adverse effects, effects on emotional and cognitive empathy, plasma oxytocin and neurophysin I concentrations, and pharmacokinetics up to 9 h. 2C-B produced dose-dependent subjective effects, with the 30 mg dose exerting comparable “any drug effects” to MDMA but lower “any drug effects” than psilocybin. Only psilocybin induced “bad drug effects” and “anxiety” compared with placebo. The 30 mg dose of 2C-B induced psychedelic-type alterations of state of consciousness and increased emotional empathy similarly to MDMA. The average subjective effect duration of 30 mg 2C-B was 4.9 h and similar to MDMA (4.8 h) and shorter than psilocybin (6.1 h). MDMA produced the highest cardiovascular stimulation, followed by psilocybin and 2C-B. Only MDMA increased plasma oxytocin and neurophysin I concentrations. 2C-B exhibited dose-proportional pharmacokinet",
-      "date": "2026-04-28",
+      "abstract": "<jats:title>Abstract</jats:title>                   <jats:p>                     This study explores the first-time use of psychedelic macrodoses among Latin American adults, addressing a gap in the literature regarding naturalistic use outside clinical settings. A total of 4,810 participants from six Latin American countries completed an online survey assessing sociodemographic characteristics, substances used, consumption contexts, motivations, and subjective experiences during their first psychedelic experience. The most frequently reported substances were psilocybin mushrooms (57.6%), LSD (33.3%), and MDMA (17.5%). Recreational purposes were most common (70.5%), followed by spiritual (21.6%) and therapeutic (5.2%) motivations. Most participants consumed psychedelics in social settings, particularly with friends (65.7%), while 9.1% consumed them alone. Significant associations were found between demographic variables, the types of substances used, and specific subjective experiences. Psilocybin was linked to introspection and well-being, ayahuasca to mystical states, and MDMA, to heightened empathy. Familiar environments were associated with more positive experiences, reinforcing the importance of                     <jats:italic>set</jats:italic>                     and                     <jats:italic>setting</jats:italic>                     . Although 86.3% of participants reported continued use, the most common reason for not repeating the experience was lack of oppor",
+      "date": "2026-05-28",
       "authors": [
-        "Denis Arikci",
-        "Joran Borgulya",
-        "Isabelle Straumann"
+        "Oscar Véliz-García",
+        "Marcos Domic Siede"
       ],
-      "doi": "10.1038/s41386-026-02428-9"
+      "doi": "10.1556/2054.2025.00454"
     }
   ]
 }

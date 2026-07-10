@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-09T10:05:55.135725+00:00",
+  "generated_at": "2026-07-10T10:00:19.383597+00:00",
   "items": [
     {
       "title": "Blinding integrity in psychedelic research: Evidence from a comparative randomized controlled trial of psilocybin, MDMA, and methylphenidate in healthy volunteers",
@@ -32,6 +32,105 @@
         "mdma"
       ],
       "added_at": "2026-07-09T10:03:12.956794+00:00"
+    },
+    {
+      "title": "Personality changes following first-time psychedelic use in college students in Germany.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42426381/",
+      "source": "PubMed",
+      "date": "2026-07-10",
+      "authors": [
+        "Volkmann Constantin",
+        "Seitz Michael",
+        "Evens Ricarda"
+      ],
+      "doi": "10.1038/s44184-026-00228-z",
+      "summaries": {
+        "en": "A one-year longitudinal study of 102 first-time psychedelic users and 1,066 controls among Berlin university students found small increases in Openness and decreases in Conscientiousness (Big Five Inventory), though effects were modest and attenuated after adjusting for confounders. Changes were not clearly distinct from other first-time illicit substance users. Participants with psychiatric diagnoses showed larger Neuroticism reductions. Causal interpretability remains limited.",
+        "sv": "En ettårig longitudinell studie av 102 förstagångsanvändare av psykedelika och 1 066 kontroller bland Berlins studenter visade små ökningar av Öppenhet och minskningar av Samvetsgrannhet (Big Five Inventory). Effekterna var blygsamma och minskade efter justering för störfaktorer. Förändringarna skilde sig inte tydligt från andra förstagångsanvändare av illegala substanser. Deltagare med psykiatriska diagnoser visade större minskning av Neuroticism. Kausal tolkbarhet förblir begränsad.",
+        "no": "En ettårig longitudinell studie av 102 førstegangbrukere av psykedelika og 1 066 kontroller blant studentene i Berlin viste små økninger i Åpenhet og reduksjoner i Samvittighetsfullhet (Big Five Inventory). Effektene var beskjedne og avtok etter justering for forvirrende faktorer. Endringene skilte seg ikke klart fra andre førstegangbrukere av ulovlige stoffer. Deltakere med psykiatriske diagnoser viste større reduksjon i Nevrotisisme. Kausal tolkbarhet forblir begrenset.",
+        "da": "Et etårigt longitudinelt studie af 102 førstegangbrugere af psykedelika og 1.066 kontroller blandt Berlins studerende viste små stigninger i Åbenhed og fald i Samvittighedsfuldhed (Big Five Inventory). Effekterne var beskedne og blev mindre efter justering for forvexlingsfaktorer. Ændringerne adskilte sig ikke klart fra andre førstegangbrugere af illegale stoffer. Deltagere med psykiatriske diagnoser viste større reduktion i Neuroticism. Kausal fortolkning forbliver begrænset.",
+        "fi": "Vuoden kestävä pitkittäistutkimus 102:sta psykedelisten aineiden ensikäyttäjästä ja 1 066 kontrollihenkilöstä Berliinin yliopisto-opiskelijoiden joukossa osoitti pieniä muutoksia Avoimuudessa (nousua) ja Tunnollisuudessa (laskua) Big Five -mittarilla. Vaikutukset olivat vaatimattomia ja vähenivät häiritsevien tekijöiden korjaamisen jälkeen. Muutokset eivät erottuneet selvästi muiden laittomuuksien ensikäyttäjistä. Psykiatrisen diagnoosin saaneet osallistujat osoittivat suurempaa Neuroottisuuden vähenemistä. Kausaalinen tulkittavuus jää rajoitetuksi.",
+        "is": "Eins árs lengthun rannsókn á 102 fyrstu notendum hálkógena og 1.066 stjórnhópum meðal nemenda Berlínarháskóla sýndi litlar breytingar á Opnun (aukning) og Samviskusemi (lækkun) með Big Five mælikvarða. Áhrifin voru hóf og minnkuðu eftir leiðréttingu fyrir truflunarþáttum. Breytingar voru ekki greinilega frábrugðnar öðrum fyrstu notendum ólöglegra efna. Þátttakendur með sálfræðilegar greiningar sýndu stærri minnkun kvíða. Orsakasamband helst takmarkað.",
+        "et": "Aastapikkune pikiuurimus 102 psühhedeelikumide esmakorrakasutajast ja 1 066 kontrollgrupist Berliin ülikooli üliõpilaste hulgas näitas väikseid muutusi Avatud-meelsuses (tõus) ja Hoolimatuses (langus) Big Five skaalal. Efektid olid tagasihoidlikud ja vähenenud segavate tegurite parandamise järel. Muutused ei erinenud selgelt muude keelatud ainete esmakorrakasutajate omast. Psühhiaatrilise diagnoosiga osalejad näitasid suuremat neurotismi vähenemist. Põhjuslikud järeldused jäävad piiratuks.",
+        "lv": "Gada ilguma garengriezuma pētījums ar 102 psihedeliku pirmo reizi lietotājiem un 1 066 kontroles grupas dalībniekiem starp Berlīnes universitātes studentiem parādīja mazas izmaiņas Atklātībā (pieaugums) un Apzinātībā (samazinājums) pēc Big Five skalas. Efekti bija pieticīgi un samazinājās pēc traucējošo faktoru koriģēšanas. Izmaiņas nepārsvarā atšķīrās no citu nelegālo vielu pirmo reizi lietotāju izmaiņām. Dalībnieki ar psihiatriskām diagnozēm parādīja lielāku neirotisma samazinājumu. Cēloņsakarības interpretācija paliek ierobežota.",
+        "lt": "Metų trukmės išilginė studija su 102 psichodeliko pirmą kartą vartotojais ir 1 066 kontrolės grupės dalyviais tarp Berlyno universiteto studentų parodė mažus pokyčius Atvirume (padidėjimas) ir Sąžiningume (sumažėjimas) pagal Big Five skalę. Efektai buvo kuklūs ir sumažėjo atsižvelgus į trukdančius veiksnius. Pokyčiai neparyškiai skyrėsi nuo kitų neteisėtų medžiagų pirmą kartą vartotojų. Dalyviai su psichiatrinėmis diagnozėmis rodė didesnį neurotiškumo sumažėjimą. Priežastinis aiškinamumas lieka ribotas."
+      },
+      "notable": false,
+      "notable_reasons": null,
+      "relevance_score": 4,
+      "study_type": "observational",
+      "substances": [
+        "psilocybin"
+      ],
+      "added_at": "2026-07-10T09:58:44.570754+00:00"
+    },
+    {
+      "title": "Psychedelics and the thalamocortical system: A scoping review.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42425276/",
+      "source": "PubMed",
+      "date": "2026-07-09",
+      "authors": [
+        "Villalba Sofía",
+        "Christensen Agustín Martínez",
+        "Di Costanzo Lucia"
+      ],
+      "doi": "10.1016/j.pbb.2026.174232",
+      "summaries": {
+        "en": "A scoping review examined how psychedelics affect the thalamocortical system, synthesizing preclinical and clinical evidence using PRISMA methodology. The review focused on NMDA antagonists, serotonin 2A agonists, and iboga alkaloids. Psychedelics show therapeutic promise for depression, trauma, OCD, and substance use disorder. Since several psychiatric conditions—depression, schizophrenia, bipolar disorder, autism—involve thalamocortical alterations, understanding thalamic function could advance psychedelic research and biological psychiatry.",
+        "sv": "En scoping review analyserade hur psykedelika påverkar thalamokortikala systemet genom en systematisk granskning av preklinisk och klinisk evidens enligt PRISMA-metoden. Granskningen fokuserade på NMDA-antagonister, serotoninreceptor 2A-agonister och ibogas alkaloider. Psykedelika visar terapeutisk potential för depression, trauma, tvångsstörning och missbruk. Eftersom flera psykiatriska tillstånd—depression, schizofreni, bipolär störning, autism—involverar thalamokortikala förändringar, kan fördjupad förståelse för talamusfunktion avancera psykedelikaforskningen.",
+        "no": "En scoping review undersøkte hvordan psykedelika påvirker det thalamokortikale systemet gjennom systematisk gjennomgang av preklinisk og klinisk evidens etter PRISMA-metoden. Gjennomgangen fokuserte på NMDA-antagonister, serotoninreseptor 2A-agonister og ibogas alkaloider. Psykedelika viser terapeutisk potensial for depresjon, traume, tvangslidelse og misbruk. Siden flere psykiatriske tilstander—depresjon, schizofreni, bipolar lidelse, autisme—involverer thalamokortikale endringer, kan dypere forståelse av talamsfunksjon fremme psykedelikaforskningen.",
+        "da": "En scoping review undersøgte, hvordan psykedelika påvirker det thalamokortikale system gennem systematisk gennemgang af preklinisk og klinisk evidens efter PRISMA-metoden. Gennemgangen fokuserede på NMDA-antagonister, serotoninreceptor 2A-agonister og ibogas alkaloider. Psykedelika viser terapeutisk potentiale for depression, traume, tvangslidelse og misbrug. Da flere psykiatriske tilstande—depression, skizofreni, bipolar lidelse, autisme—involverer thalamokortikale ændringer, kan dybere forståelse af talamusfunktion fremme psykedelikaforskningen.",
+        "fi": "Katsaustutkimus analysoi psykedeelejä thalamokortikaalijärjestelmään vaikuttavina aineina järjestelmällisen kirjallisuuskatsauksen avulla PRISMA-menetelmää noudattaen. Katsaus keskittyi NMDA-antagonisteihin, serotoniinikeltaisen 2A-reseptorin agonisteihin ja ibojan alkaloideihin. Psykedelit osoittavat terapeuttisen potentiaalin masennukselle, traumalle, pakko-oireiselle häiriölle ja riippuvuuksille. Koska useat psykiatriset häiriöt—masennus, skitsofrenia, kaksisuuntainen mielialahäiriö, autism—sisältävät thalamokortikaalisia muutoksia, syvempi ymmärrys talaamuksen toiminnasta voi edistää psykedeelitutkimusta.",
+        "is": "Yfirfararrannsókn kannaði áhrif geðroflandi efna á thalamókortikal kerfið með kerfisbundnum rannsóknarkatskilum samkvæmt PRISMA-aðferðinni. Rannsóknin beindist að NMDA-andstöðum, serótónín 2A-viðtaka-ómerki og ýmsum lyfjasamsetningu eins og ibógaalkalóídum. Geðroflandi efni gefa góðar vonir fyrir þunglyndi, sálráð, áreitakerfissýki og efnaávöl. Þar sem nokkur geðrof—þunglyndi, sósíófrænía, tvíhliða geðrof, sjúkdómur á litrófa—fela í sér breytingar í thalamókortikal kerfi, gæti dýpri skilningur á virkni talamamus verulega aukið rannsóknir á geðroflanadri efnum.",
+        "et": "Ulatuslik ülevaade analüüsis psihhodeliikumide mõju talamokortikaalse süsteemile süstemaatilise kirjanduseanalüüsi kaudu PRISMA-metoodikat kasutades. Ülevaade keskendus NMDA-antagonistidele, serotoniini 2A retseptori agonistidele ja iboga alkaloidide segudele. Psihhodeliikumid näitavad terapeutilist potentsiaali depressiooni, traumat, obsessiiv-kompulsiivset häiret ja sõltuvust vastases. Kuna mitmed psühhiaatrilised seisundid—depressioon, skisofreenia, kahepoolne meeleoluhäire, autismispekter—kaasavad talamokortikaalset muutuseid, võib thalamuse funktsioonist paremad teadmised edendada psihhodeliikumide uuringuid.",
+        "lv": "Apskopējošais pārskats analizēja psihodeļu ietekmi uz talamokortikālo sistēmu, izmantojot sistematisko literatūras analīzi pēc PRISMA metodoloģijas. Pārskats fokusējās uz NMDA antagonistiem, serotoninapņēmēju 2A agonistiem un iboga alkaloīdiem. Psihodeliki parāda terapeitisko potenciālu depresijas, traumas, obsesīvi-kompulsīvā traucējuma un vielu pārvērtības gadījumā. Tā kā vairāki psihiskriski traucējumi—depresija, šizofrēnija, bipolārais traucējums, autisma spektrs—ir saistīti ar talamokortikālām izmaiņām, dziļāka talamusa funkcijas izpratne var virzīt uz priekšu psihodeliku pētniecību.",
+        "lt": "Apimtis apžvalga analizavo psichedelikų poveikį talamokortikalinei sistemai naudodama sisteminę literatūros apžvalgą pagal PRISMA metodiką. Apžvalga sutelkė dėmesį į NMDA antagonistus, serotonino 2A receptoriaus agonistus ir iboginės alkaloidų junginius. Psichedelikai rodo terapinį potencialą depresijos, traumos, obsesyviai-kompulsiniam sutrikdymui ir priklausomybei. Kadangi keletas psichiatrinių sutrikdymų—depresija, šizofreniją, bipolinį sutrikdymą, autizmą—pasižymi talamokortikalinėmis pokyčiais, gilesnė talamuso funkcijos supratimas gali paskatinti psichedelikų mokslinius tyrimus."
+      },
+      "notable": false,
+      "notable_reasons": null,
+      "relevance_score": 4,
+      "study_type": "review",
+      "substances": [
+        "psilocybin",
+        "lsd",
+        "mdma",
+        "ketamine",
+        "ibogaine",
+        "other"
+      ],
+      "added_at": "2026-07-10T09:58:44.570754+00:00"
+    },
+    {
+      "title": "Psychedelics in Mental Health: Opportunities and Challenges.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42421650/",
+      "source": "PubMed",
+      "date": "2026-Jul-9",
+      "authors": [
+        "Oestreich Lena K L",
+        "Rieser Nathalie M"
+      ],
+      "doi": "10.1002/brb3.71574",
+      "summaries": {
+        "en": "A special issue examines psychedelics' potential in treating depression, PTSD, and substance disorders. While early trials show promise, key questions remain about mechanisms, safety, and ethics. Research emphasizes that psychedelic therapy involves more than pharmacology: therapeutic relationships, preparation, integration, and cultural context significantly influence outcomes. Subjective experience and meaning-making appear central to therapeutic change.",
+        "sv": "Ett specialnummer undersöker psykedelikas potential vid behandling av depression, PTSD och substansberoende. Trots lovande tidiga studier återstår frågor om mekanismer, säkerhet och etik. Forskningen betonar att psykedelisk terapi är mer än farmakologi: terapeutiska relationer, förberedelse, integration och kulturell kontext påverkar resultaten väsentligt. Subjektiv erfarenhet och meningsskapande verkar centralt för terapeutisk förändring.",
+        "no": "Et spesialnummer undersøker psykedelikas potensial i behandling av depresjon, PTSD og stoffmisbruk. Selv om tidlige studier er lovende, gjenstår spørsmål om mekanismer, sikkerhet og etikk. Forskningen understreker at psykedelisk terapi er mer enn farmakologi: terapeutiske relasjoner, forberedelse, integrering og kulturell kontekst påvirker resultatene betydelig. Subjektiv erfaring og meningsdannelse synes sentrale for terapeutisk endring.",
+        "da": "Et specialnummer undersøger psykedelikas potentiale i behandlingen af depression, PTSD og stofmisbrug. På trods af lovende tidlige forsøg består vigtige spørgsmål om mekanismer, sikkerhed og etik. Forskningen understreger, at psykedelisk terapi er mere end farmakologi: terapeutiske forhold, forberedelse, integration og kulturel kontekst påvirker resultaterne betydeligt. Subjektiv erfaring og meningsdannelse synes centrale for terapeutisk forandring.",
+        "fi": "Erityisnumero tutkii psykedeelejä masennuksen, PTSD:n ja päihdeongelmien hoidossa. Vaikka varhaiset tutkimukset lupaavat, mekanismeista, turvallisuudesta ja etiikasta jää avoimia kysymyksiä. Tutkimus korostaa, että psykedeelinen terapia on enemmän kuin farmakologia: terapeuttiset suhteet, valmistautuminen, integraatio ja kulttuurinen konteksti vaikuttavat merkittävästi tuloksiin. Subjektiivinen kokemus ja merkityksellisen tekeminen näyttävät keskeisiltä terapeutiselle muutokselle.",
+        "is": "Sérnúmer rannsakar möguleika sálkirtla efna við meðferð þunglyndi, PTSD og vímuefnamisnotkunar. Þótt fyrri rannsóknir séu efnilegir, eftir standa spurningar um virkni, öryggi og siðfræði. Rannsóknir leggja áherslu á að sálkirtil meðferð sé meira en lyfjafræði: samband meðferðanda, undirbúningur, samþætting og menningarlegt samhengi hafa veruleg áhrif á niðurstöður. Huglæg reynsla og þýðingamyndun virðast miðlæg fyrir breytingu í meðferð.",
+        "et": "Erinumber uurib psühhedeelike potentsiaali depressiooni, PTSD-i ja ainete kuritarvitamise ravil. Kuigi varasemad katsed on lubavad, jäävad mehhanismide, ohutuse ja eetika küsimused lahtiseks. Uuringud rõhutavad, et psühhedeeline teraapia on rohkem kui farmakoloogia: terapeutilised suhted, ettevalmistus, integratsioon ja kultuurikontekst mõjutavad tulemusi oluliselt. Subjektiivne kogemus ja tähendusloome näivad olulised terapeutiliste muutuste jaoks.",
+        "lv": "Īpaša izdotne pēta psihedeliku potenciālu depresijas, PTSD un vielu lietošanas traucējumu ārstēšanā. Lai arī agrīnie pētījumi ir daudzvēlīgi, paliek jautājumi par mehānismiem, drošību un ētiku. Pētījumi uzsver, ka psihedeliku terapija ir vairāk nekā farmakoloģija: terapeitiskās attiecības, sagatavošanās, integrācija un kultūras konteksts būtiski ietekmē rezultātus. Subjektīvā pieredze un nozīmes radīšana šķiet būtiski terapeitiskai izmaiņai.",
+        "lt": "Specialusis numeris tiria psichedelikų potencialą gydant depresiją, PTSD ir psichoaktyviųjų medžiagų vartojimo sutrikimus. Nors ankstyvieji tyrimai žada daug, lieka klausimų dėl mechanizmų, saugumo ir etikos. Tyrimai pabrėžia, kad psichedelių terapija yra daugiau nei farmakologija: terapiniai santykiai, pasiruošimas, integracija ir kultūrinis kontekstas daro reikšmingą poveikį rezultatams. Subjektyvi patirtis ir prasmės kūrimas atrodo pagrindiniai terapiniams pokyčiams."
+      },
+      "notable": false,
+      "notable_reasons": null,
+      "relevance_score": 4,
+      "study_type": "other",
+      "substances": [
+        "psilocybin",
+        "ketamine",
+        "other"
+      ],
+      "added_at": "2026-07-10T09:58:44.570754+00:00"
     },
     {
       "title": "Convergent increases in serotonin 1B receptor binding following ketamine and electroconvulsive therapy: a multi-centre bayesian re-analysis of PET data.",
@@ -830,6 +929,37 @@
         "ketamine"
       ],
       "added_at": "2026-07-04T09:05:00.086634+00:00"
+    },
+    {
+      "title": "Navigating 'k-land': a qualitative exploration of participants' experiences of ketamine-assisted psychotherapy for methamphetamine use disorder.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42422525/",
+      "source": "PubMed",
+      "date": "2026-06-24",
+      "authors": [
+        "Fletcher Kathryn",
+        "Ezard Nadine",
+        "Siefried Krista J"
+      ],
+      "doi": "10.3389/fpsyt.2026.1873497",
+      "summaries": {
+        "en": "Qualitative study of 14 participants in an open-label pilot trial examining experiences of ketamine-assisted psychotherapy (KAP) for methamphetamine use disorder. Semi-structured interviews identified four themes: prior limited treatment success prompting openness to novel approaches; importance of relational safety and clinical containment; reduced emotional reactivity following ketamine sessions; and translation of psychological shifts into behavioral change. Findings suggest KAP acceptability and potential mechanisms in this population.",
+        "sv": "Kvalitativ studie av 14 deltagare i en öppen pilotstudie som undersökte upplevelser av ketaminassisterad psykoterapi (KAP) för metamfetaminanvändningsstörning. Semi-strukturerade intervjuer identifierade fyra teman: tidigare begränsad behandlingsframgång som öppnade för nya tillvagagångssätt; betydelsen av relationell säkerhet och klinisk innehållning; minskad emotionell reaktivitet efter ketaminsessioner; samt omvandling av psykologiska skiften till beteendeförändring. Resultaten tyder på acceptabilitet och potentiella mekanismer för KAP.",
+        "no": "Kvalitativ studie av 14 deltakere i en åpen pilotstudie som undersøkte erfaringer med ketaminavsistet psykoterapi (KAP) for metamfetaminbruksstørrelse. Semi-strukturerte intervjuer identifiserte fire tema: tidligere begrenset behandlingssuksess som åpnet for nye tilnærminger; betydningen av relasjonell sikkerhet og klinisk inneslutning; redusert emosjonell reaktivitet etter ketaminsesjoner; og oversettelse av psykologiske skift til atferdsendring. Funnene tyder på akseptabilitet og potensielle mekanismer for KAP.",
+        "da": "Kvalitativ undersøgelse af 14 deltagere i et åbent pilotforsøg, der undersøgte erfaringer med ketaminassisteret psykoterapi (KAP) for metamfetaminmisbrug. Semi-strukturerede interviews identificerede fire temaer: tidligere begrænset behandlingssucces, som åbnede for nye tilgange; betydningen af relationel sikkerhed og klinisk inddæmning; reduceret emotionel reaktivitet efter ketaminsessioner; og omsætning af psykologiske skift til adfærdsændring. Resultaterne tyder på acceptabilitet og potentielle mekanismer for KAP.",
+        "fi": "Laadullinen tutkimus 14 osallistujasta avoimessa pilotutkimuksessa, jossa tutkittiin osallistujien kokemuksia ketamiiniavusteisesta psykoterapiasta (KAP) metamfetamiinin käyttöhäiriöön. Puolistrukturoidut haastattelut tunnistivat neljä teemaa: aiempi rajallinen hoitomenestys, joka avasi uusia lähestymistapoja; relationaalisen turvallisuuden ja kliinisen sisällyttämisen merkitys; vähentynyt emotionaalinen reaktiivisuus ketamiinisessioiden jälkeen; sekä psykologisten muutosten muuntaminen käyttäytymisen muutokseksi. Tulokset viittaavat KAP:n hyväksyttävyyteen ja mahdollisiin mekanismeihin.",
+        "is": "Eigindlegri rannsókn á 14 þátttakendum í opinni tilraunarannsókn sem skoðaði reynslu þátttakenda af ketamínstuddum sálfræðilegum meðferðum (KAP) fyrir misnotkun á metamfetamíni. Hálflokaðir viðtöl greindu fjóra þætti: takmarkaðan fyrri meðferðargengi sem opnaði fyrir nýjar aðferðir; mikilvægi sambands öryggis og klínískrar innfælingar; minni tilfinningaleg viðbrögð eftir ketamínlotu; og umbreytingu sálfræðilegra breytinga í hegðunarbreytingu. Niðurstöðurnar benda til þess að KAP sé ásættanleg með hugsanlegum verkaferlum.",
+        "et": "Kvalitatiivne uurimus 14 osavõtjaga avatud pilootuuringus, mis uuris osavõtjate kogemusi ketamiini-abistatud psühhoteraapiast (KAP) metamfetamiini kasutamishäire korral. Poolstruktureeritud intervjuud tuvastasid neli teemat: piiratud eelnev ravi edu, mis avas uusi lähenemisviise; suhtelise ohutuse ja kliinilise sisaldamise tähtsus; vähenenud emotsionaalne reaktiivsus ketamiini istungite järel; ja psühholoogiliste muutuste muutmine käitumismuutuseks. Tulemused viitavad KAP-i vastuvõetavusele ja võimalikele mehhanismidele.",
+        "lv": "Kvalitatīvs pētījums ar 14 dalībniekiem atklātā paklāvē eksperimentā, kurā tika pētītas dalībnieku pieredzes ar ketamīnu atbalstītu psihoterapiju (KAP) metamfetamīna lietošanas traucējumiem. Pus-strukturētas intervijas identificēja četras tēmas: iepriekšējs ierobežots ārstēšanas panākums, kas atvēra jaunas pieejas; relāciju drošības un klīniskās ierobežošanas nozīme; samazināta emocionālā reaktivitāte pēc ketamīna sesijām; un psiholoģisku pārmaiņu pārvēršana uzvedības izmaiņās. Rezultāti liecina par KAP pieņemamību un iespējamiem mehānismiem.",
+        "lt": "Kokybinė 14 dalyvių atvirojo bandymo studija, kurioje buvo tiriamos dalyvių ketaminu pagalkos psichoterapijos (KAP) patirtys metamfetamino vartojimo sutrikdymo atveju. Pusiau struktūrizuoti interviu atskleistė keturis motyvus: ankstesnį ribotą gydymo sėkmę, kuris atvėrė naujas prieigas; santykinio saugumo ir klinio ribojimo svarbą; sumažėjusį emocinį jautrumą po ketamino sesijų; ir psichologinių pokyčių transformavimą į elgesio pokytį. Rezultatai rodo KAP priimtinumą ir galimus mechanizmus."
+      },
+      "notable": false,
+      "notable_reasons": null,
+      "relevance_score": 4,
+      "study_type": "qualitative",
+      "substances": [
+        "ketamine"
+      ],
+      "added_at": "2026-07-10T09:58:44.570754+00:00"
     },
     {
       "title": "Development and validation of a short-form (6-item) version of the clinician-administered dissociative states scale (CADSS-SF).",

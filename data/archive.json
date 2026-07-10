@@ -1,6 +1,92 @@
 {
   "items": [
     {
+      "title": "Psychedelics and the thalamocortical system: A scoping review.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42425276/",
+      "source": "PubMed",
+      "date": "2026-07-09",
+      "authors": [
+        "Villalba Sofía",
+        "Christensen Agustín Martínez",
+        "Di Costanzo Lucia"
+      ],
+      "doi": "10.1016/j.pbb.2026.174232",
+      "summary_en": "A scoping review examined how psychedelics affect the thalamocortical system, synthesizing preclinical and clinical evidence using PRISMA methodology. The review focused on NMDA antagonists, serotonin 2A agonists, and iboga alkaloids. Psychedelics show therapeutic promise for depression, trauma, OCD, and substance use disorder. Since several psychiatric conditions—depression, schizophrenia, bipolar disorder, autism—involve thalamocortical alterations, understanding thalamic function could advance psychedelic research and biological psychiatry.",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "review",
+      "substances": [
+        "psilocybin",
+        "lsd",
+        "mdma",
+        "ketamine",
+        "ibogaine",
+        "other"
+      ],
+      "added_at": "2026-07-10T09:58:44.570754+00:00"
+    },
+    {
+      "title": "Personality changes following first-time psychedelic use in college students in Germany.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42426381/",
+      "source": "PubMed",
+      "date": "2026-07-10",
+      "authors": [
+        "Volkmann Constantin",
+        "Seitz Michael",
+        "Evens Ricarda"
+      ],
+      "doi": "10.1038/s44184-026-00228-z",
+      "summary_en": "A one-year longitudinal study of 102 first-time psychedelic users and 1,066 controls among Berlin university students found small increases in Openness and decreases in Conscientiousness (Big Five Inventory), though effects were modest and attenuated after adjusting for confounders. Changes were not clearly distinct from other first-time illicit substance users. Participants with psychiatric diagnoses showed larger Neuroticism reductions. Causal interpretability remains limited.",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "observational",
+      "substances": [
+        "psilocybin"
+      ],
+      "added_at": "2026-07-10T09:58:44.570754+00:00"
+    },
+    {
+      "title": "Navigating 'k-land': a qualitative exploration of participants' experiences of ketamine-assisted psychotherapy for methamphetamine use disorder.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42422525/",
+      "source": "PubMed",
+      "date": "2026-06-24",
+      "authors": [
+        "Fletcher Kathryn",
+        "Ezard Nadine",
+        "Siefried Krista J"
+      ],
+      "doi": "10.3389/fpsyt.2026.1873497",
+      "summary_en": "Qualitative study of 14 participants in an open-label pilot trial examining experiences of ketamine-assisted psychotherapy (KAP) for methamphetamine use disorder. Semi-structured interviews identified four themes: prior limited treatment success prompting openness to novel approaches; importance of relational safety and clinical containment; reduced emotional reactivity following ketamine sessions; and translation of psychological shifts into behavioral change. Findings suggest KAP acceptability and potential mechanisms in this population.",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "qualitative",
+      "substances": [
+        "ketamine"
+      ],
+      "added_at": "2026-07-10T09:58:44.570754+00:00"
+    },
+    {
+      "title": "Psychedelics in Mental Health: Opportunities and Challenges.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42421650/",
+      "source": "PubMed",
+      "date": "2026-Jul-9",
+      "authors": [
+        "Oestreich Lena K L",
+        "Rieser Nathalie M"
+      ],
+      "doi": "10.1002/brb3.71574",
+      "summary_en": "A special issue examines psychedelics' potential in treating depression, PTSD, and substance disorders. While early trials show promise, key questions remain about mechanisms, safety, and ethics. Research emphasizes that psychedelic therapy involves more than pharmacology: therapeutic relationships, preparation, integration, and cultural context significantly influence outcomes. Subjective experience and meaning-making appear central to therapeutic change.",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "other",
+      "substances": [
+        "psilocybin",
+        "ketamine",
+        "other"
+      ],
+      "added_at": "2026-07-10T09:58:44.570754+00:00"
+    },
+    {
       "title": "Convergent increases in serotonin 1B receptor binding following ketamine and electroconvulsive therapy: a multi-centre bayesian re-analysis of PET data.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42420418/",
       "source": "PubMed",

@@ -1,20 +1,7 @@
 {
-  "date": "2026-07-10",
-  "cached_at": "2026-07-10T09:30:52.687426+00:00",
+  "date": "2026-07-11",
+  "cached_at": "2026-07-11T07:51:38.932492+00:00",
   "articles": [
-    {
-      "title": "Psychedelics and the thalamocortical system: A scoping review.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42425276/",
-      "source": "PubMed",
-      "abstract": "In recent years, psychedelics have shown promising results as therapeutic interventions for individuals with depression, terminal illnesses, substance use disorder, neurodegenerative diseases, trauma and obsessive-compulsive disorder. Moreover, research involving psychedelics have contributed to the understanding of the neurobiological mechanisms behind the \"psychedelic state of consciousness\" and to the physiological and pathological thalamocortical functioning. Also, there is evidence that several psychiatric conditions-such as depression, schizophrenia, bipolar disorder, and autism-are characterized by alterations in the thalamocortical system. Therefore, a deeper understanding of thalamic function could have significant implications for the psychedelic research field and for biological psychiatry. The aim of this scoping review (using the PRISMA method) was to synthesize the available evidence (preclinical and clinical) on the effects of psychedelics on the thalamocortical system that showed potential for clinical use (specifically NMDA receptor antagonists, serotonin 2 A receptor agonists and mixed-pharmacology compounds like iboga alkaloids). This review discussed findings regarding psychedelic administration and specific effects on thalamocortical connectivity suggesting its importance for clinical practice and for the understanding of psychedelic's neurobiology.",
-      "date": "2026-07-09",
-      "authors": [
-        "Villalba Sofía",
-        "Christensen Agustín Martínez",
-        "Di Costanzo Lucia"
-      ],
-      "doi": "10.1016/j.pbb.2026.174232"
-    },
     {
       "title": "Personality changes following first-time psychedelic use in college students in Germany.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42426381/",
@@ -27,6 +14,19 @@
         "Evens Ricarda"
       ],
       "doi": "10.1038/s44184-026-00228-z"
+    },
+    {
+      "title": "Psychedelics and the thalamocortical system: A scoping review.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42425276/",
+      "source": "PubMed",
+      "abstract": "In recent years, psychedelics have shown promising results as therapeutic interventions for individuals with depression, terminal illnesses, substance use disorder, neurodegenerative diseases, trauma and obsessive-compulsive disorder. Moreover, research involving psychedelics have contributed to the understanding of the neurobiological mechanisms behind the \"psychedelic state of consciousness\" and to the physiological and pathological thalamocortical functioning. Also, there is evidence that several psychiatric conditions-such as depression, schizophrenia, bipolar disorder, and autism-are characterized by alterations in the thalamocortical system. Therefore, a deeper understanding of thalamic function could have significant implications for the psychedelic research field and for biological psychiatry. The aim of this scoping review (using the PRISMA method) was to synthesize the available evidence (preclinical and clinical) on the effects of psychedelics on the thalamocortical system that showed potential for clinical use (specifically NMDA receptor antagonists, serotonin 2 A receptor agonists and mixed-pharmacology compounds like iboga alkaloids). This review discussed findings regarding psychedelic administration and specific effects on thalamocortical connectivity suggesting its importance for clinical practice and for the understanding of psychedelic's neurobiology.",
+      "date": "2026-07-09",
+      "authors": [
+        "Villalba Sofía",
+        "Christensen Agustín Martínez",
+        "Di Costanzo Lucia"
+      ],
+      "doi": "10.1016/j.pbb.2026.174232"
     },
     {
       "title": "Navigating 'k-land': a qualitative exploration of participants' experiences of ketamine-assisted psychotherapy for methamphetamine use disorder.",
@@ -574,7 +574,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2018-004480-31/CZ",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-07-10",
+      "date": "2026-07-11",
       "authors": [],
       "doi": ""
     },
@@ -583,7 +583,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2020-005037-32/CZ",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-07-10",
+      "date": "2026-07-11",
       "authors": [],
       "doi": ""
     },
@@ -592,7 +592,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2021-002909-10/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-07-10",
+      "date": "2026-07-11",
       "authors": [],
       "doi": ""
     },
@@ -601,7 +601,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2015-000550-37/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-07-10",
+      "date": "2026-07-11",
       "authors": [],
       "doi": ""
     },
@@ -610,7 +610,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2021-000041-40/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-07-10",
+      "date": "2026-07-11",
       "authors": [],
       "doi": ""
     },
@@ -619,7 +619,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2020-000829-55/DK",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-07-10",
+      "date": "2026-07-11",
       "authors": [],
       "doi": ""
     },
@@ -628,7 +628,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2020-002790-94/SE",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-07-10",
+      "date": "2026-07-11",
       "authors": [],
       "doi": ""
     },
@@ -637,7 +637,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2021-006200-33/FI",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-07-10",
+      "date": "2026-07-11",
       "authors": [],
       "doi": ""
     },
@@ -646,7 +646,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2019-004812-73/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-07-10",
+      "date": "2026-07-11",
       "authors": [],
       "doi": ""
     },
@@ -655,7 +655,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2022-002369-14/BE",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-07-10",
+      "date": "2026-07-11",
       "authors": [],
       "doi": ""
     },

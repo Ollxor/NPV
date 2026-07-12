@@ -1,6 +1,89 @@
 {
   "items": [
     {
+      "title": "Changes in trauma symptoms of discrimination after MDMA-assisted psychotherapy for posttraumatic stress disorder.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42436172/",
+      "source": "PubMed",
+      "date": "2026-07-11",
+      "authors": [
+        "Williams Monnica T",
+        "Faber Sonya C",
+        "Sloshower Jordan"
+      ],
+      "doi": "10.1038/s41598-026-59333-w",
+      "summary_en": "A preliminary study (n=5) examined MDMA-assisted therapy for trauma symptoms related to discrimination using the Trauma Symptoms of Discrimination Scale. Paired t-test showed a 38% reduction in scores (p=.046, Cohen's d=1.28). All participants reported marked improvements across diverse racial/ethnic backgrounds and discrimination histories. Results suggest MDMA-assisted therapy may reduce discrimination-related trauma in marginalized populations, though larger studies are needed.",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "case_report",
+      "substances": [
+        "mdma"
+      ],
+      "added_at": "2026-07-12T08:37:13.075374+00:00"
+    },
+    {
+      "title": "Brain-targeted epigenetic effects of two emerging psychoplastogens: ketamine & MDMA.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42436129/",
+      "source": "PubMed",
+      "date": "2026-07-11",
+      "authors": [
+        "Semple Moira G",
+        "Mennenga Sarah E",
+        "Smith Ryan"
+      ],
+      "doi": "10.1038/s41398-026-04191-3",
+      "summary_en": "Brain-targeted epigenetic study examined DNA methylation changes in 20 ketamine and 16 MDMA clinical trial participants. Both psychoplastogens altered 300+ genes each, with convergent effects on neuroplasticity and neuroimmune pathways. Blood and saliva samples analyzed pre/post-treatment using linear mixed-effects models reveal peripheral epigenetic mechanisms underlying therapeutic effects for mood and trauma disorders.",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "observational",
+      "substances": [
+        "ketamine",
+        "mdma"
+      ],
+      "added_at": "2026-07-12T08:37:13.075374+00:00"
+    },
+    {
+      "title": "Psilocybin-assisted therapy in treatment-resistant depression: rapid remission, uncertain durability, and the next phase of clinical evidence.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42433813/",
+      "source": "PubMed",
+      "date": "2026-06-19",
+      "authors": [
+        "Sabani Astrit",
+        "Khatak Adnan"
+      ],
+      "doi": "10.1097/MS9.0000000000005244",
+      "summary_en": "Psilocybin-assisted therapy shows rapid symptom reduction in treatment-resistant depression (TRD), but long-term durability remains unclear. Early randomized trials demonstrate promising short-term remission rates, yet evidence is limited by small sample sizes, short follow-up periods, and inadequate comparison with established TRD treatments like esketamine and electroconvulsive therapy. Key questions about sustained benefit and effects of repeated dosing remain unanswered.",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "other",
+      "substances": [
+        "psilocybin"
+      ],
+      "added_at": "2026-07-12T08:37:13.075374+00:00"
+    },
+    {
+      "title": "Epigenetic landscapes of classical psychedelics and ketamine: molecular mechanisms of long-lasting neuromodulation.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42432011/",
+      "source": "PubMed",
+      "date": "2026-07-10",
+      "authors": [
+        "Lin Cong",
+        "Wang Xiaohui"
+      ],
+      "doi": "10.1038/s41380-026-03744-8",
+      "summary_en": "Review examining how classical psychedelics (LSD, psilocybin, DMT, mescaline) and ketamine produce lasting neuroplastic changes through epigenetic mechanisms. Evidence suggests therapeutic effects in neuropsychiatric conditions involve DNA methylation, histone modifications, chromatin restructuring, and non-coding RNA dynamics. Psychedelics modulate metabolic pathways affecting epigenetic cofactors, potentially driving persistent transcriptional changes and enhanced synaptic connectivity, though direct causal evidence remains limited.",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "review",
+      "substances": [
+        "lsd",
+        "psilocybin",
+        "mescaline",
+        "ketamine",
+        "other"
+      ],
+      "added_at": "2026-07-12T08:37:13.075374+00:00"
+    },
+    {
       "title": "Psychedelics and the thalamocortical system: A scoping review.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42425276/",
       "source": "PubMed",

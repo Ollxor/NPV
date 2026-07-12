@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-10T10:00:19.383597+00:00",
+  "generated_at": "2026-07-12T08:38:41.021398+00:00",
   "items": [
     {
       "title": "Blinding integrity in psychedelic research: Evidence from a comparative randomized controlled trial of psilocybin, MDMA, and methylphenidate in healthy volunteers",
@@ -32,6 +32,103 @@
         "mdma"
       ],
       "added_at": "2026-07-09T10:03:12.956794+00:00"
+    },
+    {
+      "title": "Changes in trauma symptoms of discrimination after MDMA-assisted psychotherapy for posttraumatic stress disorder.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42436172/",
+      "source": "PubMed",
+      "date": "2026-07-11",
+      "authors": [
+        "Williams Monnica T",
+        "Faber Sonya C",
+        "Sloshower Jordan"
+      ],
+      "doi": "10.1038/s41598-026-59333-w",
+      "summaries": {
+        "en": "A preliminary study (n=5) examined MDMA-assisted therapy for trauma symptoms related to discrimination using the Trauma Symptoms of Discrimination Scale. Paired t-test showed a 38% reduction in scores (p=.046, Cohen's d=1.28). All participants reported marked improvements across diverse racial/ethnic backgrounds and discrimination histories. Results suggest MDMA-assisted therapy may reduce discrimination-related trauma in marginalized populations, though larger studies are needed.",
+        "sv": "En preliminär studie (n=5) undersökte MDMA-assisterad terapi för traumasymtom relaterade till diskriminering med Trauma Symptoms of Discrimination Scale. Parade t-test visade 38% minskning i poäng (p=.046, Cohen's d=1.28). Alla deltagare rapporterade markanta förbättringar över olika etniska bakgrunder och diskrimineringshistorier. Resultaten antyder att MDMA-assisterad terapi kan minska diskrimineringsbetingad trauma hos marginaliserade grupper, men större studier är nödvändiga.",
+        "no": "En preliminary studie (n=5) undersøkte MDMA-assistert terapi for traumesymptomer knyttet til diskriminering ved bruk av Trauma Symptoms of Discrimination Scale. Parret t-test viste 38% reduksjon i poengsum (p=.046, Cohen's d=1.28). Alle deltakere rapporterte markante forbedringer på tvers av ulike etniske bakgrunner og diskrimineringshistorier. Resultatene tyder på at MDMA-assistert terapi kan redusere diskrimineringsbetinget traume hos marginaliserte grupper, men større studier er nødvendige.",
+        "da": "Et foreløbigt studie (n=5) undersøgte MDMA-assisteret terapi for traumesymptomer relateret til diskriminering ved hjælp af Trauma Symptoms of Discrimination Scale. Parret t-test viste 38% reduktion i scoringer (p=.046, Cohen's d=1.28). Alle deltagere rapporterede markante forbedringer på tværs af forskellige etniske baggrunde og diskriminerings-historier. Resultaterne antyder, at MDMA-assisteret terapi kan reducere diskriminerings-relateret traume hos marginaliserede befolkningsgrupper, men større studier er nødvendige.",
+        "fi": "Alustava tutkimus (n=5) tutki MDMA-avusteista psykoterapiaa diskriminaatioon liittyvien traumaoireiden hoitamiseen käyttäen Trauma Symptoms of Discrimination Scale -mittaria. Parittainen t-testi osoitti 38% laskua pisteissä (p=.046, Cohen's d=1.28). Kaikki osallistujat raportoivat selvistä parannuksista eri etnisten taustojensa ja diskriminaatiohistorioiden välillä. Tulokset viittaavat siihen, että MDMA-avusteinen psykoterapia voi vähentää diskriminaatioon liittyvää traumaa marginalisoiduissa väestöryhmissä, mutta suurempia tutkimuksia tarvitaan.",
+        "is": "Frumkvæð rannsókn (n=5) kannaði MDMA-studdan sálfreðingu fyrir átropaðar einkenni tengd mismuni með því að nota Trauma Symptoms of Discrimination Scale. Pöruð t-próf sýndi 38% minnkun á stigum (p=.046, Cohen's d=1.28). Allir þátttakendur tilkyntu um augljósa framför yfir mismunandi þjóðernislegum bakgrunni og sögu mismunar. Niðurstöðurnar benda til þess að MDMA-studd sálfreyðing geti minnkað átropaðar einkenni tengd mismuni hjá jaðarsettum hópum, en þörf er á stærri rannsóknum.",
+        "et": "Esialgne uuring (n=5) uuris MDMA-abil toetatud psühhoterapeiat diskrimineerimisega seotud traumasümptomite korral, kasutades Trauma Symptoms of Discrimination Scale'i. Paaris t-test näitas 34% langust skoorides (p=.046, Cohen's d=1.28). Kõik osalejad teatanud märgatavast paranemisest erinevate etniliste taustade ja diskrimineerimisloo lõikes. Tulemused viitavad sellele, et MDMA-abil toetatud psühhoteraapia võib vähendada diskrimineerimisega seotud traumat marginaliseeritud elanikkonna seas, kuid suuremaid uuringuid on vaja.",
+        "lv": "Preliminārā pētījumā (n=5) tika pētīta MDMA-atbalstīta psihoterapija diskriminācijas saistītiem traumas simptomiem, izmantojot Trauma Symptoms of Discrimination Scale. Pārī salīdzinošais t-tests parādīja 38% punktu samazinājumu (p=.046, Cohen's d=1.28). Visi dalībnieki ziņoja par ievērojamiem uzlabojumiem dažādās etniskajās pamatnēs un diskriminācijas vēsturē. Rezultāti liecina, ka MDMA-atbalstīta psihoterapija var samazināt diskriminācijas izraisītu trauma marginalizētajās populācijās, taču nepieciešami lielāki pētījumi.",
+        "lt": "Preliminariame tyrime (n=5) buvo tiriama MDMA-remonta psichoterapija diskriminacijos susijusiems traumos simptomams gydyti, naudojant Trauma Symptoms of Discrimination Scale. Porintas t-testas parodė 38% taškų sumažėjimą (p=.046, Cohen's d=1.28). Visi dalyviai pranešė apie reikšmingus pagerinimus skirtingose etninėse pagrindose ir diskriminacijos istorijose. Rezultatai rodo, kad MDMA-remonta psichoterapija gali sumažinti diskriminacijos sukeltą traumą marginalizuotose populiacijose, tačiau reikalingi didesni tyrimai."
+      },
+      "notable": false,
+      "notable_reasons": null,
+      "relevance_score": 4,
+      "study_type": "case_report",
+      "substances": [
+        "mdma"
+      ],
+      "added_at": "2026-07-12T08:37:13.075374+00:00"
+    },
+    {
+      "title": "Brain-targeted epigenetic effects of two emerging psychoplastogens: ketamine & MDMA.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42436129/",
+      "source": "PubMed",
+      "date": "2026-07-11",
+      "authors": [
+        "Semple Moira G",
+        "Mennenga Sarah E",
+        "Smith Ryan"
+      ],
+      "doi": "10.1038/s41398-026-04191-3",
+      "summaries": {
+        "en": "Brain-targeted epigenetic study examined DNA methylation changes in 20 ketamine and 16 MDMA clinical trial participants. Both psychoplastogens altered 300+ genes each, with convergent effects on neuroplasticity and neuroimmune pathways. Blood and saliva samples analyzed pre/post-treatment using linear mixed-effects models reveal peripheral epigenetic mechanisms underlying therapeutic effects for mood and trauma disorders.",
+        "sv": "Epigenetisk studie undersökte DNA-metyleringförändringar hos 20 ketamin- och 16 MDMA-försökspersoner från kliniska prövningar. Båda psykoplastogena förändrade 300+ gener vardera med konvergenta effekter på neuroplasticitet och neuroimmun signalering. Blod- och salivprover analyserades före/efter behandling med linjära mixade modeller, vilket avslöjar perifera epigenetiska mekanismer bakom terapeutiska effekter vid humör- och traumatiska störningar.",
+        "no": "Epigenetisk studie undersøkte DNA-metyleringendringer hos 20 ketamin- og 16 MDMA-deltakere fra kliniske studier. Begge psykoplastogener endret 300+ gener hver med konvergente effekter på neuroplastisitet og neuroimmun signalering. Blod- og spyttprøver analysert før/etter behandling med lineære blandede modeller avslørte perifere epigenetiske mekanismer bak terapeutiske effekter ved humør- og traumarelaterte lidelser.",
+        "da": "Epigenetisk studie undersøgte DNA-metyleringændringer hos 20 ketamin- og 16 MDMA-deltagere fra kliniske forsøg. Begge psykoplastogens ændrede 300+ gener hver med konvergente effekter på neuroplasticitet og neuroimmun signalering. Blod- og spytprøver analyseret før/efter behandling med lineære blandede modeller afslørede perifera epigenetiske mekanismer bag terapeutiske effekter ved humør- og traumarelaterede lidelser.",
+        "fi": "Epigeneettinen tutkimus tutki DNA-metylaatiomuutoksia 20 ketamiini- ja 16 MDMA-osallistujalla kliinisistä tutkimuksista. Molemmat psykoplastogeenityypit muuttivat 300+ geeniä kullakin konvergenteilla vaikutuksilla neuroplastisuuteen ja neuroimmunisignalointiin. Veri- ja sylkinäytteitä analysoitiin ennen/jälkeen hoitoa lineaaristen sekoitettujen mallien avulla paljastamalla perifeeriset epigeneettisen mekanismit psyykkisten ja traumaattisten häiriöiden terapeuttisille vaikutuksille.",
+        "is": "Erfðabreytingarannsókn skoðaði DNA-methylaríðarbreytingar hjá 20 ketamín- og 16 MDMA-þátttakendum frá klínískum rannsóknum. Báðir sálfélagsmyndendur breyttu 300+ genum hvor um sig með samhliða áhrifum á taugasveigjanlega og taugaómskerfi-stjórnun. Blóð- og beykjusýni greind fyrir/eftir meðferð með línulegum blönduðum líkönum, sem afhjúpa ytra erfðabreytingaaðferðir að baki heilandi áhrifum við þunglyndi og átrofa tengdum truflunum.",
+        "et": "Epigeneetiline uuring uuris DNA-metülatsioonide muutuseid 20 ketamiini- ja 16 MDMA-osalejate seas kliinikalistest katsetes. Mõlemad psühhoplastogeenid muutsid 300+ geeni kummaski, millel olid koondunud mõjud neuroplastitchusele ja neuroimmunvalitsemisele. Enne/pärast ravi analüüsitud veri- ja sülgiproovid lineaarsete segamudelitega paljastavad perifeersesd epigeneetilised mehhanismid psüühiliste ja traumaassotsiatsiooniga häirete ravitoimete taga.",
+        "lv": "Epigenētiska pētījuma DNA-metilēšanas izmaiņas tika pārbaudītas 20 ketamīna un 16 MDMA klīnisko pētījumu dalībniekiem. Abi psihoplastogēni modificēja 300+ gēnus ar konverģentiem efektiem uz neuropātiskumu un neuroimmūnās regulācijas ceļiem. Asins un siekaļu paraugi analizēti pirms/pēc ārstēšanas ar lineārajiem jauktajiem modeļiem, kas atklāj perifēros epigenētiskos mehānismus aiz emocionālo un traumas saistīto traucējumu terapeitiskajiem efektiem.",
+        "lt": "Epigeninė studija tyrinėjo DNR metilinimo pokyčius 20 ketamino ir 16 MDMA klinikinių bandymų dalyvių. Abu psichoplastogenus modifikavo 300+ genu su susiliejusiais efektais neuroplastingumui ir neuroimuniniam reguliavimui. Kraujo ir seilių mėginiai analizuoti prieš/po gydymo naudojant linijnius mišrius modelius, atskleisdami periferinių epigenetinių mechanizmų susidarymą už psichikos ir traumų sutrikdymų terapinių efektų."
+      },
+      "notable": false,
+      "notable_reasons": null,
+      "relevance_score": 4,
+      "study_type": "observational",
+      "substances": [
+        "ketamine",
+        "mdma"
+      ],
+      "added_at": "2026-07-12T08:37:13.075374+00:00"
+    },
+    {
+      "title": "Epigenetic landscapes of classical psychedelics and ketamine: molecular mechanisms of long-lasting neuromodulation.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42432011/",
+      "source": "PubMed",
+      "date": "2026-07-10",
+      "authors": [
+        "Lin Cong",
+        "Wang Xiaohui"
+      ],
+      "doi": "10.1038/s41380-026-03744-8",
+      "summaries": {
+        "en": "Review examining how classical psychedelics (LSD, psilocybin, DMT, mescaline) and ketamine produce lasting neuroplastic changes through epigenetic mechanisms. Evidence suggests therapeutic effects in neuropsychiatric conditions involve DNA methylation, histone modifications, chromatin restructuring, and non-coding RNA dynamics. Psychedelics modulate metabolic pathways affecting epigenetic cofactors, potentially driving persistent transcriptional changes and enhanced synaptic connectivity, though direct causal evidence remains limited.",
+        "sv": "Översikt av hur klassiska psykedelika (LSD, psilocybin, DMT, meskalin) och ketamin producerar långvariga neuroplastiska förändringar genom epigenetiska mekanismer. Evidens tyder på att terapeutiska effekter vid neuropsykiatriska tillstånd involverar DNA-metylering, histonmodifikationer, kromatinomstrukturering och icke-kodande RNA-dynamik. Psykedelika modulerar metaboliska vägar som påverkar epigenetiska kofaktorer, potentiellt drivande varaktiga transkriptionella förändringar och förbättrad synaptisk konnektivitet.",
+        "no": "Gjennomgang av hvordan klassiske psykedelika (LSD, psilocybin, DMT, meskalin) og ketamin produserer varige nevroplastiske endringer gjennom epigenetiske mekanismer. Evidens tyder på at terapeutiske effekter ved neuropsykiatriske tilstander involverer DNA-metylering, histonmodifikasjoner, kromatinrestrukturering og ikke-kodende RNA-dynamikk. Psykedelika modulerer metabolske veier som påvirker epigenetiske kofaktorer, potensielt drivende varige transkripsjonsendringer og økt synaptisk konnektivitet.",
+        "da": "Oversigt over, hvordan klassiske psykedelika (LSD, psilocybin, DMT, meskalin) og ketamin fremkalder varige neuroplastiske ændringer gennem epigenetiske mekanismer. Evidens tyder på, at terapeutiske effekter ved neuropsykiatriske tilstande involverer DNA-methylering, histonmodifikationer, kromatinomstrukturering og ikke-kodende RNA-dynamik. Psykedelika modulerer metabolske veje, der påvirker epigenetiske kofaktorer, potentielt drivende vedvarende transkriptionsændringer og forbedret synaptisk forbindelse.",
+        "fi": "Katsaus siitä, kuinka klassiset psikedeelit (LSD, psilosybiini, DMT, meskaaliini) ja ketamiini tuottavat pitkäkestoisia neuroplastisuuden muutoksia epigeneettisten mekanismien kautta. Tutkimukset viittaavat siihen, että terapeuttiset vaikutukset neuropsykiatrisissa sairauksissa liittyvät DNA-metylaatioon, histonimuokkauksiin, kromatiinier-järjestelyyn ja ei-koodaavan RNA:n dynamiikkaan. Psikedediilit säätävät aineenvaihdunnan reittejä, jotka vaikuttavat epigeneettisiin kofaktoreihin, mahdollisesti aikaansaaden pysyviä transkriptiomuutoksia ja lisääntynyttä synaptista kytkentää.",
+        "is": "Yfirlit yfir því hvernig klassísk heillaleyfir (LSD, psilosýbín, DMT, meskalín) og ketamín framleiða varanleg taugaplastiski breytingar gegnum erfðabreytingar. Vísbendingar benda til þess að meðferðaráhrif við taugasálarfræðileg ástand feli í sér DNA-methyleringu, histone breytingar, krómótin-endurskipulagningu og virkningu RNA-bita. Heillaleyfir stjórna efnaskiptavegum sem hafa áhrif á erfðabreytingar, sem hugsanlega knýja fram varanleg tjáningabreytingar og bettri samskipti milli taugaflokka.",
+        "et": "Ülevaade sellest, kuidas klassikalised psihhodeeliumid (LSD, psiilotsibiin, DMT, meskaliin) ja ketamiin põhjustavad püsivaid neuroplastitrilisi muutusi epigeneetiliste mehhanismide kaudu. Tõendid viitavad sellele, et neuropsühhiaatriliste seisundite terapeutilised mõjud hõlmavad DNA-metüleerimet, histone muutuseid, kromatuumi ümberstruktureerimist ja mittekodeerivate RNA-de dünaamikat. Psihhodeeliumid reguleerivad ainevahetusradasid, mis mõjutavad epigeneetilisi kofaktoreid, potentsiaalselt põhjustades püsivaid transkriptsioonilisi muutuseid ja tugevdatud sünaptilist ühendust.",
+        "lv": "Pārskats par to, kā klasiski psihodeļi (LSD, psilocibīns, DMT, meskalīns) un ketamīns izraisa ilgstošas neiroplastitātes izmaiņas caur epigenētiķiem mehānismiem. Pierādījumi liecina, ka terapeitiski efekti neuropsiholoģiskos stāvokļos ietver DNS metilēšanu, histona modifikācijas, hromatīna pārkārtošanu un ne-kodējošo RNS dinamiku. Psihodeļi modulē vielmaiņas ceļus, kas ietekmē epigenētiskos kofaktorus, potenciāli izraisot pastāvīgas transkripcijas izmaiņas un uzlabotu sinaptisku savienojamību.",
+        "lt": "Apžvalga, kaip klasikiniai psichedelikai (LSD, psilocibinas, DMT, meskalinas) ir ketaminas sukelia ilgalaikius neurioplastingumo pokyčius per epigenetinių mechanizmų. Įrodymai rodo, kad terapiniai efektai neuropsichiatriniuose būkliuose yra susiję su DNR metiliavimu, histono modifikacijomis, chromatino pertvarkymu ir nekoduojančių RNR dinamika. Psichedelikai moduliuoja medžiagų apykaitos kelius, turinčius įtakos epigenetiniams kofaktoriams, potencialiai sukeliant pastovius transkripcijos pokyčius ir stipresnį sinaptinį ryšį."
+      },
+      "notable": false,
+      "notable_reasons": null,
+      "relevance_score": 4,
+      "study_type": "review",
+      "substances": [
+        "lsd",
+        "psilocybin",
+        "mescaline",
+        "ketamine",
+        "other"
+      ],
+      "added_at": "2026-07-12T08:37:13.075374+00:00"
     },
     {
       "title": "Personality changes following first-time psychedelic use in college students in Germany.",
@@ -962,6 +1059,36 @@
       "added_at": "2026-07-10T09:58:44.570754+00:00"
     },
     {
+      "title": "Psilocybin-assisted therapy in treatment-resistant depression: rapid remission, uncertain durability, and the next phase of clinical evidence.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42433813/",
+      "source": "PubMed",
+      "date": "2026-06-19",
+      "authors": [
+        "Sabani Astrit",
+        "Khatak Adnan"
+      ],
+      "doi": "10.1097/MS9.0000000000005244",
+      "summaries": {
+        "en": "Psilocybin-assisted therapy shows rapid symptom reduction in treatment-resistant depression (TRD), but long-term durability remains unclear. Early randomized trials demonstrate promising short-term remission rates, yet evidence is limited by small sample sizes, short follow-up periods, and inadequate comparison with established TRD treatments like esketamine and electroconvulsive therapy. Key questions about sustained benefit and effects of repeated dosing remain unanswered.",
+        "sv": "Pslocybin-assisterad terapi visar snabb symptomreduktion vid behandlingsresistent depression (TRD), men långsiktig effekt är oklar. Tidiga randomiserade studier visar lovande remissionsgrader på kort sikt, men evidensen är begränsad av små urvalsstorlekar, kort uppföljning och bristande jämförelse med etablerade behandlingar som esketamin och elektrokrampbehandling. Frågor om långvarig effekt och upprepad dosering återstår besvarade.",
+        "no": "Pslocybin-assistert terapi viser rask symptomreduksjon ved behandlingsresistent depresjon (TRD), men langsiktig effekt er usikker. Tidlige randomiserte studier viser lovende remisjonrater på kort sikt, men evidensen er begrenset av små utvalgsstørrelser, kort oppfølgingstid og utilstrekkelig sammenligning med etablerte behandlinger som esketamin og elektrokonvulsiv terapi. Spørsmål om vedvarende effekt og gjentatt dosering gjenstår ubesvart.",
+        "da": "Pslocybin-assisteret terapi viser hurtig symptomreduktion ved behandlingsresistent depression (TRD), men langsigtet effekt er usikker. Tidlige randomiserede studier viser lovende remissionsrater på kort sigt, men evidensen er begrænset af små stikprøvestørrelser, kort opfølgningsperiode og utilstrækkelig sammenligning med etablerede behandlinger som esketamin og elektrokonvulsiv terapi. Spørgsmål om vedvarende effekt og gentagen dosering forbliver ubesvarede.",
+        "fi": "Pslokybiini-avusteinen terapia osoittaa nopeaa oireen lievittymistä hoitoon vastustuskykyisessä masennuksessa (TRD), mutta pitkäaikainen vaikutus on epäselvä. Varhaiset satunnaistetut tutkimukset osoittavat lupaavia remissioita lyhyellä aikavälillä, mutta todisteet ovat rajoitettuja pienillä otoskoilla, lyhyellä seurantajaksolla ja riittämättömillä vertailuilla vakiintuneisiin hoitoihin kuten esketamiiniin ja elektrokonvulsioterapiaan. Kysymykset kestävästä vaikutuksesta ja toistuvasta annoksesta jäävät vastaamatta.",
+        "is": "Psílosýbín-aðstoðarmeðferð sýnir hraðar einkennum á meðferðarónæmri þunglyndi (TRD), en langtímaáhrif eru óviss. Snemmbúin tilraunir með handahófskenndu vali sýna ábatasama endurkoma á stuttum tíma, en sönnunargögn eru takmörkuð með litlum úrtaksstærðum, stuttu eftirfylgni og ófullnægjandi samanburði við staðfesta meðferðir eins og esketamín og rafkrampa. Spurningar um viðvarandi áhrif og endurtekin skammta standa óleyst.",
+        "et": "Psilotsibiini-abistatud teraapia näitab kiireid sümptomite vähendamisi ravi-resistentsel depressionil (TRD), kuid pikaajaline tõhusus jääb ebaselgeks. Varastes juhuslikustatud uuringutes on näidatud lootustandvad remissioonimäärad lühiajaliselt, kuid tõendid on piiratud väikeste valimite, lühikese jälgimisperioodiga ja piisava võrdluseta kehtestatud ravidega nagu esketamiin ja elektrokonvulsiivne teraapia. Küsimused pikaajaliste tulemuste ja korduvate annuste kohta jäävad lahendamata.",
+        "lv": "Psilocibīna-asistenēta terapija parāda ātru simptromu samazināšanos ārstēšanai rezistentas depresijas (TRD) gadījumā, tomēr ilgtermiņa efektivitāte paliek neskaidra. Agrīnie randomizētie pētījumi parāda daudzsološus remisijas rādītājus īstermiņā, bet pierādījumi ir ierobežoti ar maziem izlases lielumiem, īsu uzraudzības periodu un nepietiekamu salīdzinājumu ar etablētām ārstēšanas metodēm, piemēram, esketamīnu un elektrokonvulsīvo terapiju. Jautājumi par ilgstošu efektu un atkārtotu devu paliek neatbildēti.",
+        "lt": "Psilocibino-pagalbinė terapija rodo greitą simptomų sumažėjimą esant atsparioms depresijoms (TRD), tačiau ilgalaikis efektyvumas lieka neaiškus. Ankstyvaisiais atsitiktiniais tyrimais nustatytas žadantis remisijos rodikliai trumpuoju laikotarpiu, tačiau patikimumas apribotas mažomis imtimis, trumpu stebėjimo laikotarpiu ir nepakankamu palyginimą su nustatytais gydymais, tokiais kaip esketaminas ir elektrospazmų terapija. Klausimai apie ilgalaikį efektą ir pakartotą dozavimą lieka neatsako."
+      },
+      "notable": false,
+      "notable_reasons": null,
+      "relevance_score": 4,
+      "study_type": "other",
+      "substances": [
+        "psilocybin"
+      ],
+      "added_at": "2026-07-12T08:37:13.075374+00:00"
+    },
+    {
       "title": "Development and validation of a short-form (6-item) version of the clinician-administered dissociative states scale (CADSS-SF).",
       "url": "https://doi.org/10.1080/20008066.2026.2678662",
       "source": "Europe PMC",
@@ -1707,29 +1834,6 @@
       "study_type": "preclinical",
       "substances": [
         "ketamine"
-      ]
-    },
-    {
-      "title": "Pα+ Psychedelic Bulletin #226: The Ethics of Psilocybin for Advanced Alzheimer’s; Veterans’ Views on Psychedelics",
-      "url": "https://psychedelicalpha.com/news/p%ce%b1-psychedelic-bulletin-226-the-ethics-of-psilocybin-for-advanced-alzheimers-veterans-views-on-psychedelics/",
-      "source": "Psychedelic Alpha",
-      "date": "",
-      "summaries": {
-        "en": "A case report in Frontiers in Neuroscience describes an 80-year-old woman with advanced Alzheimer's who received psilocybin, generating media interest. However, the article examines ethical considerations surrounding psychedelic use in late-stage dementia, questioning whether individual case reports warrant clinical optimism. The bulletin also covers veterans' perspectives on psychedelics.",
-        "sv": "En fallrapport i Frontiers in Neuroscience beskriver en 80-årig kvinna med långt framskriden Alzheimers som fick pslocybin, vilket väckte mediaintresse. Artikeln granskar dock etiska överväganden kring psykedelikaanvändning vid långt framskriden demens och ifrågasätter om enskilda fallrapporter motiverar klinisk optimism. Bulletinen täcker även veteraners syn på psykedelika.",
-        "no": "En caserapport i Frontiers in Neuroscience beskriver en 80 år gammel kvinne med fremskreden Alzheimers som fikk psilocybin, noe som vekket medieinteresse. Artikkelen undersøker imidlertid etiske betraktninger rundt psykedelikabruk ved langt fremskreden demens, og stiller spørsmål ved om enkelte caserapporter rettferdiggjør klinisk optimisme. Bulletinen dekker også veteraners perspektiver på psykedelika.",
-        "da": "En caseberetning i Frontiers in Neuroscience beskriver en 80-årig kvinde med fremskreden Alzheimers, som fik psilocybin, hvilket vakte medieopmærksomhed. Artiklen undersøger dog etiske overvejelser omkring psykedelikaanvendelse ved fremskreden demens og stiller spørgsmålstegn ved, om enkelte caseberetninger retfærdiggør klinisk optimisme. Bulletinen dækker også veteraners syn på psykedelika.",
-        "fi": "Frontiers in Neuroscience -lehdessä julkaistu tapausraportti kuvaa 80-vuotiasta naista, jolla on pitkälle edennyt Alzheimerin tauti ja joka sai psilo­sybiinia. Raportti herätti mediahuomiota, mutta artikkelissa tarkastellaan psykedeliikan käytön eettisiä näkökohtia myöhäisen vaiheen dementiassa ja kyseenalaistetaan, ovatko yksittäiset tapausraportit kliinisen optimismin oikeutuksena. Bulletiini käsittelee myös veteraanien näkemyksiä psykedeliikoista.",
-        "is": "Tilfellaskýrsla sem birt var í Frontiers in Neuroscience lýsir 80 ára gömlu konu með framofinna Alzheimer's sjúkdóm sem fékk psílocýbín, sem vakti athygli fjölmiðla. Greinin rannsakar þó siðfræðileg álitamál um notkun geðrofa-virkra efna við langt komna heilakfiknun og efast um hvort einstakar tilfellaskýrslur réttlæti klíníska bjartsýni. Tilkynningin fjallar einnig um skoðanir vopnahléguð á geðrofa-virkum efnum.",
-        "et": "Frontiers in Neuroscience avaldatud juhtumiaruandest kirjeldatakse 80aastast naist koos arenenud Alzheimeri tõvega, kes sai psilotsibiini ning pälvis meedia tähelepanu. Artiklis analüüsitakse aga psühhedeelikumide kasutamise eetilisi aspekte arenenud dementsusega seisundites ja küsitakse, kas üksikud juhtumiaruanded õigustaksid kliinilist optimismi. Bülletään käsitleb ka veteranide seisukohti psühhedeelikumide suhtes.",
-        "lv": "Žurnālā Frontiers in Neuroscience publicēts gadījuma ziņojums apraksta 80 gadus vecu sievieti ar progresējošu Alzheimera slimību, kura saņēma psilocibiīnu un piesaistīja mediju uzmanību. Tomēr artikulā tiek pārbaudīti ētiskas apsvērumi par psihodeliku lietošanu progresējošas demences gadījumos un apšaubīts, vai atsevišķi gadījuma ziņojumi attaisno klīnisko optimismu. Biļetens aplūko arī veterānu viedokļus par psihodelikām.",
-        "lt": "Žurnale Frontiers in Neuroscience paskelbtas klinikinės atestacijos ataskaita aprašo 80 metų moterį su pažengusia Alzheimerio liga, gavusią psilocibiną, kuris susilaukė žiniasklaidos dėmesio. Straipsnyje tačiau nagrinėjamos etinės psichedelikų naudojimo aspektai esant pažengusiai demencijai ir ginčijama, ar atskirai klinikinės ataskaitos pateisinamos klinikinius optimizmą. Biuletenis taip pat aptaria veteranų požiūrį į psichedelikus."
-      },
-      "added_at": "2026-06-29T11:30:32.710936+00:00",
-      "relevance_score": 3,
-      "study_type": "other",
-      "substances": [
-        "psilocybin"
       ]
     }
   ]

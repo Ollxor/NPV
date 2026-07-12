@@ -1,7 +1,57 @@
 {
-  "date": "2026-07-11",
-  "cached_at": "2026-07-11T07:51:38.932492+00:00",
+  "date": "2026-07-12",
+  "cached_at": "2026-07-12T08:13:10.365805+00:00",
   "articles": [
+    {
+      "title": "Changes in trauma symptoms of discrimination after MDMA-assisted psychotherapy for posttraumatic stress disorder.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42436172/",
+      "source": "PubMed",
+      "abstract": "This preliminary study explored the effects of MDMA-assisted therapy on trauma symptoms related to discrimination, as measured by the Trauma Symptoms of Discrimination Scale (TSDS). A total of five diverse participants, who experienced multiple types of discrimination (e.g., gender, racial/ethnic, social class, age, sexual orientation), were assessed before and after treatment. A paired-samples t-test indicated a significant reduction in TSDS scores following therapy, with mean scores decreasing by 38% (t(4) = 2.85, p = .046). The effect size was large (Cohen's d = 1.28), though this estimate should be interpreted cautiously given the small sample size. All participants reported marked improvements in discrimination related trauma symptoms following MDMA-assisted therapy in this sample, and across different racial/ethnic identities and discrimination histories. These findings provide preliminary evidence that MDMA-assisted therapy may effectively alleviate discrimination-related trauma in marginalized populations. We discuss the importance of culturally-informed treatment approaches for psychedelic-assisted psychotherapy. These early results warrant further investigation in larger, more diverse cohorts.",
+      "date": "2026-07-11",
+      "authors": [
+        "Williams Monnica T",
+        "Faber Sonya C",
+        "Sloshower Jordan"
+      ],
+      "doi": "10.1038/s41598-026-59333-w"
+    },
+    {
+      "title": "Brain-targeted epigenetic effects of two emerging psychoplastogens: ketamine & MDMA.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42436129/",
+      "source": "PubMed",
+      "abstract": "Psychoplastogen compounds such as ketamine and MDMA have shown therapeutic promise for mood and trauma-related disorders, yet the molecular mechanisms underlying their effects remain poorly understood. Here, we applied a Brain-Epigenome-Wide Association Study (BEWAS) targeting brain-relevant genes to examine DNA methylation changes following treatment. Pre- and post-treatment blood (ketamine, N = 20) and saliva (MDMA, N = 16) samples were collected from clinical trial participants. Treatment effects were assessed using repeated-measures linear mixed-effects models accounting for inter-individual baseline methylation differences, followed by gene- and network-level analyses. Ketamine and MDMA were associated with 405 and 346 significantly altered genes, respectively, alongside enrichment of 169 and 183 functional networks. Across both compounds, altered loci converged on pathways related to neuroplasticity and neuroimmune regulation. Together, these findings provide evidence that ketamine and MDMA induce peripheral epigenetic changes, highlighting their capacity to engage molecular pathways relevant to psychiatric health.",
+      "date": "2026-07-11",
+      "authors": [
+        "Semple Moira G",
+        "Mennenga Sarah E",
+        "Smith Ryan"
+      ],
+      "doi": "10.1038/s41398-026-04191-3"
+    },
+    {
+      "title": "Psilocybin-assisted therapy in treatment-resistant depression: rapid remission, uncertain durability, and the next phase of clinical evidence.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42433813/",
+      "source": "PubMed",
+      "abstract": "Treatment-resistant depression (TRD) remains a major clinical challenge and is typically defined as the persistence of depressive symptoms despite at least two adequate antidepressant trials. Individuals with TRD experience substantial morbidity, impaired functioning, and elevated suicide risk, highlighting the need for therapeutic strategies beyond incremental refinements of conventional monoaminergic pharmacotherapy. Psilocybin-assisted therapy has recently emerged as a mechanistically distinct intervention, combining transient 5-HT2A receptor agonism with structured psychological support delivered in supervised sessions. Early randomized trials have demonstrated rapid reductions in depressive symptoms and encouraging short-term remission rates, primarily in patients with major depressive disorder, with more limited but emerging evidence in treatment-resistant populations. However, the central clinical question is not merely whether psilocybin can produce acute improvement, but whether these effects can be sustained without cumulative harm. Current evidence remains limited by modest sample sizes, relatively short follow-up periods, challenges in maintaining blinding, and limited comparisons with established TRD interventions such as esketamine, electroconvulsive therapy, and transcranial magnetic stimulation. The durability of benefit beyond several weeks remains an open clinical question, and the implications of repeated dosing are not yet well established. In addition, implementation demands substantial therapeutic infrastructure, raising questions regarding scalability, cost, and equitable access. Future research should prioritize standardized definitions of treatment resistance, recognition of clinical heterogeneity within TRD populations, longer-term outcomes, rigorous active comparators, improved trial methodology, safety monitoring, and cost-effectiveness analyses to determine the appropriate clinical role of psilocybin-assisted therapy.",
+      "date": "2026-06-19",
+      "authors": [
+        "Sabani Astrit",
+        "Khatak Adnan"
+      ],
+      "doi": "10.1097/MS9.0000000000005244"
+    },
+    {
+      "title": "Epigenetic landscapes of classical psychedelics and ketamine: molecular mechanisms of long-lasting neuromodulation.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42432011/",
+      "source": "PubMed",
+      "abstract": "Classic psychedelics such as lysergic acid diethylamide (LSD), psilocybin, N,N-dimethyltryptamine (DMT), and mescaline induce lasting changes in neuroplasticity and behavior that extend far beyond their acute pharmacological effects. Emerging evidence highlights that these enduring therapeutic benefits in neuropsychiatric conditions may be significantly mediated through complex epigenetic reprogramming mechanisms, although direct causal evidence remains limited. This review synthesizes current knowledge on how classical psychedelics and the rapid-acting antidepressant ketamine (an NMDA receptor antagonist) influence epigenetic regulation at multiple molecular levels, encompassing DNA methylation and hydroxymethylation, histone post-translational modifications (acetylation, methylation, phosphorylation), nucleosome positioning and higher-order chromatin restructuring, non-coding RNA (ncRNA) dynamics, and RNA epitranscriptomic modifications. Moreover, psychedelics appear to alter metabolic and mitochondrial pathways, thereby modulating the availability and nuclear transport of key epigenetic cofactors, such as acetyl-CoA, S-adenosylmethionine (SAM), and α-ketoglutarate. By integrating these pathways, we propose a unified model wherein psychedelic-induced signaling cascades may intersect with metabolic and epigenetic networks, potentially contributing to persistent transcriptional alterations and enhanced synaptic connectivity. Understanding these intricate mechanisms provides crucial insights into how transient exposure to psychedelics translates into sustained therapeutic outcomes, informing the development of novel neuroepigenetic interventions in molecular psychiatry.",
+      "date": "2026-07-10",
+      "authors": [
+        "Lin Cong",
+        "Wang Xiaohui"
+      ],
+      "doi": "10.1038/s41380-026-03744-8"
+    },
     {
       "title": "Personality changes following first-time psychedelic use in college students in Germany.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42426381/",
@@ -208,58 +258,6 @@
         "Stratton Elizabeth"
       ],
       "doi": "10.1192/bjp.2026.10692"
-    },
-    {
-      "title": "Kynurenine pathway profiles as markers of ketamine response in treatment-resistant depression.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42402321/",
-      "source": "PubMed",
-      "abstract": "Treatment-resistant depression (TRD) remains a major clinical challenge, with highly variable responses to ketamine. Immune activation characterizes a subset of patients with TRD. The kynurenine pathway (KP), which integrates immunometabolic signals with glutamatergic neurotransmission, may provide candidate biomarkers to inform personalized treatment. We investigated whether KP metabolites and ratios are associated with ketamine response and clinical outcomes over time. Thirty adults with TRD received six intravenous ketamine infusions over three weeks. At baseline (D1), after the first infusion (D3), and before the final infusion (D18), we quantified serum tryptophan (TRP), kynurenine (KYN), kynurenic acid (KYNA), 3-hydroxykynurenine (3-HK), and quinolinic acid (QUIN), and assessed depression severity using the Montgomery-Åsberg Depression Rating Scale (MADRS). Higher baseline KYNA was associated with greater symptom improvement at D18 (β = -21.80, β",
-      "date": "2026-07-05",
-      "authors": [
-        "Pedraz-Petrozzi Bruno",
-        "Marszalek-Grabska Marta",
-        "Fornal Emilia"
-      ],
-      "doi": "10.1016/j.bbi.2026.106889"
-    },
-    {
-      "title": "High-order brain interactions during ketamine-induced state changes: A functional marker of response in late-life treatment-resistant depression?",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42401545/",
-      "source": "PubMed",
-      "abstract": "Ketamine is a fast-acting intervention for treatment-resistant depression (TRD), yet only a subset of patients show robust clinical response, and the underlying neural mechanisms remain unclear. High-order interactions (HOI) derived from multivariate information theory provide a framework for examining nonlinear dependencies among brain regions beyond pairwise connectivity. One such metric, the O-information, captures the balance between synergistic and redundant interactions across three or more variables. In this secondary analysis of a randomized, double-blind, midazolam-controlled trial (NCT02556606), we examined EEG-derived HOI in 30 late-life veterans with TRD following a single 40-minute intravenous infusion of ketamine (0.1, 0.25, 0.5 mg/kg; n = 18) or midazolam (0.03 mg/kg; n = 12). Resting state and mismatch negativity data were analyzed at baseline, 1 h, 24 h, and 7 d post-infusion. Ketamine induced temporally dynamic alterations in redundancy-dominant O-info, with maximal effects in the alpha-band at 1 h (Cohen's d = 2.57), attenuation at 24 h that shifted toward the theta-band, and partial resurgence in beta and gamma by Day 7. Linear mixed-effects modeling identified significant group effects across most band x metric families, with the strongest effects in alpha, beta, and gamma redundancy. Greater increases in 24-hour alpha-band redundancy were associated with greater improvement in depressive symptoms at Day 7 (β = 69.31, q = 0.05). HOI metrics also tracked acute dissociative states, with several 24-hour alpha and beta features remaining positively associated with symptom severity after correction. These findings extend prior HOI work in healthy samples to a controlled TRD cohort and suggest that ketamine induces temporally structured reorganization of higher-order brain interactions, with exploratory associations to clinical outcomes.",
-      "date": "2026-07-04",
-      "authors": [
-        "Shah Krisha",
-        "Herzog Rubén",
-        "Swann Alan C"
-      ],
-      "doi": "10.1038/s41398-026-04212-1"
-    },
-    {
-      "title": "Single Ayahuasca administration attenuates alcohol relapse and associated behavioral, neurochemical, and oxidative alterations in rats.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42401369/",
-      "source": "PubMed",
-      "abstract": "Alcohol use disorder (AUD) remains difficult to treat with lasting success, leading to growing interest in alternative therapeutic approaches. Psychedelic compounds such as Ayahuasca, a traditional brew used in Indigenous Amazonian ceremonies containing N,N-dimethyltryptamine (DMT) along with monoamine oxidase-inhibiting β-carbolines, have shown promise in reducing addictive behaviors. Alcohol dependence was induced in Wistar rats through a voluntary ethanol-consumption paradigm (15% and 30% v/v) of 35 days, followed by a deprivation period of 9 days. Subsequently, rats received a single administration of Ayahuasca containing 2.72 mg/kg N,N-dimethyltryptamine, 3.98 mg/kg harmine, 0.20 mg/kg harmaline, and 3.72 mg/kg tetrahydroharmine or water by gavage, and a relapse protocol of 9 days evaluated relapse-like ethanol intake. Subsequently, rats underwent behavioral testing to assess anxiety- and depressive-like behavior using the elevated plus maze, open field test, splash test, and forced swim test. The levels of dopamine (DA), serotonin (5-HT), brain-derived neurotrophic factor (BDNF), antioxidant enzymes (superoxide dismutase (SOD), catalase (CAT), glutathione peroxidase (GPx), and glutathione reductase (GR)) activities, and oxidative stress biomarkers (2',7'-dichlorodihydrofluorescein (DCFH) oxidation and thiobarbituric acid reactive substances (TBARS) levels) were assessed in the frontal cortex, hippocampus and striatum 15 days after Ayahuasca administration. A single Ayahuasca administration reduced relapse-like ethanol intake in a sex- and concentration-dependent manner; attenuated alcohol-induced anxiety- and depressive-like behavioral alterations, despite limited evidence of locomotor/exploratory changes; increased striatal DA levels in alcohol-exposed males and females and restored cortical 5-HT levels primarily in males; and partially mitigated alcohol-associated reductions in BDNF levels in a region- and sex-dependent manner. Antioxidant enzyme activities did not show consistent treatment-related modulation, whereas oxidative stress markers (DCFH and TBARS) were reduced in the frontal cortex, hippocampus, and striatum following Ayahuasca administration. However, some oxidative stress and BDNF outcomes showed partial rather than complete normalization. Sex-dependent effects were observed for selected ethanol-intake, neurochemical, BDNF, and oxidative-stress outcomes. Ayahuasca reduced alcohol intake during relapse and attenuated several alcohol-induced behavioral, neurochemical, neurotrophic, and oxidative disturbances in a preclinical model of alcohol dependence, withdrawal, and relapse. These findings suggest modulation of neurobiological pathways disrupted by chronic alcohol exposure, while highlighting region- and sex-dependent effects and incomplete normalization for selected outcomes. Dose-response, longitudinal, and mechanistic studies are warranted, alongside controlled clinical studies evaluating safety and efficacy in AUD.",
-      "date": "2026-07-04",
-      "authors": [
-        "Lodetti Guilherme",
-        "de Bitencourt Rafael Mariano",
-        "Inserra Antonio"
-      ],
-      "doi": "10.1016/j.pnpbp.2026.111817"
-    },
-    {
-      "title": "Comparative efficacy and acceptability of pharmacological interventions for postpartum depression: a systematic review and network meta-analysis.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42401022/",
-      "source": "PubMed",
-      "abstract": "Pharmacological treatment for postpartum depression (PPD) have mainly involved conventional antidepressants, RCTs have also evaluated rapid-acting glutamatergic agents, neuroactive steroids, hormonal therapies, and botanical preparations. An updated comparative synthesis of these treatments is therefore needed. To synthesize RCT evidence and compare the efficacy, response, remission, acceptability, and safety of pharmacological interventions for PPD. Two reviewers independently extracted data and assessed risk of bias. A frequentist random-effects network meta-analysis was conducted to integrate direct and indirect evidence across interventions. 18 trials (N = 1722) were included. Compared with placebo, saffron (SMD -1.07, 95% CI -1.52 to -0.61), fluoxetine (SMD -0.95, 95% CI -1.43 to -0.47), esketamine (SMD -0.63, 95% CI -0.89 to -0.37), brexanolone, and zuranolone showed signals of improvement in depressive symptom severity. Fluoxetine, saffron, and zuranolone were associated with higher response rates, although the estimates for fluoxetine and saffron were imprecise. Brexanolone was the only intervention showing a statistically significant improvement in remission. Based on all-cause discontinuation, brexanolone may have a potentially unfavourable acceptability signal. Zuranolone was associated with an increased incidence of adverse events. Given the sparse networks and mostly low-to-moderate certainty of evidence, SUCRA rankings should be interpreted cautiously as exploratory findings. Current RCT evidence suggests that saffron, fluoxetine, esketamine, brexanolone, and zuranolone may improve symptoms of PPD. Brexanolone may have a potentially unfavourable acceptability signal, while zuranolone was associated with increased adverse event incidence. However, the evidence is limited by sparse networks, limited active-comparator evidence, imprecision in some estimates, and clinical heterogeneity, and should therefore be interpreted with caution.",
-      "date": "2026-07-01",
-      "authors": [
-        "Xiao Yao",
-        "Xie Ping",
-        "Li Danlei"
-      ],
-      "doi": "10.1016/j.psychres.2026.117318"
     },
     {
       "title": "Pα+ Psychedelic Bulletin #227: A Closer Look at Compass’ 6-Month Data; AtaiBeckley Deal Update; ‘Rysanso’ Brand MDMA?",
@@ -574,7 +572,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2018-004480-31/CZ",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-07-11",
+      "date": "2026-07-12",
       "authors": [],
       "doi": ""
     },
@@ -583,7 +581,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2020-005037-32/CZ",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-07-11",
+      "date": "2026-07-12",
       "authors": [],
       "doi": ""
     },
@@ -592,7 +590,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2021-002909-10/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-07-11",
+      "date": "2026-07-12",
       "authors": [],
       "doi": ""
     },
@@ -601,7 +599,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2015-000550-37/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-07-11",
+      "date": "2026-07-12",
       "authors": [],
       "doi": ""
     },
@@ -610,7 +608,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2021-000041-40/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-07-11",
+      "date": "2026-07-12",
       "authors": [],
       "doi": ""
     },
@@ -619,7 +617,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2020-000829-55/DK",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-07-11",
+      "date": "2026-07-12",
       "authors": [],
       "doi": ""
     },
@@ -628,7 +626,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2020-002790-94/SE",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-07-11",
+      "date": "2026-07-12",
       "authors": [],
       "doi": ""
     },
@@ -637,7 +635,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2021-006200-33/FI",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-07-11",
+      "date": "2026-07-12",
       "authors": [],
       "doi": ""
     },
@@ -646,7 +644,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2019-004812-73/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-07-11",
+      "date": "2026-07-12",
       "authors": [],
       "doi": ""
     },
@@ -655,7 +653,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2022-002369-14/BE",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-07-11",
+      "date": "2026-07-12",
       "authors": [],
       "doi": ""
     },

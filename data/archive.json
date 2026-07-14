@@ -1,6 +1,99 @@
 {
   "items": [
     {
+      "title": "Combined DMT-harmine formulation reduces negative self-referential emotions during social self-evaluation: a randomized placebo-controlled trial in healthy volunteers.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42443620/",
+      "source": "PubMed",
+      "date": "2026-07-14",
+      "authors": [
+        "Aicher Helena D",
+        "Dornbierer Joëlle",
+        "Caflisch Luzia"
+      ],
+      "doi": "10.1007/s00213-026-07118-4",
+      "summary_en": "Randomized placebo-controlled crossover trial (N=28) examining combined DMT-harmine on self-referential emotions. Participants rated embarrassment and shame while listening to recordings of their own singing versus control vocals using visual analogue scales and the Experiential Shame Scale. HAR/DMT significantly reduced embarrassment compared to placebo in self-listening condition (p=.001), with no effect in control conditions. Harmine alone showed no significant effects.",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "rct",
+      "substances": [
+        "ayahuasca"
+      ],
+      "added_at": "2026-07-14T08:33:25.065058+00:00"
+    },
+    {
+      "title": "Acceptability and safety of two sequential doses of psilocybin in bipolar II depression: protocol for an open-label single-arm feasibility study.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42442821/",
+      "source": "PubMed",
+      "date": "2026-07-13",
+      "authors": [
+        "Meyer Thomas D",
+        "Vale Lauren N",
+        "Ibrahim Maya"
+      ],
+      "doi": "10.1136/bmjopen-2026-118471",
+      "summary_en": "Open-label feasibility study examining acceptability and safety of two sequential 25 mg psilocybin doses in 10 patients with bipolar II depression and suicidal ideation. Doses given 4 weeks apart with structured psychotherapy based on mindfulness cognitive-behavioural therapy. Addresses treatment gap in bipolar II, where standard pharmacotherapy often proves inadequate.",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "other",
+      "substances": [
+        "psilocybin"
+      ],
+      "added_at": "2026-07-14T08:33:25.065058+00:00"
+    },
+    {
+      "title": "Enhancing plasticity to treat depression and other central nervous system diseases using event-driven pharmacology.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42438931/",
+      "source": "PubMed",
+      "date": "2026-07-13",
+      "authors": [
+        "Gould Todd D",
+        "Mathew Sanjay J",
+        "Fava Maurizio"
+      ],
+      "doi": "10.1177/02698811261456206",
+      "summary_en": "Event-driven pharmacology proposes that plastogens—substances including ketamine and classical psychedelics—produce sustained neuroplastic effects from brief drug exposure, contrasting traditional occupancy-driven models. These compounds activate synaptic machinery and metaplasticity, potentially offering rapid-acting antidepressant benefits with fewer side effects than drugs requiring prolonged receptor occupancy.",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "review",
+      "substances": [
+        "ketamine",
+        "psilocybin"
+      ],
+      "added_at": "2026-07-14T08:33:25.065058+00:00"
+    },
+    {
+      "title": "Keeping Up with the Feds: From FDA to HRSA, Washington Backs Psychedelics",
+      "url": "https://psychedelicalpha.com/news/keeping-up-with-the-feds-from-fda-to-hrsa-washington-backs-psychedelics/",
+      "source": "Psychedelic Alpha",
+      "date": "2026-07-13",
+      "authors": [],
+      "doi": "",
+      "summary_en": "US federal agencies including the FDA and HRSA are increasing support for psychedelic research and therapeutic development. This institutional backing signals growing recognition of hallucinogens' potential in clinical settings, reflecting a shift in regulatory approach toward these compounds.",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "other",
+      "substances": [
+        "other"
+      ],
+      "added_at": "2026-07-14T08:33:25.065058+00:00"
+    },
+    {
+      "title": "FDA Issues Final Psychedelics Guidance, Schedules September Hearing on the Future of Psychedelic Therapies",
+      "url": "https://psychedelicalpha.com/news/fda-issues-final-psychedelics-guidance-schedules-september-hearing-on-the-future-of-psychedelic-therapies/",
+      "source": "Psychedelic Alpha",
+      "date": "2026-07-13",
+      "authors": [],
+      "doi": "",
+      "summary_en": "The FDA has issued final guidance on clinical investigations of psychedelics, building on a June 2023 draft document. The 11-page guidance covers nonclinical research, chemistry and manufacturing, clinical studies, and abuse potential assessments. After three years of stakeholder feedback, the FDA has scheduled a September hearing to discuss the future direction of psychedelic therapies.",
+      "notable": true,
+      "notable_reason": "FDA issues first formal guidance document on psychedelic clinical investigations, a national-level regulatory milestone affecting the entire field.",
+      "study_type": "other",
+      "substances": [
+        "other"
+      ],
+      "added_at": "2026-07-14T08:33:25.065058+00:00"
+    },
+    {
       "title": "Changes in trauma symptoms of discrimination after MDMA-assisted psychotherapy for posttraumatic stress disorder.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42436172/",
       "source": "PubMed",

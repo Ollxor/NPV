@@ -1,7 +1,46 @@
 {
-  "date": "2026-07-13",
-  "cached_at": "2026-07-13T09:21:11.642327+00:00",
+  "date": "2026-07-14",
+  "cached_at": "2026-07-14T07:59:19.284366+00:00",
   "articles": [
+    {
+      "title": "Combined DMT-harmine formulation reduces negative self-referential emotions during social self-evaluation: a randomized placebo-controlled trial in healthy volunteers.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42443620/",
+      "source": "PubMed",
+      "abstract": "Negative self-referential emotions such as embarrassment and shame play a key role in the psychopathology of psychiatric disorders but are often insufficiently addressed by standard treatments. Psychedelics such as ayahuasca - an Amazonian plant decoction containing the psychedelic N,N-dimethyltryptamine (DMT) and harmala alkaloids, have been proposed to positively modulate self-referential processing. The aim of this study was to investigate the effects of an ayahuasca-inspired harmine+DMT formulation and harmine on embarrassment and shame. In this randomized, double-blind, placebo-controlled crossover trial (N = 28 healthy males), the effects of combined 100mg harmine and 100mg DMT (HAR/DMT), harmine alone (HAR), against placebo (PLA) on self-referential processing was investigated using a karaoke paradigm, where participants listened to recordings of their own singing (Self = S) and control vocal tracks (other bad = OB; other good = OG) and rated emotional responses. Acute emotions were assessed with visual analogue scales (items: pleasant, unpleasant, embarrassing, funny, and objective quality) and the Experiential Shame Scale (ESS). HAR/DMT compared to placebo significantly reduced embarrassment in the Self condition (EMM=-16.83, p=.001), but not in the two other conditions (OB: EMM=-4.38, p=.628; OG: EMM= 2.14, p=.894). HAR/DMT-HAR or HAR-PLA contrasts for embarrassment were not significant for any condition. HAR/DMT compared to placebo reduced ESS global score (F(df)= 4.26(2, 54); p=.019) and ESS emotional subscale (F(df)=5.11(2, 54); p=.009), while harmine alone showed no significant effects. These findings suggest that HAR/DMT acutely modulates negative self-referential emotions and may, thus, offer a promising therapeutic approach, which should be further investigated in clinical populations.",
+      "date": "2026-07-14",
+      "authors": [
+        "Aicher Helena D",
+        "Dornbierer Joëlle",
+        "Caflisch Luzia"
+      ],
+      "doi": "10.1007/s00213-026-07118-4"
+    },
+    {
+      "title": "Acceptability and safety of two sequential doses of psilocybin in bipolar II depression: protocol for an open-label single-arm feasibility study.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42442821/",
+      "source": "PubMed",
+      "abstract": "Bipolar II disorder (BD-II) is characterised by hypomanic and depressive episodes with the latter tending to dominate the clinical course of the disorder, and they are often associated with suicidality. Despite available guideline-based recommendations for first-line pharmacological treatments, patient outcomes remain suboptimal, especially for those with chronic depression and suicidal ideation. The dearth of viable treatment options for this population is evident, which is where psychedelics propose an additional alternative path. Psilocybin has recently shown promise in treating major depressive disorder and treatment-resistant depression; however, individuals with bipolar disorder or suicidality are typically excluded from such trials due to safety concerns (ie, risk of emerging suicidal behaviour, psychosis and/or mania). Here, we present the protocol of a study which aims to explore the acceptability, safety and treatment preferences of psilocybin-assisted therapy in patients with BD-II struggling with suicidal ideation. This outpatient, single-site, phase II, single-arm, open-label clinical trial feasibility study will include 10 participants diagnosed with BD-II depression and moderately passive suicidal ideation. Participants may receive up to two oral doses of 25 mg psilocybin, approximately 4 weeks apart, alongside a structured therapeutic protocol (based on mindfulness cognitive-behavioural therapy) that includes preparatory therapy sessions, psychological support during administration and post-treatment integration therapy sessions. The purpose is to examine the acceptability and safety of using psilocybin as a therapeutic for mild to moderate suicidality in patients currently diagnosed with BD-II and to obtain preliminary data on its effects. This will be measured using the following: Primary outcomes include change in suicidality, that is, the Interpersonal Needs Questionnaire and the Columbia Suicide Severity Rating Scale from baseline to main endpoint (3 weeks post initial administration) and feasibility and acceptability (as assessed by number of participants who complete the trial, number of therapy sessions attended and number of assessments completed). Secondary outcomes include changes in the following associated measures: Montgomery-Asberg Depression Rating Scale, Quick Inventory of Depressive Symptomatology, Young Mania Rating Scale, Brief Psychiatric Rating Scale Positive Symptom Subscale, Altman Self-Rating Mania Scale. Findings will also be used to estimate effect sizes and inform the design of a future randomised controlled trial. Ethical approval has been obtained from the UTHealth Committee for the Protection of Human Subjects (CPHS RB# HSC-MS-23-0905). The results of the study will be disseminated to the public (ie, clinicians, researchers, patients and policymakers) through peer-reviewed journals, conferences and scientific meetings and clinical registries. NCT06706232.",
+      "date": "2026-07-13",
+      "authors": [
+        "Meyer Thomas D",
+        "Vale Lauren N",
+        "Ibrahim Maya"
+      ],
+      "doi": "10.1136/bmjopen-2026-118471"
+    },
+    {
+      "title": "Enhancing plasticity to treat depression and other central nervous system diseases using event-driven pharmacology.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42438931/",
+      "source": "PubMed",
+      "abstract": "The occupancy-driven pharmacology model in psychopharmacology has guided drug discovery and development for decades, whereby the goal is stable receptor occupancy over an extended period with a direct relationship of drug exposure to pharmacodynamic and therapeutic response. Event-driven pharmacology (EDP) is a concept where the acute pharmacodynamic actions of a plastogen, a transient binding event, drive changes resulting in sustained pharmacodynamic effects that greatly outlast the time frame of drug exposure. Such plastogens may be neuroplastogens producing a measurable change in neuroplasticity without inducing subjective mental states or psychoplastogens exerting neuroplastic effects in addition to causing dissociation, hallucinations, or psychotomimetic symptoms. Within neuropsychiatry, plastogens have been shown to induce long-lasting neural plasticity and persistently activate synaptic machinery that primes synapses to respond to subsequent stimuli (metaplasticity), often following either a single dose or repeated administration of intermittent doses. Developing rapid-acting plastogens to adhere to a traditional target occupancy dose optimization model that achieves consistent drug target occupancy over an extended period of time may paradoxically exert few or no durable benefits while increasing side effect burden. We review evidence supporting the concept that plastogens, including the rapid-acting antidepressant ketamine and classical psychedelics, operate within the EDP model. With the emergence of EDP, new methods for drug development, clinical dosing, and biomarker adoption will need to be developed to account for distinctive pharmacological actions. Rapid-onset plastogens, rationally administered, have profound potential in the treatment of depression and many other neurological and psychiatric diseases characterized by synaptic dysfunction.",
+      "date": "2026-07-13",
+      "authors": [
+        "Gould Todd D",
+        "Mathew Sanjay J",
+        "Fava Maurizio"
+      ],
+      "doi": "10.1177/02698811261456206"
+    },
     {
       "title": "Changes in trauma symptoms of discrimination after MDMA-assisted psychotherapy for posttraumatic stress disorder.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42436172/",
@@ -69,7 +108,7 @@
       "title": "Psychedelics and the thalamocortical system: A scoping review.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42425276/",
       "source": "PubMed",
-      "abstract": "In recent years, psychedelics have shown promising results as therapeutic interventions for individuals with depression, terminal illnesses, substance use disorder, neurodegenerative diseases, trauma and obsessive-compulsive disorder. Moreover, research involving psychedelics have contributed to the understanding of the neurobiological mechanisms behind the \"psychedelic state of consciousness\" and to the physiological and pathological thalamocortical functioning. Also, there is evidence that several psychiatric conditions-such as depression, schizophrenia, bipolar disorder, and autism-are characterized by alterations in the thalamocortical system. Therefore, a deeper understanding of thalamic function could have significant implications for the psychedelic research field and for biological psychiatry. The aim of this scoping review (using the PRISMA method) was to synthesize the available evidence (preclinical and clinical) on the effects of psychedelics on the thalamocortical system that showed potential for clinical use (specifically NMDA receptor antagonists, serotonin 2 A receptor agonists and mixed-pharmacology compounds like iboga alkaloids). This review discussed findings regarding psychedelic administration and specific effects on thalamocortical connectivity suggesting its importance for clinical practice and for the understanding of psychedelic's neurobiology.",
+      "abstract": "In recent years, psychedelics have shown promising results as therapeutic interventions for individuals with depression, terminal illnesses, substance use disorder, neurodegenerative diseases, trauma and obsessive-compulsive disorder. Moreover, research involving psychedelics have contributed to the understanding of the neurobiological mechanisms behind the \"psychedelic state of consciousness\" and to the physiological and pathological thalamocortical functioning. Also, there is evidence that several psychiatric conditions-such as depression, schizophrenia, bipolar disorder, and autism-are characterized by alterations in the thalamocortical system. Therefore, a deeper understanding of thalamic function could have significant implications for the psychedelic research field and for biological psychiatry. The aim of this scoping review (using the PRISMA method) was to synthesize the available evidence (preclinical and clinical) on the effects of psychedelics on the thalamocortical system that showed potential for clinical use (specifically NMDA receptor antagonists, serotonin 2 A receptor agonists and mixed-pharmacology compounds like iboga alkaloids). This review discussed findings regarding psychedelic administration and specific effects on thalamocortical connectivity suggesting its importance for clinical practice and for the understanding of psychedelic's neurobiology.",
       "date": "2026-07-09",
       "authors": [
         "Villalba Sofía",
@@ -221,43 +260,22 @@
       "doi": "10.1136/bmjopen-2025-114896"
     },
     {
-      "title": "Policy pathways and historical insights: Canada's evolving approach to psychedelic access for end-of-life distress.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42407184/",
-      "source": "PubMed",
-      "abstract": "Canada's evolving attitudes toward psychedelic interventions in palliative and end-of-life care reflect a departure from historically prohibitionist policies and an emerging recognition of their therapeutic potential for individuals facing end-of-life distress. This shift parallels international regulatory developments in jurisdictions such as the United States, Australia and parts of Europe, where cautious policy liberalization has signaled growing acceptance of psychedelics within clinical contexts. Canada is also a relevant case because of its formative role in the development of modern palliative care, its contemporary frameworks emphasizing holistic approaches to suffering at the end of life, and its experience with medical assistance in dying, all of which have shaped national conversations about suffering, autonomy, and end-of-life care. Additionally, Canada's distinctive historical approach to drug regulation-marked by federal flexibility, mechanisms for compassionate access, and responsiveness to patient advocacy-combined with rising public demand and incremental provincial changes, may uniquely position the country along a transitional pathway toward clinical integration of psychedelics in palliative care. At the same time, Canadian drug policy remains heterogeneous across substances and provinces, underscoring the political contingency of reform. Within this dynamic landscape, Canada's psychedelic drug policy trajectory aligns with broader international trends toward cautious medicalization and regulated access to psychedelic therapies, while also offering an instructive case for how end-of-life frameworks and federal-provincial governance shape policy development.",
-      "date": "2026-07-06",
-      "authors": [
-        "Kratina Sarah",
-        "Schwartz Robert",
-        "Strike Carol"
-      ],
-      "doi": "10.1016/j.drugpo.2026.105414"
+      "title": "Keeping Up with the Feds: From FDA to HRSA, Washington Backs Psychedelics",
+      "url": "https://psychedelicalpha.com/news/keeping-up-with-the-feds-from-fda-to-hrsa-washington-backs-psychedelics/",
+      "source": "Psychedelic Alpha",
+      "abstract": "",
+      "date": "2026-07-13",
+      "authors": [],
+      "doi": ""
     },
     {
-      "title": "Ketamine alters the aperiodic EEG exponent in major depression: implications for cortical E/I balance and treatment prediction.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42403511/",
-      "source": "PubMed",
-      "abstract": "Ketamine has emerged as a promising rapid-acting antidepressant for treatment-resistant depression (TRD), yet its mechanisms of action and reliable biomarkers of treatment response remain poorly understood. Recent evidence suggests that the aperiodic exponent (1/f slope) of electroencephalography (EEG) power spectra reflects cortical excitation-inhibition balance (EIB), offering a potential non-invasive marker of treatment outcomes. Our study investigated whether subanesthetic ketamine modulates the EEG aperiodic exponent in patients with major depressive disorder (MDD), most of whom met criteria for TRD. We also examined whether pretreatment aperiodic exponent predicts antidepressant response. A placebo-controlled, single-blind, one-arm, fixed-sequence design without randomization trial of intravenous ketamine infusion in patients with MDD. Twenty-four MDD patients underwent both placebo and ketamine (0.54 mg/kg over 30 min) infusions. Resting-state EEG was recorded pre-, start-, end-, and 24 h post-infusion. Aperiodic exponent (1-40 Hz) was extracted using spectral parameterization. Depressive symptoms were assessed using the Montgomery-Åsberg Depression Rating Scale, with responders defined as ⩾33% symptom reduction 24 h post-infusion. Meta-analysis revealed substantial heterogeneity in ketamine's effect on aperiodic exponents. In our cohort, ketamine significantly reduced the aperiodic exponent across the scalp. Notably, responders exhibited higher pretreatment occipital aperiodic exponents than non-responders. A steeper pretreatment 1/f slope in the occipital region predicted better treatment outcomes. Subanesthetic ketamine alters cortical aperiodic dynamics in MDD, potentially reflecting EIB modulation. The EEG aperiodic exponent, particularly in occipital regions, may serve as a useful biomarker for predicting antidepressant response to ketamine. However, our meta-analysis underscores the complexity and variability of the EEG aperiodic exponent. Future large-scale, multimodal studies are needed to validate and expand on these findings. EudraCT Number: 2013-000952-17 (https://www.clinicaltrialsregister.eu/ctr-search/trial/2013-000952-17/CZ). Using brain wave patterns to predict who benefits from ketamine treatment for depression Ketamine is a fast-acting treatment that can reduce symptoms of severe depression, especially in people who have not improved with standard antidepressants. However, not everyone benefits from ketamine, and doctors currently have no reliable way to predict who will respond. In this study, we explored whether a simple, non-invasive brain test called electroencephalography (EEG) could help identify people who are more likely to improve after ketamine treatment. EEG measures the brain’s natural electrical activity using small sensors placed on the scalp. We focused on a specific pattern in brain activity that reflects the balance between two important brain processes: activation and inhibition. This balance helps regulate healthy brain function and may be altered in depression. Twenty-three adults with major depressive disorder received both placebo and ketamine infusions in a controlled study. We measured their brain activity before, during, and after treatment. We found that ketamine temporarily shifted overall brain activity toward greater activation. Importantly, people who showed stronger inhibitory patterns in the back part of the brain before treatment were more likely to experience improvement in their depression symptoms 24 hours later. These findings suggest that a simple brain wave measure could help predict who is most likely to benefit from ketamine. While more research with larger groups is needed, this approach may eventually support more personalized and targeted treatment decisions for people with difficult-to-treat depression.",
-      "date": "2026-07-03",
-      "authors": [
-        "Liu Yujuan",
-        "Liu Xiaorong",
-        "Olbrich Sebastian"
-      ],
-      "doi": "10.1177/20451253261462240"
-    },
-    {
-      "title": "Effectiveness and safety of repeat dose subcutaneous ketamine for treatment-resistant depression, and the impact of prior ketamine treatment: open label extension of the KADS study.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42403004/",
-      "source": "PubMed",
-      "abstract": "Longer-term outcome and safety data of repeated subcutaneous racemic ketamine for treatment-resistant depression (TRD) is lacking, as is knowledge of the impact of prior ketamine treatment on subsequent response. To evaluate the effectiveness and safety of a 4-week course of subcutaneous racemic ketamine over 6 months and investigate whether prior ketamine treatment influences treatment response. An open label extension (OLE) of a randomised controlled trial (RCT) was conducted at seven mood disorder centres in Australasia, enrolling consenting trial participants who had a Montgomery-Åsberg Depression Rating Scale (MADRS) score of ≥20 at post-trial assessment. Participants initially received twice-weekly 0.5 mg/kg subcutaneous racemic ketamine (fixed regimen) for 4 weeks. Dosing was revised after a Data Safety Monitoring Board recommendation, to a 'flexible regimen' (0.5-0.9 mg/kg with response-guided increments). Depression and safety outcomes were assessed throughout treatment, and 4 weeks and 6 months later. 130 RCT participants entered the OLE phase of whom 32 underwent the fixed OLE regimen and 98 the flexible regimen. At treatment end, 30% (36/116) had responded (MADRS reduction ≥50%), and 4 weeks later 17% (19/110) were 'responders'. Over 50% experienced <25% MADRS reduction. There was no difference in depression response at any time point between regimens. Those treated with ketamine during the RCT showed a transient reduced response after first OLE treatment but at no other assessment point. There were no reports of suicide or suicidal behaviour requiring admission and only expected side-effects observed. In a highly treatment-resistant sample, a 4-week course of subcutaneous racemic ketamine produced short-term clinical benefit in a minority of participants, with response rates declining substantially after treatment cessation, and no unexpected safety concerns. Exploratory subgroup analyses showed no association between prior RCT ketamine exposure and OLE outcomes. ACTRN12616001096448 at www.anzctr.org.au.",
-      "date": "2026-07-06",
-      "authors": [
-        "Glozier Nick",
-        "Morris Richard",
-        "Stratton Elizabeth"
-      ],
-      "doi": "10.1192/bjp.2026.10692"
+      "title": "FDA Issues Final Psychedelics Guidance, Schedules September Hearing on the Future of Psychedelic Therapies",
+      "url": "https://psychedelicalpha.com/news/fda-issues-final-psychedelics-guidance-schedules-september-hearing-on-the-future-of-psychedelic-therapies/",
+      "source": "Psychedelic Alpha",
+      "abstract": "In June 2023, FDA issued the first draft guidance on clinical investigations involving psychedelics. The 11-page document offered pointers on everything from nonclinical research and chemistry, manufacturing, and controls through to clinical studies and abuse potential assessments. Since then, a round of stakeholder feedback had sat unaddressed for the better part of three years, with […]",
+      "date": "2026-07-13",
+      "authors": [],
+      "doi": ""
     },
     {
       "title": "Pα+ Psychedelic Bulletin #227: A Closer Look at Compass’ 6-Month Data; AtaiBeckley Deal Update; ‘Rysanso’ Brand MDMA?",
@@ -328,24 +346,6 @@
       "source": "Psychedelic Alpha",
       "abstract": "",
       "date": "2026-06-18",
-      "authors": [],
-      "doi": ""
-    },
-    {
-      "title": "Psilocybin Compassionate Use in Germany: Lea Mertens and Andrea Jungaberle on the First Patients, Payers and Practicalities",
-      "url": "https://psychedelicalpha.com/news/psilocybin-compassionate-use-in-germany-lea-mertens-and-andrea-jungaberle-on-the-first-patients-payers-and-practicalities/",
-      "source": "Psychedelic Alpha",
-      "abstract": "Last summer, Germany’s medicines regulator quietly green-lit a psilocybin compassionate use program, the first such pathway in the European Union (see Germany Establishes EU’s First Psilocybin Compassionate Access Program). Two centres are permitted to offer psilocybin dosing at present: OVID Clinic Berlin, a private clinic in the nation’s capital, and the Central Institute of Mental […]",
-      "date": "2026-06-16",
-      "authors": [],
-      "doi": ""
-    },
-    {
-      "title": "May 2026 Psychedelic Bill Roundup",
-      "url": "https://psychedelicalpha.com/news/may-2026-psychedelic-bill-roundup/",
-      "source": "Psychedelic Alpha",
-      "abstract": "With most legislatures now adjourned, the 2026 psychedelic policy reform push has passed its peak. Of the 115 psychedelics-related bills we have tracked this year (108 state and 7 federal), 17 distinct measures have been signed into law; more than a quarter of those signings were in May alone. On the other side, 2 bills […]",
-      "date": "2026-06-10",
       "authors": [],
       "doi": ""
     },
@@ -572,7 +572,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2018-004480-31/CZ",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-07-13",
+      "date": "2026-07-14",
       "authors": [],
       "doi": ""
     },
@@ -581,7 +581,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2020-005037-32/CZ",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-07-13",
+      "date": "2026-07-14",
       "authors": [],
       "doi": ""
     },
@@ -590,7 +590,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2021-002909-10/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-07-13",
+      "date": "2026-07-14",
       "authors": [],
       "doi": ""
     },
@@ -599,7 +599,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2015-000550-37/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-07-13",
+      "date": "2026-07-14",
       "authors": [],
       "doi": ""
     },
@@ -608,7 +608,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2021-000041-40/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-07-13",
+      "date": "2026-07-14",
       "authors": [],
       "doi": ""
     },
@@ -617,7 +617,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2020-000829-55/DK",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-07-13",
+      "date": "2026-07-14",
       "authors": [],
       "doi": ""
     },
@@ -626,7 +626,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2020-002790-94/SE",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-07-13",
+      "date": "2026-07-14",
       "authors": [],
       "doi": ""
     },
@@ -635,7 +635,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2021-006200-33/FI",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-07-13",
+      "date": "2026-07-14",
       "authors": [],
       "doi": ""
     },
@@ -644,7 +644,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2019-004812-73/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-07-13",
+      "date": "2026-07-14",
       "authors": [],
       "doi": ""
     },
@@ -653,7 +653,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2022-002369-14/BE",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-07-13",
+      "date": "2026-07-14",
       "authors": [],
       "doi": ""
     },

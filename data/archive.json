@@ -1,6 +1,79 @@
 {
   "items": [
     {
+      "title": "Backed by $11M NIDA Grant, Harvard Moves Forward on Ibogaine for Opioid Use Disorder Research",
+      "url": "https://psychedelicalpha.com/news/backed-by-11m-nida-grant-harvard-moves-forward-on-ibogaine-for-opioid-use-disorder-research/",
+      "source": "Psychedelic Alpha",
+      "date": "2026-07-14",
+      "authors": [],
+      "doi": "",
+      "summary_en": "Harvard receives an $11 million NIDA grant to advance multi-phase research on ibogaine for opioid use disorder treatment. The funding supports clinical development of this psychedelic compound as a potential therapeutic intervention, with additional support opportunities announced by ARPA-H.",
+      "notable": true,
+      "notable_reason": "Significant federal funding ($11M NIDA grant) for ibogaine clinical research at major institution, representing major policy/funding development in psychedelic medicine.",
+      "study_type": "other",
+      "substances": [
+        "ibogaine"
+      ],
+      "added_at": "2026-07-15T08:41:08.496159+00:00"
+    },
+    {
+      "title": "Acute Hallucinogen Intoxication Following Ingestion of a Commercially Available Mushroom Extract Product: A Case Report.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42445624/",
+      "source": "PubMed",
+      "date": "2026-06-13",
+      "authors": [
+        "Udoro Akemini J",
+        "Yukyi Yadanar",
+        "Ansari Ali Z"
+      ],
+      "doi": "10.7759/cureus.110791",
+      "summary_en": "Case report of an 18-year-old female presenting to emergency care with acute hallucinogenic intoxication after consuming a commercially available mushroom extract product. Clinical presentation included severe anxiety, agitation, visual and auditory hallucinations, paranoid ideation, and autonomic symptoms. Examination revealed tachycardia, tachypnea, dilated pupils, and psychomotor agitation. Diagnostic workup excluded co-ingestion and end-organ damage. The case highlights regulatory gaps in mushroom product labeling and potential psilocybin contamination in retail supplements.",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "case_report",
+      "substances": [
+        "psilocybin"
+      ],
+      "added_at": "2026-07-15T08:41:08.496159+00:00"
+    },
+    {
+      "title": "Psychedelic therapy at the end of life: unexplored alternative to assisted suicide in the UK.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42444626/",
+      "source": "PubMed",
+      "date": "2026-07-14",
+      "authors": [
+        "Zinchenko Ruslan"
+      ],
+      "doi": "10.1192/bjp.2026.10729",
+      "summary_en": "Editorial examining psychedelic therapy as a potential alternative to assisted suicide in end-of-life care. Evidence suggests psychedelics reduce existential distress and suicidality in terminal patients. Author argues for rescheduling these substances to enable research on their role in palliative care before implementing assisted suicide policy in the UK.",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "other",
+      "substances": [
+        "psilocybin"
+      ],
+      "added_at": "2026-07-15T08:41:08.496159+00:00"
+    },
+    {
+      "title": "Longitudinal dream-content shift and void-like dissociative phenomenology around outpatient ketamine infusions in chronic low back pain: a case report.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42443960/",
+      "source": "PubMed",
+      "date": "2026-07-13",
+      "authors": [
+        "Torii Kei",
+        "Nishitani Ryo"
+      ],
+      "doi": "10.1186/s13256-026-06175-9",
+      "summary_en": "Case report documenting dream content changes in a 48-year-old man with chronic low back pain over 16 years, including five low-dose ketamine infusions (15 mg) in 2014. Analysis of 50 masked dream narratives using a pre-specified coding scheme showed decreased obstruction motifs and increased social-interaction themes post-ketamine. Findings suggest possible links between ketamine's dissociative phenomenology and longer-term imaginal processes, without efficacy claims.",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "case_report",
+      "substances": [
+        "ketamine"
+      ],
+      "added_at": "2026-07-15T08:41:08.496159+00:00"
+    },
+    {
       "title": "Combined DMT-harmine formulation reduces negative self-referential emotions during social self-evaluation: a randomized placebo-controlled trial in healthy volunteers.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42443620/",
       "source": "PubMed",

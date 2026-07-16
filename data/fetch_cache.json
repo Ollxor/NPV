@@ -1,7 +1,118 @@
 {
-  "date": "2026-07-15",
-  "cached_at": "2026-07-15T08:04:36.427044+00:00",
+  "date": "2026-07-16",
+  "cached_at": "2026-07-16T08:08:57.687416+00:00",
   "articles": [
+    {
+      "title": "Psilocybin's effect on human brain synaptic plasticity.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42457666/",
+      "source": "PubMed",
+      "abstract": "Psychedelics such as psilocybin have been linked to enhanced neuroplasticity and symptom relief in affective disorders, but the neurobiological mechanisms and impact of environmental context remain unclear. Here, we tested whether a single dose of psilocybin (0.3 mg/kg) alters synaptic density in healthy individuals and whether setting-dependent subjective experience shapes this effect. Fifteen healthy participants had a psilocybin-induced psychedelic experience either inside an MRI scanner or in a therapeutic-like room. We assessed synaptic density changes by measuring the Synaptic Vesicle glycoprotein 2A in the frontal cortex and hippocampus with [¹¹C]UCB-J PET at baseline and one-week post-dose, and assessed subjective experiences immediately afterwards and at three months. Overall, we found no statistically significant increase in SV2A density. However, participants treated in the therapeutic-like setting exhibited more intense mystical-type experiences, longer-lasting psychological benefits, and greater increases in synaptic density than those dosed in the MRI scanner. These findings indicate that psilocybin's neuroplastic effects are modulated by environmental context, with important implications for psychedelic-assisted therapies. ClinicalTrial: NCT03289949.",
+      "date": "2026-07-15",
+      "authors": [
+        "Johansen Annette",
+        "Plavén-Sigray Pontus",
+        "Madsen Martin K"
+      ],
+      "doi": "10.1038/s41398-026-04285-y"
+    },
+    {
+      "title": "Psychedelics Trials and Outcomes- A Closer Look.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42455590/",
+      "source": "PubMed",
+      "abstract": "",
+      "date": "2026-07-15",
+      "authors": [
+        "Nayak Sandeep M",
+        "Weiss Brandon",
+        "Yaden David B"
+      ],
+      "doi": "10.1001/jamapsychiatry.2026.1942"
+    },
+    {
+      "title": "Psychedelics Trials and Outcomes-A Closer Look.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42455578/",
+      "source": "PubMed",
+      "abstract": "",
+      "date": "2026-07-15",
+      "authors": [
+        "Carhart-Harris Robin Lester",
+        "Rosenblat Joshua D"
+      ],
+      "doi": "10.1001/jamapsychiatry.2026.1948"
+    },
+    {
+      "title": "From Schedule I to the Clinic-Insights Into Psychedelic Drug Development From GHB.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42455552/",
+      "source": "PubMed",
+      "abstract": "This Viewpoint reviews the case of sodium oxybate, a product of gamma-hydroxybutyrate (GHB), to illustrate how psychedelics and other Schedule I substances can proceed through a similar regulatory pathway.",
+      "date": "2026-07-15",
+      "authors": [
+        "Barnett Brian S",
+        "King Franklin"
+      ],
+      "doi": "10.1001/jamapsychiatry.2026.1901"
+    },
+    {
+      "title": "Psychedelics Trials and Outcomes-A Closer Look.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42455549/",
+      "source": "PubMed",
+      "abstract": "",
+      "date": "2026-07-15",
+      "authors": [
+        "Vanderijst Laetitia",
+        "Luquiens Amandine"
+      ],
+      "doi": "10.1001/jamapsychiatry.2026.1945"
+    },
+    {
+      "title": "Psychedelics Trials and Outcomes-A Closer Look-Reply.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42455530/",
+      "source": "PubMed",
+      "abstract": "",
+      "date": "2026-07-15",
+      "authors": [
+        "Szigeti Balázs",
+        "Williams Zachary J"
+      ],
+      "doi": "10.1001/jamapsychiatry.2026.1951"
+    },
+    {
+      "title": "Initiating dextromethorphan-bupropion extended release in patients with major depressive disorder: Delphi panel expert consensus recommendations.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42454904/",
+      "source": "PubMed",
+      "abstract": "To establish consensus recommendations for initiating dextromethorphan-bupropion extended release (45 mg/105 mg) (AUVELITY) for the treatment of major depressive disorder (MDD) in adults. US-based healthcare providers (HCPs,  The panel reached consensus on 27 final recommendations with a mean overall agreement score of 3.8. Key consensus recommendations (abbreviated here) included: (1) dextromethorphan-bupropion is recommended as a first-line treatment for MDD, including with co-occurring symptoms of anxiety; (2) HCPs should individualize treatment decisions that prioritize safety considerations noted in the Prescribing Information; (3) dextromethorphan-bupropion is recommended for patients with inadequate response, residual symptoms, and/or intolerable side effects associated with prior MDD treatment(s); (4) when switching from (or adding to current) medication, the potential for a drug interaction should be considered, consistent with the dextromethorphan-bupropion label; and (5) switching from ketamine or esketamine should be done with caution, and with an awareness of the short-to-intermediate elimination half-lives of these drugs. These consensus panel recommendations provide real-world guidance for initiating MDD treatment with dextromethorphan-bupropion extended release and address any perceived barriers for scenarios of interest.",
+      "date": "2026-07-15",
+      "authors": [
+        "Clayton Anita H",
+        "Alva Gus",
+        "Bowman Phillip"
+      ],
+      "doi": "10.1080/03007995.2026.2700073"
+    },
+    {
+      "title": "Micro-phenomenology of immersion and perceived presences under DMT.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42454183/",
+      "source": "PubMed",
+      "abstract": "Psychedelic compound N,N-Dimethyltryptamine (DMT) is renowned for inducing highly immersive experiences, often including encounters with seemingly sentient presences. While such phenomena are well documented, immersion under psychedelics remains conceptually underdefined and phenomenologically underexplored. Here we apply micro-phenomenology to characterize immersion under DMT as a structured continuum from subtle to gross forms of immersion, and to examine how perceived presences arise within this continuum. Twenty-three participants received 20 mg intravenous DMT during simultaneous fMRI-EEG acquisition, followed by detailed micro-phenomenological interviews focused on the temporal unfolding of experience. Micro-phenomenological analysis methods yielded 125 phenomenological categories describing structural dimensions, including sensory and amodal faculties, spatial organisation, self-world configuration, and modes of social relatedness. Dynamic analysis revealed reliable developmental patterns, with bodily effects typically preceding visual and auditory ones, and perceived presences emerging only after multisensory integration and 3D spatial characteristics had developed, illustrating a hierarchical relationship between subtle and gross forms of immersion. Perceived presences varied widely in sensory modality, semantic complexity, and relational mode. These findings show immersion under DMT as a dynamic, constructive process, providing precise structural features for future neurophenomenological modelling, and supporting the view that DMT research may inform our understanding of immersive experience across other aetiologies, including ordinary experience of the world.",
+      "date": "2026-07-14",
+      "authors": [
+        "Sanders James W",
+        "Millière Raphaël",
+        "Demšar Ema"
+      ],
+      "doi": "10.1093/nc/niag015"
+    },
+    {
+      "title": "Ionic Homeostasis Failure in Major Depressive Disorder: Ion Channel Mechanisms, Excitation-Inhibition Imbalance, and Precision Therapeutics.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42450349/",
+      "source": "PubMed",
+      "abstract": "Major depressive disorder (MDD) remains a leading cause of disability; however, monoaminergic models do not fully explain delayed treatment onset, incomplete remission, or rapid responses to glutamatergic interventions. In this study, we proposed a system-level ionic homeostasis framework for MDD. In this model, genetic susceptibility, chronic stress, metabolic burden, and neuroinflammation converge in neuronal and glial ion-channel systems, disrupting calcium, potassium, chloride, and purinergic homeostasis. These disturbances alter intrinsic excitability, synaptic integration, inhibitory tone, glial buffering, and neuron-glia signaling, thereby promoting excitation-inhibition imbalance, impaired plasticity, and corticolimbic network instability. We reviewed the evidence implicating the CACNA1C/Cav1.2, TREK-1, KCNQ, NKCC1/KCC2, HCN, transient receptor potential/acid-sensing ion channels, and glial mediators, including P2X7R, Kir4.1, and AQP4. We also discuss how ketamine-related mechanisms, chloride-restoring strategies, anti-inflammatory ion channel targeting, neuromodulation, EEG biomarkers, and AI/multiomics approaches support mechanism-informed precision therapeutics. MDD could be conceptualized as a distributed failure of ionic homeostasis that links neuroinflammation, E/I imbalance, network instability, and impaired adaptive plasticity.",
+      "date": "2026-07-07",
+      "authors": [
+        "Seo Yohan"
+      ],
+      "doi": "10.3390/ijms27136084"
+    },
     {
       "title": "Erratum to: Calcium/Calmodulin-Dependent Protein Kinase II and Eukaryotic Elongation Factor 2 Kinase Pathways Mediate the Antidepressant Action of Ketamine.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42446461/",
@@ -136,121 +247,6 @@
         "Khatak Adnan"
       ],
       "doi": "10.1097/MS9.0000000000005244"
-    },
-    {
-      "title": "Epigenetic landscapes of classical psychedelics and ketamine: molecular mechanisms of long-lasting neuromodulation.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42432011/",
-      "source": "PubMed",
-      "abstract": "Classic psychedelics such as lysergic acid diethylamide (LSD), psilocybin, N,N-dimethyltryptamine (DMT), and mescaline induce lasting changes in neuroplasticity and behavior that extend far beyond their acute pharmacological effects. Emerging evidence highlights that these enduring therapeutic benefits in neuropsychiatric conditions may be significantly mediated through complex epigenetic reprogramming mechanisms, although direct causal evidence remains limited. This review synthesizes current knowledge on how classical psychedelics and the rapid-acting antidepressant ketamine (an NMDA receptor antagonist) influence epigenetic regulation at multiple molecular levels, encompassing DNA methylation and hydroxymethylation, histone post-translational modifications (acetylation, methylation, phosphorylation), nucleosome positioning and higher-order chromatin restructuring, non-coding RNA (ncRNA) dynamics, and RNA epitranscriptomic modifications. Moreover, psychedelics appear to alter metabolic and mitochondrial pathways, thereby modulating the availability and nuclear transport of key epigenetic cofactors, such as acetyl-CoA, S-adenosylmethionine (SAM), and α-ketoglutarate. By integrating these pathways, we propose a unified model wherein psychedelic-induced signaling cascades may intersect with metabolic and epigenetic networks, potentially contributing to persistent transcriptional alterations and enhanced synaptic connectivity. Understanding these intricate mechanisms provides crucial insights into how transient exposure to psychedelics translates into sustained therapeutic outcomes, informing the development of novel neuroepigenetic interventions in molecular psychiatry.",
-      "date": "2026-07-10",
-      "authors": [
-        "Lin Cong",
-        "Wang Xiaohui"
-      ],
-      "doi": "10.1038/s41380-026-03744-8"
-    },
-    {
-      "title": "Personality changes following first-time psychedelic use in college students in Germany.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42426381/",
-      "source": "PubMed",
-      "abstract": "Psychedelics may influence personality traits, but longitudinal evidence on first-time use outside clinical settings remains limited. We followed 102 first-time psychedelic users and 1066 never-users over one year among Berlin university students. Personality was assessed with the Big Five Inventory at baseline and follow-up. Linear mixed-effects models showed small relative increases in Openness and decreases in Conscientiousness among first-time users. After adjustment for age, sex, income, psychiatric diagnosis, and baseline substance-use burden, estimates were attenuated but directionally similar (Openness: beta = 0.19, SE = 0.10, p = 0.06; Conscientiousness: beta = -0.20, SE = 0.10, p = 0.05; FDR-adjusted p = 0.16 for both). Change was not clearly different from first-time users of other illicit substances. In exploratory moderation analyses, first-time users with psychiatric diagnoses showed larger Neuroticism reductions. Findings suggest small personality changes after first-time psychedelic use, with limited causal interpretability.",
-      "date": "2026-07-10",
-      "authors": [
-        "Volkmann Constantin",
-        "Seitz Michael",
-        "Evens Ricarda"
-      ],
-      "doi": "10.1038/s44184-026-00228-z"
-    },
-    {
-      "title": "Psychedelics and the thalamocortical system: A scoping review.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42425276/",
-      "source": "PubMed",
-      "abstract": "In recent years, psychedelics have shown promising results as therapeutic interventions for individuals with depression, terminal illnesses, substance use disorder, neurodegenerative diseases, trauma and obsessive-compulsive disorder. Moreover, research involving psychedelics have contributed to the understanding of the neurobiological mechanisms behind the \"psychedelic state of consciousness\" and to the physiological and pathological thalamocortical functioning. Also, there is evidence that several psychiatric conditions-such as depression, schizophrenia, bipolar disorder, and autism-are characterized by alterations in the thalamocortical system. Therefore, a deeper understanding of thalamic function could have significant implications for the psychedelic research field and for biological psychiatry. The aim of this scoping review (using the PRISMA method) was to synthesize the available evidence (preclinical and clinical) on the effects of psychedelics on the thalamocortical system that showed potential for clinical use (specifically NMDA receptor antagonists, serotonin 2 A receptor agonists and mixed-pharmacology compounds like iboga alkaloids). This review discussed findings regarding psychedelic administration and specific effects on thalamocortical connectivity suggesting its importance for clinical practice and for the understanding of psychedelic's neurobiology.",
-      "date": "2026-07-09",
-      "authors": [
-        "Villalba Sofía",
-        "Christensen Agustín Martínez",
-        "Di Costanzo Lucia"
-      ],
-      "doi": "10.1016/j.pbb.2026.174232"
-    },
-    {
-      "title": "Navigating 'k-land': a qualitative exploration of participants' experiences of ketamine-assisted psychotherapy for methamphetamine use disorder.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42422525/",
-      "source": "PubMed",
-      "abstract": "Methamphetamine use disorder (MAUD) is associated with substantial psychiatric and physical morbidity, and current treatment options remain limited. Ketamine-assisted psychotherapy (KAP) has shown promise in substance use disorders, but little is known about how individuals experience and interpret this intervention, particularly in MAUD. Qualitative investigation may provide insight into perceived mechanisms, acceptability, and factors influencing engagement. This study aimed to explore how participants experienced, interpreted, and evaluated KAP for MAUD. This qualitative study was embedded within an open-label pilot trial of KAP for MAUD. Fourteen participants who completed core components of the intervention undertook semi-structured interviews following treatment. Interviews explored motivations for participation, experiences of ketamine dosing and psychotherapy, and perceptions of change. Data were analysed using reflexive thematic analysis. Four interrelated themes were generated: (1) treatment entry, characterised by prior treatment experience with limited sustained benefit and pragmatic openness to a novel approach; (2) a structured and supportive context for engagement, highlighting the importance of relational safety and clinical containment; (3) altered states and psychological shifts, in which participants described reduced emotional and cognitive reactivity following ketamine sessions; and (4) translation of psychological shifts into behavioural change, describing variable and contingent changes in methamphetamine use. Participants described ketamine as creating a temporary state characterised by reduced emotional and cognitive reactivity and enhanced receptivity, which we interpret as 'psychological space'. This state appeared to support engagement with psychotherapy, although behavioural change was variable and contingent on ongoing therapeutic engagement, personal motivation, and contextual factors. Acceptability was generally high within a supportive clinical environment. Participants expressed uncertainty regarding whether changes were attributable to ketamine, psychotherapy, or contextual factors. KAP for MAUD was experienced as a multi-stage, context-dependent process rather than a stand-alone pharmacological treatment. Ketamine was characterised as facilitating a temporary state of 'psychological space' that appeared to support engagement with psychotherapy, while sustained change appeared to depend on the integration of these experiences into ongoing cognitive and behavioural processes. These findings support a model in which pharmacological, psychotherapeutic and contextual factors interact, and highlight the need for further research to clarify mechanisms and optimise intervention design.",
-      "date": "2026-06-24",
-      "authors": [
-        "Fletcher Kathryn",
-        "Ezard Nadine",
-        "Siefried Krista J"
-      ],
-      "doi": "10.3389/fpsyt.2026.1873497"
-    },
-    {
-      "title": "Psychedelics in Mental Health: Opportunities and Challenges.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42421650/",
-      "source": "PubMed",
-      "abstract": "Psychedelic and substance-assisted therapies are attracting renewed scientific, clinical, and public interest as potential interventions for mental health disorders, particularly treatment-resistant depression, post-traumatic stress disorder, and substance use disorders. However, as the field moves from early efficacy trials toward clinical implementation, major questions remain regarding therapeutic mechanisms, psychological support models, safety, ethics, accessibility, and the role of subjective experience. This editorial introduces the Brain and Behavior special issue \"Psychedelics in Mental Health: Opportunities and Challenges,\" which brings together empirical studies, reviews, clinical perspectives, a case report, and commentaries addressing these emerging priorities. Across the special issue, a central theme is that psychedelic therapy cannot be understood as a pharmacological intervention alone. Contributions highlight the importance of therapeutic relationships, preparation, integration, music, touch, external therapist involvement, peer support, cultural context, and patient expectations in shaping outcomes. Several manuscripts examine the phenomenology of psychedelic and ketamine experiences, emphasizing that subjective meaning-making, expectancy, and altered states are not incidental features but potentially central aspects of therapeutic change and clinical risk. Other articles consider implementation challenges, including models of care for veterans, the perspectives of peer support workers, global mental health equity, and culturally responsive access. Mechanistic and translational work further broadens the field by examining neuroplasticity, rapid-acting interventions for suicidality, and developmental perspectives on psychedelic use. Collectively, the articles in this special issue illustrate a field at an important inflection point. Psychedelic research requires greater conceptual precision, careful attention to safety and consent, and implementation frameworks that prioritize equity and cultural appropriateness. The promise of psychedelics in mental health lies not only in their potential for rapid symptom reduction, but also in their capacity to challenge and expand prevailing models of therapeutic change, integrating biological, psychological, relational, cultural, and systems-level perspectives on healing.",
-      "date": "2026-Jul-9",
-      "authors": [
-        "Oestreich Lena K L",
-        "Rieser Nathalie M"
-      ],
-      "doi": "10.1002/brb3.71574"
-    },
-    {
-      "title": "Convergent increases in serotonin 1B receptor binding following ketamine and electroconvulsive therapy: a multi-centre bayesian re-analysis of PET data.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42420418/",
-      "source": "PubMed",
-      "abstract": "The serotonin 1B receptor can be studied in vivo with PET using [",
-      "date": "2026-07-08",
-      "authors": [
-        "Matheson Granville J",
-        "Lundberg Johan",
-        "Gärde Martin"
-      ],
-      "doi": "10.1038/s41380-026-03704-2"
-    },
-    {
-      "title": "Beyond a simple marker of stress: A multiverse analysis of biopsychosocial associations with hair cortisol and cortisone.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42419163/",
-      "source": "PubMed",
-      "abstract": "Hair concentrations of cortisol and cortisone are increasingly used as potential biomarkers of chronic stress. However, their validity as indicators of psychosocial stress remains debated, as prior research shows variable associations with stress-related psychological and behavioral factors. This study systematically investigates a broad set of biopsychosocial correlates of hair glucocorticoids in young adults, leveraging a multiverse framework to evaluate the robustness of associations often reported as variable in prior work. Using data from the Zurich Project on the Social Development from Childhood to Adulthood, a large community-based age cohort, we employed a multiverse analysis to explore relationships between more than 60 biological, psychological, and contextual variables and three hair-based outcomes (cortisol, cortisone, and a combined score of both) at ages 20 (n = 1,002) and 24 (n = 887). Specification curve analyses were performed on the full sample and separately by sex, systematically varying model choices (i.e., inclusion/exclusion of covariates). Hair characteristics (i.e., color, washing intensity, chemical treatment), sampling season, body mass index, and, among women, hormonal contraception, showed strong associations with glucocorticoids and were included as covariates. Sweating intensity was associated with glucocorticoids primarily in females, but not in males. Hair concentrations of drugs (i.e., Δ9-tetrahydrocannabinol, cocaine, 3,4-methylenedioxymethamphetamine [MDMA, \"Ecstasy\"], paracetamol) and the hormone testosterone were consistently linked to steroid outcomes. Several psychosocial factors were associated with hair glucocorticoids: migration background, perceived stress, symptoms of anxiety/depression, sports activity, and social exclusion. These factors exhibited stronger correlations with cortisol, while media use, aggression, and effective coping were more closely associated with cortisone. The combined steroid score mainly reflected associations detected for cortisol, but with weaker effect sizes. Associations varied descriptively by age and sex, with more associations detected in males at age 20 and in females at age 24. In cohort studies, corticosteroids in hair can reflect specific facets of psychosocial stress when critical confounders and sex are considered.",
-      "date": "2026-07-03",
-      "authors": [
-        "Janousch Clarissa",
-        "Eggenberger Lukas",
-        "Johnson-Ferguson Lydia"
-      ],
-      "doi": "10.1016/j.psyneuen.2026.107953"
-    },
-    {
-      "title": "CSF galanin and noradrenaline downregulation by psilocybin therapy in major depressive disorder.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42414566/",
-      "source": "PubMed",
-      "abstract": "Psilocybin is a rapid-acting antidepressant, but its mechanism of action in major depressive disorder remains unclear. In this secondary analysis of randomized, placebo-controlled trial with multimodal CSF and blood biomarker measurements, psilocybin selectively reduced CSF galanin and noradrenaline, implicating that normalization of these co-transmitters is a key pharmacodynamic signature.",
-      "date": "2026-07-07",
-      "authors": [
-        "Paslawski Wojciech",
-        "Doyon Daniel",
-        "Ekman Carl Johan"
-      ],
-      "doi": "10.1038/s41386-026-02490-3"
-    },
-    {
-      "title": "α",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42414551/",
-      "source": "PubMed",
-      "abstract": "Classic serotonergic psychedelics such as psilocybin act as agonists at cortical serotonin (5-HT) 2A receptors (5-HT",
-      "date": "2026-07-07",
-      "authors": [
-        "Rosado Axel F",
-        "Yu Abigail L",
-        "Yang Jen-Hau"
-      ],
-      "doi": "10.1038/s41380-026-03713-1"
     },
     {
       "title": "Backed by $11M NIDA Grant, Harvard Moves Forward on Ibogaine for Opioid Use Disorder Research",
@@ -565,7 +561,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2018-004480-31/CZ",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-07-15",
+      "date": "2026-07-16",
       "authors": [],
       "doi": ""
     },
@@ -574,7 +570,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2020-005037-32/CZ",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-07-15",
+      "date": "2026-07-16",
       "authors": [],
       "doi": ""
     },
@@ -583,7 +579,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2021-002909-10/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-07-15",
+      "date": "2026-07-16",
       "authors": [],
       "doi": ""
     },
@@ -592,7 +588,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2015-000550-37/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-07-15",
+      "date": "2026-07-16",
       "authors": [],
       "doi": ""
     },
@@ -601,7 +597,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2021-000041-40/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-07-15",
+      "date": "2026-07-16",
       "authors": [],
       "doi": ""
     },
@@ -610,7 +606,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2020-000829-55/DK",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-07-15",
+      "date": "2026-07-16",
       "authors": [],
       "doi": ""
     },
@@ -619,7 +615,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2020-002790-94/SE",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-07-15",
+      "date": "2026-07-16",
       "authors": [],
       "doi": ""
     },
@@ -628,7 +624,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2021-006200-33/FI",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-07-15",
+      "date": "2026-07-16",
       "authors": [],
       "doi": ""
     },
@@ -637,7 +633,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2019-004812-73/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-07-15",
+      "date": "2026-07-16",
       "authors": [],
       "doi": ""
     },
@@ -646,7 +642,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2022-002369-14/BE",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-07-15",
+      "date": "2026-07-16",
       "authors": [],
       "doi": ""
     },

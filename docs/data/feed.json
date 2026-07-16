@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-15T08:42:41.413856+00:00",
+  "generated_at": "2026-07-16T08:41:29.176383+00:00",
   "items": [
     {
       "title": "Blinding integrity in psychedelic research: Evidence from a comparative randomized controlled trial of psilocybin, MDMA, and methylphenidate in healthy volunteers",
@@ -32,6 +32,108 @@
         "mdma"
       ],
       "added_at": "2026-07-09T10:03:12.956794+00:00"
+    },
+    {
+      "title": "Psilocybin's effect on human brain synaptic plasticity.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42457666/",
+      "source": "PubMed",
+      "date": "2026-07-15",
+      "authors": [
+        "Johansen Annette",
+        "Plavén-Sigray Pontus",
+        "Madsen Martin K"
+      ],
+      "doi": "10.1038/s41398-026-04285-y",
+      "summaries": {
+        "en": "Single-dose psilocybin study (0.3 mg/kg, n=15) measured synaptic density changes via PET imaging in frontal cortex and hippocampus. No significant overall increase in synaptic markers was found. However, participants in therapeutic-like settings reported stronger mystical experiences and greater synaptic density increases than those in MRI scanners, suggesting environmental context modulates psilocybin's neuroplastic effects.",
+        "sv": "En studie med psilocybin i engångsdos (0,3 mg/kg, n=15) mätte synapstäthet via PET-avbildning i prefrontal cortex och hippocampus. Ingen signifikant övergripande ökning av synaptiska markörer fanns. Dock rapporterade deltagare i terapeutisk miljö starkare mystiska upplevelser och större ökning av synapstäthet än de i MR-skanner, vilket tyder på att miljö modulerar psilocinets neuroplastiska effekter.",
+        "no": "Enkeltdosestudie av psilocybin (0,3 mg/kg, n=15) målte synaptisk tetthet via PET-avbildning i prefrontal cortex og hippocampus. Ingen signifikant samlet økning i synaptiske markører ble funnet. Deltakere i terapeutisk miljø rapporterte imidlertid sterkere mystiske opplevelser og større økning i synaptisk tetthet enn de i MR-skanner, noe som indikerer at miljø modulerer psilocybins nevroplastiske effekter.",
+        "da": "Enkeltdosis-studie af psilocybin (0,3 mg/kg, n=15) målte synaptisk tæthed via PET-scanning i præfrontal cortex og hippocampus. Ingen signifikant samlet stigning i synaptiske markører blev fundet. Deltager i terapeutisk setting rapporterede dog stærkere mystiske oplevelser og større stigning i synaptisk tæthed end i MR-scanner, hvilket tyder på at miljø modulerer psilocybins neuroplastiske effekter.",
+        "fi": "Yksittäisannosta sisältävä psilosybiini-tutkimus (0,3 mg/kg, n=15) mittasi synaptista tiheyttä PET-kuvannuksen avulla prefrontaalisessa kuoressa ja hippocampuksessa. Merkittävää kokonaisuudessaan synaptisten merkkiaineiden nousua ei löytynyt. Terapeutisessa ympäristössä hoidetut osallistujat kuitenkin ilmoittivat voimakkaammista mystisistä kokemuksista ja suuremmista synaptisen tiheyden noususta kuin MRI-skannerin ryhmä, mikä viittaa ympäristön moduloivan psilosybiinin neuroplastisia vaikutuksia.",
+        "is": "Rannsókn á einum skömmtum psilocybins (0,3 mg/kg, n=15) mældi þéttleika sýnapsa með PET-myndum í forblöðu heilans og hippocampus. Engin marktæk heildaraukning sýnapamarkara fannst. Hins vegar tilkyntu þátttakendur í meðferðarumhverfi sterkari dularglæpi upplifun og meiri aukningu á sýnapsaþéttleika en þeir sem fengu myndir í MR-skanna, sem bendir til þess að umhverfi stýri neuroplastískum áhrifum psilocybins.",
+        "et": "Ühekordse annusega psilotsübiini uuringus (0,3 mg/kg, n=15) mõõdeti sinaptilise tiheduse muutusi PET-kuvistamise abil prefrontaalses ajukoores ja hippocampuses. Märkimisväärset üldistavat sinaptiliste markerite tõusu ei leitud. Terapeutilises keskkonnas ravitud osalejad teatasid aga intensiivsematest müstilisest kogemustest ja suuremast sinaptilise tiheduse kasvust kui MRI-skanneris, mis viitab keskkonna mõjule psilotsübiini neuroplastilisele toime.",
+        "lv": "Psilocibīna vienas devas pētījumā (0,3 mg/kg, n=15) mērīja sinaptiskā blīvuma izmaiņas, izmantojot PET attēlošanu priekšējās smadzeņu garozā un hipokampā. Statistiski nozīmīga kopējā sinaptisko marķieru paaugstināšanās netika konstatēta. Tomēr terapeitiskā vidē ārstētie dalībnieki ziņoja par intensīvākām mistikas pieredzēm un lielāku sinaptiskā blīvuma pieaugumu nekā MRI skenera grupā, kas norāda uz vides ietekmi uz psilocibīna neuroplastitajiem efektiem.",
+        "lt": "Vienos dozes psilocibino studijoje (0,3 mg/kg, n=15) matuota sinaptinio tankio pokyčius naudojant PET vaizdu atliekoje priekinėje smegenų žievėje ir hipokampe. Statistiškai reikšmingo bendro sinaptinių žymenų padidėjimo nerasta. Tačiau terapinėje aplinkoje gydyti dalyviai pranešė apie intensyvesnes mistines patirtis ir didesnį sinaptinio tankio padidėjimą nei MRI skaneryje, o tai rodo aplinkos moduliavimą psilocibino neuroplastitinio poveikio."
+      },
+      "notable": false,
+      "notable_reasons": null,
+      "relevance_score": 4,
+      "study_type": "observational",
+      "substances": [
+        "psilocybin"
+      ],
+      "added_at": "2026-07-16T08:40:03.406447+00:00"
+    },
+    {
+      "title": "From Schedule I to the Clinic-Insights Into Psychedelic Drug Development From GHB.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42455552/",
+      "source": "PubMed",
+      "date": "2026-07-15",
+      "authors": [
+        "Barnett Brian S",
+        "King Franklin"
+      ],
+      "doi": "10.1001/jamapsychiatry.2026.1901",
+      "summaries": {
+        "en": "This viewpoint examines sodium oxybate (GHB) as a case study for how Schedule I substances, including psychedelics, can navigate regulatory pathways toward clinical approval. The analysis illustrates regulatory mechanisms that may apply to psychedelic drug development.",
+        "sv": "Denna analys undersöker natriumoxybat (GHB) som fallstudie för hur klassificerade substanser, inklusive psykedelika, kan gå genom regulatoriska vägar mot klinisk godkännande. Studien illustrerar mekanismer relevanta för psykedelisk läkemedelsutveckling.",
+        "no": "Denne artikkelen undersøker natriumoxybat (GHB) som en casestudie for hvordan klassifiserte stoffer, inkludert psykedelika, kan navigere gjennom regulatoriske prosesser mot klinisk godkjenning. Analysen illustrerer mekanismer relevant for psykedelisk legemiddelutviklingen.",
+        "da": "Denne artikel undersøger natriumoxybat (GHB) som casestudie for, hvordan klassificerede stoffer, herunder psykedelika, kan navigere gennem regulatoriske veje mod klinisk godkendelse. Analysen illustrerer mekanismer relevant for psykedelisk lægemiddelutveckling.",
+        "fi": "Tämä katsaus tutkii natriumoksybaattia (GHB) tapaustutkimuksena siitä, kuinka luokitellut aineet, mukaan lukien psykedeellit, voivat edetä sääntelyreittejä pitkin kliiniseen hyväksyntään. Analyysi valaisee psykedelisten lääkkeiden kehitykselle relevantteja mekanismeja.",
+        "is": "Þessi greining skoðar natrívoxýbat (GHB) sem tilvikilsdæmi um hvernig flokkaðir efnislekar, þar á meðal sálfræðihrif, geta farið í gegnum eftirlitsferla til klínískrar samþykktar. Greiningin sýnir aðferðir sem skipta máli fyrir þróun sálfræðihrifaðra lyfja.",
+        "et": "See ülevaade uurib naatrium­oksübaati (GHB) juhtumistena, kuidas klassifitseeritud ained, sealhulgas psühhedeelikumid, võivad liikuda regulatiivsete rajatuste kaudu kliinilisele heakskiiduks. Analüüs valgustavad psühhedelikuliste ravimite arendamisele olulised mehhanismid.",
+        "lv": "Šis pārskats pēta nātrija oksibātu (GHB) kā gadījuma izpēti tam, kā klasificētās vielas, ieskaitant psihedelikus, var virzīties caur regulatīviem ceļiem uz klīnisko apstiprināšanu. Analīze ilustrē mehānismus, kas ir būtiski psihedelisko zāļu izstrādei.",
+        "lt": "Šis straipsnis nagrinėja natrio oksibatą (GHB) kaip atvejį, parodantį, kaip klasifikuotos medžiagos, įskaitant psichedelikus, gali eiti reguliavimo keliais link klinikinio patvirtinimo. Analizė iliustruoja psichedelinių vaistų plėtrai svarbius mechanizmus."
+      },
+      "notable": false,
+      "notable_reasons": null,
+      "relevance_score": 4,
+      "study_type": "other",
+      "substances": [
+        "other"
+      ],
+      "added_at": "2026-07-16T08:40:03.406447+00:00"
+    },
+    {
+      "title": "Micro-phenomenology of immersion and perceived presences under DMT.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42454183/",
+      "source": "PubMed",
+      "date": "2026-07-14",
+      "authors": [
+        "Sanders James W",
+        "Millière Raphaël",
+        "Demšar Ema"
+      ],
+      "doi": "10.1093/nc/niag015",
+      "summaries": {
+        "en": "Study of 23 participants receiving 20 mg intravenous DMT with concurrent fMRI-EEG monitoring characterized immersion as a structured continuum using micro-phenomenological analysis. Detailed interviews identified 125 phenomenological categories across sensory, spatial, and social dimensions. Results show immersion develops hierarchically: bodily effects precede visual and auditory experiences, with perceived presences emerging only after multisensory integration and 3D spatial development.",
+        "sv": "Studie med 23 deltagare som fick 20 mg intravenös DMT med samtidig fMRI-EEG-registrering karakteriserade immersion som ett strukturerat kontinuum med hjälp av mikro-fenomenologisk analys. Detaljerade intervjuer identifierade 125 fenomenologiska kategorier inom sensoriska, rumsliga och sociala dimensioner. Resultaten visar att immersion utvecklas hierarkiskt: kroppsliga effekter föregår visuella och auditiva upplevelser, medan uppfattade närvaro endast uppstår efter multisensorisk integration och 3D-rumslig utveckling.",
+        "no": "Studie med 23 deltakere som fikk 20 mg intravenøs DMT med samtidig fMRI-EEG-registrering karakteriserte immersjon som et strukturert kontinuum ved hjelp av mikro-fenomenologisk analyse. Detaljerte intervjuer identifiserte 125 fenomenologiske kategorier innenfor sensoriske, romlige og sosiale dimensjoner. Resultatene viser at immersjon utvikles hierarkisk: kroppslige effekter går foran visuelle og auditive opplevelser, mens opplevde nærvær oppstår først etter multisensorisk integrasjon og 3D-romlig utvikling.",
+        "da": "Studie med 23 deltagere, som fik 20 mg intravenøs DMT med samtidig fMRI-EEG-registrering, karakteriserede immersion som et struktureret kontinuum ved hjælp af mikro-fænomenologisk analyse. Detaljerede interviews identificerede 125 fænomenologiske kategorier inden for sensoriske, rumlige og sociale dimensioner. Resultaterne viser, at immersion udvikles hierarkisk: kropslige effekter går forud for visuelle og auditive oplevelser, mens opfattede nærvær kun opstår efter multisensorisk integration og 3D-rumlig udvikling.",
+        "fi": "Tutkimuksessa 23 osallistujaa sai 20 mg intravenöösä DMT:tä samanaikaisen fMRI-EEG-rekisteröinnin aikana. Mikro-fenomenologisen analyysin avulla immersio karakterisoitiin strukturoiduksi kontinuumiksi. Yksityiskohtaiset haastattelut tunnistivat 125 fenomenologista kategoriaa sensorisissa, spatiaalisissa ja sosiaalisissa dimensioissa. Tulokset osoittavat, että immersio kehittyy hierarkkisesti: kehon vaikutukset edeltävät visuaalisia ja auditiivisia kokemuksia, ja koetut läsnäolot syntyvät vasta multisensorisen integraation ja 3D-spatiaalisen kehityksen jälkeen.",
+        "is": "Rannsókn með 23 þátttakendum sem fengu 20 mg intravenous DMT með samhliða fMRI-EEG skráningu einkennaði dýpkun sem skipulögð samfellumál með því að nota örfenómeníska greiningu. Nákvæmar viðtöl greindi 55 fenómenísk flokka yfir skynjunarvíddir, rúmfræðilega og félagslega vídd. Niðurstöður sýna að dýpkun þróast stigvaxandi: líkamleg áhrif á undan sjón og heyrn, og skynjuð tilvist kemur aðeins fram eftir fjöllæka samþættingu og þrívíddar rúmfræðilegri þróun.",
+        "et": "Uuringus 23 osalejale manustati 20 mg intravenaarset DMT-d samaaegsete fMRI-EEG salvestiste ajal. Mikro-fenomenoloogilise analüüsi abil kirjeldati immersioon struktureeritud spektrina. Üksikasjalikud intervjuud tuvastasid 125 fenomenoloogilist kategooriat sensoriaalsete, ruumiliste ja sotsiaalsete dimensioonide ulatuses. Tulemused näitavad, et immersiooni areng on hierarhiline: kehalised efektid eelnevad visuaalsetele ja auditiivsetele kogemustele, kusjuures tajutud kohalolu tekib alles pärast multisensoorset integreerimist ja 3D-ruumilise arengu kujunemist.",
+        "lv": "Pētījumā 23 dalībnieki saņēma 20 mg intravenoza DMT vienlaikus ar fMRI-EEG reģistrāciju. Izmantojot mikro-fenomenoloģisko analīzi, imersija tika raksturota kā strukturēts spektrs. Detalizēti intervijas identificēja 125 fenomenoloģiskas kategorijas sensorajos, telpiskajos un sociālajos aspektos. Rezultāti parāda hierarhisku imersijas attīstību: ķermeņa efekti parādās pirms vizuālajām un audiālajām pieredzēm, bet uztverte klātbūtne parādās tikai pēc multisensorās integrācijas un 3D-telpiskās attīstības.",
+        "lt": "Tyrime 23 dalyviai gavo 20 mg intraveninio DMT kartu su fMRI-EEG registracija. Naudojant mikro-fenomenologinę analizę, imersija buvo apibūdinta kaip struktūruotas spektras. Detalūs interviu nustatė 125 fenomenologines kategorijas sensorinėse, erdvinėse ir socialinėse dimensijose. Rezultatai rodo, kad imersija išsivysto hierarchiškai: kūno efektai yra prieš vizualias ir auditorines patirtis, o suvoktas buvimas atsiranda tik po multisensininės integracijos ir 3D-erdvinės raidos."
+      },
+      "notable": true,
+      "notable_reasons": {
+        "en": "First-in-human application of micro-phenomenology to DMT with simultaneous neuroimaging acquisition and detailed temporal analysis of immersive experience structure.",
+        "sv": "Första tillämpningen av micro-phenomenology på DMT hos människor med samtidig neuroimaging-insamling och detaljerad temporal analys av immersiv upplevelsens struktur.",
+        "no": "Første menneskeapplikasjon av micro-phenomenology på DMT med samtidig neuroimaging-akkvisisjon og detaljert temporal analyse av immersiv opplevelsesstruktur.",
+        "da": "Første menneskeapplikation af micro-phenomenology på DMT med samtidig neuroimaging-akkvisistion og detaljeret temporal analyse af immersiv oplevelsesstruktur.",
+        "fi": "Ensimmäinen micro-phenomenology-soveltaminen ihmisille DMT:llä samanaikaisella neuroimaging-keräyksellä ja yksityiskohtaisella temporal-analyysillä upottavan kokemuksen rakenteesta.",
+        "is": "Fyrri manneskja notkun micro-phenomenology á DMT með samtímis neuroimaging-söfnun og nákvæmri tímalegri greiningu á uppbyggingu dýrðlegrar reynslu.",
+        "et": "Esimene inimestel rakendatud micro-phenomenology DMT-le samaaegsete neuroimaging-andmete kogumise ja detailse ajaline analüüsiga süvendatud kogemuse struktuuri osas.",
+        "lv": "Pirmais micro-phenomenology pielietojums DMT ar vienlaicīgu neuroimaging datu uzkrāšanu un detalizētu laika analīzi par iegremdējošas pieredzes struktūru.",
+        "lt": "Pirmasis micro-phenomenology panaudojimas žmonėms su DMT kartu su vienalaiku neuroimaging duomenų rinkimu ir detaliu laikiniu imersyvios patirties struktūros analize."
+      },
+      "relevance_score": 4,
+      "study_type": "qualitative",
+      "substances": [
+        "other"
+      ],
+      "added_at": "2026-07-16T08:40:03.406447+00:00"
     },
     {
       "title": "Backed by $11M NIDA Grant, Harvard Moves Forward on Ibogaine for Opioid Use Disorder Research",
@@ -582,6 +684,35 @@
         "psilocybin"
       ],
       "added_at": "2026-07-08T09:05:02.359572+00:00"
+    },
+    {
+      "title": "Ionic Homeostasis Failure in Major Depressive Disorder: Ion Channel Mechanisms, Excitation-Inhibition Imbalance, and Precision Therapeutics.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42450349/",
+      "source": "PubMed",
+      "date": "2026-07-07",
+      "authors": [
+        "Seo Yohan"
+      ],
+      "doi": "10.3390/ijms27136084",
+      "summaries": {
+        "en": "A new framework proposes that major depressive disorder involves widespread failure of ionic homeostasis in neurons and glial cells. Genetic factors, chronic stress, and neuroinflammation disrupt calcium, potassium, and chloride balance, leading to excitation-inhibition imbalance and network instability. The review identifies key ion channels (CACNA1C, TREK-1, KCNQ, others) as therapeutic targets and discusses how ketamine, chloride-restoring drugs, and AI-guided approaches may enable precision treatments.",
+        "sv": "En ny modell föreslår att egentlig depression beror på störd jonhemostas i nervceller och gliakörtel. Genetiska faktorer, kronisk stress och neuroinflamation skadar kalcium-, kalium- och kloridbalansen, vilket orsakar obalans mellan excitation och inhibition samt nätverksininstabilitet. Översikten identifierar jonkanaler som terapeutiska mål och diskuterar hur ketamin, kloridåterställande läkemedel och AI-metoder kan möjliggöra precisionsterapi.",
+        "no": "En ny modell foreslår at alvorlig depresjon skyldes svikt i ionhemostase i nevroner og gliaceller. Genetiske faktorer, kronisk stress og nevroinflammation forstyrrer kalcium-, kalium- og kloridbalansen, noe som fører til ubalanse mellom eksitasjon og inhibisjon samt nettverksinsstabilitet. Oversikten identifiserer ionkanaler som terapeutiske mål og diskuterer hvordan ketamin, kloridgjenopprettende medikamenter og AI-tilnærminger kan muliggjøre presisjonsterapi.",
+        "da": "En ny model foreslår, at alvorlig depression skyldes svigt i ionhomøostase i neuroner og gliaceller. Genetiske faktorer, kronisk stress og neuroinflamation forstyrrer calcium-, kalium- og chloridbalancen, hvilket fører til ubalance mellem excitation og inhibition samt netværksinstabilitet. Oversigten identificerer ionkanaler som terapeutiske mål og diskuterer, hvordan ketamin, chloridgenoprettende lægemidler og AI-metoder kan muliggøre præcisionsterapi.",
+        "fi": "Uusi malli ehdottaa, että vaikea masennus johtuu ionhomostaasihäiriöistä hermosoluissa ja gliasoluissa. Geneettiset tekijät, krooninen stressi ja neuroinflamaatio häiritsevät kalsium-, kalium- ja kloridibalanssia, mikä johtaa hermosten ja estoon liittyvän tasapainon häiriöön sekä verkkoepävakaisuuteen. Katsaus tunnistaa ionikanavat terapeuttiiksi kohteiksi ja käsittelee, miten ketamiini, kloridia palauttavat lääkkeet ja tekoäly voivat mahdollistaa tarkkuuslääkehoitoa.",
+        "is": "Ný módel leggur til að alvarleg þunglyndi stafi af bilun í jónahreyfingu í taugafrumum og glíufrumum. Erfðaþættir, langvarandi streita og taugabelting trufla jafnvægi kalsíums, kalíums og klóríðs, sem veldur ójafnvægi á milli virkjunar og hemlunar og óstöðugleika netkerfis. Yfirlitin tilgreinir jónarásar sem meðferðarmarkmið og fjallar um hvernig ketan, klóríðendurkoma lyf og gervigreind geta gert nákvæmlækningu mögulaegu.",
+        "et": "Uus mudel pakub välja, et raske depressiooni põhjustab ioonhomeostaaasi häire neuronites ja gliarakus. Geneetilised tegurid, krooniline stress ja neuroinflammatsioon häirivad kaltsiumide, kaaliumit ja kloriidi tasakaalu, põhjustades ergastuse ja inhibitsiooni tasakaalu häire ning võrgustiku ebastabiilsust. Ülevaade identifitseerib ioonkanalid raviisikuloste ja arutab, kuidas ketamiin, kloriidi taastav ravi ja tehisintellekt võivad võimaldada täppsusmedikatsiini.",
+        "lv": "Jauns modelis piedāvā, ka smagas depresija ir causar jonhomostāzes mazspējas neironos un glijas šūnās. Ģenētiski faktori, hroniski stress un neuroinflamācija traucē kalcija, kālija un hlora līdzsvaru, izraisot ekscitācijas-inhibīcijas disbalanci un tīkla nestabilitāti. Pārskats identificē jonkanālus kā terapeitiska mērķa un apspriež, kā ketamīns, hlora atjaunošanas zāles un mākslīgā intelektuāļa pieejas var padarīt precīziju ārstēšanu iespējamu.",
+        "lt": "Naujas modelis siūlo, kad sunkus depresija yra dėl jonų homeostazės nesėkmės neuronimuose ir glijiniuose ląsteliuose. Genetiniai veiksniai, chroninis stresas ir neurouždegimas trikdo kalcio, kalio ir chlorido pusiausvyrą, dėl kurio atsiranda jaudinimo ir slopinimo disbalanso bei tinklo nestabilumo. Apžvalga identifikuoja jonų kanalus kaip terapeutinius tikslus ir aptaria, kaip ketaminas, chloridą atkuriančiai vaistai ir dirbtinis intelektas gali leisti tikslią terapiją."
+      },
+      "notable": false,
+      "notable_reasons": null,
+      "relevance_score": 4,
+      "study_type": "review",
+      "substances": [
+        "ketamine"
+      ],
+      "added_at": "2026-07-16T08:40:03.406447+00:00"
     },
     {
       "title": "Association between Intravenous Ketamine Treatment and Cognitive Function in Patients with Treatment-Resistant Depression: A Double-Blind, Randomized, Placebo-Controlled Trial.",
@@ -1708,140 +1839,6 @@
       "substances": [
         "other"
       ]
-    },
-    {
-      "title": "Multi-metric evaluations of acute psychedelic effects on fMRI brain entropy.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42343098/",
-      "source": "PubMed",
-      "date": "2026-Jun",
-      "summaries": {
-        "en": "Study of 28 participants examined how psilocybin affects brain entropy using fMRI. Thirteen different entropy metrics from previous research were tested with 121 scans. Five metrics showed consistent increases: Shannon entropy, path-length, instantaneous correlations, brain-state switching, and sample entropy. Eight metrics showed no significant effects, while Lempel-Ziv complexity showed inconsistent results. Findings indicate brain entropy changes are metric-dependent and do not represent a single construct.",
-        "sv": "Studie med 28 deltagare undersökte hur psilocybin påverkar hjärnentropin med fMRI. Tretton olika entropimått från tidigare forskning testades med 121 skanningar. Fem mått visade konsistenta ökningar: Shannon-entropi, väglängd, momentana korrelationer, hjärnstillståndsväxling och sampel-entropi. Åtta mått visade ingen signifikant effekt, medan Lempel-Ziv-komplexitet visade inkonsistenta resultat. Fynd indikerar att hjärnentropiförändringar är måttberoende och representerar inte en enhetlig konstruktion.",
-        "no": "Studie med 28 deltakere undersøkte hvordan psilocybin påvirker hjernens entropi med fMRI. Tretten ulike entropimål fra tidligere forskning ble testet med 121 skanninger. Fem mål viste konsistente økninger: Shannon-entropi, stileingth, øyeblikkelige korrelasjoner, hjernestilstands-bytte og prøveentropi. Åtte mål viste ingen signifikant effekt, mens Lempel-Ziv-kompleksitet viste inkonsistente resultater. Funn indikerer at hjernsentropiendringer er målabhengige og representerer ikke en enhetlig konstrukt.",
-        "da": "Studie med 28 deltagere undersøgte hvordan psilocybin påvirker hjernens entropi med fMRI. Tretten forskellige entropimål fra tidligere forskning blev testet med 121 scanninger. Fem mål viste konsistente stigninger: Shannon-entropi, stiængde, øjeblikkelige korrelationer, hjernestilstandsskift og prøveentropi. Otte mål viste ingen signifikant effekt, mens Lempel-Ziv-kompleksitet viste inkonsistente resultater. Resultater indikerer, at hjernentropiændringer er målafhængige og ikke repræsenterer en enhedlig konstruktion.",
-        "fi": "Tutkimuksessa 28 osallistujalla tutkittiin, kuinka psilosybiini vaikuttaa aivoen entropiaan fMRI:llä. Kolmetoista erilaista entropian mittaria aikaisemmasta tutkimuksesta testattiin 121 skannauksella. Viisi mittaria osoittivat johdonmukaisia nousuja: Shannon-entropia, polun pituus, hetkittäiset korrelaatiot, aivotilan vaihtuminen ja näyteentropia. Kahdeksan mittaria eivät osoittaneet merkitseviä vaikutuksia, kun taas Lempel-Ziv-kompleksiteetti osoitti epäjohdonmukaisia tuloksia. Tulokset viittaavat siihen, että aivoentropia muutokset ovat mittariin riippuvaisia eivätkä edusta yksittäistä rakennetta.",
-        "is": "Rannsókn með 28 þátttakendum kannaði hvernig psílósýbín hefur áhrif á óreiðu heila með fMRI. Þrettán mismunandi óreiðumælikvarðar frá fyrri rannsóknum voru prófaðir með 121 skönnun. Fimm mælikvarðar sýndu stöðuga aukningu: Shannon-óreiðu, slóðalengd, tafarlaus fylgni, skipti heilastöðu og dæmis-óreiðu. Átta mælikvarðar sýndu engar marktækar áhrif, en Lempel-Ziv-flókið sýndi ósamkvæm niðurstöðu. Niðurstöður benda til að breytingar á óreiðu heila eru háðar mælikvarða og eru ekki ein byggð hugmynd.",
-        "et": "Uuringus 28 osalejaga uuriti, kuidas psilotsüün mõjutab aju entroopiat fMRI-ga. Kolmeteist erinevat entroopia mõõtmist varasemates uuringutes testiti 121 skannimisega. Viis mõõtmist näitasid järjekindlat tõusu: Shannoni entroopia, tee pikkus, hetkelised korrelatsioonid, aju seisundi vahetamine ja valimi entroopia. Kaheksa mõõtmist ei näidanud olulist mõju, samas Lempel-Zivi keerukus näitas ebajärjekindlaid tulemusi. Tulemused näitavad, et aju entroopia muutused sõltuvad mõõtmisest ja ei esinda ühtset konstrukti.",
-        "lv": "Pētījumā ar 28 dalībniekiem pārbaudīja, kā psilotsibīns ietekmē smadzeņu entropiju, izmantojot fMRI. Trīspadsmit dažādi entropijas mēri no iepriekšējiem pētījumiem tika pārbaudīti ar 121 skenējumu. Pieci mēri parādīja konsekventi pieaugumus: Šennona entropija, ceļa garums, momentānā korelācija, smadzeņu stāvokļa maiņa un parauga entropija. Astoņi mēri neparādīja nozīmīgus efektus, bet Lempel-Ziv sarežģītība parādīja nekonsekventi rezultātus. Atklājumi liecina, ka smadzeņu entropijas izmaiņas ir atkarīgas no mēra un nav vienota jēdziena.",
-        "lt": "Tyrime su 28 dalyviais buvo tiriama, kaip psilocibinas veikia smegenų entropiją naudojant fMRI. Trylika skirtingų entropijos metrikų iš ankstesnių tyrimų buvo išbandyti su 121 skenimu. Penki metrikai parodė nuoseklų padidėjimą: Shannon entropija, kelio ilgis, momentinės koreliacijos, smegenų būsenos persijungimas ir imties entropija. Aštuoni metrikai neparodė reikšmingų efektų, o Lempel-Ziv sudėtingumas parodė nesuderintus rezultatus. Rezultatai rodo, kad smegenų entropijos pokyčiai priklauso nuo metricos ir neatspindi vieningo konstrukto."
-      },
-      "added_at": "2026-06-28T21:45:23.980905+00:00",
-      "relevance_score": 3,
-      "study_type": "observational",
-      "substances": [
-        "psilocybin"
-      ]
-    },
-    {
-      "title": "Mechanistic insights toward dissociating therapeutic from psychedelic effects: bridging the gap between psychedelic research and mental health care.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42342649/",
-      "source": "PubMed",
-      "date": "2026-Jun",
-      "summaries": {
-        "en": "Clinical trials show promise for classical psychedelics in treating depression and anxiety through effects like default mode network suppression. However, intense subjective experiences require extensive preparation and integration support, limiting scalability and excluding vulnerable populations. Research increasingly explores whether therapeutic benefits can be separated from consciousness-altering effects using pharmacological approaches like 5-HT2A receptor modulation.",
-        "sv": "Kliniska prövningar visar lovande resultat för klassiska psykedelika vid behandling av depression och ångest genom effekter som undertryckning av default mode network. Intensiva subjektiva upplevelser kräver dock omfattande förberedelse och integrering, vilket begränsar skalbarhet och utesluter sårbara grupper. Forskningen utforskar allt mer om terapeutiska fördelar kan separeras från medvetandealterering via farmakologiska metoder som 5-HT2A-receptormodulering.",
-        "no": "Kliniske studier viser lovende resultater for klassiske psykedelika ved behandling av depresjon og angstlidelser gjennom effekter som demping av default mode network. Intense subjektive opplevelser krever imidlertid omfattende forberedelse og integrasjonsstøtte, noe som begrenser skalering og utelukker sårbare grupper. Forskningen utforsker i økende grad om terapeutiske fordeler kan skilles fra bevissthetsendrende effekter via farmakologiske tilnærminger som 5-HT2A-reseptormodulering.",
-        "da": "Kliniske forsøg viser lovende resultater for klassiske psykedelika ved behandling af depression og angstlidelser gennem effekter som undertrykkelse af default mode network. Intense subjektive oplevelser kræver dog omfattende forberedelse og integrering, hvilket begrænser skalabilitet og udelukker sårbare populationer. Forskningen udforsker i stigende grad, om terapeutiske fordele kan adskilles fra bevidsthedsoprændring via farmakologiske metoder som 5-HT2A-receptormodulering.",
-        "fi": "Kliiniset tutkimukset osoittavat lupaavia tuloksia klassisilla psykedeelikoilla masennuksen ja ahdistuneisuushäiriöiden hoidossa vaikutusten, kuten oletuseläimen verkon tukahduttamisen, kautta. Voimakkaat subjektiiviset kokemukset vaativat kuitenkin laajaa valmistautumista ja integraatiotukea, mikä rajoittaa skaalattavuutta ja sulkee pois haavoittuvat väestöryhmät. Tutkimus tutkii yhä enemmän mahdollisuutta erottaa terapeuttinen hyöty tajunnan muuttavista vaikutuksista farmakologisten lähestymistapojen, kuten 5-HT2A-reseptorin modulaation, avulla.",
-        "is": "Klínískar rannsóknir sýna efnilegri niðurstöður fyrir klassíska sáleinkaforrita við meðferð þunglyndis og kvídaaflita með áhrifum eins og dempun á sjálfgefna netkerfið. Miklar huglægar reynslu krefjast þó umfangsmikilla undirbúnings og samþættingar, sem takmarkar stærðfræði og útilokar viðkvæma hópa. Rannsóknir kanna í auknum mæli hvort hægt sé að aðgreina meðferðarávinning frá vitundarbreytandi áhrifum með lyfjafræðilegum aðferðum eins og 5-HT2A viðtakendabreytingu.",
-        "et": "Kliinilised uuringud näitavad paljulubavaid tulemusi klassikaliste psühhedeelikumidega depressiooni ja ärevushäirete ravil vaikutuste kaudu, nagu vaikimisi võrgustiku pärssimine. Intensiivsed subjektiivsed kogemused nõuavad siiski ulatuslikku ettevalmistamist ja integreerimist, mis piirab skaleeritavust ja välistab haavatavad rühmad. Uuringud uurivad üha rohkem võimalust lahutada teraapiline kasu teadvuse muutvatest mõjudest farmakoloogiliste lähenemisviisidega, nagu 5-HT2A retseptori modulatsioon.",
-        "lv": "Klīniskais pētījumi parāda daudzsološus rezultātus ar klasiskajiem psihedeliķiem depresijas un trauksmes traucējumu ārstēšanā, izmantojot efektus, piemēram, noklusējuma tīkla nomācianu. Tomēr intensīvi subjektīvie pieredzes prasīgu plašu sagatavošanu un integrāciju, kas ierobežo mērogojamību un izslēdz neaizsargātas populācijas. Pētniecība arvien vairāk pēta, vai var atdalīt terapeitiskos ieguvumus no apziņas pārmaiņu efektiem, izmantojot farmakologiskas pieejas, piemēram, 5-HT2A receptoru modulāciju.",
-        "lt": "Klinikiniai tyrimai rodo žadančius rezultatus su klasikiniais psichedelikais gydant depresiją ir nerimą sukėlusias sutrikdymus, naudojant tokius efektus kaip numatytojo režimo tinklo slopinimas. Tačiau intensyvūs subjektyvūs patyriai reikalauja plačaus pasiruošimo ir integracijos, kurie riboja mastelį ir neįtraukia jautrių grupių. Tyrimai vis dažniau tiria galimybę atskirti terapinius pranašumus nuo sąmonės keitimosi efektų, naudojant farmakologinius požiūrius, tokius kaip 5-HT2A receptorių moduliacija."
-      },
-      "added_at": "2026-06-28T21:45:23.980905+00:00",
-      "relevance_score": 3,
-      "study_type": "review",
-      "substances": [
-        "other"
-      ]
-    },
-    {
-      "title": "Classic psychedelics and personality: An updated systematic review",
-      "url": "https://doi.org/10.1177/02698811261449386",
-      "source": "OpenAIRE",
-      "date": "2026-05-31",
-      "authors": [
-        "Anna Beatriz Vicentini",
-        "Caio César de Paula",
-        "José Augusto Silva Reis"
-      ],
-      "doi": "10.1177/02698811261449386",
-      "summaries": {
-        "en": "Updated systematic review (2016–2024) examining how classic psychedelics (5-HT2A agonists) affect personality traits. Analysis of randomized controlled trials, open-label, and observational studies across four databases, using validated personality assessment instruments. Contradictory prior findings suggest need for systematic evaluation of mechanisms underlying personality changes linked to serotonergic receptor agonism.",
-        "sv": "Uppdaterad systematisk granskning (2016–2024) som undersöker hur klassiska psykedelika (5-HT2A-agonister) påverkar personlighetsegenskaper. Analys av randomiserade kontrollerade studier, öppna försök och observationsstudier från fyra databaser med validerade personlighetsassessmentinstrument. Motsägelsefulla tidigare resultat påpekar behovet av systematisk utvärdering av mekanismer bakom personlighetsförändringar.",
-        "no": "Oppdatert systematisk gjennomgang (2016–2024) som undersøker hvordan klassiske psykedelika (5-HT2A-agonister) påvirker personlighetstrekk. Analyse av randomiserte kontrollerte studier, åpne forsøk og observasjonsstudier fra fire databaser med validerte personlighetsvurderingsinstrumenter. Motstridende tidligere funn understreker behovet for systematisk evaluering av mekanismer bak personlighetsendringer.",
-        "da": "Opdateret systematisk oversigt (2016–2024) der undersøger, hvordan klassiske psykedelika (5-HT2A-agonister) påvirker personlighedstræk. Analyse af randomiserede kontrollerede studier, åbne forsøg og observationsstudier fra fire databaser med validerede personlighedsvurderingsinstrumenter. Modstridende tidligere resultater understreger behovet for systematisk evaluering af mekanismer bag personlighedsændringer.",
-        "fi": "Päivitetty systemaattinen katsaus (2016–2024), joka tutkii, kuinka klassiset psykedeellit (5-HT2A-agonistit) vaikuttavat persoonallisuuden piirteisiin. Analysoitiin satunnaistettuja kontrolloituja tutkimuksia, avoimia kokeita ja observaatiotutkimuksia neljästä tietokannasta käyttäen validoituja persoonallisuuden arviointimittareita. Ristiriitaiset aiemmat tulokset korostavat systemaattisen arvioinnin tarvetta persoonallisuuden muutoksiin liittyvistä mekanismeista.",
-        "is": "Uppfærð kerfisbundin yfirlit (2016–2024) um áhrif klassískra sáleinkenjavaka (5-HT2A-agonista) á persónuleikaeinkenni. Greining á handahófskenndum stýrðum rannsóknum, opnum tilraunum og athugunarrannsóknum úr fjórum gagnagrunnum með staðfestum persónuleikamælitækjum. Misvísandi fyrri niðurstöður benda til þarfa fyrir kerfisbundna mat á aðferðum persónuleikabreytinga.",
-        "et": "Värskendatud süstemaatiline ülevaade (2016–2024) klassikaliste psühhedeeliku (5-HT2A-agoniidid) mõjust isiksuse omadustele. Analüüs randomiseeritud kontrollitud uuringutest, avatud uuringutest ja vaatlus-uuringutest neljast andmebaasist valideeritud isiksuse hindamismõõtkavade abil. Vastuolulised varasemat tulemused näitavad vajadust süstemaatiliseks hindamiseks isiksuse muutustega seotud mehhanismide osas.",
-        "lv": "Atjaunota sistēmiska pārskats (2016–2024) par klasisko psihedeliku (5-HT2A agonisti) ietekmi uz personības īpašībām. Analize randomizēto kontrolēto pētījumu, atvērto pētījumu un novērošanas pētījumu no četrām datu bāzēm, izmantojot validētus personības novērtēšanas instrumentus. Pretrunīgie iepriekšējie rezultāti norāda uz nepieciešamību sistemātiski novērtēt personības izmaiņu pamatā esošos mehānismus.",
-        "lt": "Atnaujinta sisteminė apžvalga (2016–2024) apie klasikinių psichedelikų (5-HT2A agonistai) poveikį asmenybės savybėms. Analizė randomizuotų kontroliuojamų tyrimų, atvirų tyrimų ir stebimųjų tyrimų iš keturių duomenų bazių, naudojant validuotus asmenybės vertinimo instrumentus. Prieštaringi ankstesni rezultatai rodo sistematingo asmenybės pokyčių mechanizmų vertinimo poreikį."
-      },
-      "notable": true,
-      "notable_reasons": {
-        "en": "Updated systematic review (2016–2024) on classic psychedelics and personality traits, synthesizing evidence across multiple compounds and study designs.",
-        "sv": "Uppdaterad systematisk översikt (2016–2024) om klassiska psykedelika och personlighetsdrag, som syntetiserar bevis från flera substanser och studiedesigner.",
-        "no": "Oppdatert systematisk oversikt (2016–2024) om klassiske psykedelika og personlighetstrekk, som syntetiserer bevis på tvers av flere forbindelser og studiedesign.",
-        "da": "Opdateret systematisk oversigt (2016–2024) om klassiske psykedelika og personlighedstræk, som syntetiserer evidens på tværs af flere forbindelser og studiedesign.",
-        "fi": "Päivitetty järjestelmällinen katsaus (2016–2024) klassisista psykedeleista ja persoonallisuuden piirteistä, syntetisöiden näyttöä useista yhdisteistä ja tutkimusmalleista.",
-        "is": "Uppfærð kerfisbundin endurskoðun (2016–2024) um klassíska sálfræðilega víma og persónuleikaeinkenni, sem safnar saman sönnunargögnum frá mörgum efnum og rannsóknarkerfum.",
-        "et": "Värskendatud süstemaatiline ülevaade (2016–2024) klassikaliste psühhedeelikate ja isiksuse tunnuste kohta, mis koondab tõendeid mitme ühendi ja uuringudisaini lõikes.",
-        "lv": "Atjauninātais sistematiskais pārskats (2016–2024) par klasiskajiem psihedelikiem un personības iezīmēm, kas sintezē pierādījumus vairākos savienojumos un pētījumu projektos.",
-        "lt": "Atnaujinta sisteminė apžvalga (2016–2024) apie klasikinius psichedelikus ir asmenybės bruožus, sintetinanti įrodymus iš kelių medžiagų ir tyrimų dizainų."
-      },
-      "relevance_score": 4,
-      "study_type": "review",
-      "substances": [
-        "psilocybin",
-        "lsd",
-        "ayahuasca",
-        "mescaline"
-      ],
-      "added_at": "2026-07-09T10:03:12.956794+00:00"
-    },
-    {
-      "title": "A systematic review of the pharmacokinetics of classical serotonergic psychedelic compounds in healthy adult subjects",
-      "url": "https://doi.org/10.1177/02698811261453938",
-      "source": "OpenAIRE",
-      "date": "2026-05-29",
-      "authors": [
-        "Elliot Hampsey",
-        "Kirsty Martin",
-        "Michail Kalfas"
-      ],
-      "doi": "10.1177/02698811261453938",
-      "summaries": {
-        "en": "Systematic review of 32 trials examining pharmacokinetics of classical serotonergic psychedelics (LSD, psilocybin, DMT, mescaline, 5-MeO-DMT) in healthy adults. LSD most studied, followed by DMT across intravenous and oral routes. Key findings: dose-proportional peak concentrations for LSD and psilocybin; notable differences between administration routes.",
-        "sv": "Systematisk översikt av 32 studier om farmakokinetiken för klassiska serotonerga psykedelika (LSD, psilocybin, DMT, meskalin, 5-MeO-DMT) hos friska vuxna. LSD mest studerat, följt av DMT via intravenös och oral väg. Huvudresultat: dosproportionella toppkoncentrationer för LSD och psilocybin; skillnader mellan administreringsvägar.",
-        "no": "Systematisk gjennomgang av 32 studier om farmakokinetikken til klassiske serotonerge psykedelika (LSD, psilocybin, DMT, meskalin, 5-MeO-DMT) hos friske voksne. LSD mest studert, fulgt av DMT via intravenøs og oral rute. Hovedfunn: doseavhengige toppkonsentrasjoner for LSD og psilocybin; forskjeller mellom administreringsmåter.",
-        "da": "Systematisk oversigt over 32 studier af farmakokinetikken for klassiske serotonerge psykedelika (LSD, psilocybin, DMT, meskalin, 5-MeO-DMT) hos raske voksne. LSD mest undersøgt, efterfulgt af DMT via intravenøs og oral vej. Nøglefund: dosisafhængige makskoncentrationer for LSD og psilocybin; forskelle mellem administrationsveje.",
-        "fi": "Systemaattinen katsaus 32 tutkimukseen klassisten serotonergisten psykedeliikkojen (LSD, psilosybiini, DMT, meskaaliini, 5-MeO-DMT) farmakokinetiiasta terveillä aikuisilla. LSD eniten tutkittu, DMT seuraavaksi intravenaarisen ja suullisen antotavan välillä. Keskeiset löydökset: annosnaiset huippupitoisuudet LSD:lle ja psilosybiinille; erot antotapojen välillä.",
-        "is": "Kerfræðileg endurskoðun á 32 rannsóknum um lyfjahverfingu klassískra serótónínerga sálfræðilyfja (LSD, psilosýbín, DMT, meskalín, 5-MeO-DMT) hjá heilbrigðum fullorðnum. LSD mest rannsokað, síðan DMT með intravenófullum og munnlegum leiðum. Lykilniðurstöður: skammtasamhæfð hámarksþéttni fyrir LSD og psilosýbín; mismunur á milli inngerðarleiða.",
-        "et": "Süstemaatiline ülevaade 32 uuringust klassikaliste serotonergiliste psühhedeelikumide (LSD, psülotsübiin, DMT, meskaliin, 5-MeO-DMT) farmakokineetikast tervetel täiskasvanutel. LSD kõige uuritud, millele järgneb DMT intravenoosne ja oraalne manustamisviis. Peamised tulemused: LSD ja psülotsübiini annosesoortne maksimaalne kontsentratsioon; manustamisviiside erinevused.",
-        "lv": "Sistematisks pārskats par 32 pētījumiem par klasisko serotonerģisko psihedeliku (LSD, psilocibīns, DMT, meskaliīns, 5-MeO-DMT) farmakokinētiku veseliem pieaugušajiem. Visvairāk pētīts LSD, kam seko DMT intravēnozajā un mutvārdu formās. Galvenie atradumi: dozas proporcionālas maksimālās koncentrācijas LSD un psilocibīnam; atšķirības starp ievadīšanas ceļiem.",
-        "lt": "Sisteminė 32 tyrimų apžvalga dėl klasikinių serotoninergų psichedelikų (LSD, psilocibino, DMT, meskalino, 5-MeO-DMT) farmakokinetikos sveikiems suaugusiems. Labiausiai tirtas LSD, po to DMT per intravenozinį ir oralinį būdą. Pagrindiniai rezultatai: proporcingi didžiausi LSD ir psilocibino koncentracijos; skirtumai tarp skyrimo būdų."
-      },
-      "notable": true,
-      "notable_reasons": {
-        "en": "Systematic review synthesizing pharmacokinetic data across 32 trials of multiple classical psychedelics (LSD, psilocybin, DMT, mescaline, 5-MEO-DMT), providing foundational neuroscience understanding for clinical development.",
-        "sv": "Systematic review synthesizing pharmacokinetic data across 32 trials of multiple classical psychedelics (LSD, psilocybin, DMT, mescaline, 5-MEO-DMT), providing foundational neuroscience understanding for clinical development.",
-        "no": "Systematic review synthesizing pharmacokinetic data across 32 trials of multiple classical psychedelics (LSD, psilocybin, DMT, mescaline, 5-MEO-DMT), providing foundational neuroscience understanding for clinical development.",
-        "da": "Systematic review synthesizing pharmacokinetic data across 32 trials of multiple classical psychedelics (LSD, psilocybin, DMT, mescaline, 5-MEO-DMT), providing foundational neuroscience understanding for clinical development.",
-        "fi": "Systematic review synthesizing pharmacokinetic data across 32 trials of multiple classical psychedelics (LSD, psilocybin, DMT, mescaline, 5-MEO-DMT), providing foundational neuroscience understanding for clinical development.",
-        "is": "Systematic review synthesizing pharmacokinetic data across 32 trials of multiple classical psychedelics (LSD, psilocybin, DMT, mescaline, 5-MEO-DMT), providing foundational neuroscience understanding for clinical development.",
-        "et": "Systematic review synthesizing pharmacokinetic data across 32 trials of multiple classical psychedelics (LSD, psilocybin, DMT, mescaline, 5-MEO-DMT), providing foundational neuroscience understanding for clinical development.",
-        "lv": "Systematic review synthesizing pharmacokinetic data across 32 trials of multiple classical psychedelics (LSD, psilocybin, DMT, mescaline, 5-MEO-DMT), providing foundational neuroscience understanding for clinical development.",
-        "lt": "Systematic review synthesizing pharmacokinetic data across 32 trials of multiple classical psychedelics (LSD, psilocybin, DMT, mescaline, 5-MEO-DMT), providing foundational neuroscience understanding for clinical development."
-      },
-      "relevance_score": 4,
-      "study_type": "review",
-      "substances": [
-        "lsd",
-        "psilocybin",
-        "mescaline",
-        "other"
-      ],
-      "added_at": "2026-07-09T10:03:12.956794+00:00"
     }
   ]
 }

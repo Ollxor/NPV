@@ -1,6 +1,83 @@
 {
   "items": [
     {
+      "title": "Psilocybin's effect on human brain synaptic plasticity.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42457666/",
+      "source": "PubMed",
+      "date": "2026-07-15",
+      "authors": [
+        "Johansen Annette",
+        "Plavén-Sigray Pontus",
+        "Madsen Martin K"
+      ],
+      "doi": "10.1038/s41398-026-04285-y",
+      "summary_en": "Single-dose psilocybin study (0.3 mg/kg, n=15) measured synaptic density changes via PET imaging in frontal cortex and hippocampus. No significant overall increase in synaptic markers was found. However, participants in therapeutic-like settings reported stronger mystical experiences and greater synaptic density increases than those in MRI scanners, suggesting environmental context modulates psilocybin's neuroplastic effects.",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "observational",
+      "substances": [
+        "psilocybin"
+      ],
+      "added_at": "2026-07-16T08:40:03.406447+00:00"
+    },
+    {
+      "title": "From Schedule I to the Clinic-Insights Into Psychedelic Drug Development From GHB.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42455552/",
+      "source": "PubMed",
+      "date": "2026-07-15",
+      "authors": [
+        "Barnett Brian S",
+        "King Franklin"
+      ],
+      "doi": "10.1001/jamapsychiatry.2026.1901",
+      "summary_en": "This viewpoint examines sodium oxybate (GHB) as a case study for how Schedule I substances, including psychedelics, can navigate regulatory pathways toward clinical approval. The analysis illustrates regulatory mechanisms that may apply to psychedelic drug development.",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "other",
+      "substances": [
+        "other"
+      ],
+      "added_at": "2026-07-16T08:40:03.406447+00:00"
+    },
+    {
+      "title": "Micro-phenomenology of immersion and perceived presences under DMT.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42454183/",
+      "source": "PubMed",
+      "date": "2026-07-14",
+      "authors": [
+        "Sanders James W",
+        "Millière Raphaël",
+        "Demšar Ema"
+      ],
+      "doi": "10.1093/nc/niag015",
+      "summary_en": "Study of 23 participants receiving 20 mg intravenous DMT with concurrent fMRI-EEG monitoring characterized immersion as a structured continuum using micro-phenomenological analysis. Detailed interviews identified 125 phenomenological categories across sensory, spatial, and social dimensions. Results show immersion develops hierarchically: bodily effects precede visual and auditory experiences, with perceived presences emerging only after multisensory integration and 3D spatial development.",
+      "notable": true,
+      "notable_reason": "First-in-human application of micro-phenomenology to DMT with simultaneous neuroimaging acquisition and detailed temporal analysis of immersive experience structure.",
+      "study_type": "qualitative",
+      "substances": [
+        "other"
+      ],
+      "added_at": "2026-07-16T08:40:03.406447+00:00"
+    },
+    {
+      "title": "Ionic Homeostasis Failure in Major Depressive Disorder: Ion Channel Mechanisms, Excitation-Inhibition Imbalance, and Precision Therapeutics.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42450349/",
+      "source": "PubMed",
+      "date": "2026-07-07",
+      "authors": [
+        "Seo Yohan"
+      ],
+      "doi": "10.3390/ijms27136084",
+      "summary_en": "A new framework proposes that major depressive disorder involves widespread failure of ionic homeostasis in neurons and glial cells. Genetic factors, chronic stress, and neuroinflammation disrupt calcium, potassium, and chloride balance, leading to excitation-inhibition imbalance and network instability. The review identifies key ion channels (CACNA1C, TREK-1, KCNQ, others) as therapeutic targets and discusses how ketamine, chloride-restoring drugs, and AI-guided approaches may enable precision treatments.",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "review",
+      "substances": [
+        "ketamine"
+      ],
+      "added_at": "2026-07-16T08:40:03.406447+00:00"
+    },
+    {
       "title": "Backed by $11M NIDA Grant, Harvard Moves Forward on Ibogaine for Opioid Use Disorder Research",
       "url": "https://psychedelicalpha.com/news/backed-by-11m-nida-grant-harvard-moves-forward-on-ibogaine-for-opioid-use-disorder-research/",
       "source": "Psychedelic Alpha",

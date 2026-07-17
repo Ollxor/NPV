@@ -1,7 +1,83 @@
 {
-  "date": "2026-07-16",
-  "cached_at": "2026-07-16T08:08:57.687416+00:00",
+  "date": "2026-07-17",
+  "cached_at": "2026-07-17T08:05:33.439624+00:00",
   "articles": [
+    {
+      "title": "Integrated 5-HT",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42463904/",
+      "source": "PubMed",
+      "abstract": "Serotonergic psychedelics have attracted considerable interest as promising therapeutic agents. However, the molecular mechanisms linking their acute hallucinogenic-like effects to longer-lasting neuroplastic responses remain incompletely understood, partly because of the scarcity of native neural models suitable for mechanistic studies. Here, we developed a neural stem cell-derived in vitro model capable of differentiating into neuronal and glial lineages and, after characterization, used it to investigate the molecular pharmacology of serotonergic psychedelics. A panel comprising tryptamines, phenethylamines and ergolines, including psychedelic compounds and selected non-psychedelic analogues, was evaluated alongside ketamine and TrkB agonists. Endpoints included dendritogenesis, synaptogenesis, immediate-early gene induction, BDNF expression and lactate production. TrkB silencing abolished dendritogenic responses to serotonergic psychedelics, ketamine and TrkB agonists, whereas 5-HT",
+      "date": "2026-07-16",
+      "authors": [
+        "Taddei-Tardón Marco",
+        "Medina-Rodríguez Lidia",
+        "Maltman Jessica L"
+      ],
+      "doi": "10.1038/s41380-026-03746-6"
+    },
+    {
+      "title": "Serum brain-derived neurotrophic factor following oral esketamine in treatment-resistant depression: Results from a randomized placebo-controlled trial.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42462931/",
+      "source": "PubMed",
+      "abstract": "Ketamine and its enantiomer esketamine are efficacious in 30-35% of the patients with treatment-resistant depression (TRD). Increased serum brain-derived neurotrophic factor (BDNF) following treatment has been proposed as a potential biomarker of antidepressant response. This is based on studies evaluating single intravenous ketamine treatment. BDNF expression at different treatment schedules remains unclear. This study investigated the effects of daily, low-dose, oral (PO) esketamine on serum BDNF levels in TRD. Biomaterials were obtained from a randomized, placebo-controlled trial investigating six-week PO esketamine treatment (90 mg/day, three 30 mg intakes) that found no difference between conditions on the primary outcome (Hamilton Depression Rating Scale). Depression severity and serum BDNF levels were assessed in 54 patients at baseline, end of treatment, and after a four-week washout period. Repeated measures analyses of variance (ANOVA) were conducted to test the effect of treatment on depression severity and BDNF. Pearson's correlation analysis evaluated the association between changes in depression severity, ketamine metabolites and BDNF. The change in BDNF levels during treatment did not significantly differ between the esketamine and placebo group during treatment or washout. An increase in BDNF (F(1,50) = 4.606, p = 0.037) was found irrespective of treatment condition. In the esketamine arm, BDNF changes did not correlate with changes in depression severity, nor with metabolites levels. Repeated, low-dose, PO esketamine did not increase serum BDNF relative to placebo. While consistent with its limited clinical efficacy, it remains uncertain whether this reflects an unreached pharmacological threshold to engage synaptic plasticity.",
+      "date": "2026-07-16",
+      "authors": [
+        "Massetti Sara",
+        "Smith-Apeldoorn Sanne Y",
+        "Veraart Jolien K E"
+      ],
+      "doi": "10.1016/j.jad.2026.122265"
+    },
+    {
+      "title": "Test-retest reliability of early TMS-evoked potentials over fMRI-based definitions of non-motor targets.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42462581/",
+      "source": "PubMed",
+      "abstract": "This study assessed the test-retest reliability of TMS-evoked potentials (TEPs) across two cortical regions-dorsolateral prefrontal cortex (DLPFC), and angular gyrus-in comparison to motor cortex (M1), using individualized and literature-based targeting approaches. The study also compared the reliability of different double-pulse TMS protocols. Seventeen healthy participants underwent two TMS-EEG sessions spaced by at least one week, with targets for DLPFC and angular gyrus identified using resting-state functional connectivity (RS) and Neurosynth-based functional overlays. M1 demonstrated the highest TEP reliability (Concordance Correlation Coefficient (CCC) mean = 0.59), while DLPFC (CCCmean = 0.40) and angular gyrus (CCCmean = 0.45) showed lower reliability, particularly for anterior DLPFC targets. Neurosynth-based DLPFC targets exhibited slightly higher CCC values (mean CCC = 0.57) compared to RS-based targets (mean CCC = 0.30), but the difference was not statistically significant. No significant differences in reliability were found across TMS protocols. While fMRI-based targeting optimizes the engagement of functional networks, TMS-EEG needs to prioritize signal-to-noise ratio (SNR) to minimize artifacts and maximize reliability. This work bridges the gap between fMRI-guided targeting and TMS-EEG applications.",
+      "date": "2026-07-03",
+      "authors": [
+        "Sayalı Ceyda",
+        "Gogulski Juha",
+        "Granö Ida"
+      ],
+      "doi": "10.1016/j.clinph.2026.2112327"
+    },
+    {
+      "title": "Generalizable structure-function covariation predictive of antidepressant response revealed by target-oriented multimodal fusion.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42460432/",
+      "source": "PubMed",
+      "abstract": "Major depressive disorder (MDD) is a prevalent condition that profoundly impairs quality of life across diverse populations. Despite widespread use, current antidepressant and psychotherapeutic treatments exhibit limited efficacy and unsatisfactory response rates. Progress in developing effective therapies is hampered by the insufficiently understood heterogeneity of MDD and its elusive underlying mechanisms. Here, to address these challenges, we develop a novel machine learning framework that identifies structure-function covariation through target-oriented fusion of structural and functional connectivity, which robustly predicts individual-level antidepressant response (sertraline,",
+      "date": "2025-12-12",
+      "authors": [
+        "Tong Xiaoyu",
+        "Zhao Kanhao",
+        "Fonzo Gregory A"
+      ],
+      "doi": "10.1038/s44220-025-00541-0"
+    },
+    {
+      "title": "Turkish validity and reliability study of the Alcohol, Smoking, and Substance Involvement Screening Test (ASSIST) Scale.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42459582/",
+      "source": "PubMed",
+      "abstract": "The use of alcohol, cigarettes, and substances contributes to the global burden of disease and causes acute harms, including high-dose use, as well as chronic problems such as addiction and infectious diseases. Among preventable diseases, smoking, alcohol, and substance use have been among the top ten causes of illness-related mortality. This study aimed to examine the Turkish validity and reliability of the Alcohol, Smoking, and Substance Involvement Screening Test (ASSIST) Scale. Two different sample groups (n=339) were interviewed by experienced clinicians. The Fagerstrom Nicotine Dependence Test (FNDT), Alcohol Use Disorder Identification Test (AUDIT), and Drug Use Disorder Identification Test (DUDIT) were also administered to examine correlations with ASSIST. To analyze the internal consistency of ASSIST, Cronbach's alpha coefficients were calculated for each group, ranging from 0.70 to 0.98. To examine the factor structure of the scale, exploratory factor analysis was conducted, and the Kaiser-Meyer-Olkin (KMO) measure of sampling adequacy was higher than 0.60, while Bartlett's Test of Sphericity was significant (KMO>0.60, p<0.05). Based on factor loadings, all items loaded onto a single factor except the \"sedatives and hallucinogens\" item, in which items 2-4 were grouped in factor 1 and items 6 and 7 were grouped in factor 2. ASSIST Tobacco scores were significantly correlated with FNDT scores (0.70 for Group 1 and 0.74 for Group 2). ASSIST Alcohol scores and total scores were significantly correlated with AUDIT and DUDIT scores, respectively (0.92 for Group 1 and 0.94 for Group 2; 0.91 for Group 1 and 0.90 for Group 2, respectively). It was concluded that ASSIST v3.1 can be applied to screen for cigarette, alcohol, and substance use/abuse in general psychiatry and psychiatric counseling centers in our country. Future studies conducted in different populations would provide new data regarding the effectiveness of ASSIST and contribute to both the literature and daily practice.",
+      "date": "2025-12-31",
+      "authors": [
+        "Bilici Rabia",
+        "Unubol Basak",
+        "Cinka Elif"
+      ],
+      "doi": "10.14744/DAJPNS.2025.00297"
+    },
+    {
+      "title": "Ketamine use disorder: A case report.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42459236/",
+      "source": "PubMed",
+      "abstract": "",
+      "date": "2025-09-23",
+      "authors": [
+        "Ramakan Enver Denizhan"
+      ],
+      "doi": "10.14744/DAJPNS.2025.00294"
+    },
     {
       "title": "Psilocybin's effect on human brain synaptic plasticity.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42457666/",
@@ -172,81 +248,13 @@
       "doi": "10.1186/s13256-026-06175-9"
     },
     {
-      "title": "Combined DMT-harmine formulation reduces negative self-referential emotions during social self-evaluation: a randomized placebo-controlled trial in healthy volunteers.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42443620/",
-      "source": "PubMed",
-      "abstract": "Negative self-referential emotions such as embarrassment and shame play a key role in the psychopathology of psychiatric disorders but are often insufficiently addressed by standard treatments. Psychedelics such as ayahuasca - an Amazonian plant decoction containing the psychedelic N,N-dimethyltryptamine (DMT) and harmala alkaloids, have been proposed to positively modulate self-referential processing. The aim of this study was to investigate the effects of an ayahuasca-inspired harmine+DMT formulation and harmine on embarrassment and shame. In this randomized, double-blind, placebo-controlled crossover trial (N = 28 healthy males), the effects of combined 100mg harmine and 100mg DMT (HAR/DMT), harmine alone (HAR), against placebo (PLA) on self-referential processing was investigated using a karaoke paradigm, where participants listened to recordings of their own singing (Self = S) and control vocal tracks (other bad = OB; other good = OG) and rated emotional responses. Acute emotions were assessed with visual analogue scales (items: pleasant, unpleasant, embarrassing, funny, and objective quality) and the Experiential Shame Scale (ESS). HAR/DMT compared to placebo significantly reduced embarrassment in the Self condition (EMM=-16.83, p=.001), but not in the two other conditions (OB: EMM=-4.38, p=.628; OG: EMM= 2.14, p=.894). HAR/DMT-HAR or HAR-PLA contrasts for embarrassment were not significant for any condition. HAR/DMT compared to placebo reduced ESS global score (F(df)= 4.26(2, 54); p=.019) and ESS emotional subscale (F(df)=5.11(2, 54); p=.009), while harmine alone showed no significant effects. These findings suggest that HAR/DMT acutely modulates negative self-referential emotions and may, thus, offer a promising therapeutic approach, which should be further investigated in clinical populations.",
-      "date": "2026-07-14",
-      "authors": [
-        "Aicher Helena D",
-        "Dornbierer Joëlle",
-        "Caflisch Luzia"
-      ],
-      "doi": "10.1007/s00213-026-07118-4"
-    },
-    {
-      "title": "Acceptability and safety of two sequential doses of psilocybin in bipolar II depression: protocol for an open-label single-arm feasibility study.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42442821/",
-      "source": "PubMed",
-      "abstract": "Bipolar II disorder (BD-II) is characterised by hypomanic and depressive episodes with the latter tending to dominate the clinical course of the disorder, and they are often associated with suicidality. Despite available guideline-based recommendations for first-line pharmacological treatments, patient outcomes remain suboptimal, especially for those with chronic depression and suicidal ideation. The dearth of viable treatment options for this population is evident, which is where psychedelics propose an additional alternative path. Psilocybin has recently shown promise in treating major depressive disorder and treatment-resistant depression; however, individuals with bipolar disorder or suicidality are typically excluded from such trials due to safety concerns (ie, risk of emerging suicidal behaviour, psychosis and/or mania). Here, we present the protocol of a study which aims to explore the acceptability, safety and treatment preferences of psilocybin-assisted therapy in patients with BD-II struggling with suicidal ideation. This outpatient, single-site, phase II, single-arm, open-label clinical trial feasibility study will include 10 participants diagnosed with BD-II depression and moderately passive suicidal ideation. Participants may receive up to two oral doses of 25 mg psilocybin, approximately 4 weeks apart, alongside a structured therapeutic protocol (based on mindfulness cognitive-behavioural therapy) that includes preparatory therapy sessions, psychological support during administration and post-treatment integration therapy sessions. The purpose is to examine the acceptability and safety of using psilocybin as a therapeutic for mild to moderate suicidality in patients currently diagnosed with BD-II and to obtain preliminary data on its effects. This will be measured using the following: Primary outcomes include change in suicidality, that is, the Interpersonal Needs Questionnaire and the Columbia Suicide Severity Rating Scale from baseline to main endpoint (3 weeks post initial administration) and feasibility and acceptability (as assessed by number of participants who complete the trial, number of therapy sessions attended and number of assessments completed). Secondary outcomes include changes in the following associated measures: Montgomery-Asberg Depression Rating Scale, Quick Inventory of Depressive Symptomatology, Young Mania Rating Scale, Brief Psychiatric Rating Scale Positive Symptom Subscale, Altman Self-Rating Mania Scale. Findings will also be used to estimate effect sizes and inform the design of a future randomised controlled trial. Ethical approval has been obtained from the UTHealth Committee for the Protection of Human Subjects (CPHS RB# HSC-MS-23-0905). The results of the study will be disseminated to the public (ie, clinicians, researchers, patients and policymakers) through peer-reviewed journals, conferences and scientific meetings and clinical registries. NCT06706232.",
-      "date": "2026-07-13",
-      "authors": [
-        "Meyer Thomas D",
-        "Vale Lauren N",
-        "Ibrahim Maya"
-      ],
-      "doi": "10.1136/bmjopen-2026-118471"
-    },
-    {
-      "title": "Enhancing plasticity to treat depression and other central nervous system diseases using event-driven pharmacology.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42438931/",
-      "source": "PubMed",
-      "abstract": "The occupancy-driven pharmacology model in psychopharmacology has guided drug discovery and development for decades, whereby the goal is stable receptor occupancy over an extended period with a direct relationship of drug exposure to pharmacodynamic and therapeutic response. Event-driven pharmacology (EDP) is a concept where the acute pharmacodynamic actions of a plastogen, a transient binding event, drive changes resulting in sustained pharmacodynamic effects that greatly outlast the time frame of drug exposure. Such plastogens may be neuroplastogens producing a measurable change in neuroplasticity without inducing subjective mental states or psychoplastogens exerting neuroplastic effects in addition to causing dissociation, hallucinations, or psychotomimetic symptoms. Within neuropsychiatry, plastogens have been shown to induce long-lasting neural plasticity and persistently activate synaptic machinery that primes synapses to respond to subsequent stimuli (metaplasticity), often following either a single dose or repeated administration of intermittent doses. Developing rapid-acting plastogens to adhere to a traditional target occupancy dose optimization model that achieves consistent drug target occupancy over an extended period of time may paradoxically exert few or no durable benefits while increasing side effect burden. We review evidence supporting the concept that plastogens, including the rapid-acting antidepressant ketamine and classical psychedelics, operate within the EDP model. With the emergence of EDP, new methods for drug development, clinical dosing, and biomarker adoption will need to be developed to account for distinctive pharmacological actions. Rapid-onset plastogens, rationally administered, have profound potential in the treatment of depression and many other neurological and psychiatric diseases characterized by synaptic dysfunction.",
-      "date": "2026-07-13",
-      "authors": [
-        "Gould Todd D",
-        "Mathew Sanjay J",
-        "Fava Maurizio"
-      ],
-      "doi": "10.1177/02698811261456206"
-    },
-    {
-      "title": "Changes in trauma symptoms of discrimination after MDMA-assisted psychotherapy for posttraumatic stress disorder.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42436172/",
-      "source": "PubMed",
-      "abstract": "This preliminary study explored the effects of MDMA-assisted therapy on trauma symptoms related to discrimination, as measured by the Trauma Symptoms of Discrimination Scale (TSDS). A total of five diverse participants, who experienced multiple types of discrimination (e.g., gender, racial/ethnic, social class, age, sexual orientation), were assessed before and after treatment. A paired-samples t-test indicated a significant reduction in TSDS scores following therapy, with mean scores decreasing by 38% (t(4) = 2.85, p = .046). The effect size was large (Cohen's d = 1.28), though this estimate should be interpreted cautiously given the small sample size. All participants reported marked improvements in discrimination related trauma symptoms following MDMA-assisted therapy in this sample, and across different racial/ethnic identities and discrimination histories. These findings provide preliminary evidence that MDMA-assisted therapy may effectively alleviate discrimination-related trauma in marginalized populations. We discuss the importance of culturally-informed treatment approaches for psychedelic-assisted psychotherapy. These early results warrant further investigation in larger, more diverse cohorts.",
-      "date": "2026-07-11",
-      "authors": [
-        "Williams Monnica T",
-        "Faber Sonya C",
-        "Sloshower Jordan"
-      ],
-      "doi": "10.1038/s41598-026-59333-w"
-    },
-    {
-      "title": "Brain-targeted epigenetic effects of two emerging psychoplastogens: ketamine & MDMA.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42436129/",
-      "source": "PubMed",
-      "abstract": "Psychoplastogen compounds such as ketamine and MDMA have shown therapeutic promise for mood and trauma-related disorders, yet the molecular mechanisms underlying their effects remain poorly understood. Here, we applied a Brain-Epigenome-Wide Association Study (BEWAS) targeting brain-relevant genes to examine DNA methylation changes following treatment. Pre- and post-treatment blood (ketamine, N = 20) and saliva (MDMA, N = 16) samples were collected from clinical trial participants. Treatment effects were assessed using repeated-measures linear mixed-effects models accounting for inter-individual baseline methylation differences, followed by gene- and network-level analyses. Ketamine and MDMA were associated with 405 and 346 significantly altered genes, respectively, alongside enrichment of 169 and 183 functional networks. Across both compounds, altered loci converged on pathways related to neuroplasticity and neuroimmune regulation. Together, these findings provide evidence that ketamine and MDMA induce peripheral epigenetic changes, highlighting their capacity to engage molecular pathways relevant to psychiatric health.",
-      "date": "2026-07-11",
-      "authors": [
-        "Semple Moira G",
-        "Mennenga Sarah E",
-        "Smith Ryan"
-      ],
-      "doi": "10.1038/s41398-026-04191-3"
-    },
-    {
-      "title": "Psilocybin-assisted therapy in treatment-resistant depression: rapid remission, uncertain durability, and the next phase of clinical evidence.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42433813/",
-      "source": "PubMed",
-      "abstract": "Treatment-resistant depression (TRD) remains a major clinical challenge and is typically defined as the persistence of depressive symptoms despite at least two adequate antidepressant trials. Individuals with TRD experience substantial morbidity, impaired functioning, and elevated suicide risk, highlighting the need for therapeutic strategies beyond incremental refinements of conventional monoaminergic pharmacotherapy. Psilocybin-assisted therapy has recently emerged as a mechanistically distinct intervention, combining transient 5-HT2A receptor agonism with structured psychological support delivered in supervised sessions. Early randomized trials have demonstrated rapid reductions in depressive symptoms and encouraging short-term remission rates, primarily in patients with major depressive disorder, with more limited but emerging evidence in treatment-resistant populations. However, the central clinical question is not merely whether psilocybin can produce acute improvement, but whether these effects can be sustained without cumulative harm. Current evidence remains limited by modest sample sizes, relatively short follow-up periods, challenges in maintaining blinding, and limited comparisons with established TRD interventions such as esketamine, electroconvulsive therapy, and transcranial magnetic stimulation. The durability of benefit beyond several weeks remains an open clinical question, and the implications of repeated dosing are not yet well established. In addition, implementation demands substantial therapeutic infrastructure, raising questions regarding scalability, cost, and equitable access. Future research should prioritize standardized definitions of treatment resistance, recognition of clinical heterogeneity within TRD populations, longer-term outcomes, rigorous active comparators, improved trial methodology, safety monitoring, and cost-effectiveness analyses to determine the appropriate clinical role of psilocybin-assisted therapy.",
-      "date": "2026-06-19",
-      "authors": [
-        "Sabani Astrit",
-        "Khatak Adnan"
-      ],
-      "doi": "10.1097/MS9.0000000000005244"
+      "title": "Breaking: World’s Largest Pharmaceutical Company, Eli Lilly, Acquires 5-MeO-DMT Developer AtaiBeckley for Up to $3.8 billion",
+      "url": "https://psychedelicalpha.com/news/breaking-worlds-largest-pharmaceutical-company-eli-lilly-acquires-5-meo-dmt-developer-ataibeckley-for-up-to-3-8-billion/",
+      "source": "Psychedelic Alpha",
+      "abstract": "",
+      "date": "2026-07-16",
+      "authors": [],
+      "doi": ""
     },
     {
       "title": "Backed by $11M NIDA Grant, Harvard Moves Forward on Ibogaine for Opioid Use Disorder Research",
@@ -326,15 +334,6 @@
       "source": "Psychedelic Alpha",
       "abstract": "On Monday, Definium Therapeutics announced topline data from a Phase 3 trial of its LSD candidate (DT120) for major depressive disorder (MDD). Reaction to the topline has been broadly positive, with the company’s stock price appreciating sharply on the news and Definium announcing plans to raise $700M in fresh capital. Following our reporting of the […]",
       "date": "2026-06-25",
-      "authors": [],
-      "doi": ""
-    },
-    {
-      "title": "Breaking: Definium Lands Positive Phase 3, LSD Candidate Shows Strong Antidepressant Effect",
-      "url": "https://psychedelicalpha.com/news/breaking-definium-lands-positive-phase-3-lsd-candidate-shows-strong-antidepressant-effect/",
-      "source": "Psychedelic Alpha",
-      "abstract": "This morning, Definium Therapeutics announced positive topline results from its Phase 3 study of LSD (DT120) for major depressive disorder (MDD). It’s the first Phase 3 data for LSD, and for Definium.",
-      "date": "2026-06-22",
       "authors": [],
       "doi": ""
     },
@@ -561,7 +560,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2018-004480-31/CZ",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-07-16",
+      "date": "2026-07-17",
       "authors": [],
       "doi": ""
     },
@@ -570,7 +569,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2020-005037-32/CZ",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-07-16",
+      "date": "2026-07-17",
       "authors": [],
       "doi": ""
     },
@@ -579,7 +578,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2021-002909-10/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-07-16",
+      "date": "2026-07-17",
       "authors": [],
       "doi": ""
     },
@@ -588,7 +587,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2015-000550-37/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-07-16",
+      "date": "2026-07-17",
       "authors": [],
       "doi": ""
     },
@@ -597,7 +596,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2021-000041-40/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-07-16",
+      "date": "2026-07-17",
       "authors": [],
       "doi": ""
     },
@@ -606,7 +605,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2020-000829-55/DK",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-07-16",
+      "date": "2026-07-17",
       "authors": [],
       "doi": ""
     },
@@ -615,7 +614,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2020-002790-94/SE",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-07-16",
+      "date": "2026-07-17",
       "authors": [],
       "doi": ""
     },
@@ -624,7 +623,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2021-006200-33/FI",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-07-16",
+      "date": "2026-07-17",
       "authors": [],
       "doi": ""
     },
@@ -633,7 +632,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2019-004812-73/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-07-16",
+      "date": "2026-07-17",
       "authors": [],
       "doi": ""
     },
@@ -642,7 +641,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2022-002369-14/BE",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-07-16",
+      "date": "2026-07-17",
       "authors": [],
       "doi": ""
     },

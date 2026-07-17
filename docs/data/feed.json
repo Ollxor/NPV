@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-16T08:41:29.176383+00:00",
+  "generated_at": "2026-07-17T08:33:57.759906+00:00",
   "items": [
     {
       "title": "Blinding integrity in psychedelic research: Evidence from a comparative randomized controlled trial of psilocybin, MDMA, and methylphenidate in healthy volunteers",
@@ -32,6 +32,72 @@
         "mdma"
       ],
       "added_at": "2026-07-09T10:03:12.956794+00:00"
+    },
+    {
+      "title": "Integrated 5-HT",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42463904/",
+      "source": "PubMed",
+      "date": "2026-07-16",
+      "authors": [
+        "Taddei-Tardón Marco",
+        "Medina-Rodríguez Lidia",
+        "Maltman Jessica L"
+      ],
+      "doi": "10.1038/s41380-026-03746-6",
+      "summaries": {
+        "en": "In vitro study using neural stem cell-derived models investigated how serotonergic psychedelics induce neuroplasticity. Testing tryptamines, phenethylamines, and ergolines alongside ketamine, researchers measured dendritogenesis, synaptogenesis, and BDNF expression. TrkB receptor activation proved essential for psychedelic-induced neuroplastic effects, suggesting a key mechanism linking acute effects to therapeutic potential.",
+        "sv": "In vitro-studie med neurala stamcellsmodeller undersökte hur serotonerga psykedelika framkallar neuroplasticitet. Genom testning av tryptaminer, fenetylamin och ergolinämnen tillsammans med ketamin mättes dendrittillväxt, synaptogenes och BDNF-expression. TrkB-receptoraktivering visade sig väsentlig för psykedelikainducerade neuroplastiska effekter och förklarar länken mellan akuta och terapeutiska effekter.",
+        "no": "In vitro-studie med nevralt stamcelleavledet modell undersøkte hvordan serotonerge psykedelika induserer neuroplastisitet. Ved testing av tryptaminer, fenetylamin og ergolinsamfunn sammen med ketamin ble dendrittilväxt, synaptogenese og BDNF-ekspresjon målt. TrkB-reseptoraktivering viste seg vesentlig for psykedelikainducert neuroplastisitet og forklarer koblinger til terapeutisk potensial.",
+        "da": "In vitro-studie med neural stamcellemodel undersøgte, hvordan serotonerge psykedelika inducerer neuroplasticitet. Ved test af tryptaminer, fenetylamin og ergolinsamfund sammen med ketamin blev dendritogenese, synaptogenese og BDNF-ekspression målt. TrkB-receptoraktivering viste sig væsentlig for psykedelikaeinduceret neuroplasticitet og forbinder akutte effekter med terapeutisk potentiale.",
+        "fi": "In vitro-tutkimus neuraalin kantasolupohjaisen mallin avulla tutki, kuinka serotonergiset psykedeliikka aiheuttavat neuroplastisuutta. Testaamalla tryptamiineja, fenetyyliamiinejä ja ergoliinejä sekä ketamiinia mitattiin dendritogeneesin, synaptogeneesin ja BDNF-ilmentymistä. TrkB-reseptoriaktivaatio osoittautui olennaiseksi psykedeliikkaainducoidulle neuroplastisuudelle ja yhdistää akuutit vaikutukset terapeuttiseen potentiaaliin.",
+        "is": "In vitro-rannsókn með neural stofnfrumum skoðaði hvernig serótóninlíkir geðhrifa framkallar taugaplastisku. Með prófun tryptamína, fenételamína og ergólína ásamt ketamíni var mælt dendritógenesis, synaptógenesis og BDNF-tjáning. TrkB-viðtakaaðgerð reyndist nauðsynleg fyrir geðhrifaindúcerða taugaplastiku og tengir bráðar áhrif við meðferðamöguleika.",
+        "et": "In vitro-uuring neuraalsete emakurkude mudeliga uuris, kuidas serotoninergilised psühhedeelikad indutseerivad neuroplasteelsust. Triptamiinide, fenetüülamiinide ja ergoliihnide katsetamisel koos ketamiinil mõõdeti dendritogeneesi, sinaptogeneesi ja BDNF-ekspressiooni. TrkB-retseptori aktivatsioon osutus psühhedelikaadindutseeriule neuroplasteelsusele vajalikuks ja seob ägedad mõjud terapeutilise potentsiaaliga.",
+        "lv": "In vitro pētījums ar neirālo cilmes šūnu modeli pētīja, kā serotoninērgiskā psihodēlika izraisa neuroplasteticību. Testējot triptamīnus, fenolietamīnus un ergolīnus kopā ar ketamīnu, tika mērīta dendrīta veidošanās, sinaptogenēze un BDNF ekspresija. TrkB receptora aktivācija izrādījās būtiska psihodēliku indukētai neuroplasteticībai un saista astos efektus ar terapeitisko potenciālu.",
+        "lt": "In vitro tyrimas su neuroninėmis kamieninėmis ląstelėmis tirinėjo, kaip serotoninergiai psichedelikai sukelia neuroprastalumo. Testuojant triptaminus, fenetilaminus ir ergolinius kartu su ketaminu buvo matuojamas dendritogenezė, sinaptogenezė ir BDNF ekspresija. TrkB receptoriaus aktyvinimas pasirodė būtinas psichedeliku indukuotai neuroprastalumo ir susieja aštrius efektus su terapiniu potencialu."
+      },
+      "notable": false,
+      "notable_reasons": null,
+      "relevance_score": 4,
+      "study_type": "preclinical",
+      "substances": [
+        "psilocybin",
+        "lsd",
+        "mescaline",
+        "ketamine",
+        "other"
+      ],
+      "added_at": "2026-07-17T08:33:09.459283+00:00"
+    },
+    {
+      "title": "Serum brain-derived neurotrophic factor following oral esketamine in treatment-resistant depression: Results from a randomized placebo-controlled trial.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42462931/",
+      "source": "PubMed",
+      "date": "2026-07-16",
+      "authors": [
+        "Massetti Sara",
+        "Smith-Apeldoorn Sanne Y",
+        "Veraart Jolien K E"
+      ],
+      "doi": "10.1016/j.jad.2026.122265",
+      "summaries": {
+        "en": "Randomized placebo-controlled trial examining serum BDNF levels in 54 treatment-resistant depression patients receiving six weeks of oral esketamine (90 mg/day) or placebo. While the primary depression outcome showed no group difference, BDNF increased similarly in both conditions during treatment and washout. BDNF changes did not correlate with depression severity changes in the esketamine group, questioning BDNF as a biomarker for oral esketamine response.",
+        "sv": "Randomiserad placebokontrollerad studie med 54 patienter med behandlingsresistent depression som fick sex veckors oral esketamin (90 mg/dag) eller placebo. Även om depressionsresultatet inte skilde mellan grupperna ökade serumkoncentrationen av BDNF lika mycket i båda villkoren. BDNF-förändringar korrelerade inte med förbättringar i depression i esketamingruppen, vilket ifrågasätter BDNF som biomarkör för oral esketamins effekt.",
+        "no": "Randomisert placebokontrollert studie med 54 pasienter med behandlingsresistent depresjon som mottok seks uker oral esketamin (90 mg/dag) eller placebo. Selv om depresjonsresultatet ikke skilte seg mellom gruppene, økte serum-BDNF-nivåer likt i begge tilstander. BDNF-endringer korrelerte ikke med endringer i depressionsalvorlighet i esketamingruppen, noe som stiller spørsmål ved BDNF som biomarkør for oral esketaminrespons.",
+        "da": "Randomiseret placebokontrolleret studie med 54 patienter med behandlingsresistent depression, der grupper modtog seks ugers oral esketamin (90 mg/dag) eller placebo. Selvom depressionsresultatet ikke adskilte grupperne, steg serum-BDNF-niveauer ens i begge forhold. BDNF-ændringer korrelerede ikke med depressionsændringer i esketamingruppen, hvilket sætter spørgsmålstegn ved BDNF som biomarkør for oral esketamins virkning.",
+        "fi": "Satunnaistettu plasebokontrolloitu tutkimus, jossa 54 hoitoresistentin depression potilasta sai kuuden viikon oral esketamiinia (90 mg/päivä) tai plaseboa. Vaikka depression ensisijainen tulos ei eronnut ryhmien välillä, seerumin BDNF-tasot nousivat samalla tavalla molemmissa olosuhteissa. BDNF-muutokset eivät korreloineet depression vakavuuden muutosten kanssa esketamiryhmässä, mikä kyseenalaistaa BDNF-proteiinin biomarkkerina oral esketaminin vasteelle.",
+        "is": "Slembiun tilraunaður, lyfleysuvarinn rannsókn með 54 sjúklingum með meðferðarþolinn þunglyndi sem fengu sex vikna beina esketamín (90 mg/dagur) eða lyfleysu. Þó að aðal þunglyndisniðurstaðan væri ekki mismunandi á milli hópa jukust BDNF-stig í blóði jafnt í báðum aðstæðum. BDNF-breytingar tengdust ekki breytingum á þunglyndisalvarleika í esketamín-hópnum, sem dregur í efa BDNF sem lífmerki fyrir svörun hallukinógena.",
+        "et": "Randomiseeritud platseebokontrollitud uuring 54 raviresistentse depressiooniga patsiendiga, kes said kuue nädala jooksul suukaudset esketamiini (90 mg/päev) või platseebot. Kuigi depressiooni esmane tulemus rühmade vahel ei erinenud, tõusis seerumi BDNF-tase võrdselt mõlemas tingiuses. BDNF-muutused ei korreleerinud depressiooni raskusastme muutustega esketamiini rühmas, mis seab kahtluse alla BDNF-proteiini biomarkerina suukaudse esketamiini reaktsiooni näitajana.",
+        "lv": "Randomizēts placebo kontrolēts pētījums ar 54 ārstēšanas rezistentām depresijas pacientiem, kuri saņēma sešas nedēļas perorāla esketamīna (90 mg/diena) vai placebo. Lai gan depresijas primārais rezultāts neatšķīrās starp grupām, seruma BDNF līmenis pieauga vienādi abos apstākļos. BDNF izmaiņas nekorelejā ar depresijas smaguma izmaiņām esketamīna grupā, kas apšauba BDNF kā biomarķieri perorāla esketamīna atbildei.",
+        "lt": "Randomizuotas, placebui kontroliuojamas tyrimas su 54 gydymui atspariomis depresija sergančiais pacientais, gavusiais šešias savaites žalio esketamino (90 mg/dieną) arba placebos. Nors depresijos pirminiai rezultatai nesiskyrė tarp grupių, serumo BDNF lygis padidėjo vienodai abiem atvejais. BDNF pokyčiai nesusiję su depresijos sunkumo pokyčiais esketamino grupėje, kas suabejoja BDNF kaip perorinio esketamino atsako biomarkerio potencialu."
+      },
+      "notable": false,
+      "notable_reasons": null,
+      "relevance_score": 4,
+      "study_type": "rct",
+      "substances": [
+        "ketamine"
+      ],
+      "added_at": "2026-07-17T08:33:09.459283+00:00"
     },
     {
       "title": "Psilocybin's effect on human brain synaptic plasticity.",
@@ -1792,52 +1858,6 @@
       "study_type": "rct",
       "substances": [
         "ketamine"
-      ]
-    },
-    {
-      "title": "Pharmacokinetics and pharmacodynamics of orally administered S-ketamine in healthy participants.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42345469/",
-      "source": "PubMed",
-      "date": "2026-Jun",
-      "summaries": {
-        "en": "Randomized, double-blind, placebo-controlled study (n=16) comparing oral and intravenous S-ketamine pharmacokinetics and safety in healthy participants. Oral S-ketamine showed poor bioavailability (9-12%), resulting in lower parent compound but higher active metabolite concentrations than intravenous administration. Findings raise questions about oral S-ketamine's efficacy and safety profile for treatment-resistant depression compared to established intravenous protocols.",
-        "sv": "Randomiserad, dubbelblind, placebokontrollerad studie (n=16) jämförde oral och intravenös S-ketamin farmakokinetik och säkerhet hos friska deltagare. Oral S-ketamin visade låg biotillgänglighet (9-12%), vilket resulterade i lägre modersubstans men högre aktiva metabolitkoncentrationer än intravenös administration. Resultaten väcker frågor om oral S-ketamins effektivitet och säkerhetsprofil för behandlingsresistent depression.",
-        "no": "Randomisert, dobbeltblindet, placebokontrollert studie (n=16) som sammenlignet oral og intravenøs S-ketamin farmakokinetikk og sikkerhet hos friske deltakere. Oral S-ketamin viste dårlig biotilgjengelighet (9-12%), noe som resulterte i lavere modersubstans- men høyere aktive metabolittkonsentrasjoner enn intravenøs administrering. Funnene reiser spørsmål om oral S-ketamins effektivitet og sikkerhetsprofil for behandlingsresistent depresjon.",
-        "da": "Randomiseret, dobbeltblindet, placebokontrolleret studie (n=16) sammenlignede oral og intravenøs S-ketamin farmakokinetik og sikkerhed hos sunde deltagere. Oral S-ketamin viste ringe biotilgængelighed (9-12%), hvilket resulterede i lavere modersubstans- men højere aktive metabolitkoncentrationer end intravenøs administration. Resultaterne rejser spørgsmål om oral S-ketamins virkning og sikkerhedsprofil ved behandlingsresistent depression.",
-        "fi": "Satunnaistettu, kaksoissokkoutetu, lumelääkekontrolloitu tutkimus (n=16) vertaili suun kautta ja suonensisäisesti annetun S-ketamiinin farmakokinetiikkaa ja turvallisuutta terveillä osallistujilla. Suun kautta annetulla S-ketamiinilla oli heikko biologinen hyötyosuus (9-12%), mikä johti alhaisempiin emoyhdistekonsentraatioihin mutta korkeampiin aktiivisten metaboliittien konsentraatioihin kuin suonensisäisellä antotavalla. Tulokset herättävät kysymyksiä suun kautta annetun S-ketamiinin tehokkuudesta ja turvallisuusprofiilista hoitoa vastustavan masennuksen hoidossa.",
-        "is": "Handahóf, tvöföldum blindaður, lyfleysuflakontrollaður rannsókn (n=16) sem bar saman inntöku og beinu æðablóðgildi S-ketamín við heilbrigga þátttakendur. Munnleg S-ketamín sýndi léleg líffræðileg framboð (9-12%), sem leiddi til lægri móðurefna en meiri virkra stoðefna styrks samanborið við beina æðablóðgefa. Niðurstöður vekja spurningar um áhrif og öryggissnið munn-S-ketamíns við meðferð við þunglyndi sem tekist hefur ekki á við hefðbundnar meðferðir.",
-        "et": "Randomiseeritud, topeltpime, platseebokontrollitud uuring (n=16), mis võrdles suusurmelt ja venoosse S-ketamiini farmakokineetikat ja ohutust tervetel osalejatel. Suusurmelt manustatud S-ketamiinil oli nõrk biosaadavus (9-12%), mis tekitas madalamaid vanemainete kontsentratsioone, kuid kõrgemaid aktiivsete metaboliitide kontsentratsioone venoosse manustamisega võrreldes. Tulemused tekitavad küsimusi suusureelt manustatud S-ketamiini tõhususe ja ohutusprofiili kohta ravile mittereageeriva depressiooni korral.",
-        "lv": "Randomizēts, dubultaklins, placebo kontrolēts pētījums (n=16) salīdzināja mutiskā un intravenoza S-ketamīna farmakokinētiku un drošību veseliem dalībniekiem. Mutiskajam S-ketamīnam bija vāja bioloģiskā pieejamība (9-12%), kas rezultējās zemākās vecāku vielas, bet augstākās aktīvās metabolīta koncentrācijas salīdzinājumā ar intravenozu administrēšanu. Rezultāti uzsver jautājumus par mutiski ievadītā S-ketamīna efektivitāti un drošības profilu ārstējot depresijai, kas nereagē uz ārstēšanu.",
-        "lt": "Randomizuotas, dvigubai aklai, placebo kontroliuojamas tyrimas (n=16) lygino žalias ir intravenines S-ketamino farmakokinetikos ir saugumo profilius sveikiems dalyviams. Žalia S-ketamino forma parodė žemą biološką prieinamumą (9-12%), dėl ko atsirado žemesni pagrindinės medžiagos, tačiau aukšti aktyvių metabolitų koncentracija lyginant su intravenine forma. Rezultatai iškelia klausimus dėl žalios S-ketamino formos veiksmingumo ir saugumo profilio gydant gydymui atsparia depresiją."
-      },
-      "added_at": "2026-06-28T21:45:23.980905+00:00",
-      "relevance_score": 3,
-      "study_type": "rct",
-      "substances": [
-        "ketamine"
-      ]
-    },
-    {
-      "title": "The intersection between psychedelics and schizophrenia spectrum disorders: Reevaluating risk and therapeutic potential.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42345450/",
-      "source": "PubMed",
-      "date": "2026-Jun",
-      "summaries": {
-        "en": "A narrative review examining the relationship between psychedelics and schizophrenia spectrum disorders. While psychedelics can exacerbate existing psychosis in vulnerable individuals, phenomenological and mechanistic analysis reveals important differences from psychotic states. The review challenges the traditional psychotomimetic hypothesis and suggests potential therapeutic applications for specific symptoms in carefully selected stable patients.",
-        "sv": "En narrativ översikt som undersöker sambandet mellan psykedelika och schizofrenisprektrumstoningar. Även om psykedelika kan förvärra befintlig psykos hos sårbara individer, visar fenomenologisk och mekanistisk analys viktiga skillnader från psykotiska tillstånd. Översikten ifrågasätter den traditionella psykotomimetiska hypotesen och föreslår potentiella terapeutiska tillämpningar för specifika symtom hos noggrant utvalda stabila patienter.",
-        "no": "En narrativ gjennomgang som undersøker forholdet mellom psykedelika og schizofreni-spektrum-lidelser. Selv om psykedelika kan forverve eksisterende psykose hos sårbare individer, viser fenomenologisk og mekanistisk analyse viktige forskjeller fra psykotiske tilstander. Gjennomgangen stiller spørsmål ved den tradisjonelle psykotomimetiske hypotesen og foreslår potensielle terapeutiske anvendelser for spesifikke symptomer hos nøye utvalgte stabile pasienter.",
-        "da": "En narrativ oversigt, der undersøger forholdet mellem psykedelika og skizofrenisprektrum-lidelser. Selvom psykedelika kan forværre eksisterende psykose hos sårbare individer, viser fænomenologisk og mekanistisk analyse vigtige forskelle fra psykotiske tilstande. Oversigten stiller spørgsmålstegn ved den traditionelle psykotomimetiske hypotese og foreslår potentielle terapeutiske anvendelser for specifikke symptomer hos omhyggeligt udvalgte stabile patienter.",
-        "fi": "Narratiivinen katsaus psykedeliikan ja skitsofreniaspektrumin häiriöiden välisestä suhteesta. Vaikka psykedeliikka voi pahentaa olemassa olevaa psykoosi alttiissa yksilöissä, fenomenologinen ja mekanistinen analyysi paljastaa merkittäviä eroja psykoottisista tiloista. Katsaus kyseenalaistaa perinteisen psykotomimeettisen hypoteesin ja ehdottaa mahdollisia terapeuttisia sovelluksia tietyille oireille huolellisesti valituilla vakaiksi potilailla.",
-        "is": "Frásögn sem skoðar tengsl blökkva og sýkósisspektrumraskana. Þó að blökkvar geti versnað fyrir hendi sýkósa hjá viðkvæmum einstaklingum, sýnir fyrirbærafræðileg og verkanafræðileg greining mikilvæga mun frá sýkósakildum. Frásögnin deilir um hefðbundna sálfeiknahugsun og bendir á hugsanlega meðferðarnotkun fyrir sérstakar einkenni hjá vandlega völdum stöðugum sjúklingum.",
-        "et": "Narratiivne ülevaade psühhedeelikumide ja skisofreenia spektri häirete vahelisest seosest. Kuigi psühhedeelikumid võivad süvendada olemasolevat psühhoos haavatavatel inimestel, näitavad fenomenoloogilised ja mehhanistlikud analüüsid olulisi erinevusi psühhoosseisundeist. Ülevaade seab kahtluse alla traditsionaalse psühhotomimeetilise hüpoteesi ja pakub välja võimalikke terapeautilisi rakendusi konkreetsetele sümptomitele hoolikalt valitud stabiilsete patsientide puhul.",
-        "lv": "Naratīvs pārskats par psihodelikumu un šizofrēnijas spektra traucējumu saistību. Lai arī psihodelikumi var pasliktināt esošu psihozi neaizsargātiem indivīdiem, fenomenoloģiskā un mehānistiskā analīze parāda būtiskas atšķirības no psihotiski stāvokļiem. Pārskats apšauba tradicionālo psihotoimitisko hipotēzi un piedāvā potenciālus terapeitiskus pielietojumus konkrētiem simptomiem rūpīgi atlektiem stabilitiem pacientiem.",
-        "lt": "Naratyvinė apžvalga, nagrinėjanti psichedelikų ir šizofrenijos spektro sutrikimų ryšį. Nors psichedelikai gali pabloginti esamą psichozę pažeidžiamiems asmenims, fenomenologinė ir mechanistinė analizė atskleidi svarbius skirtumus nuo psichozinių būsenų. Apžvalga suabejoja tradicine psichomimetiniu hipoteze ir siūlo galimas terapines pritaikymas konkretiems simptomams atsargiai parinktiems stabiliems pacientams."
-      },
-      "added_at": "2026-06-28T21:45:23.980905+00:00",
-      "relevance_score": 3,
-      "study_type": "review",
-      "substances": [
-        "other"
       ]
     }
   ]

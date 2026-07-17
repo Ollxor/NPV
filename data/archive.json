@@ -1,6 +1,68 @@
 {
   "items": [
     {
+      "title": "Integrated 5-HT",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42463904/",
+      "source": "PubMed",
+      "date": "2026-07-16",
+      "authors": [
+        "Taddei-Tardón Marco",
+        "Medina-Rodríguez Lidia",
+        "Maltman Jessica L"
+      ],
+      "doi": "10.1038/s41380-026-03746-6",
+      "summary_en": "In vitro study using neural stem cell-derived models investigated how serotonergic psychedelics induce neuroplasticity. Testing tryptamines, phenethylamines, and ergolines alongside ketamine, researchers measured dendritogenesis, synaptogenesis, and BDNF expression. TrkB receptor activation proved essential for psychedelic-induced neuroplastic effects, suggesting a key mechanism linking acute effects to therapeutic potential.",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "preclinical",
+      "substances": [
+        "psilocybin",
+        "lsd",
+        "mescaline",
+        "ketamine",
+        "other"
+      ],
+      "added_at": "2026-07-17T08:33:09.459283+00:00"
+    },
+    {
+      "title": "Serum brain-derived neurotrophic factor following oral esketamine in treatment-resistant depression: Results from a randomized placebo-controlled trial.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42462931/",
+      "source": "PubMed",
+      "date": "2026-07-16",
+      "authors": [
+        "Massetti Sara",
+        "Smith-Apeldoorn Sanne Y",
+        "Veraart Jolien K E"
+      ],
+      "doi": "10.1016/j.jad.2026.122265",
+      "summary_en": "Randomized placebo-controlled trial examining serum BDNF levels in 54 treatment-resistant depression patients receiving six weeks of oral esketamine (90 mg/day) or placebo. While the primary depression outcome showed no group difference, BDNF increased similarly in both conditions during treatment and washout. BDNF changes did not correlate with depression severity changes in the esketamine group, questioning BDNF as a biomarker for oral esketamine response.",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "rct",
+      "substances": [
+        "ketamine"
+      ],
+      "added_at": "2026-07-17T08:33:09.459283+00:00"
+    },
+    {
+      "title": "Ketamine use disorder: A case report.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42459236/",
+      "source": "PubMed",
+      "date": "2025-09-23",
+      "authors": [
+        "Ramakan Enver Denizhan"
+      ],
+      "doi": "10.14744/DAJPNS.2025.00294",
+      "summary_en": "Case report documenting ketamine use disorder in a clinical patient. The study presents diagnostic criteria, clinical presentation, and treatment considerations for problematic ketamine use as a distinct substance use disorder, contributing to the clinical understanding of ketamine-related harms.",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "case_report",
+      "substances": [
+        "ketamine"
+      ],
+      "added_at": "2026-07-17T08:33:09.459283+00:00"
+    },
+    {
       "title": "Psilocybin's effect on human brain synaptic plasticity.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42457666/",
       "source": "PubMed",

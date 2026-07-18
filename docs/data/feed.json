@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-17T08:33:57.759906+00:00",
+  "generated_at": "2026-07-18T08:18:20.993922+00:00",
   "items": [
     {
       "title": "Blinding integrity in psychedelic research: Evidence from a comparative randomized controlled trial of psilocybin, MDMA, and methylphenidate in healthy volunteers",
@@ -32,6 +32,129 @@
         "mdma"
       ],
       "added_at": "2026-07-09T10:03:12.956794+00:00"
+    },
+    {
+      "title": "Emerging pharmacological and neuromodulation interventions for suicidal ideation and behaviour.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42468074/",
+      "source": "PubMed",
+      "date": "2026-07-17",
+      "authors": [
+        "Scala Mauro",
+        "Magrini Enrico",
+        "Leccisotti Ivana"
+      ],
+      "doi": "10.1016/j.euroneuro.2026.112888",
+      "summaries": {
+        "en": "A narrative review examined pharmacological and neuromodulation interventions for suicidal ideation and attempts. Analysis of 34 studies (22 pharmacological, 12 neuromodulation) found improvements within days to weeks in controlled trials. Promising results emerged for NMDA-related agents, opioid-system modulators, ayahuasca in treatment-resistant depression, and pimavanserin. SI improvements often exceeded concurrent depression changes, suggesting partial independence, though evidence remains inconsistent.",
+        "sv": "En narrativ granskning undersökte farmakologiska och neuromodulerande interventioner för suicidal ideation och försök. Analys av 34 studier (22 farmakologiska, 12 neuromodulerande) visade förbättringar inom dagar till veckor i kontrollerade försök. Lovande resultat framkom för NMDA-relaterade medel, opioidmodulation, psykedelika som ayahuasca vid behandlingsresistent depression och pimavanserin. Förbättringar översteg ofta samtidig depressionsminskning, vilket tyder på partiell oberoende.",
+        "no": "En narrativ gjennomgang undersøkte farmakologiske og neuromodulerande intervensjoner for suicidal ideasjon og forsøk. Analyse av 34 studier (22 farmakologiske, 12 neuromodulerande) viste forbedringer innen dager til uker i kontrollerte forsøk. Lovende resultater fremkom for NMDA-relaterte midler, opioidmodulering, psykedelika som ayahuasca ved behandlingsresistent depresjon og pimavanserin. Forbedringer oversteg ofte samtidig depresjonsendring.",
+        "da": "En narrativ oversigt undersøgte farmakologiske og neuromodulerende interventioner for suicidal ideation og selvmordsforsøg. Analyse af 34 studier (22 farmakologiske, 12 neuromodulerende) viste forbedringer inden for dage til uger i kontrollerede forsøg. Lovende resultater fremkom for NMDA-relaterede midler, opioidmodulering, psykedelika som ayahuasca ved behandlingsresistent depression og pimavanserin.",
+        "fi": "Narratiivinen katsaus tutki farmakologisia ja neuromodulaatiohoitoja itsemurhaideoille ja -yrityksille. 34 tutkimuksen analyysi (22 farmakologista, 12 neuromodulaatiota) osoitti parannuksia päivien ja viikkojen sisällä kontrolloiduissa tutkimuksissa. Lupaavia tuloksia saatiin NMDA-tekijöistä, opioidijärjestelmän modulaatiosta, psykedeelistä kuten ayahuascasta hoitoresistenteissa depressioissa ja pimavanseriiniksi.",
+        "is": "Yfirlitskoðun skoðaði lyfjameðferðir og taugabreytandi inngrip fyrir sjálfsmorðshugmyndir og tilraunir. Greining á 34 rannsóknum (22 lyfjameðferðir, 12 taugabreytandi) sýndi umbætur innan daga til vikna í stýrðum tilraunum. Líklegri niðurstöður bárust fyrir NMDA-tengd lyf, ópióðakerfi-breytingu og sálfræðistöðum eins og ayahuasca við meðferðarþolnæmi þunglyndi.",
+        "et": "Narratiivne ülevaade uuris farmakoloogilisi ja neuromodulatsiooniinterventsioone enesetapumõtete ja -katsetuste puhul. 34 uuringu analüüs (22 farmakololoogilist, 12 neuromodulatsioonilist) näitas paranemisi kontrollitud uuringutes päevade kuni nädalate jooksul. Paljutõotavad tulemused saadi NMDA-seotud ravimite, opioidisüsteemi modulatsiooni ja psühhedeelika ayahuas kasutamisel ravi-resistentses depressioonis.",
+        "lv": "Naratīvais pārskats pētīja farmakoloģiskas un neuromoduļējošas iejaukšanās pašnāvības ideācijai un mēģinājumiem. 34 pētījumu analīze (22 farmakoloģiski, 12 neuromoduļējoši) parādīja uzlabojumus kontrolētos pētījumos dienu līdz nedēļu laikā. Daudzsola rezultāti panāka NMDA saistītiem līdzekļiem, opiātu sistēmas modulācijai un psihodeēliķiem, piemēram, ajahuaskai ar ārstēšanas rezistenti depresiju.",
+        "lt": "Naratyvinė apžvalga tyrinėjo farmakoloines ir neuromoduliavimo intervencijas savižudybės ideacijai ir bandymams. 34 tyrimų analizė (22 farmakologiniai, 12 neuromoduliaviniai) parodė pagerinimus kontroliuotuose tyrimuose per dieną arba savaites. Žadantys rezultatai gauti NMDA susijusiems vaistams, opioidų sistemos moduliavimui ir psichodeliniams, tokiems kaip ajahuaska, vaistams atsparioje depresijoje."
+      },
+      "notable": false,
+      "notable_reasons": null,
+      "relevance_score": 4,
+      "study_type": "review",
+      "substances": [
+        "ayahuasca"
+      ],
+      "added_at": "2026-07-18T08:16:27.551676+00:00"
+    },
+    {
+      "title": "UK's regulatory and legislative double standards in the treatment of psychedelics and drugs for assisted suicide.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42464460/",
+      "source": "PubMed",
+      "date": "2026-07-17",
+      "authors": [
+        "Zinchenko Ruslan"
+      ],
+      "doi": "10.1192/bjp.2026.10731",
+      "summaries": {
+        "en": "This editorial examines regulatory inconsistencies in UK drug policy. Assisted suicide medications would circumvent standard approval processes despite limited evidence, while hallucinogens face substantial barriers despite promising international clinical data. The author argues assisted suicide drugs should undergo equivalent regulatory scrutiny, and hallucinogens should be rescheduled to facilitate further clinical research.",
+        "sv": "En granskning av regelstandarder inom brittisk läkemedelspolicy. Assisterade dödshjälpsmedel skulle kringgå vanlig godkännandeprocess trots begränsad evidens, medan hallucingener möter stora hinder trots lovande internationell klinisk data. Författaren hävdar att assisterade dödshjälpsmedel bör genomgå motsvarande granskning, och hallucingener bör omklassificeras för att möjliggöra vidare klinisk forskning.",
+        "no": "En analyse av reguleringsinkonsistenser i britisk narkotikapolitikk. Medisiner for assistert dødshjelp ville omgå standardgodkjenningsprosesser til tross for begrenset evidens, mens hallusinogener møter betydelige barrierer på tross av lovende internasjonale kliniske data. Forfatteren argumenterer for at assistert dødshjelp-medisiner bør gjennomgå tilsvarende regulatorisk gransking, og hallusinogener bør omklassifiseres for å muliggjøre videre klinisk forskning.",
+        "da": "En redaktionel analyse af reguleringsmæssige uoverensstemmelser i britisk narkotikapolitik. Medikamenter til assisteret selvmord ville omgå standardgodkendelsesprocesser på trods af begrænset evidens, mens hallucinogener møder betydelige barrierer trods lovende internationale kliniske data. Forfatteren argumenterer for, at medikamenter til assisteret selvmord bør gennemgå tilsvarende regulatorisk kontrol, og hallucinogener bør omklassificeres for at muliggøre yderligere klinisk forskning.",
+        "fi": "Pääkirjoitus tarkastelee sääntelyn epäjohdonmukaisuuksia Britannian huumepolitiikassa. Avustetun kuoleman lääkkeet ohittaisivat normaaliavoimisproses­sin huolimatta rajallisesta näytöstä, kun taas hallusinogeenit kohtaavat merkittäviä esteitä lupaavasta kansainvälisestä kliinisestä tiedosta huolimatta. Kirjoittaja väittää, että avustetun kuoleman lääkkeiden pitäisi käydä läpi vastaavat sääntelyvaatimukset ja hallusinogeenit pitäisi luokitella uudelleen kliinisen tutkimuksen helpottamiseksi.",
+        "is": "Ritrýni um ósamræmi í eftirliti með lyfjaeftirliti í bresku lyfjastefnu. Lyf til aðstoðaðs dánarfalls myndu sniðganga hefðbundið samþykkisferli þrátt fyrir takmarkaða sönnun, en hallúsínógenir standa frammi fyrir verulegum hindrunum þrátt fyrir efnilega alþjóðlega klíníska gögn. Höfundur heldur því fram að lyf til aðstoðaðs dánarfalls ættu að gangast undir samsvarandi eftirlitsskoðun og hallúsínógenir ættu að endurkokka til að auðvelda frekari klíníska rannsóknir.",
+        "et": "Peatoimetaja artikkel uurib reguleerimise vastuolulisust Briti uimastitepolitiikas. Abi­tatud surma ravimid mööduksid standardset heakskiidu­protsessi vaatamata piiratud tõendusele, samas kui hallutsinogeenid kohtavad olulisi takistusi hoolimata lubava rahvusvahelise kliinilise andmete olemasolust. Autor väidab, et abitud surma ravimid peaksid läbima võrdväärseid regulatoorset kontrolli ja hallutsinogeenid peaks ümber klassifitseerima, et võimaldada edasist kliinilist uurimist.",
+        "lv": "Redakcijas raksts par regulatīvās konsekventības pretrunu­niecībām Lielbritānijas narkotiku politikā. Palīdzības pašnāvības zāles apeitu standarta apstiprinājuma procesu neskatoties uz ierobežotiem pierādījumiem, bet hallucinogēni saskaras ar nozīmīgiem šķēršļiem neskatoties uz solīgiem starptautiskiem klīniskiem datiem. Autors apgalvo, ka palīdzības pašnāvības zālēm jāveic līdzvērtīga regulatīvā pārraudzība un hallucinogēniem jāpārkategorializē, lai atvieglotu turpmākas klīniskās pētniecības.",
+        "lt": "Redakcinis straipsnis apie reguliacijos nenuoseklumus Didžiosios Britanijos narkotikų politikoje. Pagalbinio savižudybės vaistai apeitu standartinį patvirtinimo procesą nepaisant ribotos įrodymų bazės, o haliu­cinogenai susiduria su reikšmingomis kliūtimis nepaisant perspektyvių tarptautinių klinikiniu duomenų. Autorius teigia, kad pagalbinio savižudybės vaistai turėtų būti patikrinti lygiaverčiu reguliaciniu lygmeniu, o haliu­cinogenai turėtų būti persklasifikuoti siekiant palengvinti tolimąjį klinikini tyrimą."
+      },
+      "notable": false,
+      "notable_reasons": null,
+      "relevance_score": 4,
+      "study_type": "other",
+      "substances": [
+        "psilocybin",
+        "other"
+      ],
+      "added_at": "2026-07-18T08:16:27.551676+00:00"
+    },
+    {
+      "title": "Clinical guidance on the use of esketamine nasal spray for patients with treatment resistant depression: A European Delphi consensus report.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42468081/",
+      "source": "PubMed",
+      "date": "2026-07-17",
+      "authors": [
+        "Young Allan H",
+        "Baune Bernhard T",
+        "Benatti Beatrice"
+      ],
+      "doi": "10.1016/j.euroneuro.2026.112907",
+      "summaries": {
+        "en": "A modified Delphi consensus among 30 European psychiatrists established clinical guidance for esketamine nasal spray in treatment-resistant depression. Even modest symptom improvements during the acute phase (4-12 weeks) warrant continuation, particularly for patients with long disease duration and multiple failed treatments. Weekly 84 mg dosing was recommended to optimize outcomes. Monitoring should focus on residual symptoms, functional recovery, and comorbidities during continuation (6-9 months) and maintenance phases (≥12 months).",
+        "sv": "En modifierad Delphi-konsensus bland 30 europeiska psykiatrer etablerade klinisk vägledning för esketaminnässpray vid behandlingsresistent depression. Även måttliga symtomförbättringar under akutfasen (4-12 veckor) motiverar fortsättning, särskilt för patienter med långvarig sjukdom och flera misslyckade behandlingar. Veckovis 84 mg dosering rekommenderades för optimala resultat. Övervakning bör fokusera på kvarvarande symtom, funktionell återhämtning och komorbiditeter under fortsättnings- (6-9 månader) och underhållsfaserna (≥12 månader).",
+        "no": "En modifisert Delphi-konsensus blant 30 europeiske psykiatere etablerte klinisk veiledning for esketaminnesesprøyte ved behandlingsresistent depresjon. Selv beskjedne symptomforbedringer i akuttfasen (4-12 uker) begrunner fortsettelse, særlig for pasienter med langvarig sykdom og flere mislykkede behandlinger. Ukentlig 84 mg dosering ble anbefalt for optimale resultater. Overvåking bør fokusere på gjenværende symptomer, funksjonell bedring og komorbiditeter under fortsettings- (6-9 måneder) og vedlikeholdsfasene (≥12 måneder).",
+        "da": "En modificeret Delphi-konsensus blandt 30 europæiske psykiatere etablerede klinisk vejledning for esketamin-næsespray ved behandlingsresistent depression. Selv beskedne symptomforbedringer i akutfasen (4-12 uger) retfærdiggør fortsættelse, især for patienter med langvarig sygdom og flere mislykkede behandlinger. Ugentlig 84 mg dosering blev anbefalet for optimale resultater. Overvågning bør fokusere på resterende symptomer, funktionel bedring og komorbiditeter under fortsættelses- (6-9 måneder) og vedligeholdelsesfaserne (≥12 måneder).",
+        "fi": "30 eurooppalaisen psykiatrin muokatulla Delphi-konsensuksella vahvistettiin kliininen opas esketamiinisimulaattoriin hoitoa vastustavan depression hoitoon. Jopa vaatimattomatkin oireiden parantumisparantumistulokset akuutissa vaiheessa (4-12 viikkoa) perustelevat jatkamisen, erityisesti potilaille, joilla on pitkäkestoinen sairaus ja useita epäonnistuneita hoitoja. Viikoittain 84 mg annos suositeltiin optimaalisten tulosten saavuttamiseksi. Seurantaa tulee kohdistaa jäljelle jääneisiin oireisiin, toimintakyvyn palautumiseen ja sairauksien rinnakkaisesiintymisen hallintaan jatkuvassa vaiheessa (6-9 kuukautta) ja ylläpitovaiheessa (≥12 kuukautta).",
+        "is": "Breytt Delphi-samstöðu meðal 30 evrópskra geðlækna staðfesti klíníska leiðsögn fyrir esketamín nasúrdreypu við meðferðarþolin þunglyndi. Jafnvel hófleg bæting einkenna í bráðu stigi (4-12 vikur) réttlætir áframhald, sérstaklega fyrir sjúklinga með langvarandi sjúkdóm og margar misheppnaðar meðferðir. Vikuleg 84 mg skammta var mælt með fyrir bestu niðurstöðu. Eftirlit ætti að beinast að eftirstöðvum einkennum, starfrænum bata og fylgisjúkdómum á áframhalts- (6-9 mánuðir) og viðhaldsstigum (≥12 mánuðir).",
+        "et": "30 euroopa psühhiaatri muudetud Delphi-konsensus kehtestas klinilised juhised esketamiini nenasprei kasutamiseks ravi vastupidavale depressioonile. Isegi tagasihoidlikud sümptomite parandused ägeda faasi jooksul (4-12 nädalat) õigustavad jätkamist, eriti patsientidel, kellel on pikaajaline haigus ja mitu ebaõnnestunud ravi. Iganädalast 84 mg annust soovitati optimaalse tulemuse saavutamiseks. Seire peaks keskenduma jääksümptomitele, funktsionaalse taastumise seisundile ja kaasuvatest haigustest ravile jätkamise faasis (6-9 kuud) ja hoolduse faasis (≥12 kuud).",
+        "lv": "30 Eiropas psihiatru modificētas Delphi konsenuss izveidoja klīniskās vadlīnijas esketamīna deguna sprejam ārstēšanas rezistentam depresijam. Pat pieticīga simptomu uzlabošanās akūtajā fāzē (4-12 nedēļas) pamatojošā turpināšanu, īpaši pacientiem ar ilgstošu slimību un vairākas neveiksmīgas ārstēšanas. Iknedēļas 84 mg deva tika ieteikta optimāliem rezultātiem. Uzraudzībai jākoncentrējas uz atlikušajiem simptomiem, funkcionālās atveseļošanās stāvokli un komorbidību pārvaldībai turpināšanas fāzē (6-9 mēneši) un uzturēšanas fāzē (≥12 mēneši).",
+        "lt": "30 Europos psichiatrų modifikuota Delphi konsenso nustatė klinikinį vadovą esketamino nosiai sprei naudojimui gydymui rezistentiems depresijoms. Net kuklūs simptomų pagerėjimai ūmioje fazėje (4-12 savaičių) pateisina tęsimą, ypač pacientams su ilgalaike liga ir keliais nepavykusiais gydymais. Savaitinis 84 mg dozavimas buvo rekomenduojamas optimaliausiems rezultatams. Stebėjimas turėtų daugiausia dėmesio skirti likusius simptomus, funkcinį atsigavimą ir ligų šalutines sąlygas per tęsimąją fazę (6-9 mėnesiai) ir palaikymo fazę (≥12 mėnesių)."
+      },
+      "notable": false,
+      "notable_reasons": null,
+      "relevance_score": 3,
+      "study_type": "other",
+      "substances": [
+        "ketamine"
+      ],
+      "added_at": "2026-07-18T08:16:27.551676+00:00"
+    },
+    {
+      "title": "DATAd: A new communication and tracking system for treatment-resistant depression.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42468852/",
+      "source": "PubMed",
+      "date": "2026-07-17",
+      "authors": [
+        "Conroy Susan K",
+        "Voytenko Vitaliy L",
+        "Docherty Anna R"
+      ],
+      "doi": "10.1016/j.jad.2026.122266",
+      "summaries": {
+        "en": "Researchers propose DATAd, a standardized tracking system for treatment-resistant depression (TRD). Current staging models lack universal adoption, fragmenting treatment histories across providers. DATAd organizes trials into four categories: Drugs, Augmentation/combination, psychoTherapy, and Advanced treatments (TMS, ECT, ketamine). Clinicians document adequate and inadequate trials using simple notation, improving communication and identifying missed treatment opportunities.",
+        "sv": "Forskare presenterar DATAd, ett standardiserat spårningssystem för behandlingsresistent depression (TRD). Befintliga stagningsmodeller saknar universell användning, vilket fragmenterar behandlingshistorier mellan vårdgivare. DATAd organiserar behandlingar i fyra kategorier: Läkemedel, Förstärkning/kombination, psykoTerap och Avancerade behandlingar (TMS, ECT, ketamin). Kliniker dokumenterar tillräckliga och otillräckliga försök med enkel notation, vilket förbättrar kommunikation och identifierar missade behandlingsmöjligheter.",
+        "no": "Forskere foreslår DATAd, et standardisert sporingssystem for behandlingsresistent depresjon (TRD). Eksisterende stagingsmodeller mangler universell bruk og fragmenterer behandlingshistorikk mellom behandlere. DATAd organiserer behandlinger i fire kategorier: Legemidler, Forsterking/kombinasjon, psykoTerapi og Avanserte behandlinger (TMS, ECT, ketamin). Klinikere dokumenterer tilstrekkelige og utilstrekkelige forsøk med enkel notasjon, noe som forbedrer kommunikasjon og identifiserer mistet behandlingsmuligheter.",
+        "da": "Forskere foreslår DATAd, et standardiseret sporingssystem for behandlingsresistent depression (TRD). Eksisterende stagingsmodeller mangler universel anvendelse og fragmenterer behandlingshistorikker mellem behandlere. DATAd organiserer behandlinger i fire kategorier: Lægemidler, Augmentering/kombination, psykoTerapi og Avancerede behandlinger (TMS, ECT, ketamin). Klinikere dokumenterer tilstrækkelige og utilstrækkelige forsøg med simpel notation, hvilket forbedrer kommunikation og identificerer tabte behandlingsmuligheder.",
+        "fi": "Tutkijat esittävät DATAd-järjestelmää, standardoitua hoitoketjun seurantajärjestelmää hoitoresistenttiin masennukseen (TRD). Nykyiset vaiheistusjärjestelmät ovat hajallaan hoitajien välillä ja fragmentoivat potilaan hoitokertomusta. DATAd järjestää hoidot neljään kategoriaan: Lääkkeet, Vahvistus/kombinaatio, psykoTerapia ja Edistyneet hoidot (TMS, ECT, ketamiini). Klinikot dokumentoivat riittävät ja riittämättömät hoitoyritykset yksinkertaisella merkinnällä, parantaen kommunikaatiota ja tunnistamalla puuttuneet hoitomahdollisuudet.",
+        "is": "Vísindamenn leggja til DATAd, staðlað rakningarkerfi fyrir þunglyndi sem stenst ekki meðferð (TRD). Núverandi stigskipt kerfi skortir alheimsmótun og sundrið meðferðarsögu milli lækna. DATAd skipuleggur meðferðir í fjóra flokka: Lyf, Styrkingu/samsetningu, psykoTerapi og Háþróaða meðferðir (TMS, ECT, ketamín). Læknar skrá nægilega og ónægilega meðferðartilfellí með einföldu táknmáli, sem bætir samskipti og greinir gleymdar meðferðarmöguleika.",
+        "et": "Teadlased pakuvad välja DATAd-süsteemi, standardiseeritud ravijuhendi depressioon-vastupanuks depressioonile (TRD). Olemasolevad etappide klassifikaatorid on fragmenteeritud ja puudub ühtne kasutusvõtt. DATAd korraldab ravid neljaks kategooriaks: Ravimid, Jõustamine/kombinatsioon, psüühhoTeraapia ja Arenenud ravid (TMS, ECT, ketamiin). Kliiniku spetsialistid dokumenteerivad piisavaid ja ebapiisavaid raviratsioone lihtsa märkusega, parandades suhtlust ja tuvastes kadunud ravivalikuid.",
+        "lv": "Pētnieki piedāvā DATAd sistēmu - standartizētu ārstēšanas vēstures izsekošanas sistēmu depresijas gadījumiem, kas nereaģē uz ārstēšanu (TRD). Pašreizējie stadiju noteikšanas modeļi nav vienoti un fragmentē ārstēšanas vēsturi starp sniedzējiem. DATAd organizē ārstēšanu četrās kategorijās: Zāles, Pastiprināšana/kombinācija, psihhoTerapija un Progresīvās ārstēšanas (TMS, ECT, ketamīns). Klīnisks personāls dokumentē pietiekamus un nepietiekamus mēģinājumus ar vienkāršu apzīmējumu, uzlabojot komunikāciju un identificējot pagarinātus ārstēšanas iespējas.",
+        "lt": "Mokslininkai siūlo DATAd sistemą - standartizuotą gydymo atsparios depresijos (TRD) sekimo sistemą. Dabartiniai stadijos nustatymo modeliai nėra vieningi ir fragmentuoja gydymo istoriją tarp gydytojų. DATAd organizuoja gydymą į keturias kategorijas: Vaistai, Sustiprinimas/kombinacija, psichhoTerapija ir Pažangiūs gydymai (TMS, ECT, ketaminas). Klinicistai dokumentuoja pakankamus ir nepakankamus bandymus paprastu žymėjimu, pagerinant komunikaciją ir nustatydami praleistas gydymo galimybes."
+      },
+      "notable": false,
+      "notable_reasons": null,
+      "relevance_score": 2,
+      "study_type": "other",
+      "substances": [
+        "ketamine"
+      ],
+      "added_at": "2026-07-18T08:16:27.551676+00:00"
     },
     {
       "title": "Integrated 5-HT",
@@ -1289,6 +1412,37 @@
       "added_at": "2026-07-03T09:41:06.927715+00:00"
     },
     {
+      "title": "Case Report: Intranasal esketamine and accelerated intermittent theta-burst stimulation for severe treatment-resistant depression with suicidal ideation.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42466185/",
+      "source": "PubMed",
+      "date": "2026-07-01",
+      "authors": [
+        "Chang Chun-Hung",
+        "Hsia Yu-Der",
+        "Liu Wen-Chun"
+      ],
+      "doi": "10.3389/fpsyt.2026.1837402",
+      "summaries": {
+        "en": "Case report of a 29-year-old woman with treatment-resistant depression and suicidal ideation treated with intranasal esketamine combined with accelerated intermittent theta-burst stimulation (iTBS). Ten iTBS sessions targeting the left dorsolateral prefrontal cortex were delivered over 4 days alongside esketamine (84 mg). Depression severity scores improved during acute treatment and remained stable at 2-week follow-up, with reported reduction in suicidal ideation.",
+        "sv": "Fallrapport om en 29-årig kvinna med behandlingsresistent depression och suicidtankar behandlad med intranasal esketamin kombinerat med accelererad intermittent theta-burst stimulering (iTBS). Tio iTBS-sessioner riktade mot vänster dorsolateral prefrontal cortex genomfördes under 4 dagar tillsammans med esketamin (84 mg). Depressiv allvarlighetsgrad förbättrades under akut behandling och var stabil vid 2-veckors uppföljning.",
+        "no": "Kasusrapport om en 29 år gammel kvinne med behandlingsresistent depresjon og selvmordstanker behandlet med intranasal esketamin kombinert med akselerert intermittent theta-burst stimulering (iTBS). Ti iTBS-økter rettet mot venstre dorsolateral prefrontal cortex ble gjennomført over 4 dager sammen med esketamin (84 mg). Depresjonsalvorsgrad forbedret seg under akutt behandling og var stabil ved 2-ukersoppfølging.",
+        "da": "Kasusrapport om en 29-årig kvinde med behandlingsresistent depression og selvmordstanker behandlet med intranasal esketamin kombineret med accelereret intermittent theta-burst stimulering (iTBS). Ti iTBS-sessioner målrettet mod venstre dorsolateral præfrontal cortex blev gennemført over 4 dage sammen med esketamin (84 mg). Depressionssværhedsgrad forbedret sig under akut behandling og var stabil ved 2-ugers opfølgning.",
+        "fi": "Tapausraportti 29-vuotiaasta naisesta, jolla oli hoitoon vastustava masennus ja itsemurhaajaatukset, jota hoidettiin intranaasaalisella esketamiinilla yhdistettynä nopeutettuun intermittenttiin theta-burst stimulaatioon (iTBS). Kymmenen iTBS-istuntoa vasemmalle dorsolateraaliselle prefrontaaliselle aivokuorelle annettiin 4 päivän aikana esketamiinin (84 mg) kanssa. Masennuksen vakavuus parani akuutin hoidon aikana ja säilyi vakaina 2 viikon seurannnassa.",
+        "is": "Tilfellaskýrsla um 29 ára gömul kona með meðferðarþolna þunglyndi og sjálfsvígshugmyndir sem meðhöndluð var með inneflugu esketamíni ásamt flýtiðu millibili theta-burst stimulasjóni (iTBS). Tíu iTBS-setur beint að vinstra dorsolateral prefrontalkúpunni voru veitt yfir 4 daga með esketamíni (84 mg). Þyngd þunglyndra einkenni batnaði meðan á bráðri meðferð stóð og var stöðug við 2 vikna eftirfylgni.",
+        "et": "Juhtumikirjeldus 29-aastasest naisest, kellel oli ravi vastupidav depressioon ja enesetapuajatused, mida raviti intranesaalse esketamiiniga kombineerituna kiirendatud vahelduvate theta-burst stimulatsiooniga (iTBS). Kümme iTBS-seanssi vasaku dorsolateraalse prefrontaalkoorega suunatud skanid viidi läbi 4 päeva jooksul koos esketamiiniga (84 mg). Depressiooni raskusaste paranes ägeda ravi ajal ja jäi stabiilseks 2 nädala kontrollis.",
+        "lv": "Gadījuma ziņojums par 29 gadus vecu sievieti ar ārstēšanai resistentu depresiju un pašnāvnieciskiem domu ar intranazo esketamīnu kombinētu ar paātrinātu pārtrauktu teta-burst stimulāciju (iTBS). Desmit iTBS sesijas, kuras vērstas uz kreiso dorsolaterālo prefrontālo garozu, tika veiktas 4 dienu laikā kopā ar esketamīnu (84 mg). Depresijas smaguma pakāpe uzlabojās akūtas ārstēšanas laikā un palika stabila 2 nedēļu kontrolē.",
+        "lt": "Klinikinė ataskaita apie 29 metų moterį su gydymui atsparia depresija ir savižudybės mintimis, gydytą intranaziniu esketaminu, sujungtu su pagreitinta pertrūkiška teta-burst stimuliacija (iTBS). Dešimt iTBS sesijų, orientuotų į kairę dorsolateralinę prefrontalinę žievę, atlikta per 4 dienas su esketaminu (84 mg). Depresijos sunkumas pagerėjo intensyvaus gydymo metu ir išliko stabilus 2 savaičių kontrolėje."
+      },
+      "notable": false,
+      "notable_reasons": null,
+      "relevance_score": 3,
+      "study_type": "case_report",
+      "substances": [
+        "ketamine"
+      ],
+      "added_at": "2026-07-18T08:16:27.551676+00:00"
+    },
+    {
       "title": "Comparative efficacy and acceptability of pharmacological interventions for postpartum depression: a systematic review and network meta-analysis.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42401022/",
       "source": "PubMed",
@@ -1740,122 +1894,6 @@
       "added_at": "2026-06-30T17:20:39.473842+00:00",
       "relevance_score": 3,
       "study_type": "observational",
-      "substances": [
-        "ketamine"
-      ]
-    },
-    {
-      "title": "Optimized Oral Glutamatergic Augmentation in Refractory Home-Dominant Contamination Obsessive-Compulsive Disorder With Somatic, Affective, and Motivational Features: A Case Report of Incremental Functional Gains.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42368238/",
-      "source": "PubMed",
-      "date": "2026-Jun",
-      "summaries": {
-        "en": "Case report of a 26-year-old woman with treatment-resistant contamination-focused OCD treated with a glutamatergic augmentation strategy combining dextromethorphan, CYP2D6 inhibition, piracetam, and L-glutamine. Over nine months of outpatient care, the patient showed functional improvements across contamination fears, rituals, anxiety (GAD-7: 14), and depression (PHQ-9: 18). Evidence for this oral ketamine-informed regimen remains preliminary and case-based, lacking independent replication.",
-        "sv": "Fallrapport av en 26-årig kvinna med behandlingsresistent kontaminationsfokuserad OCD behandlad med glutamaterg augmentation kombinerad dextromethorfan, CYP2D6-hämning, piracetam och L-glutamin. Under nio månader i öppenvård visade patienten funktionell förbättring gällande kontaminationsrädslor, ritualer, ångest (GAD-7: 14) och depression (PHQ-9: 18). Evidensen för detta orala ketaminliknande regim förblir preliminär och casbaserad, utan oberoende replikering.",
-        "no": "Caserapport av ein 26 år gamal kvinne med behandlingsresistent kontaminasjonsfokusert OCD behandla med glutamaterg augmentasjon kombinert dextromethorfan, CYP2D6-hemming, piracetam og L-glutamin. Over ni månader i poliklinisk behandling viste pasienten funksjonell forbetring angåande kontaminasjonsfrykt, ritualer, angst (GAD-7: 14) og depresjon (PHQ-9: 18). Evidensen for dette orale ketaminliknande regimet er framleis preliminær og casebasert, utan uavhengig replikering.",
-        "da": "Caserapport af en 26-årig kvinde med behandlingsresistent kontaminationsfokuseret OCD behandlet med glutamaterg augmentation kombineret dextromethorphan, CYP2D6-hæmning, piracetam og L-glutamin. Over ni måneder i ambulant behandling viste patienten funktionelle forbedringer vedr. kontaminationsfrygt, ritualer, angst (GAD-7: 14) og depression (PHQ-9: 18). Evidensen for dette orale ketamin-inspirerede regime er fortsat preliminær og casebaseret uden uafhængig replikering.",
-        "fi": "Tapausraportti 26-vuotiaasta naisesta, jolla on hoitoresistentti kontaminaatiokeskeinen OCD, jota hoidettiin glutamaatergisella augmentaatiolla: deksometorfaani, CYP2D6-esto, piracetaami ja L-glutamiini. Yhdeksän kuukauden avohoidon aikana potilas osoitti toiminnallista paranemista kontaminaatiopelkojen, rituaalien, ahdistuksen (GAD-7: 14) ja masennuksen (PHQ-9: 18) osalta. Tämän suullisen ketamiinin kaltaisen hoidon evidenssi on edelleen alustava, tapausperustainen ja ilman riippumatonta toistoa.",
-        "is": "Tilfellaskýrsla um 26 ára gömul konu með meðferðarþola sóstarstyrkta þvangahegðun (OCD) sem meðhöndluð var með glutamateric aukastyrk: dextromethorphan, CYP2D6 hemja, piracetam og L-glutamín. Á níu mánaða tímabili í opnum gæslu sýndi sjúklingur virka bætingu varðandi sótarstyrkinn, seiðir, kvíða (GAD-7: 14) og þunglyndi (PHQ-9: 18). Sönnunargögn fyrir þessari munnlegri ketamín-innblásnaðri meðferð eru enn aðeins bráðabirgð, tilfellabundin og án óháðrar endurleiðréttar.",
-        "et": "Juhtumiaruanne 26-aastasest naisest, kellel on ravi-resistent kontaminatsioonifookusega OCD, mida raviti glutamaatergilise augmentatsiooni abil: dekstromethorfaan, CYP2D6 inhibeerimine, piracetaam ja L-glutamiin. Üheksa kuu ambulatoorsel raviperioodil näitas patsient funktsionaalset paranemist kontaminatsiooniärevuse, rituaalide, ärevuse (GAD-7: 14) ja depressiooni (PHQ-9: 18) osas. Tämä suuliste ketamiini-põhiste režiimi toetav tõendus jääb esialgseks, juhtumipõhiseks ja ilma sõltumatu kordamiseta.",
-        "lv": "Klīniskais gadījums par 26 gadus veco sievieti ar ārstēšanai rezistenti kontaminācijas fokusētu OCD, kuru ārstēja glutamaterģiskā pastiprināšana: dekstrometorfāns, CYP2D6 inhibīcija, piracetāms un L-glutamīns. Deviņu mēnešu ambulatorās ārstēšanas laikā paciente parādīja funkcionālu uzlabošanos kontaminācijas bailēs, rituāļos, trauksme (GAD-7: 14) un depresijā (PHQ-9: 18). Šīs perorālās ketamīniem līdzīgas ārstēšanas pierādījumi paliek sākotnēji un nepārbaudīti.",
-        "lt": "Klininis atvejis apie 26 metų moterį su atsparia gydymui taršos sutelkta OCD, gydytą glutamaterginė augmentacija: dekstrometorfanas, CYP2D6 inhibicija, piracetamas ir L-glutaminas. Per devynis mėnesius ambulatorinio gydymo pacientė parodė funkcinį pagerinimą taršos baimėse, ritualiuose, nerimastyje (GAD-7: 14) ir depresijoje (PHQ-9: 18). Šios žodinės ketaminui panašios gydymo įrodymai lieka preliminarūs ir nesuderinami nepriklausomai."
-      },
-      "added_at": "2026-06-30T10:06:19.250905+00:00",
-      "relevance_score": 3,
-      "study_type": "case_report",
-      "substances": [
-        "other"
-      ]
-    },
-    {
-      "title": "Classical psychedelic microdosing, mood, and cognitive function: An umbrella review with narrative synthesis.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42365488/",
-      "source": "PubMed",
-      "date": "2026-Jun",
-      "summaries": {
-        "en": "Umbrella review of microdosing (≤20 μg LSD or ≤3 mg psilocybin) examining mood and cognitive effects in adults. Three meta-analyses synthesizing 14 studies found no evidence for cognitive enhancement; instead, microdosing showed small but reliable impairment of cognitive control. Mood benefits observed in open studies disappeared under blinded conditions, suggesting expectancy bias. Rigorous, preregistered, placebo-controlled trials needed before clinical recommendations.",
-        "sv": "Övergripande granskning av mikrodosering (≤20 μg LSD eller ≤3 mg psilocybin) avseende effekter på humör och kognitiv funktion hos vuxna. Tre metaanalyser av 14 studier fann ingen evidens för kognitiv förbättring; mikrodosering visade istället små men pålitliga försämringar av kognitiv kontroll. Observerade humörförbättringar försvann under blindade förhållanden, vilket tyder på förväntningsbias. Välkontrollerade, föranmälda randomiserade studier krävs före kliniska rekommendationer.",
-        "no": "Paraplygjennomgang av mikrodosering (≤20 μg LSD eller ≤3 mg psilocybin) av effekter på humør og kognitiv funksjon hos voksne. Tre metaanalyser av 14 studier fant ingen evidens for kognitiv forbedring; mikrodosering viste små men konsistente svekelser av kognitiv kontroll. Observerte humørforbedringer forsvant under blindede forhold, noe som tyder på forventningsbias. Veldokumenterte, forhåndsregistrerte randomiserte studier er nødvendige før kliniske anbefalinger.",
-        "da": "Paraplygranskning af mikrodosering (≤20 μg LSD eller ≤3 mg psilocybin) af effekter på humør og kognitiv funktion hos voksne. Tre metaanalyser af 14 studier fandt ingen evidens for kognitiv forbedring; mikrodosering viste små men pålidelige forringelser af kognitiv kontrol. Observerede humørforbedringer forsvandt under blindede forhold, hvilket tyder på forventningsbias. Veldesignede, forregistrerede randomiserede studier er nødvendige før kliniske anbefalinger.",
-        "fi": "Psykedeliikan mikro-annoksien (≤20 μg LSD tai ≤3 mg psilosybiini) vaikutuksista mielialaan ja kognitiivisiin toimintoihin aikuisilla tehty kattava katsaus. Kolme meta-analyysia 14 tutkimuksesta osoitti, ettei mikro-annostelulla ole näyttöä kognitiivisen suorituskyvyn parantamisesta. Sitä vastoin havaittiin pieniä mutta johdonmukaisia kognitiivisen kontrollin heikkenemisiä. Avoimissa tutkimuksissa havaitut mielialahyödyt katosivat sokkotutkimuksissa, mikä viittaa odotusharhaan. Kliinisiä suosituksia varten tarvitaan hyvin suunniteltuja, etukäteen rekisteröityjä kontrolloituja tutkimuksia.",
-        "is": "Yfirlitskoðun á örsmáum skömmtum (≤20 μg LSD eða ≤3 mg psilosibin) á áhrifum á skap og vitræna starfsemi hjá fullorðnum. Þrjár gagnasöfnunargreiningar 14 rannsókna fundu engar sannanir fyrir vitrænum framförum; örsmáar skammtar sýndu heldur litla en áreiðanlega rýrnun á vitrænu eftirliti. Þau bætt skap sem sést í opnum rannsóknum hverfust við blindaðar aðstæður, sem bendir til væntingarhagfalla. Þörf er á vel hönnuðum, fyrirfram skráðum, samanburðarrannsóknum fyrir klíníska tilmæli.",
-        "et": "Psühhedeelikute mikro-annuste (≤20 μg LSD või ≤3 mg psilosibiin) uurimine meeleolu ja kognitiivset funktsiooni puudutavates uuringutes. Kolm metaanalüüsi 14 uuringu kohta ei leidnud tõestust kognitiivse võimestamise kohta; mikro-annustamine näitas aga väikest, kuid usaldusväärsete kognitiivse kontrolli halvenemist. Avatud uuringutes täheldatud meeleolu parandused kadusid pimendatud tingimustes, mis viitab ootuse kallutusele. Kliiniliste soovituste eelnevalt peavad olema koostatud etteregistreeritud kontrollitud uuringud.",
-        "lv": "Psihedeliku mikrodozēšanas (≤20 μg LSD vai ≤3 mg psilocibīns) apskats, analizējot ietekmi uz noskaņojumu un kognitīvajām funkcijām pieaugušajiem. Trīs metaanalīzes, kurās apskatītas 14 pētījumi, neatrada pierādījumus kognitīvām uzlabojumiem; mikrodozēšana parādīja nelielu, bet konsekventi kognitīvās kontroles pasliktināšanos. Novērotie noskaņojuma uzlabojumi atvērtajos pētījumos pazuda, izmantojot aklus apstākļus, kas norāda uz gaidīšanas neobjektivitāti. Pirms klīnisko ieteikumu nepieciešami labi izstrādāti, iepriekš reģistrēti kontrolēti pētījumi.",
-        "lt": "Psichedelinių medžiagų mikrodozavimo (≤20 μg LSD arba ≤3 mg psilotsibino) peržvalga, vertinant šio daromo įtaką nuotaikai ir kognityviniams gebėjimams suaugusiems. Trys metaanalizės, apimančios 14 tyrimų, nerado įrodymų kognityviam pagerinimui; mikrodozavimas parodė mažą, tačiau nuoseklų pažiniminio valdymo blogėjimą. Atvirų tyrimų metu stebėti nuotaikos pageriniai dingo sleptosiomis sąlygomis, kas rodo tikėjimo šališkumą. Prieš klinikinius rekomendacijas reikalingi gerai suplaninti, iš anksto užregistruoti kontroliuojami tyrimai."
-      },
-      "added_at": "2026-06-28T21:45:23.980905+00:00",
-      "relevance_score": 3,
-      "study_type": "review",
-      "substances": [
-        "lsd",
-        "psilocybin"
-      ]
-    },
-    {
-      "title": "The purpose of the psychosocial protocol in the psychedelic-assisted therapy: A scoping review.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42363614/",
-      "source": "PubMed",
-      "date": "2026-Jun",
-      "summaries": {
-        "en": "A scoping review categorizing psychosocial protocols used in psychedelic-assisted therapy research. The study systematized how psychological support procedures accompany substance administration across experimental and observational studies with various classical psychedelics, analyzing their purpose, format, therapeutic approach, and duration to guide future clinical practice.",
-        "sv": "En scoping review som kategoriserar psykosociala protokoll använda i psykedelika-assisterad terapi-forskning. Studien systematiserade hur psykologiskt stöd följer substansadministration i experimentella och observationella studier med klassiska psykedelika, och analyserade syfte, format, terapeutisk inriktning och varaktighet.",
-        "no": "En scoping review som kategoriserer psykososiale protokoller brukt i psykedelika-assistert terapi-forskning. Studien systematiserte hvordan psykologisk støtte ledsager substansadministrasjon i eksperimentelle og observasjonelle studier med klassiske psykedelika, og analyserte formål, format, terapeutisk orientering og varighet.",
-        "da": "En scoping review, der kategoriserer psykosociale protokoller brugt i psykedelika-assisteret terapi-forskning. Studien systematiserede, hvordan psykologisk støtte ledsager substansadministration i eksperimentelle og observationelle studier med klassiske psykedelika, og analyserede formål, format, terapeutisk orientering og varighed.",
-        "fi": "Scoping review, joka luokittelee psykedeliikka-avusteisessa terapiatutkimuksessa käytettyjä psykososiaalisia protokollia. Tutkimus systematisoi, miten psykologinen tuki saattaa aineiden antamista klassisten psykedeliikkojen kokeellisissa ja havainnollisissa tutkimuksissa, ja analysoi tarkoitusta, muotoa, terapeuttista suuntausta ja kestoa.",
-        "is": "Yfirlitsrannsókn sem flokkar sálfélagslega samskiptareglur notaðar í lysergístuðri meðferðarrannsóknum. Rannsóknin skipulagði hvernig sálræn stuðningur fylgir efnisgjöf í tilraunakenndum og athugunarrannsóknum með klassískum lysergikum og greindi tilgang, snið, meðferðarfókus og tímaramma.",
-        "et": "Ulatus-ülevaade, mis kategoriseerib psühhedeelikuga toetatud teraapia uuringutes kasutatavaid psühhosotsiaalset protokolle. Uuring süstematiseeris, kuidas psühholoogiline tugi kaasneb aine manustamisega klassikaliste psühhedeelikutega tehtavates eksperimentaal- ja vaatlusuuringutes, analüüsides eesmärki, vormi, teraapilist suunda ja kestust.",
-        "lv": "Apjoma pārskats, kas kategorizē psihosociālos protokolus, ko izmantots psihodēliku-atbalstītā terapijas pētniecībā. Pêtījums sistematizēja, kā psiholoģiskais atbalsts pavada vielas ievadīšanu klasiskajos psihodēlikos eksperimentālos un novērojošos pêtījumos, analizējot mērķi, formu, terapeitisko orientāciju un ilgumu.",
-        "lt": "Apimties apžvalga, kategorijuojanti psichosocialiniai protokolai, naudojami psichodeliku-asistencijos terapijos tyrimuose. Tyrime sistematizuota, kaip psichologinis palaikymas lydi medžiagos skyrymą klasikiniuose psichodelikusuose eksperimentiniuose ir stebėjimuose tyrimuose, analizuojant tikslą, formatą, terapinę orientaciją ir trukmę."
-      },
-      "added_at": "2026-06-28T21:45:23.980905+00:00",
-      "relevance_score": 3,
-      "study_type": "review",
-      "substances": [
-        "other"
-      ]
-    },
-    {
-      "title": "Novel approaches in depression treatment: from rapid-acting antidepressants to personalized interventions.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42350785/",
-      "source": "PubMed",
-      "date": "2026-Jun",
-      "summaries": {
-        "en": "This review examines rapid-acting treatments for major depressive disorder and treatment-resistant depression, including psychedelics like psilocybin in late-stage trials, and neuromodulation approaches such as Stanford's SAINT protocol (FDA-cleared for TRD). It highlights emerging personalized interventions using EEG biomarkers and genetic guidance, addressing the significant unmet need for alternatives to conventional antidepressants, which fail over 50% of patients.",
-        "sv": "Denna översikt granskar snabbverkande behandlingar för depression och behandlingsresistent depression, inklusive psykedelika som psilocybin i sent stadie av prövning, samt neuromoduleringsmetoder som Stanfords SAINT-protokoll (FDA-godkänd för behandlingsresistent depression). Den belyser framväxande personaliserade interventioner med hjälp av EEG-biomarkörer och genetisk vägledning, och adresserar det stora ouppfyllda behovet av alternativ till konventionella antidepressiva som inte fungerar för över 50% av patienterna.",
-        "no": "Denne oversikten undersøker raskt virkende behandlinger for depresjon og behandlingsresistent depresjon, inkludert psykedelika som psilocybin i sen fase av utprøving, samt neuromodulasjonsmetoder som Stanfords SAINT-protokoll (FDA-godkjent for behandlingsresistent depresjon). Den fremhever fremvoksende personaliserte intervensjoner basert på EEG-biomerker og genetisk veiledning, og tar opp det store udekkede behovet for alternativer til konvensjonelle antidepressiva som ikke virker for over 50% av pasientene.",
-        "da": "Denne oversigt undersøger hurtigt virkende behandlinger for depression og behandlingsresistent depression, herunder psykedelika som psilocybin i sen fase af prøvelser, samt neuromodulationsmetoder som Stanfords SAINT-protokol (FDA-godkendt til behandlingsresistent depression). Den fremhæver nye personaliserede interventioner baseret på EEG-biomarkører og genetisk vejledning, og behandler det store uopfyldt behov for alternativer til konventionelle antidepressiva, som ikke virker for over 50% af patienterne.",
-        "fi": "Tämä katsaus käsittelee nopeasti vaikuttavia hoitoja masennukseen ja hoitoresistenttiin masennukseen, mukaan lukien psykedeliikka, kuten psilosiini myöhäisvaiheen tutkimuksissa, ja neuromodulaatiomenetelmät kuten Stanfordin SAINT-protokolla (FDA-hyväksytty hoitoresistenttiin masennukseen). Se korostaa uusia henkilökohtaistettuja interventioita EEG-biomerkkeihin ja genetiikkaan perustuen, ja käsittelee merkittävää täyttämätöntä tarvetta vaihtoehdoille perinteisille masennuslääkkeille, jotka eivät tehoa yli 50 prosentille potilaista.",
-        "is": "Þessi yfirlitsorðtak skoðar hraðverkandi meðferðir við þunglyndi og meðferðarþolnu þunglyndi, þar á meðal sálfræðilyf eins og psílosýbín í seinum stigum tilrauna og taugabreytingaaðferðir eins og SAINT-aðferð Stanfords (FDA-samþykkt fyrir meðferðarþolnu þunglyndi). Hún leggur áherslu á nýjar sérsniðnar inngrip byggðar á EEG-lífmerkjum og erfðalegum leiðbeiningum og fjallar um mikla óuppfyllta þörf fyrir valkosti við hefðbundin þunglyndislyfin sem virka ekki fyrir yfir 50% sjúklinga.",
-        "et": "Antud ülevaade käsitleb kiiresti toimivaid depressiooni ja ravi-resistentse depressiooni ravimeetodeid, sealhulgas psühhedeelikuid nagu psilotsiiin hilises uuringufaasis ning neuromodulatsioonimeetodeid nagu Stanfordi SAINT-protokoll (FDA-heaks kiidetud ravi-resistentse depressiooni jaoks). See rõhutab uusi personaalseid sekkumisi EEG-biomerküüride ja geneetilise juhenduse põhjal, käsitledes märkimisväärset rahuldamata vajadust tavapäraste antidepressantide alternatiivide järele, mis ei aita üle 50% patsientidele.",
-        "lv": "Šis pārskats aplūko ātri darbojošās depresijas un ārstēšanai rezistentas depresijas ārstēšanas metodes, tostarp psihedelikus, piemēram, psilocīnu vēlīnās pārbaudes stadijā, un neirommodulācijas metodes, piemēram, Stenfordas SAINT protokolu (FDA apstiprināts rezistentai depesijai). Tas izcēlj jaunas personalizētas iejaukšanās, kuru pamatā ir EEG biomerķieri un ģenētiskas vadlīnijas, risinot lielu neapmierinātu vajadzību pēc alternatīvu parastajiem antidepresantiem, kas nepalīdz vairāk nekā 50% pacientu.",
-        "lt": "Šis apžvalga nagrinėja greitai veikiančius depresijos ir atsparios gydymui depresijos gydymo būdus, įskaitant psichedelikus, pavyzdžiui, psilocinį vėlyvame bandymų stadijuje, bei neuromoduliavimo metodus, pavyzdžiui, Stanfordo SAINT protokolą (FDA patvirtintą atspariems gydymui depresijai). Jis pabrėžia naujas suasmenintus intervencijas, pagrįstas EEG biožymekliais ir genetine orientacija, sprendžiant didelę nepatenkintą poreikį alternatyvoms įprastiems antidepresantams, kurie nepadeda daugiau nei 50% ligonių."
-      },
-      "added_at": "2026-06-28T21:45:23.980905+00:00",
-      "relevance_score": 3,
-      "study_type": "review",
-      "substances": [
-        "psilocybin"
-      ]
-    },
-    {
-      "title": "Increased morning cortisol after ketamine treatment for suicidal depression: Exploratory report from a randomized trial.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42349524/",
-      "source": "PubMed",
-      "date": "2026-Jun",
-      "summaries": {
-        "en": "A midazolam-controlled trial examined ketamine infusion for suicidal depression, finding rapid reduction in suicidal ideation within 24 hours. An exploratory analysis measured morning cortisol levels before and after treatment. Results showed a significant increase in waking cortisol 24 hours post-ketamine (p=0.0025), with weak correlation to symptom improvement. Findings suggest moderate cortisol elevation may enhance stress resilience, though replication is needed.",
-        "sv": "En randomiserad studie undersökte ketamininjektion för suicidal depression med midazolam som kontroll och fann snabb minskning av självmordstankar inom 24 timmar. En explorativ analys mätte kortisolnivåer vid väckning före och efter behandling. Resultaten visade signifikant ökning av morgonkortisol 24 timmar efter ketamin (p=0,0025), med svag korrelation till symptombättring. Resultaten antyder att måttlig kortisolökning kan öka stressmotståndsförmåga, men replikering krävs.",
-        "no": "En randomisert studie undersøkte ketamininjektion for selvmordsdepresjon med midazolam som kontroll og fant rask reduksjon av selvmordstanker innen 24 timer. En eksplorativ analyse målte kortisolnivåer ved oppvåkning før og etter behandling. Resultatene viste signifikant økning av morgenkortisol 24 timer etter ketamin (p=0,0025), med svak korrelasjon til symptomforbedring. Resultatene antyder at moderat kortisoløkning kan øke stressresistens, men replikering er nødvendig.",
-        "da": "En randomiseret undersøgelse undersøgte ketamininfusion til selvmordsdepression med midazolam som kontrol og fandt hurtig reduktion af selvmordstanker inden for 24 timer. En eksplorativ analyse målte kortisolniveauer ved opvågning før og efter behandling. Resultaterne viste betydelig stigning i morgenkortisol 24 timer efter ketamin (p=0,0025), med svag sammenhæng til symptombedring. Resultaterne tyder på, at moderat kortisolstigning kan øge stressmodstandskraft, men replikering er nødvendig.",
-        "fi": "Satunnaistettu tutkimus tutki ketamiinin infuusiota itsemurhaperäisen masennuksen hoitoon midatsolamia käyttäen kontrollina ja löysi nopean itsemurha-ajatusten vähenemisen 24 tunnin kuluessa. Tutkivassa analyysissä mitattiin kortisolipitoisuuksia heräämisen yhteydessä ennen ja jälkeen hoitoa. Tulokset osoittivat merkitsevää aamu-kortisolintasauksen nousua 24 tunnin jälkeen ketamiinista (p=0,0025), ja heikko korrelaatio oireiston paranemiseen. Tulokset viittaavat siihen, että kohtuullinen kortisolin nousu voi parantaa stressinsietokykyä, mutta toistaminen on tarpeen.",
-        "is": "Handahóf rannsókn kannaði ketamíninnspýtingu fyrir sjálfsmorðsþunglyndi með midazólam sem samanburð og fann skjóta minnkun sjálfsmorðshugsana innan 24 klukkustunda. Könnunargreining mældi kortisólstig við vaknaðir fyrir og eftir meðferð. Niðurstöður sýndu marktæka hækkun morgunkortisóls 24 klukkustundum eftir ketamín (p=0,0025), með veika fylgni við bætta einkenni. Niðurstöðurnar benda til þess að hófleg kortisólhækkun gæti aukið þrek gegn streitu, en endurtekning er nauðsynleg.",
-        "et": "Randomiseeritud uuringu uuriti ketamiini infusiooni enesetapuohtusega depressiooni raviks midatsoolami kontrollrühmana ja leiti enesetapumõtete kiiret vähenemist 24 tunni jooksul. Uurimu analüüs mõõtis kortisooli tasemeid ärkamisel enne ja pärast ravi. Tulemused näitasid olulist hommikuse kortisooli tõusu 24 tundi pärast ketamiini (p=0,0025) nõrga seosega sümptomite paranemisega. Tulemused viitavad sellele, et maandne kortisoolina tõus võib tugevdada stressi talumist, kuid kordamine on vajalik.",
-        "lv": "Randomizēts pētījums pārbaudīja ketamīna infūziju pašnāvnieciskas depresijas ārstēšanai ar midazolāmu kā kontroli un konstatēja ātru pašnāvnieciskas ideācijas samazināšanos 24 stundu laikā. Pētnieciskā analīze mērīja kortizoļa līmeņus pamodināšanās laikā pirms un pēc ārstēšanas. Rezultāti parādīja nozīmīgu rīta kortizola paaugstināšanos 24 stundas pēc ketamīna (p=0,0025), ar vāju korelāciju ar simptomiem. Rezultāti liecina, ka mērens kortizola pieaugums var uzlabot stresa noturību, taču atkārtošana ir nepieciešama.",
-        "lt": "Atsitiktinė kontroliuojama studija tyrė ketamino infūziją savižudybės sukeliamos depresijos gydymui su midazolamu kaip kontrole ir nustatė greitą savižudybės minčių sumažėjimą per 24 valandas. Tyrinėjamoji analizė matuvo kortizolo lygius pabudus prieš ir po gydymo. Rezultatai parodė reikšmingą ryto kortizolo padidėjimą 24 valandas po ketamino (p=0,0025), su silpna koreliacija su simptomų pagerintimu. Rezultatai rodo, kad vidutinis kortizolo padidėjimas gali padidinti atsparumą stresui, tačiau reikalingas pakartotas tyrimas."
-      },
-      "added_at": "2026-06-28T21:45:23.980905+00:00",
-      "relevance_score": 3,
-      "study_type": "rct",
       "substances": [
         "ketamine"
       ]

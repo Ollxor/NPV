@@ -1,6 +1,105 @@
 {
   "items": [
     {
+      "title": "Emerging pharmacological and neuromodulation interventions for suicidal ideation and behaviour.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42468074/",
+      "source": "PubMed",
+      "date": "2026-07-17",
+      "authors": [
+        "Scala Mauro",
+        "Magrini Enrico",
+        "Leccisotti Ivana"
+      ],
+      "doi": "10.1016/j.euroneuro.2026.112888",
+      "summary_en": "A narrative review examined pharmacological and neuromodulation interventions for suicidal ideation and attempts. Analysis of 34 studies (22 pharmacological, 12 neuromodulation) found improvements within days to weeks in controlled trials. Promising results emerged for NMDA-related agents, opioid-system modulators, ayahuasca in treatment-resistant depression, and pimavanserin. SI improvements often exceeded concurrent depression changes, suggesting partial independence, though evidence remains inconsistent.",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "review",
+      "substances": [
+        "ayahuasca"
+      ],
+      "added_at": "2026-07-18T08:16:27.551676+00:00"
+    },
+    {
+      "title": "UK's regulatory and legislative double standards in the treatment of psychedelics and drugs for assisted suicide.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42464460/",
+      "source": "PubMed",
+      "date": "2026-07-17",
+      "authors": [
+        "Zinchenko Ruslan"
+      ],
+      "doi": "10.1192/bjp.2026.10731",
+      "summary_en": "This editorial examines regulatory inconsistencies in UK drug policy. Assisted suicide medications would circumvent standard approval processes despite limited evidence, while hallucinogens face substantial barriers despite promising international clinical data. The author argues assisted suicide drugs should undergo equivalent regulatory scrutiny, and hallucinogens should be rescheduled to facilitate further clinical research.",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "other",
+      "substances": [
+        "psilocybin",
+        "other"
+      ],
+      "added_at": "2026-07-18T08:16:27.551676+00:00"
+    },
+    {
+      "title": "Clinical guidance on the use of esketamine nasal spray for patients with treatment resistant depression: A European Delphi consensus report.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42468081/",
+      "source": "PubMed",
+      "date": "2026-07-17",
+      "authors": [
+        "Young Allan H",
+        "Baune Bernhard T",
+        "Benatti Beatrice"
+      ],
+      "doi": "10.1016/j.euroneuro.2026.112907",
+      "summary_en": "A modified Delphi consensus among 30 European psychiatrists established clinical guidance for esketamine nasal spray in treatment-resistant depression. Even modest symptom improvements during the acute phase (4-12 weeks) warrant continuation, particularly for patients with long disease duration and multiple failed treatments. Weekly 84 mg dosing was recommended to optimize outcomes. Monitoring should focus on residual symptoms, functional recovery, and comorbidities during continuation (6-9 months) and maintenance phases (≥12 months).",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "other",
+      "substances": [
+        "ketamine"
+      ],
+      "added_at": "2026-07-18T08:16:27.551676+00:00"
+    },
+    {
+      "title": "Case Report: Intranasal esketamine and accelerated intermittent theta-burst stimulation for severe treatment-resistant depression with suicidal ideation.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42466185/",
+      "source": "PubMed",
+      "date": "2026-07-01",
+      "authors": [
+        "Chang Chun-Hung",
+        "Hsia Yu-Der",
+        "Liu Wen-Chun"
+      ],
+      "doi": "10.3389/fpsyt.2026.1837402",
+      "summary_en": "Case report of a 29-year-old woman with treatment-resistant depression and suicidal ideation treated with intranasal esketamine combined with accelerated intermittent theta-burst stimulation (iTBS). Ten iTBS sessions targeting the left dorsolateral prefrontal cortex were delivered over 4 days alongside esketamine (84 mg). Depression severity scores improved during acute treatment and remained stable at 2-week follow-up, with reported reduction in suicidal ideation.",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "case_report",
+      "substances": [
+        "ketamine"
+      ],
+      "added_at": "2026-07-18T08:16:27.551676+00:00"
+    },
+    {
+      "title": "DATAd: A new communication and tracking system for treatment-resistant depression.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42468852/",
+      "source": "PubMed",
+      "date": "2026-07-17",
+      "authors": [
+        "Conroy Susan K",
+        "Voytenko Vitaliy L",
+        "Docherty Anna R"
+      ],
+      "doi": "10.1016/j.jad.2026.122266",
+      "summary_en": "Researchers propose DATAd, a standardized tracking system for treatment-resistant depression (TRD). Current staging models lack universal adoption, fragmenting treatment histories across providers. DATAd organizes trials into four categories: Drugs, Augmentation/combination, psychoTherapy, and Advanced treatments (TMS, ECT, ketamine). Clinicians document adequate and inadequate trials using simple notation, improving communication and identifying missed treatment opportunities.",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "other",
+      "substances": [
+        "ketamine"
+      ],
+      "added_at": "2026-07-18T08:16:27.551676+00:00"
+    },
+    {
       "title": "Integrated 5-HT",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42463904/",
       "source": "PubMed",

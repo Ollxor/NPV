@@ -1,7 +1,70 @@
 {
-  "date": "2026-07-17",
-  "cached_at": "2026-07-17T08:05:33.439624+00:00",
+  "date": "2026-07-18",
+  "cached_at": "2026-07-18T07:45:09.165619+00:00",
   "articles": [
+    {
+      "title": "DATAd: A new communication and tracking system for treatment-resistant depression.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42468852/",
+      "source": "PubMed",
+      "abstract": "Treatment-resistant depression (TRD) carries a substantial personal and societal burden, yet no universally accepted definition or communication framework exists to guide its clinical management. Current staging models - including the Antidepressant Treatment History Form, Thase and Rush Staging Model, European Staging Model, Massachusetts General Hospital Staging Model, and Maudsley Staging Model - each offer valuable but incomplete approaches to characterizing TRD, and none has achieved broad adoption in routine clinical or research settings. The absence of a standard communication tool results in fragmented treatment histories, inconsistent provider-to-provider handoffs, and missed treatment opportunities for patients. Members of the National Network of Depression Centers (NNDC) Treatment-Resistant Depression Task Group propose the DATAd Tracking System - a simple, scalable framework for documenting and communicating depression treatment history. DATAd organizes prior treatment trials across four clinically meaningful categories: Drugs (primary antidepressants), Augmentation/combination strategies, psychoTherapy, and Advanced treatments (e.g., transcranial magnetic stimulation, electroconvulsive therapy, ketamine/esketamine). For each category, clinicians record both adequate and inadequate trials in the current episode using the notation D#(#) A#(#) T#(#) Ad#(#), with optional lifetime worksheets available to capture historical treatment data. Analogous to the Gravida-Para system in obstetrics and the Tumor-Lymph Nodes-Metastasis (TNM) system in oncology, DATAd provides a common clinical language that highlights treatment gaps, facilitates informed next-step recommendations, and supports both clinical decision-making and research. Ongoing multicenter trials supported by the NNDC will evaluate DATAd's utility, inter-rater reliability, and impact on clinical workflow and patient outcomes.",
+      "date": "2026-07-17",
+      "authors": [
+        "Conroy Susan K",
+        "Voytenko Vitaliy L",
+        "Docherty Anna R"
+      ],
+      "doi": "10.1016/j.jad.2026.122266"
+    },
+    {
+      "title": "Clinical guidance on the use of esketamine nasal spray for patients with treatment resistant depression: A European Delphi consensus report.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42468081/",
+      "source": "PubMed",
+      "abstract": "Esketamine nasal spray (NS) is an established treatment for patients with treatment resistant depression (TRD). To further optimise real-world outcomes, consensus is needed regarding strategies to enhance patient outcomes and decision-making factors for pivotal timepoints in esketamine NS treatment. This modified Delphi panel (3 rounds) established expert consensus (≥80% agreement) from 30 European psychiatrists experienced in management of patients with TRD receiving esketamine NS. During the acute phase (4-12 weeks), modest/subjective reductions in core symptoms important to both patients and physicians supported esketamine NS continuation, especially with long disease course/resistance to multiple therapies. Consensus was reached that such a modest improvement during the acute phase should justify esketamine NS continuation (and supplementation of other treatment modalities with esketamine NS). Esketamine NS dose/frequency maximisation (84 mg weekly) was advocated for, to enhance acute phase outcomes, alongside strategies reflective of individual clinical characteristics. Monitoring in the continuation phase (6-9 months) should prioritise residual/fluctuating symptoms, changes in symptom severity, functional recovery status and comorbidity management/emergence. Should residual symptoms persist, dose/frequency escalation, among other all-phase options, were supported. Prolonging maintenance phase treatment (≥12 months) depended on the degree of clinical worsening when tapering, the risks/consequences of relapse, chronicity of the last depressive episode, residual symptoms and recurrence history. Across all phases, recommended treatment plans included integration of psychotherapy, optimisation of concomitant antidepressants/augmentation strategies, comorbidity management and strengthening support networks. Overall, the consensus advocated for an approach reflective of TRD complexities, prioritising meaningful outcomes for individual patients.",
+      "date": "2026-07-17",
+      "authors": [
+        "Young Allan H",
+        "Baune Bernhard T",
+        "Benatti Beatrice"
+      ],
+      "doi": "10.1016/j.euroneuro.2026.112907"
+    },
+    {
+      "title": "Emerging pharmacological and neuromodulation interventions for suicidal ideation and behaviour.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42468074/",
+      "source": "PubMed",
+      "abstract": "Suicide remains a leading cause of premature mortality worldwide. Current treatments are limited by delayed onset, durability, or poor tolerability. This narrative review, informed by a structured literature search, summarises the last decade of evidence on pharmacological and neuromodulation interventions for suicidal ideation (SI) or suicide attempt (SA) that are not approved for these indications. We searched PubMed for studies enrolling adults with SI or SA, including controlled trials and naturalistic/observational studies. Thirty-four studies were included: 22 pharmacological (13 efficacy, nine effectiveness) and 12 using neuromodulation (nine efficacy, three effectiveness). Across controlled trials, SI commonly improved within days to weeks. Some trials reported SI reduction beyond concurrent depression score changes, suggesting partial independence, but evidence remains inconsistent and method-dependent. Encouraging results were reported for NMDA-related drugs (NRX-101 and high-dose d-cycloserine; amantadine in Borna disease virus-1-positive depression), opioid-system modulation (buprenorphine at ultra-low and high doses in distinct populations), ayahuasca in major and treatment-resistant depression, and adjunctive pimavanserin. Smaller effects were observed for vortioxetine augmentation and insomnia-targeted zolpidem. Large observational datasets reported associations between lower suicidality and folic acid, benztropine, testosterone initiation in transgender adults, and non-vitamin K oral anticoagulants versus warfarin, whereas non-medical cannabis use was associated with worse SI trajectories. Neuromodulation evidence implicated accelerated or targeted repetitive transcranial magnetic stimulation, theta-burst stimulation, and magnetic seizure therapy for SI reduction, with longer-term observational support for vagus nerve stimulation. Future trials should prespecify suicide-related outcomes, test independence from mood change, and assess durability and high-risk transition periods to advance suicide-specific treatment development.",
+      "date": "2026-07-17",
+      "authors": [
+        "Scala Mauro",
+        "Magrini Enrico",
+        "Leccisotti Ivana"
+      ],
+      "doi": "10.1016/j.euroneuro.2026.112888"
+    },
+    {
+      "title": "Case Report: Intranasal esketamine and accelerated intermittent theta-burst stimulation for severe treatment-resistant depression with suicidal ideation.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42466185/",
+      "source": "PubMed",
+      "abstract": "Treatment-resistant major depressive disorder with high-risk suicidal ideation is a psychiatric emergency that requires rapid and effective intervention. Although intranasal esketamine and intermittent theta-burst stimulation (iTBS) are time-efficient therapeutic options, clinical reports describing their combined use in an accelerated inpatient schedule are limited, particularly in acutely high-risk patients. A 29-year-old woman with recurrent major depressive disorder was hospitalized for severe depressive symptoms and high-risk suicidal ideation after inadequate responses to several antidepressant trials, augmentation therapy, psychotherapy, and a standard course of repetitive transcranial magnetic stimulation. Her baseline symptom severity scores were as follows: Patient Health Questionnaire-9 (PHQ-9), 15; Hamilton Depression Rating Scale (HAMD), 27; and Beck Depression Inventory (BDI), 41. After providing written informed consent, she received intranasal esketamine (84 mg) and an accelerated iTBS protocol targeting the left dorsolateral prefrontal cortex (Beam F3 localization), with 10 iTBS sessions delivered over 4 treatment days (total 6,000 pulses). The patient's depressive symptoms improved during the acute treatment course (PHQ-9: 15→11; HAMD: 27→20; BDI: 41→28), and she reported an improvement in suicidal ideation. Her clinical status remained stable at the 2-week follow-up (PHQ-9 = 8; HAMD = 17; and BDI = 23). An exploratory device-derived stress index obtained using the Stress Electroencephalogram Assessment (SEA) system decreased from 7 to 3, consistent with clinical improvement. This case suggests that the combination of intranasal esketamine and accelerated iTBS is feasible in inpatient settings for treating severe depression with high-risk suicidal ideation. Additional controlled studies are required to evaluate the efficacy, optimal sequencing, safety monitoring, and durability of this combined approach.",
+      "date": "2026-07-01",
+      "authors": [
+        "Chang Chun-Hung",
+        "Hsia Yu-Der",
+        "Liu Wen-Chun"
+      ],
+      "doi": "10.3389/fpsyt.2026.1837402"
+    },
+    {
+      "title": "UK's regulatory and legislative double standards in the treatment of psychedelics and drugs for assisted suicide.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42464460/",
+      "source": "PubMed",
+      "abstract": "This editorial highlights the UK's drug regulatory double standards. Drugs for assisted suicide would bypass standard regulation despite limited evidence, while psychedelics face significant barriers despite promising evidence internationally. I argue that drugs for assisted suicide should meet the same regulatory standards, and psychedelics should be rescheduled to enable further clinical research.",
+      "date": "2026-07-17",
+      "authors": [
+        "Zinchenko Ruslan"
+      ],
+      "doi": "10.1192/bjp.2026.10731"
+    },
     {
       "title": "Integrated 5-HT",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42463904/",
@@ -190,62 +253,13 @@
       "doi": "10.3390/ijms27136084"
     },
     {
-      "title": "Erratum to: Calcium/Calmodulin-Dependent Protein Kinase II and Eukaryotic Elongation Factor 2 Kinase Pathways Mediate the Antidepressant Action of Ketamine.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42446461/",
-      "source": "PubMed",
+      "title": "Field Notes #3: Washington’s Busy Week, and the Biggest Psychedelic Buyout Yet",
+      "url": "https://psychedelicalpha.com/news/field-notes-3-washingtons-busy-week-and-the-biggest-psychedelic-buyout-yet/",
+      "source": "Psychedelic Alpha",
       "abstract": "",
-      "date": "2026-07-14",
+      "date": "2026-07-17",
       "authors": [],
-      "doi": "10.1016/j.biopsych.2026.06.020"
-    },
-    {
-      "title": "Acute Hallucinogen Intoxication Following Ingestion of a Commercially Available Mushroom Extract Product: A Case Report.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42445624/",
-      "source": "PubMed",
-      "abstract": "Psilocybin is a naturally occurring hallucinogen known to produce alterations in perception, cognition, and autonomic function through its effects on central serotonergic pathways. Products marketed as \"mushroom\" formulations may contain psilocybin or related psychoactive compounds despite ambiguous labeling and limited regulatory clarity, creating diagnostic challenges for clinicians in acute care settings. We present the case of an 18-year-old female with no prior medical or psychiatric history who presented to the emergency department with sudden-onset severe anxiety, agitation, tremors, diaphoresis, and vivid visual and auditory hallucinations shortly after ingesting a commercially available mushroom product purchased from a gas station. According to the patient and her boyfriend, she rapidly developed paranoid ideation and marked perceptual distortions, including the belief that her surroundings were moving and threatening her, prompting emergent evaluation. On arrival, she was tachycardic and tachypneic with dilated pupils, pronounced psychomotor agitation, and hypervigilant behavior, while remaining alert, oriented, and without focal neurologic deficits. Initial diagnostic evaluation revealed mild metabolic abnormalities without evidence of co-ingestion, pregnancy, or end-organ dysfunction, and electrocardiography demonstrated an apparent irregular rhythm initially concerning for atrial fibrillation that was subsequently determined to represent sinus rhythm with tremor-related artifact. The diagnosis of psilocybin-associated hallucinogen intoxication was reached through careful history-taking, exclusion of alternative etiologies such as primary psychosis, serotonin syndrome, or other toxic ingestions, and observation of symptom resolution with supportive care. Diagnostic uncertainty was heightened by the absence of confirmatory toxicology testing and the nonspecific labeling of the ingested product, necessitating reliance on clinical pattern recognition and response to treatment. The patient was managed with intravenous fluids and repeated doses of benzodiazepines, resulting in gradual resolution of autonomic instability, agitation, and hallucinations, and she returned to baseline mental status prior to discharge. This case highlights the diagnostic challenges posed by commercially available mushroom products and emphasizes the importance of comprehensive clinical evaluation and supportive management in suspected psilocybin intoxication. Recognition of characteristic clinical features, coupled with exclusion of dangerous mimics, remains essential for safe disposition and effective patient counseling.",
-      "date": "2026-06-13",
-      "authors": [
-        "Udoro Akemini J",
-        "Yukyi Yadanar",
-        "Ansari Ali Z"
-      ],
-      "doi": "10.7759/cureus.110791"
-    },
-    {
-      "title": "Association between prenatal methamphetamine exposure and intracranial haemorrhage in neonates and infants: nationwide cohort study.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42444629/",
-      "source": "PubMed",
-      "abstract": "Central nervous system stimulants like methamphetamines and cocaine are known to increase the risk of intracranial haemorrhage (ICH) in adults. However, the effects of prenatal methamphetamine exposure on neonatal cerebrovascular outcomes remain underexplored despite its growing prevalence. To assess whether prenatal methamphetamine exposure increases offspring ICH risk versus unexposed pregnancies, and to compare findings with 3,4-methylenedioxymethamphetamine (MDMA)/opioid exposures, including stratification by gestational age. This nationwide, population-based cohort study in Taiwan included pregnancies resulting in live births between 2004 and 2018, and followed offspring through 31 December 2019 to examine the association between prenatal exposure to methamphetamines, MDMA or opioids and incident ICH in offspring. The cohort included 53 455 pairs of pregnant women and their first offspring, with 10 691 exposed to illicit drugs and 42 764 matched controls. Cox proportional hazards models estimated adjusted hazard ratios (aHRs), accounting for maternal age, comorbidities, socioeconomic status and other confounders. Prenatal methamphetamine exposure was associated with a higher risk of ICH in offspring compared with unexposed controls (0.4  Prenatal methamphetamine exposure was associated with a higher risk of offspring ICH, particularly among full-term infants. These findings support the importance of efforts to reduce methamphetamine use during pregnancy.",
-      "date": "2026-07-14",
-      "authors": [
-        "Lin Ching-Heng",
-        "Lin Chun",
-        "Lin Wei-Szu"
-      ],
-      "doi": "10.1192/bjp.2026.10707"
-    },
-    {
-      "title": "Psychedelic therapy at the end of life: unexplored alternative to assisted suicide in the UK.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42444626/",
-      "source": "PubMed",
-      "abstract": "In this editorial, I examine the parallels between conventional and assisted suicide. Psychedelic therapy has been shown to alleviate end-of-life distress and reduce suicidality. I advocate for rescheduling psychedelics to enable research into their effectiveness as an adjunct to palliative care, prior to institutionalising assisted suicide in the UK.",
-      "date": "2026-07-14",
-      "authors": [
-        "Zinchenko Ruslan"
-      ],
-      "doi": "10.1192/bjp.2026.10729"
-    },
-    {
-      "title": "Longitudinal dream-content shift and void-like dissociative phenomenology around outpatient ketamine infusions in chronic low back pain: a case report.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42443960/",
-      "source": "PubMed",
-      "abstract": "Altered-state phenomenology around ketamine may relate to longer-term changes in imaginal processes, but observations across routine care are scarce. We report an educational case focusing on pre-defined dream motifs over time, without making treatment efficacy claims. A 48-year-old Japanese man with severe chronic primary low back pain reported dreams during insight-oriented psychotherapy from 2009 to 2025; over 360 narratives were contemporaneously documented. In 2014, he received five low-dose outpatient intravenous ketamine infusions (15 mg; 0.23 mg/kg; first 20 min, then 30 min; no premedication) and described a void-like dissociative state during the first session. Using a pre-specified codebook, two raters (treating clinician and external psychiatrist) independently coded an ID-based, period-stratified random subset of 50 dreams after re-ordering and masking of period labels for three primary motifs (obstruction, fear, anger) plus a descriptive social-interaction/role-completion motif. Obstruction decreased from pre- to post-ketamine periods in both raters (treating clinician: 6/9 vs 4/30; external psychiatrist: 6/9 vs 7/30). In the double-labelled subset, the social-interaction/role-completion motif was labelled more often post- than pre-ketamine by both raters (2/9 pre; 10/30 and 11/30 post). Across the observation window that included outpatient ketamine infusions in 2014, dream content shifted from recurrent obstruction toward imagery of movement, interpersonal engagement, and everyday role completion (illustrated by selected de-identified dream narratives; Table 5). These single-patient, hypothesis-generating observations describe ketamine-associated void-like phenomenology and longitudinal dream-content change without making efficacy claims. In insight-oriented outpatient ketamine care, clinicians may prepare patients for possible dissociative/dream-like experiences, invite brief narrative documentation, and offer post-session integration while maintaining standard physiological monitoring.",
-      "date": "2026-07-13",
-      "authors": [
-        "Torii Kei",
-        "Nishitani Ryo"
-      ],
-      "doi": "10.1186/s13256-026-06175-9"
+      "doi": ""
     },
     {
       "title": "Breaking: World’s Largest Pharmaceutical Company, Eli Lilly, Acquires 5-MeO-DMT Developer AtaiBeckley for Up to $3.8 billion",
@@ -325,15 +339,6 @@
       "source": "Psychedelic Alpha",
       "abstract": "",
       "date": "2026-06-26",
-      "authors": [],
-      "doi": ""
-    },
-    {
-      "title": "‘A Sea Change’, With Caveats: A Closer Look at Definium’s Phase 3 LSD for MDD Readout",
-      "url": "https://psychedelicalpha.com/news/a-sea-change-with-caveats-a-closer-look-at-definiums-phase-3-lsd-for-mdd-readout/",
-      "source": "Psychedelic Alpha",
-      "abstract": "On Monday, Definium Therapeutics announced topline data from a Phase 3 trial of its LSD candidate (DT120) for major depressive disorder (MDD). Reaction to the topline has been broadly positive, with the company’s stock price appreciating sharply on the news and Definium announcing plans to raise $700M in fresh capital. Following our reporting of the […]",
-      "date": "2026-06-25",
       "authors": [],
       "doi": ""
     },
@@ -560,7 +565,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2018-004480-31/CZ",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-07-17",
+      "date": "2026-07-18",
       "authors": [],
       "doi": ""
     },
@@ -569,7 +574,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2020-005037-32/CZ",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-07-17",
+      "date": "2026-07-18",
       "authors": [],
       "doi": ""
     },
@@ -578,7 +583,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2021-002909-10/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-07-17",
+      "date": "2026-07-18",
       "authors": [],
       "doi": ""
     },
@@ -587,7 +592,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2015-000550-37/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-07-17",
+      "date": "2026-07-18",
       "authors": [],
       "doi": ""
     },
@@ -596,7 +601,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2021-000041-40/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-07-17",
+      "date": "2026-07-18",
       "authors": [],
       "doi": ""
     },
@@ -605,7 +610,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2020-000829-55/DK",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-07-17",
+      "date": "2026-07-18",
       "authors": [],
       "doi": ""
     },
@@ -614,7 +619,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2020-002790-94/SE",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-07-17",
+      "date": "2026-07-18",
       "authors": [],
       "doi": ""
     },
@@ -623,7 +628,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2021-006200-33/FI",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-07-17",
+      "date": "2026-07-18",
       "authors": [],
       "doi": ""
     },
@@ -632,7 +637,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2019-004812-73/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-07-17",
+      "date": "2026-07-18",
       "authors": [],
       "doi": ""
     },
@@ -641,7 +646,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2022-002369-14/BE",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-07-17",
+      "date": "2026-07-18",
       "authors": [],
       "doi": ""
     },

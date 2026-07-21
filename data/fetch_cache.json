@@ -1,7 +1,59 @@
 {
-  "date": "2026-07-20",
-  "cached_at": "2026-07-20T08:53:25.892710+00:00",
+  "date": "2026-07-21",
+  "cached_at": "2026-07-21T08:24:07.119236+00:00",
   "articles": [
+    {
+      "title": "Adolescent exposure to the psychedelic 25C-NBOMe in rats induces lasting competitive avoidance through disrupted hippocampal-prefrontal synchrony.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42477457/",
+      "source": "PubMed",
+      "abstract": "Psychedelics, known for prosocial effects and therapeutic potential in psychiatry, are often first used during adolescence, yet their enduring impact on social behavior and its underlying circuits remain unclear. Here we show that repeated exposure to the serotonergic psychedelic drug 25C-NBOMe during adolescence, but not exposure in adulthood, induced lasting competitive avoidance in male Sprague-Dawley rats-the most prominent change among several interrelated social behaviors and one that was not a collateral effect of altered sociability or social dominance. Multisite recordings revealed disrupted default mode network (DMN) synchrony, with reduced theta band coherence between the ventral hippocampus (vHPC) and the orbitofrontal cortex (OFC) most strongly predicting this behavioral change. Chemogenetic activation of the vHPC → OFC projection normalized the avoidance behavior in drug-exposed rats, whereas chemogenetic inhibition induced it in controls. These findings indicate that the vulnerability of DMN synchrony to psychedelics during adolescence can durably reshape adult social functioning.",
+      "date": "2026-07-20",
+      "authors": [
+        "Yu Zhi-Peng",
+        "Zhang Zhong-Yu",
+        "Li Qiong"
+      ],
+      "doi": "10.1038/s41593-026-02369-y"
+    },
+    {
+      "title": "Antidepressant-like effects of ketamine involve CX",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42477312/",
+      "source": "PubMed",
+      "abstract": "Ketamine, a non-competitive N-methyl-D-aspartate acid (NMDA) receptor antagonist, produces rapid and sustained antidepressant actions, but the underlying molecular mechanism remains unclear. The CX",
+      "date": "2026-07-20",
+      "authors": [
+        "Yin Yong-Yu",
+        "Sun Si-Rui",
+        "Zhang Hui-Ying"
+      ],
+      "doi": "10.1038/s41398-026-04242-9"
+    },
+    {
+      "title": "Ketamine-induced analgesia and dissociation show distinct behavioral and neural correlates.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42477098/",
+      "source": "PubMed",
+      "abstract": "Ketamine produces both analgesic and dissociative effects, but whether analgesia depends on dissociation remains debated. This question is part of a broader discussion on whether the subjective experiences elicited by psychoactive drugs are necessary for their therapeutic benefits. Here, we tested whether ketamine-induced analgesia and dissociation show separable behavioral and neural signatures. In a within-subject, placebo-controlled fMRI study, 37 healthy volunteers (21 female) underwent two sessions: intravenous ketamine (0.4 mg/kg bolus over 10 min followed by 0.4 mg/kg/h continuous infusion) or saline placebo. Individually calibrated thermal pain stimuli were applied to the right leg during scanning. Dissociative states were measured repeatedly using the Clinician-Administered Dissociative States Scale. Whole-brain univariate and multivariate analyses, as well as network-based functional connectivity analyses, were performed. Ketamine induced both analgesia (session × pain intensity interaction: F(1,54) = 11.22, p = 0.001) and dissociation (main effect of session: F(1,32) = 57.44, p < 0.001), and the two corresponded to distinct neural indices. Greater pain was associated with increased univariate activity in regions such as the anterior insula, as well as with stronger expression of a pain-predictive multivoxel pattern (ρ = 0.6, p < 0.001), whereas higher dissociation intensity was selectively associated with reduced default mode network connectivity (ρ = .49, p < 0.01). Neurobehavioral markers of pain and dissociation did not covary (ρ = -0.24 to 0.32, all p > 0.09), consistent with distinct neural correlates of ketamine's analgesic and dissociative effects.",
+      "date": "2026-07-20",
+      "authors": [
+        "Goldway Noam",
+        "Jalon Itamar",
+        "Agbaria Yara"
+      ],
+      "doi": "10.1038/s41386-026-02496-x"
+    },
+    {
+      "title": "Integrating evidence, subject-matter expertise, and consensus in delphi-based clinical guideline development.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42476342/",
+      "source": "PubMed",
+      "abstract": "",
+      "date": "2026-07-20",
+      "authors": [
+        "Mathai David S",
+        "Cluck Madeleine",
+        "Aslam Amna M"
+      ],
+      "doi": "10.1016/j.jad.2026.122288"
+    },
     {
       "title": "DATAd: A new communication and tracking system for treatment-resistant depression.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42468852/",
@@ -202,55 +254,6 @@
         "Luquiens Amandine"
       ],
       "doi": "10.1001/jamapsychiatry.2026.1945"
-    },
-    {
-      "title": "Psychedelics Trials and Outcomes-A Closer Look-Reply.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42455530/",
-      "source": "PubMed",
-      "abstract": "",
-      "date": "2026-07-15",
-      "authors": [
-        "Szigeti Balázs",
-        "Williams Zachary J"
-      ],
-      "doi": "10.1001/jamapsychiatry.2026.1951"
-    },
-    {
-      "title": "Initiating dextromethorphan-bupropion extended release in patients with major depressive disorder: Delphi panel expert consensus recommendations.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42454904/",
-      "source": "PubMed",
-      "abstract": "To establish consensus recommendations for initiating dextromethorphan-bupropion extended release (45 mg/105 mg) (AUVELITY) for the treatment of major depressive disorder (MDD) in adults. US-based healthcare providers (HCPs,  The panel reached consensus on 27 final recommendations with a mean overall agreement score of 3.8. Key consensus recommendations (abbreviated here) included: (1) dextromethorphan-bupropion is recommended as a first-line treatment for MDD, including with co-occurring symptoms of anxiety; (2) HCPs should individualize treatment decisions that prioritize safety considerations noted in the Prescribing Information; (3) dextromethorphan-bupropion is recommended for patients with inadequate response, residual symptoms, and/or intolerable side effects associated with prior MDD treatment(s); (4) when switching from (or adding to current) medication, the potential for a drug interaction should be considered, consistent with the dextromethorphan-bupropion label; and (5) switching from ketamine or esketamine should be done with caution, and with an awareness of the short-to-intermediate elimination half-lives of these drugs. These consensus panel recommendations provide real-world guidance for initiating MDD treatment with dextromethorphan-bupropion extended release and address any perceived barriers for scenarios of interest.",
-      "date": "2026-07-15",
-      "authors": [
-        "Clayton Anita H",
-        "Alva Gus",
-        "Bowman Phillip"
-      ],
-      "doi": "10.1080/03007995.2026.2700073"
-    },
-    {
-      "title": "Micro-phenomenology of immersion and perceived presences under DMT.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42454183/",
-      "source": "PubMed",
-      "abstract": "Psychedelic compound N,N-Dimethyltryptamine (DMT) is renowned for inducing highly immersive experiences, often including encounters with seemingly sentient presences. While such phenomena are well documented, immersion under psychedelics remains conceptually underdefined and phenomenologically underexplored. Here we apply micro-phenomenology to characterize immersion under DMT as a structured continuum from subtle to gross forms of immersion, and to examine how perceived presences arise within this continuum. Twenty-three participants received 20 mg intravenous DMT during simultaneous fMRI-EEG acquisition, followed by detailed micro-phenomenological interviews focused on the temporal unfolding of experience. Micro-phenomenological analysis methods yielded 125 phenomenological categories describing structural dimensions, including sensory and amodal faculties, spatial organisation, self-world configuration, and modes of social relatedness. Dynamic analysis revealed reliable developmental patterns, with bodily effects typically preceding visual and auditory ones, and perceived presences emerging only after multisensory integration and 3D spatial characteristics had developed, illustrating a hierarchical relationship between subtle and gross forms of immersion. Perceived presences varied widely in sensory modality, semantic complexity, and relational mode. These findings show immersion under DMT as a dynamic, constructive process, providing precise structural features for future neurophenomenological modelling, and supporting the view that DMT research may inform our understanding of immersive experience across other aetiologies, including ordinary experience of the world.",
-      "date": "2026-07-14",
-      "authors": [
-        "Sanders James W",
-        "Millière Raphaël",
-        "Demšar Ema"
-      ],
-      "doi": "10.1093/nc/niag015"
-    },
-    {
-      "title": "Ionic Homeostasis Failure in Major Depressive Disorder: Ion Channel Mechanisms, Excitation-Inhibition Imbalance, and Precision Therapeutics.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42450349/",
-      "source": "PubMed",
-      "abstract": "Major depressive disorder (MDD) remains a leading cause of disability; however, monoaminergic models do not fully explain delayed treatment onset, incomplete remission, or rapid responses to glutamatergic interventions. In this study, we proposed a system-level ionic homeostasis framework for MDD. In this model, genetic susceptibility, chronic stress, metabolic burden, and neuroinflammation converge in neuronal and glial ion-channel systems, disrupting calcium, potassium, chloride, and purinergic homeostasis. These disturbances alter intrinsic excitability, synaptic integration, inhibitory tone, glial buffering, and neuron-glia signaling, thereby promoting excitation-inhibition imbalance, impaired plasticity, and corticolimbic network instability. We reviewed the evidence implicating the CACNA1C/Cav1.2, TREK-1, KCNQ, NKCC1/KCC2, HCN, transient receptor potential/acid-sensing ion channels, and glial mediators, including P2X7R, Kir4.1, and AQP4. We also discuss how ketamine-related mechanisms, chloride-restoring strategies, anti-inflammatory ion channel targeting, neuromodulation, EEG biomarkers, and AI/multiomics approaches support mechanism-informed precision therapeutics. MDD could be conceptualized as a distributed failure of ionic homeostasis that links neuroinflammation, E/I imbalance, network instability, and impaired adaptive plasticity.",
-      "date": "2026-07-07",
-      "authors": [
-        "Seo Yohan"
-      ],
-      "doi": "10.3390/ijms27136084"
     },
     {
       "title": "Field Notes #3: Washington’s Busy Week, and the Biggest Psychedelic Buyout Yet",
@@ -565,7 +568,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2018-004480-31/CZ",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-07-20",
+      "date": "2026-07-21",
       "authors": [],
       "doi": ""
     },
@@ -574,7 +577,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2020-005037-32/CZ",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-07-20",
+      "date": "2026-07-21",
       "authors": [],
       "doi": ""
     },
@@ -583,7 +586,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2021-002909-10/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-07-20",
+      "date": "2026-07-21",
       "authors": [],
       "doi": ""
     },
@@ -592,7 +595,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2015-000550-37/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-07-20",
+      "date": "2026-07-21",
       "authors": [],
       "doi": ""
     },
@@ -601,7 +604,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2021-000041-40/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-07-20",
+      "date": "2026-07-21",
       "authors": [],
       "doi": ""
     },
@@ -610,7 +613,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2020-000829-55/DK",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-07-20",
+      "date": "2026-07-21",
       "authors": [],
       "doi": ""
     },
@@ -619,7 +622,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2020-002790-94/SE",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-07-20",
+      "date": "2026-07-21",
       "authors": [],
       "doi": ""
     },
@@ -628,7 +631,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2021-006200-33/FI",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-07-20",
+      "date": "2026-07-21",
       "authors": [],
       "doi": ""
     },
@@ -637,7 +640,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2019-004812-73/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-07-20",
+      "date": "2026-07-21",
       "authors": [],
       "doi": ""
     },
@@ -646,7 +649,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2022-002369-14/BE",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-07-20",
+      "date": "2026-07-21",
       "authors": [],
       "doi": ""
     },

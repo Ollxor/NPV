@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-18T08:18:20.993922+00:00",
+  "generated_at": "2026-07-21T09:09:07.170398+00:00",
   "items": [
     {
       "title": "Blinding integrity in psychedelic research: Evidence from a comparative randomized controlled trial of psilocybin, MDMA, and methylphenidate in healthy volunteers",
@@ -32,6 +32,109 @@
         "mdma"
       ],
       "added_at": "2026-07-09T10:03:12.956794+00:00"
+    },
+    {
+      "title": "Adolescent exposure to the psychedelic 25C-NBOMe in rats induces lasting competitive avoidance through disrupted hippocampal-prefrontal synchrony.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42477457/",
+      "source": "PubMed",
+      "date": "2026-07-20",
+      "authors": [
+        "Yu Zhi-Peng",
+        "Zhang Zhong-Yu",
+        "Li Qiong"
+      ],
+      "doi": "10.1038/s41593-026-02369-y",
+      "summaries": {
+        "en": "Adolescent rats exposed repeatedly to 25C-NBOMe showed lasting competitive avoidance in adulthood, while adult exposure had no effect. Multisite recordings revealed disrupted theta synchrony between ventral hippocampus and orbitofrontal cortex. Chemogenetic manipulation of this pathway controlled the behavior, suggesting adolescent psychedelic exposure durably alters default mode network function and social behavior.",
+        "sv": "Ungdjur som upprepade gånger exponerades för psykedelikan 25C-NBOMe visade långvarig tävlingsundvikande i vuxen ålder, medan exponering som vuxen saknade effekt. Multisite-inspelningar avslöjade störd theta-synkronisering mellan ventrala hippocampus och orbitofrontal cortex. Kemogenetisk manipulation av denna väg kontrollerade beteendet, vilket tyder på att psykedelisk exponering under ungdomen varaktigt förändrar default mode network-funktion.",
+        "no": "Ungdyrene som gjentatte ganger ble eksponert for psykedelikan 25C-NBOMe viste varig konkurransemotvilje i voksen alder, mens eksponering som voksen hadde ingen effekt. Multistedopptakninger avslørte forstyrret theta-synkronisering mellom ventral hippocampus og orbitofrontal cortex. Kemogenetisk manipulering av denne banen kontrollerte atferden, noe som tyder på at psykedelisk eksponering i ungdommen varig endrer default mode network-funksjon.",
+        "da": "Ungerotteforsøg med gentagen eksponering for psykedelikan 25C-NBOMe viste vedvarende konkurrenceflugt i voksen alder, mens eksponering som voksen havde ingen effekt. Multisteds-optagelser afslørede forstyrret theta-synkronisering mellem ventral hippocampus og orbitofrontal cortex. Kemogenetisk manipulation af denne sti kontrollerede adfærden, hvilket tyder på at psykedelisk eksponering i ungdommen varigt ændrer default mode network-funktion.",
+        "fi": "Nuorille rotille toistuva altistuminen psykedeelille 25C-NBOMe aiheutti pitkäkestoista kilpailupelon vältämistä aikuisiässä, kun taas aikuisten altistuminen ei vaikuttanut. Monipaikkainen nauhoitus paljasti häiriintyneen theta-synkronoinnin ventraalin hippocampuksen ja orbitofrontaalisen kuoren välillä. Kemogeneettinen manipulaatio tämän radan kautta kontrolloi käyttäytymistä, mikä viittaa siihen, että psykedeeliin altistuminen nuoruudessa muuttaa pysyvästi default mode -verkon toimintaa.",
+        "is": "Ungir rotir sem endurtekið voru fyrir psyxedelikanum 25C-NBOMe sýndu langvinn forðun við samkeppni á fullorðinsárum, en útsetning fullorðinna hafði engin áhrif. Margstaðar upptakningar afhjúpuðu truflaðan theta-samhæfingu milli aftari seahöppuflans og breiðflans. Kemogenetísk meðferð á þessari leið stjórnaði hegðuninni, sem bendir til þess að psyxedelík útsetning á unglingaárum breytir varanlegum default mode network-virkni.",
+        "et": "Nooremad rotid, kes korduvalt altistusid psühhedeelile 25C-NBOMe, näitasid täiskasvanueas püsivat konkurentsi vältimist, samas kui täiskasvanueas altistumine oli ilma mõjuta. Mitmekohalised salvestised avaldasid häiritud teeta-sünkroniseerimist ventaalse hipokampuse ja orbitofrontaalse ajukoore vahel. Keemogeneetilise manipulatsiooni käigus sai käitumist kontrollida, mis viitab sellele, et psühhedeeli altistumine nooruses muudab püsivalt vaikimisi võrgu funktsiooni.",
+        "lv": "Jaunie žurkas, kuri atkārtoti tika pakļauti psihedelikam 25C-NBOMe, parādīja ilgstošu konkurences izvairīšanos pieaugušajā vecumā, kamēr pieaugušo pakļaušana neietekmēja. Vairāku vietu ieraksti atklāja traucētu teta sinhronizāciju starp ventromedijālo hipokampusu un orbito-priekšējā garozu. Kemogēnētiskā manipulācija šajā ceļā kontrolēja uzvedību, kas norāda, ka psihedelika pakļaušana pusaudžu laikā ilgtermiņā maina noklusējuma režīma tīkla funkciju.",
+        "lt": "Jaunos žiurkes, pakartotinai eksponuotos psichodeliku 25C-NBOMe, parodė ilgalaikę konkurencijos vengimą suaugusiame amžiuje, o suaugusių eksponavimas neturėjo jokio poveikio. Daugiaviečiai įrašai atskleidė sutrikdytą teta sinchronizavimą tarp ventralinės hipokampo ir orbitalinės priekšakaulio žievės. Chemogeninė manipuliacija šiuo keliu kontroliavo elgesį, o tai rodo, kad psichodeliko eksponavimas paauglystėje ilgalaikiu būdu keičia numatytojo režimo tinklo funkciją."
+      },
+      "notable": true,
+      "notable_reasons": {
+        "en": "First-in-animal study demonstrating lasting social behavioral and circuit-level effects of adolescent psychedelic exposure with mechanistic pathway identified (vHPC→OFC synchrony).",
+        "sv": "Första djurstudien som visar varaktiga sociala beteende- och kretslostnivåeffekter av adolescent psykedelisk exponering med identifierad mekanistisk väg (vHPC→OFC synchrony).",
+        "no": "Første dyreforsøksstudie som demonstrerer varige sosiale atferd- og kretseffekter av adolesent psykedisk eksponering med identifisert mekanistisk vei (vHPC→OFC synchrony).",
+        "da": "Første dyreforsøgsstudie, der påvises varige sociale adfærds- og kredsløbseffekter af adolescent psykedelisk eksponering med identificeret mekanistisk vej (vHPC→OFC synchrony).",
+        "fi": "Ensimmäinen eläintutkimus, joka osoittaa nuoruusiän psykedeelisen altistuksen pysyviä sosiaalisen käyttäytymisen ja piirihierkon tasolla vaikutuksia, joiden mekanistinen väylä on tunnistettu (vHPC→OFC synchrony).",
+        "is": "Fyrstu dýrafræðirannsóknin sem sýnir varanlegar félagslegir hegðunar- og hringrásahrif unglingaáraðrar síchedelic-áhrifa með auðkenndum virkjunarvegi (vHPC→OFC synchrony).",
+        "et": "Esimene loomseuuringus näidatud püsivad sotsiaalsed käitumis- ja ahela-taseme mõjud noorukiea psühhedeeliumi ekspositsioonist, millel on tuvastatud mehaaniline tee (vHPC→OFC synchrony).",
+        "lv": "Pirmais dzīvnieku pētījums, kas parāda ilgstošas sociālās uzvedības un shēmas līmeņa efektus no pusaudžu vecuma psihedelisko vielu ekspozīcijas ar identificētu mehānisku ceļu (vHPC→OFC synchrony).",
+        "lt": "Pirmas gyvūnų tyrimas, parodantis ilgalaikius socialinius elgesio ir grandinės lygio efektus dėl paauglystės psichodelinio poveikio, nustatytas mechaninis kelias (vHPC→OFC synchrony)."
+      },
+      "relevance_score": 4,
+      "study_type": "preclinical",
+      "substances": [
+        "other"
+      ],
+      "added_at": "2026-07-21T09:08:00.990508+00:00"
+    },
+    {
+      "title": "Antidepressant-like effects of ketamine involve CX",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42477312/",
+      "source": "PubMed",
+      "date": "2026-07-20",
+      "authors": [
+        "Yin Yong-Yu",
+        "Sun Si-Rui",
+        "Zhang Hui-Ying"
+      ],
+      "doi": "10.1038/s41398-026-04242-9",
+      "summaries": {
+        "en": "Ketamine, an NMDA receptor antagonist, produces rapid antidepressant effects through unclear mechanisms. This study investigates the role of connexin (CX) proteins in ketamine's antidepressant-like actions, advancing understanding of the molecular pathways underlying its therapeutic potential.",
+        "sv": "Ketamin, en NMDA-receptorantagonist, ger snabba antidepressiva effekter genom oklara mekanismer. Denna studie undersöker connexinproteiner (CX) roll i ketamins antidepressiva verkan och bidrar till förståelsen av molekylära vägar bakom dess terapeutiska potential.",
+        "no": "Ketamin, en NMDA-receptorantagonist, gir raske antidepressive effekter gjennom uklare mekanismer. Denne studien undersøker rollen til connexin-proteiner (CX) i ketamins antidepressive virkning og fremmer forståelsen av molekylære veier bak dets terapeutiske potensial.",
+        "da": "Ketamin, en NMDA-receptorantagonist, producerer hurtige antidepressive effekter gennem uklare mekanismer. Dette studie undersøger connexin-proteiners (CX) rolle i ketamins antidepressive virkning og fremmer forståelsen af de molekylære veje bag dets terapeutiske potentiale.",
+        "fi": "Ketamiini, NMDA-reseptoriantagonisti, tuottaa nopeita masennuslääkkeen kaltaisia vaikutuksia epäselvillä mekanismeilla. Tutkimus selvittää connexin-proteiinien (CX) roolia ketamiinin masennuslääkkeen kaltaisissa vaikutuksissa ja parantaa ymmärrystä sen terapeuttisen potentiaalin molekyylipoluista.",
+        "is": "Ketamín, NMDA-viðtaka andstæðingur, framleiðir hraðar mótsveifluáhrif með óskýrum aðferðum. Þessi rannsókn rannsakar hlutverk connexin-próteína (CX) í mótsveifluáhrifum ketamíns og eflir skilning á sameinda leiðum sem liggja að baki iytulegum möguleikum þess.",
+        "et": "Ketamiin, NMDA-retseptori antagonist, tekitab kiireid depressioonivastasel efekte läbi selguseta mehhanismide. See uuring uurib connexin-valkude (CX) rolli ketamiini depressioonivastastes mõjudes ja edendab arusaama molekulaarsete teekonnade kohta, mis asuvad selle ravi potentsiaali aluseks.",
+        "lv": "Ketamīns, NMDA receptora antagonists, rada ātras pretdepresijas iedarbības caur neskaidru mehānismu. Šis pētījums pēta connexin proteīnu (CX) lomu ketamīna pretdepresijas iedarbībā un uzlabo izpratni par molekulārajiem ceļiem, kas ir pamatā tā terapeitiskajam potenciālam.",
+        "lt": "Ketaminas, NMDA receptoriaus antagonistas, sukelia greitą antidepresantinį poveikį per neaiškius mechanizmus. Šis tyrimas tiria connexin baltymų (CX) vaidmenį ketamino antidepresantiniame poveikje ir pagerina supratimą apie molekulinius kelius, kurie yra jo terapinio potencialo pagrindas."
+      },
+      "notable": false,
+      "notable_reasons": null,
+      "relevance_score": 4,
+      "study_type": "preclinical",
+      "substances": [
+        "ketamine"
+      ],
+      "added_at": "2026-07-21T09:08:00.990508+00:00"
+    },
+    {
+      "title": "Ketamine-induced analgesia and dissociation show distinct behavioral and neural correlates.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42477098/",
+      "source": "PubMed",
+      "date": "2026-07-20",
+      "authors": [
+        "Goldway Noam",
+        "Jalon Itamar",
+        "Agbaria Yara"
+      ],
+      "doi": "10.1038/s41386-026-02496-x",
+      "summaries": {
+        "en": "Within-subject fMRI study (n=37) comparing ketamine (0.4 mg/kg IV) to placebo found dissociable neural mechanisms for analgesia and dissociation. Ketamine produced both effects, but pain-related anterior insula activity and pain-predictive brain patterns were independent of dissociation intensity, which correlated instead with reduced default mode network connectivity. Results suggest ketamine's analgesic effects may not require dissociative experiences.",
+        "sv": "En inom-personsstudie med fMRI (n=37) jämförde ketamin (0,4 mg/kg IV) med placebo och fann skilda neurala mekanismer för analgesi och dissociation. Ketamin framkallade båda effekterna, men smärtrelaterad aktivitet i främre insulan och smärtpredicerande hjärnmönster var oberoende av dissociationsintensitet, som istället korrelerade med minskad default mode nätverksanslutning. Resultaten antyder att ketamins smärtlindrande effekter kanske inte kräver dissociativa upplevelser.",
+        "no": "En within-subject fMRI-studie (n=37) som sammenlignet ketamin (0,4 mg/kg IV) med placebo fant atskilte nevrale mekanismer for analgesi og dissociasjon. Ketamin framkalte begge effektene, men smerterelatert aktivitet i anterior insula og smerteprediktive hjernmønster var uavhengig av dissociasjonintensitet, som i stedet korrelerte med redusert default mode-nettverkskonnektivitet. Resultatene tyder på at ketamins smertestillende effekter kanskje ikke krever dissociative opplevelser.",
+        "da": "En within-subject fMRI-undersøgelse (n=37) sammenlignede ketamin (0,4 mg/kg IV) med placebo og fandt adskilte neurale mekanismer for analgesi og dissociation. Ketamin fremkaldte begge effekter, men smerterelateret aktivitet i anterior insula og smerteprediktive hjernmønstre var uafhængige af dissociationsintensitet, som i stedet korrelerede med reduceret default mode-netværksforbindelse. Resultaterne antyder, at ketamins smertestillende effekter måske ikke kræver dissociative oplevelser.",
+        "fi": "Within-subject fMRI-tutkimus (n=37), jossa verrattin ketamiinia (0,4 mg/kg IV) placeboon, löysi erilliset neuraalit mekanismit analgeesialle ja dissosiaatiolle. Ketamiini aiheutti molempia vaikutuksia, mutta kiputuntemukseen liittyvä aktiviteetti anteriorisessa insulassa ja kipua ennustavat aivomallit olivat riippumattomia dissosiaation intensiteetista, joka sen sijaan korreloi vähenemään default mode -verkon kytkeytymisessä. Tulokset viittaavat siihen, että ketamiinin kivunlievityseffektit eivät välttämättä vaadi dissosiaatiivisia kokemuksia.",
+        "is": "Within-subject fMRI-rannsókn (n=37) sem bar saman ketamín (0,4 mg/kg IV) og lyfleysu fann aðskilda taugavirkni fyrir verkjaflökt og sundrandi tilfinningu. Ketamín framkallaði báðar virkjanir, en verkjatengd virkni í fremri insula og verkjasspár heilaform voru óháð styrk sundrandi tilfinningar, sem tengdist í staðinn minnkaðri tengingu sjálfgefnu net. Niðurstöður benda til þess að verkjastillandi áhrif ketamíns krefjist kannski ekki sundrandi tilfinninga.",
+        "et": "Within-subject fMRI uuringus (n=37), kus võrreldi ketamiini (0,4 mg/kg IV) platseeboga, leiti eristuvad neuraalsel mehhanismid analgeesiale ja dissotsiatsiooni. Ketamiin tekitas mõlemaid efekte, kuid valuga seotud aktiivsus eesmises insulaas ja valgu-ennustavad ajumustrid olid sõltumatud dissotsiatsiooni intensiivsusest, mis korreleerus vaid vähenenud vaikimisi režiimi võrgu ühendusega. Tulemused viitavad, et ketamiini valu leevendavad efektid ei pruugi nõuda dissotsieeritud kogemusi.",
+        "lv": "Within-subject fMRI pētījums (n=37), salīdzinot ketamīnu (0,4 mg/kg IV) ar placebо, atrada atšķirīgus neirālos mehānismus analgēzijai un disociācijai. Ketamīns izraisīja abus efektus, bet ar sāpēm saistīta aktivitāte priekšējā insulā un sāpju paredzējošie smadzenes modeļi bija neatkarīgi no disociācijas intensitātes, kas tā vietā korelēja ar samazinātu noklusējuma režīma tīkla savienojamību. Rezultāti liecina, ka ketamīna sāpju mazināšanas efekti var neprasa disociācijas pieredzi.",
+        "lt": "Within-subject fMRI tyrimas (n=37), kuriame lygintas ketaminas (0,4 mg/kg IV) su placebu, atrado atskirus neuronus mechanizmus analgezijai ir disocijacijai. Ketaminas sukėlė abi poveikius, tačiau su skausmu susijusi priekinės insulinės aktyvi ir skausmo numatymo smegenų šablonai buvo nepriklausomi nuo disocijacijos intensyvumo, kuris vietoj to koreliavo su sumažėjusia numatytosios tinklo ryšio. Rezultatai rodo, kad ketamino skausmo malšinimo poveikiai gali nereikalauti disociacijos patirties."
+      },
+      "notable": false,
+      "notable_reasons": null,
+      "relevance_score": 4,
+      "study_type": "rct",
+      "substances": [
+        "ketamine"
+      ],
+      "added_at": "2026-07-21T09:08:00.990508+00:00"
     },
     {
       "title": "Emerging pharmacological and neuromodulation interventions for suicidal ideation and behaviour.",
@@ -1810,93 +1913,6 @@
         "mdma"
       ],
       "added_at": "2026-07-09T10:03:12.956794+00:00"
-    },
-    {
-      "title": "Psychedelics for treatment of negative symptoms and depressive symptoms in schizophrenia spectrum disorder: A narrative review",
-      "url": "https://doi.org/10.1016/j.schres.2026.03.003",
-      "source": "OpenAIRE",
-      "date": "2026-06-01",
-      "authors": [
-        "Sabe M.",
-        "Grof P.",
-        "Sackett N. B."
-      ],
-      "doi": "10.1016/j.schres.2026.03.003",
-      "summaries": {
-        "en": "Narrative review examining whether serotonergic psychedelics could treat depressive and negative symptoms in schizophrenia spectrum disorders. Both conditions involve dopamine, glutamate, and neuroplasticity disturbances. Preclinical evidence shows psychedelics increase dendritic spine density, enhance BDNF, and modulate network connectivity, suggesting potential therapeutic relevance for addressing maladaptive brain networks in schizophrenia.",
-        "sv": "Narrativ översikt som undersöker om serotonerga psykedelika kan behandla depressiva och negativa symptom vid schizofrenisprektrumsyndrom. Båda tillstånden involverar störningar i dopamin, glutamat och neuroplasticitet. Prekliniska studier visar att psykedelika ökar dendritisk spindeltäthet, förbättrar BDNF och modulerar nätverksanslutning, vilket antyder terapeutisk relevans.",
-        "no": "Narrativ oversikt som undersøker om serotonerge psykedelika kunne behandle depressive og negative symptomer ved schizofrenisprektrumsyndrom. Begge tilstander involverer forstyrrelser i dopamin, glutamat og neuroplastisitet. Prekliniske studier viser at psykedelika øker dendritisk spindeltetthet, forbedrer BDNF og modulerer nettverkstilkobling, noe som antyder terapeutisk relevans.",
-        "da": "Narrativ oversigt, der undersøger, om serotonerge psykedelika kunne behandle depressive og negative symptomer ved skizofrenisprektrumsyndrom. Begge tilstande involverer forstyrrelser i dopamin, glutamat og neuroplasticitet. Præ-kliniske studier viser, at psykedelika øger dendritisk spindeltæthed, forbedrer BDNF og modulerer netværksforbindelser, hvilket antyder terapeutisk relevans.",
-        "fi": "Narratiivinen katsaus tutkii, voisivatko serotonergiset psykedeelit hoitaa depressiivisia ja negatiivisia oireita skitsofreniakirjon häiriöissä. Molempiin tiloihin liittyy dopamiiinin, glutamaatin ja neuroplastisuuden häiriöt. Prekliiniset tutkimukset osoittavat, että psykedeelit lisäävät dendriittisten selkärankojen tiheyttä, parantavat BDNF:ää ja säätelevät verkkoyhteyksien toimintaa.",
-        "is": "Hugleiðandi yfirlit sem kannar hvort serótóninörvandi sáleinkenni gætu meðhöndlað þunglyndi og neikvæð einkenni í sækirófrenískum litrófsflokki. Báðir aðstæður fela í sér truflanir í dópamíni, glútamati og taugabeygjuflexibiliteti. Forrannsóknir sýna að sáleinkenni auka þéttleika taugagreinanna, bæta BDNF og stjórna netkerfistengingum.",
-        "et": "Narratiivne ülevaade, mis uurib, kas serotonergilised psühhedeelikud võiksid ravida depressiivseid ja negatiivseid sümptomeid skisofreenia spektrihaigustes. Mõlemad seisundid hõlmavad dopamiin-, glutamaat- ja neurorplastsususe häireid. Prekliinilised uuringud näitavad, et psühhedeelikud suurendavad dendriitiliste selgroo tihedust, parandavad BDNF-i ja moduleerivad võrgu ühendusi.",
-        "lv": "Narratīvs pārskats, kurā pārbaudīts, vai serotoninērgie psihedeliki varētu ārstēt depresīvus un negatīvus simptomus šizofrēnijas spektra traucējumos. Abi stāvokļi ietver traucējumus dopamīnā, glutamātā un neuropластичности. Preklīniskie pētījumi parāda, ka psihedeliki palielina dendritisko skriemeļu blīvumu, uzlabo BDNF un modulē tīkla savienojumus.",
-        "lt": "Naratyvinė apžvalga, kurioje nagrinėjama, ar serotonininiai psichedelikai galėtų gydyti depresyvius ir negatyvius simptomus schizofrenijos spektro sutrikimų atveju. Abu būsenos apima sutrikimus dopamine, glutamate ir neuroploastcšumoje. Preklinikliniai tyrimai rodo, kad psichedelikai padidina dendritinių stuburo tankį, pagerina BDNF ir modifikuoja tinklo sujungimus."
-      },
-      "notable": false,
-      "notable_reasons": null,
-      "relevance_score": 4,
-      "study_type": "review",
-      "substances": [
-        "psilocybin",
-        "lsd",
-        "other"
-      ],
-      "added_at": "2026-07-09T10:03:12.956794+00:00"
-    },
-    {
-      "title": "Psychedelics and autism spectrum disorder: Mechanistic insights, translational evidence and ethical challenges.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42385294/",
-      "source": "PubMed",
-      "date": "2026-Jun",
-      "authors": [
-        "Claudino Dos Santos Júlio César",
-        "Bolan Sofia Januário",
-        "Lodetti Guilherme"
-      ],
-      "doi": "10.1016/j.jpsychires.2026.06.035",
-      "summaries": {
-        "en": "A narrative review examining psychedelics' potential in autism spectrum disorder treatment. While mechanistic evidence supports effects on serotonergic and glutamatergic signaling, neuroplasticity, and brain network reorganization, current clinical and preclinical data do not support direct treatment of core social communication deficits or repetitive behaviors. Psychedelics may benefit associated symptoms like anxiety and emotional dysregulation.",
-        "sv": "En narrativ översikt av psykedelikas potential vid autismspektrumstörning. Även om mekanistiska bevis stödjer effekter på serotonergt och glutamatergt signalering, neuroplasticitet och omorganisering av hjärnans nätverk, stöder nuvarande kliniska och prekliniska data inte direkt behandling av kärndeficit i social kommunikation eller repetitivt beteende. Psykedelika kan gynna associerade symptom som ångest.",
-        "no": "En narrativ oversikt over psykedelikas potensial ved autismespektrumforstyrrelse. Selv om mekanistisk evidens støtter effekter på serotonergi og glutamaterg signalering, neuroplastisitet og reorganisering av hjernens nettverk, støtter dagens klinisk og preklinisk data ikke direkte behandling av kjernekommunikasjonsvansker eller repetitiv atferd. Psykedelika kan være gunstige for assosierte symptomer som angst.",
-        "da": "En narrativ oversigt over psykedalikaers potentiale ved autismespektrumforstyrrelser. Selvom mekanistisk evidens understøtter effekter på serotoninerg og glutamaterg signalering, neuroplasticitet og omorganisering af hjernens netværk, understøtter nuværende klinisk og præ-klinisk data ikke direkte behandling af kernekommunikationsdeficit eller gentagne adfærdsmønstre. Psykedalikaer kan være gavnlige for associerede symptomer som angst.",
-        "fi": "Narratiivinen katsaus psykedeliikkojen potentiaalista autismikirjon häiriön hoidossa. Vaikka mekanistiset todisteet tukevat vaikutuksia serotonergiseen ja glutamaattiseen signalointiin, neuroplastisuuteen ja aivojen verkon uudelleenorganisoitumiseen, nykyinen kliininen ja prekliininen näyttö ei tue ytimen sosiaalisen kommunikaation häiriöiden tai toistuvien käyttäytymismallien suoraa hoitoa. Psykedeliikat voivat hyödyttää liitännäisiä oireita, kuten ahdistusta.",
-        "is": "Yfirlitsun um hugsaflög og möguleika þeirra við meðferð á litneskum tjáningum. Þó að vísindaleg gögn styðja áhrif á serótónínerga og glútamaterga merki, taugaheill plasticitet og endurskipulagningu heilakerfa, styðja núverandi klínísk og fyrir-klínísk gögn ekki beina meðferð á kjarnakommunikasjónarskortum eða endurteknum hegðunarmynstrum. Hugsaflög geta komið til góða við tengd einkenni eins og kvíða.",
-        "et": "Narratiivne ülevaade psühhedeelikute potentsiaalist autismi spektrihäire ravitamisel. Kuigi mehhanistilised tõendid toetavad serotoniinergilise ja glutamaatergilise signaalimise, neurotaiplastisuse ja aju võrgustiku ümberkorraldamise efekte, ei toeta praegused kliinilised ja prekliinilised andmed tuumsümptomite otsest ravi. Psühhedeelikud võivad kasu anda kaasnevate sümptomite, nagu ärevus, korral.",
-        "lv": "Naratīvs pārskats par psihedeliku potenciālu autisma spektra traucējumu ārstēšanā. Lai gan mehānistiski pierādījumi atbalsta ietekmi uz serotoninaīvu un glutamātisku signalizāciju, neiroplasticitāti un smadzeņu tīkla pārkārtošanu, pašreizējie kliniskie un preklinieskie dati neatbalsta kodola komunikācijas deficītu tiešu ārstēšanu. Psihedeliki var būt noderīgi saistītiem simptomiem, piemēram, trauksme.",
-        "lt": "Psichedelikų potencialo autizmo spektro sutrikimui gydyti apžvalga. Nors mechanistiniai įrodymai remia įtaką serotoninerginiams ir glutamaterginiam signalizavimui, neuroplazmingumui ir smegenų tinklo reorganizavimui, dabartiniai klinikiniu ir preklinikiniu duomenys nepagrindžia tiesioginio pagrindinių komunikacijos sutrikimų gydymo. Psichedelikai gali padėti suaugusiems simptomams, pavyzdžiui, nerimui."
-      },
-      "notable": false,
-      "notable_reasons": null,
-      "added_at": "2026-07-02T09:41:47.101119+00:00",
-      "relevance_score": 3,
-      "study_type": "review",
-      "substances": [
-        "other"
-      ]
-    },
-    {
-      "title": "Esketamine multi-omic biomarker evaluation in major depressive disorder (EMBER-MDD): concept, objectives and methodologies of a non-clinical investigator-initiated study.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42377483/",
-      "source": "PubMed",
-      "date": "2026-Jun",
-      "summaries": {
-        "en": "EMBER-MDD is a non-interventional biomarker study analyzing biospecimens from ~420 adults with major depressive disorder to identify multi-omic signatures predicting treatment resistance and response to esketamine nasal spray versus standard care. Using genomics, epigenomics, transcriptomics, and proteomics, the study aims to discover molecular correlates of clinical outcomes.",
-        "sv": "EMBER-MDD är en icke-interventionell biomarkörstudie som analyserar biologiska prover från ~420 vuxna med svår depression för att identifiera multi-omiska signaturer som förutsäger behandlingsresistans och respons på esketamin nässpray jämfört med standardbehandling. Studien använder genomik, epigenomik, transkriptomik och proteomik för att kartlägga molekylära korrelat till kliniska utfall.",
-        "no": "EMBER-MDD er en ikke-intervensjonsbasert biomarkørstudie som analyserer biologiske prøver fra ~420 voksne med alvorlig depresjon for å identifisere multi-omiske signaturer som forutsier behandlingsresistans og respons på esketamin nesespray versus standardbehandling. Studien bruker genomikk, epigenomikk, transkriptomikk og proteomikk for å kartlegge molekylære korrelater til kliniske utfall.",
-        "da": "EMBER-MDD er et non-interventionelt biomarkør-studie, der biologiske prøver fra ~420 voksne med svær depression analyseres for at identificere multi-omiske signaturer, som forudsiger behandlingsresistens og respons på esketaminnesspray versus standardbehandling. Studien anvender genomik, epigenomik, transkriptomik og proteomik til at kortlægge molekylære korrelater til kliniske resultater.",
-        "fi": "EMBER-MDD on ei-interventiivinen biomarkköristudie, joka analysoi biologisia näytteitä ~420 vakavan masennuksen potilailta tunnistaakseen multi-omisia signatuureja, jotka ennustavat hoitoresistensssia ja vastetta esketamiinin nenäsuihkeelle versus vakiohoitoon verrattuna. Tutkimus käyttää genomiikkaa, epigenomiikkaa, transkriptomiikkaa ja proteomiikkaa kliinisten tulosten molekyylisten korrelaattien kartoittamiseen.",
-        "is": "EMBER-MDD er ekki-inngripsleg rannsókn á lífmerki sem greinir sýni frá um 420 fullorðnum með alvarlegri þunglyndi til að bera kennsl á fjöl-ómaðar undirskriftir sem spá fyrir um meðferðarviðnám og svörun við esketamíninasa-únáliti á móti venjulegri meðferð. Rannsóknin notar genarannsóknir, epigenarannsóknir, aðskriftunarfræði og próteómikal fyrir að kortleggja samsvörun á vitsmunarlegum niðurstöðum.",
-        "et": "EMBER-MDD on mittepuutuv biomerküüringu uuringu, mis analüüsib bioloogilisi proove ~420 täiskasvanust raskete depressiooni patsientidelt, et tuvastada mitmeastmeline oomiline signatuur, mis ennustab ravi resistentsust ja vastet esketamiini ninasprendile standardraviga võrreldes. Uuringus kasutatakse genoomikat, epigenoomikat, transkreiptioonika ja proteoomikat kliinikute tulemuste molekulaarsete korrelaatide kaardistamiseks.",
-        "lv": "EMBER-MDD ir ne-intervences biomarķiera pētījums, kurš analizē bioloģiskos paraugus no aptuveni 420 pieaugušajiem ar smagas depresijas pacientiem, lai identificētu multi-omiskās pazīmes, kas prognozē ārstēšanas rezistenci un atbildi uz esketamīna nasālo aerosolu salīdzinājumā ar standarta ārstēšanu. Pētījums izmanto genomikas, epigenomikas, transkriptomikas un proteinomikas metodes klīnisko rezultātu molekulāro korelātu kartēšanai.",
-        "lt": "EMBER-MDD yra ne-intervencinė biomarkerių tyrimo studija, analizuojanti biologinius mėginius iš ~420 suaugusių žmonių, sergančių sunkia depresija, siekiant identifikuoti multi-ominių požymių signatūras, prognozuojančias gydymo rezistentiškumą ir atsaką į esketamino nosies purškalą, palyginti su standartine gydymo pradžia. Studija naudoja genomika, epigenomika, transkriptomika ir proteomika klinikinių rezultatų molekulinių koreliacijų žemėlapyje."
-      },
-      "added_at": "2026-06-30T17:20:39.473842+00:00",
-      "relevance_score": 3,
-      "study_type": "observational",
-      "substances": [
-        "ketamine"
-      ]
     }
   ]
 }

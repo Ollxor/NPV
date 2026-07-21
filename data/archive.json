@@ -1,6 +1,66 @@
 {
   "items": [
     {
+      "title": "Adolescent exposure to the psychedelic 25C-NBOMe in rats induces lasting competitive avoidance through disrupted hippocampal-prefrontal synchrony.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42477457/",
+      "source": "PubMed",
+      "date": "2026-07-20",
+      "authors": [
+        "Yu Zhi-Peng",
+        "Zhang Zhong-Yu",
+        "Li Qiong"
+      ],
+      "doi": "10.1038/s41593-026-02369-y",
+      "summary_en": "Adolescent rats exposed repeatedly to 25C-NBOMe showed lasting competitive avoidance in adulthood, while adult exposure had no effect. Multisite recordings revealed disrupted theta synchrony between ventral hippocampus and orbitofrontal cortex. Chemogenetic manipulation of this pathway controlled the behavior, suggesting adolescent psychedelic exposure durably alters default mode network function and social behavior.",
+      "notable": true,
+      "notable_reason": "First-in-animal study demonstrating lasting social behavioral and circuit-level effects of adolescent psychedelic exposure with mechanistic pathway identified (vHPC→OFC synchrony).",
+      "study_type": "preclinical",
+      "substances": [
+        "other"
+      ],
+      "added_at": "2026-07-21T09:08:00.990508+00:00"
+    },
+    {
+      "title": "Antidepressant-like effects of ketamine involve CX",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42477312/",
+      "source": "PubMed",
+      "date": "2026-07-20",
+      "authors": [
+        "Yin Yong-Yu",
+        "Sun Si-Rui",
+        "Zhang Hui-Ying"
+      ],
+      "doi": "10.1038/s41398-026-04242-9",
+      "summary_en": "Ketamine, an NMDA receptor antagonist, produces rapid antidepressant effects through unclear mechanisms. This study investigates the role of connexin (CX) proteins in ketamine's antidepressant-like actions, advancing understanding of the molecular pathways underlying its therapeutic potential.",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "preclinical",
+      "substances": [
+        "ketamine"
+      ],
+      "added_at": "2026-07-21T09:08:00.990508+00:00"
+    },
+    {
+      "title": "Ketamine-induced analgesia and dissociation show distinct behavioral and neural correlates.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42477098/",
+      "source": "PubMed",
+      "date": "2026-07-20",
+      "authors": [
+        "Goldway Noam",
+        "Jalon Itamar",
+        "Agbaria Yara"
+      ],
+      "doi": "10.1038/s41386-026-02496-x",
+      "summary_en": "Within-subject fMRI study (n=37) comparing ketamine (0.4 mg/kg IV) to placebo found dissociable neural mechanisms for analgesia and dissociation. Ketamine produced both effects, but pain-related anterior insula activity and pain-predictive brain patterns were independent of dissociation intensity, which correlated instead with reduced default mode network connectivity. Results suggest ketamine's analgesic effects may not require dissociative experiences.",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "rct",
+      "substances": [
+        "ketamine"
+      ],
+      "added_at": "2026-07-21T09:08:00.990508+00:00"
+    },
+    {
       "title": "Emerging pharmacological and neuromodulation interventions for suicidal ideation and behaviour.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42468074/",
       "source": "PubMed",

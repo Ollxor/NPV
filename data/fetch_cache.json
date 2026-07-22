@@ -1,7 +1,20 @@
 {
-  "date": "2026-07-21",
-  "cached_at": "2026-07-21T08:24:07.119236+00:00",
+  "date": "2026-07-22",
+  "cached_at": "2026-07-22T08:25:02.619992+00:00",
   "articles": [
+    {
+      "title": "Zero-Shot Large Language Models for Preliminary Prediction of PTSD Symptoms From Clinical Interview Transcripts: Grands modèles de langage sans exemple pour la prédiction préliminaire des symptômes de TSPT à partir de transcriptions d'entrevues cliniques.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42478703/",
+      "source": "PubMed",
+      "abstract": "BackgroundPosttraumatic stress disorder (PTSD) is common yet frequently underdiagnosed, in part due to barriers to systematic screening and the reliance on self-report instruments. Large language models (LLMs) have shown promise in extracting clinically relevant information from unstructured language, but their ability to infer item-level PTSD symptom severity from clinical interviews remains unclear.MethodsUsing the Distress Analysis Interview Corpus-Wizard of Oz (DAIC-WoZ), we analyzed 100 semi-structured clinical interview transcripts paired with item-level PTSD Checklist-Civilian Version (PCL-C) scores. Six LLMs (DeepSeek 3.1, Claude Sonnet 4, LLaMA 4 Scout, GPT-4o, GPT-5, and Gemini 2.5 Flash) used zero-shot prompting to predict all 17 PCL-C items. Performance was assessed for binary symptom endorsement (≥3 vs. < 3), 5-point Likert prediction, and DSM-IV symptom-cluster analyses using accuracy, F1 score, and Matthews correlation coefficient (MCC).ResultsFor binary prediction, Claude 4 achieved the highest mean accuracy (0.705; 95% CI, 0.681-0.728), followed by DeepSeek 3.1(0.699; 95% CI, 0.675-0.724) and Gemini 2.5 (0.698; 95% CI, 0.677-0.718). For Likert prediction, DeepSeek 3.1 performed best (accuracy = 0.438; 95% CI, 0.401-0.475), only modestly above the majority-class baseline (0.399; 95% CI, 0.355-0.443). Performance varied by symptom domain, with re-experiencing and hyperarousal symptoms generally predicted more accurately than avoidance/numbing symptoms. Across models, predicted item-level symptom patterns showed a meaningful alignment with observed PCL-C responses despite reduced accuracy in fine-grained severity estimation.ConclusionZero-shot LLMs' performance was insufficient for clinical application in predicting PTSD symptoms from semi-structured interview transcripts. While models showed some ability to capture overall symptom patterns, performance varied across domains and remained limited for fine-grained severity estimation. Given these constraints and the non-trauma-specific nature of the dataset, findings should be interpreted as preliminary, with only modest differences observed between models.Plain Language Summary TitleCan Artificial Intelligence Identify PTSD Symptoms from Conversations? A Study Using Clinical Interview TranscriptsPlain Language SummaryPost-traumatic stress disorder (PTSD) is a common mental health condition, but it is often missed in clinical settings. Screening usually relies on questionnaires that patients must complete themselves, which may not always happen due to time, stigma, or discomfort discussing trauma. Researchers are exploring whether artificial intelligence (AI) could help identify PTSD symptoms from conversations instead.In this study, we tested several advanced AI systems, known as large language models, to see if they could estimate PTSD symptoms based on written transcripts of clinical interviews. These interviews were not specifically designed to assess trauma, which makes the task more challenging but closer to real-world situations. We compared the AI predictions to participants' own questionnaire responses about their symptoms.We found that the AI models were somewhat able to recognize general patterns of PTSD symptoms, especially more visible ones like sleep problems or distressing dreams. However, they struggled with more internal or less obvious symptoms, such as avoidance or emotional numbness. Overall, their accuracy was moderate and not reliable enough for clinical use, particularly when trying to estimate how severe symptoms were.Importantly, differences between the AI models were small, and none performed well enough to replace existing screening methods. These findings suggest that while AI may have future potential as a supportive tool, it is not yet ready to be used for diagnosing or screening PTSD on its own.Further research using better data, improved methods, and real clinical settings is needed before this approach could be considered for practical use.",
+      "date": "2026-07-21",
+      "authors": [
+        "Teferra Bazen Gashaw",
+        "Sidharta Christian Kevin",
+        "Hsiang Wei-Ni"
+      ],
+      "doi": "10.1177/07067437261468897"
+    },
     {
       "title": "Adolescent exposure to the psychedelic 25C-NBOMe in rats induces lasting competitive avoidance through disrupted hippocampal-prefrontal synchrony.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42477457/",
@@ -244,16 +257,13 @@
       "doi": "10.1001/jamapsychiatry.2026.1901"
     },
     {
-      "title": "Psychedelics Trials and Outcomes-A Closer Look.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42455549/",
-      "source": "PubMed",
+      "title": "Q3’26 Psychedelic Drug Development Pipeline: Bullseye Charts",
+      "url": "https://psychedelicalpha.com/news/q326-psychedelic-drug-development-pipeline-bullseye-charts/",
+      "source": "Psychedelic Alpha",
       "abstract": "",
-      "date": "2026-07-15",
-      "authors": [
-        "Vanderijst Laetitia",
-        "Luquiens Amandine"
-      ],
-      "doi": "10.1001/jamapsychiatry.2026.1945"
+      "date": "2026-07-21",
+      "authors": [],
+      "doi": ""
     },
     {
       "title": "Field Notes #3: Washington’s Busy Week, and the Biggest Psychedelic Buyout Yet",
@@ -333,15 +343,6 @@
       "source": "Psychedelic Alpha",
       "abstract": "Miracle or Minefield? The Alzheimer’s Case Report A Case Report published in Frontiers in Neuroscience late last month (Lago et al., 2026) caused quite a stir, with various media outlets and psychedelics advocates hailing it as showing great promise. It reported on a woman in her 80s who has had Alzheimer’s for a decade being […]",
       "date": "2026-06-29",
-      "authors": [],
-      "doi": ""
-    },
-    {
-      "title": "A Research Hypothesis, Not A Treatment Recommendation: Marcos Lago on the Viral Psilocybin for Alzheimer’s Case Report",
-      "url": "https://psychedelicalpha.com/news/a-research-hypothesis-not-a-treatment-recommendation-marcos-lago-on-the-viral-psilocybin-for-alzheimers-case-report/",
-      "source": "Psychedelic Alpha",
-      "abstract": "",
-      "date": "2026-06-26",
       "authors": [],
       "doi": ""
     },
@@ -568,7 +569,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2018-004480-31/CZ",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-07-21",
+      "date": "2026-07-22",
       "authors": [],
       "doi": ""
     },
@@ -577,7 +578,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2020-005037-32/CZ",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-07-21",
+      "date": "2026-07-22",
       "authors": [],
       "doi": ""
     },
@@ -586,7 +587,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2021-002909-10/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-07-21",
+      "date": "2026-07-22",
       "authors": [],
       "doi": ""
     },
@@ -595,7 +596,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2015-000550-37/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-07-21",
+      "date": "2026-07-22",
       "authors": [],
       "doi": ""
     },
@@ -604,7 +605,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2021-000041-40/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-07-21",
+      "date": "2026-07-22",
       "authors": [],
       "doi": ""
     },
@@ -613,7 +614,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2020-000829-55/DK",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-07-21",
+      "date": "2026-07-22",
       "authors": [],
       "doi": ""
     },
@@ -622,7 +623,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2020-002790-94/SE",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-07-21",
+      "date": "2026-07-22",
       "authors": [],
       "doi": ""
     },
@@ -631,7 +632,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2021-006200-33/FI",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-07-21",
+      "date": "2026-07-22",
       "authors": [],
       "doi": ""
     },
@@ -640,7 +641,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2019-004812-73/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-07-21",
+      "date": "2026-07-22",
       "authors": [],
       "doi": ""
     },
@@ -649,7 +650,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2022-002369-14/BE",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-07-21",
+      "date": "2026-07-22",
       "authors": [],
       "doi": ""
     },

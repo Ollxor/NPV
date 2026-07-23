@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-22T09:06:49.287027+00:00",
+  "generated_at": "2026-07-23T09:06:33.101783+00:00",
   "items": [
     {
       "title": "Blinding integrity in psychedelic research: Evidence from a comparative randomized controlled trial of psilocybin, MDMA, and methylphenidate in healthy volunteers",
@@ -32,6 +32,47 @@
         "mdma"
       ],
       "added_at": "2026-07-09T10:03:12.956794+00:00"
+    },
+    {
+      "title": "Implementation factors shaping British Columbia's drug decriminalization pilot: A systematic review with narrative synthesis.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42480418/",
+      "source": "PubMed",
+      "date": "2026-07-21",
+      "authors": [
+        "Ali Farihah",
+        "Chellew Paternostro Shannon",
+        "Imtiaz Sameer"
+      ],
+      "doi": "10.1016/j.drugpo.2026.105431",
+      "summaries": {
+        "en": "British Columbia's 2023 drug decriminalization pilot, which removed criminal penalties for possession of 2.5 g or less of opioids, cocaine, methamphetamine, and MDMA, was terminated in January 2026. A systematic review of 27 peer-reviewed studies identified four implementation barriers: restrictive design features (low possession threshold, short timeframe), communication gaps between sectors, insufficient frontline training, and inadequate funding and infrastructure.",
+        "sv": "British Columbias avkriminaliserpilot från 2023, som tog bort straffrättsliga påföljder för innehav av högst 2,5 g opioider, kokain, metamfetamin och MDMA, avslutades i januari 2026. En systematisk granskning av 27 studier identifierade fyra implementeringshinder: begränsande designfunktioner, kommunikationsluckor mellan sektorer, otillräcklig utbildning för personal och bristande finansiering och infrastruktur.",
+        "no": "British Columbias avkriminalisering av psykedelika fra 2023, som fjernet strafferettslige konsekvenser for besittelse av opptil 2,5 g opioider, kokain, metamfetamin og MDMA, ble avsluttet i januar 2026. En systematisk gjennomgang av 27 studier identifiserte fire implementeringshindringer: restriktive designtrekk, kommunikasjonsgap mellom sektorer, utilstrekkelig opplæring av ansatte og mangel på finansiering og infrastruktur.",
+        "da": "British Columbias dekriminalisering af psykedelika fra 2023, som ophævede strafferetlige konsekvenser for besiddelse af maksimalt 2,5 g opioider, kokain, metamfetamin og MDMA, blev afsluttet i januar 2026. En systematisk gennemgang af 27 studier identificerede fire implementeringshindringer: restriktive designfunktioner, kommunikationsgab mellem sektorer, utilstrækkelig træning af frontpersonale og mangelfuld finansiering og infrastruktur.",
+        "fi": "British Columbian vuonna 2023 käynnistetyn psykedeliikan dekriminalisaation, joka poisti rikosoikeudelliset seuraamukset korkeintaan 2,5 g opioidien, kokaiinin, metamfetamiinin ja MDMA:n hallussapidosta, päättyminen tammikuussa 2026. Systemaattinen tarkastelu 27 tutkimuksesta tunnisti neljä toteutuksen estettä: rajoittavat suunnittelutekijät, kommunikaatoaukot sektoreiden välillä, riittämätön henkilöstön koulutus ja puutteellinen rahoitus sekä infrastruktuuri.",
+        "is": "Afglæðing lyfjahættu á Bretlandseyjum Kólumbía árið 2023, sem felldi niður refsiviðurlög fyrir eignarhald allt að 2,5 g opinuber, kokain, metamfetamín og MDMA, var slitið í janúar 2026. Kerfisbundin yfirfara á 27 rannsóknum benti á fjóra hindranir við framkvæmd: takmörkuð hönnunareinkenni, samskiptavon milli geira, ófullnægjandi þjálfun starfsfólks og ófullnægjandi fjármögnun og innviðir.",
+        "et": "Briti-Kolumbias 2023. aastal kehtestatud psühhedeeliumide dekriminaliseerimise, mis eemaldasid karistusseaduslikud tagajärjed kuni 2,5 g opiooidide, kokaiiini, metamfetamiini ja MDMA omamisest, lõpetamine jaanuaris 2026. 27 uuringu süstemaatiline ülevaade määratles neli rakendamise takistust: piiravad disainitunnused, suhtluse lünk sektorite vahel, puuduliku töötajate väljaõpe ja ebapiisav rahastamine ning infrastruktuur.",
+        "lv": "Britu Kolumbijas 2023. gada psihedeliku dekriminalizācija, kas noņēma kriminālos sodus par līdz 2,5 g opiātu, kokaīna, metamfetamīna un MDMA turēšanu, tika beigta 2026. gada janvārī. Sistematisks 27 pētījumu pārskats identificēja četrus īstenošanas šķēršļus: ierobežojošus dizaina iezīmes, sektoru starpā esošas komunikācijas spraugas, nepietiekamu personāla apmācību un nepietiekamu finansējumu un infrastruktūru.",
+        "lt": "Britanų Kolumbijos 2023 m. psichedelių dekriminalizacijos, kuri panaikino baudžiamąsias sankcijas už turėjimą iki 2,5 g opiatų, kokaino, metamfetamino ir MDMA, nutraukimas 2026 m. sausį. Sistemingas 27 studijų peržiūra nustatė keturis įgyvendinimo barjerus: ribojančius dizaino bruožus, komunikacijos spragas tarp sektorių, nepakankamą personalo mokymą ir nepakankamą finansavimą bei infrastruktūrą."
+      },
+      "notable": true,
+      "notable_reasons": {
+        "en": "Systematic review of national-level drug policy implementation (decriminalization pilot) with 27 included studies, addressing harm reduction frameworks relevant to psychedelic regulation.",
+        "sv": "Systematisk granskning av implementering av drogregler på nationell nivå (avkriminaliseringspilot) med 27 inkluderade studier, som behandlar skadereduceringsramverk relevant för psykedelisk reglering.",
+        "no": "Systematisk gjennomgang av implementering av narkotikapolitikk på nasjonalt nivå (avkriminalisering pilot) med 27 inkluderte studier, som omhandler skadereducering rammeverk relevant for psykedelisk regulering.",
+        "da": "Systematisk gennemgang af implementering af narkotikapolitik på nationalt niveau (dekriminalisering pilot) med 27 inkluderede studier, der adresserer skadereduktionsrammer relevant for psykedelisk regulering.",
+        "fi": "Kansallisen huumepolitiikan täytäntöönpanon järjestelmällinen katsaus (dekriminalisaatiokokeilu) 27 sisällytetyllä tutkimuksella, joka käsittelee haittoja vähentäviä viitekehyksiä psykedeelisen säännöstelyn kannalta.",
+        "is": "Kerfisbundin yfirlit á framkvæmd fíkniefnastefnu á landsvísu (afglæpamyndastig) með 27 rannsóknum sem eru með, sem fjallar um skaðaminnkun ramma sem skipta máli fyrir eftirlitsstefnu geðrænna vímuefna.",
+        "et": "Rahvuslik-tasandi narkootikumide poliitika rakendamise süstemaatiline ülevaade (dekriminaliseerimise piloot) 27 kaasatud uuringuga, mis käsitleb kahju vähendamise raamistikke psühhedeelikute regulatsiooniga seotud küsimustes.",
+        "lv": "Nacionālā līmeņa narkotisko vielu politikas ieviešanas sistemātisks pārskats (dekriminalizācijas pilotprogramma) ar 27 iekļautiem pētījumiem, kas risina kaitējuma mazināšanas sistēmas, kas attiecas uz psihedelisko vielu regulēšanu.",
+        "lt": "Nacionalinio lygio narkotikų politikos įgyvendinimo sisteminė apžvalga (dekriminalizavimo projektas) su 27 įtrauktais tyrimais, kurie aptaria žalos mažinimo sistemas, svarbias psichedelinių medžiagų reguliavimui."
+      },
+      "relevance_score": 4,
+      "study_type": "review",
+      "substances": [
+        "mdma"
+      ],
+      "added_at": "2026-07-23T09:05:41.038948+00:00"
     },
     {
       "title": "Adolescent exposure to the psychedelic 25C-NBOMe in rats induces lasting competitive avoidance through disrupted hippocampal-prefrontal synchrony.",
@@ -1767,6 +1808,35 @@
       "added_at": "2026-07-10T09:58:44.570754+00:00"
     },
     {
+      "title": "Benchmarking a Local Schema-Constrained Large Language Model Pipeline for Abstract Screening and Evidence Mapping.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42483140/",
+      "source": "PubMed",
+      "date": "2026-06-20",
+      "authors": [
+        "Serretti Alessandro"
+      ],
+      "doi": "10.7759/cureus.111193",
+      "summaries": {
+        "en": "Study benchmarks a local, open-source large language model pipeline for automating abstract screening in evidence synthesis. Using schema-constrained LLM architecture deployed locally (gpt-oss-20b via Ollama), researchers tested the system on three systematic reviews including ketamine/neuroimaging and clozapine studies. Results showed high performance: 100% recall and 98.9% F1 score for ketamine/neuroimaging; 79.3% recall for clozapine/suicidality. The local approach avoids proprietary cloud dependencies, improving reproducibility and scalability for biomedical literature synthesis.",
+        "sv": "Studie benchmarkar en lokal, öppen källkods-baserad språkmodell för automatiserad abstract-screening i evidenssynthesis. Forskarna testade systemet (gpt-oss-20b via Ollama) på tre systematiska översikter inklusive ketamin/neuroimaging och klozapinstudier. Resultaten visade högt performance: 100% recall och 98,9% F1-värde för ketamin/neuroimaging; 79,3% recall för klozapin/suicidalitet. Det lokala systemet undviker beroende av proprietär molnteknik, vilket förbättrar reproducerbarhet och skalbarhet för biomedicinsk litteraturanalys.",
+        "no": "Studie benchmarker en lokal, åpen källkode-basert språkmodell for automatisert abstract-screening i evidenssyntese. Forskerne testet systemet (gpt-oss-20b via Ollama) på tre systematiske oversikter inkludert ketamin/nevroimaging og klozapinstudier. Resultatene viste høy ytelse: 100% sensitivity og 98,9% F1-verdi for ketamin/nevroimaging; 79,3% sensitivity for klozapin/selvmordsforsøk. Den lokale tilnærmingen unngår avhengighet av proprietær skyteknologi, noe som forbedrer reproduserbarhet og skalerbarhet for biomedisinsk litteraturanalyse.",
+        "da": "Studie benchmarker en lokal, open source-baseret sprogmodel til automatiseret abstract-screening i evidenssyntese. Forskerne testede systemet (gpt-oss-20b via Ollama) på tre systematiske reviews inklusive ketamin/neuroimaging og klozapinstudier. Resultaterne viste høj ydeevne: 100% sensitivity og 98,9% F1-værdi for ketamin/neuroimaging; 79,3% sensitivity for klozapin/selvmordsforsøg. Den lokale tilgang undgår afhængighed af proprietær cloudteknologi, hvilket forbedrer reproducerbarhed og skalerbarhed for biomedicinsk litteraturanalyse.",
+        "fi": "Tutkimus vertaa paikallista avoimen lähdekoodin kielimallia abstraktin automaattiseen seulontaan evidenssynteesissä. Tutkijat testasivat järjestelmää (gpt-oss-20b Ollaman kautta) kolmessa systemaattisessa katsauksessa, mukaan lukien ketamiini/neurolokaatio ja klozapiinitutkimukset. Tulokset osoittivat korkean suorituskyvyn: 100% herkkyyden ja 98,9% F1-arvon ketamiini/neurolokaatiolle; 79,3% herkkyyden klozapiini/itsemurhille. Paikallinen lähestymistapa välttää omistettujen pilviteknologioiden riippuvuuden, mikä parantaa toistettavuutta ja skaalattavuutta biomedikaaliselle kirjallisuusanalyysille.",
+        "is": "Rannsókn prófar staðbundna, opinn hugbúnaðinn byggða málmódel fyrir sjálfvirka útdráttar-síun í sönnunarsamsetningu. Rannsakendur prófuðu kerfið (gpt-oss-20b með Ollama) á þremur kerfisbundnum yfirlitum sem innihalda ketamín/taugamyndun og klozapín-rannsóknir. Niðurstöður sýndu háa afköst: 100% næmni og 98,9% F1-gildi fyrir ketamín/taugamyndun; 79,3% næmni fyrir klozapín/sjálfsmorð. Staðbundni aðferðin forðast tengsl við eignarathuguð skýjatækni, sem bætir endurframkellanlegt og stigstærðarlegheit fyrir líffræðilegri bókmennta-greiningu.",
+        "et": "Uuringus võrreldakse kohapealset avatud lähtekoodil põhinevat keelemudelit abstraktse automaatse sõelumise jaoks tõendite ühendamisel. Teadlased testisid süsteemi (gpt-oss-20b Ollama kaudu) kolmes süstemaatilises ülevaates, sealhulgas ketamiini/neurokaardistamine ja klozapiin-uuringud. Tulemused näitasid kõrget jõudlust: 100% tundlikkus ja 98,9% F1-väärtus ketamiini/neurokaardistamisele; 79,3% tundlikkus klozapiini/enesetapmise korral. Kohapealne lähenemisviis vältib omandatud pilvetehnoloogia sõltuvust, parandades uurimistulemuste reprodutseeritavust ja skaleerimisvõimalust biomeditsiinilisele kirjandusteadusele.",
+        "lv": "Pētījums salīdzina lokālu atvērtā pirmkoda valodas modeli abstraktes automātiskas filtrēšanas nolūkā pierādījumu sintezēšanā. Pētnieki testēja sistēmu (gpt-oss-20b caur Ollama) trīs sistematiskos pārskatos, ieskaitant ketamīnu/neuroattēlošanu un klozapīna pētījumus. Rezultāti parādīja augstu veiktspēju: 100% jutību un 98,9% F1 vērtību ketamīnam/neuroattēlošanai; 79,3% jutību klozapīnam/pašnāvībai. Lokālā pieeja novērš atkarību no proprietary mākoņu tehnoloģijas, uzlabojot reproducējamību un mērogojamību biomedicīniskajai literatūras analīzei.",
+        "lt": "Tyrimas lygins vietinį atvirto šaltinio kalbos modelį abstraktaus automatinio filtravimo tikslams įrodymų sintezėje. Tyrėjai bandė sistemą (gpt-oss-20b per Ollama) trijuose sisteminguose apžvalguose, įskaitant ketaminą/neurorezonanso tomografiją ir klozapiną. Rezultatai parodė aukštą efektyvumą: 100% jautrumą ir 98,9% F1 vertę ketaminui/neurobraziografikai; 79,3% jautrumą klozapinui/savižudybei. Vietinis metodas išvengia savybės debesų technologijos priklausomybės, gerinant reproduktyvumą ir mastelį biomedicininei literatūros analizei."
+      },
+      "notable": false,
+      "notable_reasons": null,
+      "relevance_score": 3,
+      "study_type": "other",
+      "substances": [
+        "ketamine"
+      ],
+      "added_at": "2026-07-23T09:05:41.038948+00:00"
+    },
+    {
       "title": "Psilocybin-assisted therapy in treatment-resistant depression: rapid remission, uncertain durability, and the next phase of clinical evidence.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42433813/",
       "source": "PubMed",
@@ -1849,70 +1919,6 @@
         "psilocybin"
       ],
       "added_at": "2026-07-15T08:41:08.496159+00:00"
-    },
-    {
-      "title": "Intensity and Visual Content Dissociate in DMT: Dynamic Integration-Complexity Predicts One, Spatial Configuration the Other",
-      "url": "https://doi.org/10.5281/zenodo.20627783",
-      "source": "OpenAIRE",
-      "date": "2026-06-09",
-      "authors": [
-        "Dobbin, Emma"
-      ],
-      "doi": "10.5281/zenodo.20627783",
-      "summaries": {
-        "en": "EEG study (N=35) in inhaled DMT identifies a novel measure (mac_I) tracking dynamic integration-complexity changes that predicts subjective experience intensity (ρ=0.41, p=0.016), distinct from content. Microstate spatial configuration predicts visual imagery type (ρ=0.56, p<0.001) independently of intensity, forming a pre-specified double dissociation (p=0.007). Results were DMT-specific and did not generalize to psilocybin (N=57).",
-        "sv": "EEG-studie (N=35) med inhalerad DMT identifierar ett nytt mått (mac_I) som spårar dynamiska integrations-komplexitetsförändringar och förutsäger upplevelsens intensitet (ρ=0,41, p=0,016), skild från innehål. Mikrostatens rumsliga konfiguration förutsäger visuell bildtyp (ρ=0,56, p<0,001) oberoende av intensitet, vilket bildar en förspecificerad dubbel dissociation (p=0,007). Resultaten var DMT-specifika och generaliserades inte till psilocybin (N=57).",
-        "no": "EEG-studie (N=35) med inhalert DMT identifiserer et nytt mål (mac_I) som sporer dynamiske integrasjons-kompleksitetsendringer og forutsier opplevelsesintensitet (ρ=0,41, p=0,016), distinkt fra innhold. Mikrostatens romlige konfigurasjon forutsier visuell bildetype (ρ=0,56, p<0,001) uavhengig av intensitet, og danner en forspesifisert dobbel dissosasjon (p=0,007). Resultatene var DMT-spesifikke og generaliserte ikke til psilocybin (N=57).",
-        "da": "EEG-studie (N=35) med inhaleret DMT identificerer et nyt mål (mac_I), der sporer dynamiske integrations-kompleksitetsændringer og forudsiger oplevelsesintensitet (ρ=0,41, p=0,016), adskilt fra indhold. Mikrostatens rumlige konfiguration forudsiger visuelt billedtype (ρ=0,56, p<0,001) uafhængigt af intensitet og danner en forspecificeret dobbelt dissociation (p=0,007). Resultaterne var DMT-specifikke og generaliserede ikke til psilocybin (N=57).",
-        "fi": "EEG-tutkimus (N=35) inhaloitavalla DMT:llä tunnistaa uuden mittarin (mac_I), joka seuraa dynaamisia integraatio-kompleksisuusmuutoksia ja ennustaa kokemuksen intensiteettiä (ρ=0,41, p=0,016), erillään sisällöstä. Mikrotilan spatiaalinen konfiguraatio ennustaa visuaalisen kuvan tyyppiä (ρ=0,56, p<0,001) intensiteetistä riippumattomasti ja muodostaa ennalta määritetyn kaksinkertaisen dissosiaation (p=0,007). Tulokset olivat DMT-spesifisiä eivätkä yleistyneet psilosybiiniin (N=57).",
-        "is": "EEG-rannsókn (N=35) með inhlöðuðu DMT auðkennir nýtt mæligildi (mac_I) sem fylgist með kraftmiklum breytingum á samþættingu-flækjustigi og spáir fyrir um sterk upplifunar (ρ=0,41, p=0,016), aðgreind frá efni. Staðbundið uppsetning örhættar spáir fyrir um tegund sjónræns myndunar (ρ=0,56, p<0,001) óháð styrk og myndar fyrirfram tilgreinda tvöfalda aðskilnaði (p=0,007). Niðurstöður voru DMT-sérstakar og yfirfærðust ekki til psilósýbíns (N=57).",
-        "et": "EEG-uurimus (N=35) inhaalitava DMT-ga identifitseerib uue mõõdiku (mac_I), mis jälgib dünaamilisi integratsioon-keerukuse muutusi ja ennustab kogemuse intensiivsust (ρ=0,41, p=0,016), sisust eraldiseisvalt. Mikropaisaste ruumiline konfiguratsioon ennustab visuaalse pildi tüüpi (ρ=0,56, p<0,001) intensiivsusest sõltumatult ja moodustab eelnevalt määratletud topeltdissotsiatsioon (p=0,007). Tulemused olid DMT-spetsiifilised ja ei üldistunud psilotsibiinile (N=57).",
-        "lv": "EEG pētījums (N=35) ar ieelpotu DMT identificē jaunu mēri (mac_I), kas izseko dinamiskām integrācijas-sarežģītības izmaiņām un prognozē pieredzes intensitāti (ρ=0,41, p=0,016), atšķirts no satura. Mikrostāvokļa telpiskā konfigurācija prognozē vizuālā attēla veidu (ρ=0,56, p<0,001) neatkarīgi no intensitātes un veido iepriekš noteiktu dubultu disociāciju (p=0,007). Rezultāti bija DMT-specifiki un neizvērtējās psilocībīnam (N=57).",
-        "lt": "EEG tyrimas (N=35) su įkvėptu DMT identifikuoja naują matą (mac_I), sekantį dinaminius integracijos-sudėtingumo pokyčius ir numatantį patyrimo intensyvumą (ρ=0,41, p=0,016), atskirią nuo turinio. Mikrobūsenos erdvinė konfigūracija numatytina vaizdinio tipo (ρ=0,56, p<0,001) nepriklausomai nuo intensyvumo ir sudaro iš anksto nurodytą dvigubą dissociaciją (p=0,007). Rezultatai buvo DMT-specifiniai ir nepasigeneravo psilocibinui (N=57)."
-      },
-      "notable": false,
-      "notable_reasons": null,
-      "relevance_score": 4,
-      "study_type": "observational",
-      "substances": [
-        "dmt",
-        "psilocybin"
-      ],
-      "added_at": "2026-07-09T10:03:12.956794+00:00"
-    },
-    {
-      "title": "Lifetime psychedelic use and opioid use disorder severity in a National Survey: the roles of psychedelic type and mental health",
-      "url": "https://doi.org/10.1016/j.addbeh.2026.108652",
-      "source": "OpenAIRE",
-      "date": "2026-06-01",
-      "authors": [
-        "Sebastian Ehmann",
-        "Nathan M. Hager",
-        "Paul S. Regier"
-      ],
-      "doi": "10.1016/j.addbeh.2026.108652",
-      "summaries": {
-        "en": "Cross-sectional analysis of 45,133 U.S. adults using structural equation modeling found divergent associations between psychedelic use and opioid use disorder (OUD) severity. Mescaline/peyote use correlated with lower OUD severity (β=-0.34), while LSD/psilocybin/MDMA/DMT use correlated with higher severity (β=0.60). Mental health impairment moderated these relationships: mescaline/peyote's protective association emerged only in those with high mental health impairment, whereas the adverse association for other psychedelics was attenuated in this group.",
-        "sv": "Tvärsnittsanalys av 45 133 amerikanska vuxna med strukturell ekvationmodellering identifierade divergenta samband mellan psykedelisk användning och allvarlighetsgrad av opioidanvändningsstörning (OUD). Meskalin/peyotl-användning korrelerade med lägre OUD-allvarlighetsgrad (β=-0,34), medan LSD/psilocybin/MDMA/DMT korrelerade med högre grad (β=0,60). Psykisk påfrestning modererade dessa samband: meskalin/peyotl-effekten framträdde endast bland personer med högre psykisk påfrestning.",
-        "no": "Tverrsnittsanalyse av 45 133 amerikanske voksne med strukturell ligningsmodellering fant divergente sammenhenger mellom psykedelisk bruk og alvorlighetsgrad av opioidbrukslidelse (OUD). Meskalin/peyotl-bruk korrelerte med lavere OUD-alvorlighetsgrad (β=-0,34), mens LSD/psilocybin/MDMA/DMT korrelerte med høyere grad (β=0,60). Psykisk belastning modererte disse sammenhengene: meskalin/peyotl-effekten framkom bare blant personer med høyere psykisk belastning.",
-        "da": "Tværsnittsanalyse af 45.133 amerikanske voksne med strukturel ligningsmodellering fandt divergente sammenhænge mellem psykedelisk brug og alvorlighetsgrad af opioidbrugsforstyrrelser (OUD). Meskalin/peyotl-brug korrelerede med lavere OUD-alvorlighed (β=-0,34), mens LSD/psilocybin/MDMA/DMT korrelerede med højere alvorlighed (β=0,60). Psykisk belastning modererede disse sammenhænge: meskalin/peyotl-effekten opstod kun blandt personer med høj psykisk belastning.",
-        "fi": "Strukturaalisen yhtälömallinuksen avulla tehdyssä 45 133 amerikkalaisen aikuisen poikittaistutkimuksessa todettiin eriävät yhteydet psykedeelisen käytön ja opioidiriippuvuuden (OUD) vakavuuden välillä. Meskaaliini/peyotin käyttö korreloi pienemmän OUD-vakavuuden kanssa (β=-0,34), kun taas LSD/psilosybiini/MDMA/DMT korreloi suuremman vakavuuden kanssa (β=0,60). Psyykkinen kuormitus muutti näitä suhteita: meskaaliini/peyotinin suojaava vaikutus ilmeni vain korkean psyykkisen kuormituksen omaavilla.",
-        "is": "Þverskurðargreining á 45.133 bandarískum fullorðnum með skipulagðri jöfnunarlíkani sýndi frábrugðin tengsl milli sáleinkennaefna og alvarleika opioidfíknisjúkdóms (OUD). Meskalin/peyotl-notkun tengdist minni alvarleika (β=-0,34), en LSD/psílosýbín/MDMA/DMT tengdist meiri alvarleika (β=0,60). Geðræn þrek breyttu þessum tengslum: vernd meskalín/peyotls kom fram eingöngu meðal þeirra með mikla geðræna þrek.",
-        "et": "Struktuursete võrrandmudelite abil läbi viidud uuringus 45 133 USA täiskasvanusel leiti psühhedeelidega kasutamise ja opioidisõltuvuse (OUD) raskusastet vahel lahknevaid seoseid. Meskaliin/peyotl kasutamine oli seotud madalama OUD raskusastmega (β=-0,34), samas kui LSD/psiilotsibiin/MDMA/DMT kasutamine kõrgema raskusastmega (β=0,60). Psüühilised häired mõjutasid neid seoseid: meskaliin/peyotl kaitsev toime ilmnes vaid psüühiliselt kuormatud inimestel.",
-        "lv": "Strukturālo vienādojumu modelēšanas izmantošanā 45 133 ASV pieaugušajiem atklāja atšķirīgas saistības starp psihedeliķu lietošanu un opioīdu atkarības (OUD) smagumu. Meskalīna/peyotl lietošana bija saistīta ar zemāku OUD smagumu (β=-0,34), savukārt LSD/psilocibīna/MDMA/DMT lietošana ar augstāku smagumu (β=0,60). Garīgā nespēja moderēja šīs saistības: meskalīna/peyotl aizsargjošais efekts parādījās tikai personas ar augstu garīgo nespēju.",
-        "lt": "Atlikus struktūrinės lygties modeliavimo analizę 45 133 JAV suaugusiems, buvo nustatyti skirtingi ryšiai tarp psichedelijų vartojimo ir opioidų vartojimo sutrikimu (OUD) sunkumo. Meskalino/peyotlio vartojimas buvo susietas su mažesniu OUD sunkumu (β=-0,34), o LSD/psilocinė/MDMA/DMT su didesniu sunkumu (β=0,60). Psichinis sutrikimas moderavo šiuos ryšius: meskalino/peyotlio apsauginis poveikis pasireiškė tik asmenims su aukštu psichikos sutrikimu."
-      },
-      "notable": false,
-      "notable_reasons": null,
-      "relevance_score": 4,
-      "study_type": "observational",
-      "substances": [
-        "mescaline",
-        "lsd",
-        "psilocybin",
-        "mdma"
-      ],
-      "added_at": "2026-07-09T10:03:12.956794+00:00"
     }
   ]
 }

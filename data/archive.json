@@ -1,6 +1,44 @@
 {
   "items": [
     {
+      "title": "Implementation factors shaping British Columbia's drug decriminalization pilot: A systematic review with narrative synthesis.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42480418/",
+      "source": "PubMed",
+      "date": "2026-07-21",
+      "authors": [
+        "Ali Farihah",
+        "Chellew Paternostro Shannon",
+        "Imtiaz Sameer"
+      ],
+      "doi": "10.1016/j.drugpo.2026.105431",
+      "summary_en": "British Columbia's 2023 drug decriminalization pilot, which removed criminal penalties for possession of 2.5 g or less of opioids, cocaine, methamphetamine, and MDMA, was terminated in January 2026. A systematic review of 27 peer-reviewed studies identified four implementation barriers: restrictive design features (low possession threshold, short timeframe), communication gaps between sectors, insufficient frontline training, and inadequate funding and infrastructure.",
+      "notable": true,
+      "notable_reason": "Systematic review of national-level drug policy implementation (decriminalization pilot) with 27 included studies, addressing harm reduction frameworks relevant to psychedelic regulation.",
+      "study_type": "review",
+      "substances": [
+        "mdma"
+      ],
+      "added_at": "2026-07-23T09:05:41.038948+00:00"
+    },
+    {
+      "title": "Benchmarking a Local Schema-Constrained Large Language Model Pipeline for Abstract Screening and Evidence Mapping.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42483140/",
+      "source": "PubMed",
+      "date": "2026-06-20",
+      "authors": [
+        "Serretti Alessandro"
+      ],
+      "doi": "10.7759/cureus.111193",
+      "summary_en": "Study benchmarks a local, open-source large language model pipeline for automating abstract screening in evidence synthesis. Using schema-constrained LLM architecture deployed locally (gpt-oss-20b via Ollama), researchers tested the system on three systematic reviews including ketamine/neuroimaging and clozapine studies. Results showed high performance: 100% recall and 98.9% F1 score for ketamine/neuroimaging; 79.3% recall for clozapine/suicidality. The local approach avoids proprietary cloud dependencies, improving reproducibility and scalability for biomedical literature synthesis.",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "other",
+      "substances": [
+        "ketamine"
+      ],
+      "added_at": "2026-07-23T09:05:41.038948+00:00"
+    },
+    {
       "title": "Adolescent exposure to the psychedelic 25C-NBOMe in rats induces lasting competitive avoidance through disrupted hippocampal-prefrontal synchrony.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42477457/",
       "source": "PubMed",

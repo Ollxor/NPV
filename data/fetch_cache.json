@@ -1,7 +1,31 @@
 {
-  "date": "2026-07-22",
-  "cached_at": "2026-07-22T08:25:02.619992+00:00",
+  "date": "2026-07-23",
+  "cached_at": "2026-07-23T08:25:48.358332+00:00",
   "articles": [
+    {
+      "title": "Benchmarking a Local Schema-Constrained Large Language Model Pipeline for Abstract Screening and Evidence Mapping.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42483140/",
+      "source": "PubMed",
+      "abstract": "Background The growth of biomedical literature increasingly exceeds the capacity of manual evidence synthesis. Large language models (LLMs) may support abstract screening and structured extraction, but many current workflows depend on proprietary cloud APIs, creating challenges for governance, reproducibility, and scalable deployment. Methods I developed a fully local, open-weight, schema-constrained pipeline (gpt-oss-20b, deployed via Ollama on Apple M1 Max) for title/abstract-based scoping workflows. The pipeline combined deterministic metadata filtering, LLM-assisted screening, and structured abstract extraction. Performance was benchmarked against three published systematic reviews (ketamine/neuroimaging; clozapine/suicidality; clozapine patient/caregiver perspectives) using precision, recall, and F1 against reference inclusion sets. I also report audit-adjusted estimates (i.e., performance metrics recalculated after manual full-text adjudication of discrepant records) alongside standard reference-set performance. Results In the ketamine/neuroimaging benchmark, the pipeline retained all 41 studies included in the original review; after audit adjustment, recall was 100.0% (46/46), accuracy 99.4% (156/157), precision 97.9% (46/47), and F1 98.9%. For clozapine/suicidality, recall was 79.3% (46/58), and F1 was 76.0%, with missed studies largely attributable to missing or non-informative abstracts. For clozapine patient/caregiver perspectives, recall was 88.9% (56/63), and F1 was 83.6%, with similar abstract-level constraints. Abstract-level extraction recovered audited metadata fields without detected errors and generated evidence maps that were thematically concordant with the main narrative structure of the reference reviews. Conclusions As a proof-of-concept, a fully local LLM pipeline can support scalable and auditable abstract-based scoping and high-level evidence mapping. Because performance was benchmarked against three reviews with partly audit-adjusted reference sets, the findings require confirmation in larger, independently adjudicated evaluations. Random human audit remains advisable, and expert full-text synthesis remains necessary when abstracts are non-informative or when mechanistic precision is required.",
+      "date": "2026-06-20",
+      "authors": [
+        "Serretti Alessandro"
+      ],
+      "doi": "10.7759/cureus.111193"
+    },
+    {
+      "title": "Implementation factors shaping British Columbia's drug decriminalization pilot: A systematic review with narrative synthesis.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42480418/",
+      "source": "PubMed",
+      "abstract": "In January 2023, British Columbia (BC) became the first Canadian province to implement a legally sanctioned drug decriminalization policy, removing criminal penalties for adults possessing 2.5 g or less of opioids, cocaine, methamphetamine, and MDMA. Introduced as a three-year pilot, it aimed to reframe substance use as a public health issue, reduce stigma, and improve health and social service engagement. Criminal penalties were reintroduced for drug possession in most public spaces in May 2024, and the pilot ended in January 2026. Its termination has been interpreted as policy failure; this review aimed to examine how the pilot was implemented in practice and to identify factors that shaped its operationalization and early implementation-relevant outcomes. We conducted a systematic review with narrative synthesis of peer-reviewed literature examining implementation-relevant aspects of BC's decriminalization pilot. Six databases were searched (January-February 2026) for studies published May 31, 2022-February 1, 2026. The protocol was registered in PROSPERO (CRD420251271694). Twenty-seven studies were included. Four cross-cutting implementation barriers were identified: pilot design features, public and cross-sector communication gaps, limited frontline training, and insufficient funding and infrastructure. Design features included the 2.5 g possession threshold, misalignment with real-world drug use patterns; the three-year timeframe, which constrained system-level effects; and the May 2024 amendment, which introduced additional instability. The pilot was implemented without commensurate investment in harm reduction, treatment, or housing infrastructure, within already constrained systems. BC's decriminalization pilot suggests the effects of legal reform are shaped by implementation context. Early outcomes may reflect design features, institutional readiness, and system capacity rather than legal change alone; longer-term impacts remain uncertain. Future reforms should align legal change with coordinated implementation, operational guidance, public communication, and adequate service infrastructure.",
+      "date": "2026-07-21",
+      "authors": [
+        "Ali Farihah",
+        "Chellew Paternostro Shannon",
+        "Imtiaz Sameer"
+      ],
+      "doi": "10.1016/j.drugpo.2026.105431"
+    },
     {
       "title": "Zero-Shot Large Language Models for Preliminary Prediction of PTSD Symptoms From Clinical Interview Transcripts: Grands modèles de langage sans exemple pour la prédiction préliminaire des symptômes de TSPT à partir de transcriptions d'entrevues cliniques.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42478703/",
@@ -55,7 +79,7 @@
       "doi": "10.1038/s41386-026-02496-x"
     },
     {
-      "title": "Integrating evidence, subject-matter expertise, and consensus in delphi-based clinical guideline development.",
+      "title": "Integrating evidence, subject-matter expertise, and consensus in Delphi-based clinical guideline development.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42476342/",
       "source": "PubMed",
       "abstract": "",
@@ -66,6 +90,19 @@
         "Aslam Amna M"
       ],
       "doi": "10.1016/j.jad.2026.122288"
+    },
+    {
+      "title": "Suicidal Thoughts, Behaviors, and Mental Health Treatment Use in US Military Veterans.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42475092/",
+      "source": "PubMed",
+      "abstract": "Shifts in the demographic composition of US military veterans underscore the need for updated population-based estimates of suicidal thoughts and behaviors (STBs) to accurately characterize suicide risk in this population. To update prevalence estimates of and factors associated with STBs among US military veterans and to examine mental health treatment utilization among veterans with a history of STBs, stratified by use of the Veterans Health Administration as a primary source of health care. Population-based cross-sectional study of US military veterans drawn from the 2025 to 2026 National Health and Resilience in Veterans Study. Past 2-week and past-year suicidal ideation (SI), lifetime planning, and lifetime suicide attempt(s). Among 2636 veterans (mean [SD] age, 62.4 [16.2] years; 2349 [88.5%] male), the prevalence of past 2-week SI was 13.4% and past-year SI was 14.0%, with past 2-week SI significantly higher in 2025 to 2026 than in 2019 to 2020 (13.4% vs 9.0%; z = 5.69; P < .001). In contrast, prevalence estimates of lifetime suicide planning (8.0% vs 7.3%; z = 1.06; P = .29) and suicide attempts (4.9% vs 3.9%; z = 1.97; P = .048) were similar to those observed in 2019 to 2020. After adjustment for sociodemographic and military characteristics, factors most strongly associated with past 2-week SI based on relative importance analyses included functional disability (odds ratio [OR], 1.10; 95% CI, 1.04-1.16), lifetime major depressive disorder (OR, 2.22; 95% CI, 1.63-3.02), and lifetime posttraumatic stress disorder (OR, 1.53; 95% CI, 1.09-2.13). Factors most strongly associated with past-year SI included functional disability (OR, 1.09; 95% CI, 1.07-1.11), lifetime major depressive disorder (OR, 2.33; 95% CI, 1.72-3.16), and lifetime posttraumatic stress disorder (OR, 1.62; 95% CI, 1.17-2.25). Factors most strongly associated with lifetime suicide planning included lifetime posttraumatic stress disorder (OR, 2.61; 95% CI, 1.82-3.76), lifetime major depressive disorder (OR, 2.61; 95% CI, 1.84-3.71), and younger age (OR, 2.11; 95% CI, 1.36-3.28). Factors most strongly associated with lifetime suicide attempts included greater adverse childhood experiences (OR, 1.39; 95% CI, 1.29-1.51), lifetime major depressive disorder (OR, 3.76; 95% CI, 2.31-6.10), and functional disability (OR, 1.04; 95% CI, 1.02-1.07). In this cross-sectional study of US military veterans, results suggest that SI was more prevalent in 2025 to 2026 relative to estimates from 2019 to 2020, whereas the prevalence of suicide planning and attempts remained stable. Younger and female veterans appear to carry disproportionate risk for STBs. Targeting key risk factors in vulnerable subpopulations may help mitigate suicide risk.",
+      "date": "2026-07-01",
+      "authors": [
+        "Fischer Ian C",
+        "Nichter Brandon",
+        "Na Peter J"
+      ],
+      "doi": "10.1001/jamanetworkopen.2026.24114"
     },
     {
       "title": "DATAd: A new communication and tracking system for treatment-resistant depression.",
@@ -220,41 +257,13 @@
       "doi": "10.1038/s41398-026-04285-y"
     },
     {
-      "title": "Psychedelics Trials and Outcomes- A Closer Look.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42455590/",
-      "source": "PubMed",
-      "abstract": "",
-      "date": "2026-07-15",
-      "authors": [
-        "Nayak Sandeep M",
-        "Weiss Brandon",
-        "Yaden David B"
-      ],
-      "doi": "10.1001/jamapsychiatry.2026.1942"
-    },
-    {
-      "title": "Psychedelics Trials and Outcomes-A Closer Look.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42455578/",
-      "source": "PubMed",
-      "abstract": "",
-      "date": "2026-07-15",
-      "authors": [
-        "Carhart-Harris Robin Lester",
-        "Rosenblat Joshua D"
-      ],
-      "doi": "10.1001/jamapsychiatry.2026.1948"
-    },
-    {
-      "title": "From Schedule I to the Clinic-Insights Into Psychedelic Drug Development From GHB.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42455552/",
-      "source": "PubMed",
-      "abstract": "This Viewpoint reviews the case of sodium oxybate, a product of gamma-hydroxybutyrate (GHB), to illustrate how psychedelics and other Schedule I substances can proceed through a similar regulatory pathway.",
-      "date": "2026-07-15",
-      "authors": [
-        "Barnett Brian S",
-        "King Franklin"
-      ],
-      "doi": "10.1001/jamapsychiatry.2026.1901"
+      "title": "Pα+ Psychedelic Bulletin #228: Inside the Lilly-Atai Deal; An Update on the GH-AtaiBeckley Patent Standoff; Field Reacts to FDA’s Guidance; Resilient Readies Resubmission",
+      "url": "https://psychedelicalpha.com/news/p%ce%b1-psychedelic-bulletin-228-inside-the-lilly-atai-deal-an-update-on-the-gh-ataibeckley-patent-standoff-field-reacts-to-fdas-guidance-resilient-readies-resubmission/",
+      "source": "Psychedelic Alpha",
+      "abstract": "Inside the Lilly-Atai Deal, and a Patent Standoff with GH Research Getting anyone familiar with the specifics surrounding the Eli Lilly-AtaiBeckley deal to go on the record has been challenging, but we have spoken with people familiar with the details on the condition of anonymity. While Endpoints reports that other large pharmaceutical companies, including AbbVie […]",
+      "date": "2026-07-22",
+      "authors": [],
+      "doi": ""
     },
     {
       "title": "Q3’26 Psychedelic Drug Development Pipeline: Bullseye Charts",
@@ -334,15 +343,6 @@
       "source": "Psychedelic Alpha",
       "abstract": "Welcome to our Q2 2026 Quarterly Briefing. Every three months, our Founder & Editor Josh Hardman walks you through major developments from the prior quarter across drug development, policy and regulation, science and academia, and much more. He closes with a look ahead to the next quarter, so you know what to look out for.",
       "date": "2026-07-03",
-      "authors": [],
-      "doi": ""
-    },
-    {
-      "title": "Pα+ Psychedelic Bulletin #226: The Ethics of Psilocybin for Advanced Alzheimer’s; Veterans’ Views on Psychedelics",
-      "url": "https://psychedelicalpha.com/news/p%ce%b1-psychedelic-bulletin-226-the-ethics-of-psilocybin-for-advanced-alzheimers-veterans-views-on-psychedelics/",
-      "source": "Psychedelic Alpha",
-      "abstract": "Miracle or Minefield? The Alzheimer’s Case Report A Case Report published in Frontiers in Neuroscience late last month (Lago et al., 2026) caused quite a stir, with various media outlets and psychedelics advocates hailing it as showing great promise. It reported on a woman in her 80s who has had Alzheimer’s for a decade being […]",
-      "date": "2026-06-29",
       "authors": [],
       "doi": ""
     },
@@ -450,6 +450,19 @@
       "doi": "10.5812/ijpr-164903"
     },
     {
+      "title": "Effects of low-dose esketamine on early quality of recovery following minimally invasive esophagectomy: a multicenter, randomized controlled study.",
+      "url": "https://doi.org/10.1080/07853890.2026.2704297",
+      "source": "Europe PMC",
+      "abstract": "<h4>Background</h4>Patients undergoing minimally invasive esophagectomy (MIE) frequently experience moderate-to-severe postoperative pain and anxiety-depressive symptoms, compromising postoperative quality of recovery (QoR). Esketamine is a promising adjunct for analgesia and anxiolysis; however, the effect of low-dose esketamine on patient-centered recovery outcomes in MIE remains unclear.<h4>Methods</h4>In this double-blinded, multicenter randomized controlled trial, patients scheduled for elective McKeown esophagectomy were allocated to esketamine (0.25 mg/kg loading dose and 0.125 mg/kg/h continuous infusion during surgery) or placebo (equivalent volume and rate of saline). The primary outcome was the QoR-15 score on postoperative day (POD) 2. Secondary outcomes included QoR-15 scores on POD 1, 3, 7 and 30. Hospital Anxiety and Depression Scale - Anxiety Subscale (HADS-A) and Depression Subscale (HADS-D) scores, numeric rating scale (NRS) pain scores, and the Brief Pain Inventory (BPI) scores on POD 1 to 3, and safety evaluations.<h4>Results</h4>A total of 198 patients were analyzed (esketamine, <i>n</i> = 98; placebo, <i>n</i> = 100). Intraoperative esketamine significantly improved QoR-15 scores on POD 2 (116.9 ± 9.4 <i>vs.</i> 110.2 ± 9.8, <i>p</i> < 0.001) and POD 3 (123.6 ± 7.2 <i>vs.</i> 116.8 ± 8.4, <i>p</i> < 0.001) compared with placebo. HADS-A and HADS-D scores were lower in the esketamine group on POD 1 to 3 (all <i>p</i> < 0.001). Additionally, esketamine recipients reported significantly lower NRS scores at rest and during movement and BPI scores for pain severity and pain interference items (all <i>p</i> < 0.001). There were no significant between-group differences in safety outcomes.<h4>Conclusions</h4>Intraoperative low-dose esketamine improved early, patient-reported recovery after MIE by enhancing analgesia and reducing postoperative anxiety and depression without increasing adverse events.<h4>Trial registration</h4>Chinese Clinical Trial Register (identifier: ChiCTR2400088916).",
+      "date": "2026-07-22",
+      "authors": [
+        "Zhang H",
+        "Yin F",
+        "Li L"
+      ],
+      "doi": "10.1080/07853890.2026.2704297"
+    },
+    {
       "title": "Effects of sub-anesthetic doses of esketamine on immune function and postoperative negative emotions in acoustic neuroma patients: a randomized clinical trial.",
       "url": "https://doi.org/10.1080/07853890.2026.2692804",
       "source": "Europe PMC",
@@ -552,24 +565,11 @@
       "doi": "10.1080/15592294.2026.2672219"
     },
     {
-      "title": "Quality assessment of the forensic surveillance system: A data-quality monitoring system for substance-abuse detection in unnatural deaths in Thailand.",
-      "url": "https://doi.org/10.1016/j.fsisyn.2026.100708",
-      "source": "Europe PMC",
-      "abstract": "<h4>Objective</h4>This study aimed to assess the reliability and identify sources of discrepancies to strengthen data governance and system integrity of the national forensic toxicology surveillance database from postmortem examinations called by the Forensic Drug Abuse Monitoring Network (FDAMN), Thailand.<h4>Methods</h4>A facility-based cross-sectional study was conducted across 25 forensic institutions participating in the FDAMN. 10% (1441 cases) of postmortem toxicology records during January 1 to December 31, 2021, were randomly selected for independent re-entering records for verification during fiscal year 2023. Subsequently, 638,100 paired data points from the original and re-entered datasets were compared. Data consistency was analyzed using descriptive statistics, and a qualitative review was performed to identify underlying causes of discrepancies.<h4>Results</h4>A total of 1418 matched records (98.4%) were successfully verified. All of the data fields were identical between the datasets in 98.5% of cases, with 1.5% showing discrepancies. Administrative variables exhibited 96.3% consistency, while demographic and toxicological data exceeded 94% consistency. Circumstance variables, such as the date and time of death, showed the highest discrepancy rate (6.0%). Most inconsistencies arose from administrative coding variations, typographical errors, and/or legitimate data updates following confirmatory analyses.<h4>Conclusions</h4>Thailand's national forensic toxicology surveillance database demonstrates high data consistency, thereby affirming the robustness of the FDAMN system. Remaining discrepancies are primarily procedural and can be mitigated through standardization of coding, automation of data-validation checks, and feedback-driven quality improvement. These findings may provide a practical framework for strengthening forensic drug surveillance systems and data-quality assurance in other countries facing evolving illicit drug threats.",
-      "date": "2026-06-10",
-      "authors": [
-        "Traisathit P",
-        "Worasuwannarak W",
-        "Aramrattana A"
-      ],
-      "doi": "10.1016/j.fsisyn.2026.100708"
-    },
-    {
       "title": "CZ",
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2018-004480-31/CZ",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-07-22",
+      "date": "2026-07-23",
       "authors": [],
       "doi": ""
     },
@@ -578,7 +578,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2020-005037-32/CZ",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-07-22",
+      "date": "2026-07-23",
       "authors": [],
       "doi": ""
     },
@@ -587,7 +587,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2021-002909-10/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-07-22",
+      "date": "2026-07-23",
       "authors": [],
       "doi": ""
     },
@@ -596,7 +596,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2015-000550-37/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-07-22",
+      "date": "2026-07-23",
       "authors": [],
       "doi": ""
     },
@@ -605,7 +605,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2021-000041-40/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-07-22",
+      "date": "2026-07-23",
       "authors": [],
       "doi": ""
     },
@@ -614,7 +614,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2020-000829-55/DK",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-07-22",
+      "date": "2026-07-23",
       "authors": [],
       "doi": ""
     },
@@ -623,7 +623,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2020-002790-94/SE",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-07-22",
+      "date": "2026-07-23",
       "authors": [],
       "doi": ""
     },
@@ -632,7 +632,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2021-006200-33/FI",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-07-22",
+      "date": "2026-07-23",
       "authors": [],
       "doi": ""
     },
@@ -641,7 +641,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2019-004812-73/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-07-22",
+      "date": "2026-07-23",
       "authors": [],
       "doi": ""
     },
@@ -650,7 +650,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2022-002369-14/BE",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-07-22",
+      "date": "2026-07-23",
       "authors": [],
       "doi": ""
     },

@@ -1,7 +1,46 @@
 {
-  "date": "2026-07-23",
-  "cached_at": "2026-07-23T08:25:48.358332+00:00",
+  "date": "2026-07-24",
+  "cached_at": "2026-07-24T08:23:40.446076+00:00",
   "articles": [
+    {
+      "title": "Rapid clinical and EEG microstate changes 24 h after intranasal esketamine in major depressive disorder with suicidal ideation: a prospective paired study.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42492692/",
+      "source": "PubMed",
+      "abstract": "Major depressive disorder (MDD) with suicidal ideation constitutes a psychiatric emergency that requires rapid symptom relief. Intranasal esketamine can reduce depressive symptoms within hours, yet the earliest brain-level correlates of response remain insufficiently characterized. A total of 31 patients with major depressive disorder and suicidal ideation or behavior were enrolled in this prospective study. Patients hospitalized for MDD with suicidal ideation received intranasal esketamine in addition to standard care. Clinical scales and resting-state EEG were obtained before the first dose (T0) and 24 h later (T1). The primary clinical outcomes were HAMD-17 scores. EEG analyses included whole-brain relative power spectral density (PSD) and microstate parameters based on a seven-class template. After quality control, 24 patients had qualified resting-state EEG data, 23 had qualified paired questionnaire data, and 18 had complete matched EEG and questionnaire data for integrated analyses. Depressive symptoms improved significantly within 24 h. HAMD score decreased from 25.32 ± 1.37 to 20.55 ± 1.52 in paired complete cases (n = 22; FDR = 0.0016). In contrast, PSD did not change significantly across delta, theta, alpha, beta, or gamma bands. Microstate analysis identified significant early changes, especially in the occurrence and coverage of microstate D, together with altered transition patterns among several microstate classes. Intranasal esketamine was associated with rapid clinical improvement in depressive symptoms over 24 h. Compared with conventional PSD indices, EEG microstate metrics appeared more sensitive to early treatment-related network reconfiguration and may provide candidate short-term electrophysiological readouts of rapid treatment response.",
+      "date": "2026-07-23",
+      "authors": [
+        "Gu Tingting",
+        "Zhang Jie",
+        "Wang Ruizhi"
+      ],
+      "doi": "10.1016/j.jad.2026.122307"
+    },
+    {
+      "title": "A ketamine/methionine exposure paradigm, alone or combined with Lactobacillus rhamnosus GG, assessing schizophrenia-relevant behavioral, oxidative stress, and molecular endpoints in adult zebrafish.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42492681/",
+      "source": "PubMed",
+      "abstract": "Schizophrenia (SCZ) is a multifactorial neuropsychiatric disorder involving glutamatergic dysfunction, oxidative imbalance, impaired cellular plasticity, and neuron-glia interactions. Adult zebrafish provide a translational vertebrate model for investigating SCZ-relevant behavioral and biological domains. This study evaluated the effects of repeated ketamine (KET) and methionine (MET) exposure, administered alone or combined with Lactobacillus rhamnosus GG (LGG), on behavioral, oxidative, transcriptional, histopathological, and immunofluorescence endpoints. Adult zebrafish were repeatedly exposed to KET (20/40 mg/L) or MET (4.5/6.0 mM), with or without LGG (5 × 10 Repeated KET exposure predominantly altered mirror-directed social responsiveness and vertical exploration, whereas MET produced comparatively modest behavioral effects despite inducing more pronounced oxidative and proliferative alterations. Oxidative responses included reduced SOD activity, selective GPx activation, and increased lipid peroxidation. PCNA was the most responsive transcriptional marker, while CAT, SOD1, and TP53 showed limited changes. Histopathological analyses revealed alterations in myelin-associated staining, neuronal integrity, tissue architecture, and neuronal loss. LGG partially attenuated selected oxidative and structural alterations but produced limited behavioral effects. Repeated KET and MET exposure generated distinct yet complementary SCZ-relevant behavioral and biological profiles in adult zebrafish, supporting their utility for investigating glutamatergic dysfunction, metabolic stress, and gut-brain interactions.",
+      "date": "2026-07-23",
+      "authors": [
+        "Nita Ilinca-Bianca",
+        "Ilie Ovidiu-Dumitru",
+        "Jijie Roxana"
+      ],
+      "doi": "10.1016/j.cbpc.2026.110635"
+    },
+    {
+      "title": "Intranasal esketamine plus oral antidepressant for treatment-resistant depression: acute induction and maintenance relapse-prevention outcomes in a systematic review and meta-analysis.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42490943/",
+      "source": "PubMed",
+      "abstract": "Treatment-resistant depression (TRD) remains a major clinical challenge. Intranasal esketamine, used adjunctively with an oral antidepressant, has been evaluated in randomized trials, but uncertainty persists regarding the magnitude and consistency of benefit, durability, and key harms. This systematic review and meta-analysis included randomized controlled trials comparing intranasal esketamine plus an oral antidepressant versus placebo nasal spray plus the same oral antidepressant in TRD. Acute induction (≈4 weeks) and maintenance randomized-withdrawal phases were analyzed separately. Depression outcomes were assessed primarily using the Montgomery-Åsberg Depression Rating Scale (MADRS), and functional outcomes using the Sheehan Disability Scale (SDS). Two reviewers independently screened studies, extracted data, and assessed risk of bias using RoB 2.0. Random-effects models pooled mean differences (MD) for continuous outcomes, risk ratios (RR) for binary outcomes, and hazard ratios (HR) for relapse prevention. Certainty of evidence was rated using GRADE. From 1,518 records, nine reports representing six unique RCTs (1,836 participants) were included. Four acute induction RCTs (n=937) showed greater symptom reduction at day 28 with esketamine (MADRS MD -2.99, 95% CI -5.10 to -0.89; I²=48.5%). Rapid improvement was evident by day 2 (MD -3.25, 95% CI -4.65 to -1.85). Esketamine increased day-28 response (RR 1.44, 95% CI 1.20-1.74) and remission (RR 1.52, 95% CI 1.20-1.92), corresponding to approximately +154 responders and +106 remitters per 1,000 patients, respectively, based on pooled control risks. Functioning improved (SDS MD -1.70, 95% CI -2.61 to -0.79). Two maintenance randomized-withdrawal RCTs (n=899) demonstrated reduced relapse risk with continued esketamine (HR 0.51, 95% CI 0.42-0.62; I²=0%). In acute induction, esketamine increased any treatment-emergent adverse event (TEAE) (RR 1.37, 95% CI 1.25-1.50) and discontinuation due to adverse events (RR 2.68, 95% CI 1.35-5.29), with notable increases in dissociation (RR 7.33, 95% CI 4.49-11.98) and blood pressure increased events (RR 3.96, 95% CI 2.24-7.01). Maintenance TEAE rates were similar between groups (RR 1.07, 95% CI 0.99-1.17). Intranasal esketamine plus an oral antidepressant provides rapid, modest acute improvement and reduces relapse risk during maintenance among stabilized responders/remitters, but increases acute adverse events, supporting use within supervised care and individualized benefit-risk assessment.",
+      "date": "2026-07-03",
+      "authors": [
+        "Xie Jingqiang",
+        "Pu Chunying",
+        "Sun Mingyue"
+      ],
+      "doi": "10.3389/fpsyt.2026.1774549"
+    },
     {
       "title": "Benchmarking a Local Schema-Constrained Large Language Model Pipeline for Abstract Screening and Evidence Mapping.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42483140/",
@@ -30,7 +69,7 @@
       "title": "Zero-Shot Large Language Models for Preliminary Prediction of PTSD Symptoms From Clinical Interview Transcripts: Grands modèles de langage sans exemple pour la prédiction préliminaire des symptômes de TSPT à partir de transcriptions d'entrevues cliniques.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42478703/",
       "source": "PubMed",
-      "abstract": "BackgroundPosttraumatic stress disorder (PTSD) is common yet frequently underdiagnosed, in part due to barriers to systematic screening and the reliance on self-report instruments. Large language models (LLMs) have shown promise in extracting clinically relevant information from unstructured language, but their ability to infer item-level PTSD symptom severity from clinical interviews remains unclear.MethodsUsing the Distress Analysis Interview Corpus-Wizard of Oz (DAIC-WoZ), we analyzed 100 semi-structured clinical interview transcripts paired with item-level PTSD Checklist-Civilian Version (PCL-C) scores. Six LLMs (DeepSeek 3.1, Claude Sonnet 4, LLaMA 4 Scout, GPT-4o, GPT-5, and Gemini 2.5 Flash) used zero-shot prompting to predict all 17 PCL-C items. Performance was assessed for binary symptom endorsement (≥3 vs. < 3), 5-point Likert prediction, and DSM-IV symptom-cluster analyses using accuracy, F1 score, and Matthews correlation coefficient (MCC).ResultsFor binary prediction, Claude 4 achieved the highest mean accuracy (0.705; 95% CI, 0.681-0.728), followed by DeepSeek 3.1(0.699; 95% CI, 0.675-0.724) and Gemini 2.5 (0.698; 95% CI, 0.677-0.718). For Likert prediction, DeepSeek 3.1 performed best (accuracy = 0.438; 95% CI, 0.401-0.475), only modestly above the majority-class baseline (0.399; 95% CI, 0.355-0.443). Performance varied by symptom domain, with re-experiencing and hyperarousal symptoms generally predicted more accurately than avoidance/numbing symptoms. Across models, predicted item-level symptom patterns showed a meaningful alignment with observed PCL-C responses despite reduced accuracy in fine-grained severity estimation.ConclusionZero-shot LLMs' performance was insufficient for clinical application in predicting PTSD symptoms from semi-structured interview transcripts. While models showed some ability to capture overall symptom patterns, performance varied across domains and remained limited for fine-grained severity estimation. Given these constraints and the non-trauma-specific nature of the dataset, findings should be interpreted as preliminary, with only modest differences observed between models.Plain Language Summary TitleCan Artificial Intelligence Identify PTSD Symptoms from Conversations? A Study Using Clinical Interview TranscriptsPlain Language SummaryPost-traumatic stress disorder (PTSD) is a common mental health condition, but it is often missed in clinical settings. Screening usually relies on questionnaires that patients must complete themselves, which may not always happen due to time, stigma, or discomfort discussing trauma. Researchers are exploring whether artificial intelligence (AI) could help identify PTSD symptoms from conversations instead.In this study, we tested several advanced AI systems, known as large language models, to see if they could estimate PTSD symptoms based on written transcripts of clinical interviews. These interviews were not specifically designed to assess trauma, which makes the task more challenging but closer to real-world situations. We compared the AI predictions to participants' own questionnaire responses about their symptoms.We found that the AI models were somewhat able to recognize general patterns of PTSD symptoms, especially more visible ones like sleep problems or distressing dreams. However, they struggled with more internal or less obvious symptoms, such as avoidance or emotional numbness. Overall, their accuracy was moderate and not reliable enough for clinical use, particularly when trying to estimate how severe symptoms were.Importantly, differences between the AI models were small, and none performed well enough to replace existing screening methods. These findings suggest that while AI may have future potential as a supportive tool, it is not yet ready to be used for diagnosing or screening PTSD on its own.Further research using better data, improved methods, and real clinical settings is needed before this approach could be considered for practical use.",
+      "abstract": "BackgroundPosttraumatic stress disorder (PTSD) is common yet frequently underdiagnosed, in part due to barriers to systematic screening and the reliance on self-report instruments. Large language models (LLMs) have shown promise in extracting clinically relevant information from unstructured language, but their ability to infer item-level PTSD symptom severity from clinical interviews remains unclear.MethodsUsing the Distress Analysis Interview Corpus-Wizard of Oz (DAIC-WoZ), we analyzed 100 semi-structured clinical interview transcripts paired with item-level PTSD Checklist-Civilian Version (PCL-C) scores. Six LLMs (DeepSeek 3.1, Claude Sonnet 4, LLaMA 4 Scout, GPT-4o, GPT-5, and Gemini 2.5 Flash) used zero-shot prompting to predict all 17 PCL-C items. Performance was assessed for binary symptom endorsement (≥3 vs. < 3), 5-point Likert prediction, and DSM-IV symptom-cluster analyses using accuracy, F1 score, and Matthews correlation coefficient (MCC).ResultsFor binary prediction, Claude 4 achieved the highest mean accuracy (0.705; 95% CI, 0.681-0.728), followed by DeepSeek 3.1(0.699; 95% CI, 0.675-0.724) and Gemini 2.5 (0.698; 95% CI, 0.677-0.718). For Likert prediction, DeepSeek 3.1 performed best (accuracy = 0.438; 95% CI, 0.401-0.475), only modestly above the majority-class baseline (0.399; 95% CI, 0.355-0.443). Performance varied by symptom domain, with re-experiencing and hyperarousal symptoms generally predicted more accurately than avoidance/numbing symptoms. Across models, predicted item-level symptom patterns showed a meaningful alignment with observed PCL-C responses despite reduced accuracy in fine-grained severity estimation.ConclusionZero-shot LLMs' performance was insufficient for clinical application in predicting PTSD symptoms from semi-structured interview transcripts. While models showed some ability to capture overall symptom patterns, performance varied across domains and remained limited for fine-grained severity estimation. Given these constraints and the non-trauma-specific nature of the dataset, findings should be interpreted as preliminary, with only modest differences observed between models.Plain Language Summary TitleCan Artificial Intelligence Identify PTSD Symptoms from Conversations? A Study Using Clinical Interview TranscriptsPlain Language SummaryPost-traumatic stress disorder (PTSD) is a common mental health condition, but it is often missed in clinical settings. Screening usually relies on questionnaires that patients must complete themselves, which may not always happen due to time, stigma, or discomfort discussing trauma. Researchers are exploring whether artificial intelligence (AI) could help identify PTSD symptoms from conversations instead.In this study, we tested several advanced AI systems, known as large language models, to see if they could estimate PTSD symptoms based on written transcripts of clinical interviews. These interviews were not specifically designed to assess trauma, which makes the task more challenging but closer to real-world situations. We compared the AI predictions to participants' own questionnaire responses about their symptoms.We found that the AI models were somewhat able to recognize general patterns of PTSD symptoms, especially more visible ones like sleep problems or distressing dreams. However, they struggled with more internal or less obvious symptoms, such as avoidance or emotional numbness. Overall, their accuracy was moderate and not reliable enough for clinical use, particularly when trying to estimate how severe symptoms were.Importantly, differences between the AI models were small, and none performed well enough to replace existing screening methods. These findings suggest that while AI may have future potential as a supportive tool, it is not yet ready to be used for diagnosing or screening PTSD on its own.Further research using better data, improved methods, and real clinical settings is needed before this approach could be considered for practical use. Le trouble de stress post-traumatique (TSPT) est fréquent, mais il est souvent sous-diagnostiqué, en partie en raison d'obstacles au dépistage systématique et de l'utilisation d'instruments d'autodéclaration. Les grands modèles de langage (LLM) se sont révélés prometteurs pour ce qui est d'extraire des renseignements cliniquement pertinents d'un langage non structuré, mais leur capacité à déduire la gravité des symptômes de TSPT selon des éléments à partir d'entrevues cliniques demeure incertaine. À l'aide du corpus d'entrevues Distress Analysis Interview Corpus-Wizard of Oz (DAIC-WoZ), nous avons analysé 100 transcriptions d'entrevues cliniques semi-structurées appariées au score pour les éléments de la liste de vérification pour le TSPT - Version civile (PCL-C). Six GML (DeepSeek 3.1, Claude Sonnet 4, LLaMA 4 Scout, GPT-4o, GPT-5 et Gemini 2.5 Flash) ont utilisé des requêtes sans exemple pour prédire les 17 éléments de la PCL-C. Le rendement a été évalué en ce qui concerne l'approbation binaire des symptômes (≥ 3 p/r à < 3), la prédiction de l'échelle Likert à 5 points et les analyses du groupe des symptômes dans le DSM-IV selon l'exactitude, le F-score et le coefficient de corrélation de Matthews (MCC). Pour la prédiction binaire, Claude 4 a obtenu l'exactitude moyenne la plus élevée (0,705; IC à 95 % : de 0,681 à 0,728), suivi de DeepSeek 3.1 (0,699; IC à 95 % : de 0,675 à 0,724) et de Gemini 2.5 (0,698; IC à 95 % : de 0,677 à 0,718). Pour la prédiction de l'échelle de Likert, DeepSeek 3.1 a obtenu les meilleurs résultats (exactitude = 0,438; IC à 95 % : de 0,401 à 0,475), légèrement supérieurs aux valeurs initiales de la classe majoritaire (0,399; IC à 95 % : de 0,355 à 0,443). Le rendement variait en fonction du domaine de symptômes, les symptômes de reviviscence et d'hypervigilance étant généralement prédits avec plus de précision que les symptômes d'évitement ou d'émoussement. Dans l'ensemble des modèles, les schémas des symptômes prédits au niveau des éléments ont montré une harmonisation significative avec les réponses observées au questionnaire PCL-C, malgré une exactitude réduite dans l'estimation fine de la gravité. Le rendement des LLM sans exemple était insuffisant pour une application clinique dans la prédiction des symptômes de TSPT à partir de transcriptions d'entrevues semi-structurées. Bien que les modèles aient montré une certaine capacité à saisir les tendances globales des symptômes, le rendement variait d'un domaine à l'autre et demeurait limité pour l'estimation fine de la gravité. Compte tenu de ces contraintes et de la nature non traumatique de l'ensemble de données, les résultats doivent être considérés comme préliminaires, avec de légères différences observées entre les modèles.",
       "date": "2026-07-21",
       "authors": [
         "Teferra Bazen Gashaw",
@@ -218,43 +257,6 @@
         "Fonzo Gregory A"
       ],
       "doi": "10.1038/s44220-025-00541-0"
-    },
-    {
-      "title": "Turkish validity and reliability study of the Alcohol, Smoking, and Substance Involvement Screening Test (ASSIST) Scale.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42459582/",
-      "source": "PubMed",
-      "abstract": "The use of alcohol, cigarettes, and substances contributes to the global burden of disease and causes acute harms, including high-dose use, as well as chronic problems such as addiction and infectious diseases. Among preventable diseases, smoking, alcohol, and substance use have been among the top ten causes of illness-related mortality. This study aimed to examine the Turkish validity and reliability of the Alcohol, Smoking, and Substance Involvement Screening Test (ASSIST) Scale. Two different sample groups (n=339) were interviewed by experienced clinicians. The Fagerstrom Nicotine Dependence Test (FNDT), Alcohol Use Disorder Identification Test (AUDIT), and Drug Use Disorder Identification Test (DUDIT) were also administered to examine correlations with ASSIST. To analyze the internal consistency of ASSIST, Cronbach's alpha coefficients were calculated for each group, ranging from 0.70 to 0.98. To examine the factor structure of the scale, exploratory factor analysis was conducted, and the Kaiser-Meyer-Olkin (KMO) measure of sampling adequacy was higher than 0.60, while Bartlett's Test of Sphericity was significant (KMO>0.60, p<0.05). Based on factor loadings, all items loaded onto a single factor except the \"sedatives and hallucinogens\" item, in which items 2-4 were grouped in factor 1 and items 6 and 7 were grouped in factor 2. ASSIST Tobacco scores were significantly correlated with FNDT scores (0.70 for Group 1 and 0.74 for Group 2). ASSIST Alcohol scores and total scores were significantly correlated with AUDIT and DUDIT scores, respectively (0.92 for Group 1 and 0.94 for Group 2; 0.91 for Group 1 and 0.90 for Group 2, respectively). It was concluded that ASSIST v3.1 can be applied to screen for cigarette, alcohol, and substance use/abuse in general psychiatry and psychiatric counseling centers in our country. Future studies conducted in different populations would provide new data regarding the effectiveness of ASSIST and contribute to both the literature and daily practice.",
-      "date": "2025-12-31",
-      "authors": [
-        "Bilici Rabia",
-        "Unubol Basak",
-        "Cinka Elif"
-      ],
-      "doi": "10.14744/DAJPNS.2025.00297"
-    },
-    {
-      "title": "Ketamine use disorder: A case report.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42459236/",
-      "source": "PubMed",
-      "abstract": "",
-      "date": "2025-09-23",
-      "authors": [
-        "Ramakan Enver Denizhan"
-      ],
-      "doi": "10.14744/DAJPNS.2025.00294"
-    },
-    {
-      "title": "Psilocybin's effect on human brain synaptic plasticity.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42457666/",
-      "source": "PubMed",
-      "abstract": "Psychedelics such as psilocybin have been linked to enhanced neuroplasticity and symptom relief in affective disorders, but the neurobiological mechanisms and impact of environmental context remain unclear. Here, we tested whether a single dose of psilocybin (0.3 mg/kg) alters synaptic density in healthy individuals and whether setting-dependent subjective experience shapes this effect. Fifteen healthy participants had a psilocybin-induced psychedelic experience either inside an MRI scanner or in a therapeutic-like room. We assessed synaptic density changes by measuring the Synaptic Vesicle glycoprotein 2A in the frontal cortex and hippocampus with [¹¹C]UCB-J PET at baseline and one-week post-dose, and assessed subjective experiences immediately afterwards and at three months. Overall, we found no statistically significant increase in SV2A density. However, participants treated in the therapeutic-like setting exhibited more intense mystical-type experiences, longer-lasting psychological benefits, and greater increases in synaptic density than those dosed in the MRI scanner. These findings indicate that psilocybin's neuroplastic effects are modulated by environmental context, with important implications for psychedelic-assisted therapies. ClinicalTrial: NCT03289949.",
-      "date": "2026-07-15",
-      "authors": [
-        "Johansen Annette",
-        "Plavén-Sigray Pontus",
-        "Madsen Martin K"
-      ],
-      "doi": "10.1038/s41398-026-04285-y"
     },
     {
       "title": "Pα+ Psychedelic Bulletin #228: Inside the Lilly-Atai Deal; An Update on the GH-AtaiBeckley Patent Standoff; Field Reacts to FDA’s Guidance; Resilient Readies Resubmission",
@@ -569,7 +571,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2018-004480-31/CZ",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-07-23",
+      "date": "2026-07-24",
       "authors": [],
       "doi": ""
     },
@@ -578,7 +580,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2020-005037-32/CZ",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-07-23",
+      "date": "2026-07-24",
       "authors": [],
       "doi": ""
     },
@@ -587,7 +589,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2021-002909-10/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-07-23",
+      "date": "2026-07-24",
       "authors": [],
       "doi": ""
     },
@@ -596,7 +598,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2015-000550-37/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-07-23",
+      "date": "2026-07-24",
       "authors": [],
       "doi": ""
     },
@@ -605,7 +607,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2021-000041-40/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-07-23",
+      "date": "2026-07-24",
       "authors": [],
       "doi": ""
     },
@@ -614,7 +616,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2020-000829-55/DK",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-07-23",
+      "date": "2026-07-24",
       "authors": [],
       "doi": ""
     },
@@ -623,7 +625,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2020-002790-94/SE",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-07-23",
+      "date": "2026-07-24",
       "authors": [],
       "doi": ""
     },
@@ -632,7 +634,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2021-006200-33/FI",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-07-23",
+      "date": "2026-07-24",
       "authors": [],
       "doi": ""
     },
@@ -641,7 +643,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2019-004812-73/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-07-23",
+      "date": "2026-07-24",
       "authors": [],
       "doi": ""
     },
@@ -650,7 +652,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2022-002369-14/BE",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-07-23",
+      "date": "2026-07-24",
       "authors": [],
       "doi": ""
     },

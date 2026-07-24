@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-23T09:06:33.101783+00:00",
+  "generated_at": "2026-07-24T09:03:37.053097+00:00",
   "items": [
     {
       "title": "Blinding integrity in psychedelic research: Evidence from a comparative randomized controlled trial of psilocybin, MDMA, and methylphenidate in healthy volunteers",
@@ -32,6 +32,68 @@
         "mdma"
       ],
       "added_at": "2026-07-09T10:03:12.956794+00:00"
+    },
+    {
+      "title": "Rapid clinical and EEG microstate changes 24 h after intranasal esketamine in major depressive disorder with suicidal ideation: a prospective paired study.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42492692/",
+      "source": "PubMed",
+      "date": "2026-07-23",
+      "authors": [
+        "Gu Tingting",
+        "Zhang Jie",
+        "Wang Ruizhi"
+      ],
+      "doi": "10.1016/j.jad.2026.122307",
+      "summaries": {
+        "en": "A prospective study of 31 hospitalized patients with major depression and suicidal ideation received intranasal esketamine alongside standard care. Clinical assessment and resting-state EEG were performed before treatment and 24 hours later. Depression scores improved significantly (HAMD-17: 25.3→20.6, n=22), while power spectral density remained unchanged. Microstate analysis revealed early alterations in microstate D occurrence and transition patterns, suggesting EEG microstates may be sensitive markers of rapid response to esketamine.",
+        "sv": "En prospektiv studie inkluderade 31 inlagda patienter med svår depression och suicidtankar som fick intranasalt esketamin tillsammans med standardbehandling. Klinisk bedömning och viloläge-EEG genomfördes före behandling och 24 timmar senare. Depressionspoäng förbättrades signifikant (HAMD-17: 25,3→20,6, n=22), medan kraftspektral densitet förblev oförändrad. Mikrotillståndsanalys visade tidiga förändringar i mikrotillståndet D:s förekomst och övergångsmönster, vilket tyder på att EEG-mikrotillstånd kan vara känsliga markörer för snabb respons på psykedeliska substanser.",
+        "no": "En prospektiv studie omfattet 31 innlagte pasienter med alvorlig depresjon og selvmordstanker som mottok intranasal esketamin i tillegg til standardbehandling. Klinisk vurdering og hvilende EEG ble gjennomført før behandling og 24 timer senere. Depresjonsskårer forbedret seg betydelig (HAMD-17: 25,3→20,6, n=22), mens kraftspektral tetthet forble uendret. Mikrostilstandsanalyse avdekket tidlige endringer i mikrostilstand D-forekomst og overgangsmønster, noe som tyder på at EEG-mikrostilstander kan være sensitive markører for rask respons på psykedelika.",
+        "da": "En prospektiv undersøgelse omfattede 31 indlagte patienter med alvorlig depression og selvmordstanker, som modtog intranasal esketamin som supplement til standardbehandling. Klinisk vurdering og hvilende EEG blev gennemført før behandling og 24 timer senere. Depressionsscorer forbedret sig signifikant (HAMD-17: 25,3→20,6, n=22), mens effektspektraltæthed forblev uændret. Mikrostilstandsanalyse viste tidlige ændringer i mikrostilstand D's forekomst og overgangsmønstre, hvilket tyder på, at EEG-mikrostilstande kan være sensitive markører for hurtig respons på psykedelika.",
+        "fi": "Prospektiiviseen tutkimukseen osallistui 31 sairaalahoitoa saavaa potilasta, joilla oli vakava masennus ja itsemurhapenseet ja jotka saivat intranasaalia esketamiinia vakiohoitoon lisäksi. Kliininen arviointi ja levon aikainen EEG suoritettiin ennen hoitoa ja 24 tuntia myöhemmin. Masennuspistemäärät paranivat merkitsevästi (HAMD-17: 25,3→20,6, n=22), kun taas spektritiheys säilyi muuttumattomana. Mikrotila-analyysi paljasti varhaisia muutoksia mikrotilan D esiintymisessä ja siirtymäkuvioissa, mikä viittaa siihen, että EEG-mikrotilat voivat olla herkkiä psykedelijoiden nopean vasteen merkkiaineita.",
+        "is": "Framtíðarfang samanstóð af 31 innlögðum sjúklingum með alvarlega þunglyndi og sjálfsmorðshugsanir sem fengu innannasal esketamín til viðbótar við staðlaða meðferð. Klínísk mat og EEG í hvíldarstöðu voru gerð fyrir meðferð og 24 klst síðar. Þunglyndiseinkunn batnaðist marktækt (HAMD-17: 25,3→20,6, n=22), en afl-litningareining breyttist ekki. Örtöðu-greining leiddi í ljós snemma breytingar á mikrotöðu D forkomum og umskiptamynstri, sem bendir til þess að EEG-örtöðu geti verið viðkvæm vísbendingu fyrir skjóta svörun við geðhrifum.",
+        "et": "Prospektiivse uuringu käigus osales 31 hospitaliseeritud patsienti, kellel oli raske depressioon ja enesetappamise mõtted ning kes said intranasaalset esketamiini tavapärase ravi kõrvalt. Kliiniline hindamine ja puhkeasendis EEG tehti enne ravi ja 24 tundi hiljem. Depressiooni skoorid paranesid oluliselt (HAMD-17: 25,3→20,6, n=22), kuid spektraaltihedus jäi muutumatuks. Mikro-olekute analüüs näitas varakult muutusi mikro-olukorras D esinemises ja üleminekumustrites, mis viitab, et EEG-mikro-olekud võivad olla psühhedeelikumide kiirete vastuste tundlikud markerid.",
+        "lv": "Prospektīvajā pētījumā piedalījās 31 hospitalizēts pacients ar smagu depresiju un pašnāvības domu, kuriem tika piešķirts intranauzāls esketamīns papildu standarta ārstēšanai. Klīniskā novērtēšana un miera stāvoklī EEG tika veikta pirms ārstēšanas un 24 stundas vēlāk. Depresijas rādītāji ievērojami uzlabojās (HAMD-17: 25,3→20,6, n=22), bet spektrālā blīvums palika nemainīgs. Mikrostāvokļu analīze atklāja agrīnas izmaiņas mikrostāvokļa D parādīšanās un pārejas modeļos, norādot, ka EEG-mikrostāvokļi var būt jutīgi psihedelisku vielu ātras atbildes marķieri.",
+        "lt": "Prospektyvus tyrimas apėmė 31 hospitalizuotą pacientą su sunkia depresija ir savižudybės mintimis, kurie gavo intranazalinį esketaminą šalia standartinės terapijos. Klininė vertinimą ir EEG ramybės būsenoje atlikta prieš gydymą ir 24 valandas vėliau. Depresijos skalės pagerėjo žymiai (HAMD-17: 25,3→20,6, n=22), tačiau spektrinė tankis liko nepakitęs. Mikrobūsenų analizė atskleidė ankstyvus pokyčius mikrobūsenos D pasirodymo ir perėjimo šablonuose, siūlydama, kad EEG-mikrobūsenos gali būti jautrūs psichedelių greitosios atsako žymekliai."
+      },
+      "notable": false,
+      "notable_reasons": null,
+      "relevance_score": 4,
+      "study_type": "observational",
+      "substances": [
+        "ketamine"
+      ],
+      "added_at": "2026-07-24T09:02:17.474070+00:00"
+    },
+    {
+      "title": "A ketamine/methionine exposure paradigm, alone or combined with Lactobacillus rhamnosus GG, assessing schizophrenia-relevant behavioral, oxidative stress, and molecular endpoints in adult zebrafish.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42492681/",
+      "source": "PubMed",
+      "date": "2026-07-23",
+      "authors": [
+        "Nita Ilinca-Bianca",
+        "Ilie Ovidiu-Dumitru",
+        "Jijie Roxana"
+      ],
+      "doi": "10.1016/j.cbpc.2026.110635",
+      "summaries": {
+        "en": "A ketamine/methionine exposure paradigm, alone or combined with Lactobacillus rhamnosus GG, assessing schizophrenia-relevant behavioral, oxidative stress, and molecular endpoints in adult zebrafish.",
+        "sv": "A ketamine/methionine exposure paradigm, alone or combined with Lactobacillus rhamnosus GG, assessing schizophrenia-relevant behavioral, oxidative stress, and molecular endpoints in adult zebrafish.",
+        "no": "A ketamine/methionine exposure paradigm, alone or combined with Lactobacillus rhamnosus GG, assessing schizophrenia-relevant behavioral, oxidative stress, and molecular endpoints in adult zebrafish.",
+        "da": "A ketamine/methionine exposure paradigm, alone or combined with Lactobacillus rhamnosus GG, assessing schizophrenia-relevant behavioral, oxidative stress, and molecular endpoints in adult zebrafish.",
+        "fi": "A ketamine/methionine exposure paradigm, alone or combined with Lactobacillus rhamnosus GG, assessing schizophrenia-relevant behavioral, oxidative stress, and molecular endpoints in adult zebrafish.",
+        "is": "A ketamine/methionine exposure paradigm, alone or combined with Lactobacillus rhamnosus GG, assessing schizophrenia-relevant behavioral, oxidative stress, and molecular endpoints in adult zebrafish.",
+        "et": "A ketamine/methionine exposure paradigm, alone or combined with Lactobacillus rhamnosus GG, assessing schizophrenia-relevant behavioral, oxidative stress, and molecular endpoints in adult zebrafish.",
+        "lv": "A ketamine/methionine exposure paradigm, alone or combined with Lactobacillus rhamnosus GG, assessing schizophrenia-relevant behavioral, oxidative stress, and molecular endpoints in adult zebrafish.",
+        "lt": "A ketamine/methionine exposure paradigm, alone or combined with Lactobacillus rhamnosus GG, assessing schizophrenia-relevant behavioral, oxidative stress, and molecular endpoints in adult zebrafish."
+      },
+      "notable": false,
+      "notable_reasons": null,
+      "relevance_score": 3,
+      "study_type": "preclinical",
+      "substances": [
+        "ketamine"
+      ],
+      "added_at": "2026-07-24T09:02:17.474070+00:00"
     },
     {
       "title": "Implementation factors shaping British Columbia's drug decriminalization pilot: A systematic review with narrative synthesis.",
@@ -1343,6 +1405,47 @@
       "added_at": "2026-07-05T09:26:35.324757+00:00"
     },
     {
+      "title": "Intranasal esketamine plus oral antidepressant for treatment-resistant depression: acute induction and maintenance relapse-prevention outcomes in a systematic review and meta-analysis.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42490943/",
+      "source": "PubMed",
+      "date": "2026-07-03",
+      "authors": [
+        "Xie Jingqiang",
+        "Pu Chunying",
+        "Sun Mingyue"
+      ],
+      "doi": "10.3389/fpsyt.2026.1774549",
+      "summaries": {
+        "en": "Meta-analysis of six RCTs (1,836 participants) comparing intranasal esketamine plus oral antidepressant versus placebo for treatment-resistant depression. Esketamine showed greater symptom reduction at day 28 (MADRS: -2.99) and faster improvement by day 2. Response and remission rates were significantly higher with esketamine. Maintenance phase data showed sustained benefit with lower relapse risk, though long-term safety requires further investigation.",
+        "sv": "Metaanalys av sex randomiserade studier (1 836 deltagare) som jämförde intranasal esketamin plus oralt antidepressiv medel med placebo vid behandlingsresistent depression. Esketamin visade större symtomreducering vid dag 28 (MADRS: -2,99) och snabbare förbättring redan dag 2. Respons- och remissionshastigheter var signifikant högre med esketamin. Underhållsfasen visade varaktig effekt med lägre återfallsrisk.",
+        "no": "Metaanalyse av seks randomiserte studier (1 836 deltakere) som sammenlignet intranasal esketamin pluss oralt antidepressivum med placebo ved behandlingsresistent depresjon. Esketamin viste større symptomreduksjon ved dag 28 (MADRS: -2,99) og raskere forbedring allerede dag 2. Respons- og remisjonshastigheter var signifikant høyere med esketamin. Vedlikeholdsfasen viste vedvarende effekt med lavere tilbakefallsrisiko.",
+        "da": "Metaanalyse af seks randomiserede studier (1.836 deltagere) der sammenlignede intranasal esketamin plus oralt antidepressivum med placebo ved behandlingsresistent depression. Esketamin viste større symptomreduktion på dag 28 (MADRS: -2,99) og hurtigere forbedring allerede dag 2. Respons- og remissionsrater var signifikant højere med esketamin. Vedligeholdelsesfasen viste vedvarende effekt med lavere recidivrisiko.",
+        "fi": "Kuuden satunnaistetun tutkimuksen metaanalyysi (1 836 osallistujaa), jossa verrattiin intranasaalia esketamiinia plus suullista masennuslääkettä plaseboon hoitoresistenttiin masennukseen. Esketamiini vähensi oireita enemmän 28. päivään mennessä (MADRS: -2,99) ja parannus oli nopeampi jo 2. päivään mennessä. Vastaus- ja remissioprosentit olivat merkitsevästi korkeammat esketamiinin kanssa. Ylläpiitovaiheessa havaittiin kestävä vaikutus ja pienempi uusiutumisriski.",
+        "is": "Samantekt sex handahófa prófana (1.836 þátttakendur) sem bera saman intranasal esketamín ásamt munnlegri þunglyndislyf við lyfleysu við meðferðarþolin þunglyndi. Esketamín sýndi meiri einkennalosun á 28. degi (MADRS: -2,99) og hraðari bætingu þegar á 2. degi. Svörun og bata hlutfall voru marktækt hærri með esketamíni. Viðhaldsfasi sýndi viðvarandi áhrif með minni endurkomustig.",
+        "et": "Kuue randomiseeritud uuringu metaanalüüs (1 836 osalejat), kus võrreldi intranaasaalset esketamiini koos suulise antidepressandiga platseeboga ravi-resistentse depressiooni korral. Esketamiin näitas suurema sümptomite vähendamist 28. päeval (MADRS: -2,99) ja kiirem paranemist juba 2. päeval. Vastuseandmuse ja remissiooni määrad olid esketamiiniga märkimisväärselt kõrgemad. Hooldusperioodis oli näha püsiv toime ja madalam taandumise risk.",
+        "lv": "Sešu randomizētu pētījumu metaanalīze (1 836 dalībnieki), kur salīdzināta intranazāla esketamīna kombinācija ar perorālu antidepresantu ar placebo depresijas gadījumā, kas rezistenta pret ārstēšanu. Esketamīns parādīja lielāku simptomu samazinājumu 28. dienā (MADRS: -2,99) un ātrāku uzlabošanos jau 2. dienā. Atbildes un remisijas rādītāji bija nozīmīgi augstāki ar esketamīnu. Uzturēšanas fāzē tika konstatēts ilgstošs efekts ar zemāku recidīva risku.",
+        "lt": "Šešių randomizuotų tyrimų metaanalizė (1 836 dalyviai), lyginusi intrazvasinį esketaminą kartu su peroraliniu antidepresantu su placebu gydant ligą, atsparia antidepresantams. Esketaminas 28 dieną parodė didesnį simptomų sumažėjimą (MADRS: -2,99) ir greitesnį pagerinimą jau 2 dieną. Atsakomumas ir remisijos rodikliai buvo reikšmingai aukštesni su esketaminu. Palaikymo fazėje pastebėtas išliekantis efektas ir mažesnė relapsų rizika."
+      },
+      "notable": true,
+      "notable_reasons": {
+        "en": "Large meta-analysis synthesizing 6 unique RCTs (n=1,836) with both acute and maintenance phase data on esketamine efficacy and safety in TRD.",
+        "sv": "Stor metaanalys som syntetiserar 6 unika RCTs (n=1,836) med data från både akut och underhållsfas angående esketamins effektivitet och säkerhet vid TRD.",
+        "no": "Stor metaanalyse som syntetiserer 6 unike RCTs (n=1,836) med data fra både akutt og vedlikeholdsfase om esketamin-effektivitet og sikkerhet ved TRD.",
+        "da": "Stor metaanalyse, der syntetiserer 6 unikke RCTs (n=1,836) med data fra både akut og vedligeholdsfase om esketamin-effektivitet og sikkerhed ved TRD.",
+        "fi": "Suuri metaanalyysi, joka syntetisoi 6 ainutlaatuista RCT:ta (n=1,836) sekä akuutin että ylläpitovaiheen tiedoilla esketamiinin tehokkuudesta ja turvallisuudesta TRD:ssa.",
+        "is": "Stór metagreining sem tekur saman 6 einkvæm RCTs (n=1,836) með gögnum úr bæði bráðri og viðhaldsfasa um verkun og öryggi esketamíns við TRD.",
+        "et": "Suur metaanalüüs, mis süntesiseerib 6 unikaalset RCT-t (n=1,836) nii ägedate kui ka hooldussfaasi andmetega esketamiini tõhususe ja ohutuse kohta TRD puhul.",
+        "lv": "Liela metaanalīze, kas sintetizē 6 unikālus RCT (n=1,836) ar akūtas un uzturēšanas fāzes datiem par esketamīna efektivitāti un drošumu TRD gadījumā.",
+        "lt": "Didelė metaanalizė, apimanti 6 unikalias RCT (n=1,836) su ūmios ir palaikomosios fazės duomenimis apie esketamino veiksmingumą ir saugumą TRD atveju."
+      },
+      "relevance_score": 4,
+      "study_type": "review",
+      "substances": [
+        "ketamine"
+      ],
+      "added_at": "2026-07-24T09:02:17.474070+00:00"
+    },
+    {
       "title": "Ketamine alters the aperiodic EEG exponent in major depression: implications for cortical E/I balance and treatment prediction.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42403511/",
       "source": "PubMed",
@@ -1835,90 +1938,6 @@
         "ketamine"
       ],
       "added_at": "2026-07-23T09:05:41.038948+00:00"
-    },
-    {
-      "title": "Psilocybin-assisted therapy in treatment-resistant depression: rapid remission, uncertain durability, and the next phase of clinical evidence.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42433813/",
-      "source": "PubMed",
-      "date": "2026-06-19",
-      "authors": [
-        "Sabani Astrit",
-        "Khatak Adnan"
-      ],
-      "doi": "10.1097/MS9.0000000000005244",
-      "summaries": {
-        "en": "Psilocybin-assisted therapy shows rapid symptom reduction in treatment-resistant depression (TRD), but long-term durability remains unclear. Early randomized trials demonstrate promising short-term remission rates, yet evidence is limited by small sample sizes, short follow-up periods, and inadequate comparison with established TRD treatments like esketamine and electroconvulsive therapy. Key questions about sustained benefit and effects of repeated dosing remain unanswered.",
-        "sv": "Pslocybin-assisterad terapi visar snabb symptomreduktion vid behandlingsresistent depression (TRD), men långsiktig effekt är oklar. Tidiga randomiserade studier visar lovande remissionsgrader på kort sikt, men evidensen är begränsad av små urvalsstorlekar, kort uppföljning och bristande jämförelse med etablerade behandlingar som esketamin och elektrokrampbehandling. Frågor om långvarig effekt och upprepad dosering återstår besvarade.",
-        "no": "Pslocybin-assistert terapi viser rask symptomreduksjon ved behandlingsresistent depresjon (TRD), men langsiktig effekt er usikker. Tidlige randomiserte studier viser lovende remisjonrater på kort sikt, men evidensen er begrenset av små utvalgsstørrelser, kort oppfølgingstid og utilstrekkelig sammenligning med etablerte behandlinger som esketamin og elektrokonvulsiv terapi. Spørsmål om vedvarende effekt og gjentatt dosering gjenstår ubesvart.",
-        "da": "Pslocybin-assisteret terapi viser hurtig symptomreduktion ved behandlingsresistent depression (TRD), men langsigtet effekt er usikker. Tidlige randomiserede studier viser lovende remissionsrater på kort sigt, men evidensen er begrænset af små stikprøvestørrelser, kort opfølgningsperiode og utilstrækkelig sammenligning med etablerede behandlinger som esketamin og elektrokonvulsiv terapi. Spørgsmål om vedvarende effekt og gentagen dosering forbliver ubesvarede.",
-        "fi": "Pslokybiini-avusteinen terapia osoittaa nopeaa oireen lievittymistä hoitoon vastustuskykyisessä masennuksessa (TRD), mutta pitkäaikainen vaikutus on epäselvä. Varhaiset satunnaistetut tutkimukset osoittavat lupaavia remissioita lyhyellä aikavälillä, mutta todisteet ovat rajoitettuja pienillä otoskoilla, lyhyellä seurantajaksolla ja riittämättömillä vertailuilla vakiintuneisiin hoitoihin kuten esketamiiniin ja elektrokonvulsioterapiaan. Kysymykset kestävästä vaikutuksesta ja toistuvasta annoksesta jäävät vastaamatta.",
-        "is": "Psílosýbín-aðstoðarmeðferð sýnir hraðar einkennum á meðferðarónæmri þunglyndi (TRD), en langtímaáhrif eru óviss. Snemmbúin tilraunir með handahófskenndu vali sýna ábatasama endurkoma á stuttum tíma, en sönnunargögn eru takmörkuð með litlum úrtaksstærðum, stuttu eftirfylgni og ófullnægjandi samanburði við staðfesta meðferðir eins og esketamín og rafkrampa. Spurningar um viðvarandi áhrif og endurtekin skammta standa óleyst.",
-        "et": "Psilotsibiini-abistatud teraapia näitab kiireid sümptomite vähendamisi ravi-resistentsel depressionil (TRD), kuid pikaajaline tõhusus jääb ebaselgeks. Varastes juhuslikustatud uuringutes on näidatud lootustandvad remissioonimäärad lühiajaliselt, kuid tõendid on piiratud väikeste valimite, lühikese jälgimisperioodiga ja piisava võrdluseta kehtestatud ravidega nagu esketamiin ja elektrokonvulsiivne teraapia. Küsimused pikaajaliste tulemuste ja korduvate annuste kohta jäävad lahendamata.",
-        "lv": "Psilocibīna-asistenēta terapija parāda ātru simptromu samazināšanos ārstēšanai rezistentas depresijas (TRD) gadījumā, tomēr ilgtermiņa efektivitāte paliek neskaidra. Agrīnie randomizētie pētījumi parāda daudzsološus remisijas rādītājus īstermiņā, bet pierādījumi ir ierobežoti ar maziem izlases lielumiem, īsu uzraudzības periodu un nepietiekamu salīdzinājumu ar etablētām ārstēšanas metodēm, piemēram, esketamīnu un elektrokonvulsīvo terapiju. Jautājumi par ilgstošu efektu un atkārtotu devu paliek neatbildēti.",
-        "lt": "Psilocibino-pagalbinė terapija rodo greitą simptomų sumažėjimą esant atsparioms depresijoms (TRD), tačiau ilgalaikis efektyvumas lieka neaiškus. Ankstyvaisiais atsitiktiniais tyrimais nustatytas žadantis remisijos rodikliai trumpuoju laikotarpiu, tačiau patikimumas apribotas mažomis imtimis, trumpu stebėjimo laikotarpiu ir nepakankamu palyginimą su nustatytais gydymais, tokiais kaip esketaminas ir elektrospazmų terapija. Klausimai apie ilgalaikį efektą ir pakartotą dozavimą lieka neatsako."
-      },
-      "notable": false,
-      "notable_reasons": null,
-      "relevance_score": 4,
-      "study_type": "other",
-      "substances": [
-        "psilocybin"
-      ],
-      "added_at": "2026-07-12T08:37:13.075374+00:00"
-    },
-    {
-      "title": "Development and validation of a short-form (6-item) version of the clinician-administered dissociative states scale (CADSS-SF).",
-      "url": "https://doi.org/10.1080/20008066.2026.2678662",
-      "source": "Europe PMC",
-      "date": "2026-06-15",
-      "summaries": {
-        "en": "Researchers developed and validated a 6-item short form of the Clinician-Administered Dissociative States Scale (CADSS-SF) using data from nitrous oxide studies in 229 healthy volunteers. The brief version showed excellent psychometric properties (single-factor structure, CFI/TLI>0.99, internal consistency ω=0.87) and strong correlation with the full 19-item scale (r≥0.88). This streamlined tool enables repeated assessment of dissociative states while reducing participant burden, particularly valuable in psychedelic research.",
-        "sv": "Forskare utvecklade och validerade en 6-itemsversion av Clinician-Administered Dissociative States Scale (CADSS-SF) baserad på data från distickoxidstudier med 229 friska frivilliga. Den korta versionen uppvisade utmärkta psykometriska egenskaper (enfaktorstruktur, CFI/TLI>0,99, intern konsistens ω=0,87) och stark korrelation med den fullständiga 19-itemskalan (r≥0,88). Det här förenklade instrumentet möjliggör upprepad bedömning av dissociativa tillstånd med minskad belastning på deltagarna, särskilt värdefullt inom psykedelikaforskning.",
-        "no": "Forskere utviklet og validerte en 6-items kortversjon av Clinician-Administered Dissociative States Scale (CADSS-SF) basert på data fra lystgassstudier med 229 friske frivillige. Kortversjonen viste utmerkede psykometriske egenskaper (énfaktorstruktur, CFI/TLI>0,99, intern konsistens ω=0,87) og sterk korrelasjon med fullskalaen (r≥0,88). Dette strømlinjeformede instrumentet muliggjør gjentatt vurdering av dissociative tilstander med redusert belastning på deltakere, særlig verdifullt i psykedelikaforskning.",
-        "da": "Forskere udviklede og validerede en 6-items kortversion af Clinician-Administered Dissociative States Scale (CADSS-SF) baseret på data fra lattergas-studier med 229 raske frivillige. Kortversionen viste fremragende psykometriske egenskaber (énfaktorstruktur, CFI/TLI>0,99, intern konsistens ω=0,87) og stærk korrelation med fuldskalaen (r≥0,88). Dette strømlinjeformede instrument muliggør gentagen vurdering af dissociative tilstande med reduceret belastning på deltagere, særlig værdifuld inden for psykedelika-forskning.",
-        "fi": "Tutkijat kehittivät ja validoivat 6-kohdan lyhytversion Clinician-Administered Dissociative States Scale -asteikosta (CADSS-SF) käyttäen dityppioksiditutkimuksista kerättyä dataa 229 terveeltä vapaaehtoiselta. Lyhytversio osoitti erinomaisia psykometrisia ominaisuuksia (yksifaktorirakenteen, CFI/TLI>0,99, sisäisen johdonmukaisuuden ω=0,87) ja vahvaa korrelaatiota koko asteikkoon (r≥0,88). Tämä virtaviivainen mittari mahdollistaa dissosiatiiivisten tilojen toistuvat arviot pienemmällä osallistujille aiheutuvalla kuormalla, erityisen arvokas psykedeelitutkimuksessa.",
-        "is": "Rannsakendur þróuðu og staðfestust 6 atriða styttri útgáfu af Clinician-Administered Dissociative States Scale (CADSS-SF) með því að nota gögn úr köfnunarefnis-rannsóknum með 229 heilbrigðum sjálfboðaliðum. Styttri útgáfan sýndi framúrskarandi sálgreiningaeiginleika (einfaktor uppbyggingu, CFI/TLI>0,99, innri samkvæmni ω=0,87) og sterka fylgni við heildarskala (r≥0,88). Þetta straumlínulagaði verkfæri gerir ítrekaðar matsetnir á sundurkipru ástandi kleift með minni byrði fyrir þátttakendur, sérstaklega dýrmæt í sálfræðilyfjafræðirannsóknum.",
-        "et": "Teadlased töötasid välja ja valideerisid Clinician-Administered Dissociative States Scale'i (CADSS-SF) 6-punktilise lühiversiooni, kasutades andmeid 229 tervega vabatahtlikuga tehtud lämmastikoksiidi uuringutest. Lühiversioon näitas suurepäraseid psühhomeetrilisi omadusi (ühefaktoriline struktuur, CFI/TLI>0,99, sisemine järjekindlus ω=0,87) ja tugevat korrelatsiooni täisskaalaga (r≥0,88). See lihtsustatud instrument võimaldab dissotsiatiivse seisundi korduvat hindamist, vähendades osalejatele avaldutatavat koormust, eriti väärtuslik psühhedeelikaaluste uurimisel.",
-        "lv": "Pētnieki izstrādāja un validēja 6 punktu īso versiju Clinician-Administered Dissociative States Scale (CADSS-SF), izmantojot datus no slāpekļa oksīda pētījumiem ar 229 veseliem brīvprātīgajiem. Īsā versija parādīja izcilus psihometrijkos parametrus (vienreizinātora struktūra, CFI/TLI>0,99, iekšējā konsekvence ω=0,87) un spēcīgu korelāciju ar pilno skalu (r≥0,88). Šis optimizētais instruments ļauj atkārtoti novērtēt disociatīvos stāvokļus, samazinot dalībnieku slodzi, īpaši vērtīgi psihodeliku pētniecībā.",
-        "lt": "Mokslininkai sukūrė ir validavo 6 punktų sutrumpintą Clinician-Administered Dissociative States Scale versijos (CADSS-SF) versiją, naudodami duomenis iš azoto oksido tyrimų su 229 sveikais savanoriu. Sutrumpinta versija parodė puikias psichometrines savybes (vienas veiksnys, CFI/TLI>0,99, vidinis nuoseklumas ω=0,87) ir stiprią koreliaciją su pilna skale (r≥0,88). Šis supaprastintas instrumentas leidžia pakartotinai vertinti disociatyvias būsenas, sumažinant dalyvių naštą, ypač vertinga psichedelinių medžiagų tyrimuose."
-      },
-      "added_at": "2026-06-30T17:20:39.473842+00:00",
-      "relevance_score": 3,
-      "study_type": "observational",
-      "substances": [
-        "other"
-      ]
-    },
-    {
-      "title": "Acute Hallucinogen Intoxication Following Ingestion of a Commercially Available Mushroom Extract Product: A Case Report.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42445624/",
-      "source": "PubMed",
-      "date": "2026-06-13",
-      "authors": [
-        "Udoro Akemini J",
-        "Yukyi Yadanar",
-        "Ansari Ali Z"
-      ],
-      "doi": "10.7759/cureus.110791",
-      "summaries": {
-        "en": "Case report of an 18-year-old female presenting to emergency care with acute hallucinogenic intoxication after consuming a commercially available mushroom extract product. Clinical presentation included severe anxiety, agitation, visual and auditory hallucinations, paranoid ideation, and autonomic symptoms. Examination revealed tachycardia, tachypnea, dilated pupils, and psychomotor agitation. Diagnostic workup excluded co-ingestion and end-organ damage. The case highlights regulatory gaps in mushroom product labeling and potential psilocybin contamination in retail supplements.",
-        "sv": "Fallrapport av en 18-årig kvinna som sökte akutvård efter akut hallucingén intoxikation från en kommersiell svamputdragsprodukt. Klinisk presentation inkluderade allvarlig ångest, agitation, visuella och auditiva hallucinationer, paranoid ideation och autonoma symtom. Undersökning visade takykardi, takypné, dilaterade pupiller och psykomotorisk agitation. Diagnostisk utredning uteslöt samtrankning och organskadat. Fallet illustrerar regulatoriska luckor i märkning av svampprodukter och potentiell psilo­cybin­kontaminering i handelsswalmplementer.",
-        "no": "Kasuistikk av en 18 år gammel kvinne som presenterte seg for akuttmedisin med akutt hallusinogentoksikose etter inntak av et kommersielt tilgjengelig soppekstraktprodukt. Klinisk presentasjon inkluderte alvorlig angst, agitasjon, visuelle og auditive hallusinasjoner, paranoid ideation og autonome symptomer. Undersøkelse viste takykardi, takypnø, dilataerte pupiller og psykomotorisk agitasjon. Diagnostisk utredning ekskluderte saminntak og organdysfunksjon. Saken illustrerer regulatoriske gap i merking av soppprodukter og potensielle psilocybin-forurensninger i detaljhandelstilskudd.",
-        "da": "Kasusbeskrivelse af en 18-årig kvinde, der præsenterede sig for akutmedicin med akut hallucingentoksikose efter indtagelse af et kommercielt svampeekstraktprodukt. Klinisk præsentation omfattede alvorlig angst, agitation, visuelle og auditive hallucinationer, paranoid ideation og autonome symptomer. Undersøgelse viste takykardi, takypnø, dilaterede pupiller og psykomotorisk agitation. Diagnostisk vurdering udelukkede samindtagelse og organskade. Sagen fremhæver regulatoriske mangler i mærkning af svampeprodukter og potentiel psilocybin-kontaminering i detailhandelstilskud.",
-        "fi": "Tapausraportti 18-vuotiaasta naisesta, joka sai akuutin hallusinogeenimyrkytyksen kaupallisesta sieniuute-tuotteesta. Kliininen esitys sisälsi vakavaa ahdistusta, levoton käyttäytymistä, visuaalisia ja auditiivisia hallusinaatioita, harhaisia ajatuksia ja autonomisia oireita. Tutkimuksessa todettiin takykardia, takyp­nea, laajentunut silmäterä ja psykomotorinen levottomuus. Diagnostinen arviointi sulki pois samanaikaisen käytön ja elimensä vauriot. Tapaus korostaa sääntelyvajeita sienituotteiden merkinnässä ja mahdollista psilo­sybiinin saastumista vähittäiskaupan ravintolisien sekaan.",
-        "is": "Tilfelliskýrsla um 18 ára gamla konu sem kom til bráðavisita með bráða hallúsinógena eiturkotu eftir neyslu á verslunarlegri sveppi­útdreifsvöru. Klínísk birtingarmynd var með alvarlegri kvíða, óeirðum, sjónrænum og heyrnarlaufum hallflutningunum, fantalegum hugmyndum og sjálfvirku einkennum. Kannan leiddi í ljós takykardi, takypnea, þykkari stjörnur og sáldriffleg óeirðir. Greiningarvinna útilokkaði samneyslu og skemmdir á heilum. Málið ber með sér reglusetningu­galla í merkingu sveppavara og hugsanlega psíló­síbín­mengum í smásöluauka.",
-        "et": "Juhtumiaruanne 18-aastasest naisest, kes pöördus erakorralise meditsiini poole akuutse hallutsinogeense mürgistuse tõttu pärast kaubanduslikust seenepileti produktist tarbimist. Kliiniline esitus hõlmas rasket rahutust, erutust, visuaalseid ja kuuldavaid hallutsinatsioone, paranoidset ideatsiooni ja autonoomseid sümptomeid. Uuringul avastati tahhükardi, tahhüpnoe, laienenud õpilased ja psühhomotoorsed häired. Diagnostiline hindamine välistasid kaasneymise ja organkahjustused. Juhtum rõhutab seenetoote märgistamise regulatiivset lünka ja võimalikku psilo­tsübiini saastumist jaemüügi täiendustes.",
-        "lv": "Gadījuma pārskats par 18 gadus vecu sievieti, kura vērsās akūtajā medicīnā ar akūtu hallucīnogēnu indīgošanu pēc komercializēta sēņu ekstrakta produkta uzņemšanas. Klīniskā prezentācija ietver smagus trauksmes simptomus, neierēmību, vizuālās un dzirdamās halucinājas, paranoidālas idejas un autonomos simptomus. Izmeklējumā atklājies taḫikardija, taḫipneja, paplašināti zīlītes un psihomotora neierēmība. Diagnostiskā novērtējuma rezultāti izslēdza līdzassociāciju un orgānu bojājumus. Gadījums norāda uz normatīvajiem trūkumiem sēņu produktu marķējumā un iespējamu psilotsibīna piesārņojumu mazumtirdzniecības piedevās.",
-        "lt": "Atvejo aprašymas apie 18 metų merginą, kuri skubiai kreipėsi į medicinos pagalbą po ūkio halucingeno nuodijimo vartojant komercinį grybų ekstrakto produktą. Klinikiniai požymiai apėmė sunkią nervinę įtampą, sumaištį, vaizdinius ir garso haliu­cinacijas, paranoidines idėjas ir autonominius simptomus. Tyrinėjime nustatyti tachikar­dija, tachiplauzimais, išsiplėtę mokiniai ir psichomotoriniai sumaištymai. Diagnosti­nis vertinimas nepatvirtino vienu metu vartojimo ar organų žalos. Atvejis pa­brėžia norminių spragas grybų produktų žymėjime ir galimą psilo­cibino taršą smulkmeninėse priedose."
-      },
-      "notable": false,
-      "notable_reasons": null,
-      "relevance_score": 3,
-      "study_type": "case_report",
-      "substances": [
-        "psilocybin"
-      ],
-      "added_at": "2026-07-15T08:41:08.496159+00:00"
     }
   ]
 }

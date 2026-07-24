@@ -1,6 +1,66 @@
 {
   "items": [
     {
+      "title": "Rapid clinical and EEG microstate changes 24 h after intranasal esketamine in major depressive disorder with suicidal ideation: a prospective paired study.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42492692/",
+      "source": "PubMed",
+      "date": "2026-07-23",
+      "authors": [
+        "Gu Tingting",
+        "Zhang Jie",
+        "Wang Ruizhi"
+      ],
+      "doi": "10.1016/j.jad.2026.122307",
+      "summary_en": "A prospective study of 31 hospitalized patients with major depression and suicidal ideation received intranasal esketamine alongside standard care. Clinical assessment and resting-state EEG were performed before treatment and 24 hours later. Depression scores improved significantly (HAMD-17: 25.3→20.6, n=22), while power spectral density remained unchanged. Microstate analysis revealed early alterations in microstate D occurrence and transition patterns, suggesting EEG microstates may be sensitive markers of rapid response to esketamine.",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "observational",
+      "substances": [
+        "ketamine"
+      ],
+      "added_at": "2026-07-24T09:02:17.474070+00:00"
+    },
+    {
+      "title": "Intranasal esketamine plus oral antidepressant for treatment-resistant depression: acute induction and maintenance relapse-prevention outcomes in a systematic review and meta-analysis.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42490943/",
+      "source": "PubMed",
+      "date": "2026-07-03",
+      "authors": [
+        "Xie Jingqiang",
+        "Pu Chunying",
+        "Sun Mingyue"
+      ],
+      "doi": "10.3389/fpsyt.2026.1774549",
+      "summary_en": "Meta-analysis of six RCTs (1,836 participants) comparing intranasal esketamine plus oral antidepressant versus placebo for treatment-resistant depression. Esketamine showed greater symptom reduction at day 28 (MADRS: -2.99) and faster improvement by day 2. Response and remission rates were significantly higher with esketamine. Maintenance phase data showed sustained benefit with lower relapse risk, though long-term safety requires further investigation.",
+      "notable": true,
+      "notable_reason": "Large meta-analysis synthesizing 6 unique RCTs (n=1,836) with both acute and maintenance phase data on esketamine efficacy and safety in TRD.",
+      "study_type": "review",
+      "substances": [
+        "ketamine"
+      ],
+      "added_at": "2026-07-24T09:02:17.474070+00:00"
+    },
+    {
+      "title": "A ketamine/methionine exposure paradigm, alone or combined with Lactobacillus rhamnosus GG, assessing schizophrenia-relevant behavioral, oxidative stress, and molecular endpoints in adult zebrafish.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42492681/",
+      "source": "PubMed",
+      "date": "2026-07-23",
+      "authors": [
+        "Nita Ilinca-Bianca",
+        "Ilie Ovidiu-Dumitru",
+        "Jijie Roxana"
+      ],
+      "doi": "10.1016/j.cbpc.2026.110635",
+      "summary_en": "A ketamine/methionine exposure paradigm, alone or combined with Lactobacillus rhamnosus GG, assessing schizophrenia-relevant behavioral, oxidative stress, and molecular endpoints in adult zebrafish.",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "preclinical",
+      "substances": [
+        "ketamine"
+      ],
+      "added_at": "2026-07-24T09:02:17.474070+00:00"
+    },
+    {
       "title": "Implementation factors shaping British Columbia's drug decriminalization pilot: A systematic review with narrative synthesis.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42480418/",
       "source": "PubMed",

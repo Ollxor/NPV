@@ -1,6 +1,127 @@
 {
   "items": [
     {
+      "title": "Time-dependent effects of rapid-acting antidepressants in iPSC-derived neurons from treatment-resistant depression and healthy volunteers.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42498781/",
+      "source": "PubMed",
+      "date": "2026-07-24",
+      "authors": [
+        "Johnston Jenessa N",
+        "Jones Gregory H",
+        "Peng Shiyong"
+      ],
+      "doi": "10.1038/s41380-026-03768-0",
+      "summary_en": "iPSC-derived neurons from treatment-resistant depression patients and healthy controls were exposed to rapid-acting antidepressants including ketamine metabolite HNK, psilocybin, LSD, and DOI for 6-24 hours. RNA sequencing revealed that despite different mechanisms, all compounds converged on inflammation, mTORC1, and growth pathways. HNK showed distinct cell-type-specific effects in excitatory neurons, with results validated against ketamine-treated cerebrospinal fluid proteomics.",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "preclinical",
+      "substances": [
+        "ketamine",
+        "psilocybin",
+        "lsd",
+        "other"
+      ],
+      "added_at": "2026-07-25T08:28:26.778663+00:00"
+    },
+    {
+      "title": "MDMA as an early post-trauma intervention in a translational animal model of PTSD.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42498117/",
+      "source": "PubMed",
+      "date": "2026-07-24",
+      "authors": [
+        "Baruch Omer",
+        "Reiss Nadav",
+        "Todder Doron"
+      ],
+      "doi": "10.1016/j.pnpbp.2026.111853",
+      "summary_en": "Controlled study in 175 rats examined MDMA's preventive potential for PTSD following predator scent stress. The 10 mg/kg dose, administered 30 minutes or 24 hours post-trauma, significantly reduced anxiety-like behavior, startle response, and contextual freezing. Effects correlated with increased corticosterone, hippocampal glucocorticoid receptor expression, and serotonergic markers. Lower doses and delayed administration without trauma-cue pairing were ineffective.",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "preclinical",
+      "substances": [
+        "mdma"
+      ],
+      "added_at": "2026-07-25T08:28:26.778663+00:00"
+    },
+    {
+      "title": "Targeting TLR4/PPARα-mediated neuroinflammation in the prefrontal cortex: S-ketamine and S-HNK rapidly alleviate depression-like behaviors.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42497468/",
+      "source": "PubMed",
+      "date": "2026-07-21",
+      "authors": [
+        "Zhu Quanfeng",
+        "Zhou Xiaoyue",
+        "Gao Huangling"
+      ],
+      "doi": "10.1016/j.jneuroim.2026.579038",
+      "summary_en": "Mouse study investigating S-ketamine and S-HNK mechanisms in depression. Chronic social stress induced depression-like behaviors and neuroinflammation in the prefrontal cortex. Both compounds rapidly reversed behavioral deficits, restored neurotransmitter levels (dopamine, serotonin, norepinephrine), and reduced pro-inflammatory cytokines by modulating TLR4/PPARα signaling.",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "preclinical",
+      "substances": [
+        "ketamine"
+      ],
+      "added_at": "2026-07-25T08:28:26.778663+00:00"
+    },
+    {
+      "title": "Social hierarchy shapes behavioral and transcriptional responses to chronic stress and ketamine in male mice.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42495548/",
+      "source": "PubMed",
+      "date": "2026-07-21",
+      "authors": [
+        "Gasperoni Serena",
+        "Ji Xiuqi",
+        "Sudre-Chinsky Choham"
+      ],
+      "doi": "10.1016/j.isci.2026.116825",
+      "summary_en": "Study in group-housed male mice using continuous behavioral tracking found that social hierarchy shapes stress responses. Dominant mice showed greater behavioral disruption under chronic stress, including fragmented rest and impaired social interactions. Single ketamine dose reversed these effects. mRNA sequencing identified 141 differentially expressed genes in the prefrontal cortex of treated dominant mice, suggesting hierarchy-dependent transcriptional mechanisms.",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "preclinical",
+      "substances": [
+        "ketamine"
+      ],
+      "added_at": "2026-07-25T08:28:26.778663+00:00"
+    },
+    {
+      "title": "Real-world outcomes of intranasal esketamine and intravenous ketamine induction therapy for treatment-resistant depression in a community clinic: a retrospective cohort study.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42494735/",
+      "source": "PubMed",
+      "date": "2026-07-09",
+      "authors": [
+        "Bellanti Patrice A",
+        "Lewis Jordan",
+        "Seifferth Brian"
+      ],
+      "doi": "10.3389/fpsyt.2026.1867963",
+      "summary_en": "Retrospective cohort study (n=63) comparing intranasal esketamine (n=37) and IV ketamine (n=26) for treatment-resistant depression in a community clinic. Both groups showed similar baseline depression severity (PHQ-9 ~18) and comparable outcomes: mean PHQ-9 reduction ~10 points, response rates 65-69%, remission 23-32%, and clinically meaningful improvement 73-84%. Induction completion exceeded 90%. No significant differences between treatments.",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "observational",
+      "substances": [
+        "ketamine"
+      ],
+      "added_at": "2026-07-25T08:28:26.778663+00:00"
+    },
+    {
+      "title": "Treating addiction with an addictive drug: the ketamine paradox revisited.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42494734/",
+      "source": "PubMed",
+      "date": "2026-07-09",
+      "authors": [
+        "Hakami Alqassem Y"
+      ],
+      "doi": "10.3389/fpsyt.2026.1866092",
+      "summary_en": "A structured narrative review examined ketamine's potential for treating substance use disorders and treatment-resistant depression. Phase 2 trials show ketamine combined with psychotherapy reduces cravings and increases abstinence in alcohol and cocaine use disorders, but findings vary due to inconsistent dosing and follow-up protocols. While ketamine's glutamatergic mechanisms enable rapid neuroplasticity, concerns about abuse liability remain, requiring careful risk-benefit evaluation.",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "review",
+      "substances": [
+        "ketamine"
+      ],
+      "added_at": "2026-07-25T08:28:26.778663+00:00"
+    },
+    {
       "title": "Rapid clinical and EEG microstate changes 24 h after intranasal esketamine in major depressive disorder with suicidal ideation: a prospective paired study.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42492692/",
       "source": "PubMed",

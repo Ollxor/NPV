@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-24T09:03:37.053097+00:00",
+  "generated_at": "2026-07-25T08:30:20.394564+00:00",
   "items": [
     {
       "title": "Blinding integrity in psychedelic research: Evidence from a comparative randomized controlled trial of psilocybin, MDMA, and methylphenidate in healthy volunteers",
@@ -32,6 +32,71 @@
         "mdma"
       ],
       "added_at": "2026-07-09T10:03:12.956794+00:00"
+    },
+    {
+      "title": "Time-dependent effects of rapid-acting antidepressants in iPSC-derived neurons from treatment-resistant depression and healthy volunteers.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42498781/",
+      "source": "PubMed",
+      "date": "2026-07-24",
+      "authors": [
+        "Johnston Jenessa N",
+        "Jones Gregory H",
+        "Peng Shiyong"
+      ],
+      "doi": "10.1038/s41380-026-03768-0",
+      "summaries": {
+        "en": "iPSC-derived neurons from treatment-resistant depression patients and healthy controls were exposed to rapid-acting antidepressants including ketamine metabolite HNK, psilocybin, LSD, and DOI for 6-24 hours. RNA sequencing revealed that despite different mechanisms, all compounds converged on inflammation, mTORC1, and growth pathways. HNK showed distinct cell-type-specific effects in excitatory neurons, with results validated against ketamine-treated cerebrospinal fluid proteomics.",
+        "sv": "Neuroner från iPSC-differentiering av patienter med behandlingsresistent depression och friska frivilliga exponerades för snabbverkande antidepressiva inklusive ketaminmetaboliten HNK, psilocybin, LSD och DOI under 6-24 timmar. RNA-sekvensering visade att alla substanser konvergerade på inflammations-, mTORC1- och tillväxtvägar trots olika mekanismer. HNK visade särskilda celltypsspecifika effekter i excitatoriska neuroner, validerat mot ketaminbehandlad cerebrospinalvätskebiomarkör.",
+        "no": "Nerveceller fra iPSC-differensiering av pasienter med behandlingsresistent depresjon og friske frivillige ble eksponert for hurtigtvirkende antidepressiva inkludert ketaminmetabolitter HNK, psilocybin, LSD og DOI i 6-24 timer. RNA-sekvensering avslørte at alle substanser konvergerte på inflammasjons-, mTORC1- og vekstveier til tross for ulike mekanismer. HNK viste distinkte celletypespesifikke effekter i eksitatoriske neuroner, validert mot ketaminbehandlet cerebrospinalvæske.",
+        "da": "Nerveceller fra iPSC-differentiering af patienter med behandlingsresistent depression og raske frivillige blev eksponeret for hurtigt virkende antidepressiva herunder ketaminmetabolit HNK, psilocybin, LSD og DOI i 6-24 timer. RNA-sekvensering viste, at alle stoffer konvergerede på inflammations-, mTORC1- og vækstveje trods forskellige mekanismer. HNK viste distinkte celletypspecifikke effekter i eksitatoriske neuroner, valideret mod ketaminbehandlet cerebrospinalvæske.",
+        "fi": "iPSC-erilaistuneet neuronit hoitoon vastustavaisesta masennuksesta sairaiden ja terveiden vapaaehtoisten näytteistä altistettiin nopeasti vaikuttaville masennuslääkkeille, mukaan lukien ketamiinin metaboliitti HNK, psilosybiini, LSD ja DOI 6-24 tunniksi. RNA-sekvenssointi paljasti, että kaikki yhdisteet konvergoituvat tulehdusten, mTORC1- ja kasvupolkuihin huolimatta eri mekanismeista. HNK osoitti erillisiä solutyyppispesifisiä vaikutuksia eksitatorisissa neuroneissa.",
+        "is": "iPSC-aðgreind taugafrumur frá sjúklingum með meðferðarfælnu þunglyndi og heilbrigðum sjálfboðaliðum voru fyrir áhrifum hraðvirka þunglyndislyfja þar með talið ketamín-stoðefni HNK, psílósýbín, LSD og DOI í 6-24 klst. RNA-röðun leiddi í ljós að öll efni snerust að bólguflokk, mTORC1- og vöxtsleiðum þrátt fyrir mismunandi aðferðir. HNK sýndi sérkennilega frumutegund-sértæka áhrif í glutamatergjum taugum.",
+        "et": "iPSC-diferentseeritud neuronid ravi-resistentse depressiooni patsientidelt ja tervetest vabatahtlikelt allutati kiiresti toimivatele depressiooniravimitele, sealhulgas ketamiini metaboliit HNK, psilotsiibiin, LSD ja DOI 6-24 tunni jooksul. RNA-järjestamine näitas, et kõik ühendid koondusid põletiku, mTORC1 ja kasvu radadele vaatamata erinevatele mehhanismidele. HNK näitas eristavaid rakutüübi-spetsiifilisi mõjusid glutamaatergilistes neuroonides.",
+        "lv": "iPSC-diferencēti neiroни no pacientiem ar rezistentu depresiju un veseliem brīvprātīgajiem tika pakļauti ātri darbojošiem antidepresantiem, tostarp ketamīna metabolītu HNK, psilociīnu, LSD un DOI 6-24 stundas. RNS sekvencēšana parādīja, ka visi savienojumi sablīvējās uz iekaisuma, mTORC1 un augšanas ceļiem, neskatoties uz dažādiem mehānismiem. HNK parādīja atšķirīgus šūnu tipa specifiskus efektus glutamaterģiskajos neirolos.",
+        "lt": "iPSC-diferencijuoti neuronai iš gydymui atsparios depresijos pacientų ir sveikų savanorių buvo veikiami greitai veikiančiais antidepresantais, įskaitant ketamino metabolitą HNK, psilocibą, LSD ir DOI 6-24 valandas. RNR sekoskaita atskleidė, kad visi junginiai suartėjo dėl uždegimo, mTORC1 ir augimo kelyje nepaisant skirtingų mechanizmų. HNK parodė skirtingus ląstelių tipo specifininius efektus glutamaterginėse neurolose."
+      },
+      "notable": false,
+      "notable_reasons": null,
+      "relevance_score": 4,
+      "study_type": "preclinical",
+      "substances": [
+        "ketamine",
+        "psilocybin",
+        "lsd",
+        "other"
+      ],
+      "added_at": "2026-07-25T08:28:26.778663+00:00"
+    },
+    {
+      "title": "MDMA as an early post-trauma intervention in a translational animal model of PTSD.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42498117/",
+      "source": "PubMed",
+      "date": "2026-07-24",
+      "authors": [
+        "Baruch Omer",
+        "Reiss Nadav",
+        "Todder Doron"
+      ],
+      "doi": "10.1016/j.pnpbp.2026.111853",
+      "summaries": {
+        "en": "Controlled study in 175 rats examined MDMA's preventive potential for PTSD following predator scent stress. The 10 mg/kg dose, administered 30 minutes or 24 hours post-trauma, significantly reduced anxiety-like behavior, startle response, and contextual freezing. Effects correlated with increased corticosterone, hippocampal glucocorticoid receptor expression, and serotonergic markers. Lower doses and delayed administration without trauma-cue pairing were ineffective.",
+        "sv": "Kontrollerad studie på 175 råttor undersökte MDMA:s förebyggande potential för PTSD efter predatörstressexponering. Dosen 10 mg/kg, administrerad 30 minuter eller 24 timmar efter trauma, minskade signifikant ångestbeteende, skräckreaktion och kontextuell frysning. Effekterna korrelerade med ökad kortikosteron och hippocampal glukokortikoidreceptor-uttryck samt serotonerga markörer.",
+        "no": "Kontrollert studie på 175 rotter undersøkte MDMAs forebyggende potensial for PTSD etter predator-stresseksponering. Dosen 10 mg/kg, gitt 30 minutter eller 24 timer etter traume, reduserte signifikant angstlig atferd, stressrespons og kontekstuell frysing. Effektene korrelerte med økt kortikosteron og hippocampal glukokortikoidreseptor-uttrykk samt serotonerge markører.",
+        "da": "Kontrolleret studie på 175 rotter undersøgte MDMA's forebyggende potentiale for PTSD efter rovdyr-stresseksponering. Dosen 10 mg/kg, givet 30 minutter eller 24 timer efter traume, reducerede signifikant angstlig adfærd, skrækreaktioner og kontekstuel frysning. Effekterne korrelerede med øget kortikosteron og hippocampal glukokortikoidsreceptor-udtryk samt serotonerge markører.",
+        "fi": "Kontrolloidussa tutkimuksessa 175 rotalla tutkittiin MDMA:n PTSD:n ehkäisypotentiaalia petoeläimen stressikokemuksen jälkeen. 10 mg/kg annos, annettu 30 minuutin tai 24 tunnin kuluttua traumasta, vähensi merkitsevästi ahdistunutta käyttäytymistä, pelkoreaktioita ja kontekstaalista jähmettymistä. Vaikutukset korreloivat lisääntyneen kortikosteronin ja hipokampuksen glukokortikoidireseptoreiden ilmentymisen kanssa.",
+        "is": "Stjórnað rannsókn á 175 rotum kannaði fyrirbyggjandi möguleika MDMA fyrir PTSD eftir hættu-streitu. 10 mg/kg skammtinn, gefinn 30 mínútum eða 24 klst eftir áfalli, minnkaði marktækt kvíða-umfram atferli, hræðslusvörun og samhengis frjósingu. Áhrifin fylgdust með auknum kortikósteróni og hipókampa glúkókortikóíð-viðtaka tjáningu ásamt serótónínskum merkjum.",
+        "et": "Kontrollitud uuringus 175 rotiga uuriti MDMA-d PTSD-i ennetamisel pärast röövallika stressi. 10 mg/kg doos, manustatud 30 minutit või 24 tundi pärast traumat, vähendas märkimisväärselt ärevuslikku käitumist, hirmu reaktsiooni ja kontekstaalset külmumist. Efektid korreleerusid suurenenud kortikosteroonil ja hipokampuse glükokortikoidi retseptori avaldumisega ning serotonoonsete markeritega.",
+        "lv": "Kontrolēts pētījums ar 175 žurkām pārbaudīja MDMA preventīvo potenciālu PTSD gadījumā pēc predatora stresa. 10 mg/kg deva, ievadīta 30 minūtes vai 24 stundas pēc traumas, būtiski samazināja trauksmes uzvedību, baiļu reakciju un konteksta sasalšanu. Efekti korelēja ar paaugstinātu kortikosteronu un hipokampa glikokortikosterīdu receptoru ekspresiju kā arī serotonīna marķieriem.",
+        "lt": "Kontroliuotame tyrime su 175 žiurkėmis buvo tirtas MDMA prevencinis potencialas PTSD atsiradimui sumažinti po grobuonies streso. 10 mg/kg dozė, skirta per 30 minučių arba 24 valandas po traumos, žymiai sumažino nerimą, baimės reakciją ir kontekstualų sustatymą. Efektai koreliavo su padidėjusiu kortikosteronu ir hipokampo gliukokortikoido receptoriaus ekspresija bei serotonininiais žymenimis."
+      },
+      "notable": false,
+      "notable_reasons": null,
+      "relevance_score": 4,
+      "study_type": "preclinical",
+      "substances": [
+        "mdma"
+      ],
+      "added_at": "2026-07-25T08:28:26.778663+00:00"
     },
     {
       "title": "Rapid clinical and EEG microstate changes 24 h after intranasal esketamine in major depressive disorder with suicidal ideation: a prospective paired study.",
@@ -94,6 +159,68 @@
         "ketamine"
       ],
       "added_at": "2026-07-24T09:02:17.474070+00:00"
+    },
+    {
+      "title": "Targeting TLR4/PPARα-mediated neuroinflammation in the prefrontal cortex: S-ketamine and S-HNK rapidly alleviate depression-like behaviors.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42497468/",
+      "source": "PubMed",
+      "date": "2026-07-21",
+      "authors": [
+        "Zhu Quanfeng",
+        "Zhou Xiaoyue",
+        "Gao Huangling"
+      ],
+      "doi": "10.1016/j.jneuroim.2026.579038",
+      "summaries": {
+        "en": "Mouse study investigating S-ketamine and S-HNK mechanisms in depression. Chronic social stress induced depression-like behaviors and neuroinflammation in the prefrontal cortex. Both compounds rapidly reversed behavioral deficits, restored neurotransmitter levels (dopamine, serotonin, norepinephrine), and reduced pro-inflammatory cytokines by modulating TLR4/PPARα signaling.",
+        "sv": "Mösstudies undersökte S-ketamin och S-HNK:s mekanismer vid depression. Kronisk social stress inducerade depressionsliknande beteenden och neuroinflammation i prefrontala cortex. Båda substanserna återställde snabbt beteendestörningar, neurotransmitternivåer och minskade pro-inflammatoriska cytokiner genom modulering av TLR4/PPARα-signalering.",
+        "no": "Musestudien undersøkte S-ketamin og S-HNK-mekanismer ved depresjon. Kronisk sosial stress induserte depresjonslignende atferd og nevroinflammation i prefrontal cortex. Begge stoffene reverserte raskt atferdsforstyrrelser, gjenopprettet nevrotransmitternivåer og reduserte pro-inflammatoriske cytokiner via TLR4/PPARα-signalering.",
+        "da": "Musestudie undersøgte S-ketamin og S-HNK-mekanismer ved depression. Kronisk social stress fremkaldte depressionslignende adfærd og neuroinflamation i præfrontal cortex. Begge stoffer vendte hurtigt adfærdsforstyrrelser, gjenoprettede neurotransmitterniveauer og reducerede pro-inflammatoriske cytokiner via TLR4/PPARα-signalering.",
+        "fi": "Hiiritutkimus S-ketamiinin ja S-HNK:n mekanismeista masennuksessa. Krooninen sosiaalinen stressi aiheutti masennuksenomaiset käyttäytymisen muutokset ja neuroinflammaation prefrontaalisessa korteksissa. Molemmat aineet kääntyivät nopeasti käyttäytymishäiriöt, ennallistivat neurotransmitteritasot ja vähentyivät pro-inflammatorisia sytokkiinejä TLR4/PPARα-signaloinnin kautta.",
+        "is": "Músrannsókn sem skoðaði S-ketamín og S-HNK aðferðir við þunglyndi. Langvarandi félagslegur streiti olli þunglyndislegri hegðun og taugabólgu í forhluta heilans. Báðir efnir snéru hraðlega við hegðunartruflunum, endurkváðu taugaboðefnum og minnkuðu bólguæðandi sítókína með TLR4/PPARα-merki.",
+        "et": "Hiiretest uuriti S-ketamiini ja S-HNK mehhanisme depressioonis. Krooniline sotsiaalne stress põhjustas depressioonivõimalikku käitumist ja neuroinflamatsiooni eesajus ajukoores. Mõlemad ained pöördsid kiiresti käitumishäired, taastasin neurotransmitterite tasemed ja vähendasid pro-põletikkulisi tsütokiine TLR4/PPARα signaalimise kaudu.",
+        "lv": "Pelēm veikts pētījums par S-ketamīna un S-HNK mehānismiem depresijā. Hronisks sociālais stress izraisīja depresijas līdzīgu uzvedību un neiroinflammāciju prefrontālajā garozā. Abi savienojumi ātri apgriezēja uzvedības traucējumus, atjaunoja neirotransmiteru līmeņus un samazināja pro-iekaisuma citokīnus, modulējot TLR4/PPARα signalizāciju.",
+        "lt": "Pelių tyrimas, kuriame buvo tiriami S-ketamino ir S-HNK mechanizmai depresijoje. Chroniški socialinis stresas sukėlė depresijai panašų elgesį ir neuroinflamaciją priekinėje smegenyje. Abu junginiai greitai atstatė elgesio sutrikus, atkūrė neurotransmiterių lygius ir sumažino pro-uždegiminius citokinius per TLR4/PPARα signalizavimą."
+      },
+      "notable": false,
+      "notable_reasons": null,
+      "relevance_score": 4,
+      "study_type": "preclinical",
+      "substances": [
+        "ketamine"
+      ],
+      "added_at": "2026-07-25T08:28:26.778663+00:00"
+    },
+    {
+      "title": "Social hierarchy shapes behavioral and transcriptional responses to chronic stress and ketamine in male mice.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42495548/",
+      "source": "PubMed",
+      "date": "2026-07-21",
+      "authors": [
+        "Gasperoni Serena",
+        "Ji Xiuqi",
+        "Sudre-Chinsky Choham"
+      ],
+      "doi": "10.1016/j.isci.2026.116825",
+      "summaries": {
+        "en": "Study in group-housed male mice using continuous behavioral tracking found that social hierarchy shapes stress responses. Dominant mice showed greater behavioral disruption under chronic stress, including fragmented rest and impaired social interactions. Single ketamine dose reversed these effects. mRNA sequencing identified 141 differentially expressed genes in the prefrontal cortex of treated dominant mice, suggesting hierarchy-dependent transcriptional mechanisms.",
+        "sv": "Studie på grupperade hanmöss med kontinuerlig beteendespårning visade att social hierarki formar stressresponser. Dominanta möss uppvisade större beteendestörning under kronisk stress, inklusive fragmenterad vila och försämrad social interaktion. En enda ketamindos reverserade dessa effekter. mRNA-sekvensering identifierade 141 olika uttryckta gener i prefrontala cortex hos behandlade dominanta möss.",
+        "no": "Studie i grupperte hannmus med kontinuerlig atferdssporing viste at sosial hierarki former stressresponser. Dominante mus viste større atferdsforstyrrelser under kronisk stress, inkludert fragmentert hvile og svekket sosial interaksjon. En enkelt ketamindose reverserte disse effektene. mRNA-sekvensering identifiserte 141 differensielt uttrykte gener i prefrontalkorteks hos behandlede dominante mus.",
+        "da": "Studie i gruppeboende hanmus med kontinuerlig adfærdssporing viste, at social hierarki former stressresponser. Dominante mus viste større adfærdsforstyrrelser under kronisk stress, herunder fragmenteret hvile og svækket social interaktion. En enkelt ketamindosis vendte disse effekter. mRNA-sekvensering identificerede 141 differensialt udtrykte gener i præfrontal cortex hos behandlede dominante mus.",
+        "fi": "Ryhmäasumisissa hiirissä tehdyssä tutkimuksella, jossa käytettiin jatkuvaa käyttäytymisen seurantaa, havaittiin, että sosiaalinen hierarkia muokkaa stressivasteita. Hallitsevat hiiren näyttivät suurempaa käyttäytymisen häiriintymistä kroonisen stressin alaisena, mukaan lukien fragmentoitunut lepo ja heikentynyt sosiaalinen vuorovaikutus. Yksittäinen ketamiiniannos käänsi nämä vaikutukset. mRNA-sekvenssi tunnisti 141 erilailla ilmentynyttä geeniä prefrontaalisessa kuoressa hoidetuissa hallitsevissa hiirissä.",
+        "is": "Rannsókn á hópum af karlkynum músum með stöðugri virkni rakningum sýndi að félagsleg stigveldi mótar stressvörun. Ríkjandi músar sýndu meiri hegðunartruflanir við langvarandi stress, þar með talið brotin hvíld og veikt félagslegt samspil. Ein skammta af ketamíni sneri við þessum áhrifum. mRNA röðun benti á 141 mismunandi tjáð gena í forhlið heilahörkum meðhöndlaðra ríkjandi músa.",
+        "et": "Uuringus rühmitatud isastes hiirtedes pideva käitumise jälgimisega leiti, et sotsiaalne hierarhia kujundab stressi reaktsioone. Dominantsed hiired näitasid suuremaid käitumishäireid kroonilise stressi ajal, sealhulgas killustunud puhkus ja nõrgenenud sotsiaalset suhtlust. Ühekordne ketamiini annus pöördis need efektid tagasi. mRNA sekventseerimisega tuvastati 141 erinevalt ekspresseeritud geeni prefrontaalses kooris ravitud dominantsetes hiirtes.",
+        "lv": "Pētījums grupveida dzīvojošos peles ar nepārtrauktu uzvedības izsekošanu konstatēja, ka sociālā hierarhija veido stresa atbildes. Dominējošās peles uzrādīja lielākus uzvedības traucējumus hroniska stresa laikā, tostarp sadalītu atpūtu un pasliktinātu sociālo mijiedarbību. Viena ketamīna doza apgriezta šos efektus. mRNA sekvencēšana identificēja 141 atšķirīgi ekspresētu gēnu prefrontālā garozā ārstētās dominējošās pelēs.",
+        "lt": "Tyrime su grupine gyvenamąja vietove turinčiais žiurkiais, naudojant nepertraukiamą elgesio sekimą, nustatyta, kad socialinė hierarchija formuoja streso atsakus. Dominuojantys pelės pasireiškė didesniais elgesio sutrikimais dėl lėtinio streso, įskaitant sulaužytą poilsį ir susilpnėlusią socialinę sąveiką. Viena ketamino doze apvertė šiuos efektus. mRNA sekavimas nustatė 141 skirtingai išreikštą geną prefrontalinėje žievėje gydytuose dominuojančiuose pelėse."
+      },
+      "notable": false,
+      "notable_reasons": null,
+      "relevance_score": 4,
+      "study_type": "preclinical",
+      "substances": [
+        "ketamine"
+      ],
+      "added_at": "2026-07-25T08:28:26.778663+00:00"
     },
     {
       "title": "Implementation factors shaping British Columbia's drug decriminalization pilot: A systematic review with narrative synthesis.",
@@ -911,6 +1038,66 @@
         "psilocybin"
       ],
       "added_at": "2026-07-10T09:58:44.570754+00:00"
+    },
+    {
+      "title": "Real-world outcomes of intranasal esketamine and intravenous ketamine induction therapy for treatment-resistant depression in a community clinic: a retrospective cohort study.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42494735/",
+      "source": "PubMed",
+      "date": "2026-07-09",
+      "authors": [
+        "Bellanti Patrice A",
+        "Lewis Jordan",
+        "Seifferth Brian"
+      ],
+      "doi": "10.3389/fpsyt.2026.1867963",
+      "summaries": {
+        "en": "Retrospective cohort study (n=63) comparing intranasal esketamine (n=37) and IV ketamine (n=26) for treatment-resistant depression in a community clinic. Both groups showed similar baseline depression severity (PHQ-9 ~18) and comparable outcomes: mean PHQ-9 reduction ~10 points, response rates 65-69%, remission 23-32%, and clinically meaningful improvement 73-84%. Induction completion exceeded 90%. No significant differences between treatments.",
+        "sv": "Retrospektiv kohorttudie (n=63) jämförde intranasal esketamin (n=37) och IV ketamin (n=26) för behandlingsresistent depression i klinisk praxis. Båda grupper hade liknande utgångsvärden (PHQ-9 ~18) och jämförbara resultat: genomsnittlig PHQ-9-minskning ~10 poäng, responsfrekvens 65-69%, remission 23-32%, klinisk förbättring 73-84%. Behandlingskomplettering översteg 90%. Inga signifikanta skillnader mellan behandlingarna.",
+        "no": "Retrospektiv kohorttstudie (n=63) som sammenliknet intranasal esketamin (n=37) og IV ketamin (n=26) for behandlingsresistent depresjon i klinisk praksis. Begge grupper hadde lignende utgangsverdier (PHQ-9 ~18) og sammenlignbare resultater: gjennomsnittlig PHQ-9-reduksjon ~10 poeng, responsrate 65-69%, remisjon 23-32%, klinisk bedring 73-84%. Behandlingsfullføring oversteg 90%. Ingen signifikante forskjeller mellom behandlingene.",
+        "da": "Retrospektiv kohortstudie (n=63) sammenlignede intranasal esketamin (n=37) og IV ketamin (n=26) til behandlingsresistent depression i klinisk praksis. Begge grupper havde lignende udgangsscore (PHQ-9 ~18) og sammenlignelige resultater: gennemsnitlig PHQ-9-reduktion ~10 point, responsrate 65-69%, remission 23-32%, klinisk forbedring 73-84%. Behandlingsfuldførelse oversteg 90%. Ingen signifikante forskelle mellem behandlingerne.",
+        "fi": "Retrospektiivinen kohorttitutkimus (n=63) vertaili intranasaalia esketamiinia (n=37) ja IV ketamiinia (n=26) hoitoresistentin masennuksen hoidossa kliinisessä käytännössä. Molemmilla ryhmillä samanlainen lähtötaso (PHQ-9 ~18) ja vertailukelpoiset tulokset: keskimääräinen PHQ-9-vähenemä ~10 pistettä, vastausprosentti 65-69%, remissio 23-32%, klinillinen paraneminen 73-84%. Hoidon valmistumisprosentti ylitti 90%. Ei merkitseviä eroja hoitojen välillä.",
+        "is": "Afturbliksstuðla (n=63) sem bar saman intraósaleika esketamín (n=37) og IV ketamín (n=26) við meðferð við þunglyndi sem óviðkvæmt er fyrir meðferð í klinískri iðkun. Báðir hópar höfðu svipaða útgangsgildi (PHQ-9 ~18) og sambærilegar niðurstöður: meðaltal PHQ-9-minnkunar ~10 stig, svörunarhlutfall 65-69%, bata 23-32%, klínísk framför 73-84%. Ljúkun meðferðar fór yfir 90%. Engar marktækar munir á meðferðum.",
+        "et": "Tagasivaatav kohortuuring (n=63), mis võrreldi intranasaalset esketamiini (n=37) ja IV ketamiini (n=26) ravi-resistentse depressiooni raviks kliinilises praktikas. Mõlema rühma esialgne seisund oli sarnane (PHQ-9 ~18) ja tulemused võrreldavad: keskmise PHQ-9 vähenemise ~10 punkti, vastuse määr 65-69%, remissio 23-32%, kliiniline paranemine 73-84%. Ravi lõpetamine ületas 90%. Ravimeetodite vahel olulisi erinevusi ei ilmnenud.",
+        "lv": "Retrospektīva kohortas pētījuma (n=63), kurā tika salīdzināts intranaslais esketamīns (n=37) un IV ketamīns (n=26) ārstēšanas rezistentās depresijas ārstēšanai klīniskajā praksē. Abām grupām bija līdzīgas sākotnējās vērtības (PHQ-9 ~18) un salīdzināmi rezultāti: vidējais PHQ-9 samazinājums ~10 punkti, atbildes rādītājs 65-69%, remisija 23-32%, klīnisks uzlabojums 73-84%. Ārstēšanas pabeigšana pārsniedza 90%. Starp ārstēšanas metodēm nozīmīgu atšķirību nebija.",
+        "lt": "Retrospektyviojo kohortos tyrimas (n=63), kuriame lygintas intranazalinis esketaminas (n=37) ir IV ketaminas (n=26) gydant vaistams atspariąją depresiją klinikiniu patirtimi. Abios grupės turėjo panašias pradines reikšmes (PHQ-9 ~18) ir palyginamuosius rezultatus: vidutinis PHQ-9 sumažėjimas ~10 balų, atsakymo dažnis 65-69%, remisija 23-32%, klinikinė gerovė 73-84%. Gydymo baigimas viršijo 90%. Reikšmingų skirtumų tarp gydymo metodų nebuvo."
+      },
+      "notable": false,
+      "notable_reasons": null,
+      "relevance_score": 4,
+      "study_type": "observational",
+      "substances": [
+        "ketamine"
+      ],
+      "added_at": "2026-07-25T08:28:26.778663+00:00"
+    },
+    {
+      "title": "Treating addiction with an addictive drug: the ketamine paradox revisited.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42494734/",
+      "source": "PubMed",
+      "date": "2026-07-09",
+      "authors": [
+        "Hakami Alqassem Y"
+      ],
+      "doi": "10.3389/fpsyt.2026.1866092",
+      "summaries": {
+        "en": "A structured narrative review examined ketamine's potential for treating substance use disorders and treatment-resistant depression. Phase 2 trials show ketamine combined with psychotherapy reduces cravings and increases abstinence in alcohol and cocaine use disorders, but findings vary due to inconsistent dosing and follow-up protocols. While ketamine's glutamatergic mechanisms enable rapid neuroplasticity, concerns about abuse liability remain, requiring careful risk-benefit evaluation.",
+        "sv": "En strukturerad narrativ granskning undersökte keramins potential för behandling av missbrukssjukdomar och behandlingsresistent depression. Fas 2-studier visar att ketamin kombinerat med psykoterapi minskar suget och ökar abstinens vid alkohol- och kokainmissbruk, men resultaten varierar på grund av inkonsekvent dosering och uppföljning. Även om keramins glutamaterga mekanismer möjliggör snabb neuroplasticitet kvarstår farhågor om missbrukspotential.",
+        "no": "En strukturert narrativ gjennomgang undersøkte ketamins potensial for behandling av rusmiddelbruk og behandlingsresistent depresjon. Fase 2-studier viser at ketamin kombinert med psykoterapi reduserer trang og øker abstinens ved alkohol- og kokainmisbruk, men resultatene varierer på grunn av inkonsekvent dosering og oppfølging. Selv om ketamins glutamaterge mekanismer muliggjør rask neuroplastisitet, gjenstår bekymringer om misbrukspotensial.",
+        "da": "En struktureret narrativ review undersøgte ketamins potentiale for behandling af stofmisbrug og behandlingsresistent depression. Fase 2-studier viser, at ketamin kombineret med psykoterapi reducerer trang og øger abstinens ved alkohol- og kokainmisbrug, men resultaterne varierer på grund af inkonsekvent dosering og opfølgning. Selvom ketamins glutamaterg mekanismer muliggør hurtig neuroplasticitet, består bekymringer om misbrug.",
+        "fi": "Strukturoitu narratiivinen katsaus tutki ketamiinin potentiaalia päihteidenkäyttöhäiriöiden ja hoitoon vastustavan depression hoidossa. Vaiheen 2 tutkimukset osoittavat, että ketamiini yhdistettynä psykoterapiaan vähentää halua ja lisää raittiuden päiviä alkoholi- ja kokaiinihäiriöissä, mutta tulokset vaihtelevat epäjohdonmukaisen annoksen ja seurannan vuoksi. Vaikka ketamiinin glutamaatterginen mekanismi mahdollistaa nopean hermoplastisiteetin, väärinkäytön huolet säilyvät.",
+        "is": "Skipuleg frásögn endurskoðun rannsakaði möguleika ketamíns við meðferð á víkingum og meðferðarþolnum þunglyndi. Stig 2 rannsóknir sýna að ketamín sameinað sálgreiningameðferð dregur úr sálum og eykur fást daga við alkóhol- og kókaínvandamál, en niðurstöður eru breytilegar vegna ósamræmis skammta og eftirfylgni. Þó ketamín glutamatergir aðferðir gera kleift að hraðplasticitet, þá gerist áhyggjur um misnot.",
+        "et": "Struktureeritud narratiivne ülevaade uuris ketamiini võimalust aine kasutamise häirete ja raviresistentse depressiooni raviks. Faasi 2 uuringud näitavad, et ketamiin psühhoterapiaga kombineeritult vähendab iha ja suurendab abstinentse päevi alkoholi- ja kokaiini häiretele, kuid tulemused varieeruvad ebajärjekindla annustamise ja järelkontrolli tõttu. Kuigi ketamiini glutamaatergilised mehhanismid võimaldavad kiiret neuroplastilisust, jäävad kuritarvitamise muud alles.",
+        "lv": "Strukturēta narratīvā pārskatīšana pārbaudīja ketamīna potenciālu vielu lietošanas traucējumu un ārstēšanai rezistentās depresijas ārstēšanā. 2. fāzes pētījumi parāda, ka ketamīns, apvienots ar psihoterapiju, samazina tieksmi un palielina abstinences dienas alkohola un kokaīna traucējumos, taču rezultāti variē nekonsekventes dozēšanas un uzraudzības dēļ. Lai arī ketamīna glutamātergies mehānismi nodrošina ātru neuropластичnost, paaugstinājās bažas par ļaunprātīgu lietošanu.",
+        "lt": "Struktūrintas naratyviauskas apžvalga tirinėjo ketamino potencialą medžiagų vartojimo sutrikimams ir gydymui rezistentinei depresijai gydyti. 2 fazės tyrimai rodo, kad ketaminas kartu su psichoterapija sumažina norą ir padidina abstinencijos dienas alkoholio ir kokaino sutrikimams, tačiau rezultatai skiriasi dėl nenuoseklaus dozavimo ir sekimo. Nors ketamino glutamaterginis mechanizmas suteikia greitą neuroplastiškumą, išlieka piktnaudžiavimo rūpesčiai."
+      },
+      "notable": false,
+      "notable_reasons": null,
+      "relevance_score": 4,
+      "study_type": "review",
+      "substances": [
+        "ketamine"
+      ],
+      "added_at": "2026-07-25T08:28:26.778663+00:00"
     },
     {
       "title": "Psychedelics and the thalamocortical system: A scoping review.",
@@ -1750,194 +1937,6 @@
       "substances": [
         "psilocybin"
       ]
-    },
-    {
-      "title": "Investigating the impact of serotonergic psychedelic drugs, MDMA and ketamine on social cognition in psychiatric disorders: A scoping review.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42380668/",
-      "source": "PubMed",
-      "date": "2026-Jul",
-      "authors": [
-        "Smith Sarah Ann",
-        "Mohammad Haseeb",
-        "Lee Lik Hang N"
-      ],
-      "doi": "10.1007/s00213-026-07110-y",
-      "summaries": {
-        "en": "Scoping review of 20 studies examining effects of ketamine, MDMA, psilocybin, LSD, and ayahuasca on social cognition in psychiatric disorders. Evidence suggests ketamine and psilocybin may modulate facial emotion processing in depression, while MDMA showed improvements in self-awareness and psychosocial functioning in PTSD. Direct evidence of clinical benefit remains limited.",
-        "sv": "Omfattande granskning av 20 studier om ketamin, MDMA, psilocybin, LSD och ayahuasca på social kognition vid psykiatriska störningar. Resultaten tyder på att ketamin och psilocybin kan modulera ansiktskänslighetsbearbetning vid depression, medan MDMA visade förbättringar i självmedvetenhet vid PTSD. Direkt klinisk evidens är begränsad.",
-        "no": "Scoping review av 20 studier som undersøkte effekter av ketamin, MDMA, psilocybin, LSD og ayahuasca på sosial kognisjon ved psykiatriske lidelser. Funn tyder på at ketamin og psilocybin kan modulere ansiktsfølelsesbehandling ved depresjon, mens MDMA viste forbedringer i selvbevissthet ved PTSD. Direkte kliniske bevis er begrenset.",
-        "da": "Scoping review af 20 studier, der undersøgte effekter af ketamin, MDMA, psilocybin, LSD og ayahuasca på social kognition ved psykiatriske lidelser. Resultater tyder på, at ketamin og psilocybin kan modulere ansigtsudtryksbehandling ved depression, mens MDMA viste forbedringer i selvbevidsthed ved PTSD. Direkte kliniske bevis er begrenset.",
-        "fi": "Katsaus 20 tutkimukseen, joissa tutkittiin ketamiinin, MDMA:n, psilosybiinin, LSD:n ja ayahuascan vaikutuksia sosiaaliseen kognitioon psykiatrisissa häiriöissä. Tulokset viittaavat siihen, että ketamiini ja psilosybiini voivat säädellä kasvojen tunneilmaisun käsittelyä masennuksessa, kun taas MDMA osoitti parannuksia itsetietoisuudessa PTSD-potilailla. Suora kliininen näyttö on rajallinen.",
-        "is": "Yfirlit yfir 20 rannsóknir á áhrifum ketamíns, MDMA, psílosýbíns, LSD og ayahuasca á félagslega þekkingu við geðraskanir. Niðurstöður benda til að ketamín og psílosýbín geti stýrt vinnslu andlitsskynrænna tilfinninga við þunglyndi, en MDMA sýndi endurbætur á sjálfsmeðvitund hjá PTSD-sjúklingum. Bein klínísk sönnun er takmörkuð.",
-        "et": "20 uuringu ülevaade ketamiin, MDMA, psülosibiin, LSD ja ayahuasca mõjude kohta sotsiaalsele kognitsioonile psühhiaatriliste häirete korral. Tulemused viitavad sellele, et ketamiin ja psülosibiin võivad moduleerida näoilmete tunnetuslikkuse töötlemist depressiooni korral, samas kui MDMA näitas paranemist eneseteadlikkuses PTSD-ga patsientidel. Otsene kliiniline tõend on piiratud.",
-        "lv": "Pārskats par 20 pētījumiem par ketamīna, MDMA, psilotsibīna, LSD un ayahuasca ietekmi uz sociālo kognitīvi psihisku traucējumu gadījumā. Atklājumi liecina, ka ketamīns un psilotsibīns var modulēt sejas emociju apstrādi depresijas gadījumā, bet MDMA parādīja uzlabojumus pašapziņā PTSD pacientiem. Tiešie kliniskie pierādījumi ir ierobežoti.",
-        "lt": "Apžvalga iš 20 tyrimų, kuriuose nagrinėti ketamino, MDMA, psilocibin, LSD ir ayahuascos poveikiai socialiniam pažinimui psichiatrinių sutrikimų atveju. Rezultatai rodo, kad ketaminas ir psilocibinas gali moduliuoti veido emocijų apdorojimą depresijos atveju, o MDMA parodė savęs suvokimo pagerinimą PTSD pacientams. Tiesiogiai klinikiniai įrodymai yra riboti."
-      },
-      "notable": false,
-      "notable_reasons": null,
-      "added_at": "2026-07-02T09:41:47.101119+00:00",
-      "relevance_score": 3,
-      "study_type": "review",
-      "substances": [
-        "ketamine",
-        "mdma",
-        "psilocybin",
-        "lsd",
-        "ayahuasca"
-      ]
-    },
-    {
-      "title": "Major depressive disorder-alcohol use disorder comorbidity: diagnosis, mechanisms and treatment.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42384049/",
-      "source": "PubMed",
-      "date": "2026-Jul",
-      "authors": [
-        "Fang Bojia",
-        "Hua Haoshui",
-        "Chen Wenqin"
-      ],
-      "doi": "10.1007/s00406-026-02307-w",
-      "summaries": {
-        "en": "This review examines comorbid alcohol use disorder (AUD) and major depressive disorder (MDD), which occur together more frequently than other psychiatric-substance disorder combinations. Diagnostic criteria differ between DSM-5 and ICD-11. Underlying mechanisms include dysregulated reward processing, neuroinflammation, neurotransmitter imbalance, HPA axis dysfunction, and gut-brain axis disruption. Treatment approaches combine SSRIs with AUD-specific therapies, emerging agents like ketamine, and psychosocial interventions including CBT.",
-        "sv": "Denna översikt undersöker samförekomst av alkoholberoende (AUD) och svår depression (MDD), som förekommer tillsammans oftare än andra psykiatrisk-substanskombinationer. Diagnostiska kriterier skiljer sig mellan DSM-5 och ICD-11. Underliggande mekanismer inkluderar dysreglerad belöningsbearbetning, neuroinflammation, neurotransmitterobalans, HPA-axisdysfunktion och störd gut-brain-axel. Behandlingsstrategier kombinerar SSRI med AUD-specifika terapier, nya läkemedel som ketamin och psykosociala insatser inklusive KBT.",
-        "no": "Denne oversikten undersøker samforekkomst av alkoholforgiftningsforstyrrelser (AUD) og alvorlig depressiv lidelse (MDD), som forekommer sammen oftere enn andre psykiatrisk-substans kombinasjoner. Diagnostiske kriterier varierer mellom DSM-5 og ICD-11. Underliggende mekanismer inkluderer dysregulert belønningsprosessering, neuroinflammation, nevrotransmitterubalanse, HPA-akseisdysfunksjon og forstyrret tarm-hjerne-akse. Behandlingen kombinerer SSRI med AUD-spesifikke terapier, nye midler som ketamin og psykososiale intervensjoner inkludert KBT.",
-        "da": "Denne oversigt undersøger komorbiditet mellem alkoholforgiftningsforstyrrelser (AUD) og alvorlig depression (MDD), som forekommer sammen oftere end andre psykiatrisk-stofkombinationer. Diagnostiske kriterier varierer mellem DSM-5 og ICD-11. Underliggende mekanismer omfatter dysreguleret belønningsbehandling, neuroinflammation, neurotransmitterubalance, HPA-akseisdysfunktion og forstyrret tarm-hjerne-akse. Behandlingen kombinerer SSRI med AUD-specifikke terapier, nye midler som ketamin og psykosociale interventioner inkluderet KBT.",
-        "fi": "Tämä katsaus käsittelee alkoholinkäytön häiriön (AUD) ja vakavan masennushäiriön (MDD) samanaikaista esiintymistä, joka on harvinaisempaa kuin muut psykiatristen häiriöiden ja päihteidenkäytön yhdistelmät. Diagnostiset kriteerit vaihtelevat DSM-5:n ja ICD-11:n välillä. Taustalla olevat mekanismit sisältävät säätelyn puutetta palkkioiden käsittelyssa, neuroinflammaatiota, neurotransmittereiden epätasapainoa, HPA-akselin dysfunktiota ja häiriintynyttä suolisto-aivoakselia. Hoito yhdistää SSRI:itä AUD-spesifeihin hoitoihin, uusiin lääkkeisiin kuten ketamiiniin ja psykososiaalisiin interventioihin mukaan lukien KBT.",
-        "is": "Þessi endurtekning skoðar samhliðan alkoholnota (AUD) og alvarlega þunglyndi (MDD), sem eiga sér stað samhliða oftar en aðrir sálfræðilegir og efnafengir erfiðleikar. Greiningarviðmið eru ólík á milli DSM-5 og ICD-11. Undirliggjandi aðferðir fela í sér illa skipulögð umbun, taugabólgu, ójafnvægi taugaboða, HPA-ás virka bilun og rofa þarma-heilastjörnunnar. Meðferðin sameinar SSRI við AUD-sérstaka meðferðir, ný lyf eins og ketamín og sálfræðilegar inngrip þar með talið KBT.",
-        "et": "Käesolev ülevaade uurib alkoholikasutushäire (AUD) ja tõsise depressiivse häire (MDD) kaasulemist, mis esineb koos sagedamini kui muud psühhaatrilised ja aine-seotud häired. Diagnoosikriteeriumid erinevad DSM-5 ja ICD-11 vahel. Alusel olevad mehhanismid hõlmavad ebareguleeritud assotsiatsioonitöötlust, neuroinflammatiooni, neurotransmitteri tasakaalustamist, HPA-telje düsfunktsiooni ja häiritud sool-aju teljega. Ravi ühendab SSRI-sid AUD-spetsiifiliste teraapiaid, uusi ravimeid nagu ketamiin ja psühhosotsiaalseid sekkumisi sealhulgas KBT.",
-        "lv": "Šis pārskats aplūko alkohola lietošanas traucējuma (AUD) un smagas depresijas (MDD) līdz pastāvēšanu, kas biežāk saasinājies nekā citi psihiatrisko un vielu ietekmēto traucējumu kombinācijas. Diagnostikas kritēriji atšķiras starp DSM-5 un ICD-11. Pamatā esošie mehānismi ietver nepietiekami regulētu atlīdzības apstrādi, neirinflammāciju, neirotransmiteru disbalanci, HPA ass disfunkciju un traucētu zarnā-smaņņa asi. Ārstēšana apvieno SSRI ar AUD-specifiskām terapijām, jauniem medikamentiem, piemēram, ketamīnu, un psihosociālām intervencēm, tostarp KBT.",
-        "lt": "Šis apžvalga nagrinėja alkoholio vartojimo sutrikdymą (AUD) ir sunkią depresinio sutrikdymo (MDD) komorbidumą, kuris pasitaiko dažniau nei kitų psichiatrinės ir medžiagos sukeliamos sutrikdymo kombinacijos. Diagnostiniai kriterijai skiriasi tarp DSM-5 ir ICD-11. Pagrindiniai mechanizmai apima nenormaliai reguliuojamą atlygį, neuroinflamaciją, neurotransmiterio disbalansą, HPA ašies disfunkciją ir sutrikdytą žarnyno-smegenyno ašį. Gydymas sujungia SSRI su AUD specifine terapija, naujais vaistais, pavyzdžiui, ketaminu, ir psichosocialiniais įsikišimais, tarp jų KBT."
-      },
-      "notable": false,
-      "notable_reasons": null,
-      "added_at": "2026-07-02T09:41:47.101119+00:00",
-      "relevance_score": 3,
-      "study_type": "review",
-      "substances": [
-        "ketamine"
-      ]
-    },
-    {
-      "title": "Readability of informed consent forms from ClinicalTrials.gov in ketamine clinical trials for mental health conditions: a cross-sectional analysis.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42388555/",
-      "source": "PubMed",
-      "date": "2026-06-29",
-      "authors": [
-        "Swieczkowski Damian",
-        "Kwaśny Aleksander",
-        "Cubała Wiesław Jerzy"
-      ],
-      "doi": "10.1177/20451253261456385",
-      "summaries": {
-        "en": "Cross-sectional analysis of 14 ketamine clinical trials examining readability of informed consent forms (ICFs) on ClinicalTrials.gov. ICFs averaged 5031 words requiring 21.4 minutes to read. Flesch-Kincaid Grade Level averaged 9.8 (13/14 documents above grade 8), indicating readability challenges for participants with cognitive or psychiatric symptoms.",
-        "sv": "Tvärsnittsstudie av 14 kliniska försök med ketamin som granskade läsbarheten på informerade samtyckesformulär från ClinicalTrials.gov. Formulären var i genomsnitt 5031 ord och krävde 21,4 minuter att läsa. Flesch-Kincaid Grade Level genomsnitt var 9,8 (13/14 dokument över åttonde klass), vilket indikerar läsbarhetsproblem.",
-        "no": "Tverrsnittsstudie av 14 kliniske forsøk med ketamin som undersøkte lesbarhet av informerte samtykkeskjemaer fra ClinicalTrials.gov. Skjemaene var i gjennomsnitt 5031 ord og krevde 21,4 minutter å lese. Flesch-Kincaid Grade Level gjennomsnitt var 9,8 (13/14 dokumenter over åttende klassetrinn), noe som indikerer lesbarhetsutfordringer.",
-        "da": "Tværsnitstudie af 14 kliniske forsøg med ketamin, der undersøgte læsbarheden af informeret samtykkeformularer fra ClinicalTrials.gov. Formularerne var i gennemsnit 5031 ord og krævede 21,4 minutter at læse. Flesch-Kincaid Grade Level var i gennemsnit 9,8 (13/14 dokumenter over 8. klassetrin), hvilket indikerer læseproblemer.",
-        "fi": "Poikittaistutkimus 14 ketamiinin kliinisestä tutkimuksesta, jossa tutkittiin tietoon perustuvan suostumuksen lomakkeiden luettavuutta ClinicalTrials.gov-sivustolla. Lomakkeet olivat keskimäärin 5031 sanaa ja vaativat 21,4 minuuttia lukemiseen. Flesch-Kincaid-arviot olivat keskimäärin 9,8 (13/14 dokumenttia yli 8. luokan tasolla), mikä osoittaa luettavuusongelmia.",
-        "is": "Þverskurðarrannsókn á 14 klínískum rannsóknum með ketamíni sem kannaði læsileika upplýstra samþykkiseyðublaða frá ClinicalTrials.gov. Eyðublöðin voru að meðaltali 5031 orð og tóku 21,4 mínútur að lesa. Flesch-Kincaid stig voru að meðaltali 9,8 (13/14 skjöl yfir 8. bekk), sem bendir til lesbileikavandamála.",
-        "et": "Ristlõikeuuring 14 ketamiini kliinilisest uuringust, mis uuris teadliku nõusoleku vormide loetavust ClinicalTrials.gov-il. Vormid olid keskmiselt 5031 sõna ja nõudsid lugemiseks 21,4 minutit. Flesch-Kincaid tasemed olid keskmiselt 9,8 (13/14 dokument üle 8. taseme), mis näitab loetavusprobleeme.",
-        "lv": "Šķērsgriežu pētījums par 14 ketamīna klīniskajiem izmēģinājumiem, kurā pārbaudīta informētās piekrišanas formu lasāmība vietnē ClinicalTrials.gov. Veidlapas vidēji bija 5031 vārds un prasīja 21,4 minūtes lasīšanai. Flesch-Kincaid reitingi bija vidēji 9,8 (13/14 dokumenti virs 8. klases), norādot uz lasāmības problēmām.",
-        "lt": "Skersinė 14 ketamino klinikinių bandymų analizė, kurioje buvo vertinama informuoto sutikimo formų skaitomumas iš ClinicalTrials.gov. Formos vidutiniškai buvo 5031 žodis ir reikalavo 21,4 minutės skaityti. Flesch-Kincaid lygiai vidutiniškai buvo 9,8 (13/14 dokumentų virš 8 klasės), o tai rodo skaitomės problemas."
-      },
-      "notable": false,
-      "notable_reasons": null,
-      "relevance_score": 3,
-      "study_type": "observational",
-      "substances": [
-        "ketamine"
-      ],
-      "added_at": "2026-07-03T09:41:06.927715+00:00"
-    },
-    {
-      "title": "Rapid clinical improvement after intravenous ketamine in an adolescent with treatment-resistant depression, severe obesity, and pseudo-Cushing syndrome: A case report.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42398266/",
-      "source": "PubMed",
-      "date": "2026-06-28",
-      "authors": [
-        "Vivekanand B",
-        "Sethi Kanika",
-        "Sharma Eesha"
-      ],
-      "doi": "10.1016/j.ajp.2026.105077",
-      "summaries": {
-        "en": "Case report describing rapid clinical improvement in an adolescent with treatment-resistant depression following intravenous ketamine administration. The patient presented with comorbid severe obesity and pseudo-Cushing syndrome. This single case documents the therapeutic response but requires further investigation through controlled studies to establish efficacy and safety in this population.",
-        "sv": "Fallrapport som beskriver snabb klinisk förbättring hos en ungdom med behandlingsresistent depression efter intravenös ketamin. Patienten hade samtidiga diagnoser av svår fetma och pseudo-Cushings syndrom. Denna enstaka fallrapport dokumenterar det terapeutiska svaret men kräver vidare utredning genom kontrollerade studier för att fastställa effektivitet och säkerhet.",
-        "no": "Kasuistikk som beskriver rask klinisk forbedring hos en ungdom med behandlingsresistent depresjon etter intravenøs ketamin. Pasienten hadde samtidig alvorlig overvekt og pseudo-Cushings syndrom. Denne enkeltkasuistikken dokumenterer det terapeutiske svaret, men krever videre undersøkelser gjennom kontrollerte studier for å fastslå effektivitet og sikkerhet.",
-        "da": "Kasuistik, der hurtig klinisk forbedring hos en ungdom med behandlingsresistent depression blev observeret efter intravenøs ketamin. Patienten havde samtidig svær overvægt og pseudo-Cushings syndrom. Denne enkelt-kasuistik dokumenterer det terapeutiske svar, men kræver yderligere undersøgelse gennem kontrollerede studier for at etablere effektivitet og sikkerhed.",
-        "fi": "Tapausraportti, jossa kuvataan nopea kliininen paraneminen nuorella, jolla oli hoitoon resistentti masennus, saatuaan intravenöösä ketamiinia. Potilaalla oli samanaikaisesti vakava lihavuus ja pseudo-Cushingin oireyhtymä. Tämä yksittäinen tapausraportti dokumentoi hoitovastauksen, mutta vaatii lisätutkimuksia kontrolloitujen tutkimusten avulla tehokkuuden ja turvallisuuden vahvistamiseksi.",
-        "is": "Tilfellaskýrsla sem lýsir hröðum klínískum bata hjá unglingi með meðferðarþolin þunglyndi eftir intravenósa ketamín. Sjúklingur átti samtímis alvarlega offituð og gervi-Cushings heilkenni. Þessi einföld tilfellaskýrsla skjalfestir meðferðarsvar en krefst frekari rannsókna með stýrðum rannsóknum til að staðfesta verkun og öryggi.",
-        "et": "Juhtumikirjeldus, milles kirjeldatakse kiiresti paranema teraapiavastust noorukil, kellel oli ravi-resistentne depressioon pärast intraveenoosset ketamiini. Patsiendil oli samaaegselt raske rasvumis ja pseudo-Cushingi sündroom. See üksikjuhtumikirjeldus dokumenteerib teraapiavastust, kuid nõuab edasist uurimist kontrollitud uuringutega efektiivsuse ja ohutuse tuvastamiseks.",
-        "lv": "Klīniskais gadījums, kurā aprakstīta ātra klīniska uzlabošanās jaunekļiem ar ārstēšanai rezistentū depresiju pēc intravenozā ketamīna. Pacientam bija vienlaicīga smaga aptaukošanās un pseudo-Cushinga sindroms. Šis vienkāršais gadījums dokumentē terapeitisko atbildi, bet prasa turpmākas izmeklēšanas ar kontrolētiem pētījumiem efektivitātes un drošības noteikšanai.",
-        "lt": "Klinikinė ataskaitą, kurioje aprašomas greitas klininis pagerinimas paaugliu, turinčio gydymui atsparios depresijos, po intraveninio ketamino. Pacientas turėjo tuo pačiu metu sunkų nutukimą ir pseudo-Cushingo sindromą. Šis pavieninis klininis atvejis dokumentuoja terapinį atsaką, tačiau reikalingus papildomi tyrimai kontroliuotais tyrimais, siekiant nustatyti veiksmingumą ir saugumą."
-      },
-      "notable": false,
-      "notable_reasons": null,
-      "relevance_score": 3,
-      "study_type": "case_report",
-      "substances": [
-        "ketamine"
-      ],
-      "added_at": "2026-07-04T09:05:00.086634+00:00"
-    },
-    {
-      "title": "Navigating 'k-land': a qualitative exploration of participants' experiences of ketamine-assisted psychotherapy for methamphetamine use disorder.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42422525/",
-      "source": "PubMed",
-      "date": "2026-06-24",
-      "authors": [
-        "Fletcher Kathryn",
-        "Ezard Nadine",
-        "Siefried Krista J"
-      ],
-      "doi": "10.3389/fpsyt.2026.1873497",
-      "summaries": {
-        "en": "Qualitative study of 14 participants in an open-label pilot trial examining experiences of ketamine-assisted psychotherapy (KAP) for methamphetamine use disorder. Semi-structured interviews identified four themes: prior limited treatment success prompting openness to novel approaches; importance of relational safety and clinical containment; reduced emotional reactivity following ketamine sessions; and translation of psychological shifts into behavioral change. Findings suggest KAP acceptability and potential mechanisms in this population.",
-        "sv": "Kvalitativ studie av 14 deltagare i en öppen pilotstudie som undersökte upplevelser av ketaminassisterad psykoterapi (KAP) för metamfetaminanvändningsstörning. Semi-strukturerade intervjuer identifierade fyra teman: tidigare begränsad behandlingsframgång som öppnade för nya tillvagagångssätt; betydelsen av relationell säkerhet och klinisk innehållning; minskad emotionell reaktivitet efter ketaminsessioner; samt omvandling av psykologiska skiften till beteendeförändring. Resultaten tyder på acceptabilitet och potentiella mekanismer för KAP.",
-        "no": "Kvalitativ studie av 14 deltakere i en åpen pilotstudie som undersøkte erfaringer med ketaminavsistet psykoterapi (KAP) for metamfetaminbruksstørrelse. Semi-strukturerte intervjuer identifiserte fire tema: tidligere begrenset behandlingssuksess som åpnet for nye tilnærminger; betydningen av relasjonell sikkerhet og klinisk inneslutning; redusert emosjonell reaktivitet etter ketaminsesjoner; og oversettelse av psykologiske skift til atferdsendring. Funnene tyder på akseptabilitet og potensielle mekanismer for KAP.",
-        "da": "Kvalitativ undersøgelse af 14 deltagere i et åbent pilotforsøg, der undersøgte erfaringer med ketaminassisteret psykoterapi (KAP) for metamfetaminmisbrug. Semi-strukturerede interviews identificerede fire temaer: tidligere begrænset behandlingssucces, som åbnede for nye tilgange; betydningen af relationel sikkerhed og klinisk inddæmning; reduceret emotionel reaktivitet efter ketaminsessioner; og omsætning af psykologiske skift til adfærdsændring. Resultaterne tyder på acceptabilitet og potentielle mekanismer for KAP.",
-        "fi": "Laadullinen tutkimus 14 osallistujasta avoimessa pilotutkimuksessa, jossa tutkittiin osallistujien kokemuksia ketamiiniavusteisesta psykoterapiasta (KAP) metamfetamiinin käyttöhäiriöön. Puolistrukturoidut haastattelut tunnistivat neljä teemaa: aiempi rajallinen hoitomenestys, joka avasi uusia lähestymistapoja; relationaalisen turvallisuuden ja kliinisen sisällyttämisen merkitys; vähentynyt emotionaalinen reaktiivisuus ketamiinisessioiden jälkeen; sekä psykologisten muutosten muuntaminen käyttäytymisen muutokseksi. Tulokset viittaavat KAP:n hyväksyttävyyteen ja mahdollisiin mekanismeihin.",
-        "is": "Eigindlegri rannsókn á 14 þátttakendum í opinni tilraunarannsókn sem skoðaði reynslu þátttakenda af ketamínstuddum sálfræðilegum meðferðum (KAP) fyrir misnotkun á metamfetamíni. Hálflokaðir viðtöl greindu fjóra þætti: takmarkaðan fyrri meðferðargengi sem opnaði fyrir nýjar aðferðir; mikilvægi sambands öryggis og klínískrar innfælingar; minni tilfinningaleg viðbrögð eftir ketamínlotu; og umbreytingu sálfræðilegra breytinga í hegðunarbreytingu. Niðurstöðurnar benda til þess að KAP sé ásættanleg með hugsanlegum verkaferlum.",
-        "et": "Kvalitatiivne uurimus 14 osavõtjaga avatud pilootuuringus, mis uuris osavõtjate kogemusi ketamiini-abistatud psühhoteraapiast (KAP) metamfetamiini kasutamishäire korral. Poolstruktureeritud intervjuud tuvastasid neli teemat: piiratud eelnev ravi edu, mis avas uusi lähenemisviise; suhtelise ohutuse ja kliinilise sisaldamise tähtsus; vähenenud emotsionaalne reaktiivsus ketamiini istungite järel; ja psühholoogiliste muutuste muutmine käitumismuutuseks. Tulemused viitavad KAP-i vastuvõetavusele ja võimalikele mehhanismidele.",
-        "lv": "Kvalitatīvs pētījums ar 14 dalībniekiem atklātā paklāvē eksperimentā, kurā tika pētītas dalībnieku pieredzes ar ketamīnu atbalstītu psihoterapiju (KAP) metamfetamīna lietošanas traucējumiem. Pus-strukturētas intervijas identificēja četras tēmas: iepriekšējs ierobežots ārstēšanas panākums, kas atvēra jaunas pieejas; relāciju drošības un klīniskās ierobežošanas nozīme; samazināta emocionālā reaktivitāte pēc ketamīna sesijām; un psiholoģisku pārmaiņu pārvēršana uzvedības izmaiņās. Rezultāti liecina par KAP pieņemamību un iespējamiem mehānismiem.",
-        "lt": "Kokybinė 14 dalyvių atvirojo bandymo studija, kurioje buvo tiriamos dalyvių ketaminu pagalkos psichoterapijos (KAP) patirtys metamfetamino vartojimo sutrikdymo atveju. Pusiau struktūrizuoti interviu atskleistė keturis motyvus: ankstesnį ribotą gydymo sėkmę, kuris atvėrė naujas prieigas; santykinio saugumo ir klinio ribojimo svarbą; sumažėjusį emocinį jautrumą po ketamino sesijų; ir psichologinių pokyčių transformavimą į elgesio pokytį. Rezultatai rodo KAP priimtinumą ir galimus mechanizmus."
-      },
-      "notable": false,
-      "notable_reasons": null,
-      "relevance_score": 4,
-      "study_type": "qualitative",
-      "substances": [
-        "ketamine"
-      ],
-      "added_at": "2026-07-10T09:58:44.570754+00:00"
-    },
-    {
-      "title": "Benchmarking a Local Schema-Constrained Large Language Model Pipeline for Abstract Screening and Evidence Mapping.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42483140/",
-      "source": "PubMed",
-      "date": "2026-06-20",
-      "authors": [
-        "Serretti Alessandro"
-      ],
-      "doi": "10.7759/cureus.111193",
-      "summaries": {
-        "en": "Study benchmarks a local, open-source large language model pipeline for automating abstract screening in evidence synthesis. Using schema-constrained LLM architecture deployed locally (gpt-oss-20b via Ollama), researchers tested the system on three systematic reviews including ketamine/neuroimaging and clozapine studies. Results showed high performance: 100% recall and 98.9% F1 score for ketamine/neuroimaging; 79.3% recall for clozapine/suicidality. The local approach avoids proprietary cloud dependencies, improving reproducibility and scalability for biomedical literature synthesis.",
-        "sv": "Studie benchmarkar en lokal, öppen källkods-baserad språkmodell för automatiserad abstract-screening i evidenssynthesis. Forskarna testade systemet (gpt-oss-20b via Ollama) på tre systematiska översikter inklusive ketamin/neuroimaging och klozapinstudier. Resultaten visade högt performance: 100% recall och 98,9% F1-värde för ketamin/neuroimaging; 79,3% recall för klozapin/suicidalitet. Det lokala systemet undviker beroende av proprietär molnteknik, vilket förbättrar reproducerbarhet och skalbarhet för biomedicinsk litteraturanalys.",
-        "no": "Studie benchmarker en lokal, åpen källkode-basert språkmodell for automatisert abstract-screening i evidenssyntese. Forskerne testet systemet (gpt-oss-20b via Ollama) på tre systematiske oversikter inkludert ketamin/nevroimaging og klozapinstudier. Resultatene viste høy ytelse: 100% sensitivity og 98,9% F1-verdi for ketamin/nevroimaging; 79,3% sensitivity for klozapin/selvmordsforsøk. Den lokale tilnærmingen unngår avhengighet av proprietær skyteknologi, noe som forbedrer reproduserbarhet og skalerbarhet for biomedisinsk litteraturanalyse.",
-        "da": "Studie benchmarker en lokal, open source-baseret sprogmodel til automatiseret abstract-screening i evidenssyntese. Forskerne testede systemet (gpt-oss-20b via Ollama) på tre systematiske reviews inklusive ketamin/neuroimaging og klozapinstudier. Resultaterne viste høj ydeevne: 100% sensitivity og 98,9% F1-værdi for ketamin/neuroimaging; 79,3% sensitivity for klozapin/selvmordsforsøg. Den lokale tilgang undgår afhængighed af proprietær cloudteknologi, hvilket forbedrer reproducerbarhed og skalerbarhed for biomedicinsk litteraturanalyse.",
-        "fi": "Tutkimus vertaa paikallista avoimen lähdekoodin kielimallia abstraktin automaattiseen seulontaan evidenssynteesissä. Tutkijat testasivat järjestelmää (gpt-oss-20b Ollaman kautta) kolmessa systemaattisessa katsauksessa, mukaan lukien ketamiini/neurolokaatio ja klozapiinitutkimukset. Tulokset osoittivat korkean suorituskyvyn: 100% herkkyyden ja 98,9% F1-arvon ketamiini/neurolokaatiolle; 79,3% herkkyyden klozapiini/itsemurhille. Paikallinen lähestymistapa välttää omistettujen pilviteknologioiden riippuvuuden, mikä parantaa toistettavuutta ja skaalattavuutta biomedikaaliselle kirjallisuusanalyysille.",
-        "is": "Rannsókn prófar staðbundna, opinn hugbúnaðinn byggða málmódel fyrir sjálfvirka útdráttar-síun í sönnunarsamsetningu. Rannsakendur prófuðu kerfið (gpt-oss-20b með Ollama) á þremur kerfisbundnum yfirlitum sem innihalda ketamín/taugamyndun og klozapín-rannsóknir. Niðurstöður sýndu háa afköst: 100% næmni og 98,9% F1-gildi fyrir ketamín/taugamyndun; 79,3% næmni fyrir klozapín/sjálfsmorð. Staðbundni aðferðin forðast tengsl við eignarathuguð skýjatækni, sem bætir endurframkellanlegt og stigstærðarlegheit fyrir líffræðilegri bókmennta-greiningu.",
-        "et": "Uuringus võrreldakse kohapealset avatud lähtekoodil põhinevat keelemudelit abstraktse automaatse sõelumise jaoks tõendite ühendamisel. Teadlased testisid süsteemi (gpt-oss-20b Ollama kaudu) kolmes süstemaatilises ülevaates, sealhulgas ketamiini/neurokaardistamine ja klozapiin-uuringud. Tulemused näitasid kõrget jõudlust: 100% tundlikkus ja 98,9% F1-väärtus ketamiini/neurokaardistamisele; 79,3% tundlikkus klozapiini/enesetapmise korral. Kohapealne lähenemisviis vältib omandatud pilvetehnoloogia sõltuvust, parandades uurimistulemuste reprodutseeritavust ja skaleerimisvõimalust biomeditsiinilisele kirjandusteadusele.",
-        "lv": "Pētījums salīdzina lokālu atvērtā pirmkoda valodas modeli abstraktes automātiskas filtrēšanas nolūkā pierādījumu sintezēšanā. Pētnieki testēja sistēmu (gpt-oss-20b caur Ollama) trīs sistematiskos pārskatos, ieskaitant ketamīnu/neuroattēlošanu un klozapīna pētījumus. Rezultāti parādīja augstu veiktspēju: 100% jutību un 98,9% F1 vērtību ketamīnam/neuroattēlošanai; 79,3% jutību klozapīnam/pašnāvībai. Lokālā pieeja novērš atkarību no proprietary mākoņu tehnoloģijas, uzlabojot reproducējamību un mērogojamību biomedicīniskajai literatūras analīzei.",
-        "lt": "Tyrimas lygins vietinį atvirto šaltinio kalbos modelį abstraktaus automatinio filtravimo tikslams įrodymų sintezėje. Tyrėjai bandė sistemą (gpt-oss-20b per Ollama) trijuose sisteminguose apžvalguose, įskaitant ketaminą/neurorezonanso tomografiją ir klozapiną. Rezultatai parodė aukštą efektyvumą: 100% jautrumą ir 98,9% F1 vertę ketaminui/neurobraziografikai; 79,3% jautrumą klozapinui/savižudybei. Vietinis metodas išvengia savybės debesų technologijos priklausomybės, gerinant reproduktyvumą ir mastelį biomedicininei literatūros analizei."
-      },
-      "notable": false,
-      "notable_reasons": null,
-      "relevance_score": 3,
-      "study_type": "other",
-      "substances": [
-        "ketamine"
-      ],
-      "added_at": "2026-07-23T09:05:41.038948+00:00"
     }
   ]
 }

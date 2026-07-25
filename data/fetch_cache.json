@@ -1,7 +1,83 @@
 {
-  "date": "2026-07-24",
-  "cached_at": "2026-07-24T08:23:40.446076+00:00",
+  "date": "2026-07-25",
+  "cached_at": "2026-07-25T08:02:38.042199+00:00",
   "articles": [
+    {
+      "title": "Time-dependent effects of rapid-acting antidepressants in iPSC-derived neurons from treatment-resistant depression and healthy volunteers.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42498781/",
+      "source": "PubMed",
+      "abstract": "Rapid-acting antidepressants like ketamine and serotonergic psychedelics show promise for treatment-resistant depression (TRD), but the molecular mechanisms that contribute to their therapeutic effects remain unclear. Induced pluripotent stem cells (iPSCs) offer a platform to model human cortical neurons and investigate drug effects in a human-relevant system. Here, iPSCs from individuals with TRD and healthy volunteers (HVs) were differentiated into mature cortical-like neurons and treated for six and 24 h with agents being investigated as rapid-acting antidepressants, including (2 R,6 R)-hydroxynorketamine (HNK), psilocybin, lysergic acid diethylamide (LSD), and 2,5-Dimethoxy-4-iodoamphetamine (DOI). Bulk and single-cell RNA sequencing assessed global and cell-type-specific transcriptomic responses. Synaptic proteins were evaluated via Western blotting and immunocytochemistry. To validate translational relevance, transcriptomic results were compared to CSF proteomics from ketamine-treated HVs. Despite differing initial pharmacological targets, overall gene expression across all compounds was highly correlated at matched timepoints compared to vehicle control, suggesting shared downstream effects. Both glutamatergic and serotonergic drugs converged on pathways involving inflammation, mTORC1 signaling, and cellular growth. At the single-cell level, (2 R,6 R)-HNK showed distinct cell-type specific alterations: upregulation in excitatory neurons and concomitant downregulation of inhibitory neuron populations. Differentially expressed genes from (2 R,6 R)-HNK-treated neurons also overlapped with CSF proteomic signatures from ketamine-treated individuals, supporting the model's translational relevance. This study is the first to assess multiple putative rapid-acting antidepressants in parallel using an iPSC-derived neuron model. Both convergent and drug-specific changes in gene expression and pathway enrichment were observed across diverse compounds, supporting the use of human iPSC-derived neurons in antidepressant drug discovery. Clinical Trial Registry: www.clinical trials.gov, NCT02484456.",
+      "date": "2026-07-24",
+      "authors": [
+        "Johnston Jenessa N",
+        "Jones Gregory H",
+        "Peng Shiyong"
+      ],
+      "doi": "10.1038/s41380-026-03768-0"
+    },
+    {
+      "title": "MDMA as an early post-trauma intervention in a translational animal model of PTSD.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42498117/",
+      "source": "PubMed",
+      "abstract": "Post-traumatic stress disorder (PTSD) remains difficult to prevent after trauma, highlighting the need for early interventions that reduce the risk of chronic symptom development. This controlled study investigated the preventive potential of 3,4-methylenedioxymethamphetamine (MDMA) in a validated rat model of PTSD induced by predator scent stress (PSS). Adult male Sprague-Dawley rats (N = 175) were exposed to PSS or sham-PSS and treated intraperitoneally with MDMA (2.5, 5, or 10 mg/kg) or saline. MDMA was administered either 30 min after PSS or 24 h later, with or without trauma-cue pairing. Behavioral outcomes included the elevated plus-maze and acoustic startle response assessments on day 7 for phenotypic classification, followed by contextual freezing on day 8. Urinary corticosterone and norepinephrine, hippocampal glucocorticoid receptor (GR) and norepinephrine transporter (NET), and c-Fos, tryptophan hydroxylase 2 (TPH2), GR, oxytocin, and tyrosine hydroxylase (TH) immunoreactivity were measured 1 h post-injection in stress-related brain regions. The 10 mg/kg MDMA dose significantly reduced anxiety-like behavior, startle amplitude, contextual freezing, and the prevalence of extreme behavioral responses when administered 30 min after PSS or 24 h later with trauma-cue pairing. Lower doses and unpaired delayed administration were largely ineffective. The effective dose increased urinary corticosterone and hippocampal GR levels, and enhanced c-Fos, TPH2, oxytocin, GR, and TH expression in stress-regulatory circuits. Trauma-cue pairing further strengthened MDMA-induced increases in GR, oxytocin, and TPH2. These findings suggest that MDMA was associated with dose-, timing-, and context-dependent reductions in PTSD-like outcomes, accompanied by neurochemical signatures consistent with enhanced stress regulation, neuroplasticity, and adaptive memory processing.",
+      "date": "2026-07-24",
+      "authors": [
+        "Baruch Omer",
+        "Reiss Nadav",
+        "Todder Doron"
+      ],
+      "doi": "10.1016/j.pnpbp.2026.111853"
+    },
+    {
+      "title": "Targeting TLR4/PPARα-mediated neuroinflammation in the prefrontal cortex: S-ketamine and S-HNK rapidly alleviate depression-like behaviors.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42497468/",
+      "source": "PubMed",
+      "abstract": "Neuroinflammation, particularly Toll-like receptor 4 (TLR4)-mediated signaling, plays a critical role in the pathophysiology of depression. This study aimed to investigate the mechanisms by which S-ketamine (S-ket) and S-hydroxynorketamine (S-HNK) modulate TLR4 and peroxisome proliferator-activated receptor alpha (PPARα) signaling in the prefrontal cortex (PFC) to exert antidepressant effects. Male C57BL/6 J mice were subjected to chronic social defeat stress (CSDS) to induce depression-like behaviors. Mice received intraperitoneal administration of S-ket or S-HNK. In a subset of mice, adeno-associated virus expressing TLR4 (AAV-TLR4) or a negative control (NC) was stereotaxically injected into the medial prefrontal cortex (mPFC). Behavioral assessments included the sucrose preference test (SPT), forced swim test (FST), and social interaction test (SIT). Levels of monoaminergic neurotransmitters, including dopamine (DA), serotonin (5-hydroxytryptamine, 5-HT), and norepinephrine (NA), pro-inflammatory cytokines (interleukin (IL)-1β, IL-6, IL-8, and tumor necrosis factor-α (TNF-α)), TLR4, PPARα, indoleamine 2,3-dioxygenase 1 (IDO1), and kynurenine (Kyn) in the PFC were analyzed. CSDS induced depression-like behaviors, decreased DA, 5-HT, and NA levels in the PFC, and increased the expression of pro-inflammatory cytokines IL-1β, IL-6, IL-8, and TNF-α. Treatment with S-ket or S-HNK significantly reversed these behavioral deficits, neurotransmitter alterations, and neuroinflammatory responses. Both compounds also reduced plasma and PFC Kyn levels, upregulated PPARα expression, and downregulated TLR4 and IDO1. Notably, TLR4 overexpression partially abolished the antidepressant and anti-inflammatory effects of S-ket and S-HNK. S-ket and its metabolite S-HNK exert antidepressant effects by modulating the TLR4/PPARα signaling pathway, restoring monoaminergic neurotransmission, and attenuating neuroinflammation.",
+      "date": "2026-07-21",
+      "authors": [
+        "Zhu Quanfeng",
+        "Zhou Xiaoyue",
+        "Gao Huangling"
+      ],
+      "doi": "10.1016/j.jneuroim.2026.579038"
+    },
+    {
+      "title": "Social hierarchy shapes behavioral and transcriptional responses to chronic stress and ketamine in male mice.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42495548/",
+      "source": "PubMed",
+      "abstract": "Chronic stress is a major risk factor for psychiatric disorders, yet the mechanisms underlying individual differences in vulnerability and treatment response remain poorly understood. Using the Social Box, a seminatural environment, we performed high-resolution, continuous tracking of group-housed male mice during 11 days, capturing behavior during both active and inactive phases. We found that social hierarchy within a group strongly shapes stress outcomes, with dominant individuals exhibiting amplified behavioral alterations following chronic stress, including rest fragmentation and disrupted social interactions. A single ketamine administration mitigated these effects, restoring baseline behavioral signatures in dominant individuals. Bulk mRNA sequencing was performed in the medial prefrontal cortex and ventral hippocampus. This revealed a hierarchy-dependent transcriptional response with 141 differentially expressed genes in the medial prefrontal cortex of dominant, ketamine-treated mice. Overall, this study provides a framework for examining stress and pharmacological interventions in group-housed mice, enabling high-resolution, longitudinal analyses under semi-naturalistic conditions.",
+      "date": "2026-07-21",
+      "authors": [
+        "Gasperoni Serena",
+        "Ji Xiuqi",
+        "Sudre-Chinsky Choham"
+      ],
+      "doi": "10.1016/j.isci.2026.116825"
+    },
+    {
+      "title": "Real-world outcomes of intranasal esketamine and intravenous ketamine induction therapy for treatment-resistant depression in a community clinic: a retrospective cohort study.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42494735/",
+      "source": "PubMed",
+      "abstract": "Intravenous (IV) ketamine and intranasal esketamine are NMDA receptor antagonists used for treatment-resistant depression (TRD). Both have demonstrated efficacy in controlled trials, but observational evidence from real-world community settings is limited. We conducted a single-center retrospective cohort study of adults aged 18 to 65 receiving induction therapy for TRD with intranasal esketamine or IV ketamine at a community psychiatric clinic from January 1 through December 31, 2025. Patients with prior exposure to either medication or to oral ketamine derivatives were excluded. The primary outcome was change in Patient Health Questionnaire-9 (PHQ-9) score from baseline to end of induction. Secondary outcomes included response (≥50% PHQ-9 reduction), remission (final PHQ-9 ≤4), clinically meaningful improvement (≥5 PHQ-9 reduction), induction completion, and adverse events. Within-group and per-protocol analyses were exploratory. Sixty-three patients met inclusion criteria (esketamine n=37; IV ketamine n=26). Baseline PHQ-9 scores were similar (18.22±4.49 vs. 18.27±5.41; P = 0.967), as was mean change from baseline (-10.31±5.59 vs. -9.50±5.69; mean difference 0.81, 95% CI -2.12 to 3.75; P = 0.589). Response rates were 64.9% vs. 69.2% (RR 0.94, 95% CI 0.66 to 1.33; P = 0.790), remission 32.4% vs. 23.1% (RR 1.41, 95% CI 0.61 to 3.26; P = 0.573), and clinically meaningful improvement 83.8% vs 73.1% (RR 1.15, 95% CI 0.87 to 1.51; P = 0.353). Induction completion exceeded 90% in both groups; one patient per cohort discontinued from intolerable side effects, and no serious adverse events occurred. Within-group PHQ-9 reduction was large: 10.31±5.59 points (paired t[34]=10.91; P<0.001; Cohen's d=1.84) for esketamine and 9.50±5.69 points (paired t[23]=8.18; P<0.001; Cohen's d=1.67) for ketamine. Findings remained statistically significant and clinically large under a pre-specified baseline observation carried forward (BOCF) sensitivity analysis (Cohen's d=1.65 and 1.45). Induction therapy with intranasal esketamine and intravenous ketamine was associated with robust antidepressant effects in a community outpatient setting, consistent with prior trial data. The modest sample size limits power to detect between-group differences and increases the risk of type II error; the absence of statistically significant between-group differences should therefore not be interpreted as evidence of equivalence. Protocol asymmetry between arms (esketamine: 12 sessions over 8 weeks; IV ketamine: 6 sessions over 3 weeks) further limits direct comparison of endpoint values between groups. Practical considerations including insurance coverage, cost, and administration logistics may help guide treatment selection. Longitudinal follow-up is planned to characterize treatment durability.",
+      "date": "2026-07-09",
+      "authors": [
+        "Bellanti Patrice A",
+        "Lewis Jordan",
+        "Seifferth Brian"
+      ],
+      "doi": "10.3389/fpsyt.2026.1867963"
+    },
+    {
+      "title": "Treating addiction with an addictive drug: the ketamine paradox revisited.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42494734/",
+      "source": "PubMed",
+      "abstract": "Substance use disorders (SUDs) and treatment-resistant depression (TRD) remain a major global health challenge, marked by high relapse rates and limited long-term effectiveness of existing treatments. Ketamine, a glutamatergic modulator with rapid neuroplastic effects, has emerged as a novel intervention for TRD and is increasingly investigated as an adjunctive treatment for addiction, yet concerns about its abuse liability persist. This review critically evaluates ketamine's therapeutic potential for SUDs while examining its neurobiological mechanisms, clinical efficacy, and risk of misuse within a unified risk-benefit framework. A structured narrative review conducted in accordance with the SANRA framework using the PubMed, Scopus, PsycINFO, and Web of Science databases, covering literature published until March 2026. Eligible studies included clinical trials, experimental studies, and mechanistic investigations relevant to ketamine use in addiction and depression. Evidence was synthesized thematically across the domains of efficacy, mechanisms, and safety. Across alcohol and cocaine use disorders, ketamine combined with psychotherapy has demonstrated promising reductions in craving and increases in abstinent days in small-to moderate-sized Phase 2 trials. However, findings remain difficult to generalize due to considerable variability in dosing strategies, comparator conditions, and follow-up periods. Effects on relapse prevention have been more inconsistent and less reliably positive. Mechanistically, ketamine promotes synaptic plasticity via NMDA receptor antagonism and downstream glutamatergic signaling, potentially disrupting maladaptive reward-related memories and reversing maladaptive neurocircuitry involved in both depression and addiction. While acute adverse effects are generally transient under clinical supervision, ketamine carries a well-established risk of misuse, particularly in unsupervised or high-dose settings. Ketamine represents a promising but still experimental intervention for both refractory depression and selected SUDs. Its clinical use depends on careful patient selection, structured delivery, and integration with psychotherapy. Although ketamine may redefine treatment paradigms for TRD and addiction, larger-scale trials and long-term safety data are essential to define its role within psychiatric and addiction treatment frameworks.",
+      "date": "2026-07-09",
+      "authors": [
+        "Hakami Alqassem Y"
+      ],
+      "doi": "10.3389/fpsyt.2026.1866092"
+    },
     {
       "title": "Rapid clinical and EEG microstate changes 24 h after intranasal esketamine in major depressive disorder with suicidal ideation: a prospective paired study.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42492692/",
@@ -183,80 +259,13 @@
       "doi": "10.1016/j.euroneuro.2026.112888"
     },
     {
-      "title": "Case Report: Intranasal esketamine and accelerated intermittent theta-burst stimulation for severe treatment-resistant depression with suicidal ideation.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42466185/",
-      "source": "PubMed",
-      "abstract": "Treatment-resistant major depressive disorder with high-risk suicidal ideation is a psychiatric emergency that requires rapid and effective intervention. Although intranasal esketamine and intermittent theta-burst stimulation (iTBS) are time-efficient therapeutic options, clinical reports describing their combined use in an accelerated inpatient schedule are limited, particularly in acutely high-risk patients. A 29-year-old woman with recurrent major depressive disorder was hospitalized for severe depressive symptoms and high-risk suicidal ideation after inadequate responses to several antidepressant trials, augmentation therapy, psychotherapy, and a standard course of repetitive transcranial magnetic stimulation. Her baseline symptom severity scores were as follows: Patient Health Questionnaire-9 (PHQ-9), 15; Hamilton Depression Rating Scale (HAMD), 27; and Beck Depression Inventory (BDI), 41. After providing written informed consent, she received intranasal esketamine (84 mg) and an accelerated iTBS protocol targeting the left dorsolateral prefrontal cortex (Beam F3 localization), with 10 iTBS sessions delivered over 4 treatment days (total 6,000 pulses). The patient's depressive symptoms improved during the acute treatment course (PHQ-9: 15→11; HAMD: 27→20; BDI: 41→28), and she reported an improvement in suicidal ideation. Her clinical status remained stable at the 2-week follow-up (PHQ-9 = 8; HAMD = 17; and BDI = 23). An exploratory device-derived stress index obtained using the Stress Electroencephalogram Assessment (SEA) system decreased from 7 to 3, consistent with clinical improvement. This case suggests that the combination of intranasal esketamine and accelerated iTBS is feasible in inpatient settings for treating severe depression with high-risk suicidal ideation. Additional controlled studies are required to evaluate the efficacy, optimal sequencing, safety monitoring, and durability of this combined approach.",
-      "date": "2026-07-01",
-      "authors": [
-        "Chang Chun-Hung",
-        "Hsia Yu-Der",
-        "Liu Wen-Chun"
-      ],
-      "doi": "10.3389/fpsyt.2026.1837402"
-    },
-    {
-      "title": "UK's regulatory and legislative double standards in the treatment of psychedelics and drugs for assisted suicide.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42464460/",
-      "source": "PubMed",
-      "abstract": "This editorial highlights the UK's drug regulatory double standards. Drugs for assisted suicide would bypass standard regulation despite limited evidence, while psychedelics face significant barriers despite promising evidence internationally. I argue that drugs for assisted suicide should meet the same regulatory standards, and psychedelics should be rescheduled to enable further clinical research.",
-      "date": "2026-07-17",
-      "authors": [
-        "Zinchenko Ruslan"
-      ],
-      "doi": "10.1192/bjp.2026.10731"
-    },
-    {
-      "title": "Integrated 5-HT",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42463904/",
-      "source": "PubMed",
-      "abstract": "Serotonergic psychedelics have attracted considerable interest as promising therapeutic agents. However, the molecular mechanisms linking their acute hallucinogenic-like effects to longer-lasting neuroplastic responses remain incompletely understood, partly because of the scarcity of native neural models suitable for mechanistic studies. Here, we developed a neural stem cell-derived in vitro model capable of differentiating into neuronal and glial lineages and, after characterization, used it to investigate the molecular pharmacology of serotonergic psychedelics. A panel comprising tryptamines, phenethylamines and ergolines, including psychedelic compounds and selected non-psychedelic analogues, was evaluated alongside ketamine and TrkB agonists. Endpoints included dendritogenesis, synaptogenesis, immediate-early gene induction, BDNF expression and lactate production. TrkB silencing abolished dendritogenic responses to serotonergic psychedelics, ketamine and TrkB agonists, whereas 5-HT",
-      "date": "2026-07-16",
-      "authors": [
-        "Taddei-Tardón Marco",
-        "Medina-Rodríguez Lidia",
-        "Maltman Jessica L"
-      ],
-      "doi": "10.1038/s41380-026-03746-6"
-    },
-    {
-      "title": "Serum brain-derived neurotrophic factor following oral esketamine in treatment-resistant depression: Results from a randomized placebo-controlled trial.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42462931/",
-      "source": "PubMed",
-      "abstract": "Ketamine and its enantiomer esketamine are efficacious in 30-35% of the patients with treatment-resistant depression (TRD). Increased serum brain-derived neurotrophic factor (BDNF) following treatment has been proposed as a potential biomarker of antidepressant response. This is based on studies evaluating single intravenous ketamine treatment. BDNF expression at different treatment schedules remains unclear. This study investigated the effects of daily, low-dose, oral (PO) esketamine on serum BDNF levels in TRD. Biomaterials were obtained from a randomized, placebo-controlled trial investigating six-week PO esketamine treatment (90 mg/day, three 30 mg intakes) that found no difference between conditions on the primary outcome (Hamilton Depression Rating Scale). Depression severity and serum BDNF levels were assessed in 54 patients at baseline, end of treatment, and after a four-week washout period. Repeated measures analyses of variance (ANOVA) were conducted to test the effect of treatment on depression severity and BDNF. Pearson's correlation analysis evaluated the association between changes in depression severity, ketamine metabolites and BDNF. The change in BDNF levels during treatment did not significantly differ between the esketamine and placebo group during treatment or washout. An increase in BDNF (F(1,50) = 4.606, p = 0.037) was found irrespective of treatment condition. In the esketamine arm, BDNF changes did not correlate with changes in depression severity, nor with metabolites levels. Repeated, low-dose, PO esketamine did not increase serum BDNF relative to placebo. While consistent with its limited clinical efficacy, it remains uncertain whether this reflects an unreached pharmacological threshold to engage synaptic plasticity.",
-      "date": "2026-07-16",
-      "authors": [
-        "Massetti Sara",
-        "Smith-Apeldoorn Sanne Y",
-        "Veraart Jolien K E"
-      ],
-      "doi": "10.1016/j.jad.2026.122265"
-    },
-    {
-      "title": "Test-retest reliability of early TMS-evoked potentials over fMRI-based definitions of non-motor targets.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42462581/",
-      "source": "PubMed",
-      "abstract": "This study assessed the test-retest reliability of TMS-evoked potentials (TEPs) across two cortical regions-dorsolateral prefrontal cortex (DLPFC), and angular gyrus-in comparison to motor cortex (M1), using individualized and literature-based targeting approaches. The study also compared the reliability of different double-pulse TMS protocols. Seventeen healthy participants underwent two TMS-EEG sessions spaced by at least one week, with targets for DLPFC and angular gyrus identified using resting-state functional connectivity (RS) and Neurosynth-based functional overlays. M1 demonstrated the highest TEP reliability (Concordance Correlation Coefficient (CCC) mean = 0.59), while DLPFC (CCCmean = 0.40) and angular gyrus (CCCmean = 0.45) showed lower reliability, particularly for anterior DLPFC targets. Neurosynth-based DLPFC targets exhibited slightly higher CCC values (mean CCC = 0.57) compared to RS-based targets (mean CCC = 0.30), but the difference was not statistically significant. No significant differences in reliability were found across TMS protocols. While fMRI-based targeting optimizes the engagement of functional networks, TMS-EEG needs to prioritize signal-to-noise ratio (SNR) to minimize artifacts and maximize reliability. This work bridges the gap between fMRI-guided targeting and TMS-EEG applications.",
-      "date": "2026-07-03",
-      "authors": [
-        "Sayalı Ceyda",
-        "Gogulski Juha",
-        "Granö Ida"
-      ],
-      "doi": "10.1016/j.clinph.2026.2112327"
-    },
-    {
-      "title": "Generalizable structure-function covariation predictive of antidepressant response revealed by target-oriented multimodal fusion.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42460432/",
-      "source": "PubMed",
-      "abstract": "Major depressive disorder (MDD) is a prevalent condition that profoundly impairs quality of life across diverse populations. Despite widespread use, current antidepressant and psychotherapeutic treatments exhibit limited efficacy and unsatisfactory response rates. Progress in developing effective therapies is hampered by the insufficiently understood heterogeneity of MDD and its elusive underlying mechanisms. Here, to address these challenges, we develop a novel machine learning framework that identifies structure-function covariation through target-oriented fusion of structural and functional connectivity, which robustly predicts individual-level antidepressant response (sertraline,",
-      "date": "2025-12-12",
-      "authors": [
-        "Tong Xiaoyu",
-        "Zhao Kanhao",
-        "Fonzo Gregory A"
-      ],
-      "doi": "10.1038/s44220-025-00541-0"
+      "title": "Psychedelic Funding Update: Q2 2026",
+      "url": "https://psychedelicalpha.com/news/psychedelic-funding-update-q2-2026/",
+      "source": "Psychedelic Alpha",
+      "abstract": "We have updated our Psychedelic Company Financing Tracker to reflect activity in Q2 2026. Quarterly Fundraising Activity in Psychedelics Psychedelic financing activity in the second quarter of 2026 broke all records, with just over $1 billion raised over the three-month period across ten events. The vast majority of that capital came from just one financing, […]",
+      "date": "2026-07-24",
+      "authors": [],
+      "doi": ""
     },
     {
       "title": "Pα+ Psychedelic Bulletin #228: Inside the Lilly-Atai Deal; An Update on the GH-AtaiBeckley Patent Standoff; Field Reacts to FDA’s Guidance; Resilient Readies Resubmission",
@@ -336,15 +345,6 @@
       "source": "Psychedelic Alpha",
       "abstract": "This morning, Compass Pathways shared 26-week data from its second Phase 3 study of COMP360 psilocybin for treatment-resistant depression (TRD). The data are from Part B of COMP006, the company’s larger (n=581) Phase 3 trial that initially assessed two doses of either 1 mg, 10 mg, or 25 mg of psilocybin 3 weeks apart. The […]",
       "date": "2026-07-07",
-      "authors": [],
-      "doi": ""
-    },
-    {
-      "title": "Quarterly Psychedelics Briefing: Q2 2026",
-      "url": "https://psychedelicalpha.com/news/quarterly-briefing-q2-2026/",
-      "source": "Psychedelic Alpha",
-      "abstract": "Welcome to our Q2 2026 Quarterly Briefing. Every three months, our Founder & Editor Josh Hardman walks you through major developments from the prior quarter across drug development, policy and regulation, science and academia, and much more. He closes with a look ahead to the next quarter, so you know what to look out for.",
-      "date": "2026-07-03",
       "authors": [],
       "doi": ""
     },
@@ -452,6 +452,19 @@
       "doi": "10.5812/ijpr-164903"
     },
     {
+      "title": "Substance use and mental health outcomes among gay and bisexual men in South Korea: a cross-sectional study.",
+      "url": "https://doi.org/10.1016/j.abrep.2026.100728",
+      "source": "Europe PMC",
+      "abstract": "<h4>Purpose</h4>This study investigated the prevalence of substance use among gay and bisexual men in South Korea and examined its association with mental health outcomes.<h4>Methods</h4>Data were drawn from a nationwide cross-sectional survey of 1407 Korean gay and bisexual men aged 19-34 conducted in 2021. Participants completed measures assessing lifetime substance use (e.g., methamphetamine, ketamine, and cannabis) and mental health outcomes including depressive symptoms, suicidal ideation, suicide attempts, and psychiatric service utilization. Multivariate regression analyses examined associations between substance use and mental health outcomes.<h4>Results</h4>Among participants, 17.7% reported lifetime substance use. Substance use was significantly associated with increased risks of suicidality and psychiatric service utilization.<h4>Conclusion</h4>This study found significant associations between substance use and adverse mental health outcomes among Korean gay and bisexual men. These findings highlight the urgent need for integrated interventions addressing both substance use and mental health in this population.",
+      "date": "2026-07-17",
+      "authors": [
+        "Jeong SJ",
+        "Kim B",
+        "Lee H"
+      ],
+      "doi": "10.1016/j.abrep.2026.100728"
+    },
+    {
       "title": "Effects of low-dose esketamine on early quality of recovery following minimally invasive esophagectomy: a multicenter, randomized controlled study.",
       "url": "https://doi.org/10.1080/07853890.2026.2704297",
       "source": "Europe PMC",
@@ -554,24 +567,11 @@
       "doi": "10.1080/19490976.2026.2689610"
     },
     {
-      "title": "m6A methylation of circKPNA2 promotes colorectal carcinogenesis by activating the RIN1-Ras pathway.",
-      "url": "https://doi.org/10.1080/15592294.2026.2672219",
-      "source": "Europe PMC",
-      "abstract": "Colorectal cancer (CRC) is a prevalent and highly lethal malignancy. However, the molecular mechanisms underlying its progression remain incompletely understood. Therefore, this study aimed to investigate the role and mechanisms of circKPNA2 in CRC progression. We used various techniques, including RNA sequencing, functional assays, RNA pull-down, and mass spectrometry, to examine the expression and function of circKPNA2. Our findings indicate that circKPNA2 is significantly upregulated in CRC tissues and cell lines. It contributes to tumour growth by promoting cell proliferation, migration, and invasion. We found that circKPNA2 specifically binds to the RIN1 protein and increases its levels, thereby activating the Ras signalling pathway and facilitating CRC progression. Additionally, we identified that METTL3 regulates the expression of circKPNA2 through N6-methyladenosine (m<sup>6</sup>A) methylation, which in turn affects CRC cell proliferation, migration, and invasion. These results deepen our understanding of CRC biology and underscore the potential of targeting circKPNA2 as both a therapeutic target and a diagnostic biomarker to improve CRC diagnosis and treatment.",
-      "date": "2026-06-19",
-      "authors": [
-        "Tian J",
-        "Jiang Z",
-        "Huang Q"
-      ],
-      "doi": "10.1080/15592294.2026.2672219"
-    },
-    {
       "title": "CZ",
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2018-004480-31/CZ",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-07-24",
+      "date": "2026-07-25",
       "authors": [],
       "doi": ""
     },
@@ -580,7 +580,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2020-005037-32/CZ",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-07-24",
+      "date": "2026-07-25",
       "authors": [],
       "doi": ""
     },
@@ -589,7 +589,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2021-002909-10/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-07-24",
+      "date": "2026-07-25",
       "authors": [],
       "doi": ""
     },
@@ -598,7 +598,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2015-000550-37/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-07-24",
+      "date": "2026-07-25",
       "authors": [],
       "doi": ""
     },
@@ -607,7 +607,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2021-000041-40/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-07-24",
+      "date": "2026-07-25",
       "authors": [],
       "doi": ""
     },
@@ -616,7 +616,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2020-000829-55/DK",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-07-24",
+      "date": "2026-07-25",
       "authors": [],
       "doi": ""
     },
@@ -625,7 +625,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2020-002790-94/SE",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-07-24",
+      "date": "2026-07-25",
       "authors": [],
       "doi": ""
     },
@@ -634,7 +634,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2021-006200-33/FI",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-07-24",
+      "date": "2026-07-25",
       "authors": [],
       "doi": ""
     },
@@ -643,7 +643,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2019-004812-73/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-07-24",
+      "date": "2026-07-25",
       "authors": [],
       "doi": ""
     },
@@ -652,7 +652,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2022-002369-14/BE",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-07-24",
+      "date": "2026-07-25",
       "authors": [],
       "doi": ""
     },

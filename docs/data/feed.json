@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-25T08:30:20.394564+00:00",
+  "generated_at": "2026-07-26T08:44:50.894401+00:00",
   "items": [
     {
       "title": "Blinding integrity in psychedelic research: Evidence from a comparative randomized controlled trial of psilocybin, MDMA, and methylphenidate in healthy volunteers",
@@ -159,6 +159,37 @@
         "ketamine"
       ],
       "added_at": "2026-07-24T09:02:17.474070+00:00"
+    },
+    {
+      "title": "Quality of life and productivity among esketamine responders in a real-world study in Australia and New Zealand.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42501650/",
+      "source": "PubMed",
+      "date": "2026-07-21",
+      "authors": [
+        "Hopwood Malcolm",
+        "Codyre David",
+        "Barton David"
+      ],
+      "doi": "10.1016/j.jpsychires.2026.07.011",
+      "summaries": {
+        "en": "Real-world study of 84 treatment-resistant depression patients in Australia and New Zealand receiving esketamine nasal spray plus oral antidepressant for 16 weeks. 33% showed ≥50% symptom reduction. Responders demonstrated significant improvements: depression severity decreased 71%, quality of life increased 29.5%, and work productivity loss improved 35.9%. Mental health domain showed greatest quality of life gains.",
+        "sv": "Verklighetsstudie på 84 patienter med behandlingsresistent depression i Australien och Nya Zeeland som fick esketamin nässpray plus oralt antidepressivum under 16 veckor. 33% uppnådde ≥50% symtomlindring. Responderare visade signifikanta förbättringar: depression minskade 71%, livskvalitet ökade 29,5% och produktivitetsförlust minskade 35,9%. Psykisk hälsa visade största förbättringen i livskvalitet.",
+        "no": "Praksisstudien inkluderte 84 pasienter med behandlingsresistent depresjon i Australia og New Zealand som fikk esketamin nesespray pluss oralt antidepressivum i 16 uker. 33% oppnådde ≥50% symptomreduksjon. Respondere viste betydelige forbedringer: depresjon redusert 71%, livskvalitet økt 29,5% og produktivitetstap forbedret 35,9%. Psykisk helse viste størst forbedring i livskvalitet.",
+        "da": "Praksisstudiet omfattede 84 patienter med behandlingsresistent depression i Australien og New Zealand, som modtog esketamin næsespray plus oralt antidepressivum i 16 uger. 33% opnåede ≥50% symptomreduktion. Respondenterne viste væsentlige forbedringer: depression reduceret 71%, livskvalitet øget 29,5% og produktivitetstab forbedret 35,9%. Mental sundhed viste størst forbedring i livskvalitet.",
+        "fi": "Todellisen maailman tutkimus, johon osallistui 84 hoitoresistentin masennuksen potilasta Australiassa ja Uudessa-Seelannissa, jotka saivat esketamiini-nenäsumutetta ja suonensisäistä masennuslääkettä 16 viikon ajan. 33% saavutti ≥50% oireenalennusta. Vastanneet potilaset osoittivat merkittäviä parannuksia: masennus väheni 71%, elämänlaatu parantui 29,5% ja työkyky heikkeneminen parantui 35,9%. Mielenterveys osoitti suurimman elämänlaadun parannuksen.",
+        "is": "Raunveruleg rannsókn á 84 sjúklingum með meðhöndlunarþolna þunglyndi á Ástralíu og Nýja-Sjálandi sem fengu esketamín nasúsprey og munnlegt þunglyndislyf í 16 vikur. 33% náðu ≥50% einkennasamdrætti. Svörunarsjúklingar sýndu verulega framför: þunglyndi fór lækkað um 71%, lífsgæði hækkuðu um 29,5% og framleiðni taprækari batnaði um 35,9%. Andleg heilsa sýndi mestu framför í lífsgæðum.",
+        "et": "Tegelik uuringus osales 84 raviravitava depressiooni patsienti Austraalias ja Uus-Meremaal, kes said esketamiini ninaspreid ja suulist antidepressanti 16 nädala jooksul. 33% saavutasid ≥50% sümptomite vähenemise. Vastajad näitasid märkimisväärseid parandusi: depressioon vähenes 71%, elukvaliteet kasvas 29,5% ja tootlikkuse langus paranes 35,9%. Vaimne tervis näitas suurimat elukvaliteedis paranemist.",
+        "lv": "Reālas prakses pētījumā piedalījās 84 pacienti ar ārstēšanas rezistentu depresiju Austrālijā un Jaunzēlandē, kuri saņēma esketamīna deglāvs un mutiskus antidepresantus 16 nedēļas garumā. 33% sasniedza ≥50% simptomu samazinājumu. Reaģējušiem pacientiem novēroja nozīmīgus uzlabojumus: depresija samazinājās par 71%, dzīves kvalitāte pieauga par 29,5% un darba produktivitātes zudumi uzlabojās par 35,9%. Garīgā veselība parādīja lielāko dzīves kvalitātes uzlabojumu.",
+        "lt": "Tikrovės studijoje dalyvavo 84 pacientai su gydymui rezistentiniu depresija Australijoje ir Naujojoje Zelandijoje, kurie gavo esketamino nosies purškalą ir žaluosius antidepresantus 16 savaičių. 33% pasiekė ≥50% simptomų sumažėjimą. Respondentai parodė reikšmingus pagerinimus: depresija sumažėjo 71%, gyvenimo kokybė padidėjo 29,5% ir darbo produktyvumo praradimas pagerėjo 35,9%. Psichinė sveikata parodė didžiausią gyvenimo kokybės pagerinimą."
+      },
+      "notable": false,
+      "notable_reasons": null,
+      "relevance_score": 4,
+      "study_type": "observational",
+      "substances": [
+        "ketamine"
+      ],
+      "added_at": "2026-07-26T08:44:16.826440+00:00"
     },
     {
       "title": "Targeting TLR4/PPARα-mediated neuroinflammation in the prefrontal cortex: S-ketamine and S-HNK rapidly alleviate depression-like behaviors.",
@@ -1785,6 +1816,37 @@
       "added_at": "2026-07-03T09:41:06.927715+00:00"
     },
     {
+      "title": "Real-World Effectiveness and Cost-Differential of Intranasal Esketamine Versus Intramuscular Ketamine.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42500270/",
+      "source": "PubMed",
+      "date": "2026-07-02",
+      "authors": [
+        "Bhatt Kush V",
+        "Austin Tara",
+        "Alam Danny"
+      ],
+      "doi": "10.1176/appi.prcp.20260041",
+      "summaries": {
+        "en": "Retrospective VA study (n=179) comparing intramuscular (IM) ketamine with intranasal (IN) esketamine for treatment-resistant depression. Both showed non-inferior efficacy (PHQ-9 difference: 0.04, 95% CI: -1.21–1.29) and comparable safety profiles. IM ketamine cost $647 per eight-treatment course versus $6,069 for IN esketamine, suggesting IM as a cost-effective alternative improving access to ketamine treatment.",
+        "sv": "Retrospektiv VA-studie (n=179) jämförde intramuskulär (IM) ketamin med intranasal (IN) esketamin för behandlingsresistent depression. Båda visade ekvivalent effekt (PHQ-9-skillnad: 0,04, 95% CI: -1,21–1,29) och jämförbar säkerhet. IM-ketamin kostade $647 per åttabehandlingskurs mot $6 069 för IN-esketamin, vilket föreslår IM som kostnadseffektivt alternativ för ökad tillgång.",
+        "no": "Retrospektiv VA-studie (n=179) sammenliknet intramuskulær (IM) ketamin med intranasal (IN) esketamin for behandlingsresistent depresjon. Begge viste ikke-inferiør effekt (PHQ-9-forskjell: 0,04, 95% CI: -1,21–1,29) og sammenlignbar sikkerhet. IM-ketamin kostet $647 per åtte behandlinger versus $6 069 for IN-esketamin, noe som tilsier IM som kostnadseffektivt alternativ.",
+        "da": "Retrospektiv VA-studie (n=179) sammenlignede intramuskulær (IM) ketamin med intranasal (IN) esketamin til behandlingsresistent depression. Begge viste ikke-inferiør effekt (PHQ-9-forskel: 0,04, 95% CI: -1,21–1,29) og sammenlignelig sikkerhed. IM-ketamin kostede $647 per otte behandlinger mod $6.069 for IN-esketamin, hvilket foreslår IM som kostnadseffektivt alternativ.",
+        "fi": "Retrospektiivinen VA-tutkimus (n=179) vertaili intramuskulaarista (IM) ketamiinia ja intranaasaalista (IN) esketamiinia hoitoon reagoimattomaan masennukseen. Molemmat osoittivat ei-huonommuutta tehokkuudessa (PHQ-9-ero: 0,04, 95% CI: -1,21–1,29) ja vertailukelpoista turvallisuutta. IM-ketamiini maksoi $647 kahdeksaa hoitokertaa kohti versus $6 069 IN-esketaminille, mikä viittaa IM:ään kustannustehokkaaaksi vaihtoehdoksi.",
+        "is": "Afturskyggn VA-rannsókn (n=179) barði saman innan-vöðva (IM) ketamín og innan-nef (IN) esketamín fyrir meðferðarþola þunglyndi. Báðir sýndu jafngildi verkun (PHQ-9-munur: 0,04, 95% CI: -1,21–1,29) og sambærilega öryggi. IM-ketamín kostaði $647 fyrir átta meðferðir á móti $6.069 fyrir IN-esketamín, sem leggur til að IM sé hagkvæmt val.",
+        "et": "Retrospektiivne VA-uuringu (n=179) võrdles intramuskulaarset (IM) ketamiini intranaasaalse (IN) esketamiiniga ravi-resistentsete depressiooni puhul. Mõlemad näitasid mitteinferioorset efektiivsust (PHQ-9-erinevus: 0,04, 95% CI: -1,21–1,29) ja võrdluselist ohutust. IM-ketamiin maksis $647 kaheksast ravist versus $6 069 IN-esketamiini eest, viitades IM-le kulusäästlikuks alternatiiviks.",
+        "lv": "Retrospektīvs VA pētījums (n=179) salīdzināja intramuskulāro (IM) ketamīnu ar intranauzālo (IN) esketamīnu ārstēšanai rezistentai depresijai. Abi parādīja ne-inferioritāti efektivitātē (PHQ-9 starpība: 0,04, 95% CI: -1,21–1,29) un salīdzinājumu drošumu. IM-ketamīns maksāja $647 par astoņiem ārstējumiem salīdzinājumā ar $6 069 IN-esketamīnam, kas norāda uz IM kā rentablu alternatīvu.",
+        "lt": "Retrospektyviojo VA tyrimo (n=179) metu lygintas intramuskulinis (IM) ketaminas su intranaziniu (IN) esketaminu, skirtu atspariems depresija liga. Abu vartojami parodė ne-žemesnę veiksmingumą (PHQ-9 skirtumas: 0,04, 95% CI: -1,21–1,29) ir palyginamą saugumą. IM-ketaminas kainavo $647 už aštuonis gydymus, palyginti su $6 069 IN-esketaminui, siūlydamas IM kaip ekonomiškai efektyvią alternatyvą."
+      },
+      "notable": false,
+      "notable_reasons": null,
+      "relevance_score": 4,
+      "study_type": "observational",
+      "substances": [
+        "ketamine"
+      ],
+      "added_at": "2026-07-26T08:44:16.826440+00:00"
+    },
+    {
       "title": "Psilocybin as a Transdiagnostic Treatment for Eating Disorders and Comorbid Psychopathology: Implications for Clinical Nosology and Research Directions.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42393007/",
       "source": "PubMed",
@@ -1875,68 +1937,6 @@
         "ketamine"
       ],
       "added_at": "2026-07-18T08:16:27.551676+00:00"
-    },
-    {
-      "title": "Comparative efficacy and acceptability of pharmacological interventions for postpartum depression: a systematic review and network meta-analysis.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42401022/",
-      "source": "PubMed",
-      "date": "2026-07-01",
-      "authors": [
-        "Xiao Yao",
-        "Xie Ping",
-        "Li Danlei"
-      ],
-      "doi": "10.1016/j.psychres.2026.117318",
-      "summaries": {
-        "en": "Network meta-analysis of 18 RCTs (N=1722) comparing pharmacological treatments for postpartum depression. Saffron, fluoxetine, esketamine, brexanolone, and zuranolone showed symptom improvement versus placebo. Fluoxetine, saffron, and zuranolone had higher response rates; brexanolone alone demonstrated significant remission improvement. Brexanolone showed poor acceptability; zuranolone increased adverse events. Evidence quality mostly low-to-moderate.",
-        "sv": "Nätverksmetaanalys av 18 RCT:er (N=1722) jämförde farmakologiska behandlingar för postpartumsdepression. Saffran, fluoxetin, esketamin, brexanolon och zuranolон visade symptomförbättring jämfört med placebo. Fluoxetin, saffran och zuranolон hade högre svarsfrekvenser; endast brexanolon visade signifikant remission. Brexanolon hade dålig acceptabilitet; zuranolон ökade biverkningar. Bevisstyrka övervägande låg till måttlig.",
-        "no": "Nettverksmetaanalyse av 18 RCT-er (N=1722) som sammenlignet farmakologiske behandlinger for postpartumdepresjoner. Safran, fluoksetin, esketamin, brexanolon og zuranolон viste symptomforbedring sammenlignet med placebo. Fluoksetin, safran og zuranolон hadde høyere responsrater; kun brexanolon viste signifikant remisjon. Brexanolon hadde dårlig akseptabilitet; zuranolон økte bivirkninger. Bevisstyrke hovedsakelig lav til moderat.",
-        "da": "Netværksmetaanalyse af 18 RCT'er (N=1722) sammenlignede farmakologiske behandlinger for postpartum-depression. Safran, fluoxetin, esketamin, brexanolon og zuranolон viste symptomforbedring sammenlignet med placebo. Fluoxetin, safran og zuranolон havde højere responsrater; kun brexanolon viste signifikant remission. Brexanolon havde dårlig acceptabilitet; zuranolон øgede bivirkninger. Bevisqualitet overvejende lav til moderat.",
-        "fi": "Verkkonetaanalyysi 18 RCT-tutkimuksesta (N=1722) vertaili farmakologisia hoitoja synnytysjälkeiseen masennukseen. Sahrani, fluoksetiini, esketamiini, breksanolooni ja zuraanolooni osoittivat oirehelpotusta verrattuna platseboon. Fluokseteiinil, sahraniilla ja zuraanolooniilla oli korkeammat vastausasteet; vain breksanolooni osoitti merkitsevää remissiota. Breksanolooni oli huonosti hyväksytty; zuraanolooni lisäsi haittavaikutuksia. Todistusten laatu enimmäkseen matala tai kohtalainen.",
-        "is": "Netverk-metaanalysi 18 slembilegra rannsókna (N=1722) sem báru saman lyfjameðferðir fyrir þunglyndi eftir fæðingu. Krokus, flúoxetín, esketamín, brexanolon og zúranolon sýndu bætingu einkenna samanborið við lyfleysu. Flúoxetín, krokus og zúranolon höfðu hærri svörun; aðeins brexanolon sýndi marktæka bata. Brexanolon var illa þolað; zúranolon jók aukaverkanir. Sönnunargæði að mestu lítil til meðalstærð.",
-        "et": "Võrgumeta-analüüs 18 RCT uuringust (N=1722) võrdles farmakioloogilisi ravimeetodeid sünnitusjärgse depressiooni jaoks. Sahram, fluoksetiin, esketamiin, breksanolon ja zuraanolon näitasid sümptomite paranemist võrreldes platseeboga. Fluokseteiinil, sahrami ja zuraanoloonil oli kõrgemad reageerimismäärad; ainult breksanolon näitas märgatavat remissiooni. Breksanolooni vastuvõtavus oli kehv; zuraanolon suurendas kõrvaltoimeid. Tõendite kvaliteet peamiselt madal kuni mõõdukas.",
-        "lv": "Tīkla metaanalīze no 18 RCT pētījumiem (N=1722), kas salīdzināja farmakologiskās ārstēšanas metodes pēcdzemdību depresijas gadījumā. Šafrāns, fluoksētīns, esketamīns, breksanolons un zuranolons parādīja simptomu uzlabošanos, salīdzinot ar placebо. Fluoksētīnam, šafrānam un zuranolоnam bija augstākie atbildes rādītāji; tikai breksanolons parādīja statistiski nozīmīgu remisiju. Breksanolona pieņemamība bija zema; zuranolons palielināja blakusparādības. Pierādījumu kvalitāte galvenokārt zema līdz vidēja.",
-        "lt": "Tinklo metaanalizė iš 18 RCT tyrimų (N=1722), lyginusių farmakologinius postpartuminės depresijos gydymo būdus. Šafranis, fluoksetinas, esketaminas, breksanolona ir zuranolona parodė simptomų pagerinimą, lyginant su placebо. Fluoksетinas, šafranis ir zuranolona turėjo aukštesnius atsakymo rodiklius; tik breksanolona parodė statistiškai reikšmingą remisiją. Breksanolono priimtinumas buvo žemas; zuranolona padidino šalutinius poveikius. Įrodymų kokybė daugiausia žema arba vidutinė."
-      },
-      "notable": false,
-      "notable_reasons": null,
-      "relevance_score": 3,
-      "study_type": "review",
-      "substances": [
-        "ketamine"
-      ],
-      "added_at": "2026-07-05T09:26:35.324757+00:00"
-    },
-    {
-      "title": "Modeled Long-Term Effects of Psilocybin on Dynamic Activity and Effective Connectivity of Fronto-Striatal-Thalamic Circuits.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42381187/",
-      "source": "PubMed",
-      "date": "2026-Jul",
-      "authors": [
-        "Pasquini Lorenzo",
-        "Vohryzek Jakub",
-        "Escrichs Anira"
-      ],
-      "doi": "10.1002/hbm.70596",
-      "summaries": {
-        "en": "Secondary fMRI analysis of psilocybin's long-term effects in healthy volunteers shows increased dynamic activity in fronto-striatal-thalamic circuits four weeks post-dose. Computational modeling suggests this involves reduced structure-function coupling and altered top-down/bottom-up modulation, linked to serotonergic and dopaminergic receptor availability. Findings support mechanistic understanding of psilocybin's sustained therapeutic effects.",
-        "sv": "Sekundäranalys av fMRI-data från friska försökspersoner visar ökad dynamisk aktivitet i fronto-striatal-thalamiska kretsar fyra veckor efter psilo­cybin-dos. Beräkningsmodellering föreslår att detta involverar minskad struktur-funktionskoppling och förändrad top-down/bottom-up-modulering, kopplad till serotonerga och dopaminerga receptorer. Fynd stödjer mekanistisk förståelse av psilo­cybins varaktiga terapeutiska effekter.",
-        "no": "Sekundæranalyse av fMRI-data fra friske frivillige viser økt dynamisk aktivitet i fronto-striatal-thalamiske kretser fire uker etter psilo­cybin-dose. Beregningsmodellering foreslår at dette involverer redusert struktur-funksjons-kobling og endret top-down/bottom-up-modulering, knyttet til serotonerge og dopaminerge reseptorer. Funn støtter mekanistisk forståelse av psilo­cybins vedvarende terapeutiske effekter.",
-        "da": "Sekundær fMRI-analyse af data fra raske frivillige viser øget dynamisk aktivitet i fronto-striatal-thalamiske kredsløb fire uger efter psilo­cybin-dosis. Beregningsmodellering foreslår, at dette involverer reduceret struktur-funktionskoblng og ændret top-down/bottom-up-modulering, knyttet til serotonerge og dopaminerge receptorer. Resultater understøtter mekanistisk forståelse af psilo­cybins varige terapeutiske effekter.",
-        "fi": "Terveillä vapaaehtoisilla suoritetun fMRI-analyysin avulla havaittiin lisääntynyt dynaaminen aktiivisuus fronto-striataali-thalamuksisissa piireissä neljä viikkoa psilo­sybiinin annoksen jälkeen. Laskennallinen mallintaminen viittaa rakenteen ja toiminnan kytkennän vähenemiseen sekä muuttuneeseen top-down/bottom-up-modulaatioon, jotka liittyvät serotonergi- ja dopamini-reseptoreihin. Tulokset tukevat psilo­sybiinin pitkäaikaisten terapeuttisten vaikutusten mekanistista ymmärrystä.",
-        "is": "Eftirgreining á fMRI-gögnum frá heilbrigðum þátttakendum sýnir aukna kraftmikla virkni í fronto-striatal-thalamísku hringum fjórar vikur eftir psilo­sýbín-skammta. Tölvulíkanagerð bendir til þess að þetta feli í sér minkaða samtengi byggingar og virkni og breyttar top-down/bottom-up stýringar, tengd serótóníner- og dópamín-viðtökum. Niðurstöður styðja hugsunarkerfistalingu á langvarandi meðferðaráhrifum psilo­sýbíns.",
-        "et": "Tervete vabatahtlikutega teostatud fMRI-analüüs näitab suurenenud dünaamilist aktiivsust fronto-striato-taalami ahelates neli nädalat psilotsübiini manustamise järel. Arvutusmudeleerimine viitab struktuuri-funktsiooni sidumise vähenemisele ja muutunud ülalt-alla/altalt-üles moduleerimisele, mis on seotud serotonergiliste ja dopaminergiliste retseptoritega. Tulemused toetavad psilotsübiini pikaajaliste ravitoime mehhanistlikku mõistmist.",
-        "lv": "Sekundārā fMRI analīze veseliem brīvprātīgajiem parāda palielinātu dinamisko aktivitāti fronto-striatālo-tālamusa ķēdēs četras nedēļas pēc psilotsibīna devas. Skaitļošanas modelēšana liecina par samazinātu struktūras-funkcijas savienojumu un mainītu no augšas uz leju/no apakšas uz augšu modulāciju, kas saistīta ar serotonerģiskiem un dopaminerģiskiem receptoriem. Rezultāti atbalsta psilotsibīna ilgtermiņa terapeitisko efektu mehānistisku izpratni.",
-        "lt": "Antrinė fMRI analizė sveikų savanorių duomenimis parodo padidėjusią dinaminę veiklą fronto-striatalo-talamuose esančiose grandinėse keturias savaites po psilotsibino dozes. Skaičiaviminis modeliavimas rodo sumažėjusį struktūros-funkcijos ryšį ir pakeistą viršaus į apačią/iš apačios į viršų moduliaciją, susijusią su serotonergeis ir dopaminergeis receptoriais. Rezultatai parempia psilotsibino ilgalaikių terapinių efektų mechanistinį supratimą."
-      },
-      "notable": false,
-      "notable_reasons": null,
-      "added_at": "2026-07-02T09:41:47.101119+00:00",
-      "relevance_score": 3,
-      "study_type": "observational",
-      "substances": [
-        "psilocybin"
-      ]
     }
   ]
 }

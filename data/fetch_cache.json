@@ -1,7 +1,46 @@
 {
-  "date": "2026-07-25",
-  "cached_at": "2026-07-25T08:02:38.042199+00:00",
+  "date": "2026-07-26",
+  "cached_at": "2026-07-26T08:22:58.712857+00:00",
   "articles": [
+    {
+      "title": "Quality of life and productivity among esketamine responders in a real-world study in Australia and New Zealand.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42501650/",
+      "source": "PubMed",
+      "abstract": "Treatment-resistant depression (TRD) is associated with severe depression, low quality of life (QoL) and reduced work productivity, which may increase risk of relapse, suicide and suboptimal response to treatment. Esketamine nasal spray plus a newly-initiated oral antidepressant (esketamine + OAD) has been shown to improve depression symptoms, QoL and productivity in patients with TRD; however real-world evidence is limited. This was a descriptive, exploratory post-hoc subgroup analysis of patients with TRD who received esketamine + OAD treatment over 16 weeks through an Early Access Program in Australia and New Zealand. This analysis aimed to describe response to esketamine + OAD (≥50% decrease in Hamilton Depression Rating Scale Index [HAMD-17] score at Week 16), including changes in depression severity, QoL and work productivity. QoL was assessed using the Assessment of QoL-8D (AQoL-8D) questionnaire and work productivity was assessed using the Workplace Productivity and Activity Impairment: Specific Health Problem Questionnaire (WPAI:SHP). Overall, 28 (33.3%) participants were identified as responders. Responders experienced mean improvements in HAMD-17 (71.2%), AQoL-8D (29.5%) and WPAI:SHP (≥11.9%) from Baseline to Week 16. The greatest improvement among AQoL-8D domains was observed in mental health (32.9%). The largest improvement in WPAI:SHP was seen in overall work productivity loss (35.9%). These findings describe concurrent improvements in symptoms, QoL and self-reported functioning among responders. Results should be interpreted with caution due to limitations conferred by the post-hoc design, short follow-up, small population sizes and missing data.",
+      "date": "2026-07-21",
+      "authors": [
+        "Hopwood Malcolm",
+        "Codyre David",
+        "Barton David"
+      ],
+      "doi": "10.1016/j.jpsychires.2026.07.011"
+    },
+    {
+      "title": "Mapping and measuring addiction recovery: Recommended protocols through the PHENX toolkit.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42501516/",
+      "source": "PubMed",
+      "abstract": "Addiction \"recovery\" has served as a positive conceptual basis for major public health frameworks, communication strategies, and policies. With greater research interest and increasing explication of the recovery construct a multitude of measures have emerged, prompting a need to reach consensus on recommendations to enable better data harmonization and cross-study syntheses. The PhenX (consensus measures for Phenotypes and eXposures) Toolkit (www.phenxtoolkit.org) is a freely accessible catalog of validated protocols designed to promote data comparability across clinical, epidemiological, and genomic research, yet contained no recovery-specific measures. In 2024, a Substance Use and Recovery Working Group (SURWG) followed a well-established and detailed PhenX consensus process to identify and recommend protocols suitable for recovery research. Protocols were chosen based on criteria including recovery specificity, brevity, psychometrics, scoring simplicity, and non-proprietary access. The broader scientific community (12 national/regional organizations) provided feedback (respondent N = 86) on the SURWG's preliminary recommendation which was incorporated into final decisions. In 2025, the PhenX Toolkit released 15 new recommended protocols across three broad recovery elements: 1. Biopsychological (post-acute withdrawal; craving), 2. Socio-ecological (social relationships;social network characteristics; substance use goal; recovery identity; recovery capital), 3. Treatment and recovery services (Treatment and Recovery Services Use; Satisfaction; and Happiness in Recovery; Mutual-Help). This PhenX Toolkit SURWG process resulted in a new Substance Use Recovery Specialty Collection of recommended protocols with specific multidimensional applicability. As such, they provide the field with pre-vetted tools that researchers can employ with some confidence to enhance empirical efficiency and return on national research investment.",
+      "date": "2026-07-17",
+      "authors": [
+        "Kelly John F",
+        "Zemore Sarah",
+        "Vilsaint Corrie L"
+      ],
+      "doi": "10.1016/j.drugalcdep.2026.113265"
+    },
+    {
+      "title": "Real-World Effectiveness and Cost-Differential of Intranasal Esketamine Versus Intramuscular Ketamine.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42500270/",
+      "source": "PubMed",
+      "abstract": "This study evaluated whether intramuscular (IM) ketamine is non-inferior to intranasal (IN) esketamine for treatment-resistant depression (TRD) and assessed differences in safety and healthcare costs. In a retrospective, observational sequential cohort at the VA San Diego, 179 Veterans with TRD received eight treatments of either IN esketamine ( IM ketamine was non-inferior to IN esketamine for depression, with a baseline-adjusted estimated marginal mean PHQ-9 difference of 0.04 points (95% CI: -1.21 to 1.29). Reductions in PTSD symptoms were also non-inferior. Incidence of sentinel adverse events were comparable, with no significant differences in emergency department visits or hospitalizations. Cost analysis revealed a significant disparity: the total cost per eight-treatment course was $6069 for IN esketamine versus $647 for IM ketamine, with this difference driven primarily by the cost of IN esketamine. IM ketamine demonstrated comparable clinical effectiveness and safety to FDA-approved IN esketamine while offering a significant reduction in cost. These findings suggest IM ketamine may be a high-value alternative to IN esketamine that could significantly expand access to psychiatric care for individuals with TRD. These findings provide real-world evidence supporting the use of IM ketamine for TRD, and suggests that this formulation could offer a pathway for improving access to ketamine treatment by lowering the cost to healthcare systems.",
+      "date": "2026-07-02",
+      "authors": [
+        "Bhatt Kush V",
+        "Austin Tara",
+        "Alam Danny"
+      ],
+      "doi": "10.1176/appi.prcp.20260041"
+    },
     {
       "title": "Time-dependent effects of rapid-acting antidepressants in iPSC-derived neurons from treatment-resistant depression and healthy volunteers.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42498781/",
@@ -218,45 +257,6 @@
         "Na Peter J"
       ],
       "doi": "10.1001/jamanetworkopen.2026.24114"
-    },
-    {
-      "title": "DATAd: A new communication and tracking system for treatment-resistant depression.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42468852/",
-      "source": "PubMed",
-      "abstract": "Treatment-resistant depression (TRD) carries a substantial personal and societal burden, yet no universally accepted definition or communication framework exists to guide its clinical management. Current staging models - including the Antidepressant Treatment History Form, Thase and Rush Staging Model, European Staging Model, Massachusetts General Hospital Staging Model, and Maudsley Staging Model - each offer valuable but incomplete approaches to characterizing TRD, and none has achieved broad adoption in routine clinical or research settings. The absence of a standard communication tool results in fragmented treatment histories, inconsistent provider-to-provider handoffs, and missed treatment opportunities for patients. Members of the National Network of Depression Centers (NNDC) Treatment-Resistant Depression Task Group propose the DATAd Tracking System - a simple, scalable framework for documenting and communicating depression treatment history. DATAd organizes prior treatment trials across four clinically meaningful categories: Drugs (primary antidepressants), Augmentation/combination strategies, psychoTherapy, and Advanced treatments (e.g., transcranial magnetic stimulation, electroconvulsive therapy, ketamine/esketamine). For each category, clinicians record both adequate and inadequate trials in the current episode using the notation D#(#) A#(#) T#(#) Ad#(#), with optional lifetime worksheets available to capture historical treatment data. Analogous to the Gravida-Para system in obstetrics and the Tumor-Lymph Nodes-Metastasis (TNM) system in oncology, DATAd provides a common clinical language that highlights treatment gaps, facilitates informed next-step recommendations, and supports both clinical decision-making and research. Ongoing multicenter trials supported by the NNDC will evaluate DATAd's utility, inter-rater reliability, and impact on clinical workflow and patient outcomes.",
-      "date": "2026-07-17",
-      "authors": [
-        "Conroy Susan K",
-        "Voytenko Vitaliy L",
-        "Docherty Anna R"
-      ],
-      "doi": "10.1016/j.jad.2026.122266"
-    },
-    {
-      "title": "Clinical guidance on the use of esketamine nasal spray for patients with treatment resistant depression: A European Delphi consensus report.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42468081/",
-      "source": "PubMed",
-      "abstract": "Esketamine nasal spray (NS) is an established treatment for patients with treatment resistant depression (TRD). To further optimise real-world outcomes, consensus is needed regarding strategies to enhance patient outcomes and decision-making factors for pivotal timepoints in esketamine NS treatment. This modified Delphi panel (3 rounds) established expert consensus (≥80% agreement) from 30 European psychiatrists experienced in management of patients with TRD receiving esketamine NS. During the acute phase (4-12 weeks), modest/subjective reductions in core symptoms important to both patients and physicians supported esketamine NS continuation, especially with long disease course/resistance to multiple therapies. Consensus was reached that such a modest improvement during the acute phase should justify esketamine NS continuation (and supplementation of other treatment modalities with esketamine NS). Esketamine NS dose/frequency maximisation (84 mg weekly) was advocated for, to enhance acute phase outcomes, alongside strategies reflective of individual clinical characteristics. Monitoring in the continuation phase (6-9 months) should prioritise residual/fluctuating symptoms, changes in symptom severity, functional recovery status and comorbidity management/emergence. Should residual symptoms persist, dose/frequency escalation, among other all-phase options, were supported. Prolonging maintenance phase treatment (≥12 months) depended on the degree of clinical worsening when tapering, the risks/consequences of relapse, chronicity of the last depressive episode, residual symptoms and recurrence history. Across all phases, recommended treatment plans included integration of psychotherapy, optimisation of concomitant antidepressants/augmentation strategies, comorbidity management and strengthening support networks. Overall, the consensus advocated for an approach reflective of TRD complexities, prioritising meaningful outcomes for individual patients.",
-      "date": "2026-07-17",
-      "authors": [
-        "Young Allan H",
-        "Baune Bernhard T",
-        "Benatti Beatrice"
-      ],
-      "doi": "10.1016/j.euroneuro.2026.112907"
-    },
-    {
-      "title": "Emerging pharmacological and neuromodulation interventions for suicidal ideation and behaviour.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42468074/",
-      "source": "PubMed",
-      "abstract": "Suicide remains a leading cause of premature mortality worldwide. Current treatments are limited by delayed onset, durability, or poor tolerability. This narrative review, informed by a structured literature search, summarises the last decade of evidence on pharmacological and neuromodulation interventions for suicidal ideation (SI) or suicide attempt (SA) that are not approved for these indications. We searched PubMed for studies enrolling adults with SI or SA, including controlled trials and naturalistic/observational studies. Thirty-four studies were included: 22 pharmacological (13 efficacy, nine effectiveness) and 12 using neuromodulation (nine efficacy, three effectiveness). Across controlled trials, SI commonly improved within days to weeks. Some trials reported SI reduction beyond concurrent depression score changes, suggesting partial independence, but evidence remains inconsistent and method-dependent. Encouraging results were reported for NMDA-related drugs (NRX-101 and high-dose d-cycloserine; amantadine in Borna disease virus-1-positive depression), opioid-system modulation (buprenorphine at ultra-low and high doses in distinct populations), ayahuasca in major and treatment-resistant depression, and adjunctive pimavanserin. Smaller effects were observed for vortioxetine augmentation and insomnia-targeted zolpidem. Large observational datasets reported associations between lower suicidality and folic acid, benztropine, testosterone initiation in transgender adults, and non-vitamin K oral anticoagulants versus warfarin, whereas non-medical cannabis use was associated with worse SI trajectories. Neuromodulation evidence implicated accelerated or targeted repetitive transcranial magnetic stimulation, theta-burst stimulation, and magnetic seizure therapy for SI reduction, with longer-term observational support for vagus nerve stimulation. Future trials should prespecify suicide-related outcomes, test independence from mood change, and assess durability and high-risk transition periods to advance suicide-specific treatment development.",
-      "date": "2026-07-17",
-      "authors": [
-        "Scala Mauro",
-        "Magrini Enrico",
-        "Leccisotti Ivana"
-      ],
-      "doi": "10.1016/j.euroneuro.2026.112888"
     },
     {
       "title": "Psychedelic Funding Update: Q2 2026",
@@ -571,7 +571,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2018-004480-31/CZ",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-07-25",
+      "date": "2026-07-26",
       "authors": [],
       "doi": ""
     },
@@ -580,7 +580,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2020-005037-32/CZ",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-07-25",
+      "date": "2026-07-26",
       "authors": [],
       "doi": ""
     },
@@ -589,7 +589,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2021-002909-10/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-07-25",
+      "date": "2026-07-26",
       "authors": [],
       "doi": ""
     },
@@ -598,7 +598,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2015-000550-37/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-07-25",
+      "date": "2026-07-26",
       "authors": [],
       "doi": ""
     },
@@ -607,7 +607,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2021-000041-40/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-07-25",
+      "date": "2026-07-26",
       "authors": [],
       "doi": ""
     },
@@ -616,7 +616,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2020-000829-55/DK",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-07-25",
+      "date": "2026-07-26",
       "authors": [],
       "doi": ""
     },
@@ -625,7 +625,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2020-002790-94/SE",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-07-25",
+      "date": "2026-07-26",
       "authors": [],
       "doi": ""
     },
@@ -634,7 +634,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2021-006200-33/FI",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-07-25",
+      "date": "2026-07-26",
       "authors": [],
       "doi": ""
     },
@@ -643,7 +643,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2019-004812-73/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-07-25",
+      "date": "2026-07-26",
       "authors": [],
       "doi": ""
     },
@@ -652,7 +652,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2022-002369-14/BE",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-07-25",
+      "date": "2026-07-26",
       "authors": [],
       "doi": ""
     },

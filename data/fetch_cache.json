@@ -1,7 +1,45 @@
 {
-  "date": "2026-07-27",
-  "cached_at": "2026-07-27T09:46:19.501376+00:00",
+  "date": "2026-07-28",
+  "cached_at": "2026-07-28T08:29:23.848250+00:00",
   "articles": [
+    {
+      "title": "[Illicit use of classic psychedelics and suicidality: A systematic literature review].",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42509061/",
+      "source": "PubMed",
+      "abstract": "Given the contrasting results available in the literature, the objective of this systematic review was to investigate the specific impact of illicit use of classic psychedelics (psilocybin, LSD, DMT, mescaline) on suicidality (suicidal ideation, suicide planning, suicide attempts, suicides). According to PRISMA criteria, a systematic review of the literature was carried out in March 2026 in the PubMed-Medline and Scopus databases. The sequences of keywords used were as follows: (\"Hallucinogens\" [Mesh] or Hallucinogens or Psychedelics or \"Psilocybin\" [Mesh] or Psilocybin or \"N,N-Dimethyltryptamine\" [Mesh] or N,N-Dimethyltryptamine or \"Lysergic Acid Diethylamide\" [Mesh] or Lysergic Acid Diethylamide or \"Mescaline\" [Mesh] or Mescaline) and (\"Suicide\" [Mesh] or Suicide or \"Suicidal Ideation\" [Mesh] or Suicidal Ideation or \"Self-Injurious Behavior\" [Mesh] or Self-Injurious Behavior or \"Suicide, Attempted\" [Mesh] or Suicide Attempt) for the PubMed-Medline database and (TITLE-ABS-KEY (\"Hallucinogens\" or \"Psychedelics\" or \"Psilocybin\" or \"N,N-Dimethyltryptamine\" or \"Ayahuasca\" or \"Lysergic Acid Diethylamide\" or \"LSD\" or \"Mescaline\" or \"Peyote\") and TITLE-ABS-KEY (\"Suicide\" or \"Suicidal Ideation\" or \"Self-Injurious Behavior\" or \"Suicide Attempt\") for the Scopus database. The inclusion criteria applied for the selection of articles in this systematic review were: (1) article with separate analyses available specifically targeting the effect of illicit use of classic psychedelics on suicidality in subjects aged at least 12 years (adolescents and adults); (2) all types of studies (cross-sectional, longitudinal, prospective, retrospective, interventional, and experimental) with the exception of literature reviews, clinical case descriptions, letters to the editor, editorials, study protocols, conference papers and preprints; (3) article published between 01/01/2015 and 31/12/2025; (4) article available in full version; and (5) article written in English or French. After assessment by the two authors of the 970 articles identified, 11 studies specifically investigating the effect of illicit consumption of classic psychedelics on suicidality were selected. The association between illicit use of classic psychedelics and suicidality appears to vary greatly depending on the substance considered: significant association between psilocybin use and reduced suicidality, significant association between LSD/DMT use and increased suicidality, and no association between mescaline use and suicidality. All 11 studies included in this review were characterized by low methodological quality and limited scientific evidence. This systematic review highlights a complex relationship between the illicit use of classic psychedelics and suicidality. These different effects depending on the substance used could be explained by the existence of different neurobiological mechanisms, distinct psychological experiences, specific contexts of use, and individual vulnerabilities. However, the interpretation of these results must remain cautious due to the major methodological limitations of the selected studies which underscores the need for further prospective longitudinal studies to better understand this relationship between the illicit use of classic psychedelics and suicidality. Finally, based on the preliminary results of this systematic review, the highlighting of this significant association between reduced suicidality and illicit psilocybin use without adequate \"set and setting\" seems to justify the implementation of randomized controlled trials in a strict and secure medical setting in order to determine the possible role of this substance in the prevention and management of suicidality.",
+      "date": "2026-07-27",
+      "authors": [
+        "Pereira de Oliveira Ana Beatriz",
+        "Hein Matthieu"
+      ],
+      "doi": "10.1016/j.encep.2026.04.004"
+    },
+    {
+      "title": "CB1R-dependent mitochondrial biogenesis may contribute to the antidepressant effects of esketamine in a chronic variable stress male mouse model.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42508525/",
+      "source": "PubMed",
+      "abstract": "Major depressive disorder (MDD) is a leading cause of disability worldwide, and current antidepressants are limited by delayed onset and incomplete efficacy. Esketamine produces antidepressant effects more rapidly than conventional treatments, but its underlying mechanisms remain unclear. We examined whether cannabinoid type 1 receptor (CB1R) signaling is associated with hippocampal mitochondrial biogenesis-related changes following esketamine treatment in a chronic variable stress (CVS) mouse model. Mice underwent 21 days of CVS and received a single intraperitoneal injection of esketamine (15 mg/kg) 24 h before behavioral testing. Hippocampal CB1R, nuclear respiratory factor 1 (NRF1), mitochondrial transcription factor A (TFAM), and total cytochrome c expression were assessed by Western blotting. Additional groups received the CB1R antagonists AM251 or SR141716A before esketamine administration. CVS induced depressive-like behavioral changes in the forced swim, tail suspension, and novelty-suppressed feeding tests. These effects were accompanied by reduced hippocampal CB1R, NRF1, and TFAM expression and altered total cytochrome c expression. Esketamine reversed the behavioral abnormalities and normalized these molecular changes. Pretreatment with either CB1R antagonist prevented both the behavioral and molecular effects of esketamine. These findings indicate that the antidepressant-like effects of esketamine observed 24 h after administration are associated with CB1R-dependent changes in hippocampal mitochondrial biogenesis-related protein expression. Further studies using direct mitochondrial functional assays and loss-of-function approaches are needed to establish causality.",
+      "date": "2026-07-27",
+      "authors": [
+        "Zhao Wei",
+        "Zhao Xinxin",
+        "Zhang Yunyun"
+      ],
+      "doi": "10.1016/j.neuroscience.2026.07.059"
+    },
+    {
+      "title": "Reply to \"Reading the Signal: What Psychedelic Trials in Depression Still Can't Tell Us\".",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42504702/",
+      "source": "PubMed",
+      "abstract": "",
+      "date": "2026-07-27",
+      "authors": [
+        "Horato Natia",
+        "Dalvi-Garcia Felipe",
+        "Dutra Pablo E P"
+      ],
+      "doi": "10.1097/JCP.0000000000002240"
+    },
     {
       "title": "Quality of life and productivity among esketamine responders in a real-world study in Australia and New Zealand.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42501650/",
@@ -58,7 +96,7 @@
       "title": "MDMA as an early post-trauma intervention in a translational animal model of PTSD.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42498117/",
       "source": "PubMed",
-      "abstract": "Post-traumatic stress disorder (PTSD) remains difficult to prevent after trauma, highlighting the need for early interventions that reduce the risk of chronic symptom development. This controlled study investigated the preventive potential of 3,4-methylenedioxymethamphetamine (MDMA) in a validated rat model of PTSD induced by predator scent stress (PSS). Adult male Sprague-Dawley rats (N = 175) were exposed to PSS or sham-PSS and treated intraperitoneally with MDMA (2.5, 5, or 10 mg/kg) or saline. MDMA was administered either 30 min after PSS or 24 h later, with or without trauma-cue pairing. Behavioral outcomes included the elevated plus-maze and acoustic startle response assessments on day 7 for phenotypic classification, followed by contextual freezing on day 8. Urinary corticosterone and norepinephrine, hippocampal glucocorticoid receptor (GR) and norepinephrine transporter (NET), and c-Fos, tryptophan hydroxylase 2 (TPH2), GR, oxytocin, and tyrosine hydroxylase (TH) immunoreactivity were measured 1 h post-injection in stress-related brain regions. The 10 mg/kg MDMA dose significantly reduced anxiety-like behavior, startle amplitude, contextual freezing, and the prevalence of extreme behavioral responses when administered 30 min after PSS or 24 h later with trauma-cue pairing. Lower doses and unpaired delayed administration were largely ineffective. The effective dose increased urinary corticosterone and hippocampal GR levels, and enhanced c-Fos, TPH2, oxytocin, GR, and TH expression in stress-regulatory circuits. Trauma-cue pairing further strengthened MDMA-induced increases in GR, oxytocin, and TPH2. These findings suggest that MDMA was associated with dose-, timing-, and context-dependent reductions in PTSD-like outcomes, accompanied by neurochemical signatures consistent with enhanced stress regulation, neuroplasticity, and adaptive memory processing.",
+      "abstract": "Post-traumatic stress disorder (PTSD) remains difficult to prevent after trauma, highlighting the need for early interventions that reduce the risk of chronic symptom development. This controlled study investigated the preventive potential of 3,4-methylenedioxymethamphetamine (MDMA) in a validated rat model of PTSD induced by predator scent stress (PSS). Adult male Sprague-Dawley rats (N = 175) were exposed to PSS or sham-PSS and treated intraperitoneally with MDMA (2.5, 5, or 10 mg/kg) or saline. MDMA was administered either 30 min after PSS or 24 h later, with or without trauma-cue pairing. Behavioral outcomes included the elevated plus-maze and acoustic startle response assessments on day 7 for phenotypic classification, followed by contextual freezing on day 8. Urinary corticosterone and norepinephrine, hippocampal glucocorticoid receptor (GR) and norepinephrine transporter (NET), and c-Fos, tryptophan hydroxylase 2 (TPH2), GR, oxytocin, and tyrosine hydroxylase (TH) immunoreactivity were measured 1 h post-injection in stress-related brain regions. The 10 mg/kg MDMA dose significantly reduced anxiety-like behavior, startle amplitude, contextual freezing, and the prevalence of extreme behavioral responses when administered 30 min after PSS or 24 h later with trauma-cue pairing. Lower doses and unpaired delayed administration were largely ineffective. The effective dose increased urinary corticosterone and hippocampal GR levels, and enhanced c-Fos, TPH2, oxytocin, GR, and TH expression in stress-regulatory circuits. Trauma-cue pairing further strengthened MDMA-induced increases in GR, oxytocin, and TPH2. These findings suggest that MDMA was associated with dose-, timing-, and context-dependent reductions in PTSD-like outcomes, accompanied by neurochemical signatures consistent with enhanced stress regulation, neuroplasticity, and adaptive memory processing.",
       "date": "2026-07-24",
       "authors": [
         "Baruch Omer",
@@ -118,10 +156,10 @@
       "doi": "10.3389/fpsyt.2026.1866092"
     },
     {
-      "title": "Rapid clinical and EEG microstate changes 24 h after intranasal esketamine in major depressive disorder with suicidal ideation: a prospective paired study.",
+      "title": "Rapid clinical and EEG microstate changes 24 h after intranasal esketamine in major depressive disorder with suicidal ideation: a prospective paired study.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42492692/",
       "source": "PubMed",
-      "abstract": "Major depressive disorder (MDD) with suicidal ideation constitutes a psychiatric emergency that requires rapid symptom relief. Intranasal esketamine can reduce depressive symptoms within hours, yet the earliest brain-level correlates of response remain insufficiently characterized. A total of 31 patients with major depressive disorder and suicidal ideation or behavior were enrolled in this prospective study. Patients hospitalized for MDD with suicidal ideation received intranasal esketamine in addition to standard care. Clinical scales and resting-state EEG were obtained before the first dose (T0) and 24 h later (T1). The primary clinical outcomes were HAMD-17 scores. EEG analyses included whole-brain relative power spectral density (PSD) and microstate parameters based on a seven-class template. After quality control, 24 patients had qualified resting-state EEG data, 23 had qualified paired questionnaire data, and 18 had complete matched EEG and questionnaire data for integrated analyses. Depressive symptoms improved significantly within 24 h. HAMD score decreased from 25.32 ± 1.37 to 20.55 ± 1.52 in paired complete cases (n = 22; FDR = 0.0016). In contrast, PSD did not change significantly across delta, theta, alpha, beta, or gamma bands. Microstate analysis identified significant early changes, especially in the occurrence and coverage of microstate D, together with altered transition patterns among several microstate classes. Intranasal esketamine was associated with rapid clinical improvement in depressive symptoms over 24 h. Compared with conventional PSD indices, EEG microstate metrics appeared more sensitive to early treatment-related network reconfiguration and may provide candidate short-term electrophysiological readouts of rapid treatment response.",
+      "abstract": "Major depressive disorder (MDD) with suicidal ideation constitutes a psychiatric emergency that requires rapid symptom relief. Intranasal esketamine can reduce depressive symptoms within hours, yet the earliest brain-level correlates of response remain insufficiently characterized. A total of 31 patients with major depressive disorder and suicidal ideation or behavior were enrolled in this prospective study. Patients hospitalized for MDD with suicidal ideation received intranasal esketamine in addition to standard care. Clinical scales and resting-state EEG were obtained before the first dose (T0) and 24 h later (T1). The primary clinical outcomes were HAMD-17 scores. EEG analyses included whole-brain relative power spectral density (PSD) and microstate parameters based on a seven-class template. After quality control, 24 patients had qualified resting-state EEG data, 23 had qualified paired questionnaire data, and 18 had complete matched EEG and questionnaire data for integrated analyses. Depressive symptoms improved significantly within 24 h. HAMD score decreased from 25.32 ± 1.37 to 20.55 ± 1.52 in paired complete cases (n = 22; FDR = 0.0016). In contrast, PSD did not change significantly across delta, theta, alpha, beta, or gamma bands. Microstate analysis identified significant early changes, especially in the occurrence and coverage of microstate D, together with altered transition patterns among several microstate classes. Intranasal esketamine was associated with rapid clinical improvement in depressive symptoms over 24 h. Compared with conventional PSD indices, EEG microstate metrics appeared more sensitive to early treatment-related network reconfiguration and may provide candidate short-term electrophysiological readouts of rapid treatment response.",
       "date": "2026-07-23",
       "authors": [
         "Gu Tingting",
@@ -220,43 +258,13 @@
       "doi": "10.1038/s41398-026-04242-9"
     },
     {
-      "title": "Ketamine-induced analgesia and dissociation show distinct behavioral and neural correlates.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42477098/",
-      "source": "PubMed",
-      "abstract": "Ketamine produces both analgesic and dissociative effects, but whether analgesia depends on dissociation remains debated. This question is part of a broader discussion on whether the subjective experiences elicited by psychoactive drugs are necessary for their therapeutic benefits. Here, we tested whether ketamine-induced analgesia and dissociation show separable behavioral and neural signatures. In a within-subject, placebo-controlled fMRI study, 37 healthy volunteers (21 female) underwent two sessions: intravenous ketamine (0.4 mg/kg bolus over 10 min followed by 0.4 mg/kg/h continuous infusion) or saline placebo. Individually calibrated thermal pain stimuli were applied to the right leg during scanning. Dissociative states were measured repeatedly using the Clinician-Administered Dissociative States Scale. Whole-brain univariate and multivariate analyses, as well as network-based functional connectivity analyses, were performed. Ketamine induced both analgesia (session × pain intensity interaction: F(1,54) = 11.22, p = 0.001) and dissociation (main effect of session: F(1,32) = 57.44, p < 0.001), and the two corresponded to distinct neural indices. Greater pain was associated with increased univariate activity in regions such as the anterior insula, as well as with stronger expression of a pain-predictive multivoxel pattern (ρ = 0.6, p < 0.001), whereas higher dissociation intensity was selectively associated with reduced default mode network connectivity (ρ = .49, p < 0.01). Neurobehavioral markers of pain and dissociation did not covary (ρ = -0.24 to 0.32, all p > 0.09), consistent with distinct neural correlates of ketamine's analgesic and dissociative effects.",
-      "date": "2026-07-20",
-      "authors": [
-        "Goldway Noam",
-        "Jalon Itamar",
-        "Agbaria Yara"
-      ],
-      "doi": "10.1038/s41386-026-02496-x"
-    },
-    {
-      "title": "Integrating evidence, subject-matter expertise, and consensus in Delphi-based clinical guideline development.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42476342/",
-      "source": "PubMed",
-      "abstract": "",
-      "date": "2026-07-20",
-      "authors": [
-        "Mathai David S",
-        "Cluck Madeleine",
-        "Aslam Amna M"
-      ],
-      "doi": "10.1016/j.jad.2026.122288"
-    },
-    {
-      "title": "Suicidal Thoughts, Behaviors, and Mental Health Treatment Use in US Military Veterans.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42475092/",
-      "source": "PubMed",
-      "abstract": "Shifts in the demographic composition of US military veterans underscore the need for updated population-based estimates of suicidal thoughts and behaviors (STBs) to accurately characterize suicide risk in this population. To update prevalence estimates of and factors associated with STBs among US military veterans and to examine mental health treatment utilization among veterans with a history of STBs, stratified by use of the Veterans Health Administration as a primary source of health care. Population-based cross-sectional study of US military veterans drawn from the 2025 to 2026 National Health and Resilience in Veterans Study. Past 2-week and past-year suicidal ideation (SI), lifetime planning, and lifetime suicide attempt(s). Among 2636 veterans (mean [SD] age, 62.4 [16.2] years; 2349 [88.5%] male), the prevalence of past 2-week SI was 13.4% and past-year SI was 14.0%, with past 2-week SI significantly higher in 2025 to 2026 than in 2019 to 2020 (13.4% vs 9.0%; z = 5.69; P < .001). In contrast, prevalence estimates of lifetime suicide planning (8.0% vs 7.3%; z = 1.06; P = .29) and suicide attempts (4.9% vs 3.9%; z = 1.97; P = .048) were similar to those observed in 2019 to 2020. After adjustment for sociodemographic and military characteristics, factors most strongly associated with past 2-week SI based on relative importance analyses included functional disability (odds ratio [OR], 1.10; 95% CI, 1.04-1.16), lifetime major depressive disorder (OR, 2.22; 95% CI, 1.63-3.02), and lifetime posttraumatic stress disorder (OR, 1.53; 95% CI, 1.09-2.13). Factors most strongly associated with past-year SI included functional disability (OR, 1.09; 95% CI, 1.07-1.11), lifetime major depressive disorder (OR, 2.33; 95% CI, 1.72-3.16), and lifetime posttraumatic stress disorder (OR, 1.62; 95% CI, 1.17-2.25). Factors most strongly associated with lifetime suicide planning included lifetime posttraumatic stress disorder (OR, 2.61; 95% CI, 1.82-3.76), lifetime major depressive disorder (OR, 2.61; 95% CI, 1.84-3.71), and younger age (OR, 2.11; 95% CI, 1.36-3.28). Factors most strongly associated with lifetime suicide attempts included greater adverse childhood experiences (OR, 1.39; 95% CI, 1.29-1.51), lifetime major depressive disorder (OR, 3.76; 95% CI, 2.31-6.10), and functional disability (OR, 1.04; 95% CI, 1.02-1.07). In this cross-sectional study of US military veterans, results suggest that SI was more prevalent in 2025 to 2026 relative to estimates from 2019 to 2020, whereas the prevalence of suicide planning and attempts remained stable. Younger and female veterans appear to carry disproportionate risk for STBs. Targeting key risk factors in vulnerable subpopulations may help mitigate suicide risk.",
-      "date": "2026-07-01",
-      "authors": [
-        "Fischer Ian C",
-        "Nichter Brandon",
-        "Na Peter J"
-      ],
-      "doi": "10.1001/jamanetworkopen.2026.24114"
+      "title": "Q1 2026: Oregon Psilocybin Services Update",
+      "url": "https://psychedelicalpha.com/news/q1-2026-oregon-psilocybin-services-update/",
+      "source": "Psychedelic Alpha",
+      "abstract": "Oregon Psilocybin Services (OPS) has now published its first dataset from 2026, with updates summarised in our Oregon Psilocybin Services Tracker. Covering January to March 2026, this recent release includes key insights into product sales, client motivations, safety updates, and the individuals and organisations shaping the OPS infrastructure. Although most of the data presented here […]",
+      "date": "2026-07-27",
+      "authors": [],
+      "doi": ""
     },
     {
       "title": "Psychedelic Funding Update: Q2 2026",
@@ -336,15 +344,6 @@
       "source": "Psychedelic Alpha",
       "abstract": "A Closer Look at Compass’ 6-Month Data and Commercial Plans On Tuesday, we covered Compass Pathways’ readout covering 26-week data from its second Phase 3 study of COMP360 psilocybin for treatment-resistant depression (TRD): Compass Closes Out Phase 3 With 6-Month COMP006 Data, Eyes H1’27 Launch. After our initial reporting published, the company shared more detailed […]",
       "date": "2026-07-08",
-      "authors": [],
-      "doi": ""
-    },
-    {
-      "title": "Compass Closes Out Phase 3 With 6-Month COMP006 Data, Eyes H1’27 Launch",
-      "url": "https://psychedelicalpha.com/news/compass-closes-out-phase-3-with-6-month-comp006-data-eyes-h127-launch/",
-      "source": "Psychedelic Alpha",
-      "abstract": "This morning, Compass Pathways shared 26-week data from its second Phase 3 study of COMP360 psilocybin for treatment-resistant depression (TRD). The data are from Part B of COMP006, the company’s larger (n=581) Phase 3 trial that initially assessed two doses of either 1 mg, 10 mg, or 25 mg of psilocybin 3 weeks apart. The […]",
-      "date": "2026-07-07",
       "authors": [],
       "doi": ""
     },
@@ -571,7 +570,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2018-004480-31/CZ",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-07-27",
+      "date": "2026-07-28",
       "authors": [],
       "doi": ""
     },
@@ -580,7 +579,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2020-005037-32/CZ",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-07-27",
+      "date": "2026-07-28",
       "authors": [],
       "doi": ""
     },
@@ -589,7 +588,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2021-002909-10/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-07-27",
+      "date": "2026-07-28",
       "authors": [],
       "doi": ""
     },
@@ -598,7 +597,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2015-000550-37/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-07-27",
+      "date": "2026-07-28",
       "authors": [],
       "doi": ""
     },
@@ -607,7 +606,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2021-000041-40/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-07-27",
+      "date": "2026-07-28",
       "authors": [],
       "doi": ""
     },
@@ -616,7 +615,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2020-000829-55/DK",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-07-27",
+      "date": "2026-07-28",
       "authors": [],
       "doi": ""
     },
@@ -625,7 +624,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2020-002790-94/SE",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-07-27",
+      "date": "2026-07-28",
       "authors": [],
       "doi": ""
     },
@@ -634,7 +633,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2021-006200-33/FI",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-07-27",
+      "date": "2026-07-28",
       "authors": [],
       "doi": ""
     },
@@ -643,7 +642,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2019-004812-73/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-07-27",
+      "date": "2026-07-28",
       "authors": [],
       "doi": ""
     },
@@ -652,7 +651,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2022-002369-14/BE",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-07-27",
+      "date": "2026-07-28",
       "authors": [],
       "doi": ""
     },

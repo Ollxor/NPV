@@ -1,6 +1,84 @@
 {
   "items": [
     {
+      "title": "[Illicit use of classic psychedelics and suicidality: A systematic literature review].",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42509061/",
+      "source": "PubMed",
+      "date": "2026-07-27",
+      "authors": [
+        "Pereira de Oliveira Ana Beatriz",
+        "Hein Matthieu"
+      ],
+      "doi": "10.1016/j.encep.2026.04.004",
+      "summary_en": "Systematic review of PubMed and Scopus (March 2026) examining illicit use of classic psychedelics (psilocybin, LSD, DMT, mescaline) and suicidality outcomes. Study followed PRISMA criteria to synthesize conflicting literature on effects of these substances on suicidal ideation, planning, attempts, and completed suicides. Review aims to clarify relationship between illicit psychedelic use and suicide risk.",
+      "notable": true,
+      "notable_reason": "Systematic review (PRISMA-compliant) addressing a critical clinical safety question (suicidality) across multiple classic psychedelics with broad database coverage.",
+      "study_type": "review",
+      "substances": [
+        "psilocybin",
+        "lsd",
+        "mescaline",
+        "other"
+      ],
+      "added_at": "2026-07-28T09:14:47.306468+00:00"
+    },
+    {
+      "title": "CB1R-dependent mitochondrial biogenesis may contribute to the antidepressant effects of esketamine in a chronic variable stress male mouse model.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42508525/",
+      "source": "PubMed",
+      "date": "2026-07-27",
+      "authors": [
+        "Zhao Wei",
+        "Zhao Xinxin",
+        "Zhang Yunyun"
+      ],
+      "doi": "10.1016/j.neuroscience.2026.07.059",
+      "summary_en": "A mouse study examined esketamine's antidepressant mechanisms in chronic stress. After 21 days of stress and a single esketamine injection (15 mg/kg), researchers measured hippocampal cannabinoid receptor (CB1R) and mitochondrial markers via Western blotting. Esketamine reversed stress-induced behavioral deficits and normalized CB1R-dependent mitochondrial biogenesis markers (NRF1, TFAM). CB1R antagonists blocked these effects, indicating CB1R signaling is essential for esketamine's rapid antidepressant response.",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "preclinical",
+      "substances": [
+        "ketamine"
+      ],
+      "added_at": "2026-07-28T09:14:47.306468+00:00"
+    },
+    {
+      "title": "Reply to \"Reading the Signal: What Psychedelic Trials in Depression Still Can't Tell Us\".",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42504702/",
+      "source": "PubMed",
+      "date": "2026-07-27",
+      "authors": [
+        "Horato Natia",
+        "Dalvi-Garcia Felipe",
+        "Dutra Pablo E P"
+      ],
+      "doi": "10.1097/JCP.0000000000002240",
+      "summary_en": "This is a reply article addressing methodological concerns raised about psychedelic trials in depression research. Without access to the full text, the specific counterarguments and evidence presented cannot be detailed, but such replies typically defend study design choices and data interpretation in clinical psychedelic research.",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "other",
+      "substances": [
+        "psilocybin"
+      ],
+      "added_at": "2026-07-28T09:14:47.306468+00:00"
+    },
+    {
+      "title": "Q1 2026: Oregon Psilocybin Services Update",
+      "url": "https://psychedelicalpha.com/news/q1-2026-oregon-psilocybin-services-update/",
+      "source": "Psychedelic Alpha",
+      "date": "2026-07-27",
+      "authors": [],
+      "doi": "",
+      "summary_en": "Oregon Psilocybin Services released its first 2026 dataset covering Q1, providing insights into product sales, client motivations, and safety measures. The Psychedelic Alpha Tracker summarizes key data on service utilization and the organizations developing the OPS infrastructure.",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "other",
+      "substances": [
+        "psilocybin"
+      ],
+      "added_at": "2026-07-28T09:14:47.306468+00:00"
+    },
+    {
       "title": "Quality of life and productivity among esketamine responders in a real-world study in Australia and New Zealand.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42501650/",
       "source": "PubMed",

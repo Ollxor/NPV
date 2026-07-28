@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-26T08:44:50.894401+00:00",
+  "generated_at": "2026-07-28T09:16:00.497072+00:00",
   "items": [
     {
       "title": "Blinding integrity in psychedelic research: Evidence from a comparative randomized controlled trial of psilocybin, MDMA, and methylphenidate in healthy volunteers",
@@ -32,6 +32,138 @@
         "mdma"
       ],
       "added_at": "2026-07-09T10:03:12.956794+00:00"
+    },
+    {
+      "title": "[Illicit use of classic psychedelics and suicidality: A systematic literature review].",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42509061/",
+      "source": "PubMed",
+      "date": "2026-07-27",
+      "authors": [
+        "Pereira de Oliveira Ana Beatriz",
+        "Hein Matthieu"
+      ],
+      "doi": "10.1016/j.encep.2026.04.004",
+      "summaries": {
+        "en": "Systematic review of PubMed and Scopus (March 2026) examining illicit use of classic psychedelics (psilocybin, LSD, DMT, mescaline) and suicidality outcomes. Study followed PRISMA criteria to synthesize conflicting literature on effects of these substances on suicidal ideation, planning, attempts, and completed suicides. Review aims to clarify relationship between illicit psychedelic use and suicide risk.",
+        "sv": "Systematisk litteraturöversikt i PubMed och Scopus (mars 2026) som undersöker illegal användning av klassiska psykedelika (psilocybin, LSD, DMT, meskalin) och suicidalitet. Studien följde PRISMA-kriterier för att syntetisera motsägelsefull forskning om effekterna på suicidtankar, planering, försök och genomförda självmord. Översynen klargör sambandet mellan illegal psykedelikamissbruk och självmordsrisk.",
+        "no": "Systematisk gjennomgang av PubMed og Scopus (mars 2026) som undersøker illegal bruk av klassiske psykedelika (psilocybin, LSD, DMT, meskalin) og selvmordsfarer. Studien fulgte PRISMA-kriterier for å syntetisere motstridende forskning om stoffenes effekt på selvmordstanker, planlegging, forsøk og gjennomførte selvmord. Gjennomgangen klargjør forholdet mellom illegalt psykedelikamisbruk og selvmordsrisiko.",
+        "da": "Systematisk litteraturgennemgang af PubMed og Scopus (marts 2026), der undersøger illegalt brug af klassiske psykedelika (psilocybin, LSD, DMT, meskalin) og selvmordsfarlighed. Studien fulgte PRISMA-kriterier for at syntetisere modstridende litteratur om stoffernes effekt på selvmordstanker, planlægning, forsøg og gennemførte selvmord. Gennemgangen præciserer forholdet mellem illegalt psykedelikamisbrug og selvmordsrisiko.",
+        "fi": "Järjestelmällinen kirjallisuuskatsaus PubMed- ja Scopus-tietokannoista (maaliskuu 2026), joka tutkii klassisten psykedeliikkojen (psilosybiini, LSD, DMT, meskaliiini) laitonta käyttöä ja itsemurhaisuutta. Tutkimus noudatti PRISMA-kriteerejä ristiriitaisen tutkimuskirjallisuuden syntetisoimiseksi näiden aineiden vaikutuksista itsemurhaajatutkimuksiin, suunnitteluun, yrityksiin ja toteutettuihin itsemurhiin.",
+        "is": "Kerfbundin umfjöllunarkönnun á PubMed og Scopus (mars 2026) um ólöglega notkun klassískra sálfræðilegra efna (psilosýbín, LSD, DMT, meskalín) og sjálfsmorðshættu. Rannsóknin fylgdi PRISMA-viðmiðum til að setja saman misvísandi rannsóknir um áhrif þessara efna á sjálfsmorðshugmyndir, áætlanir, tilraunir og framkvæmd sjálfsmorða.",
+        "et": "Süstemaatiline kirjanduse ülevaade PubMed ja Scopus andmebaasides (märts 2026), mis uurib klassilistest psühhedeelikumidest (psiolbiin, LSD, DMT, meskaliin) lõimatu kasutamise ja enesetapulisuse seost. Uuring järgis PRISMA-kriteeriume vastuolulise teaduskirjanduse sünteseerimiseks nende ainete mõjust enesetapu ideele, plaaneerimisele, katsete ja sooritatud enesetaputele.",
+        "lv": "Sistemātiskais pārskatījums PubMed un Scopus datu bāzēs (2026. gada marts), kas pēta nelegālu klasisko psihedeliku (psilocibīns, LSD, DMT, meskalīns) lietošanu un pašnāvniecību. Pētījums sekoja PRISMA kritērijiem, lai sintezētu pretrunīgu pētniecības literatūru par šo vielu ietekmi uz pašnāvniecības ideju, plānošanu, mēģinājumiem un veiktiem pašnāvniecības aktiem.",
+        "lt": "Sistemingas literatūros apžvalga PubMed ir Scopus duomenų bazėse (2026 m. kovas), tirianti neteisėtą klasikinių psichedelikų (psilocibino, LSD, DMT, meskalino) vartojimą ir savižudybės riziką. Tyrimas laikėsi PRISMA kriterijų, kad sintezuotų prieštaringą mokslinę literatūrą apie šių medžiagų poveikį savižudybės minčioms, planavimui, bandymams ir padarytam savižudybės aktui."
+      },
+      "notable": true,
+      "notable_reasons": {
+        "en": "Systematic review (PRISMA-compliant) addressing a critical clinical safety question (suicidality) across multiple classic psychedelics with broad database coverage.",
+        "sv": "Systematisk litteraturöversikt (PRISMA-kompatibel) som tar upp en kritisk klinisk säkerhetsfråga (suicidalitet) för flera klassiska psykedelika med bred databaskäckning.",
+        "no": "Systematisk gjennomgang (PRISMA-kompatibel) som adresserer et kritisk klinisk sikkerhetsspørsmål (suicidalitet) på tvers av flere klassiske psykedelika med bred databasedekning.",
+        "da": "Systematisk litteraturgennemgang (PRISMA-kompatibel) der tager fat på et kritisk klinisk sikkerhedsspørgsmål (suicidalitet) på tværs af flere klassiske psykedelika med bredt databasedækning.",
+        "fi": "Systemaattinen katsaus (PRISMA-yhteensopiva) joka käsittelee kriittistä kliinista turvallisuuskysymystä (itsemurhasuus) useiden klassisten psykedeelikkojen osalta laajan tietokantakattavuuden kanssa.",
+        "is": "Kerfisbundin yfirlitskoðun (PRISMA-samhæfð) sem fjallar um mikilvægt klínískt öryggismál (sjálfsmorð) á sviði margra klassískra sykedelika með víðtækri gagnagrunnsumfjöllun.",
+        "et": "Süstemaatiline ülevaade (PRISMA-ühilduv) mis käsitleb kriitilisele kliinilise ohutuse küsimust (enesetapu) mitme klassikalise psühhedeelikumi lõikes laia andmebaasi kaetuse korral.",
+        "lv": "Sistematisks pārskats (PRISMA-saderīgs) kas risina kritisks klīniskas drošības jautājums (pašnāvība) vairāku klasisku psihedeliku ietvaros ar plašu datu bāzes pārklājumu.",
+        "lt": "Sisteminė apžvalga (PRISMA-suderinama) nagrinėjanti kritinį klinikinį saugumo klausimą (savižudybė) keliems klasikiniams psichedelikams su plačiu duomenų bazės aprėpimu."
+      },
+      "relevance_score": 4,
+      "study_type": "review",
+      "substances": [
+        "psilocybin",
+        "lsd",
+        "mescaline",
+        "other"
+      ],
+      "added_at": "2026-07-28T09:14:47.306468+00:00"
+    },
+    {
+      "title": "CB1R-dependent mitochondrial biogenesis may contribute to the antidepressant effects of esketamine in a chronic variable stress male mouse model.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42508525/",
+      "source": "PubMed",
+      "date": "2026-07-27",
+      "authors": [
+        "Zhao Wei",
+        "Zhao Xinxin",
+        "Zhang Yunyun"
+      ],
+      "doi": "10.1016/j.neuroscience.2026.07.059",
+      "summaries": {
+        "en": "A mouse study examined esketamine's antidepressant mechanisms in chronic stress. After 21 days of stress and a single esketamine injection (15 mg/kg), researchers measured hippocampal cannabinoid receptor (CB1R) and mitochondrial markers via Western blotting. Esketamine reversed stress-induced behavioral deficits and normalized CB1R-dependent mitochondrial biogenesis markers (NRF1, TFAM). CB1R antagonists blocked these effects, indicating CB1R signaling is essential for esketamine's rapid antidepressant response.",
+        "sv": "En mussstudie undersökte esketamins antidepressiva mekanismer vid kronisk stress. Efter 21 dagars stress och en enskild esketamininjektion (15 mg/kg) mättes cannabinoidreceptor (CB1R) och mitokondriemarkörer i hipokampus via Western blotting. Esketamin reverserade stressinducerade beteendeavvikelser och normaliserade CB1R-beroende mitokondriemarkörer (NRF1, TFAM). CB1R-antagonister blockerade dessa effekter, vilket indikerar att CB1R-signalering är väsentlig för esketamins snabba antidepressiva respons.",
+        "no": "En musestudie undersøkte esketamins antidepressive mekanismer ved kronisk stress. Etter 21 dagers stress og en enkelt esketaminineksjon (15 mg/kg) målte forskere hippokamal cannabinoidreseptor (CB1R) og mitokondriemarkers via Western blotting. Esketamin reverserte stressindusert atferdsavvik og normaliserte CB1R-avhengige mitokondriemarkører (NRF1, TFAM). CB1R-antagonister blokkerte disse effektene, noe som indikerer at CB1R-signalering er avgjørende for esketamins raske antidepressiv respons.",
+        "da": "Et musestudium undersøgte esketamins antidepressive mekanismer ved kronisk stress. Efter 21 dages stress og en enkelt esketamininjektionen (15 mg/kg) målte forskerne hippokampal cannabinoidreceptor (CB1R) og mitokondriemarkers via Western blotting. Esketamin reverserede stressinducerede adferdsforstyrrelser og normaliserede CB1R-afhængige mitokondriemarkører (NRF1, TFAM). CB1R-antagonister blokerede disse effekter, hvilket indikerer, at CB1R-signalering er væsentlig for esketamins hurtige antidepressiv respons.",
+        "fi": "Hiiritutkimuksessa tutkittiin esketamiinin masennuksenlievitysvaikutuksien mekanismeja kroonisen stressin yhteydessä. 21 päivän stressin ja yhden esketamiiniruiskeen (15 mg/kg) jälkeen tutkijat mittasivat hippokampuksen kannabinoidiasentimen (CB1R) ja mitokondriomarkkereita Western-blottauksella. Esketamiini kääntyi stressistä johtuvat käyttäytymishäiriöt ja normalisoi CB1R-riippuvaiset mitokondriomarkkeerit (NRF1, TFAM). CB1R-antagonistit estivät nämä vaikutukset, mikä osoittaa CB1R-signaloinnin olevan olennaisen esketamiinin nopealle masennuksenlievitysvaikutukselle.",
+        "is": "Músrannsóknin kannaðist á verkunum esketamíns við þunglyndi við langvarandi streitu. Eftir 21 daga streitu og eina esketamínísprautu (15 mg/kg) mældu vísindamenn kannabinóidviðtaka (CB1R) og mitkondríudeili í hippakanpus með Western blotting. Esketamín sneri við hegðunarröskun frá streitu og eðlilega CB1R-háð mitkondríudeili (NRF1, TFAM). CB1R-andstöðuvarnir hindruðu þiessa áhrif, sem bendir til þess að CB1R-merki sé nauðsynleg fyrir hraða þunglyndisáhrif esketamíns.",
+        "et": "Hiirte uuringus uuriti esketamiini depressioonivastast mõju kroonilise stressi korral. Pärast 21 päeva stessi ja ühte esketamiini süstimist (15 mg/kg) mõõtsid teadlased hipokampuse kannabinoidireseptoreid (CB1R) ja mitokondrite markereid Western blottingiga. Esketamiin pöördis ümber stressist tingitud käitumishäired ja taastis CB1R-sõltuvad mitokondrite markerid (NRF1, TFAM). CB1R-antagonistid blokeerisid need mõjud, mis näitab, et CB1R-signaliseerimine on oluline esketamiini kiire depressioonivastase toime jaoks.",
+        "lv": "Peles pētījumā tika pētīti esketamīna antidepresīvā mehānisma hroniska stresa apstākļos. Pēc 21 dienas stresa un vienas esketamīna injekcijas (15 mg/kg) pētnieki mērīja hipokampusa kannabinoīdu receptoru (CB1R) un mitohondriju marķierus ar Western blotting metodi. Esketamīns atgriezīja stresa izraisītās uzvedības traucējumus un normalizēja CB1R-atkarīgos mitohondriju marķierus (NRF1, TFAM). CB1R-antagonisti bloķēja šos efektus, norādot, ka CB1R-signalizācija ir būtiska esketamīna straujai antidepresīvajai iedarbībai.",
+        "lt": "Pelių studijoje buvo tiriami esketamino antidepresinio veikimo mechanizmai esant kroniniam stresui. Po 21 dienos streso ir vieno esketamino injekcijos (15 mg/kg) tyrinėtojai išmatavo hipokapo kanabinoidų receptorius (CB1R) ir mitochondrijų žymenis Western blotingu. Esketaminas grąžino streso sukeltas elgesio sutrikimus ir normalizavo CB1R-priklausomus mitochondrijų žymenis (NRF1, TFAM). CB1R-antagonistai blokavo šiuos efektus, rodydami, kad CB1R-signalizacija yra esminė esketamino greitam antidepresininiam veikimui."
+      },
+      "notable": false,
+      "notable_reasons": null,
+      "relevance_score": 4,
+      "study_type": "preclinical",
+      "substances": [
+        "ketamine"
+      ],
+      "added_at": "2026-07-28T09:14:47.306468+00:00"
+    },
+    {
+      "title": "Reply to \"Reading the Signal: What Psychedelic Trials in Depression Still Can't Tell Us\".",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42504702/",
+      "source": "PubMed",
+      "date": "2026-07-27",
+      "authors": [
+        "Horato Natia",
+        "Dalvi-Garcia Felipe",
+        "Dutra Pablo E P"
+      ],
+      "doi": "10.1097/JCP.0000000000002240",
+      "summaries": {
+        "en": "This is a reply article addressing methodological concerns raised about psychedelic trials in depression research. Without access to the full text, the specific counterarguments and evidence presented cannot be detailed, but such replies typically defend study design choices and data interpretation in clinical psychedelic research.",
+        "sv": "Detta är ett svarsinlägg som behandlar metodologiska invändningar mot psykedelikaförsök inom depressionsforsk­ning. Utan tillgång till fullständig text kan de specifika motargumenten inte redovisas, men sådana repliker försvarar vanligen studiedesign och datatolkning inom klinisk psykedelikaforskning.",
+        "no": "Dette er et svarskrift som adresserer metodologiske bekymringer reist om psykedelika-studier innen depressionsforskning. Uten tilgang til fullsteksten kan de spesifikke motargumentene ikke gjengis, men slike repliker forsvarer typisk studiedesign og datatolkning i klinisk psykedelikaforskning.",
+        "da": "Dette er et svarskrift, der behandles metodologiske bekymringer rejst om psykedelika-forsøg inden for depressionsforskning. Uden adgang til fulde tekst kan de specifikke modargumenter ikke præsenteres, men sådanne repliker forsvarer typisk studiedesign og datatolkning i klinisk psykedelikaforskning.",
+        "fi": "Tämä on vastineartikkeli, joka käsittelee psykedeliikkatutkimuksiin masennuksen alalla kohdistettuja metodologisia huolenaiheita. Ilman pääsyä koko tekstiin ei voida esittää yksityiskohtaisia vastaväitteitä, mutta tällaiset vastineet tyypillisesti puolustavat tutkimusmallia ja tietojen tulkintaa kliinisessä psykedeliikkaa tutkimuksessa.",
+        "is": "Þetta er svar sem fjallar um aðferðafræðileg áhyggjuefni sem voru færð fram um prufa með sálfræðilegum efnum við þunglyndi. Án aðgangs að fullum texta er ekki hægt að sýna fram á sérstök mótrök, en slík svör verja venjulega rannsóknarhönnun og gagnatúlkun í klínískum rannsóknum með sálfræðilegum efnum.",
+        "et": "See on vastuseis, mis käsitleb psühhedeeliliste ainete katsete metodoloogilisi muretsemisi depressioonivälises uurimistöös. Ilma täistekstile juurdepääsuta ei saa konkreetseid vastuväiteid esitada, kuid sellised vastukaiad tavaliselt kaitsevad uuringu kujundust ja andmete tõlgendamist kliinilistes psühhedeeliliste ainetega tehtavates uuringutes.",
+        "lv": "Šis ir atbildes raksts, kurā aplūkoti metodiskas bažas par psihedelisko vielu pētījumiem depresijas jomā. Bez pilnā teksta pieejamības nevar sniegt konkrētos pretargumentus, bet šādas atbildes parasti aizstāv pētījuma dizainu un datu interpretāciju klīniskajos psihedelisko vielu pētījumos.",
+        "lt": "Tai atsakomasis straipsnis, kuriame svarstomas psichedelinių medžiagų tyrimų metodologiniai susirūpinimai depresijos srityje. Be pilno teksto prieigos negalima pateikti konkrečių priešargumentų, tačiau tokie atsakai paprastai apgina tyrimų dizainą ir duomenų interpretaciją klininiuose psichedelinių medžiagų tyrimuose."
+      },
+      "notable": false,
+      "notable_reasons": null,
+      "relevance_score": 3,
+      "study_type": "other",
+      "substances": [
+        "psilocybin"
+      ],
+      "added_at": "2026-07-28T09:14:47.306468+00:00"
+    },
+    {
+      "title": "Q1 2026: Oregon Psilocybin Services Update",
+      "url": "https://psychedelicalpha.com/news/q1-2026-oregon-psilocybin-services-update/",
+      "source": "Psychedelic Alpha",
+      "date": "2026-07-27",
+      "authors": [],
+      "doi": "",
+      "summaries": {
+        "en": "Oregon Psilocybin Services released its first 2026 dataset covering Q1, providing insights into product sales, client motivations, and safety measures. The Psychedelic Alpha Tracker summarizes key data on service utilization and the organizations developing the OPS infrastructure.",
+        "sv": "Oregon Psilocybin Services publicerade sin första datamängd för 2026 (januari-mars), med insikter om produktförsäljning, klientmotiv och säkerhetsåtgärder. Psychedelic Alpha Tracker sammanfattar data om tjänsteanvändning och de organisationer som utvecklar infrastrukturen.",
+        "no": "Oregon Psilocybin Services har publisert sitt første datasett for 2026 (Q1), med innsikter om produktsalg, klientmotivasjon og sikkerhetstiltak. Psychedelic Alpha Tracker oppsummerer nøkkeldata om tjenesteutnyttelse og organisasjoner som utvikler OPS-infrastrukturen.",
+        "da": "Oregon Psilocybin Services udgav sit første datasæt for 2026 (1. kvartal) med indsigt i produktsalg, klientmotivation og sikkerhedsforanstaltninger. Psychedelic Alpha Tracker opsummerer nøgledata om serviceforbrug og organisationer, der udvikler OPS-infrastrukturen.",
+        "fi": "Oregon Psilocybin Services julkaisi ensimmäisen tietojoukkonsa vuodelta 2026 (Q1), joka sisältää tietoja tuotemyynnistä, asiakkaiden motivaatiosta ja turvatoimista. Psychedelic Alpha Tracker tiivistää keskeiset tiedot palvelun käytöstä ja OPS-infrastruktuurin kehittävistä organisaatioista.",
+        "is": "Oregon Psilocybin Services gaf út fyrstu gagnasafn sitt fyrir 2026 (janúar-mars) með innsýn um vörusölu, hvata skjólstæðinga og öryggisráðstafanir. Psychedelic Alpha Tracker tekur saman lykilgögn um notkun þjónustu og stofnanir sem þróa OPS-innviði.",
+        "et": "Oregon Psilocybin Services avaldas oma esimese andmestiku 2026. aastast (I kvartal) toodete müügist, klientide motivatsioonist ja ohutusabinõudest. Psychedelic Alpha Tracker teeb kokkuvõtte teenuste kasutamisest ja OPS-infrastruktuuri arendavate organisatsioonide andmetest.",
+        "lv": "Oregon Psilocybin Services publicēja savu pirmo datu kopu 2026. gadam (I ceturksnis), iekļaujot ieskaites par produktu pārdošanu, klientu motivāciju un drošības pasākumiem. Psychedelic Alpha Tracker apkopo galvenos datus par pakalpojumu izmantošanu un organizācijām, kas attīsta OPS infrastruktūru.",
+        "lt": "Oregon Psilocybin Services paskelbė pirmąjį 2026 m. duomenų rinkinį (I ketvirtis), kuriame pateikta informacija apie produktų pardavimą, kliento motyvaciją ir saugumo priemones. Psychedelic Alpha Tracker apibendrina pagrindinius duomenis apie paslaugų naudojimą ir OPS infrastruktūrą kuriancias organizacijas."
+      },
+      "notable": false,
+      "notable_reasons": null,
+      "relevance_score": 3,
+      "study_type": "other",
+      "substances": [
+        "psilocybin"
+      ],
+      "added_at": "2026-07-28T09:14:47.306468+00:00"
     },
     {
       "title": "Time-dependent effects of rapid-acting antidepressants in iPSC-derived neurons from treatment-resistant depression and healthy volunteers.",
@@ -1814,129 +1946,6 @@
         "other"
       ],
       "added_at": "2026-07-03T09:41:06.927715+00:00"
-    },
-    {
-      "title": "Real-World Effectiveness and Cost-Differential of Intranasal Esketamine Versus Intramuscular Ketamine.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42500270/",
-      "source": "PubMed",
-      "date": "2026-07-02",
-      "authors": [
-        "Bhatt Kush V",
-        "Austin Tara",
-        "Alam Danny"
-      ],
-      "doi": "10.1176/appi.prcp.20260041",
-      "summaries": {
-        "en": "Retrospective VA study (n=179) comparing intramuscular (IM) ketamine with intranasal (IN) esketamine for treatment-resistant depression. Both showed non-inferior efficacy (PHQ-9 difference: 0.04, 95% CI: -1.21–1.29) and comparable safety profiles. IM ketamine cost $647 per eight-treatment course versus $6,069 for IN esketamine, suggesting IM as a cost-effective alternative improving access to ketamine treatment.",
-        "sv": "Retrospektiv VA-studie (n=179) jämförde intramuskulär (IM) ketamin med intranasal (IN) esketamin för behandlingsresistent depression. Båda visade ekvivalent effekt (PHQ-9-skillnad: 0,04, 95% CI: -1,21–1,29) och jämförbar säkerhet. IM-ketamin kostade $647 per åttabehandlingskurs mot $6 069 för IN-esketamin, vilket föreslår IM som kostnadseffektivt alternativ för ökad tillgång.",
-        "no": "Retrospektiv VA-studie (n=179) sammenliknet intramuskulær (IM) ketamin med intranasal (IN) esketamin for behandlingsresistent depresjon. Begge viste ikke-inferiør effekt (PHQ-9-forskjell: 0,04, 95% CI: -1,21–1,29) og sammenlignbar sikkerhet. IM-ketamin kostet $647 per åtte behandlinger versus $6 069 for IN-esketamin, noe som tilsier IM som kostnadseffektivt alternativ.",
-        "da": "Retrospektiv VA-studie (n=179) sammenlignede intramuskulær (IM) ketamin med intranasal (IN) esketamin til behandlingsresistent depression. Begge viste ikke-inferiør effekt (PHQ-9-forskel: 0,04, 95% CI: -1,21–1,29) og sammenlignelig sikkerhed. IM-ketamin kostede $647 per otte behandlinger mod $6.069 for IN-esketamin, hvilket foreslår IM som kostnadseffektivt alternativ.",
-        "fi": "Retrospektiivinen VA-tutkimus (n=179) vertaili intramuskulaarista (IM) ketamiinia ja intranaasaalista (IN) esketamiinia hoitoon reagoimattomaan masennukseen. Molemmat osoittivat ei-huonommuutta tehokkuudessa (PHQ-9-ero: 0,04, 95% CI: -1,21–1,29) ja vertailukelpoista turvallisuutta. IM-ketamiini maksoi $647 kahdeksaa hoitokertaa kohti versus $6 069 IN-esketaminille, mikä viittaa IM:ään kustannustehokkaaaksi vaihtoehdoksi.",
-        "is": "Afturskyggn VA-rannsókn (n=179) barði saman innan-vöðva (IM) ketamín og innan-nef (IN) esketamín fyrir meðferðarþola þunglyndi. Báðir sýndu jafngildi verkun (PHQ-9-munur: 0,04, 95% CI: -1,21–1,29) og sambærilega öryggi. IM-ketamín kostaði $647 fyrir átta meðferðir á móti $6.069 fyrir IN-esketamín, sem leggur til að IM sé hagkvæmt val.",
-        "et": "Retrospektiivne VA-uuringu (n=179) võrdles intramuskulaarset (IM) ketamiini intranaasaalse (IN) esketamiiniga ravi-resistentsete depressiooni puhul. Mõlemad näitasid mitteinferioorset efektiivsust (PHQ-9-erinevus: 0,04, 95% CI: -1,21–1,29) ja võrdluselist ohutust. IM-ketamiin maksis $647 kaheksast ravist versus $6 069 IN-esketamiini eest, viitades IM-le kulusäästlikuks alternatiiviks.",
-        "lv": "Retrospektīvs VA pētījums (n=179) salīdzināja intramuskulāro (IM) ketamīnu ar intranauzālo (IN) esketamīnu ārstēšanai rezistentai depresijai. Abi parādīja ne-inferioritāti efektivitātē (PHQ-9 starpība: 0,04, 95% CI: -1,21–1,29) un salīdzinājumu drošumu. IM-ketamīns maksāja $647 par astoņiem ārstējumiem salīdzinājumā ar $6 069 IN-esketamīnam, kas norāda uz IM kā rentablu alternatīvu.",
-        "lt": "Retrospektyviojo VA tyrimo (n=179) metu lygintas intramuskulinis (IM) ketaminas su intranaziniu (IN) esketaminu, skirtu atspariems depresija liga. Abu vartojami parodė ne-žemesnę veiksmingumą (PHQ-9 skirtumas: 0,04, 95% CI: -1,21–1,29) ir palyginamą saugumą. IM-ketaminas kainavo $647 už aštuonis gydymus, palyginti su $6 069 IN-esketaminui, siūlydamas IM kaip ekonomiškai efektyvią alternatyvą."
-      },
-      "notable": false,
-      "notable_reasons": null,
-      "relevance_score": 4,
-      "study_type": "observational",
-      "substances": [
-        "ketamine"
-      ],
-      "added_at": "2026-07-26T08:44:16.826440+00:00"
-    },
-    {
-      "title": "Psilocybin as a Transdiagnostic Treatment for Eating Disorders and Comorbid Psychopathology: Implications for Clinical Nosology and Research Directions.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42393007/",
-      "source": "PubMed",
-      "date": "2026-07-02",
-      "authors": [
-        "Koning Elena",
-        "Richard Jérémie",
-        "Keshen Aaron"
-      ],
-      "doi": "10.1002/eat.70164",
-      "summaries": {
-        "en": "A narrative review examines psilocybin as a transdiagnostic treatment for eating disorders and psychiatric comorbidities. Preliminary clinical evidence supports feasibility, safety, and therapeutic effects. Proposed mechanisms—serotonergic agonism, psychoplastogenic effects, neural desynchronization—target shared vulnerabilities across conditions, mapping onto HiTOP and RDoC dimensional frameworks. Future research should optimize trial design for this novel intervention approach.",
-        "sv": "En narrativ granskning undersöker psilocybiner som en transdiagnostisk behandling för ätstörningar och psykiatrisk komorbiditet. Preliminärt kliniskt material stödjer genomförbarhet, säkerhet och terapeutiska effekter. Föreslagna mekanismer—serotonergt agonism, psykoplastogena effekter, neurala desynchroniseringar—riktade mot delade sårbarhet, kartlagd på HiTOP och RDoC-ramverk. Framtida forskning bör optimera studieplaner för denna nya interventionsstrategi.",
-        "no": "En narrativ gjennomgang undersøker psilocybiner som en transdiagnostisk behandling for spiseforstyrrelser og psykiatrisk komorbiditet. Foreløpige kliniske funn støtter gjennomførbarhet, sikkerhet og terapeutiske effekter. Foreslåtte mekanismer—serotonergt agonisme, psykoplastogene effekter, neural desynchronisering—retter seg mot delte sårbarheter, kartlagt på HiTOP og RDoC-rammeverk. Framtidig forskning bør optimalisere studieutforming for denne nye intervensjonstilnærmingen.",
-        "da": "En narrativ oversigt undersøger psilocybiner som transdiagnostisk behandling for spiseforstyrrelser og psykiatrisk komorbiditet. Foreløbigt klinisk materiale understøtter gennemførlighed, sikkerhed og terapeutiske effekter. Foreslåede mekanismer—serotoninerg agonisme, psykoplastogene effekter, neuralt asynckronisme—målrettet mod delte sårbarheder, kortlagt på HiTOP og RDoC-frameworks. Fremtidig forskning bør optimere forsøgsdesign for denne nye interventionsmetode.",
-        "fi": "Narratiivinen katsaus tutkii psilosybiineja transdiagnostisena hoitona syömishäiriöihin ja psykiatrisille liitännäissairauksille. Alustava kliininen aineisto tukee toteutettavuutta, turvallisuutta ja terapeuttisia vaikutuksia. Ehdotetut mekanismit—serotoniinireseptorin agonismi, psykoplastogenisus, neuraalinen desinkronisaatio—kohdistuvat jaettuihin haavoittuvuuksiin HiTOP- ja RDoC-viitekehysten mukaan. Tulevaisuuden tutkimus tulisi optimoida tälle uudelle interventiostrategialle.",
-        "is": "Frásögulegur yfirlit skoðar dulæta sveppa sem þverfræðilega meðferð fyrir étnaðarvangir og geðrof. Bráðabirgðaflýtilegar sannanir styðja framkvæmdarleika, öryggi og meðferðaráhrif. Fyrirhugaðir virknikerfi—serotonínviðtaka virkni, sálrænir plastíkbrellur, taugasteinn ósamhæfing—beina sér að sameiginlegum varfæmni, kortlagðri á HiTOP og RDoC ramma. Framtíðarrannsóknir ættu að bæta tilraunir fyrir þessa nýju aðferð.",
-        "et": "Narratiivne ülevaade uurib psülosübiine ülediagnostilise ravina söömishäirete ja psühhiaatriliste kaasesinevate seisundite puhul. Esialgne kliiniline tõendus toetab teostamise võimalust, ohutust ja ravi mõjusid. Pakutud mehhanismid—serotooniini retseptori agonism, psühhoplastrilised mõjud, neuralse desünkroniseerimise—sihivad jagatud haavatavust HiTOP ja RDoC raamistike järgi. Tulevased uuringud peaksid selle uue sekkumisstrategia uuringuid optimeerima.",
-        "lv": "Naratīvais pārskats pēta psilocibīnus kā transdiagnostisku ārstēšanu ēšanas traucējumiem un psihiatriskai komorbiditātei. Sākotnējie klīniskie pierādījumi atbalsta iespējamību, drošību un terapeitiskus efektus. Piedāvātie mehānismi—serotonīna receptoru agonisms, psihoplastitiski efekti, neirāla desinhronizācija—virzās uz kopējām vulnerabilitātēm, kartētas HiTOP un RDoC ietvaros. Turpmākajiem pētījumiem jāoptimizē pētījumu dizains šai jaunai intervences stratēģijai.",
-        "lt": "Naratyviniu apžvalga tiria psilocinę kaip transdiagnostinę gydymą valgymo sutrikimams ir psichiatrinei komorbiditumui. Išankstinis klininis įrodymas palaikybina įgyvendinamumą, saugumą ir terapinius efektus. Siūlomi mechanizmai—serotonino receptorių agonizmas, psichoplastiniai efektai, neuroninė desinkronizacija—nukreipti į bendras vulnerabilitetas, susietą su HiTOP ir RDoC sistemomis. Ateityje tyrimai turėtų optimizuoti šios naujos intervencijos dizainą."
-      },
-      "notable": false,
-      "notable_reasons": null,
-      "relevance_score": 4,
-      "study_type": "review",
-      "substances": [
-        "psilocybin"
-      ],
-      "added_at": "2026-07-03T09:41:06.927715+00:00"
-    },
-    {
-      "title": "Consensus by design: Conflict of interest and the intravenous ketamine Delphi guidelines.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42392512/",
-      "source": "PubMed",
-      "date": "2026-07-02",
-      "authors": [
-        "Saguin Emeric",
-        "Looten Vincent"
-      ],
-      "doi": "10.1016/j.jad.2026.122194",
-      "summaries": {
-        "en": "Critical analysis of the intravenous ketamine Delphi consensus guidelines, examining potential conflicts of interest in the expert panel and their influence on guideline development methodology.",
-        "sv": "Kritisk granskning av Delphi-konsensusriktlinjerna för intravenös ketamin, där potentiella intressekonflikter hos expertpanelen och deras inverkan på riktlinjeutvecklingen undersöks.",
-        "no": "Kritisk analyse av Delphi-konsensusretningslinjer for intravenøs ketamin, som undersøker potensielle interessekonflikter blant ekspertpanelet og deres påvirkning på retningslinjeframtiden.",
-        "da": "Kritisk analyse af Delphi-konsensusretningslinjer for intravenøs ketamin, der undersøger potentielle interessekonflikter blandt ekspertpanelet og deres indflydelse på udviklingen af retningslinjer.",
-        "fi": "Kriittinen analyysi intravenööselle ketamiinille laadittujen Delphi-konsensussuositusten tekijöistä, tutkien asiantuntijapaneelin mahdollisia eturistiriitoja ja niiden vaikutusta suositusten kehitysmenetelmiin.",
-        "is": "Gagnrýnin greining á Delphi samstöðurichtlínum fyrir intravenósa ketamín, þar sem rannsakaðir eru hugsanlegir hagsmunaárekstrar sérfræðinganefndar og áhrif þeirra á þróun richtlína.",
-        "et": "Kriitiline analüüs intravenoosse ketamiini Delphi konsensusjuhiste kohta, kus uuritakse ekspertpaneeli võimalikke huvide konflikte ja nende mõju juhiste väljatöötamise metoodikale.",
-        "lv": "Kritiska analīze par intravenozā ketamīna Delphi konsensusobjektīviem, pārbaudot iespējamos interešu konfliktus ekspertu grupā un to ietekmi uz vadlīniju izstrādes metodiku.",
-        "lt": "Kritinė intraveninio ketamino Delphi konsenso gairių analizė, nagrinėjanti galimus interesų konfliktus ekspertų grupėje ir jų įtaką gairių kūrimo metodikai."
-      },
-      "notable": false,
-      "notable_reasons": null,
-      "relevance_score": 4,
-      "study_type": "other",
-      "substances": [
-        "ketamine"
-      ],
-      "added_at": "2026-07-03T09:41:06.927715+00:00"
-    },
-    {
-      "title": "Case Report: Intranasal esketamine and accelerated intermittent theta-burst stimulation for severe treatment-resistant depression with suicidal ideation.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42466185/",
-      "source": "PubMed",
-      "date": "2026-07-01",
-      "authors": [
-        "Chang Chun-Hung",
-        "Hsia Yu-Der",
-        "Liu Wen-Chun"
-      ],
-      "doi": "10.3389/fpsyt.2026.1837402",
-      "summaries": {
-        "en": "Case report of a 29-year-old woman with treatment-resistant depression and suicidal ideation treated with intranasal esketamine combined with accelerated intermittent theta-burst stimulation (iTBS). Ten iTBS sessions targeting the left dorsolateral prefrontal cortex were delivered over 4 days alongside esketamine (84 mg). Depression severity scores improved during acute treatment and remained stable at 2-week follow-up, with reported reduction in suicidal ideation.",
-        "sv": "Fallrapport om en 29-årig kvinna med behandlingsresistent depression och suicidtankar behandlad med intranasal esketamin kombinerat med accelererad intermittent theta-burst stimulering (iTBS). Tio iTBS-sessioner riktade mot vänster dorsolateral prefrontal cortex genomfördes under 4 dagar tillsammans med esketamin (84 mg). Depressiv allvarlighetsgrad förbättrades under akut behandling och var stabil vid 2-veckors uppföljning.",
-        "no": "Kasusrapport om en 29 år gammel kvinne med behandlingsresistent depresjon og selvmordstanker behandlet med intranasal esketamin kombinert med akselerert intermittent theta-burst stimulering (iTBS). Ti iTBS-økter rettet mot venstre dorsolateral prefrontal cortex ble gjennomført over 4 dager sammen med esketamin (84 mg). Depresjonsalvorsgrad forbedret seg under akutt behandling og var stabil ved 2-ukersoppfølging.",
-        "da": "Kasusrapport om en 29-årig kvinde med behandlingsresistent depression og selvmordstanker behandlet med intranasal esketamin kombineret med accelereret intermittent theta-burst stimulering (iTBS). Ti iTBS-sessioner målrettet mod venstre dorsolateral præfrontal cortex blev gennemført over 4 dage sammen med esketamin (84 mg). Depressionssværhedsgrad forbedret sig under akut behandling og var stabil ved 2-ugers opfølgning.",
-        "fi": "Tapausraportti 29-vuotiaasta naisesta, jolla oli hoitoon vastustava masennus ja itsemurhaajaatukset, jota hoidettiin intranaasaalisella esketamiinilla yhdistettynä nopeutettuun intermittenttiin theta-burst stimulaatioon (iTBS). Kymmenen iTBS-istuntoa vasemmalle dorsolateraaliselle prefrontaaliselle aivokuorelle annettiin 4 päivän aikana esketamiinin (84 mg) kanssa. Masennuksen vakavuus parani akuutin hoidon aikana ja säilyi vakaina 2 viikon seurannnassa.",
-        "is": "Tilfellaskýrsla um 29 ára gömul kona með meðferðarþolna þunglyndi og sjálfsvígshugmyndir sem meðhöndluð var með inneflugu esketamíni ásamt flýtiðu millibili theta-burst stimulasjóni (iTBS). Tíu iTBS-setur beint að vinstra dorsolateral prefrontalkúpunni voru veitt yfir 4 daga með esketamíni (84 mg). Þyngd þunglyndra einkenni batnaði meðan á bráðri meðferð stóð og var stöðug við 2 vikna eftirfylgni.",
-        "et": "Juhtumikirjeldus 29-aastasest naisest, kellel oli ravi vastupidav depressioon ja enesetapuajatused, mida raviti intranesaalse esketamiiniga kombineerituna kiirendatud vahelduvate theta-burst stimulatsiooniga (iTBS). Kümme iTBS-seanssi vasaku dorsolateraalse prefrontaalkoorega suunatud skanid viidi läbi 4 päeva jooksul koos esketamiiniga (84 mg). Depressiooni raskusaste paranes ägeda ravi ajal ja jäi stabiilseks 2 nädala kontrollis.",
-        "lv": "Gadījuma ziņojums par 29 gadus vecu sievieti ar ārstēšanai resistentu depresiju un pašnāvnieciskiem domu ar intranazo esketamīnu kombinētu ar paātrinātu pārtrauktu teta-burst stimulāciju (iTBS). Desmit iTBS sesijas, kuras vērstas uz kreiso dorsolaterālo prefrontālo garozu, tika veiktas 4 dienu laikā kopā ar esketamīnu (84 mg). Depresijas smaguma pakāpe uzlabojās akūtas ārstēšanas laikā un palika stabila 2 nedēļu kontrolē.",
-        "lt": "Klinikinė ataskaita apie 29 metų moterį su gydymui atsparia depresija ir savižudybės mintimis, gydytą intranaziniu esketaminu, sujungtu su pagreitinta pertrūkiška teta-burst stimuliacija (iTBS). Dešimt iTBS sesijų, orientuotų į kairę dorsolateralinę prefrontalinę žievę, atlikta per 4 dienas su esketaminu (84 mg). Depresijos sunkumas pagerėjo intensyvaus gydymo metu ir išliko stabilus 2 savaičių kontrolėje."
-      },
-      "notable": false,
-      "notable_reasons": null,
-      "relevance_score": 3,
-      "study_type": "case_report",
-      "substances": [
-        "ketamine"
-      ],
-      "added_at": "2026-07-18T08:16:27.551676+00:00"
     }
   ]
 }

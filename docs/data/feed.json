@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-28T09:16:00.497072+00:00",
+  "generated_at": "2026-07-29T09:22:28.594716+00:00",
   "items": [
     {
       "title": "Blinding integrity in psychedelic research: Evidence from a comparative randomized controlled trial of psilocybin, MDMA, and methylphenidate in healthy volunteers",
@@ -32,6 +32,205 @@
         "mdma"
       ],
       "added_at": "2026-07-09T10:03:12.956794+00:00"
+    },
+    {
+      "title": "Convergent neuroimmune signaling underlying rapid antidepressant response to ketamine and psychedelics.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42521762/",
+      "source": "PubMed",
+      "date": "2026-07-28",
+      "authors": [
+        "Jones Gregory H",
+        "Gilbert Jessica R",
+        "Johnston Jenessa N"
+      ],
+      "doi": "10.1038/s41380-026-03777-z",
+      "summaries": {
+        "en": "Study integrating CSF proteomics, iPSC transcriptomics, and clinical data (n=16-39 TRD patients) identifies convergent neuroimmune mechanisms underlying rapid antidepressant effects of ketamine and serotonergic psychedelics. Despite distinct receptor targets, both compound classes modulate conserved immune pathways, with IL-15 and MCP-1 as key regulatory hubs. Ketamine responders showed baseline IL-15 reduction and elevated B-cell signaling, reversed post-treatment.",
+        "sv": "Studie som integrerar CSF-proteomik, iPSC-transkriptomik och kliniska data (n=16-39 TRD-patienter) identifierar konvergerande neuroimmuna mekanismer bakom snabb antidepressiv effekt av ketamin och serotonerg psykedelika. Trots olika receptormål modulerar båda substansklasser konserverade immunvägar, med IL-15 och MCP-1 som nyckelregulatorer. Ketaminresponderare visade minskad IL-15 och förhöjd B-cellsignalering vid baseline, vänd efter behandling.",
+        "no": "Studie som integrerer CSF-proteomikk, iPSC-transkriptomikk og kliniske data (n=16-39 TRD-pasienter) identifiserer konvergerende neuroimmune mekanismer bak rask antidepressiv effekt av ketamin og serotonerg psykedelika. Til tross for ulike receptormål modulerer begge stoffklasser konserverte immunveier, med IL-15 og MCP-1 som nøkkelregulatorer. Ketaminrespondere viste redusert IL-15 og forhøyet B-cellsignalering ved baseline, reversert etter behandling.",
+        "da": "Studie integrerende CSF-proteomik, iPSC-transkriptomik og kliniske data (n=16-39 TRD-patienter) identificerer konvergente neuroimmune mekanismer bag hurtig antidepressiv effekt af ketamin og serotonerg psykedelika. På trods af forskellige receptormål modulerer begge stoffklasser konserverede immunveje, med IL-15 og MCP-1 som nøgleregulatoret. Ketaminrespondere viste reduceret IL-15 og forhøjet B-cellsignalering ved baseline, vendt efter behandling.",
+        "fi": "Tutkimus, joka integroi CSF-proteomiikkaa, iPSC-transkriptomiikkaa ja kliinisiä tietoja (n=16-39 TRD-potilasta), tunnistaa konvergentit neuroimmunologiset mekanismit ketamiinin ja serotonergisten psykedeelikkojen nopean masennuslääkkeellisen vaikutuksen takana. Huolimatta erilaisista reseptoritavoitteista molemmat aineryhmät moduloivat säilytetyt immunireittejä, joissa IL-15 ja MCP-1 ovat keskeisiä säätelijöitä. Ketamiiniin vastanneet osoittivat alentuneita IL-15-tasoja ja kohennettuja B-solujen signalointi perustasolla, käänteinen hoidon jälkeen.",
+        "is": "Rannsókn sem sameinar CSF-próteiníka, iPSC-þription og klínísk gögn (n=16-39 TRD-sjúklingar) auðkennir samleitin taugaeitlabundna sjúkdóma sem liggja til grundvallar hraðri sálarlyfjameðferð ketamíns og serótonínlíkra sálarferlaa. Þrátt fyrir ólík viðtakasetningu stjórna báðir efnaflokkar varðveittum ónæmisvegum með IL-15 og MCP-1 sem helstu stjórnendum. Ketamínsvarandi sýndu minni IL-15 og aukna B-frumnaflæringu við grundlínu, snúið eftir meðferð.",
+        "et": "Uuring, mis integreerib CSF-proteoomica, iPSC-transkriptoomika ja kliinilisi andmeid (n=16-39 TRD-patsienti), tuvastab konvergentsed neuroimmunoloogilised mehhanismid ketamiini ja serotoninergaste psühhedeelikumide kiire depressioonivastase toime aluseks. Vaatamata erinevale retseptori sihtmärgile moduleerivad mõlemad ainejuhid konserveeritud immuunseid teid, kusjuures IL-15 ja MCP-1 on peamised regulaatorid. Ketamiinile reageerijad näitasid alandatud IL-15 ja tõstetud B-raku signaali esialgsel tasandil, ümberpööratud pärast ravi.",
+        "lv": "Pētījums, kas integrē CSF proteomiku, iPSC transkriptomiku un klīniskos datus (n=16-39 TRD pacientu), identificē konverģentus neiro-imūnologiskus mehānismus, kas ir pamatā ketamīna un serotoninērgu psihedeliku ātrās antidepresīvās iedarbības. Neskatoties uz dažādiem receptoru mērķiem, abi vielu klasi modulē konservētus imūnos ceļus, kuros IL-15 un MCP-1 ir galvenie regulatori. Ketamīnam atsaucīgie pacientu parādīja pazeminātu IL-15 un paaugstinātu B-šūnu signalizāciju sākotnējā stadijā, ko pēc ārstēšanas apgriezās.",
+        "lt": "Tyrimas, integruojantis CSF proteomiką, iPSC transkriptiką ir klinikiniai duomenys (n=16-39 TRD pacientai), nustato konvergentinus neuroimunolinius mechanizmus, kurie yra greitosios ketamino ir serotoniniu psichedeliku antidepresinio poveikio pagrindas. Nepaisant skirtingu receptoriu tikslu, abi medziagu klasės reguliuoja išsaugotus imunines takus, kuriuose IL-15 ir MCP-1 yra pagrindiniai reguliatoriai. Ketaminui atssakantys pacientai parodė sumažintus IL-15 ir padidintus B-langeliu signalizacija pradiniame stadijoje, apversti po gydymo."
+      },
+      "notable": true,
+      "notable_reasons": {
+        "en": "First study integrating CSF proteomics, iPSC transcriptomics, MEG, and plasma biomarkers across ketamine and psychedelics to identify convergent neuroimmune mechanisms of rapid antidepressant action.",
+        "sv": "Första studien som integrerar CSF-proteomik, iPSC-transkriptomik, MEG och plasmabiomärkare för ketamin och psykedelika för att identifiera konvergenta neuroimmuna mekanismer för snabb antidepressiv verkan.",
+        "no": "Første studie som integrerer CSF-proteomikk, iPSC-transkriptomikk, MEG og plasmabiomerkere på tvers av ketamin og psykedelika for å identifisere konvergente neuroimmune mekanismer for rask antidepressiv virkning.",
+        "da": "Første studie, der integrerer CSF-proteomik, iPSC-transkriptomik, MEG og plasmabiomærkører på tværs af ketamin og psykedelika for at identificere konvergente neuroimmune mekanismer for hurtig antidepressiv virkning.",
+        "fi": "Ensimmäinen tutkimus, joka integroi CSF-proteiomiikan, iPSC-transkriptomiikan, MEG:n ja plasmabiomerkkerit ketamiinin ja psykedeliikan välillä identifioidakseen konvergentteja neuro-immuunimekanismeja nopean masennuslääkkeen vaikutuksesta.",
+        "is": "Fyrri rannsókn sem samþættir CSF proteómíkur, iPSC transcriptómíkur, MEG og plasma lífmerki yfir ketamín og sálarflug til að bera kennsl á samleitni taugaeitla- og ónæmiskerfi kerfi hröðrar andlægðar aðgerðar.",
+        "et": "Esimene uuring, mis integreerib CSF proteoomikat, iPSC transkriptooomikat, MEG-d ja plasma biomärkereita ketamiini ja psühhedeelikate vahel, et tuvastada konvergentseid neuroimmunoloogilisi mehhanisme kiire antidepressantse toime osas.",
+        "lv": "Pirmais pētījums, kas integrē CSF proteoiku, iPSC transkriptomiku, MEG un plazmas biomarķierus ķetamīnam un psihedeliem, lai noteiktu konverģentus neuroimmūnos mehānismus ātras antidepresīvās darbības gadījumā.",
+        "lt": "Pirmasis tyrimas, integruojantis CSF proteomiką, iPSC transkriptomiką, MEG ir plazmos biomarkerius ketaminui ir psichedelikams, siekiant nustatyti konvergentuosius neuroimmūninius greitos antidepresinio veikimo mechanizmus."
+      },
+      "relevance_score": 5,
+      "study_type": "rct",
+      "substances": [
+        "ketamine",
+        "psilocybin",
+        "lsd"
+      ],
+      "added_at": "2026-07-29T09:20:10.039628+00:00"
+    },
+    {
+      "title": "Dimensional effect profiles in treatment-resistant depression: A naturalistic, prospective head-to-head comparison of arTMS, esketamine nasal spray, and oral brexpiprazole.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42521097/",
+      "source": "PubMed",
+      "date": "2026-07-28",
+      "authors": [
+        "d'Andrea Giacomo",
+        "Cavallotto Clara",
+        "Susini Ottavia"
+      ],
+      "doi": "10.1016/j.jad.2026.122333",
+      "summaries": {
+        "en": "Naturalistic study comparing three treatments for treatment-resistant depression (TRD): esketamine nasal spray, accelerated repetitive transcranial magnetic stimulation (arTMS), and brexpiprazole augmentation. In 101 participants assessed at baseline and one month, all treatments reduced depression severity and anhedonia. Brexpiprazole showed greater rumination improvement, esketamine enhanced affective and cognitive symptoms, while esketamine and arTMS both reduced anxiety. Results suggest domain-specific treatment profiles in routine clinical settings.",
+        "sv": "Naturalistisk studie jämförande tre behandlingar för behandlingsresistent depression (TRD): esketaminnesspray, accelererad repetitiv transkraniell magnetstimulering (arTMS) och brexpiprazolökning. Hos 101 deltagare bedömda vid baseline och efter en månad minskade alla behandlingar depressiv svårighetsgrad och anhedoni. Brexpiprazol visade större förbättring av rumination, esketamin förbättrade affektiva och kognitiva symtom, medan esketamin och arTMS båda minskade ångest. Resultaten tyder på domänspecifika behandlingsprofiler i klinisk praxis.",
+        "no": "Naturalistisk studie som sammenlignet tre behandlinger for behandlingsresistent depresjon (TRD): esketaminnesspray, akselerert repetitiv transkraniell magnetstimulering (arTMS) og brexpiprazolforsterking. Hos 101 deltakere vurdert ved baseline og etter en måned reduserte alle behandlinger depresjonsseveritet og anhedoni. Brexpiprazol viste større forbedring av rumination, esketamin forbedret affektive og kognitive symptomer, mens esketamin og arTMS begge reduserte angst. Resultatene tyder på domenespesifikke behandlingsprofiler i klinisk praksis.",
+        "da": "Naturalistisk studie, der tre behandlinger for behandlingsresistent depression (TRD) sammenlignes: esketaminnæsespray, accelereret repetitiv transkraniel magnetstimulation (arTMS) og brexpiprazolaugmentering. Hos 101 deltagere vurderet ved baseline og efter én måned reducerede alle behandlinger depressiv severity og anhedoni. Brexpiprazol viste større forbedring af rumination, esketamin forbedrede affektive og kognitive symptomer, mens esketamin og arTMS begge reducerede angst. Resultaterne tyder på domænspecifikke behandlingsprofiler i klinisk praksis.",
+        "fi": "Naturalistinen tutkimus, jossa verrattiin kolmea hoidontapaa hoitoresistenttiin masennukseen (TRD): esketamiininenäyspray, kiihdytettyä toistuva transkraniaalista magneettiärsytystä (arTMS) ja brexpiprazoli-lisäterapiaa. 101 osallistujaa, joita arvioitiin lähtötilanteessa ja kuukauden jälkeen, kaikki hoidot vähentyivät masennuksen vakavuuden ja anedonjan osalta. Brexpiprazoli osoitti suuremman rumination paranemisen, esketamiini paransi affektiivisia ja kognitiivisia oireita, kun taas esketamiini ja arTMS vähensivät molempien ahdistuneisuutta. Tulokset viittaavat aluespesifeihin hoitoprofiileihin kliinisessä käytännössä.",
+        "is": "Náttúruleg rannsókn sem bar saman þrjár meðferðir fyrir meðferðarþola þunglyndi (TRD): esketamín nefsúði, hraðaðri endurtekinni transkranialmerkri segulrás (arTMS) og brexpiprazol viðbót. Hjá 101 þátttakendum sem metnir voru við upphaf og eftir mánuð lækkaðu allar meðferðir þunglynd og ahedonia. Brexpiprazol sýndi meiri bata í hugsunum, esketamín bætti tilfinninga- og vitræn einkenni, en esketamín og arTMS bæði minnkuðu kvíða. Niðurstöður benda til svæðisafmarkaðra meðferðaprófíla í klínískri framkvæmd.",
+        "et": "Naturalistlik uuring, mis võrdleb kolme ravi meetodit raskesti ravitavas depressioonis (TRD): esketamiini ninasprei, kiirendatud korduvat transkraniaalset magnetilist stimulatsiooni (arTMS) ja brexpiprasooli lisamõju. 101 osalejal, keda hinnati lähtejoonel ja kuu pärast, vähendasid kõik ravid depressiooni raskusastet ja anhedoniat. Brexpiprasool näitas suuremat paranemist rumineerimises, esketamiin parandas afektiivseid ja kognitiivseid sümptomeid, samas kui esketamiin ja arTMS vähendasid mõlemad ärevust. Tulemused viitavad valdkonnapõhistele ravi profiilidele kliinilises praktikas.",
+        "lv": "Naturālistisks pētījums, kurā salīdzināti trīs ārstēšanas paņēmieni ārstēšanai rezistentai depresijai (TRD): esketamīna deguna aerosols, paātrināta atkārtota transkraniāla magnētiskā stimulācija (arTMS) un brexpiprazola papildinājums. 101 dalībnieks, kurus novērtēja sākotnēji un pēc mēneša, visas ārstēšanas samazināja depresijas smagumu un anhedoniju. Brexpiprazols parādīja lielāku uzlabošanos ruminācijai, esketamīns uzlaboja afektīvos un kognitīvos simptomus, savukārt esketamīns un arTMS abi samazināja trauksmi. Rezultāti norāda uz jomai raksturīgiem ārstēšanas profiļiem klīniskajā praksē.",
+        "lt": "Natūralistinis tyrimas, kuriame lyginamos trys gydymo būdai, atspariems depresijos atvejams (TRD): esketamino nosies purškalas, pagreitinta kartojama transkranialinė magnetinė stimuliacija (arTMS) ir brexpiprazolo papildymas. 101 dalyvio, įvertinto pradžioje ir po mėnesio, visus gydymu būdus sumažino depresijos sunkumą ir anhedonija. Brexpiprazolas parodė didesnį ruminavimo pagerinimą, esketaminas pagerinamas afektyvius ir kognityvius simptomus, o esketaminas ir arTMS sumažino nerimą. Rezultatai rodo sritims specifinių gydymo profilių klinikinėje praktikoje."
+      },
+      "notable": false,
+      "notable_reasons": null,
+      "relevance_score": 4,
+      "study_type": "observational",
+      "substances": [
+        "ketamine"
+      ],
+      "added_at": "2026-07-29T09:20:10.039628+00:00"
+    },
+    {
+      "title": "Feasibility, safety and preliminary effects of ibogaine in patients with moderate and severe alcohol use disorder: a pilot, open-label study.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42520175/",
+      "source": "PubMed",
+      "date": "2026-07-28",
+      "authors": [
+        "Rocha Juliana Mendes",
+        "Maekawa Renan Massanobu",
+        "Reis José Augusto Silva"
+      ],
+      "doi": "10.47626/2237-6089-2026-1437",
+      "summaries": {
+        "en": "Feasibility, safety and preliminary effects of ibogaine in patients with moderate and severe alcohol use disorder: a pilot, open-label study.",
+        "sv": "Feasibility, safety and preliminary effects of ibogaine in patients with moderate and severe alcohol use disorder: a pilot, open-label study.",
+        "no": "Feasibility, safety and preliminary effects of ibogaine in patients with moderate and severe alcohol use disorder: a pilot, open-label study.",
+        "da": "Feasibility, safety and preliminary effects of ibogaine in patients with moderate and severe alcohol use disorder: a pilot, open-label study.",
+        "fi": "Feasibility, safety and preliminary effects of ibogaine in patients with moderate and severe alcohol use disorder: a pilot, open-label study.",
+        "is": "Feasibility, safety and preliminary effects of ibogaine in patients with moderate and severe alcohol use disorder: a pilot, open-label study.",
+        "et": "Feasibility, safety and preliminary effects of ibogaine in patients with moderate and severe alcohol use disorder: a pilot, open-label study.",
+        "lv": "Feasibility, safety and preliminary effects of ibogaine in patients with moderate and severe alcohol use disorder: a pilot, open-label study.",
+        "lt": "Feasibility, safety and preliminary effects of ibogaine in patients with moderate and severe alcohol use disorder: a pilot, open-label study."
+      },
+      "notable": false,
+      "notable_reasons": null,
+      "relevance_score": 4,
+      "study_type": "case_report",
+      "substances": [
+        "ibogaine"
+      ],
+      "added_at": "2026-07-29T09:20:10.039628+00:00"
+    },
+    {
+      "title": "Candidate Biomarkers of Bipolar Disorder Progression: Implications for Ketamine and Psychedelic Interventions.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42517990/",
+      "source": "PubMed",
+      "date": "2026-07-28",
+      "authors": [
+        "Wilkowska Alina",
+        "Nizgorska-Ohler Julia",
+        "Cubała Wiesław Jerzy"
+      ],
+      "doi": "10.1007/s12035-026-06086-2",
+      "summaries": {
+        "en": "A narrative review examined biomarkers of bipolar disorder (BD) progression and ketamine/psychedelic interventions. Literature search across PubMed, Scopus, and Web of Science identified associations between advanced BD and inflammatory, neurotrophic, neuroimaging, and epigenetic abnormalities. However, findings were heterogeneous with modest effect sizes, often cross-sectional, and many biomarkers reflected current mood state rather than cumulative progression. BDNF and inflammatory markers showed limited specificity.",
+        "sv": "En narrativ översikt undersökte biomarkörer för progressionen av bipolär sjukdom (BD) och ketamin-/psykedelikainterventioner. Litteratursökning identifierade samband mellan avancerad BD och inflammatoriska, neurotrofiska, neuroavbildnings- och epigenetiska abnormiteter. Resultaten var dock heterogena med blygsamma effektstorlekar, ofta tvärsnittsstudier, och många biomarkörer återspeglade aktuellt humörläge snarare än kumulativ progression.",
+        "no": "En narrativ oversikt undersøkte biomarkører for progresjon av bipolar lidelse (BD) og ketamin-/psykedelikaintervensjoner. Litteratursøk identifiserte sammenhenger mellom avansert BD og inflammatoriske, nevrotrofiske, nevrobilednings- og epigenetiske abnormiteter. Funnene var imidlertid heterogene med beskjedne effektstørrelser, ofte tverrsnittsdesign, og mange biomarkører reflekterte gjeldende humørtilstand fremfor kumulativ progresjon.",
+        "da": "En narrativ oversigt undersøgte biomarkører for progression af bipolær lidelse (BD) og ketamin-/psykedelia-interventioner. Litteratursøg identificerede sammenhænge mellem avanceret BD og inflammatoriske, neurotrofiske, neurobildedings- og epigenetiske abnormiteter. Resultaterne var dog heterogene med beskedneueffektstørrelser, ofte tværsnitsdesign, og mange biomarkører afspejlede aktuelt humørsindsind snarere end kumulativ progression.",
+        "fi": "Narratiivinen katsaus tutki bipolaarisen häiriön (BD) etenemisen biomarkkereja ja ketamiini-/psykedelia-interventioita. Kirjallisuushaku tunnisti yhteyksiä edistyneen BD:n ja tulehduksellisten, neurotroofisilta, neurokuva- ja epigeneettisten poikkeavuuksien välillä. Tulokset olivat kuitenkin heterogeenisia, vaatimattoman vaikutuskoon kanssa, usein poikkileikkauksellisia, ja monet biomarkkeerit heijastivat nykyistä mielialaa pikemminkin kuin kumulatiivista etenemistä.",
+        "is": "Marglaus yfirlitsáir rannsakaði líffræðilega merki fyrir framvindu tvípólar röskun (BD) og ketamín-/hugleiðinga-inngripi. Bókaflóð greindi tengsl á milli þróaðrar BD og bólgu-, taumatrúar-, heilamyndar- og erfðabreytingum. Niðurstöður voru þó ójafnar með hóflegum áhrifastærðum, oft þverskurðarannir, og margir líffræðilegir merki endurspegluðu núverandi stjernuhætti frekar en uppsafnað framvindu.",
+        "et": "Narratiivne ülevaade uuris bipolaarhaiguse (BD) progressiooni biomarkerid ja ketamiini-/psühhedelikainterventsioon. Kirjanduse otsing tuvastus seoseid edasijõudnud BD ja põletiklikke, neurotroofseid, neuro-imaging ja epigeneetilisi anomaaliaid vahel. Tulemused olid siiski heterogeensed tagasihoidlike mõjusuurustega, sageli ristlõike kujundusega, ja paljud biomarkerid kajastasid käesolevat meeleolu pigem kui kumulatiivset progressiooni.",
+        "lv": "Narratīvais pārskats pētīja bipolārā traucējuma (BD) progresijas biomarķierus un ketamīna/psihedeliku intervences. Literatūras meklēšana identificēja saistību starp progresējušo BD un iekaisuma, neurotroffiskiem, neironizkāmējuma un epigenetiskiem anomālijām. Tomēr rezultāti bija heterogēni ar pazemiem efekta lielumiem, bieži šķērsgriezumiem, un daudzi biomarķieri atspoguļoja pašreizējo noskaņojumu, nevis kumulatīvu progresiju.",
+        "lt": "Naratyvioji apžvalga nagrinėjo bipolinio sutrikimo (BD) progresavimo biologinius žymenis ir ketamino/psichedelių intervencijas. Literatūros paieška nustatė ryšius tarp išsivysčiusio BD ir uždegiminių, neurotropinių, neurėjiminės vaizduotės ir epigenetinių anomalijų. Tačiau rezultatai buvo nevienodi, su kukliais efekto dydžiais, dažnai skerspjūvio modeliais, ir daugelis biologinių ženklų atspindėjo esamą nuotaiką, o ne kumuliacinį progresavimą."
+      },
+      "notable": false,
+      "notable_reasons": null,
+      "relevance_score": 4,
+      "study_type": "review",
+      "substances": [
+        "ketamine",
+        "psilocybin"
+      ],
+      "added_at": "2026-07-29T09:20:10.039628+00:00"
+    },
+    {
+      "title": "Hepatic Safety of Ketamine and Esketamine for Treatment-Resistant Depression: A Real-World Cohort Study.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42517206/",
+      "source": "PubMed",
+      "date": "2026-07-28",
+      "authors": [
+        "Singh Balwinder",
+        "Leung Jonathan G",
+        "Pazdernik Vanessa K"
+      ],
+      "doi": "10.1097/JCP.0000000000002228",
+      "summaries": {
+        "en": "Real-world cohort study (n=51) examining hepatic safety of ketamine and esketamine for treatment-resistant depression at Mayo Clinic (2017–2024). No clinically meaningful changes in liver enzyme trajectories were observed. Three patients (5.9%) showed elevations ≥2× upper limit of normal, all attributed to alcohol use, myalgias, or pre-existing steatosis rather than dissociatives. Subanesthetic doses appear hepatically safe.",
+        "sv": "Verklig världsstudie (n=51) om leverhälsa vid behandling med ketamin och esketamin för behandlingsresistent depression på Mayo Clinic (2017–2024). Inga kliniskt relevanta förändringar i leverenzymer observerades. Tre patienter (5,9%) visade förhöjningar ≥2× övre normalvärde, alla förklarat av alkoholbruk, muskelsmärtor eller redan befintlig fettig lever—inte relaterat till dissociativa ämnen. Subanestestiska doser verkar säkra för levern.",
+        "no": "Reelt kohortstudium (n=51) av leversikkerhet ved ketamin og esketamin for behandlingsresistent depresjon ved Mayo Clinic (2017–2024). Ingen klinisk relevant endring i leverenzymer ble observert. Tre pasienter (5,9%) hadde forhøyelser ≥2× over øvre normalverdi, alle tilskrevet alkoholbruk, muskelplager eller eksisterende fedtlever—ikke dissociativa. Subanestestiske doser fremstår som levermessig trygge.",
+        "da": "Reelt kohortstudium (n=51) af leversikkerhed ved ketamin og esketamin til behandlingsresistent depression på Mayo Clinic (2017–2024). Ingen klinisk meningsfuld ændring i leverenzymer blev observeret. Tre patienter (5,9%) havde forhøjelser ≥2× over normalområde, alle tilskrevet alkoholforbrug, muskelkramper eller eksisterende fedtlever—ikke dissociativa. Subanæstetiske doser virker lever-sikre.",
+        "fi": "Todellisen maailman kohorttitutkimus (n=51) ketamiinin ja esketamiinin maksanturvallisuudesta hoitoresistentissa masennuksessa Mayo Clinicissa (2017–2024). Maksan entsyymeissa ei havaittu kliinisesti merkityksellisiä muutoksia. Kolmella potilaalla (5,9%) oli kohoamia ≥2× normaalin ylärajan yli, kaikki johtuvat alkoholin käytöstä, lihaskivusta tai olemassa olevasta rasvamaksasta—ei dissosiatiiveista. Subanesteettiset annokset näyttävät maksan kannalta turvalliselta.",
+        "is": "Raunvísindi rannsókn (n=51) á heila öryggi ketamíns og esketamíns til meðhöndlunar við þunglyndi sem bregst við meðferð á Mayo Clinic (2017–2024). Engar klínískt marktækar breytingar á heila ensímum komu fram. Þrír sjúklingar (5,9%) sýndu hækkun ≥2× yfir efri eðlilegum gildum, allir tengdir áfengisnotkun, vöðvakipi eða fyrirliggjandi fitu í heila—ekki frá dissosiativum. Undir-anesthesísk skammtir virðast öruggir fyrir heilann.",
+        "et": "Päriseluliste andmete kohortuuring (n=51) ketamiini ja esketamiini maksaohutusest ravile mitteresponsiivsete depressioonide korral Mayo Clinicul (2017–2024). Märkimisväärseid muutusi maksaensüümides ei täheldatud. Kolmel patsiendil (5,9%) olid näitajad ≥2× normaalväärtuse piirist ülevalpool, kõik seotud alkoholi tarbimise, lihasvaludega või olemasoleva rasvmaksaga—mitte dissotsiatiivsusega. Subanesteetilised doosid näivad maksas ohutuks.",
+        "lv": "Reālās pasaules kohortas pētījums (n=51) par ketamīna un esketamīna draudzīgumu aknām ar depresiju, kas nav reaguējusi uz ārstēšanu Mayo klīnikā (2017–2024). Aknu fermentos netika novērotas klīniski nozīmīgas izmaiņas. Trim pacientiem (5,9%) bija paaugstinājumi ≥2× virs normas augšējās robežas, visi saistīti ar alkohola lietošanu, muskuļu sāpēm vai iepriekšēju akņu taukainību—nevis dissotsiatīvām vielām. Subanestēzijas devas šķiet draudzīgas aknām.",
+        "lt": "Realios pasaulio kohortos tyrimas (n=51) apie ketamino ir esketamino saugumą kepenims gydant depresija, neatsako į gydymą Mayo klinikoje (2017–2024). Reikšmingų jėgos fermentų pokyčių nepastebėta. Trys pacientai (5,9%) turėjo padidėjimą ≥2× virš normos viršutinės ribos, visi susiję su alkoholio vartojimu, raumenų skausmais ar jau esančiu riebaline kepenimis—ne disociatyvomis. Poanesteziologinės dozės atrodo saugios kepenims."
+      },
+      "notable": false,
+      "notable_reasons": null,
+      "relevance_score": 4,
+      "study_type": "observational",
+      "substances": [
+        "ketamine"
+      ],
+      "added_at": "2026-07-29T09:20:10.039628+00:00"
+    },
+    {
+      "title": "Adjunctive Pharmacotherapy for Major Depressive Disorder with Anxiety Symptoms: from Monoamines to Recent Clinical Evidence.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42518156/",
+      "source": "PubMed",
+      "date": "2026-07-28",
+      "authors": [
+        "McIntyre Roger S",
+        "Kato Masaki",
+        "Thase Michael E"
+      ],
+      "doi": "10.1007/s40263-026-01315-7",
+      "summaries": {
+        "en": "Adjunctive Pharmacotherapy for Major Depressive Disorder with Anxiety Symptoms: from Monoamines to Recent Clinical Evidence.",
+        "sv": "Adjunctive Pharmacotherapy for Major Depressive Disorder with Anxiety Symptoms: from Monoamines to Recent Clinical Evidence.",
+        "no": "Adjunctive Pharmacotherapy for Major Depressive Disorder with Anxiety Symptoms: from Monoamines to Recent Clinical Evidence.",
+        "da": "Adjunctive Pharmacotherapy for Major Depressive Disorder with Anxiety Symptoms: from Monoamines to Recent Clinical Evidence.",
+        "fi": "Adjunctive Pharmacotherapy for Major Depressive Disorder with Anxiety Symptoms: from Monoamines to Recent Clinical Evidence.",
+        "is": "Adjunctive Pharmacotherapy for Major Depressive Disorder with Anxiety Symptoms: from Monoamines to Recent Clinical Evidence.",
+        "et": "Adjunctive Pharmacotherapy for Major Depressive Disorder with Anxiety Symptoms: from Monoamines to Recent Clinical Evidence.",
+        "lv": "Adjunctive Pharmacotherapy for Major Depressive Disorder with Anxiety Symptoms: from Monoamines to Recent Clinical Evidence.",
+        "lt": "Adjunctive Pharmacotherapy for Major Depressive Disorder with Anxiety Symptoms: from Monoamines to Recent Clinical Evidence."
+      },
+      "notable": false,
+      "notable_reasons": null,
+      "relevance_score": 3,
+      "study_type": "review",
+      "substances": [
+        "ketamine"
+      ],
+      "added_at": "2026-07-29T09:20:10.039628+00:00"
     },
     {
       "title": "[Illicit use of classic psychedelics and suicidality: A systematic literature review].",
@@ -291,6 +490,37 @@
         "ketamine"
       ],
       "added_at": "2026-07-24T09:02:17.474070+00:00"
+    },
+    {
+      "title": "Esketamine in Treatment-Resistant Depression: Clinical and Translational Perspectives.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42515873/",
+      "source": "PubMed",
+      "date": "2026-07-22",
+      "authors": [
+        "Śledzikowska Zofia",
+        "Pasternak Agata Marianna",
+        "Wojciechowski Ksawery"
+      ],
+      "doi": "10.2174/011570159X465328260703100233",
+      "summaries": {
+        "en": "Intranasal esketamine, an NMDA receptor antagonist, shows rapid antidepressant effects in treatment-resistant depression by enhancing glutamatergic signaling and synaptic plasticity. Randomized controlled trials demonstrate symptom improvement within hours, though effects on suicidality varied. Common side effects—dissociation, dizziness, elevated blood pressure—are typically transient.",
+        "sv": "Intranasal esketamin, en NMDA-receptorantagonist, visar snabb antidepressiv effekt vid behandlingsresistent depression genom att öka glutamatergi signalering och synaptisk plasticitet. Randomiserade kontrollerade studier visar symptomförbättring inom timmar, dock varierade effekten på suicidalitet. Vanliga biverkningar—dissociation, yrsel, högt blodtryck—är oftast övergående.",
+        "no": "Intranasal esketamin, en NMDA-receptorantagonist, viser rask antidepressiv effekt ved behandlingsresistent depresjon gjennom økt glutamatergisk signalering og synaptisk plastisitet. Randomiserte kontrollerte studier viser symptomforbedring innen timer, men effekten på selvmordstanker varierte. Vanlige bivirkninger—dissosiation, svimmelhet, høyt blodtrykk—er vanligvis forbigående.",
+        "da": "Intranasal esketamin, en NMDA-receptorantagonist, viser hurtig antidepressiv effekt ved behandlingsresistent depression gennem øget glutamaterg signalering og synaptisk plasticitet. Randomiserede kontrollerede studier viser symptomforbedring inden for timer, men effekten på selvmordstanker varierede. Almindelige bivirkninger—dissociation, svimmelhed, høj blodtryk—er typisk kortvarig.",
+        "fi": "Intranasal esketamiini, NMDA-reseptorin antagonisti, osoittaa nopeaa masennuslääkkeen vaikutusta hoitoresistentissa masennuksessa glutamaattergisen signaloinnin ja synaptisen plastisuuden lisäämisen kautta. Satunnaistetut kontrolloitujen tutkimukset osoittavat oireiden paranemista tunnin sisällä, mutta vaikutus itsemurhapuuhiin vaihteli. Yleiset sivuvaikutukset—dissosiaatio, huimaus, kohonnut verenpaine—ovat tyypillisesti väliaikaisia.",
+        "is": "Innsog esketamín, NMDA-viðtakaandagonisti, sýnir hraða þunglynd­lækna­virkni við meðferðarþolna þunglyndi með aukinni glutamat­merki­sendingu og syfaptu­kosti. Handahóf stýrðu rannsóknir sýna batnun einkenna innan klukkustunda, en áhrif á sjálfsmorðshættu voru breytileg. Algengir aukaverknanir—aðskilnaður, hnæfing, hækkað blóðþrýstingur—eru venjulega tímabundnir.",
+        "et": "Intranaasalne esketamiin, NMDA-retseptori antagonist, näitab kiire antidepressiivseid efekte raviresistentses depressioonis, suurendades glutamaatergilist signaalimist ja sünaptilast plastilisust. Randomiseeritud kontrollitud uuringud näitavad sümptomite parandamist tundide jooksul, kuid mõju enesetapumõtetele varieerus. Levinud kõrvaltoimed—dissotsiatsiooni, pearinglus, tõusnud vererõhk—on tavaliselt mööduvad.",
+        "lv": "IntranaZāla esketamīns, NMDA receptora antagonists, uzrāda ātru antidepresiīvu iedarbību ārstēšanas rezistentā depresijā, paaugstinot glutamaterģisko signalizēšanu un sinaptisko plasticitāti. Randomizēti kontrolēti pētījumi parāda simptomu uzlabošanos stundas laikā, taču ietekme uz pašnāvniecības apdraudējumu bija mainīga. Biežas blakusparādības—disociācija, reibonis, paaugstināts asinsspiediens—parasti ir īslaicīgas.",
+        "lt": "Intranasinė esketamina, NMDA receptoriaus antagonistas, parodo greitą antidepresinio poveikio efektyvumą gydymui rezistentinėje depresijoje, padidindama glutamaterginį signalizavimą ir sinaptinį plastiškumą. Randomizuoti kontroliuojami tyrimai rodo simptomų pagerinimą per valandas, tačiau poveikis savižudybės rizikai buvo skirtingas. Dažniausi šalutiniai poveikiai—disociacija, svaigimas, padidėtas arterinis spaudimas—paprastai yra laikini."
+      },
+      "notable": false,
+      "notable_reasons": null,
+      "relevance_score": 4,
+      "study_type": "review",
+      "substances": [
+        "ketamine"
+      ],
+      "added_at": "2026-07-29T09:20:10.039628+00:00"
     },
     {
       "title": "Quality of life and productivity among esketamine responders in a real-world study in Australia and New Zealand.",
@@ -916,6 +1146,36 @@
         "ayahuasca"
       ],
       "added_at": "2026-07-14T08:33:25.065058+00:00"
+    },
+    {
+      "title": "Systems-based psychiatry: insights from psychedelic research on mechanisms of healing.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42517136/",
+      "source": "PubMed",
+      "date": "2026-07-13",
+      "authors": [
+        "Shannon Scott",
+        "Weil Andrew"
+      ],
+      "doi": "10.3389/fpsyt.2026.1789902",
+      "summaries": {
+        "en": "Systems-based psychiatry: insights from psychedelic research on mechanisms of healing.",
+        "sv": "Systems-based psychiatry: insights from psychedelic research on mechanisms of healing.",
+        "no": "Systems-based psychiatry: insights from psychedelic research on mechanisms of healing.",
+        "da": "Systems-based psychiatry: insights from psychedelic research on mechanisms of healing.",
+        "fi": "Systems-based psychiatry: insights from psychedelic research on mechanisms of healing.",
+        "is": "Systems-based psychiatry: insights from psychedelic research on mechanisms of healing.",
+        "et": "Systems-based psychiatry: insights from psychedelic research on mechanisms of healing.",
+        "lv": "Systems-based psychiatry: insights from psychedelic research on mechanisms of healing.",
+        "lt": "Systems-based psychiatry: insights from psychedelic research on mechanisms of healing."
+      },
+      "notable": false,
+      "notable_reasons": null,
+      "relevance_score": 3,
+      "study_type": "other",
+      "substances": [
+        "other"
+      ],
+      "added_at": "2026-07-29T09:20:10.039628+00:00"
     },
     {
       "title": "Longitudinal dream-content shift and void-like dissociative phenomenology around outpatient ketamine infusions in chronic low back pain: a case report.",
@@ -1691,261 +1951,6 @@
         "ketamine"
       ],
       "added_at": "2026-07-06T11:11:04.418067+00:00"
-    },
-    {
-      "title": "High-order brain interactions during ketamine-induced state changes: A functional marker of response in late-life treatment-resistant depression?",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42401545/",
-      "source": "PubMed",
-      "date": "2026-07-04",
-      "authors": [
-        "Shah Krisha",
-        "Herzog Rubén",
-        "Swann Alan C"
-      ],
-      "doi": "10.1038/s41398-026-04212-1",
-      "summaries": {
-        "en": "This secondary analysis of a randomized, double-blind trial examined brain activity patterns in 30 late-life veterans with treatment-resistant depression following ketamine or midazolam infusion. Using EEG-derived high-order interactions, researchers found ketamine induced dynamic changes in brain redundancy, with peak effects in the alpha band at 1 hour. Greater increases in alpha-band redundancy at 24 hours correlated with improved depressive symptoms at day 7, suggesting these neural markers may help identify ketamine responders.",
-        "sv": "I denna sekundäranalys av en randomiserad, dubbelblind studie undersöktes hjärnaktivitet hos 30 äldre veteraner med behandlingsresistent depression efter ketamininfusion. Med hjälp av EEG-baserade mätningar av högre ordningens hjärninteraktioner fann forskarna att ketamin inducerade dynamiska förändringar i hjärnans redundans, med toppeffekter i alfabandet efter 1 timme. Större ökning av alfabandets redundans efter 24 timmar korrelerade med förbättrade depressiva symptom på dag 7, vilket tyder på att dessa neurala markörer kan hjälpa identifiera ketaminresponserare.",
-        "no": "I denne sekundæranalysen av en randomisert, dobbeltblind studie undersøktes hjernaktivitet hos 30 eldre veteraner med behandlingsresistent depresjon etter ketamininfusjon. Ved hjelp av EEG-baserte målinger av høyere ordns hjerninteraksjoner fant forskerne at ketamin induserte dynamiske endringer i hjernens redundans, med toppeffekter i alfabåndet etter 1 time. Større økning i alfabandets redundans etter 24 timer korrelerte med forbedrede depressive symptomer på dag 7, noe som antyder at disse nevrale markørene kan hjelpe til med å identifisere ketaminrespondere.",
-        "da": "I denne sekundæranalyse af et randomiseret, dobbeltblindet forsøg blev hjernens aktivitet undersøgt hos 30 ældre veteraner med behandlingsresistent depression efter ketamininfusion. Ved hjælp af EEG-baserede målinger af højere ordens hjerninteraktioner fandt forskerne, at ketamin inducerede dynamiske ændringer i hjernens redundans, med topeffekter i alfabåndet efter 1 time. Større stigning i alfabandets redundans efter 24 timer korrelerede med forbedrede depressive symptomer på dag 7, hvilket tyder på, at disse neurale markører kan hjælpe med at identificere ketaminrespondere.",
-        "fi": "Tässä satunnaistetun, kaksoissokkoutetun tutkimuksen jälkianalyysissä tutkittiin aivojen aktiivisuutta 30 ikääntyneellä veteraanilla, joilla oli hoitoresistentti masennus ketamiiniinfuusion jälkeen. EEG-pohjaisilla korkeamman asteen aivojen vuorovaikutusmittauksilla tutkijat havaitsivat ketamiinin aiheuttavan dynaamisia muutoksia aivojen redundanssissa, huippavaikutukset alfa-kaistalla 1 tunnin jälkeen. Suurempi nousu alfa-kaistan redundanssissa 24 tunnin jälkeen korreloi parantuneisiin masennusoireisiin päivällä 7, mikä viittaa näiden neuraalisten merkkiaineiden auttavan ketamiiniin reagoivien tunnistamisessa.",
-        "is": "Í þessari afturfræðilegu greiningu á tilviljunarkenndum, tvítviblunduðum rannsóknum var skoðuð heilavirkni hjá 30 eldri vopnahlésdeildum með meðferðarþolna þunglyndi eftir ketamíninnflutning. Með því að nota EEG-undirstaðnar mælingar á hærri röð heilavirkni fundu vísindamenn að ketamín olli kraftmiklum breytingum á heilanum, með hámarkáhrifum á alfabilinu 1 klst. síðar. Meiri aukning á alfabili eftir 24 klst. tengdist bættum þunglyndieinkennum á degi 7, sem bendir til þess að þessir taugamerki geti hjálpað til við að bera kennsl á ketamínrespondere.",
-        "et": "Selles randomiseeritud, kahekordse pimedusega uuringu teisanalüüsis uuriti ajuvõrgustiku tegevust 30 vanemale veteranile raviresistentse depressiooni korral pärast ketamiiniinfusiooni. EEG-põhiste kõrgema järgu ajuvõrgustiku vastasmõju mõõtmiste abil leidsid teadlased, et ketamiin põhjustas dünaamikat muutusi ajus redundantsuses, maksimaalsete mõjudega alfaribal 1 tunni pärast. Suurem tõus alfaribal 24 tunni pärast korreleerus paranenud depressiooniühenduste ja päevaga 7, mis viitab neuraalsete markerite potentsiaalile ketamiinile reageerijate tuvastamisel.",
-        "lv": "Šajā randomizētā, dubulti aklā pētījuma sekundārajā analīzē tika pārbaudīta smadzeņu aktivitāte 30 vecākiem veterāniem ar ārstēšanai rezistentām depresiju pēc ketamīna infūzijas. Izmantojot EEG-balstītus augstākas kārtas smadzeņu mijiedarbības mērus, pētnieki atklāja, ka ketamīns izraisīja dinamiskas izmaiņas smadzeņu redundancē, ar maksimāliem efektiem alfa-joslā pēc 1 stundas. Lielāks pieaugums alfa-joslā pēc 24 stundām korelēja ar uzlabotiem depresijas simptomiem 7. dienā, kas liecina, ka šie neirālie marķieri var palīdzēt identificēt ketamīnā reaģējošus pacientus.",
-        "lt": "Šioje atsitiktinės, dvigubai aklos studijos antrinėje analizėje buvo tiriama smegenų veikla 30 vyresnio amžiaus veteranų su gydymui atsparią depresija po ketamino infuzijos. Naudodami EEG pagrįstas aukštesnės eilės smegenų sąveikos išmatavimus, mokslininkai nustatė, kad ketaminas sukėlė dinaminius pokyčius smegenų redundancijoje, su maksimaliais efektais alfa juostoje po 1 valandos. Didesnis alfa juostos padidėjimas po 24 valandų buvo susijęs su geresniais depresijos simptomais 7 dieną, o tai rodo, kad šie neurologiniai žymenys gali padėti nustatyti ketaminui reagavusius pacientus."
-      },
-      "notable": false,
-      "notable_reasons": null,
-      "relevance_score": 4,
-      "study_type": "rct",
-      "substances": [
-        "ketamine"
-      ],
-      "added_at": "2026-07-05T09:26:35.324757+00:00"
-    },
-    {
-      "title": "Single Ayahuasca administration attenuates alcohol relapse and associated behavioral, neurochemical, and oxidative alterations in rats.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42401369/",
-      "source": "PubMed",
-      "date": "2026-07-04",
-      "authors": [
-        "Lodetti Guilherme",
-        "de Bitencourt Rafael Mariano",
-        "Inserra Antonio"
-      ],
-      "doi": "10.1016/j.pnpbp.2026.111817",
-      "summaries": {
-        "en": "Rat study demonstrates single ayahuasca dose reduces alcohol relapse and anxiety-like behavior following 35-day ethanol exposure. Treatment (2.72 mg/kg DMT + β-carbolines) decreased relapse drinking, normalized dopamine/serotonin levels, elevated BDNF, and restored antioxidant enzyme activity in frontal cortex, hippocampus, and striatum versus controls.",
-        "sv": "Rattförsök visar att en engångsdos ayahuasca minskar återfall i alkoholkonsumtion och ångestliknande beteende efter 35 dagars etanolexponering. Behandlingen (2,72 mg/kg DMT + β-karboliner) reducerade återfallsdrinkande, normaliserade dopamin/serotoninnivåer, höjde BDNF och återställde antioxidantenzymaktivitet i hjärnans frontala cortex, hippocampus och striatum jämfört med kontroller.",
-        "no": "Rotteforsøk viser at en enkelt ayahuasca-dose reduserer tilbakefall til alkoholkonsum og angstliknende atferd etter 35 dagers etanoleksponering. Behandlingen (2,72 mg/kg DMT + β-karboliner) reduserte tilbakefallsdrinking, normaliserte dopamin-/serotoninnivåer, økte BDNF og gjenopprette antioksidantenzymaktivitet i frontal cortex, hippocampus og striatum sammenlignet med kontroller.",
-        "da": "Rotteforsøg viser, at en enkelt ayahuasca-dosis reducerer tilbagefald til alkoholforbrug og angstlignende adfærd efter 35 dages ethanoleksponering. Behandlingen (2,72 mg/kg DMT + β-karboliner) mindskede tilbagefaldsdrikeri, normaliserede dopamin-/serotoninkoncentrationer, øgede BDNF og gjenoprettede antioksidantenzymaktivitet i præfrontal cortex, hippocampus og striatum versus kontroller.",
-        "fi": "Rottalääkkeellinen tutkimus osoittaa, että yksittäinen ayahuascan annos vähentää palautumista alkoholinkäyttöön ja ahdistuneisuuden kaltaista käyttäytymistä 35 päivän etanolaltistumisen jälkeen. Käsittely (2,72 mg/kg DMT + β-karboliinit) vähensi palautumiskelpoista juomista, normalisoi dopamiini-/serotoniinipitoisuuksia, kohotti BDNF-tasoja ja ennallistui antioksidanttientsyymin aktiivisuus aivokuoren, hippocampuksen ja striaatumin alueilla kontrolleista.",
-        "is": "Rotnarannsókn sýnir að ein skammtadæming ayahuasca minnkar endurkoma til alkoholdrykkju og kvíðatengda hegðun eftir 35 daga etanólútsetningu. Meðferð (2,72 mg/kg DMT + β-karbolín) minnkaði endurkomadrykk, jafnaði dopamín-/serótonin-stig, hækkaði BDNF og endurheimti andoxidant-ensím virkni í beinum heilabarki, hippocampus og striatum miðað við stjórnir.",
-        "et": "Rottekatse näitab, et üksik ayahuasca doos vähendab alkoholisse tagasilangemist ja ärevusesarnast käitumist pärast 35 päeva etanoolaltstumist. Ravi (2,72 mg/kg DMT + β-karboliinid) vähendasid taganemisjooki, normaliseerisid dopamiin/serotooniini tasemeid, tõstsid BDNF-d ja taastasid antioksüdantentsuümi tegevust aju ees-, hipokampuse- ja striaatumipiirkondades võrreldes kontrollrühmaga.",
-        "lv": "Žurku pētījums parāda, ka viena ayahuasca deva samazina atgrieršanos pie alkohola lietošanas un trauksmes līdzīgu uzvedību pēc 35 dienu etanola ekspozīcijas. Ārstēšana (2,72 mg/kg DMT + β-karboīni) samazināja atgriešanās dzeršanu, normalizēja dopamīna/serotonīna līmeņus, paaugstināja BDNF un atjaunoja antioksidantu enzīmu aktivitāti priekšējā garoza, hipokampā un striātumā salīdzinājumā ar kontroli.",
-        "lt": "Žiurkių tyrimas rodo, kad viena ayahuascos doza sumažina grįžimą prie alkoholio ir nerimą panašų elgesį po 35 dienų etanolio ekspozicijos. Gydymas (2,72 mg/kg DMT + β-karbolinai) sumažino grįžimo gėrimą, normalizavo dopamino/serotonino lygius, padidino BDNF ir atkūrė antioksidantinių fermentų aktyvumą priekiniame žievės skiautelyje, hipokampe ir striatum, palyginti su kontrole."
-      },
-      "notable": false,
-      "notable_reasons": null,
-      "relevance_score": 4,
-      "study_type": "preclinical",
-      "substances": [
-        "ayahuasca"
-      ],
-      "added_at": "2026-07-05T09:26:35.324757+00:00"
-    },
-    {
-      "title": "Intranasal esketamine plus oral antidepressant for treatment-resistant depression: acute induction and maintenance relapse-prevention outcomes in a systematic review and meta-analysis.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42490943/",
-      "source": "PubMed",
-      "date": "2026-07-03",
-      "authors": [
-        "Xie Jingqiang",
-        "Pu Chunying",
-        "Sun Mingyue"
-      ],
-      "doi": "10.3389/fpsyt.2026.1774549",
-      "summaries": {
-        "en": "Meta-analysis of six RCTs (1,836 participants) comparing intranasal esketamine plus oral antidepressant versus placebo for treatment-resistant depression. Esketamine showed greater symptom reduction at day 28 (MADRS: -2.99) and faster improvement by day 2. Response and remission rates were significantly higher with esketamine. Maintenance phase data showed sustained benefit with lower relapse risk, though long-term safety requires further investigation.",
-        "sv": "Metaanalys av sex randomiserade studier (1 836 deltagare) som jämförde intranasal esketamin plus oralt antidepressiv medel med placebo vid behandlingsresistent depression. Esketamin visade större symtomreducering vid dag 28 (MADRS: -2,99) och snabbare förbättring redan dag 2. Respons- och remissionshastigheter var signifikant högre med esketamin. Underhållsfasen visade varaktig effekt med lägre återfallsrisk.",
-        "no": "Metaanalyse av seks randomiserte studier (1 836 deltakere) som sammenlignet intranasal esketamin pluss oralt antidepressivum med placebo ved behandlingsresistent depresjon. Esketamin viste større symptomreduksjon ved dag 28 (MADRS: -2,99) og raskere forbedring allerede dag 2. Respons- og remisjonshastigheter var signifikant høyere med esketamin. Vedlikeholdsfasen viste vedvarende effekt med lavere tilbakefallsrisiko.",
-        "da": "Metaanalyse af seks randomiserede studier (1.836 deltagere) der sammenlignede intranasal esketamin plus oralt antidepressivum med placebo ved behandlingsresistent depression. Esketamin viste større symptomreduktion på dag 28 (MADRS: -2,99) og hurtigere forbedring allerede dag 2. Respons- og remissionsrater var signifikant højere med esketamin. Vedligeholdelsesfasen viste vedvarende effekt med lavere recidivrisiko.",
-        "fi": "Kuuden satunnaistetun tutkimuksen metaanalyysi (1 836 osallistujaa), jossa verrattiin intranasaalia esketamiinia plus suullista masennuslääkettä plaseboon hoitoresistenttiin masennukseen. Esketamiini vähensi oireita enemmän 28. päivään mennessä (MADRS: -2,99) ja parannus oli nopeampi jo 2. päivään mennessä. Vastaus- ja remissioprosentit olivat merkitsevästi korkeammat esketamiinin kanssa. Ylläpiitovaiheessa havaittiin kestävä vaikutus ja pienempi uusiutumisriski.",
-        "is": "Samantekt sex handahófa prófana (1.836 þátttakendur) sem bera saman intranasal esketamín ásamt munnlegri þunglyndislyf við lyfleysu við meðferðarþolin þunglyndi. Esketamín sýndi meiri einkennalosun á 28. degi (MADRS: -2,99) og hraðari bætingu þegar á 2. degi. Svörun og bata hlutfall voru marktækt hærri með esketamíni. Viðhaldsfasi sýndi viðvarandi áhrif með minni endurkomustig.",
-        "et": "Kuue randomiseeritud uuringu metaanalüüs (1 836 osalejat), kus võrreldi intranaasaalset esketamiini koos suulise antidepressandiga platseeboga ravi-resistentse depressiooni korral. Esketamiin näitas suurema sümptomite vähendamist 28. päeval (MADRS: -2,99) ja kiirem paranemist juba 2. päeval. Vastuseandmuse ja remissiooni määrad olid esketamiiniga märkimisväärselt kõrgemad. Hooldusperioodis oli näha püsiv toime ja madalam taandumise risk.",
-        "lv": "Sešu randomizētu pētījumu metaanalīze (1 836 dalībnieki), kur salīdzināta intranazāla esketamīna kombinācija ar perorālu antidepresantu ar placebo depresijas gadījumā, kas rezistenta pret ārstēšanu. Esketamīns parādīja lielāku simptomu samazinājumu 28. dienā (MADRS: -2,99) un ātrāku uzlabošanos jau 2. dienā. Atbildes un remisijas rādītāji bija nozīmīgi augstāki ar esketamīnu. Uzturēšanas fāzē tika konstatēts ilgstošs efekts ar zemāku recidīva risku.",
-        "lt": "Šešių randomizuotų tyrimų metaanalizė (1 836 dalyviai), lyginusi intrazvasinį esketaminą kartu su peroraliniu antidepresantu su placebu gydant ligą, atsparia antidepresantams. Esketaminas 28 dieną parodė didesnį simptomų sumažėjimą (MADRS: -2,99) ir greitesnį pagerinimą jau 2 dieną. Atsakomumas ir remisijos rodikliai buvo reikšmingai aukštesni su esketaminu. Palaikymo fazėje pastebėtas išliekantis efektas ir mažesnė relapsų rizika."
-      },
-      "notable": true,
-      "notable_reasons": {
-        "en": "Large meta-analysis synthesizing 6 unique RCTs (n=1,836) with both acute and maintenance phase data on esketamine efficacy and safety in TRD.",
-        "sv": "Stor metaanalys som syntetiserar 6 unika RCTs (n=1,836) med data från både akut och underhållsfas angående esketamins effektivitet och säkerhet vid TRD.",
-        "no": "Stor metaanalyse som syntetiserer 6 unike RCTs (n=1,836) med data fra både akutt og vedlikeholdsfase om esketamin-effektivitet og sikkerhet ved TRD.",
-        "da": "Stor metaanalyse, der syntetiserer 6 unikke RCTs (n=1,836) med data fra både akut og vedligeholdsfase om esketamin-effektivitet og sikkerhed ved TRD.",
-        "fi": "Suuri metaanalyysi, joka syntetisoi 6 ainutlaatuista RCT:ta (n=1,836) sekä akuutin että ylläpitovaiheen tiedoilla esketamiinin tehokkuudesta ja turvallisuudesta TRD:ssa.",
-        "is": "Stór metagreining sem tekur saman 6 einkvæm RCTs (n=1,836) með gögnum úr bæði bráðri og viðhaldsfasa um verkun og öryggi esketamíns við TRD.",
-        "et": "Suur metaanalüüs, mis süntesiseerib 6 unikaalset RCT-t (n=1,836) nii ägedate kui ka hooldussfaasi andmetega esketamiini tõhususe ja ohutuse kohta TRD puhul.",
-        "lv": "Liela metaanalīze, kas sintetizē 6 unikālus RCT (n=1,836) ar akūtas un uzturēšanas fāzes datiem par esketamīna efektivitāti un drošumu TRD gadījumā.",
-        "lt": "Didelė metaanalizė, apimanti 6 unikalias RCT (n=1,836) su ūmios ir palaikomosios fazės duomenimis apie esketamino veiksmingumą ir saugumą TRD atveju."
-      },
-      "relevance_score": 4,
-      "study_type": "review",
-      "substances": [
-        "ketamine"
-      ],
-      "added_at": "2026-07-24T09:02:17.474070+00:00"
-    },
-    {
-      "title": "Ketamine alters the aperiodic EEG exponent in major depression: implications for cortical E/I balance and treatment prediction.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42403511/",
-      "source": "PubMed",
-      "date": "2026-07-03",
-      "authors": [
-        "Liu Yujuan",
-        "Liu Xiaorong",
-        "Olbrich Sebastian"
-      ],
-      "doi": "10.1177/20451253261462240",
-      "summaries": {
-        "en": "Placebo-controlled study (n=24) examined ketamine's effects on EEG aperiodic exponent in major depression. Subanesthetic ketamine (0.54 mg/kg IV) significantly reduced the aperiodic exponent, a marker of cortical excitation-inhibition balance. Higher pretreatment occipital aperiodic exponent predicted antidepressant response at 24 hours. Findings suggest EEG aperiodic exponent as a potential biomarker for ketamine treatment outcomes in treatment-resistant depression.",
-        "sv": "Placebo-kontrollerad studie (n=24) undersökte ketamins effekt på EEG:s aperiodiska exponent vid depression. Subanæstetisk ketamin (0,54 mg/kg IV) minskade signifikant det aperiodiska exponenten, en markör för kortikal excitations-inhibitionbalans. Högre pretreatment-värden i occipitalregionen förutspådde antidepressiv respons vid 24 timmar. Resultaten tyder på att EEG:s aperiodiska exponent kan användas som biomarkör för ketaminbehandling vid behandlingsresistent depression.",
-        "no": "Placebokontrollert studie (n=24) undersøkte ketamins effekt på EEG aperiodisk eksponent ved depresjon. Subanæstetisk ketamin (0,54 mg/kg IV) reduserte signifikant den aperiodiske eksponenten, en markør for kortikale eksitasjons-inhibisjonbalansen. Høyere prebehandlings-verdier i occipitalregionen forutsagde antidepressiv respons etter 24 timer. Funnene tyder på at EEG aperiodisk eksponent kan brukes som biomarkør for ketaminbehandling ved behandlingsresistent depresjon.",
-        "da": "Placebo-kontrolleret studie (n=24) undersøgte ketamins effekt på EEG's aperiodiske eksponent ved depression. Subanæstetisk ketamin (0,54 mg/kg IV) reducerede signifikant den aperiodiske eksponent, en markør for kortikale excitations-inhibitionsbalance. Højere præbehandlingsværdier i occipitalregionen forudsagde antidepressiv respons efter 24 timer. Resultaterne tyder på, at EEG's aperiodiske eksponent kan anvendes som biomarkør for ketaminbehandling ved behandlingsresistent depression.",
-        "fi": "Plasebokontrolloidussa tutkimuksessa (n=24) tutkittiin ketamiinin vaikutusta EEG:n aperiodiseen eksponenttiin masennuksessa. Subanesteetinen ketamiini (0,54 mg/kg IV) pienensi merkitsevästi aperiodista eksponenttia, joka kuvaa kortikaalisen herkkyyden ja inhibition tasapainoa. Korkeammat esikäsittelyarvot occipitaalialueella ennustivat masennuslääkkeen vastetta 24 tunnin jälkeen. Tulokset viittaavat siihen, että EEG:n aperiodinen eksponentti voisi toimia biomarkkerina ketamiinihoidon tuloksissa hoitoresistenteissa masennuksissa.",
-        "is": "Rannsókn með placebó-stjórn (n=24) kannaði áhrif ketamíns á aperiodíska eksponent EEG við þunglyndi. Skammtíma-ómeðvituð ketamín (0,54 mg/kg IV) minnkaði verulega aperiodíska eksponentinn, merki um jafnvægi taugastarfsemi og hemlunar í beinum heilarhornum. Hærri aperiodískir gildi fyrir meðferð á occipital-svæðinu spáðu fyrir um svörun við andþunglyrkjum eftir 24 klst. Niðurstöður benda til þess að aperiodísk eksponent EEG gæti verið notuð sem lífmerki fyrir ketamínmeðferð við þunglyndi sem standast hefðbundna meðferð.",
-        "et": "Platseebo-kontrollitud uuringu (n=24) uuriti ketamiini mõju EEG aperioodilisele eksponendile depressiooni korral. Subanesteesia ketamiin (0,54 mg/kg IV) vähendas märkimisväärselt aperioodilist eksponenti, mis peegeldab ajukooreksi ergutuse-inhibitsiooni tasakaalu. Kõrgemad eelse käsitluse väärtused occipitaalpiirkonnas ennustasid antidepressiivsete ravimite reageeringut 24 tunni möödudes. Tulemused viitavad sellele, et EEG aperioodiline eksponent võib olla biomerkeriks ketamiinravi tulemustes ravile resistentse depressiooni korral.",
-        "lv": "Placebo-kontrolēts pētījums (n=24) pārbaudīja ketamīna ietekmi uz EEG aperiodisko eksponenti depresijas gadījumā. Subanestētisks ketamīns (0,54 mg/kg IV) būtiski samazināja aperiodisko eksponenti, kas atspoguļo smadzeņu garozas uzbudinājuma-inhibīcijas līdzsvaru. Augstāki pirmspārbaudes rādītāji occipitālajā apvidū paredzēja antidepresīvo līdzekļu efektivitāti 24 stundu laikā. Rezultāti norāda uz to, ka EEG aperiodiskais eksponents var kalpot kā biomarķieris ketamīna ārstēšanas rezultātu prognozēšanai ārstēšanai rezistentās depresijas gadījumā.",
-        "lt": "Placebo kontroliuotame tyrime (n=24) buvo tiriamas ketamino poveikis EEG aperiodiškajai eksponentei esant depresijai. Subanestezinis ketaminas (0,54 mg/kg IV) reikšmingai sumažino aperiodišką eksponentę, žymintį smegų žievės sužadinimo-inhibicijos balansą. Aukštesni prieš gydymą užfiksuoti dydžiai occipitaliame regione numatė antidepresanto atsaką po 24 valandų. Rezultatai rodo, kad EEG aperiodinis eksponentas gali būti naudojamas ketamino gydymo rezultatų biožymenimis gydymui atspariai depresijai."
-      },
-      "notable": false,
-      "notable_reasons": null,
-      "relevance_score": 4,
-      "study_type": "observational",
-      "substances": [
-        "ketamine"
-      ],
-      "added_at": "2026-07-07T10:05:21.641194+00:00"
-    },
-    {
-      "title": "Toward a nuanced framework for the Medical development of ibogaine and its analogues and derivatives: implications for psychopharmacology.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42400152/",
-      "source": "PubMed",
-      "date": "2026-07-03",
-      "authors": [
-        "Verrico Christopher D",
-        "Averill Lynnette A",
-        "Moore Cameron J"
-      ],
-      "doi": "10.1080/17460441.2026.2693144",
-      "summaries": {
-        "en": "This review proposes a framework for developing ibogaine analogs and derivatives as therapeutics for substance use disorders, trauma, mood disorders, and suicidality. Two strategies are distinguished: preserving ibogaine's broad polypharmacological effects while reducing safety risks, or creating selective analogs targeting specific conditions (OUD, TBI, PTSD). The authors evaluate evidence for each approach and discuss trade-offs in safety, efficacy, and scalability, emphasizing the need to account for individual pharmacogenetic variability.",
-        "sv": "Denna översikt föreslår ett ramverk för utveckling av ibogananaloga och derivat som terapeutika för substansmissbrukslidanden, traumatiska tillstånd, stämningsrubbningar och suicidalitet. Två strategier särskiljs: att bevara iboganets breda polyfarmakologiska effekter samtidigt som säkerhetsrisker minskas, eller att skapa selektiva analoga för specifika tillstånd (OUD, TBI, PTSD). Författarna värderar evidensen för båda tillvägagångssätten och diskuterar avvägningar gällande säkerhet, effektivitet och skalbarhet, med betoning på vikten av individuell farmakogenetisk variation.",
-        "no": "Denne oversikten foreslår et rammeverk for utvikling av ibogain-analoger og derivater som terapeutika for stoffbrukslidelser, traumatiske tilstander, stemmingslidelser og suisidalitet. To strategier skilles: å bevare iboains brede polifarmakologiske effekter samtidig som sikkerhetskrisiko reduseres, eller å skape selektive analoger for spesifikke tilstander (OUD, TBI, PTSD). Forfatterne evaluerer bevis for begge tilnærminger og diskuterer avveiinger angående sikkerhet, effektivitet og skalerbarhet, med vekt på betydningen av individuell farmakogenetisk variasjon.",
-        "da": "Denne oversigt foreslår en ramme for udvikling af ibogain-analoger og derivater som terapeutika mod stoffmisbrug, traumatiske tilstande, stemningslidelser og selvmordsfaren. To strategier skelnes: at bevare iboains brede polifarmakologiske effekter samtidig med at reducere sikkerhedsrisici, eller at skabe selektive analoger for specifikke tilstande (OUD, TBI, PTSD). Forfatterne evaluerer evidens for begge tilgange og diskuterer afvejninger vedr. sikkerhed, effektivitet og skalerbarhed, med vægt på betydningen af individuelt farmakogenetisk variabilitet.",
-        "fi": "Tämä katsaus ehdottaa kehikkoa ibogaiinin analogien ja johdannaisten kehittämiselle terapeuteiksi päihteiden käytön häiriöihin, traumaperäisiin tiloihin, mielialahäiriöihin ja itsemurhariski. Kaksi strategiaa erotetaan: ibogaiinin laajapohjaisten polifarmakologisten vaikutusten säilyttäminen samalla kun turvallisuusriskejä vähennetään, tai selektiiviisten analogien luominen tiettyihin tiloihin (OUD, TBI, PTSD). Kirjoittajat arvioivat molempien lähestymistapojen näyttöä ja keskustelevat turvallisuuden, tehokkuuden ja skaalautuvuuden välistä kompromisseista, korostaen yksilöllisen farmakogeneettisen vaihtelun merkitystä.",
-        "is": "Þessi yfirlitið leggur til ramma fyrir þróun ibógaín-analóga og afleiðna sem lyfjameðferðar fyrir vímuefnamisnotkun, átroðaskaða, skapsveiflur og sjálfsmorðshættu. Tvær aðferðir eru aðgreindar: að varðveita víðtæk margvirkjanleg áhrif ibógaíns en minnka öryggisáhættu, eða búa til valkvæða analóga fyrir tilteknar aðstæður (OUD, TBI, PTSD). Höfundar meta sönnunargögn fyrir báðum aðferðum og ræða málefnaleg málefni tengdum öryggi, virkni og stærðarhæfni, með áherslu á mikilvægi einstaklingsbundinnar farmakógenætískrar breytileika.",
-        "et": "Käesolev ülevaade pakub raamistikku ibogarni analoogide ja derivaatide väljatöötamiseks terapeutilisteks vahenditeks ainete kuritarvitamise häirete, trauma-seotud seisundite, meeleolu häirete ja enesetapuohu korral. Eristatakse kahte strateegiat: ibogarni laiapõhjaliste polifarmakkoloogiliste mõjude säilitamine ohutusriskide vähendamise kõrval või selektiivsete analoogide loomine konkreetsete seisundite jaoks (OUD, TBI, PTSD). Autorid hindavad tõendeid mõlema lähenemisviisi kohta ning arutlevad ohutuse, tõhususe ja skaleeritavuse vaheliste otsuste üle, rõhutades individuaalse farmakogeenetilise varieerumise tähtsust.",
-        "lv": "Šis pārskats piedāvā sistēmu iboģaīna analogu un atvasinājumu izstrādei kā terapeitiskiem līdzekļiem vielu lietošanas traucējumiem, traumas saistītiem stāvokļiem, garastāvokļa traucējumiem un pašnāvības risku. Izšķir divas stratēģijas: saglabāt iboģaīna plašus polifarmakološkos efektus, vienlaikus samazinot drošības riskus, vai izveidot selektīvus analogue specifiskiem stāvokļiem (OUD, TBI, PTSD). Autori novērtē pierādījumus abiem pieejām un apspriež drošības, efektivitātes un mērogojamības kompromisus, uzsverot individuālas farmakogeneriskās variācijas nozīmi.",
-        "lt": "Šis apžvalga siūlo psichedelinių medžiagų analogų ir darinių kūrimo sistemą kaip terapinius vaistus medžiagų naudojimo sutrikimams, su trauma susijusioms būsenoms, nuotaikos sutrikimams ir savižudybės rizikai. Išskirti dvi strategijos: išlaikyti plataus veikimo psichedelinę medžiagą, kartu sumažinant saugos riziką, arba sukurti selektyvius analogue specifinėms būsenoms (OUD, TBI, PTSD). Autoriai vertina abiejų metodų įrodymus ir svarsto saugumo, veiksmingumo ir mastelio kompromisus, pabrėždami individualios farmakogeninės variacijų svarbą."
-      },
-      "notable": false,
-      "notable_reasons": null,
-      "relevance_score": 4,
-      "study_type": "review",
-      "substances": [
-        "ibogaine"
-      ],
-      "added_at": "2026-07-05T09:26:35.324757+00:00"
-    },
-    {
-      "title": "Mitochondrial-inflammation crosstalk in major depressive disorder: molecular mechanisms and therapeutic implications.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42399415/",
-      "source": "PubMed",
-      "date": "2026-07-03",
-      "authors": [
-        "Wang Yu",
-        "Li Ji-Tao",
-        "Zhu Lin-Lin"
-      ],
-      "doi": "10.1038/s41380-026-03732-y",
-      "summaries": {
-        "en": "Recent research identifies mitochondrial dysfunction and neuroinflammation as central to major depressive disorder. Mitochondrial defects impair energy production and trigger inflammatory responses, creating a self-reinforcing cycle. Studies show conventional antidepressants gradually restore mitochondrial function, while ketamine induces rapid metabolic changes. Psychedelics and mitochondria-targeted compounds show additional therapeutic promise through this mechanistic pathway.",
-        "sv": "Ny forskning identifierar mitokondriell dysfunktion och neuroinflammation som centralt för allvarlig depression. Mitokondriella defekter försämrar energiproduktion och utlöser inflammatoriska svar som förstärker varandra. Studier visar att vanliga antidepressiva långsamt återställer mitokondriell funktion, medan ketamin inducerar snabb metabol omställning. Psykedelika och mitokondrie-riktade substanser visar ytterligare terapeutisk potential genom denna mekanism.",
-        "no": "Ny forskning identifiserer mitokondriell dysfunksjon og nevroinflammation som sentrale i alvorlig depressiv lidelse. Mitokondriefeil forverrer energiproduksjon og utløser inflammatoriske svar som forsterker hverandre. Studier viser at vanlige antidepressiva gradvis gjenoppretter mitokondriell funksjon, mens ketamin induserer rask metabolsk omstilling. Psykedelika og mitokondrie-målrettede forbindelser viser ytterligere terapeutisk potensial gjennom denne mekanismen.",
-        "da": "Ny forskning identificerer mitokondriedy­sfunktion og neuroinflamation som centrale i alvorlig depression. Mitokondriedefekter forværrer energiproduktion og udløser inflammatoriske reaktioner, der forstærker hinanden. Studier viser, at konventionelle antidepressiva gradvist genopretter mitokondriefunktion, mens ketamin inducerer hurtig metabolsk omprogrammering. Psykedelika og mitokondrietargeterede stoffer viser yderligere terapeutisk potentiale gennem denne mekanisme.",
-        "fi": "Uusi tutkimus osoittaa mitokondrioiden väärintoimimisen ja neuroinflammaation olevan keskeiset masennushäiriön tekijät. Mitokondrioiden viat heikentävät energiantuotantoa ja laukaisevat itseään vahvistavia tulehdusreaktioita. Tutkimukset osoittavat, että tavanomaiset masennuslääkkeet palauttavat mitokondrioiden toimintaa asteittain, kun taas ketamiini aiheuttaa nopean aineenvaihdunnan uudelleenjärjestelyn. Psykedeliset yhdisteet ja mitokondrioihin kohdistuvat aineet osoittavat lisää terapeuttista potentiaalia tämän mekanismin kautta.",
-        "is": "Ný rannsókn sýnir að vanvirki í frumuhlýðrum og taugabólgur eru miðlæg í alvarlegri þunglyndi. Gallir í frumuhlýðrum slörkva orkuframleiðslu og kalla fram bólgusvörun sem styrkir hvert annað. Rannsóknir sýna að hefðbundin þunglyndislyf endurheimta starfsemi frumuhlýðra smám saman, á meðan ketamín framkallar skjóta efnaskiptaumskipun. Sálfræðilyf og efni sem miða að frumuhlýðrum sýna frekari meðferðarmöguleika með þessari aðferð.",
-        "et": "Uustest uuringutest selgub, et mitokondriaalne düsfunktsioon ja neuroinflatsioon on depressiivse häire peamised tegurid. Mitokondriaalsed defektid kahandavad energiatootmist ja käivitavad üksteist tugevdavaid põletikuprotsesse. Uuringud näitavad, et tavapärased antidepressandid taastuvad mitokondriaalseid funktsioone järk-järgult, samas kui ketamiin kutsub esile kiire metabolilist ümmeprogram­mimist. Psühhedeelikumid ja mitokondriaalselt suunatud ühendid näitavad lisavõimalusi selle mehhanismi kaudu.",
-        "lv": "Jaunajā pētniecībā konstatēts, ka mitohondriju disfunkcija un neiropiedegunin ir centrāli depresijas mehānismu pamatā. Mitohondriju defekti pasliktina enerģijas ražošanu un izraisa pašu stiprinošas iekaisuma reakcijas. Pētījumi parāda, ka parastie antidepresanti pakāpeniski atjauno mitohondriju funkciju, bet ketamīns izraisa ātru metabolismu reprogrammēšanu. Psihedeliskie savienojumi un mitohondrijus vērstie vielas parāda papildu terapeitisko iespējamību šī mehānisma dēļ.",
-        "lt": "Nauji tyrimai rodo, kad mitochondrijų disfunkcija ir neurouždegimas yra pagrindiniai svarbi depresijos veiksniai. Mitochondrijų defektai sumažina energijos gamybą ir suaktyvina savęs stiprinančias uždegimines reakcijas. Tyrimai rodo, kad įprasti antidepresantai laipsniškai atkuria mitochondrijų funkciją, o ketaminas sukelia greitą metabolizmo pertvarką. Psichedeliniai junginiai ir mitochondrijų veiksniais vaistai parodo papildomą terapinį potencialą šiuo mechanizmu."
-      },
-      "notable": false,
-      "notable_reasons": null,
-      "relevance_score": 4,
-      "study_type": "review",
-      "substances": [
-        "ketamine",
-        "other"
-      ],
-      "added_at": "2026-07-04T09:05:00.086634+00:00"
-    },
-    {
-      "title": "Effects of sub-anesthetic doses of esketamine on immune function and postoperative negative emotions in acoustic neuroma patients: a randomized clinical trial.",
-      "url": "https://doi.org/10.1080/07853890.2026.2692804",
-      "source": "Europe PMC",
-      "date": "2026-07-03",
-      "authors": [
-        "Chen Z",
-        "Wang Y",
-        "Cong P"
-      ],
-      "doi": "10.1080/07853890.2026.2692804",
-      "summaries": {
-        "en": "Effects of sub-anesthetic doses of esketamine on immune function and postoperative negative emotions in acoustic neuroma patients: a randomized clinical trial.",
-        "sv": "Effects of sub-anesthetic doses of esketamine on immune function and postoperative negative emotions in acoustic neuroma patients: a randomized clinical trial.",
-        "no": "Effects of sub-anesthetic doses of esketamine on immune function and postoperative negative emotions in acoustic neuroma patients: a randomized clinical trial.",
-        "da": "Effects of sub-anesthetic doses of esketamine on immune function and postoperative negative emotions in acoustic neuroma patients: a randomized clinical trial.",
-        "fi": "Effects of sub-anesthetic doses of esketamine on immune function and postoperative negative emotions in acoustic neuroma patients: a randomized clinical trial.",
-        "is": "Effects of sub-anesthetic doses of esketamine on immune function and postoperative negative emotions in acoustic neuroma patients: a randomized clinical trial.",
-        "et": "Effects of sub-anesthetic doses of esketamine on immune function and postoperative negative emotions in acoustic neuroma patients: a randomized clinical trial.",
-        "lv": "Effects of sub-anesthetic doses of esketamine on immune function and postoperative negative emotions in acoustic neuroma patients: a randomized clinical trial.",
-        "lt": "Effects of sub-anesthetic doses of esketamine on immune function and postoperative negative emotions in acoustic neuroma patients: a randomized clinical trial."
-      },
-      "notable": false,
-      "notable_reasons": null,
-      "relevance_score": 4,
-      "study_type": "rct",
-      "substances": [
-        "ketamine"
-      ],
-      "added_at": "2026-07-04T09:05:00.086634+00:00"
-    },
-    {
-      "title": "Quarterly Psychedelics Briefing: Q2 2026",
-      "url": "https://psychedelicalpha.com/news/quarterly-briefing-q2-2026/",
-      "source": "Psychedelic Alpha",
-      "date": "2026-07-03",
-      "authors": [],
-      "doi": "",
-      "summaries": {
-        "en": "Psychedelic Alpha's Q2 2026 quarterly briefing reviews major developments in hallucinogen research, drug development, policy, and regulation from the past three months. Editor Josh Hardman surveys progress across academia and industry, then forecasts upcoming trends for the next quarter.",
-        "sv": "Psychedelic Alphas kvartalsrapport för Q2 2026 granskar utvecklingen inom psykedelikaforskning, läkemedelsutveckling, policy och regulering under de senaste tre månaderna. Redaktör Josh Hardman granskar framsteg inom akademi och industri och förutspår kommande trender.",
-        "no": "Psychedelic Alphas kvartalsrapport for Q2 2026 gjennomgår sentrale utviklinger innen psykedelika-forskning, legemiddelutvikling, policy og regulering de siste tre månedene. Redaktør Josh Hardman vurderer fremgang i akademia og industri, og forutser kommende trender.",
-        "da": "Psychedelic Alphas kvartalsrapport for Q2 2026 gennemgår vigtige udviklingen inden for psykedelika-forskning, lægemiddelrollen, politik og regulering i løbet af de seneste tre måneder. Redaktør Josh Hardman evaluerer fremskridt i akademia og industri og forudsiger kommende trends.",
-        "fi": "Psychedelic Alphan Q2 2026 -neljännesvuosiraportti tarkastelee psykedeelikkojen tutkimuksen, lääkekehityksen, politiikan ja sääntelyn keskeisiä kehityssuuntia viimeisten kolmen kuukauden aikana. Päätoimittaja Josh Hardman arvioi edistystä akateemisella ja teollisuuden alalla sekä ennustaa tulevia kehityssuuntia.",
-        "is": "Psychedelic Alpha's ársfjórðungsefni fyrir Q2 2026 fjallar um helstu framfarir á sviði psýkedelíska efnaefna rannsókna, lyfjaþróunar, stefnu og regluverks síðastliðna þrjá mánuði. Ritstjóri Josh Hardman fer yfir framgang í fræðasamfélagi og iðnaði og spáir fyrir um framtíðarþróun.",
-        "et": "Psychedelic Alpha Q2 2026 kvartaliülevaade käsitleb psühhedeelikute uuringute, ravimite arendamise, poliitika ja regulatsiooni peamisi arenguid eelmisest kolmest kuust. Peatoimetaja Josh Hardman hindab edusamme akadeemilises ja tööstussfääris ning prognoosib järgmiste trendide arengut.",
-        "lv": "Psychedelic Alpha Q2 2026 ceturkšņa pārskats apkopo galvenos psihedeliku pētniecības, zāļu izstrādes, politikas un regulējuma attīstības virzienus pēdējos trīs mēnešos. Redaktors Džošs Hardmens analizē progresu akadēmiskajā un rūpniecības sfērā un prognozē nākamos trendus.",
-        "lt": "Psychedelic Alpha Q2 2026 ketvirtinio pranešimo apžvalga apima pagrindinius psichedelinių medžiagų tyrimų, vaistų kurimosi, politikos ir reguliacijos pokyčius per pastarąjį trimėnesį. Redaktorius Džošas Hardmenas vertina pažangą akademiniame ir pramonės sektoriuose bei nustato artėjančias tendencijas."
-      },
-      "notable": false,
-      "notable_reasons": null,
-      "relevance_score": 3,
-      "study_type": "other",
-      "substances": [
-        "other"
-      ],
-      "added_at": "2026-07-03T09:41:06.927715+00:00"
     }
   ]
 }

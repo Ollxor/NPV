@@ -1,6 +1,168 @@
 {
   "items": [
     {
+      "title": "Convergent neuroimmune signaling underlying rapid antidepressant response to ketamine and psychedelics.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42521762/",
+      "source": "PubMed",
+      "date": "2026-07-28",
+      "authors": [
+        "Jones Gregory H",
+        "Gilbert Jessica R",
+        "Johnston Jenessa N"
+      ],
+      "doi": "10.1038/s41380-026-03777-z",
+      "summary_en": "Study integrating CSF proteomics, iPSC transcriptomics, and clinical data (n=16-39 TRD patients) identifies convergent neuroimmune mechanisms underlying rapid antidepressant effects of ketamine and serotonergic psychedelics. Despite distinct receptor targets, both compound classes modulate conserved immune pathways, with IL-15 and MCP-1 as key regulatory hubs. Ketamine responders showed baseline IL-15 reduction and elevated B-cell signaling, reversed post-treatment.",
+      "notable": true,
+      "notable_reason": "First study integrating CSF proteomics, iPSC transcriptomics, MEG, and plasma biomarkers across ketamine and psychedelics to identify convergent neuroimmune mechanisms of rapid antidepressant action.",
+      "study_type": "rct",
+      "substances": [
+        "ketamine",
+        "psilocybin",
+        "lsd"
+      ],
+      "added_at": "2026-07-29T09:20:10.039628+00:00"
+    },
+    {
+      "title": "Dimensional effect profiles in treatment-resistant depression: A naturalistic, prospective head-to-head comparison of arTMS, esketamine nasal spray, and oral brexpiprazole.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42521097/",
+      "source": "PubMed",
+      "date": "2026-07-28",
+      "authors": [
+        "d'Andrea Giacomo",
+        "Cavallotto Clara",
+        "Susini Ottavia"
+      ],
+      "doi": "10.1016/j.jad.2026.122333",
+      "summary_en": "Naturalistic study comparing three treatments for treatment-resistant depression (TRD): esketamine nasal spray, accelerated repetitive transcranial magnetic stimulation (arTMS), and brexpiprazole augmentation. In 101 participants assessed at baseline and one month, all treatments reduced depression severity and anhedonia. Brexpiprazole showed greater rumination improvement, esketamine enhanced affective and cognitive symptoms, while esketamine and arTMS both reduced anxiety. Results suggest domain-specific treatment profiles in routine clinical settings.",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "observational",
+      "substances": [
+        "ketamine"
+      ],
+      "added_at": "2026-07-29T09:20:10.039628+00:00"
+    },
+    {
+      "title": "Feasibility, safety and preliminary effects of ibogaine in patients with moderate and severe alcohol use disorder: a pilot, open-label study.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42520175/",
+      "source": "PubMed",
+      "date": "2026-07-28",
+      "authors": [
+        "Rocha Juliana Mendes",
+        "Maekawa Renan Massanobu",
+        "Reis José Augusto Silva"
+      ],
+      "doi": "10.47626/2237-6089-2026-1437",
+      "summary_en": "Feasibility, safety and preliminary effects of ibogaine in patients with moderate and severe alcohol use disorder: a pilot, open-label study.",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "case_report",
+      "substances": [
+        "ibogaine"
+      ],
+      "added_at": "2026-07-29T09:20:10.039628+00:00"
+    },
+    {
+      "title": "Candidate Biomarkers of Bipolar Disorder Progression: Implications for Ketamine and Psychedelic Interventions.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42517990/",
+      "source": "PubMed",
+      "date": "2026-07-28",
+      "authors": [
+        "Wilkowska Alina",
+        "Nizgorska-Ohler Julia",
+        "Cubała Wiesław Jerzy"
+      ],
+      "doi": "10.1007/s12035-026-06086-2",
+      "summary_en": "A narrative review examined biomarkers of bipolar disorder (BD) progression and ketamine/psychedelic interventions. Literature search across PubMed, Scopus, and Web of Science identified associations between advanced BD and inflammatory, neurotrophic, neuroimaging, and epigenetic abnormalities. However, findings were heterogeneous with modest effect sizes, often cross-sectional, and many biomarkers reflected current mood state rather than cumulative progression. BDNF and inflammatory markers showed limited specificity.",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "review",
+      "substances": [
+        "ketamine",
+        "psilocybin"
+      ],
+      "added_at": "2026-07-29T09:20:10.039628+00:00"
+    },
+    {
+      "title": "Hepatic Safety of Ketamine and Esketamine for Treatment-Resistant Depression: A Real-World Cohort Study.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42517206/",
+      "source": "PubMed",
+      "date": "2026-07-28",
+      "authors": [
+        "Singh Balwinder",
+        "Leung Jonathan G",
+        "Pazdernik Vanessa K"
+      ],
+      "doi": "10.1097/JCP.0000000000002228",
+      "summary_en": "Real-world cohort study (n=51) examining hepatic safety of ketamine and esketamine for treatment-resistant depression at Mayo Clinic (2017–2024). No clinically meaningful changes in liver enzyme trajectories were observed. Three patients (5.9%) showed elevations ≥2× upper limit of normal, all attributed to alcohol use, myalgias, or pre-existing steatosis rather than dissociatives. Subanesthetic doses appear hepatically safe.",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "observational",
+      "substances": [
+        "ketamine"
+      ],
+      "added_at": "2026-07-29T09:20:10.039628+00:00"
+    },
+    {
+      "title": "Esketamine in Treatment-Resistant Depression: Clinical and Translational Perspectives.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42515873/",
+      "source": "PubMed",
+      "date": "2026-07-22",
+      "authors": [
+        "Śledzikowska Zofia",
+        "Pasternak Agata Marianna",
+        "Wojciechowski Ksawery"
+      ],
+      "doi": "10.2174/011570159X465328260703100233",
+      "summary_en": "Intranasal esketamine, an NMDA receptor antagonist, shows rapid antidepressant effects in treatment-resistant depression by enhancing glutamatergic signaling and synaptic plasticity. Randomized controlled trials demonstrate symptom improvement within hours, though effects on suicidality varied. Common side effects—dissociation, dizziness, elevated blood pressure—are typically transient.",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "review",
+      "substances": [
+        "ketamine"
+      ],
+      "added_at": "2026-07-29T09:20:10.039628+00:00"
+    },
+    {
+      "title": "Adjunctive Pharmacotherapy for Major Depressive Disorder with Anxiety Symptoms: from Monoamines to Recent Clinical Evidence.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42518156/",
+      "source": "PubMed",
+      "date": "2026-07-28",
+      "authors": [
+        "McIntyre Roger S",
+        "Kato Masaki",
+        "Thase Michael E"
+      ],
+      "doi": "10.1007/s40263-026-01315-7",
+      "summary_en": "Adjunctive Pharmacotherapy for Major Depressive Disorder with Anxiety Symptoms: from Monoamines to Recent Clinical Evidence.",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "review",
+      "substances": [
+        "ketamine"
+      ],
+      "added_at": "2026-07-29T09:20:10.039628+00:00"
+    },
+    {
+      "title": "Systems-based psychiatry: insights from psychedelic research on mechanisms of healing.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42517136/",
+      "source": "PubMed",
+      "date": "2026-07-13",
+      "authors": [
+        "Shannon Scott",
+        "Weil Andrew"
+      ],
+      "doi": "10.3389/fpsyt.2026.1789902",
+      "summary_en": "Systems-based psychiatry: insights from psychedelic research on mechanisms of healing.",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "other",
+      "substances": [
+        "other"
+      ],
+      "added_at": "2026-07-29T09:20:10.039628+00:00"
+    },
+    {
       "title": "[Illicit use of classic psychedelics and suicidality: A systematic literature review].",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42509061/",
       "source": "PubMed",

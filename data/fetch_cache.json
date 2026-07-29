@@ -1,7 +1,123 @@
 {
-  "date": "2026-07-28",
-  "cached_at": "2026-07-28T08:29:23.848250+00:00",
+  "date": "2026-07-29",
+  "cached_at": "2026-07-29T08:36:09.410219+00:00",
   "articles": [
+    {
+      "title": "Convergent neuroimmune signaling underlying rapid antidepressant response to ketamine and psychedelics.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42521762/",
+      "source": "PubMed",
+      "abstract": "Despite distinct receptor targets, both ketamine and serotonergic psychedelics produce a rapid clinical response and share biological signatures that suggest convergence on common downstream molecular mediators. To identify shared biomarkers of rapid antidepressant response, this study integrated CSF proteomics from healthy volunteers (HVs) who received intravenous ketamine with transcriptomic analyses from induced pluripotent stem cells (iPSCs) derived from participants with treatment-resistant depression (TRD) and HVs; iPSCs were treated with ketamine, its metabolite (2 R,6 R)-hydroxynorketamine, lysergic acid diethylamide (LSD), or psilocybin. Multimodal clinical characterization (transcriptomics (n = 16 TRD; 11 HV), magnetoencephalography (MEG) (n = 30 TRD; 25 HV), and plasma cytokines (n = 39 TRD; 25 HV) were also performed on TRD and HV participants who received a single dose of intravenous ketamine (0.5 mg/kg) or placebo. Conserved immune pathways were identified across CSF and iPSC neurons with interleukin-15 (IL)-15 and monocyte chemoattractant protein-1 (MCP-1) emerging as key regulatory hubs. Transcriptomically, in whole blood, ketamine responders exhibited decreased IL-15 and elevated B-cell signaling pathways at baseline that were reversed post-treatment. At the protein level, plasma IL-7 levels (primary B-cell driver) correlated with baseline MEG gamma power, reaching brain-wide significance across all participants (main effect p",
+      "date": "2026-07-28",
+      "authors": [
+        "Jones Gregory H",
+        "Gilbert Jessica R",
+        "Johnston Jenessa N"
+      ],
+      "doi": "10.1038/s41380-026-03777-z"
+    },
+    {
+      "title": "Dimensional effect profiles in treatment-resistant depression: A naturalistic, prospective head-to-head comparison of arTMS, esketamine nasal spray, and oral brexpiprazole.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42521097/",
+      "source": "PubMed",
+      "abstract": "Treatment-resistant depression (TRD) is a heterogeneous condition in which symptoms such as anhedonia, rumination, and anxiety contribute to persistent disability. Esketamine nasal spray (ESK-NS), accelerated repetitive transcranial magnetic stimulation (arTMS), and adjunctive brexpiprazole represent novel therapeutic options with distinct mechanisms, though their domain-specific effects in real-world settings remain unclear. To compare short-term changes in depressive severity across ESK-NS, arTMS, and brexpiprazole, and to explore treatment-related effects on anhedonia, rumination, anxiety, and item-level depressive symptoms. One hundred and one individuals with TRD were enrolled in a prospective, naturalistic, three-arm study and treated with ESK-NS, arTMS (accelerated left DLPFC protocol), or brexpiprazole augmentation (1-2 mg/day). Assessments were conducted at baseline and after one month. All treatments produced significant reductions in overall depressive severity and anhedonia. Rumination showed a significant time-by-treatment interaction, with greater improvement under brexpiprazole. Item-level analyses suggested partially distinct profiles, with brexpiprazole preferentially improving pessimistic and ruminative symptoms, ESK-NS enhancing affective responsiveness and cognitive symptoms, and both ESK-NS and arTMS contributing to anxiolysis. In routine clinical practice, ESK-NS, arTMS, and brexpiprazole were associated with short-term improvement in TRD, with exploratory signals of partially distinct symptom-domain profiles. These findings support the value of dimensional assessment in TRD and warrant confirmation in randomized studies with longer follow-up.",
+      "date": "2026-07-28",
+      "authors": [
+        "d'Andrea Giacomo",
+        "Cavallotto Clara",
+        "Susini Ottavia"
+      ],
+      "doi": "10.1016/j.jad.2026.122333"
+    },
+    {
+      "title": "Feasibility, safety and preliminary effects of ibogaine in patients with moderate and severe alcohol use disorder: a pilot, open-label study.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42520175/",
+      "source": "PubMed",
+      "abstract": "Ibogaine is a natural hallucinogen with emerging evidence for treating substance use disorders. However, its cardiovascular effects are not fully known, and most clinical data focus on opioid dependence, with limited data for Alcohol Use Disorder (AUD). This study assessed the feasibility, safety, and preliminary effects of ibogaine in patients with AUD. In this preliminary open-label, pilot, feasibility study, nine adults with moderate to severe AUD received oral ibogaine hydrochloride in a sequential order: volunteer 1 20/40/80 mg; volunteer 2 80/160/240 mg, volunteer 3: 240/320 mg, and the next six received a single 400 mg dose. Participants were hospitalized 24-48 hours before dosing with continuous monitoring. Primary outcome included safety measures (QTc interval, vital signs, laboratory tests, adverse effects, and psychiatric assessments). Secondary outcome included alcohol and substance use. QTc alterations, including transient prolongation and shortening, occurred in five patients. Mild/moderate blood pressure alterations were also observed. Mild/moderate adverse effects were common (drowsiness, nausea, anxiety), particularly at higher doses (240-400 mg). No serious adverse effects were observed, but two patients needed medication for psychomotor agitation, insomnia and hypertension. Most participants reported reductions in alcohol use, but only five completed the study. Moderate doses of ibogaine showed a cardiotoxic potential that demands rigorous cardiovascular screening and continuous monitoring. Patients reported reduced substance use, but motivation and placebo effects could explain these results. Randomized controlled trials are needed to confirm efficacy and establish protocols with safety parameters.",
+      "date": "2026-07-28",
+      "authors": [
+        "Rocha Juliana Mendes",
+        "Maekawa Renan Massanobu",
+        "Reis José Augusto Silva"
+      ],
+      "doi": "10.47626/2237-6089-2026-1437"
+    },
+    {
+      "title": "Adjunctive Pharmacotherapy for Major Depressive Disorder with Anxiety Symptoms: from Monoamines to Recent Clinical Evidence.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42518156/",
+      "source": "PubMed",
+      "abstract": "Anxiety symptoms are common in patients with major depressive disorder (MDD). The presence of anxiety symptoms can indicate greater depression severity, and is associated with a higher comorbidity burden, suicidality, lower levels of functioning, and poorer quality of life. The presence of anxiety identifies patients who are likely to experience significant burden from MDD despite standard treatment. Although clinical guidelines provide recommendations for adjunctive treatment in patients who have not responded to an antidepressant, there are currently limited recommendations specifically for patients with MDD and anxiety symptoms. Dysregulation of the monoamine system, notably noradrenaline (norepinephrine), serotonin, and dopamine signalling, has been implicated in the pathophysiology of MDD and of anxiety disorders, based mainly on preclinical, mechanistic and translational evidence. This review has two aims: (1) to explore the hypothetical role of monoamine signalling in patients with MDD with anxiety symptoms, and (2) to provide a comprehensive overview of clinical data for pharmacotherapies recommended for the first- and second-line adjunctive treatment of difficult-to-treat MDD, focusing on recent studies and analyses of patients with MDD with anxiety symptoms. Reviewed treatments included atypical antipsychotics (aripiprazole, brexpiprazole, olanzapine, quetiapine XR, risperidone, cariprazine), bupropion, ketamine/esketamine, lithium, mirtazapine/mianserin, modafinil, and triiodothyronine. Clinical data in patients with MDD with anxiety symptoms were scarce or lacking for olanzapine, risperidone, cariprazine, lithium, modafinil, and triiodothyronine. Aripiprazole, brexpiprazole, quetiapine XR, and ketamine/esketamine have been shown to improve depression and/or anxiety symptoms in patients with MDD with anxiety symptoms, although evidence is mainly short-term and derived from exploratory post hoc analyses of trials not designed to assess anxiety outcomes. Treatment decisions for patients with MDD with anxiety symptoms should be based on robust clinical data, and there is an unmet need for prospective clinical trials with anxiety-specific endpoints in this patient population.",
+      "date": "2026-07-28",
+      "authors": [
+        "McIntyre Roger S",
+        "Kato Masaki",
+        "Thase Michael E"
+      ],
+      "doi": "10.1007/s40263-026-01315-7"
+    },
+    {
+      "title": "Candidate Biomarkers of Bipolar Disorder Progression: Implications for Ketamine and Psychedelic Interventions.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42517990/",
+      "source": "PubMed",
+      "abstract": "Bipolar depression is the main driver of disability, suicidality, and treatment resistance in bipolar disorder (BD). The neuroprogression hypothesis proposes that repeated mood episodes and related biological disturbances contribute to worsening outcomes over time. Ketamine and psychedelic interventions have emerged as rapid-acting treatments that engage pathways potentially relevant to these processes. This narrative, hypothesis-generating review synthesized evidence on biomarkers of illness progression in BD together with emerging data on ketamine and psychedelic-assisted interventions. A structured but non-systematic search of PubMed/MEDLINE, Scopus, and Web of Science was conducted in December 2025 and February 2026, prioritizing human BD studies, especially longitudinal and staging-based designs, meta-analyses, systematic reviews, and mechanistically relevant preclinical and early-phase clinical studies. Across studies, more advanced BD was associated with abnormalities in inflammatory signaling, neurotrophic regulation, structural and functional neuroimaging, and epigenetic processes. However, findings were heterogeneous, often modest in effect size, and frequently based on cross-sectional designs. Many candidate biomarkers appeared more closely related to current mood state than to cumulative illness progression. Peripheral BDNF and inflammatory markers showed limited specificity, functional neuroimaging findings were largely state-dependent, and epigenetic alterations were focal and context-sensitive rather than uniform. Ketamine and psychedelic compounds modulated several of these same pathways in preclinical models and, to a lesser extent, in human studies, although most mechanistic clinical evidence was derived from unipolar treatment-resistant depression rather than BD. Preliminary bipolar-specific studies, mainly in bipolar II depression, suggest possible feasibility and antidepressant effects of psilocybin- and 5-MeO-DMT-derived interventions under carefully controlled conditions. Current evidence supports dynamic multisystem biological abnormalities in BD but does not yet establish a reliable biomarker framework for staging or neuroprogression. Ketamine and psychedelic interventions are mechanistically relevant, but evidence for true disease modification or clinical downstaging in BD remains indirect. Longitudinal, multimodal, within-subject studies are needed to distinguish state-related changes from cumulative progression and to link biomarker change with meaningful clinical outcomes.",
+      "date": "2026-07-28",
+      "authors": [
+        "Wilkowska Alina",
+        "Nizgorska-Ohler Julia",
+        "Cubała Wiesław Jerzy"
+      ],
+      "doi": "10.1007/s12035-026-06086-2"
+    },
+    {
+      "title": "Hepatic Safety of Ketamine and Esketamine for Treatment-Resistant Depression: A Real-World Cohort Study.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42517206/",
+      "source": "PubMed",
+      "abstract": "Ketamine and esketamine are increasingly used for treatment-resistant depression (TRD), yet their hepatic safety profile with repeated or long-term use remains poorly characterized. Chronic recreational ketamine abuse has been linked to cholestasis and cholangiopathy, raising concern that therapeutic use may carry similar risks. No systematic data exist on liver enzyme trajectories or biliary injury at subanesthetic doses used for depression. This historical cohort study included adults with TRD receiving IV ketamine or intranasal (IN) esketamine at the Mayo Clinic Ketamine Clinic (2017 to 2024). Patients were eligible if they had at least one liver enzyme value (AST, ALT, ALP, or bilirubin) within 12 months before through 3 months after treatment. Longitudinal enzyme trajectories were modeled using generalized linear-mixed models with a Gamma distribution. Clinically significant elevation was defined as ≥2× the upper limit of normal (ULN). Wilcoxon signed-rank tests compared pretreatment and post-treatment paired values. Of 104 enrolled patients, 74 had liver enzyme data available; 51 had post-initiation data. Median age was 51.5 years; 72% were female. Most (78.4%) received IV ketamine. No clinically meaningful changes in enzyme trajectories were observed. Three patients (5.9%) had elevations ≥2× ULN, all attributable to alcohol use, myalgias, or pre-existing hepatic steatosis rather than (es)ketamine. Subanesthetic IV ketamine (0.5 mg/kg) and FDA-approved IN esketamine doses were not associated with clinically significant liver enzyme elevations in this real-world TRD cohort. Current evidence does not support routine hepatic monitoring for asymptomatic patients, although prospective, larger-scale studies are needed to confirm these findings.",
+      "date": "2026-07-28",
+      "authors": [
+        "Singh Balwinder",
+        "Leung Jonathan G",
+        "Pazdernik Vanessa K"
+      ],
+      "doi": "10.1097/JCP.0000000000002228"
+    },
+    {
+      "title": "Systems-based psychiatry: insights from psychedelic research on mechanisms of healing.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42517136/",
+      "source": "PubMed",
+      "abstract": "Current psychiatric models, while clinically valuable, remain limited in their ability to account for the complexity, variability, and context dependence of mental disorders. Converging evidence from neuroscience, complexity science, and psychedelic research suggests that psychiatric symptoms may be better understood as stable patterns of organization within dynamic, multilevel systems rather than as outputs of isolated biological dysfunction. This paper proposes a systems-based framework in which therapeutic change is conceptualized as a phased process of perturbation, reorganization, and consolidation. Within this model, interventions act by modulating system stability and plasticity, with outcomes determined by interactions among biological, psychological, relational, and environmental factors over time. Psychedelic-assisted therapies provide a particularly revealing case, as they reliably induce transient destabilization of entrenched patterns, increasing flexibility and enabling reorganization under supportive conditions. This formulation suggests a generalizable mechanism of healing across modalities: the strategic destabilization of rigid system states followed by the consolidation of more adaptive configurations. Accordingly, recovery is reframed not as symptom reduction alone, but as increased coherence, flexibility, and adaptive capacity across domains of functioning. This perspective has implications for assessment, ethics, clinical implementation, and research design, including the need for longitudinal, context-sensitive outcome measures and hybrid methodologies. A systems-based psychiatry does not replace mechanistic models but reorganizes them within a framework that accommodates emergence, temporal dynamics, and context, offering a foundation for more integrative and preventive approaches to mental health care.",
+      "date": "2026-07-13",
+      "authors": [
+        "Shannon Scott",
+        "Weil Andrew"
+      ],
+      "doi": "10.3389/fpsyt.2026.1789902"
+    },
+    {
+      "title": "Incidence, prevalence and determinants of substance-induced mental disorders in British Columbia, 2022-2023: a population-based study.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42516034/",
+      "source": "PubMed",
+      "abstract": "Substance-induced mental disorders (SIMD) are an under-recognized consequence of psychoactive substance use, despite major implications for treatment needs, health service demand and outcomes. In the context of British Columbia's (BC's) ongoing toxic drug emergency, we aimed to (1) estimate the incidence and prevalence of SIMD in the provincial population and (2) describe socio-demographic, geographic, clinical and substance-specific patterns over a two-year period. We conducted a retrospective, population-based study using linked administrative health data from Population Data BC for residents aged ≥12 years between 1 January 2022 and 31 December 2023. SIMD cases were identified using a novel algorithm combining diagnostic codes with temporal linkage between substance-related events (poisoning, withdrawal or substance use disorder) and subsequent psychiatric diagnoses. Incident cases had no record of the same mental disorder in the previous two years; prevalent cases met SIMD criteria at any point in the study period. We calculated monthly, annual and cumulative incidence and prevalence rates per 10,000 population, stratified by sex, age group, health authority, urban/rural residence, neighbourhood income, psychiatric diagnosis, substance class, concurrent substance use disorder, involuntary treatment and mortality. We identified 37,474 incident and 83,307 prevalent SIMD cases over two years, corresponding to a cumulative incidence of 77.5 and prevalence of 171.4 per 10,000 population. Monthly rates fluctuated in 2022, followed by a rise through 2023, with highest incidence (35.2 per 10,000) and prevalence (328.3 per 10,000) in May 2023. Males accounted for 62% of incident and 59% of prevalent cases; mean age was 43 years, with highest proportions in the 25-44 age range. Northern and Vancouver Island Health Authorities had the greatest burden. On average, individuals with SIMD had 3.2-3.6 healthcare visits per month. Cannabis- and hallucinogen-induced disorders were concentrated among younger people, while alcohol- and tobacco-related SIMD predominated in older adults; stimulant-related SIMD showed the highest hospitalization and involuntary treatment rates. Only about one-third of prevalent and fewer than one in five incident cases had a recorded concurrent substance use disorder. SIMDs are common, clinically complex and unevenly distributed across demographic and geographic groups in BC. The high rates, substantial service use and frequent occurrence outside documented substance use disorder diagnoses underscore the need for improved detection of SIMD, integration of psychiatric and addiction care and regionally tailored prevention and treatment strategies within the ongoing toxic drug emergency.",
+      "date": "2026-07-28",
+      "authors": [
+        "Mohebbian Mana",
+        "Schütz Christian G",
+        "Kassam Rosemin"
+      ],
+      "doi": "10.1017/S2045796026100869"
+    },
+    {
+      "title": "Esketamine in Treatment-Resistant Depression: Clinical and Translational Perspectives.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42515873/",
+      "source": "PubMed",
+      "abstract": "Esketamine, an intranasally administered N-methyl-D-aspartate (NMDA) receptor antagonist, represents a significant advancement in the treatment of Major Depressive Disorder (MDD), particularly among patients with Treatment-Resistant Depression (TRD). Its therapeutic effects are associated with rapid enhancement of glutamatergic neurotransmission and downstream activation of the α-amino-3-hydroxy-5-methyl-4-isoxazolepropionic acid (AMPA) receptor-Brain-Derived Neurotrophic Factor (BDNF)-mechanistic Target Of Rapamycin (mTOR) signaling pathway, which is implicated in synaptic plasticity. This mini-review aims to synthesize current clinical and translational evidence on intranasal esketamine in TRD. This mini-review provides an integrative overview of clinically relevant and translational studies on intranasal esketamine, based on a focused search of the PubMed and Scopus databases. Peer-reviewed clinical trials, meta-analyses, mechanistic studies, and regulatory documents were included. Evidence from randomized controlled trials demonstrates a rapid onset of antidepressant effects, often within hours of administration, with consistent reductions in depressive symptom severity. Effects on clinician-rated suicidality were variable across studies. The most common adverse events include transient dissociation, dizziness, and modest increases in blood pressure, which are generally self-limiting. Overall, the available evidence supports intranasal esketamine as an effective rapid-acting treatment for TRD, with a favorable benefit-risk profile under supervised clinical use. However, important considerations remain regarding optimal patient selection, maintenance strategies, and long-term outcomes. Esketamine offers a clinically meaningful option for patients unresponsive to conventional monoaminergic treatments. Key unresolved issues include the development of predictive biomarkers, optimization of maintenance regimens, integration with psychotherapy, and evaluation of long-term cognitive and functional outcomes.",
+      "date": "2026-07-22",
+      "authors": [
+        "Śledzikowska Zofia",
+        "Pasternak Agata Marianna",
+        "Wojciechowski Ksawery"
+      ],
+      "doi": "10.2174/011570159X465328260703100233"
+    },
     {
       "title": "[Illicit use of classic psychedelics and suicidality: A systematic literature review].",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42509061/",
@@ -143,119 +259,6 @@
         "Seifferth Brian"
       ],
       "doi": "10.3389/fpsyt.2026.1867963"
-    },
-    {
-      "title": "Treating addiction with an addictive drug: the ketamine paradox revisited.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42494734/",
-      "source": "PubMed",
-      "abstract": "Substance use disorders (SUDs) and treatment-resistant depression (TRD) remain a major global health challenge, marked by high relapse rates and limited long-term effectiveness of existing treatments. Ketamine, a glutamatergic modulator with rapid neuroplastic effects, has emerged as a novel intervention for TRD and is increasingly investigated as an adjunctive treatment for addiction, yet concerns about its abuse liability persist. This review critically evaluates ketamine's therapeutic potential for SUDs while examining its neurobiological mechanisms, clinical efficacy, and risk of misuse within a unified risk-benefit framework. A structured narrative review conducted in accordance with the SANRA framework using the PubMed, Scopus, PsycINFO, and Web of Science databases, covering literature published until March 2026. Eligible studies included clinical trials, experimental studies, and mechanistic investigations relevant to ketamine use in addiction and depression. Evidence was synthesized thematically across the domains of efficacy, mechanisms, and safety. Across alcohol and cocaine use disorders, ketamine combined with psychotherapy has demonstrated promising reductions in craving and increases in abstinent days in small-to moderate-sized Phase 2 trials. However, findings remain difficult to generalize due to considerable variability in dosing strategies, comparator conditions, and follow-up periods. Effects on relapse prevention have been more inconsistent and less reliably positive. Mechanistically, ketamine promotes synaptic plasticity via NMDA receptor antagonism and downstream glutamatergic signaling, potentially disrupting maladaptive reward-related memories and reversing maladaptive neurocircuitry involved in both depression and addiction. While acute adverse effects are generally transient under clinical supervision, ketamine carries a well-established risk of misuse, particularly in unsupervised or high-dose settings. Ketamine represents a promising but still experimental intervention for both refractory depression and selected SUDs. Its clinical use depends on careful patient selection, structured delivery, and integration with psychotherapy. Although ketamine may redefine treatment paradigms for TRD and addiction, larger-scale trials and long-term safety data are essential to define its role within psychiatric and addiction treatment frameworks.",
-      "date": "2026-07-09",
-      "authors": [
-        "Hakami Alqassem Y"
-      ],
-      "doi": "10.3389/fpsyt.2026.1866092"
-    },
-    {
-      "title": "Rapid clinical and EEG microstate changes 24 h after intranasal esketamine in major depressive disorder with suicidal ideation: a prospective paired study.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42492692/",
-      "source": "PubMed",
-      "abstract": "Major depressive disorder (MDD) with suicidal ideation constitutes a psychiatric emergency that requires rapid symptom relief. Intranasal esketamine can reduce depressive symptoms within hours, yet the earliest brain-level correlates of response remain insufficiently characterized. A total of 31 patients with major depressive disorder and suicidal ideation or behavior were enrolled in this prospective study. Patients hospitalized for MDD with suicidal ideation received intranasal esketamine in addition to standard care. Clinical scales and resting-state EEG were obtained before the first dose (T0) and 24 h later (T1). The primary clinical outcomes were HAMD-17 scores. EEG analyses included whole-brain relative power spectral density (PSD) and microstate parameters based on a seven-class template. After quality control, 24 patients had qualified resting-state EEG data, 23 had qualified paired questionnaire data, and 18 had complete matched EEG and questionnaire data for integrated analyses. Depressive symptoms improved significantly within 24 h. HAMD score decreased from 25.32 ± 1.37 to 20.55 ± 1.52 in paired complete cases (n = 22; FDR = 0.0016). In contrast, PSD did not change significantly across delta, theta, alpha, beta, or gamma bands. Microstate analysis identified significant early changes, especially in the occurrence and coverage of microstate D, together with altered transition patterns among several microstate classes. Intranasal esketamine was associated with rapid clinical improvement in depressive symptoms over 24 h. Compared with conventional PSD indices, EEG microstate metrics appeared more sensitive to early treatment-related network reconfiguration and may provide candidate short-term electrophysiological readouts of rapid treatment response.",
-      "date": "2026-07-23",
-      "authors": [
-        "Gu Tingting",
-        "Zhang Jie",
-        "Wang Ruizhi"
-      ],
-      "doi": "10.1016/j.jad.2026.122307"
-    },
-    {
-      "title": "A ketamine/methionine exposure paradigm, alone or combined with Lactobacillus rhamnosus GG, assessing schizophrenia-relevant behavioral, oxidative stress, and molecular endpoints in adult zebrafish.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42492681/",
-      "source": "PubMed",
-      "abstract": "Schizophrenia (SCZ) is a multifactorial neuropsychiatric disorder involving glutamatergic dysfunction, oxidative imbalance, impaired cellular plasticity, and neuron-glia interactions. Adult zebrafish provide a translational vertebrate model for investigating SCZ-relevant behavioral and biological domains. This study evaluated the effects of repeated ketamine (KET) and methionine (MET) exposure, administered alone or combined with Lactobacillus rhamnosus GG (LGG), on behavioral, oxidative, transcriptional, histopathological, and immunofluorescence endpoints. Adult zebrafish were repeatedly exposed to KET (20/40 mg/L) or MET (4.5/6.0 mM), with or without LGG (5 × 10 Repeated KET exposure predominantly altered mirror-directed social responsiveness and vertical exploration, whereas MET produced comparatively modest behavioral effects despite inducing more pronounced oxidative and proliferative alterations. Oxidative responses included reduced SOD activity, selective GPx activation, and increased lipid peroxidation. PCNA was the most responsive transcriptional marker, while CAT, SOD1, and TP53 showed limited changes. Histopathological analyses revealed alterations in myelin-associated staining, neuronal integrity, tissue architecture, and neuronal loss. LGG partially attenuated selected oxidative and structural alterations but produced limited behavioral effects. Repeated KET and MET exposure generated distinct yet complementary SCZ-relevant behavioral and biological profiles in adult zebrafish, supporting their utility for investigating glutamatergic dysfunction, metabolic stress, and gut-brain interactions.",
-      "date": "2026-07-23",
-      "authors": [
-        "Nita Ilinca-Bianca",
-        "Ilie Ovidiu-Dumitru",
-        "Jijie Roxana"
-      ],
-      "doi": "10.1016/j.cbpc.2026.110635"
-    },
-    {
-      "title": "Intranasal esketamine plus oral antidepressant for treatment-resistant depression: acute induction and maintenance relapse-prevention outcomes in a systematic review and meta-analysis.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42490943/",
-      "source": "PubMed",
-      "abstract": "Treatment-resistant depression (TRD) remains a major clinical challenge. Intranasal esketamine, used adjunctively with an oral antidepressant, has been evaluated in randomized trials, but uncertainty persists regarding the magnitude and consistency of benefit, durability, and key harms. This systematic review and meta-analysis included randomized controlled trials comparing intranasal esketamine plus an oral antidepressant versus placebo nasal spray plus the same oral antidepressant in TRD. Acute induction (≈4 weeks) and maintenance randomized-withdrawal phases were analyzed separately. Depression outcomes were assessed primarily using the Montgomery-Åsberg Depression Rating Scale (MADRS), and functional outcomes using the Sheehan Disability Scale (SDS). Two reviewers independently screened studies, extracted data, and assessed risk of bias using RoB 2.0. Random-effects models pooled mean differences (MD) for continuous outcomes, risk ratios (RR) for binary outcomes, and hazard ratios (HR) for relapse prevention. Certainty of evidence was rated using GRADE. From 1,518 records, nine reports representing six unique RCTs (1,836 participants) were included. Four acute induction RCTs (n=937) showed greater symptom reduction at day 28 with esketamine (MADRS MD -2.99, 95% CI -5.10 to -0.89; I²=48.5%). Rapid improvement was evident by day 2 (MD -3.25, 95% CI -4.65 to -1.85). Esketamine increased day-28 response (RR 1.44, 95% CI 1.20-1.74) and remission (RR 1.52, 95% CI 1.20-1.92), corresponding to approximately +154 responders and +106 remitters per 1,000 patients, respectively, based on pooled control risks. Functioning improved (SDS MD -1.70, 95% CI -2.61 to -0.79). Two maintenance randomized-withdrawal RCTs (n=899) demonstrated reduced relapse risk with continued esketamine (HR 0.51, 95% CI 0.42-0.62; I²=0%). In acute induction, esketamine increased any treatment-emergent adverse event (TEAE) (RR 1.37, 95% CI 1.25-1.50) and discontinuation due to adverse events (RR 2.68, 95% CI 1.35-5.29), with notable increases in dissociation (RR 7.33, 95% CI 4.49-11.98) and blood pressure increased events (RR 3.96, 95% CI 2.24-7.01). Maintenance TEAE rates were similar between groups (RR 1.07, 95% CI 0.99-1.17). Intranasal esketamine plus an oral antidepressant provides rapid, modest acute improvement and reduces relapse risk during maintenance among stabilized responders/remitters, but increases acute adverse events, supporting use within supervised care and individualized benefit-risk assessment.",
-      "date": "2026-07-03",
-      "authors": [
-        "Xie Jingqiang",
-        "Pu Chunying",
-        "Sun Mingyue"
-      ],
-      "doi": "10.3389/fpsyt.2026.1774549"
-    },
-    {
-      "title": "Benchmarking a Local Schema-Constrained Large Language Model Pipeline for Abstract Screening and Evidence Mapping.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42483140/",
-      "source": "PubMed",
-      "abstract": "Background The growth of biomedical literature increasingly exceeds the capacity of manual evidence synthesis. Large language models (LLMs) may support abstract screening and structured extraction, but many current workflows depend on proprietary cloud APIs, creating challenges for governance, reproducibility, and scalable deployment. Methods I developed a fully local, open-weight, schema-constrained pipeline (gpt-oss-20b, deployed via Ollama on Apple M1 Max) for title/abstract-based scoping workflows. The pipeline combined deterministic metadata filtering, LLM-assisted screening, and structured abstract extraction. Performance was benchmarked against three published systematic reviews (ketamine/neuroimaging; clozapine/suicidality; clozapine patient/caregiver perspectives) using precision, recall, and F1 against reference inclusion sets. I also report audit-adjusted estimates (i.e., performance metrics recalculated after manual full-text adjudication of discrepant records) alongside standard reference-set performance. Results In the ketamine/neuroimaging benchmark, the pipeline retained all 41 studies included in the original review; after audit adjustment, recall was 100.0% (46/46), accuracy 99.4% (156/157), precision 97.9% (46/47), and F1 98.9%. For clozapine/suicidality, recall was 79.3% (46/58), and F1 was 76.0%, with missed studies largely attributable to missing or non-informative abstracts. For clozapine patient/caregiver perspectives, recall was 88.9% (56/63), and F1 was 83.6%, with similar abstract-level constraints. Abstract-level extraction recovered audited metadata fields without detected errors and generated evidence maps that were thematically concordant with the main narrative structure of the reference reviews. Conclusions As a proof-of-concept, a fully local LLM pipeline can support scalable and auditable abstract-based scoping and high-level evidence mapping. Because performance was benchmarked against three reviews with partly audit-adjusted reference sets, the findings require confirmation in larger, independently adjudicated evaluations. Random human audit remains advisable, and expert full-text synthesis remains necessary when abstracts are non-informative or when mechanistic precision is required.",
-      "date": "2026-06-20",
-      "authors": [
-        "Serretti Alessandro"
-      ],
-      "doi": "10.7759/cureus.111193"
-    },
-    {
-      "title": "Implementation factors shaping British Columbia's drug decriminalization pilot: A systematic review with narrative synthesis.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42480418/",
-      "source": "PubMed",
-      "abstract": "In January 2023, British Columbia (BC) became the first Canadian province to implement a legally sanctioned drug decriminalization policy, removing criminal penalties for adults possessing 2.5 g or less of opioids, cocaine, methamphetamine, and MDMA. Introduced as a three-year pilot, it aimed to reframe substance use as a public health issue, reduce stigma, and improve health and social service engagement. Criminal penalties were reintroduced for drug possession in most public spaces in May 2024, and the pilot ended in January 2026. Its termination has been interpreted as policy failure; this review aimed to examine how the pilot was implemented in practice and to identify factors that shaped its operationalization and early implementation-relevant outcomes. We conducted a systematic review with narrative synthesis of peer-reviewed literature examining implementation-relevant aspects of BC's decriminalization pilot. Six databases were searched (January-February 2026) for studies published May 31, 2022-February 1, 2026. The protocol was registered in PROSPERO (CRD420251271694). Twenty-seven studies were included. Four cross-cutting implementation barriers were identified: pilot design features, public and cross-sector communication gaps, limited frontline training, and insufficient funding and infrastructure. Design features included the 2.5 g possession threshold, misalignment with real-world drug use patterns; the three-year timeframe, which constrained system-level effects; and the May 2024 amendment, which introduced additional instability. The pilot was implemented without commensurate investment in harm reduction, treatment, or housing infrastructure, within already constrained systems. BC's decriminalization pilot suggests the effects of legal reform are shaped by implementation context. Early outcomes may reflect design features, institutional readiness, and system capacity rather than legal change alone; longer-term impacts remain uncertain. Future reforms should align legal change with coordinated implementation, operational guidance, public communication, and adequate service infrastructure.",
-      "date": "2026-07-21",
-      "authors": [
-        "Ali Farihah",
-        "Chellew Paternostro Shannon",
-        "Imtiaz Sameer"
-      ],
-      "doi": "10.1016/j.drugpo.2026.105431"
-    },
-    {
-      "title": "Zero-Shot Large Language Models for Preliminary Prediction of PTSD Symptoms From Clinical Interview Transcripts: Grands modèles de langage sans exemple pour la prédiction préliminaire des symptômes de TSPT à partir de transcriptions d'entrevues cliniques.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42478703/",
-      "source": "PubMed",
-      "abstract": "BackgroundPosttraumatic stress disorder (PTSD) is common yet frequently underdiagnosed, in part due to barriers to systematic screening and the reliance on self-report instruments. Large language models (LLMs) have shown promise in extracting clinically relevant information from unstructured language, but their ability to infer item-level PTSD symptom severity from clinical interviews remains unclear.MethodsUsing the Distress Analysis Interview Corpus-Wizard of Oz (DAIC-WoZ), we analyzed 100 semi-structured clinical interview transcripts paired with item-level PTSD Checklist-Civilian Version (PCL-C) scores. Six LLMs (DeepSeek 3.1, Claude Sonnet 4, LLaMA 4 Scout, GPT-4o, GPT-5, and Gemini 2.5 Flash) used zero-shot prompting to predict all 17 PCL-C items. Performance was assessed for binary symptom endorsement (≥3 vs. < 3), 5-point Likert prediction, and DSM-IV symptom-cluster analyses using accuracy, F1 score, and Matthews correlation coefficient (MCC).ResultsFor binary prediction, Claude 4 achieved the highest mean accuracy (0.705; 95% CI, 0.681-0.728), followed by DeepSeek 3.1(0.699; 95% CI, 0.675-0.724) and Gemini 2.5 (0.698; 95% CI, 0.677-0.718). For Likert prediction, DeepSeek 3.1 performed best (accuracy = 0.438; 95% CI, 0.401-0.475), only modestly above the majority-class baseline (0.399; 95% CI, 0.355-0.443). Performance varied by symptom domain, with re-experiencing and hyperarousal symptoms generally predicted more accurately than avoidance/numbing symptoms. Across models, predicted item-level symptom patterns showed a meaningful alignment with observed PCL-C responses despite reduced accuracy in fine-grained severity estimation.ConclusionZero-shot LLMs' performance was insufficient for clinical application in predicting PTSD symptoms from semi-structured interview transcripts. While models showed some ability to capture overall symptom patterns, performance varied across domains and remained limited for fine-grained severity estimation. Given these constraints and the non-trauma-specific nature of the dataset, findings should be interpreted as preliminary, with only modest differences observed between models.Plain Language Summary TitleCan Artificial Intelligence Identify PTSD Symptoms from Conversations? A Study Using Clinical Interview TranscriptsPlain Language SummaryPost-traumatic stress disorder (PTSD) is a common mental health condition, but it is often missed in clinical settings. Screening usually relies on questionnaires that patients must complete themselves, which may not always happen due to time, stigma, or discomfort discussing trauma. Researchers are exploring whether artificial intelligence (AI) could help identify PTSD symptoms from conversations instead.In this study, we tested several advanced AI systems, known as large language models, to see if they could estimate PTSD symptoms based on written transcripts of clinical interviews. These interviews were not specifically designed to assess trauma, which makes the task more challenging but closer to real-world situations. We compared the AI predictions to participants' own questionnaire responses about their symptoms.We found that the AI models were somewhat able to recognize general patterns of PTSD symptoms, especially more visible ones like sleep problems or distressing dreams. However, they struggled with more internal or less obvious symptoms, such as avoidance or emotional numbness. Overall, their accuracy was moderate and not reliable enough for clinical use, particularly when trying to estimate how severe symptoms were.Importantly, differences between the AI models were small, and none performed well enough to replace existing screening methods. These findings suggest that while AI may have future potential as a supportive tool, it is not yet ready to be used for diagnosing or screening PTSD on its own.Further research using better data, improved methods, and real clinical settings is needed before this approach could be considered for practical use. Le trouble de stress post-traumatique (TSPT) est fréquent, mais il est souvent sous-diagnostiqué, en partie en raison d'obstacles au dépistage systématique et de l'utilisation d'instruments d'autodéclaration. Les grands modèles de langage (LLM) se sont révélés prometteurs pour ce qui est d'extraire des renseignements cliniquement pertinents d'un langage non structuré, mais leur capacité à déduire la gravité des symptômes de TSPT selon des éléments à partir d'entrevues cliniques demeure incertaine. À l'aide du corpus d'entrevues Distress Analysis Interview Corpus-Wizard of Oz (DAIC-WoZ), nous avons analysé 100 transcriptions d'entrevues cliniques semi-structurées appariées au score pour les éléments de la liste de vérification pour le TSPT - Version civile (PCL-C). Six GML (DeepSeek 3.1, Claude Sonnet 4, LLaMA 4 Scout, GPT-4o, GPT-5 et Gemini 2.5 Flash) ont utilisé des requêtes sans exemple pour prédire les 17 éléments de la PCL-C. Le rendement a été évalué en ce qui concerne l'approbation binaire des symptômes (≥ 3 p/r à < 3), la prédiction de l'échelle Likert à 5 points et les analyses du groupe des symptômes dans le DSM-IV selon l'exactitude, le F-score et le coefficient de corrélation de Matthews (MCC). Pour la prédiction binaire, Claude 4 a obtenu l'exactitude moyenne la plus élevée (0,705; IC à 95 % : de 0,681 à 0,728), suivi de DeepSeek 3.1 (0,699; IC à 95 % : de 0,675 à 0,724) et de Gemini 2.5 (0,698; IC à 95 % : de 0,677 à 0,718). Pour la prédiction de l'échelle de Likert, DeepSeek 3.1 a obtenu les meilleurs résultats (exactitude = 0,438; IC à 95 % : de 0,401 à 0,475), légèrement supérieurs aux valeurs initiales de la classe majoritaire (0,399; IC à 95 % : de 0,355 à 0,443). Le rendement variait en fonction du domaine de symptômes, les symptômes de reviviscence et d'hypervigilance étant généralement prédits avec plus de précision que les symptômes d'évitement ou d'émoussement. Dans l'ensemble des modèles, les schémas des symptômes prédits au niveau des éléments ont montré une harmonisation significative avec les réponses observées au questionnaire PCL-C, malgré une exactitude réduite dans l'estimation fine de la gravité. Le rendement des LLM sans exemple était insuffisant pour une application clinique dans la prédiction des symptômes de TSPT à partir de transcriptions d'entrevues semi-structurées. Bien que les modèles aient montré une certaine capacité à saisir les tendances globales des symptômes, le rendement variait d'un domaine à l'autre et demeurait limité pour l'estimation fine de la gravité. Compte tenu de ces contraintes et de la nature non traumatique de l'ensemble de données, les résultats doivent être considérés comme préliminaires, avec de légères différences observées entre les modèles.",
-      "date": "2026-07-21",
-      "authors": [
-        "Teferra Bazen Gashaw",
-        "Sidharta Christian Kevin",
-        "Hsiang Wei-Ni"
-      ],
-      "doi": "10.1177/07067437261468897"
-    },
-    {
-      "title": "Adolescent exposure to the psychedelic 25C-NBOMe in rats induces lasting competitive avoidance through disrupted hippocampal-prefrontal synchrony.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42477457/",
-      "source": "PubMed",
-      "abstract": "Psychedelics, known for prosocial effects and therapeutic potential in psychiatry, are often first used during adolescence, yet their enduring impact on social behavior and its underlying circuits remain unclear. Here we show that repeated exposure to the serotonergic psychedelic drug 25C-NBOMe during adolescence, but not exposure in adulthood, induced lasting competitive avoidance in male Sprague-Dawley rats-the most prominent change among several interrelated social behaviors and one that was not a collateral effect of altered sociability or social dominance. Multisite recordings revealed disrupted default mode network (DMN) synchrony, with reduced theta band coherence between the ventral hippocampus (vHPC) and the orbitofrontal cortex (OFC) most strongly predicting this behavioral change. Chemogenetic activation of the vHPC → OFC projection normalized the avoidance behavior in drug-exposed rats, whereas chemogenetic inhibition induced it in controls. These findings indicate that the vulnerability of DMN synchrony to psychedelics during adolescence can durably reshape adult social functioning.",
-      "date": "2026-07-20",
-      "authors": [
-        "Yu Zhi-Peng",
-        "Zhang Zhong-Yu",
-        "Li Qiong"
-      ],
-      "doi": "10.1038/s41593-026-02369-y"
-    },
-    {
-      "title": "Antidepressant-like effects of ketamine involve CX",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42477312/",
-      "source": "PubMed",
-      "abstract": "Ketamine, a non-competitive N-methyl-D-aspartate acid (NMDA) receptor antagonist, produces rapid and sustained antidepressant actions, but the underlying molecular mechanism remains unclear. The CX",
-      "date": "2026-07-20",
-      "authors": [
-        "Yin Yong-Yu",
-        "Sun Si-Rui",
-        "Zhang Hui-Ying"
-      ],
-      "doi": "10.1038/s41398-026-04242-9"
     },
     {
       "title": "Q1 2026: Oregon Psilocybin Services Update",
@@ -570,7 +573,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2018-004480-31/CZ",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-07-28",
+      "date": "2026-07-29",
       "authors": [],
       "doi": ""
     },
@@ -579,7 +582,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2020-005037-32/CZ",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-07-28",
+      "date": "2026-07-29",
       "authors": [],
       "doi": ""
     },
@@ -588,7 +591,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2021-002909-10/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-07-28",
+      "date": "2026-07-29",
       "authors": [],
       "doi": ""
     },
@@ -597,7 +600,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2015-000550-37/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-07-28",
+      "date": "2026-07-29",
       "authors": [],
       "doi": ""
     },
@@ -606,7 +609,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2021-000041-40/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-07-28",
+      "date": "2026-07-29",
       "authors": [],
       "doi": ""
     },
@@ -615,7 +618,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2020-000829-55/DK",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-07-28",
+      "date": "2026-07-29",
       "authors": [],
       "doi": ""
     },
@@ -624,7 +627,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2020-002790-94/SE",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-07-28",
+      "date": "2026-07-29",
       "authors": [],
       "doi": ""
     },
@@ -633,7 +636,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2021-006200-33/FI",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-07-28",
+      "date": "2026-07-29",
       "authors": [],
       "doi": ""
     },
@@ -642,7 +645,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2019-004812-73/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-07-28",
+      "date": "2026-07-29",
       "authors": [],
       "doi": ""
     },
@@ -651,7 +654,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2022-002369-14/BE",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-07-28",
+      "date": "2026-07-29",
       "authors": [],
       "doi": ""
     },

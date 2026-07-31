@@ -1,7 +1,57 @@
 {
-  "date": "2026-07-30",
-  "cached_at": "2026-07-30T08:21:57.481161+00:00",
+  "date": "2026-07-31",
+  "cached_at": "2026-07-31T08:45:40.888420+00:00",
   "articles": [
+    {
+      "title": "Safety, feasibility, and preliminary clinical outcomes of psilocybin-assisted therapy for veterans with severe, treatment-resistant PTSD: an open-label pilot clinical trial.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42533157/",
+      "source": "PubMed",
+      "abstract": "Psilocybin-assisted therapy (PAT) shows promise for treating PTSD in adults but hasn't been studied in U.S. military Veterans, who face higher symptom severity and suicide risk. This open-label pilot trial evaluated the safety and feasibility of PAT in Veterans with severe, treatment-resistant PTSD. The clinical trial was pre-registered at ClinicalTrials.gov (NCT05554094). The eligibility criteria were that participants be U.S. military Veterans aged 21-64 with a DSM 5 diagnosis of PTSD for at least six months, and a Clinician-Administered PTSD Scale for DSM 5 (CAPS-5) total severity score ≥35. PTSD was also required to be treatment-resistant. Clinical outcomes were assessed at the Center for Psychedelic Drug Research and Education in Columbus, OH. Twelve participants received eight hours of therapy followed by two psilocybin dosing sessions at 15 mg and 25 mg, spaced 2-3 weeks apart, of synthetic psilocybin, along with approximately eight hours of post-psilocybin therapy. Follow-up occurred at four weeks post-second dosing. The primary endpoints were safety (i.e., the type, severity, frequency of adverse events) and suicidal ideation/behavior (as measured by the Columbia Suicide Severity Rating Scale (CSSR-S)) from baseline to 1-month post-second psilocybin administration. The secondary endpoints were PTSD symptom severity rated by a clinician and the participant. Exploratory analyses included the impact of psychotherapy and expectancy on PTSD symptom severity. Of the 668 participants who completed the online pre-screener, 13 consented and enrolled, 1 withdrew before the first dosing session, and 12 fulfilled the study requirements. No serious adverse events occurred; non-serious adverse events included headaches, anxiety, and dizziness. There was no increase in suicidal ideation or behavior during the trial, and heart rate and blood pressure remained within safe limits during the psilocybin sessions. There was a large (d = 2.30) and significant (p < 0.001) reduction (mean difference = 27.5, 95% CI: 19.9 to 35.1) in clinician-rated PTSD symptoms from baseline through 1-month follow-up, with 75% having a treatment response and in remission from PTSD. While expectancy did not predict changes in PTSD symptoms, pre-dosing symptom change during the preparation phase of treatment did. Clinician adherence ratings were 98% across all study visits. Findings reveal that PAT is safe, well-tolerated, and shows preliminary clinical improvement for PTSD, suggesting that PAT may offer therapeutic relief for Veterans with severe treatment-resistant PTSD. This study explored whether psilocybin-assisted therapy (PAT), a therapeutic approach being studied for the treatment of several mental health conditions, could help U.S. military Veterans with severe treatment-resistant posttraumatic stress disorder. Veterans completed therapy sessions before and after receiving two doses of psilocybin. Researchers monitored safety and changes in PTSD symptoms for one month after treatment. No serious safety problems occurred, and most side effects were mild, such as headaches or brief anxiety. Veterans showed large improvements in PTSD symptoms, and many no longer met criteria for PTSD after one month. These results suggest PAT may offer meaningful relief for Veterans who have not found help through standard treatments. More research with larger groups is needed to confirm these results.",
+      "date": "2026-07-30",
+      "authors": [
+        "Armstrong Stacey B",
+        "Levin Adam W",
+        "Sepeda Nathan D"
+      ],
+      "doi": "10.1038/s43856-026-01767-4"
+    },
+    {
+      "title": "Nondual Awareness as a Novel Chronic Pain Relieving Mechanism.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42529410/",
+      "source": "PubMed",
+      "abstract": "Mindfulness-based interventions (MBIs) are efficacious nonpharmacologic treatments for chronic pain, yet the psychological mechanisms mediating the pain-relieving effects of MBIs remain incompletely understood. One potential mechanism may involve nondual awareness, a state of consciousness characterized by attenuation of the subject-object duality, reduced self-referential thinking, and an increased sense of connectedness with others and the world-at-large. We conducted a secondary analysis of pooled data from two randomized controlled trials (",
+      "date": "2026-05-11",
+      "authors": [
+        "Bhatt Kush V",
+        "Hanley Adam W",
+        "Martin-Soelch Chantal"
+      ],
+      "doi": "10.1037/cns0000474"
+    },
+    {
+      "title": "Sex-dependent effects of psychedelics: review of evidence from rodent models.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42528876/",
+      "source": "PubMed",
+      "abstract": "Classic psychedelics, including psilocybin, LSD, DMT, 5-MeO-DMT, mescaline, and phenethylamines such as DOI, exert their core effects through 5-HT2A receptor agonism, inducing widespread neurobiological and behavioral changes relevant to psychiatric research. Emerging evidence suggests that these effects are modulated by sex, yet this dimension remains underrepresented in studies. This review synthesizes findings from rodent research to examine sex-dependent variability across pharmacokinetics, physiology, neuroplasticity, behavior, and disease models. Notable sex differences appear in pharmacodynamics and neurobiological responses, such as divergent serotonergic and dopaminergic signaling patterns, sex specific central amygdala reactivity to psilocin, and differential patterns of dendritic spine formation following psilocybin administration. Behavioral outcomes - including head twitch responses, locomotor activity, prepulse inhibition, stress reactivity, and social behavior - frequently show stronger or qualitatively distinct effects in females than in males, with ovarian cycle phase further modulating several responses. Disease model studies similarly reveal divergent therapeutic or adverse outcomes, such as sex dependent effects of psilocybin on alcohol consumption and of DMT microdosing on affective behavior and neuroplasticity. Collectively, the evidence demonstrates that sex is a critical biological variable shaping the neural, physiological, and behavioral effects of psychedelics in rodents. Integrating sex specific analyses into experimental design is essential for improving translational validity and guiding clinical applications that account for biological differences in treatment response.",
+      "date": "2026-07-15",
+      "authors": [
+        "Marecki Rafał",
+        "Zaniewska Wiktoria",
+        "Hamed Adam"
+      ],
+      "doi": "10.3389/fpsyt.2026.1824073"
+    },
+    {
+      "title": "Treatment-resistant Depression in the Post-ketamine Era: Unmet Needs beyond Rapid Response.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42528339/",
+      "source": "PubMed",
+      "abstract": "The introduction of ketamine and its S-enantiomer, esketamine, has been one of the most consequential advances in treatment-resistant depression (TRD) in recent decades, demonstrating that rapid and clinically meaningful antidepressant effects can occur within hours, even in patients who have not responded to conventional treatments. However, this advance has not resolved the clinical problem of TRD. Rather, it has shifted the field's most important unmet needs from the induction of short-term symptom improvement to the management of what follows. The central questions now concern the post-response trajectory: how durable the initial benefit is, how relapse should be prevented, how maintenance treatment should be structured and eventually tapered, whether symptomatic improvement translates into functional recovery, which patients are most likely to benefit, why clinically useful predictive biomarkers remain elusive, and what the long-term safety and abuse-liability profile of repeated glutamatergic treatment will prove to be. This clinically oriented review examines these unresolved problems in the post-ketamine era, considers whether emerging rapid-acting antidepressants may address some of them, and argues that durability, functional recovery, patient selection, long-term safety, and implementation value, rather than acute efficacy alone, should now guide research priorities and bedside decision-making in TRD.",
+      "date": "2026-07-14",
+      "authors": [
+        "Serretti Alessandro"
+      ],
+      "doi": "10.9758/cpn.26.1487"
+    },
     {
       "title": "Politically Salient Events May Modulate Effects of Naturalistic Psychedelic Use on Support for Partisan Violence.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42524221/",
@@ -14,6 +64,19 @@
         "Osika Walter"
       ],
       "doi": "10.1177/28314425261444135"
+    },
+    {
+      "title": "Effects of cigarette greenwashing advertising on behavioral economic demand, puff topography, and health risk perception.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42522159/",
+      "source": "PubMed",
+      "abstract": "Greenwashing tactics involve advertising products as ecofriendly and/or natural, which may reduce perceived health risk. We tested the effect of greenwashing advertising tactics on cigarette demand, puff topography, and perceived health risk. Young adults (N = 31) who smoke cigarettes completed a within-subject experiment involving two topography and seven operant demand sessions. Participants were exposed to advertising for novel cigarette \"brands.\" One brand was advertised using greenwashing tactics, whereas the other brand included matched control tactics. Unknown to participants, both conditions used the same commercial cigarette brand. During topography sessions, participants smoked cigarettes ad lib and puff topography data were collected. During demand sessions, cigarettes were concurrently available at varying prices. No significant differences were observed for puff-topography measures (d",
+      "date": "2026-Sep",
+      "authors": [
+        "Strickland Justin C",
+        "Naudé Gideon P",
+        "Gelino Brett W"
+      ],
+      "doi": "10.1002/jeab.70133"
     },
     {
       "title": "Convergent neuroimmune signaling underlying rapid antidepressant response to ketamine and psychedelics.",
@@ -32,7 +95,7 @@
       "title": "Dimensional effect profiles in treatment-resistant depression: A naturalistic, prospective head-to-head comparison of arTMS, esketamine nasal spray, and oral brexpiprazole.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42521097/",
       "source": "PubMed",
-      "abstract": "Treatment-resistant depression (TRD) is a heterogeneous condition in which symptoms such as anhedonia, rumination, and anxiety contribute to persistent disability. Esketamine nasal spray (ESK-NS), accelerated repetitive transcranial magnetic stimulation (arTMS), and adjunctive brexpiprazole represent novel therapeutic options with distinct mechanisms, though their domain-specific effects in real-world settings remain unclear. To compare short-term changes in depressive severity across ESK-NS, arTMS, and brexpiprazole, and to explore treatment-related effects on anhedonia, rumination, anxiety, and item-level depressive symptoms. One hundred and one individuals with TRD were enrolled in a prospective, naturalistic, three-arm study and treated with ESK-NS, arTMS (accelerated left DLPFC protocol), or brexpiprazole augmentation (1-2 mg/day). Assessments were conducted at baseline and after one month. All treatments produced significant reductions in overall depressive severity and anhedonia. Rumination showed a significant time-by-treatment interaction, with greater improvement under brexpiprazole. Item-level analyses suggested partially distinct profiles, with brexpiprazole preferentially improving pessimistic and ruminative symptoms, ESK-NS enhancing affective responsiveness and cognitive symptoms, and both ESK-NS and arTMS contributing to anxiolysis. In routine clinical practice, ESK-NS, arTMS, and brexpiprazole were associated with short-term improvement in TRD, with exploratory signals of partially distinct symptom-domain profiles. These findings support the value of dimensional assessment in TRD and warrant confirmation in randomized studies with longer follow-up.",
+      "abstract": "Treatment-resistant depression (TRD) is a heterogeneous condition in which symptoms such as anhedonia, rumination, and anxiety contribute to persistent disability. Esketamine nasal spray (ESK-NS), accelerated repetitive transcranial magnetic stimulation (arTMS), and adjunctive brexpiprazole represent novel therapeutic options with distinct mechanisms, though their domain-specific effects in real-world settings remain unclear. To compare short-term changes in depressive severity across ESK-NS, arTMS, and brexpiprazole, and to explore treatment-related effects on anhedonia, rumination, anxiety, and item-level depressive symptoms. One hundred and one individuals with TRD were enrolled in a prospective, naturalistic, three-arm study and treated with ESK-NS, arTMS (accelerated left DLPFC protocol), or brexpiprazole augmentation (1-2 mg/day). Assessments were conducted at baseline and after one month. All treatments produced significant reductions in overall depressive severity and anhedonia. Rumination showed a significant time-by-treatment interaction, with greater improvement under brexpiprazole. Item-level analyses suggested partially distinct profiles, with brexpiprazole preferentially improving pessimistic and ruminative symptoms, ESK-NS enhancing affective responsiveness and cognitive symptoms, and both ESK-NS and arTMS contributing to anxiolysis. In routine clinical practice, ESK-NS, arTMS, and brexpiprazole were associated with short-term improvement in TRD, with exploratory signals of partially distinct symptom-domain profiles. These findings support the value of dimensional assessment in TRD and warrant confirmation in randomized studies with longer follow-up.",
       "date": "2026-07-28",
       "authors": [
         "d'Andrea Giacomo",
@@ -196,69 +259,13 @@
       "doi": "10.1016/j.drugalcdep.2026.113265"
     },
     {
-      "title": "Real-World Effectiveness and Cost-Differential of Intranasal Esketamine Versus Intramuscular Ketamine.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42500270/",
-      "source": "PubMed",
-      "abstract": "This study evaluated whether intramuscular (IM) ketamine is non-inferior to intranasal (IN) esketamine for treatment-resistant depression (TRD) and assessed differences in safety and healthcare costs. In a retrospective, observational sequential cohort at the VA San Diego, 179 Veterans with TRD received eight treatments of either IN esketamine ( IM ketamine was non-inferior to IN esketamine for depression, with a baseline-adjusted estimated marginal mean PHQ-9 difference of 0.04 points (95% CI: -1.21 to 1.29). Reductions in PTSD symptoms were also non-inferior. Incidence of sentinel adverse events were comparable, with no significant differences in emergency department visits or hospitalizations. Cost analysis revealed a significant disparity: the total cost per eight-treatment course was $6069 for IN esketamine versus $647 for IM ketamine, with this difference driven primarily by the cost of IN esketamine. IM ketamine demonstrated comparable clinical effectiveness and safety to FDA-approved IN esketamine while offering a significant reduction in cost. These findings suggest IM ketamine may be a high-value alternative to IN esketamine that could significantly expand access to psychiatric care for individuals with TRD. These findings provide real-world evidence supporting the use of IM ketamine for TRD, and suggests that this formulation could offer a pathway for improving access to ketamine treatment by lowering the cost to healthcare systems.",
-      "date": "2026-07-02",
-      "authors": [
-        "Bhatt Kush V",
-        "Austin Tara",
-        "Alam Danny"
-      ],
-      "doi": "10.1176/appi.prcp.20260041"
-    },
-    {
-      "title": "Time-dependent effects of rapid-acting antidepressants in iPSC-derived neurons from treatment-resistant depression and healthy volunteers.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42498781/",
-      "source": "PubMed",
-      "abstract": "Rapid-acting antidepressants like ketamine and serotonergic psychedelics show promise for treatment-resistant depression (TRD), but the molecular mechanisms that contribute to their therapeutic effects remain unclear. Induced pluripotent stem cells (iPSCs) offer a platform to model human cortical neurons and investigate drug effects in a human-relevant system. Here, iPSCs from individuals with TRD and healthy volunteers (HVs) were differentiated into mature cortical-like neurons and treated for six and 24 h with agents being investigated as rapid-acting antidepressants, including (2 R,6 R)-hydroxynorketamine (HNK), psilocybin, lysergic acid diethylamide (LSD), and 2,5-Dimethoxy-4-iodoamphetamine (DOI). Bulk and single-cell RNA sequencing assessed global and cell-type-specific transcriptomic responses. Synaptic proteins were evaluated via Western blotting and immunocytochemistry. To validate translational relevance, transcriptomic results were compared to CSF proteomics from ketamine-treated HVs. Despite differing initial pharmacological targets, overall gene expression across all compounds was highly correlated at matched timepoints compared to vehicle control, suggesting shared downstream effects. Both glutamatergic and serotonergic drugs converged on pathways involving inflammation, mTORC1 signaling, and cellular growth. At the single-cell level, (2 R,6 R)-HNK showed distinct cell-type specific alterations: upregulation in excitatory neurons and concomitant downregulation of inhibitory neuron populations. Differentially expressed genes from (2 R,6 R)-HNK-treated neurons also overlapped with CSF proteomic signatures from ketamine-treated individuals, supporting the model's translational relevance. This study is the first to assess multiple putative rapid-acting antidepressants in parallel using an iPSC-derived neuron model. Both convergent and drug-specific changes in gene expression and pathway enrichment were observed across diverse compounds, supporting the use of human iPSC-derived neurons in antidepressant drug discovery. Clinical Trial Registry: www.clinical trials.gov, NCT02484456.",
-      "date": "2026-07-24",
-      "authors": [
-        "Johnston Jenessa N",
-        "Jones Gregory H",
-        "Peng Shiyong"
-      ],
-      "doi": "10.1038/s41380-026-03768-0"
-    },
-    {
-      "title": "MDMA as an early post-trauma intervention in a translational animal model of PTSD.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42498117/",
-      "source": "PubMed",
-      "abstract": "Post-traumatic stress disorder (PTSD) remains difficult to prevent after trauma, highlighting the need for early interventions that reduce the risk of chronic symptom development. This controlled study investigated the preventive potential of 3,4-methylenedioxymethamphetamine (MDMA) in a validated rat model of PTSD induced by predator scent stress (PSS). Adult male Sprague-Dawley rats (N = 175) were exposed to PSS or sham-PSS and treated intraperitoneally with MDMA (2.5, 5, or 10 mg/kg) or saline. MDMA was administered either 30 min after PSS or 24 h later, with or without trauma-cue pairing. Behavioral outcomes included the elevated plus-maze and acoustic startle response assessments on day 7 for phenotypic classification, followed by contextual freezing on day 8. Urinary corticosterone and norepinephrine, hippocampal glucocorticoid receptor (GR) and norepinephrine transporter (NET), and c-Fos, tryptophan hydroxylase 2 (TPH2), GR, oxytocin, and tyrosine hydroxylase (TH) immunoreactivity were measured 1 h post-injection in stress-related brain regions. The 10 mg/kg MDMA dose significantly reduced anxiety-like behavior, startle amplitude, contextual freezing, and the prevalence of extreme behavioral responses when administered 30 min after PSS or 24 h later with trauma-cue pairing. Lower doses and unpaired delayed administration were largely ineffective. The effective dose increased urinary corticosterone and hippocampal GR levels, and enhanced c-Fos, TPH2, oxytocin, GR, and TH expression in stress-regulatory circuits. Trauma-cue pairing further strengthened MDMA-induced increases in GR, oxytocin, and TPH2. These findings suggest that MDMA was associated with dose-, timing-, and context-dependent reductions in PTSD-like outcomes, accompanied by neurochemical signatures consistent with enhanced stress regulation, neuroplasticity, and adaptive memory processing.",
-      "date": "2026-07-24",
-      "authors": [
-        "Baruch Omer",
-        "Reiss Nadav",
-        "Todder Doron"
-      ],
-      "doi": "10.1016/j.pnpbp.2026.111853"
-    },
-    {
-      "title": "Targeting TLR4/PPARα-mediated neuroinflammation in the prefrontal cortex: S-ketamine and S-HNK rapidly alleviate depression-like behaviors.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42497468/",
-      "source": "PubMed",
-      "abstract": "Neuroinflammation, particularly Toll-like receptor 4 (TLR4)-mediated signaling, plays a critical role in the pathophysiology of depression. This study aimed to investigate the mechanisms by which S-ketamine (S-ket) and S-hydroxynorketamine (S-HNK) modulate TLR4 and peroxisome proliferator-activated receptor alpha (PPARα) signaling in the prefrontal cortex (PFC) to exert antidepressant effects. Male C57BL/6 J mice were subjected to chronic social defeat stress (CSDS) to induce depression-like behaviors. Mice received intraperitoneal administration of S-ket or S-HNK. In a subset of mice, adeno-associated virus expressing TLR4 (AAV-TLR4) or a negative control (NC) was stereotaxically injected into the medial prefrontal cortex (mPFC). Behavioral assessments included the sucrose preference test (SPT), forced swim test (FST), and social interaction test (SIT). Levels of monoaminergic neurotransmitters, including dopamine (DA), serotonin (5-hydroxytryptamine, 5-HT), and norepinephrine (NA), pro-inflammatory cytokines (interleukin (IL)-1β, IL-6, IL-8, and tumor necrosis factor-α (TNF-α)), TLR4, PPARα, indoleamine 2,3-dioxygenase 1 (IDO1), and kynurenine (Kyn) in the PFC were analyzed. CSDS induced depression-like behaviors, decreased DA, 5-HT, and NA levels in the PFC, and increased the expression of pro-inflammatory cytokines IL-1β, IL-6, IL-8, and TNF-α. Treatment with S-ket or S-HNK significantly reversed these behavioral deficits, neurotransmitter alterations, and neuroinflammatory responses. Both compounds also reduced plasma and PFC Kyn levels, upregulated PPARα expression, and downregulated TLR4 and IDO1. Notably, TLR4 overexpression partially abolished the antidepressant and anti-inflammatory effects of S-ket and S-HNK. S-ket and its metabolite S-HNK exert antidepressant effects by modulating the TLR4/PPARα signaling pathway, restoring monoaminergic neurotransmission, and attenuating neuroinflammation.",
-      "date": "2026-07-21",
-      "authors": [
-        "Zhu Quanfeng",
-        "Zhou Xiaoyue",
-        "Gao Huangling"
-      ],
-      "doi": "10.1016/j.jneuroim.2026.579038"
-    },
-    {
-      "title": "Social hierarchy shapes behavioral and transcriptional responses to chronic stress and ketamine in male mice.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42495548/",
-      "source": "PubMed",
-      "abstract": "Chronic stress is a major risk factor for psychiatric disorders, yet the mechanisms underlying individual differences in vulnerability and treatment response remain poorly understood. Using the Social Box, a seminatural environment, we performed high-resolution, continuous tracking of group-housed male mice during 11 days, capturing behavior during both active and inactive phases. We found that social hierarchy within a group strongly shapes stress outcomes, with dominant individuals exhibiting amplified behavioral alterations following chronic stress, including rest fragmentation and disrupted social interactions. A single ketamine administration mitigated these effects, restoring baseline behavioral signatures in dominant individuals. Bulk mRNA sequencing was performed in the medial prefrontal cortex and ventral hippocampus. This revealed a hierarchy-dependent transcriptional response with 141 differentially expressed genes in the medial prefrontal cortex of dominant, ketamine-treated mice. Overall, this study provides a framework for examining stress and pharmacological interventions in group-housed mice, enabling high-resolution, longitudinal analyses under semi-naturalistic conditions.",
-      "date": "2026-07-21",
-      "authors": [
-        "Gasperoni Serena",
-        "Ji Xiuqi",
-        "Sudre-Chinsky Choham"
-      ],
-      "doi": "10.1016/j.isci.2026.116825"
+      "title": "Beyond the Biological Baseline: Dr. Grace Blest-Hopley on Developing Female-Inclusive Psychedelic Frameworks",
+      "url": "https://psychedelicalpha.com/news/beyond-the-biological-baseline-dr-grace-blest-hopley-on-developing-female-inclusive-psychedelic-frameworks/",
+      "source": "Psychedelic Alpha",
+      "abstract": "",
+      "date": "2026-07-30",
+      "authors": [],
+      "doi": ""
     },
     {
       "title": "Q1 2026: Oregon Psilocybin Services Update",
@@ -338,15 +345,6 @@
       "source": "Psychedelic Alpha",
       "abstract": "In June 2023, FDA issued the first draft guidance on clinical investigations involving psychedelics. The 11-page document offered pointers on everything from nonclinical research and chemistry, manufacturing, and controls through to clinical studies and abuse potential assessments. Since then, a round of stakeholder feedback had sat unaddressed for the better part of three years, with […]",
       "date": "2026-07-13",
-      "authors": [],
-      "doi": ""
-    },
-    {
-      "title": "Pα+ Psychedelic Bulletin #227: A Closer Look at Compass’ 6-Month Data; AtaiBeckley Deal Update; ‘Rysanso’ Brand MDMA?",
-      "url": "https://psychedelicalpha.com/news/p%ce%b1-psychedelic-bulletin-227-a-closer-look-at-compass-6-month-data-ataibeckley-deal-update-rysanso-brand-mdma/",
-      "source": "Psychedelic Alpha",
-      "abstract": "A Closer Look at Compass’ 6-Month Data and Commercial Plans On Tuesday, we covered Compass Pathways’ readout covering 26-week data from its second Phase 3 study of COMP360 psilocybin for treatment-resistant depression (TRD): Compass Closes Out Phase 3 With 6-Month COMP006 Data, Eyes H1’27 Launch. After our initial reporting published, the company shared more detailed […]",
-      "date": "2026-07-08",
       "authors": [],
       "doi": ""
     },
@@ -441,11 +439,139 @@
       "doi": ""
     },
     {
+      "title": "Impact of Mild Traumatic Brain Injury (mTBI) on CYP2D6 Activity and the Restorative Effects of Melatonin and Vitamin C Supplementation.",
+      "url": "https://doi.org/10.5812/ijpr-164903",
+      "source": "Europe PMC",
+      "abstract": "<h4>Background</h4>Mild traumatic brain injury (mTBI) may disrupt hepatic cytochrome P-450 enzyme activity, potentially altering drug pharmacokinetics.<h4>Objectives</h4>This study investigated the impact of mTBI on CYP2D6 activity and the restorative effects of melatonin and vitamin C supplementation.<h4>Methods</h4>Mild traumatic brain injury was induced in rats using a modified weight-drop model, which were then assigned to treatment or control groups. CYP2D6 activity was assessed at multiple time points post-injury using metabolic ratios of tramadol and mirtazapine through isolated liver perfusion. All experimental procedures were conducted with the investigator blinded to group assignments.<h4>Results</h4>Mild traumatic brain injury significantly suppressed CYP2D6 activity on day 3, with partial recovery by day 7. While tramadol metabolism normalized by day 28, mirtazapine metabolism remained impaired in non-supplemented groups. Supplementation accelerated CYP2D6 recovery, showing statistically significant change by day 7. By day 28, supplemented groups exhibited metabolic ratios surpassing baseline levels.<h4>Conclusions</h4>Mild traumatic brain injury induces transient suppression of CYP2D6 activity, which was attenuated in antioxidant-treated groups in this preclinical model. Further studies are needed to explore the clinical relevance of these findings.",
+      "date": "2026-02-08",
+      "authors": [
+        "Berenjian K",
+        "Gholipour Z",
+        "Khoshayand M"
+      ],
+      "doi": "10.5812/ijpr-164903"
+    },
+    {
+      "title": "Substance use and mental health outcomes among gay and bisexual men in South Korea: a cross-sectional study.",
+      "url": "https://doi.org/10.1016/j.abrep.2026.100728",
+      "source": "Europe PMC",
+      "abstract": "<h4>Purpose</h4>This study investigated the prevalence of substance use among gay and bisexual men in South Korea and examined its association with mental health outcomes.<h4>Methods</h4>Data were drawn from a nationwide cross-sectional survey of 1407 Korean gay and bisexual men aged 19-34 conducted in 2021. Participants completed measures assessing lifetime substance use (e.g., methamphetamine, ketamine, and cannabis) and mental health outcomes including depressive symptoms, suicidal ideation, suicide attempts, and psychiatric service utilization. Multivariate regression analyses examined associations between substance use and mental health outcomes.<h4>Results</h4>Among participants, 17.7% reported lifetime substance use. Substance use was significantly associated with increased risks of suicidality and psychiatric service utilization.<h4>Conclusion</h4>This study found significant associations between substance use and adverse mental health outcomes among Korean gay and bisexual men. These findings highlight the urgent need for integrated interventions addressing both substance use and mental health in this population.",
+      "date": "2026-07-17",
+      "authors": [
+        "Jeong SJ",
+        "Kim B",
+        "Lee H"
+      ],
+      "doi": "10.1016/j.abrep.2026.100728"
+    },
+    {
+      "title": "Effects of low-dose esketamine on early quality of recovery following minimally invasive esophagectomy: a multicenter, randomized controlled study.",
+      "url": "https://doi.org/10.1080/07853890.2026.2704297",
+      "source": "Europe PMC",
+      "abstract": "<h4>Background</h4>Patients undergoing minimally invasive esophagectomy (MIE) frequently experience moderate-to-severe postoperative pain and anxiety-depressive symptoms, compromising postoperative quality of recovery (QoR). Esketamine is a promising adjunct for analgesia and anxiolysis; however, the effect of low-dose esketamine on patient-centered recovery outcomes in MIE remains unclear.<h4>Methods</h4>In this double-blinded, multicenter randomized controlled trial, patients scheduled for elective McKeown esophagectomy were allocated to esketamine (0.25 mg/kg loading dose and 0.125 mg/kg/h continuous infusion during surgery) or placebo (equivalent volume and rate of saline). The primary outcome was the QoR-15 score on postoperative day (POD) 2. Secondary outcomes included QoR-15 scores on POD 1, 3, 7 and 30. Hospital Anxiety and Depression Scale - Anxiety Subscale (HADS-A) and Depression Subscale (HADS-D) scores, numeric rating scale (NRS) pain scores, and the Brief Pain Inventory (BPI) scores on POD 1 to 3, and safety evaluations.<h4>Results</h4>A total of 198 patients were analyzed (esketamine, <i>n</i> = 98; placebo, <i>n</i> = 100). Intraoperative esketamine significantly improved QoR-15 scores on POD 2 (116.9 ± 9.4 <i>vs.</i> 110.2 ± 9.8, <i>p</i> < 0.001) and POD 3 (123.6 ± 7.2 <i>vs.</i> 116.8 ± 8.4, <i>p</i> < 0.001) compared with placebo. HADS-A and HADS-D scores were lower in the esketamine group on POD 1 to 3 (all <i>p</i> < 0.001). Additionally, esketamine recipients reported significantly lower NRS scores at rest and during movement and BPI scores for pain severity and pain interference items (all <i>p</i> < 0.001). There were no significant between-group differences in safety outcomes.<h4>Conclusions</h4>Intraoperative low-dose esketamine improved early, patient-reported recovery after MIE by enhancing analgesia and reducing postoperative anxiety and depression without increasing adverse events.<h4>Trial registration</h4>Chinese Clinical Trial Register (identifier: ChiCTR2400088916).",
+      "date": "2026-07-22",
+      "authors": [
+        "Zhang H",
+        "Yin F",
+        "Li L"
+      ],
+      "doi": "10.1080/07853890.2026.2704297"
+    },
+    {
+      "title": "Effects of sub-anesthetic doses of esketamine on immune function and postoperative negative emotions in acoustic neuroma patients: a randomized clinical trial.",
+      "url": "https://doi.org/10.1080/07853890.2026.2692804",
+      "source": "Europe PMC",
+      "abstract": "<h4>Background</h4>Patients undergoing acoustic neuroma (AN) surgery often experience postoperative negative emotions, including anxiety, depression, and immune function suppression. This trial evaluated whether perioperative sub-anesthetic esketamine improves early postoperative negative emotions and immune function.<h4>Methods</h4>In this single-center, double-blind, randomized trial, 84 patients scheduled for AN surgery were assigned to esketamine (<i>n</i> = 42) or placebo (<i>n</i> = 42). The esketamine cohort received a continuous intravenous infusion of esketamine at 0.2 mg·kg<sup>-1</sup>·h<sup>-1</sup> during anesthesia, followed by 1 mg·kg<sup>-1</sup> esketamine as an adjuvant in patient-controlled intravenous analgesia (PCIA). The placebo group received saline. The primary outcome was the incidence of depression on postoperative day (POD1), defined as a Hospital Anxiety and Depression Scale-Depression subscale (HADS-D) score > 7.<h4>Results</h4>Seventy-seven patients completed the study (39 in the esketamine group, 38 in the placebo group). Esketamine significantly reduced the incidence of depression at POD1 (7.7% <i>versus</i> 31.6%; relative risk 0.24, 95% CI: 0.08-0.80, <i>p</i> = 0.008) and POD3 (0.0% <i>versus</i> 15.8%, relative risk 0.00, 95% CI: 0.00-0.47, <i>p</i> = 0.031) compared with placebo. The incidences of anxiety on POD1 and 3 and sleep disturbances on POD1 were also significantly reduced (<i>p</i> < 0.05). Notably, no significant differences were observed between the two groups in terms of immune function, postoperative pain scores, or intraoperative morphine equivalent. Adverse events did not differ between the groups.<h4>Conclusion</h4>Perioperative sub-anesthetic esketamine reduced postoperative depression and anxiety, and improve sleep quality after AN surgery, without significant effects on early immune function or acute postoperative analgesia.<h4>Trial registration</h4>Chinese Clinical Trial Registry, ChiCTR2400084537.",
+      "date": "2026-07-03",
+      "authors": [
+        "Chen Z",
+        "Wang Y",
+        "Cong P"
+      ],
+      "doi": "10.1080/07853890.2026.2692804"
+    },
+    {
+      "title": "Simplified method for EEG recordings in mice.",
+      "url": "https://doi.org/10.1016/j.mex.2026.104004",
+      "source": "Europe PMC",
+      "abstract": "Currently, implantation of electroencephalogram (EEG) electrodes in laboratory animals is time-consuming and requires specialized equipment. We present a novel method for EEG recordings in mice that utilizes thin needle electrodes. These electrodes are inserted into the skull at predetermined locations by gently pressing them against the bone surface. To ensure stable fixation of the implant, hook-shaped needles are positioned along the lateral aspects of the skull. The electrodes are connected to a multipin connector and secured to the skull using dental composite, after which the animal is allowed to recover from anesthesia. Importantly, procedures such as skull drilling and screw placement are not required, allowing the entire surgery to be completed in <15 min. Consequently, this EEG implantation approach is rapid and minimally invasive. Results of our studies indicate that EEG recordings obtained with needle electrodes are not inferior to those obtained with screw electrodes. Overall, the method is designed to enhance the accuracy and efficiency of EEG recording studies while improving animal welfare. • Simplifies the placement of EEG electrodes. • Reduces the time required for electrode implantation.",
+      "date": "2026-06-11",
+      "authors": [
+        "Zou B",
+        "Xie XS",
+        "Gerashchenko L."
+      ],
+      "doi": "10.1016/j.mex.2026.104004"
+    },
+    {
+      "title": "Interpol review of forensic toxicology, 2023-2025.",
+      "url": "https://doi.org/10.1016/j.fsisyn.2026.100694",
+      "source": "Europe PMC",
+      "abstract": "",
+      "date": "2026-06-15",
+      "authors": [
+        "Ip SC",
+        "Chan CW",
+        "Chan CW"
+      ],
+      "doi": "10.1016/j.fsisyn.2026.100694"
+    },
+    {
+      "title": "Hesperidin mitigates cognitive and anxiety-like deficits by enhancing hippocampal antioxidant defenses, reducing neuroinflammation, and preventing neuronal apoptosis in a third-trimester-equivalent rat model of developmental ethanol neurotoxicity.",
+      "url": "https://doi.org/10.1016/j.ibneur.2026.06.001",
+      "source": "Europe PMC",
+      "abstract": "Ethanol exposure during brain development has been associated with hippocampal oxidative stress, neuroinflammation, and apoptosis, resulting in lasting cognitive and emotional deficits characteristic of fetal alcohol spectrum disorders (FASD). This study evaluated the neuroprotective potential of Hesperidin, a citrus flavanone with antioxidant and anti-inflammatory actions, against developmental ethanol neurotoxicity. Neonatal Wistar rats received ethanol (5.25 g/kg/day; 11.9% v/v) from postnatal days 2-10 and were subsequently treated intraperitoneally with Hesperidin (25, 50, or 100 mg/kg). Behavioral testing on days 39-45 using the Elevated Plus Maze (EPM) and Morris Water Maze (MWM) showed that ethanol markedly decreased open arm time (Oat%) and entries (OAE%) (P < 0.001, P < 0.01 vs Control), increased escape latency (P < 0.001), and reduced probe target time (P < 0.001 vs Control). Hesperidin at 50 and 100 mg/kg improved all indices (P < 0.05-0.01 vs Ethanol). Ethanol elevated hippocampal MDA and TNF-α (P < 0.001) while decreasing SOD (P < 0.01) and GSH-Px (P < 0.001), Hesperidin normalized these values (P < 0.01-0.001 vs Ethanol). GFAP and cleaved caspase-3 immunoreactivity were also reduced by hesperidin (P < 0.001 vs Ethanol). Overall, Hesperidin afforded dose-dependent neuroprotection by mitigating oxidative stress, inflammation, and apoptosis, thereby improving ethanol-induced behavioral impairments.",
+      "date": "2026-06-05",
+      "authors": [
+        "Jamali Z",
+        "Mohseni F",
+        "Salimi A"
+      ],
+      "doi": "10.1016/j.ibneur.2026.06.001"
+    },
+    {
+      "title": "Menstrual blood-derived stromal cells exhibit superior protection against lung injury in myocardial Infarction-Induced heart failure in rats compared to bone marrow-derived stromal cells.",
+      "url": "https://doi.org/10.1016/j.reth.2026.101127",
+      "source": "Europe PMC",
+      "abstract": "<h4>Introduction</h4>Lung injury is a frequent complication following heart failure (HF) due to systemic inflammation, hypoxia, and reduced cardiac function. This study compared the therapeutic effects of menstrual blood-derived stromal cells (MenSCs) and bone marrow-derived stromal cells (BMSCs) on HF-induced lung injury in rats.<h4>Methods</h4>Twenty male Wistar rats underwent permanent ligation of the left anterior descending coronary artery to induce myocardial infarction (MI). They were randomly assigned to receive intravenous injections of MenSCs (2 × 10<sup>6</sup> cells), BMSCs (2 × 10<sup>6</sup> cells), or PBS 7 days post-MI. Cardiac function was assessed by echocardiography, and lung tissues were analyzed 28 days post-cell administration. Histopathology (H&E and Masson's trichrome staining) evaluated pulmonary structural changes and fibrosis, TUNEL assay assessed apoptosis, and immunohistochemistry measured NF-κB and iNOS expression.<h4>Results</h4>Results showed that MenSC treatment significantly improved left ventricular ejection fraction compared with MI and BMSC groups (both P < <i>0.0001</i>). MenSCs markedly reduced pulmonary injury scores and apoptotic cell numbers compared with both untreated and BMSC-treated rats (P < <i>0.0001</i>). Both cell types reduced pulmonary fibrosis compared to MI (P < <i>0.0001</i>). Both MenSCs and BMSCs similarly reduced NF-κB expression, whereas only MenSCs effectively decreased iNOS expression (P < <i>0.0001</i>). Human mitochondrial antibody staining confirmed successful homing of both cell types to injured lung tissue.<h4>Conclusion</h4>systemic administration of MenSCs effectively ameliorated HF-induced lung injury through anti-inflammatory, anti-apoptotic, and anti-fibrotic mechanisms. Compared with BMSCs, MenSCs demonstrated superior therapeutic potential, highlighting their promise as a non-invasive and immunologically favorable cell source for regenerative therapy in remote organ injury following MI.",
+      "date": "2026-06-15",
+      "authors": [
+        "Manshori M",
+        "Saffarian Z",
+        "Aboutaleb N"
+      ],
+      "doi": "10.1016/j.reth.2026.101127"
+    },
+    {
+      "title": "Interpol review of fingermark composition and visualization 2022-2025.",
+      "url": "https://doi.org/10.1016/j.fsisyn.2026.100703",
+      "source": "Europe PMC",
+      "abstract": "",
+      "date": "2026-06-13",
+      "authors": [
+        "Bécue A."
+      ],
+      "doi": "10.1016/j.fsisyn.2026.100703"
+    },
+    {
+      "title": "Indole-3-acetic acid production is rare among gut bacteria and reflects OFOR-driven amino acid oxidation in acetogens.",
+      "url": "https://doi.org/10.1080/19490976.2026.2689610",
+      "source": "Europe PMC",
+      "abstract": "Indole-3-acetic acid (IAA) is a tryptophan-derived gut microbial metabolite with reported anti-inflammatory activities, but the organisms and anaerobic pathways that support robust production remain unclear. Screening 206 human gut bacterial isolates by LC-MS revealed that IAA production is rare: only five strains exceeded the limit of quantitation, and high-capacity production was confined to the acetogens <i>Blautia hydrogenotrophica</i> and <i>Intestinibacter bartlettii</i>. Across growth conditions, IAA was a minor product that rose alongside carbohydrate-sensitive, OFOR-linked catabolism of multiple amino acids, generating abundant branched-chain and aromatic organic acids. In gnotobiotic mice mono-colonized with <i>I. bartlettii</i>, these metabolites were produced <i>in vivo</i> but showed distinct host handling, with branched-chain fatty acids largely extracted between portal and peripheral plasma, whereas aromatic acids and their glycine conjugates appeared in plasma and urine. Genomic analyzes and heterologous enzyme assays identified expanded repertoires of 2-oxoacid:ferredoxin oxidoreductases (OFORs) with activities spanning pyruvate/oxaloacetate, branched-chain, and aromatic 2-oxoacids, including indolepyruvate conversion to indoleacetyl-CoA, a putative intermediate <i>en route</i> to IAA. Finally, position-specific <sup>13</sup>C tracing showed that CO<sub>2</sub> released during amino acid oxidation is reassimilated into acetate via reductive acetogenesis, indicating that gut acetogens can maintain redox balance without fermenting partner strains. Together, these findings show that high IAA output is restricted to select gut acetogens and linked to a broader OFOR-driven anaerobic metabolism that generates additional metabolites that are absorbed by the host.",
+      "date": "2026-06-21",
+      "authors": [
+        "DeFeo ME",
+        "Liu Y",
+        "Zhou Z"
+      ],
+      "doi": "10.1080/19490976.2026.2689610"
+    },
+    {
       "title": "CZ",
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2018-004480-31/CZ",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-07-30",
+      "date": "2026-07-31",
       "authors": [],
       "doi": ""
     },
@@ -454,7 +580,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2020-005037-32/CZ",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-07-30",
+      "date": "2026-07-31",
       "authors": [],
       "doi": ""
     },
@@ -463,7 +589,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2021-002909-10/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-07-30",
+      "date": "2026-07-31",
       "authors": [],
       "doi": ""
     },
@@ -472,7 +598,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2015-000550-37/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-07-30",
+      "date": "2026-07-31",
       "authors": [],
       "doi": ""
     },
@@ -481,7 +607,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2021-000041-40/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-07-30",
+      "date": "2026-07-31",
       "authors": [],
       "doi": ""
     },
@@ -490,7 +616,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2020-000829-55/DK",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-07-30",
+      "date": "2026-07-31",
       "authors": [],
       "doi": ""
     },
@@ -499,7 +625,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2020-002790-94/SE",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-07-30",
+      "date": "2026-07-31",
       "authors": [],
       "doi": ""
     },
@@ -508,7 +634,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2021-006200-33/FI",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-07-30",
+      "date": "2026-07-31",
       "authors": [],
       "doi": ""
     },
@@ -517,7 +643,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2019-004812-73/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-07-30",
+      "date": "2026-07-31",
       "authors": [],
       "doi": ""
     },
@@ -526,7 +652,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2022-002369-14/BE",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-07-30",
+      "date": "2026-07-31",
       "authors": [],
       "doi": ""
     },

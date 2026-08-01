@@ -1,7 +1,46 @@
 {
-  "date": "2026-07-31",
-  "cached_at": "2026-07-31T08:45:40.888420+00:00",
+  "date": "2026-08-01",
+  "cached_at": "2026-08-01T08:16:02.829022+00:00",
   "articles": [
+    {
+      "title": "Cardiovascular safety of psilocybin in psychiatric practice: a narrative review.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42538465/",
+      "source": "PubMed",
+      "abstract": "Psilocybin-assisted interventions are moving from efficacy trials toward psychiatric implementation. Cardiovascular interpretation is central to this transition because trial participants are generally medically selected, receive standardized pharmaceutical-grade doses, and are monitored more intensively than many patients encountered in routine care. This review translates the cardiovascular evidence into a risk-stratified psychiatric decision framework. We conducted a structured narrative review of clinical trials, systematic reviews, meta-analyses, cardiovascular pharmacology, drug-interaction studies, product-standardization literature, and implementation guidance. Searches were updated through July 10, 2026. Evidence was selected purposively to address acute hemodynamics, corrected QT interval (QTc), 5-hydroxytryptamine receptor-mediated effects, valvular biology, repeated exposure, naturally derived product variability, and practical screening and monitoring. In supervised studies, pooled estimates indicate mean increases of approximately 19.0 mmHg in systolic blood pressure and 8.7 mmHg in diastolic blood pressure. The largest and most consistent group differences occur about 60-90 min after dosing and generally resolve within 4-6 h; heart-rate effects are smaller and less consistent. Serious acute cardiovascular events remain uncommon in selected participants. Risk interpretation changes with cardiovascular comorbidity, interacting medications, repeated exposure, and non-standardized mushroom products, whose active-alkaloid content can vary by more than an order of magnitude. Mean QTc effects at standard exposure are small. A 5-HT2B-mediated valvular concern remains biologically plausible under chronic exposure, but assay results and exposure-margin estimates are heterogeneous and clinical valvular injury has not been established. Current evidence supports monitored, intermittent administration of standardized psilocybin in carefully selected populations, not general cardiovascular reassurance across all products, exposure patterns, or psychiatric settings. Product identity, medication review, risk-stratified cardiovascular assessment, session monitoring, and explicit escalation pathways should be integrated into treatment planning.",
+      "date": "2026-08-01",
+      "authors": [
+        "Szarpak Lukasz",
+        "Pruc Michal",
+        "Swieczkowski Damian"
+      ],
+      "doi": "10.1007/s00228-026-04151-2"
+    },
+    {
+      "title": "A retrospective report of a ketamine-augmented, transdiagnostic psychiatric outpatient psychotherapy program.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42534113/",
+      "source": "PubMed",
+      "abstract": "Comorbid conditions such as major depressive disorder, anxiety disorders, and posttraumatic stress disorder are common among Veterans, and the presence of multiple conditions requires innovative treatment approaches. The Newly Institute in Calgary, Alberta, Canada, has introduced a novel intervention combining sublingual ketamine therapy with a medically managed transdiagnostic intensive outpatient program (IOP) using evidence-based psychotherapies. A retrospective chart review was conducted of the first cohort of individuals (N = 56) who completed the Newly program between October 2021 and May 2022. This included four psychometric measures: the Patient Health Questionnaire-9, Generalized Anxiety Disorder 7-Item Scale, PTSD Checklist for DSM-5, and World Health Organization Quality of Life - Brief (WHOQOL-BREF). Preliminary findings reveal significant reductions in symptom severity post-treatment, with a notable proportion of patients experiencing clinically meaningful improvements in several symptom domains, particularly those with moderate to severe symptoms at baseline. In addition, WHOQOL-BREF scores increased with treatment, indicating both symptomatic and functional improvement. The study underscores the potential of pairing ketamine with an IOP program; ketamine is thought to enhance neuroplasticity and emotional learning, and the IOP increases treatment engagement and long-term resiliency. Although limitations exist, including the lack of a control group, the study emphasizes the importance of exploring innovative transdiagnostic treatment modalities. Further research is needed to validate these findings and evaluate how this model may be adapted specifically for Veterans. Mental health conditions including depression, anxiety, and posttraumatic stress disorder (PTSD) are common among Veterans, and they often co-occur. The presence of more than one condition increases the likelihood that the conditions will not get better with the usual treatments. When this happens, illnesses are considered treatment resistant, and different steps must be taken. This article describes a novel intervention aimed at addressing symptoms of depression, anxiety, and PTSD together in an intensive psychotherapy outpatient program that combines multiple evidence-based therapies. In addition to therapy, patients receive treatment with ketamine — a medication with strong evidence for its use for treatment-resistant depression and emerging evidence for its use for anxiety and PTSD. Ketamine is thought to enhance the brain’s ability to form new pathways, so it could theoretically make the changes that accompany psychotherapy larger and longer lasting. This article reports on improvement in symptoms of depression, anxiety, and PTSD in the first group of patients who completed this program, even among patients with more severe illness. Although this group of patients was not specific to Veterans, the results suggest that this type of approach may be of benefit to Veteran populations. Les affections comorbides, comme les troubles dépressifs majeurs, les troubles anxieux et les troubles de stress post-traumatique, sont courantes chez les vétéran.e.s, et la présence de multiples affections justifie des approches thérapeutiques novatrices. Le Newly Institute de Calgary, en Alberta, au Canada, a adopté une nouvelle intervention qui conjugue un traitement à la kétamine sublinguale à un programme ambulatoire intensif (PAI) médical transdiagnostique à l’aide de psychothérapies fondées sur des données probantes. Une analyse rétrospective des dossiers a été effectuée auprès de la première cohorte de personnes (n =56) qui ont terminé le programme du Newly Institute entre octobre 2021 et mai 2022. Ce programme incluait quatre mesures psychométriques : le Questionnaire sur la santé des patients-9, le Trouble anxieux généralisé-GAD 7, les critères de TSPT du DSM-5 et la Qualité de vie de l’Organisation mondiale de la Santé - bref (WHOQOL-BREF). Selon les résultats préliminaires, la gravité des symptômes s’est beaucoup atténuée après le traitement, et une forte proportion de patient.e.s a profité d’améliorations importantes sur le plan clinique dans plusieurs domaines des symptômes, particulièrement ceux qui étaient modérés à graves en début d’étude. En outre, les scores du WHOQOL-BREF ont augmenté grâce au traitement, ce qui était indicateur d’une amélioration à la fois symptomatique et fonctionnelle. L’étude démontre le potentiel de jumeler la kétamine à un PAI. On pense que la kétamine accroît la neuroplasticité et l’apprentissage émotionnel, et le PAI accroît la participation au traitement et la résilience à long terme. Même si l’étude comporte certaines limites, y compris l’absence de groupe témoin, elle fait ressortir l’importance d’explorer des modalités thérapeutiques transdiagnostiques novatrices. D’autres recherches devront être réalisées pour valider ces résultats et évaluer la manière d’adapter ce modèle expressément pour les vétéran.e.s.",
+      "date": "2026-01-27",
+      "authors": [
+        "Stefanuk Ian",
+        "Chivers-Wilson Kaitlin",
+        "Jetly Rakesh"
+      ],
+      "doi": "10.3138/jmvfh-2025-0009"
+    },
+    {
+      "title": "Toward a definition of treatment-resistant posttraumatic stress disorder: A systematic review.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42534095/",
+      "source": "PubMed",
+      "abstract": "Posttraumatic stress disorder (PTSD) is a complex disorder that often persists despite the use of evidence-based treatments. This systematic review aims to synthesize existing definitions of treatment-resistant PTSD (TR-PTSD) and examine the criteria used across studies to inform future research and clinical guidelines. A systematic search was conducted in four databases. Studies were included if they reported on adult participants with TR-PTSD, regardless of definition, or described non-response to one or more treatments. A narrative synthesis was used to categorize findings and suggest refinements to a working TR-PTSD definition. Of 4,046 screened articles, 55 studies met the inclusion criteria. We found substantial variation in how TR-PTSD was defined across studies. Studies investigated pharmacological (n = 19), psychosocial (n = 16), psychedelic-assisted (n = 7), and emerging treatments (n = 13). Findings highlighted diverse intervention strategies. Some reduced PTSD symptoms significantly, and others showed mixed or limited efficacy. This study consolidates existing research on TR-PTSD, revealing significant variability in its definitions across studies. The lack of standardized criteria underscores the need for a more consistent framework to guide research and clinical decision-making. The authors propose a dynamic reassessment of treatment resistance that considers adherence, treatment delivery, comorbidities, and mechanisms of action. Future research should incorporate a broader range of treatment response indicators, such as biomarkers and clinical subtypes, to establish a standardized model for TR-PTSD. A clearer definition will improve patient care, aid in therapy selection, and support the development of more effective treatments. Posttraumatic stress disorder (PTSD) is a serious mental health condition, and for some individuals, standard treatments such as medication or therapy do not lead to significant improvement. When PTSD remains unresponsive to treatment, it is referred to as treatment-resistant PTSD (TR-PTSD). The goal of this review is to examine how TR-PTSD is defined in the literature and to assess the varying criteria used across studies. The authors analysed 55 research articles that included patients identified as having TR-PTSD. They found considerable variation in how studies defined TR-PTSD, highlighting the lack of a standardized framework. This inconsistency underscores the need for further research to establish clear criteria for defining treatment resistance in PTSD. Developing a well-defined and widely accepted definition of TR-PTSD is essential to improve patient care, guide clinicians in selecting appropriate therapies, and advance research into more effective treatments. Future studies and clinical trials are necessary to refine these definitions and create a standardized model that can be used across research and clinical settings. Le trouble de stress post-traumatique (TSPT) est un trouble complexe qui persiste souvent malgré des traitements fondés sur des données probantes. Cette analyse systématique est conçue pour synthétiser les définitions existantes du TSPT réfractaire aux traitements (TSPT-RT) et pour examiner les critères utilisés dans les diverses études pour éclairer de futures recherches et directives cliniques. Une recherche systématique a été réalisée dans quatre bases de données. Les études étaient retenues si elles rendaient compte de participant.e.s adultes ayant un TSPT-RT, quelle qu’en soit la définition, ou si elles décrivaient l’absence de réponse à au moins un traitement. Une synthèse narrative a permis de classer les résultats et de peaufiner une définition de travail du TSPT-RT. Des 4 046 articles examinés, 55 respectaient les critères d’inclusion. La définition de TSIPT-RT comportait des variations importantes d’une étude à l’autre. Les études portaient sur les traitements pharmacologiques (n = 19), psychosociaux (n = 16), assistés par des psychédéliques (n = 7) et émergents (n = 13). Les résultats ont fait ressortir plusieurs stratégies d’intervention. Certaines réduisaient considérablement les symptômes de TSPT, tandis que d’autres avaient une efficacité mitigée ou limitée. Cette étude renforce les recherches existantes sur le TSPT-RT et révèle une importante variabilité des définitions d’une étude à l’autre. Ľabsence de critères standardisés souligne l’importance d’adopter un cadre plus uniforme pour orienter les recherches et les décisions cliniques. Les auteurs proposent une réévaluation dynamique de la résistance au traitement, qui tient compte de l’adhésion, de la prestation du traitement, des comorbidités et des mécanismes d’action. De futures recherches devraient intégrer un éventail plus vaste d’indicateurs de réponse au traitement, tels que les biomarqueurs et les sous-types cliniques, afin d’adopter un modèle standardisé de TSPT-RT. Une définition plus claire permettra d’améliorer les soins aux patients, contribuera à la sélection du traitement et soutiendra l’élaboration de traitements plus efficaces.",
+      "date": "2026-01-27",
+      "authors": [
+        "Al-Shamali Huda F",
+        "Meshkat Shakila",
+        "Janssen-Aguilar Reinhard"
+      ],
+      "doi": "10.3138/jmvfh-2025-0015"
+    },
     {
       "title": "Safety, feasibility, and preliminary clinical outcomes of psilocybin-assisted therapy for veterans with severe, treatment-resistant PTSD: an open-label pilot clinical trial.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42533157/",
@@ -220,43 +259,13 @@
       "doi": "10.1016/j.neuroscience.2026.07.059"
     },
     {
-      "title": "Reply to \"Reading the Signal: What Psychedelic Trials in Depression Still Can't Tell Us\".",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42504702/",
-      "source": "PubMed",
+      "title": "Psychedelic Alpha Crossword: Summer 2026",
+      "url": "https://psychedelicalpha.com/news/psychedelic-alpha-crossword-summer-2026/",
+      "source": "Psychedelic Alpha",
       "abstract": "",
-      "date": "2026-07-27",
-      "authors": [
-        "Horato Natia",
-        "Dalvi-Garcia Felipe",
-        "Dutra Pablo E P"
-      ],
-      "doi": "10.1097/JCP.0000000000002240"
-    },
-    {
-      "title": "Quality of life and productivity among esketamine responders in a real-world study in Australia and New Zealand.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42501650/",
-      "source": "PubMed",
-      "abstract": "Treatment-resistant depression (TRD) is associated with severe depression, low quality of life (QoL) and reduced work productivity, which may increase risk of relapse, suicide and suboptimal response to treatment. Esketamine nasal spray plus a newly-initiated oral antidepressant (esketamine + OAD) has been shown to improve depression symptoms, QoL and productivity in patients with TRD; however real-world evidence is limited. This was a descriptive, exploratory post-hoc subgroup analysis of patients with TRD who received esketamine + OAD treatment over 16 weeks through an Early Access Program in Australia and New Zealand. This analysis aimed to describe response to esketamine + OAD (≥50% decrease in Hamilton Depression Rating Scale Index [HAMD-17] score at Week 16), including changes in depression severity, QoL and work productivity. QoL was assessed using the Assessment of QoL-8D (AQoL-8D) questionnaire and work productivity was assessed using the Workplace Productivity and Activity Impairment: Specific Health Problem Questionnaire (WPAI:SHP). Overall, 28 (33.3%) participants were identified as responders. Responders experienced mean improvements in HAMD-17 (71.2%), AQoL-8D (29.5%) and WPAI:SHP (≥11.9%) from Baseline to Week 16. The greatest improvement among AQoL-8D domains was observed in mental health (32.9%). The largest improvement in WPAI:SHP was seen in overall work productivity loss (35.9%). These findings describe concurrent improvements in symptoms, QoL and self-reported functioning among responders. Results should be interpreted with caution due to limitations conferred by the post-hoc design, short follow-up, small population sizes and missing data.",
-      "date": "2026-07-21",
-      "authors": [
-        "Hopwood Malcolm",
-        "Codyre David",
-        "Barton David"
-      ],
-      "doi": "10.1016/j.jpsychires.2026.07.011"
-    },
-    {
-      "title": "Mapping and measuring addiction recovery: Recommended protocols through the PHENX toolkit.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42501516/",
-      "source": "PubMed",
-      "abstract": "Addiction \"recovery\" has served as a positive conceptual basis for major public health frameworks, communication strategies, and policies. With greater research interest and increasing explication of the recovery construct a multitude of measures have emerged, prompting a need to reach consensus on recommendations to enable better data harmonization and cross-study syntheses. The PhenX (consensus measures for Phenotypes and eXposures) Toolkit (www.phenxtoolkit.org) is a freely accessible catalog of validated protocols designed to promote data comparability across clinical, epidemiological, and genomic research, yet contained no recovery-specific measures. In 2024, a Substance Use and Recovery Working Group (SURWG) followed a well-established and detailed PhenX consensus process to identify and recommend protocols suitable for recovery research. Protocols were chosen based on criteria including recovery specificity, brevity, psychometrics, scoring simplicity, and non-proprietary access. The broader scientific community (12 national/regional organizations) provided feedback (respondent N = 86) on the SURWG's preliminary recommendation which was incorporated into final decisions. In 2025, the PhenX Toolkit released 15 new recommended protocols across three broad recovery elements: 1. Biopsychological (post-acute withdrawal; craving), 2. Socio-ecological (social relationships;social network characteristics; substance use goal; recovery identity; recovery capital), 3. Treatment and recovery services (Treatment and Recovery Services Use; Satisfaction; and Happiness in Recovery; Mutual-Help). This PhenX Toolkit SURWG process resulted in a new Substance Use Recovery Specialty Collection of recommended protocols with specific multidimensional applicability. As such, they provide the field with pre-vetted tools that researchers can employ with some confidence to enhance empirical efficiency and return on national research investment.",
-      "date": "2026-07-17",
-      "authors": [
-        "Kelly John F",
-        "Zemore Sarah",
-        "Vilsaint Corrie L"
-      ],
-      "doi": "10.1016/j.drugalcdep.2026.113265"
+      "date": "2026-07-31",
+      "authors": [],
+      "doi": ""
     },
     {
       "title": "Beyond the Biological Baseline: Dr. Grace Blest-Hopley on Developing Female-Inclusive Psychedelic Frameworks",
@@ -335,15 +344,6 @@
       "url": "https://psychedelicalpha.com/news/keeping-up-with-the-feds-from-fda-to-hrsa-washington-backs-psychedelics/",
       "source": "Psychedelic Alpha",
       "abstract": "",
-      "date": "2026-07-13",
-      "authors": [],
-      "doi": ""
-    },
-    {
-      "title": "FDA Issues Final Psychedelics Guidance, Schedules September Hearing on the Future of Psychedelic Therapies",
-      "url": "https://psychedelicalpha.com/news/fda-issues-final-psychedelics-guidance-schedules-september-hearing-on-the-future-of-psychedelic-therapies/",
-      "source": "Psychedelic Alpha",
-      "abstract": "In June 2023, FDA issued the first draft guidance on clinical investigations involving psychedelics. The 11-page document offered pointers on everything from nonclinical research and chemistry, manufacturing, and controls through to clinical studies and abuse potential assessments. Since then, a round of stakeholder feedback had sat unaddressed for the better part of three years, with […]",
       "date": "2026-07-13",
       "authors": [],
       "doi": ""
@@ -571,7 +571,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2018-004480-31/CZ",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-07-31",
+      "date": "2026-08-01",
       "authors": [],
       "doi": ""
     },
@@ -580,7 +580,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2020-005037-32/CZ",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-07-31",
+      "date": "2026-08-01",
       "authors": [],
       "doi": ""
     },
@@ -589,7 +589,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2021-002909-10/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-07-31",
+      "date": "2026-08-01",
       "authors": [],
       "doi": ""
     },
@@ -598,7 +598,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2015-000550-37/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-07-31",
+      "date": "2026-08-01",
       "authors": [],
       "doi": ""
     },
@@ -607,7 +607,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2021-000041-40/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-07-31",
+      "date": "2026-08-01",
       "authors": [],
       "doi": ""
     },
@@ -616,7 +616,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2020-000829-55/DK",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-07-31",
+      "date": "2026-08-01",
       "authors": [],
       "doi": ""
     },
@@ -625,7 +625,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2020-002790-94/SE",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-07-31",
+      "date": "2026-08-01",
       "authors": [],
       "doi": ""
     },
@@ -634,7 +634,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2021-006200-33/FI",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-07-31",
+      "date": "2026-08-01",
       "authors": [],
       "doi": ""
     },
@@ -643,7 +643,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2019-004812-73/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-07-31",
+      "date": "2026-08-01",
       "authors": [],
       "doi": ""
     },
@@ -652,7 +652,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2022-002369-14/BE",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-07-31",
+      "date": "2026-08-01",
       "authors": [],
       "doi": ""
     },

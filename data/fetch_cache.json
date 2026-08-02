@@ -1,7 +1,173 @@
 {
-  "date": "2026-08-01",
-  "cached_at": "2026-08-01T08:16:02.829022+00:00",
+  "date": "2026-08-02",
+  "cached_at": "2026-08-02T08:20:10.625969+00:00",
   "articles": [
+    {
+      "title": "How high ventilation breathwork alters consciousness: Hypoperfusion, network dynamics, and subjective experience.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42542287/",
+      "source": "PubMed",
+      "abstract": "High ventilation breathwork (HVB) is increasingly used in psychotherapeutic and contemplative contexts to induce altered states of consciousness (ASC), yet its neurobiological mechanisms remain poorly understood. Thirty experienced HVB practitioners (mean age 44.97 ± 11.80 years) underwent perfusion and resting-state fMRI to assess acute cerebrovascular and post-acute network changes. Cerebral blood flow (CBF) was measured using arterial spin labelling during baseline and the interval of maximal subjective effects. Acute psychotropic effects were rated using an online Likert scale, ASC intensity was assessed immediately after breathwork with the 5-Dimensional Altered States of Consciousness (5D-ASC) scale. HVB induced a 45.5% reduction in global grey matter cerebral blood flow (CBF; 29.81 ± 7.58 vs. 16.24 ± 4.35 ml/100 g/min; t(29) = -10.69, p < 0.001), accompanied by increased heart and respiratory rate. Default mode network (DMN) functional connectivity (FC) did not change significantly at the group level. In further exploratory analyses, greater decreases in DMN FC (pre - post breathwork) predicted higher 5D-ASC rating (β = -4.88, p < 0.05) in analyses using global signal regression, though this association was not significant without global signal regression (p = 0.75). CBF reductions were not associated with ΔDMN-FC or 5D-ASC ratings. HVB produces marked global cerebral hypoperfusion without systematic DMN FC changes, suggesting that hypoperfusion and network dynamics may represent partially dissociable mechanisms underlying breathwork-induced ASC. As a controllable, non-pharmacological means of inducing ASC, HVB may hold promise as a psychotherapeutic and psychedelic-adjacent intervention.",
+      "date": "2026-08-01",
+      "authors": [
+        "Schmitz Christian N",
+        "Bernardic Marijan",
+        "Vlădoiu Anamaria-Domnica"
+      ],
+      "doi": "10.1016/j.pnpbp.2026.111873"
+    },
+    {
+      "title": "Ketamine for substance use disorders: a systematic review and meta-analysis.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42540381/",
+      "source": "PubMed",
+      "abstract": "Substance use disorder (SUD) is a major global health issue, contributing significantly to the disease burden. Despite this, effective treatments for SUD remain limited. Ketamine has shown potential as a treatment, yet no meta-analysis has assessed its efficacy for SUD. This study aimed to evaluate the efficacy and safety of ketamine in treating SUD. Multiple databases were systematically searched forrandomized controlled trials (RCTs) on ketamine for SUD treatment. The primary outcome was abstinence rates. Adverse events and dropout rates were also assessed to evaluate safety and acceptability. A random-effects model was used to conduct the meta-analysis. Fifteen RCTs with 798 participants were included; seven RCTs contributed abstinence data to the quantitative synthesis. Ketamine was associated with significantly improved abstinence at <1 month [odds ratio(OR) = 3.27, 95% CI: 1.55-6.92, I Current evidence suggests a short-term efficacy signal for ketamine in SUD, but the evidence remains limited and insufficient to establish its efficacy and safety conclusively. identifier CRD42024607116.",
+      "date": "2026-07-17",
+      "authors": [
+        "Fang Shu-Ping",
+        "Yang Xin",
+        "Zhao Da-Cong"
+      ],
+      "doi": "10.3389/fpsyt.2026.1835709"
+    },
+    {
+      "title": "Exploring Access to Psychedelics Among Canadian Veterans: Pathways, Barriers, and Perceptions.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42540045/",
+      "source": "PubMed",
+      "abstract": "Psychedelic-assisted therapies have recently gained attention as potential novel treatments for various mental health conditions. In Canada, there has been particular interest from the veteran communities regarding the potential therapeutic impact of psychedelics. However, legal access remains limited in Canada, leading some veterans to explore alternative pathways. Here, we aimed to explore how Canadian military veterans learn about and access psychedelics for mental health treatment. Using a retrospective survey-based design in collaboration with the registered Canadian charity, Heroic Hearts Canada, we collected data from 30 veterans on their mental health history, prior treatments, information sources, and methods of access. Our findings indicate that while some veterans accessed psychedelics through legal pathways (20%,  These findings highlight gaps in access and education surrounding psychedelic therapies for veterans. While interest in these therapies is growing, it is important to note that clinical use of psychedelics for mental health conditions remains investigational. We propose that addressing these barriers through improved clinician training and education, policy reform, and development of safer legal pathways may support more informed and cautious engagement with these treatments and is essential to ensuring informed and effective care for those seeking alternative mental health treatments, such as psychedelics. Moreover, these efforts will contribute to broader harm reduction strategies by equipping clinicians with the knowledge and tools to support individuals who may continue to access these substances outside legal frameworks.",
+      "date": "2025-12-17",
+      "authors": [
+        "Contreras Luis E",
+        "Elliott Georgia O",
+        "Kment Francesco"
+      ],
+      "doi": "10.1177/28314425251387678"
+    },
+    {
+      "title": "A Nature-Themed Video Intervention Increases Nature Relatedness in Psilocybin-Assisted Psychotherapy for Alcohol Use Disorder.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42539824/",
+      "source": "PubMed",
+      "abstract": "Psychedelic-assisted psychotherapy has shown promising results for treating alcohol use disorder (AUD) and other mental health conditions. Although the precise mechanisms of psychedelic therapies remain unclear, many studies report increased feelings of connectedness following psychedelic experiences. Specifically, both nature relatedness (one's subjective sense of being connected to nature) and social connectedness (feelings of comprehensive social closeness) have been shown to increase with psychedelic use, and greater connectedness in these domains has been associated with enhanced health and well-being. The current study examined whether a nature-themed video intervention presented to participants undergoing psilocybin-assisted psychotherapy would differentially affect nature relatedness compared with social connectedness in adults with AUD. A total of 20 participants were randomized to either the visual healing condition (viewing a 42-min nature video;  A significant between-group difference was observed in change in nature relatedness pre-to-postpsilocybin session [χ Viewing a nature-themed video may enhance nature relatedness among individuals undergoing psilocybin-assisted psychotherapy for AUD. Future research should investigate the effects of real-life nature immersion and explore nature relatedness and other forms of connectedness as potential therapeutic targets in psychedelic-assisted and other psychotherapies NCT04410913.",
+      "date": "2025-12-26",
+      "authors": [
+        "Rich Rhianna",
+        "Laird Kelsey",
+        "Siddarth Prabha"
+      ],
+      "doi": "10.1177/28314425251387655"
+    },
+    {
+      "title": "Assessing The Readiness of Psychiatrists in Louisiana to Incorporate Psilocybin into Clinical Practice-Lessons Learned from a State Underrepresented in Clinical Psychedelic Research.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42539773/",
+      "source": "PubMed",
+      "abstract": "Psilocybin has been granted breakthrough therapy status in the United States, speeding its advancement from research to clinical care. Due to the controversial nature of psilocybin, psychiatrists may not be fully prepared to incorporate it into clinical practice. The current study aimed to evaluate the opinions toward psilocybin among practicing psychiatrists in Louisiana. Louisiana serves as a representative state, modeling other areas with limited exposure to psychedelic research. A 30-question survey was distributed via mail and digital newsletter to all registered Louisiana psychiatrists. The survey consisted of demographic questions and questions pertaining to how strongly respondents agreed or disagreed with statements about psilocybin and psychedelics on a five-point Likert scale. The statements aimed to assess knowledge and exposure to psilocybin including opinions on research and legalization, safety and addiction potential, medical use, and potential benefits and usages. Forty-nine responses were recorded. Eighty-two percent of participants reported having \"some knowledge\" of psilocybin. Eighty-six percent believed psilocybin should be researched for medicinal value, and 71% would prescribe psilocybin if it were proven beneficial for their patient's illness. Fifty-seven percent believed it should be considered a first-line treatment for certain conditions, while 73% believed it should be used only after exhausting all other treatment modalities. The study had an overall 10.5% response rate, potentially limiting the generalizability of the findings. Louisiana psychiatrists in our sample appear open to integrating psilocybin into their practice if there is strong regulatory support. Psilocybin research is rapidly expanding and will soon reach Louisiana and other states with a limited history of psychedelic clinical research. These findings warrant the development of an educational program on psychedelics to arm psychiatrists and patients with the knowledge to make the most informed decisions.",
+      "date": "2025-12-19",
+      "authors": [
+        "Husein Amanda",
+        "Traylor Madalynn",
+        "Vest M Frances"
+      ],
+      "doi": "10.1177/28314425251381806"
+    },
+    {
+      "title": "Psilocybin for Fear of Cancer Recurrence.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42541603/",
+      "source": "PubMed",
+      "abstract": "",
+      "date": "2026-08-01",
+      "authors": [
+        "Cho Matthew",
+        "Rosenbaum Daniel",
+        "Hapke Emma"
+      ],
+      "doi": "10.1007/s00520-026-11065-3"
+    },
+    {
+      "title": "Therapeutic Potential of Psilocybin in Psychiatric Disorders: Mechanisms, Efficacy, and Clinical Implications.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42538940/",
+      "source": "PubMed",
+      "abstract": "Psilocybin, a serotonergic psychedelic, has gained attention as a potential treatment for various psychiatric conditions. In this review, the authors summarize current clinical evidence related to psilocybin's efficacy, safety, and mechanisms of action across psychiatric disorders. Findings from early-phase and small-scale clinical trials suggest rapid but variable reductions in depressive symptoms, with some studies reporting sustained effects. Psilocybin has also shown preliminary benefits in alleviating anxiety related to life-threatening illness and in reducing substance use, including alcohol and tobacco dependence. Emerging but limited evidence supports possible therapeutic effects in the treatment of obsessive-compulsive disorder, body dysmorphic disorder, anorexia nervosa, and posttraumatic stress disorder. Reported adverse events, such as headache, nausea, and short-lived anxiety, are typically transient and mild; however, notable adverse reactions have occurred in larger randomized trials. Mechanistically, psilocybin may act by modulating limbic-prefrontal circuits, promoting synaptic plasticity, and enhancing emotional and cognitive flexibility, in particular when administered alongside structured psychotherapeutic support. Although the existing data are encouraging, the evidence base remains limited by small sample sizes, highly selective populations, and short follow-up durations. Larger, rigorously designed trials are required to confirm efficacy, establish long-term safety, and refine therapeutic protocols. Overall, psilocybin represents a promising but still experimental intervention that warrants further systematic investigation under controlled conditions.",
+      "date": "2026-04-04",
+      "authors": [
+        "Meshkat Shakila",
+        "Jha Manish K",
+        "Bhat Venkat"
+      ],
+      "doi": "10.1176/appi.focus.20250043"
+    },
+    {
+      "title": "From Innovation to Implementation: Translating Advances in Psychopharmacology to Clinical Practice.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42538897/",
+      "source": "PubMed",
+      "abstract": "",
+      "date": "2026-04-04",
+      "authors": [
+        "Bhat Venkat",
+        "Jha Manish K"
+      ],
+      "doi": "10.1176/appi.focus.20260007"
+    },
+    {
+      "title": "Effect of Esketamine on Depressive Symptoms in Adolescents With Major Depressive Disorder at Imminent Suicide Risk: A Randomized Psychoactive-Controlled Study.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42538892/",
+      "source": "PubMed",
+      "abstract": "To evaluate the efficacy, safety, and tolerability of esketamine nasal spray vs psychoactive placebo (oral midazolam) in rapidly reducing depressive symptoms in adolescents with major depressive disorder at imminent risk for suicide. This double-blind, double-dummy, phase 2b study randomized (1:1:1:2) 147 adolescents (12 to <18 years old) to esketamine (28, 56, or 84 mg) or midazolam twice weekly for 4 weeks. Participants concomitantly received comprehensive standard of care, including initial hospitalization, oral antidepressant, and evidenced-based psychotherapy. The primary efficacy end point-change in Children's Depression Rating Scale-Revised (CDRS-R) total score from baseline to 24 hours post first dose-was analyzed using analysis of covariance, according to a pooled sequential multiple testing procedure. All participants were moderately to severely depressed at enrollment; approximately 95% were moderately to extremely suicidal. Pooled esketamine doses (56 and 84 mg) showed superiority over midazolam in reducing CDRS-R total score at 24 hours post first dose (between-group difference of least squares means [95% CI]:-5.8 [-11.19,-0.35],  The primary efficacy end point of the study was met for the pooled esketamine doses (56 and 84 mg). Esketamine in conjunction with comprehensive standard of care rapidly improved depressive symptoms among adolescents at imminent risk for suicide. This double-blind randomized controlled clinical trial compared the effects of esketamine nasal spray (28, 56, or 84 mg) to a psychoactive placebo (midazolam) in 147 adolescents with major depressive disorder who were at imminent risk for suicide. All participants also received standard-of-care treatment, including initial hospitalization, oral antidepressant treatment, and evidenced-based psychotherapy. Combined 56- and 84-mg doses of esketamine were superior to midazolam in reducing depressive symptoms at 24 hours following the first dose; all 4 treatment groups showed continued improvement in depressive symptoms and severity of suicidality after 4 weeks of treatment. The most common side effects reported for esketamine-treated participants were dizziness, nausea, dissociation, headache, bitter taste, and sleepiness.Appeared originally in",
+      "date": "2026-04-04",
+      "authors": [
+        "Kosik-Gonzalez Colette",
+        "Fu Dong-Jing",
+        "Chen Li Nancy"
+      ],
+      "doi": "10.1176/appi.focus.26024113"
+    },
+    {
+      "title": "\"I've Done My Research\": Psychedelics, PTSD, and the Therapeutic Alliance.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42538891/",
+      "source": "PubMed",
+      "abstract": "",
+      "date": "2026-04-04",
+      "authors": [
+        "Stubbe Dorothy E"
+      ],
+      "doi": "10.1176/appi.focus.20260003"
+    },
+    {
+      "title": "Long-Term Safety and Maintenance of Response With Esketamine Nasal Spray in Participants With Treatment-Resistant Depression: Interim Results of the SUSTAIN-3 Study.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42538888/",
+      "source": "PubMed",
+      "abstract": "Patients with treatment-resistant depression (TRD) have higher rates of relapse and pronounced decreases in daily functioning and health-related quality of life compared to patients with major depressive disorder who are not treatment-resistant, underscoring the need for treatment choices with sustained efficacy and long-term tolerability. Adults with TRD who participated in ≥1 of 6 phase 3 \"parent\" studies could continue esketamine treatment, combined with an oral antidepressant, by enrolling in phase 3, open-label, long-term extension study, SUSTAIN-3. Based on their status at parent-study end, eligible participants entered a 4-week induction phase followed by an optimization/maintenance phase, or directly entered the optimization/maintenance phase of SUSTAIN-3. Intranasal esketamine dosing was flexible, twice-weekly during induction and individualized to depression severity during optimization/maintenance. At the interim data cutoff (01 December 2020), 1148 participants were enrolled, 458 at induction and 690 at optimization/maintenance. Mean (median) cumulative duration of maintenance esketamine treatment was 31.5 (37.7) months (totaling 2769 cumulative patient-years). Common treatment-emergent adverse events (≥20%) were headache, dizziness, nausea, dissociation, somnolence, and nasopharyngitis. Mean Montgomery-Åsberg Depression Rating Scale (MADRS) total score decreased during induction, and this reduction persisted during optimization/maintenance (mean [SD] change from the baseline to the endpoint of each phase: induction -12.8 [9.73]; optimization/maintenance +1.1 [9.93]), with 35.6% and 46.1% of participants in remission (MADRS total score ≤12) at induction and optimization/maintenance endpoints, respectively. Improvement in depression ratings generally persisted among participants who remained in maintenance treatment, and no new safety signal was identified during long-term treatment (up to 4.5 years) using intermittent-dosed esketamine in conjunction with daily antidepressant. Appeared originally in",
+      "date": "2026-04-04",
+      "authors": [
+        "Zaki Naim",
+        "Chen Li Nancy",
+        "Lane Rosanne"
+      ],
+      "doi": "10.1176/appi.focus.26024111"
+    },
+    {
+      "title": "Emerging Clinical Applications of Ketamine and Esketamine Across Psychiatric Disorders.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42538887/",
+      "source": "PubMed",
+      "abstract": "Over the past 25 years, the field of psychiatry has seen a rapid expansion of ketamine treatment services offered for the off-label management of depression, anxiety, and other psychiatric disorders as well as the U.S. Food and Drug Administration's approval of intranasal esketamine, the S-enantiomer of ketamine, for treatment-resistant depression and suicidal depression. In this review, the authors describe recent advances in the use of ketamine and esketamine for the treatment of depression and other psychiatric disorders, new research on novel treatment targets, and emerging evidence about ketamine's potential as a prophylactic intervention. Key outstanding issues and limitations of current ketamine treatment also are discussed.",
+      "date": "2026-04-04",
+      "authors": [
+        "Fremont Rachel",
+        "Corwin Marcella",
+        "Kandel Greta"
+      ],
+      "doi": "10.1176/appi.focus.20250046"
+    },
+    {
+      "title": "Use of Ketamine and Esketamine in the Pediatric Population: Current Evidence and Clinical Applications.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42538882/",
+      "source": "PubMed",
+      "abstract": "Ketamine is a well-established anesthetic agent that is gaining increasing recognition for its diverse therapeutic applications, including the management of chronic pain, refractory status epilepticus, major depressive disorder, and suicidality. Although it has been used clinically since the 1960s, multiple clinical trials with ketamine and esketamine in adults and pediatric populations are ongoing. There has been recent growing interest in ketamine and esketamine for psychiatric conditions in children and adolescents. The clinical use of ketamine is complex, in part because of the numerous available formulations and administration routes. Ketamine has different bioavailability depending on the route of administration: intravenous (100%), intramuscular (64%-93% in adults, 41% in pediatric populations), intranasal (43%-48% in adults, 50% in pediatric populations), sublingual (29%-32%), rectal (25%-30%), epidural (77%), and oral (17%-18%), which is due to extensive first-pass hepatic metabolism. Differences in dosing also produce distinct clinical effects. The challenges associated with ketamine use are further magnified in pediatric populations, for which developmental stage, pharmacokinetics, and neurodevelopmental factors play critical roles in guiding safe and effective treatment. In this review, the authors summarize the pharmacodynamics, pharmacokinetics, adverse effects and contraindications, and clinical applications of ketamine and esketamine among adult and pediatric populations.",
+      "date": "2026-04-04",
+      "authors": [
+        "Pak Thomas Kun",
+        "Kimatian Stephen",
+        "Emslie Graham"
+      ],
+      "doi": "10.1176/appi.focus.20250040"
+    },
     {
       "title": "Cardiovascular safety of psilocybin in psychiatric practice: a narrative review.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42538465/",
@@ -90,173 +256,6 @@
         "Serretti Alessandro"
       ],
       "doi": "10.9758/cpn.26.1487"
-    },
-    {
-      "title": "Politically Salient Events May Modulate Effects of Naturalistic Psychedelic Use on Support for Partisan Violence.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42524221/",
-      "source": "PubMed",
-      "abstract": "Previous research indicates that psychedelics may produce outcomes that are dependent on the immediate context. Recent scholarship hypothesizes that such outcomes may also depend on the broader sociocultural context, but empirical data are lacking. Using a longitudinal observational research design with a large sample of US adults ( Of the 21,990 participants who completed the survey at baseline, 12,345 completed the survey at follow-up. Among the participants who completed the survey at follow-up, 505 reported psychedelic use during the two-month study period, with 19 having had the most intense psychedelic experience on the Fourth of July and 486 having had the most intense psychedelic experience on another date. The primary analyses showed an association between having had the most intense psychedelic experience on the Fourth of July and decreased support for partisan violence, with exploratory analyses yielding a similar association for the date of the Trump assassination attempt. By contrast, other exploratory analyses showed that having had the most intense psychedelic experience on any of the dates of the national party conventions or on a date closer to Election Day was associated with increases in support for partisan violence. Taken together, the results suggest that naturalistic psychedelic use on the Fourth of July and other dates of politically salient events may modulate support for partisan violence in directions that depend on the political nature of the events. While future replications are needed to validate these findings, it appears the broader sociocultural context could influence outcomes following naturalistic psychedelic use.",
-      "date": "2026-06-22",
-      "authors": [
-        "Simonsson Otto",
-        "Hendricks Peter S",
-        "Osika Walter"
-      ],
-      "doi": "10.1177/28314425261444135"
-    },
-    {
-      "title": "Effects of cigarette greenwashing advertising on behavioral economic demand, puff topography, and health risk perception.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42522159/",
-      "source": "PubMed",
-      "abstract": "Greenwashing tactics involve advertising products as ecofriendly and/or natural, which may reduce perceived health risk. We tested the effect of greenwashing advertising tactics on cigarette demand, puff topography, and perceived health risk. Young adults (N = 31) who smoke cigarettes completed a within-subject experiment involving two topography and seven operant demand sessions. Participants were exposed to advertising for novel cigarette \"brands.\" One brand was advertised using greenwashing tactics, whereas the other brand included matched control tactics. Unknown to participants, both conditions used the same commercial cigarette brand. During topography sessions, participants smoked cigarettes ad lib and puff topography data were collected. During demand sessions, cigarettes were concurrently available at varying prices. No significant differences were observed for puff-topography measures (d",
-      "date": "2026-Sep",
-      "authors": [
-        "Strickland Justin C",
-        "Naudé Gideon P",
-        "Gelino Brett W"
-      ],
-      "doi": "10.1002/jeab.70133"
-    },
-    {
-      "title": "Convergent neuroimmune signaling underlying rapid antidepressant response to ketamine and psychedelics.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42521762/",
-      "source": "PubMed",
-      "abstract": "Despite distinct receptor targets, both ketamine and serotonergic psychedelics produce a rapid clinical response and share biological signatures that suggest convergence on common downstream molecular mediators. To identify shared biomarkers of rapid antidepressant response, this study integrated CSF proteomics from healthy volunteers (HVs) who received intravenous ketamine with transcriptomic analyses from induced pluripotent stem cells (iPSCs) derived from participants with treatment-resistant depression (TRD) and HVs; iPSCs were treated with ketamine, its metabolite (2 R,6 R)-hydroxynorketamine, lysergic acid diethylamide (LSD), or psilocybin. Multimodal clinical characterization (transcriptomics (n = 16 TRD; 11 HV), magnetoencephalography (MEG) (n = 30 TRD; 25 HV), and plasma cytokines (n = 39 TRD; 25 HV) were also performed on TRD and HV participants who received a single dose of intravenous ketamine (0.5 mg/kg) or placebo. Conserved immune pathways were identified across CSF and iPSC neurons with interleukin-15 (IL)-15 and monocyte chemoattractant protein-1 (MCP-1) emerging as key regulatory hubs. Transcriptomically, in whole blood, ketamine responders exhibited decreased IL-15 and elevated B-cell signaling pathways at baseline that were reversed post-treatment. At the protein level, plasma IL-7 levels (primary B-cell driver) correlated with baseline MEG gamma power, reaching brain-wide significance across all participants (main effect p",
-      "date": "2026-07-28",
-      "authors": [
-        "Jones Gregory H",
-        "Gilbert Jessica R",
-        "Johnston Jenessa N"
-      ],
-      "doi": "10.1038/s41380-026-03777-z"
-    },
-    {
-      "title": "Dimensional effect profiles in treatment-resistant depression: A naturalistic, prospective head-to-head comparison of arTMS, esketamine nasal spray, and oral brexpiprazole.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42521097/",
-      "source": "PubMed",
-      "abstract": "Treatment-resistant depression (TRD) is a heterogeneous condition in which symptoms such as anhedonia, rumination, and anxiety contribute to persistent disability. Esketamine nasal spray (ESK-NS), accelerated repetitive transcranial magnetic stimulation (arTMS), and adjunctive brexpiprazole represent novel therapeutic options with distinct mechanisms, though their domain-specific effects in real-world settings remain unclear. To compare short-term changes in depressive severity across ESK-NS, arTMS, and brexpiprazole, and to explore treatment-related effects on anhedonia, rumination, anxiety, and item-level depressive symptoms. One hundred and one individuals with TRD were enrolled in a prospective, naturalistic, three-arm study and treated with ESK-NS, arTMS (accelerated left DLPFC protocol), or brexpiprazole augmentation (1-2 mg/day). Assessments were conducted at baseline and after one month. All treatments produced significant reductions in overall depressive severity and anhedonia. Rumination showed a significant time-by-treatment interaction, with greater improvement under brexpiprazole. Item-level analyses suggested partially distinct profiles, with brexpiprazole preferentially improving pessimistic and ruminative symptoms, ESK-NS enhancing affective responsiveness and cognitive symptoms, and both ESK-NS and arTMS contributing to anxiolysis. In routine clinical practice, ESK-NS, arTMS, and brexpiprazole were associated with short-term improvement in TRD, with exploratory signals of partially distinct symptom-domain profiles. These findings support the value of dimensional assessment in TRD and warrant confirmation in randomized studies with longer follow-up.",
-      "date": "2026-07-28",
-      "authors": [
-        "d'Andrea Giacomo",
-        "Cavallotto Clara",
-        "Susini Ottavia"
-      ],
-      "doi": "10.1016/j.jad.2026.122333"
-    },
-    {
-      "title": "Feasibility, safety and preliminary effects of ibogaine in patients with moderate and severe alcohol use disorder: a pilot, open-label study.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42520175/",
-      "source": "PubMed",
-      "abstract": "Ibogaine is a natural hallucinogen with emerging evidence for treating substance use disorders. However, its cardiovascular effects are not fully known, and most clinical data focus on opioid dependence, with limited data for Alcohol Use Disorder (AUD). This study assessed the feasibility, safety, and preliminary effects of ibogaine in patients with AUD. In this preliminary open-label, pilot, feasibility study, nine adults with moderate to severe AUD received oral ibogaine hydrochloride in a sequential order: volunteer 1 20/40/80 mg; volunteer 2 80/160/240 mg, volunteer 3: 240/320 mg, and the next six received a single 400 mg dose. Participants were hospitalized 24-48 hours before dosing with continuous monitoring. Primary outcome included safety measures (QTc interval, vital signs, laboratory tests, adverse effects, and psychiatric assessments). Secondary outcome included alcohol and substance use. QTc alterations, including transient prolongation and shortening, occurred in five patients. Mild/moderate blood pressure alterations were also observed. Mild/moderate adverse effects were common (drowsiness, nausea, anxiety), particularly at higher doses (240-400 mg). No serious adverse effects were observed, but two patients needed medication for psychomotor agitation, insomnia and hypertension. Most participants reported reductions in alcohol use, but only five completed the study. Moderate doses of ibogaine showed a cardiotoxic potential that demands rigorous cardiovascular screening and continuous monitoring. Patients reported reduced substance use, but motivation and placebo effects could explain these results. Randomized controlled trials are needed to confirm efficacy and establish protocols with safety parameters.",
-      "date": "2026-07-28",
-      "authors": [
-        "Rocha Juliana Mendes",
-        "Maekawa Renan Massanobu",
-        "Reis José Augusto Silva"
-      ],
-      "doi": "10.47626/2237-6089-2026-1437"
-    },
-    {
-      "title": "Adjunctive Pharmacotherapy for Major Depressive Disorder with Anxiety Symptoms: from Monoamines to Recent Clinical Evidence.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42518156/",
-      "source": "PubMed",
-      "abstract": "Anxiety symptoms are common in patients with major depressive disorder (MDD). The presence of anxiety symptoms can indicate greater depression severity, and is associated with a higher comorbidity burden, suicidality, lower levels of functioning, and poorer quality of life. The presence of anxiety identifies patients who are likely to experience significant burden from MDD despite standard treatment. Although clinical guidelines provide recommendations for adjunctive treatment in patients who have not responded to an antidepressant, there are currently limited recommendations specifically for patients with MDD and anxiety symptoms. Dysregulation of the monoamine system, notably noradrenaline (norepinephrine), serotonin, and dopamine signalling, has been implicated in the pathophysiology of MDD and of anxiety disorders, based mainly on preclinical, mechanistic and translational evidence. This review has two aims: (1) to explore the hypothetical role of monoamine signalling in patients with MDD with anxiety symptoms, and (2) to provide a comprehensive overview of clinical data for pharmacotherapies recommended for the first- and second-line adjunctive treatment of difficult-to-treat MDD, focusing on recent studies and analyses of patients with MDD with anxiety symptoms. Reviewed treatments included atypical antipsychotics (aripiprazole, brexpiprazole, olanzapine, quetiapine XR, risperidone, cariprazine), bupropion, ketamine/esketamine, lithium, mirtazapine/mianserin, modafinil, and triiodothyronine. Clinical data in patients with MDD with anxiety symptoms were scarce or lacking for olanzapine, risperidone, cariprazine, lithium, modafinil, and triiodothyronine. Aripiprazole, brexpiprazole, quetiapine XR, and ketamine/esketamine have been shown to improve depression and/or anxiety symptoms in patients with MDD with anxiety symptoms, although evidence is mainly short-term and derived from exploratory post hoc analyses of trials not designed to assess anxiety outcomes. Treatment decisions for patients with MDD with anxiety symptoms should be based on robust clinical data, and there is an unmet need for prospective clinical trials with anxiety-specific endpoints in this patient population.",
-      "date": "2026-07-28",
-      "authors": [
-        "McIntyre Roger S",
-        "Kato Masaki",
-        "Thase Michael E"
-      ],
-      "doi": "10.1007/s40263-026-01315-7"
-    },
-    {
-      "title": "Candidate Biomarkers of Bipolar Disorder Progression: Implications for Ketamine and Psychedelic Interventions.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42517990/",
-      "source": "PubMed",
-      "abstract": "Bipolar depression is the main driver of disability, suicidality, and treatment resistance in bipolar disorder (BD). The neuroprogression hypothesis proposes that repeated mood episodes and related biological disturbances contribute to worsening outcomes over time. Ketamine and psychedelic interventions have emerged as rapid-acting treatments that engage pathways potentially relevant to these processes. This narrative, hypothesis-generating review synthesized evidence on biomarkers of illness progression in BD together with emerging data on ketamine and psychedelic-assisted interventions. A structured but non-systematic search of PubMed/MEDLINE, Scopus, and Web of Science was conducted in December 2025 and February 2026, prioritizing human BD studies, especially longitudinal and staging-based designs, meta-analyses, systematic reviews, and mechanistically relevant preclinical and early-phase clinical studies. Across studies, more advanced BD was associated with abnormalities in inflammatory signaling, neurotrophic regulation, structural and functional neuroimaging, and epigenetic processes. However, findings were heterogeneous, often modest in effect size, and frequently based on cross-sectional designs. Many candidate biomarkers appeared more closely related to current mood state than to cumulative illness progression. Peripheral BDNF and inflammatory markers showed limited specificity, functional neuroimaging findings were largely state-dependent, and epigenetic alterations were focal and context-sensitive rather than uniform. Ketamine and psychedelic compounds modulated several of these same pathways in preclinical models and, to a lesser extent, in human studies, although most mechanistic clinical evidence was derived from unipolar treatment-resistant depression rather than BD. Preliminary bipolar-specific studies, mainly in bipolar II depression, suggest possible feasibility and antidepressant effects of psilocybin- and 5-MeO-DMT-derived interventions under carefully controlled conditions. Current evidence supports dynamic multisystem biological abnormalities in BD but does not yet establish a reliable biomarker framework for staging or neuroprogression. Ketamine and psychedelic interventions are mechanistically relevant, but evidence for true disease modification or clinical downstaging in BD remains indirect. Longitudinal, multimodal, within-subject studies are needed to distinguish state-related changes from cumulative progression and to link biomarker change with meaningful clinical outcomes.",
-      "date": "2026-07-28",
-      "authors": [
-        "Wilkowska Alina",
-        "Nizgorska-Ohler Julia",
-        "Cubała Wiesław Jerzy"
-      ],
-      "doi": "10.1007/s12035-026-06086-2"
-    },
-    {
-      "title": "Hepatic Safety of Ketamine and Esketamine for Treatment-Resistant Depression: A Real-World Cohort Study.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42517206/",
-      "source": "PubMed",
-      "abstract": "Ketamine and esketamine are increasingly used for treatment-resistant depression (TRD), yet their hepatic safety profile with repeated or long-term use remains poorly characterized. Chronic recreational ketamine abuse has been linked to cholestasis and cholangiopathy, raising concern that therapeutic use may carry similar risks. No systematic data exist on liver enzyme trajectories or biliary injury at subanesthetic doses used for depression. This historical cohort study included adults with TRD receiving IV ketamine or intranasal (IN) esketamine at the Mayo Clinic Ketamine Clinic (2017 to 2024). Patients were eligible if they had at least one liver enzyme value (AST, ALT, ALP, or bilirubin) within 12 months before through 3 months after treatment. Longitudinal enzyme trajectories were modeled using generalized linear-mixed models with a Gamma distribution. Clinically significant elevation was defined as ≥2× the upper limit of normal (ULN). Wilcoxon signed-rank tests compared pretreatment and post-treatment paired values. Of 104 enrolled patients, 74 had liver enzyme data available; 51 had post-initiation data. Median age was 51.5 years; 72% were female. Most (78.4%) received IV ketamine. No clinically meaningful changes in enzyme trajectories were observed. Three patients (5.9%) had elevations ≥2× ULN, all attributable to alcohol use, myalgias, or pre-existing hepatic steatosis rather than (es)ketamine. Subanesthetic IV ketamine (0.5 mg/kg) and FDA-approved IN esketamine doses were not associated with clinically significant liver enzyme elevations in this real-world TRD cohort. Current evidence does not support routine hepatic monitoring for asymptomatic patients, although prospective, larger-scale studies are needed to confirm these findings.",
-      "date": "2026-07-28",
-      "authors": [
-        "Singh Balwinder",
-        "Leung Jonathan G",
-        "Pazdernik Vanessa K"
-      ],
-      "doi": "10.1097/JCP.0000000000002228"
-    },
-    {
-      "title": "Systems-based psychiatry: insights from psychedelic research on mechanisms of healing.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42517136/",
-      "source": "PubMed",
-      "abstract": "Current psychiatric models, while clinically valuable, remain limited in their ability to account for the complexity, variability, and context dependence of mental disorders. Converging evidence from neuroscience, complexity science, and psychedelic research suggests that psychiatric symptoms may be better understood as stable patterns of organization within dynamic, multilevel systems rather than as outputs of isolated biological dysfunction. This paper proposes a systems-based framework in which therapeutic change is conceptualized as a phased process of perturbation, reorganization, and consolidation. Within this model, interventions act by modulating system stability and plasticity, with outcomes determined by interactions among biological, psychological, relational, and environmental factors over time. Psychedelic-assisted therapies provide a particularly revealing case, as they reliably induce transient destabilization of entrenched patterns, increasing flexibility and enabling reorganization under supportive conditions. This formulation suggests a generalizable mechanism of healing across modalities: the strategic destabilization of rigid system states followed by the consolidation of more adaptive configurations. Accordingly, recovery is reframed not as symptom reduction alone, but as increased coherence, flexibility, and adaptive capacity across domains of functioning. This perspective has implications for assessment, ethics, clinical implementation, and research design, including the need for longitudinal, context-sensitive outcome measures and hybrid methodologies. A systems-based psychiatry does not replace mechanistic models but reorganizes them within a framework that accommodates emergence, temporal dynamics, and context, offering a foundation for more integrative and preventive approaches to mental health care.",
-      "date": "2026-07-13",
-      "authors": [
-        "Shannon Scott",
-        "Weil Andrew"
-      ],
-      "doi": "10.3389/fpsyt.2026.1789902"
-    },
-    {
-      "title": "Incidence, prevalence and determinants of substance-induced mental disorders in British Columbia, 2022-2023: a population-based study.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42516034/",
-      "source": "PubMed",
-      "abstract": "Substance-induced mental disorders (SIMD) are an under-recognized consequence of psychoactive substance use, despite major implications for treatment needs, health service demand and outcomes. In the context of British Columbia's (BC's) ongoing toxic drug emergency, we aimed to (1) estimate the incidence and prevalence of SIMD in the provincial population and (2) describe socio-demographic, geographic, clinical and substance-specific patterns over a two-year period. We conducted a retrospective, population-based study using linked administrative health data from Population Data BC for residents aged ≥12 years between 1 January 2022 and 31 December 2023. SIMD cases were identified using a novel algorithm combining diagnostic codes with temporal linkage between substance-related events (poisoning, withdrawal or substance use disorder) and subsequent psychiatric diagnoses. Incident cases had no record of the same mental disorder in the previous two years; prevalent cases met SIMD criteria at any point in the study period. We calculated monthly, annual and cumulative incidence and prevalence rates per 10,000 population, stratified by sex, age group, health authority, urban/rural residence, neighbourhood income, psychiatric diagnosis, substance class, concurrent substance use disorder, involuntary treatment and mortality. We identified 37,474 incident and 83,307 prevalent SIMD cases over two years, corresponding to a cumulative incidence of 77.5 and prevalence of 171.4 per 10,000 population. Monthly rates fluctuated in 2022, followed by a rise through 2023, with highest incidence (35.2 per 10,000) and prevalence (328.3 per 10,000) in May 2023. Males accounted for 62% of incident and 59% of prevalent cases; mean age was 43 years, with highest proportions in the 25-44 age range. Northern and Vancouver Island Health Authorities had the greatest burden. On average, individuals with SIMD had 3.2-3.6 healthcare visits per month. Cannabis- and hallucinogen-induced disorders were concentrated among younger people, while alcohol- and tobacco-related SIMD predominated in older adults; stimulant-related SIMD showed the highest hospitalization and involuntary treatment rates. Only about one-third of prevalent and fewer than one in five incident cases had a recorded concurrent substance use disorder. SIMDs are common, clinically complex and unevenly distributed across demographic and geographic groups in BC. The high rates, substantial service use and frequent occurrence outside documented substance use disorder diagnoses underscore the need for improved detection of SIMD, integration of psychiatric and addiction care and regionally tailored prevention and treatment strategies within the ongoing toxic drug emergency.",
-      "date": "2026-07-28",
-      "authors": [
-        "Mohebbian Mana",
-        "Schütz Christian G",
-        "Kassam Rosemin"
-      ],
-      "doi": "10.1017/S2045796026100869"
-    },
-    {
-      "title": "Esketamine in Treatment-Resistant Depression: Clinical and Translational Perspectives.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42515873/",
-      "source": "PubMed",
-      "abstract": "Esketamine, an intranasally administered N-methyl-D-aspartate (NMDA) receptor antagonist, represents a significant advancement in the treatment of Major Depressive Disorder (MDD), particularly among patients with Treatment-Resistant Depression (TRD). Its therapeutic effects are associated with rapid enhancement of glutamatergic neurotransmission and downstream activation of the α-amino-3-hydroxy-5-methyl-4-isoxazolepropionic acid (AMPA) receptor-Brain-Derived Neurotrophic Factor (BDNF)-mechanistic Target Of Rapamycin (mTOR) signaling pathway, which is implicated in synaptic plasticity. This mini-review aims to synthesize current clinical and translational evidence on intranasal esketamine in TRD. This mini-review provides an integrative overview of clinically relevant and translational studies on intranasal esketamine, based on a focused search of the PubMed and Scopus databases. Peer-reviewed clinical trials, meta-analyses, mechanistic studies, and regulatory documents were included. Evidence from randomized controlled trials demonstrates a rapid onset of antidepressant effects, often within hours of administration, with consistent reductions in depressive symptom severity. Effects on clinician-rated suicidality were variable across studies. The most common adverse events include transient dissociation, dizziness, and modest increases in blood pressure, which are generally self-limiting. Overall, the available evidence supports intranasal esketamine as an effective rapid-acting treatment for TRD, with a favorable benefit-risk profile under supervised clinical use. However, important considerations remain regarding optimal patient selection, maintenance strategies, and long-term outcomes. Esketamine offers a clinically meaningful option for patients unresponsive to conventional monoaminergic treatments. Key unresolved issues include the development of predictive biomarkers, optimization of maintenance regimens, integration with psychotherapy, and evaluation of long-term cognitive and functional outcomes.",
-      "date": "2026-07-22",
-      "authors": [
-        "Śledzikowska Zofia",
-        "Pasternak Agata Marianna",
-        "Wojciechowski Ksawery"
-      ],
-      "doi": "10.2174/011570159X465328260703100233"
-    },
-    {
-      "title": "[Illicit use of classic psychedelics and suicidality: A systematic literature review].",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42509061/",
-      "source": "PubMed",
-      "abstract": "Given the contrasting results available in the literature, the objective of this systematic review was to investigate the specific impact of illicit use of classic psychedelics (psilocybin, LSD, DMT, mescaline) on suicidality (suicidal ideation, suicide planning, suicide attempts, suicides). According to PRISMA criteria, a systematic review of the literature was carried out in March 2026 in the PubMed-Medline and Scopus databases. The sequences of keywords used were as follows: (\"Hallucinogens\" [Mesh] or Hallucinogens or Psychedelics or \"Psilocybin\" [Mesh] or Psilocybin or \"N,N-Dimethyltryptamine\" [Mesh] or N,N-Dimethyltryptamine or \"Lysergic Acid Diethylamide\" [Mesh] or Lysergic Acid Diethylamide or \"Mescaline\" [Mesh] or Mescaline) and (\"Suicide\" [Mesh] or Suicide or \"Suicidal Ideation\" [Mesh] or Suicidal Ideation or \"Self-Injurious Behavior\" [Mesh] or Self-Injurious Behavior or \"Suicide, Attempted\" [Mesh] or Suicide Attempt) for the PubMed-Medline database and (TITLE-ABS-KEY (\"Hallucinogens\" or \"Psychedelics\" or \"Psilocybin\" or \"N,N-Dimethyltryptamine\" or \"Ayahuasca\" or \"Lysergic Acid Diethylamide\" or \"LSD\" or \"Mescaline\" or \"Peyote\") and TITLE-ABS-KEY (\"Suicide\" or \"Suicidal Ideation\" or \"Self-Injurious Behavior\" or \"Suicide Attempt\") for the Scopus database. The inclusion criteria applied for the selection of articles in this systematic review were: (1) article with separate analyses available specifically targeting the effect of illicit use of classic psychedelics on suicidality in subjects aged at least 12 years (adolescents and adults); (2) all types of studies (cross-sectional, longitudinal, prospective, retrospective, interventional, and experimental) with the exception of literature reviews, clinical case descriptions, letters to the editor, editorials, study protocols, conference papers and preprints; (3) article published between 01/01/2015 and 31/12/2025; (4) article available in full version; and (5) article written in English or French. After assessment by the two authors of the 970 articles identified, 11 studies specifically investigating the effect of illicit consumption of classic psychedelics on suicidality were selected. The association between illicit use of classic psychedelics and suicidality appears to vary greatly depending on the substance considered: significant association between psilocybin use and reduced suicidality, significant association between LSD/DMT use and increased suicidality, and no association between mescaline use and suicidality. All 11 studies included in this review were characterized by low methodological quality and limited scientific evidence. This systematic review highlights a complex relationship between the illicit use of classic psychedelics and suicidality. These different effects depending on the substance used could be explained by the existence of different neurobiological mechanisms, distinct psychological experiences, specific contexts of use, and individual vulnerabilities. However, the interpretation of these results must remain cautious due to the major methodological limitations of the selected studies which underscores the need for further prospective longitudinal studies to better understand this relationship between the illicit use of classic psychedelics and suicidality. Finally, based on the preliminary results of this systematic review, the highlighting of this significant association between reduced suicidality and illicit psilocybin use without adequate \"set and setting\" seems to justify the implementation of randomized controlled trials in a strict and secure medical setting in order to determine the possible role of this substance in the prevention and management of suicidality.",
-      "date": "2026-07-27",
-      "authors": [
-        "Pereira de Oliveira Ana Beatriz",
-        "Hein Matthieu"
-      ],
-      "doi": "10.1016/j.encep.2026.04.004"
-    },
-    {
-      "title": "CB1R-dependent mitochondrial biogenesis may contribute to the antidepressant effects of esketamine in a chronic variable stress male mouse model.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42508525/",
-      "source": "PubMed",
-      "abstract": "Major depressive disorder (MDD) is a leading cause of disability worldwide, and current antidepressants are limited by delayed onset and incomplete efficacy. Esketamine produces antidepressant effects more rapidly than conventional treatments, but its underlying mechanisms remain unclear. We examined whether cannabinoid type 1 receptor (CB1R) signaling is associated with hippocampal mitochondrial biogenesis-related changes following esketamine treatment in a chronic variable stress (CVS) mouse model. Mice underwent 21 days of CVS and received a single intraperitoneal injection of esketamine (15 mg/kg) 24 h before behavioral testing. Hippocampal CB1R, nuclear respiratory factor 1 (NRF1), mitochondrial transcription factor A (TFAM), and total cytochrome c expression were assessed by Western blotting. Additional groups received the CB1R antagonists AM251 or SR141716A before esketamine administration. CVS induced depressive-like behavioral changes in the forced swim, tail suspension, and novelty-suppressed feeding tests. These effects were accompanied by reduced hippocampal CB1R, NRF1, and TFAM expression and altered total cytochrome c expression. Esketamine reversed the behavioral abnormalities and normalized these molecular changes. Pretreatment with either CB1R antagonist prevented both the behavioral and molecular effects of esketamine. These findings indicate that the antidepressant-like effects of esketamine observed 24 h after administration are associated with CB1R-dependent changes in hippocampal mitochondrial biogenesis-related protein expression. Further studies using direct mitochondrial functional assays and loss-of-function approaches are needed to establish causality.",
-      "date": "2026-07-27",
-      "authors": [
-        "Zhao Wei",
-        "Zhao Xinxin",
-        "Zhang Yunyun"
-      ],
-      "doi": "10.1016/j.neuroscience.2026.07.059"
     },
     {
       "title": "Psychedelic Alpha Crossword: Summer 2026",
@@ -571,7 +570,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2018-004480-31/CZ",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-08-01",
+      "date": "2026-08-02",
       "authors": [],
       "doi": ""
     },
@@ -580,7 +579,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2020-005037-32/CZ",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-08-01",
+      "date": "2026-08-02",
       "authors": [],
       "doi": ""
     },
@@ -589,7 +588,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2021-002909-10/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-08-01",
+      "date": "2026-08-02",
       "authors": [],
       "doi": ""
     },
@@ -598,7 +597,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2015-000550-37/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-08-01",
+      "date": "2026-08-02",
       "authors": [],
       "doi": ""
     },
@@ -607,7 +606,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2021-000041-40/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-08-01",
+      "date": "2026-08-02",
       "authors": [],
       "doi": ""
     },
@@ -616,7 +615,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2020-000829-55/DK",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-08-01",
+      "date": "2026-08-02",
       "authors": [],
       "doi": ""
     },
@@ -625,7 +624,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2020-002790-94/SE",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-08-01",
+      "date": "2026-08-02",
       "authors": [],
       "doi": ""
     },
@@ -634,7 +633,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2021-006200-33/FI",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-08-01",
+      "date": "2026-08-02",
       "authors": [],
       "doi": ""
     },
@@ -643,7 +642,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2019-004812-73/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-08-01",
+      "date": "2026-08-02",
       "authors": [],
       "doi": ""
     },
@@ -652,7 +651,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2022-002369-14/BE",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-08-01",
+      "date": "2026-08-02",
       "authors": [],
       "doi": ""
     },

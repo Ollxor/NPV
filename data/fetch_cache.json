@@ -1,6 +1,6 @@
 {
-  "date": "2026-08-02",
-  "cached_at": "2026-08-02T08:20:10.625969+00:00",
+  "date": "2026-08-03",
+  "cached_at": "2026-08-03T09:38:43.732268+00:00",
   "articles": [
     {
       "title": "How high ventilation breathwork alters consciousness: Hypoperfusion, network dynamics, and subjective experience.",
@@ -14,6 +14,19 @@
         "Vlădoiu Anamaria-Domnica"
       ],
       "doi": "10.1016/j.pnpbp.2026.111873"
+    },
+    {
+      "title": "Psilocybin for Fear of Cancer Recurrence.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42541603/",
+      "source": "PubMed",
+      "abstract": "",
+      "date": "2026-08-01",
+      "authors": [
+        "Cho Matthew",
+        "Rosenbaum Daniel",
+        "Hapke Emma"
+      ],
+      "doi": "10.1007/s00520-026-11065-3"
     },
     {
       "title": "Ketamine for substance use disorders: a systematic review and meta-analysis.",
@@ -66,19 +79,6 @@
         "Vest M Frances"
       ],
       "doi": "10.1177/28314425251381806"
-    },
-    {
-      "title": "Psilocybin for Fear of Cancer Recurrence.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42541603/",
-      "source": "PubMed",
-      "abstract": "",
-      "date": "2026-08-01",
-      "authors": [
-        "Cho Matthew",
-        "Rosenbaum Daniel",
-        "Hapke Emma"
-      ],
-      "doi": "10.1007/s00520-026-11065-3"
     },
     {
       "title": "Therapeutic Potential of Psilocybin in Psychiatric Disorders: Mechanisms, Efficacy, and Clinical Implications.",
@@ -570,7 +570,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2018-004480-31/CZ",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-08-02",
+      "date": "2026-08-03",
       "authors": [],
       "doi": ""
     },
@@ -579,7 +579,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2020-005037-32/CZ",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-08-02",
+      "date": "2026-08-03",
       "authors": [],
       "doi": ""
     },
@@ -588,7 +588,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2021-002909-10/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-08-02",
+      "date": "2026-08-03",
       "authors": [],
       "doi": ""
     },
@@ -597,7 +597,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2015-000550-37/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-08-02",
+      "date": "2026-08-03",
       "authors": [],
       "doi": ""
     },
@@ -606,7 +606,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2021-000041-40/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-08-02",
+      "date": "2026-08-03",
       "authors": [],
       "doi": ""
     },
@@ -615,7 +615,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2020-000829-55/DK",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-08-02",
+      "date": "2026-08-03",
       "authors": [],
       "doi": ""
     },
@@ -624,7 +624,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2020-002790-94/SE",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-08-02",
+      "date": "2026-08-03",
       "authors": [],
       "doi": ""
     },
@@ -633,7 +633,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2021-006200-33/FI",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-08-02",
+      "date": "2026-08-03",
       "authors": [],
       "doi": ""
     },
@@ -642,7 +642,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2019-004812-73/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-08-02",
+      "date": "2026-08-03",
       "authors": [],
       "doi": ""
     },
@@ -651,7 +651,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2022-002369-14/BE",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-08-02",
+      "date": "2026-08-03",
       "authors": [],
       "doi": ""
     },
@@ -681,105 +681,103 @@
       "doi": "10.2174/0115734072383313250602052217"
     },
     {
-      "title": "Intensity and Visual Content Dissociate in DMT: Dynamic Integration-Complexity Predicts One, Spatial Configuration the Other",
-      "url": "https://doi.org/10.5281/zenodo.20627783",
+      "title": "A cross-national comparison of nonmedical and medical use of psychedelic drugs in the international cannabis policy study",
+      "url": "https://doi.org/10.1016/j.drugpo.2026.105348",
       "source": "OpenAIRE",
-      "abstract": "Abstract  Background. The intensity and content of conscious experience are theoretically separable, but rarely dissociated empirically within one dataset using EEG. Existing consciousness measures typically capture level or state without addressing content, or decode content without indexing intensity. No existing measure tracks the dynamic rate of integration-complexity reconfiguration.  Results. We introduce mac_I (mean absolute change of CGI, where CGI = √(φ × ρ); φ = global coherence, ρ = Lempel-Ziv complexity), a rate-of-change measure of the integration-complexity geometric mean. In inhaled-DMT EEG (N = 35), mac_I predicted subjective experience intensity (Spearman ρ = 0.41, p = 0.016, surrogate-validated). Five alternative rate-of-change measures (coherence alone, complexity alone, broadband power, alpha power, aperiodic slope) all failed. The formula is specific and non-replaceable. Separately, EEG microstate spatial configuration (PAT_PC1) predicted visual content type (complex vs elementary imagery; ρ = 0.56, p < 0.001), while being orthogonal to intensity. The two measures formed a pre-specified double dissociation: each predicted its target and failed to predict the other’s (Steiger’s test: p = 0.007 for the pattern arm). The dissociation did not generalise to psilocybin (N = 57, all tests null).  Conclusion. mac_I is a formula-specific, surrogate-validated predictor of DMT experience intensity that dissociates from spatial content encoding. The double dissociati",
-      "date": "2026-06-09",
+      "abstract": "Background We know little about the extent psychedelic substances are consumed therapeutically and/or discussed with medical professionals despite renewed global interest in these substances. Methods We examined self-reported responses from the 2023 International Cannabis Policy Study (ICPS) in repeated cross-sectional surveys in Canada, the United States, Australia, and New Zealand. The survey included questions on lifetime, past year, and past month use of psilocybin, LSD, MDMA, and ketamine. It inquired about respondents’ discussions with medical professionals, their self-reported medical use, and related adverse events. We estimate the mean proportion rate for each of these using logistic regression methods that adjust for demographics, country, and sampling weights. Findings Estimated results suggest nineteen per cent of all ICPS respondents reported lifetime use of one of the four substances. Psilocybin was the most commonly estimated to be used in one’s lifetime and in the past year, followed by LSD and MDMA. Estimated prevalences of ever using psilocybin were higher among respondents from Canada (16.3%, CI: 15.6–16.9%) than the USA (13.0%, CI: 12.3–13.6%) and New Zealand (12.1%, CI: 10.4–13.8%). Estimated rates of psilocybin ever use in Australia were significantly lower (7.8%, CI: 6.8–8.8%). An estimated 10–20% of respondents who report ever-use of a psychedelic asked their medical provider about medical use, and over a third who had used in the past year reported ex",
+      "date": "2026-08-01",
       "authors": [
-        "Dobbin, Emma"
+        "Myfanwy Graham",
+        "Yimin Ge",
+        "Rosalie Liccardo Pacula"
       ],
-      "doi": "10.5281/zenodo.20627783"
+      "doi": "10.1016/j.drugpo.2026.105348"
     },
     {
-      "title": "Lifetime psychedelic use and opioid use disorder severity in a National Survey: the roles of psychedelic type and mental health",
-      "url": "https://doi.org/10.1016/j.addbeh.2026.108652",
+      "title": "Theory of Everything",
+      "url": "https://doi.org/10.5281/zenodo.21223975",
       "source": "OpenAIRE",
-      "abstract": "Opioid use disorder (OUD) remains a major public health crisis in the United States, with mental health disorders substantially increasing risk severity. Emerging evidence suggests psychedelics may relate to reduced OUD risk. This exploratory study examined associations between lifetime psychedelic use and OUD severity and tested whether these associations varied by mental health impairment.Structural equation modeling of the cross-sectional 2023 U.S. National Survey on Drug Use and Health with multiple-group moderation (n = 45,133 adults). OUD severity was the primary outcome. Independent variables were two psychedelic factors derived from factor analysis: mescaline/peyote (Psychedelic_F1) and LSD/psilocybin/MDMA/DMT (Psychedelic_F2). Mental health impairment was modeled as a latent construct and used to define high vs. low impairment groups. Covariates included age, sex, and income.Psychedelic_F1 associated with lower OUD severity (β = -0.34, p = 0.001), whereas Psychedelic_F2 associated with higher severity (β = 0.60, p < 0.001). Mental health impairment positively associated with OUD severity (β = 0.21, p < 0.001). Moderation analyses indicated Psychedelic_F1 related to lower OUD severity only in the high mental health impairment group (β = -0.15, p = 0.041), while the positive association for Psychedelic_F2 was attenuated among those with high impairment (β = 0.38, p < 0.001, vs. β = 0.48, p = 0.004).Psychedelic use patterns showed divergent associations with OUD severit",
-      "date": "2026-06-01",
+      "abstract": "   Theory of Everything     Abstract  The project aims to find the final physical framework that unifies general relativity and quantum field theory. However, instead of searching for a static equation, it adopts the radical hypothesis that reality is a dynamic, self-improving computation. The fundamental loop Substrate_n → Compute_{n+1} → Improved substrate_{n+1} → … describes the process by which physical laws correct themselves until they reach a logically closed, inevitable form. The project explores this computational principle across dozens of iterations and asks what happens when the Compute operator becomes identical to the substrate and all constants, forces, and the very existence of the observer become an enforced necessity.     1. Starting points and motivation     Contemporary physics is divided into two incompatible pillars: Einstein’s geometric theory of gravity and the Standard Model of particle interactions described by quantum fields. Their direct combination leads to mathematical infinities, so a unified language is missing that would describe the Big Bang singularity, the interior of a black hole, or the very nature of spacetime at the Planck scale. In addition, dark matter, dark energy, and the values of fundamental constants remain unexplained. Classical approaches such as superstring theory or loop quantum gravity offer partial candidates, but none has yet provided a testable, internally perfect picture.     This project starts from the assumption that ",
+      "date": "2026-07-06",
       "authors": [
-        "Sebastian Ehmann",
-        "Nathan M. Hager",
-        "Paul S. Regier"
+        "Chodounsky, Michael"
       ],
-      "doi": "10.1016/j.addbeh.2026.108652"
+      "doi": "10.5281/zenodo.21223975"
     },
     {
-      "title": "Psychedelics for treatment of negative symptoms and depressive symptoms in schizophrenia spectrum disorder: A narrative review",
-      "url": "https://doi.org/10.1016/j.schres.2026.03.003",
+      "title": "Classical psychedelic microdosing, mood, and cognitive function: An umbrella review with narrative synthesis",
+      "url": "https://doi.org/10.1177/02698811261456196",
       "source": "OpenAIRE",
-      "abstract": "Serotonergic psychedelics are re-emerging as therapeutic candidates across psychiatry, particularly for treatment-resistant depression. Their rapid and sustained antidepressant effects, alongside evidence for neuroplastic, dopaminergic, and glutamatergic modulation, have prompted interest in whether they could address depressive and negative symptoms in schizophrenia spectrum disorders (SSDs). This narrative review summarizes mechanistic, preclinical, and early clinical findings relevant to psychedelic use in SSDs. Schizophrenia and major depressive disorder share disturbances in dopamine, glutamate, and neuroplasticity, and both involve large-scale network abnormalities. Schizophrenia is associated with widespread dysconnectivity, mesocortical hypodopaminergia, and striatal hyperdopaminergia linked to NMDA receptor hypofunction. Depression is characterized by fronto-limbic and default mode network hyperconnectivity, mesolimbic hypodopaminergia, and reduced cortical glutamatergic tone. Depressive symptoms within SSDs may reflect an intermediate phenotype combining depressive-like hyperconnectivity with schizophrenia-related global dysconnectivity, suggesting that psychedelics' capacity to transiently increase network flexibility and recalibrate maladaptive connectivity may be clinically relevant. Preclinical studies show increased dendritic spine density, enhanced BDNF expression, restored reward sensitivity, and modulation of network dynamics after psychedelic administration",
-      "date": "2026-06-01",
+      "abstract": "<jats:sec>                     <jats:title>Background:</jats:title>                     <jats:p>Psychedelic microdosing—repeated sub-perceptual doses of lysergic acid diethylamide (LSD) or psilocybin—has attracted scientific interest as a potential mood and cognitive intervention. The evidence base remains methodologically heterogeneous and vulnerable to expectancy bias.</jats:p>                   </jats:sec>                   <jats:sec>                     <jats:title>Methods:</jats:title>                     <jats:p>We conducted an umbrella review with narrative synthesis following Joanna Briggs Institute guidance and Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) 2020 standards (International Prospective Register of Systematic Reviews [PROSPERO]: 2020 standards (PROSPERO: CRD420251077340). Six databases were searched through February 2026. Eligible studies were systematic reviews and/or meta-analyses examining microdosing effects (⩽20 μg LSD or ⩽3 mg psilocybin per session) on mood or cognitive outcomes in adults. Quality was appraised with A Measurement Tool to Assess Systematic Reviews-2; primary-study overlap was quantified via corrected covered area (CCA).</jats:p>                   </jats:sec>                   <jats:sec>                     <jats:title>Results:</jats:title>                     <jats:p>                       Three meta-analyses met quantitative criteria, drawing on 14 studies (13 unique samples,                       <jats",
+      "date": "2026-06-28",
       "authors": [
-        "Sabe M.",
-        "Grof P.",
-        "Sackett N. B."
+        "Yiğit Özaydın",
+        "Buket Canlan Özaydın"
       ],
-      "doi": "10.1016/j.schres.2026.03.003"
+      "doi": "10.1177/02698811261456196"
     },
     {
-      "title": "Classic psychedelics and personality: An updated systematic review",
-      "url": "https://doi.org/10.1177/02698811261449386",
+      "title": "The purpose of the psychosocial protocol in the psychedelic-assisted therapy: A scoping review",
+      "url": "https://doi.org/10.1177/02698811261453850",
       "source": "OpenAIRE",
-      "abstract": "<jats:sec>                     <jats:title>Background:</jats:title>                     <jats:p>                       The impact of classic psychedelics (5-HT2A receptor agonists) on personality traits has been studied for decades, and it has been hypothesized that the mechanisms underlying these changes are linked to agonism at cortical serotonergic 5-HT                       <jats:sub>2A</jats:sub>                       receptors. However, research results are contradictory. Therefore, the present paper aims to systematically evaluate the effects of psychedelics on personality, updating (2016–2024) a previous systematic review by Bouso and collaborators (2018). The International Prospective Register of Systematic Reviews ID for this study is CRD42024582704.                     </jats:p>                   </jats:sec>                   <jats:sec>                     <jats:title>Method:</jats:title>                     <jats:p>Systematic review using four databases (PubMed, LILACS, PsycINFO, and SciELO) including randomized controlled trials, open-label, and observational studies. Interventions included the consumption of any classic psychedelic (lysergic acid diethylamide, psilocybin, ayahuasca/dimethyltryptamine, mescaline), and the studies were required to use some instrument for personality assessment. We followed the Preferred Reporting Items for Systematic Reviews and Meta-Analyses guidelines to conduct the data collection.</jats:p>                   </jats:sec>        ",
-      "date": "2026-05-31",
+      "abstract": "<jats:p>                     With growing research on the use of psychedelics to treat mental health conditions, greater attention to the psychosocial procedures accompanying substance administration is warranted. This scoping review aims to categorize psychosocial protocols used in research involving psychedelics as psychiatric treatment according to their purpose, denomination, format, therapeutic orientation, formalization, and duration. Experimental and observational studies were identified through online search platforms, covering Ayahuasca, Dimethyltryptamine, 5-methoxy-                     <jats:italic toggle=\"yes\">N,N</jats:italic>                     -dimethyltryptamine, Lysergic Acid Diethylamide, Ibogaine, Mescaline, 3,4-methylenedioxymethamphetamine, Psilocybin, and 4-hydroxy-                     <jats:italic toggle=\"yes\">N,N</jats:italic>                     -diisopropyltryptamine, yielding 62 eligible studies that were also assessed for methodological quality. Seven categories were defined, reflecting distinct emphases on the substance, participant, research team, and sociocultural context. Although limited reporting and heterogeneity remain methodological challenges, these features reveal divergent research intentions and contextual constraints. The proposed parameters suggest a shared language to describe, compare, and examine psychosocial protocols across studies and reduce conceptual uncertainty in the field. This review may facilitate research decision-maki",
+      "date": "2026-06-26",
       "authors": [
-        "Anna Beatriz Vicentini",
-        "Caio César de Paula",
-        "José Augusto Silva Reis"
+        "Flavia Giaffone de Paiva Ferreira",
+        "João Ariel Bonar Fernandes",
+        "Renato Filev"
       ],
-      "doi": "10.1177/02698811261449386"
+      "doi": "10.1177/02698811261453850"
     },
     {
-      "title": "A systematic review of the pharmacokinetics of classical serotonergic psychedelic compounds in healthy adult subjects",
-      "url": "https://doi.org/10.1177/02698811261453938",
+      "title": "Multi-metric evaluations of acute psychedelic effects on fMRI brain entropy",
+      "url": "https://doi.org/10.1038/s41467-026-74215-5",
       "source": "OpenAIRE",
-      "abstract": "<jats:sec>                     <jats:title>Introduction:</jats:title>                     <jats:p>Despite renewed investigations into classical psychedelic compounds, their pharmacokinetic profiles remain incompletely understood.</jats:p>                   </jats:sec>                   <jats:sec>                     <jats:title>Methods:</jats:title>                     <jats:p>                       This systematic review collated data from healthy adult volunteers on the pharmacokinetic properties of lysergic acid diethylamide (LSD), psilocybin, dimethyltryptamine (DMT), mescaline, and 5-methoxy-                       <jats:italic toggle=\"yes\">N,N</jats:italic>                       -dimethyltryptamine (5-MEO-DMT).                     </jats:p>                   </jats:sec>                   <jats:sec>                     <jats:title>Results:</jats:title>                     <jats:p>                       We identified 32 eligible trials. LSD was the most studied compound, followed by DMT, split between intravenous (IV) and oral formulations. Psilocybin was also frequently studied. Mescaline was reported in two trials, with IV LSD, IV psilocybin, inhalation 5-MEO-DMT, and intranasal 5-MEO-DMT reported in single studies. Key findings include dose proportional                       <jats:italic toggle=\"yes\">C</jats:italic>                       <jats:sub>max</jats:sub>                       values for LSD and psilocybin, alongside differences between oral and IV formulations o",
-      "date": "2026-05-29",
+      "abstract": "<jats:title>Abstract</jats:title>                   <jats:p>A prominent theory of psychedelics is that they increase brain entropy. Thirteen studies have evaluated psychedelic effects on fMRI brain entropy, each applying a distinct measure. Here we evaluated these metrics in an independent 28-participant healthy cohort with 121 pre- and post-psilocybin fMRI scans. We assessed relations between brain entropy and objective and subjective psychedelic drug effects using linear mixed-effects models. All metrics were evaluated using two parcellation strategies and 7 denoising pipelines. We observed consistent significant positive associations for Shannon entropy of the spatial eigendistribution of the time by voxel matrix, path-length, instantaneous correlations, brain-state switching, and sample entropy at short time-scales. We consistently did not observe significant effects for 8 of 14 entropy metrics and observe inconsistent positive effects for Lempel-Ziv complexity of the BOLD signal. Brain entropy quantifications showed limited inter-measure correlations. Our observations support a nuanced acute psychedelic effect on brain entropy, empirically demonstrating that these metrics do not reflect a singular construct.</jats:p>",
+      "date": "2026-06-24",
       "authors": [
-        "Elliot Hampsey",
-        "Kirsty Martin",
-        "Michail Kalfas"
+        "Drummond E-Wen McCulloch",
+        "Anders Stevnhoved Olsen",
+        "Brice Ozenne"
       ],
-      "doi": "10.1177/02698811261453938"
+      "doi": "10.1038/s41467-026-74215-5"
     },
     {
-      "title": "Development and assessment of a psychedelic-assisted therapy music playlist for clinical trials: Theory, intentionality, and metrics",
-      "url": "https://doi.org/10.1556/2054.2026.00462",
+      "title": "Blocking 5-HT2B receptors abolishes psilocybin’s efficacy in the rat forced swim test",
+      "url": "https://doi.org/10.1177/02698811261458349",
       "source": "OpenAIRE",
-      "abstract": "<jats:title>Abstract</jats:title>                   <jats:sec>                     <jats:title>Background and Purpose</jats:title>                     <jats:p>Music plays a central role in psychedelic-assisted therapy, yet few methodologies exist to create and assess therapeutic playlists. This study aimed to illustrate a methodology for developing and evaluating a music playlist for a clinical psilocybin trial using an integrative framework grounded in theory, intentionality, and metrics.</jats:p>                   </jats:sec>                   <jats:sec>                     <jats:title>Methods</jats:title>                     <jats:p>A playlist was designed based on clinical experience, phenomenological data, and therapeutic goals across pre-peak, peak, and post-peak phases of psilocybin administration. Each track was evaluated using Spotify's Application Programming Interface (API) metrics (Beats Per Minute, Danceability, Energy, and Valence). In addition, an exploratory human-rated measure of Transcendence was created and included to capture aspects of musical depth not represented by existing API metrics. Together, these tools provided a proof-of-concept model for how intentional playlist design may be supplemented with objective and experiential metrics in future psychedelic-assisted therapy research.</jats:p>                   </jats:sec>                   <jats:sec>                     <jats:title>Results</jats:title>                     <jats:p>Most musical features ",
-      "date": "2026-05-28",
+      "abstract": "<jats:sec>                     <jats:title>Background:</jats:title>                     <jats:p>Major depressive disorder is one of the most debilitating psychiatric disorders worldwide. First-line treatments such as selective serotonin reuptake inhibitors have significant limitations, including delayed onset of therapeutic effects and treatment resistance in about 30% of patients. Increasing evidence suggests that acute administration of serotonergic psychedelics, such as psilocybin, produces rapid and long-lasting antidepressant effects, including in treatment-resistant patients. However, it remains unknown which specific 5-HT receptor subtype mediates psilocybin’s antidepressant activity.</jats:p>                   </jats:sec>                   <jats:sec>                     <jats:title>Methods:</jats:title>                     <jats:p>We examined in Wistar rats whether pretreatment with the 5-HT2B receptor (5-HT2BR) antagonist RS-127445 (0.32, 1.0, or 3.2 mg/kg) blocked the rapid (day 1) and sustained (day 21) behavioral effects of a single psilocybin administration (0.32 mg/kg) in the forced swim test (FST), a test with predictive validity for antidepressant efficacy. We also measured the impact of RS-127445 on psilocybin-induced head-twitch response (HTR), a behavioral proxy in rodents for psychedelic properties.</jats:p>                   </jats:sec>                   <jats:sec>                     <jats:title>Results:</jats:title>                     <jats:p>Our data ",
+      "date": "2026-06-23",
       "authors": [
-        "Rafaelle L. Lancelotta",
-        "Paul B. Nagib",
-        "Stacey B. Armstrong"
+        "Lenka Seillier",
+        "Alexandre Seillier",
+        "Morgan A. Zvolska"
       ],
-      "doi": "10.1556/2054.2026.00462"
+      "doi": "10.1177/02698811261458349"
     },
     {
-      "title": "Psilocybin-induced neurocardiogenic syncope: a case report",
-      "url": "https://doi.org/10.1007/s00213-026-07079-8",
+      "title": "Bipolar affective disorder: a review of current trends and new therapeutic perspectives",
+      "url": "https://doi.org/10.18510/hssr.2026.14121",
       "source": "OpenAIRE",
-      "abstract": "<jats:title>Abstract</jats:title>                   <jats:sec>                     <jats:title>Background</jats:title>                     <jats:p>Psilocybin is among the serotonergic psychedelics closest to potential FDA approval, with growing evidence of therapeutic benefit across psychiatric conditions. As clinical trials expand, systematic characterization of adverse events (AEs) remains essential. While transient hypertensive responses are well documented, hypotensive events such as neurocardiogenic syncope (NCS) are rarely reported.</jats:p>                   </jats:sec>                   <jats:sec>                     <jats:title>Case presentation</jats:title>                     <jats:p>We describe a healthy 35‑year‑old male enrolled in an open‑label study investigating psilocybin‑evoked changes in brain function during transcranial magnetic stimulation and electroencephalography (TMS‑EEG). Approximately 60 minutes after receiving 25 mg oral psilocybin, and shortly after initiation of an eye‑open resting‑state EEG, he experienced prodromal lightheadedness followed by a brief loss of consciousness and postural tone. Immediate blood pressure was 93/51 mmHg with tachycardia and diaphoresis. Supportive measures, including leg elevation and oral hydration, led to rapid stabilization, and no further cardiovascular abnormalities occurred. The participant reported an emotionally intense experience, and contextual factors - including upright seated posture, restrictive EEG equ",
-      "date": "2026-05-28",
+      "abstract": "<jats:p>Research objective: The aim of this study was to present the current state of knowledge about bipolar affective disorder (BD) — its classification, clinical picture, pharmacological treatment and alternative methods, with particular emphasis on bipolar depression.  Methodology: The study is based on a narrative review of recent scientific literature concerning bipolar affective disorder, conducted using the PubMed database with the following keywords: bipolar disorder; bipolar depression; lithium; atypical neuroleptics; ketamine; psilocybin; neuromodulation; electroconvulsive therapy; rTMS; phototherapy.  Main conclusions: Bipolar affective disorder is a chronic and recurrent mood disorder characterized by alternating episodes of mania, hypomania and depression, leading to significant functional decline, increased risk of suicide and shortened life expectancy. Lithium remains the drug of first choice for the treatment and prevention of mania, while valproate and carbamazepine are effective but carry a higher risk of side effects, and atypical neuroleptics are active in both mania and depression. For treatment-resistant cases, especially refractory bipolar depression, neuromodulatory techniques (ECT, rTMS, tDCS, VNS) and the use of ketamine and psychedelics such as psilocybin show promising results. Electroconvulsive therapy is currently the best studied of these methods, rTMS and tDCS show moderate efficacy with good tolerance, ketamine provides rapid antidepressant a",
+      "date": "2026-06-20",
       "authors": [
-        "Mazen A. Atiq",
-        "Eli Weisman",
-        "Rodrigo B. Guerra"
+        "Maciej Kawecki",
+        "Julia Magdalena Chrystofiak",
+        "Maciej Biały Medical"
       ],
-      "doi": "10.1007/s00213-026-07079-8"
+      "doi": "10.18510/hssr.2026.14121"
     },
     {
-      "title": "Exploring the first use of psychedelic macrodoses in Latin American adults: Sociodemographic profiles, consumption factors, and subjective experiences",
-      "url": "https://doi.org/10.1556/2054.2025.00454",
+      "title": "The Geometry of Recovery: Accessibility Expansion, Insight, and Adaptive Change",
+      "url": "https://doi.org/10.5281/zenodo.20777335",
       "source": "OpenAIRE",
-      "abstract": "<jats:title>Abstract</jats:title>                   <jats:p>                     This study explores the first-time use of psychedelic macrodoses among Latin American adults, addressing a gap in the literature regarding naturalistic use outside clinical settings. A total of 4,810 participants from six Latin American countries completed an online survey assessing sociodemographic characteristics, substances used, consumption contexts, motivations, and subjective experiences during their first psychedelic experience. The most frequently reported substances were psilocybin mushrooms (57.6%), LSD (33.3%), and MDMA (17.5%). Recreational purposes were most common (70.5%), followed by spiritual (21.6%) and therapeutic (5.2%) motivations. Most participants consumed psychedelics in social settings, particularly with friends (65.7%), while 9.1% consumed them alone. Significant associations were found between demographic variables, the types of substances used, and specific subjective experiences. Psilocybin was linked to introspection and well-being, ayahuasca to mystical states, and MDMA, to heightened empathy. Familiar environments were associated with more positive experiences, reinforcing the importance of                     <jats:italic>set</jats:italic>                     and                     <jats:italic>setting</jats:italic>                     . Although 86.3% of participants reported continued use, the most common reason for not repeating the experience was lack of oppor",
-      "date": "2026-05-28",
+      "abstract": "Psychedelic research has repeatedly linked compounds such as psilocybin to increased neural entropy, reduced network modularity, enhanced psychological flexibility, insight, and sustained improvements in well-being. Yet the relationship among these phenomena remains poorly specified. Entropy, plasticity, relaxed priors, and network reorganization describe important features of psychedelic states, but they do not fully explain why perturbation sometimes produces adaptive recovery rather than disorganization. This paper proposes that the missing explanatory variable is accessibility.  Building on Persistence Geometry, this paper argues that adaptive systems are governed not only by what futures are possible, but by which futures remain reachable, viable, and recoverable from a given position within a landscape of possibilities. From this perspective, entropy is not the therapeutic outcome. It is a perturbative mechanism capable of temporarily reorganizing accessibility structure. Psychedelic perturbation may expand the set of reachable trajectories, allowing systems to explore futures that were previously inaccessible under ordinary constraints.  Within this framework, insight is interpreted not as the acquisition of new information, but as the recognition of newly reachable trajectories. Psychological flexibility reflects expanded access to multiple viable futures. Recovery occurs when systems regain access to viable pathways that had become constrained, collapsed, or unreacha",
+      "date": "2026-06-20",
       "authors": [
-        "Oscar Véliz-García",
-        "Marcos Domic Siede"
+        "Hunt, Treasure A."
       ],
-      "doi": "10.1556/2054.2025.00454"
+      "doi": "10.5281/zenodo.20777335"
     }
   ]
 }

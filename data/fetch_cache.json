@@ -1,7 +1,45 @@
 {
-  "date": "2026-08-03",
-  "cached_at": "2026-08-03T09:38:43.732268+00:00",
+  "date": "2026-08-04",
+  "cached_at": "2026-08-04T08:32:32.469085+00:00",
   "articles": [
+    {
+      "title": "Safety and Efficacy of Psilocybin During Anticancer Treatment: A Phase II Trial Secondary Analysis.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42546985/",
+      "source": "PubMed",
+      "abstract": "Psilocybin-assisted therapy has demonstrated rapid antidepressant effects in patients with cancer, but most trials have excluded individuals receiving active systemic anticancer treatment, limiting safety data in this population. To compare the efficacy and safety of psilocybin-assisted therapy in patients receiving versus not receiving concurrent systemic anticancer treatment. This secondary analysis used data from a phase 2, open-label, single-arm trial (NCT04593563). Adults with malignant neoplasms and DSM-5-diagnosed major depressive disorder received individual and group preparation therapy, a single 25-mg oral psilocybin group dosing session, and individual and group integration therapy. Active systemic anticancer treatment was defined as receipt of systemic therapy within 30 days of psilocybin dosing (systemic treatment, n=17; no systemic treatment, n=13). The primary outcome was between-group difference in Montgomery-Åsberg Depression Rating Scale (MADRS) scores at weeks 1, 3, and 8; secondary outcomes included adverse events (AEs), severity, and timing through week 8. Among 30 participants (mean [SD] age, 56 [12] years; 21 women [70%]), MADRS scores decreased substantially in both groups, with no significant between-group differences at week 1 (P=.88), week 3 (P=.93), or week 8 (P=.97). AEs were frequent in both groups (mean per participant, 9.0 vs 6.7; P=.08). Four severe AEs and one serious AE occurred, all in systemic treatment recipients, but were deemed unrelated to psilocybin. No significant laboratory or suicidality changes attributable to psilocybin were observed. Psilocybin-assisted therapy had comparable antidepressant outcomes and a similar safety profile in cancer patients regardless of systemic anticancer treatment status, supporting inclusion of actively treated oncology populations in future psilocybin trials.",
+      "date": "2026-08-03",
+      "authors": [
+        "Schaefer Daniel A",
+        "Agrawal Manish",
+        "Mazzola Emanuele"
+      ],
+      "doi": "10.1016/j.jpainsymman.2026.07.030"
+    },
+    {
+      "title": "Capacity Building Through Psychedelic-Assisted Therapy: Navigating Social Determinants of Health.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42547119/",
+      "source": "PubMed",
+      "abstract": "Neurocentric bias in psychiatry threatens to reduce psychedelics to neurobiological interventions and distort the experiential, social, and relational aspects of psychedelic-assisted therapy (PAT). PAT demands an ecological and relational orientation to fully account for the various phenomena implicated in mental health, psychedelics' effects, and outcomes of psychedelic experiences. The re-emergence of psychedelics as a legitimate therapeutic modality offers psychiatry an opportunity to embrace more holistic, humanistic, and socially grounded approaches. We argue that PAT should be framed as a capacity-building endeavor that seeks to improve patients' self-perceptions and capabilities to act in ways they find meaningful.",
+      "date": "2026-04-01",
+      "authors": [
+        "Neitzke-Spruill Logan",
+        "Rose Jarrett"
+      ],
+      "doi": "10.1016/j.psc.2026.02.002"
+    },
+    {
+      "title": "Psychological change processes in alcohol use disorder: A qualitative study of 5-methoxy-N,N-dimethyltryptamine (5-MeO-DMT) with cognitive behavioural therapy.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42544757/",
+      "source": "PubMed",
+      "abstract": "This study qualitatively explored psychological change processes as described by participants and therapists within a phase 2a clinical trial evaluating the safety, tolerability, and preliminary efficacy of a single dose of intranasal 5-methoxy-N,N-dimethyltryptamine (5-MeO-DMT; BPL-003) administered alongside psychological support and manualised cognitive behavioural therapy (CBT) for relapse prevention in alcohol use disorder (AUD). Embedded qualitative sub-study within an open-label, phase 2a, single-dose (Day 0) clinical trial with 12-week follow-up (Day 84 endpoint). Semi-structured interviews were conducted remotely with participants at Day 1 post-dose and end-of-study (Day 84). Therapists were interviewed once to triangulate participant accounts and explore perceived change processes in the context of psychological support and CBT. One drug and alcohol service and one research facility in London, UK (29 March 2023-2 July 2024). Ten participants (8 men, 2 women) with moderate to severe AUD and six therapists who worked on the study. Interviews with participants followed a topic guide covering alcohol use history and motivations; expectations, intentions and preparation; acute dosing-day experiences; perceived psychological and behavioural changes; and the perceived role of support and relapse-prevention CBT. Therapists were interviewed to provide a complementary professional viewpoint on the changes and role of support. All interviews were audio-recorded, transcribed verbatim, and analysed using an interpretative phenomenological perspective supported by iterative categorisation. Immediately after dosing, participants commonly described the experience using metaphors of a \"reset\", \"cleansing\", or \"rebirth\", often accompanied by emotional catharsis and rapid shifts in self-perception. They reported increased clarity regarding their relationship with alcohol, enhanced emotional openness, and improved self-compassion and interpersonal connectedness. At the 12-week follow-up, participants who maintained abstinence (n = 5) described the psychedelic experience as a pivotal turning point, facilitating sustained reappraisals of identity, values, and patterns of alcohol use. They also reported greater mindfulness, cognitive flexibility, and emotional acceptance, coupled with enhanced relationship quality, better sleep, increased energy, and overall well-being. Participants who resumed moderated drinking (n = 2) reported similarly increased self-awareness, reduced compulsivity, and greater emotional regulation. Therapist accounts closely corroborated these participant narratives, highlighting observed shifts in psychological flexibility, emotional openness, and adaptive behavioural responses. Therapists also noted that the psychedelic experience enabled rapid relaxation and revision of maladaptive core beliefs and promoted resilience and acceptance, even in participants with initially challenging experiences. Participant and therapist accounts indicate that a single dose of 5-methoxy-N,N-dimethyltryptamine, when embedded in a relapse-prevention cognitive behavioural therapy programme, can support meaningful shifts in self-appraisal, emotional regulation, and behavioural patterns associated with alcohol consumption.",
+      "date": "2026-08-03",
+      "authors": [
+        "Seynaeve Mathieu",
+        "Dunbar Fiona",
+        "Ermakova Anna O"
+      ],
+      "doi": "10.1111/add.70555"
+    },
     {
       "title": "How high ventilation breathwork alters consciousness: Hypoperfusion, network dynamics, and subjective experience.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42542287/",
@@ -219,43 +257,6 @@
         "Sepeda Nathan D"
       ],
       "doi": "10.1038/s43856-026-01767-4"
-    },
-    {
-      "title": "Nondual Awareness as a Novel Chronic Pain Relieving Mechanism.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42529410/",
-      "source": "PubMed",
-      "abstract": "Mindfulness-based interventions (MBIs) are efficacious nonpharmacologic treatments for chronic pain, yet the psychological mechanisms mediating the pain-relieving effects of MBIs remain incompletely understood. One potential mechanism may involve nondual awareness, a state of consciousness characterized by attenuation of the subject-object duality, reduced self-referential thinking, and an increased sense of connectedness with others and the world-at-large. We conducted a secondary analysis of pooled data from two randomized controlled trials (",
-      "date": "2026-05-11",
-      "authors": [
-        "Bhatt Kush V",
-        "Hanley Adam W",
-        "Martin-Soelch Chantal"
-      ],
-      "doi": "10.1037/cns0000474"
-    },
-    {
-      "title": "Sex-dependent effects of psychedelics: review of evidence from rodent models.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42528876/",
-      "source": "PubMed",
-      "abstract": "Classic psychedelics, including psilocybin, LSD, DMT, 5-MeO-DMT, mescaline, and phenethylamines such as DOI, exert their core effects through 5-HT2A receptor agonism, inducing widespread neurobiological and behavioral changes relevant to psychiatric research. Emerging evidence suggests that these effects are modulated by sex, yet this dimension remains underrepresented in studies. This review synthesizes findings from rodent research to examine sex-dependent variability across pharmacokinetics, physiology, neuroplasticity, behavior, and disease models. Notable sex differences appear in pharmacodynamics and neurobiological responses, such as divergent serotonergic and dopaminergic signaling patterns, sex specific central amygdala reactivity to psilocin, and differential patterns of dendritic spine formation following psilocybin administration. Behavioral outcomes - including head twitch responses, locomotor activity, prepulse inhibition, stress reactivity, and social behavior - frequently show stronger or qualitatively distinct effects in females than in males, with ovarian cycle phase further modulating several responses. Disease model studies similarly reveal divergent therapeutic or adverse outcomes, such as sex dependent effects of psilocybin on alcohol consumption and of DMT microdosing on affective behavior and neuroplasticity. Collectively, the evidence demonstrates that sex is a critical biological variable shaping the neural, physiological, and behavioral effects of psychedelics in rodents. Integrating sex specific analyses into experimental design is essential for improving translational validity and guiding clinical applications that account for biological differences in treatment response.",
-      "date": "2026-07-15",
-      "authors": [
-        "Marecki Rafał",
-        "Zaniewska Wiktoria",
-        "Hamed Adam"
-      ],
-      "doi": "10.3389/fpsyt.2026.1824073"
-    },
-    {
-      "title": "Treatment-resistant Depression in the Post-ketamine Era: Unmet Needs beyond Rapid Response.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42528339/",
-      "source": "PubMed",
-      "abstract": "The introduction of ketamine and its S-enantiomer, esketamine, has been one of the most consequential advances in treatment-resistant depression (TRD) in recent decades, demonstrating that rapid and clinically meaningful antidepressant effects can occur within hours, even in patients who have not responded to conventional treatments. However, this advance has not resolved the clinical problem of TRD. Rather, it has shifted the field's most important unmet needs from the induction of short-term symptom improvement to the management of what follows. The central questions now concern the post-response trajectory: how durable the initial benefit is, how relapse should be prevented, how maintenance treatment should be structured and eventually tapered, whether symptomatic improvement translates into functional recovery, which patients are most likely to benefit, why clinically useful predictive biomarkers remain elusive, and what the long-term safety and abuse-liability profile of repeated glutamatergic treatment will prove to be. This clinically oriented review examines these unresolved problems in the post-ketamine era, considers whether emerging rapid-acting antidepressants may address some of them, and argues that durability, functional recovery, patient selection, long-term safety, and implementation value, rather than acute efficacy alone, should now guide research priorities and bedside decision-making in TRD.",
-      "date": "2026-07-14",
-      "authors": [
-        "Serretti Alessandro"
-      ],
-      "doi": "10.9758/cpn.26.1487"
     },
     {
       "title": "Psychedelic Alpha Crossword: Summer 2026",
@@ -570,7 +571,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2018-004480-31/CZ",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-08-03",
+      "date": "2026-08-04",
       "authors": [],
       "doi": ""
     },
@@ -579,7 +580,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2020-005037-32/CZ",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-08-03",
+      "date": "2026-08-04",
       "authors": [],
       "doi": ""
     },
@@ -588,7 +589,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2021-002909-10/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-08-03",
+      "date": "2026-08-04",
       "authors": [],
       "doi": ""
     },
@@ -597,7 +598,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2015-000550-37/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-08-03",
+      "date": "2026-08-04",
       "authors": [],
       "doi": ""
     },
@@ -606,7 +607,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2021-000041-40/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-08-03",
+      "date": "2026-08-04",
       "authors": [],
       "doi": ""
     },
@@ -615,7 +616,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2020-000829-55/DK",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-08-03",
+      "date": "2026-08-04",
       "authors": [],
       "doi": ""
     },
@@ -624,7 +625,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2020-002790-94/SE",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-08-03",
+      "date": "2026-08-04",
       "authors": [],
       "doi": ""
     },
@@ -633,7 +634,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2021-006200-33/FI",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-08-03",
+      "date": "2026-08-04",
       "authors": [],
       "doi": ""
     },
@@ -642,7 +643,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2019-004812-73/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-08-03",
+      "date": "2026-08-04",
       "authors": [],
       "doi": ""
     },
@@ -651,7 +652,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2022-002369-14/BE",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-08-03",
+      "date": "2026-08-04",
       "authors": [],
       "doi": ""
     },

@@ -1,19 +1,69 @@
 {
-  "date": "2026-08-04",
-  "cached_at": "2026-08-04T08:32:32.469085+00:00",
+  "date": "2026-08-05",
+  "cached_at": "2026-08-05T08:31:23.530597+00:00",
   "articles": [
     {
-      "title": "Safety and Efficacy of Psilocybin During Anticancer Treatment: A Phase II Trial Secondary Analysis.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42546985/",
+      "title": "(Es)ketamine in functional neurological disorder: a systematic review.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42548890/",
       "source": "PubMed",
-      "abstract": "Psilocybin-assisted therapy has demonstrated rapid antidepressant effects in patients with cancer, but most trials have excluded individuals receiving active systemic anticancer treatment, limiting safety data in this population. To compare the efficacy and safety of psilocybin-assisted therapy in patients receiving versus not receiving concurrent systemic anticancer treatment. This secondary analysis used data from a phase 2, open-label, single-arm trial (NCT04593563). Adults with malignant neoplasms and DSM-5-diagnosed major depressive disorder received individual and group preparation therapy, a single 25-mg oral psilocybin group dosing session, and individual and group integration therapy. Active systemic anticancer treatment was defined as receipt of systemic therapy within 30 days of psilocybin dosing (systemic treatment, n=17; no systemic treatment, n=13). The primary outcome was between-group difference in Montgomery-Åsberg Depression Rating Scale (MADRS) scores at weeks 1, 3, and 8; secondary outcomes included adverse events (AEs), severity, and timing through week 8. Among 30 participants (mean [SD] age, 56 [12] years; 21 women [70%]), MADRS scores decreased substantially in both groups, with no significant between-group differences at week 1 (P=.88), week 3 (P=.93), or week 8 (P=.97). AEs were frequent in both groups (mean per participant, 9.0 vs 6.7; P=.08). Four severe AEs and one serious AE occurred, all in systemic treatment recipients, but were deemed unrelated to psilocybin. No significant laboratory or suicidality changes attributable to psilocybin were observed. Psilocybin-assisted therapy had comparable antidepressant outcomes and a similar safety profile in cancer patients regardless of systemic anticancer treatment status, supporting inclusion of actively treated oncology populations in future psilocybin trials.",
+      "abstract": "Functional neurological disorder (FND) is a common and disabling condition for which effective treatments remain limited. Clinical outcomes are often variable, particularly in chronic and comorbid presentations. Ketamine and esketamine are increasingly used across a range of neuropsychiatric conditions. This review aimed to synthesise the existing evidence regarding their use in FND. A systematic review of PubMed, PsycINFO and Google Scholar was conducted up to December 2025. Studies reporting clinical outcomes following (Es)ketamine administration in functional neurological symptoms were included. Owing to substantial clinical and methodological heterogeneity, findings were synthesised narratively. Thirteen studies were identified, predominantly comprising case reports and small case series. Across the included studies, some patients were reported to experience improvement in functional motor symptoms, functional dissociative seizures, and other functional presentations following ketamine or esketamine administration. Interpretation of these findings is limited by the uncontrolled nature of the evidence base, heterogeneity of diagnoses and outcomes, and the potential influence of publication and expectancy bias. Adverse effects were variably reported and were generally described as transient in supervised clinical settings. The current evidence base is limited to predominantly uncontrolled and highly heterogeneous studies and is insufficient to establish the efficacy of (Es)ketamine for FND. Although improvements in functional symptoms have been reported across several FND presentations, it remains unclear whether these reflect direct effects on functional symptoms, indirect benefits arising from psychiatric improvement, or other non-specific therapeutic factors. While no firm conclusions regarding efficacy can be drawn, the existing data suggest that further investigation is justified, and prospective controlled trials are needed to clarify the potential role of (Es)ketamine in FND.",
+      "date": "2026-07-20",
+      "authors": [
+        "Tamilson Bruce",
+        "Chitolie Michael",
+        "Coebergh Jan"
+      ],
+      "doi": "10.3389/fpsyt.2026.1872389"
+    },
+    {
+      "title": "Sustained abstinence in severe ketamine use disorder following ibogaine treatment case report.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42548882/",
+      "source": "PubMed",
+      "abstract": "Substance use disorders (SUD) involving ketamine, cocaine, and alcohol present significant clinical challenges, often characterized by high relapse rates and limited pharmacological options. This case report details a 30-year-old male with a five-year history of severe polysubstance dependence, including daily intranasal ketamine use (2-3 g/day), cocaine, and alcohol, comorbid with recurrent depressive disorder. Despite conventional psychiatric treatment, the patient experienced severe cravings and sought ibogaine-assisted treatment. The patient underwent a structured 13-day residential program in Mexico, receiving an 800 mg ibogaine HCl flood dose (10.1 mg/kg), followed by two supplementary booster doses of 300 mg (3.8 mg/kg) under continuous medical and ECG monitoring. Following treatment, the patient reported an immediate cessation of cravings for all substances. Over approximately 17 months of follow-up including a medically supervised fractionated ibogaine intervention approximately 11 months after the initial treatment, serial toxicology and psychometric assessments were consistent with continued abstinence from ketamine, cocaine, alcohol and other previously misused substances, and significant improvements in depression (PHQ-9: 0-3), anxiety, and quality of life (WHOQOL-BREF: 55 to 71). This report represents the first longitudinally documented case of sustained abstinence in severe ketamine use disorder following ibogaine treatment, supported by serial toxicology and standardized psychometric outcomes. It adds objective, time-resolved evidence to a literature that has largely focused on ibogaine for opioid use disorder, and it highlights ketamine use disorder as a specific target for future controlled trials. The therapeutic outcome is hypothesized to arise from ibogaine's unique polypharmacology. This includes acute NMDA antagonism, which may disrupt compulsive circuits, as well as noribogaine's (the principal long-acting metabolite of ibogaine, with an elimination half-life of approximately 28-49 hours) kappa opioid receptor agonism and serotonin transporter inhibition, which stabilize reward pathways. Additionally, enhanced neuroplasticity via GDNF/BDNF expression may facilitate long-term behavioral changes. This case provides rare, rigorously documented evidence for ibogaine's potential in treating chronic ketamine dependence and highlights the urgent need for controlled clinical trials within regulated frameworks to further investigate its safety and efficacy.",
+      "date": "2026-07-20",
+      "authors": [
+        "Pérez Rosal Sergio R",
+        "Faber Sonya C",
+        "Backmund Markus"
+      ],
+      "doi": "10.3389/fpsyt.2026.1846320"
+    },
+    {
+      "title": "Structural synaptogenesis superior to functional modulation in a pruning-based recurrent network model of OCD.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42548786/",
+      "source": "PubMed",
+      "abstract": "Obsessive-compulsive disorder (OCD) is characterized by intrusive thoughts and repetitive behaviors, with incomplete response to current treatments suggesting limitations in prevailing neurotransmitter-focused models. Epidemiological data indicate lifetime DSM-IV OCD in approximately 2.3% and 12-month OCD in approximately 1.2% of US adults, while subthreshold obsessions or compulsions are substantially more common. One mechanistic possibility is that abnormal synaptic pruning contributes to persistent cortico-striato-thalamo-cortical circuit rigidity. This idea remains indirect in OCD, but is supported by convergent synaptic-marker findings in OCD and by complement-linked pruning mechanisms shown most clearly in schizophrenia. We developed a modular gated recurrent unit network approximating cortico-striato-thalamo-cortical dynamics, trained on a rule-switching task sensitive to perseveration. The architecture included a recurrent cortical integration layer, a schematic striatal \"habit\" module, and a thalamic confidence-gating scalar. Excessive pruning was implemented as 60% activity-dependent pruning, using a composite of low recent gradient-based usage and low weight magnitude, with partial protection of recurrent and habit-related weights. From identical pruned baselines, three mechanistically distinct interventions were simulated: rapid gradient-guided structural reopening, treated as a ketamine-like synaptogenesis motif, prolonged low-learning-rate adaptation with stress-noise annealing (SSRI-like), and tonic inhibitory scaling (neurosteroid-like). An iso-dose pipeline recorded L1 and L2 weight-change norms, synaptic turnover, and change in sparsity; linear interpolation was used when bracketing sweep points existed, and residual mismatch was reported otherwise. Multi-seed statistics and sensitivity analyses were performed. At 60% activity-dependent pruning, the untreated network showed impaired accuracy (0.4972) and elevated perseveration (0.5247). In the fixed-parameter comparison, ketamine-like structural repair reduced perseveration to 0.2582, SSRI-like adaptation to 0.3209, and neurosteroid-like inhibition to 0.2654. Relapse vulnerability differed by mechanism: cumulative relapse increased perseveration by +0.1086 after ketamine-like repair, +0.0259 after SSRI-like adaptation, and -0.0017 after neurosteroid-like inhibition in the representative seed. Across five seeds, best acute perseveration was lowest for ketamine-like repair (0.2330 ± 0.0065), followed by neurosteroid-like inhibition (0.2413 ± 0.0021) and SSRI-like adaptation (0.2831 ± 0.0099). SSRI-like adaptation showed the highest mean efficiency because it produced smaller absolute weight changes. Sensitivity analyses showed that untreated perseveration increased with pruning severity, from 0.2627 at 40% pruning to 0.6218 at 70% pruning, while ketamine-like repair remained relatively stable across the same range. These findings support excessive synaptic pruning as a plausible contributor to OCD-like cognitive inflexibility and illustrate that structural and functional interventions offer different trade-offs within a highly abstract computational model. Structural repair produced the most robust acute rescue and remained resilient across pruning severities, whereas functional mechanisms showed advantages in dose efficiency or relapse stability. The results are hypothesis-generating only and should not be read as clinical evidence for treatment ranking.",
+      "date": "2026-07-20",
+      "authors": [
+        "Cheung Ngo"
+      ],
+      "doi": "10.3389/fncom.2026.1799705"
+    },
+    {
+      "title": "Learnings from a hybrid communities of practice group therapy model to support psilocybin-assisted therapy for patients with a terminal diagnosis.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42548601/",
+      "source": "PubMed",
+      "abstract": "Psilocybin-assisted therapy is continuing to show significant positive effects for palliative cancer patients, both in reducing symptoms and improving one's sense of hope and meaning. Most research has focused on individual therapy models, limiting access and overlooking potential community-based benefits. This qualitative study describes the results of patients experiencing distress related to a terminal health condition who enrolled in six to eight once-weekly group resilience-based community of practice (CoP) sessions combined with one psilocybin-assisted therapy (PaT) session. This virtual hybrid group therapy model is research informed, with a curriculum that provides knowledge-based content, combined with the relational elements necessary to successfully deliver group-administered psilocybin-assisted therapy. Patients were interviewed using semi-structured question list and transcripts were coded and themes captured in an iterative manner. The CoP sequence included preparation meetings before the in-person medicine session and integration meetings afterward, allowing the group relationship and safety practices to be established before dosing. Thirty-one PaT sessions were provided for 25 participants within four iterative cohorts over the span of 1 year (November 2021-November 2022). Completion rates were high (84%), with participants reporting enhanced trust in self, improved outlook on life, and strengthened connection to community. Peer support, relational safety, and regulation practices were central to outcomes. This study demonstrates the feasibility, safety, and psychosocial benefits of group-administered PaT supported by virtual CoPs, providing a scalable, cost-effective model for public health interventions in end-of-life care. Its novelty lies in combining group therapy, hybrid delivery, and resilience-based curriculum to expand access and enhance community support for a vulnerable population. Participants' mixed feedback also suggests that hybrid group PaT may offer distinctive benefits of peer witnessing and community continuity while requiring careful attention to individual preference, room logistics, and sensory control during group dosing.",
+      "date": "2026-07-20",
+      "authors": [
+        "Tsang Vivian Wl",
+        "Kryskow Pamela",
+        "Watler Crosbie"
+      ],
+      "doi": "10.3389/fpubh.2026.1767215"
+    },
+    {
+      "title": "A crucial cautionary note on frequently incorrect dose equivalence between ketamine and esketamine.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42547800/",
+      "source": "PubMed",
+      "abstract": "",
       "date": "2026-08-03",
       "authors": [
-        "Schaefer Daniel A",
-        "Agrawal Manish",
-        "Mazzola Emanuele"
+        "Damiano Rodolfo Furlan",
+        "Medeiros Gustavo C",
+        "Quevedo João"
       ],
-      "doi": "10.1016/j.jpainsymman.2026.07.030"
+      "doi": "10.1038/s41380-026-03807-w"
     },
     {
       "title": "Capacity Building Through Psychedelic-Assisted Therapy: Navigating Social Determinants of Health.",
@@ -26,6 +76,19 @@
         "Rose Jarrett"
       ],
       "doi": "10.1016/j.psc.2026.02.002"
+    },
+    {
+      "title": "Safety and Efficacy of Psilocybin During Anticancer Treatment: A Phase II Trial Secondary Analysis.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42546985/",
+      "source": "PubMed",
+      "abstract": "Psilocybin-assisted therapy has demonstrated rapid antidepressant effects in patients with cancer, but most trials have excluded individuals receiving active systemic anticancer treatment, limiting safety data in this population. To compare the efficacy and safety of psilocybin-assisted therapy in patients receiving versus not receiving concurrent systemic anticancer treatment. This secondary analysis used data from a phase 2, open-label, single-arm trial (NCT04593563). Adults with malignant neoplasms and DSM-5-diagnosed major depressive disorder received individual and group preparation therapy, a single 25-mg oral psilocybin group dosing session, and individual and group integration therapy. Active systemic anticancer treatment was defined as receipt of systemic therapy within 30 days of psilocybin dosing (systemic treatment, n=17; no systemic treatment, n=13). The primary outcome was between-group difference in Montgomery-Åsberg Depression Rating Scale (MADRS) scores at weeks 1, 3, and 8; secondary outcomes included adverse events (AEs), severity, and timing through week 8. Among 30 participants (mean [SD] age, 56 [12] years; 21 women [70%]), MADRS scores decreased substantially in both groups, with no significant between-group differences at week 1 (P=.88), week 3 (P=.93), or week 8 (P=.97). AEs were frequent in both groups (mean per participant, 9.0 vs 6.7; P=.08). Four severe AEs and one serious AE occurred, all in systemic treatment recipients, but were deemed unrelated to psilocybin. No significant laboratory or suicidality changes attributable to psilocybin were observed. Psilocybin-assisted therapy had comparable antidepressant outcomes and a similar safety profile in cancer patients regardless of systemic anticancer treatment status, supporting inclusion of actively treated oncology populations in future psilocybin trials.",
+      "date": "2026-08-03",
+      "authors": [
+        "Schaefer Daniel A",
+        "Agrawal Manish",
+        "Mazzola Emanuele"
+      ],
+      "doi": "10.1016/j.jpainsymman.2026.07.030"
     },
     {
       "title": "Psychological change processes in alcohol use disorder: A qualitative study of 5-methoxy-N,N-dimethyltryptamine (5-MeO-DMT) with cognitive behavioural therapy.",
@@ -194,69 +257,13 @@
       "doi": "10.1176/appi.focus.20250046"
     },
     {
-      "title": "Use of Ketamine and Esketamine in the Pediatric Population: Current Evidence and Clinical Applications.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42538882/",
-      "source": "PubMed",
-      "abstract": "Ketamine is a well-established anesthetic agent that is gaining increasing recognition for its diverse therapeutic applications, including the management of chronic pain, refractory status epilepticus, major depressive disorder, and suicidality. Although it has been used clinically since the 1960s, multiple clinical trials with ketamine and esketamine in adults and pediatric populations are ongoing. There has been recent growing interest in ketamine and esketamine for psychiatric conditions in children and adolescents. The clinical use of ketamine is complex, in part because of the numerous available formulations and administration routes. Ketamine has different bioavailability depending on the route of administration: intravenous (100%), intramuscular (64%-93% in adults, 41% in pediatric populations), intranasal (43%-48% in adults, 50% in pediatric populations), sublingual (29%-32%), rectal (25%-30%), epidural (77%), and oral (17%-18%), which is due to extensive first-pass hepatic metabolism. Differences in dosing also produce distinct clinical effects. The challenges associated with ketamine use are further magnified in pediatric populations, for which developmental stage, pharmacokinetics, and neurodevelopmental factors play critical roles in guiding safe and effective treatment. In this review, the authors summarize the pharmacodynamics, pharmacokinetics, adverse effects and contraindications, and clinical applications of ketamine and esketamine among adult and pediatric populations.",
-      "date": "2026-04-04",
-      "authors": [
-        "Pak Thomas Kun",
-        "Kimatian Stephen",
-        "Emslie Graham"
-      ],
-      "doi": "10.1176/appi.focus.20250040"
-    },
-    {
-      "title": "Cardiovascular safety of psilocybin in psychiatric practice: a narrative review.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42538465/",
-      "source": "PubMed",
-      "abstract": "Psilocybin-assisted interventions are moving from efficacy trials toward psychiatric implementation. Cardiovascular interpretation is central to this transition because trial participants are generally medically selected, receive standardized pharmaceutical-grade doses, and are monitored more intensively than many patients encountered in routine care. This review translates the cardiovascular evidence into a risk-stratified psychiatric decision framework. We conducted a structured narrative review of clinical trials, systematic reviews, meta-analyses, cardiovascular pharmacology, drug-interaction studies, product-standardization literature, and implementation guidance. Searches were updated through July 10, 2026. Evidence was selected purposively to address acute hemodynamics, corrected QT interval (QTc), 5-hydroxytryptamine receptor-mediated effects, valvular biology, repeated exposure, naturally derived product variability, and practical screening and monitoring. In supervised studies, pooled estimates indicate mean increases of approximately 19.0 mmHg in systolic blood pressure and 8.7 mmHg in diastolic blood pressure. The largest and most consistent group differences occur about 60-90 min after dosing and generally resolve within 4-6 h; heart-rate effects are smaller and less consistent. Serious acute cardiovascular events remain uncommon in selected participants. Risk interpretation changes with cardiovascular comorbidity, interacting medications, repeated exposure, and non-standardized mushroom products, whose active-alkaloid content can vary by more than an order of magnitude. Mean QTc effects at standard exposure are small. A 5-HT2B-mediated valvular concern remains biologically plausible under chronic exposure, but assay results and exposure-margin estimates are heterogeneous and clinical valvular injury has not been established. Current evidence supports monitored, intermittent administration of standardized psilocybin in carefully selected populations, not general cardiovascular reassurance across all products, exposure patterns, or psychiatric settings. Product identity, medication review, risk-stratified cardiovascular assessment, session monitoring, and explicit escalation pathways should be integrated into treatment planning.",
-      "date": "2026-08-01",
-      "authors": [
-        "Szarpak Lukasz",
-        "Pruc Michal",
-        "Swieczkowski Damian"
-      ],
-      "doi": "10.1007/s00228-026-04151-2"
-    },
-    {
-      "title": "A retrospective report of a ketamine-augmented, transdiagnostic psychiatric outpatient psychotherapy program.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42534113/",
-      "source": "PubMed",
-      "abstract": "Comorbid conditions such as major depressive disorder, anxiety disorders, and posttraumatic stress disorder are common among Veterans, and the presence of multiple conditions requires innovative treatment approaches. The Newly Institute in Calgary, Alberta, Canada, has introduced a novel intervention combining sublingual ketamine therapy with a medically managed transdiagnostic intensive outpatient program (IOP) using evidence-based psychotherapies. A retrospective chart review was conducted of the first cohort of individuals (N = 56) who completed the Newly program between October 2021 and May 2022. This included four psychometric measures: the Patient Health Questionnaire-9, Generalized Anxiety Disorder 7-Item Scale, PTSD Checklist for DSM-5, and World Health Organization Quality of Life - Brief (WHOQOL-BREF). Preliminary findings reveal significant reductions in symptom severity post-treatment, with a notable proportion of patients experiencing clinically meaningful improvements in several symptom domains, particularly those with moderate to severe symptoms at baseline. In addition, WHOQOL-BREF scores increased with treatment, indicating both symptomatic and functional improvement. The study underscores the potential of pairing ketamine with an IOP program; ketamine is thought to enhance neuroplasticity and emotional learning, and the IOP increases treatment engagement and long-term resiliency. Although limitations exist, including the lack of a control group, the study emphasizes the importance of exploring innovative transdiagnostic treatment modalities. Further research is needed to validate these findings and evaluate how this model may be adapted specifically for Veterans. Mental health conditions including depression, anxiety, and posttraumatic stress disorder (PTSD) are common among Veterans, and they often co-occur. The presence of more than one condition increases the likelihood that the conditions will not get better with the usual treatments. When this happens, illnesses are considered treatment resistant, and different steps must be taken. This article describes a novel intervention aimed at addressing symptoms of depression, anxiety, and PTSD together in an intensive psychotherapy outpatient program that combines multiple evidence-based therapies. In addition to therapy, patients receive treatment with ketamine — a medication with strong evidence for its use for treatment-resistant depression and emerging evidence for its use for anxiety and PTSD. Ketamine is thought to enhance the brain’s ability to form new pathways, so it could theoretically make the changes that accompany psychotherapy larger and longer lasting. This article reports on improvement in symptoms of depression, anxiety, and PTSD in the first group of patients who completed this program, even among patients with more severe illness. Although this group of patients was not specific to Veterans, the results suggest that this type of approach may be of benefit to Veteran populations. Les affections comorbides, comme les troubles dépressifs majeurs, les troubles anxieux et les troubles de stress post-traumatique, sont courantes chez les vétéran.e.s, et la présence de multiples affections justifie des approches thérapeutiques novatrices. Le Newly Institute de Calgary, en Alberta, au Canada, a adopté une nouvelle intervention qui conjugue un traitement à la kétamine sublinguale à un programme ambulatoire intensif (PAI) médical transdiagnostique à l’aide de psychothérapies fondées sur des données probantes. Une analyse rétrospective des dossiers a été effectuée auprès de la première cohorte de personnes (n =56) qui ont terminé le programme du Newly Institute entre octobre 2021 et mai 2022. Ce programme incluait quatre mesures psychométriques : le Questionnaire sur la santé des patients-9, le Trouble anxieux généralisé-GAD 7, les critères de TSPT du DSM-5 et la Qualité de vie de l’Organisation mondiale de la Santé - bref (WHOQOL-BREF). Selon les résultats préliminaires, la gravité des symptômes s’est beaucoup atténuée après le traitement, et une forte proportion de patient.e.s a profité d’améliorations importantes sur le plan clinique dans plusieurs domaines des symptômes, particulièrement ceux qui étaient modérés à graves en début d’étude. En outre, les scores du WHOQOL-BREF ont augmenté grâce au traitement, ce qui était indicateur d’une amélioration à la fois symptomatique et fonctionnelle. L’étude démontre le potentiel de jumeler la kétamine à un PAI. On pense que la kétamine accroît la neuroplasticité et l’apprentissage émotionnel, et le PAI accroît la participation au traitement et la résilience à long terme. Même si l’étude comporte certaines limites, y compris l’absence de groupe témoin, elle fait ressortir l’importance d’explorer des modalités thérapeutiques transdiagnostiques novatrices. D’autres recherches devront être réalisées pour valider ces résultats et évaluer la manière d’adapter ce modèle expressément pour les vétéran.e.s.",
-      "date": "2026-01-27",
-      "authors": [
-        "Stefanuk Ian",
-        "Chivers-Wilson Kaitlin",
-        "Jetly Rakesh"
-      ],
-      "doi": "10.3138/jmvfh-2025-0009"
-    },
-    {
-      "title": "Toward a definition of treatment-resistant posttraumatic stress disorder: A systematic review.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42534095/",
-      "source": "PubMed",
-      "abstract": "Posttraumatic stress disorder (PTSD) is a complex disorder that often persists despite the use of evidence-based treatments. This systematic review aims to synthesize existing definitions of treatment-resistant PTSD (TR-PTSD) and examine the criteria used across studies to inform future research and clinical guidelines. A systematic search was conducted in four databases. Studies were included if they reported on adult participants with TR-PTSD, regardless of definition, or described non-response to one or more treatments. A narrative synthesis was used to categorize findings and suggest refinements to a working TR-PTSD definition. Of 4,046 screened articles, 55 studies met the inclusion criteria. We found substantial variation in how TR-PTSD was defined across studies. Studies investigated pharmacological (n = 19), psychosocial (n = 16), psychedelic-assisted (n = 7), and emerging treatments (n = 13). Findings highlighted diverse intervention strategies. Some reduced PTSD symptoms significantly, and others showed mixed or limited efficacy. This study consolidates existing research on TR-PTSD, revealing significant variability in its definitions across studies. The lack of standardized criteria underscores the need for a more consistent framework to guide research and clinical decision-making. The authors propose a dynamic reassessment of treatment resistance that considers adherence, treatment delivery, comorbidities, and mechanisms of action. Future research should incorporate a broader range of treatment response indicators, such as biomarkers and clinical subtypes, to establish a standardized model for TR-PTSD. A clearer definition will improve patient care, aid in therapy selection, and support the development of more effective treatments. Posttraumatic stress disorder (PTSD) is a serious mental health condition, and for some individuals, standard treatments such as medication or therapy do not lead to significant improvement. When PTSD remains unresponsive to treatment, it is referred to as treatment-resistant PTSD (TR-PTSD). The goal of this review is to examine how TR-PTSD is defined in the literature and to assess the varying criteria used across studies. The authors analysed 55 research articles that included patients identified as having TR-PTSD. They found considerable variation in how studies defined TR-PTSD, highlighting the lack of a standardized framework. This inconsistency underscores the need for further research to establish clear criteria for defining treatment resistance in PTSD. Developing a well-defined and widely accepted definition of TR-PTSD is essential to improve patient care, guide clinicians in selecting appropriate therapies, and advance research into more effective treatments. Future studies and clinical trials are necessary to refine these definitions and create a standardized model that can be used across research and clinical settings. Le trouble de stress post-traumatique (TSPT) est un trouble complexe qui persiste souvent malgré des traitements fondés sur des données probantes. Cette analyse systématique est conçue pour synthétiser les définitions existantes du TSPT réfractaire aux traitements (TSPT-RT) et pour examiner les critères utilisés dans les diverses études pour éclairer de futures recherches et directives cliniques. Une recherche systématique a été réalisée dans quatre bases de données. Les études étaient retenues si elles rendaient compte de participant.e.s adultes ayant un TSPT-RT, quelle qu’en soit la définition, ou si elles décrivaient l’absence de réponse à au moins un traitement. Une synthèse narrative a permis de classer les résultats et de peaufiner une définition de travail du TSPT-RT. Des 4 046 articles examinés, 55 respectaient les critères d’inclusion. La définition de TSIPT-RT comportait des variations importantes d’une étude à l’autre. Les études portaient sur les traitements pharmacologiques (n = 19), psychosociaux (n = 16), assistés par des psychédéliques (n = 7) et émergents (n = 13). Les résultats ont fait ressortir plusieurs stratégies d’intervention. Certaines réduisaient considérablement les symptômes de TSPT, tandis que d’autres avaient une efficacité mitigée ou limitée. Cette étude renforce les recherches existantes sur le TSPT-RT et révèle une importante variabilité des définitions d’une étude à l’autre. Ľabsence de critères standardisés souligne l’importance d’adopter un cadre plus uniforme pour orienter les recherches et les décisions cliniques. Les auteurs proposent une réévaluation dynamique de la résistance au traitement, qui tient compte de l’adhésion, de la prestation du traitement, des comorbidités et des mécanismes d’action. De futures recherches devraient intégrer un éventail plus vaste d’indicateurs de réponse au traitement, tels que les biomarqueurs et les sous-types cliniques, afin d’adopter un modèle standardisé de TSPT-RT. Une définition plus claire permettra d’améliorer les soins aux patients, contribuera à la sélection du traitement et soutiendra l’élaboration de traitements plus efficaces.",
-      "date": "2026-01-27",
-      "authors": [
-        "Al-Shamali Huda F",
-        "Meshkat Shakila",
-        "Janssen-Aguilar Reinhard"
-      ],
-      "doi": "10.3138/jmvfh-2025-0015"
-    },
-    {
-      "title": "Safety, feasibility, and preliminary clinical outcomes of psilocybin-assisted therapy for veterans with severe, treatment-resistant PTSD: an open-label pilot clinical trial.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42533157/",
-      "source": "PubMed",
-      "abstract": "Psilocybin-assisted therapy (PAT) shows promise for treating PTSD in adults but hasn't been studied in U.S. military Veterans, who face higher symptom severity and suicide risk. This open-label pilot trial evaluated the safety and feasibility of PAT in Veterans with severe, treatment-resistant PTSD. The clinical trial was pre-registered at ClinicalTrials.gov (NCT05554094). The eligibility criteria were that participants be U.S. military Veterans aged 21-64 with a DSM 5 diagnosis of PTSD for at least six months, and a Clinician-Administered PTSD Scale for DSM 5 (CAPS-5) total severity score ≥35. PTSD was also required to be treatment-resistant. Clinical outcomes were assessed at the Center for Psychedelic Drug Research and Education in Columbus, OH. Twelve participants received eight hours of therapy followed by two psilocybin dosing sessions at 15 mg and 25 mg, spaced 2-3 weeks apart, of synthetic psilocybin, along with approximately eight hours of post-psilocybin therapy. Follow-up occurred at four weeks post-second dosing. The primary endpoints were safety (i.e., the type, severity, frequency of adverse events) and suicidal ideation/behavior (as measured by the Columbia Suicide Severity Rating Scale (CSSR-S)) from baseline to 1-month post-second psilocybin administration. The secondary endpoints were PTSD symptom severity rated by a clinician and the participant. Exploratory analyses included the impact of psychotherapy and expectancy on PTSD symptom severity. Of the 668 participants who completed the online pre-screener, 13 consented and enrolled, 1 withdrew before the first dosing session, and 12 fulfilled the study requirements. No serious adverse events occurred; non-serious adverse events included headaches, anxiety, and dizziness. There was no increase in suicidal ideation or behavior during the trial, and heart rate and blood pressure remained within safe limits during the psilocybin sessions. There was a large (d = 2.30) and significant (p < 0.001) reduction (mean difference = 27.5, 95% CI: 19.9 to 35.1) in clinician-rated PTSD symptoms from baseline through 1-month follow-up, with 75% having a treatment response and in remission from PTSD. While expectancy did not predict changes in PTSD symptoms, pre-dosing symptom change during the preparation phase of treatment did. Clinician adherence ratings were 98% across all study visits. Findings reveal that PAT is safe, well-tolerated, and shows preliminary clinical improvement for PTSD, suggesting that PAT may offer therapeutic relief for Veterans with severe treatment-resistant PTSD. This study explored whether psilocybin-assisted therapy (PAT), a therapeutic approach being studied for the treatment of several mental health conditions, could help U.S. military Veterans with severe treatment-resistant posttraumatic stress disorder. Veterans completed therapy sessions before and after receiving two doses of psilocybin. Researchers monitored safety and changes in PTSD symptoms for one month after treatment. No serious safety problems occurred, and most side effects were mild, such as headaches or brief anxiety. Veterans showed large improvements in PTSD symptoms, and many no longer met criteria for PTSD after one month. These results suggest PAT may offer meaningful relief for Veterans who have not found help through standard treatments. More research with larger groups is needed to confirm these results.",
-      "date": "2026-07-30",
-      "authors": [
-        "Armstrong Stacey B",
-        "Levin Adam W",
-        "Sepeda Nathan D"
-      ],
-      "doi": "10.1038/s43856-026-01767-4"
+      "title": "From Sonora to Big Pharma: Kimon de Greef Traces the Strange Rise of 5-MeO-DMT",
+      "url": "https://psychedelicalpha.com/news/from-sonora-to-big-pharma-kimon-de-greef-traces-the-strange-rise-of-5-meo-dmt/",
+      "source": "Psychedelic Alpha",
+      "abstract": "",
+      "date": "2026-08-04",
+      "authors": [],
+      "doi": ""
     },
     {
       "title": "Psychedelic Alpha Crossword: Summer 2026",
@@ -336,15 +343,6 @@
       "source": "Psychedelic Alpha",
       "abstract": "Yesterday, various U.S. federal bodies announced psychedelics-related actions, as we covered.  That news included a funding award from the National Institute on Drug Abuse (NIDA) to support a multi-phase ibogaine for opioid use disorder (OUD) project at Harvard. The Advanced Research Projects Agency for Health (ARPA-H) also announced a funding opportunity related to developing ibogaine […]",
       "date": "2026-07-14",
-      "authors": [],
-      "doi": ""
-    },
-    {
-      "title": "Keeping Up with the Feds: From FDA to HRSA, Washington Backs Psychedelics",
-      "url": "https://psychedelicalpha.com/news/keeping-up-with-the-feds-from-fda-to-hrsa-washington-backs-psychedelics/",
-      "source": "Psychedelic Alpha",
-      "abstract": "",
-      "date": "2026-07-13",
       "authors": [],
       "doi": ""
     },
@@ -571,7 +569,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2018-004480-31/CZ",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-08-04",
+      "date": "2026-08-05",
       "authors": [],
       "doi": ""
     },
@@ -580,7 +578,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2020-005037-32/CZ",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-08-04",
+      "date": "2026-08-05",
       "authors": [],
       "doi": ""
     },
@@ -589,7 +587,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2021-002909-10/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-08-04",
+      "date": "2026-08-05",
       "authors": [],
       "doi": ""
     },
@@ -598,7 +596,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2015-000550-37/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-08-04",
+      "date": "2026-08-05",
       "authors": [],
       "doi": ""
     },
@@ -607,7 +605,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2021-000041-40/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-08-04",
+      "date": "2026-08-05",
       "authors": [],
       "doi": ""
     },
@@ -616,7 +614,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2020-000829-55/DK",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-08-04",
+      "date": "2026-08-05",
       "authors": [],
       "doi": ""
     },
@@ -625,7 +623,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2020-002790-94/SE",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-08-04",
+      "date": "2026-08-05",
       "authors": [],
       "doi": ""
     },
@@ -634,7 +632,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2021-006200-33/FI",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-08-04",
+      "date": "2026-08-05",
       "authors": [],
       "doi": ""
     },
@@ -643,7 +641,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2019-004812-73/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-08-04",
+      "date": "2026-08-05",
       "authors": [],
       "doi": ""
     },
@@ -652,7 +650,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2022-002369-14/BE",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-08-04",
+      "date": "2026-08-05",
       "authors": [],
       "doi": ""
     },

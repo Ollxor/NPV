@@ -1,0 +1,59 @@
+name: Gap Fill (one-time outage recovery)
+
+on:
+  workflow_dispatch:
+    inputs:
+      from_date:
+        description: 'Start date (YYYY-MM-DD, default: start of credit outage)'
+        required: false
+        default: '2026-07-30'
+      to_date:
+        description: 'End date (YYYY-MM-DD, default: end of credit outage)'
+        required: false
+        default: '2026-08-06'
+      dry_run:
+        description: 'Dry run (show what would be posted/written, do not post or write)'
+        required: false
+        default: 'false'
+        type: choice
+        options:
+          - 'false'
+          - 'true'
+
+jobs:
+  gap-fill:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run gap fill
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          SLACK_WEBHOOK_URL: ${{ secrets.SLACK_WEBHOOK_URL }}
+          GAP_FROM: ${{ github.event.inputs.from_date }}
+          GAP_TO: ${{ github.event.inputs.to_date }}
+          DRY_RUN: ${{ github.event.inputs.dry_run }}
+        run: python src/gap_fill.py
+
+      - name: Commit feed and archive
+        if: ${{ github.event.inputs.dry_run != 'true' }}
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "NPV Bot"
+          git add docs/data/feed.json data/archive.json
+          git diff --staged --quiet || git commit -m "chore: gap-fill outage window ${{ github.event.inputs.from_date }} – ${{ github.event.inputs.to_date }} [skip ci]"
+          git pull --rebase origin main
+          git push

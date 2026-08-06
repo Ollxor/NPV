@@ -1,7 +1,97 @@
 {
-  "date": "2026-08-05",
-  "cached_at": "2026-08-05T08:31:23.530597+00:00",
+  "date": "2026-08-06",
+  "cached_at": "2026-08-06T08:31:34.653810+00:00",
   "articles": [
+    {
+      "title": "Prevalence of Potential Contraindications and Risk Factors Relevant to MDMA-Assisted Therapy Among U.S. Veterans with Posttraumatic Stress Disorder.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42555520/",
+      "source": "PubMed",
+      "abstract": "3,4-methylenedioxymethamphetamine (MDMA)-assisted therapy has emerged as a potential strategy to treat posttraumatic stress disorder (PTSD). We conducted a national serial cross-sectional study of U.S. Veterans with PTSD from January 1, 2018, to December 31, 2023, to quantify the prevalence of potential contraindications, risk factors, and drug-drug interactions relevant to MDMA-assisted therapy. Participants were required to have at least two diagnostic codes for PTSD within a calendar year. Each year, 303,451 to 326,315 participants received care for PTSD. The annual proportion of individuals with at least one contraindication for MDMA-assisted therapy ranged from 15.3% to 17.3%, and the annual proportion with at least one conditional or modifiable risk factor ranged from 55.2% to 58.2%. Each year, 85.7% to 87.5% of participants filled at least one prescription for another medication that potentially interacts with MDMA. Many individuals with PTSD have contraindications or conditional risk factors that may require additional evaluation prior to receiving MDMA-assisted therapy, but many may be eligible with careful management of modifiable conditions and potential drug-drug interactions. Our results have important implications for policymakers and clinicians as studies examining the safety and efficacy of MDMA-assisted therapy continue to evolve toward potential implementation.",
+      "date": "2026-08-05",
+      "authors": [
+        "Hwang Catherine S",
+        "Cameron David C",
+        "O'Neill Allison C"
+      ],
+      "doi": "10.1080/02791072.2026.2710059"
+    },
+    {
+      "title": "Disrupted self-referential processing and empathy-based interventions in mental disorders: neural mechanisms, cognitive biases, and therapeutic integration.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42555400/",
+      "source": "PubMed",
+      "abstract": "Self-referential processing (SRP), the mental activity of linking experiences and stimuli to the self, is fundamental to shaping identity, regulating affect, and navigating complex social environments. Disruptions in SRP are increasingly recognized as a transdiagnostic hallmark across psychiatric disorders, including schizophrenia spectrum disorders, major depressive disorder, and anxiety disorders. Such disruptions often manifest as distorted self-perception, negative cognitive-affective biases, and dysfunctional connectivity within key neural networks, particularly the default mode network (DMN) and the medial prefrontal cortex (mPFC). Emerging evidence reveals a dynamic bidirectional relationship between SRP and empathy. Impairments in self-processing may hinder the capacity to accurately infer others' emotional and cognitive states, while deficits in empathic attunement may reinforce maladaptive self-focus. This interplay contributes to social withdrawal, interpersonal dysfunction, and emotional dysregulation across diagnostic boundaries. Recent therapeutic advances suggest that interventions targeting the interface between SRP and empathy may effectively modulate shared neurocognitive mechanisms. Such interventions include metacognitive therapy, mindfulness-based interventions, and psychedelic-assisted psychotherapy. These therapeutic approaches show preliminary but promising evidence for reducing maladaptive self-focused attention, enhancing emotion regulation, and improving social functioning. This review synthesizes empirical evidence regarding the neural underpinnings of SRP, delineates disorder-specific alterations in self-referential processing, and examines the bidirectional interplay between SRP and empathic functioning. We further outline a conceptual framework for empathy-based interventions targeting SRP dysfunction and propose future directions for precision psychiatry research. Emphasis is placed on developing personalized, mechanism-driven therapeutic strategies informed by computational modeling, transdiagnostic biomarker identification, and digital therapeutic platforms.",
+      "date": "2026-07-06",
+      "authors": [
+        "Siqintu",
+        "Bao Qinglin",
+        "Yang Dezhi"
+      ],
+      "doi": "10.3389/fpsyt.2026.1850823"
+    },
+    {
+      "title": "Blinding Integrity and Psychedelic Drug Trials.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42555027/",
+      "source": "PubMed",
+      "abstract": "",
+      "date": "2026-08-05",
+      "authors": [
+        "Hsu Tien-Wei",
+        "Liang Chih-Sung",
+        "Tu Yu-Kang"
+      ],
+      "doi": "10.1001/jamapsychiatry.2026.2290"
+    },
+    {
+      "title": "Blinding Integrity and Psychedelic Drug Trials-Reply.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42555020/",
+      "source": "PubMed",
+      "abstract": "",
+      "date": "2026-08-05",
+      "authors": [
+        "Cubala Wieslaw J",
+        "Valcheva Velichka",
+        "Thase Michael E"
+      ],
+      "doi": "10.1001/jamapsychiatry.2026.2296"
+    },
+    {
+      "title": "Blinding Integrity and Psychedelic Drug Trials.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42555000/",
+      "source": "PubMed",
+      "abstract": "",
+      "date": "2026-08-05",
+      "authors": [
+        "Elliott Michael",
+        "Chernoloz Olga"
+      ],
+      "doi": "10.1001/jamapsychiatry.2026.2293"
+    },
+    {
+      "title": "Editorial: Emerging treatment approaches for substance use disorders.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42553213/",
+      "source": "PubMed",
+      "abstract": "",
+      "date": "2026-07-21",
+      "authors": [
+        "Martinez Garza David",
+        "Blokhin Ilya O",
+        "Brett Jonathan"
+      ],
+      "doi": "10.3389/fpsyt.2026.1926719"
+    },
+    {
+      "title": "Psychedelics and women's mental health: the effects of female sex hormones on psychedelics' efficacy and tolerability.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42552418/",
+      "source": "PubMed",
+      "abstract": "Women experience a disproportionate burden of affective and stress-related disorders, with symptom variability shaped by endocrine transitions across the menstrual cycle, pregnancy, postpartum, and menopause. Although psychedelic-assisted therapies are increasingly investigated for these conditions, hormonal state represents a largely unaccounted determinant of variability in exposure, response, and tolerability. This narrative review synthesizes clinical, preclinical, and neuroimaging literature to examine how estradiol and progesterone modulate psychedelic pharmacokinetics, pharmacodynamics, and large-scale brain network dynamics implicated in psychiatric disorders. At the pharmacokinetic level, sex hormones influence gastrointestinal physiology (including gastric pH and transit time), tissue distribution via body composition and fluid balance, and hepatic metabolism through modulation of CYP450 enzymes, particularly CYP3A4 and CYP2D6, which are key pathways for LSD and psilocin biotransformation. Renal elimination plays a comparatively minor role. These processes may collectively alter onset, peak concentration, and systemic exposure across hormonal states, although direct human data for psychedelics remain absent. At the pharmacodynamic level, estradiol and progesterone regulate serotonergic signaling, including dynamic modulation of 5-HT2A receptor density and binding across the menstrual cycle and reproductive lifespan. Platelet, PET, and SPECT studies indicate higher 5-HT2A availability in low-progesterone states and reduced availability in progesterone-dominant or hypoestrogenic states. Beyond 5-HT2A, psychedelics engage broader serotonergic, glutamatergic, and GABAergic systems that converge on prefrontal-limbic, default mode, and salience networks, circuits that are also dysregulated across depression, anxiety, and trauma-related disorders. Hormonal fluctuations may further influence subjective intensity and tolerability, with potential sensitivity peaks in the early-mid follicular and early luteal phases, although direct evidence remains limited. Together, these findings suggest sex hormones as a mechanistically plausible, clinically relevant but under-characterized source of variability in psychedelic treatment response.",
+      "date": "2026-08-04",
+      "authors": [
+        "Kuypers Kim P C",
+        "Mason Natasha L",
+        "Carlier Aurelie"
+      ],
+      "doi": "10.1038/s41380-026-03801-2"
+    },
     {
       "title": "(Es)ketamine in functional neurological disorder: a systematic review.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42548890/",
@@ -167,94 +257,6 @@
         "Siddarth Prabha"
       ],
       "doi": "10.1177/28314425251387655"
-    },
-    {
-      "title": "Assessing The Readiness of Psychiatrists in Louisiana to Incorporate Psilocybin into Clinical Practice-Lessons Learned from a State Underrepresented in Clinical Psychedelic Research.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42539773/",
-      "source": "PubMed",
-      "abstract": "Psilocybin has been granted breakthrough therapy status in the United States, speeding its advancement from research to clinical care. Due to the controversial nature of psilocybin, psychiatrists may not be fully prepared to incorporate it into clinical practice. The current study aimed to evaluate the opinions toward psilocybin among practicing psychiatrists in Louisiana. Louisiana serves as a representative state, modeling other areas with limited exposure to psychedelic research. A 30-question survey was distributed via mail and digital newsletter to all registered Louisiana psychiatrists. The survey consisted of demographic questions and questions pertaining to how strongly respondents agreed or disagreed with statements about psilocybin and psychedelics on a five-point Likert scale. The statements aimed to assess knowledge and exposure to psilocybin including opinions on research and legalization, safety and addiction potential, medical use, and potential benefits and usages. Forty-nine responses were recorded. Eighty-two percent of participants reported having \"some knowledge\" of psilocybin. Eighty-six percent believed psilocybin should be researched for medicinal value, and 71% would prescribe psilocybin if it were proven beneficial for their patient's illness. Fifty-seven percent believed it should be considered a first-line treatment for certain conditions, while 73% believed it should be used only after exhausting all other treatment modalities. The study had an overall 10.5% response rate, potentially limiting the generalizability of the findings. Louisiana psychiatrists in our sample appear open to integrating psilocybin into their practice if there is strong regulatory support. Psilocybin research is rapidly expanding and will soon reach Louisiana and other states with a limited history of psychedelic clinical research. These findings warrant the development of an educational program on psychedelics to arm psychiatrists and patients with the knowledge to make the most informed decisions.",
-      "date": "2025-12-19",
-      "authors": [
-        "Husein Amanda",
-        "Traylor Madalynn",
-        "Vest M Frances"
-      ],
-      "doi": "10.1177/28314425251381806"
-    },
-    {
-      "title": "Therapeutic Potential of Psilocybin in Psychiatric Disorders: Mechanisms, Efficacy, and Clinical Implications.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42538940/",
-      "source": "PubMed",
-      "abstract": "Psilocybin, a serotonergic psychedelic, has gained attention as a potential treatment for various psychiatric conditions. In this review, the authors summarize current clinical evidence related to psilocybin's efficacy, safety, and mechanisms of action across psychiatric disorders. Findings from early-phase and small-scale clinical trials suggest rapid but variable reductions in depressive symptoms, with some studies reporting sustained effects. Psilocybin has also shown preliminary benefits in alleviating anxiety related to life-threatening illness and in reducing substance use, including alcohol and tobacco dependence. Emerging but limited evidence supports possible therapeutic effects in the treatment of obsessive-compulsive disorder, body dysmorphic disorder, anorexia nervosa, and posttraumatic stress disorder. Reported adverse events, such as headache, nausea, and short-lived anxiety, are typically transient and mild; however, notable adverse reactions have occurred in larger randomized trials. Mechanistically, psilocybin may act by modulating limbic-prefrontal circuits, promoting synaptic plasticity, and enhancing emotional and cognitive flexibility, in particular when administered alongside structured psychotherapeutic support. Although the existing data are encouraging, the evidence base remains limited by small sample sizes, highly selective populations, and short follow-up durations. Larger, rigorously designed trials are required to confirm efficacy, establish long-term safety, and refine therapeutic protocols. Overall, psilocybin represents a promising but still experimental intervention that warrants further systematic investigation under controlled conditions.",
-      "date": "2026-04-04",
-      "authors": [
-        "Meshkat Shakila",
-        "Jha Manish K",
-        "Bhat Venkat"
-      ],
-      "doi": "10.1176/appi.focus.20250043"
-    },
-    {
-      "title": "From Innovation to Implementation: Translating Advances in Psychopharmacology to Clinical Practice.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42538897/",
-      "source": "PubMed",
-      "abstract": "",
-      "date": "2026-04-04",
-      "authors": [
-        "Bhat Venkat",
-        "Jha Manish K"
-      ],
-      "doi": "10.1176/appi.focus.20260007"
-    },
-    {
-      "title": "Effect of Esketamine on Depressive Symptoms in Adolescents With Major Depressive Disorder at Imminent Suicide Risk: A Randomized Psychoactive-Controlled Study.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42538892/",
-      "source": "PubMed",
-      "abstract": "To evaluate the efficacy, safety, and tolerability of esketamine nasal spray vs psychoactive placebo (oral midazolam) in rapidly reducing depressive symptoms in adolescents with major depressive disorder at imminent risk for suicide. This double-blind, double-dummy, phase 2b study randomized (1:1:1:2) 147 adolescents (12 to <18 years old) to esketamine (28, 56, or 84 mg) or midazolam twice weekly for 4 weeks. Participants concomitantly received comprehensive standard of care, including initial hospitalization, oral antidepressant, and evidenced-based psychotherapy. The primary efficacy end point-change in Children's Depression Rating Scale-Revised (CDRS-R) total score from baseline to 24 hours post first dose-was analyzed using analysis of covariance, according to a pooled sequential multiple testing procedure. All participants were moderately to severely depressed at enrollment; approximately 95% were moderately to extremely suicidal. Pooled esketamine doses (56 and 84 mg) showed superiority over midazolam in reducing CDRS-R total score at 24 hours post first dose (between-group difference of least squares means [95% CI]:-5.8 [-11.19,-0.35],  The primary efficacy end point of the study was met for the pooled esketamine doses (56 and 84 mg). Esketamine in conjunction with comprehensive standard of care rapidly improved depressive symptoms among adolescents at imminent risk for suicide. This double-blind randomized controlled clinical trial compared the effects of esketamine nasal spray (28, 56, or 84 mg) to a psychoactive placebo (midazolam) in 147 adolescents with major depressive disorder who were at imminent risk for suicide. All participants also received standard-of-care treatment, including initial hospitalization, oral antidepressant treatment, and evidenced-based psychotherapy. Combined 56- and 84-mg doses of esketamine were superior to midazolam in reducing depressive symptoms at 24 hours following the first dose; all 4 treatment groups showed continued improvement in depressive symptoms and severity of suicidality after 4 weeks of treatment. The most common side effects reported for esketamine-treated participants were dizziness, nausea, dissociation, headache, bitter taste, and sleepiness.Appeared originally in",
-      "date": "2026-04-04",
-      "authors": [
-        "Kosik-Gonzalez Colette",
-        "Fu Dong-Jing",
-        "Chen Li Nancy"
-      ],
-      "doi": "10.1176/appi.focus.26024113"
-    },
-    {
-      "title": "\"I've Done My Research\": Psychedelics, PTSD, and the Therapeutic Alliance.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42538891/",
-      "source": "PubMed",
-      "abstract": "",
-      "date": "2026-04-04",
-      "authors": [
-        "Stubbe Dorothy E"
-      ],
-      "doi": "10.1176/appi.focus.20260003"
-    },
-    {
-      "title": "Long-Term Safety and Maintenance of Response With Esketamine Nasal Spray in Participants With Treatment-Resistant Depression: Interim Results of the SUSTAIN-3 Study.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42538888/",
-      "source": "PubMed",
-      "abstract": "Patients with treatment-resistant depression (TRD) have higher rates of relapse and pronounced decreases in daily functioning and health-related quality of life compared to patients with major depressive disorder who are not treatment-resistant, underscoring the need for treatment choices with sustained efficacy and long-term tolerability. Adults with TRD who participated in ≥1 of 6 phase 3 \"parent\" studies could continue esketamine treatment, combined with an oral antidepressant, by enrolling in phase 3, open-label, long-term extension study, SUSTAIN-3. Based on their status at parent-study end, eligible participants entered a 4-week induction phase followed by an optimization/maintenance phase, or directly entered the optimization/maintenance phase of SUSTAIN-3. Intranasal esketamine dosing was flexible, twice-weekly during induction and individualized to depression severity during optimization/maintenance. At the interim data cutoff (01 December 2020), 1148 participants were enrolled, 458 at induction and 690 at optimization/maintenance. Mean (median) cumulative duration of maintenance esketamine treatment was 31.5 (37.7) months (totaling 2769 cumulative patient-years). Common treatment-emergent adverse events (≥20%) were headache, dizziness, nausea, dissociation, somnolence, and nasopharyngitis. Mean Montgomery-Åsberg Depression Rating Scale (MADRS) total score decreased during induction, and this reduction persisted during optimization/maintenance (mean [SD] change from the baseline to the endpoint of each phase: induction -12.8 [9.73]; optimization/maintenance +1.1 [9.93]), with 35.6% and 46.1% of participants in remission (MADRS total score ≤12) at induction and optimization/maintenance endpoints, respectively. Improvement in depression ratings generally persisted among participants who remained in maintenance treatment, and no new safety signal was identified during long-term treatment (up to 4.5 years) using intermittent-dosed esketamine in conjunction with daily antidepressant. Appeared originally in",
-      "date": "2026-04-04",
-      "authors": [
-        "Zaki Naim",
-        "Chen Li Nancy",
-        "Lane Rosanne"
-      ],
-      "doi": "10.1176/appi.focus.26024111"
-    },
-    {
-      "title": "Emerging Clinical Applications of Ketamine and Esketamine Across Psychiatric Disorders.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42538887/",
-      "source": "PubMed",
-      "abstract": "Over the past 25 years, the field of psychiatry has seen a rapid expansion of ketamine treatment services offered for the off-label management of depression, anxiety, and other psychiatric disorders as well as the U.S. Food and Drug Administration's approval of intranasal esketamine, the S-enantiomer of ketamine, for treatment-resistant depression and suicidal depression. In this review, the authors describe recent advances in the use of ketamine and esketamine for the treatment of depression and other psychiatric disorders, new research on novel treatment targets, and emerging evidence about ketamine's potential as a prophylactic intervention. Key outstanding issues and limitations of current ketamine treatment also are discussed.",
-      "date": "2026-04-04",
-      "authors": [
-        "Fremont Rachel",
-        "Corwin Marcella",
-        "Kandel Greta"
-      ],
-      "doi": "10.1176/appi.focus.20250046"
     },
     {
       "title": "From Sonora to Big Pharma: Kimon de Greef Traces the Strange Rise of 5-MeO-DMT",
@@ -569,7 +571,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2018-004480-31/CZ",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-08-05",
+      "date": "2026-08-06",
       "authors": [],
       "doi": ""
     },
@@ -578,7 +580,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2020-005037-32/CZ",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-08-05",
+      "date": "2026-08-06",
       "authors": [],
       "doi": ""
     },
@@ -587,7 +589,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2021-002909-10/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-08-05",
+      "date": "2026-08-06",
       "authors": [],
       "doi": ""
     },
@@ -596,7 +598,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2015-000550-37/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-08-05",
+      "date": "2026-08-06",
       "authors": [],
       "doi": ""
     },
@@ -605,7 +607,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2021-000041-40/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-08-05",
+      "date": "2026-08-06",
       "authors": [],
       "doi": ""
     },
@@ -614,7 +616,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2020-000829-55/DK",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-08-05",
+      "date": "2026-08-06",
       "authors": [],
       "doi": ""
     },
@@ -623,7 +625,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2020-002790-94/SE",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-08-05",
+      "date": "2026-08-06",
       "authors": [],
       "doi": ""
     },
@@ -632,7 +634,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2021-006200-33/FI",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-08-05",
+      "date": "2026-08-06",
       "authors": [],
       "doi": ""
     },
@@ -641,7 +643,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2019-004812-73/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-08-05",
+      "date": "2026-08-06",
       "authors": [],
       "doi": ""
     },
@@ -650,7 +652,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2022-002369-14/BE",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-08-05",
+      "date": "2026-08-06",
       "authors": [],
       "doi": ""
     },

@@ -1,6 +1,773 @@
 {
   "items": [
     {
+      "title": "Prevalence of Potential Contraindications and Risk Factors Relevant to MDMA-Assisted Therapy Among U.S. Veterans with Posttraumatic Stress Disorder.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42555520/",
+      "source": "PubMed",
+      "date": "2026-Aug",
+      "authors": [
+        "Hwang Catherine S",
+        "Cameron David C",
+        "O'Neill Allison C"
+      ],
+      "doi": "10.1080/02791072.2026.2710059",
+      "summary_en": "National cross-sectional study (2018-2023) of 303,000-326,000 U.S. veterans with PTSD examined eligibility for MDMA-assisted therapy. Findings: 15-17% had absolute contraindications, 55-58% had conditional/modifiable risk factors, and 86-88% took medications with potential MDMA interactions. While many veterans require additional evaluation, careful management of modifiable conditions may enable treatment access.",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "observational",
+      "substances": [
+        "mdma"
+      ],
+      "added_at": "2026-08-01T12:00:00+00:00"
+    },
+    {
+      "title": "Blinding Integrity and Psychedelic Drug Trials.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42555027/",
+      "source": "PubMed",
+      "date": "2026-Aug",
+      "authors": [
+        "Hsu Tien-Wei",
+        "Liang Chih-Sung",
+        "Tu Yu-Kang"
+      ],
+      "doi": "10.1001/jamapsychiatry.2026.2290",
+      "summary_en": "This article examines blinding integrity in psychedelic clinical trials, addressing methodological challenges in maintaining participant and researcher blindness when testing substances with distinctive subjective effects.",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "other",
+      "substances": [
+        "other"
+      ],
+      "added_at": "2026-08-01T12:00:00+00:00"
+    },
+    {
+      "title": "Blinding Integrity and Psychedelic Drug Trials-Reply.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42555020/",
+      "source": "PubMed",
+      "date": "2026-Aug",
+      "authors": [
+        "Cubala Wieslaw J",
+        "Valcheva Velichka",
+        "Thase Michael E"
+      ],
+      "doi": "10.1001/jamapsychiatry.2026.2296",
+      "summary_en": "This is a reply article addressing blinding integrity in psychedelic research trials. Without access to the full text, the specific methodological concerns and responses cannot be detailed. The piece likely discusses challenges in maintaining double-blind conditions in clinical studies of hallucinogens, given their distinctive subjective effects.",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "other",
+      "substances": [
+        "other"
+      ],
+      "added_at": "2026-08-01T12:00:00+00:00"
+    },
+    {
+      "title": "Blinding Integrity and Psychedelic Drug Trials.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42555000/",
+      "source": "PubMed",
+      "date": "2026-Aug",
+      "authors": [
+        "Elliott Michael",
+        "Chernoloz Olga"
+      ],
+      "doi": "10.1001/jamapsychiatry.2026.2293",
+      "summary_en": "This article examines blinding integrity in psychedelic clinical trials. Effective blinding is challenging in psychedelic research due to participants' perceptual experiences. The study discusses methodological implications for maintaining trial validity and suggests strategies to strengthen blinding procedures in future psychedelic investigations.",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "other",
+      "substances": [
+        "other"
+      ],
+      "added_at": "2026-08-01T12:00:00+00:00"
+    },
+    {
+      "title": "Psychedelics and women's mental health: the effects of female sex hormones on psychedelics' efficacy and tolerability.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42552418/",
+      "source": "PubMed",
+      "date": "2026-Aug",
+      "authors": [
+        "Kuypers Kim P C",
+        "Mason Natasha L",
+        "Carlier Aurelie"
+      ],
+      "doi": "10.1038/s41380-026-03801-2",
+      "summary_en": "Narrative review examining how female sex hormones (estradiol and progesterone) modulate psychedelic pharmacokinetics, pharmacodynamics, and brain networks. Evidence suggests hormones alter gastrointestinal physiology, hepatic metabolism (CYP3A4, CYP2D6), and serotonergic signaling including 5-HT2A receptor density across menstrual cycles. Despite preclinical and neuroimaging data, direct human pharmacokinetic studies in psychedelic-assisted therapies remain absent, highlighting a critical gap given women's higher burden of mood and stress disorders.",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "review",
+      "substances": [
+        "lsd",
+        "psilocybin"
+      ],
+      "added_at": "2026-08-01T12:00:00+00:00"
+    },
+    {
+      "title": "A crucial cautionary note on frequently incorrect dose equivalence between ketamine and esketamine.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42547800/",
+      "source": "PubMed",
+      "date": "2026-Aug",
+      "authors": [
+        "Damiano Rodolfo Furlan",
+        "Medeiros Gustavo C",
+        "Quevedo João"
+      ],
+      "doi": "10.1038/s41380-026-03807-w",
+      "summary_en": "Researchers warn of frequent errors in dose equivalence calculations between ketamine and esketamine. The article highlights critical discrepancies in clinical dosing practices that could affect treatment outcomes and patient safety in psychedelic-assisted therapies.",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "other",
+      "substances": [
+        "ketamine"
+      ],
+      "added_at": "2026-08-01T12:00:00+00:00"
+    },
+    {
+      "title": "Safety and Efficacy of Psilocybin During Anticancer Treatment: A Phase II Trial Secondary Analysis.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42546985/",
+      "source": "PubMed",
+      "date": "2026-Aug",
+      "authors": [
+        "Schaefer Daniel A",
+        "Agrawal Manish",
+        "Mazzola Emanuele"
+      ],
+      "doi": "10.1016/j.jpainsymman.2026.07.030",
+      "summary_en": "Phase II secondary analysis (n=30) examined psilocybin-assisted therapy safety and efficacy in cancer patients with depression, comparing those receiving concurrent systemic treatment (n=17) versus not (n=13). Both groups showed significant MADRS score improvements at weeks 1, 3, and 8 with no significant differences. Adverse events were frequent but comparable; severe events occurred only in the treated group but were deemed unrelated to psilocybin.",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "rct",
+      "substances": [
+        "psilocybin"
+      ],
+      "added_at": "2026-08-01T12:00:00+00:00"
+    },
+    {
+      "title": "Psychological change processes in alcohol use disorder: A qualitative study of 5-methoxy-N,N-dimethyltryptamine (5-MeO-DMT) with cognitive behavioural therapy.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42544757/",
+      "source": "PubMed",
+      "date": "2026-Aug",
+      "authors": [
+        "Seynaeve Mathieu",
+        "Dunbar Fiona",
+        "Ermakova Anna O"
+      ],
+      "doi": "10.1111/add.70555",
+      "summary_en": "Qualitative study embedded in a phase 2a open-label trial examining psychological change processes in 10 participants with moderate-to-severe alcohol use disorder receiving a single intranasal dose of 5-MeO-DMT alongside cognitive behavioural therapy for relapse prevention. Semi-structured interviews with participants and therapists at day 1 and week 12 explored acute experiences, perceived psychological and behavioural changes, and the perceived role of therapeutic support.",
+      "notable": true,
+      "notable_reason": "First-in-human clinical trial of intranasal 5-MeO-DMT (novel route of administration) for alcohol use disorder with integrated qualitative analysis of change mechanisms.",
+      "study_type": "qualitative",
+      "substances": [
+        "other"
+      ],
+      "added_at": "2026-08-01T12:00:00+00:00"
+    },
+    {
+      "title": "Psilocybin for Fear of Cancer Recurrence.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42541603/",
+      "source": "PubMed",
+      "date": "2026-Aug",
+      "authors": [
+        "Cho Matthew",
+        "Rosenbaum Daniel",
+        "Hapke Emma"
+      ],
+      "doi": "10.1007/s00520-026-11065-3",
+      "summary_en": "Study examining psilocybin's potential therapeutic effects on fear of cancer recurrence in cancer survivors. Research explores how hallucinogenic substances may reduce anxiety related to disease progression concerns in this patient population.",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "other",
+      "substances": [
+        "psilocybin"
+      ],
+      "added_at": "2026-08-01T12:00:00+00:00"
+    },
+    {
+      "title": "Cardiovascular safety of psilocybin in psychiatric practice: a narrative review.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42538465/",
+      "source": "PubMed",
+      "date": "2026-Aug",
+      "authors": [
+        "Szarpak Lukasz",
+        "Pruc Michal",
+        "Swieczkowski Damian"
+      ],
+      "doi": "10.1007/s00228-026-04151-2",
+      "summary_en": "A narrative review of psilocybin's cardiovascular safety as psychiatric applications expand beyond clinical trials. Analysis of hemodynamics, QT interval effects, and serotonin receptor interactions shows mean systolic/diastolic increases (~19/8.7 mmHg) peaking 60-90 min post-dose in supervised settings. Serious acute events remain rare in screened participants, but risk assessment must account for comorbidities, drug interactions, and repeated exposure.",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "review",
+      "substances": [
+        "psilocybin"
+      ],
+      "added_at": "2026-08-01T12:00:00+00:00"
+    },
+    {
+      "title": "Barriers and Facilitators for Psychedelic Research and Regulation in Brazil: Insights From Diverse Stakeholders.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42288429/",
+      "source": "PubMed",
+      "date": "2026-Aug",
+      "authors": [
+        "Guimarães Anna Luiza",
+        "Beserra Fernando R",
+        "Cruz Lucas"
+      ],
+      "doi": "10.1016/j.clinthera.2026.05.012",
+      "summary_en": "Qualitative interview study (n=26) examining barriers, facilitators, and stakeholder perspectives on psychedelic research and regulation in Brazil. Diverse participants included Indigenous leaders, clinicians, policymakers, and activists. Thematic analysis identified four barriers (accessibility, regulation, limited knowledge, risks), three facilitators (innovation need, scientific advancement, legal loopholes), and four perspectives (ancestral knowledge integration, scientific rigor, user autonomy, social benefits).",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "qualitative",
+      "substances": [
+        "other"
+      ],
+      "added_at": "2026-08-01T12:00:00+00:00"
+    },
+    {
+      "title": "Ketamine and Evolving Neuroplasticity.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42287566/",
+      "source": "PubMed",
+      "date": "2026-Aug",
+      "authors": [
+        "Prabakar Angel"
+      ],
+      "doi": "10.1007/s40261-026-01565-9",
+      "summary_en": "This review synthesizes preclinical and clinical evidence on ketamine's time-dependent neuroplastic effects in treating mood disorders. Unlike traditional antidepressants, ketamine acts via NMDA receptor antagonism, triggering glutamatergic signaling that promotes synaptic plasticity and rapid symptom relief. The review examines molecular changes including BDNF signaling, mTOR pathway activation, and AMPA receptor modulation, and correlates these with clinical outcomes in mood, cognition, and functioning.",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "review",
+      "substances": [
+        "ketamine"
+      ],
+      "added_at": "2026-08-01T12:00:00+00:00"
+    },
+    {
+      "title": "AMPA receptor modulation in depression: from molecular mechanisms of plasticity to therapeutic translation.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42284011/",
+      "source": "PubMed",
+      "date": "2026-Aug",
+      "authors": [
+        "Ziemichód Wojciech",
+        "Kajka Natalia",
+        "Kister Klaudia"
+      ],
+      "doi": "10.1007/s43440-026-00871-5",
+      "summary_en": "AMPA receptor modulators, particularly AMPAkines, show promise for rapid-acting depression treatment. These positive allosteric modulators enhance glutamatergic signaling and BDNF expression. Preclinical studies demonstrate antidepressant effects with low-impact compounds offering favorable safety profiles, though seizure risk exists with high-impact variants. Limited clinical trials support efficacy, but translational challenges remain: narrow therapeutic windows, suboptimal pharmacokinetics, and weak animal model predictivity.",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "review",
+      "substances": [
+        "ketamine"
+      ],
+      "added_at": "2026-08-01T12:00:00+00:00"
+    },
+    {
+      "title": "Dreaming during anaesthesia: a scoping review.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42270528/",
+      "source": "PubMed",
+      "date": "2026-Aug",
+      "authors": [
+        "Sikka Pilleriin",
+        "Hu Sherry",
+        "Heifets Boris D"
+      ],
+      "doi": "10.1016/j.bja.2026.05.002",
+      "summary_en": "Dreaming during anaesthesia: a scoping review.",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "review",
+      "substances": [
+        "ketamine"
+      ],
+      "added_at": "2026-08-01T12:00:00+00:00"
+    },
+    {
+      "title": "Letter to the Editor: Esketamine in treatment-resistant depression: Beyond symptom reduction toward psychopathological network reorganization.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42269353/",
+      "source": "PubMed",
+      "date": "2026-Aug",
+      "authors": [
+        "Baharuddin Baharuddin",
+        "Setyaningrum Rohmaningtyas Hidayah",
+        "Handayani Lilies"
+      ],
+      "doi": "10.1016/j.ajp.2026.105044",
+      "summary_en": "Letter examining esketamine's mechanism in treatment-resistant depression, proposing that therapeutic effects may extend beyond symptom reduction to involve reorganization of psychopathological networks. The analysis suggests esketamine's action operates at a systems level rather than simply alleviating individual symptoms.",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "other",
+      "substances": [
+        "ketamine"
+      ],
+      "added_at": "2026-08-01T12:00:00+00:00"
+    },
+    {
+      "title": "Mystery shopper assessments of cannabis retailer practices and regulatory compliance in five U.S. states, 2025.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42224931/",
+      "source": "PubMed",
+      "date": "2026-Aug",
+      "authors": [
+        "Berg Carla J",
+        "LoParco Cassidy R",
+        "Rossheim Matthew E"
+      ],
+      "doi": "10.1016/j.drugalcdep.2026.113218",
+      "summary_en": "Mystery shopper assessments of cannabis retailer practices and regulatory compliance in five U.S. states, 2025.",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "observational",
+      "substances": [
+        "psilocybin"
+      ],
+      "added_at": "2026-08-01T12:00:00+00:00"
+    },
+    {
+      "title": "A systematic review of the pharmacokinetics of classical serotonergic psychedelic compounds in healthy adult subjects.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42212869/",
+      "source": "PubMed",
+      "date": "2026-Aug",
+      "authors": [
+        "Hampsey Elliot",
+        "Martin Kirsty",
+        "Kalfas Michail"
+      ],
+      "doi": "10.1177/02698811261453938",
+      "summary_en": "A systematic review of 32 trials examined pharmacokinetic profiles of classical serotonergic psychedelics (LSD, psilocybin, DMT, mescaline, 5-MeO-DMT) in healthy adults. LSD was most studied, followed by DMT via intravenous and oral routes, and psilocybin. Mescaline had limited data (2 trials). Key findings reveal dose-proportional responses and important variations in absorption, distribution, and elimination between compounds with implications for clinical and research applications.",
+      "notable": true,
+      "notable_reason": "Systematic review synthesizing pharmacokinetic data across 32 trials of multiple classical psychedelics (LSD, psilocybin, DMT, mescaline, 5-MEO-DMT) with implications for clinical and research design.",
+      "study_type": "review",
+      "substances": [
+        "lsd",
+        "psilocybin",
+        "mescaline",
+        "other"
+      ],
+      "added_at": "2026-08-01T12:00:00+00:00"
+    },
+    {
+      "title": "The Serotonin 2B (5-HT2B) Receptor: A Narrative Review of Preclinical and Clinical Evidence on the Safety Considerations and Therapeutic Potential for the Treatment of Depression.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42209433/",
+      "source": "PubMed",
+      "date": "2026-Aug",
+      "authors": [
+        "Le Gia Han",
+        "Wong Sabrina",
+        "Johnson Danica E"
+      ],
+      "doi": "10.1002/cpt.70344",
+      "summary_en": "Narrative review examining 5-HT2B receptor's role in depression treatment. While peripheral 5-HT2B agonism risks valvular heart disease (documented with fenfluramine, ergot agonists), central mechanisms show antidepressant potential through astrocytic and neuronal signaling. Classical psychedelics bind 5-HT2B receptors; cumulative exposure risks from intermittent dosing remain understudied. Some approved antidepressant adjuncts target this pathway, warranting further clinical investigation of safety-efficacy profiles.",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "review",
+      "substances": [
+        "mdma",
+        "psilocybin",
+        "lsd"
+      ],
+      "added_at": "2026-08-01T12:00:00+00:00"
+    },
+    {
+      "title": "Treatment-emergent psychiatric adverse events in patient-reported outcomes during ketamine use for major depressive disorder: a retrospective analysis.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42159864/",
+      "source": "PubMed",
+      "date": "2026-Aug",
+      "authors": [
+        "Kwaśny Aleksander",
+        "Wilkowska Alina",
+        "Pastuszak Michał"
+      ],
+      "doi": "10.1007/s43440-026-00867-1",
+      "summary_en": "Retrospective analysis of 28 inpatients with treatment-resistant depression receiving 8 ketamine infusions as add-on therapy. Psychiatric adverse events were tracked using IDS-SR-30. Sleep disturbances were the most common emerging symptom, with nighttime sleep problems and early waking persisting through follow-up. Appetite and weight changes occurred early in treatment. Mood, cognitive symptoms, and suicidal ideation remained rare, suggesting ketamine's psychiatric safety profile in this population.",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "observational",
+      "substances": [
+        "ketamine"
+      ],
+      "added_at": "2026-08-01T12:00:00+00:00"
+    },
+    {
+      "title": "Regulatory context for protocol amendments and public reporting in psychedelic trials.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42092602/",
+      "source": "PubMed",
+      "date": "2026-Aug",
+      "authors": [
+        "Swieczkowski Damian",
+        "Kwaśny Aleksander",
+        "Cubała Wiesław Jerzy"
+      ],
+      "doi": "10.1016/j.jclinepi.2026.112311",
+      "summary_en": "This article examines regulatory frameworks governing protocol amendments and public reporting in clinical trials of hallucinogens. The study addresses compliance requirements and transparency standards for researchers conducting psychedelic research, emphasizing the importance of proper documentation and disclosure practices in this evolving field.",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "other",
+      "substances": [
+        "other"
+      ],
+      "added_at": "2026-08-01T12:00:00+00:00"
+    },
+    {
+      "title": "Brain iron-sensitive markers (magnetic susceptibility and R2*) predict antidepressant response to ketamine in treatment-resistant depression.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42068886/",
+      "source": "PubMed",
+      "date": "2026-Aug",
+      "authors": [
+        "Yonezawa Kengo",
+        "Nakajima Shinichiro",
+        "Shibukawa Shuhei"
+      ],
+      "doi": "10.1016/j.pscychresns.2026.112229",
+      "summary_en": "Double-blind RCT with open-label extension examining repeated IV ketamine in 17 Japanese TRD patients. Baseline brain iron levels (measured via QSM and R2* mapping) predicted antidepressant response. Higher iron in right nucleus accumbens and left amygdala correlated with greater improvement in retardation and vegetative symptoms on MADRS, suggesting iron-related dopamine dysfunction may indicate ketamine treatment response.",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "observational",
+      "substances": [
+        "ketamine"
+      ],
+      "added_at": "2026-08-01T12:00:00+00:00"
+    },
+    {
+      "title": "5-HT",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42068196/",
+      "source": "PubMed",
+      "date": "2026-Aug",
+      "authors": [
+        "Zahid Zarmeen",
+        "Strassman Rick J",
+        "Qualls Clifford R"
+      ],
+      "doi": "10.1177/02698811261443696",
+      "summary_en": "A double-blind, randomized, placebo-controlled study (n=12) examined how pindolol pretreatment affects subjective responses to DMT. Participants received sub-hallucinogenic intravenous DMT (0.1 mg/kg) after oral pindolol (30 mg). Pindolol pretreatment significantly increased DMT-induced subjective effects via 5-HT2A receptor mechanisms, with moderate effect size. Results suggest serotonergic pathways mediate subjective experiences potentially relevant to therapeutic outcomes.",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "rct",
+      "substances": [
+        "other"
+      ],
+      "added_at": "2026-08-01T12:00:00+00:00"
+    },
+    {
+      "title": "Intranasal Ketamine for Existential Distress in Advanced Cancer.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42055096/",
+      "source": "PubMed",
+      "date": "2026-Aug",
+      "authors": [
+        "Aguiar Stefan",
+        "Makarious Mary",
+        "Lipsitz Orly"
+      ],
+      "doi": "10.1016/j.jpainsymman.2026.04.611",
+      "summary_en": "The INKeD-PC trial evaluated intranasal ketamine for depression and existential distress in 15 advanced cancer patients receiving palliative care. Participants received 3 ketamine doses. Secondary outcome analysis showed significant improvements across all measures: anxiety (d=1.22), death anxiety (d=0.91), symptom burden (d=1.21), and quality of life (d=1.53), exceeding clinically meaningful thresholds. Qualitative feedback supported quantitative findings.",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "rct",
+      "substances": [
+        "ketamine"
+      ],
+      "added_at": "2026-08-01T12:00:00+00:00"
+    },
+    {
+      "title": "Faster and greater antidepressant response to intravenous ketamine in bipolar compared with unipolar treatment-resistant depression: Diagnostic and sex-related findings from a naturalistic study.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42044628/",
+      "source": "PubMed",
+      "date": "2026-Aug",
+      "authors": [
+        "Carmellini Pietro",
+        "Fagiolini Andrea",
+        "Pinzi Mario"
+      ],
+      "doi": "10.1016/j.psychres.2026.117184",
+      "summary_en": "Observational study (N=97) comparing intravenous ketamine efficacy in treatment-resistant unipolar versus bipolar depression. Both groups showed significant symptom reduction over three months, but bipolar patients demonstrated faster and greater improvement from week 2 onwards on MADRS and CGI-S scales. Dissociative effects were measured with CADSS. Real-world data suggest diagnostic differences in ketamine response.",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "observational",
+      "substances": [
+        "ketamine"
+      ],
+      "added_at": "2026-08-01T12:00:00+00:00"
+    },
+    {
+      "title": "Efficacy of N, N-dimethyltryptamine (DMT) psychedelic therapy for substance misuse: A systematic review and meta-analysis.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41967021/",
+      "source": "PubMed",
+      "date": "2026-Aug",
+      "authors": [
+        "Wallace Lisa M",
+        "Bujor Andrea",
+        "Sudre Gustavo"
+      ],
+      "doi": "10.1177/02698811261430518",
+      "summary_en": "Systematic review and meta-analysis (1960-2024) of DMT intervention studies across multiple databases examined its efficacy for substance misuse. DMT showed large overall effect sizes for substance abuse reduction, with enhanced outcomes when combined with psychotherapy. However, included studies had substantial methodological limitations and high bias risk. Results are preliminary and highly heterogeneous across substance types and study designs, warranting cautious interpretation pending future rigorous research.",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "review",
+      "substances": [
+        "other"
+      ],
+      "added_at": "2026-08-01T12:00:00+00:00"
+    },
+    {
+      "title": "Subjective and neurocognitive profiling of clinical doses of 3,4-methylenedioxymethamphetamine (MDMA) in healthy volunteers: implications for therapeutic use.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41951837/",
+      "source": "PubMed",
+      "date": "2026-Aug",
+      "authors": [
+        "Ramaekers Johannes G",
+        "Kuypers Kim P C",
+        "Vollenweider Franz X"
+      ],
+      "doi": "10.1038/s41380-026-03602-7",
+      "summary_en": "Subjective and neurocognitive profiling of clinical doses of 3,4-methylenedioxymethamphetamine (MDMA) in healthy volunteers: implications for therapeutic use.",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "review",
+      "substances": [
+        "mdma"
+      ],
+      "added_at": "2026-08-01T12:00:00+00:00"
+    },
+    {
+      "title": "Adenosine surges: A step forward in understanding antidepressant actions of ketamine.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41951836/",
+      "source": "PubMed",
+      "date": "2026-Aug",
+      "authors": [
+        "Dautan Daniel",
+        "Camargo Anderson",
+        "Svenningsson Per"
+      ],
+      "doi": "10.1038/s41380-026-03594-4",
+      "summary_en": "Recent research investigates adenosine signaling as a mechanism underlying ketamine's antidepressant effects. The study advances understanding of how this dissociative anesthetic produces rapid mood improvement, identifying adenosine surges as a potential key pathway. These findings may inform development of novel antidepressant treatments targeting similar neurochemical processes.",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "preclinical",
+      "substances": [
+        "ketamine"
+      ],
+      "added_at": "2026-08-01T12:00:00+00:00"
+    },
+    {
+      "title": "Role of concomitant benzodiazepines, lithium, and lamotrigine in modulating the antidepressant effects of subcutaneous esketamine in patients with treatment-resistant depressive episodes: A retrospective naturalistic study.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41933621/",
+      "source": "PubMed",
+      "date": "2026-Aug",
+      "authors": [
+        "Atidio João Paulo",
+        "Delfino Rodrigo Simonini",
+        "Garios Igor Saque"
+      ],
+      "doi": "10.1016/j.jad.2026.121721",
+      "summary_en": "Retrospective study of 178 patients examined how benzodiazepines, lithium, and lamotrigine affect esketamine treatment outcomes in treatment-resistant depression. Weekly subcutaneous esketamine (0.5-1.0 mg/kg) for 6 weeks significantly reduced depression scores. Concomitant benzodiazepine use was associated with higher depression scores, while lithium and lamotrigine showed no significant interaction effects.",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "observational",
+      "substances": [
+        "ketamine"
+      ],
+      "added_at": "2026-08-01T12:00:00+00:00"
+    },
+    {
+      "title": "Standardized chronic restraint stress protocols reveal dynamic evolution of behavioral adaptations in male mice: implications for translational neuroscience.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41922793/",
+      "source": "PubMed",
+      "date": "2026-Aug",
+      "authors": [
+        "Lv Zijian",
+        "Xie Qifeng",
+        "Li Kecan"
+      ],
+      "doi": "10.1038/s41380-026-03569-5",
+      "summary_en": "Longitudinal study in male mice comparing chronic restraint stress (CRS) protocols to model stress-induced behavioral adaptations. Short intense CRS (6h/day, 3 days) induced persistent avoidance and repetitive behaviors, while prolonged CRS (2h/day, 10-14 days) progressively impaired reward-seeking and coping. A 10-day protocol emerged as critical threshold for comorbid avoidance and reward-processing deficits. Ketamine reversed reward-seeking impairment; paroxetine alleviated both avoidance and reward-seeking deficits.",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "preclinical",
+      "substances": [
+        "ketamine"
+      ],
+      "added_at": "2026-08-01T12:00:00+00:00"
+    },
+    {
+      "title": "The role of therapeutic alliance in psilocybin treatment for treatment-resistant depression: A post hoc path analysis.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41881122/",
+      "source": "PubMed",
+      "date": "2026-Aug",
+      "authors": [
+        "Goodwin Guy M",
+        "Aaronson Scott T",
+        "Alvarez Oscar"
+      ],
+      "doi": "10.1016/j.jad.2026.121662",
+      "summary_en": "Post hoc path analysis (N=79) examined therapeutic alliance's role in psilocybin treatment for treatment-resistant depression. While pre-dosing alliance showed weak correlation with depression improvement (MADRS Week 3), psychedelic experience measures correlated more strongly. Alliance had minimal direct effect on outcomes but significantly influenced the intensity of psychedelic experiences, which independently predicted clinical improvement.",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "observational",
+      "substances": [
+        "psilocybin"
+      ],
+      "added_at": "2026-08-01T12:00:00+00:00"
+    },
+    {
+      "title": "Psilocybin-assisted therapy for major depressive disorder: Perspective from meta-analysis.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41876058/",
+      "source": "PubMed",
+      "date": "2026-Aug",
+      "authors": [
+        "Kishi Taro",
+        "Sakuma Kenji",
+        "Hatano Masakazu"
+      ],
+      "doi": "10.1016/j.jad.2026.121675",
+      "summary_en": "Meta-analysis of six randomized controlled trials examined psilocybin-assisted therapy for major depressive disorder. Standard-dose psilocybin (25 mg) showed superior efficacy compared to placebo and control conditions in reducing depressive symptoms (SMD: -1.05, p=0.0002). Low-dose psilocybin showed less consistent effects. Results suggest psilocybin may be a promising treatment option, though methodological variation across studies warrants further investigation.",
+      "notable": true,
+      "notable_reason": "Meta-analysis across six RCTs synthesizing efficacy and safety data for psilocybin in MDD with quantified effect sizes (SMD −1.05), addressing a major clinical indication.",
+      "study_type": "review",
+      "substances": [
+        "psilocybin"
+      ],
+      "added_at": "2026-08-01T12:00:00+00:00"
+    },
+    {
+      "title": "Detecting neuroplastic effects induced by ketamine in healthy human subjects: A multimodal approach.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41863255/",
+      "source": "PubMed",
+      "date": "2026-Aug",
+      "authors": [
+        "Agnorelli Claudio",
+        "Peill Joseph",
+        "Sawicka Gabriela"
+      ],
+      "doi": "10.1177/0271678X261431447",
+      "summary_en": "A multimodal PET/MRI study examined neuroplastic changes following a single intravenous ketamine dose (1 mg/kg) in 11 healthy male participants. Brain scans were conducted before and 1-8 days post-administration to assess structural and functional alterations induced by this psychedelic compound.",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "observational",
+      "substances": [
+        "ketamine"
+      ],
+      "added_at": "2026-08-01T12:00:00+00:00"
+    },
+    {
+      "title": "A phase 2 uncontrolled, open-label study of intranasal BPL-003 (5-methoxy-",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41761045/",
+      "source": "PubMed",
+      "date": "2026-Aug",
+      "authors": [
+        "Roberts Claire",
+        "Seynaeve Mathieu",
+        "Ermakova Anna O"
+      ],
+      "doi": "10.1177/02698811261420087",
+      "summary_en": "Phase 2a open-label trial of intranasal BPL-003 (5-methoxy-DMT) in 12 treatment-resistant depression patients. Single 10 mg dose showed rapid symptom improvement: mean MADRS score reduction of 12.2-13.0 points sustained over 12 weeks, with 83% responders and 64% reaching remission. Safety profile acceptable; mild-to-moderate adverse events predominant (nausea, nasal discomfort), one severe hypertension episode resolved within observation period. Results warrant further controlled investigation.",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "other",
+      "substances": [
+        "other"
+      ],
+      "added_at": "2026-08-01T12:00:00+00:00"
+    },
+    {
+      "title": "Comparative effectiveness and safety of esketamine versus injectable racemic ketamine and oral antidepressants for major depressive disorder: A population-based target trial emulation.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41740756/",
+      "source": "PubMed",
+      "date": "2026-Aug",
+      "authors": [
+        "Lee Ching-Hua Julie",
+        "Qian Yunzhe",
+        "Yu Weiqun"
+      ],
+      "doi": "10.1016/j.jad.2026.121487",
+      "summary_en": "Population-based study (2018-2024) comparing esketamine, injectable ketamine, and oral antidepressants for major depressive disorder in 4505, 197694, and 887220 patients respectively. Using propensity score matching and Cox regression: esketamine vs injectable ketamine showed higher risks of suicidal ideation (HR=1.24), anxiety (HR=1.55), insomnia (HR=1.25), and cardiac arrest (HR=1.57). Esketamine vs oral antidepressants showed lower suicide risk.",
+      "notable": true,
+      "notable_reason": "Large observational study (n=1,089,419 total) with real-world comparative safety data on esketamine vs. injectable ketamine, addressing clinical outcomes including suicidality and cardiac safety.",
+      "study_type": "observational",
+      "substances": [
+        "ketamine"
+      ],
+      "added_at": "2026-08-01T12:00:00+00:00"
+    },
+    {
+      "title": "Bifunctional Modulation of NMDA and Opioid Receptors in Ketamine Reinforcement and Misuse: Implications for Substance Use Disorder Treatment.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41352750/",
+      "source": "PubMed",
+      "date": "2026-Aug",
+      "authors": [
+        "Levinstein Marjorie R",
+        "Schoenborn Ingrid",
+        "Manza Peter"
+      ],
+      "doi": "10.1016/j.biopsych.2025.11.021",
+      "summary_en": "Review examining ketamine's neurochemical mechanisms in reinforcement and misuse potential. Study highlights bifunctional modulation of NMDA and opioid receptors in addiction-relevant brain circuits, with (S)-ketamine enantiomer identified as primary misuse risk driver. Discusses implications for balancing therapeutic benefits in depression and substance use disorder treatment against recreational appeal and misuse concerns in clinical settings.",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "review",
+      "substances": [
+        "ketamine"
+      ],
+      "added_at": "2026-08-01T12:00:00+00:00"
+    },
+    {
+      "title": "Ayahuasca-inspired DMT/harmine formulation alters creative thinking dynamics during artistic creation.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40819190/",
+      "source": "PubMed",
+      "date": "2026-Aug",
+      "authors": [
+        "Suay Dila",
+        "Aicher Helena D",
+        "Singer Berit"
+      ],
+      "doi": "10.1177/02698811251353256",
+      "summary_en": "A double-blind, placebo-controlled study (n=30) examined how DMT/harmine and harmine alone affected creative thinking using convergent/divergent thinking tasks and real-world painting assessments. DMT/harmine impaired convergent thinking, especially in high-reasoning individuals, while divergent thinking showed trend-level reductions. Both compounds reduced incubation-related process transitions, with DMT/harmine specifically decreasing transitions to creative insight. Subjective experiences predicted divergent thinking outcomes.",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "rct",
+      "substances": [
+        "ayahuasca",
+        "other"
+      ],
+      "added_at": "2026-08-01T12:00:00+00:00"
+    },
+    {
+      "title": "Psychedelic and Medicinal Mushrooms: Potent Source of Active Metabolites and Medicines",
+      "url": "https://doi.org/10.2174/0115734072383313250602052217",
+      "source": "OpenAIRE",
+      "date": "2026-08-01",
+      "authors": [
+        "Priya Chaudhary",
+        "Pracheta Janmeda"
+      ],
+      "doi": "10.2174/0115734072383313250602052217",
+      "summary_en": "Review of medicinal mushrooms and their bioactive compounds. Analysis of English-language publications examined various mushroom species and their biological properties, including antioxidant, anti-inflammatory, immunomodulatory, anticancer, and antimicrobial effects. Active metabolites in mycelium and fruiting bodies account for these properties, with distribution and effects varying by mushroom type and compound chemistry.",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "review",
+      "substances": [
+        "psilocybin",
+        "other"
+      ],
+      "added_at": "2026-08-01T12:00:00+00:00"
+    },
+    {
+      "title": "A cross-national comparison of nonmedical and medical use of psychedelic drugs in the international cannabis policy study",
+      "url": "https://doi.org/10.1016/j.drugpo.2026.105348",
+      "source": "OpenAIRE",
+      "date": "2026-08-01",
+      "authors": [
+        "Myfanwy Graham",
+        "Yimin Ge",
+        "Rosalie Liccardo Pacula"
+      ],
+      "doi": "10.1016/j.drugpo.2026.105348",
+      "summary_en": "Cross-sectional survey across Canada, US, Australia, and New Zealand (2023 ICPS) found 19% lifetime use of psilocybin, LSD, MDMA, or ketamine. Psilocybin was most common (16.3% in Canada, 13.0% USA, 12.1% New Zealand, 7.8% Australia). Only 10-20% of users discussed medical use with healthcare providers; over one-third of past-year users reported doing so.",
+      "notable": true,
+      "notable_reason": "Large cross-national observational study (n appears substantial across 4 countries) examining prevalence and medical engagement with psilocybin, LSD, MDMA, and ketamine in the context of renewed therapeutic interest.",
+      "study_type": "observational",
+      "substances": [
+        "psilocybin",
+        "lsd",
+        "mdma",
+        "ketamine"
+      ],
+      "added_at": "2026-08-01T12:00:00+00:00"
+    },
+    {
       "title": "Last resort: the ethical obligation to offer ketamine in psychiatric euthanasia and assisted suicide.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42557046/",
       "source": "PubMed",

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-06T09:19:44.009189+00:00",
+  "generated_at": "2026-08-07T07:50:48.758844+00:00",
   "items": [
     {
       "title": "Blinding integrity in psychedelic research: Evidence from a comparative randomized controlled trial of psilocybin, MDMA, and methylphenidate in healthy volunteers",
@@ -32,6 +32,36 @@
         "mdma"
       ],
       "added_at": "2026-07-09T10:03:12.956794+00:00"
+    },
+    {
+      "title": "Last resort: the ethical obligation to offer ketamine in psychiatric euthanasia and assisted suicide.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42557046/",
+      "source": "PubMed",
+      "date": "2026-08-05",
+      "authors": [
+        "Zhang Jingyi",
+        "Sisti Dominic"
+      ],
+      "doi": "10.1136/jme-2025-111672",
+      "summaries": {
+        "en": "A study argues that in countries permitting psychiatric euthanasia/assisted suicide, ketamine—shown to rapidly reduce suicidality and depression—should be offered as a last-resort treatment before approval. IV ketamine and intranasal esketamine may clarify decision-making capacity and determine treatability. Patients refusing ketamine should undergo formal review processes protecting their right to die while preventing avoidable deaths.",
+        "sv": "En studie argumenterar för att ketamin—som snabbt minskar suicidalitet och depression—bör erbjudas som sista utväg innan godkännande av psykiatrisk dödshjälp i länder som tillåter det. IV-ketamin och intranasal esketamin kan klargöra beslutsförmåga och behandlingsbarhet. Patienter som vägrar ketamin bör genomgå formell granskning för att skydda dödrätten samtidigt som onödig död förhindras.",
+        "no": "En studie argumenterer for at ketamin—som raskt reduserer suicidalitet og depresjon—bør tilbys som siste utvei før godkjenning av psykiatrisk dødshjælp i land som tillater det. IV-ketamin og intranasal esketamin kan avklare beslutningsdyktighet og behandlingsmuligheter. Pasienter som nekter ketamin, bør gjennomgå formell vurdering for å beskytte dødshjelpsretten samtidig som unødvendige dødsfall forhindres.",
+        "da": "Et studie argumenterer for, at ketamin—som hurtigt reducerer selvmordstanker og depression—bør tilbydes som sidste udvej før godkendelse af psykiatrisk dødshjælp i lande, der tillader det. IV-ketamin og intranasal esketamin kan præcisere beslutningsdygtighed og behandlingsmuligheder. Patienter, der afviser ketamin, bør gennemgå formelle vurderinger for at beskytte dødshjælpsretten og samtidig forhindre unødvendige dødsfald.",
+        "fi": "Tutkimuksessa argumentoidaan, että ketamiinia—joka nopeasti vähentää itsemurhapuheita ja masennusta—tulisi tarjota viimeisenä keinona ennen psykiatrisen kuolemantapauksen hyväksymistä maissa, joissa se on sallittu. IV-ketamiini ja intranaasaalinen esketamiini voivat selventää päätösvaltaisuutta ja hoitokelpoisuutta. Ketamiinia kieltäytyvät potilaat tulisi käydä läpi muodollisen tarkastelun, joka suojelee kuolemantapauksen oikeutta samalla estäen estettävissä olevia kuolemia.",
+        "is": "Rannsókn heldur því fram að ketamín—sem flýtir fyrir því að minnka sjálfsmorðshugsanir og þunglyndi—ætti að bjóða sem síðasta úrræði áður en psykíatrisk dauðahjálp er heimiluð í löndum þar sem það er leyft. IV-ketamín og intranesúl esketamín geta skýrt skyn og meðferðarhæfni. Sjúklingar sem neita ketamíni ættu að gangast undir formlega endurskoðun til að vernda rétt þeirra á dauðahjálp en koma í veg fyrir dánarföll sem væri hægt að koma í veg fyrir.",
+        "et": "Uuringus väidetakse, et ketamiini—mis vähendab kiiresti enesetappimisideesid ja depressiooni—tuleks pakkuda viimase võimalusena enne psühhiaatrilise surmaabikirjelduse heakskiitmist riikides, kus see on lubatud. IV-ketamiin ja intranasaalne esketamiin võivad selgitada otsustusvõimet ja ravitavust. Ketamiini keelduvad patsiendid peaksid käima läbi vormilise ülevaatuse, mis kaitseb nende õigust surma ette anda, samal ajal ennetades vältimisi surmasid.",
+        "lv": "Pētījumā tiek apgalvots, ka ketamīns—kas ātri samazina pašnāvības domu un depresiju—būtu jāpiedāvā kā pēdējais līdzeklis pirms psihiatriskās eutanāzijas/asistētā pašnāvības atļaujas. IV-ketamīns un intranazie esketamīns var noskaidrot lēmumu pieņemšanas spēju un ārstējamību. Pacientiem, kuri noraida ketamīnu, vajadzētu veikt formālu pārskatīšanu, lai aizsargātu viņu tiesības uz nāvi, vienlaikus novēršot novēršamas nāves gadījumus.",
+        "lt": "Tyrime teigiama, kad ketaminas—greitai sumažinantis savižudybės mintis ir depresiją—turėtų būti pasiūlytas kaip paskutinis resursas prieš patvirtinant psichiatrinę eutanaziją šalyse, kuriose tai leidžiama. IV-ketaminas ir intranazinis esketaminas gali paaiškinti sprendimų priimimo gebą ir gydymumo. Pacientai, kurie atmeta ketaminą, turėtų praeiti formališką peržiūrą, saugodami savo teisę mirti ir tuo pačiu metu prevencinėms nereikalingoms mirčiai."
+      },
+      "notable": false,
+      "notable_reasons": null,
+      "relevance_score": 4,
+      "study_type": "other",
+      "substances": [
+        "ketamine"
+      ],
+      "added_at": "2026-08-07T07:50:24.029235+00:00"
     },
     {
       "title": "Convergent neuroimmune signaling underlying rapid antidepressant response to ketamine and psychedelics.",
@@ -1920,37 +1950,6 @@
         "ketamine"
       ],
       "added_at": "2026-07-07T10:05:21.641194+00:00"
-    },
-    {
-      "title": "Kynurenine pathway profiles as markers of ketamine response in treatment-resistant depression.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42402321/",
-      "source": "PubMed",
-      "date": "2026-07-05",
-      "authors": [
-        "Pedraz-Petrozzi Bruno",
-        "Marszalek-Grabska Marta",
-        "Fornal Emilia"
-      ],
-      "doi": "10.1016/j.bbi.2026.106889",
-      "summaries": {
-        "en": "Study of 30 treatment-resistant depression patients receiving six intravenous ketamine infusions over three weeks. Researchers measured kynurenine pathway metabolites (tryptophan, kynurenine, kynurenic acid, 3-hydroxykynurenine, quinolinic acid) at baseline, day 3, and day 18, correlating levels with depression severity via MADRS scale. Higher baseline kynurenic acid associated with greater symptom improvement by day 18, suggesting kynurenine pathway profiles may serve as biomarkers for predicting ketamine response.",
-        "sv": "Studie på 30 patienter med behandlingsresistent depression som fick sex intravenösa ketamininfusioner under tre veckor. Forskare mätte kynureninvägens metaboliter (tryptofan, kynurenin, kynureninsyra, 3-hydroxykynurenin, kinolinsyra) vid baseline, dag 3 och dag 18, och korrelerade nivåerna med depressionssvårtgraden via MADRS-skalan. Högre baseline-kynureninsyra förknippades med större symtombättring vid dag 18, vilket tyder på att kynureninvägens profiler kan fungera som biomarkörer för att förutsäga keteminsvar.",
-        "no": "Studie av 30 pasienter med behandlingsresistent depresjon som mottok seks intravenøse ketaminfusjoner over tre uker. Forskere målte kynureninbanemetabolitter (tryptofan, kynurenin, kynureninsyre, 3-hydroxykynurenin, kinolinsyre) ved baseline, dag 3 og dag 18, og korrelerte nivåene med depresjonsseveritet via MADRS-skalaen. Høyere baseline-kynureninsyre var assosiert med større symptomforbedring ved dag 18, noe som tyder på at kynureninbaneprofiler kan tjene som biomarkører for å forutsi ketaminrespons.",
-        "da": "Studie af 30 patienter med behandlingsresistent depression, som modtog seks intravenøse ketaminfusioner over tre uger. Forskere målte kynureninbanemetabolitter (tryptofan, kynurenin, kynureninsyre, 3-hydroxykynurenin, kinolinsyre) ved baseline, dag 3 og dag 18 og korrelerede niveauer med depressionsalvorsgrad via MADRS-skalaen. Højere baseline-kynureninsyre var forbundet med større symptomforbedring ved dag 18, hvilket tyder på, at kynureninbaneprofiler kan fungere som biomarkører til forudsigelse af ketaminrespons.",
-        "fi": "Tutkimus 30:lla hoitoon vastustavaisesta masennuksesta kärsivällä potilaalla, jotka saivat kuusi intravenöösä ketamiini-infuusiota kolmen viikon aikana. Tutkijat mittasivat kynureniniradan metaboliitteja (tryptofaani, kynureniini, kynureenihapolle, 3-hydroksikynureniini, kinoliinihappo) lähtötilanteessa, päivän 3 ja päivän 18, ja korreloivat tasot masennuksen vakavuuteen MADRS-asteikolla. Korkeampi lähtötason kynureenihapon korkeus liittyi suurempaan oireiden parantumiseen päivään 18 mennessä, mikä viittaa siihen, että kynureniniradan profiilit voivat toimia biomarkkerina ketamiinin vasteen ennustamiseen.",
-        "is": "Rannsókn á 30 sjúklingum með meðhöndlunarþolna þunglyndi sem fengu sex intravenous ketamín-innflutning á þremur vikum. Vísindamenn mátu kynúrenín-brautir metabolíta (tryptófan, kynúrenín, kynúrenín-sýru, 3-hydroxykynúrenín, quinolín-sýru) við upphaf, dag 3 og dag 18, og tengdu stig við alvarleika þunglyndis með MADRS-kvarða. Hærri upphafsstig kynúrenín-sýru tengdist meiri batnun einkenna á degi 18, sem bendir til þess að kynúrenín-brautir geti þjónað sem líffræðileg merki til að spá fyrir um viðbrögð við ketamíni.",
-        "et": "Uuring 30 ravile resistentse depressiooni diagnoosiga patsiendil, kes said kuus intravenöösset ketamiini infusiooni kolme nädala jooksul. Teadlased mõõtsid kynureniini rada metaboliite (triptofaan, kynureniini, kynureenihappe, 3-hüdroksükynureniini, kinoliinihappe) alguses, 3. päeval ja 18. päeval ning korreleerisid tasemeid depressiooni raskusega MADRS-skaalal. Kõrgem algne kynureenhape seostus suurema sümptomite paranemisega 18. päevaks, mis viitab, et kynureniini rada profiilid võiksid olla biomarkeritena ketamiini reageerimuse ennustamiseks.",
-        "lv": "Pētījums ar 30 pacientiem ar ārstēšanai rezistentām depresiju, kuri saņēma sešas intravenozas ketamīna infūzijas trīs nedēļu laikā. Pētnieki mērīja kinurēnīna ceļa metabolītus (triptofānu, kinurēnīnu, kinurēnsku skābi, 3-hidrokskinurēnīnu, kinolīnsku skābi) sākumā, 3. un 18. dienā un korelēja līmeņus ar depresijas smagumu, izmantojot MADRS skalu. Augstāks sākotnējais kinurēnska skābes līmenis bija saistīts ar lielāku simptomu uzlabošanos 18. dienā, norādot, ka kinurēnīna ceļa profili var kalpot kā biomarkieri ketamīna atbildes prognozēšanai.",
-        "lt": "Tyrimas su 30 pacientų, turinčių atsparia gydymui depresiją, kurie gavo šešias intravenines ketamino infūzijas per tris savaites. Tyrinėtojai išmatavo kinurenino kelio metabolitus (triptofaną, kinureninį, kinurenino rūgštį, 3-hidrokskinureninį, kinolino rūgštį) pradžioje, 3 ir 18 dieną ir susiejus lygius su depresijos sunkumu pagal MADRS skalę. Aukštesnis pradinis kinurenino rūgšties lygis buvo susijęs su didesniu simptomų pagerintu 18 dieną, rodydamas, kad kinurenino kelio profiliai gali tarnauti kaip biomarkeriai ketamino atsakui numatyti."
-      },
-      "notable": false,
-      "notable_reasons": null,
-      "relevance_score": 4,
-      "study_type": "observational",
-      "substances": [
-        "ketamine"
-      ],
-      "added_at": "2026-07-06T11:11:04.418067+00:00"
     }
   ]
 }

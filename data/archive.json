@@ -1,6 +1,25 @@
 {
   "items": [
     {
+      "title": "Last resort: the ethical obligation to offer ketamine in psychiatric euthanasia and assisted suicide.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42557046/",
+      "source": "PubMed",
+      "date": "2026-08-05",
+      "authors": [
+        "Zhang Jingyi",
+        "Sisti Dominic"
+      ],
+      "doi": "10.1136/jme-2025-111672",
+      "summary_en": "A study argues that in countries permitting psychiatric euthanasia/assisted suicide, ketamine—shown to rapidly reduce suicidality and depression—should be offered as a last-resort treatment before approval. IV ketamine and intranasal esketamine may clarify decision-making capacity and determine treatability. Patients refusing ketamine should undergo formal review processes protecting their right to die while preventing avoidable deaths.",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "other",
+      "substances": [
+        "ketamine"
+      ],
+      "added_at": "2026-08-07T07:50:24.029235+00:00"
+    },
+    {
       "title": "Convergent neuroimmune signaling underlying rapid antidepressant response to ketamine and psychedelics.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42521762/",
       "source": "PubMed",

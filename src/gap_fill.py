@@ -44,6 +44,10 @@ from fetch_sources import (
 GAP_FROM = os.environ.get("GAP_FROM", "2026-07-30")
 GAP_TO = os.environ.get("GAP_TO", "2026-08-06")
 MAX_FILTER_BATCH = 150  # cost-safety cap on candidates sent to Claude
+SLACK_HEADLINE_N = 15   # top-N by noteworthiness get full treatment + FB-text
+SLACK_REST_CHUNK = 10   # remaining items, compact-listed in chunks this size
+                        # (kept small — Slack's 3000-char/block limit gets
+                        # tight with several long titles per chunk)
 
 _EPOCH = datetime(1970, 1, 1, tzinfo=timezone.utc)
 
@@ -134,6 +138,75 @@ def _fetch_candidates() -> list[Article]:
     return articles
 
 
+def _chunk(items: list, size: int) -> list[list]:
+    return [items[i:i + size] for i in range(0, len(items), size)]
+
+
+def _build_catchup_blocks(headline: list[dict], rest: list[dict], total_candidates: int) -> list[dict]:
+    """One consolidated Slack message, ranked by noteworthiness (notable
+    first, then relevance score) — not one message per article. The top
+    SLACK_HEADLINE_N get full detail + FB-text draft; everything else past
+    that is compact-listed so nothing is silently dropped, it just isn't
+    given the same real estate."""
+    total_relevant = len(headline) + len(rest)
+    blocks = [{
+        "type": "section",
+        "text": {
+            "type": "mrkdwn",
+            "text": (
+                f"📅 *Catch-up: artiklar från avbrottet {GAP_FROM} – {GAP_TO}*\n"
+                f"API-krediten tog slut och de här missades. Nu efterbehandlade och "
+                f"rankade efter relevans/anmärkningsvärdhet "
+                f"({total_relevant} relevanta av {total_candidates} granskade)."
+            ),
+        },
+    }]
+
+    for i, item in enumerate(headline, start=1):
+        a = item["article"]
+        authors_str = ""
+        if a.authors:
+            authors_str = ", ".join(a.authors[:3])
+            if len(a.authors) > 3:
+                authors_str += " m.fl."
+        meta_parts = [p for p in [a.source, a.date, authors_str] if p]
+        meta_line = " · ".join(meta_parts)
+        notable_line = ""
+        if item["notable"]:
+            reason = f" — {item['notable_reason']}" if item["notable_reason"] else ""
+            notable_line = f"\n⚡ *Anmärkningsvärt*{reason}"
+
+        blocks.append({
+            "type": "section",
+            "text": {
+                "type": "mrkdwn",
+                "text": (
+                    f"*{i}. {a.title}*\n_{meta_line}_{notable_line}\n"
+                    f"{item.get('fb_post', '')}\n"
+                    f"<{a.url}|🔗 Öppna originalkällan>"
+                ),
+            },
+        })
+
+    if rest:
+        blocks.append({
+            "type": "context",
+            "elements": [{"type": "mrkdwn", "text": f"*Övriga {len(rest)} relevanta artiklar:*"}],
+        })
+        for chunk in _chunk(rest, SLACK_REST_CHUNK):
+            lines = []
+            for item in chunk:
+                a = item["article"]
+                flag = " ⚡" if item["notable"] else ""
+                lines.append(f"• <{a.url}|{a.title}>{flag} — {a.source}")
+            blocks.append({
+                "type": "section",
+                "text": {"type": "mrkdwn", "text": "\n".join(lines)},
+            })
+
+    return blocks
+
+
 def main() -> None:
     dry_run = os.environ.get("DRY_RUN", "").lower() in ("1", "true", "yes")
     api_key = os.environ.get("ANTHROPIC_API_KEY", "")
@@ -179,7 +252,8 @@ def main() -> None:
             print(f"    -> RELEVANT{' NOTABLE' if r.get('notable') else ''}")
         if i < len(candidates) - 1:
             time.sleep(0.4)
-    slack_relevant.sort(key=lambda x: x["relevance_score"], reverse=True)
+    # Rank by noteworthiness: notable items first, then relevance score.
+    slack_relevant.sort(key=lambda x: (x["notable"], x["relevance_score"]), reverse=True)
     print(f"Slack-relevant: {len(slack_relevant)}")
 
     # ── Web/archive pass (English criteria, richer fields) ──────────────────
@@ -202,39 +276,37 @@ def main() -> None:
             time.sleep(0.4)
     print(f"Web-relevant: {len(web_relevant)}")
 
+    headline = slack_relevant[:SLACK_HEADLINE_N]
+    rest = slack_relevant[SLACK_HEADLINE_N:]
+
     if dry_run:
-        print("\n[DRY RUN] Would post to Slack:")
-        for item in slack_relevant:
-            print(f"  {item['article'].source} — {item['article'].title[:70]}")
+        print(f"\n[DRY RUN] Would post ONE consolidated Slack message:")
+        print(f"  Headline ({len(headline)}, full detail + FB-text):")
+        for item in headline:
+            flag = " NOTABLE" if item["notable"] else ""
+            print(f"    {item['article'].source}{flag} — {item['article'].title[:70]}")
+        if rest:
+            print(f"  Compact-listed ({len(rest)}):")
+            for item in rest:
+                print(f"    {item['article'].source} — {item['article'].title[:70]}")
         print("\n[DRY RUN] Would add to feed.json + archive.json:")
         for item in web_relevant:
             print(f"  {item['article'].source} — {item['article'].title[:70]}")
         return
 
-    # ── Post Slack catch-up ───────────────────────────────────────────────
+    # ── Post Slack catch-up: one consolidated, noteworthiness-ranked message ──
     if slack_relevant:
-        header = {
-            "blocks": [{
-                "type": "section",
-                "text": {
-                    "type": "mrkdwn",
-                    "text": (
-                        f"📅 *Catch-up: artiklar från avbrottet {GAP_FROM} – {GAP_TO}*\n"
-                        f"API-krediten tog slut och de här missades. Nu efterbehandlade "
-                        f"({len(slack_relevant)} relevanta av {len(candidates)} granskade)."
-                    ),
-                },
-            }]
-        }
-        post_to_slack._post(header, dry_run=dry_run)
-
-        print(f"\n[Slack] Posting {len(slack_relevant)} catch-up articles...")
-        for item in slack_relevant:
+        print(f"\n[Slack] Generating FB-text for the top {len(headline)}...")
+        for item in headline:
             a = item["article"]
-            print(f"  Posting: {a.title[:70]}")
+            print(f"  {a.title[:70]}")
             item["fb_post"] = slack_pipeline.generate_fb_post(client, a)
-            post_to_slack.post_article(item, dry_run=dry_run)
-            time.sleep(0.5)
+            time.sleep(0.4)
+
+        print(f"[Slack] Posting one consolidated message "
+              f"({len(headline)} headline + {len(rest)} compact-listed)...")
+        payload = {"blocks": _build_catchup_blocks(headline, rest, len(candidates))}
+        post_to_slack._post(payload, dry_run=dry_run)
     else:
         print("\n[Slack] No relevant catch-up articles to post.")
 

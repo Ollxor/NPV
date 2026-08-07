@@ -1,7 +1,19 @@
 {
-  "date": "2026-08-06",
-  "cached_at": "2026-08-06T08:31:34.653810+00:00",
+  "date": "2026-08-07",
+  "cached_at": "2026-08-07T07:11:00.212691+00:00",
   "articles": [
+    {
+      "title": "Last resort: the ethical obligation to offer ketamine in psychiatric euthanasia and assisted suicide.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42557046/",
+      "source": "PubMed",
+      "abstract": "Intravenous ketamine and intranasal esketamine have shown rapid effects in reversing suicidality and improving depressive symptoms. In countries that allow psychiatric euthanasia and/or assisted suicide (EAS), we argue that potentially effective treatments for suicidal ideation and behaviour, such as ketamine, should be required before allowing patients to access psychiatric EAS. Ketamine can both help clarify patients' decision-making capacity and serve as a reasonable therapeutic alternative when determining irremediability. For patients who refuse potentially effective treatments such as ketamine, oversight bodies should establish a formal process through which they can petition for review of their EAS request-protecting their legal right to die while guarding against potentially preventable death.",
+      "date": "2026-08-05",
+      "authors": [
+        "Zhang Jingyi",
+        "Sisti Dominic"
+      ],
+      "doi": "10.1136/jme-2025-111672"
+    },
     {
       "title": "Prevalence of Potential Contraindications and Risk Factors Relevant to MDMA-Assisted Therapy Among U.S. Veterans with Posttraumatic Stress Disorder.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42555520/",
@@ -244,19 +256,6 @@
         "Kment Francesco"
       ],
       "doi": "10.1177/28314425251387678"
-    },
-    {
-      "title": "A Nature-Themed Video Intervention Increases Nature Relatedness in Psilocybin-Assisted Psychotherapy for Alcohol Use Disorder.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42539824/",
-      "source": "PubMed",
-      "abstract": "Psychedelic-assisted psychotherapy has shown promising results for treating alcohol use disorder (AUD) and other mental health conditions. Although the precise mechanisms of psychedelic therapies remain unclear, many studies report increased feelings of connectedness following psychedelic experiences. Specifically, both nature relatedness (one's subjective sense of being connected to nature) and social connectedness (feelings of comprehensive social closeness) have been shown to increase with psychedelic use, and greater connectedness in these domains has been associated with enhanced health and well-being. The current study examined whether a nature-themed video intervention presented to participants undergoing psilocybin-assisted psychotherapy would differentially affect nature relatedness compared with social connectedness in adults with AUD. A total of 20 participants were randomized to either the visual healing condition (viewing a 42-min nature video;  A significant between-group difference was observed in change in nature relatedness pre-to-postpsilocybin session [χ Viewing a nature-themed video may enhance nature relatedness among individuals undergoing psilocybin-assisted psychotherapy for AUD. Future research should investigate the effects of real-life nature immersion and explore nature relatedness and other forms of connectedness as potential therapeutic targets in psychedelic-assisted and other psychotherapies NCT04410913.",
-      "date": "2025-12-26",
-      "authors": [
-        "Rich Rhianna",
-        "Laird Kelsey",
-        "Siddarth Prabha"
-      ],
-      "doi": "10.1177/28314425251387655"
     },
     {
       "title": "From Sonora to Big Pharma: Kimon de Greef Traces the Strange Rise of 5-MeO-DMT",
@@ -571,7 +570,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2018-004480-31/CZ",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-08-06",
+      "date": "2026-08-07",
       "authors": [],
       "doi": ""
     },
@@ -580,7 +579,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2020-005037-32/CZ",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-08-06",
+      "date": "2026-08-07",
       "authors": [],
       "doi": ""
     },
@@ -589,7 +588,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2021-002909-10/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-08-06",
+      "date": "2026-08-07",
       "authors": [],
       "doi": ""
     },
@@ -598,7 +597,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2015-000550-37/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-08-06",
+      "date": "2026-08-07",
       "authors": [],
       "doi": ""
     },
@@ -607,7 +606,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2021-000041-40/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-08-06",
+      "date": "2026-08-07",
       "authors": [],
       "doi": ""
     },
@@ -616,7 +615,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2020-000829-55/DK",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-08-06",
+      "date": "2026-08-07",
       "authors": [],
       "doi": ""
     },
@@ -625,7 +624,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2020-002790-94/SE",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-08-06",
+      "date": "2026-08-07",
       "authors": [],
       "doi": ""
     },
@@ -634,7 +633,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2021-006200-33/FI",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-08-06",
+      "date": "2026-08-07",
       "authors": [],
       "doi": ""
     },
@@ -643,7 +642,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2019-004812-73/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-08-06",
+      "date": "2026-08-07",
       "authors": [],
       "doi": ""
     },
@@ -652,7 +651,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2022-002369-14/BE",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-08-06",
+      "date": "2026-08-07",
       "authors": [],
       "doi": ""
     },

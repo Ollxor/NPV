@@ -1,6 +1,145 @@
 {
   "items": [
     {
+      "title": "Psilocybin-assisted therapy for treatment-resistant major depressive disorder in a public healthcare setting: a randomized controlled trial.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42562964/",
+      "source": "PubMed",
+      "date": "2026-08-06",
+      "authors": [
+        "Rucker James J",
+        "Mantingh Tim",
+        "Kerr-Gaffney Jess"
+      ],
+      "doi": "10.1038/s41591-026-04541-0",
+      "summary_en": "Randomized controlled trial (n=60) examining single-dose psilocybin (25 mg) with psychological support for treatment-resistant depression in NHS setting. At week 3, psilocybin showed significantly greater symptom reduction (MADRS: -10.41, Cohen's d=-1.70) versus placebo, sustained at week 6. High retention (59/60 completed follow-up). Results support confirmatory trials.",
+      "notable": true,
+      "notable_reason": "Randomized controlled trial in public healthcare setting (NHS) demonstrating significant efficacy (Cohen's d = -1.70) for psilocybin in treatment-resistant major depressive disorder with high completion rates (59/60 participants).",
+      "study_type": "rct",
+      "substances": [
+        "psilocybin"
+      ],
+      "added_at": "2026-08-08T07:28:15.314747+00:00"
+    },
+    {
+      "title": "Feasibility and Tolerability of Psilocybin for Phantom Limb Pain.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42567236/",
+      "source": "PubMed",
+      "date": "2026-08-07",
+      "authors": [
+        "Dean Jon G",
+        "Hurwitz Ethan",
+        "Furnish Timothy"
+      ],
+      "doi": "10.1016/j.jpain.2026.106404",
+      "summary_en": "Pilot randomized controlled trial (n=9) examined psilocybin feasibility and safety for phantom limb pain. Participants received 25 mg psilocybin (n=5) or niacin placebo (n=4) with preparatory and integration sessions. No serious adverse events or suicidality emerged. Transient anxiety, discomfort, and BP/HR elevations resolved before discharge. Two weeks post-administration, pain ratings showed trends toward >30% reduction, suggesting preliminary feasibility for further investigation.",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "rct",
+      "substances": [
+        "psilocybin"
+      ],
+      "added_at": "2026-08-08T07:28:15.314747+00:00"
+    },
+    {
+      "title": "Microdosing psychedelics: What, why, when, and how often? Insights from an international survey of people who use psychedelics.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42566966/",
+      "source": "PubMed",
+      "date": "2026-08-07",
+      "authors": [
+        "Petranker Rotem",
+        "Syed Omer A",
+        "Sobolenko Valentyn"
+      ],
+      "doi": "10.1016/j.drugpo.2026.105459",
+      "summary_en": "GPS 2025, an international survey of 5,399 microdosers, examined patterns of use across 19 languages. Psilocybin dominated (81.1%), followed by LSD (39.6%). The Fadiman protocol (one day on, two days off) was most common among regular users (24.3%). Participants typically microdosed in nature (58.9%), with introspective focus (56.8%) or leisure activities (43%), supporting set and setting integration.",
+      "notable": true,
+      "notable_reason": "Large cross-sectional study (n=5399 microdosers) across 19 languages examining global patterns of psychedelic microdosing with detailed behavioral data.",
+      "study_type": "observational",
+      "substances": [
+        "psilocybin",
+        "lsd"
+      ],
+      "added_at": "2026-08-08T07:28:15.314747+00:00"
+    },
+    {
+      "title": "Impact of Psilocybin on Motor Function in Healthy Participants: A Phase 1, Randomised, Triple-Blind, Dose-Finding Study.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42566154/",
+      "source": "PubMed",
+      "date": "2026-08-07",
+      "authors": [
+        "Bhagavan Chiranth",
+        "Carter Olivia",
+        "Nielsen Glenn"
+      ],
+      "doi": "10.1007/s40263-026-01326-4",
+      "summary_en": "Phase 1 randomised triple-blind study examining psilocybin's effects on motor function in healthy adults. Participants received doses of 5–20 mg psilocybin with motor assessments at 1.5–4.5 hours post-dose. Feasibility and safety were primary endpoints; exploratory outcomes included grip strength, dexterity, reaction time and upper limb function. Results provide evidence for safe administration of movement tasks during psilocybin effects.",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "rct",
+      "substances": [
+        "psilocybin"
+      ],
+      "added_at": "2026-08-08T07:28:15.314747+00:00"
+    },
+    {
+      "title": "The occurrence and potential role of mystical experiences in MDMA-assisted therapy for PTSD: A secondary analysis.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42563131/",
+      "source": "PubMed",
+      "date": "2026-08-06",
+      "authors": [
+        "Bostoen Tijmen P L",
+        "Krediet Erwin",
+        "van Schagen Annette M"
+      ],
+      "doi": "10.1177/02698811261464502",
+      "summary_en": "Secondary analysis of two phase 2 randomized trials examined mystical experiences during MDMA-assisted therapy (MDMA-AT) for chronic PTSD. Fifty-three participants received MDMA or active placebo with psychotherapy; mystical experiences were measured using MEQ30 after each session. MDMA produced significantly higher mystical experience scores than placebo. Positive mood components, rather than full mystical states, most strongly associated with PTSD symptom reduction. Results warrant cautious interpretation due to limited sample size.",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "rct",
+      "substances": [
+        "mdma"
+      ],
+      "added_at": "2026-08-08T07:28:15.314747+00:00"
+    },
+    {
+      "title": "A suite of engineered mice for interrogating psychedelic drug actions.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42563032/",
+      "source": "PubMed",
+      "date": "2026-08-06",
+      "authors": [
+        "Chiu Yi-Ting",
+        "Deutch Ariel Y",
+        "Wang Wei"
+      ],
+      "doi": "10.1038/s41593-026-02375-0",
+      "summary_en": "Researchers developed engineered mouse models to study how classical psychedelics like LSD and psilocybin work in the brain. These substances show therapeutic promise for depression, anxiety, PTSD, and headache disorders by activating the 5-HT2A receptor. The new transgenic mice will help clarify this receptor's specific role in psychedelic effects.",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "preclinical",
+      "substances": [
+        "lsd",
+        "psilocybin"
+      ],
+      "added_at": "2026-08-08T07:28:15.314747+00:00"
+    },
+    {
+      "title": "Pα+ Psychedelic Bulletin #229: SAMHSA Convenes Experts; AtaiBeckley’s Road to Lilly; Turnbull Doubles Down on BOL-148; Compass Talks Indication Expansion, Could VA Help?",
+      "url": "https://psychedelicalpha.com/news/p%ce%b1-psychedelic-bulletin-229-samhsa-convenes-experts-ataibeckleys-road-to-lilly-turnbull-doubles-down-on-bol-148-compass-talks-indication-expansion-could-va-help/",
+      "source": "Psychedelic Alpha",
+      "date": "2026-08-07",
+      "authors": [],
+      "doi": "",
+      "summary_en": "SAMHSA convened experts in Washington D.C. for a two-day consultation on data gaps in monitoring psychedelic use and misuse in the U.S. Participants included federal agencies, researchers, regulators, and industry representatives. The meeting addressed evidence collection needs as clinical development of psychedelics-assisted therapies advances.",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "other",
+      "substances": [
+        "psilocybin",
+        "other"
+      ],
+      "added_at": "2026-08-08T07:28:15.314747+00:00"
+    },
+    {
       "title": "Prevalence of Potential Contraindications and Risk Factors Relevant to MDMA-Assisted Therapy Among U.S. Veterans with Posttraumatic Stress Disorder.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42555520/",
       "source": "PubMed",

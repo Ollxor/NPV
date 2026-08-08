@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-07T09:54:53.098846+00:00",
+  "generated_at": "2026-08-08T07:30:51.043852+00:00",
   "items": [
     {
       "title": "Blinding integrity in psychedelic research: Evidence from a comparative randomized controlled trial of psilocybin, MDMA, and methylphenidate in healthy volunteers",
@@ -32,6 +32,242 @@
         "mdma"
       ],
       "added_at": "2026-07-09T10:03:12.956794+00:00"
+    },
+    {
+      "title": "Feasibility and Tolerability of Psilocybin for Phantom Limb Pain.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42567236/",
+      "source": "PubMed",
+      "date": "2026-08-07",
+      "authors": [
+        "Dean Jon G",
+        "Hurwitz Ethan",
+        "Furnish Timothy"
+      ],
+      "doi": "10.1016/j.jpain.2026.106404",
+      "summaries": {
+        "en": "Pilot randomized controlled trial (n=9) examined psilocybin feasibility and safety for phantom limb pain. Participants received 25 mg psilocybin (n=5) or niacin placebo (n=4) with preparatory and integration sessions. No serious adverse events or suicidality emerged. Transient anxiety, discomfort, and BP/HR elevations resolved before discharge. Two weeks post-administration, pain ratings showed trends toward >30% reduction, suggesting preliminary feasibility for further investigation.",
+        "sv": "Pilotöversyn av randomiserad kontrollerad studie (n=9) undersökte psylocybin-genomförbarhet och säkerhet för fantomsmärta. Deltagare fick 25 mg psylocybin (n=5) eller niacin-placebo (n=4) med förberedande och integrationssessioner. Inga allvarliga biverkningar eller suicidalitet observerades. Övergående ångest, obehag och BP/pulsökning försvann före utskrivning. Två veckor efter administrering visade smärtbetyg trender mot >30% minskning, vilket tyder på preliminär genomförbarhet för vidare forskning.",
+        "no": "Pilotforsøk med randomisert kontrollert design (n=9) undersøkte psylocybin-gjennomførbarhet og sikkerhet for fantomsmerte. Deltakere mottok 25 mg psylocybin (n=5) eller niasin-placebo (n=4) med forberedende og integreringssessions. Ingen alvorlige bivirkninger eller suicidalitet ble observert. Forbigående angst, ubehag og økt blodtrykk/puls løste seg før utskrivning. To uker etter administrering viste smertevurderinger tendenser til >30% reduksjon, noe som tyder på preliminary gjennomførbarhet.",
+        "da": "Pilot randomiseret kontrolleret forsøg (n=9) undersøgte psilocybins gennemførbarhed og sikkerhed for fantombedrevet smerte. Deltagere modtog 25 mg psilocybin (n=5) eller niacin-placebo (n=4) med forberedende og integrationssessioner. Ingen alvorlige bivirkninger eller selvmordstanker blev observeret. Forbigående angst, ubehag og forhøjet blodtryk/puls løste sig før udskrivning. To uger efter administration viste smertevurderinger tendenser til >30% reduktion, hvilket indikerer preliminary gennemførbarhed.",
+        "fi": "Pilottitutkimus satunnaistetulla kontrolloidulla asetelmalla (n=9) tutki psylosibiinin toteuttamiskelpoisuutta ja turvallisuutta fantomikiputkelle. Osallistujat saivat 25 mg psylosibiinia (n=5) tai niasiini-plaseboo (n=4) valmistelu- ja integraatiosessioiden kanssa. Vakavia haittavaikutuksia tai itsemurhaisuutta ei havaittu. Ohimenevät ahdistuneisuus, epämukavuus ja kohonneet verenpaine/pulssi ratkenivat ennen kotiutusta. Kaksi viikkoa administroinnin jälkeen kiputasot osoittivat trendit >30% vähenemiseen.",
+        "is": "Tilraunapróun með handahófskenndu, stjórnuðu hönnun (n=9) skoðaði framkvæmni og öryggi psýlósýbíns fyrir sérsmerta í týndum útlimum. Þátttakendur fengu 25 mg psýlósýbín (n=5) eða níasín-lyfleysu (n=4) með undirbúnings- og samþættingaþjálfun. Engar alvarleg aukaverknanir eða sjálfsmorðshugsanir komu fram. Bráðar kvíðir, óþægindi og hækkuð blóðþrýstingur/púls fóru hjá fyrir útskrift. Tvær vikur eftir lyfjagjöf sýndu verkjavurðun stefnu í >30% minnkun.",
+        "et": "Pilootuuringu randomiseeritud kontrollitud disainiga (n=9) uuriti psülotsibiini rakendatavust ja ohutust fantomilimbi valus. Osalejad said 25 mg psülotsibiini (n=5) või niatsiini platseebod (n=4) koos ettevalmistus- ja integratsioonisessioonidega. Tõsiseid kõrvaltoimeid ega enesetapuohtusid ei täheldatud. Ajutised ärevus, ebamugavus ja tõusnud vererõhk/pulss taandusid enne lahkumist. Kaks nädalat pärast manustamist näitasid valutasemed trende >30% vähenemise suunas.",
+        "lv": "Pilota pētījums ar randomizētu kontrolētu dizainu (n=9) pārbaudīja psilocibīna īstenojamību un draudzīgumu fantoma locekļa sāpēm. Dalībnieki saņēma 25 mg psilocibīnu (n=5) vai niacīna placebu (n=4) ar sagatavošanas un integrācijas sesijām. Netika novēroti nopietni blakusefekti vai pašnāvniecības tendences. Īslaicīga trauksme, diskomforts un paaugstināts asinsspiediens/pulss pamatīgi tika atrisināti pirms izrakstīšanas. Divas nedēļas pēc ievadīšanas sāpju novērtējumi parādīja tendences uz >30% samazinājumu.",
+        "lt": "Pilotinis tyrimas su atsitiktine kontroliuojama schema (n=9) tyre psilocibino įgyvendinto ir tolerancijos šalutinio kojos skausmui. Dalyviai gavo 25 mg psilocibino (n=5) arba niacino placebą (n=4) su paruošomojo ir integracijų seansais. Nerasta jokių rimtų šalutinių reiškinių ar savižudybės polinkio. Laikinoji nervinė įtampa, nepatogumas ir padidėtas kraujospūdis/širdies ritmas išnyko prieš iškraustymą. Dvi savaitės po vartojimo skausmo vertinimai rodė tendencijas link >30% sumažėjimo."
+      },
+      "notable": false,
+      "notable_reasons": null,
+      "relevance_score": 4,
+      "study_type": "rct",
+      "substances": [
+        "psilocybin"
+      ],
+      "added_at": "2026-08-08T07:28:15.314747+00:00"
+    },
+    {
+      "title": "Microdosing psychedelics: What, why, when, and how often? Insights from an international survey of people who use psychedelics.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42566966/",
+      "source": "PubMed",
+      "date": "2026-08-07",
+      "authors": [
+        "Petranker Rotem",
+        "Syed Omer A",
+        "Sobolenko Valentyn"
+      ],
+      "doi": "10.1016/j.drugpo.2026.105459",
+      "summaries": {
+        "en": "GPS 2025, an international survey of 5,399 microdosers, examined patterns of use across 19 languages. Psilocybin dominated (81.1%), followed by LSD (39.6%). The Fadiman protocol (one day on, two days off) was most common among regular users (24.3%). Participants typically microdosed in nature (58.9%), with introspective focus (56.8%) or leisure activities (43%), supporting set and setting integration.",
+        "sv": "GPS 2025, en internationell undersökning av 5 399 mikrosdosörer, undersökte användningsmönster över 19 språk. Psilocybin dominerade (81,1%), följt av LSD (39,6%). Fadiman-protokollet (en dag på, två dagar av) var vanligast bland regelbundna användare (24,3%). Deltagare mikrosdoserade vanligen i naturen (58,9%), med introspektiv fokusering (56,8%) eller fritidsaktiviteter (43%), vilket stöder integration av set och setting.",
+        "no": "GPS 2025, en internasjonal undersøkelse av 5 399 mikrodosører, undersøkte bruksmønster på tvers av 19 språk. Psilocybin dominerte (81,1%), etterfulgt av LSD (39,6%). Fadiman-protokollen (en dag på, to dager av) var vanligst blant regelmessige brukere (24,3%). Deltakerne mikrodoserte typisk i naturen (58,9%), med introspektiv fokusering (56,8%) eller fritidsaktiviteter (43%), som støtter integrasjon av setting og sinnstilstand.",
+        "da": "GPS 2025, en international undersøgelse af 5.399 mikrodosister, undersøgte brugsmønstre på tværs af 19 sprog. Psilocybin dominerede (81,1%), fulgt af LSD (39,6%). Fadiman-protokollen (en dag på, to dage fra) var mest almindelig blandt regelmæssige brugere (24,3%). Deltagerne mikrodoserede typisk i naturen (58,9%), med introspektiv fokusering (56,8%) eller fritidsaktiviteter (43%), hvilket understøtter integration af sinnstilstand og omgivelser.",
+        "fi": "GPS 2025, kansainvälinen tutkimus 5 399 mikrodoseeraajasta, tutki käyttömalleja 19 kielellä. Psilosybiini hallitsi (81,1%), jota seurasi LSD (39,6%). Fadiman-protokolla (yksi päivä päällä, kaksi päivää pois) oli yleisin säännöllisten käyttäjien keskuudessa (24,3%). Osallistujat mikrodoseerasivat tyypillisesti luonnossa (58,9%), sisäänpäin suuntautuneella keskittymisellä (56,8%) tai vapaa-ajan aktiviteetein (43%), mikä tukee asenteen ja ympäristön integroimista.",
+        "is": "GPS 2025, alþjóðleg könnun á 5.399 örsmækjum notendum, skoðaði notkunarmynstur á 19 tungumálum. Psýlosíbín var ráðandi (81,1%), fylgt eftir af LSD (39,6%). Fadiman-bókunin (ein dagur á, tveir dagar af) var algengust meðal reglulegra notenda (24,3%). Þátttakendur örsmækju venjulega í náttúru (58,9%), með innri áherslu (56,8%) eða tómstundum (43%), sem styðja samþættingu stemmningar og umhverfis.",
+        "et": "GPS 2025, rahvusvaheline küsitlus 5 399 mikrodoosijatest, uuris kasutamismalle 19 keeles. Psülosibiin domineeris (81,1%), millele järgnes LSD (39,6%). Fadimani protokoll (üks päev sisse, kaks päeva välja) oli kõige levinud regulaarsetel kasutajatel (24,3%). Osalejad mikrodoosissid tavaliselt looduses (58,9%), sissepoole suunatud teadvusega (56,8%) või vaba aja tegevustega (43%), mis toetab meeleolu ja keskkonna integreerimist.",
+        "lv": "GPS 2025, starptautiska aptauja par 5 399 mikrodozētājiem, pētīja lietošanas modeļus 19 valodās. Psilocibīns dominēja (81,1%), kam sekoja LSD (39,6%). Fadimana protokols (viena diena ieslēgta, divas dienas izslēgta) bija visizplatītākais parastajiem lietotājiem (24,3%). Dalībnieki parasti mikrodozēja dabā (58,9%), ar introspektīvu fokusēšanos (56,8%) vai brīvā laika aktivitātēm (43%), kas atbalsta noskaņojuma un vides integrāciju.",
+        "lt": "GPS 2025, tarptautinė apklausa 5 399 mikrodozuotojams, tyrinėjo vartojimo modelius 19 kalbomis. Psilocibinas dominavo (81,1%), po jo sekė LSD (39,6%). Fadimano protokolas (viena diena įjungus, dvi dienos išjungus) buvo dažniausias reguliarių vartotojų tarpe (24,3%). Dalyviai paprastai mikrodozavo gamtoje (58,9%), su introspekcine orientacija (56,8%) arba laisvalaikio veiklomis (43%), remiantis nuotaikos ir aplinkos integraciją."
+      },
+      "notable": true,
+      "notable_reasons": {
+        "en": "Large cross-sectional study (n=5399 microdosers) across 19 languages examining global patterns of psychedelic microdosing with detailed behavioral data.",
+        "sv": "Stor tvärsnittsstudie (n=5399 microdosers) på 19 språk som undersöker globala mönster för psykedelisk microdosing med detaljerad beteendedata.",
+        "no": "Stor tverrsnittstudie (n=5399 microdosers) på tvers av 19 språk som undersøker globale mønstre for psykedelisk microdosing med detaljerte atferdsdata.",
+        "da": "Stort tværsnitstudie (n=5399 microdosers) på tværs af 19 sprog, der undersøger globale mønstre for psykedelisk microdosing med detaljerede adfærdsdata.",
+        "fi": "Suuri poikittaistutkimus (n=5399 microdosers) 19 kielellä, joka tutkii psykedeelistä microdosing-tekniikkaa globaalisti yksityiskohtaisilla käyttäytymistiedoilla.",
+        "is": "Stór þversniðsrannsókn (n=5399 microdosers) á 19 tungumálum sem skoðar alþjóðleg mynstur psykedélísku microdosing með nákvæmum hegðunargögnum.",
+        "et": "Suur ristlõikeuuring (n=5399 microdosers) 19 keeles, mis uurib psühhedeelikute microdosing'u globaalseid mustreid üksikasjalike käitumisandmetega.",
+        "lv": "Liels šķērsgriezuma pētījums (n=5399 microdosers) 19 valodās, kurā tiek pārbaudīti psihedelisko microdosing globālie modeļi ar detalizētiem uzvedības datiem.",
+        "lt": "Didelis skerspjūvio tyrimas (n=5399 microdosers) 19 kalbomis, kuriame tiriami globaliniai psichedelinio microdosing modeliai su detaliais elgesio duomenimis."
+      },
+      "relevance_score": 4,
+      "study_type": "observational",
+      "substances": [
+        "psilocybin",
+        "lsd"
+      ],
+      "added_at": "2026-08-08T07:28:15.314747+00:00"
+    },
+    {
+      "title": "Impact of Psilocybin on Motor Function in Healthy Participants: A Phase 1, Randomised, Triple-Blind, Dose-Finding Study.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42566154/",
+      "source": "PubMed",
+      "date": "2026-08-07",
+      "authors": [
+        "Bhagavan Chiranth",
+        "Carter Olivia",
+        "Nielsen Glenn"
+      ],
+      "doi": "10.1007/s40263-026-01326-4",
+      "summaries": {
+        "en": "Phase 1 randomised triple-blind study examining psilocybin's effects on motor function in healthy adults. Participants received doses of 5–20 mg psilocybin with motor assessments at 1.5–4.5 hours post-dose. Feasibility and safety were primary endpoints; exploratory outcomes included grip strength, dexterity, reaction time and upper limb function. Results provide evidence for safe administration of movement tasks during psilocybin effects.",
+        "sv": "Fas 1-studie med randomisering och trippelblindning som undersökte psylocybins effekter på motorisk funktion hos friska vuxna. Deltagare fick doser om 5–20 mg psylocybin med motoriska bedömningar 1,5–4,5 timmar efter administrering. Genomförbarhet och säkerhet var primära slutpunkter; utforskande mål inkluderade gripstyrka, skicklighet, reaktionstid och övre extremitetsfunktion.",
+        "no": "Fase 1-studie med randomisering og trippelblinding som undersøkte psylocybins effekter på motorisk funksjon hos friske voksne. Deltakere fikk doser på 5–20 mg psylocybin med motoriske vurderinger 1,5–4,5 timer etter administrering. Gjennomførbarhet og sikkerhet var primære endepunkter; utforskende mål inkluderte gripstyrke, dyktighet, reaksjonstid og funksjon i øvre ekstremitet.",
+        "da": "Fase 1-studie med randomisering og trippelblindning, der psylocybins virkning på motorisk funktion hos raske voksne blev undersøgt. Deltagerne modtog doser på 5–20 mg psylocybin med motoriske vurderinger 1,5–4,5 timer efter administration. Gennemførbarhed og sikkerhed var primære endepunkter; eksplorativ mål omfattede grebsstyrke, håndskikkelighed, reaktionstid og funktion i øvre ekstremitet.",
+        "fi": "Vaihe 1 -tutkimus, jossa tutkittiin psylokybiinin vaikutusta motorisiin toimintoihin terveillä aikuisilla satunnaistamisen ja kolminkertaisen sokkouttamisen avulla. Osallistujat saivat annoksia 5–20 mg psylokybiinia ja motorisia testejä tehtiin 1,5–4,5 tuntia annostelun jälkeen. Ensisijaiset päätepisteet olivat toteutettavuus ja turvallisuus; tutkimukseen kuuluivat myös hahmotuskyky, tarkkuus, reaktioaika ja yläraajan toiminto.",
+        "is": "Fasi 1 rannsókn með tilviljunarkenningu og þrefaldri blindun sem skoðaði áhrif psýlósýbíns á hreyfigetu heilbrigðra fullorðinna. Þátttakendur fengu skammta 5–20 mg psýlósýbíns með hreyfimati 1,5–4,5 klst. eftir afhendingu. Aðalendapunktar voru hagkvæmni og öryggi; rannsóknir náðu einnig til hreyfigetu, nákvæmni, viðbragðstíma og starfemi efri útlima.",
+        "et": "Faas 1 randomiseeritud kolmekordse pimestamise uuringus uuriti psülotsibiini mõju motorsetele funktsioonidele tervetel täiskasvanutel. Osalejad said doose 5–20 mg psülotsibiini ning motoorset hindamist tehti 1,5–4,5 tundi pärast manustamist. Esmased lõpp-punktid olid teostatavus ja ohutus; uuringus hinnati ka gripijõudu, täpsust, reaktsiooniaja ja ülemiste jäsemete funktsiooni.",
+        "lv": "I fāzes randomizēts un trīskārt aklais pêtījums, kurā pētīja psīlocibiņa ietekmi uz motoro funkciju veseliem pieaugušajiem. Dalībnieki saņēma 5–20 mg psīlocibiņa devas ar motoro novērtējumu 1,5–4,5 stundas pēc ievadīšanas. Primārie rezultāti bija iespējamība un draudzīgums; pêtījumā tika novērtēta arī satveres spēks, prasme, reakcijas laiks un augšējās ekstremitātes funkcija.",
+        "lt": "I fazės atsitiktinės atranką ir trigubo aklumą naudojantis tyrimas, kuriame buvo tiriamas psilo­cibi­no poveikis motorinėms funkcijoms sveikiems suaugusiems. Dalyviai gavo 5–20 mg psilo­cibi­no dozių su motoriniu vertinimu 1,5–4,5 val. po vartojimo. Pagrindiniai rezultatai buvo įgyvendinimas ir sauga; tyrime taip pat buvo įvertinti griebimo stiprumas, dexterumas, reakcijos laikas ir viršutinės galūnės funkcija."
+      },
+      "notable": false,
+      "notable_reasons": null,
+      "relevance_score": 4,
+      "study_type": "rct",
+      "substances": [
+        "psilocybin"
+      ],
+      "added_at": "2026-08-08T07:28:15.314747+00:00"
+    },
+    {
+      "title": "Pα+ Psychedelic Bulletin #229: SAMHSA Convenes Experts; AtaiBeckley’s Road to Lilly; Turnbull Doubles Down on BOL-148; Compass Talks Indication Expansion, Could VA Help?",
+      "url": "https://psychedelicalpha.com/news/p%ce%b1-psychedelic-bulletin-229-samhsa-convenes-experts-ataibeckleys-road-to-lilly-turnbull-doubles-down-on-bol-148-compass-talks-indication-expansion-could-va-help/",
+      "source": "Psychedelic Alpha",
+      "date": "2026-08-07",
+      "authors": [],
+      "doi": "",
+      "summaries": {
+        "en": "SAMHSA convened experts in Washington D.C. for a two-day consultation on data gaps in monitoring psychedelic use and misuse in the U.S. Participants included federal agencies, researchers, regulators, and industry representatives. The meeting addressed evidence collection needs as clinical development of psychedelics-assisted therapies advances.",
+        "sv": "SAMHSA samlade experter i Washington D.C. för en tvådagars konsultation om datakällor gällande användning och missbruk av psykedelika i USA. Deltagare inkluderade federala myndigheter, forskare, tillsynsmyndigheter och näringsrepresentanter. Mötet behandlade behov av evidensinsamling när klinisk utveckling av psykedelika-assisterad terapi fortskrider.",
+        "no": "SAMHSA samlet eksperter i Washington D.C. for en todagers konsultasjon om databrister ved overvåking av psykedelikabruk og misbruk i USA. Deltakere inkluderte føderale myndigheter, forskere, regulatorer og industri representanter. Møtet adresserte behovet for evidensinnsamling ettersom klinisk utvikling av psykedelika-assistert terapi skrider frem.",
+        "da": "SAMHSA samlede eksperter i Washington D.C. til en todages konsultation om datahuller i overvågningen af psykedelikaanvendelse og misbrug i USA. Deltagerene omfattede føderale agenturer, forskere, regulatorer og industri repræsentanter. Mødet adresserede behovet for bevisindsamling efterhånden som klinisk udvikling af psykedelika-assisteret terapi skrider frem.",
+        "fi": "SAMHSA kutsui asiantuntijoita kokoon Washingtoniin kahden päivän neuvotteluun psykedeliikan käytön ja väärinkäytön seurannan tietovajeista Yhdysvalloissa. Osallistujat sisälsivät liittovaltion virastoja, tutkijoita, sääntelyviranomaisia ja alan edustajia. Kokouksessa käsiteltiin todistenkeruun tarpeita psykedeliikka-avusteisenhoitojen kliinisen kehityksen edetessä.",
+        "is": "SAMHSA safnaði sérfræðingum saman í Washington D.C. fyrir tveggja daga ráðstefnu um gagnaskortin við eftirlit með notkun og misnotkun psýkí í Bandaríkjunum. Þátttakendur voru alríkisstofnanir, vísindamenn, eftirlitsaðilar og fulltrúar iðnaðar. Fundurinn fjallaði um þörf á söfnun sannanir þar sem klínísk þróun psýkí-aðstoðaðra meðferða er fram.",
+        "et": "SAMHSA kutsus ekspertide kokku Washingtoni kahepäevasele nõupidamisele psühhedeelide kasutamise ja kuritarvitamise jälgimisega seotud andmelünkade teemadel USA-s. Osalejate hulka kuulusid föderaalasutused, teadlased, regulaatorid ja tööstuse esindajad. Kohtumisel käsitleti tõendite kogumise vajadusi kliinilise psühhedeelide-abistatud ravi arengu edenemisel.",
+        "lv": "SAMHSA sanāca ekspertus Vašingtonā divu dienu konsultācijai par datu trūkumiem psihedeliku lietošanas un ļaunprātīgas lietošanas uzraudzībā ASV. Dalībnieki iekļāva federālās aģentūras, pētniekus, regulatorus un nozares pārstāvjus. Sanāksme risināja pierādījumu vākšanas nepieciešamību, jo turpinās psihedēliku-palīdz terapijas klīniskā attīstība.",
+        "lt": "SAMHSA suvaidino ekspertus Vašingtone dviejų dienų konsultacijai apie duomenų spragas stebint psichodelinių medžiagų naudojimą ir piktnaudžiavimą JAV. Dalyviai apėmė federalines agentūras, tyrėjus, reguliatorius ir pramonės atstovus. Susitikimas nagrinėjo įrodymų rinkimo poreikius, kaip vyksta psichodelinėmis medžiagomis padedamų terapijų klinikinė raida."
+      },
+      "notable": false,
+      "notable_reasons": null,
+      "relevance_score": 3,
+      "study_type": "other",
+      "substances": [
+        "psilocybin",
+        "other"
+      ],
+      "added_at": "2026-08-08T07:28:15.314747+00:00"
+    },
+    {
+      "title": "Psilocybin-assisted therapy for treatment-resistant major depressive disorder in a public healthcare setting: a randomized controlled trial.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42562964/",
+      "source": "PubMed",
+      "date": "2026-08-06",
+      "authors": [
+        "Rucker James J",
+        "Mantingh Tim",
+        "Kerr-Gaffney Jess"
+      ],
+      "doi": "10.1038/s41591-026-04541-0",
+      "summaries": {
+        "en": "Randomized controlled trial (n=60) examining single-dose psilocybin (25 mg) with psychological support for treatment-resistant depression in NHS setting. At week 3, psilocybin showed significantly greater symptom reduction (MADRS: -10.41, Cohen's d=-1.70) versus placebo, sustained at week 6. High retention (59/60 completed follow-up). Results support confirmatory trials.",
+        "sv": "Randomiserad kontrollerad studie (n=60) undersökte engångsdos pslocybin (25 mg) med psykologiskt stöd för behandlingsresistent depression vid NHS-klinik. Vid vecka 3 visade pslocybin signifikant större symptomreduktion (MADRS: -10,41, Cohen's d=-1,70) jämfört med placebo, som bestod vid vecka 6. Hög genomförande (59/60 slutförde uppföljning).",
+        "no": "Randomisert kontrollert studie (n=60) som undersøkte enkeltdose psilocybin (25 mg) med psykologisk støtte for behandlingsresistent depresjon ved NHS-klinikk. Ved uke 3 viste psilocybin signifikant større symptomreduksjon (MADRS: -10,41, Cohen's d=-1,70) sammenlignet med placebo, vedvarende ved uke 6. Høy gjennomføring (59/60 fullførte oppfølging).",
+        "da": "Randomiseret kontrolleret studie (n=60) undersøgte enkeltdosis psilocybin (25 mg) med psykologisk støtte til behandlingsresistent depression på NHS-klinik. Ved uge 3 viste psilocybin signifikant større symptomreduktion (MADRS: -10,41, Cohen's d=-1,70) sammenlignet med placebo, som fortsatte ved uge 6. Høj gennemførelsesrate (59/60 afsluttede opfølgning).",
+        "fi": "Satunnaistettu kontrolloitu tutkimus (n=60) tutki yksittäistä psilosybiinin annosta (25 mg) psykologisen tuen kanssa hoitoresistentin masennuksen hoitoon NHS-klinikoilla. Viikolla 3 psilosybiini osoitti merkittävästi paremman oireiden vähenemisen (MADRS: -10,41, Cohen's d=-1,70) verrattuna lumekohteluun, mikä säilyi viikolla 6. Korkea osallistujien säilyminen (59/60 suoritti seurannan).",
+        "is": "Slembiúrtak með stjórnarflokki (n=60) sem kannaði eina skammta af psílosýbíni (25 mg) með sálfræðilegum stuðningi við meðferðarþolna þunglyndi á NHS-kliníkum. Við viku 3 sýndi psílosýbín umtalsvert meiri minnkun einkenna (MADRS: -10,41, Cohen's d=-1,70) samanborið við lyfleysu, sem varðaði við viku 6. Há þátttaka (59/60 luku skoðun).",
+        "et": "Randomiseeritud kontrollitud uuring (n=60) uuris ühe psilostsübiini annuse (25 mg) koos psühholoogilise toega ravile vastupidavale depressioonile NHS-kliinikutes. Nädalal 3 näitas psilostsübiin märkimisväärselt suuremat sümptomite vähenemist (MADRS: -10,41, Cohen's d=-1,70) võrreldes platseeboga, mis säilis nädalal 6. Kõrge osalejate säilitamine (59/60 lõpetasid jälgimise).",
+        "lv": "Randomizēts kontrolēts pētījums (n=60) pārbaudīja vienas psilocibīna devas (25 mg) kombināciju ar psiholoģisku atbalstu ārstēšanai rezistentai depresijā NHS klīnikā. 3. nedēļā psilocibīns parādīja ievērojami lielāku simptomu samazināšanos (MADRS: -10,41, Cohen's d=-1,70) salīdzinājumā ar placebu, kas saglabājās 6. nedēļā. Augsta dalībnieku saglabāšana (59/60 pabeidza sekošanu).",
+        "lt": "Randomizuotas kontroliuojamas tyrimas (n=60) nagrinėjo vieną psilocibino dozę (25 mg) su psichologine pagalba gydant depresijos atvejams, kurie nereaguoja į gydymą, NHS klinikoje. 3-ią savaitę psilocibinas parodė reikšmingai didesnį simptomų sumažėjimą (MADRS: -10,41, Cohen's d=-1,70) palyginti su placebu, kuris išliko 6-ią savaitę. Aukštas dalyvių išlaikymas (59/60 baigė sekimą)."
+      },
+      "notable": true,
+      "notable_reasons": {
+        "en": "Randomized controlled trial in public healthcare setting (NHS) demonstrating significant efficacy (Cohen's d = -1.70) for psilocybin in treatment-resistant major depressive disorder with high completion rates (59/60 participants).",
+        "sv": "Randomized controlled trial in public healthcare setting (NHS) demonstrating significant efficacy (Cohen's d = -1.70) for psilocybin in treatment-resistant major depressive disorder with high completion rates (59/60 participants).",
+        "no": "Randomized controlled trial in public healthcare setting (NHS) demonstrating significant efficacy (Cohen's d = -1.70) for psilocybin in treatment-resistant major depressive disorder with high completion rates (59/60 participants).",
+        "da": "Randomized controlled trial in public healthcare setting (NHS) demonstrating significant efficacy (Cohen's d = -1.70) for psilocybin in treatment-resistant major depressive disorder with high completion rates (59/60 participants).",
+        "fi": "Randomized controlled trial in public healthcare setting (NHS) demonstrating significant efficacy (Cohen's d = -1.70) for psilocybin in treatment-resistant major depressive disorder with high completion rates (59/60 participants).",
+        "is": "Randomized controlled trial in public healthcare setting (NHS) demonstrating significant efficacy (Cohen's d = -1.70) for psilocybin in treatment-resistant major depressive disorder with high completion rates (59/60 participants).",
+        "et": "Randomized controlled trial in public healthcare setting (NHS) demonstrating significant efficacy (Cohen's d = -1.70) for psilocybin in treatment-resistant major depressive disorder with high completion rates (59/60 participants).",
+        "lv": "Randomized controlled trial in public healthcare setting (NHS) demonstrating significant efficacy (Cohen's d = -1.70) for psilocybin in treatment-resistant major depressive disorder with high completion rates (59/60 participants).",
+        "lt": "Randomized controlled trial in public healthcare setting (NHS) demonstrating significant efficacy (Cohen's d = -1.70) for psilocybin in treatment-resistant major depressive disorder with high completion rates (59/60 participants)."
+      },
+      "relevance_score": 5,
+      "study_type": "rct",
+      "substances": [
+        "psilocybin"
+      ],
+      "added_at": "2026-08-08T07:28:15.314747+00:00"
+    },
+    {
+      "title": "The occurrence and potential role of mystical experiences in MDMA-assisted therapy for PTSD: A secondary analysis.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42563131/",
+      "source": "PubMed",
+      "date": "2026-08-06",
+      "authors": [
+        "Bostoen Tijmen P L",
+        "Krediet Erwin",
+        "van Schagen Annette M"
+      ],
+      "doi": "10.1177/02698811261464502",
+      "summaries": {
+        "en": "Secondary analysis of two phase 2 randomized trials examined mystical experiences during MDMA-assisted therapy (MDMA-AT) for chronic PTSD. Fifty-three participants received MDMA or active placebo with psychotherapy; mystical experiences were measured using MEQ30 after each session. MDMA produced significantly higher mystical experience scores than placebo. Positive mood components, rather than full mystical states, most strongly associated with PTSD symptom reduction. Results warrant cautious interpretation due to limited sample size.",
+        "sv": "Sekundäranalys av två randomiserade fas 2-studier undersökte mystiska upplevelser under MDMA-assisterad terapi för kronisk PTSD. Femtitre deltagare fick MDMA eller aktiv placebo tillsammans med psykoterapi; mystiska upplevelser mättes med MEQ30 efter varje session. MDMA producerade signifikant högre poäng än placebo. Positiv stämning, snarare än fullständiga mystiska tillstånd, associerades starkast med minskning av PTSD-symtom. Resultaten bör tolkas försiktigt på grund av begränsat urval.",
+        "no": "Sekundæranalyse av to randomiserte fase 2-studier undersøkte mystiske opplevelser under MDMA-assistert terapi for kronisk PTSD. Femtitre deltakere mottok MDMA eller aktiv placebo sammen med psykoterapi; mystiske opplevelser ble målt med MEQ30 etter hver sesjon. MDMA ga signifikant høyere poeng enn placebo. Positiv stemning, snarere enn fullstendige mystiske tilstander, var sterkest assosiert med reduksjon av PTSD-symptomer. Resultatene bør tolkes med forsiktighet på grunn av begrenset utvalg.",
+        "da": "Sekundæranalyse af to randomiserede fase 2-studier undersøgte mystiske oplevelser under MDMA-assisteret terapi for kronisk PTSD. Treoghalvtreds deltagere modtog MDMA eller aktiv placebo sammen med psykoterapi; mystiske oplevelser blev målt med MEQ30 efter hver session. MDMA gav signifikant højere scoringer end placebo. Positiv stemning, snarere end fuldstændige mystiske tilstande, var stærkest forbundet med reduktion af PTSD-symptomer. Resultaterne bør tolkes forsigtigt på grund af begrænset stikprøvestørrelse.",
+        "fi": "Kahden satunnaistetun 2. vaiheen tutkimuksen sekundaarinen analyysi tutki mystisiä kokemuksia MDMA-avusteisessa terapiassa kroonista PTSD:tä varten. Viisikymmentäkolme osallistujaa sai MDMA:ta tai aktiivista plasebota psykoterapian rinnalla; mystisiä kokemuksia mitattiin MEQ30-kyselyllä jokaisen istunnon jälkeen. MDMA tuotti merkitsevästi korkeammat pisteet kuin plasebo. Positiivinen mieliala, eikä täydelliset mystiset tilat, oli vahvimmin yhteydessä PTSD-oireiden vähenemiseen. Tuloksia tulisi tulkita varovaisesti pienen otoskoon vuoksi.",
+        "is": "Aukaanalyse á tveimur slembiðum 2. stigs rannsóknum skoðaði dularfulla reynslu meðan MDMA-studda meðferð fyrir langvinnan PTSD. Fimmtíu og þrír þátttakendur fengu MDMA eða virka placebó með sálfræðilegri meðferð; dularfull reynsla var mæld með MEQ30 eftir hverja setu. MDMA skilaði marktækt hærri stigum en placebó. Jákvæð þögun, frekar en fullin dularfull ástand, tengdist sterkast við minnkun PTSD-einkenna. Niðurstöðum skal túlka varlega vegna takmarkaðrar úrtakastærðar.",
+        "et": "Kahe randomiseeritud 2. faasi uuringu sekundaarne analüüs uuris müstilisi kogemusi MDMA-abistatud teraapiaga kroonilise PTSD-ga patsientidel. Viiskümmend kolm osalejat said MDMA-d või aktiivset platseebot psühhoteraapiaga kombineerituna; müstilisi kogemusi mõõdeti MEQ30 abil iga seansi järel. MDMA andis märkimisväärselt kõrgemad skoorid kui platseebo. Positiivne meeleolu, mitte täielikud müstilised seisundid, seostus kõige tugevamalt PTSD-sümptomite vähenemisega. Tulemusi tuleb tõlgendada ettevaatusega piiratud valimi suuruse tõttu.",
+        "lv": "Divu randomizētu 2. fāzes pētījumu sekundārā analīze pētīja mistiskās pieredzes MDMA-palīdzinātas terapijas laikā hroniskam PTSD. Piecdesmit trīs dalībnieki saņēma MDMA vai aktīvu placebо kombinācijā ar psihoterapiju; mistiskā pieredze tika mērīta ar MEQ30 pēc katras sesijas. MDMA radīja ievērojami augstākus rādītājus nekā placebo. Pozitīva noskaņa, nevis pilnīgā mistiskā stāvokļa, bija visspēcīgāk saistīta ar PTSD simptomu samazināšanos. Rezultātus jāinterpretē piesardzīgi ņemot vērā ierobežoto izlases lielumu.",
+        "lt": "Dviejų atsitiktinių 2 fazės tyrimų antrinė analizė nagrinėjo mistines patirtis MDMA-pagalbine terapija ligoniams, sergantiems lėtine PTSD. Penkiasdešimt trys dalyviai gavo MDMA arba aktyvų placebą kartu su psichosocialine terapija; mistinė patirtis buvo matuojama MEQ30 po kiekvienos sesijos. MDMA davė žymiai aukštesnius rezultatus nei placebas. Teigiama nuotaika, o ne pilnos mistinės būsenos, buvo stipriausiai susieta su PTSD simptomų sumažėjimu. Rezultatai turėtų būti interpretuojami atsargiai dėl riboto imties dydžio."
+      },
+      "notable": false,
+      "notable_reasons": null,
+      "relevance_score": 4,
+      "study_type": "rct",
+      "substances": [
+        "mdma"
+      ],
+      "added_at": "2026-08-08T07:28:15.314747+00:00"
+    },
+    {
+      "title": "A suite of engineered mice for interrogating psychedelic drug actions.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42563032/",
+      "source": "PubMed",
+      "date": "2026-08-06",
+      "authors": [
+        "Chiu Yi-Ting",
+        "Deutch Ariel Y",
+        "Wang Wei"
+      ],
+      "doi": "10.1038/s41593-026-02375-0",
+      "summaries": {
+        "en": "Researchers developed engineered mouse models to study how classical psychedelics like LSD and psilocybin work in the brain. These substances show therapeutic promise for depression, anxiety, PTSD, and headache disorders by activating the 5-HT2A receptor. The new transgenic mice will help clarify this receptor's specific role in psychedelic effects.",
+        "sv": "Forskare utvecklade genetiskt modifierade möss för att studera hur klassiska psykedelika som LSD och psilocybin verkar i hjärnan. Dessa ämnen visar terapeutisk potential för depression, ångest, PTSD och huvudvärkslidanden genom aktivering av 5-HT2A-receptorn. De nya transgena mössen kommer att klargöra denna receptors specifika roll i psykedeliska effekter.",
+        "no": "Forskere utviklet genetisk modifiserte mus for å studere hvordan klassiske psykedelika som LSD og psilocybin virker i hjernen. Disse stoffene viser terapeutisk potensial for depresjon, angst, PTSD og hodepinesykdommer gjennom aktivering av 5-HT2A-reseptoren. De nye transgene musene vil hjelpe til med å avklare denne reseptorens spesifikke rolle i psykedeliske effekter.",
+        "da": "Forskere udvikled genetisk modificerede mus til at studere, hvordan klassiske psykedelika som LSD og psilocybin virker i hjernen. Disse stoffer viser terapeutisk potentiale for depression, angst, PTSD og hovedpinesygdomme gennem aktivering af 5-HT2A-receptoren. De nye transgene mus vil hjælpe med at præcisere denne receptors specifikke rolle i psykedeliske effekter.",
+        "fi": "Tutkijat kehittivät geneettisesti muunneltuja hiiriä tutkiakseen, kuinka klassiset psykedeelit kuten LSD ja psilosybiini vaikuttavat aivoissa. Nämä aineet osoittavat terapeuttista potentiaalia masennukseen, ahdistukseen, PTSD:hen ja päänsärkyoireisiin 5-HT2A-reseptorin aktivoinnin kautta. Uudet transgeniset hiiret auttavat selventämään tämän reseptorin erityistä roolia psykedeliikan vaikutuksissa.",
+        "is": "Vísindamenn þróuðu erfðabreyttar músir til að rannsaka hvernig klassísk geisladraugsefni eins og LSD og psilocybín virka í heila. Þessi efni sýna meðferðarmöguleika við þunglyndi, kvíða, PTSD og höfuðverkasykdóma með virkjun 5-HT2A-viðtaka. Nýju erfðabreyttu músirnar munu hjálpa til við að skýra sérstakt hlutverk þessa viðtaka í áhrifum geisladrauga.",
+        "et": "Teadlased töötasid välja geneetiliselt muundatud hiired, et uurida, kuidas klassikalised psühhedeeliad nagu LSD ja psilotsibiin ajus toimivad. Need ained näitavad terapeeutilist potentsiaali depressiooni, ärevuse, PTSD ja peavalust ravil 5-HT2A retseptori aktiveerimisel. Uued transgeensed hiired aitavad selgitada selle retseptori konkreetset rolli psühhedeeliliste efektide tekitamisel.",
+        "lv": "Pētnieki izstrādāja ģenētiski modificētus pelējus, lai pētītu, kā klasiskie psihedēliki, piemēram, LSD un psilocibirrs, darbojas smadzenēs. Šas vielas parāda terapeitisko potenciālu depresijas, trauksmes, PTSP un galvassāpju traucējumu ārstēšanai, aktivizējot 5-HT2A receptoru. Jaunās transģēnās pelējus palīdzēs noskaidrot šī receptora specifisko lomu psihedēlisko efektu darbībā.",
+        "lt": "Mokslininkai sukūrė genetiškai modifikuotus pelikus, skiritus tirti, kaip klasikiniai psichedelikai, tokie kaip LSD ir psilocibinas, veikia smegenyse. Šios medžiagos rodo terapinį potencialą depresijos, nerimo, PTSD ir galvos skausmų sutrikimams gydyti, aktyvinant 5-HT2A receptorių. Nauji transgeniniai pelikai padės paaiškinti šio receptoriaus specifinį vaidmenį psichedelinio poveikio mechanizmuose."
+      },
+      "notable": false,
+      "notable_reasons": null,
+      "relevance_score": 4,
+      "study_type": "preclinical",
+      "substances": [
+        "lsd",
+        "psilocybin"
+      ],
+      "added_at": "2026-08-08T07:28:15.314747+00:00"
     },
     {
       "title": "Last resort: the ethical obligation to offer ketamine in psychiatric euthanasia and assisted suicide.",
@@ -1721,226 +1957,6 @@
         "psilocybin"
       ],
       "added_at": "2026-07-28T09:14:47.306468+00:00"
-    },
-    {
-      "title": "Time-dependent effects of rapid-acting antidepressants in iPSC-derived neurons from treatment-resistant depression and healthy volunteers.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42498781/",
-      "source": "PubMed",
-      "date": "2026-07-24",
-      "authors": [
-        "Johnston Jenessa N",
-        "Jones Gregory H",
-        "Peng Shiyong"
-      ],
-      "doi": "10.1038/s41380-026-03768-0",
-      "summaries": {
-        "en": "iPSC-derived neurons from treatment-resistant depression patients and healthy controls were exposed to rapid-acting antidepressants including ketamine metabolite HNK, psilocybin, LSD, and DOI for 6-24 hours. RNA sequencing revealed that despite different mechanisms, all compounds converged on inflammation, mTORC1, and growth pathways. HNK showed distinct cell-type-specific effects in excitatory neurons, with results validated against ketamine-treated cerebrospinal fluid proteomics.",
-        "sv": "Neuroner från iPSC-differentiering av patienter med behandlingsresistent depression och friska frivilliga exponerades för snabbverkande antidepressiva inklusive ketaminmetaboliten HNK, psilocybin, LSD och DOI under 6-24 timmar. RNA-sekvensering visade att alla substanser konvergerade på inflammations-, mTORC1- och tillväxtvägar trots olika mekanismer. HNK visade särskilda celltypsspecifika effekter i excitatoriska neuroner, validerat mot ketaminbehandlad cerebrospinalvätskebiomarkör.",
-        "no": "Nerveceller fra iPSC-differensiering av pasienter med behandlingsresistent depresjon og friske frivillige ble eksponert for hurtigtvirkende antidepressiva inkludert ketaminmetabolitter HNK, psilocybin, LSD og DOI i 6-24 timer. RNA-sekvensering avslørte at alle substanser konvergerte på inflammasjons-, mTORC1- og vekstveier til tross for ulike mekanismer. HNK viste distinkte celletypespesifikke effekter i eksitatoriske neuroner, validert mot ketaminbehandlet cerebrospinalvæske.",
-        "da": "Nerveceller fra iPSC-differentiering af patienter med behandlingsresistent depression og raske frivillige blev eksponeret for hurtigt virkende antidepressiva herunder ketaminmetabolit HNK, psilocybin, LSD og DOI i 6-24 timer. RNA-sekvensering viste, at alle stoffer konvergerede på inflammations-, mTORC1- og vækstveje trods forskellige mekanismer. HNK viste distinkte celletypspecifikke effekter i eksitatoriske neuroner, valideret mod ketaminbehandlet cerebrospinalvæske.",
-        "fi": "iPSC-erilaistuneet neuronit hoitoon vastustavaisesta masennuksesta sairaiden ja terveiden vapaaehtoisten näytteistä altistettiin nopeasti vaikuttaville masennuslääkkeille, mukaan lukien ketamiinin metaboliitti HNK, psilosybiini, LSD ja DOI 6-24 tunniksi. RNA-sekvenssointi paljasti, että kaikki yhdisteet konvergoituvat tulehdusten, mTORC1- ja kasvupolkuihin huolimatta eri mekanismeista. HNK osoitti erillisiä solutyyppispesifisiä vaikutuksia eksitatorisissa neuroneissa.",
-        "is": "iPSC-aðgreind taugafrumur frá sjúklingum með meðferðarfælnu þunglyndi og heilbrigðum sjálfboðaliðum voru fyrir áhrifum hraðvirka þunglyndislyfja þar með talið ketamín-stoðefni HNK, psílósýbín, LSD og DOI í 6-24 klst. RNA-röðun leiddi í ljós að öll efni snerust að bólguflokk, mTORC1- og vöxtsleiðum þrátt fyrir mismunandi aðferðir. HNK sýndi sérkennilega frumutegund-sértæka áhrif í glutamatergjum taugum.",
-        "et": "iPSC-diferentseeritud neuronid ravi-resistentse depressiooni patsientidelt ja tervetest vabatahtlikelt allutati kiiresti toimivatele depressiooniravimitele, sealhulgas ketamiini metaboliit HNK, psilotsiibiin, LSD ja DOI 6-24 tunni jooksul. RNA-järjestamine näitas, et kõik ühendid koondusid põletiku, mTORC1 ja kasvu radadele vaatamata erinevatele mehhanismidele. HNK näitas eristavaid rakutüübi-spetsiifilisi mõjusid glutamaatergilistes neuroonides.",
-        "lv": "iPSC-diferencēti neiroни no pacientiem ar rezistentu depresiju un veseliem brīvprātīgajiem tika pakļauti ātri darbojošiem antidepresantiem, tostarp ketamīna metabolītu HNK, psilociīnu, LSD un DOI 6-24 stundas. RNS sekvencēšana parādīja, ka visi savienojumi sablīvējās uz iekaisuma, mTORC1 un augšanas ceļiem, neskatoties uz dažādiem mehānismiem. HNK parādīja atšķirīgus šūnu tipa specifiskus efektus glutamaterģiskajos neirolos.",
-        "lt": "iPSC-diferencijuoti neuronai iš gydymui atsparios depresijos pacientų ir sveikų savanorių buvo veikiami greitai veikiančiais antidepresantais, įskaitant ketamino metabolitą HNK, psilocibą, LSD ir DOI 6-24 valandas. RNR sekoskaita atskleidė, kad visi junginiai suartėjo dėl uždegimo, mTORC1 ir augimo kelyje nepaisant skirtingų mechanizmų. HNK parodė skirtingus ląstelių tipo specifininius efektus glutamaterginėse neurolose."
-      },
-      "notable": false,
-      "notable_reasons": null,
-      "relevance_score": 4,
-      "study_type": "preclinical",
-      "substances": [
-        "ketamine",
-        "psilocybin",
-        "lsd",
-        "other"
-      ],
-      "added_at": "2026-07-25T08:28:26.778663+00:00"
-    },
-    {
-      "title": "MDMA as an early post-trauma intervention in a translational animal model of PTSD.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42498117/",
-      "source": "PubMed",
-      "date": "2026-07-24",
-      "authors": [
-        "Baruch Omer",
-        "Reiss Nadav",
-        "Todder Doron"
-      ],
-      "doi": "10.1016/j.pnpbp.2026.111853",
-      "summaries": {
-        "en": "Controlled study in 175 rats examined MDMA's preventive potential for PTSD following predator scent stress. The 10 mg/kg dose, administered 30 minutes or 24 hours post-trauma, significantly reduced anxiety-like behavior, startle response, and contextual freezing. Effects correlated with increased corticosterone, hippocampal glucocorticoid receptor expression, and serotonergic markers. Lower doses and delayed administration without trauma-cue pairing were ineffective.",
-        "sv": "Kontrollerad studie på 175 råttor undersökte MDMA:s förebyggande potential för PTSD efter predatörstressexponering. Dosen 10 mg/kg, administrerad 30 minuter eller 24 timmar efter trauma, minskade signifikant ångestbeteende, skräckreaktion och kontextuell frysning. Effekterna korrelerade med ökad kortikosteron och hippocampal glukokortikoidreceptor-uttryck samt serotonerga markörer.",
-        "no": "Kontrollert studie på 175 rotter undersøkte MDMAs forebyggende potensial for PTSD etter predator-stresseksponering. Dosen 10 mg/kg, gitt 30 minutter eller 24 timer etter traume, reduserte signifikant angstlig atferd, stressrespons og kontekstuell frysing. Effektene korrelerte med økt kortikosteron og hippocampal glukokortikoidreseptor-uttrykk samt serotonerge markører.",
-        "da": "Kontrolleret studie på 175 rotter undersøgte MDMA's forebyggende potentiale for PTSD efter rovdyr-stresseksponering. Dosen 10 mg/kg, givet 30 minutter eller 24 timer efter traume, reducerede signifikant angstlig adfærd, skrækreaktioner og kontekstuel frysning. Effekterne korrelerede med øget kortikosteron og hippocampal glukokortikoidsreceptor-udtryk samt serotonerge markører.",
-        "fi": "Kontrolloidussa tutkimuksessa 175 rotalla tutkittiin MDMA:n PTSD:n ehkäisypotentiaalia petoeläimen stressikokemuksen jälkeen. 10 mg/kg annos, annettu 30 minuutin tai 24 tunnin kuluttua traumasta, vähensi merkitsevästi ahdistunutta käyttäytymistä, pelkoreaktioita ja kontekstaalista jähmettymistä. Vaikutukset korreloivat lisääntyneen kortikosteronin ja hipokampuksen glukokortikoidireseptoreiden ilmentymisen kanssa.",
-        "is": "Stjórnað rannsókn á 175 rotum kannaði fyrirbyggjandi möguleika MDMA fyrir PTSD eftir hættu-streitu. 10 mg/kg skammtinn, gefinn 30 mínútum eða 24 klst eftir áfalli, minnkaði marktækt kvíða-umfram atferli, hræðslusvörun og samhengis frjósingu. Áhrifin fylgdust með auknum kortikósteróni og hipókampa glúkókortikóíð-viðtaka tjáningu ásamt serótónínskum merkjum.",
-        "et": "Kontrollitud uuringus 175 rotiga uuriti MDMA-d PTSD-i ennetamisel pärast röövallika stressi. 10 mg/kg doos, manustatud 30 minutit või 24 tundi pärast traumat, vähendas märkimisväärselt ärevuslikku käitumist, hirmu reaktsiooni ja kontekstaalset külmumist. Efektid korreleerusid suurenenud kortikosteroonil ja hipokampuse glükokortikoidi retseptori avaldumisega ning serotonoonsete markeritega.",
-        "lv": "Kontrolēts pētījums ar 175 žurkām pārbaudīja MDMA preventīvo potenciālu PTSD gadījumā pēc predatora stresa. 10 mg/kg deva, ievadīta 30 minūtes vai 24 stundas pēc traumas, būtiski samazināja trauksmes uzvedību, baiļu reakciju un konteksta sasalšanu. Efekti korelēja ar paaugstinātu kortikosteronu un hipokampa glikokortikosterīdu receptoru ekspresiju kā arī serotonīna marķieriem.",
-        "lt": "Kontroliuotame tyrime su 175 žiurkėmis buvo tirtas MDMA prevencinis potencialas PTSD atsiradimui sumažinti po grobuonies streso. 10 mg/kg dozė, skirta per 30 minučių arba 24 valandas po traumos, žymiai sumažino nerimą, baimės reakciją ir kontekstualų sustatymą. Efektai koreliavo su padidėjusiu kortikosteronu ir hipokampo gliukokortikoido receptoriaus ekspresija bei serotonininiais žymenimis."
-      },
-      "notable": false,
-      "notable_reasons": null,
-      "relevance_score": 4,
-      "study_type": "preclinical",
-      "substances": [
-        "mdma"
-      ],
-      "added_at": "2026-07-25T08:28:26.778663+00:00"
-    },
-    {
-      "title": "Rapid clinical and EEG microstate changes 24 h after intranasal esketamine in major depressive disorder with suicidal ideation: a prospective paired study.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42492692/",
-      "source": "PubMed",
-      "date": "2026-07-23",
-      "authors": [
-        "Gu Tingting",
-        "Zhang Jie",
-        "Wang Ruizhi"
-      ],
-      "doi": "10.1016/j.jad.2026.122307",
-      "summaries": {
-        "en": "A prospective study of 31 hospitalized patients with major depression and suicidal ideation received intranasal esketamine alongside standard care. Clinical assessment and resting-state EEG were performed before treatment and 24 hours later. Depression scores improved significantly (HAMD-17: 25.3→20.6, n=22), while power spectral density remained unchanged. Microstate analysis revealed early alterations in microstate D occurrence and transition patterns, suggesting EEG microstates may be sensitive markers of rapid response to esketamine.",
-        "sv": "En prospektiv studie inkluderade 31 inlagda patienter med svår depression och suicidtankar som fick intranasalt esketamin tillsammans med standardbehandling. Klinisk bedömning och viloläge-EEG genomfördes före behandling och 24 timmar senare. Depressionspoäng förbättrades signifikant (HAMD-17: 25,3→20,6, n=22), medan kraftspektral densitet förblev oförändrad. Mikrotillståndsanalys visade tidiga förändringar i mikrotillståndet D:s förekomst och övergångsmönster, vilket tyder på att EEG-mikrotillstånd kan vara känsliga markörer för snabb respons på psykedeliska substanser.",
-        "no": "En prospektiv studie omfattet 31 innlagte pasienter med alvorlig depresjon og selvmordstanker som mottok intranasal esketamin i tillegg til standardbehandling. Klinisk vurdering og hvilende EEG ble gjennomført før behandling og 24 timer senere. Depresjonsskårer forbedret seg betydelig (HAMD-17: 25,3→20,6, n=22), mens kraftspektral tetthet forble uendret. Mikrostilstandsanalyse avdekket tidlige endringer i mikrostilstand D-forekomst og overgangsmønster, noe som tyder på at EEG-mikrostilstander kan være sensitive markører for rask respons på psykedelika.",
-        "da": "En prospektiv undersøgelse omfattede 31 indlagte patienter med alvorlig depression og selvmordstanker, som modtog intranasal esketamin som supplement til standardbehandling. Klinisk vurdering og hvilende EEG blev gennemført før behandling og 24 timer senere. Depressionsscorer forbedret sig signifikant (HAMD-17: 25,3→20,6, n=22), mens effektspektraltæthed forblev uændret. Mikrostilstandsanalyse viste tidlige ændringer i mikrostilstand D's forekomst og overgangsmønstre, hvilket tyder på, at EEG-mikrostilstande kan være sensitive markører for hurtig respons på psykedelika.",
-        "fi": "Prospektiiviseen tutkimukseen osallistui 31 sairaalahoitoa saavaa potilasta, joilla oli vakava masennus ja itsemurhapenseet ja jotka saivat intranasaalia esketamiinia vakiohoitoon lisäksi. Kliininen arviointi ja levon aikainen EEG suoritettiin ennen hoitoa ja 24 tuntia myöhemmin. Masennuspistemäärät paranivat merkitsevästi (HAMD-17: 25,3→20,6, n=22), kun taas spektritiheys säilyi muuttumattomana. Mikrotila-analyysi paljasti varhaisia muutoksia mikrotilan D esiintymisessä ja siirtymäkuvioissa, mikä viittaa siihen, että EEG-mikrotilat voivat olla herkkiä psykedelijoiden nopean vasteen merkkiaineita.",
-        "is": "Framtíðarfang samanstóð af 31 innlögðum sjúklingum með alvarlega þunglyndi og sjálfsmorðshugsanir sem fengu innannasal esketamín til viðbótar við staðlaða meðferð. Klínísk mat og EEG í hvíldarstöðu voru gerð fyrir meðferð og 24 klst síðar. Þunglyndiseinkunn batnaðist marktækt (HAMD-17: 25,3→20,6, n=22), en afl-litningareining breyttist ekki. Örtöðu-greining leiddi í ljós snemma breytingar á mikrotöðu D forkomum og umskiptamynstri, sem bendir til þess að EEG-örtöðu geti verið viðkvæm vísbendingu fyrir skjóta svörun við geðhrifum.",
-        "et": "Prospektiivse uuringu käigus osales 31 hospitaliseeritud patsienti, kellel oli raske depressioon ja enesetappamise mõtted ning kes said intranasaalset esketamiini tavapärase ravi kõrvalt. Kliiniline hindamine ja puhkeasendis EEG tehti enne ravi ja 24 tundi hiljem. Depressiooni skoorid paranesid oluliselt (HAMD-17: 25,3→20,6, n=22), kuid spektraaltihedus jäi muutumatuks. Mikro-olekute analüüs näitas varakult muutusi mikro-olukorras D esinemises ja üleminekumustrites, mis viitab, et EEG-mikro-olekud võivad olla psühhedeelikumide kiirete vastuste tundlikud markerid.",
-        "lv": "Prospektīvajā pētījumā piedalījās 31 hospitalizēts pacients ar smagu depresiju un pašnāvības domu, kuriem tika piešķirts intranauzāls esketamīns papildu standarta ārstēšanai. Klīniskā novērtēšana un miera stāvoklī EEG tika veikta pirms ārstēšanas un 24 stundas vēlāk. Depresijas rādītāji ievērojami uzlabojās (HAMD-17: 25,3→20,6, n=22), bet spektrālā blīvums palika nemainīgs. Mikrostāvokļu analīze atklāja agrīnas izmaiņas mikrostāvokļa D parādīšanās un pārejas modeļos, norādot, ka EEG-mikrostāvokļi var būt jutīgi psihedelisku vielu ātras atbildes marķieri.",
-        "lt": "Prospektyvus tyrimas apėmė 31 hospitalizuotą pacientą su sunkia depresija ir savižudybės mintimis, kurie gavo intranazalinį esketaminą šalia standartinės terapijos. Klininė vertinimą ir EEG ramybės būsenoje atlikta prieš gydymą ir 24 valandas vėliau. Depresijos skalės pagerėjo žymiai (HAMD-17: 25,3→20,6, n=22), tačiau spektrinė tankis liko nepakitęs. Mikrobūsenų analizė atskleidė ankstyvus pokyčius mikrobūsenos D pasirodymo ir perėjimo šablonuose, siūlydama, kad EEG-mikrobūsenos gali būti jautrūs psichedelių greitosios atsako žymekliai."
-      },
-      "notable": false,
-      "notable_reasons": null,
-      "relevance_score": 4,
-      "study_type": "observational",
-      "substances": [
-        "ketamine"
-      ],
-      "added_at": "2026-07-24T09:02:17.474070+00:00"
-    },
-    {
-      "title": "A ketamine/methionine exposure paradigm, alone or combined with Lactobacillus rhamnosus GG, assessing schizophrenia-relevant behavioral, oxidative stress, and molecular endpoints in adult zebrafish.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42492681/",
-      "source": "PubMed",
-      "date": "2026-07-23",
-      "authors": [
-        "Nita Ilinca-Bianca",
-        "Ilie Ovidiu-Dumitru",
-        "Jijie Roxana"
-      ],
-      "doi": "10.1016/j.cbpc.2026.110635",
-      "summaries": {
-        "en": "A ketamine/methionine exposure paradigm, alone or combined with Lactobacillus rhamnosus GG, assessing schizophrenia-relevant behavioral, oxidative stress, and molecular endpoints in adult zebrafish.",
-        "sv": "A ketamine/methionine exposure paradigm, alone or combined with Lactobacillus rhamnosus GG, assessing schizophrenia-relevant behavioral, oxidative stress, and molecular endpoints in adult zebrafish.",
-        "no": "A ketamine/methionine exposure paradigm, alone or combined with Lactobacillus rhamnosus GG, assessing schizophrenia-relevant behavioral, oxidative stress, and molecular endpoints in adult zebrafish.",
-        "da": "A ketamine/methionine exposure paradigm, alone or combined with Lactobacillus rhamnosus GG, assessing schizophrenia-relevant behavioral, oxidative stress, and molecular endpoints in adult zebrafish.",
-        "fi": "A ketamine/methionine exposure paradigm, alone or combined with Lactobacillus rhamnosus GG, assessing schizophrenia-relevant behavioral, oxidative stress, and molecular endpoints in adult zebrafish.",
-        "is": "A ketamine/methionine exposure paradigm, alone or combined with Lactobacillus rhamnosus GG, assessing schizophrenia-relevant behavioral, oxidative stress, and molecular endpoints in adult zebrafish.",
-        "et": "A ketamine/methionine exposure paradigm, alone or combined with Lactobacillus rhamnosus GG, assessing schizophrenia-relevant behavioral, oxidative stress, and molecular endpoints in adult zebrafish.",
-        "lv": "A ketamine/methionine exposure paradigm, alone or combined with Lactobacillus rhamnosus GG, assessing schizophrenia-relevant behavioral, oxidative stress, and molecular endpoints in adult zebrafish.",
-        "lt": "A ketamine/methionine exposure paradigm, alone or combined with Lactobacillus rhamnosus GG, assessing schizophrenia-relevant behavioral, oxidative stress, and molecular endpoints in adult zebrafish."
-      },
-      "notable": false,
-      "notable_reasons": null,
-      "relevance_score": 3,
-      "study_type": "preclinical",
-      "substances": [
-        "ketamine"
-      ],
-      "added_at": "2026-07-24T09:02:17.474070+00:00"
-    },
-    {
-      "title": "Esketamine in Treatment-Resistant Depression: Clinical and Translational Perspectives.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42515873/",
-      "source": "PubMed",
-      "date": "2026-07-22",
-      "authors": [
-        "Śledzikowska Zofia",
-        "Pasternak Agata Marianna",
-        "Wojciechowski Ksawery"
-      ],
-      "doi": "10.2174/011570159X465328260703100233",
-      "summaries": {
-        "en": "Intranasal esketamine, an NMDA receptor antagonist, shows rapid antidepressant effects in treatment-resistant depression by enhancing glutamatergic signaling and synaptic plasticity. Randomized controlled trials demonstrate symptom improvement within hours, though effects on suicidality varied. Common side effects—dissociation, dizziness, elevated blood pressure—are typically transient.",
-        "sv": "Intranasal esketamin, en NMDA-receptorantagonist, visar snabb antidepressiv effekt vid behandlingsresistent depression genom att öka glutamatergi signalering och synaptisk plasticitet. Randomiserade kontrollerade studier visar symptomförbättring inom timmar, dock varierade effekten på suicidalitet. Vanliga biverkningar—dissociation, yrsel, högt blodtryck—är oftast övergående.",
-        "no": "Intranasal esketamin, en NMDA-receptorantagonist, viser rask antidepressiv effekt ved behandlingsresistent depresjon gjennom økt glutamatergisk signalering og synaptisk plastisitet. Randomiserte kontrollerte studier viser symptomforbedring innen timer, men effekten på selvmordstanker varierte. Vanlige bivirkninger—dissosiation, svimmelhet, høyt blodtrykk—er vanligvis forbigående.",
-        "da": "Intranasal esketamin, en NMDA-receptorantagonist, viser hurtig antidepressiv effekt ved behandlingsresistent depression gennem øget glutamaterg signalering og synaptisk plasticitet. Randomiserede kontrollerede studier viser symptomforbedring inden for timer, men effekten på selvmordstanker varierede. Almindelige bivirkninger—dissociation, svimmelhed, høj blodtryk—er typisk kortvarig.",
-        "fi": "Intranasal esketamiini, NMDA-reseptorin antagonisti, osoittaa nopeaa masennuslääkkeen vaikutusta hoitoresistentissa masennuksessa glutamaattergisen signaloinnin ja synaptisen plastisuuden lisäämisen kautta. Satunnaistetut kontrolloitujen tutkimukset osoittavat oireiden paranemista tunnin sisällä, mutta vaikutus itsemurhapuuhiin vaihteli. Yleiset sivuvaikutukset—dissosiaatio, huimaus, kohonnut verenpaine—ovat tyypillisesti väliaikaisia.",
-        "is": "Innsog esketamín, NMDA-viðtakaandagonisti, sýnir hraða þunglynd­lækna­virkni við meðferðarþolna þunglyndi með aukinni glutamat­merki­sendingu og syfaptu­kosti. Handahóf stýrðu rannsóknir sýna batnun einkenna innan klukkustunda, en áhrif á sjálfsmorðshættu voru breytileg. Algengir aukaverknanir—aðskilnaður, hnæfing, hækkað blóðþrýstingur—eru venjulega tímabundnir.",
-        "et": "Intranaasalne esketamiin, NMDA-retseptori antagonist, näitab kiire antidepressiivseid efekte raviresistentses depressioonis, suurendades glutamaatergilist signaalimist ja sünaptilast plastilisust. Randomiseeritud kontrollitud uuringud näitavad sümptomite parandamist tundide jooksul, kuid mõju enesetapumõtetele varieerus. Levinud kõrvaltoimed—dissotsiatsiooni, pearinglus, tõusnud vererõhk—on tavaliselt mööduvad.",
-        "lv": "IntranaZāla esketamīns, NMDA receptora antagonists, uzrāda ātru antidepresiīvu iedarbību ārstēšanas rezistentā depresijā, paaugstinot glutamaterģisko signalizēšanu un sinaptisko plasticitāti. Randomizēti kontrolēti pētījumi parāda simptomu uzlabošanos stundas laikā, taču ietekme uz pašnāvniecības apdraudējumu bija mainīga. Biežas blakusparādības—disociācija, reibonis, paaugstināts asinsspiediens—parasti ir īslaicīgas.",
-        "lt": "Intranasinė esketamina, NMDA receptoriaus antagonistas, parodo greitą antidepresinio poveikio efektyvumą gydymui rezistentinėje depresijoje, padidindama glutamaterginį signalizavimą ir sinaptinį plastiškumą. Randomizuoti kontroliuojami tyrimai rodo simptomų pagerinimą per valandas, tačiau poveikis savižudybės rizikai buvo skirtingas. Dažniausi šalutiniai poveikiai—disociacija, svaigimas, padidėtas arterinis spaudimas—paprastai yra laikini."
-      },
-      "notable": false,
-      "notable_reasons": null,
-      "relevance_score": 4,
-      "study_type": "review",
-      "substances": [
-        "ketamine"
-      ],
-      "added_at": "2026-07-29T09:20:10.039628+00:00"
-    },
-    {
-      "title": "Quality of life and productivity among esketamine responders in a real-world study in Australia and New Zealand.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42501650/",
-      "source": "PubMed",
-      "date": "2026-07-21",
-      "authors": [
-        "Hopwood Malcolm",
-        "Codyre David",
-        "Barton David"
-      ],
-      "doi": "10.1016/j.jpsychires.2026.07.011",
-      "summaries": {
-        "en": "Real-world study of 84 treatment-resistant depression patients in Australia and New Zealand receiving esketamine nasal spray plus oral antidepressant for 16 weeks. 33% showed ≥50% symptom reduction. Responders demonstrated significant improvements: depression severity decreased 71%, quality of life increased 29.5%, and work productivity loss improved 35.9%. Mental health domain showed greatest quality of life gains.",
-        "sv": "Verklighetsstudie på 84 patienter med behandlingsresistent depression i Australien och Nya Zeeland som fick esketamin nässpray plus oralt antidepressivum under 16 veckor. 33% uppnådde ≥50% symtomlindring. Responderare visade signifikanta förbättringar: depression minskade 71%, livskvalitet ökade 29,5% och produktivitetsförlust minskade 35,9%. Psykisk hälsa visade största förbättringen i livskvalitet.",
-        "no": "Praksisstudien inkluderte 84 pasienter med behandlingsresistent depresjon i Australia og New Zealand som fikk esketamin nesespray pluss oralt antidepressivum i 16 uker. 33% oppnådde ≥50% symptomreduksjon. Respondere viste betydelige forbedringer: depresjon redusert 71%, livskvalitet økt 29,5% og produktivitetstap forbedret 35,9%. Psykisk helse viste størst forbedring i livskvalitet.",
-        "da": "Praksisstudiet omfattede 84 patienter med behandlingsresistent depression i Australien og New Zealand, som modtog esketamin næsespray plus oralt antidepressivum i 16 uger. 33% opnåede ≥50% symptomreduktion. Respondenterne viste væsentlige forbedringer: depression reduceret 71%, livskvalitet øget 29,5% og produktivitetstab forbedret 35,9%. Mental sundhed viste størst forbedring i livskvalitet.",
-        "fi": "Todellisen maailman tutkimus, johon osallistui 84 hoitoresistentin masennuksen potilasta Australiassa ja Uudessa-Seelannissa, jotka saivat esketamiini-nenäsumutetta ja suonensisäistä masennuslääkettä 16 viikon ajan. 33% saavutti ≥50% oireenalennusta. Vastanneet potilaset osoittivat merkittäviä parannuksia: masennus väheni 71%, elämänlaatu parantui 29,5% ja työkyky heikkeneminen parantui 35,9%. Mielenterveys osoitti suurimman elämänlaadun parannuksen.",
-        "is": "Raunveruleg rannsókn á 84 sjúklingum með meðhöndlunarþolna þunglyndi á Ástralíu og Nýja-Sjálandi sem fengu esketamín nasúsprey og munnlegt þunglyndislyf í 16 vikur. 33% náðu ≥50% einkennasamdrætti. Svörunarsjúklingar sýndu verulega framför: þunglyndi fór lækkað um 71%, lífsgæði hækkuðu um 29,5% og framleiðni taprækari batnaði um 35,9%. Andleg heilsa sýndi mestu framför í lífsgæðum.",
-        "et": "Tegelik uuringus osales 84 raviravitava depressiooni patsienti Austraalias ja Uus-Meremaal, kes said esketamiini ninaspreid ja suulist antidepressanti 16 nädala jooksul. 33% saavutasid ≥50% sümptomite vähenemise. Vastajad näitasid märkimisväärseid parandusi: depressioon vähenes 71%, elukvaliteet kasvas 29,5% ja tootlikkuse langus paranes 35,9%. Vaimne tervis näitas suurimat elukvaliteedis paranemist.",
-        "lv": "Reālas prakses pētījumā piedalījās 84 pacienti ar ārstēšanas rezistentu depresiju Austrālijā un Jaunzēlandē, kuri saņēma esketamīna deglāvs un mutiskus antidepresantus 16 nedēļas garumā. 33% sasniedza ≥50% simptomu samazinājumu. Reaģējušiem pacientiem novēroja nozīmīgus uzlabojumus: depresija samazinājās par 71%, dzīves kvalitāte pieauga par 29,5% un darba produktivitātes zudumi uzlabojās par 35,9%. Garīgā veselība parādīja lielāko dzīves kvalitātes uzlabojumu.",
-        "lt": "Tikrovės studijoje dalyvavo 84 pacientai su gydymui rezistentiniu depresija Australijoje ir Naujojoje Zelandijoje, kurie gavo esketamino nosies purškalą ir žaluosius antidepresantus 16 savaičių. 33% pasiekė ≥50% simptomų sumažėjimą. Respondentai parodė reikšmingus pagerinimus: depresija sumažėjo 71%, gyvenimo kokybė padidėjo 29,5% ir darbo produktyvumo praradimas pagerėjo 35,9%. Psichinė sveikata parodė didžiausią gyvenimo kokybės pagerinimą."
-      },
-      "notable": false,
-      "notable_reasons": null,
-      "relevance_score": 4,
-      "study_type": "observational",
-      "substances": [
-        "ketamine"
-      ],
-      "added_at": "2026-07-26T08:44:16.826440+00:00"
-    },
-    {
-      "title": "Targeting TLR4/PPARα-mediated neuroinflammation in the prefrontal cortex: S-ketamine and S-HNK rapidly alleviate depression-like behaviors.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42497468/",
-      "source": "PubMed",
-      "date": "2026-07-21",
-      "authors": [
-        "Zhu Quanfeng",
-        "Zhou Xiaoyue",
-        "Gao Huangling"
-      ],
-      "doi": "10.1016/j.jneuroim.2026.579038",
-      "summaries": {
-        "en": "Mouse study investigating S-ketamine and S-HNK mechanisms in depression. Chronic social stress induced depression-like behaviors and neuroinflammation in the prefrontal cortex. Both compounds rapidly reversed behavioral deficits, restored neurotransmitter levels (dopamine, serotonin, norepinephrine), and reduced pro-inflammatory cytokines by modulating TLR4/PPARα signaling.",
-        "sv": "Mösstudies undersökte S-ketamin och S-HNK:s mekanismer vid depression. Kronisk social stress inducerade depressionsliknande beteenden och neuroinflammation i prefrontala cortex. Båda substanserna återställde snabbt beteendestörningar, neurotransmitternivåer och minskade pro-inflammatoriska cytokiner genom modulering av TLR4/PPARα-signalering.",
-        "no": "Musestudien undersøkte S-ketamin og S-HNK-mekanismer ved depresjon. Kronisk sosial stress induserte depresjonslignende atferd og nevroinflammation i prefrontal cortex. Begge stoffene reverserte raskt atferdsforstyrrelser, gjenopprettet nevrotransmitternivåer og reduserte pro-inflammatoriske cytokiner via TLR4/PPARα-signalering.",
-        "da": "Musestudie undersøgte S-ketamin og S-HNK-mekanismer ved depression. Kronisk social stress fremkaldte depressionslignende adfærd og neuroinflamation i præfrontal cortex. Begge stoffer vendte hurtigt adfærdsforstyrrelser, gjenoprettede neurotransmitterniveauer og reducerede pro-inflammatoriske cytokiner via TLR4/PPARα-signalering.",
-        "fi": "Hiiritutkimus S-ketamiinin ja S-HNK:n mekanismeista masennuksessa. Krooninen sosiaalinen stressi aiheutti masennuksenomaiset käyttäytymisen muutokset ja neuroinflammaation prefrontaalisessa korteksissa. Molemmat aineet kääntyivät nopeasti käyttäytymishäiriöt, ennallistivat neurotransmitteritasot ja vähentyivät pro-inflammatorisia sytokkiinejä TLR4/PPARα-signaloinnin kautta.",
-        "is": "Músrannsókn sem skoðaði S-ketamín og S-HNK aðferðir við þunglyndi. Langvarandi félagslegur streiti olli þunglyndislegri hegðun og taugabólgu í forhluta heilans. Báðir efnir snéru hraðlega við hegðunartruflunum, endurkváðu taugaboðefnum og minnkuðu bólguæðandi sítókína með TLR4/PPARα-merki.",
-        "et": "Hiiretest uuriti S-ketamiini ja S-HNK mehhanisme depressioonis. Krooniline sotsiaalne stress põhjustas depressioonivõimalikku käitumist ja neuroinflamatsiooni eesajus ajukoores. Mõlemad ained pöördsid kiiresti käitumishäired, taastasin neurotransmitterite tasemed ja vähendasid pro-põletikkulisi tsütokiine TLR4/PPARα signaalimise kaudu.",
-        "lv": "Pelēm veikts pētījums par S-ketamīna un S-HNK mehānismiem depresijā. Hronisks sociālais stress izraisīja depresijas līdzīgu uzvedību un neiroinflammāciju prefrontālajā garozā. Abi savienojumi ātri apgriezēja uzvedības traucējumus, atjaunoja neirotransmiteru līmeņus un samazināja pro-iekaisuma citokīnus, modulējot TLR4/PPARα signalizāciju.",
-        "lt": "Pelių tyrimas, kuriame buvo tiriami S-ketamino ir S-HNK mechanizmai depresijoje. Chroniški socialinis stresas sukėlė depresijai panašų elgesį ir neuroinflamaciją priekinėje smegenyje. Abu junginiai greitai atstatė elgesio sutrikus, atkūrė neurotransmiterių lygius ir sumažino pro-uždegiminius citokinius per TLR4/PPARα signalizavimą."
-      },
-      "notable": false,
-      "notable_reasons": null,
-      "relevance_score": 4,
-      "study_type": "preclinical",
-      "substances": [
-        "ketamine"
-      ],
-      "added_at": "2026-07-25T08:28:26.778663+00:00"
     }
   ]
 }

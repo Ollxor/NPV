@@ -3,52 +3,52 @@
     "PubMed": {
       "error_streak": 0,
       "zero_streak": 0,
-      "last_ok": "2026-08-10",
+      "last_ok": "2026-08-11",
       "alerted": false,
       "last_error": ""
     },
     "Semantic Scholar": {
-      "error_streak": 1,
-      "zero_streak": 38,
+      "error_streak": 2,
+      "zero_streak": 39,
       "last_ok": "",
-      "alerted": false,
+      "alerted": true,
       "last_error": "429 Client Error:  for url: https://api.semanticscholar.org/graph/v1/paper/search?query=psilocybin+OR+psychedelic+OR+mdma+OR+ayahuasca&fields=title,abstract,year,authors,externalIds,publicationDate&limit=10&sort=publicationDate"
     },
     "Psychedelic Alpha": {
       "error_streak": 0,
       "zero_streak": 0,
-      "last_ok": "2026-08-10",
+      "last_ok": "2026-08-11",
       "alerted": false,
       "last_error": ""
     },
     "DiVA": {
       "error_streak": 0,
       "zero_streak": 0,
-      "last_ok": "2026-08-10",
+      "last_ok": "2026-08-11",
       "alerted": false,
       "last_error": ""
     },
     "Europe PMC": {
       "error_streak": 0,
       "zero_streak": 0,
-      "last_ok": "2026-08-10",
+      "last_ok": "2026-08-11",
       "alerted": false,
       "last_error": ""
     },
     "EU Clinical Trials Register": {
       "error_streak": 0,
       "zero_streak": 0,
-      "last_ok": "2026-08-10",
+      "last_ok": "2026-08-11",
       "alerted": false,
       "last_error": ""
     },
     "OpenAIRE": {
       "error_streak": 0,
       "zero_streak": 0,
-      "last_ok": "2026-08-10",
+      "last_ok": "2026-08-11",
       "alerted": false,
       "last_error": ""
     }
   },
-  "last_updated": "2026-08-10T07:27:10.413460+00:00"
+  "last_updated": "2026-08-11T07:02:10.890599+00:00"
 }

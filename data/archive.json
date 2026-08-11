@@ -1,6 +1,129 @@
 {
   "items": [
     {
+      "title": "Sex-sensitive serotonergic signaling in psychedelic pharmacology.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42575820/",
+      "source": "PubMed",
+      "date": "2026-08-10",
+      "authors": [
+        "Nasini Sofia",
+        "Barzon Benedetta",
+        "Casile Antonino"
+      ],
+      "doi": "10.1016/j.tips.2026.07.006",
+      "summary_en": "Classic serotonergic psychedelics primarily act via 5-HT2A receptor agonism, yet show heterogeneous therapeutic effects. This review synthesizes evidence that biological sex and endocrine state modulate key serotonergic mechanisms—including 5-HT1A feedback, 5-HT2A signaling, and neuroplasticity—relevant to psychedelic action. Most clinical and preclinical studies lack sex-by-treatment designs. The authors prioritize sex-informed translational research to better understand variability in psychedelic responses.",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "review",
+      "substances": [
+        "psilocybin",
+        "lsd",
+        "mescaline",
+        "other"
+      ],
+      "added_at": "2026-08-11T07:44:36.046881+00:00"
+    },
+    {
+      "title": "Intravenous Ketamine reduces psychological pain in suicidal inpatients: A secondary analysis of a six-week randomized placebo-controlled trial.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42575195/",
+      "source": "PubMed",
+      "date": "2026-08-10",
+      "authors": [
+        "Baryshnikov Ilya",
+        "Demattei Christophe",
+        "Abbar Mocrane"
+      ],
+      "doi": "10.1016/j.jad.2026.122366",
+      "summary_en": "Secondary analysis of the KETIS trial (n=156 suicidal inpatients) examined intravenous ketamine's effect on psychological pain. Two 40-min infusions (0.5 mg/kg) or placebo, 24h apart, were given alongside standard care. Psychological pain decreased significantly more with ketamine within 96h (p<0.001), with largest effects at 40min-24h, but differences disappeared by week 2-6. Effects remained after adjusting for depression and hopelessness.",
+      "notable": true,
+      "notable_reason": "Secondary analysis of a 6-week double-blind RCT (n=156) examining ketamine's mechanism of action on psychological pain in suicidal inpatients—a novel treatment target with rapid-onset effects.",
+      "study_type": "rct",
+      "substances": [
+        "ketamine"
+      ],
+      "added_at": "2026-08-11T07:44:36.046881+00:00"
+    },
+    {
+      "title": "Discordant signals: How outcome measurement shapes interpretation of ketamine response in treatment-resistant depression.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42575191/",
+      "source": "PubMed",
+      "date": "2026-08-10",
+      "authors": [
+        "Vazquez Gustavo",
+        "Kang Melody J Y",
+        "Gutierrez Gilmar"
+      ],
+      "doi": "10.1016/j.jad.2026.122368",
+      "summary_en": "Secondary analysis of 71 treatment-resistant depression patients examined ketamine response using three rating scales (MADRS, BDI-II, CGI-S). Change scores showed variable correlations across instruments (ρ = 0.13–0.69). MADRS detected greater symptom reduction (54.2%) than BDI-II (41.9%), with larger effect sizes (d = 1.78 vs 1.34). Suicidality improved on both measures. Results demonstrate that outcome measurement choice significantly influences effect size estimates and perceived treatment response magnitude.",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "observational",
+      "substances": [
+        "ketamine"
+      ],
+      "added_at": "2026-08-11T07:44:36.046881+00:00"
+    },
+    {
+      "title": "Psychedelics in psychiatry: from promise to translation.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42572968/",
+      "source": "PubMed",
+      "date": "2026-08-10",
+      "authors": [
+        "Zhang Yi",
+        "Zheng Yongbo B",
+        "Jin Meng"
+      ],
+      "doi": "10.1192/bjp.2026.10749",
+      "summary_en": "A review examining psychedelics' therapeutic potential in psychiatry finds that clinical translation remains premature. The authors argue that progress requires simultaneous advances in mechanistic research, clinical implementation, regulatory frameworks, and public discourse.",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "review",
+      "substances": [
+        "other"
+      ],
+      "added_at": "2026-08-11T07:44:36.046881+00:00"
+    },
+    {
+      "title": "'So many relationships in the room': Participant perspectives on the affordances and challenges of co-therapy in psychedelic assisted therapy.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42572818/",
+      "source": "PubMed",
+      "date": "2026-08-10",
+      "authors": [
+        "Ham Rachel",
+        "Gardner John",
+        "Carter Adrian"
+      ],
+      "doi": "10.1111/papt.70098",
+      "summary_en": "Qualitative study of 18 participants from a phase 2 randomized trial examining experiences of co-therapy (two therapists) in psilocybin-assisted therapy for generalized anxiety disorder. Semi-structured interviews (n=29) before and after dosing sessions revealed three themes: co-therapy provided safety and trust; influenced therapeutic processes; and shaped credibility of insights. Co-therapy functioned as both a safety measure and therapeutic enhancer, though accessibility considerations remain.",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "qualitative",
+      "substances": [
+        "psilocybin"
+      ],
+      "added_at": "2026-08-11T07:44:36.046881+00:00"
+    },
+    {
+      "title": "Adjunctive transcutaneous auricular vagus nerve stimulation following loss of response to maintenance intranasal esketamine in treatment-resistant depression.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42574893/",
+      "source": "PubMed",
+      "date": "2026-08-06",
+      "authors": [
+        "Sierra Pilar",
+        "Cañada Yolanda",
+        "Benavent Pilar"
+      ],
+      "doi": "10.1016/j.ajp.2026.105110",
+      "summary_en": "Case report examining adjunctive transcutaneous auricular vagus nerve stimulation in a patient with treatment-resistant depression who lost response to maintenance intranasal esketamine. The study explores combining two neuromodulation approaches when initial ketamine treatment efficacy wanes.",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "case_report",
+      "substances": [
+        "ketamine"
+      ],
+      "added_at": "2026-08-11T07:44:36.046881+00:00"
+    },
+    {
       "title": "Psilocybin-assisted therapy for treatment-resistant major depressive disorder in a public healthcare setting: a randomized controlled trial.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42562964/",
       "source": "PubMed",

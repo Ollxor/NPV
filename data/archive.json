@@ -1,6 +1,125 @@
 {
   "items": [
     {
+      "title": "Effects of naturalistic psychedelic use on executive functioning: An online survey of lifetime history and recent use in university students.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42580581/",
+      "source": "PubMed",
+      "date": "2026-08-11",
+      "authors": [
+        "Todesco Stefanie",
+        "Allan Zachary",
+        "Liu May Y M"
+      ],
+      "doi": "10.1016/j.pnpbp.2026.111888",
+      "summary_en": "Cross-sectional online study of 1342 university students examining executive functioning in relation to psychedelic use. Participants completed the Wisconsin Card Sorting Task and reported lifetime/recent psychedelic use. Lifetime (n=224) and recent (n=114) users showed better performance on most measures: fewer errors, more correct responses, and more categories achieved. Moderate-dose users completed more categories than low-dose users. Results suggest naturalistic psychedelic use associates with enhanced executive functioning.",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "observational",
+      "substances": [
+        "psilocybin",
+        "lsd"
+      ],
+      "added_at": "2026-08-12T07:58:17.936680+00:00"
+    },
+    {
+      "title": "Psilocybin-associated microRNA changes in the pig brain: Establishing an nCounter pipeline for cross-species microRNA quantification.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42580506/",
+      "source": "PubMed",
+      "date": "2026-08-11",
+      "authors": [
+        "Kaadt Erik",
+        "Søkilde Rolf Fyllgraf",
+        "Garling Hanne Demant"
+      ],
+      "doi": "10.1016/j.ejphar.2026.179222",
+      "summary_en": "Study in adolescent female pigs examined microRNA expression changes in prefrontal cortex and hippocampus after single psilocybin dose. Using NanoString nCounter analysis, researchers identified 12 dysregulated microRNAs in prefrontal cortex and 2-4 in hippocampus at day 1 and day 7 post-administration. Nine of 18 identified microRNAs previously linked to depression. Findings demonstrate region- and time-dependent microRNA changes, establishing a validated pipeline for cross-species psychedelic neurochemistry research.",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "preclinical",
+      "substances": [
+        "psilocybin"
+      ],
+      "added_at": "2026-08-12T07:58:17.936680+00:00"
+    },
+    {
+      "title": "Real-World Psilocybin Therapy for Treatment-Resistant Depression: A Retrospective Observational Study.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42577282/",
+      "source": "PubMed",
+      "date": "2026-06-01",
+      "authors": [
+        "Jungwirth Johannes",
+        "Westenhöfer Samuel",
+        "Aicher Helena D"
+      ],
+      "doi": "10.1016/j.lanepe.2026.101719",
+      "summary_en": "Retrospective analysis of 19 treatment-resistant depression patients at Zurich Psychiatric University Hospital receiving psilocybin therapy (20-35 mg, 1-4 sessions). MADRS scores decreased significantly (30.78 to 19.89, Hedges' g=1.37), with 33% response and 22% remission rates. BDI scores also improved (32.33 to 23.28, g=0.77). No serious adverse events documented. This real-world evidence demonstrates psilocybin's clinical feasibility and safety outside controlled trials.",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "observational",
+      "substances": [
+        "psilocybin"
+      ],
+      "added_at": "2026-08-12T07:58:17.936680+00:00"
+    },
+    {
+      "title": "Mechanisms of Action and Change in Psychedelic-Assisted Therapies: A Holistic Framework for Ethical, Competent Clinical Care.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42576923/",
+      "source": "PubMed",
+      "date": "2026-07-08",
+      "authors": [
+        "Averill Lynnette A",
+        "Neitzke-Spruill Logan"
+      ],
+      "doi": "10.1176/appi.focus.20260006",
+      "summary_en": "This review presents a multilevel framework for understanding psychedelic-assisted therapies (PATs) for trauma and stress-related disorders. Rather than focusing solely on neurobiological mechanisms, the authors integrate neuroplasticity, memory updating, relational dynamics, and meaning-making as interacting factors in therapeutic change. The paper emphasizes how preparation, altered states, and integration create windows for experiential relearning, while discussing ethical considerations and clinical guidance for practitioners.",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "review",
+      "substances": [
+        "other"
+      ],
+      "added_at": "2026-08-12T07:58:17.936680+00:00"
+    },
+    {
+      "title": "Combined Ketamine and Cognitive-Behavioral Therapy: Leveraging Metaplasticity to Enhance Treatment Outcomes.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42576910/",
+      "source": "PubMed",
+      "date": "2026-07-08",
+      "authors": [
+        "Hardy Morgan S",
+        "Li S William",
+        "Wilkinson Samuel T"
+      ],
+      "doi": "10.1176/appi.focus.20260001",
+      "summary_en": "Recent research examines combining ketamine with cognitive-behavioral therapy to treat depression, particularly in treatment-resistant cases. The approach leverages metaplasticity—the brain's capacity to modify its own plasticity—potentially enhancing therapeutic outcomes through synergistic effects of rapid-acting ketamine and behavioral interventions.",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "other",
+      "substances": [
+        "ketamine"
+      ],
+      "added_at": "2026-08-12T07:58:17.936680+00:00"
+    },
+    {
+      "title": "Synergistic and Scalable: A Review of Integrated Digital and Biological Interventions.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42576931/",
+      "source": "PubMed",
+      "date": "2026-07-08",
+      "authors": [
+        "Eken Hatice Nur",
+        "Price Rebecca Byrne"
+      ],
+      "doi": "10.1176/appi.focus.20250048",
+      "summary_en": "This review examines how digital therapeutics (internet-based therapy, cognitive training) combined with neuroplasticity-enhancing biological treatments—including psychedelics—may synergistically improve psychiatric outcomes. Evidence suggests pairing approaches can enhance efficacy of both components. The authors discuss clinical applications, regulatory considerations, and the need for rigorous randomized trials and real-world effectiveness studies.",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "review",
+      "substances": [
+        "other"
+      ],
+      "added_at": "2026-08-12T07:58:17.936680+00:00"
+    },
+    {
       "title": "Sex-sensitive serotonergic signaling in psychedelic pharmacology.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42575820/",
       "source": "PubMed",

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-11T07:46:43.996885+00:00",
+  "generated_at": "2026-08-12T08:00:18.426015+00:00",
   "items": [
     {
       "title": "Blinding integrity in psychedelic research: Evidence from a comparative randomized controlled trial of psilocybin, MDMA, and methylphenidate in healthy volunteers",
@@ -32,6 +32,69 @@
         "mdma"
       ],
       "added_at": "2026-07-09T10:03:12.956794+00:00"
+    },
+    {
+      "title": "Effects of naturalistic psychedelic use on executive functioning: An online survey of lifetime history and recent use in university students.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42580581/",
+      "source": "PubMed",
+      "date": "2026-08-11",
+      "authors": [
+        "Todesco Stefanie",
+        "Allan Zachary",
+        "Liu May Y M"
+      ],
+      "doi": "10.1016/j.pnpbp.2026.111888",
+      "summaries": {
+        "en": "Cross-sectional online study of 1342 university students examining executive functioning in relation to psychedelic use. Participants completed the Wisconsin Card Sorting Task and reported lifetime/recent psychedelic use. Lifetime (n=224) and recent (n=114) users showed better performance on most measures: fewer errors, more correct responses, and more categories achieved. Moderate-dose users completed more categories than low-dose users. Results suggest naturalistic psychedelic use associates with enhanced executive functioning.",
+        "sv": "Tvärsnittsstudie med 1342 universitetsstudenter som undersökte verkningsfull funktion i relation till psykedelikabruk. Deltagarna genomförde Wisconsin Card Sorting Task och rapporterade livstids- och aktuellt bruk. Livstidsanvändare (n=224) och nyligen aktiva användare (n=114) visade bättre prestanda på de flesta mått: färre fel, fler korrekta svar och fler lösta kategorier. Måttliga doser gav bättre resultat än låga doser. Resultaten tyder på att naturalistiskt psykedelikabruk associeras med förbättrad verkningsfull funktion.",
+        "no": "Tverrsnittsstudie med 1342 universitetsstudenter som undersøkte eksekutiv fungering i forhold til psykedelikabruk. Deltakerne fullførte Wisconsin Card Sorting Task og rapporterte livstids- og nylig bruk. Livstidsbrukere (n=224) og nylig aktive brukere (n=114) viste bedre prestasjon på de fleste mål: færre feil, flere korrekte svar og flere løste kategorier. Moderate doser ga bedre resultater enn lave doser. Resultatene tyder på at naturalistisk psykedelikabruk er assosiert med forbedret eksekutiv fungering.",
+        "da": "Tværsnitsundersøgelse med 1342 universitetsstuderende, der undersøgte eksekutiv funktion i forhold til psykedelikabrugere. Deltagerne gennemførte Wisconsin Card Sorting Task og rapporterede livsvarig og nyligt forbrug. Livsvarige brugere (n=224) og nyligt aktive brugere (n=114) viste bedre præstationer på de fleste mål: færre fejl, flere korrekte svar og flere løste kategorier. Moderate doser gav bedre resultater end lave doser. Resultaterne tyder på, at naturalistisk psykedelikabruge er forbundet med forbedret eksekutiv funktion.",
+        "fi": "Poikkileikkaustutkimus 1342 yliopisto-opiskelijalla, joka tutki toimeenpanovoimaa suhteessa psykedeliikkaaineiden käyttöön. Osallistujat suorittivat Wisconsin Card Sorting Task -testin ja raportoivat elinikäisen ja äskettäisen käytön. Elinikäiset käyttäjät (n=224) ja äskettäin aktiiviset käyttäjät (n=114) osoittivat parempaa suoritusta useimmissa mittareissa: vähemmän virheitä, enemmän oikeita vastauksia ja useampia ratkaisuja. Kohtalaiset annokset antoivat parempia tuloksia kuin pienet annokset. Tulokset viittaavat siihen, että luonnollinen psykedeliikkaaineiden käyttö liittyy parantuneeseen toimeenpanovoimaan.",
+        "is": "Þversnið rannsókn með 1342 háskólanemendum sem kannaði framkvæmdarstarfsemi í tengslum við notkun sálfræðilyfja. Þátttakendur loku Wisconsin Card Sorting Task og tilkynntu ævikort og nýlegt notkun. Ævikort notendur (n=224) og nýlega virkir notendur (n=114) sýndu betri frammistöðu á flestum mælingum: færri villur, fleiri rétt svör og fleiri leyst flokkar. Meðaltal skammta gáfu betri niðurstöður en lágt skammta. Niðurstöðurnar benda til að náttúrúleg notkun sálfræðilyfja tengist bættri framkvæmdarstarfsemi.",
+        "et": "Ristlõikeline uuring 1342 üliõpilasega, mis uuris täitmisfunktsiooni suhtes psühhedeelikate kasutamisega. Osalejad sooritasid Wisconsin Card Sorting Task testi ja teatanud eluaegse ja hiljutise kasutamise kohta. Eluaegsed kasutajad (n=224) ja hiljuti aktiivsed kasutajad (n=114) näitasid paremat jõudlust enamikul mõõtmistel: vähem vigu, rohkem õigeid vastuseid ja rohkem lahendatud kategooriaid. Keskmised annused andsid paremaid tulemusi kui madalad annused. Tulemused viitavad sellele, et loomulik psühhedeelikate kasutamine on seotud parandatud täitmisfunktsiooniga.",
+        "lv": "Šķērsgriežu pētījums ar 1342 universitātes studentiem, kas pārbaudīja izpildfunkcijas attiecības pret psihedēliku lietošanu. Dalībnieki pabeidza Wisconsin Card Sorting Task testu un paziņoja par mūžīgo un nesen notikušo lietošanu. Mūžīgie lietotāji (n=224) un nesen aktīvie lietotāji (n=114) parādīja labāku sniegumu lielākajā daļā rādītāju: mazāk kļūdu, vairāk pareizu atbilžu un vairāk atrisinātu kategoriju. Vidējās devas deva labākus rezultātus nekā zemas devas. Rezultāti liecina, ka dabiska psihedēliku lietošana ir saistīta ar uzlabotu izpildfunkciju.",
+        "lt": "Skerspjūvio tyrimas su 1342 universitetų studentais, kuriame buvo tiriamos vykdomosios funkcijos ryšys su psichedelinių medžiagų vartojimu. Dalyviai atliko Wisconsin Card Sorting Task testą ir pranešė apie visą gyvenimą ir neseniai atliktas vartojimu. Visą gyvenimą vartoję dalyviai (n=224) ir neseniai aktyvūs vartotojai (n=114) parodė geresnę veiklą pagal daugumą rodiklių: mažiau klaidų, daugiau teisingų atsakymų ir daugiau išspręstų kategorijų. Vidutinės dozės davė geresnius rezultatus nei mažos dozės. Rezultatai rodo, kad natūralus psichedelinių medžiagų vartojimas yra susijęs su pagerėjusia vykdomąja funkcija."
+      },
+      "notable": false,
+      "notable_reasons": null,
+      "relevance_score": 4,
+      "study_type": "observational",
+      "substances": [
+        "psilocybin",
+        "lsd"
+      ],
+      "added_at": "2026-08-12T07:58:17.936680+00:00"
+    },
+    {
+      "title": "Psilocybin-associated microRNA changes in the pig brain: Establishing an nCounter pipeline for cross-species microRNA quantification.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42580506/",
+      "source": "PubMed",
+      "date": "2026-08-11",
+      "authors": [
+        "Kaadt Erik",
+        "Søkilde Rolf Fyllgraf",
+        "Garling Hanne Demant"
+      ],
+      "doi": "10.1016/j.ejphar.2026.179222",
+      "summaries": {
+        "en": "Study in adolescent female pigs examined microRNA expression changes in prefrontal cortex and hippocampus after single psilocybin dose. Using NanoString nCounter analysis, researchers identified 12 dysregulated microRNAs in prefrontal cortex and 2-4 in hippocampus at day 1 and day 7 post-administration. Nine of 18 identified microRNAs previously linked to depression. Findings demonstrate region- and time-dependent microRNA changes, establishing a validated pipeline for cross-species psychedelic neurochemistry research.",
+        "sv": "Studie på ungdomsiga hongriser undersökte mikroRNA-förändringar i prefrontalkortex och hippocampus efter enstaka psilocybin-dos. Med NanoString nCounter-analys identifierades 12 dysregulerade mikroRNA:or i prefrontalkortex och 2-4 i hippocampus vid dag 1 och dag 7 efter administrering. Nio av 18 identifierade mikroRNA:or tidigare kopplade till depression. Resultaten visar region- och tidsberoende mikroRNA-förändringar och etablerar en validerad pipeline för tvärartsstudier av psykedelikas neurokemi.",
+        "no": "Studie på ungdomlige hunner undersøkte mikroRNA-endringer i prefrontalkorteks og hippocampus etter enkeltdose psilocybin. Med NanoString nCounter-analyse identifiserte forskere 12 dysregulerte mikroRNA i prefrontalkorteks og 2-4 i hippocampus på dag 1 og dag 7 etter administrering. Ni av 18 identifiserte mikroRNA tidligere knyttet til depresjon. Funnene viser region- og tidsavhengige mikroRNA-endringer og etablerer en validert pipeline for tverrartspsykedelia-nevrokjemi.",
+        "da": "Studie på unge hunlige grise undersøgte mikroRNA-ændringer i præfrontal cortex og hippocampus efter enkelt psilocybin-dosis. Med NanoString nCounter-analyse identificeredes 12 dysregulerede mikroRNA i præfrontal cortex og 2-4 i hippocampus på dag 1 og dag 7 efter administration. Ni af 18 identificerede mikroRNA tidligere forbundet til depression. Resultaterne viser region- og tidsafhængige mikroRNA-ændringer og etablerer en valideret pipeline til tværarts-psykedelika-neurovidenskab.",
+        "fi": "Tutkimus nuorilla naarassikoilla tutki mikroRNA-muutoksia prefrontaalisessa kuoressa ja hippocampuksessa yhden psilosybiini-annoksen jälkeen. NanoString nCounter -analyysin avulla tutkijat tunnistivat 12 dysreguloidun mikroRNA:n prefrontaalisessa kuoressa ja 2-4 hippocampuksessa päivänä 1 ja 7 antamisen jälkeen. Yhdeksän 18 tunnistetusta mikroRNA:sta oli aiemmin liitetty masennukseen. Tulokset osoittavat alue- ja aikariippuvaisia mikroRNA-muutoksia ja vahvistavat validoidun pipeline:n psykedeelien neurokemian tutkimukselle lajien välillä.",
+        "is": "Rannsókn á ungum kvenfleysum skoðaði breytingar á microRNA í forvitlausarhorni og hippocampus eftir eina skammta af psilocybíni. Með NanoString nCounter greiningu greindu vísindamenn 12 illa skipuleg microRNA í forvitlausarhorni og 2-4 í hippocampus á degi 1 og 7 eftir inngift. Níu af 18 greind microRNA voru áður tengd þunglyndi. Niðurstöður sýna svæðis- og tímabundnar microRNA breytingar og staðfesta staðfesta rörslulínu fyrir víðtæka psykedeelíska taugavirkjanefnafræði.",
+        "et": "Uuringus noortel emisigadel uuriti mikroRNA muutusi prefrontaalsetes koores ja hippocampuses pärast ühekordset psilosübiini annust. NanoString nCounter analüüsi abil tuvastasid teadlased 12 dysreguleeritud mikroRNA:t prefrontaalsetes koores ja 2-4 hippocampuses päeval 1 ja 7 pärast manustamist. Üheksast 18 tuvastatud mikroRNA:st oli varem seotud depressiooniga. Tulemused näitavad piirkonna- ja ajast sõltuvaid mikroRNA muutusi ning kinnitavad valideeritud teisendijoont psühhedeelikute neurokeemia uurimiseks liikide vahel.",
+        "lv": "Pētījumā jaunām sivēnmāsām pārbaudīja mikroRNS izmaiņas priekšējā garozā un hipokampā pēc vienas psilocibīna devas. Izmantojot NanoString nCounter analīzi, pētnieki identificēja 12 disfunkcionālus mikroRNS priekšējā garozā un 2-4 hipokampā 1. un 7. dienā pēc ievadīšanas. Deviņi no 18 identificētiem mikroRNS bija iepriekš saistīti ar depresiju. Rezultāti parāda reģiona un laika atkarīgas mikroRNS izmaiņas un apstiprina validētu caurstarpsugas psihedeliku neuroķīmijas pētniecības sistēmu.",
+        "lt": "Tyrime su jaunomis paršelėmis buvo tiriami mikroRNS pokyčiai priekinėje žievėje ir hipokampe po vienos psilocibino dozes. Naudojant NanoString nCounter analizę, tyrinėtojai nustatė 12 dysreguliuotų mikroRNS priekinėje žievėje ir 2–4 hipokampe 1 ir 7 dieną po skyrimo. Devyni iš 18 nustatytų mikroRNS buvo anksčiau susieti su depresija. Rezultatai rodo regionui ir laikui priklausomus mikroRNS pokyčius ir patvirtina validuotą psichedelikų neurochemijos tarprūšių tyrimų metodiką."
+      },
+      "notable": false,
+      "notable_reasons": null,
+      "relevance_score": 4,
+      "study_type": "preclinical",
+      "substances": [
+        "psilocybin"
+      ],
+      "added_at": "2026-08-12T07:58:17.936680+00:00"
     },
     {
       "title": "Sex-sensitive serotonergic signaling in psychedelic pharmacology.",
@@ -1897,69 +1960,6 @@
       "study_type": "observational",
       "substances": [
         "ketamine"
-      ],
-      "added_at": "2026-07-29T09:20:10.039628+00:00"
-    },
-    {
-      "title": "Feasibility, safety and preliminary effects of ibogaine in patients with moderate and severe alcohol use disorder: a pilot, open-label study.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42520175/",
-      "source": "PubMed",
-      "date": "2026-07-28",
-      "authors": [
-        "Rocha Juliana Mendes",
-        "Maekawa Renan Massanobu",
-        "Reis José Augusto Silva"
-      ],
-      "doi": "10.47626/2237-6089-2026-1437",
-      "summaries": {
-        "en": "Feasibility, safety and preliminary effects of ibogaine in patients with moderate and severe alcohol use disorder: a pilot, open-label study.",
-        "sv": "Feasibility, safety and preliminary effects of ibogaine in patients with moderate and severe alcohol use disorder: a pilot, open-label study.",
-        "no": "Feasibility, safety and preliminary effects of ibogaine in patients with moderate and severe alcohol use disorder: a pilot, open-label study.",
-        "da": "Feasibility, safety and preliminary effects of ibogaine in patients with moderate and severe alcohol use disorder: a pilot, open-label study.",
-        "fi": "Feasibility, safety and preliminary effects of ibogaine in patients with moderate and severe alcohol use disorder: a pilot, open-label study.",
-        "is": "Feasibility, safety and preliminary effects of ibogaine in patients with moderate and severe alcohol use disorder: a pilot, open-label study.",
-        "et": "Feasibility, safety and preliminary effects of ibogaine in patients with moderate and severe alcohol use disorder: a pilot, open-label study.",
-        "lv": "Feasibility, safety and preliminary effects of ibogaine in patients with moderate and severe alcohol use disorder: a pilot, open-label study.",
-        "lt": "Feasibility, safety and preliminary effects of ibogaine in patients with moderate and severe alcohol use disorder: a pilot, open-label study."
-      },
-      "notable": false,
-      "notable_reasons": null,
-      "relevance_score": 4,
-      "study_type": "case_report",
-      "substances": [
-        "ibogaine"
-      ],
-      "added_at": "2026-07-29T09:20:10.039628+00:00"
-    },
-    {
-      "title": "Candidate Biomarkers of Bipolar Disorder Progression: Implications for Ketamine and Psychedelic Interventions.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42517990/",
-      "source": "PubMed",
-      "date": "2026-07-28",
-      "authors": [
-        "Wilkowska Alina",
-        "Nizgorska-Ohler Julia",
-        "Cubała Wiesław Jerzy"
-      ],
-      "doi": "10.1007/s12035-026-06086-2",
-      "summaries": {
-        "en": "A narrative review examined biomarkers of bipolar disorder (BD) progression and ketamine/psychedelic interventions. Literature search across PubMed, Scopus, and Web of Science identified associations between advanced BD and inflammatory, neurotrophic, neuroimaging, and epigenetic abnormalities. However, findings were heterogeneous with modest effect sizes, often cross-sectional, and many biomarkers reflected current mood state rather than cumulative progression. BDNF and inflammatory markers showed limited specificity.",
-        "sv": "En narrativ översikt undersökte biomarkörer för progressionen av bipolär sjukdom (BD) och ketamin-/psykedelikainterventioner. Litteratursökning identifierade samband mellan avancerad BD och inflammatoriska, neurotrofiska, neuroavbildnings- och epigenetiska abnormiteter. Resultaten var dock heterogena med blygsamma effektstorlekar, ofta tvärsnittsstudier, och många biomarkörer återspeglade aktuellt humörläge snarare än kumulativ progression.",
-        "no": "En narrativ oversikt undersøkte biomarkører for progresjon av bipolar lidelse (BD) og ketamin-/psykedelikaintervensjoner. Litteratursøk identifiserte sammenhenger mellom avansert BD og inflammatoriske, nevrotrofiske, nevrobilednings- og epigenetiske abnormiteter. Funnene var imidlertid heterogene med beskjedne effektstørrelser, ofte tverrsnittsdesign, og mange biomarkører reflekterte gjeldende humørtilstand fremfor kumulativ progresjon.",
-        "da": "En narrativ oversigt undersøgte biomarkører for progression af bipolær lidelse (BD) og ketamin-/psykedelia-interventioner. Litteratursøg identificerede sammenhænge mellem avanceret BD og inflammatoriske, neurotrofiske, neurobildedings- og epigenetiske abnormiteter. Resultaterne var dog heterogene med beskedneueffektstørrelser, ofte tværsnitsdesign, og mange biomarkører afspejlede aktuelt humørsindsind snarere end kumulativ progression.",
-        "fi": "Narratiivinen katsaus tutki bipolaarisen häiriön (BD) etenemisen biomarkkereja ja ketamiini-/psykedelia-interventioita. Kirjallisuushaku tunnisti yhteyksiä edistyneen BD:n ja tulehduksellisten, neurotroofisilta, neurokuva- ja epigeneettisten poikkeavuuksien välillä. Tulokset olivat kuitenkin heterogeenisia, vaatimattoman vaikutuskoon kanssa, usein poikkileikkauksellisia, ja monet biomarkkeerit heijastivat nykyistä mielialaa pikemminkin kuin kumulatiivista etenemistä.",
-        "is": "Marglaus yfirlitsáir rannsakaði líffræðilega merki fyrir framvindu tvípólar röskun (BD) og ketamín-/hugleiðinga-inngripi. Bókaflóð greindi tengsl á milli þróaðrar BD og bólgu-, taumatrúar-, heilamyndar- og erfðabreytingum. Niðurstöður voru þó ójafnar með hóflegum áhrifastærðum, oft þverskurðarannir, og margir líffræðilegir merki endurspegluðu núverandi stjernuhætti frekar en uppsafnað framvindu.",
-        "et": "Narratiivne ülevaade uuris bipolaarhaiguse (BD) progressiooni biomarkerid ja ketamiini-/psühhedelikainterventsioon. Kirjanduse otsing tuvastus seoseid edasijõudnud BD ja põletiklikke, neurotroofseid, neuro-imaging ja epigeneetilisi anomaaliaid vahel. Tulemused olid siiski heterogeensed tagasihoidlike mõjusuurustega, sageli ristlõike kujundusega, ja paljud biomarkerid kajastasid käesolevat meeleolu pigem kui kumulatiivset progressiooni.",
-        "lv": "Narratīvais pārskats pētīja bipolārā traucējuma (BD) progresijas biomarķierus un ketamīna/psihedeliku intervences. Literatūras meklēšana identificēja saistību starp progresējušo BD un iekaisuma, neurotroffiskiem, neironizkāmējuma un epigenetiskiem anomālijām. Tomēr rezultāti bija heterogēni ar pazemiem efekta lielumiem, bieži šķērsgriezumiem, un daudzi biomarķieri atspoguļoja pašreizējo noskaņojumu, nevis kumulatīvu progresiju.",
-        "lt": "Naratyvioji apžvalga nagrinėjo bipolinio sutrikimo (BD) progresavimo biologinius žymenis ir ketamino/psichedelių intervencijas. Literatūros paieška nustatė ryšius tarp išsivysčiusio BD ir uždegiminių, neurotropinių, neurėjiminės vaizduotės ir epigenetinių anomalijų. Tačiau rezultatai buvo nevienodi, su kukliais efekto dydžiais, dažnai skerspjūvio modeliais, ir daugelis biologinių ženklų atspindėjo esamą nuotaiką, o ne kumuliacinį progresavimą."
-      },
-      "notable": false,
-      "notable_reasons": null,
-      "relevance_score": 4,
-      "study_type": "review",
-      "substances": [
-        "ketamine",
-        "psilocybin"
       ],
       "added_at": "2026-07-29T09:20:10.039628+00:00"
     }

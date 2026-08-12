@@ -1,7 +1,108 @@
 {
-  "date": "2026-08-11",
-  "cached_at": "2026-08-11T07:02:10.888563+00:00",
+  "date": "2026-08-12",
+  "cached_at": "2026-08-12T07:20:06.708339+00:00",
   "articles": [
+    {
+      "title": "Evidence based interventions for bipolar disorder across phases and age groups: living umbrella review, evaluation, analysis, and communication hub (U-REACH) project.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42580772/",
+      "source": "PubMed",
+      "abstract": "To systematically evaluate the certainty of evidence for treatment strategies across age groups and mood phases in bipolar disorder, and develop an open access web platform to facilitate shared decision making. Living umbrella review, evaluation, analysis, and communication hub (U-REACH) project. PubMed, PsycInfo, and Cochrane library databases, from inception to 19 November 2024. Systematic reviews with network or pairwise meta-analyses of randomised controlled trials of pharmacological, nutraceutical, psychosocial, brain stimulation, or circadian rhythm based treatments, administered as monotherapy (without concurrent interventions), augmentation treatment (interventions added to an ongoing treatment regimen), or combination treatment (simultaneous initiation of two different interventions), examining any age group, bipolar disorder phase (ie, acute bipolar depression, mania or mixed episodes, or maintenance), treatment, control, or outcome. 77 studies met the inclusion criteria (21 network meta-analyses and 56 pairwise meta-analyses), including 116 unique pharmacological (n=74), brain stimulation (n=18), nutraceutical (n=13), psychosocial (n=8), and circadian rhythm based (n=3) treatments as monotherapy, augmentation, or combination therapy, along with five control interventions. These studies covered 133 unique outcomes (45 efficacy outcomes and 88 safety outcomes) resulting in 2510 meta-analyses with Grading of Recommendations, Assessment, Development, and Evaluations (GRADE) ratings of the certainty of the evidence as high (n=236), moderate (n=827), low (n=986), and very low (n=461). A communication hub, the Evidence Based Interventions for Bipolar Disorder (EBI-BD) platform, was developed and the full results are freely available (https://ebibd-database.org), including the preference based tool (12 interventions and 17 safety outcomes). Interventions effective across outcomes varied by phases. For bipolar depression, effective interventions in adults were cariprazine, divalproex or valproate, fluoxetine, ketamine (augmentation), lamotrigine, lumateperone, lurasidone, olanzapine, olanzapine with fluoxetine, and quetiapine, whereas effective interventions in children and adolescents were lurasidone and olanzapine with fluoxetine. For mania episodes, effective interventions in adults were aripiprazole, asenapine, carbamazepine, cariprazine, divalproex or valproate, haloperidol, lithium, olanzapine, paliperidone, quetiapine (also augmentation), risperidone (also as augmentation), tamoxifen, and ziprasidone, whereas effective interventions in children and adolescents were aripiprazole, asenapine, olanzapine, quetiapine, and risperidone. For maintenance, interventions effective across outcomes in adults were aripiprazole (also the long acting injectable formulation), asenapine, divalproex or valproate, lithium, olanzapine, group psychoeducation (augmentation), quetiapine, and risperidone long acting injectable formulation. Interventions effective across phases were aripiprazole (also as augmentation and as a long acting injectable formulation), asenapine, cariprazine, cognitive behavioural therapy (augmentation), divalproex or valproate, lamotrigine, lithium, olanzapine (also as augmentation), paliperidone, quetiapine (also as augmentation), and risperidone (also as augmentation and the long acting injectable formulation) (adults). Treatment effects by neuroscience based nomenclature classes are also reported. The EBI-BD tool can help clinicians make evidence based, personalised treatment decisions for bipolar disorder. This resource can inform clinical guidelines and provides a foundation for continuously improving bipolar disorder care as new evidence emerges. Open Science Framework https://osf.io/pjmvn/ READERS' NOTE: This is a living systematic review and may be updated in the next two years if additional evidence emerges.",
+      "date": "2026-08-11",
+      "authors": [
+        "De Prisco Michele",
+        "Oliva Vincenzo",
+        "Miola Alessandro"
+      ],
+      "doi": "10.1136/bmj-2026-100216"
+    },
+    {
+      "title": "Effects of naturalistic psychedelic use on executive functioning: An online survey of lifetime history and recent use in university students.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42580581/",
+      "source": "PubMed",
+      "abstract": "Classic psychedelics such as psilocybin and LSD have shown therapeutic potential for a variety of substance use and mental health disorders. Emerging evidence suggests that psychedelics may enhance cognitive function post-acutely, potentially contributing to their therapeutic effects. However, few studies have examined this in naturalistic settings. This cross-sectional study compared differences in executive functioning between individuals who reported lifetime or recent (past 6 months) psychedelic use and those who reported no history of use. A total of 1342 university students completed an online version of the Wisconsin Card Sorting Task (CST), and self-reported psychedelic and other substance use as part of an online study. Robust linear regressions tested group differences and, among lifetime psychedelic users, effects of use characteristics (number of uses, typical dose) on CST outcomes. Compared to non-users, lifetime (n = 224) and recent (n = 114) users performed better on all CST measures except perseverative errors, showing fewer perseverative responses, total errors, and non-perseverative errors, as well as more conceptual-level responses and categories achieved. Among psychedelic users, number of lifetime uses was unrelated to CST outcomes, and moderate-dose users completed more categories than low-dose users, with no other dose-related effects. Lifetime and recent psychedelic use were associated with better executive functioning, independent of total lifetime use. These data provide first evidence in a naturalistic setting that these effects may be dose-sensitive. Future research is warranted to examine cognitive mechanisms underlying the potential therapeutic benefits of classic psychedelics across cognitive domains and clinical populations.",
+      "date": "2026-08-11",
+      "authors": [
+        "Todesco Stefanie",
+        "Allan Zachary",
+        "Liu May Y M"
+      ],
+      "doi": "10.1016/j.pnpbp.2026.111888"
+    },
+    {
+      "title": "Psilocybin-associated microRNA changes in the pig brain: Establishing an nCounter pipeline for cross-species microRNA quantification.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42580506/",
+      "source": "PubMed",
+      "abstract": "Novel treatment strategies are needed to address treatment resistance and delayed onset of action in psychiatry. Psilocybin has shown promise as a treatment for major depressive disorder, but the molecular changes associated with its effects remain incompletely understood. In parallel, microRNAs (miRNAs) have been implicated in depression and in responses to antidepressant interventions. Here, adolescent female pigs were used to explore miRNA expression profiles in the prefrontal cortex (PFC) and hippocampus (HIP) 1 day and 7 days after a single dose of psilocybin. We established a conservative NanoString nCounter workflow for pig tissue using the Human v3b miRNA Assay panel, cross-species reannotation based on complete human-pig sequence conservation, and evaluation of multiple normalization strategies. Using this pipeline, 12 dysregulated miRNAs were identified in the PFC and two in the HIP 1 day after psilocybin administration, whereas four dysregulated miRNAs were detected in the HIP after 7 days. Nine of the 18 miRNAs identified across the two regions have previously been linked to depression-related phenotypes. miR-212-3p and miR-107 showed the most robust acute regulation in the PFC across all four normalization approaches. These findings indicate that psilocybin administration is associated with region- and time-dependent miRNA changes in the pig brain and support the utility of this conservative nCounter pipeline for cross-species miRNA profiling. The study is exploratory and does not establish causality or direct antidepressant mechanisms.",
+      "date": "2026-08-11",
+      "authors": [
+        "Kaadt Erik",
+        "Søkilde Rolf Fyllgraf",
+        "Garling Hanne Demant"
+      ],
+      "doi": "10.1016/j.ejphar.2026.179222"
+    },
+    {
+      "title": "Real-World Psilocybin Therapy for Treatment-Resistant Depression: A Retrospective Observational Study.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42577282/",
+      "source": "PubMed",
+      "abstract": "Psilocybin has demonstrated promising antidepressant effects in depression and treatment-resistant depression (TRD) in controlled clinical trials. However, its effectiveness and safety in real-world therapeutic settings remain largely unknown. Although psilocybin is not yet approved as an antidepressant treatment, Switzerland's unique legal framework allows its limited medical use for TRD. We aimed to examine antidepressant outcomes, safety, and feasibility of real-world psilocybin therapy for TRD, including repeated dosing sessions. We conducted a retrospective analysis of medical records from 19 TRD patients treated with psilocybin (20-35 mg) across one to four dosing sessions at the Psychiatric University Hospital Zurich. Depression severity was assessed using the Montgomery-Åsberg Depression Rating Scale (MADRS) and the Beck Depression Inventory II (BDI). Changes from baseline to interim and post-treatment were analysed, including response and remission. MADRS scores decreased from baseline (M = 30.78) to post-treatment (M = 19.89), with a large effect size (Hedges' g = 1.37, 95% CI [0.90, 1.84]). BDI scores also decreased (M = 32.33-M = 23.28), with a medium-to-large effect (Hedges' g = .77, 95% CI [0.46, 1.09]). Response and remission rates were 33.3% and 22.2% (MADRS), and 27.8% and 27.8% (BDI). No serious adverse events were documented. This study provides some of the first evidence on psilocybin outside controlled trials. Psilocybin was associated with a clinically meaningful reduction in depressive symptoms, with response and remission rates below those reported in previous trials. Findings suggest feasibility of psilocybin in real-world TRD care and should be interpreted within the limitations of small sample size, retrospective uncontrolled design, heterogeneous treatment conditions, and concomitant psychopharmacology. This research did not receive any funding.",
+      "date": "2026-06-01",
+      "authors": [
+        "Jungwirth Johannes",
+        "Westenhöfer Samuel",
+        "Aicher Helena D"
+      ],
+      "doi": "10.1016/j.lanepe.2026.101719"
+    },
+    {
+      "title": "Synergistic and Scalable: A Review of Integrated Digital and Biological Interventions.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42576931/",
+      "source": "PubMed",
+      "abstract": "The use of digital therapeutics in psychiatry is rapidly expanding. From internet-based psychotherapy to cognitive training modules, digital therapeutics have the potential to scale evidence-based psychiatric care. Concurrently, biological treatments that modulate neuroplasticity are reshaping expectations for the speed and durability of symptom change. This review describes clinical evidence for integrating digital and biological interventions to leverage treatment-induced windows of enhanced neuroplasticity. It provides an overview of existing digital therapeutics and then reviews synergistic combination treatments, outlining evidence that pairing approaches may improve the efficacy of one or both components. Finally, it discusses clinical implications for psychiatrists, including current use cases, practical limitations, and evolving regulatory and reimbursement pathways for digital therapeutics. Overall, integrated digital and biological treatments have promise for enhancing treatment outcomes and improving access. Future directions include adequately powered, well-controlled randomized trials, mechanistic studies of neuroplasticity, and real-world effectiveness research.",
+      "date": "2026-07-08",
+      "authors": [
+        "Eken Hatice Nur",
+        "Price Rebecca Byrne"
+      ],
+      "doi": "10.1176/appi.focus.20250048"
+    },
+    {
+      "title": "Mechanisms of Action and Change in Psychedelic-Assisted Therapies: A Holistic Framework for Ethical, Competent Clinical Care.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42576923/",
+      "source": "PubMed",
+      "abstract": "Psychedelic-assisted therapies (PATs) are emerging as novel combination treatments for selected stress- and trauma-related psychiatric conditions, particularly in cases where existing pharmacologic and psychotherapeutic approaches have provided limited benefit. Although current mechanistic models emphasize neuroplasticity, large-scale network changes, and modulation of neurotransmitter systems, these are insufficient to explain how therapeutic change emerges within the broader context of preparation, altered states of consciousness, interpersonal relationships, meaning-making, and integration. The authors introduce a non-neuroreductionist, multilevel framework that distinguishes mechanisms of action from mechanisms of change, highlighting how neuroplasticity, memory updating, relational processes, contextual factors, and meaning-making may interact to support therapeutic change. They draw on relevant evidence and clinical theory to describe how these treatments may create time-limited windows that support experiential relearning. Ethical considerations; limitations; and implications for practice, including the possibility that vulnerability may be increased when safeguards are inadequate, are discussed. Guidance is provided for clinicians who encounter PATs in practice.",
+      "date": "2026-07-08",
+      "authors": [
+        "Averill Lynnette A",
+        "Neitzke-Spruill Logan"
+      ],
+      "doi": "10.1176/appi.focus.20260006"
+    },
+    {
+      "title": "Combined Ketamine and Cognitive-Behavioral Therapy: Leveraging Metaplasticity to Enhance Treatment Outcomes.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42576910/",
+      "source": "PubMed",
+      "abstract": "Over the past two decades, ketamine has emerged as a rapid-acting antidepressant, especially among patients with treatment-resistant depression. As an",
+      "date": "2026-07-08",
+      "authors": [
+        "Hardy Morgan S",
+        "Li S William",
+        "Wilkinson Samuel T"
+      ],
+      "doi": "10.1176/appi.focus.20260001"
+    },
+    {
+      "title": "Combined Treatments in Psychiatry: Toward a True Synthesis.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42576893/",
+      "source": "PubMed",
+      "abstract": "",
+      "date": "2026-07-08",
+      "authors": [
+        "van der Vaart Andrew D",
+        "Aaronson Scott T"
+      ],
+      "doi": "10.1176/appi.focus.20260019"
+    },
     {
       "title": "Sex-sensitive serotonergic signaling in psychedelic pharmacology.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42575820/",
@@ -155,108 +256,6 @@
         "van Schagen Annette M"
       ],
       "doi": "10.1177/02698811261464502"
-    },
-    {
-      "title": "A suite of engineered mice for interrogating psychedelic drug actions.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42563032/",
-      "source": "PubMed",
-      "abstract": "Psychedelic drugs, such as lysergic acid diethylamide and psilocybin, have emerged as potentially transformative therapeutics for various neuropsychiatric conditions, including depression, anxiety, post-traumatic stress disorder, migraine and cluster headaches. Classical psychedelics exert their effects through activation of 5-hydroxytryptamine 2A receptors (HTR2As). Here we provide a suite of engineered mice that will be useful for clarifying the role of HTR2A in psychedelic drug actions. We generated Htr2a",
-      "date": "2026-08-06",
-      "authors": [
-        "Chiu Yi-Ting",
-        "Deutch Ariel Y",
-        "Wang Wei"
-      ],
-      "doi": "10.1038/s41593-026-02375-0"
-    },
-    {
-      "title": "Psilocybin-assisted therapy for treatment-resistant major depressive disorder in a public healthcare setting: a randomized controlled trial.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42562964/",
-      "source": "PubMed",
-      "abstract": "Psilocybin-assisted therapy may be a promising new treatment for treatment-resistant depression. We examined the feasibility of administering a single 25-mg dose of psilocybin or placebo with psychological support in a randomized controlled trial design with 6 weeks of follow-up. A two-arm, double-blind, randomized, placebo-controlled feasibility trial was conducted at one National Health Service (NHS) site in England. Eligible participants met Diagnostic and Statistical Manual of Mental Disorders, Fifth Edition (DSM-5) criteria for major depressive disorder and had an inadequate response to ≥2 antidepressant treatments or ≥1 antidepressant plus ≥1 psychotherapy. Participants received 25-mg psilocybin or placebo with preparation, dosing support and integration. Primary outcomes were recruitment, retention and estimation of the Montgomery-Åsberg Depression Rating Scale (MADRS) variance. A multilevel regression analysis with an intention-to-treat population was used. Sixty participants were randomized (1:1), balanced by age, sex and prior psilocybin exposure, and 59 of 60 participants completed the MADRS at all follow-up visits. The adjusted between-group difference at week 3 on the MADRS was -10.41 (95% confidence interval: -14.86 to -5.95; Cohen's d = -1.70), favoring psilocybin, which was sustained at week 6. In total, 123 and 164 nonserious adverse events occurred in the placebo and psilocybin arms, respectively. Findings support a future confirmatory trial. EudraCT no.: 2018-003573-97 .",
-      "date": "2026-08-06",
-      "authors": [
-        "Rucker James J",
-        "Mantingh Tim",
-        "Kerr-Gaffney Jess"
-      ],
-      "doi": "10.1038/s41591-026-04541-0"
-    },
-    {
-      "title": "Last resort: the ethical obligation to offer ketamine in psychiatric euthanasia and assisted suicide.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42557046/",
-      "source": "PubMed",
-      "abstract": "Intravenous ketamine and intranasal esketamine have shown rapid effects in reversing suicidality and improving depressive symptoms. In countries that allow psychiatric euthanasia and/or assisted suicide (EAS), we argue that potentially effective treatments for suicidal ideation and behaviour, such as ketamine, should be required before allowing patients to access psychiatric EAS. Ketamine can both help clarify patients' decision-making capacity and serve as a reasonable therapeutic alternative when determining irremediability. For patients who refuse potentially effective treatments such as ketamine, oversight bodies should establish a formal process through which they can petition for review of their EAS request-protecting their legal right to die while guarding against potentially preventable death.",
-      "date": "2026-08-05",
-      "authors": [
-        "Zhang Jingyi",
-        "Sisti Dominic"
-      ],
-      "doi": "10.1136/jme-2025-111672"
-    },
-    {
-      "title": "Prevalence of Potential Contraindications and Risk Factors Relevant to MDMA-Assisted Therapy Among U.S. Veterans with Posttraumatic Stress Disorder.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42555520/",
-      "source": "PubMed",
-      "abstract": "3,4-methylenedioxymethamphetamine (MDMA)-assisted therapy has emerged as a potential strategy to treat posttraumatic stress disorder (PTSD). We conducted a national serial cross-sectional study of U.S. Veterans with PTSD from January 1, 2018, to December 31, 2023, to quantify the prevalence of potential contraindications, risk factors, and drug-drug interactions relevant to MDMA-assisted therapy. Participants were required to have at least two diagnostic codes for PTSD within a calendar year. Each year, 303,451 to 326,315 participants received care for PTSD. The annual proportion of individuals with at least one contraindication for MDMA-assisted therapy ranged from 15.3% to 17.3%, and the annual proportion with at least one conditional or modifiable risk factor ranged from 55.2% to 58.2%. Each year, 85.7% to 87.5% of participants filled at least one prescription for another medication that potentially interacts with MDMA. Many individuals with PTSD have contraindications or conditional risk factors that may require additional evaluation prior to receiving MDMA-assisted therapy, but many may be eligible with careful management of modifiable conditions and potential drug-drug interactions. Our results have important implications for policymakers and clinicians as studies examining the safety and efficacy of MDMA-assisted therapy continue to evolve toward potential implementation.",
-      "date": "2026-08-05",
-      "authors": [
-        "Hwang Catherine S",
-        "Cameron David C",
-        "O'Neill Allison C"
-      ],
-      "doi": "10.1080/02791072.2026.2710059"
-    },
-    {
-      "title": "Disrupted self-referential processing and empathy-based interventions in mental disorders: neural mechanisms, cognitive biases, and therapeutic integration.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42555400/",
-      "source": "PubMed",
-      "abstract": "Self-referential processing (SRP), the mental activity of linking experiences and stimuli to the self, is fundamental to shaping identity, regulating affect, and navigating complex social environments. Disruptions in SRP are increasingly recognized as a transdiagnostic hallmark across psychiatric disorders, including schizophrenia spectrum disorders, major depressive disorder, and anxiety disorders. Such disruptions often manifest as distorted self-perception, negative cognitive-affective biases, and dysfunctional connectivity within key neural networks, particularly the default mode network (DMN) and the medial prefrontal cortex (mPFC). Emerging evidence reveals a dynamic bidirectional relationship between SRP and empathy. Impairments in self-processing may hinder the capacity to accurately infer others' emotional and cognitive states, while deficits in empathic attunement may reinforce maladaptive self-focus. This interplay contributes to social withdrawal, interpersonal dysfunction, and emotional dysregulation across diagnostic boundaries. Recent therapeutic advances suggest that interventions targeting the interface between SRP and empathy may effectively modulate shared neurocognitive mechanisms. Such interventions include metacognitive therapy, mindfulness-based interventions, and psychedelic-assisted psychotherapy. These therapeutic approaches show preliminary but promising evidence for reducing maladaptive self-focused attention, enhancing emotion regulation, and improving social functioning. This review synthesizes empirical evidence regarding the neural underpinnings of SRP, delineates disorder-specific alterations in self-referential processing, and examines the bidirectional interplay between SRP and empathic functioning. We further outline a conceptual framework for empathy-based interventions targeting SRP dysfunction and propose future directions for precision psychiatry research. Emphasis is placed on developing personalized, mechanism-driven therapeutic strategies informed by computational modeling, transdiagnostic biomarker identification, and digital therapeutic platforms.",
-      "date": "2026-07-06",
-      "authors": [
-        "Siqintu",
-        "Bao Qinglin",
-        "Yang Dezhi"
-      ],
-      "doi": "10.3389/fpsyt.2026.1850823"
-    },
-    {
-      "title": "Blinding Integrity and Psychedelic Drug Trials.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42555027/",
-      "source": "PubMed",
-      "abstract": "",
-      "date": "2026-08-05",
-      "authors": [
-        "Hsu Tien-Wei",
-        "Liang Chih-Sung",
-        "Tu Yu-Kang"
-      ],
-      "doi": "10.1001/jamapsychiatry.2026.2290"
-    },
-    {
-      "title": "Blinding Integrity and Psychedelic Drug Trials-Reply.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42555020/",
-      "source": "PubMed",
-      "abstract": "",
-      "date": "2026-08-05",
-      "authors": [
-        "Cubala Wieslaw J",
-        "Valcheva Velichka",
-        "Thase Michael E"
-      ],
-      "doi": "10.1001/jamapsychiatry.2026.2296"
-    },
-    {
-      "title": "Blinding Integrity and Psychedelic Drug Trials.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42555000/",
-      "source": "PubMed",
-      "abstract": "",
-      "date": "2026-08-05",
-      "authors": [
-        "Elliott Michael",
-        "Chernoloz Olga"
-      ],
-      "doi": "10.1001/jamapsychiatry.2026.2293"
     },
     {
       "title": "Pα+ Psychedelic Bulletin #229: SAMHSA Convenes Experts; AtaiBeckley’s Road to Lilly; Turnbull Doubles Down on BOL-148; Compass Talks Indication Expansion, Could VA Help?",
@@ -571,7 +570,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2018-004480-31/CZ",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-08-11",
+      "date": "2026-08-12",
       "authors": [],
       "doi": ""
     },
@@ -580,7 +579,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2020-005037-32/CZ",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-08-11",
+      "date": "2026-08-12",
       "authors": [],
       "doi": ""
     },
@@ -589,7 +588,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2021-002909-10/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-08-11",
+      "date": "2026-08-12",
       "authors": [],
       "doi": ""
     },
@@ -598,7 +597,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2015-000550-37/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-08-11",
+      "date": "2026-08-12",
       "authors": [],
       "doi": ""
     },
@@ -607,7 +606,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2021-000041-40/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-08-11",
+      "date": "2026-08-12",
       "authors": [],
       "doi": ""
     },
@@ -616,7 +615,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2020-000829-55/DK",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-08-11",
+      "date": "2026-08-12",
       "authors": [],
       "doi": ""
     },
@@ -625,7 +624,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2020-002790-94/SE",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-08-11",
+      "date": "2026-08-12",
       "authors": [],
       "doi": ""
     },
@@ -634,7 +633,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2021-006200-33/FI",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-08-11",
+      "date": "2026-08-12",
       "authors": [],
       "doi": ""
     },
@@ -643,7 +642,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2019-004812-73/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-08-11",
+      "date": "2026-08-12",
       "authors": [],
       "doi": ""
     },
@@ -652,7 +651,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2022-002369-14/BE",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-08-11",
+      "date": "2026-08-12",
       "authors": [],
       "doi": ""
     },

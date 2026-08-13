@@ -1,7 +1,58 @@
 {
-  "date": "2026-08-12",
-  "cached_at": "2026-08-12T07:20:06.708339+00:00",
+  "date": "2026-08-13",
+  "cached_at": "2026-08-13T07:22:35.560334+00:00",
   "articles": [
+    {
+      "title": "Longitudinal Precision Functional Mapping in Psychiatry.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42584881/",
+      "source": "PubMed",
+      "abstract": "This Viewpoint discusses longitudinal precision functional mapping in psychiatry.",
+      "date": "2026-08-12",
+      "authors": [
+        "Manza Peter",
+        "Lynch Charles J",
+        "Siegel Joshua S"
+      ],
+      "doi": "10.1001/jamapsychiatry.2026.2393"
+    },
+    {
+      "title": "Well-being as a primary endpoint in clinical trials: a call for consensus.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42581324/",
+      "source": "PubMed",
+      "abstract": "Psychiatric trials typically define success as symptom reduction, yet patients prioritize meaning, vitality, and functioning. This imbalance undervalues experiential benefits, distorting clinical, policy, and FDA decisions. Psychedelic trials illustrate this, where robust well-being gains sometimes accompany modest symptom effects. We argue well-being should be elevated to co-primary endpoint status, propose a Delphi-developed consensus well-being instrument with rigorous validation, and outline guardrails preventing approval of therapies that worsen the underlying condition.",
+      "date": "2026-08-06",
+      "authors": [
+        "Marseille Elliot",
+        "Kettner Hannes",
+        "Sgambati Tyrone J"
+      ],
+      "doi": "10.1038/s44184-026-00234-1"
+    },
+    {
+      "title": "Low-dose lithium, neuroprotection, and brain aging in bipolar disorder.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42581099/",
+      "source": "PubMed",
+      "abstract": "",
+      "date": "2026-08-11",
+      "authors": [
+        "Machado-Vieira Rodrigo",
+        "Zarate Carlos A"
+      ],
+      "doi": "10.1038/s41386-026-02519-7"
+    },
+    {
+      "title": "Psychedelics and astrocytes: a hypothesis-driven perspective on neuro-glial integration, network plasticity, and neuroimmune reprogramming.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42581074/",
+      "source": "PubMed",
+      "abstract": "Psychedelics, including psilocybin, lysergic acid diethylamide (LSD) and related psychoplastogens, have re-emerged as powerful modulators of brain function with therapeutic potential across a broad range of neuropsychiatric disorders. Although prevailing mechanistic frameworks emphasize neuronal serotonin 2 A receptor (5-HT2AR)-mediated signaling, accumulating evidence suggests that astrocytes-once regarded primarily as passive support cells-may play active and potentially central roles in shaping psychedelic-induced brain states. Astrocytes are uniquely positioned to integrate neuromodulatory signals, regulate synaptic transmission, coordinate metabolic support, and orchestrate neuroimmune responses. Here, we hypothesize that astrocytes function as critical integrative nodes translating psychedelic-induced receptor activation into circuit-level plasticity and lasting behavioral change. We synthesize emerging evidence on astrocytic calcium signaling, gliotransmission, metabolic coupling, neurovascular regulation, and immune gating in the context of psychedelic action. Based on these observations, we introduce the hypothesis of a neuro-glial ensemble framework in which neuron-astrocyte interactions may constitute a minimal functional unit contributing to psychedelic-induced network reorganization. This systems-level perspective offers a testable mechanistic hypothesis linking receptor pharmacology to large-scale brain dynamics and clinical outcomes. We conclude by outlining key predictions of this hypothesis and proposing experimental strategies to rigorously test them.",
+      "date": "2026-08-11",
+      "authors": [
+        "Ke Xiaoshan",
+        "Du Xiubo",
+        "Wang Xiaohui"
+      ],
+      "doi": "10.1038/s41380-026-03816-9"
+    },
     {
       "title": "Evidence based interventions for bipolar disorder across phases and age groups: living umbrella review, evaluation, analysis, and communication hub (U-REACH) project.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42580772/",
@@ -40,6 +91,19 @@
         "Garling Hanne Demant"
       ],
       "doi": "10.1016/j.ejphar.2026.179222"
+    },
+    {
+      "title": "Prescription Trends for Bipolar Disorder With and Without Comorbid Substance Use and Anxiety Disorders: A Global Bipolar Cohort Collaborative Study.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42578538/",
+      "source": "PubMed",
+      "abstract": "To investigate pharmacological treatment patterns in individuals with bipolar disorder (BD) with and without comorbid substance use disorder (SUD) and anxiety disorder (AX), we leveraged the Global Bipolar Cohort to analyze cross-regional practices across North America, Europe, and the Pacific. Fourteen cohorts contributed aggregate data on pharmacotherapy, demographics, diagnostic subtypes, and comorbidities. Proportional meta-analyses using generalized linear mixed models were conducted to examine prescription trends and identify clinical differences. The sample (N = 11,521) was 60% female and 84% Caucasian. Participants were categorized into four mutually exclusive groups based on comorbidity status: those with comorbid AX only, comorbid SUD only, both AX and SUD, or neither. The AX+SUD subgroup showed higher rates of attention-deficit/hyperactivity disorder (ADHD), post-traumatic stress disorder (PTSD), rapid cycling, obesity, and unemployment, reflecting a more severe clinical profile. Regional variations were notable: North American cohorts reported higher prevalence of AX and SUD than European and Pacific cohorts. Antidepressants use for AX were more common in Europe and the Pacific, while North American prescribing patterns were more variable. Benzodiazepine use was high among individuals with SUD across all regions. Lithium and first-generation antipsychotic prescriptions varied, with higher rates observed in Europe. Findings underscore the heterogeneity of BD and the influence of comorbid AX and SUD on illness burden and treatment. Regional prescribing variations underscore the need for context-specific guidelines. Gaps in data on medication-assisted treatment for SUD point to areas for future research. These insights can support more individualized and effective care for complex BD presentations.",
+      "date": "2026-Sep",
+      "authors": [
+        "Yocum Anastasia K",
+        "Alda Martin",
+        "Aouizerate Bruno"
+      ],
+      "doi": "10.1111/bdi.70167"
     },
     {
       "title": "Real-World Psilocybin Therapy for Treatment-Resistant Depression: A Retrospective Observational Study.",
@@ -195,67 +259,22 @@
       "doi": "10.1016/j.jpain.2026.106404"
     },
     {
-      "title": "Microdosing psychedelics: What, why, when, and how often? Insights from an international survey of people who use psychedelics.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42566966/",
-      "source": "PubMed",
-      "abstract": "The interest in microdosing psychedelics continues to grow within academic and recreational contexts. However, microdosing practices have changed over time, and warrants examination of use patterns within a large, global sample of consumers. The Global Psychedelic Survey 2025 (GPS 2025) was an online, anonymous, cross-sectional survey conducted from May 1-23, 2025. The survey was available in 19 languages and inquired about a wide range of topics surrounding psychedelic use. This manuscript focuses on the primary outcomes for the microdosing component of the survey, examining the substances consumed, dosing regimens employed, reasons for use, as well as the typical 'set and setting' while microdosing. In this sample, 5399 participants reported microdosing during their lifetime, of whom 69.8% (n = 3768) used a microdose within the past year. Psilocybin was the most commonly microdosed substance (n = 4377; 81.1%, 95% CI: 80.0%-82.1%), followed by LSD (n = 2136; 39.6%, 95% CI: 38.3%-40.9%). This was consistent across global regions. The 'Fadiman protocol' (i.e. one day on, two days off) was the most reported dosing regimen among regular microdosers (n = 1203; 24.3%, 95% CI: 23.1%-25.6%). While microdosing, respondents reported often spending time in nature (n = 3087; 58.9%), focusing inwards (n = 2977; 56.8%), or spending leisure time (n = 2253; 43%), demonstrating preliminary evidence supporting the integration of set and setting in the context of microdosing. This study provides a snapshot of psychedelic microdosing practices using the largest psychedelic-specific global survey to date. These findings highlight real-world practices that can guide both clinical study designs and inform harm-reduction practices in naturalistic settings.",
-      "date": "2026-08-07",
-      "authors": [
-        "Petranker Rotem",
-        "Syed Omer A",
-        "Sobolenko Valentyn"
-      ],
-      "doi": "10.1016/j.drugpo.2026.105459"
-    },
-    {
-      "title": "Impact of Psilocybin on Motor Function in Healthy Participants: A Phase 1, Randomised, Triple-Blind, Dose-Finding Study.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42566154/",
-      "source": "PubMed",
-      "abstract": "Psychedelics exert widespread effects on brain activity, but their impact on motor function is unclear. This is clinically relevant given the emerging interest in psychedelic-assisted physical therapy for disorders of motor function. This study examined the feasibility and safety of administering movement tasks following low-to-moderate doses of psilocybin in healthy volunteers. Healthy adult participants were randomly assigned three psilocybin doses consisting of either (1) 5 mg, 10 mg and 15 mg or (2) 10 mg, 15 mg and 20 mg, with at least 1 week between doses. Movement tasks were administered at 1.5 h, 3 h and 4.5 h post-dose. Participants, physiotherapists and statisticians were blinded to the dosing order. Feasibility was assessed by evaluating completion of the de Morton Mobility Index and Functional Movement Exploration (assessing gross motor function). Safety outcomes included vital signs and adverse events. Additional exploratory motor outcomes included the Action Research Arm Test (assessing upper limb functional performance), Box and Block Test (Original and Modified versions) (combining dexterity with motor speed), Digit Symbol Substitution Test (combining motor speed with intellectual functions) and Reaction Time Ruler Drop Test (assessing reaction time). Alterations in conscious states and blinding efficacy were also assessed. Outcomes were summarised descriptively and with post hoc linear mixed-effects modelling performed to explore dose- and time-related effects. A total of 13 participants (62% male) were enrolled, with a median age of 33 years (range 22-39 years), median height of 177 cm (155-188 cm) and median weight of 74 kg (51-94 kg). One participant was unable to complete several movement tasks at 20 mg. Nausea (n = 8, 62%) and headache (n = 7, 54%) were the most common adverse events. No serious adverse events or adverse events related to movement task administration occurred. Median values [interquartile ranges] remained near-perfect for the de Morton Mobility Index (92.5-100.0 [85.0-100.0]), Functional Movement Exploration (100.0 [96.0-100.0]) and Action Research Arm Test (56.0-57.0 [52.0-57.0]). Baseline Box and Block Test (Original) median scores (65.0 [60.0-67.0]) improved to 79.0 [70.0-83.0] at 5 mg and 4.5 h post-dose (5 mg-4.5 h), and worsened to 57.5 [51.0-64.0] at 20 mg-1.5 h. Baseline Box and Block Test (Modified) median scores (48.0 [47.0-53.0]) worsened to 43.0 [35.0-45.0] at 20 mg-1.5 h. Baseline Digit Symbol Substitution Test median scores (73.0 [66.0-77.0]) improved to 87.0 [81.0-90.0] at 10 mg-4.5 h, and worsened to 62.0 [54.0-86.0] at 20 mg-1.5 h. Reaction Time Ruler Drop Test scores lacked consistent dose-related changes. Alterations in conscious states were greatest at 20 mg. Participants and physiotherapists correctly guessed the administered dose 53% and 50% of the time, respectively. Movement tasks were feasible during psilocybin dosing up to 15 mg. No significant safety concerns related to movement task participation during the acute drug effects were observed. At 20 mg, impairments were observed in movement tasks that combined motor and additional cognitive functions. These findings inform future studies utilising psilocybin-assisted physical rehabilitation in clinical populations. Australian New Zealand Clinical Trials Registry: ACTRN12621000560897. Date registered: 12 May 2021.",
-      "date": "2026-08-07",
-      "authors": [
-        "Bhagavan Chiranth",
-        "Carter Olivia",
-        "Nielsen Glenn"
-      ],
-      "doi": "10.1007/s40263-026-01326-4"
-    },
-    {
-      "title": "When Do Physical Symptoms After Antidepressant Cessation Reflect Pharmacodynamic versus Non-pharmacodynamic Clinical Phenomena?",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42565750/",
-      "source": "PubMed",
+      "title": "Two Years After Rejection, Resilient Quietly Refiles MDMA for PTSD Application",
+      "url": "https://psychedelicalpha.com/news/two-years-after-rejection-resilient-quietly-refiles-mdma-for-ptsd-application/",
+      "source": "Psychedelic Alpha",
       "abstract": "",
-      "date": "2026-08-06",
-      "authors": [
-        "Goldberg Joseph F",
-        "Crismon M Lynn",
-        "Goodman David W"
-      ],
-      "doi": "10.4088/JCP.26ac16648"
+      "date": "2026-08-12",
+      "authors": [],
+      "doi": ""
     },
     {
-      "title": "Permissive and instructive causality: integrating biological and environmental factors in mental health.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42563280/",
-      "source": "PubMed",
-      "abstract": "Psychiatric disorders are complex conditions involving multifactorial, nonlinear causal dynamics, which make effective treatment challenging. To address this complexity, a framework is proposed that distinguishes between types of causality: permissive causality, which pertains to factors affecting the likelihood of an outcome occurring, and instructive causality, which refers to factors shaping the specific features of the outcome. In this framework, when considering an individual as a complex adaptive system, causal processes within the individual are permissive, whereas causal processes outside the individual can be either permissive or instructive in relation to the individual's global emergent outcomes. Accordingly, when dealing with mental states or complex behaviors, biological substrates - from genes to brain areas - operate through permissive causality, shaping a space of possibilities rather than instructing a specific outcome. By contrast, contextual factors - such as life challenges or subjective appraisal - can also operate through instructive causality, steering behavior and mental states toward specific trajectories. Therapeutic strategies should harness the synergistic interplay between these types of causality, targeting biological substrates to enable transitions in mental states, and leveraging contextual factors to steer these transitions toward mental well-being. Recognizing such interplay holds promise for developing innovative and effective approaches in precision psychiatry, especially for treatments enhancing plasticity - which itself operates through permissive causality - including antidepressants and psychedelics.",
-      "date": "2026-08-07",
-      "authors": [
-        "Branchi Igor"
-      ],
-      "doi": "10.1017/S003329172610467X"
-    },
-    {
-      "title": "The occurrence and potential role of mystical experiences in MDMA-assisted therapy for PTSD: A secondary analysis.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42563131/",
-      "source": "PubMed",
-      "abstract": "The potential safety and efficacy of the psychedelic 3,4-methylenedioxymethamphetamine-assisted therapy (MDMA-AT) for post-traumatic stress disorder (PTSD) has been researched in phase 2 and phase 3 clinical trials. We examined the occurrence and role of mystical experiences in MDMA-AT. Data were sourced from two phase 2 randomized trials of MDMA-AT for chronic PTSD, in which participants received two sessions with either MDMA or active placebo, in conjunction with psychotherapy. The Mystical Experience Questionnaire 30-item version (MEQ30) was administered after each MDMA session. The association of mystical experiences and PTSD symptom severity (Clinician Administered PTSD Scale for DSM-IV (CAPS-IV)) was analyzed using multilevel regression and mediation analyses. Fifty-three participants with chronic PTSD were included. Standard doses of MDMA ( MEQ30 scores were significantly higher for MDMA sessions than for active placebo sessions in patients undergoing MDMA-assisted therapy for chronic PTSD. Among mystical-type experiences, the positive mood subscale, rather than full mystical-type states, appeared to contribute most to the mitigation of PTSD symptoms. These findings should be interpreted with caution due to the limited sample size and secondary nature of the analysis.",
-      "date": "2026-08-06",
-      "authors": [
-        "Bostoen Tijmen P L",
-        "Krediet Erwin",
-        "van Schagen Annette M"
-      ],
-      "doi": "10.1177/02698811261464502"
+      "title": "Smooth Sailing: Definium’s LSD Voyage Hits Primary and Key Secondary Endpoints in GAD",
+      "url": "https://psychedelicalpha.com/news/smooth-sailing-definiums-lsd-voyage-hits-primary-and-key-secondary-endpoints-in-gad/",
+      "source": "Psychedelic Alpha",
+      "abstract": "This morning, Definium Therapeutics announced positive topline results from its Phase 3 study of LSD (DT120) for generalised anxiety disorder (GAD). It comes just two months after it posted positive topline results from its first Phase 3 program in major depressive disorder (MDD), Emerge, making it a successful summer for the LSD developer…",
+      "date": "2026-08-12",
+      "authors": [],
+      "doi": ""
     },
     {
       "title": "Pα+ Psychedelic Bulletin #229: SAMHSA Convenes Experts; AtaiBeckley’s Road to Lilly; Turnbull Doubles Down on BOL-148; Compass Talks Indication Expansion, Could VA Help?",
@@ -326,24 +345,6 @@
       "source": "Psychedelic Alpha",
       "abstract": "",
       "date": "2026-07-21",
-      "authors": [],
-      "doi": ""
-    },
-    {
-      "title": "Field Notes #3: Washington’s Busy Week, and the Biggest Psychedelic Buyout Yet",
-      "url": "https://psychedelicalpha.com/news/field-notes-3-washingtons-busy-week-and-the-biggest-psychedelic-buyout-yet/",
-      "source": "Psychedelic Alpha",
-      "abstract": "",
-      "date": "2026-07-17",
-      "authors": [],
-      "doi": ""
-    },
-    {
-      "title": "Breaking: World’s Largest Pharmaceutical Company, Eli Lilly, Acquires 5-MeO-DMT Developer AtaiBeckley for Up to $3.8 billion",
-      "url": "https://psychedelicalpha.com/news/breaking-worlds-largest-pharmaceutical-company-eli-lilly-acquires-5-meo-dmt-developer-ataibeckley-for-up-to-3-8-billion/",
-      "source": "Psychedelic Alpha",
-      "abstract": "",
-      "date": "2026-07-16",
       "authors": [],
       "doi": ""
     },
@@ -570,7 +571,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2018-004480-31/CZ",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-08-12",
+      "date": "2026-08-13",
       "authors": [],
       "doi": ""
     },
@@ -579,7 +580,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2020-005037-32/CZ",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-08-12",
+      "date": "2026-08-13",
       "authors": [],
       "doi": ""
     },
@@ -588,7 +589,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2021-002909-10/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-08-12",
+      "date": "2026-08-13",
       "authors": [],
       "doi": ""
     },
@@ -597,7 +598,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2015-000550-37/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-08-12",
+      "date": "2026-08-13",
       "authors": [],
       "doi": ""
     },
@@ -606,7 +607,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2021-000041-40/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-08-12",
+      "date": "2026-08-13",
       "authors": [],
       "doi": ""
     },
@@ -615,7 +616,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2020-000829-55/DK",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-08-12",
+      "date": "2026-08-13",
       "authors": [],
       "doi": ""
     },
@@ -624,7 +625,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2020-002790-94/SE",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-08-12",
+      "date": "2026-08-13",
       "authors": [],
       "doi": ""
     },
@@ -633,7 +634,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2021-006200-33/FI",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-08-12",
+      "date": "2026-08-13",
       "authors": [],
       "doi": ""
     },
@@ -642,7 +643,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2019-004812-73/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-08-12",
+      "date": "2026-08-13",
       "authors": [],
       "doi": ""
     },
@@ -651,7 +652,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2022-002369-14/BE",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-08-12",
+      "date": "2026-08-13",
       "authors": [],
       "doi": ""
     },

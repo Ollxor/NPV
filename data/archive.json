@@ -1,6 +1,79 @@
 {
   "items": [
     {
+      "title": "Well-being as a primary endpoint in clinical trials: a call for consensus.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42581324/",
+      "source": "PubMed",
+      "date": "2026-08-06",
+      "authors": [
+        "Marseille Elliot",
+        "Kettner Hannes",
+        "Sgambati Tyrone J"
+      ],
+      "doi": "10.1038/s44184-026-00234-1",
+      "summary_en": "Psychiatric trials typically measure success through symptom reduction, but patients prioritize meaning, vitality, and functioning. Psychedelic trials demonstrate this gap: significant well-being improvements often occur despite modest symptom effects. Researchers propose elevating well-being to co-primary endpoint status in clinical trials, with a validated consensus instrument and safeguards ensuring therapies don't worsen underlying conditions.",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "other",
+      "substances": [
+        "psilocybin"
+      ],
+      "added_at": "2026-08-13T07:59:35.488991+00:00"
+    },
+    {
+      "title": "Psychedelics and astrocytes: a hypothesis-driven perspective on neuro-glial integration, network plasticity, and neuroimmune reprogramming.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42581074/",
+      "source": "PubMed",
+      "date": "2026-08-11",
+      "authors": [
+        "Ke Xiaoshan",
+        "Du Xiubo",
+        "Wang Xiaohui"
+      ],
+      "doi": "10.1038/s41380-026-03816-9",
+      "summary_en": "This hypothesis-driven review examines astrocytes' potential role in psychedelic-induced brain changes. While serotonin 2A receptor signaling on neurons remains central, evidence suggests astrocytes—traditionally viewed as passive support cells—actively integrate neuromodulatory signals and coordinate synaptic plasticity, metabolic coupling, and immune responses. The authors propose a neuro-glial ensemble framework where neuron-astrocyte interactions constitute functional units underlying psychedelic-induced network reorganization and therapeutic effects across neuropsychiatric disorders.",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "review",
+      "substances": [
+        "psilocybin",
+        "lsd"
+      ],
+      "added_at": "2026-08-13T07:59:35.488991+00:00"
+    },
+    {
+      "title": "Smooth Sailing: Definium’s LSD Voyage Hits Primary and Key Secondary Endpoints in GAD",
+      "url": "https://psychedelicalpha.com/news/smooth-sailing-definiums-lsd-voyage-hits-primary-and-key-secondary-endpoints-in-gad/",
+      "source": "Psychedelic Alpha",
+      "date": "2026-08-12",
+      "authors": [],
+      "doi": "",
+      "summary_en": "Definium Therapeutics announced positive Phase 3 trial results for LSD (DT120) in generalised anxiety disorder, meeting primary and key secondary endpoints. This follows successful Phase 3 results in major depressive disorder announced two months earlier, marking significant progress in clinical development of lysergamides for psychiatric conditions.",
+      "notable": true,
+      "notable_reason": "Phase 3 RCT results meeting primary and key secondary endpoints in GAD, following recent positive Phase 3 results in MDD for the same compound.",
+      "study_type": "rct",
+      "substances": [
+        "lsd"
+      ],
+      "added_at": "2026-08-13T07:59:35.488991+00:00"
+    },
+    {
+      "title": "Two Years After Rejection, Resilient Quietly Refiles MDMA for PTSD Application",
+      "url": "https://psychedelicalpha.com/news/two-years-after-rejection-resilient-quietly-refiles-mdma-for-ptsd-application/",
+      "source": "Psychedelic Alpha",
+      "date": "2026-08-12",
+      "authors": [],
+      "doi": "",
+      "summary_en": "Resilient Therapeutics has resubmitted its MDMA application for PTSD treatment to regulatory authorities, two years after an initial rejection. The company's resubmission follows previous clinical data evaluations.",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "other",
+      "substances": [
+        "mdma"
+      ],
+      "added_at": "2026-08-13T07:59:35.488991+00:00"
+    },
+    {
       "title": "Effects of naturalistic psychedelic use on executive functioning: An online survey of lifetime history and recent use in university students.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42580581/",
       "source": "PubMed",

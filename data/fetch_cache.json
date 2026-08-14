@@ -1,7 +1,82 @@
 {
-  "date": "2026-08-13",
-  "cached_at": "2026-08-13T07:22:35.560334+00:00",
+  "date": "2026-08-14",
+  "cached_at": "2026-08-14T07:20:14.433751+00:00",
   "articles": [
+    {
+      "title": "Ketamine assisted psychotherapy to reduce chronic neuropathic pain: A mixed-methods randomized pilot trial.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42594864/",
+      "source": "PubMed",
+      "abstract": "Intravenous ketamine can provide short-term analgesia in chronic neuropathic pain but benefits often wane after treatment. We conducted a randomized pilot trial to assess the feasibility of combining ketamine infusions with psychotherapy to inform future efficacy trials. In this single-center, randomized, outcome-assessor-blinded pilot trial at a Canadian tertiary pain clinic, adults with moderate-to-severe chronic neuropathic pain were randomly assigned in 1:1:1 ratio to the ketamine, psychotherapy, or combined ketamine plus psychotherapy arm. Ketamine was delivered as three intravenous infusions over 16 weeks; psychotherapy consisted of 16 weekly cognitive behavioral therapy and mindfulness-based meditation sessions. The primary outcome was feasibility, assessed using prespecified progression criteria. Exploratory outcomes included changes in pain interference (PROMIS 6a T-score), pain intensity, mood, and qualitative interview findings at week 20 (ClinicalTrials.gov: NCT05639322). Between October 23, 2023, and March 31, 2025, 30 participants were randomized, and 26 (87%) completed 20-week follow-up. Most feasibility criteria, including consent, retention, data completeness, and absence of study-related serious adverse events, were met; adherence targets were partially met. Exploratory pain outcomes showed numerical improvement across groups, with clinically meaningful reductions observed for pain interference and pain intensity. Sixty-four adverse events were recorded, mostly mild and in ketamine-containing groups; no serious study-related adverse events occurred. Combined ketamine and psychotherapy was feasible and acceptably safe in this pilot trial, supporting evaluation in a larger efficacy-powered study. The study was funded by the St. Michael's Hospital Innovation Fund, The Canadian Pain Society Early Investigator Award and the Physician Services Incorporation Early Career Researcher Award.",
+      "date": "2026-08-13",
+      "authors": [
+        "Goel Akash",
+        "Diep Calvin",
+        "Zahin Ahnaf"
+      ],
+      "doi": "10.1016/j.medj.2026.101259"
+    },
+    {
+      "title": "A contemporary exploration of motivations and practices of psychedelic use among emerging adult cannabis users in the United States: A qualitative analysis.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42593989/",
+      "source": "PubMed",
+      "abstract": "Despite increased naturalistic psychedelic use in the United States, limited studies explore factors currently contributing to use among ethnically and racially diverse psychedelic and cannabis-using adults. This study employs thematic analysis using qualitative data to explore the factors contributing to contemporary psychedelic use. Qualitative interviews (conducted in 2022-2023) from a subsample of cannabis-using emerging adults who endorsed psychedelic use ( Four domains that dynamically influence psychedelic practices were identified: (a) context, such as norms, attitudes, and stigma; (b) expectancies, including perceived benefits and risks; (c) motives for use, including self and/or spiritual exploration, social connection, and self-treatment; and (d) practices, including microdosing, goal setting/intentional use, and experimentation. The current analysis identified factors influencing psychedelic use among U.S. adults who use cannabis in our current society and considered these findings within the context of historical models of substance use, including psychedelic use and motivational models. This study reflects a crucial step in furthering our knowledge around the growing zeitgeist of psychedelic use, including the role of motives, expectancies, and context. (PsycInfo Database Record (c) 2026 APA, all rights reserved).",
+      "date": "2026-08-13",
+      "authors": [
+        "Conn Bridgid M",
+        "Osornio Alisha",
+        "Sheean Kaia"
+      ],
+      "doi": "10.1037/adb0001180"
+    },
+    {
+      "title": "Efficacy and Safety of Psychedelic Microdosing on Psychological Outcomes in Healthy Adults: A Systematic Review and Meta-analysis.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42593636/",
+      "source": "PubMed",
+      "abstract": "Psychedelic microdosing has gained increasing popularity for enhancing mood and cognition, yet its effects on psychological outcomes in healthy adults remain unclear. We aim to evaluate the efficacy and safety of psychedelic microdosing on psychological outcomes in healthy/non-clinical adult population. This review was registered in the International Prospective Register of Systematic Reviews (PROSPERO; CRD420251035294). We searched Embase, MEDLINE, and PsycINFO from inception to February 2026 for original studies in healthy adults using sub-hallucinogenic psychedelic doses on separate days. We included randomized studies, nonrandomized prospective studies, cross-sectional studies, and observational longitudinal designs and stratified meta-analyses by design. Random-effects models were used; safety in randomized controlled trials (RCTs) was pooled as risk differences (RDs). Risk of bias was assessed using the Joanna Briggs Institute (JBI) critical appraisal tools appropriate for each study design. 24 studies (3,681 participants) met inclusion criteria, 6 contributed to meta-analyses. RCTs of psilocybin and LSD microdosing showed subjective and neurophysiological effects but minimal impact on cognition, creativity, or sustained mood. Psilocybin altered EEG and speech with little behavioral change, while LSD caused transient mood and minor physiological effects without lasting cognitive or personality benefits. Observational studies indicated mood and personality improvements, likely influenced by expectancy or lifestyle factors. Meta-analyses included two parallel RCTs (3 comparisons; n = 117) and three non-RCT studies (n = 1,013). Adverse event analyses included two RCTs (4 comparisons; n = 109). RCTs showed no clear evidence of immediate symptom reduction: depressive symptoms (SMD = -0.19; 95% CI -0.56, 0.19; I Microdosing does not show consistent immediate benefits for depressive, anxiety, or stress symptoms in healthy adults, and evidence from RCTs remains inconclusive. Although improvements were observed in some studies, these effects were not significantly different from placebo. Larger, well-designed RCTs are needed to clarify the efficacy and safety of psychedelic microdosing beyond placebo.",
+      "date": "2026-08-13",
+      "authors": [
+        "Meshkat Shakila",
+        "Leung Marco",
+        "Meshkat Sarina"
+      ],
+      "doi": "10.1007/s40263-026-01325-5"
+    },
+    {
+      "title": "Witnessing and imagination: Proust, trauma, and the expansion of consciousness.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42591344/",
+      "source": "PubMed",
+      "abstract": "I treat Proust's",
+      "date": "2026-07-29",
+      "authors": [
+        "Fischman Lawrence"
+      ],
+      "doi": "10.3389/fpsyg.2026.1683934"
+    },
+    {
+      "title": "Psilocybin-containing mushroom-assisted psychotherapy is associated with sustained psychological and somatic improvements: two case studies from Jamaica.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42591237/",
+      "source": "PubMed",
+      "abstract": "We report two case studies that examine the therapeutic potential of structured psilocybin-containing mushroom biomass regimens administered within a clinical framework, evaluating their impact on mental health outcomes as well as associated somatic symptoms. Two patients underwent the De La Haye Psilocybin Treatment Protocol (DPTP), which integrates micro- and high-doses (combined psilocybin and psilocin content of 1-2 mg versus 40-60 mg) with psychohistoriographic psychotherapy. Follow-up included an integration session and subsequent office visits, including the completion of the Revised Mystical Experience Questionnaire (MEQ-30) two months post-treatment. Case 1 described a 29-year-old female with social anxiety, self-criticism, chronic musculoskeletal pain, and a recent diagnosis of diabetes. Post-treatment, she reported reduced shame, increased self-confidence, and substantial reductions in pain severity. Case 2 involved a 44-year-old female presenting with depression, hopelessness, and long-COVID-related anosmia and ageusia. She reported enhanced psychological resilience, improved mood, and resolution of diffuse body aches. Following the therapeutic dose, she also reported a 80-90% recovery of smell and taste after three years of dysfunction, post COVID-19 infection. The MEQ-30 scores were both high, indicating profound mystical-type experiences. These cases demonstrate improvements in psychological and somatic symptoms following participation in the DPTP. While the pain reduction and observed recovery of olfactory and gustatory function is noteworthy, spontaneous improvements cannot be excluded and further controlled investigation is warranted.",
+      "date": "2026-07-29",
+      "authors": [
+        "Sams Caitlyn Hanna",
+        "Davis Jasmine",
+        "Ramdas Anuradha"
+      ],
+      "doi": "10.3389/fpsyt.2026.1876189"
+    },
+    {
+      "title": "Psychoactive and Neurobiological Effects of Ketamine in Humans: A Scoping Review of Clinical Evidence.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42590024/",
+      "source": "PubMed",
+      "abstract": "",
+      "date": "2026-07-29",
+      "authors": [
+        "Turtulli Sidorela",
+        "Papadaki Eugenia"
+      ],
+      "doi": "10.3390/jcm15155922"
+    },
     {
       "title": "Longitudinal Precision Functional Mapping in Psychiatry.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42584881/",
@@ -181,82 +256,13 @@
       "doi": "10.1016/j.tips.2026.07.006"
     },
     {
-      "title": "Intravenous Ketamine reduces psychological pain in suicidal inpatients: A secondary analysis of a six-week randomized placebo-controlled trial.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42575195/",
-      "source": "PubMed",
-      "abstract": "Psychological pain has been conceptualized as an unbearable inner experience and a possible precondition for suicidal ideation. No randomized placebo-controlled study has specifically investigated psychological pain as a treatment target in psychiatric populations. We examined ketamine's effect on psychological pain in suicidal psychiatric inpatients. This secondary analysis used KETIS, a 6-week randomized, double-blind, placebo-controlled trial. Participants received two 40-minute intravenous infusions of ketamine (0.5 mg/kg) or placebo (0.9% saline) 24 h apart, alongside usual care and medication. Psychological and physical pain were assessed at baseline, repeatedly during 96 h, and at weeks 2, 4, and 6 using the self-rated PPP-VAS. Longitudinal mixed models compared pain trajectories. The trial randomized suicidal inpatients to ketamine (n = 73) or placebo (n = 83). Psychological pain decreased in both groups but was lower with ketamine during the first 96 h. Pointwise scores were lower with ketamine from 40 min to 96 h, largest at 40 min, 2 h, 4 h, and 24 h (all p < 0.001), but not at weeks 2, 4, or 6. This early difference remained significant after adjustment for depressive symptoms and hopelessness. The early reduction appeared more pronounced in the bipolar subgroup. No robust baseline predictors of outcome were identified. Intravenous ketamine was associated with a greater reduction in psychological pain than placebo in suicidal inpatients, with the clearest effects emerging within the first hours after treatment and remaining evident through the first 96 h. Ketamine may represent a clinically relevant option as a psychological pain reliever in psychiatric patients.",
-      "date": "2026-08-10",
-      "authors": [
-        "Baryshnikov Ilya",
-        "Demattei Christophe",
-        "Abbar Mocrane"
-      ],
-      "doi": "10.1016/j.jad.2026.122366"
-    },
-    {
-      "title": "Discordant signals: How outcome measurement shapes interpretation of ketamine response in treatment-resistant depression.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42575191/",
-      "source": "PubMed",
-      "abstract": "Depression rating scales capture heterogeneous symptom domains, raising questions about the comparability of treatment response across instruments. This issue is particularly relevant for rapid-acting interventions such as ketamine. We conducted a secondary analysis of a naturalistic cohort (N = 71) of patients with treatment-resistant depression treated with intravenous ketamine. Changes in depressive symptoms were assessed using the Montgomery-Åsberg Depression Rating Scale (MADRS), Beck Depression Inventory-II (BDI-II), and Clinical Global Impression-Severity (CGI-S). We examined correlations between change scores, magnitude of improvement across instruments, and changes in suicidality items. Change scores demonstrated variable associations across instruments. BDI-II and CGI-S change scores were strongly correlated (ρ = 0.69, p < 0.001), whereas MADRS showed weaker association with CGI-S (ρ = 0.13, p = 0.52) and moderate association with BDI-II (ρ = 0.46, p = 0.009). Mean percent reduction was greater for MADRS (54.2%) than BDI-II (41.9%), with correspondingly larger effect sizes (d = 1.78 vs d = 1.34). Suicidality improved on both measures, with a larger effect size for the clinician-rated MADRS item (d = 0.94) than the self-rated BDI-II item (d = 0.65). Depression rating scales provide non-equivalent estimates of ketamine treatment response. Outcome measurement influences effect size estimates and magnitude of improvement, supporting a multidimensional approach to characterizing antidepressant response.",
-      "date": "2026-08-10",
-      "authors": [
-        "Vazquez Gustavo",
-        "Kang Melody J Y",
-        "Gutierrez Gilmar"
-      ],
-      "doi": "10.1016/j.jad.2026.122368"
-    },
-    {
-      "title": "Adjunctive transcutaneous auricular vagus nerve stimulation following loss of response to maintenance intranasal esketamine in treatment-resistant depression.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42574893/",
-      "source": "PubMed",
+      "title": "The Psychedelic Practitioner Issue 6: Preparedness (People)",
+      "url": "https://psychedelicalpha.com/news/the-psychedelic-practitioner-issue-6-preparedness-people/",
+      "source": "Psychedelic Alpha",
       "abstract": "",
-      "date": "2026-08-06",
-      "authors": [
-        "Sierra Pilar",
-        "Cañada Yolanda",
-        "Benavent Pilar"
-      ],
-      "doi": "10.1016/j.ajp.2026.105110"
-    },
-    {
-      "title": "Psychedelics in psychiatry: from promise to translation.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42572968/",
-      "source": "PubMed",
-      "abstract": "Psychedelics hold promise for psychiatry, yet clinical translation remains premature. Addressing the challenges of psychedelics in psychiatry requires advances in mechanistic study, clinical implementation, regulatory governance and public discourse in parallel.",
-      "date": "2026-08-10",
-      "authors": [
-        "Zhang Yi",
-        "Zheng Yongbo B",
-        "Jin Meng"
-      ],
-      "doi": "10.1192/bjp.2026.10749"
-    },
-    {
-      "title": "'So many relationships in the room': Participant perspectives on the affordances and challenges of co-therapy in psychedelic assisted therapy.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42572818/",
-      "source": "PubMed",
-      "abstract": "Psychedelic-assisted therapy (PAT) frequently utilises a \"cotherapy\" model, in which two therapists jointly support participants throughout dosing and psychotherapy sessions. While common in clinical trials, participant experiences of cotherapy remain underexplored. This study explored cotherapy experiences in PAT with psilocybin for Generalised Anxiety Disorder (GAD). Longitudinal qualitative analysis of participants sampled from a large randomised, open-label, phase 2 clinical trial of psilocybin-assisted therapy for GAD, delivered by clinicians with high levels of qualification, training and supervision. Qualitative data were collected from n = 18 participants via 29 semi-structured interviews, conducted before and after dosing sessions. Interviews examined experiences of PAT with a cotherapy dyad. Data were analysed thematically, guided by Affordance Theory to consider how cotherapy dynamics shaped therapeutic possibilities. Three major themes were developed: (1) dose day cotherapy: safety, trust and the realities of access; (2) cotherapy influences therapeutic processes; and (3) cotherapy shapes the impact and credibility of therapeutic insights. Cotherapy in PAT can be both a safety and supportive measure, and a potentiator of therapeutic processes. Insights from this study can guide clinical practice and future research to harness the potential safety and therapeutic benefits afforded by cotherapy while considering feasibility and accessibility.",
-      "date": "2026-08-10",
-      "authors": [
-        "Ham Rachel",
-        "Gardner John",
-        "Carter Adrian"
-      ],
-      "doi": "10.1111/papt.70098"
-    },
-    {
-      "title": "Feasibility and Tolerability of Psilocybin for Phantom Limb Pain.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42567236/",
-      "source": "PubMed",
-      "abstract": "Phantom limb pain (PLP) is a refractory condition defined by pain experienced in a missing limb. Psilocybin, a classical serotonergic psychedelic drug, can alleviate various treatment-resistant disorders but has scantly been investigated for chronic pain. This placebo-controlled, double-blind, randomized clinical pilot trial (NCT05224336) tested the feasibility, tolerability, and preliminary safety of psilocybin in individuals living with PLP. Nine participants (mean±SD 37±13 years) with one amputation and PLP were randomized to receive a single 25-mg oral dose of psilocybin (n=5; 2 female) or 100-mg niacin (n=4; 2 female). The dosing sessions were supervised by two monitors who met with participants during three pre-dosing preparatory sessions and a 1-day post-dosing integration session. Suicidality was assessed across all visits. Blood pressure (BP), heart rate (HR), and adverse drug effects were assessed during the dosing session. Headache was evaluated during the dosing and integration sessions. No emergent suicidality or serious adverse events were observed. In both groups, adverse drug effects (anxiety, psychological/physical discomfort) and transient elevations in BP and HR after drug administration resolved spontaneously prior to discharge. After psilocybin administration, two participants reported nausea and three reported headache. Exploratory self-reported ratings for weekly PLP intensity showed trends toward reduction (>30%) two- and four-weeks post-psilocybin administration but these effects may be attributed to the small sample size and functional unblinding. This is the first trial providing evidence of the tolerability of a 25-mg oral dose of psilocybin for PLP, a debilitating, enigmatic and treatment-resistant chronic pain condition. PERSPECTIVE: This article demonstrates that psilocybin was tolerable when administered to five individuals suffering from phantom limb pain, a unique, treatment-resistant and centralized pain syndrome. These phase 1 feasibility findings support future placebo-controlled trials investigating the efficacy and mechanisms of serotonergic psychedelics for refractory pain syndromes.",
-      "date": "2026-08-07",
-      "authors": [
-        "Dean Jon G",
-        "Hurwitz Ethan",
-        "Furnish Timothy"
-      ],
-      "doi": "10.1016/j.jpain.2026.106404"
+      "date": "2026-08-13",
+      "authors": [],
+      "doi": ""
     },
     {
       "title": "Two Years After Rejection, Resilient Quietly Refiles MDMA for PTSD Application",
@@ -336,15 +342,6 @@
       "source": "Psychedelic Alpha",
       "abstract": "Inside the Lilly-Atai Deal, and a Patent Standoff with GH Research Getting anyone familiar with the specifics surrounding the Eli Lilly-AtaiBeckley deal to go on the record has been challenging, but we have spoken with people familiar with the details on the condition of anonymity. While Endpoints reports that other large pharmaceutical companies, including AbbVie […]",
       "date": "2026-07-22",
-      "authors": [],
-      "doi": ""
-    },
-    {
-      "title": "Q3’26 Psychedelic Drug Development Pipeline: Bullseye Charts",
-      "url": "https://psychedelicalpha.com/news/q326-psychedelic-drug-development-pipeline-bullseye-charts/",
-      "source": "Psychedelic Alpha",
-      "abstract": "",
-      "date": "2026-07-21",
       "authors": [],
       "doi": ""
     },
@@ -452,6 +449,32 @@
       "doi": "10.5812/ijpr-164903"
     },
     {
+      "title": "Ketamine preserves perineuronal nets in chronic stressed mice brain through the inhibition of microglia activation.",
+      "url": "https://doi.org/10.1016/j.ibneur.2026.07.016",
+      "source": "Europe PMC",
+      "abstract": "<h4>Background</h4>Deeper understanding of ketamine's mechanism of action would contribute to the discovery of novel therapeutic targets with fast-onset actions. To gain insight on the mechanism underlying the antidepressant-like effects of ketamine, we focused on perineuronal nets (PNNs), an extracellular matrix structure that surrounds fast-spiking parvalbumin-positive interneurons and regulates synaptic plasticity, whose integrity is known to be compromised under stress-induced depressive conditions.<h4>Methods</h4>We first performed the description of the plastic remodeling of PNNs in the Chronic restraint stress (CRS) mice treated or un-treated with ketamine, by quantifying the number of WFA, marker of PNNs, parvalbumin (PV) and c-Fos positive cells, as a surrogate of neuronal activity. And then, we investigated the the transcripts of a number of proteins involved in the formation or degradation of PNNs with or without ketamine in CRS mice. Next, we evaluated the expression of IBA1, a microglial marker, in the hippocampus and medial prefrontal cortex after CRS treated or un-treated with ketamine.<h4>Results</h4>We found that ketamine effectively alleviated the animals' depression like behavior as well as attenuates CRS-induced reduction of WFA-positive cells in the hippocampus and medial prefrontal cortex of mice. Although ketamine treatment had little or no effect on the number of PV, c-Fos positive cells and the transcripts of proteins involved in the formation or degradation of PNNs. Notably, ketamine treatment lead to remarkably reduced the number of IBA1-positive cells in the hippocampus and medial prefrontal cortex after CRS.<h4>Conclusion</h4>Our findings suggest that PNNs is characterized by region-specific changes in chronic stress mouse brain and provide extensive evidence that ketamine exposure initiates microglia to remodel PNN, instead of the PNN accumulation and degradation enzymes.",
+      "date": "2026-07-26",
+      "authors": [
+        "Yang J",
+        "Huang T",
+        "Wang M"
+      ],
+      "doi": "10.1016/j.ibneur.2026.07.016"
+    },
+    {
+      "title": "Investigating the effects of chlorogenic acid on novel object recognition memory impairment, hyperlocomotion, and prefrontal BDNF expression in a sub-chronic ketamine-induced schizophrenia-like rat model.",
+      "url": "https://doi.org/10.1016/j.ibneur.2026.07.010",
+      "source": "Europe PMC",
+      "abstract": "Schizophrenia is a severe neuropsychiatric disorder characterized by positive, negative, cognitive, mood-related, and motor symptoms. Sub-chronic ketamine administration is widely used to induce schizophrenia-like behavioral and cognitive alterations in rodents. Chlorogenic acid (CGA) is an abundant dietary phenolic acid with reported anti-inflammatory, antioxidative, and neuroprotective properties. The present study examined the effects of CGA on behavioral disturbances in male and female rats exposed to sub-chronic ketamine administration, together with brain-derived neurotrophic factor (BDNF) expression in the prefrontal cortex. Ketamine was injected for 7 consecutive days (30 mg/kg, i.p.), and CGA was orally administered once (150 mg/kg) 24 h after the last ketamine injection. Ketamine increased locomotor activity in both sexes, with a greater effect in females; CGA partially reduced this effect only in males. Rearing was reduced only in ketamine-treated males, and CGA did not reverse this change. Grooming was increased in both sexes after ketamine administration, whereas CGA attenuated this effect only in females. Novel object recognition memory was impaired in both sexes after ketamine administration, and CGA partially attenuated this impairment. Immobility in the forced swim test was reduced only in ketamine-treated females, and CGA attenuated this effect. Prefrontal BDNF expression was decreased after ketamine administration in both sexes, and CGA partially attenuated this reduction. Overall, CGA showed partial and sex-dependent protective effects against selected ketamine-induced behavioral and molecular alterations. These findings should be interpreted in light of the absence of independent DMSO-only vehicle-control cohorts.",
+      "date": "2026-07-24",
+      "authors": [
+        "Bahrami A",
+        "Ghorbani Yekta B",
+        "Baghdasarians A."
+      ],
+      "doi": "10.1016/j.ibneur.2026.07.010"
+    },
+    {
       "title": "Substance use and mental health outcomes among gay and bisexual men in South Korea: a cross-sectional study.",
       "url": "https://doi.org/10.1016/j.abrep.2026.100728",
       "source": "Europe PMC",
@@ -543,35 +566,11 @@
       "doi": "10.1016/j.reth.2026.101127"
     },
     {
-      "title": "Interpol review of fingermark composition and visualization 2022-2025.",
-      "url": "https://doi.org/10.1016/j.fsisyn.2026.100703",
-      "source": "Europe PMC",
-      "abstract": "",
-      "date": "2026-06-13",
-      "authors": [
-        "Bécue A."
-      ],
-      "doi": "10.1016/j.fsisyn.2026.100703"
-    },
-    {
-      "title": "Indole-3-acetic acid production is rare among gut bacteria and reflects OFOR-driven amino acid oxidation in acetogens.",
-      "url": "https://doi.org/10.1080/19490976.2026.2689610",
-      "source": "Europe PMC",
-      "abstract": "Indole-3-acetic acid (IAA) is a tryptophan-derived gut microbial metabolite with reported anti-inflammatory activities, but the organisms and anaerobic pathways that support robust production remain unclear. Screening 206 human gut bacterial isolates by LC-MS revealed that IAA production is rare: only five strains exceeded the limit of quantitation, and high-capacity production was confined to the acetogens <i>Blautia hydrogenotrophica</i> and <i>Intestinibacter bartlettii</i>. Across growth conditions, IAA was a minor product that rose alongside carbohydrate-sensitive, OFOR-linked catabolism of multiple amino acids, generating abundant branched-chain and aromatic organic acids. In gnotobiotic mice mono-colonized with <i>I. bartlettii</i>, these metabolites were produced <i>in vivo</i> but showed distinct host handling, with branched-chain fatty acids largely extracted between portal and peripheral plasma, whereas aromatic acids and their glycine conjugates appeared in plasma and urine. Genomic analyzes and heterologous enzyme assays identified expanded repertoires of 2-oxoacid:ferredoxin oxidoreductases (OFORs) with activities spanning pyruvate/oxaloacetate, branched-chain, and aromatic 2-oxoacids, including indolepyruvate conversion to indoleacetyl-CoA, a putative intermediate <i>en route</i> to IAA. Finally, position-specific <sup>13</sup>C tracing showed that CO<sub>2</sub> released during amino acid oxidation is reassimilated into acetate via reductive acetogenesis, indicating that gut acetogens can maintain redox balance without fermenting partner strains. Together, these findings show that high IAA output is restricted to select gut acetogens and linked to a broader OFOR-driven anaerobic metabolism that generates additional metabolites that are absorbed by the host.",
-      "date": "2026-06-21",
-      "authors": [
-        "DeFeo ME",
-        "Liu Y",
-        "Zhou Z"
-      ],
-      "doi": "10.1080/19490976.2026.2689610"
-    },
-    {
       "title": "CZ",
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2018-004480-31/CZ",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-08-13",
+      "date": "2026-08-14",
       "authors": [],
       "doi": ""
     },
@@ -580,7 +579,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2020-005037-32/CZ",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-08-13",
+      "date": "2026-08-14",
       "authors": [],
       "doi": ""
     },
@@ -589,7 +588,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2021-002909-10/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-08-13",
+      "date": "2026-08-14",
       "authors": [],
       "doi": ""
     },
@@ -598,7 +597,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2015-000550-37/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-08-13",
+      "date": "2026-08-14",
       "authors": [],
       "doi": ""
     },
@@ -607,7 +606,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2021-000041-40/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-08-13",
+      "date": "2026-08-14",
       "authors": [],
       "doi": ""
     },
@@ -616,7 +615,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2020-000829-55/DK",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-08-13",
+      "date": "2026-08-14",
       "authors": [],
       "doi": ""
     },
@@ -625,7 +624,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2020-002790-94/SE",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-08-13",
+      "date": "2026-08-14",
       "authors": [],
       "doi": ""
     },
@@ -634,7 +633,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2021-006200-33/FI",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-08-13",
+      "date": "2026-08-14",
       "authors": [],
       "doi": ""
     },
@@ -643,7 +642,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2019-004812-73/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-08-13",
+      "date": "2026-08-14",
       "authors": [],
       "doi": ""
     },
@@ -652,7 +651,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2022-002369-14/BE",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-08-13",
+      "date": "2026-08-14",
       "authors": [],
       "doi": ""
     },

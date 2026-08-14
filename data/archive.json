@@ -1,6 +1,146 @@
 {
   "items": [
     {
+      "title": "Ketamine assisted psychotherapy to reduce chronic neuropathic pain: A mixed-methods randomized pilot trial.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42594864/",
+      "source": "PubMed",
+      "date": "2026-08-13",
+      "authors": [
+        "Goel Akash",
+        "Diep Calvin",
+        "Zahin Ahnaf"
+      ],
+      "doi": "10.1016/j.medj.2026.101259",
+      "summary_en": "Randomized pilot trial (n=30, 87% follow-up) comparing ketamine infusions, psychotherapy, or combined treatment for chronic neuropathic pain. Ketamine: three IV infusions over 16 weeks; psychotherapy: 16 weekly CBT and mindfulness sessions. Primary outcome was feasibility; exploratory outcomes included pain interference and intensity. Most feasibility criteria met; clinically meaningful pain reductions observed across groups. Study design and safety data support further efficacy trials.",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "rct",
+      "substances": [
+        "ketamine"
+      ],
+      "added_at": "2026-08-14T07:56:27.920057+00:00"
+    },
+    {
+      "title": "A contemporary exploration of motivations and practices of psychedelic use among emerging adult cannabis users in the United States: A qualitative analysis.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42593989/",
+      "source": "PubMed",
+      "date": "2026-08-13",
+      "authors": [
+        "Conn Bridgid M",
+        "Osornio Alisha",
+        "Sheean Kaia"
+      ],
+      "doi": "10.1037/adb0001180",
+      "summary_en": "Qualitative study (2022-2023) examining motivations for psalmoterapeutic use among ethnically diverse cannabis-using emerging adults in the US. Thematic analysis identified four key domains: social/contextual factors, user expectancies, motives (spiritual exploration, social connection, self-treatment), and practices (microdosing, intentional use). Findings contribute to understanding contemporary psychedelic use patterns.",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "qualitative",
+      "substances": [
+        "other"
+      ],
+      "added_at": "2026-08-14T07:56:27.920057+00:00"
+    },
+    {
+      "title": "Efficacy and Safety of Psychedelic Microdosing on Psychological Outcomes in Healthy Adults: A Systematic Review and Meta-analysis.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42593636/",
+      "source": "PubMed",
+      "date": "2026-08-13",
+      "authors": [
+        "Meshkat Shakila",
+        "Leung Marco",
+        "Meshkat Sarina"
+      ],
+      "doi": "10.1007/s40263-026-01325-5",
+      "summary_en": "Systematic review and meta-analysis of 24 studies (3,681 participants) examining psychedelic microdosing in healthy adults. RCTs of psilocybin and LSD showed subjective and neurophysiological effects but minimal impact on cognition, creativity, or sustained mood improvement. Observational studies reported mood and personality benefits, suggesting study design influences outcomes. Safety data from RCTs indicate generally minor adverse effects.",
+      "notable": true,
+      "notable_reason": "Large meta-analysis (n=3,681 participants across 24 studies, 6 contributing to pooled analyses) synthesizing RCT and observational evidence on psilocybin and LSD microdosing with safety outcomes.",
+      "study_type": "review",
+      "substances": [
+        "psilocybin",
+        "lsd"
+      ],
+      "added_at": "2026-08-14T07:56:27.920057+00:00"
+    },
+    {
+      "title": "Psychoactive and Neurobiological Effects of Ketamine in Humans: A Scoping Review of Clinical Evidence.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42590024/",
+      "source": "PubMed",
+      "date": "2026-07-29",
+      "authors": [
+        "Turtulli Sidorela",
+        "Papadaki Eugenia"
+      ],
+      "doi": "10.3390/jcm15155922",
+      "summary_en": "A scoping review examining clinical evidence on ketamine's psychoactive and neurobiological effects in humans. The study synthesizes research on ketamine's mechanisms of action, psychological impacts, and neural effects across clinical populations, providing a comprehensive overview of current knowledge in this therapeutic research area.",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "review",
+      "substances": [
+        "ketamine"
+      ],
+      "added_at": "2026-08-14T07:56:27.920057+00:00"
+    },
+    {
+      "title": "Ketamine preserves perineuronal nets in chronic stressed mice brain through the inhibition of microglia activation.",
+      "url": "https://doi.org/10.1016/j.ibneur.2026.07.016",
+      "source": "Europe PMC",
+      "date": "2026-07-26",
+      "authors": [
+        "Yang J",
+        "Huang T",
+        "Wang M"
+      ],
+      "doi": "10.1016/j.ibneur.2026.07.016",
+      "summary_en": "Mouse study examining ketamine's antidepressant mechanisms in chronic stress. Ketamine preserved perineuronal nets (PNNs)—extracellular structures regulating synaptic plasticity—in hippocampus and prefrontal cortex by inhibiting microglial activation. Treatment reversed stress-induced PNN degradation and depression-like behavior, suggesting microglia suppression as a therapeutic target.",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "preclinical",
+      "substances": [
+        "ketamine"
+      ],
+      "added_at": "2026-08-14T07:56:27.920057+00:00"
+    },
+    {
+      "title": "Psilocybin-containing mushroom-assisted psychotherapy is associated with sustained psychological and somatic improvements: two case studies from Jamaica.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42591237/",
+      "source": "PubMed",
+      "date": "2026-07-29",
+      "authors": [
+        "Sams Caitlyn Hanna",
+        "Davis Jasmine",
+        "Ramdas Anuradha"
+      ],
+      "doi": "10.3389/fpsyt.2026.1876189",
+      "summary_en": "Two case studies from Jamaica examined psilocybin-assisted psychotherapy using the De La Haye Protocol, combining micro-doses (1-2 mg) and high-doses (40-60 mg) with psychotherapy. Both patients showed sustained improvements: reduced anxiety and pain in case 1, and enhanced mood with recovery of smell/taste in case 2. High mystical experience scores were recorded at two-month follow-up.",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "case_report",
+      "substances": [
+        "psilocybin"
+      ],
+      "added_at": "2026-08-14T07:56:27.920057+00:00"
+    },
+    {
+      "title": "Investigating the effects of chlorogenic acid on novel object recognition memory impairment, hyperlocomotion, and prefrontal BDNF expression in a sub-chronic ketamine-induced schizophrenia-like rat model.",
+      "url": "https://doi.org/10.1016/j.ibneur.2026.07.010",
+      "source": "Europe PMC",
+      "date": "2026-07-24",
+      "authors": [
+        "Bahrami A",
+        "Ghorbani Yekta B",
+        "Baghdasarians A."
+      ],
+      "doi": "10.1016/j.ibneur.2026.07.010",
+      "summary_en": "Rat study (both sexes) examined chlorogenic acid's effects on ketamine-induced schizophrenia-like symptoms. Sub-chronic ketamine (7 days, 30 mg/kg) impaired novel object recognition and increased locomotion in both sexes, with sex-specific effects on grooming and rearing. Single chlorogenic acid dose (150 mg/kg) partially reversed some behavioral changes and partially restored prefrontal BDNF expression decreased by ketamine.",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "preclinical",
+      "substances": [
+        "ketamine"
+      ],
+      "added_at": "2026-08-14T07:56:27.920057+00:00"
+    },
+    {
       "title": "Well-being as a primary endpoint in clinical trials: a call for consensus.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42581324/",
       "source": "PubMed",

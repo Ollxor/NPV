@@ -1,7 +1,46 @@
 {
-  "date": "2026-08-14",
-  "cached_at": "2026-08-14T07:20:14.433751+00:00",
+  "date": "2026-08-15",
+  "cached_at": "2026-08-15T06:33:09.085314+00:00",
   "articles": [
+    {
+      "title": "LSD therapy: A few hundred meters from where it began.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42600572/",
+      "source": "PubMed",
+      "abstract": "In Basel, only a few hundred meters from where LSD was first synthesized, we tested LSD-assisted therapy for major depression in a randomized trial comparing two high doses with two low doses, each paired with supportive psychotherapy. This Backstory reflects on treating patients, long dosing days, and what remains uncertain.",
+      "date": "2026-Aug-14",
+      "authors": [
+        "Müller Felix",
+        "Becker Anna M",
+        "Böhlke Christopher"
+      ],
+      "doi": "10.1016/j.medj.2026.101233"
+    },
+    {
+      "title": "Intranasal esketamine for ECT-refractory bipolar depression: a case report.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42597507/",
+      "source": "PubMed",
+      "abstract": "This is a case report of a 52 year old female with ECT-refractory bipolar depression who was treated with esketamine nasal spray, leading to a noticeable improvement in her depressive symptoms. She experienced a relapse after a reduction in her maintenance treatment in conjunction with psychosocial stressors, but improved once again after returning to her induction regimen. She tolerated the treatment well with minimal side effects and no reported manic or hypomanic events. More robust research is warranted to better characterize the effectiveness of esketamine in treating treatment-resistant bipolar depression.",
+      "date": "2026-07-30",
+      "authors": [
+        "Abbas Muhammad",
+        "Kallas Bruno",
+        "Garris Max"
+      ],
+      "doi": "10.3389/fpsyt.2026.1890002"
+    },
+    {
+      "title": "The application of esketamine in cancer-related depressive states: attention from mechanisms to clinical translation.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42597205/",
+      "source": "PubMed",
+      "abstract": "This article reviews the clinical status and treatment challenges of cancer-related depressive states, clarifies the mechanism of action of esketamine-a novel rapid-acting antidepressant-compares its efficacy with traditional drugs, evaluates safety and tolerability, and summarizes clinical evidence to support clinical practice and research. By searching databases such as PubMed, Web of Science, and Cochrane Library, We conducted a structured review of the available literature on the mechanism of esketamine in the treatment of cancer-related depressive states in recent years, including mechanism studies, clinical trials, and review articles. We focused on its regulation of NMDA receptors, the impact on BDNF expression, synaptic plasticity, and neural circuit remodeling, and compared its efficacy and safety with traditional antidepressants. Esketamine exerts rapid antidepressant effects via multiple mechanisms: NMDA receptor antagonism, downstream signaling modulation, BDNF upregulation, synaptic plasticity enhancement, and neural circuit remodeling. Available studies suggest that esketamine may provide rapid antidepressant effects in oncology populations, particularly in perioperative settings. Common adverse events-such as transient dissociation and elevated blood pressure-are generally controllable. Esketamine, as a rapidly acting antidepressant, has a plausible mechanistic rationale and potential clinical value in the treatment of cancer-related depressive states. However, its long-term safety, optimal dosing regimens, and individualized application in different cancer patients still require further investigation. In the future, the integration of multi-omics technologies and clinical translational research should be promoted to advance the precision and standardization of its application in cancer-related depressive states treatment.",
+      "date": "2026-07-30",
+      "authors": [
+        "Chen Liangju",
+        "Chen Yonghua",
+        "Zhao Ying"
+      ],
+      "doi": "10.3389/fpsyt.2026.1781915"
+    },
     {
       "title": "Ketamine assisted psychotherapy to reduce chronic neuropathic pain: A mixed-methods randomized pilot trial.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42594864/",
@@ -216,44 +255,6 @@
         "Neitzke-Spruill Logan"
       ],
       "doi": "10.1176/appi.focus.20260006"
-    },
-    {
-      "title": "Combined Ketamine and Cognitive-Behavioral Therapy: Leveraging Metaplasticity to Enhance Treatment Outcomes.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42576910/",
-      "source": "PubMed",
-      "abstract": "Over the past two decades, ketamine has emerged as a rapid-acting antidepressant, especially among patients with treatment-resistant depression. As an",
-      "date": "2026-07-08",
-      "authors": [
-        "Hardy Morgan S",
-        "Li S William",
-        "Wilkinson Samuel T"
-      ],
-      "doi": "10.1176/appi.focus.20260001"
-    },
-    {
-      "title": "Combined Treatments in Psychiatry: Toward a True Synthesis.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42576893/",
-      "source": "PubMed",
-      "abstract": "",
-      "date": "2026-07-08",
-      "authors": [
-        "van der Vaart Andrew D",
-        "Aaronson Scott T"
-      ],
-      "doi": "10.1176/appi.focus.20260019"
-    },
-    {
-      "title": "Sex-sensitive serotonergic signaling in psychedelic pharmacology.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42575820/",
-      "source": "PubMed",
-      "abstract": "Classic serotonergic psychedelics act primarily via 5-HT2A receptor agonism, yet their therapeutic effects and biological responses are heterogeneous. Biological sex remains an underexamined source of this variability because many clinical and preclinical studies have not been designed to test sex-by-treatment effects. Recent preclinical findings, together with more limited human evidence, suggest that sex and endocrine state can modulate serotonergic mechanisms relevant to psychedelic action, including 5-HT1A autoregulatory feedback, 5-HT2A signaling, serotonin clearance, neuroendocrine coupling, and neuroplastic cascades. This review synthesizes how sex- and state-sensitive serotonergic regulation may influence psychedelic signaling and outlines priorities for sex-informed translational research in preclinical and clinical settings.",
-      "date": "2026-08-10",
-      "authors": [
-        "Nasini Sofia",
-        "Barzon Benedetta",
-        "Casile Antonino"
-      ],
-      "doi": "10.1016/j.tips.2026.07.006"
     },
     {
       "title": "The Psychedelic Practitioner Issue 6: Preparedness (People)",
@@ -570,7 +571,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2018-004480-31/CZ",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-08-14",
+      "date": "2026-08-15",
       "authors": [],
       "doi": ""
     },
@@ -579,7 +580,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2020-005037-32/CZ",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-08-14",
+      "date": "2026-08-15",
       "authors": [],
       "doi": ""
     },
@@ -588,7 +589,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2021-002909-10/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-08-14",
+      "date": "2026-08-15",
       "authors": [],
       "doi": ""
     },
@@ -597,7 +598,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2015-000550-37/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-08-14",
+      "date": "2026-08-15",
       "authors": [],
       "doi": ""
     },
@@ -606,7 +607,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2021-000041-40/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-08-14",
+      "date": "2026-08-15",
       "authors": [],
       "doi": ""
     },
@@ -615,7 +616,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2020-000829-55/DK",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-08-14",
+      "date": "2026-08-15",
       "authors": [],
       "doi": ""
     },
@@ -624,7 +625,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2020-002790-94/SE",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-08-14",
+      "date": "2026-08-15",
       "authors": [],
       "doi": ""
     },
@@ -633,7 +634,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2021-006200-33/FI",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-08-14",
+      "date": "2026-08-15",
       "authors": [],
       "doi": ""
     },
@@ -642,7 +643,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2019-004812-73/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-08-14",
+      "date": "2026-08-15",
       "authors": [],
       "doi": ""
     },
@@ -651,7 +652,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2022-002369-14/BE",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-08-14",
+      "date": "2026-08-15",
       "authors": [],
       "doi": ""
     },

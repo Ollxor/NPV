@@ -1,6 +1,66 @@
 {
   "items": [
     {
+      "title": "LSD therapy: A few hundred meters from where it began.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42600572/",
+      "source": "PubMed",
+      "date": "2026-Aug-14",
+      "authors": [
+        "Müller Felix",
+        "Becker Anna M",
+        "Böhlke Christopher"
+      ],
+      "doi": "10.1016/j.medj.2026.101233",
+      "summary_en": "Randomized trial of LSD-assisted therapy for major depression conducted in Basel, near LSD's synthesis site. Study compared high-dose versus low-dose LSD paired with supportive psychotherapy. Results reflect on treatment outcomes, extended dosing sessions, and remaining research questions.",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "rct",
+      "substances": [
+        "lsd"
+      ],
+      "added_at": "2026-08-15T07:05:36.282945+00:00"
+    },
+    {
+      "title": "The application of esketamine in cancer-related depressive states: attention from mechanisms to clinical translation.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42597205/",
+      "source": "PubMed",
+      "date": "2026-07-30",
+      "authors": [
+        "Chen Liangju",
+        "Chen Yonghua",
+        "Zhao Ying"
+      ],
+      "doi": "10.3389/fpsyt.2026.1781915",
+      "summary_en": "The application of esketamine in cancer-related depressive states: attention from mechanisms to clinical translation.",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "review",
+      "substances": [
+        "ketamine"
+      ],
+      "added_at": "2026-08-15T07:05:36.282945+00:00"
+    },
+    {
+      "title": "Intranasal esketamine for ECT-refractory bipolar depression: a case report.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42597507/",
+      "source": "PubMed",
+      "date": "2026-07-30",
+      "authors": [
+        "Abbas Muhammad",
+        "Kallas Bruno",
+        "Garris Max"
+      ],
+      "doi": "10.3389/fpsyt.2026.1890002",
+      "summary_en": "Case report: A 52-year-old woman with ECT-refractory bipolar depression showed significant symptom improvement with intranasal esketamine. After dose reduction, symptoms returned but resolved upon reinitiation of treatment. Well tolerated with minimal side effects and no manic episodes. Further research needed to establish efficacy in treatment-resistant bipolar depression.",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "case_report",
+      "substances": [
+        "ketamine"
+      ],
+      "added_at": "2026-08-15T07:05:36.282945+00:00"
+    },
+    {
       "title": "Ketamine assisted psychotherapy to reduce chronic neuropathic pain: A mixed-methods randomized pilot trial.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42594864/",
       "source": "PubMed",

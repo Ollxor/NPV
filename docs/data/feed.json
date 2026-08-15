@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-14T07:58:38.906321+00:00",
+  "generated_at": "2026-08-15T07:06:35.782524+00:00",
   "items": [
     {
       "title": "Blinding integrity in psychedelic research: Evidence from a comparative randomized controlled trial of psilocybin, MDMA, and methylphenidate in healthy volunteers",
@@ -32,6 +32,37 @@
         "mdma"
       ],
       "added_at": "2026-07-09T10:03:12.956794+00:00"
+    },
+    {
+      "title": "LSD therapy: A few hundred meters from where it began.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42600572/",
+      "source": "PubMed",
+      "date": "2026-Aug-14",
+      "authors": [
+        "Müller Felix",
+        "Becker Anna M",
+        "Böhlke Christopher"
+      ],
+      "doi": "10.1016/j.medj.2026.101233",
+      "summaries": {
+        "en": "Randomized trial of LSD-assisted therapy for major depression conducted in Basel, near LSD's synthesis site. Study compared high-dose versus low-dose LSD paired with supportive psychotherapy. Results reflect on treatment outcomes, extended dosing sessions, and remaining research questions.",
+        "sv": "Randomiserad studie av LSD-assisterad terapi för svår depression genomförd i Basel, nära där LSD först syntesiserades. Studien jämförde höga doser mot låga doser psykedelika tillsammans med stödjande psykoterapi. Resultaten diskuterar behandlingseffekter, långa sessionsdagar och återstående forskningsfrågor.",
+        "no": "Randomisert studie av LSD-assistert terapi for alvorlig depresjon gjennomført i Basel, nær der LSD først ble syntetisert. Studien sammenlignet høye doser med lave doser psykedelika kombinert med støttende psykoterapi. Resultatene reflekterer over behandlingseffekter, lange dosedager og gjenstående usikkerhet.",
+        "da": "Randomiseret studie af LSD-assisteret terapi for alvorlig depression gennemført i Basel, tæt på hvor LSD først blev syntetiseret. Studien sammenlignede høje doser med lave doser psykedelika kombineret med støttende psykoterapi. Resultaterne reflekterer behandlingseffekter, lange dosisdage og tilbageværende usikkerhed.",
+        "fi": "Satunnaistettu tutkimus psykedeeleillä assistoidusta terapiasta vakavaan masennukseen Baselissa, lähellä LSD:n ensimmäisen synteesipaikan. Tutkimus vertaili korkeita annoksia mataliin annoksiin yhdessä tukevan psykoterapian kanssa. Tulokset käsittelevät hoitovaikutuksia, pitkiä istuntopäiviä ja jäljellä olevaa epävarmuutta.",
+        "is": "Handahófstilraunir á lysergísýru (LSD) ásamt meðferð fyrir alvarlegri þunglyndi framkvæmd í Basel, nálægt því sem LSD var fyrst framleitt. Rannsóknin blikti háa skammta við lága skammta sálfræðivirkra efna ásamt stuðningi þerapíu. Niðurstöður endurskoðuðu meðferðaráhrif, langa meðferðadaga og ógert vísindi.",
+        "et": "Randomiseeritud uuring psühhedeelide abil toetatud teraapiast raskes depressioonis, mis viidi läbi Baseli linnas, kus LSD esmakordselt sünteesiti. Uuringus võrreldi kõrgeid doose madalate doosidega koos tugiva psühholoogilise teraapiaga. Tulemused käsitlevad ravi efektiivsust, pikki teraapiaistungeid ja lahendamata küsimusi.",
+        "lv": "Randomizēts pētījums par psihedelikas atbalstītu terapiju smagai depresija Bāzelē, netālu no vietas, kur LSD pirmo reizi tika sintezēts. Pētījumā salīdzinātas augstas devas ar zemām devām kombinācijā ar atbalstošu psihoterapiju. Rezultāti atspoguļo ārstēšanas efektivitāti, ilgas dozēšanas sesijas un atlikušos jautājumus.",
+        "lt": "Randomizuotas tyrimas psichedelinių medžiagų su psichoterapija sergantiems sunkia depresija Bazėlyje, netoli vietos, kur pirmą kartą buvo sintetintas LSD. Tyrime lygintos aukštos dozės su žemomis dozėmis, sujungtos su suramanti psichoterapija. Rezultatai apima gydymo efektyvumą, ilgas dozavimo sesijas ir likusius neaiškumus."
+      },
+      "notable": false,
+      "notable_reasons": null,
+      "relevance_score": 4,
+      "study_type": "rct",
+      "substances": [
+        "lsd"
+      ],
+      "added_at": "2026-08-15T07:05:36.282945+00:00"
     },
     {
       "title": "Ketamine assisted psychotherapy to reduce chronic neuropathic pain: A mixed-methods randomized pilot trial.",
@@ -1907,37 +1938,6 @@
       "study_type": "observational",
       "substances": [
         "ketamine"
-      ],
-      "added_at": "2026-08-01T12:00:00+00:00"
-    },
-    {
-      "title": "A phase 2 uncontrolled, open-label study of intranasal BPL-003 (5-methoxy-",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41761045/",
-      "source": "PubMed",
-      "date": "2026-Aug",
-      "authors": [
-        "Roberts Claire",
-        "Seynaeve Mathieu",
-        "Ermakova Anna O"
-      ],
-      "doi": "10.1177/02698811261420087",
-      "summaries": {
-        "en": "Phase 2a open-label trial of intranasal BPL-003 (5-methoxy-DMT) in 12 treatment-resistant depression patients. Single 10 mg dose showed rapid symptom improvement: mean MADRS score reduction of 12.2-13.0 points sustained over 12 weeks, with 83% responders and 64% reaching remission. Safety profile acceptable; mild-to-moderate adverse events predominant (nausea, nasal discomfort), one severe hypertension episode resolved within observation period. Results warrant further controlled investigation.",
-        "sv": "Fas 2a öppen fas-studie av intranasal BPL-003 (5-metoxi-DMT) hos 12 patienter med behandlingsresistent depression. En enda 10 mg dos visade snabb symptomlindring: genomsnittlig MADRS-poängreduktion på 12,2-13,0 poäng som bibehölls över 12 veckor, med 83% responders och 64% i remission. Säkerhetsprofilen var acceptabel; milda till måttliga biverkningar var dominerande (illamående, näsobesvär), en svår högt blodtrycksepisod löste sig inom observationstiden. Resultaten motiverar vidare kontrollerad forskning.",
-        "no": "Fase 2a åpen studie av intranasal BPL-003 (5-metoksy-DMT) hos 12 pasienter med behandlingsresistent depresjon. En enkelt 10 mg dose viste rask symptomforbedring: gjennomsnittlig MADRS-poengreduksjon på 12,2-13,0 poeng opprettholdt over 12 uker, med 83% respondere og 64% i remisjon. Sikkerhetsprofilen var akseptabel; milde til moderate bivirkninger dominerte (kvalme, nasalt ubehag), en alvorlig blodtrykkepisode løste seg innen observasjonsperioden. Resultatene motiverer videre kontrollert forskning.",
-        "da": "Fase 2a åben undersøgelse af intranasal BPL-003 (5-metoksy-DMT) hos 12 patienter med behandlingsresistent depression. En enkelt 10 mg dosis viste hurtig symptombedring: gennemsnitlig MADRS-score-reduktion på 12,2-13,0 point opretholdt over 12 uger, med 83% respondenter og 64% i remission. Sikkerhedsprofilen var acceptabel; milde til moderate bivirkninger dominerede (kvalme, næseubehag), en alvorlig blodtryksepisode løste sig inden for observationsperioden. Resultaterne retfærdiggør yderligere kontrolleret forskning.",
-        "fi": "Fase 2a avoin tutkimus intranaalisesta BPL-003:sta (5-metoksy-DMT) 12 hoitoon vastustavan masennuksen potilaille. Yksittäinen 10 mg annos osoitti nopean oireen helpottumisen: MADRS-pistemäärän keskimääräinen väheneminen 12,2–13,0 pistettä yli 12 viikon, 83% vastaajia ja 64% remissiossa. Turvallisuusprofiili hyväksyttävä; lievät ja kohtalaiset haittavaikutukset hallitsevat (pahoinvointi, nenän epämukavuus), yksi vakava verenpainetapahtuma palautui havainnointijakson aikana. Tulokset oikeuttavat lisäkontrolloidun tutkimuksen.",
-        "is": "Áfangi 2a opin rannsókn á intranasal BPL-003 (5-metoxy-DMT) hjá 12 sjúklingum með meðferðarþolna þunglyndi. Ein 10 mg skammtur sýndi hraðan bata: meðaltalsminnkun MADRS-stigs um 12,2–13,0 stig sem viðhaldið var í 12 vikur, með 83% svöruðum og 64% í endalokum. Öryggissnið var ásættanlegt; væg til meðalþung aukaverkanir ráðandi (kvalir, óþægindi í nefi), ein alvarlegt blóðþrystuatburð leystist innan athuganarruna. Niðurstöður réttlæta frekari stýrða rannsókn.",
-        "et": "Faas 2a avatud uuring intranaasaalsest BPL-003:st (5-metoksi-DMT) 12 raviravastase depressiooni patsiendi puhul. Üksik 10 mg annus näitas kiiret sümptomite paranemist: MADRS-skoori keskmine vähenemine 12,2–13,0 punkti kogu 12 nädala jooksul, 83% vastajaid ja 64% remissioonis. Ohutusprofiil oli vastuvõetav; kerged kuni mõõdukad kõrvaltoimed olid domineerivad (iiveldus, nenä diskomfort), üks rasketahuline vererõhusamm normaalsus taastus vaatluse perioodil. Tulemused õigustavad edasist kontrollitud uuringut.",
-        "lv": "2. fāzes atvērts pētījums par intranaziālo BPL-003 (5-metoksi-DMT) 12 pacientiem ar ārstējamoreistīgu depresiju. Viena 10 mg doza parādīja ātru simptomu uzlabošanos: vidējais MADRS rādītāja samazinājums par 12,2–13,0 punktiem, kas saglabājās 12 nedēļu laikā, ar 83% respondentiem un 64% remisijā. Drošības profils bija pieņemams; vieglas un vidējas blakusparādības dominēja (slikta pašsajūta, deguna diskomforts), viena nopietna asinspiediena epizode atjaunojās novērošanas periodā. Rezultāti pamatojumu turpmākam kontrolētam pētījumam.",
-        "lt": "2 faze atvirta studija apie intranzalinę BPL-003 (5-metoksi-DMT) 12 pacientams, kurių depresija nepajėgi gydymui. Viena 10 mg dozė parodė greitą simptomų pagerinimą: vidutinis MADRS balo sumažėjimas 12,2–13,0 balų, išlaikytas per 12 savaičių, 83% respondentų ir 64% remisijoje. Saugumo profilis priimtinas; lengvi ir vidutiniai šalutiniai poveikiai dominavo (pykinimas, nosies diskomfortas), viena sunki kraujospūdžio epizoda grįžo per stebėjimo laikotarpį. Rezultatai pagrindžia tolesnį kontroliuojamą tyrimą."
-      },
-      "notable": false,
-      "notable_reasons": null,
-      "relevance_score": 4,
-      "study_type": "other",
-      "substances": [
-        "other"
       ],
       "added_at": "2026-08-01T12:00:00+00:00"
     }

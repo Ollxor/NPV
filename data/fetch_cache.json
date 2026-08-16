@@ -1,7 +1,18 @@
 {
-  "date": "2026-08-15",
-  "cached_at": "2026-08-15T06:33:09.085314+00:00",
+  "date": "2026-08-16",
+  "cached_at": "2026-08-16T06:35:06.173850+00:00",
   "articles": [
+    {
+      "title": "Rapid Symptom Reduction Following Intramuscular Ketamine in Refractory Obsessive-Compulsive Disorder: A Case Report.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42602667/",
+      "source": "PubMed",
+      "abstract": "Obsessive-compulsive disorder (OCD) is a chronic psychiatric condition that frequently presents with comorbid depressive disorders. For patients exhibiting treatment-refractory OCD and concurrent depressive disorder(s), there is growing clinical interest in the noncompetitive N-methyl-D-aspartate (NMDA) receptor antagonist ketamine as a rapid-acting intervention. This case report describes a 27-year-old female patient with severe, treatment-refractory OCD and comorbid depressive symptoms, detailing her response to a single intramuscular (IM) ketamine administration. The patient's primary compulsion was that of handwashing, which she would partake in for ~6 h per handwashing session at the time of the first ketamine administration. This occurred daily over a 3.5-month period, wherein a single day would consist of up to 18 total hours of handwashing. These extreme compulsions resulted in severe in-home isolation, precluding in-person psychotherapy and employment. Despite ongoing management by an independent telepsychiatrist, the patient reported no symptom relief from her prescribed regimen of fluoxetine (80 mg) and alprazolam (1 mg, four times daily)-a pharmacotherapeutic approach that may have been clinically suboptimal given the potential for high-dose benzodiazepines to exacerbate obsessive-compulsive symptoms. Given the severity of her condition, she subsequently pursued treatment at an unaffiliated outpatient ketamine clinic. Following a single IM ketamine administration, the patient experienced an acute, ~97% reduction in handwashing duration (from 6 h sessions to 5-10 min sessions) sustained over a 10-day period. This observation highlights an acute change in the patient's primary compulsive behavior. However, concurrent pharmacotherapy may confound the results, and prospective controlled trials are required to fully evaluate the efficacy of this intervention.",
+      "date": "2026-08-14",
+      "authors": [
+        "Angel Maxwell"
+      ],
+      "doi": "10.1155/crps/6450306"
+    },
     {
       "title": "LSD therapy: A few hundred meters from where it began.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42600572/",
@@ -243,18 +254,6 @@
         "Price Rebecca Byrne"
       ],
       "doi": "10.1176/appi.focus.20250048"
-    },
-    {
-      "title": "Mechanisms of Action and Change in Psychedelic-Assisted Therapies: A Holistic Framework for Ethical, Competent Clinical Care.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42576923/",
-      "source": "PubMed",
-      "abstract": "Psychedelic-assisted therapies (PATs) are emerging as novel combination treatments for selected stress- and trauma-related psychiatric conditions, particularly in cases where existing pharmacologic and psychotherapeutic approaches have provided limited benefit. Although current mechanistic models emphasize neuroplasticity, large-scale network changes, and modulation of neurotransmitter systems, these are insufficient to explain how therapeutic change emerges within the broader context of preparation, altered states of consciousness, interpersonal relationships, meaning-making, and integration. The authors introduce a non-neuroreductionist, multilevel framework that distinguishes mechanisms of action from mechanisms of change, highlighting how neuroplasticity, memory updating, relational processes, contextual factors, and meaning-making may interact to support therapeutic change. They draw on relevant evidence and clinical theory to describe how these treatments may create time-limited windows that support experiential relearning. Ethical considerations; limitations; and implications for practice, including the possibility that vulnerability may be increased when safeguards are inadequate, are discussed. Guidance is provided for clinicians who encounter PATs in practice.",
-      "date": "2026-07-08",
-      "authors": [
-        "Averill Lynnette A",
-        "Neitzke-Spruill Logan"
-      ],
-      "doi": "10.1176/appi.focus.20260006"
     },
     {
       "title": "The Psychedelic Practitioner Issue 6: Preparedness (People)",
@@ -571,7 +570,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2018-004480-31/CZ",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-08-15",
+      "date": "2026-08-16",
       "authors": [],
       "doi": ""
     },
@@ -580,7 +579,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2020-005037-32/CZ",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-08-15",
+      "date": "2026-08-16",
       "authors": [],
       "doi": ""
     },
@@ -589,7 +588,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2021-002909-10/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-08-15",
+      "date": "2026-08-16",
       "authors": [],
       "doi": ""
     },
@@ -598,7 +597,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2015-000550-37/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-08-15",
+      "date": "2026-08-16",
       "authors": [],
       "doi": ""
     },
@@ -607,7 +606,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2021-000041-40/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-08-15",
+      "date": "2026-08-16",
       "authors": [],
       "doi": ""
     },
@@ -616,7 +615,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2020-000829-55/DK",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-08-15",
+      "date": "2026-08-16",
       "authors": [],
       "doi": ""
     },
@@ -625,7 +624,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2020-002790-94/SE",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-08-15",
+      "date": "2026-08-16",
       "authors": [],
       "doi": ""
     },
@@ -634,7 +633,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2021-006200-33/FI",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-08-15",
+      "date": "2026-08-16",
       "authors": [],
       "doi": ""
     },
@@ -643,7 +642,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2019-004812-73/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-08-15",
+      "date": "2026-08-16",
       "authors": [],
       "doi": ""
     },
@@ -652,7 +651,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2022-002369-14/BE",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-08-15",
+      "date": "2026-08-16",
       "authors": [],
       "doi": ""
     },

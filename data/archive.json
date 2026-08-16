@@ -1,6 +1,24 @@
 {
   "items": [
     {
+      "title": "Rapid Symptom Reduction Following Intramuscular Ketamine in Refractory Obsessive-Compulsive Disorder: A Case Report.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42602667/",
+      "source": "PubMed",
+      "date": "2026-08-14",
+      "authors": [
+        "Angel Maxwell"
+      ],
+      "doi": "10.1155/crps/6450306",
+      "summary_en": "Case report of a 27-year-old female with severe, treatment-refractory OCD and comorbid depression. Despite high-dose fluoxetine and benzodiazepines, the patient experienced extreme handwashing compulsions (up to 18 hours daily). A single intramuscular ketamine administration resulted in rapid symptom reduction, enabling functional recovery.",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "case_report",
+      "substances": [
+        "ketamine"
+      ],
+      "added_at": "2026-08-16T07:07:49.974213+00:00"
+    },
+    {
       "title": "LSD therapy: A few hundred meters from where it began.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42600572/",
       "source": "PubMed",

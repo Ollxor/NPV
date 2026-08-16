@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-15T07:06:35.782524+00:00",
+  "generated_at": "2026-08-16T07:08:06.086023+00:00",
   "items": [
     {
       "title": "Blinding integrity in psychedelic research: Evidence from a comparative randomized controlled trial of psilocybin, MDMA, and methylphenidate in healthy volunteers",
@@ -32,6 +32,35 @@
         "mdma"
       ],
       "added_at": "2026-07-09T10:03:12.956794+00:00"
+    },
+    {
+      "title": "Rapid Symptom Reduction Following Intramuscular Ketamine in Refractory Obsessive-Compulsive Disorder: A Case Report.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42602667/",
+      "source": "PubMed",
+      "date": "2026-08-14",
+      "authors": [
+        "Angel Maxwell"
+      ],
+      "doi": "10.1155/crps/6450306",
+      "summaries": {
+        "en": "Case report of a 27-year-old female with severe, treatment-refractory OCD and comorbid depression. Despite high-dose fluoxetine and benzodiazepines, the patient experienced extreme handwashing compulsions (up to 18 hours daily). A single intramuscular ketamine administration resulted in rapid symptom reduction, enabling functional recovery.",
+        "sv": "Fallrapport om en 27-årig kvinna med svår, behandlingsresistent OCD och komorbid depression. Trots högdos fluoxetin och bensodiazepiner upplevde patienten extrema tvångsbeteenden för handtvätt (upp till 18 timmar dagligen). En enda intramuskulär ketamininjektion ledde till snabb symtomlindring.",
+        "no": "Pasientrapport om en 27 år gammel kvinne med alvorlig, behandlingsresistent OCD og komorbid depresjon. Til tross for høydose fluoksetin og benzodiazepiner opplevde pasienten ekstreme tvangshandlinger for håndvask (opptil 18 timer daglig). En enkelt intramuskulær ketamininjektion førte til rask symptomlindring.",
+        "da": "Patientrapport om en 27-årig kvinde med svær, behandlingsresistent OCD og komorbiditeret depression. På trods af høj-dosis fluoxetin og benzodiazepiner oplevede patienten ekstreme tvangssymptomer for håndvask (op til 18 timer dagligt). En enkelt intramuskulær ketaminadministration resulterede i hurtig symptomreduktion.",
+        "fi": "Potilastapaus 27-vuotiaasta naisesta, jolla on vakava hoitoresistentti OCD ja samanaikainen masennus. Fluoksetiinin ja bentsodiatsepiiniksia huolimatta potilas koki äärimmäisiä pakko-oireita käsien pesusta (jopa 18 tuntia päivässä). Yksi lihaksensisuinen ketamiiniannos johti nopeaan oireen lievitykseen.",
+        "is": "Sjúkratilfelli um 27 ára gömul kona með alvarlega, meðferðarþola OCD og samanæmandi þunglyndi. Þrátt fyrir há-skammta fluoxetín og benzodiazepín upplifði sjúklingur öfgafulla þvingunarathöfn fyrir höndunarsopaðir (allt að 18 klukkustundir daglega). Ein vöðvakjöt ketamín inngjöf leiddi til hraðrar einkennaúrbóta.",
+        "et": "Patiendikaasus 27-aastase naisega, kellel on raskesti ravitav OCD ja kaasuv depressioon. Vaatamata kõrgetele fluoksetiini ja bentsodiasepiini doosidele kaotas patiendi äärmuslikke sundasid käte pesemise näol (kuni 18 tundi päevas). Üks intramuskulaarne ketamiinimanustus viis kiirele sümptomite vähenemisele.",
+        "lv": "Pacienta gadījums par 27 gadus veco sievieti ar smagnu, ārstēšanai rezistenti OCD un līdz pastāvošu depresiju. Neskatoties uz augstām fluoksietīna un benzodiazepiīnu devām, pacienta piedzīvoja galējus obsesīvi-kompulsīvus simptoma nomazgāšanas gadījumos (līdz 18 stundas dienā). Viena intramuskulāra ketamīna ievadīšana noveda pie ātra simptomu mazināšanās.",
+        "lt": "Paciento atvejis apie 27 metų moterį su sunkia, atsparia gydymui OCD ir sulyginę depresija. Nepaisant aukštų fluoksetino ir benzodiazepinokamieno dozių, pacientas patyrė kraštutines obsesines-kompulsines rankų plaujmo simptoma (iki 18 valandų per dieną). Vienas intramuskulinis ketamino введения dovėse greitus simptomu sumažėjimą."
+      },
+      "notable": false,
+      "notable_reasons": null,
+      "relevance_score": 3,
+      "study_type": "case_report",
+      "substances": [
+        "ketamine"
+      ],
+      "added_at": "2026-08-16T07:07:49.974213+00:00"
     },
     {
       "title": "LSD therapy: A few hundred meters from where it began.",
@@ -1907,37 +1936,6 @@
       "study_type": "review",
       "substances": [
         "psilocybin"
-      ],
-      "added_at": "2026-08-01T12:00:00+00:00"
-    },
-    {
-      "title": "Detecting neuroplastic effects induced by ketamine in healthy human subjects: A multimodal approach.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41863255/",
-      "source": "PubMed",
-      "date": "2026-Aug",
-      "authors": [
-        "Agnorelli Claudio",
-        "Peill Joseph",
-        "Sawicka Gabriela"
-      ],
-      "doi": "10.1177/0271678X261431447",
-      "summaries": {
-        "en": "A multimodal PET/MRI study examined neuroplastic changes following a single intravenous ketamine dose (1 mg/kg) in 11 healthy male participants. Brain scans were conducted before and 1-8 days post-administration to assess structural and functional alterations induced by this psychedelic compound.",
-        "sv": "En multimodal PET/MRI-studie undersökte neuroplastiska förändringar efter en enstaka intravenös ketamindos (1 mg/kg) hos 11 friska män. Hjärnscannningar genomfördes före och 1-8 dagar efter administreringen för att bedöma strukturella och funktionella förändringar orsakade av denna psykedelisk substans.",
-        "no": "En multimodal PET/MRI-studie undersøkte neuroplastiske endringer etter en enkelt intravenøs ketamindose (1 mg/kg) hos 11 friske menn. Hjernescanninger ble utført før og 1-8 dager etter administrering for å vurdere strukturelle og funksjonelle endringer forårsaket av dette psykedel stoff.",
-        "da": "Et multimodalt PET/MRI-studie undersøgte neuroplastiske ændringer efter en enkelt intravenøs ketamindosis (1 mg/kg) hos 11 raske mænd. Hjernescannninger blev foretaget før og 1-8 dage efter administration for at vurdere strukturelle og funktionelle ændringer induceret af dette psykedeliske stof.",
-        "fi": "Multimodaalinen PET/MRI-tutkimus tutki neuroplastitisuuden muutoksia yhden laskimonsisäisen ketamiinannnoksen (1 mg/kg) jälkeen 11 terveellä miehellä. Aivojen kuvantaminen tehtiin ennen ja 1-8 päivää annostelun jälkeen arvioidakseen tämän psykedeelisen aineen aiheuttamia rakenteellisia ja toiminnallisia muutoksia.",
-        "is": "Marglæg PET/MRI-rannsókn skoðaði breytingar á heila sem ketamín framkallaði (1 mg/kg, beint í æð) hjá 11 heilbrigðum körlum. Heilakort voru tekin fyrir og 1-8 dögum eftir gjöf til að meta skipulagslegar og virkni breytingar sem þessi sálkynjarefni framkallaði.",
-        "et": "Multimodaalne PET/MRI-uuringus uuriti ketamiini neuroplaastilisi mõjusid (1 mg/kg, veeni kaudu) 11 tervel mehel. Ajukaardistamist tehti enne ja 1-8 päeva pärast manustamist, et hinnata selle psühhedeelilise aine poolt põhjustatud struktuurseid ja funktsionaalset muutusi.",
-        "lv": "Multimodāls PET/MRI pētījums pārbaudīja ketamīna neuroplastitātes efektus (1 mg/kg, intravenozi) 11 veseliem vīriešiem. Smadzeņu skenējumi tika veikti pirms un 1-8 dienas pēc ievadīšanas, lai novērtētu šī psihedēliskā vielas izraisītās struktūrālās un funkcionālās izmaiņas.",
-        "lt": "Multimodalinis PET/MRI tyrimas vertino ketamino neuroplastitiškus efektus (1 mg/kg, intraveninis) 11 sveikiems vyrams. Smegenų skenavimas buvo atliktas prieš ir 1-8 dienas po skyrimo, siekiant įvertinti šios psichedelinės medžiagos sukeltus struktūrinius ir funkcinius pokyčius."
-      },
-      "notable": false,
-      "notable_reasons": null,
-      "relevance_score": 4,
-      "study_type": "observational",
-      "substances": [
-        "ketamine"
       ],
       "added_at": "2026-08-01T12:00:00+00:00"
     }

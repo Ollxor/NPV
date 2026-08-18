@@ -1,6 +1,65 @@
 {
   "items": [
     {
+      "title": "[(Es)ketamine: practice update].",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42606558/",
+      "source": "PubMed",
+      "date": "2026-08-17",
+      "authors": [
+        "Vestring Stefan",
+        "Domschke Katharina",
+        "Normann Claus"
+      ],
+      "doi": "10.1007/s00115-026-02001-1",
+      "summary_en": "Ketamine, long used as an anesthetic, showed antidepressant effects at subanesthetic doses in treatment-resistant depression around 2000, establishing glutamatergic antidepressant treatment. Intranasal esketamine is now approved as a standardized, reimbursable option combined with SSRIs/SNRIs, requiring structured clinical administration and monitoring, replacing off-label intravenous use.",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "other",
+      "substances": [
+        "ketamine"
+      ],
+      "added_at": "2026-08-18T07:12:49.772937+00:00"
+    },
+    {
+      "title": "Clinical EEG In Modern Psychiatry: Diagnostics and Prediction.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42606304/",
+      "source": "PubMed",
+      "date": "2026-08-17",
+      "authors": [
+        "Pogarell Oliver",
+        "Olbrich Sebastian"
+      ],
+      "doi": "10.1177/15500594261471242",
+      "summary_en": "Clinical EEG In Modern Psychiatry: Diagnostics and Prediction.",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "review",
+      "substances": [
+        "ketamine"
+      ],
+      "added_at": "2026-08-18T07:12:49.772937+00:00"
+    },
+    {
+      "title": "Defining 'psychedelic'.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42605589/",
+      "source": "PubMed",
+      "date": "2026-08-17",
+      "authors": [
+        "Ostrand A E",
+        "Nour M M",
+        "Timmermann C"
+      ],
+      "doi": "10.1177/02698811261464986",
+      "summary_en": "Humphry Osmond introduced the term 'psychedelic' in 1956, combining Greek roots 'psyche' (soul) and 'delic' (to manifest or illuminate). This etymological foundation established the linguistic basis for describing substances that alter consciousness and perception.",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "other",
+      "substances": [
+        "other"
+      ],
+      "added_at": "2026-08-18T07:12:49.772937+00:00"
+    },
+    {
       "title": "Rapid Symptom Reduction Following Intramuscular Ketamine in Refractory Obsessive-Compulsive Disorder: A Case Report.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42602667/",
       "source": "PubMed",

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-16T07:08:06.086023+00:00",
+  "generated_at": "2026-08-18T07:13:42.726670+00:00",
   "items": [
     {
       "title": "Blinding integrity in psychedelic research: Evidence from a comparative randomized controlled trial of psilocybin, MDMA, and methylphenidate in healthy volunteers",
@@ -32,6 +32,98 @@
         "mdma"
       ],
       "added_at": "2026-07-09T10:03:12.956794+00:00"
+    },
+    {
+      "title": "[(Es)ketamine: practice update].",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42606558/",
+      "source": "PubMed",
+      "date": "2026-08-17",
+      "authors": [
+        "Vestring Stefan",
+        "Domschke Katharina",
+        "Normann Claus"
+      ],
+      "doi": "10.1007/s00115-026-02001-1",
+      "summaries": {
+        "en": "Ketamine, long used as an anesthetic, showed antidepressant effects at subanesthetic doses in treatment-resistant depression around 2000, establishing glutamatergic antidepressant treatment. Intranasal esketamine is now approved as a standardized, reimbursable option combined with SSRIs/SNRIs, requiring structured clinical administration and monitoring, replacing off-label intravenous use.",
+        "sv": "Ketamin, långt använt som anestetikum, visade antidepressiv effekt vid subanestesiska doser vid behandlingsresistent depression omkring år 2000, vilket etablerade glutamatergt antidepressiv behandling. Intranasalt esketamin är nu godkänt som standardiserad, ersättningsbar option i kombination med SSRI/SNRI, kräver strukturerad klinisk administration och övervakning.",
+        "no": "Ketamin, lenge brukt som anestesikum, viste antidepressiv effekt ved subanestesiske doser ved behandlingsresistent depresjon rundt år 2000, og etablerte glutamaterge antidepressive behandlinger. Intranasalt esketamin er nå godkjent som standardisert, refunderbar opsjon kombinert med SSRI/SNRI, krever strukturert klinisk administrering og overvåking.",
+        "da": "Ketamin, længe brugt som anæstetikum, viste antidepressiv effekt ved subanæstetiske doser ved behandlingsresistent depression omkring år 2000 og etablerede glutamaterge antidepressive behandlinger. Intranasalt esketamin er nu godkendt som standardiseret, refunderbar mulighed kombineret med SSRI/SNRI, kræver struktureret klinisk administration og overvågning.",
+        "fi": "Ketamiini, pitkään käytetty anesteettisenä aineena, osoitti masennusvaikutusta alianesteettisilla annoksilla hoitoon vastustuskykoisessa masennuksessa noin vuonna 2000 ja vahvisti glutamaatergisen masennuslääkkeen käsitteen. Intranasaali esketamiini on nyt hyväksytty standardisoiduksi, korvatuksi vaihtoehdoksi yhdistettynä SSRI/SNRI:hin, vaatii strukturoitua kliinistä antamista ja seurantaa.",
+        "is": "Ketamín, lengi notað sem svæfnlyf, sýndi andþunglyndisáhrif við undirsvæfnlyndisdosir við meðferðaóviðkvæma þunglyndi um árið 2000 og stofnaði hugmyndina um glútamatargan andþunglyndismeðferð. Innhnappsesketamín er nú samþykkt sem staðlað, endurgreidd valkostur sameinað SSRI/SNRI, krefst skipulagðrar klínískrar stjórn og eftirlits.",
+        "et": "Ketamiin, pikka aega kasutatud anesteetikumina, näitas depressioonidevastast toimet subanesteesilisel dosil raviresistentse depressiooni puhul umbes aastal 2000 ning tegi kindlaks glutamaatergilise depressioonidevastase ravi. Intranasaalne esketamiin on nüüd heaks kiidetud standardiseeritud, kompenseeritav valik koos SSRI/SNRI-ga, nõuab struktureeritud kliinilist manustamist ja jälgimist.",
+        "lv": "Ketamīns, ilgi lietots kā anestētisks līdzeklis, parādīja antidepresīvu efektu subanestetiski zemās dozās ārstējamībai rezistentā depresijā ap 2000. gadu, nosakot glutamatērgu antidepresīvu ārstēšanu. Intranazāls esketamīns tagad ir apstiprināts kā standartizēts, atlīdzinams iespēja kombinācijā ar SSRI/SNRI, prasot strukturētu klīnisku administrēšanu un uzraudzību.",
+        "lt": "Ketaminas, ilgą laiką naudojamas kaip anestetikas, parodė antidepresyvų poveikį subanestetiniu dydžiu gydant depresyvą, atsparia gydymui, apie 2000 m., įtvirtindamas glutamatinį antidepresyvinį gydymą. Intranazinis esketaminas dabar patvirtintas kaip standartizuota, atlygintina galimybė su SSRI/SNRI, reikalaujanti struktūrizuoto klinio administravimo ir stebėjimo."
+      },
+      "notable": false,
+      "notable_reasons": null,
+      "relevance_score": 4,
+      "study_type": "other",
+      "substances": [
+        "ketamine"
+      ],
+      "added_at": "2026-08-18T07:12:49.772937+00:00"
+    },
+    {
+      "title": "Clinical EEG In Modern Psychiatry: Diagnostics and Prediction.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42606304/",
+      "source": "PubMed",
+      "date": "2026-08-17",
+      "authors": [
+        "Pogarell Oliver",
+        "Olbrich Sebastian"
+      ],
+      "doi": "10.1177/15500594261471242",
+      "summaries": {
+        "en": "Clinical EEG In Modern Psychiatry: Diagnostics and Prediction.",
+        "sv": "Clinical EEG In Modern Psychiatry: Diagnostics and Prediction.",
+        "no": "Clinical EEG In Modern Psychiatry: Diagnostics and Prediction.",
+        "da": "Clinical EEG In Modern Psychiatry: Diagnostics and Prediction.",
+        "fi": "Clinical EEG In Modern Psychiatry: Diagnostics and Prediction.",
+        "is": "Clinical EEG In Modern Psychiatry: Diagnostics and Prediction.",
+        "et": "Clinical EEG In Modern Psychiatry: Diagnostics and Prediction.",
+        "lv": "Clinical EEG In Modern Psychiatry: Diagnostics and Prediction.",
+        "lt": "Clinical EEG In Modern Psychiatry: Diagnostics and Prediction."
+      },
+      "notable": false,
+      "notable_reasons": null,
+      "relevance_score": 3,
+      "study_type": "review",
+      "substances": [
+        "ketamine"
+      ],
+      "added_at": "2026-08-18T07:12:49.772937+00:00"
+    },
+    {
+      "title": "Defining 'psychedelic'.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42605589/",
+      "source": "PubMed",
+      "date": "2026-08-17",
+      "authors": [
+        "Ostrand A E",
+        "Nour M M",
+        "Timmermann C"
+      ],
+      "doi": "10.1177/02698811261464986",
+      "summaries": {
+        "en": "Humphry Osmond introduced the term 'psychedelic' in 1956, combining Greek roots 'psyche' (soul) and 'delic' (to manifest or illuminate). This etymological foundation established the linguistic basis for describing substances that alter consciousness and perception.",
+        "sv": "Humphry Osmond myntade termen 'psykedelisk' 1956 genom att kombinera de grekiska orden 'psyche' (själ) och 'delic' (att manifestera eller belysa). Denna etymologiska grund etablerade språklig grunden för att beskriva substanser som förändrar medvetande och perception.",
+        "no": "Humphry Osmond introduserte begrepet 'psykedelisk' i 1956 ved å kombinere greske ord 'psyche' (sjel) og 'delic' (å manifestere eller belyse). Dette etymologiske grunnlaget etablerte det språklige fundamentet for å beskrive stoffer som endrer bevissthet og persepsjon.",
+        "da": "Humphry Osmond præsenterede termen 'psykedelisk' i 1956 ved at kombinere græske ord 'psyche' (sjæl) og 'delic' (at manifestere eller belyse). Dette etymologiske grundlag etablerede det sproglige fundament for at beskrive stoffer, der ændrer bevidsthed og perception.",
+        "fi": "Humphry Osmond otti käyttöön termin 'psykedeeliset' vuonna 1956 yhdistämällä kreikkalaiset sanat 'psyche' (sielu) ja 'delic' (ilmentää tai valaista). Tämä etymologinen perusta loi kielellisen pohjan aineiden kuvaamiseen, jotka muuttavat tietoisuutta ja havaintoa.",
+        "is": "Humphry Osmond bjó til hugtakið 'psychedelic' árið 1956 með því að sameina grísk orð 'psyche' (sál) og 'delic' (að birtast eða upplýsa). Þessi etymologiska grundvöllur setti fram stærðfræðilegt vísi fyrir efni sem breyta meðvitund og skynjun.",
+        "et": "Humphry Osmond võttis kasutusele termini 'psühhedeliline' aastal 1956, ühendades kreeka sõnad 'psyche' (hing) ja 'delic' (ilmutada või valgustada). See etymoloogiline alus pani aluse ainete kirjeldamisele, mis muudavad teadlikkust ja tajumist.",
+        "lv": "Humphry Osmond ieviesa terminu 'psihedelisks' 1956. gadā, apvienojot grieķu vārdus 'psyche' (dvēsele) un 'delic' (izpaust vai apgaismot). Šis etimoloģiskais pamats izveidoja valodniecisko pamatu vielu aprakstīšanai, kas maina apziņu un uztveri.",
+        "lt": "Humphry Osmond pristatė terminą 'psichedelinis' 1956 m., sujungdamas graikų žodžius 'psyche' (siela) ir 'delic' (pasireikšti arba šviesinti). Šis etimologinis pagrindas nustatė kalbinį pagrindą medžiagoms, kurios keičia sąmonę ir suvokimą, apibūdinti."
+      },
+      "notable": false,
+      "notable_reasons": null,
+      "relevance_score": 2,
+      "study_type": "other",
+      "substances": [
+        "other"
+      ],
+      "added_at": "2026-08-18T07:12:49.772937+00:00"
     },
     {
       "title": "Rapid Symptom Reduction Following Intramuscular Ketamine in Refractory Obsessive-Compulsive Disorder: A Case Report.",
@@ -1833,109 +1925,6 @@
       "study_type": "observational",
       "substances": [
         "ketamine"
-      ],
-      "added_at": "2026-08-01T12:00:00+00:00"
-    },
-    {
-      "title": "Standardized chronic restraint stress protocols reveal dynamic evolution of behavioral adaptations in male mice: implications for translational neuroscience.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41922793/",
-      "source": "PubMed",
-      "date": "2026-Aug",
-      "authors": [
-        "Lv Zijian",
-        "Xie Qifeng",
-        "Li Kecan"
-      ],
-      "doi": "10.1038/s41380-026-03569-5",
-      "summaries": {
-        "en": "Longitudinal study in male mice comparing chronic restraint stress (CRS) protocols to model stress-induced behavioral adaptations. Short intense CRS (6h/day, 3 days) induced persistent avoidance and repetitive behaviors, while prolonged CRS (2h/day, 10-14 days) progressively impaired reward-seeking and coping. A 10-day protocol emerged as critical threshold for comorbid avoidance and reward-processing deficits. Ketamine reversed reward-seeking impairment; paroxetine alleviated both avoidance and reward-seeking deficits.",
-        "sv": "Långsiktig studie i hanmöss som jämför protokoll för kronisk restraintstress för att modellera stressrelaterade beteendeanpassningar. Kort intensiv stress (6h/dag, 3 dagar) inducerade bestående undvikande och repetitiva beteenden, medan långvarig stress (2h/dag, 10-14 dagar) försämrade belönings- och copingbeteenden progressivt. Ett 10-dagarsprotokoll framkom som kritisk tröskel för komorbid undvikande och belöningsbearbetningsnedsättning. Ketamin reverserade belöningsdeficit; paroxetin lindrade både undvikande och belöningsdeficit.",
-        "no": "Langvarig studie hos hannmus som sammenlikner protokoller for kronisk restraintstress for å modellere stressindusert atferdstilpasning. Kort intens stress (6t/dag, 3 dagar) induserte vedvarende unngåelse og repetitiv atferd, mens langvarig stress (2t/dag, 10-14 dagar) gradvis svekket belønnings- og copingatferd. Et 10-dagers protokoll viste seg kritisk for komorbid unngåelse og belønningsbehandlingssvikt. Ketamin reverserte belønningsdefisitt; paroxetin lindret både unngåelse og belønningsdefisitt.",
-        "da": "Længerevarende studie hos hanbillekatte, der sammenlignede protokoller for kronisk tilbageholdelsesstress for at modellere stressudløste adfærdstilpasninger. Kort intensiv stress (6t/dag, 3 dage) fremkaldte vedvarende undgåelses- og gentagelsesadfærd, mens vedvarende stress (2t/dag, 10-14 dage) gradvist forringede belønnings- og copingadfærd. Et 10-dages protokol viste sig kritisk for komorbid undgåelse og belønningsbehandlingssvigt. Ketamin reverserede belønningsmangler; paroxetin lettede både undgåelses- og belønningsdeficitter.",
-        "fi": "Pitkäaikainen tutkimus urosrotilla, jossa verrattiin krooniset rajoittamisstressi-protokollia stressista aiheutuvien käyttäytymismuutosten mallintamiseksi. Lyhyt intensiivinen stressi (6h/päivä, 3 päivää) aiheutti pysyvää välttämis- ja toistokäyttäytymistä, kun taas pitkittyväinen stressi (2h/päivä, 10-14 päivää) heikkensi asteittain palkkio- ja selviytymiskäyttäytymistä. 10 päivän protokolla osoittautui kriittiseksi kynnysarvoksi komorbidille välttämis- ja palkkiokäsittelyn puutteelle. Ketamiini kääntyi palkkiopuutteet; parokseteeni helpotti sekä välttämis- että palkkiodefisiittejä.",
-        "is": "Langtímarannsókn á karlkönum hnetum þar sem borin voru saman langvinn streituprótókólar til að móta streituflutna hegðunarbreytingu. Stutt mikil streita (6 klst/dag, 3 dagar) olli viðvarandi forðun og endurtekinni hegðun, en langvinn streita (2 klst/dag, 10-14 dagar) skerðði smám saman umbunnar- og samhöfn hegðun. 10 daga prótókól kom fram sem mikilvægur þröskuldur fyrir samhliða forðun og umbunnarvinnsluslögun. Ketamín sneri við umbunnarskortum; paroxetin létti bæði forðun og umbunnarskortum.",
-        "et": "Pikaajaline uuring isaste hiirtega, kus võrreldi kroonilist piiramispõhjustatud stressi protokolle, et modelleerida stressist tingitud käitumiskohandustust. Lühike intensiivne stress (6h/päev, 3 päeva) põhjustas püsivat vältimis- ja kordusvat käitumist, samas pikendatud stress (2h/päev, 10-14 päeva) nõrgendas järk-järgult tasu- ja toimetulemiskäitumist. 10 päevane protokoll osutus kriitiliseks lävendiks komorbiidse vältimise ja tasujuhtimisvajaduse jaoks. Ketamiin pöördis tagasi tasu defitsiidi; parokseteeni leevendas nii vältimis- kui tasujuhtimise puudujääke.",
-        "lv": "Ilgtermiņa pētījums ar tēviņiem peles, salīdzinot hronisku stresu ierobežošanas protokolus, lai modelētu ar stresi saistītas uzvedības adaptācijas. Īss intensīvs stress (6 h/dienu, 3 dienas) izraisīja pastāvīgu izvairīšanos un atkārtotu uzvedību, savukārt pagarināts stress (2 h/dienu, 10-14 dienas) pakāpeniski pasliktināja atlīdzības un coping uzvedību. 10 dienu protokols izrādījās kritisks slieksnis comorbidai izvairīšanai un atlīdzības apstrādes trūkumam. Ketamīns atgriezināja atlīdzības deficītu; paroksētīns mazināja gan izvairīšanās, gan atlīdzības trūkumus.",
-        "lt": "Ilgalaikis tyrimai su samciais pelėmis, kuriame palyginti chroniniai suvaržymo streso protokolai, siekiant modeliuoti su stresu susijusias elgesio adaptacijas. Trumpas intensyvus stresas (6 val./dieną, 3 dienos) sukėlė tvarius išvengimo ir pasikartojančius elgesio modelius, o ilgalaikis stresas (2 val./dieną, 10-14 dienų) palaipsniui sutrikdė atlygį ir susidorojimo elgesį. 10 dienų protokolas pasirodė kritinis slenkstis komorbidiam išvengimui ir atlyginio apdorojimo sutrikdymui. Ketaminas atšaukė atlyginio deficitą; paroksетinas sumažino tiek išvengimą, tiek atlyginio deficitą."
-      },
-      "notable": false,
-      "notable_reasons": null,
-      "relevance_score": 3,
-      "study_type": "preclinical",
-      "substances": [
-        "ketamine"
-      ],
-      "added_at": "2026-08-01T12:00:00+00:00"
-    },
-    {
-      "title": "The role of therapeutic alliance in psilocybin treatment for treatment-resistant depression: A post hoc path analysis.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41881122/",
-      "source": "PubMed",
-      "date": "2026-Aug",
-      "authors": [
-        "Goodwin Guy M",
-        "Aaronson Scott T",
-        "Alvarez Oscar"
-      ],
-      "doi": "10.1016/j.jad.2026.121662",
-      "summaries": {
-        "en": "Post hoc path analysis (N=79) examined therapeutic alliance's role in psilocybin treatment for treatment-resistant depression. While pre-dosing alliance showed weak correlation with depression improvement (MADRS Week 3), psychedelic experience measures correlated more strongly. Alliance had minimal direct effect on outcomes but significantly influenced the intensity of psychedelic experiences, which independently predicted clinical improvement.",
-        "sv": "En post hoc vägsanalys (N=79) undersökte terapeutisk allians roll vid psilocybinbehandling av behandlingsresistent depression. Förberedande allians korrelerade svagt med depressionsförbättring, medan psykedeliska upplevelser korrelerade starkare. Allians påverkade intensiteten av psykedeliska upplevelser, vilka självständigt förutspådde klinisk förbättring.",
-        "no": "En post hoc stienanalyse (N=79) undersøkte terapeutisk allianse sin rolle i psilocybinbehandling for behandlingsresistent depresjon. Allianse før dosering viste svak korrelasjon med depresjonsforbedring, mens psykedeliske opplevelser korrelerte sterkere. Alliansen påvirket intensiteten av psykedeliske opplevelser, som uavhengig forutsa klinisk bedring.",
-        "da": "En post hoc stienanalyse (N=79) undersøgte terapeutisk alliancens rolle i psilocybinbehandling af behandlingsresistent depression. Alliancen før dosering viste svag korrelation med depressionsforbedring, mens psykedeliske oplevelser korrelerede stærkere. Alliancen påvirkede intensiteten af psykedeliske oplevelser, som uafhængigt forudsagde klinisk bedring.",
-        "fi": "Jälkikäteinen polkuanalyysi (N=79) tutki terapeutisen liitoksen roolia psilosybiinin käytössä hoitoresistenttiin masennukseen. Ennen annosta mitattu liitos osoitti heikon korrelaation masennuksen paranemiseen, kun taas psykedeeliset kokemukset korreloivat vahvemmin. Liitos vaikutti psykedeelistä kokemusta intensiteettiin, joka itsenäisesti ennusti kliinista paranemista.",
-        "is": "Eftirgreining á slóðum (N=79) kannaði hlutverk þerapeutísks bandsins í psílosýbínmeðferð við meðferðarþolnuðum þunglyndi. Bandsmatið fyrir skammta sýndi veika fylgni við endurbætur þunglynd, en sálkindalæknandi upplifun hafði sterkari fylgni. Bandið hafði áhrif á styrk sálkindalæknandi upplifunar, sem sjálfstætt spáði fyrir um klíníska endurbætu.",
-        "et": "Post hoc teeanaliis (N=79) uuris terapeutilist liitu psülosübiini kasutamisel raviresistenttse depressiooni puhul. Annust eelnevalt mõõdetud liit näitas nõrka korrelatsiooni depressiooni paranemisega, samas kui psühhedeeliline kogemus korreleeris tugevamalt. Liit mõjutas psühhedeeliise kogemuse intensiivsust, mis iseseisvalt ennustas kliinilist paranemist.",
-        "lv": "Post hoc ceļa analīze (N=79) pārbaudīja terapeitiskās alianses lomu psilocibīna lietošanā ārstēšanai rezistentā depresijā. Alianses mērīšana pirms devas parādīja vāju korelāciju ar depresijas uzlabošanos, savukārt psihedeliskie pieredzes gadījumi uzrādīja spēcīgāku korelāciju. Alianss ietekmēja psihedeliskās pieredzes intensitāti, kas neatkarīgi prognozēja klīniskus uzlabojumus.",
-        "lt": "Atgalinė kelio analizė (N=79) tyrinėjo terapeutinio aljinso vaidmenį psilocibino naudojime gydymui atsparioje depresijoje. Prieš dozę matuotas aljinsas parodė silpną koreliaciją su depresijos pagerinimais, o psichedelinės patirtys rodė stipresnę koreliaciją. Aljinsas turėjo įtakos psichedelinės patirties intensyvumui, kuris savarankiškai numatė klininius pagerinimus."
-      },
-      "notable": false,
-      "notable_reasons": null,
-      "relevance_score": 4,
-      "study_type": "observational",
-      "substances": [
-        "psilocybin"
-      ],
-      "added_at": "2026-08-01T12:00:00+00:00"
-    },
-    {
-      "title": "Psilocybin-assisted therapy for major depressive disorder: Perspective from meta-analysis.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41876058/",
-      "source": "PubMed",
-      "date": "2026-Aug",
-      "authors": [
-        "Kishi Taro",
-        "Sakuma Kenji",
-        "Hatano Masakazu"
-      ],
-      "doi": "10.1016/j.jad.2026.121675",
-      "summaries": {
-        "en": "Meta-analysis of six randomized controlled trials examined psilocybin-assisted therapy for major depressive disorder. Standard-dose psilocybin (25 mg) showed superior efficacy compared to placebo and control conditions in reducing depressive symptoms (SMD: -1.05, p=0.0002). Low-dose psilocybin showed less consistent effects. Results suggest psilocybin may be a promising treatment option, though methodological variation across studies warrants further investigation.",
-        "sv": "En metaanalys av sex randomiserade kontrollerade studier undersökte psilo­cybin­assisterad terapi för allvarlig depression. Standard­dos psilo­cybin (25 mg) visade överlägsna effekter jämfört med placebo och kontrollgrupper när det gäller att minska depressiva symptom (SMD: -1,05, p=0,0002). Låg­dos psilo­cybin gav mindre konsistenta resultat. Resultaten tyder på att psilo­cybin kan vara ett lovande behandlings­alternativ, även om metodologiska skillnader mellan studier kräver vidare forskning.",
-        "no": "Metaanalyse av seks randomiserte kontrollerte studier undersøkte psilo­sybin­assistert terapi for alvorlig depresjon. Standard­dose psilo­sybin (25 mg) viste overlegen effekt sammenlignet med placebo og kontroll­grupper når det gjelder å redusere depressive symptomer (SMD: -1,05, p=0,0002). Lav­dose psilo­sybin ga mindre konsistente resultater. Resultatene tyder på at psilo­sybin kan være et lovende behandlings­alternativ, selv om metodologiske variasjoner mellom studier krever videre forskning.",
-        "da": "Metaanalyse af seks randomiserede kontrollerede studier undersøgte psilo­cybin­assisteret terapi for alvorlig depression. Standard­dosis psilo­cybin (25 mg) viste overlegen effekt sammenlignet med placebo og kontrol­grupper ved reduktion af depressive symptomer (SMD: -1,05, p=0,0002). Lav­dosis psilo­cybin gav mindre konsistente resultater. Resultaterne tyder på, at psilo­cybin kan være en lovende behandlings­mulighed, selvom metodologiske forskelle mellem studier kræver yderligere forskning.",
-        "fi": "Kuuden satunnaistetun kontrolloidun tutkimuksen metaanalyysi tutki psilo­sybiini­avustettua terapiaa vakavaan masennukseen. Vakio­annos psilo­sybiinia (25 mg) osoitti ylivertaisen teho­vuuden verrattuna lumelääkkee­seen ja kontrol­liryhmiin masennusoireiden vähen­tämisessä (SMD: -1,05, p=0,0002). Pieni­annos psilo­sybiinia tuotti epäyh­tenäisempiä tuloksia. Tulokset viittaavat siihen, että psilo­sybiini saattaa olla lupaava hoito­vaihtoehto, vaikka tutkimuksissa esiintyvät meto­dologiset erot vaativat lisä­tutkimusta.",
-        "is": "Metagreining á sex handahófskenndum stjórnuðum rannsóknum skoðaði psilo­síbín­studdaða meðferð við alvarlegri þunglyndi. Stöðluð skammta psilo­síbíns (25 mg) sýndi betri árangur samanborið við lyfleysu og stjórn­hópa við að minnka þunglyndiseinkenni (SMD: -1,05, p=0,0002). Lítil skammta psilo­síbíns gaf ójafnari árangur. Niðurstöðurnar benda til þess að psilo­síbín gæti verið efnileg meðferðar­valkostur, þó að aðferða­fræðileg mismunatriði milli rannsókna kalli á frekari rannsóknir.",
-        "et": "Kuue randomiseeritud kontrollitud uuringu metaanalüüs uuris psilo­tsübiini­toetatud ravi suurest depressiivsest häirest. Standard­annusega psilotsübiini (25 mg) näitas paremat toimet võrreldes platseebo ja kontroll­gruppidega depressiivsete sümptomite vähendamisel (SMD: -1,05, p=0,0002). Väikeannusega psilotsübiini andis vähem järjekindlaid tulemusi. Tulemused viitavad, et psilotsübiini võib olla paljulubav ravi­valik, kuigi metodoloogilised erinevused uuringute vahel nõuavad edasist uurimist.",
-        "lv": "Sešu randomizētu kontrolētu pētījumu metaanalīze pētīja psilo­cibīna­palīdzinātu terapiju smagam depresijas traucējumam. Standarta doza psilocibīns (25 mg) parādīja labāku efektivitāti, salīdzinot ar placebo un kontroles grupām depresijas simptomu samazināšanā (SMD: -1,05, p=0,0002). Zema doza psilocibīns parādīja mazāk konsekventi rezultātus. Rezultāti liecina, ka psilocibīns var būt solis­­ceļojošs ārstēšanas variants, lai gan metodolo­ģiskas atšķirības starp pētījumiem prasa turpmākus pētījumus.",
-        "lt": "Šešių randomizuotų kontroliuotų tyrimų metaanalizė nagrinėjo psilo­cibino­pagal­botą terapiją sunkiai depresjai. Standartinio dydžio psilocibinas (25 mg) parodė geresnį efektyvumą, palyginti su placebo ir kontrolės grupėmis mažinant depresijos simptomus (SMD: -1,05, p=0,0002). Mažo dydžio psilocibinas pateikė mažiau nuoseklių rezultatų. Rezultatai rodo, kad psilocibinas gali būti perspektyvus gydymo variantas, nors metodologiniai skirtumai tarp tyrimų reikalauja tolesnių tyrimų."
-      },
-      "notable": true,
-      "notable_reasons": {
-        "en": "Meta-analysis across six RCTs synthesizing efficacy and safety data for psilocybin in MDD with quantified effect sizes (SMD −1.05), addressing a major clinical indication.",
-        "sv": "Meta-analys över sex RCTs som syntetiserar effektivitets- och säkerhetdata för psilocybin vid MDD med kvantifierade effektstorlekar (SMD −1.05), som tar upp en större klinisk indikation.",
-        "no": "Meta-analyse på tvers av seks RCTs som syntetiserer effektivitets- og sikkerhetdata for psilocybin ved MDD med kvantifiserte effektstørrelser (SMD −1.05), som adresserer en major klinisk indikasjon.",
-        "da": "Meta-analyse på tværs af seks RCTs, der syntetiserer effektivitets- og sikkerhedsdata for psilocybin ved MDD med kvantificerede effektstørrelser (SMD −1.05), der behandler en vigtig klinisk indikation.",
-        "fi": "Meta-analyysi kuudesta RCT-tutkimuksesta, joka syntetisoi psilosybiinin tehokkuus- ja turvallisuustietoja MDD:ssä kvantifioiduilla efektikooilla (SMD −1.05), käsitellen merkittävää kliinistä indikaatiota.",
-        "is": "Meta-greining yfir sex RCTs sem sameinar gagnaöflun um verkun og öryggi psilosýbíns við MDD með megindlegum áhrifastærðum (SMD −1.05), sem beinast að mikilvægri klínískri vísbendingu.",
-        "et": "Meta-analüüs kuue RCT-uuringu põhjal, mis sünteseerib psülotsübiini tõhususe ja ohutuse andmeid MDD-s kvantitatiivsete efekti suurustega (SMD −1.05), käsitledes olulist kliinilist näidustust.",
-        "lv": "Meta-analīze pāri sešiem RCT, kas sintezē psilocibīna efektivitātes un drošības datus MDD gadījumā ar kvantitatīviem efekta lielumiem (SMD −1.05), risinot galveno klīnisko indikāciju.",
-        "lt": "Meta-analizė iš šešių RCT, kurioje sintetinami psilocibino veiksmingumo ir saugumo duomenys MDD atveju su kiekybiniais efekto dydžiais (SMD −1.05), skiriant pagrindinę klinikinę indikaciją."
-      },
-      "relevance_score": 5,
-      "study_type": "review",
-      "substances": [
-        "psilocybin"
       ],
       "added_at": "2026-08-01T12:00:00+00:00"
     }

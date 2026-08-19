@@ -1,6 +1,44 @@
 {
   "items": [
     {
+      "title": "Psilocybin-assisted psychotherapy for substance use disorders as a complex intervention: A systematic review of efficacy, mechanisms and psychotherapeutic frameworks.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42609034/",
+      "source": "PubMed",
+      "date": "2026-08-17",
+      "authors": [
+        "Strika-Bruneau Lana",
+        "Elhssaini Chérine",
+        "Fauvel Baptiste"
+      ],
+      "doi": "10.1177/02698811261473436",
+      "summary_en": "Systematic review of 17 studies (10 clinical trials) examining psilocybin-assisted psychotherapy for substance use disorders. Trials focused primarily on alcohol (10) and tobacco (5) use disorders, employing structured psychotherapeutic frameworks combining cognitive-behavioral and third-wave approaches. Results showed reduced substance use and improved abstinence rates, with sustained benefits associated with repeated high-dose sessions and extended psychotherapeutic engagement. Mechanisms appear multifactorial, integrating pharmacological, experiential, and psychotherapeutic components.",
+      "notable": true,
+      "notable_reason": "Systematic review synthesizing 10 primary clinical trials across multiple SUDs (alcohol, tobacco, methamphetamine, cocaine) with focus on therapeutic mechanisms and outcomes.",
+      "study_type": "review",
+      "substances": [
+        "psilocybin"
+      ],
+      "added_at": "2026-08-19T07:13:26.043079+00:00"
+    },
+    {
+      "title": "The expansion of psychedelic-assisted therapy: The case for caution over acceleration.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42610349/",
+      "source": "PubMed",
+      "date": "2026-08-18",
+      "authors": [
+        "Kisely Steve"
+      ],
+      "doi": "10.1177/00048674261478775",
+      "summary_en": "Opinion piece advocating measured expansion of psychedelic-assisted therapy. The author argues for careful consideration of safety, efficacy, and implementation challenges before accelerating clinical adoption, emphasizing the need for rigorous research protocols and ethical frameworks.",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "other",
+      "substances": [
+        "other"
+      ],
+      "added_at": "2026-08-19T07:13:26.043079+00:00"
+    },
+    {
       "title": "[(Es)ketamine: practice update].",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42606558/",
       "source": "PubMed",

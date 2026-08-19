@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-18T07:13:42.726670+00:00",
+  "generated_at": "2026-08-19T07:14:13.053774+00:00",
   "items": [
     {
       "title": "Blinding integrity in psychedelic research: Evidence from a comparative randomized controlled trial of psilocybin, MDMA, and methylphenidate in healthy volunteers",
@@ -32,6 +32,76 @@
         "mdma"
       ],
       "added_at": "2026-07-09T10:03:12.956794+00:00"
+    },
+    {
+      "title": "The expansion of psychedelic-assisted therapy: The case for caution over acceleration.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42610349/",
+      "source": "PubMed",
+      "date": "2026-08-18",
+      "authors": [
+        "Kisely Steve"
+      ],
+      "doi": "10.1177/00048674261478775",
+      "summaries": {
+        "en": "Opinion piece advocating measured expansion of psychedelic-assisted therapy. The author argues for careful consideration of safety, efficacy, and implementation challenges before accelerating clinical adoption, emphasizing the need for rigorous research protocols and ethical frameworks.",
+        "sv": "Debattartikel som förespråkar försiktig expansion av psykedelika-assisterad terapi. Författaren argumenterar för att säkerhet, effektivitet och implementeringsfrågor måste utredas noga innan snabb klinisk tillämpning, med betoning på rigorösa forskningsprotokoll och etiska ramverk.",
+        "no": "Debattinnlegg som tar til orde for forsiktig utvidelse av psykedelika-assistert terapi. Forfatteren argumenterer for at sikkerhet, effektivitet og implementeringsutfordringer må vurderes nøye før rask klinisk bruk, med vekt på strenge forskningsprotokoller og etiske rammer.",
+        "da": "Debatindlæg, der går ind for forsigtig udvidelse af psykedelika-assisteret terapi. Forfatteren argumenterer for, at sikkerhed, effektivitet og implementeringsudfordringer skal vurderes omhyggeligt, før hurtig klinisk anvendelse, med vægt på strenge forskningsprotokoller og etiske rammer.",
+        "fi": "Mielipidekirjoitus, joka kannustaa psykedeliikka-avusteisen terapian varovaista laajentamista. Kirjoittaja argumentoi turvallisuuden, tehokkuuden ja toteutushaasteiden huolelliselle arvioinnille ennen nopeaa kliinistä käyttöönottoa, korostaen tiukkoja tutkimusprotokollia ja eettisiä puitteitaan.",
+        "is": "Umrædubálkur sem tekur til málstarinnar fyrir varlega útvíkkun psýkedelíka-aðstoðaðrar meðferðar. Höfundur rökstyður þörf á vandlega athugun á öryggi, verkun og útfærsluáskorunum áður en hröð klínísk notkun, með áherslu á ströng rannsóknarsamskipti og siðferðileg rök.",
+        "et": "Arvamusartikkel, mis pooldatakse psühhedelic-abistatud teraapia ettevaatlikku laiendamist. Autor argumenteerib turvalisuse, tõhususe ja rakendamise väljakutsete hoolikaks kaalumiseks enne kiiret kliinilist kasutuselevõttu, rõhutades rangeid uuringuprotokolle ja eetilisi raamistikke.",
+        "lv": "Viedokļa raksts, kas aizstāv piesardzīgu psihedeliku-palīdzīgas terapijas paplašināšanu. Autors apgalvo, ka drošību, efektivitāti un ieviešanas izaicinājumus jāapsver rūpīgi, pirms paātrinot klīnisko pielietošanu, uzsverot stingtus pētniecības protokolus un ētiskos ietvarus.",
+        "lt": "Nuomonės straipsnis, kuriame raginamas atsargus psichodeliko-pagalbinės terapijos plėtimasis. Autorius teigia, kad saugumą, veiksmingumą ir diegimo iššūkius reikia atidžiai svarstyti prieš pagreitinant klininį naudojimą, pabrėžiant griežtas tyrimo protokolus ir etines nuostatas."
+      },
+      "notable": false,
+      "notable_reasons": null,
+      "relevance_score": 3,
+      "study_type": "other",
+      "substances": [
+        "other"
+      ],
+      "added_at": "2026-08-19T07:13:26.043079+00:00"
+    },
+    {
+      "title": "Psilocybin-assisted psychotherapy for substance use disorders as a complex intervention: A systematic review of efficacy, mechanisms and psychotherapeutic frameworks.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42609034/",
+      "source": "PubMed",
+      "date": "2026-08-17",
+      "authors": [
+        "Strika-Bruneau Lana",
+        "Elhssaini Chérine",
+        "Fauvel Baptiste"
+      ],
+      "doi": "10.1177/02698811261473436",
+      "summaries": {
+        "en": "Systematic review of 17 studies (10 clinical trials) examining psilocybin-assisted psychotherapy for substance use disorders. Trials focused primarily on alcohol (10) and tobacco (5) use disorders, employing structured psychotherapeutic frameworks combining cognitive-behavioral and third-wave approaches. Results showed reduced substance use and improved abstinence rates, with sustained benefits associated with repeated high-dose sessions and extended psychotherapeutic engagement. Mechanisms appear multifactorial, integrating pharmacological, experiential, and psychotherapeutic components.",
+        "sv": "Systematisk granskning av 17 studier (10 kliniska försök) om psilo­cybin-assisterad psykoterapeutisk behandling av missbrukslidanden. Försöken fokuserade främst på alkohol- (10) och tobaksrelaterade (5) störningar med strukturerade psykoterapeutiska ramverk kombinerade med kognitiv-beteende- och tredje vågens metoder. Resultaten visade minskad substansanvändning och högre abstinensnivåer, med varaktiga effekter associerade med upprepade höga doser och långtidspsykoterapeutisk insats. Mekanismerna verkar multifaktoriella.",
+        "no": "Systematisk gjennomgang av 17 studier (10 kliniske forsøk) om psilocybin-assistert psykoterapeutisk behandling av rusmiddellidelser. Forsøkene fokuserte primært på alkohol- (10) og tobakkrelaterte (5) lidelser ved bruk av strukturerte psykoterapeutiske rammer kombinert med kognitiv-atferd og tredje-bølge tilnærminger. Resultatene viste redusert rusmiddelbruk og høyere abstinensprosenter, med vedvarende fordeler forbundet med gjentatte høye doser og lengre psykoterapeutisk innsats. Mekanismer virker multifaktoriell.",
+        "da": "Systematisk gennemgang af 17 studier (10 kliniske forsøg) om psilocybin-assisteret psykoterapeutisk behandling af stoffmissbrugsforstyrrelser. Forsøgene fokuserede primært på alkohol- (10) og tobaksrelaterede (5) lidelser ved strukturerede psykoterapeutiske rammer kombineret med kognitiv-adfærd og tredje-bølge-tilgange. Resultaterne viste reduceret stofbrug og højere abstinensprocenter, med vedvarende fordele forbundet med gentagne høje doser og udvidet psykoterapeutisk indsats. Mekanismer virker multifaktorielle.",
+        "fi": "Systematinen katsaus 17 tutkimukseen (10 kliinistä tutkimusta) psilosybiini-avusteisesta psykoterapiasta päihdehäiriöissä. Tutkimukset keskittyivät ensisijaisesti alkoholi- (10) ja tupakkahäiriöihin (5) käyttäen strukturoituja psykoterapia-kehikkoja yhdistettynä kognitiivi-behavioraalisiin ja kolmannen aallon menetelmiin. Tulokset osoittivat vähentynyttä päihdeenkäyttöä ja korkeampia pidättäytymisprosentteja, jotka liittyivät toistuviin korkeiden annosten ja pitkittyneeseen psykoterapeutiseen sitoutumiseen. Mekanismit näyttävät multifaktoriaalilta.",
+        "is": "Kerfisbundin yfirlit yfir 17 rannsóknum (10 klínískar tilraunir) á psilosýbín-aðstoðuðri sálfræðilegri meðferð fyrir efnamisnotkunarraskanir. Tilraunir beindust aðallega að áfengis- (10) og tóbakstengtum (5) raskaningum með skipulögðum sálfræðilegum ramma sem sameinuðir voru hugrænum atferli og þriðju bylgju nálgunum. Niðurstöður sýndu minni efnamisnotkun og hærri hlutfall alkúa, með varanlegum ávinningi tengdum endurteknum háum skömmtum og framlengdri sálfræðilegri þátttöku. Aðferðir virðast margþættar.",
+        "et": "Süstemaatiline ülevaade 17 uuringust (10 kliinilist katset) psülosübiin-abistatud psühhoterapiast aine­kasutuse häirete korral. Katsed keskendusid peamiselt alkoholi (10) ja tubakaga seotud (5) häiretele, kasutades struktureeritud psühhoteraapia raamistikke kognitiivsete käitumiste ja kolmanda laine lähendustega kombineerituna. Tulemused näitasid vähenenud ainekasutuseteavet ja kõrgemaid abstinentsuse määrasid, jätkuva kasuga seotud korduvate kõrgete annuste ja pikendatud psühhoteraapia kaasamisega. Mehhanismid näivad multifaktoriaalsed.",
+        "lv": "Sistemātisks pārskats par 17 pētījumiem (10 klīniskas pārbaudes) par psilo­cibīna-atbalstītu psihoterapiju vielu lietošanas traucējumiem. Pārbaudēs galvenokārt fokusējās uz alkohola (10) un tabakas (5) traucējumiem, izmantojot strukturētas psihoterapeitiskās sistēmas kombinācijā ar kognitīvi-uzvedības un trešās viļņa pieejām. Rezultāti parādīja samazinātu vielu lietošanu un augstākas abstinenču likmes, ar ilgstošu labumu, kas saistīts ar atkārtotām augstām devām un pagarinātu psihoterapeitisku iesaisti. Mehānismi šķiet multifaktoriāli.",
+        "lt": "Sistemingas 17 tyrimų (10 klinikinių bandymų) apie psilo­cibino-pagalbinę psichoterapiją medžiagų vartojimo sutrikimams peržvalgymas. Bandymai daugiausia dėmesio skyrė alkoholio (10) ir tabako (5) sutrikimams, naudodami struktūruotus psichoterapinius modelius, sujungtus su kognityviai-elgesio ir trečios bangos metodais. Rezultatai parodė sumažėjusį medžiagų vartojimą ir aukštesnes abstinenco normas, su ilgalaikiais pranašumais, susijusiais su pakartotais aukštais dozėmis ir pratęstuoju psichoterapiniu įsitraukimu. Mechanizmai rodosi multifaktoriniai."
+      },
+      "notable": true,
+      "notable_reasons": {
+        "en": "Systematic review synthesizing 10 primary clinical trials across multiple SUDs (alcohol, tobacco, methamphetamine, cocaine) with focus on therapeutic mechanisms and outcomes.",
+        "sv": "Systematisk översikt som syntetiserar 10 primära kliniska studier inom flera SUD:er (alkohol, tobak, metamfetamin, kokain) med fokus på terapeutiska mekanismer och resultat.",
+        "no": "Systematisk oversikt som syntetiserer 10 primære kliniske studier innen flere SUD-er (alkohol, tobakk, metamfetamin, kokain) med fokus på terapeutiske mekanismer og resultater.",
+        "da": "Systematisk oversigt der syntetiserer 10 primære kliniske studier på tværs af flere SUD'er (alkohol, tobak, metamfetamin, kokain) med fokus på terapeutiske mekanismer og resultater.",
+        "fi": "Järjestelmällinen katsaus, joka syntetisoi 10 ensisijaista kliinistä tutkimusta useista päihdeongelmista (alkoholi, tupakka, metamfetamiini, kokaiini) terapeuttisten mekanismien ja tulosten painotuksella.",
+        "is": "Kerfisbundin yfirlitskoðun sem fléttar saman 10 aðalklínískum rannsóknum yfir mörg vímuefnanotkun (alkóhól, tóbak, metamfetamín, kokain) með áherslu á þerapeutíska virkni og niðurstöður.",
+        "et": "Süstemaatiline ülevaade, mis ühendab 10 esmast kliinilist uuringut mitme opioidide häire korral (alkohol, tubaka, metamfetamiin, kokain), keskendudes terapeututilistele mehhanismidele ja tulemustele.",
+        "lv": "Sistemātisks pārskats, kas sintezē 10 primāros klīniskos pētījumus vairāku vielu lietošanas traucējumu jomā (alkohols, tabakas, metamfetamīns, kokaīns), uzsverot terapeitiskos mehānismus un rezultātus.",
+        "lt": "Sisteminė apžvalga, apimanti 10 pirminių klininių tyrimų keliose medžiagų vartojimo sutrikimų srityse (alkoholis, tabaka, metamfetaminas, kokainas), dėmesį sutelkiant į terapinius mechanizmus ir rezultatus."
+      },
+      "relevance_score": 5,
+      "study_type": "review",
+      "substances": [
+        "psilocybin"
+      ],
+      "added_at": "2026-08-19T07:13:26.043079+00:00"
     },
     {
       "title": "[(Es)ketamine: practice update].",
@@ -1863,68 +1933,6 @@
       "study_type": "review",
       "substances": [
         "mdma"
-      ],
-      "added_at": "2026-08-01T12:00:00+00:00"
-    },
-    {
-      "title": "Adenosine surges: A step forward in understanding antidepressant actions of ketamine.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41951836/",
-      "source": "PubMed",
-      "date": "2026-Aug",
-      "authors": [
-        "Dautan Daniel",
-        "Camargo Anderson",
-        "Svenningsson Per"
-      ],
-      "doi": "10.1038/s41380-026-03594-4",
-      "summaries": {
-        "en": "Recent research investigates adenosine signaling as a mechanism underlying ketamine's antidepressant effects. The study advances understanding of how this dissociative anesthetic produces rapid mood improvement, identifying adenosine surges as a potential key pathway. These findings may inform development of novel antidepressant treatments targeting similar neurochemical processes.",
-        "sv": "Ny forskning undersöker adenosinöverföring som en mekanism bakom ketamins antidepressiva effekter. Studien bidrar till förståelsen av hur detta dissociativt narkosmedel producerar snabb humörbättring genom att identifiera adenosinökning som en möjlig central väg. Resultaten kan informera utvecklingen av nya antidepressiva behandlingar som påverkar liknande neurokemiska processer.",
-        "no": "Ny forskning undersøker adenosinsignalisering som en mekanisme bak ketamins antidepressive effekter. Studien fremmer forståelsen av hvordan dette dissossiative anestesimidlet produserer rask humørforbedring ved å identifisere adenosinøkninger som en potensiell nøkkelvei. Funnene kan informere utviklingen av nye antidepressiva som retter seg mot lignende nevrokjemiske prosesser.",
-        "da": "Ny forskning undersøger adenosinsignalering som en mekanisme bag ketamins antidepressive virkninger. Studien fremmer forståelsen af, hvordan dette dissociativt anæstetikum producerer hurtig humørforbedring ved at identificere adenosinforøgelse som en potentiel nøglevej. Resultaterne kan informere udviklingen af nye antidepressiva, der sigter mod lignende neurokemiske processer.",
-        "fi": "Uusi tutkimus selvittää adenosiinin merkitystä ketamiinin masennuslääkkeellisenä vaikutuksena. Tutkimus edistää ymmärrystä siitä, kuinka tämä dissosiatatiivinen anesteetikumi tuottaa nopeaa mielialan paranemista tunnistamalla adenosiinin nousut potentiaalisena avainmekanismina. Tulokset voivat auttaa kehittämään uusia masennuslääkkeitä, jotka kohdennetaan vastaaviin neurochemisiin prosesseihin.",
-        "is": "Ný rannsókn kannar adenósín-merki sem undirliggjandi kerfi fyrir andlyndisverkun ketamíns. Rannsóknin framfarir skilningi á því hvernig þetta dreifandi svæfnlyf framleiðir hraða bætingu á skap með því að bera kennsl á hækkanir adenósíns sem hugsanlegum lykilleið. Niðurstöðurnar gætu upplýst þróun nýrra andlyndislyfja sem miða að svipuðum taugakjarnafræðilegum ferlum.",
-        "et": "Uus uurimus uurib adenosiini signaliseerimist ketamiini antidepressiivsete mõjude mehhanismina. Uuring edendab arusaama, kuidas see dissotsiatiivne anesteetikum tekitab kiiret meeleolu parandamist, tuues välja adenosiini tõusu potentsiaalse võtmepaalumehanismina. Leiud võivad aidata arendada uusi antidepressante, mis suunatakse sarnastele neurochemisele protsessidele.",
-        "lv": "Jauns pētījums pēta adenozīna signalizēšanu kā ketamīna antidepresantu iedarbības mehānismu. Pētījums veicina izpratni par to, kā šis disociatīvais anestēzijas līdzeklis rada ātru garastāvokļa uzlabošanos, identificējot adenozīna pieaugumu kā iespējamo galveno ceļu. Rezultāti var informēt jaunu antidepresantu izstrādi, kas vērsti uz līdzīgiem neiroķīmiskiem procesiem.",
-        "lt": "Naujas tyrimas tiria adenozino signalizavimą kaip ketamino antidepresanto poveikio mechanizmą. Tyrimas pagerina supratimą apie tai, kaip šis disociatyvus narkozės vaistas sukelia greitą nuotaikos pagerinimą, nustatydamas adenozino šuolius kaip galimą pagrindinį kelią. Rezultatai gali suteikti informacijos naujų antidepresantų, nukreiptų į panašius neurocheminio proceso, sukūrimui."
-      },
-      "notable": false,
-      "notable_reasons": null,
-      "relevance_score": 4,
-      "study_type": "preclinical",
-      "substances": [
-        "ketamine"
-      ],
-      "added_at": "2026-08-01T12:00:00+00:00"
-    },
-    {
-      "title": "Role of concomitant benzodiazepines, lithium, and lamotrigine in modulating the antidepressant effects of subcutaneous esketamine in patients with treatment-resistant depressive episodes: A retrospective naturalistic study.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41933621/",
-      "source": "PubMed",
-      "date": "2026-Aug",
-      "authors": [
-        "Atidio João Paulo",
-        "Delfino Rodrigo Simonini",
-        "Garios Igor Saque"
-      ],
-      "doi": "10.1016/j.jad.2026.121721",
-      "summaries": {
-        "en": "Retrospective study of 178 patients examined how benzodiazepines, lithium, and lamotrigine affect esketamine treatment outcomes in treatment-resistant depression. Weekly subcutaneous esketamine (0.5-1.0 mg/kg) for 6 weeks significantly reduced depression scores. Concomitant benzodiazepine use was associated with higher depression scores, while lithium and lamotrigine showed no significant interaction effects.",
-        "sv": "Retrospektiv studie av 178 patienter undersökte hur bensodiazepiner, litium och lamotrigin påverkar esketaminbehandling vid behandlingsresistent depression. Veckovis subkutan esketamin (0,5-1,0 mg/kg) under 6 veckor reducerade depressiva symtom signifikant. Samtidig bensodiazepinbehandling var associerad med högre depressionspoäng, medan litium och lamotrigin visade ingen signifikant interaktionseffekt.",
-        "no": "Retrospektiv studie av 178 pasienter undersøkte hvordan benzodiazepiner, litium og lamotrigin påvirker esketaminbehandling ved behandlingsresistent depresjon. Ukentlig subkutan esketamin (0,5-1,0 mg/kg) i 6 uker reduserte depressive symptomer signifikant. Samtidig benzodiazepinbruk var assosiert med høyere depresjonsskår, mens litium og lamotrigin viste ingen signifikant interaksjonseffekt.",
-        "da": "Retrospektivt studie af 178 patienter undersøgte, hvordan benzodiazepiner, lithium og lamotrigin påvirker esketaminbehandling ved behandlingsresistent depression. Ugentlig subkutan esketamin (0,5-1,0 mg/kg) i 6 uger reducerede depressive symptomer signifikant. Samtidigt benzodiazepinforbrug var forbundet med højere depressionsscorer, mens lithium og lamotrigin viste ingen signifikant interaktionseffekt.",
-        "fi": "Retrospektiivinen tutkimus 178 potilaalla tutki, miten bentsodiatsepiienit, litium ja lamotrigiini vaikuttavat esketamiinhoitoon hoitoon vastaamattomuuden depressiossa. Viikottainen subkutaani esketamiini (0,5-1,0 mg/kg) 6 viikon ajan vähensi depressioita merkittävästi. Samanaikainen bentsodiatsepiinikäyttö liittyi korkeampiin depressiopisteisiin, kun taas litium ja lamotrigiini eivät osoittaneet merkittävää vuorovaikutusefektiä.",
-        "is": "Afturskoðun rannsókn á 178 sjúklingum kannaði hvernig bensódíasepín, litíum og lamótrígin hafa áhrif á esketamínmeðferð við þungri þunglyndi sem ekki bregst við meðferð. Vikuleg undirhuðarsprutumeðferð með esketamíni (0,5-1,0 mg/kg) í 6 vikur minnkaði þunglynd þrek töluvert. Samhliða bensódíasepínnotkun var tengd hærri þungyndiseinkunnum, en litíum og lamótrígin sýndu enga marktæka víxlverkun.",
-        "et": "Tagasivaade uuringus 168 patsiendiga uuriti, kuidas bensodiazepiinid, liitium ja lamotrigiin mõjutavad esketamiini ravi raviresistenttse depressiooni korral. Iganädalane subkutaanne esketamiin (0,5-1,0 mg/kg) 6 nädala jooksul vähendasid depressiivneid sümptomeid oluliselt. Samaaegsed bensodiazepiinid olid seotud kõrgemate depressiooni skooridega, samas liitium ja lamotrigiin näitasid märgatavat vastastikust toimet.",
-        "lv": "Retrospektīvs pētījums ar 178 pacientiem pārbaudīja, kā benzodiazepīni, lītijs un lamotrigīns ietekmē esketamīna ārstēšanu ārstēšanai rezistentā depresijā. Iknedēļas subkutāna esketamīna ievade (0,5-1,0 mg/kg) 6 nedēļu laikā būtiski samazināja depresīvos simptomus. Vienlaikus lietoti benzodiazepīni bija saistīti ar augstākiem depresijas rādītājiem, bet lītijs un lamotrigīns neparādīja nozīmīgas mijiedarbības efekta.",
-        "lt": "Retrospektyvi 178 pacientų studija tirinėjo, kaip benzodiazepimai, litis ir lamotriginas veikia esketamino poveikį terapijai rezistenčioje depresijoje. Savaitinis subkutaninis esketaminas (0,5-1,0 mg/kg) per 6 savaites reikšmingai sumažino depresijos simptomus. Bendras benzodiazepiamų vartojimas buvo susietas su aukštesniais depresijos vertinimais, tačiau litis ir lamotriginas neparodė reikšmingos sąveikos."
-      },
-      "notable": false,
-      "notable_reasons": null,
-      "relevance_score": 4,
-      "study_type": "observational",
-      "substances": [
-        "ketamine"
       ],
       "added_at": "2026-08-01T12:00:00+00:00"
     }

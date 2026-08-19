@@ -1,7 +1,44 @@
 {
-  "date": "2026-08-18",
-  "cached_at": "2026-08-18T06:37:37.500745+00:00",
+  "date": "2026-08-19",
+  "cached_at": "2026-08-19T06:38:46.086983+00:00",
   "articles": [
+    {
+      "title": "Multiagent Large Language Model Framework for Psychotherapy Fidelity Assessment in Motivational Interviewing and Cognitive Behavioral Therapy Training: Cross-Sectional, Simulation-Based Evaluation Study.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42611045/",
+      "source": "PubMed",
+      "abstract": "Psychotherapy training is difficult to scale because manual rating of motivational interviewing (MI) and cognitive behavioral therapy (CBT) sessions is time-intensive, requires trained raters, and is subject to rater variability. Large language models (LLMs) may support simulation-based training and rubric-guided scoring, but early-stage evidence is needed before such systems can be applied to real learners. This study aimed to conduct a simulation-based evaluation of a multiagent LLM framework for generating and scoring stylized MI and CBT training encounters. We conducted a cross-sectional evaluation of a multiagent framework comprising Student, Patient, Evaluator, and Feedback agents. The Student agent conducted synthetic MI or CBT encounters with Patient agents derived from structured profiles. The Evaluator agent scored transcripts using study-specific MI and CBT scoring forms. Internal discrimination was tested across prompt-engineered novice, intermediate, and expert Student agent profiles using 133 MI and 102 CBT Patient profiles. Preliminary external grounding was assessed using 133 annotated motivational interviewing (AnnoMI) transcripts with coarse, metadata-derived, high/low session-level quality labels. Agreement with a pragmatic human-rater benchmark was evaluated using 16 independent human raters per modality. Criterion-level comparisons used paired Wilcoxon signed-rank tests with Benjamini-Hochberg false discovery rate correction at  Evaluator scores increased across prompt-defined Student-agent competence levels. For MI, overall mean scores increased from 1.18 (95% CI 1.16-1.20) for novice profiles to 1.75 (95% CI 1.69-1.81) for intermediate profiles and to 3.57 (95% CI 3.48-3.66) for expert profiles. For CBT, overall mean scores increased from 0.83 (95% CI 0.78-0.88) to 2.18 (95% CI 2.10-2.26) and 4.38 (95% CI 4.28-4.48), respectively. Criterion-level planned contrasts were significant after false discovery rate correction. On AnnoMI transcripts, Evaluator scores aligned with metadata-derived high/low session labels, with 91.7% classification accuracy at the prespecified threshold. Human interrater reliability was an ICC(2,1) of 0.866 for MI and 0.769 for CBT. Evaluator-vs-human-consensus agreement was an ICC(2,1) of 0.959 for MI and 0.934 for CBT. In the secondary prompt-augmentation analysis, overall MI scores shifted from 1.18 to 1.44, and CBT scores shifted from 0.83 to 1.01. This proof-of-concept study suggests that a rubric-guided multiagent LLM framework can score stylized synthetic MI and CBT transcripts along expected prompt-defined competence gradients and align with preliminary external and human-rater benchmarks. The study is innovative in separating synthetic learner, patient, scoring, and feedback-generation roles within a single simulation workflow, extending prior LLM work from plausible dialogue generation toward rubric-linked scoring. The findings support further development of scalable simulation tools for psychotherapy training research. Prospective studies with human trainees, standardized or real patients, and formal psychometric testing are required.",
+      "date": "2026-08-18",
+      "authors": [
+        "Kamaleddin Mohammad Amin",
+        "Mirjalili Mina",
+        "Barzegar Reza"
+      ],
+      "doi": "10.2196/92964"
+    },
+    {
+      "title": "The expansion of psychedelic-assisted therapy: The case for caution over acceleration.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42610349/",
+      "source": "PubMed",
+      "abstract": "",
+      "date": "2026-08-18",
+      "authors": [
+        "Kisely Steve"
+      ],
+      "doi": "10.1177/00048674261478775"
+    },
+    {
+      "title": "Psilocybin-assisted psychotherapy for substance use disorders as a complex intervention: A systematic review of efficacy, mechanisms and psychotherapeutic frameworks.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42609034/",
+      "source": "PubMed",
+      "abstract": "Psychedelic-assisted psychotherapy (PAP) shows promise for substance use disorders (SUDs), yet the respective contributions of pharmacological, experiential, psychotherapeutic, and contextual factors remain insufficiently understood. To synthesize contemporary clinical evidence on PAP for SUDs, with particular attention to therapeutic frameworks, dosing strategies, safety, and mechanisms of action. A systematic review of clinical studies published between 2000 and 2026 was conducted through structured database searches and manual surveillance. Eligibility criteria involved classic psychedelic administration within defined psychotherapeutic frameworks in individuals with a primary SUD diagnosis. Data were narratively analyzed and synthesized. Seventeen studies, encompassing 10 primary clinical trials, met inclusion criteria: ten focused on alcohol use disorder, five on tobacco use disorder, one on methamphetamine use disorder, and one on cocaine use disorder. All trials investigated psilocybin within structured psychotherapeutic protocols, primarily based on cognitive-behavioral and third-wave approaches. PAP was associated with reductions in substance use, higher abstinence rates, and improved psychological well-being, although findings remained heterogeneous and design-dependent. Trials combining repeated high-dose sessions with extended psychotherapeutic engagement consistently reported sustained clinical benefits. Findings further suggest that outcomes may arise from interactions between neurobiological, experiential, psychological, psychotherapeutic, and contextual processes. Current evidence supports PAP as a promising but still emerging intervention for SUDs, although available clinical research remains exclusively based on psilocybin-assisted interventions. Findings further support conceptualizing PAP as a complex intervention embedded within an integrated psychotherapeutic process rather than as a pharmacological treatment alone. Larger controlled trials with active comparators, longer follow-up, and systematic investigation of psychotherapeutic and contextual mechanisms remain needed.",
+      "date": "2026-08-17",
+      "authors": [
+        "Strika-Bruneau Lana",
+        "Elhssaini Chérine",
+        "Fauvel Baptiste"
+      ],
+      "doi": "10.1177/02698811261473436"
+    },
     {
       "title": "[(Es)ketamine: practice update].",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42606558/",
@@ -217,43 +254,22 @@
       "doi": "10.1038/s41380-026-03816-9"
     },
     {
-      "title": "Evidence based interventions for bipolar disorder across phases and age groups: living umbrella review, evaluation, analysis, and communication hub (U-REACH) project.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42580772/",
-      "source": "PubMed",
-      "abstract": "To systematically evaluate the certainty of evidence for treatment strategies across age groups and mood phases in bipolar disorder, and develop an open access web platform to facilitate shared decision making. Living umbrella review, evaluation, analysis, and communication hub (U-REACH) project. PubMed, PsycInfo, and Cochrane library databases, from inception to 19 November 2024. Systematic reviews with network or pairwise meta-analyses of randomised controlled trials of pharmacological, nutraceutical, psychosocial, brain stimulation, or circadian rhythm based treatments, administered as monotherapy (without concurrent interventions), augmentation treatment (interventions added to an ongoing treatment regimen), or combination treatment (simultaneous initiation of two different interventions), examining any age group, bipolar disorder phase (ie, acute bipolar depression, mania or mixed episodes, or maintenance), treatment, control, or outcome. 77 studies met the inclusion criteria (21 network meta-analyses and 56 pairwise meta-analyses), including 116 unique pharmacological (n=74), brain stimulation (n=18), nutraceutical (n=13), psychosocial (n=8), and circadian rhythm based (n=3) treatments as monotherapy, augmentation, or combination therapy, along with five control interventions. These studies covered 133 unique outcomes (45 efficacy outcomes and 88 safety outcomes) resulting in 2510 meta-analyses with Grading of Recommendations, Assessment, Development, and Evaluations (GRADE) ratings of the certainty of the evidence as high (n=236), moderate (n=827), low (n=986), and very low (n=461). A communication hub, the Evidence Based Interventions for Bipolar Disorder (EBI-BD) platform, was developed and the full results are freely available (https://ebibd-database.org), including the preference based tool (12 interventions and 17 safety outcomes). Interventions effective across outcomes varied by phases. For bipolar depression, effective interventions in adults were cariprazine, divalproex or valproate, fluoxetine, ketamine (augmentation), lamotrigine, lumateperone, lurasidone, olanzapine, olanzapine with fluoxetine, and quetiapine, whereas effective interventions in children and adolescents were lurasidone and olanzapine with fluoxetine. For mania episodes, effective interventions in adults were aripiprazole, asenapine, carbamazepine, cariprazine, divalproex or valproate, haloperidol, lithium, olanzapine, paliperidone, quetiapine (also augmentation), risperidone (also as augmentation), tamoxifen, and ziprasidone, whereas effective interventions in children and adolescents were aripiprazole, asenapine, olanzapine, quetiapine, and risperidone. For maintenance, interventions effective across outcomes in adults were aripiprazole (also the long acting injectable formulation), asenapine, divalproex or valproate, lithium, olanzapine, group psychoeducation (augmentation), quetiapine, and risperidone long acting injectable formulation. Interventions effective across phases were aripiprazole (also as augmentation and as a long acting injectable formulation), asenapine, cariprazine, cognitive behavioural therapy (augmentation), divalproex or valproate, lamotrigine, lithium, olanzapine (also as augmentation), paliperidone, quetiapine (also as augmentation), and risperidone (also as augmentation and the long acting injectable formulation) (adults). Treatment effects by neuroscience based nomenclature classes are also reported. The EBI-BD tool can help clinicians make evidence based, personalised treatment decisions for bipolar disorder. This resource can inform clinical guidelines and provides a foundation for continuously improving bipolar disorder care as new evidence emerges. Open Science Framework https://osf.io/pjmvn/ READERS' NOTE: This is a living systematic review and may be updated in the next two years if additional evidence emerges.",
-      "date": "2026-08-11",
-      "authors": [
-        "De Prisco Michele",
-        "Oliva Vincenzo",
-        "Miola Alessandro"
-      ],
-      "doi": "10.1136/bmj-2026-100216"
+      "title": "Scoop: Johnson & Johnson to Lead Delix Therapeutics’ $85M Series C",
+      "url": "https://psychedelicalpha.com/news/scoop-johnson-johnson-to-lead-delix-therapeutics-85m-series-c/",
+      "source": "Psychedelic Alpha",
+      "abstract": "",
+      "date": "2026-08-18",
+      "authors": [],
+      "doi": ""
     },
     {
-      "title": "Effects of naturalistic psychedelic use on executive functioning: An online survey of lifetime history and recent use in university students.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42580581/",
-      "source": "PubMed",
-      "abstract": "Classic psychedelics such as psilocybin and LSD have shown therapeutic potential for a variety of substance use and mental health disorders. Emerging evidence suggests that psychedelics may enhance cognitive function post-acutely, potentially contributing to their therapeutic effects. However, few studies have examined this in naturalistic settings. This cross-sectional study compared differences in executive functioning between individuals who reported lifetime or recent (past 6 months) psychedelic use and those who reported no history of use. A total of 1342 university students completed an online version of the Wisconsin Card Sorting Task (CST), and self-reported psychedelic and other substance use as part of an online study. Robust linear regressions tested group differences and, among lifetime psychedelic users, effects of use characteristics (number of uses, typical dose) on CST outcomes. Compared to non-users, lifetime (n = 224) and recent (n = 114) users performed better on all CST measures except perseverative errors, showing fewer perseverative responses, total errors, and non-perseverative errors, as well as more conceptual-level responses and categories achieved. Among psychedelic users, number of lifetime uses was unrelated to CST outcomes, and moderate-dose users completed more categories than low-dose users, with no other dose-related effects. Lifetime and recent psychedelic use were associated with better executive functioning, independent of total lifetime use. These data provide first evidence in a naturalistic setting that these effects may be dose-sensitive. Future research is warranted to examine cognitive mechanisms underlying the potential therapeutic benefits of classic psychedelics across cognitive domains and clinical populations.",
-      "date": "2026-08-11",
-      "authors": [
-        "Todesco Stefanie",
-        "Allan Zachary",
-        "Liu May Y M"
-      ],
-      "doi": "10.1016/j.pnpbp.2026.111888"
-    },
-    {
-      "title": "Psilocybin-associated microRNA changes in the pig brain: Establishing an nCounter pipeline for cross-species microRNA quantification.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42580506/",
-      "source": "PubMed",
-      "abstract": "Novel treatment strategies are needed to address treatment resistance and delayed onset of action in psychiatry. Psilocybin has shown promise as a treatment for major depressive disorder, but the molecular changes associated with its effects remain incompletely understood. In parallel, microRNAs (miRNAs) have been implicated in depression and in responses to antidepressant interventions. Here, adolescent female pigs were used to explore miRNA expression profiles in the prefrontal cortex (PFC) and hippocampus (HIP) 1 day and 7 days after a single dose of psilocybin. We established a conservative NanoString nCounter workflow for pig tissue using the Human v3b miRNA Assay panel, cross-species reannotation based on complete human-pig sequence conservation, and evaluation of multiple normalization strategies. Using this pipeline, 12 dysregulated miRNAs were identified in the PFC and two in the HIP 1 day after psilocybin administration, whereas four dysregulated miRNAs were detected in the HIP after 7 days. Nine of the 18 miRNAs identified across the two regions have previously been linked to depression-related phenotypes. miR-212-3p and miR-107 showed the most robust acute regulation in the PFC across all four normalization approaches. These findings indicate that psilocybin administration is associated with region- and time-dependent miRNA changes in the pig brain and support the utility of this conservative nCounter pipeline for cross-species miRNA profiling. The study is exploratory and does not establish causality or direct antidepressant mechanisms.",
-      "date": "2026-08-11",
-      "authors": [
-        "Kaadt Erik",
-        "Søkilde Rolf Fyllgraf",
-        "Garling Hanne Demant"
-      ],
-      "doi": "10.1016/j.ejphar.2026.179222"
+      "title": "Paving the Way: Husseini Manji on Spravato’s Lessons for Psychedelic Drug Development",
+      "url": "https://psychedelicalpha.com/news/paving-the-way-husseini-manji-on-spravatos-lessons-for-psychedelic-drug-development/",
+      "source": "Psychedelic Alpha",
+      "abstract": "Dr. Husseini Manji’s affiliations are quite the laundry list: a professor of psychiatry at the University of Oxford with adjunct and visiting positions at Yale and Duke, as well as serving as co-chair of the UK government’s mental health mission. But it’s his earlier work as a pioneer in the development of rapid-acting antidepressants that […]",
+      "date": "2026-08-18",
+      "authors": [],
+      "doi": ""
     },
     {
       "title": "The Psychedelic Practitioner Issue 6: Preparedness (People)",
@@ -324,24 +340,6 @@
       "source": "Psychedelic Alpha",
       "abstract": "Oregon Psilocybin Services (OPS) has now published its first dataset from 2026, with updates summarised in our Oregon Psilocybin Services Tracker. Covering January to March 2026, this recent release includes key insights into product sales, client motivations, safety updates, and the individuals and organisations shaping the OPS infrastructure. Although most of the data presented here […]",
       "date": "2026-07-27",
-      "authors": [],
-      "doi": ""
-    },
-    {
-      "title": "Psychedelic Funding Update: Q2 2026",
-      "url": "https://psychedelicalpha.com/news/psychedelic-funding-update-q2-2026/",
-      "source": "Psychedelic Alpha",
-      "abstract": "We have updated our Psychedelic Company Financing Tracker to reflect activity in Q2 2026. Quarterly Fundraising Activity in Psychedelics Psychedelic financing activity in the second quarter of 2026 broke all records, with just over $1 billion raised over the three-month period across ten events. The vast majority of that capital came from just one financing, […]",
-      "date": "2026-07-24",
-      "authors": [],
-      "doi": ""
-    },
-    {
-      "title": "Pα+ Psychedelic Bulletin #228: Inside the Lilly-Atai Deal; An Update on the GH-AtaiBeckley Patent Standoff; Field Reacts to FDA’s Guidance; Resilient Readies Resubmission",
-      "url": "https://psychedelicalpha.com/news/p%ce%b1-psychedelic-bulletin-228-inside-the-lilly-atai-deal-an-update-on-the-gh-ataibeckley-patent-standoff-field-reacts-to-fdas-guidance-resilient-readies-resubmission/",
-      "source": "Psychedelic Alpha",
-      "abstract": "Inside the Lilly-Atai Deal, and a Patent Standoff with GH Research Getting anyone familiar with the specifics surrounding the Eli Lilly-AtaiBeckley deal to go on the record has been challenging, but we have spoken with people familiar with the details on the condition of anonymity. While Endpoints reports that other large pharmaceutical companies, including AbbVie […]",
-      "date": "2026-07-22",
       "authors": [],
       "doi": ""
     },
@@ -570,7 +568,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2018-004480-31/CZ",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-08-18",
+      "date": "2026-08-19",
       "authors": [],
       "doi": ""
     },
@@ -579,7 +577,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2020-005037-32/CZ",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-08-18",
+      "date": "2026-08-19",
       "authors": [],
       "doi": ""
     },
@@ -588,7 +586,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2021-002909-10/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-08-18",
+      "date": "2026-08-19",
       "authors": [],
       "doi": ""
     },
@@ -597,7 +595,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2015-000550-37/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-08-18",
+      "date": "2026-08-19",
       "authors": [],
       "doi": ""
     },
@@ -606,7 +604,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2021-000041-40/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-08-18",
+      "date": "2026-08-19",
       "authors": [],
       "doi": ""
     },
@@ -615,7 +613,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2020-000829-55/DK",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-08-18",
+      "date": "2026-08-19",
       "authors": [],
       "doi": ""
     },
@@ -624,7 +622,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2020-002790-94/SE",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-08-18",
+      "date": "2026-08-19",
       "authors": [],
       "doi": ""
     },
@@ -633,7 +631,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2021-006200-33/FI",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-08-18",
+      "date": "2026-08-19",
       "authors": [],
       "doi": ""
     },
@@ -642,7 +640,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2019-004812-73/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-08-18",
+      "date": "2026-08-19",
       "authors": [],
       "doi": ""
     },
@@ -651,7 +649,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2022-002369-14/BE",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-08-18",
+      "date": "2026-08-19",
       "authors": [],
       "doi": ""
     },

@@ -42,6 +42,7 @@ jobs:
       - name: Run backfill
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          SEMANTIC_SCHOLAR_API_KEY: ${{ secrets.SEMANTIC_SCHOLAR_API_KEY }}
           BACKFILL_FROM: ${{ github.event.inputs.from_date }}
           BACKFILL_TO: ${{ github.event.inputs.to_date }}
           DRY_RUN: ${{ github.event.inputs.dry_run }}

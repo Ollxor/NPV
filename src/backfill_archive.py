@@ -16,7 +16,7 @@ import feedparser
 import requests
 from bs4 import BeautifulSoup
 
-from fetch_sources import _entry_date
+from fetch_sources import _entry_date, _semantic_scholar_headers
 
 # Default range: Q2 of current year  (override via env)
 _YEAR = datetime.utcnow().year
@@ -190,7 +190,7 @@ def _fetch_rolling_sources() -> list[dict]:
             "?query=psilocybin+OR+psychedelic+OR+mdma+OR+ayahuasca"
             "&fields=title,abstract,year,authors,externalIds,publicationDate"
             "&limit=20&sort=publicationDate",
-            headers=HEADERS, timeout=20,
+            headers=_semantic_scholar_headers(), timeout=20,
         )
         r.raise_for_status()
         for paper in r.json().get("data", []):

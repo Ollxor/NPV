@@ -20,6 +20,18 @@ HEADERS = {
     )
 }
 
+
+def _semantic_scholar_headers() -> dict:
+    """Semantic Scholar headers, with the API key attached when available.
+    An authenticated key gets a dedicated 1 req/s rate limit instead of
+    sharing an unauthenticated pool — the persistent 429s we were seeing
+    were from that shared pool, not our own (very low) request volume."""
+    headers = dict(HEADERS)
+    api_key = os.environ.get("SEMANTIC_SCHOLAR_API_KEY", "")
+    if api_key:
+        headers["x-api-key"] = api_key
+    return headers
+
 # Shared same-day fetch cache. The daily Slack scan (06:00 UTC) and the web
 # feed (06:30 UTC) both call fetch_all(); the first fetch of the UTC day hits
 # the sources and writes this file, the second reads it — halving load on the
@@ -372,7 +384,7 @@ def fetch_semantic_scholar() -> list[Article]:
         # Retry a few times with exponential backoff before giving up.
         r = None
         for attempt in range(4):
-            r = requests.get(SEMANTIC_SCHOLAR_API, headers=HEADERS, timeout=20)
+            r = requests.get(SEMANTIC_SCHOLAR_API, headers=_semantic_scholar_headers(), timeout=20)
             if r.status_code != 429:
                 break
             wait = 2 ** attempt + 1  # 2, 3, 5, 9 seconds

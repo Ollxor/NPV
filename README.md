@@ -46,7 +46,7 @@ Kör **varje måndag kl 07:00 CET**. Söker igenom DiVA och SwePub efter nya kan
 
 **Global/nordiskt:**
 - **PubMed** — via NCBI E-utilities API
-- **Semantic Scholar** — öppet API
+- **Semantic Scholar** — autentiserat med `SEMANTIC_SCHOLAR_API_KEY` (gratis nyckel via [semanticscholar.org/product/api](https://www.semanticscholar.org/product/api#api-key-form)), ger en egen 1 req/s-gräns istället för en delad pool. Innan nyckeln lades till (aug 2026) fick den ihållande 429-fel, se "Källhälsa"
 - **Psychedelic Alpha** — via RSS
 - **DiVA** — svenska uppsatser och examensarbeten
 - **SwePub** — svensk akademisk publicering (KB)

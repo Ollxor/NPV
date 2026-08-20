@@ -1,6 +1,26 @@
 {
   "items": [
     {
+      "title": "Ketamine's impact on rumination-related brain dynamics: insights from a randomized controlled fMRI trial.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42613319/",
+      "source": "PubMed",
+      "date": "2026-08-18",
+      "authors": [
+        "Meiering Marvin S",
+        "Weigner David",
+        "Gärtner Matti"
+      ],
+      "doi": "10.1038/s41398-026-04392-w",
+      "summary_en": "Randomized controlled fMRI study (N=75) examining ketamine's effects on brain network dynamics associated with rumination. Ketamine acutely reduced occurrence of a hybrid default mode-frontoparietal network pattern positively linked to rumination at baseline, with larger decreases in high-rumination individuals. Effects were transient, returning to baseline after 24 hours. Lamotrigine pretreatment nominally attenuated these changes, suggesting glutamatergic involvement.",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "rct",
+      "substances": [
+        "ketamine"
+      ],
+      "added_at": "2026-08-20T07:21:17.759198+00:00"
+    },
+    {
       "title": "Psilocybin-assisted psychotherapy for substance use disorders as a complex intervention: A systematic review of efficacy, mechanisms and psychotherapeutic frameworks.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42609034/",
       "source": "PubMed",

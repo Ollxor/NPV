@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-19T07:14:13.053774+00:00",
+  "generated_at": "2026-08-20T07:21:38.532332+00:00",
   "items": [
     {
       "title": "Blinding integrity in psychedelic research: Evidence from a comparative randomized controlled trial of psilocybin, MDMA, and methylphenidate in healthy volunteers",
@@ -32,6 +32,37 @@
         "mdma"
       ],
       "added_at": "2026-07-09T10:03:12.956794+00:00"
+    },
+    {
+      "title": "Ketamine's impact on rumination-related brain dynamics: insights from a randomized controlled fMRI trial.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42613319/",
+      "source": "PubMed",
+      "date": "2026-08-18",
+      "authors": [
+        "Meiering Marvin S",
+        "Weigner David",
+        "Gärtner Matti"
+      ],
+      "doi": "10.1038/s41398-026-04392-w",
+      "summaries": {
+        "en": "Randomized controlled fMRI study (N=75) examining ketamine's effects on brain network dynamics associated with rumination. Ketamine acutely reduced occurrence of a hybrid default mode-frontoparietal network pattern positively linked to rumination at baseline, with larger decreases in high-rumination individuals. Effects were transient, returning to baseline after 24 hours. Lamotrigine pretreatment nominally attenuated these changes, suggesting glutamatergic involvement.",
+        "sv": "Randomiserad, dubbelblind fMRI-studie (N=75) som undersökte ketamins effekter på hjärnans nätverksdynamik associerad med grubblande tankar. Ketamin minskade akut förekomsten av ett hybridmönster inom default mode- och frontoparietal-nätverk som var positivt kopplat till grubblande. Effekterna var övergående och återgick till utgångsvärden efter 24 timmar. Förberedande lamotriginbehandling dämpade nominellt dessa effekter, vilket tyder på glutamatergt inblandning.",
+        "no": "Randomisert, dobbeltblind fMRI-studie (N=75) som undersøkte ketamins effekter på hjernenettverk knyttet til grubling. Ketamin reduserte akutt forekomsten av et hybrid default mode-frontoparietal nettverksmønster positivt assosiert med grubling, med større reduksjoner hos individer med høyere grubling. Effektene var forbigående og returnerte til utgangsnivå etter 24 timer. Lamotrigin-forbehandling dempet nominelt disse effektene, noe som tyder på glutamaterginvolvement.",
+        "da": "Randomiseret, dobbeltblindet fMRI-studie (N=75) som undersøgte ketamins effekter på hjerneネtværksdynamik forbundet med grubling. Ketamin reducerede akut hyppigheden af et hybrid default mode-frontoparietal netværksmønster positivt associeret med grubling, med større reduktioner hos højtgublende individer. Effekterne var forbigående og vendte tilbage til udgangsniveauet efter 24 timer. Lamotriginforhåndsbehandling dæmpede nominelt disse effekter, hvilket tyder på glutamaterg indblandelse.",
+        "fi": "Satunnaistettu, kaksoissokkoinen fMRI-tutkimus (N=75), jossa tutkittiin ketamiinin vaikutuksia pohdiskeluun liittyvän aivojen verkkodynamiikkaan. Ketamiini vähensi akuutisti hybrid default mode-frontoparietal-verkkomallia, joka oli positiivisesti yhteydessä pohdiskeluun lähtötasolla. Vaikutukset olivat ohimeneviä ja palautuivat lähtötasoon 24 tunnin jälkeen. Lamotrigiini-esikäsittely lievensi näitä vaikutuksia nimellisesti, mikä viittaa glutamaattijärjestelmään osallistumiseen.",
+        "is": "Slembirannsókn með tvöfaldri blindun og fMRI (N=75) sem skoðaði áhrif ketamíns á gangverk heilans sem tengist endurtekningu hugsana. Ketamín minnkaði bráðlega tíðni tvöfaldra sjálfgefnu-og framhliðar-netkerfa sem var jákvætt tengt endurtekningu hugsana. Áhrif voru skammtíma og fóru aftur til upphafs eftir 24 klst. Lamotrigín-fyrirfarbúningur dempandi þessi áhrif, sem bendir til þátttöku glutamats.",
+        "et": "Randomiseeritud, kahekordse pimestamisega fMRI-uuringu (N=75) ketamiini mõjude uurimine ajudünaamilikale mudelidele, mis on seotud mõtisklustega. Ketamiin vähendasid teravalt hübriidse vaikeoleku ja frontoparieetaalse võrgustikumustri esinemise sagedust, mis oli positiivselt seotud mõtisklustega. Mõjud olid ajutised ja pöördusid 24 tunni pärast tagasi. Lamotrigiinieelse ravi summutas neid mõjusid, mis viitab glutamaatsusteemile.",
+        "lv": "Randomizēts, dubultaklls fMRI pētījums (N=75), kurā pārbaudīja ketamīna ietekmi uz smadzeņu tīkla dinamiku, kas saistīta ar rumināciju. Ketamīns akūti samazināja hibrīda noklusējuma režīma un priekšējā parietal tīkla modeļa esiešanu, kas bija pozitīvi saistīta ar rumināciju. Efekti bija pagaidu un atgriezās sākotnējā līmenī pēc 24 stundām. Lamotrigīna priekšapstrāde nominālā vērtībā slāpēja šos efektus.",
+        "lt": "Randomizuotas, dvigubai aklinas fMRI tyrimas (N=75), kuriame tyrinta ketamino įtaka smegenyse tinklams, susijusiems su ruminacija. Ketaminas sumažino hibridiniu numatytojo režimo ir priekinės parietal tinklo šablono pasirodymo dažnį, kuris buvo teigiamai susietas su rumiacijom. Efektai buvo trumpalaikiai ir grįžo į pradinį lygį po 24 valandų. Lamotrigino išankstinis gydymas vardine reikšme susilpnino šiuos efektus."
+      },
+      "notable": false,
+      "notable_reasons": null,
+      "relevance_score": 4,
+      "study_type": "rct",
+      "substances": [
+        "ketamine"
+      ],
+      "added_at": "2026-08-20T07:21:17.759198+00:00"
     },
     {
       "title": "The expansion of psychedelic-assisted therapy: The case for caution over acceleration.",
@@ -1902,37 +1933,6 @@
       "study_type": "review",
       "substances": [
         "other"
-      ],
-      "added_at": "2026-08-01T12:00:00+00:00"
-    },
-    {
-      "title": "Subjective and neurocognitive profiling of clinical doses of 3,4-methylenedioxymethamphetamine (MDMA) in healthy volunteers: implications for therapeutic use.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41951837/",
-      "source": "PubMed",
-      "date": "2026-Aug",
-      "authors": [
-        "Ramaekers Johannes G",
-        "Kuypers Kim P C",
-        "Vollenweider Franz X"
-      ],
-      "doi": "10.1038/s41380-026-03602-7",
-      "summaries": {
-        "en": "Subjective and neurocognitive profiling of clinical doses of 3,4-methylenedioxymethamphetamine (MDMA) in healthy volunteers: implications for therapeutic use.",
-        "sv": "Subjective and neurocognitive profiling of clinical doses of 3,4-methylenedioxymethamphetamine (MDMA) in healthy volunteers: implications for therapeutic use.",
-        "no": "Subjective and neurocognitive profiling of clinical doses of 3,4-methylenedioxymethamphetamine (MDMA) in healthy volunteers: implications for therapeutic use.",
-        "da": "Subjective and neurocognitive profiling of clinical doses of 3,4-methylenedioxymethamphetamine (MDMA) in healthy volunteers: implications for therapeutic use.",
-        "fi": "Subjective and neurocognitive profiling of clinical doses of 3,4-methylenedioxymethamphetamine (MDMA) in healthy volunteers: implications for therapeutic use.",
-        "is": "Subjective and neurocognitive profiling of clinical doses of 3,4-methylenedioxymethamphetamine (MDMA) in healthy volunteers: implications for therapeutic use.",
-        "et": "Subjective and neurocognitive profiling of clinical doses of 3,4-methylenedioxymethamphetamine (MDMA) in healthy volunteers: implications for therapeutic use.",
-        "lv": "Subjective and neurocognitive profiling of clinical doses of 3,4-methylenedioxymethamphetamine (MDMA) in healthy volunteers: implications for therapeutic use.",
-        "lt": "Subjective and neurocognitive profiling of clinical doses of 3,4-methylenedioxymethamphetamine (MDMA) in healthy volunteers: implications for therapeutic use."
-      },
-      "notable": false,
-      "notable_reasons": null,
-      "relevance_score": 4,
-      "study_type": "review",
-      "substances": [
-        "mdma"
       ],
       "added_at": "2026-08-01T12:00:00+00:00"
     }

@@ -1,7 +1,45 @@
 {
-  "date": "2026-08-19",
-  "cached_at": "2026-08-19T06:38:46.086983+00:00",
+  "date": "2026-08-20",
+  "cached_at": "2026-08-20T06:40:15.314453+00:00",
   "articles": [
+    {
+      "title": "The Timing of Plasticity: Beyond Synapses in Psychedelic Therapeutics.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42618142/",
+      "source": "PubMed",
+      "abstract": "",
+      "date": "2026-Sep-15",
+      "authors": [
+        "Christoffel Daniel J",
+        "Walsh Jessica J"
+      ],
+      "doi": "10.1016/j.biopsych.2026.07.001"
+    },
+    {
+      "title": "Links between cannabinoid hyperemesis syndrome symptoms and drug use, mental health problems, antisocial behavior, and personality in a national survey of adults in the United States.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42617216/",
+      "source": "PubMed",
+      "abstract": "Cannabinoid hyperemesis syndrome (CHS) is characterized by episodes of severe nausea, vomiting, and abdominal pain among those with heavy cannabis use. We estimated differences between those reporting CHS symptoms and those who use cannabis daily and less frequently on drug use, psychiatric symptoms, other health aliments, antisocial behavior, and personality. The National Firearms, Alcohol, Cannabis, and Suicide survey was administered to 7034 US adults (3427 male, 3607 female) in 2025. Survey items assessed substance use, common psychiatric symptoms, personality traits, and symptoms of CHS. Those with CHS symptoms reported the highest rates and greatest variety of drug use compared to others who used cannabis. Those with CHS symptoms reported higher rates of other drug use than those who used cannabis daily without CHS symptoms for opioids, hallucinogens, and sedatives, higher rates of drug overdoses, and greater use of all drug classes than those with less-than-daily cannabis use. Those with CHS symptoms also reported more depression, anxiety, sleep disturbances, chronic pain, antisocial behavior, intimate partner violence, and disinhibited personality traits than those who used cannabis daily (mean d = 0.58) and less frequently (mean d = 0.69) and those with no cannabis use in the past 12 months (mean d = 0.99). Those with CHS symptoms exhibit a variety of psychological and behavioral difficulties including higher rates of other drug use, psychiatric symptoms, antisocial behavior, and dysfunctional personality traits. Results highlight the importance of understanding and addressing the broader psychosocial challenges faced by people experiencing CHS symptoms.",
+      "date": "2026-08-15",
+      "authors": [
+        "Hicks Brian M",
+        "Price Amanda M",
+        "Whittington Blair J"
+      ],
+      "doi": "10.1016/j.drugalcdep.2026.113323"
+    },
+    {
+      "title": "Ketamine's impact on rumination-related brain dynamics: insights from a randomized controlled fMRI trial.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42613319/",
+      "source": "PubMed",
+      "abstract": "Rumination has been associated with aberrant dynamics of a coactivation pattern (CAP) comprising the default mode (DMN) and frontoparietal (FPN) networks. Ketamine exerts rapid antidepressant effects and may influence these dynamics via glutamatergic mechanisms. In a randomized, double-blind, placebo-controlled fMRI study, we investigated ketamine's effects on dynamic CAPs associated with rumination and examined whether inhibition of glutamatergic release through lamotrigine attenuates these effects. Seventy-five healthy adults were randomized to placebo-placebo, placebo-ketamine, or lamotrigine-ketamine treatment. Resting-state fMRI was acquired at baseline, during ketamine/placebo infusion, and 24 h post-infusion. Whole-brain CAP analysis identified seven recurring network configurations. Occurrence rates were examined for group differences, while controlling for age, sex, and drug plasma concentrations. Rumination was assessed using a validated self-report questionnaire. A hybrid DMN + FPN CAP showed a positive association with rumination at baseline. Ketamine acutely reduced the occurrence rate of this hybrid CAP compared to placebo, with larger decreases in individuals reporting higher rumination. These effects were transient, returning to baseline after 24 h. Exploratorily, ketamine also reduced engagement of a canonical somatomotor CAP during infusion. Lamotrigine pretreatment nominally attenuated ketamine-induced changes across analyses. Ketamine transiently alters dynamic brain states implicated in rumination and somatosensory processing, and preliminary evidence suggests partial glutamatergic mediation. These findings provide insights into ketamine's mechanism of action.",
+      "date": "2026-08-18",
+      "authors": [
+        "Meiering Marvin S",
+        "Weigner David",
+        "Gärtner Matti"
+      ],
+      "doi": "10.1038/s41398-026-04392-w"
+    },
     {
       "title": "Multiagent Large Language Model Framework for Psychotherapy Fidelity Assessment in Motivational Interviewing and Cognitive Behavioral Therapy Training: Cross-Sectional, Simulation-Based Evaluation Study.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42611045/",
@@ -214,44 +252,6 @@
         "Siegel Joshua S"
       ],
       "doi": "10.1001/jamapsychiatry.2026.2393"
-    },
-    {
-      "title": "Well-being as a primary endpoint in clinical trials: a call for consensus.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42581324/",
-      "source": "PubMed",
-      "abstract": "Psychiatric trials typically define success as symptom reduction, yet patients prioritize meaning, vitality, and functioning. This imbalance undervalues experiential benefits, distorting clinical, policy, and FDA decisions. Psychedelic trials illustrate this, where robust well-being gains sometimes accompany modest symptom effects. We argue well-being should be elevated to co-primary endpoint status, propose a Delphi-developed consensus well-being instrument with rigorous validation, and outline guardrails preventing approval of therapies that worsen the underlying condition.",
-      "date": "2026-08-06",
-      "authors": [
-        "Marseille Elliot",
-        "Kettner Hannes",
-        "Sgambati Tyrone J"
-      ],
-      "doi": "10.1038/s44184-026-00234-1"
-    },
-    {
-      "title": "Low-dose lithium, neuroprotection, and brain aging in bipolar disorder.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42581099/",
-      "source": "PubMed",
-      "abstract": "",
-      "date": "2026-08-11",
-      "authors": [
-        "Machado-Vieira Rodrigo",
-        "Zarate Carlos A"
-      ],
-      "doi": "10.1038/s41386-026-02519-7"
-    },
-    {
-      "title": "Psychedelics and astrocytes: a hypothesis-driven perspective on neuro-glial integration, network plasticity, and neuroimmune reprogramming.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42581074/",
-      "source": "PubMed",
-      "abstract": "Psychedelics, including psilocybin, lysergic acid diethylamide (LSD) and related psychoplastogens, have re-emerged as powerful modulators of brain function with therapeutic potential across a broad range of neuropsychiatric disorders. Although prevailing mechanistic frameworks emphasize neuronal serotonin 2 A receptor (5-HT2AR)-mediated signaling, accumulating evidence suggests that astrocytes-once regarded primarily as passive support cells-may play active and potentially central roles in shaping psychedelic-induced brain states. Astrocytes are uniquely positioned to integrate neuromodulatory signals, regulate synaptic transmission, coordinate metabolic support, and orchestrate neuroimmune responses. Here, we hypothesize that astrocytes function as critical integrative nodes translating psychedelic-induced receptor activation into circuit-level plasticity and lasting behavioral change. We synthesize emerging evidence on astrocytic calcium signaling, gliotransmission, metabolic coupling, neurovascular regulation, and immune gating in the context of psychedelic action. Based on these observations, we introduce the hypothesis of a neuro-glial ensemble framework in which neuron-astrocyte interactions may constitute a minimal functional unit contributing to psychedelic-induced network reorganization. This systems-level perspective offers a testable mechanistic hypothesis linking receptor pharmacology to large-scale brain dynamics and clinical outcomes. We conclude by outlining key predictions of this hypothesis and proposing experimental strategies to rigorously test them.",
-      "date": "2026-08-11",
-      "authors": [
-        "Ke Xiaoshan",
-        "Du Xiubo",
-        "Wang Xiaohui"
-      ],
-      "doi": "10.1038/s41380-026-03816-9"
     },
     {
       "title": "Scoop: Johnson & Johnson to Lead Delix Therapeutics’ $85M Series C",
@@ -568,7 +568,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2018-004480-31/CZ",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-08-19",
+      "date": "2026-08-20",
       "authors": [],
       "doi": ""
     },
@@ -577,7 +577,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2020-005037-32/CZ",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-08-19",
+      "date": "2026-08-20",
       "authors": [],
       "doi": ""
     },
@@ -586,7 +586,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2021-002909-10/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-08-19",
+      "date": "2026-08-20",
       "authors": [],
       "doi": ""
     },
@@ -595,7 +595,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2015-000550-37/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-08-19",
+      "date": "2026-08-20",
       "authors": [],
       "doi": ""
     },
@@ -604,7 +604,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2021-000041-40/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-08-19",
+      "date": "2026-08-20",
       "authors": [],
       "doi": ""
     },
@@ -613,7 +613,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2020-000829-55/DK",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-08-19",
+      "date": "2026-08-20",
       "authors": [],
       "doi": ""
     },
@@ -622,7 +622,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2020-002790-94/SE",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-08-19",
+      "date": "2026-08-20",
       "authors": [],
       "doi": ""
     },
@@ -631,7 +631,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2021-006200-33/FI",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-08-19",
+      "date": "2026-08-20",
       "authors": [],
       "doi": ""
     },
@@ -640,7 +640,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2019-004812-73/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-08-19",
+      "date": "2026-08-20",
       "authors": [],
       "doi": ""
     },
@@ -649,7 +649,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2022-002369-14/BE",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-08-19",
+      "date": "2026-08-20",
       "authors": [],
       "doi": ""
     },

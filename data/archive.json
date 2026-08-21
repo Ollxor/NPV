@@ -1,6 +1,81 @@
 {
   "items": [
     {
+      "title": "From network destabilisation to adaptive reconfiguration: A hippocampal longitudinal Axis model of psychedelic therapy.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42624281/",
+      "source": "PubMed",
+      "date": "2026-08-20",
+      "authors": [
+        "Kandilakis Charalampos L",
+        "Papatheodoropoulos Costas"
+      ],
+      "doi": "10.1016/j.pnpbp.2026.111898",
+      "summary_en": "A new theoretical model proposes how psychedelics produce therapeutic effects through two phases: initial destabilisation of brain network dynamics increases neural flexibility and disrupts maladaptive patterns, followed by activity-dependent plasticity that stabilises beneficial circuit reorganisation. The framework uses the hippocampal longitudinal axis to explain how spatially differentiated neurochemical changes may produce transdiagnostic therapeutic effects across mood, cognitive, and behavioural symptoms.",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "other",
+      "substances": [
+        "psilocybin"
+      ],
+      "added_at": "2026-08-21T07:22:42.288520+00:00"
+    },
+    {
+      "title": "Suicidal ideation covaries with depressive severity during six-month real-world esketamine treatment in a cohort enriched for borderline personality disorder.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42624219/",
+      "source": "PubMed",
+      "date": "2026-08-20",
+      "authors": [
+        "Martiadis Vassilis",
+        "Raffone Fabiola",
+        "Mazzoni Filippo"
+      ],
+      "doi": "10.1016/j.jad.2026.122405",
+      "summary_en": "A real-world study tracked suicidal ideation in patients with borderline personality disorder receiving esketamine over six months. Results showed suicidal thoughts varied alongside depressive symptom severity, suggesting a relationship between depression improvement and reduced suicidality during treatment.",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "observational",
+      "substances": [
+        "ketamine"
+      ],
+      "added_at": "2026-08-21T07:22:42.288520+00:00"
+    },
+    {
+      "title": "Psychedelics align brain activity with context.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42618786/",
+      "source": "PubMed",
+      "date": "2026-08-19",
+      "authors": [
+        "Stoliker Devon",
+        "Novelli Leonardo",
+        "Khajehnejad Moein"
+      ],
+      "doi": "10.1038/s41586-026-10910-z",
+      "summary_en": "Study demonstrates that psychedelics reorganize brain connectivity to align neural activity with environmental context. This reorganization underlies the profound alterations in consciousness observed during psychedelic experiences. Research findings suggest mechanisms by which these substances modify information processing across distributed brain networks.",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "preclinical",
+      "substances": [
+        "other"
+      ],
+      "added_at": "2026-08-21T07:22:42.288520+00:00"
+    },
+    {
+      "title": "Credentials, Clinics, and Costs: Stakeholders Respond to HRSA’s Psychedelic Therapy RFI",
+      "url": "https://psychedelicalpha.com/news/credentials-clinics-and-costs-stakeholders-respond-to-hrsas-psychedelic-therapy-rfi/",
+      "source": "Psychedelic Alpha",
+      "date": "2026-08-20",
+      "authors": [],
+      "doi": "",
+      "summary_en": "The U.S. Health Resources and Services Administration received 59 stakeholder comments on training and delivery models for FDA-approved psychedelic therapies in ambulatory clinics. The feedback addresses key challenges: therapist credentials, clinic infrastructure, and treatment costs for potential future clinical implementations.",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "other",
+      "substances": [
+        "psilocybin"
+      ],
+      "added_at": "2026-08-21T07:22:42.288520+00:00"
+    },
+    {
       "title": "Ketamine's impact on rumination-related brain dynamics: insights from a randomized controlled fMRI trial.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42613319/",
       "source": "PubMed",

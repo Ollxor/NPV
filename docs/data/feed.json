@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-20T07:21:38.532332+00:00",
+  "generated_at": "2026-08-21T07:23:48.284697+00:00",
   "items": [
     {
       "title": "Blinding integrity in psychedelic research: Evidence from a comparative randomized controlled trial of psilocybin, MDMA, and methylphenidate in healthy volunteers",
@@ -32,6 +32,125 @@
         "mdma"
       ],
       "added_at": "2026-07-09T10:03:12.956794+00:00"
+    },
+    {
+      "title": "From network destabilisation to adaptive reconfiguration: A hippocampal longitudinal Axis model of psychedelic therapy.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42624281/",
+      "source": "PubMed",
+      "date": "2026-08-20",
+      "authors": [
+        "Kandilakis Charalampos L",
+        "Papatheodoropoulos Costas"
+      ],
+      "doi": "10.1016/j.pnpbp.2026.111898",
+      "summaries": {
+        "en": "A new theoretical model proposes how psychedelics produce therapeutic effects through two phases: initial destabilisation of brain network dynamics increases neural flexibility and disrupts maladaptive patterns, followed by activity-dependent plasticity that stabilises beneficial circuit reorganisation. The framework uses the hippocampal longitudinal axis to explain how spatially differentiated neurochemical changes may produce transdiagnostic therapeutic effects across mood, cognitive, and behavioural symptoms.",
+        "sv": "En ny teoretisk modell förklarar hur psykedelika ger terapeutisk effekt genom två faser: initialt destabilisering av hjärnans nätverksdynamik ökar neural flexibilitet ochbryter maladaptiva mönster, följt av aktivitetsberoende plasticitet som stabiliserar fördelaktig kretsomorganisering. Ramverket använder hippocampus longitudinella axel för att förklara hur rumsligt differentierad neurokemisk förändring kan producera transdiagnostisk terapeutisk effekt över stämnings-, kognitiva och beteendesymtom.",
+        "no": "En ny teoretisk modell forklarer hvordan psykedelika gir terapeutisk effekt gjennom to faser: initial destabilisering av hjernens nettverksdynamikk øker neural fleksibilitet og bryter maladaptive mønstre, fulgt av aktivitetsavhengig plastisitet som stabiliserer fordelaktig kretsomorganisering. Rammeverket bruker hippocampus longitudinelle akse for å forklare hvordan romlig differensiert neurokjemisk endring kan produsere transdiagnostisk terapeutisk effekt over stemnings-, kognitive og atferdssymptomer.",
+        "da": "En ny teoretisk model forklarer, hvordan psykedelika producerer terapeutisk effekt gennem to faser: initial destabilisering af hjernens netværksdynamik øger neural fleksibilitet og bryder maladaptive mønstre, efterfulgt af aktivitetsafhængig plasticitet som stabiliserer gavnlig kredsløbsomorganisering. Rammen bruger hippocampus' longitudinale akse til at forklare, hvordan rumligt differentiel neurokemisk ændring kan producere transdiagnostisk terapeutisk effekt på stemnings-, kognitive og adfærdssymptomer.",
+        "fi": "Uusi teoreettinen malli selittää, kuinka psykedeellit tuottavat terapeuttisen vaikutuksen kahden vaiheen kautta: alkuperäinen aivojen verkko­dynamiikan epävakaauttaminen lisää hermostollista joustavuutta ja häiritsee sopeutumattomia malleja, jonka jälkeen aktiviteetista riippuva plastisuus vakauttaa hyödyllisen piirien uudelleenjärjestäytymisen. Malli käyttää hippokampuksen pituusakselia selittämään, kuinka alueellisesti eriytynyt neurokemiallinen muutos voi tuottaa transdiagnostisen terapeuttisen vaikutuksen mielialan, kognitiivisten ja käyttäytymisen oireisiin.",
+        "is": "Ný fræðileg módel útskýrir hvernig geðlyfjanir framleiða meðferðaráhrif í gegnum tvö stig: upphafleg óstöðugleiki í virkni heilanets eykur tauganæmni og brýtur óheppileg mynstur, fylgt eftir með starfsemastengdri seiglu sem stöðugleikur hagstæða endurbæt hringrása. Módelið notar lengdundaras hippókampus til að útskýra hvernig staðbundin frábrugðuð efnafræðileg breyting getur framleitt yfirgripsmikla meðferðaráhrif á þunglyndi, þekkingargalla og hegðunareinkenna.",
+        "et": "Uus teoreetiline mudel selgitab, kuidas psühhedeelikud tekitavad terapeeutilist efekti kahes faasis: algne aju võrgudünaamilise destabiliseerumine suurendab neuronaalsust paindlikkust ja katkestab kohanemisvõimetuid mustreid, millele järgneb tegevusest sõltuv plastilisus, mis stabiliseerib kasulikku ringide ümberkorraldamist. Mudel kasutab hipokampuse pikkustelge et selgitada, kuidas ruumiliselt diferentseeritud neurokemikaalne muutus võib tekitada transdiagnostilist terapeeutilist efekti meeleolu-, kognitiivsete ja käitumuslike sümptomite suhtes.",
+        "lv": "Jauns teorētisks modelis izskaidro, kā psihedeliki rada terapeitiskus efektus divās fāzēs: sākotnēja smadzeņu tīkla dinamikas destabilizācija palielina neirālo elastību un pārtrauc nepielāgojumus modeļus, kam seko darbību atkarīga plasticitāte, kas stabilizē labvēlīgu ķēžu pārkonfigurēšanu. Modelis izmanto hipokampa garenasu, lai izskaidrot, kā telpiskā diferenciāla neuroķīmiskā izmaiņa var radīt transdiagnostisku terapēitiskus efektus attiecībā uz garastāvokļa, kognitīvajiem un uzvedības simptomiem.",
+        "lt": "Naujas teorinis modelis paaiškina, kaip psichedelikai sukuria terapinį efektą dviem etapais: pradinė smegenų tinklo dinamikos destabilizacija padidina neuroninį lankstumą ir nutraukia nepritaikytus modelius, po to seka veiklos priklausoma plastiškas, kuri stabilizuoja naudingą grandinių rekonfigūraciją. Modelis naudoja hipokampo galinę ašį, kad paaiškintų, kaip erdviškai diferencijuota neurochemine pokytis gali sukelti transdiagnostinį terapinį efektą nuotaikos, pažintinių ir elgesio simptomams."
+      },
+      "notable": false,
+      "notable_reasons": null,
+      "relevance_score": 4,
+      "study_type": "other",
+      "substances": [
+        "psilocybin"
+      ],
+      "added_at": "2026-08-21T07:22:42.288520+00:00"
+    },
+    {
+      "title": "Suicidal ideation covaries with depressive severity during six-month real-world esketamine treatment in a cohort enriched for borderline personality disorder.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42624219/",
+      "source": "PubMed",
+      "date": "2026-08-20",
+      "authors": [
+        "Martiadis Vassilis",
+        "Raffone Fabiola",
+        "Mazzoni Filippo"
+      ],
+      "doi": "10.1016/j.jad.2026.122405",
+      "summaries": {
+        "en": "A real-world study tracked suicidal ideation in patients with borderline personality disorder receiving esketamine over six months. Results showed suicidal thoughts varied alongside depressive symptom severity, suggesting a relationship between depression improvement and reduced suicidality during treatment.",
+        "sv": "En verklig observationsstudie undersökte suicidal ideation hos patienter med borderline personlighetsstörning som behandlades med esketamin under sex månader. Resultaten visade att suicidala tankar varierade tillsammans med depressiv symptomatisk allvarlighetsgrad, vilket tyder på ett samband mellan förbättring av depression och minskad suicidalitet.",
+        "no": "En observasjonsstudie fulgte suicidal ideation hos pasienter med borderline personlighetsforstyrrelsesomfikk esketaminbehandling i seks måneder. Resultatene viste at suicidale tanker varierte sammen med alvorlighetsgrad av depressive symptomer, noe som tyder på sammenheng mellom depresjonsforbedring og redusert suicidalitet.",
+        "da": "En realverdens-studie fulgte suicidal ideation hos patienter med borderline personlighedsforstyrrelsesomfik esketaminbehandling i seks måneder. Resultaterne viste, at suicidale tanker varierede sammen med depressiv symptomatisk alvorlighed, hvilket tyder på sammenhæng mellem depressionsforbedring og reduceret suicidalitet.",
+        "fi": "Todellisen maailman tutkimus seurasi itsemurhapuolitteluita potilailla, joilla oli rajatapaistuva persoonallisuushäiriö ja jotka saivat esketamiinihoitoa kuuden kuukauden ajan. Tulokset osoittivat, että itsemurhapuolittelut vaihtelivat masennusoireiden vakavuuden mukaan, mikä viittaa masennuksen paranemisen ja itsetuhoisten ajatusten vähenemisen väliseen yhteyteen.",
+        "is": "Raunverulegt rannsókn fylgdist með sjálfsmorðshugsundum hjá sjúklingum með borderline persónuleikaflæki sem fengu esketamínmeðferð yfir sex mánuði. Niðurstöður sýndu að sjálfsmorðshugsundir breyttust samhliða alvarleika þunglyndiseinkennis, sem bendir til tengsl milli bata þunglyndis og minni sjálfsmorðshættu.",
+        "et": "Tegelikku elus uuringus jälgiti enesetappe mõtteid piiravate isiksuse häirete patsientidel, kes said esketamiini ravi kuue kuu jooksul. Tulemused näitasid, et enesetappe mõtted varieerusid depressiivse sümptomi raskusastme kõikumisega, mis viitab depressiooni paranemise ja enesetappeliste mõtetega seotud vähenemise seosele.",
+        "lv": "Reālās pasaules pētījumā tika uzraudzīti pašnāvniecības idejas pacientiem ar robežpersonības traucējumiem, kuri saņēma esketamīna ārstēšanu sešus mēnešus. Rezultāti parādīja, ka pašnāvniecības domas mainījās līdz ar depresijas simptomu smaguma pakāpi, kas liecina par saistību starp depresijas uzlabošanos un samazinātu pašnāvniecības risku.",
+        "lt": "Realaus pasaulio tyrime buvo stebimos savižudybės ideacijos pas pacientus su pasienio asmenybės sutrikimu, gavusių esketamino gydymą šešis mėnesius. Rezultatai parodė, kad savižudybės ideacijos kito kartu su depresijos simptomų sunkumu, kas rodo ryšį tarp depresijos pagerinimo ir sumažėjusios savižudybės rizikos."
+      },
+      "notable": false,
+      "notable_reasons": null,
+      "relevance_score": 4,
+      "study_type": "observational",
+      "substances": [
+        "ketamine"
+      ],
+      "added_at": "2026-08-21T07:22:42.288520+00:00"
+    },
+    {
+      "title": "Credentials, Clinics, and Costs: Stakeholders Respond to HRSA’s Psychedelic Therapy RFI",
+      "url": "https://psychedelicalpha.com/news/credentials-clinics-and-costs-stakeholders-respond-to-hrsas-psychedelic-therapy-rfi/",
+      "source": "Psychedelic Alpha",
+      "date": "2026-08-20",
+      "authors": [],
+      "doi": "",
+      "summaries": {
+        "en": "The U.S. Health Resources and Services Administration received 59 stakeholder comments on training and delivery models for FDA-approved psychedelic therapies in ambulatory clinics. The feedback addresses key challenges: therapist credentials, clinic infrastructure, and treatment costs for potential future clinical implementations.",
+        "sv": "Den amerikanska Health Resources and Services Administration mottog 59 synpunkter från intressenter om utbildnings- och leveransmodeller för FDA-godkända psykedelika i ambulanta kliniker. Återkopplingen behandlar centrala utmaningar: terapeututbildning, klinikinfrastruktur och behandlingskostnader.",
+        "no": "Den amerikanske Health Resources and Services Administration mottok 59 innspill fra interessenter om opplærings- og leveringsmodeller for FDA-godkjente psykedelika i polikliniske innstillinger. Tilbakemeldingene tar opp sentrale utfordringer: terapeutkvalifikasjoner, klinikinfrastruktur og behandlingskostnader.",
+        "da": "Den amerikanske Health Resources and Services Administration modtog 59 høringssvar om uddannelses- og leveringsmodeller for FDA-godkendte psykedelika i ambulante kliniker. Tilbagemeldingerne behandler centrale udfordringer: terapeuttilkvalifikationer, klinikinfrastruktur og behandlingsomkostninger.",
+        "fi": "Yhdysvaltain Health Resources and Services Administration sai 59 lausuntoa FDA-hyväksyttyjen psykedeliikkahoitojen koulutus- ja toimintamalleista avohoitoklinikoissakin. Lausunnoissa käsitellään keskeisiä haasteita: terapeuttienkelpoisuus, klinikan infrastruktuuri ja hoitokustannukset.",
+        "is": "Bandarísk Health Resources and Services Administration fór fram með 59 athugasemdir um þjálfun og afhendingarlíkön fyrir FDA-samþykkta sálfræðilyfjalyf á göngudeildarkliníkum. Athugasemdir fjallaði um helstu áskoranir: hæfni meðferðarmanna, innviði klíníka og meðferðarkostnað.",
+        "et": "USA Health Resources and Services Administration sai 59 arvamust FDA-heakskiidetud psühhedeeliliste teraapiameetodite koolituse ja ambulatoorset ravi puudutavate mudelite kohta. Tagasiside käsitleb peamisi väljakutseid: terapeudi kvalifikatsiooni, kliiniku infrastruktuuri ja ravi kulusid.",
+        "lv": "ASV Health Resources and Services Administration saņēma 59 komentārus par FDA apstiprinātu psihedeliku terapijas apmācības un ambulatoro aprūpes modeļiem. Atsauksmes risina galvenos jautājumus: terapeita kvalifikāciju, klīnikas infrastruktūru un ārstēšanas izmaksas.",
+        "lt": "JAV Health Resources and Services Administration gavo 59 pastabas apie FDA patvirtintų psichedelikų terapijos mokymo ir ambulatorinės priežiūros modelius. Atsiliepimuose nagrinėjami pagrindiniai iššūkiai: terapininko kvalifikacija, klinikos infrastruktūra ir gydymo kaštai."
+      },
+      "notable": false,
+      "notable_reasons": null,
+      "relevance_score": 4,
+      "study_type": "other",
+      "substances": [
+        "psilocybin"
+      ],
+      "added_at": "2026-08-21T07:22:42.288520+00:00"
+    },
+    {
+      "title": "Psychedelics align brain activity with context.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42618786/",
+      "source": "PubMed",
+      "date": "2026-08-19",
+      "authors": [
+        "Stoliker Devon",
+        "Novelli Leonardo",
+        "Khajehnejad Moein"
+      ],
+      "doi": "10.1038/s41586-026-10910-z",
+      "summaries": {
+        "en": "Study demonstrates that psychedelics reorganize brain connectivity to align neural activity with environmental context. This reorganization underlies the profound alterations in consciousness observed during psychedelic experiences. Research findings suggest mechanisms by which these substances modify information processing across distributed brain networks.",
+        "sv": "Studie visar att psykedelika reorganiserar hjärnans konnektivitet för att anpassa neural aktivitet till miljökontext. Denna omorganisering ligger bakom de djupa förändringarna i medvetande som observeras under psykedeliska upplevelser. Resultaten förklarar mekanismer för hur dessa ämnen modifierar informationsbearbetning i spridda hjärnetnätverk.",
+        "no": "Studie viser at psykedelika reorganiserer hjernens konnektivitet for å justere nevral aktivitet til miljøkontekst. Denne omorganiseringen ligger til grunn for de dype endringene i bevissthet som observeres under psykedeliske opplevelser. Funnene forklarer mekanismer for hvordan disse stoffene modifiserer informasjonsbehandling i spredte hjernenettverk.",
+        "da": "Studie viser, at psykedelika reorganiserer hjernens forbindelser for at tilpasse neural aktivitet til miljøkontekst. Denne reorganisering ligger til grund for de dybe ændringer i bevidsthed, som observeres under psykedeliske oplevelser. Resultaterne forklarer mekanismer for, hvordan disse stoffer modificerer informationsbehandling i distribuerede hjernenetværk.",
+        "fi": "Tutkimus osoittaa, että psykedeelit organisoivat uudelleen aivojen verkkojen yhteyksiä sopeutumaan hermostollisen aktiviteetin ympäristön kontekstiin. Tämä uudelleenorganisaatio selittää psykedeelisten kokemusten aikana havaittavat syvät tietoisuuden muutokset. Tulokset valaisevat mekanismeja, joilla nämä aineet muovaavat tiedon käsittelyä hajautetuissa aivoverkoissa.",
+        "is": "Rannsókn sýnir að geðrofslyf endurskipuleggja tengingar heilans til að samræma taugastarfsemi við umhverfiskostnað. Þessi endurskipulagning útskýrir ítarlegar breytingar á vitund sem sést við geðrofslyfjastarf. Niðurstöður skýra aðferðir sem þessi efni breyta upplýsingavinnslu í dreifðum heila netum.",
+        "et": "Uurimus näitab, et psühhedeelikumid korraldavad ümber aju ühenduste võrke, et kohandada neuraalne aktiivsus keskkonna kontekstiga. See ümberkorraldamine seletab psühhedeelikumide kasutamisel täheldatud sügavaid teadvuse muutusi. Tulemused selgitavad mehhanisme, kuidas need ained muudavad infotöötlust jaotunud ajaruutes.",
+        "lv": "Pētījums parāda, ka psihedeliski savienojumi pārkorrektē smadzeņu savienojumu tīklus, lai saskaņotu neirālo aktivitāti ar vides kontekstu. Šī pārkorrektēšana izskaidro dziļas apziņas izmaiņas, kas novērotas psihedelisko pieredžu laikā. Rezultāti skaidro mehānismus, kā šīs vielas maina informācijas apstrādi izkliedētos smadzeņu tīklos.",
+        "lt": "Tyrimas parodė, kad psichodelikai pervartoja smegenų ryšius, kad suderintų neuroninę aktyvumą su aplinkos kontekstu. Šis persitvarkymas paaiškina gilus sąmonės pokyčius, pastebėtus psichodelinių patirčių metu. Rezultatai atveria mechanizmus, kaip šios medžiagos modifikuoja informacijos apdorojimą paskirstytuose smegenų tinkluose."
+      },
+      "notable": false,
+      "notable_reasons": null,
+      "relevance_score": 4,
+      "study_type": "preclinical",
+      "substances": [
+        "other"
+      ],
+      "added_at": "2026-08-21T07:22:42.288520+00:00"
     },
     {
       "title": "Ketamine's impact on rumination-related brain dynamics: insights from a randomized controlled fMRI trial.",
@@ -1809,130 +1928,6 @@
       "study_type": "observational",
       "substances": [
         "ketamine"
-      ],
-      "added_at": "2026-08-01T12:00:00+00:00"
-    },
-    {
-      "title": "5-HT",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42068196/",
-      "source": "PubMed",
-      "date": "2026-Aug",
-      "authors": [
-        "Zahid Zarmeen",
-        "Strassman Rick J",
-        "Qualls Clifford R"
-      ],
-      "doi": "10.1177/02698811261443696",
-      "summaries": {
-        "en": "A double-blind, randomized, placebo-controlled study (n=12) examined how pindolol pretreatment affects subjective responses to DMT. Participants received sub-hallucinogenic intravenous DMT (0.1 mg/kg) after oral pindolol (30 mg). Pindolol pretreatment significantly increased DMT-induced subjective effects via 5-HT2A receptor mechanisms, with moderate effect size. Results suggest serotonergic pathways mediate subjective experiences potentially relevant to therapeutic outcomes.",
-        "sv": "En dubbelblind, randomiserad, placebo-kontrollerad studie (n=12) undersökte hur pindololprebehandling påverkar subjektiva reaktioner på DMT. Deltagare fick subhallucinogen intravenös DMT (0,1 mg/kg) efter oral pindolol (30 mg). Pindololprebehandling ökade signifikant DMT-inducerade subjektiva effekter via 5-HT2A-receptorer med måttlig effektstorlek. Resultaten tyder på att serotonerga vägar medierar subjektiva upplevelser relevanta för terapeutiska utfall.",
-        "no": "En dobbeltblind, randomisert, placebo-kontrollert studie (n=12) undersøkte hvordan pindololprebehandling påvirker subjektive responser på DMT. Deltakere fikk subhallucinogen intravenøs DMT (0,1 mg/kg) etter oral pindolol (30 mg). Pindololprebehandling økte signifikant DMT-induserte subjektive effekter via 5-HT2A-reseptorer med moderat effektstørrelse. Resultatene tyder på at serotonerge veier medierer subjektive opplevelser relevant for terapeutiske utfall.",
-        "da": "Et dobbeltblindet, randomiseret, placebo-kontrolleret studie (n=12) undersøgte, hvordan pindololpræbehandling påvirker subjektive reaktioner på DMT. Deltagere modtog subhallucinogen intravenøs DMT (0,1 mg/kg) efter oral pindolol (30 mg). Pindololpræbehandling øgede signifikant DMT-inducerede subjektive effekter via 5-HT2A-receptorer med moderat effektstørrelse. Resultaterne tyder på, at serotonerge veje medierer subjektive oplevelser relevant for terapeutiske resultater.",
-        "fi": "Kaksoissokkoutettu, satunnaistettu, lumekontrolloitu tutkimus (n=12) tutki, miten pindololiesikäsittely vaikuttaa subjektiivisiin DMT-vasteisiin. Osallistujat saivat subhalusinogeeninista intravenöösä DMT:tä (0,1 mg/kg) suullisen pindololiannoksen (30 mg) jälkeen. Pindololiesikäsittely lisäsi merkitsevästi DMT:n aiheuttamia subjektiivisia vaikutuksia 5-HT2A-reseptoreiden kautta keskikokoisella efektilla. Tulokset viittaavat siihen, että serotonergiset polut välittävät subjektiivisia kokemuksia terapeuttisten tulosten kannalta.",
-        "is": "Tvöfalt blindað, handahófskennt, lyfleysu-stjórnað rannsókn (n=12) kannaði hvernig pindolól-formeðferð hefur áhrif á huglæga svörun við DMT. Þátttakendur fengu undirhallucinógan innan­æð DMT (0,1 mg/kg) eftir munnlega pindolól (30 mg). Pindolól-formeðferð jók marktækt DMT-framkallaða huglæga áhrif í gegnum 5-HT2A-viðtaka með miðlungsáhrifastærð. Niðurstöður benda til þess að serótónínergar slóðir miðla huglægum upplifunum sem skipta máli fyrir meðferðarúrslök.",
-        "et": "Topeltkumblitud, randomiseeritud, platseebo-kontrollitud uuring (n=12) uuris, kuidas pindolooli eeltöötlus mõjutab DMT-i subjektiivseid reaktsioone. Osalejad said subhallutsogenoosset intraveenoosset DMT-d (0,1 mg/kg) pärast suulist pindolooli (30 mg). Pindolooli eeltöötlus suurendas märkimisväärselt DMT-i põhjustatud subjektiivseid efekte 5-HT2A-retseptorite kaudu keskmise efektisuurusega. Tulemused viitavad sellele, et serotonergilised rajad vahendavad subjektiivseid kogemusi, mis on olulised ravi tulemuste seisukohalt.",
-        "lv": "Dubultslēpta, randomizēta, placebo-kontrolēta pētījums (n=12) pēta, kā pindolola priekšapstrāde ietekmē subjektīvas atbildes uz DMT. Dalībnieki saņēma subhallucinogenu intravenozā DMT (0,1 mg/kg) pēc mutvārdu pindolola (30 mg). Pindolola priekšapstrāde nozīmīgi palielināja DMT izraisītus subjektīvus efektus caur 5-HT2A receptoriem ar vidēju efekta lielumu. Rezultāti liecina, ka serotoninērgie ceļi mediē subjektīvus pieredzes, kas ir svarīgas terapeitisko rezultātu ziņā.",
-        "lt": "Dvigubai neapskaidrus, atsitiktinai paskirstytas, placebu kontroliuojamas tyrimas (n=12) tyre, kaip pindololo išankstinis gydymas veikia subjektyvius DMT atsakus. Dalyviai gavo subhaliumocinogeninį intravenini DMT (0,1 mg/kg) po žalios pindololo doze (30 mg). Pindololo išankstinis gydymas reikšmingai padidino DMT sukeltas subjektyvias pasekmes per 5-HT2A receptorius su vidutinio dydžio efektu. Rezultatai rodo, kad serotoninergiai keliai mediuoja subjektyvias patirtis, svarbias terapinių rezultatų atžvilgiu."
-      },
-      "notable": false,
-      "notable_reasons": null,
-      "relevance_score": 4,
-      "study_type": "rct",
-      "substances": [
-        "other"
-      ],
-      "added_at": "2026-08-01T12:00:00+00:00"
-    },
-    {
-      "title": "Intranasal Ketamine for Existential Distress in Advanced Cancer.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42055096/",
-      "source": "PubMed",
-      "date": "2026-Aug",
-      "authors": [
-        "Aguiar Stefan",
-        "Makarious Mary",
-        "Lipsitz Orly"
-      ],
-      "doi": "10.1016/j.jpainsymman.2026.04.611",
-      "summaries": {
-        "en": "The INKeD-PC trial evaluated intranasal ketamine for depression and existential distress in 15 advanced cancer patients receiving palliative care. Participants received 3 ketamine doses. Secondary outcome analysis showed significant improvements across all measures: anxiety (d=1.22), death anxiety (d=0.91), symptom burden (d=1.21), and quality of life (d=1.53), exceeding clinically meaningful thresholds. Qualitative feedback supported quantitative findings.",
-        "sv": "Studien INKeD-PC undersökte intranasalt ketamin för depression och existentiell ångest hos 15 patienter med avancerad cancer i palliativ vård. Deltagarna fick 3 doser ketamin. Sekundär analysanalys visade signifikanta förbättringar på alla mätningar: ångest (d=1,22), dödsångest (d=0,91), symtombörda (d=1,21) och livskvalitet (d=1,53), vilket överträffade kliniskt relevanta nivåer. Kvalitativ återkoppling stödde de kvantitativa resultaten.",
-        "no": "Studien INKeD-PC evaluerte intranasalt ketamin for depresjon og eksistensiell angst hos 15 pasienter med avansert kreft under palliativ behandling. Deltakerne fikk 3 ketamindoser. Sekundær analyse viste signifikante forbedringer på alle målinger: angst (d=1,22), dødsangst (d=0,91), symptombyrde (d=1,21) og livskvalitet (d=1,53), som oversteg klinisk relevante terskler. Kvalitativ tilbakemelding støttet de kvantitative funnene.",
-        "da": "Studien INKeD-PC evaluerede intranasalt ketamin for depression og eksistentiel angst hos 15 patienter med fremskreden kræft i pallativ behandling. Deltagerne modtog 3 ketamindoser. Sekundær analyse viste betydelige forbedringer på alle mål: angst (d=1,22), dødsangst (d=0,91), symptombyrde (d=1,21) og livskvalitet (d=1,53), som oversteg klinisk relevante tærskler. Kvalitativ feedback understøttede de kvantitative resultater.",
-        "fi": "INKeD-PC-tutkimus arvioi intranaasaalista ketamiinia masennukseen ja eksistentiaaliseen ahdistukseen 15 edistyneessä syövässä olevalla potilaalla palliatiivihoidon aikana. Osallistujat saivat 3 ketamiannostusta. Toissijainen analyysi osoitti merkittäviä parannuksia kaikissa mittauksissa: ahdistus (d=1,22), kuolemanahdistus (d=0,91), oireita (d=1,21) ja elämänlaatu (d=1,53), jotka ylittivät kliinisesti merkitykselliset rajat. Laadullinen palaute tuki määrällisiä tuloksia.",
-        "is": "INKeD-PC rannsóknin kannaðist á intranasal ketamíni við þunglyndi og tilvistarhrægð hjá 15 sjúklingum með langt genginn krabbamein á lindrandi meðferð. Þátttakendur fengu 3 skammta ketamíns. Aukaaðgreining sýndi marktæka bætingu á öllum mælikvörðum: kvíði (d=1,22), dánakvíði (d=0,91), einkennaálagi (d=1,21) og lífsgæði (d=1,53), sem fóru yfir klínísk þröskulda. Eigindleg endurgjöf studdi megindlegar niðurstöður.",
-        "et": "INKeD-PC uuringus hinnati intranaasaalset ketamiini depressiooni ja eksistentsiaalse ärevuse vastu 15 kaugele arenenud vähiga patsiendil palliatiivravis. Osalejad said 3 ketamiini annust. Teisejärguline analüüs näitas märkimisväärseid parandusi kõigil mõõtudel: ärevus (d=1,22), surmaärevus (d=0,91), sümptomite koormav (d=1,21) ja elukvaliteet (d=1,53), mis ületasid kliiniliselt olulisi piire. Kvalitatiivne tagasiside toetas kvantitatiivseid tulemusi.",
-        "lv": "INKeD-PC pētījumā tika novērtēta intranaāla ketamīna iedarbība uz depresiju un eksistenciālu satraukumu 15 pacientiem ar progresējošu vēzi palijatīvās aprūpes laikā. Dalībnieki saņēma 3 ketamīna devas. Sekundārā analīze parādīja nozīmīgus uzlabojumus visos mērījumos: trauksme (d=1,22), nāves trauksme (d=0,91), simptomu slogu (d=1,21) un dzīves kvalitāte (d=1,53), pārsniedzot klīniski nozīmīgas robežas. Kvalitatīvā atgriezeniskā saite atbalstīja kvantitatīvos rezultātus.",
-        "lt": "INKeD-PC tyrime buvo vertinama intranasinė ketamino veiksmingumas depresijos ir egzistencinio nerimo atveju 15 pacientų, sergančių išplitusiu vėžiu paliatyvinės priežiūros metu. Dalyviai gavo 3 ketamino dozes. Antrinė analizė parodė reikšmingus pagerinimus visuose matavimo rodikliuose: nerimas (d=1,22), mirties nerimas (d=0,91), simptomų našta (d=1,21) ir gyvenimo kokybė (d=1,53), viršijant klinikinį reikšmingumą. Kokybinė grįžtamoji informacija patvirtino kiekybinius rezultatus."
-      },
-      "notable": false,
-      "notable_reasons": null,
-      "relevance_score": 4,
-      "study_type": "rct",
-      "substances": [
-        "ketamine"
-      ],
-      "added_at": "2026-08-01T12:00:00+00:00"
-    },
-    {
-      "title": "Faster and greater antidepressant response to intravenous ketamine in bipolar compared with unipolar treatment-resistant depression: Diagnostic and sex-related findings from a naturalistic study.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42044628/",
-      "source": "PubMed",
-      "date": "2026-Aug",
-      "authors": [
-        "Carmellini Pietro",
-        "Fagiolini Andrea",
-        "Pinzi Mario"
-      ],
-      "doi": "10.1016/j.psychres.2026.117184",
-      "summaries": {
-        "en": "Observational study (N=97) comparing intravenous ketamine efficacy in treatment-resistant unipolar versus bipolar depression. Both groups showed significant symptom reduction over three months, but bipolar patients demonstrated faster and greater improvement from week 2 onwards on MADRS and CGI-S scales. Dissociative effects were measured with CADSS. Real-world data suggest diagnostic differences in ketamine response.",
-        "sv": "Observationsstudie (N=97) jämförde intravenös ketamin vid behandlingsresistent unipolär och bipolär depression. Båda grupperna visade signifikant symptomreduktion över tre månader, men bipolära patienter uppvisade snabbare och större förbättring från vecka 2 enligt MADRS och CGI-S. Dissociativa effekter mättes med CADSS. Kliniska data visar diagnostiska skillnader i ketaminrespons.",
-        "no": "Observasjonsstudie (N=97) som sammenlignet intravenøs ketamin ved behandlingsresistent unipolær og bipolar depresjon. Begge grupper viste betydelig symptomreduksjon over tre måneder, men bipolære pasienter demonstrerte raskere og større forbedring fra uke 2 på MADRS og CGI-S. Dissociative effekter ble målt med CADSS. Kliniske data tyder på diagnostiske forskjeller i ketaminrespons.",
-        "da": "Observationsstudie (N=97) sammenlignende intravenøs ketamin ved behandlingsresistent unipolær og bipolar depression. Begge grupper viste betydelig symptomreduktion over tre måneder, men bipolære patienter demonstrerede hurtigere og større forbedring fra uge 2 på MADRS og CGI-S. Dissociative effekter blev målt med CADSS. Kliniske data tyder på diagnostiske forskelle i ketaminrespons.",
-        "fi": "Observaatiotutkimus (N=97) verrattiin intravenöösä ketamiinikäsittelyssä hoitoresistentin unipolaarisen ja bipolaarisen masennuksen vasteita. Molemmat ryhmät osoittivat merkittävää oireiston lievittymistä kolmen kuukauden aikana, mutta bipolaarisilla potilailla oli nopeampi ja suurempi paraneminen viikosta 2 alkaen MADRS- ja CGI-S-asteikon mukaan. Dissosiatiivisia vaikutuksia mitattiin CADSS:llä. Kliiniset tiedot viittaavat diagnostisiin eroihin ketamiinivasteessa.",
-        "is": "Athugunarstuði (N=97) sem beri saman intravenósa ketamín við meðferðarþolin einpóla og tvípóla þunglyndi. Báðir hópar sýndu marktæka minnkun einkennis á þremur mánuðum, en sjúklingar með tvípóla þunglyndi sýndu hraðari og meiri framför frá viku 2 samkvæmt MADRS og CGI-S. Sundrunarvirkningar voru mældir með CADSS. Klínískar niðurstöður benda til greiningarmunar í ketamínviðbrögðum.",
-        "et": "Vaatlusuuringu (N=97) võrreldi intravenoosset ketamiini ravimitest resistentse unipolaarses ja bipolaarses depressioonis. Mõlemad rühmad näitasid kolme kuu jooksul märkimisväärseid sümptomite vähenemist, kuid bipolaarset haiguslugu omavatel patsientidel oli nädala 2-st alates kiirem ja suurem paraneminen MADRS ja CGI-S skaalatel. Dissosiatiivseid efekte mõõdeti CADSS-iga. Kliinilised andmed viitavad diagnostilistele erinevustele ketamiini vastuses.",
-        "lv": "Novērošanas pētījums (N=97) salīdzināja intravenozu ketamīnu pieaugušiem ar ārstējamrezistentām unipolārām un bipolārām depresiju formām. Abas grupas parādīja nozīmīgus depresijas simptomu uzlabojumus trīs mēnešu laikā, taču bipolāri pacienti demonstrēja ātrāku un lielāku uzlabošanos no 2. nedēļas pēc MADRS un CGI-S skalām. Dissociatīvos efektus mērīja ar CADSS. Kliniskie dati liecina par diagnostiskām atšķirībām ketamīna atbildē.",
-        "lt": "Stebimasis tyrimas (N=97) lyginantis intraveninį ketaminą gydant atsparias terapijai unipolinę ir bipolinę depresiją. Abi grupės parodė reikšmingą simptomų sumažėjimą per tris mėnesius, tačiau bipoliniai pacientai parodė greitesnį ir didesnį pagerinimą nuo 2 savaitės pagal MADRS ir CGI-S skalės. Disociatyvūs efektai buvo matuojami naudojant CADSS. Klinikininkai duomenys rodo diagnostinius skirtumus ketamino atsakymuose."
-      },
-      "notable": false,
-      "notable_reasons": null,
-      "relevance_score": 4,
-      "study_type": "observational",
-      "substances": [
-        "ketamine"
-      ],
-      "added_at": "2026-08-01T12:00:00+00:00"
-    },
-    {
-      "title": "Efficacy of N, N-dimethyltryptamine (DMT) psychedelic therapy for substance misuse: A systematic review and meta-analysis.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/41967021/",
-      "source": "PubMed",
-      "date": "2026-Aug",
-      "authors": [
-        "Wallace Lisa M",
-        "Bujor Andrea",
-        "Sudre Gustavo"
-      ],
-      "doi": "10.1177/02698811261430518",
-      "summaries": {
-        "en": "Systematic review and meta-analysis (1960-2024) of DMT intervention studies across multiple databases examined its efficacy for substance misuse. DMT showed large overall effect sizes for substance abuse reduction, with enhanced outcomes when combined with psychotherapy. However, included studies had substantial methodological limitations and high bias risk. Results are preliminary and highly heterogeneous across substance types and study designs, warranting cautious interpretation pending future rigorous research.",
-        "sv": "Systematisk översikt och metaanalys (1960-2024) av DMT-interventionsstudier från flera databaser undersökte effektiviteten för missbruk. DMT visade stora effektstorlekar för missbruksreduktion, med förbättrade resultat kombinerat med psykoterapi. Inkluderade studier hade dock väsentliga metodologiska begränsningar och högt fördomsrisik. Resultaten är preliminära och mycket heterogena mellan substanstyper och studiedesigner, vilket kräver försiktig tolkning inför framtida forskning.",
-        "no": "Systematisk oversikt og metaanalyse (1960-2024) av DMT-intervensjonsstudier fra flere databaser undersøkte effektiviteten for misbruk. DMT viste store effektstørrelser for misbruksreduksjon, med forbedrede resultater når kombinert med psykoterapı. Inkluderte studier hadde imidlertid betydelige metodologiske begrensninger og høy forsommelsesrisiko. Resultatene er foreløpige og svært heterogene på tvers av substanstyper og studiedesigner, noe som krever forsiktig tolking før framtida forskning.",
-        "da": "Systematisk oversigt og metaanalyse (1960-2024) af DMT-interventionsstudier fra flere databaser undersøgte effektiviteten for misbrug. DMT viste store effektstørrelser for misbugssreduktion, med forbedrede resultater når kombineret med psykoterapi. Inkluderede studier havde dog væsentlige metodologiske begrænsninger og højt bias-risiko. Resultaterne er foreløbige og meget heterogene på tværs af stoftyper og studiedesigns, hvilket kræver forsigtighed før fremtidig forskning.",
-        "fi": "Järjestelmällinen katsaus ja metaanalyysi (1960-2024) DMT-interventiota käsittelevistä tutkimuksista useista tietokannoista tutki sen tehokkuutta päihteidenkäytössä. DMT osoitti suuria vaikutuskokoja päihteidenkäytön vähentämisessä, ja tulokset parantuivat psykoterapian kanssa yhdistettäessä. Kuitenkin mukaan otettujen tutkimusten metodologiset rajoitukset olivat merkittävät ja harhariski korkea. Tulokset ovat alustavat ja erittäin heterogeeniset päihteiden ja tutkimusten suunnittelun välillä, mikä vaatii varovaisuutta tulevaisuuden tutkimukseen.",
-        "is": "Kerfbundin endurskoðun og gagnasafngreiningu (1960-2024) á DMT-inngripsstudíum frá mörgum gagnasöfnum var skoðuð verkun fyrir misnotkun efna. DMT sýndi stóra áhrifastærð fyrir minnkun misnota, með betri niðurstöðum þegar sameinað var við sálgreiningarmeðferð. Þó höfðu rannsóknir sem teknar voru með marktækar takmarkanir á aðferðum og mikla hlutdrægni. Niðurstöðurnar eru bráðabirgðar og mjög ólíkar eftir efnatögum og rannsóknarhönnun, sem kallar á varkárni fyrir komandi rannsóknir.",
-        "et": "Süstemaatiline ülevaade ja metaanalüüs (1960-2024) DMT-sekkumisuuringutest mitmest andmebaasist uuris selle efektiivsust aine kuritarvitamise puhul. DMT näitas suuri efektisuurusi aine kuritarvitamise vähendamisel, tulemused paranesid psühhoterapiaga kombineerimise korral. Kaasatud uuringutel olid aga olulised metoodilised piirangud ja kõrge kallutuse risk. Tulemused on esialgus ja väga heterogeensed aine tüüpide ja uuringukavandustega, mis nõuab ettevaatust tulevase uurimistöö ees.",
-        "lv": "Sistemātisks pārskats un metaanalīze (1960-2024) par DMT iejaukšanās pētījumiem vairākās datu bāzēs pēta tā efektivitāti vielu ļaunpratības gadījumā. DMT parādīja lielu efekta lielumu vielu ļaunpratības samazināšanai, ar uzlabotiem rezultātiem, kombinējot ar psihoterapiju. Tomēr iekļautajiem pētījumiem bija būtiski metodologiski ierobežojumi un augsts novirzes risks. Rezultāti ir prelimināri un ļoti heterogēni pēc vielu veidiem un pētījuma dizainu, kas prasa piesardzību turpmākajos pētījumos.",
-        "lt": "Sistemingas apžvalga ir metaanalizė (1960-2024) DMT intervencijos tyrimų iš kelių duomenų bazių ištyrė jo veiksmingumą medžiagų piktnaudžiavimui. DMT parodė didelės efekto dydžius medžiagų piktnaudžiavimo mažinimui, o rezultatai pagerėjo sujungus su psichoteraapija. Tačiau įtrauktus tyrimus apibūdina reikšmingi metodologiniai apribojimai ir aukšta šališkumo rizika. Rezultatai yra preliminarūs ir labai heterogeniški medžiagų tipais ir tyrimo dizainais, reikalingi atsargumo būsimaisiais tyrimais."
-      },
-      "notable": false,
-      "notable_reasons": null,
-      "relevance_score": 4,
-      "study_type": "review",
-      "substances": [
-        "other"
       ],
       "added_at": "2026-08-01T12:00:00+00:00"
     }

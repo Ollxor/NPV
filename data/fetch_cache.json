@@ -1,7 +1,45 @@
 {
-  "date": "2026-08-20",
-  "cached_at": "2026-08-20T06:40:15.314453+00:00",
+  "date": "2026-08-21",
+  "cached_at": "2026-08-21T06:40:39.522488+00:00",
   "articles": [
+    {
+      "title": "From network destabilisation to adaptive reconfiguration: A hippocampal longitudinal Axis model of psychedelic therapy.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42624281/",
+      "source": "PubMed",
+      "abstract": "Psychedelic-assisted therapy has emerged as a promising therapeutic approach across several psychiatric disorders, yet the mechanisms linking acute brain-state changes and subjective experience to sustained clinical improvement remain incompletely understood. Here, we extend a previously proposed excitation/inhibition (E/I)-centred dual-phase model of psychedelic action to the therapeutic context and develop the hippocampal longitudinal axis as a circuit-level framework for its spatially differentiated effects. In Phase I, psychedelics induce a transient destabilisation of E/I dynamics, increasing neural flexibility and altering network organisation while loosening maladaptive activity patterns that may contribute to the acute psychedelic experience. In Phase II, activity- and experience-dependent plasticity processes promote adaptive reorganisation and re-stabilisation of neural circuits. We further hypothesise that the anterior-posterior hippocampal axis provides a spatially organised substrate through which regionally differentiated E/I dynamics may contribute to transdiagnostic therapeutic effects across affective, cognitive, and behavioural symptom domains, and help explain differential symptom responses across patients. This framework links acute network destabilisation to sustained circuit reconfiguration, providing a spatially resolved account of psychedelic-assisted therapeutic change and generating experimentally testable predictions regarding candidate biomarkers (e.g., E/I-related neuroimaging measures and hippocampal connectivity profiles), treatment response, and risk.",
+      "date": "2026-08-20",
+      "authors": [
+        "Kandilakis Charalampos L",
+        "Papatheodoropoulos Costas"
+      ],
+      "doi": "10.1016/j.pnpbp.2026.111898"
+    },
+    {
+      "title": "Suicidal ideation covaries with depressive severity during six-month real-world esketamine treatment in a cohort enriched for borderline personality disorder.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42624219/",
+      "source": "PubMed",
+      "abstract": "",
+      "date": "2026-08-20",
+      "authors": [
+        "Martiadis Vassilis",
+        "Raffone Fabiola",
+        "Mazzoni Filippo"
+      ],
+      "doi": "10.1016/j.jad.2026.122405"
+    },
+    {
+      "title": "Psychedelics align brain activity with context.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42618786/",
+      "source": "PubMed",
+      "abstract": "Psychedelics can profoundly alter consciousness by reorganizing brain connectivity",
+      "date": "2026-08-19",
+      "authors": [
+        "Stoliker Devon",
+        "Novelli Leonardo",
+        "Khajehnejad Moein"
+      ],
+      "doi": "10.1038/s41586-026-10910-z"
+    },
     {
       "title": "The Timing of Plasticity: Beyond Synapses in Psychedelic Therapeutics.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42618142/",
@@ -216,42 +254,13 @@
       "doi": "10.3389/fpsyg.2026.1683934"
     },
     {
-      "title": "Psilocybin-containing mushroom-assisted psychotherapy is associated with sustained psychological and somatic improvements: two case studies from Jamaica.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42591237/",
-      "source": "PubMed",
-      "abstract": "We report two case studies that examine the therapeutic potential of structured psilocybin-containing mushroom biomass regimens administered within a clinical framework, evaluating their impact on mental health outcomes as well as associated somatic symptoms. Two patients underwent the De La Haye Psilocybin Treatment Protocol (DPTP), which integrates micro- and high-doses (combined psilocybin and psilocin content of 1-2 mg versus 40-60 mg) with psychohistoriographic psychotherapy. Follow-up included an integration session and subsequent office visits, including the completion of the Revised Mystical Experience Questionnaire (MEQ-30) two months post-treatment. Case 1 described a 29-year-old female with social anxiety, self-criticism, chronic musculoskeletal pain, and a recent diagnosis of diabetes. Post-treatment, she reported reduced shame, increased self-confidence, and substantial reductions in pain severity. Case 2 involved a 44-year-old female presenting with depression, hopelessness, and long-COVID-related anosmia and ageusia. She reported enhanced psychological resilience, improved mood, and resolution of diffuse body aches. Following the therapeutic dose, she also reported a 80-90% recovery of smell and taste after three years of dysfunction, post COVID-19 infection. The MEQ-30 scores were both high, indicating profound mystical-type experiences. These cases demonstrate improvements in psychological and somatic symptoms following participation in the DPTP. While the pain reduction and observed recovery of olfactory and gustatory function is noteworthy, spontaneous improvements cannot be excluded and further controlled investigation is warranted.",
-      "date": "2026-07-29",
-      "authors": [
-        "Sams Caitlyn Hanna",
-        "Davis Jasmine",
-        "Ramdas Anuradha"
-      ],
-      "doi": "10.3389/fpsyt.2026.1876189"
-    },
-    {
-      "title": "Psychoactive and Neurobiological Effects of Ketamine in Humans: A Scoping Review of Clinical Evidence.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42590024/",
-      "source": "PubMed",
-      "abstract": "",
-      "date": "2026-07-29",
-      "authors": [
-        "Turtulli Sidorela",
-        "Papadaki Eugenia"
-      ],
-      "doi": "10.3390/jcm15155922"
-    },
-    {
-      "title": "Longitudinal Precision Functional Mapping in Psychiatry.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42584881/",
-      "source": "PubMed",
-      "abstract": "This Viewpoint discusses longitudinal precision functional mapping in psychiatry.",
-      "date": "2026-08-12",
-      "authors": [
-        "Manza Peter",
-        "Lynch Charles J",
-        "Siegel Joshua S"
-      ],
-      "doi": "10.1001/jamapsychiatry.2026.2393"
+      "title": "Credentials, Clinics, and Costs: Stakeholders Respond to HRSA’s Psychedelic Therapy RFI",
+      "url": "https://psychedelicalpha.com/news/credentials-clinics-and-costs-stakeholders-respond-to-hrsas-psychedelic-therapy-rfi/",
+      "source": "Psychedelic Alpha",
+      "abstract": "The U.S. Health Resources and Services Administration (HRSA) has received 59 comments in response to its request for information (RFI) regarding ‘training and care delivery models for safe administration of potential FDA-approved psychedelic therapies in ambulatory settings.’ HRSA, which is housed in the Department of Health and Human Services is, in some respects, a lesser-known […]",
+      "date": "2026-08-20",
+      "authors": [],
+      "doi": ""
     },
     {
       "title": "Scoop: Johnson & Johnson to Lead Delix Therapeutics’ $85M Series C",
@@ -331,15 +340,6 @@
       "source": "Psychedelic Alpha",
       "abstract": "",
       "date": "2026-07-30",
-      "authors": [],
-      "doi": ""
-    },
-    {
-      "title": "Q1 2026: Oregon Psilocybin Services Update",
-      "url": "https://psychedelicalpha.com/news/q1-2026-oregon-psilocybin-services-update/",
-      "source": "Psychedelic Alpha",
-      "abstract": "Oregon Psilocybin Services (OPS) has now published its first dataset from 2026, with updates summarised in our Oregon Psilocybin Services Tracker. Covering January to March 2026, this recent release includes key insights into product sales, client motivations, safety updates, and the individuals and organisations shaping the OPS infrastructure. Although most of the data presented here […]",
-      "date": "2026-07-27",
       "authors": [],
       "doi": ""
     },
@@ -434,141 +434,11 @@
       "doi": ""
     },
     {
-      "title": "Impact of Mild Traumatic Brain Injury (mTBI) on CYP2D6 Activity and the Restorative Effects of Melatonin and Vitamin C Supplementation.",
-      "url": "https://doi.org/10.5812/ijpr-164903",
-      "source": "Europe PMC",
-      "abstract": "<h4>Background</h4>Mild traumatic brain injury (mTBI) may disrupt hepatic cytochrome P-450 enzyme activity, potentially altering drug pharmacokinetics.<h4>Objectives</h4>This study investigated the impact of mTBI on CYP2D6 activity and the restorative effects of melatonin and vitamin C supplementation.<h4>Methods</h4>Mild traumatic brain injury was induced in rats using a modified weight-drop model, which were then assigned to treatment or control groups. CYP2D6 activity was assessed at multiple time points post-injury using metabolic ratios of tramadol and mirtazapine through isolated liver perfusion. All experimental procedures were conducted with the investigator blinded to group assignments.<h4>Results</h4>Mild traumatic brain injury significantly suppressed CYP2D6 activity on day 3, with partial recovery by day 7. While tramadol metabolism normalized by day 28, mirtazapine metabolism remained impaired in non-supplemented groups. Supplementation accelerated CYP2D6 recovery, showing statistically significant change by day 7. By day 28, supplemented groups exhibited metabolic ratios surpassing baseline levels.<h4>Conclusions</h4>Mild traumatic brain injury induces transient suppression of CYP2D6 activity, which was attenuated in antioxidant-treated groups in this preclinical model. Further studies are needed to explore the clinical relevance of these findings.",
-      "date": "2026-02-08",
-      "authors": [
-        "Berenjian K",
-        "Gholipour Z",
-        "Khoshayand M"
-      ],
-      "doi": "10.5812/ijpr-164903"
-    },
-    {
-      "title": "Ketamine preserves perineuronal nets in chronic stressed mice brain through the inhibition of microglia activation.",
-      "url": "https://doi.org/10.1016/j.ibneur.2026.07.016",
-      "source": "Europe PMC",
-      "abstract": "<h4>Background</h4>Deeper understanding of ketamine's mechanism of action would contribute to the discovery of novel therapeutic targets with fast-onset actions. To gain insight on the mechanism underlying the antidepressant-like effects of ketamine, we focused on perineuronal nets (PNNs), an extracellular matrix structure that surrounds fast-spiking parvalbumin-positive interneurons and regulates synaptic plasticity, whose integrity is known to be compromised under stress-induced depressive conditions.<h4>Methods</h4>We first performed the description of the plastic remodeling of PNNs in the Chronic restraint stress (CRS) mice treated or un-treated with ketamine, by quantifying the number of WFA, marker of PNNs, parvalbumin (PV) and c-Fos positive cells, as a surrogate of neuronal activity. And then, we investigated the the transcripts of a number of proteins involved in the formation or degradation of PNNs with or without ketamine in CRS mice. Next, we evaluated the expression of IBA1, a microglial marker, in the hippocampus and medial prefrontal cortex after CRS treated or un-treated with ketamine.<h4>Results</h4>We found that ketamine effectively alleviated the animals' depression like behavior as well as attenuates CRS-induced reduction of WFA-positive cells in the hippocampus and medial prefrontal cortex of mice. Although ketamine treatment had little or no effect on the number of PV, c-Fos positive cells and the transcripts of proteins involved in the formation or degradation of PNNs. Notably, ketamine treatment lead to remarkably reduced the number of IBA1-positive cells in the hippocampus and medial prefrontal cortex after CRS.<h4>Conclusion</h4>Our findings suggest that PNNs is characterized by region-specific changes in chronic stress mouse brain and provide extensive evidence that ketamine exposure initiates microglia to remodel PNN, instead of the PNN accumulation and degradation enzymes.",
-      "date": "2026-07-26",
-      "authors": [
-        "Yang J",
-        "Huang T",
-        "Wang M"
-      ],
-      "doi": "10.1016/j.ibneur.2026.07.016"
-    },
-    {
-      "title": "Investigating the effects of chlorogenic acid on novel object recognition memory impairment, hyperlocomotion, and prefrontal BDNF expression in a sub-chronic ketamine-induced schizophrenia-like rat model.",
-      "url": "https://doi.org/10.1016/j.ibneur.2026.07.010",
-      "source": "Europe PMC",
-      "abstract": "Schizophrenia is a severe neuropsychiatric disorder characterized by positive, negative, cognitive, mood-related, and motor symptoms. Sub-chronic ketamine administration is widely used to induce schizophrenia-like behavioral and cognitive alterations in rodents. Chlorogenic acid (CGA) is an abundant dietary phenolic acid with reported anti-inflammatory, antioxidative, and neuroprotective properties. The present study examined the effects of CGA on behavioral disturbances in male and female rats exposed to sub-chronic ketamine administration, together with brain-derived neurotrophic factor (BDNF) expression in the prefrontal cortex. Ketamine was injected for 7 consecutive days (30 mg/kg, i.p.), and CGA was orally administered once (150 mg/kg) 24 h after the last ketamine injection. Ketamine increased locomotor activity in both sexes, with a greater effect in females; CGA partially reduced this effect only in males. Rearing was reduced only in ketamine-treated males, and CGA did not reverse this change. Grooming was increased in both sexes after ketamine administration, whereas CGA attenuated this effect only in females. Novel object recognition memory was impaired in both sexes after ketamine administration, and CGA partially attenuated this impairment. Immobility in the forced swim test was reduced only in ketamine-treated females, and CGA attenuated this effect. Prefrontal BDNF expression was decreased after ketamine administration in both sexes, and CGA partially attenuated this reduction. Overall, CGA showed partial and sex-dependent protective effects against selected ketamine-induced behavioral and molecular alterations. These findings should be interpreted in light of the absence of independent DMSO-only vehicle-control cohorts.",
-      "date": "2026-07-24",
-      "authors": [
-        "Bahrami A",
-        "Ghorbani Yekta B",
-        "Baghdasarians A."
-      ],
-      "doi": "10.1016/j.ibneur.2026.07.010"
-    },
-    {
-      "title": "Substance use and mental health outcomes among gay and bisexual men in South Korea: a cross-sectional study.",
-      "url": "https://doi.org/10.1016/j.abrep.2026.100728",
-      "source": "Europe PMC",
-      "abstract": "<h4>Purpose</h4>This study investigated the prevalence of substance use among gay and bisexual men in South Korea and examined its association with mental health outcomes.<h4>Methods</h4>Data were drawn from a nationwide cross-sectional survey of 1407 Korean gay and bisexual men aged 19-34 conducted in 2021. Participants completed measures assessing lifetime substance use (e.g., methamphetamine, ketamine, and cannabis) and mental health outcomes including depressive symptoms, suicidal ideation, suicide attempts, and psychiatric service utilization. Multivariate regression analyses examined associations between substance use and mental health outcomes.<h4>Results</h4>Among participants, 17.7% reported lifetime substance use. Substance use was significantly associated with increased risks of suicidality and psychiatric service utilization.<h4>Conclusion</h4>This study found significant associations between substance use and adverse mental health outcomes among Korean gay and bisexual men. These findings highlight the urgent need for integrated interventions addressing both substance use and mental health in this population.",
-      "date": "2026-07-17",
-      "authors": [
-        "Jeong SJ",
-        "Kim B",
-        "Lee H"
-      ],
-      "doi": "10.1016/j.abrep.2026.100728"
-    },
-    {
-      "title": "Effects of low-dose esketamine on early quality of recovery following minimally invasive esophagectomy: a multicenter, randomized controlled study.",
-      "url": "https://doi.org/10.1080/07853890.2026.2704297",
-      "source": "Europe PMC",
-      "abstract": "<h4>Background</h4>Patients undergoing minimally invasive esophagectomy (MIE) frequently experience moderate-to-severe postoperative pain and anxiety-depressive symptoms, compromising postoperative quality of recovery (QoR). Esketamine is a promising adjunct for analgesia and anxiolysis; however, the effect of low-dose esketamine on patient-centered recovery outcomes in MIE remains unclear.<h4>Methods</h4>In this double-blinded, multicenter randomized controlled trial, patients scheduled for elective McKeown esophagectomy were allocated to esketamine (0.25 mg/kg loading dose and 0.125 mg/kg/h continuous infusion during surgery) or placebo (equivalent volume and rate of saline). The primary outcome was the QoR-15 score on postoperative day (POD) 2. Secondary outcomes included QoR-15 scores on POD 1, 3, 7 and 30. Hospital Anxiety and Depression Scale - Anxiety Subscale (HADS-A) and Depression Subscale (HADS-D) scores, numeric rating scale (NRS) pain scores, and the Brief Pain Inventory (BPI) scores on POD 1 to 3, and safety evaluations.<h4>Results</h4>A total of 198 patients were analyzed (esketamine, <i>n</i> = 98; placebo, <i>n</i> = 100). Intraoperative esketamine significantly improved QoR-15 scores on POD 2 (116.9 ± 9.4 <i>vs.</i> 110.2 ± 9.8, <i>p</i> < 0.001) and POD 3 (123.6 ± 7.2 <i>vs.</i> 116.8 ± 8.4, <i>p</i> < 0.001) compared with placebo. HADS-A and HADS-D scores were lower in the esketamine group on POD 1 to 3 (all <i>p</i> < 0.001). Additionally, esketamine recipients reported significantly lower NRS scores at rest and during movement and BPI scores for pain severity and pain interference items (all <i>p</i> < 0.001). There were no significant between-group differences in safety outcomes.<h4>Conclusions</h4>Intraoperative low-dose esketamine improved early, patient-reported recovery after MIE by enhancing analgesia and reducing postoperative anxiety and depression without increasing adverse events.<h4>Trial registration</h4>Chinese Clinical Trial Register (identifier: ChiCTR2400088916).",
-      "date": "2026-07-22",
-      "authors": [
-        "Zhang H",
-        "Yin F",
-        "Li L"
-      ],
-      "doi": "10.1080/07853890.2026.2704297"
-    },
-    {
-      "title": "Effects of sub-anesthetic doses of esketamine on immune function and postoperative negative emotions in acoustic neuroma patients: a randomized clinical trial.",
-      "url": "https://doi.org/10.1080/07853890.2026.2692804",
-      "source": "Europe PMC",
-      "abstract": "<h4>Background</h4>Patients undergoing acoustic neuroma (AN) surgery often experience postoperative negative emotions, including anxiety, depression, and immune function suppression. This trial evaluated whether perioperative sub-anesthetic esketamine improves early postoperative negative emotions and immune function.<h4>Methods</h4>In this single-center, double-blind, randomized trial, 84 patients scheduled for AN surgery were assigned to esketamine (<i>n</i> = 42) or placebo (<i>n</i> = 42). The esketamine cohort received a continuous intravenous infusion of esketamine at 0.2 mg·kg<sup>-1</sup>·h<sup>-1</sup> during anesthesia, followed by 1 mg·kg<sup>-1</sup> esketamine as an adjuvant in patient-controlled intravenous analgesia (PCIA). The placebo group received saline. The primary outcome was the incidence of depression on postoperative day (POD1), defined as a Hospital Anxiety and Depression Scale-Depression subscale (HADS-D) score > 7.<h4>Results</h4>Seventy-seven patients completed the study (39 in the esketamine group, 38 in the placebo group). Esketamine significantly reduced the incidence of depression at POD1 (7.7% <i>versus</i> 31.6%; relative risk 0.24, 95% CI: 0.08-0.80, <i>p</i> = 0.008) and POD3 (0.0% <i>versus</i> 15.8%, relative risk 0.00, 95% CI: 0.00-0.47, <i>p</i> = 0.031) compared with placebo. The incidences of anxiety on POD1 and 3 and sleep disturbances on POD1 were also significantly reduced (<i>p</i> < 0.05). Notably, no significant differences were observed between the two groups in terms of immune function, postoperative pain scores, or intraoperative morphine equivalent. Adverse events did not differ between the groups.<h4>Conclusion</h4>Perioperative sub-anesthetic esketamine reduced postoperative depression and anxiety, and improve sleep quality after AN surgery, without significant effects on early immune function or acute postoperative analgesia.<h4>Trial registration</h4>Chinese Clinical Trial Registry, ChiCTR2400084537.",
-      "date": "2026-07-03",
-      "authors": [
-        "Chen Z",
-        "Wang Y",
-        "Cong P"
-      ],
-      "doi": "10.1080/07853890.2026.2692804"
-    },
-    {
-      "title": "Simplified method for EEG recordings in mice.",
-      "url": "https://doi.org/10.1016/j.mex.2026.104004",
-      "source": "Europe PMC",
-      "abstract": "Currently, implantation of electroencephalogram (EEG) electrodes in laboratory animals is time-consuming and requires specialized equipment. We present a novel method for EEG recordings in mice that utilizes thin needle electrodes. These electrodes are inserted into the skull at predetermined locations by gently pressing them against the bone surface. To ensure stable fixation of the implant, hook-shaped needles are positioned along the lateral aspects of the skull. The electrodes are connected to a multipin connector and secured to the skull using dental composite, after which the animal is allowed to recover from anesthesia. Importantly, procedures such as skull drilling and screw placement are not required, allowing the entire surgery to be completed in <15 min. Consequently, this EEG implantation approach is rapid and minimally invasive. Results of our studies indicate that EEG recordings obtained with needle electrodes are not inferior to those obtained with screw electrodes. Overall, the method is designed to enhance the accuracy and efficiency of EEG recording studies while improving animal welfare. • Simplifies the placement of EEG electrodes. • Reduces the time required for electrode implantation.",
-      "date": "2026-06-11",
-      "authors": [
-        "Zou B",
-        "Xie XS",
-        "Gerashchenko L."
-      ],
-      "doi": "10.1016/j.mex.2026.104004"
-    },
-    {
-      "title": "Interpol review of forensic toxicology, 2023-2025.",
-      "url": "https://doi.org/10.1016/j.fsisyn.2026.100694",
-      "source": "Europe PMC",
-      "abstract": "",
-      "date": "2026-06-15",
-      "authors": [
-        "Ip SC",
-        "Chan CW",
-        "Chan CW"
-      ],
-      "doi": "10.1016/j.fsisyn.2026.100694"
-    },
-    {
-      "title": "Hesperidin mitigates cognitive and anxiety-like deficits by enhancing hippocampal antioxidant defenses, reducing neuroinflammation, and preventing neuronal apoptosis in a third-trimester-equivalent rat model of developmental ethanol neurotoxicity.",
-      "url": "https://doi.org/10.1016/j.ibneur.2026.06.001",
-      "source": "Europe PMC",
-      "abstract": "Ethanol exposure during brain development has been associated with hippocampal oxidative stress, neuroinflammation, and apoptosis, resulting in lasting cognitive and emotional deficits characteristic of fetal alcohol spectrum disorders (FASD). This study evaluated the neuroprotective potential of Hesperidin, a citrus flavanone with antioxidant and anti-inflammatory actions, against developmental ethanol neurotoxicity. Neonatal Wistar rats received ethanol (5.25 g/kg/day; 11.9% v/v) from postnatal days 2-10 and were subsequently treated intraperitoneally with Hesperidin (25, 50, or 100 mg/kg). Behavioral testing on days 39-45 using the Elevated Plus Maze (EPM) and Morris Water Maze (MWM) showed that ethanol markedly decreased open arm time (Oat%) and entries (OAE%) (P < 0.001, P < 0.01 vs Control), increased escape latency (P < 0.001), and reduced probe target time (P < 0.001 vs Control). Hesperidin at 50 and 100 mg/kg improved all indices (P < 0.05-0.01 vs Ethanol). Ethanol elevated hippocampal MDA and TNF-α (P < 0.001) while decreasing SOD (P < 0.01) and GSH-Px (P < 0.001), Hesperidin normalized these values (P < 0.01-0.001 vs Ethanol). GFAP and cleaved caspase-3 immunoreactivity were also reduced by hesperidin (P < 0.001 vs Ethanol). Overall, Hesperidin afforded dose-dependent neuroprotection by mitigating oxidative stress, inflammation, and apoptosis, thereby improving ethanol-induced behavioral impairments.",
-      "date": "2026-06-05",
-      "authors": [
-        "Jamali Z",
-        "Mohseni F",
-        "Salimi A"
-      ],
-      "doi": "10.1016/j.ibneur.2026.06.001"
-    },
-    {
-      "title": "Menstrual blood-derived stromal cells exhibit superior protection against lung injury in myocardial Infarction-Induced heart failure in rats compared to bone marrow-derived stromal cells.",
-      "url": "https://doi.org/10.1016/j.reth.2026.101127",
-      "source": "Europe PMC",
-      "abstract": "<h4>Introduction</h4>Lung injury is a frequent complication following heart failure (HF) due to systemic inflammation, hypoxia, and reduced cardiac function. This study compared the therapeutic effects of menstrual blood-derived stromal cells (MenSCs) and bone marrow-derived stromal cells (BMSCs) on HF-induced lung injury in rats.<h4>Methods</h4>Twenty male Wistar rats underwent permanent ligation of the left anterior descending coronary artery to induce myocardial infarction (MI). They were randomly assigned to receive intravenous injections of MenSCs (2 × 10<sup>6</sup> cells), BMSCs (2 × 10<sup>6</sup> cells), or PBS 7 days post-MI. Cardiac function was assessed by echocardiography, and lung tissues were analyzed 28 days post-cell administration. Histopathology (H&E and Masson's trichrome staining) evaluated pulmonary structural changes and fibrosis, TUNEL assay assessed apoptosis, and immunohistochemistry measured NF-κB and iNOS expression.<h4>Results</h4>Results showed that MenSC treatment significantly improved left ventricular ejection fraction compared with MI and BMSC groups (both P < <i>0.0001</i>). MenSCs markedly reduced pulmonary injury scores and apoptotic cell numbers compared with both untreated and BMSC-treated rats (P < <i>0.0001</i>). Both cell types reduced pulmonary fibrosis compared to MI (P < <i>0.0001</i>). Both MenSCs and BMSCs similarly reduced NF-κB expression, whereas only MenSCs effectively decreased iNOS expression (P < <i>0.0001</i>). Human mitochondrial antibody staining confirmed successful homing of both cell types to injured lung tissue.<h4>Conclusion</h4>systemic administration of MenSCs effectively ameliorated HF-induced lung injury through anti-inflammatory, anti-apoptotic, and anti-fibrotic mechanisms. Compared with BMSCs, MenSCs demonstrated superior therapeutic potential, highlighting their promise as a non-invasive and immunologically favorable cell source for regenerative therapy in remote organ injury following MI.",
-      "date": "2026-06-15",
-      "authors": [
-        "Manshori M",
-        "Saffarian Z",
-        "Aboutaleb N"
-      ],
-      "doi": "10.1016/j.reth.2026.101127"
-    },
-    {
       "title": "CZ",
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2018-004480-31/CZ",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-08-20",
+      "date": "2026-08-21",
       "authors": [],
       "doi": ""
     },
@@ -577,7 +447,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2020-005037-32/CZ",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-08-20",
+      "date": "2026-08-21",
       "authors": [],
       "doi": ""
     },
@@ -586,7 +456,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2021-002909-10/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-08-20",
+      "date": "2026-08-21",
       "authors": [],
       "doi": ""
     },
@@ -595,7 +465,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2015-000550-37/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-08-20",
+      "date": "2026-08-21",
       "authors": [],
       "doi": ""
     },
@@ -604,7 +474,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2021-000041-40/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-08-20",
+      "date": "2026-08-21",
       "authors": [],
       "doi": ""
     },
@@ -613,7 +483,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2020-000829-55/DK",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-08-20",
+      "date": "2026-08-21",
       "authors": [],
       "doi": ""
     },
@@ -622,7 +492,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2020-002790-94/SE",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-08-20",
+      "date": "2026-08-21",
       "authors": [],
       "doi": ""
     },
@@ -631,7 +501,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2021-006200-33/FI",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-08-20",
+      "date": "2026-08-21",
       "authors": [],
       "doi": ""
     },
@@ -640,7 +510,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2019-004812-73/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-08-20",
+      "date": "2026-08-21",
       "authors": [],
       "doi": ""
     },
@@ -649,7 +519,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2022-002369-14/BE",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-08-20",
+      "date": "2026-08-21",
       "authors": [],
       "doi": ""
     },

@@ -1,7 +1,71 @@
 {
-  "date": "2026-08-21",
-  "cached_at": "2026-08-21T06:40:39.522488+00:00",
+  "date": "2026-08-22",
+  "cached_at": "2026-08-22T06:34:39.531958+00:00",
   "articles": [
+    {
+      "title": "Interoceptive effects of N",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42629248/",
+      "source": "PubMed",
+      "abstract": "Novel analogs of the psychedelic lysergic acid diethylamide (LSD) have emerged on the gray market in recent years, typically containing substitutions to the ergoline scaffold on the indole (N",
+      "date": "2026-07-17",
+      "authors": [
+        "Berquist Michael D",
+        "Gannon Brenda M",
+        "Honeywell Kevin M"
+      ],
+      "doi": "10.1016/j.jpet.2026.104988"
+    },
+    {
+      "title": "Comment on \"KET-MCI: A Pilot Safety and Tolerability Study of Single Infusion Intravenous Ketamine for Older Adults With Depression and Mild Cognitive Impairment\".",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42629230/",
+      "source": "PubMed",
+      "abstract": "",
+      "date": "2026-07-30",
+      "authors": [
+        "Mokkapati Anuradha",
+        "Thakkar Rhushvi",
+        "Rani Anjna"
+      ],
+      "doi": "10.1016/j.jagp.2026.07.013"
+    },
+    {
+      "title": "Low-dose lysergic acid diethylamide alters subjective visual perception but not visual contrast surround suppression.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42626628/",
+      "source": "PubMed",
+      "abstract": "Theoretical models and empirical evidence suggest that psychedelics alter contextual influences on perception. To test this, we examined contrast surround suppression, a visual illusion in which a grating appears lower in contrast when embedded in a high-contrast surround. While psilocybin has been reported to enhance this and related illusions at moderate-to-high doses, it is unknown whether low-dose Lysergic Acid Diethylamide (LSD) produces similar effects. In a randomized, double-blind, within-subjects crossover study, N = 30 healthy participants received placebo, 10, and 20 μg of LSD (base-equivalent). In each session, participants performed a contrast discrimination task and rated subjective drug effects. LSD did not measurably influence contrast surround suppression. However, participants reported subjective visual changes, including blurrier, more saturated, and more dynamical visual perception. These subjective alterations did not correlate with individual differences in contrast-surround suppression. Our findings indicate a dissociation between subjective experience and early visual contextual processing, suggesting that subjective visual effects of low-dose LSD may arise through mechanisms distinct from those mediating contrast surround suppression. Future research should test whether higher doses of LSD affect contrast surround suppression.",
+      "date": "2026-08-20",
+      "authors": [
+        "Jaeckel Lucca F",
+        "Logvinski Deborah",
+        "Kanana Mika"
+      ],
+      "doi": "10.1093/nc/niag050"
+    },
+    {
+      "title": "Methodological fragmentation and integration priorities in psychedelic-assisted therapy assessment: a scoping review.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42625811/",
+      "source": "PubMed",
+      "abstract": "Psychedelic-assisted therapy (PAT) is an emerging complex intervention for psychiatric and existential conditions (i.e., forms of distress related to meaning, mortality, and identity, such as that arising in life-threatening illness); however, a systematic characterization of the evaluation methods used across the entire clinical intervention remains incomplete. This scoping review synthesizes the scientific literature on the methodologies and frameworks for evaluating PAT, covering pre-session screening, acute experience, intervention processes, post-session integration, clinical and existential outcomes, safety, and service evaluation. Following PRISMA-ScR (Preferred Reporting Items for Systematic Reviews and Meta-Analyses extension for Scoping Reviews) guidelines, we analyzed 59 peer-reviewed publications, comprising contemporary PAT literature published between 2008 and 2026 and foundational psychometric sources for established instruments used in PAT. The findings were categorized into four evaluation domains: (i) assessment instruments for subjective experiences; (ii) clinical intervention models and competency frameworks; (iii) clinical and existential outcome measures; and (iv) safety, ethics, and implementation frameworks. The analysis reveals a number of advances, including the development and cross-cultural adaptation of validated instruments for measuring mystical and challenging experiences. Clinical intervention frameworks emphasizing the importance of the \"therapeutic container\" have been articulated, and preliminary work has begun to identify core practitioner competencies. PAT has been associated with preliminary findings from controlled studies for conditions such as depression, anxiety, post-traumatic stress disorder, and existential distress, although demographic representation in trials remains limited, and methodological constraints (e.g., small samples and challenges in blinding) warrant cautious interpretation. The review also identifies gaps: methodological integration is still incomplete, with different assessment domains rarely combined into unified protocols; measures for post-session integration and existential outcomes remain undervalidated; and safety monitoring and implementation science present areas requiring standardization. This review maps the current methodological landscape, documenting areas of advancement and defining priorities for developing the integrated, multidimensional evaluation models required to advance the field.",
+      "date": "2026-08-06",
+      "authors": [
+        "Mele Maria Laura",
+        "Federici Stefano"
+      ],
+      "doi": "10.3389/fpsyt.2026.1880744"
+    },
+    {
+      "title": "A scoping review: ketamine or esketamine when used to assist psychotherapy or in combination with psychotherapy for the management of depression in adults.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42624888/",
+      "source": "PubMed",
+      "abstract": "This scoping review maps literature for use of ketamine or esketamine with psychotherapy for depression or depressive symptoms. Forty-seven studies were identified including 4/47 (9%) randomized controlled trials, 4/47 (9%) open label trials, 27/47 (57%) observational or retrospective studies, and 12/47 (26%) individual case reports. Studies were categorized as Ketamine/Esketamine Combined with Psychotherapy (KCP/ES-KCP), where an altered state is not necessary for psychotherapy, or Ketamine/Esketamine Assisted Psychotherapy (KAP/ES-KAP), where an altered state and/or integration of the experience is central to the psychotherapy. The 47 included 23/47(49%) KAP, 1/47 (2%) ES-KAP, 7/47 (15%) KCP, 3/47 (6%) ES-KCP, 8/47 (17%) dual KAP/KCP and 1/47 (2%) dual ES-KAP/ES-KCP. Four studies could not be categorized. Separation into these categories was useful to more clearly report current state of the literature. Though previous reviews have suggested KAP is of benefit for depression, KAP studies were limited by lack of RCTs, lack of comparison groups without psychotherapy, and a large number of individual case reports. To date, fewer studies, but higher quality data support a KCP model, with 3 studies suggesting benefit to combining ketamine with cognitive behavioral therapy (CBT). Further, high quality research including accurate reporting and description of psychotherapy model is required.",
+      "date": "2026-07-27",
+      "authors": [
+        "Swainson J",
+        "Grewal P",
+        "Polard S"
+      ],
+      "doi": "10.1038/s44184-026-00226-1"
+    },
     {
       "title": "From network destabilisation to adaptive reconfiguration: A hippocampal longitudinal Axis model of psychedelic therapy.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42624281/",
@@ -191,67 +255,13 @@
       "doi": "10.3389/fpsyt.2026.1890002"
     },
     {
-      "title": "The application of esketamine in cancer-related depressive states: attention from mechanisms to clinical translation.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42597205/",
-      "source": "PubMed",
-      "abstract": "This article reviews the clinical status and treatment challenges of cancer-related depressive states, clarifies the mechanism of action of esketamine-a novel rapid-acting antidepressant-compares its efficacy with traditional drugs, evaluates safety and tolerability, and summarizes clinical evidence to support clinical practice and research. By searching databases such as PubMed, Web of Science, and Cochrane Library, We conducted a structured review of the available literature on the mechanism of esketamine in the treatment of cancer-related depressive states in recent years, including mechanism studies, clinical trials, and review articles. We focused on its regulation of NMDA receptors, the impact on BDNF expression, synaptic plasticity, and neural circuit remodeling, and compared its efficacy and safety with traditional antidepressants. Esketamine exerts rapid antidepressant effects via multiple mechanisms: NMDA receptor antagonism, downstream signaling modulation, BDNF upregulation, synaptic plasticity enhancement, and neural circuit remodeling. Available studies suggest that esketamine may provide rapid antidepressant effects in oncology populations, particularly in perioperative settings. Common adverse events-such as transient dissociation and elevated blood pressure-are generally controllable. Esketamine, as a rapidly acting antidepressant, has a plausible mechanistic rationale and potential clinical value in the treatment of cancer-related depressive states. However, its long-term safety, optimal dosing regimens, and individualized application in different cancer patients still require further investigation. In the future, the integration of multi-omics technologies and clinical translational research should be promoted to advance the precision and standardization of its application in cancer-related depressive states treatment.",
-      "date": "2026-07-30",
-      "authors": [
-        "Chen Liangju",
-        "Chen Yonghua",
-        "Zhao Ying"
-      ],
-      "doi": "10.3389/fpsyt.2026.1781915"
-    },
-    {
-      "title": "Ketamine assisted psychotherapy to reduce chronic neuropathic pain: A mixed-methods randomized pilot trial.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42594864/",
-      "source": "PubMed",
-      "abstract": "Intravenous ketamine can provide short-term analgesia in chronic neuropathic pain but benefits often wane after treatment. We conducted a randomized pilot trial to assess the feasibility of combining ketamine infusions with psychotherapy to inform future efficacy trials. In this single-center, randomized, outcome-assessor-blinded pilot trial at a Canadian tertiary pain clinic, adults with moderate-to-severe chronic neuropathic pain were randomly assigned in 1:1:1 ratio to the ketamine, psychotherapy, or combined ketamine plus psychotherapy arm. Ketamine was delivered as three intravenous infusions over 16 weeks; psychotherapy consisted of 16 weekly cognitive behavioral therapy and mindfulness-based meditation sessions. The primary outcome was feasibility, assessed using prespecified progression criteria. Exploratory outcomes included changes in pain interference (PROMIS 6a T-score), pain intensity, mood, and qualitative interview findings at week 20 (ClinicalTrials.gov: NCT05639322). Between October 23, 2023, and March 31, 2025, 30 participants were randomized, and 26 (87%) completed 20-week follow-up. Most feasibility criteria, including consent, retention, data completeness, and absence of study-related serious adverse events, were met; adherence targets were partially met. Exploratory pain outcomes showed numerical improvement across groups, with clinically meaningful reductions observed for pain interference and pain intensity. Sixty-four adverse events were recorded, mostly mild and in ketamine-containing groups; no serious study-related adverse events occurred. Combined ketamine and psychotherapy was feasible and acceptably safe in this pilot trial, supporting evaluation in a larger efficacy-powered study. The study was funded by the St. Michael's Hospital Innovation Fund, The Canadian Pain Society Early Investigator Award and the Physician Services Incorporation Early Career Researcher Award.",
-      "date": "2026-08-13",
-      "authors": [
-        "Goel Akash",
-        "Diep Calvin",
-        "Zahin Ahnaf"
-      ],
-      "doi": "10.1016/j.medj.2026.101259"
-    },
-    {
-      "title": "A contemporary exploration of motivations and practices of psychedelic use among emerging adult cannabis users in the United States: A qualitative analysis.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42593989/",
-      "source": "PubMed",
-      "abstract": "Despite increased naturalistic psychedelic use in the United States, limited studies explore factors currently contributing to use among ethnically and racially diverse psychedelic and cannabis-using adults. This study employs thematic analysis using qualitative data to explore the factors contributing to contemporary psychedelic use. Qualitative interviews (conducted in 2022-2023) from a subsample of cannabis-using emerging adults who endorsed psychedelic use ( Four domains that dynamically influence psychedelic practices were identified: (a) context, such as norms, attitudes, and stigma; (b) expectancies, including perceived benefits and risks; (c) motives for use, including self and/or spiritual exploration, social connection, and self-treatment; and (d) practices, including microdosing, goal setting/intentional use, and experimentation. The current analysis identified factors influencing psychedelic use among U.S. adults who use cannabis in our current society and considered these findings within the context of historical models of substance use, including psychedelic use and motivational models. This study reflects a crucial step in furthering our knowledge around the growing zeitgeist of psychedelic use, including the role of motives, expectancies, and context. (PsycInfo Database Record (c) 2026 APA, all rights reserved).",
-      "date": "2026-08-13",
-      "authors": [
-        "Conn Bridgid M",
-        "Osornio Alisha",
-        "Sheean Kaia"
-      ],
-      "doi": "10.1037/adb0001180"
-    },
-    {
-      "title": "Efficacy and Safety of Psychedelic Microdosing on Psychological Outcomes in Healthy Adults: A Systematic Review and Meta-analysis.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42593636/",
-      "source": "PubMed",
-      "abstract": "Psychedelic microdosing has gained increasing popularity for enhancing mood and cognition, yet its effects on psychological outcomes in healthy adults remain unclear. We aim to evaluate the efficacy and safety of psychedelic microdosing on psychological outcomes in healthy/non-clinical adult population. This review was registered in the International Prospective Register of Systematic Reviews (PROSPERO; CRD420251035294). We searched Embase, MEDLINE, and PsycINFO from inception to February 2026 for original studies in healthy adults using sub-hallucinogenic psychedelic doses on separate days. We included randomized studies, nonrandomized prospective studies, cross-sectional studies, and observational longitudinal designs and stratified meta-analyses by design. Random-effects models were used; safety in randomized controlled trials (RCTs) was pooled as risk differences (RDs). Risk of bias was assessed using the Joanna Briggs Institute (JBI) critical appraisal tools appropriate for each study design. 24 studies (3,681 participants) met inclusion criteria, 6 contributed to meta-analyses. RCTs of psilocybin and LSD microdosing showed subjective and neurophysiological effects but minimal impact on cognition, creativity, or sustained mood. Psilocybin altered EEG and speech with little behavioral change, while LSD caused transient mood and minor physiological effects without lasting cognitive or personality benefits. Observational studies indicated mood and personality improvements, likely influenced by expectancy or lifestyle factors. Meta-analyses included two parallel RCTs (3 comparisons; n = 117) and three non-RCT studies (n = 1,013). Adverse event analyses included two RCTs (4 comparisons; n = 109). RCTs showed no clear evidence of immediate symptom reduction: depressive symptoms (SMD = -0.19; 95% CI -0.56, 0.19; I Microdosing does not show consistent immediate benefits for depressive, anxiety, or stress symptoms in healthy adults, and evidence from RCTs remains inconclusive. Although improvements were observed in some studies, these effects were not significantly different from placebo. Larger, well-designed RCTs are needed to clarify the efficacy and safety of psychedelic microdosing beyond placebo.",
-      "date": "2026-08-13",
-      "authors": [
-        "Meshkat Shakila",
-        "Leung Marco",
-        "Meshkat Sarina"
-      ],
-      "doi": "10.1007/s40263-026-01325-5"
-    },
-    {
-      "title": "Witnessing and imagination: Proust, trauma, and the expansion of consciousness.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42591344/",
-      "source": "PubMed",
-      "abstract": "I treat Proust's",
-      "date": "2026-07-29",
-      "authors": [
-        "Fischman Lawrence"
-      ],
-      "doi": "10.3389/fpsyg.2026.1683934"
+      "title": "Field Notes #4: Resilient Refiles, Definium’s Readout, HRSA’s RFI Responses, and J&J’s Neuroplastogen Bet",
+      "url": "https://psychedelicalpha.com/news/field-notes-4-resilient-refiles-definiums-readout-hrsas-rfi-responses-and-jjs-neuroplastogen-bet/",
+      "source": "Psychedelic Alpha",
+      "abstract": "Welcome to our fourth Field Note. As a reminder, Field Notes are timely, candid voice notes from our Founder and Editor, Josh Hardman, that give our Pα+ readers a pulse on recent developments in psychedelic drug development, policy, and access. In this Field Note, Josh shares stories from another busy month in the field, including: […]",
+      "date": "2026-08-21",
+      "authors": [],
+      "doi": ""
     },
     {
       "title": "Credentials, Clinics, and Costs: Stakeholders Respond to HRSA’s Psychedelic Therapy RFI",
@@ -331,15 +341,6 @@
       "source": "Psychedelic Alpha",
       "abstract": "",
       "date": "2026-07-31",
-      "authors": [],
-      "doi": ""
-    },
-    {
-      "title": "Beyond the Biological Baseline: Dr. Grace Blest-Hopley on Developing Female-Inclusive Psychedelic Frameworks",
-      "url": "https://psychedelicalpha.com/news/beyond-the-biological-baseline-dr-grace-blest-hopley-on-developing-female-inclusive-psychedelic-frameworks/",
-      "source": "Psychedelic Alpha",
-      "abstract": "",
-      "date": "2026-07-30",
       "authors": [],
       "doi": ""
     },
@@ -434,11 +435,141 @@
       "doi": ""
     },
     {
+      "title": "Impact of Mild Traumatic Brain Injury (mTBI) on CYP2D6 Activity and the Restorative Effects of Melatonin and Vitamin C Supplementation.",
+      "url": "https://doi.org/10.5812/ijpr-164903",
+      "source": "Europe PMC",
+      "abstract": "<h4>Background</h4>Mild traumatic brain injury (mTBI) may disrupt hepatic cytochrome P-450 enzyme activity, potentially altering drug pharmacokinetics.<h4>Objectives</h4>This study investigated the impact of mTBI on CYP2D6 activity and the restorative effects of melatonin and vitamin C supplementation.<h4>Methods</h4>Mild traumatic brain injury was induced in rats using a modified weight-drop model, which were then assigned to treatment or control groups. CYP2D6 activity was assessed at multiple time points post-injury using metabolic ratios of tramadol and mirtazapine through isolated liver perfusion. All experimental procedures were conducted with the investigator blinded to group assignments.<h4>Results</h4>Mild traumatic brain injury significantly suppressed CYP2D6 activity on day 3, with partial recovery by day 7. While tramadol metabolism normalized by day 28, mirtazapine metabolism remained impaired in non-supplemented groups. Supplementation accelerated CYP2D6 recovery, showing statistically significant change by day 7. By day 28, supplemented groups exhibited metabolic ratios surpassing baseline levels.<h4>Conclusions</h4>Mild traumatic brain injury induces transient suppression of CYP2D6 activity, which was attenuated in antioxidant-treated groups in this preclinical model. Further studies are needed to explore the clinical relevance of these findings.",
+      "date": "2026-02-08",
+      "authors": [
+        "Berenjian K",
+        "Gholipour Z",
+        "Khoshayand M"
+      ],
+      "doi": "10.5812/ijpr-164903"
+    },
+    {
+      "title": "Integrated biomarker analysis of multi-organ effects following MDMA and alcohol co-consumption in Pakistan: A pilot study.",
+      "url": "https://doi.org/10.1016/j.toxrep.2026.102324",
+      "source": "Europe PMC",
+      "abstract": "3,4-Methylenedioxymethamphetamine (MDMA, \"Ecstasy\") is a widely abused recreational drug associated with multi-organ toxicity. Objective was to compare hepatic, renal, and systemic biochemical abnormalities after acute MDMA exposure alone and with alcohol. This cross-sectional pilot study was conducted at Sheikh Zayed bin Al Nahyan and Shalamar Medical and Dental Colleges, Pakistan. The study included 24 exposed participants (ecstasy-only n = 10; ecstasy and alcohol n = 14) and 20 controls. Blood samples were analyzed for AST (<37 U/L), ALT (<63 U/L), ALP (46-116 U/L), GGT (<55 U/L), LDH (81-234 U/L), Urea (10-50 mg/dl), Creatinine (0.7-1.4 mg/dL), Uric Acid (3.5-7.2 mg/dl), and CK (39-232 U/L). Marked hepatorenal biochemical injury was predefined as ALP > 3 times the laboratory specific upper limit of normal or serum urea > 150 mg/dl. Group comparison, age and sex adjusted multivariable linear regression and ROC analyses were performed. The study group exhibited significantly elevated hepatorenal biomarkers vs. controls. Median AST, ALT and ALP were117.0, 117.5 and 439.0 U/L, equivalent to 3.16, 1.86 and 3.78 x ULN, respectively. Median urea and creatinine levels were 172.5 mg/dL and 1.42 mg/dL respectively. No significant difference was found between ecstasy-only and ecstasy and alcohol after correction. Adjusted models showed significantly higher ALP, urea, and creatinine in both study groups versus controls. RSI and STI showed high apparent discrimination (AUC 1.000 and 0.890, respectively). Acute MDMA exposure was associated with marked hepatic and renal biochemical abnormalities. Alcohol co-consumption did not independently exacerbate organ damage. The RSI and STI are novel, cost-effective, and highly accurate tools for emergency triage using routine laboratory parameters.",
+      "date": "2026-08-04",
+      "authors": [
+        "Jaleel A",
+        "Khan M",
+        "Namoos K"
+      ],
+      "doi": "10.1016/j.toxrep.2026.102324"
+    },
+    {
+      "title": "Ketamine preserves perineuronal nets in chronic stressed mice brain through the inhibition of microglia activation.",
+      "url": "https://doi.org/10.1016/j.ibneur.2026.07.016",
+      "source": "Europe PMC",
+      "abstract": "<h4>Background</h4>Deeper understanding of ketamine's mechanism of action would contribute to the discovery of novel therapeutic targets with fast-onset actions. To gain insight on the mechanism underlying the antidepressant-like effects of ketamine, we focused on perineuronal nets (PNNs), an extracellular matrix structure that surrounds fast-spiking parvalbumin-positive interneurons and regulates synaptic plasticity, whose integrity is known to be compromised under stress-induced depressive conditions.<h4>Methods</h4>We first performed the description of the plastic remodeling of PNNs in the Chronic restraint stress (CRS) mice treated or un-treated with ketamine, by quantifying the number of WFA, marker of PNNs, parvalbumin (PV) and c-Fos positive cells, as a surrogate of neuronal activity. And then, we investigated the the transcripts of a number of proteins involved in the formation or degradation of PNNs with or without ketamine in CRS mice. Next, we evaluated the expression of IBA1, a microglial marker, in the hippocampus and medial prefrontal cortex after CRS treated or un-treated with ketamine.<h4>Results</h4>We found that ketamine effectively alleviated the animals' depression like behavior as well as attenuates CRS-induced reduction of WFA-positive cells in the hippocampus and medial prefrontal cortex of mice. Although ketamine treatment had little or no effect on the number of PV, c-Fos positive cells and the transcripts of proteins involved in the formation or degradation of PNNs. Notably, ketamine treatment lead to remarkably reduced the number of IBA1-positive cells in the hippocampus and medial prefrontal cortex after CRS.<h4>Conclusion</h4>Our findings suggest that PNNs is characterized by region-specific changes in chronic stress mouse brain and provide extensive evidence that ketamine exposure initiates microglia to remodel PNN, instead of the PNN accumulation and degradation enzymes.",
+      "date": "2026-07-26",
+      "authors": [
+        "Yang J",
+        "Huang T",
+        "Wang M"
+      ],
+      "doi": "10.1016/j.ibneur.2026.07.016"
+    },
+    {
+      "title": "Investigating the effects of chlorogenic acid on novel object recognition memory impairment, hyperlocomotion, and prefrontal BDNF expression in a sub-chronic ketamine-induced schizophrenia-like rat model.",
+      "url": "https://doi.org/10.1016/j.ibneur.2026.07.010",
+      "source": "Europe PMC",
+      "abstract": "Schizophrenia is a severe neuropsychiatric disorder characterized by positive, negative, cognitive, mood-related, and motor symptoms. Sub-chronic ketamine administration is widely used to induce schizophrenia-like behavioral and cognitive alterations in rodents. Chlorogenic acid (CGA) is an abundant dietary phenolic acid with reported anti-inflammatory, antioxidative, and neuroprotective properties. The present study examined the effects of CGA on behavioral disturbances in male and female rats exposed to sub-chronic ketamine administration, together with brain-derived neurotrophic factor (BDNF) expression in the prefrontal cortex. Ketamine was injected for 7 consecutive days (30 mg/kg, i.p.), and CGA was orally administered once (150 mg/kg) 24 h after the last ketamine injection. Ketamine increased locomotor activity in both sexes, with a greater effect in females; CGA partially reduced this effect only in males. Rearing was reduced only in ketamine-treated males, and CGA did not reverse this change. Grooming was increased in both sexes after ketamine administration, whereas CGA attenuated this effect only in females. Novel object recognition memory was impaired in both sexes after ketamine administration, and CGA partially attenuated this impairment. Immobility in the forced swim test was reduced only in ketamine-treated females, and CGA attenuated this effect. Prefrontal BDNF expression was decreased after ketamine administration in both sexes, and CGA partially attenuated this reduction. Overall, CGA showed partial and sex-dependent protective effects against selected ketamine-induced behavioral and molecular alterations. These findings should be interpreted in light of the absence of independent DMSO-only vehicle-control cohorts.",
+      "date": "2026-07-24",
+      "authors": [
+        "Bahrami A",
+        "Ghorbani Yekta B",
+        "Baghdasarians A."
+      ],
+      "doi": "10.1016/j.ibneur.2026.07.010"
+    },
+    {
+      "title": "Substance use and mental health outcomes among gay and bisexual men in South Korea: a cross-sectional study.",
+      "url": "https://doi.org/10.1016/j.abrep.2026.100728",
+      "source": "Europe PMC",
+      "abstract": "<h4>Purpose</h4>This study investigated the prevalence of substance use among gay and bisexual men in South Korea and examined its association with mental health outcomes.<h4>Methods</h4>Data were drawn from a nationwide cross-sectional survey of 1407 Korean gay and bisexual men aged 19-34 conducted in 2021. Participants completed measures assessing lifetime substance use (e.g., methamphetamine, ketamine, and cannabis) and mental health outcomes including depressive symptoms, suicidal ideation, suicide attempts, and psychiatric service utilization. Multivariate regression analyses examined associations between substance use and mental health outcomes.<h4>Results</h4>Among participants, 17.7% reported lifetime substance use. Substance use was significantly associated with increased risks of suicidality and psychiatric service utilization.<h4>Conclusion</h4>This study found significant associations between substance use and adverse mental health outcomes among Korean gay and bisexual men. These findings highlight the urgent need for integrated interventions addressing both substance use and mental health in this population.",
+      "date": "2026-07-17",
+      "authors": [
+        "Jeong SJ",
+        "Kim B",
+        "Lee H"
+      ],
+      "doi": "10.1016/j.abrep.2026.100728"
+    },
+    {
+      "title": "Effects of low-dose esketamine on early quality of recovery following minimally invasive esophagectomy: a multicenter, randomized controlled study.",
+      "url": "https://doi.org/10.1080/07853890.2026.2704297",
+      "source": "Europe PMC",
+      "abstract": "<h4>Background</h4>Patients undergoing minimally invasive esophagectomy (MIE) frequently experience moderate-to-severe postoperative pain and anxiety-depressive symptoms, compromising postoperative quality of recovery (QoR). Esketamine is a promising adjunct for analgesia and anxiolysis; however, the effect of low-dose esketamine on patient-centered recovery outcomes in MIE remains unclear.<h4>Methods</h4>In this double-blinded, multicenter randomized controlled trial, patients scheduled for elective McKeown esophagectomy were allocated to esketamine (0.25 mg/kg loading dose and 0.125 mg/kg/h continuous infusion during surgery) or placebo (equivalent volume and rate of saline). The primary outcome was the QoR-15 score on postoperative day (POD) 2. Secondary outcomes included QoR-15 scores on POD 1, 3, 7 and 30. Hospital Anxiety and Depression Scale - Anxiety Subscale (HADS-A) and Depression Subscale (HADS-D) scores, numeric rating scale (NRS) pain scores, and the Brief Pain Inventory (BPI) scores on POD 1 to 3, and safety evaluations.<h4>Results</h4>A total of 198 patients were analyzed (esketamine, <i>n</i> = 98; placebo, <i>n</i> = 100). Intraoperative esketamine significantly improved QoR-15 scores on POD 2 (116.9 ± 9.4 <i>vs.</i> 110.2 ± 9.8, <i>p</i> < 0.001) and POD 3 (123.6 ± 7.2 <i>vs.</i> 116.8 ± 8.4, <i>p</i> < 0.001) compared with placebo. HADS-A and HADS-D scores were lower in the esketamine group on POD 1 to 3 (all <i>p</i> < 0.001). Additionally, esketamine recipients reported significantly lower NRS scores at rest and during movement and BPI scores for pain severity and pain interference items (all <i>p</i> < 0.001). There were no significant between-group differences in safety outcomes.<h4>Conclusions</h4>Intraoperative low-dose esketamine improved early, patient-reported recovery after MIE by enhancing analgesia and reducing postoperative anxiety and depression without increasing adverse events.<h4>Trial registration</h4>Chinese Clinical Trial Register (identifier: ChiCTR2400088916).",
+      "date": "2026-07-22",
+      "authors": [
+        "Zhang H",
+        "Yin F",
+        "Li L"
+      ],
+      "doi": "10.1080/07853890.2026.2704297"
+    },
+    {
+      "title": "Effects of sub-anesthetic doses of esketamine on immune function and postoperative negative emotions in acoustic neuroma patients: a randomized clinical trial.",
+      "url": "https://doi.org/10.1080/07853890.2026.2692804",
+      "source": "Europe PMC",
+      "abstract": "<h4>Background</h4>Patients undergoing acoustic neuroma (AN) surgery often experience postoperative negative emotions, including anxiety, depression, and immune function suppression. This trial evaluated whether perioperative sub-anesthetic esketamine improves early postoperative negative emotions and immune function.<h4>Methods</h4>In this single-center, double-blind, randomized trial, 84 patients scheduled for AN surgery were assigned to esketamine (<i>n</i> = 42) or placebo (<i>n</i> = 42). The esketamine cohort received a continuous intravenous infusion of esketamine at 0.2 mg·kg<sup>-1</sup>·h<sup>-1</sup> during anesthesia, followed by 1 mg·kg<sup>-1</sup> esketamine as an adjuvant in patient-controlled intravenous analgesia (PCIA). The placebo group received saline. The primary outcome was the incidence of depression on postoperative day (POD1), defined as a Hospital Anxiety and Depression Scale-Depression subscale (HADS-D) score > 7.<h4>Results</h4>Seventy-seven patients completed the study (39 in the esketamine group, 38 in the placebo group). Esketamine significantly reduced the incidence of depression at POD1 (7.7% <i>versus</i> 31.6%; relative risk 0.24, 95% CI: 0.08-0.80, <i>p</i> = 0.008) and POD3 (0.0% <i>versus</i> 15.8%, relative risk 0.00, 95% CI: 0.00-0.47, <i>p</i> = 0.031) compared with placebo. The incidences of anxiety on POD1 and 3 and sleep disturbances on POD1 were also significantly reduced (<i>p</i> < 0.05). Notably, no significant differences were observed between the two groups in terms of immune function, postoperative pain scores, or intraoperative morphine equivalent. Adverse events did not differ between the groups.<h4>Conclusion</h4>Perioperative sub-anesthetic esketamine reduced postoperative depression and anxiety, and improve sleep quality after AN surgery, without significant effects on early immune function or acute postoperative analgesia.<h4>Trial registration</h4>Chinese Clinical Trial Registry, ChiCTR2400084537.",
+      "date": "2026-07-03",
+      "authors": [
+        "Chen Z",
+        "Wang Y",
+        "Cong P"
+      ],
+      "doi": "10.1080/07853890.2026.2692804"
+    },
+    {
+      "title": "Simplified method for EEG recordings in mice.",
+      "url": "https://doi.org/10.1016/j.mex.2026.104004",
+      "source": "Europe PMC",
+      "abstract": "Currently, implantation of electroencephalogram (EEG) electrodes in laboratory animals is time-consuming and requires specialized equipment. We present a novel method for EEG recordings in mice that utilizes thin needle electrodes. These electrodes are inserted into the skull at predetermined locations by gently pressing them against the bone surface. To ensure stable fixation of the implant, hook-shaped needles are positioned along the lateral aspects of the skull. The electrodes are connected to a multipin connector and secured to the skull using dental composite, after which the animal is allowed to recover from anesthesia. Importantly, procedures such as skull drilling and screw placement are not required, allowing the entire surgery to be completed in <15 min. Consequently, this EEG implantation approach is rapid and minimally invasive. Results of our studies indicate that EEG recordings obtained with needle electrodes are not inferior to those obtained with screw electrodes. Overall, the method is designed to enhance the accuracy and efficiency of EEG recording studies while improving animal welfare. • Simplifies the placement of EEG electrodes. • Reduces the time required for electrode implantation.",
+      "date": "2026-06-11",
+      "authors": [
+        "Zou B",
+        "Xie XS",
+        "Gerashchenko L."
+      ],
+      "doi": "10.1016/j.mex.2026.104004"
+    },
+    {
+      "title": "Interpol review of forensic toxicology, 2023-2025.",
+      "url": "https://doi.org/10.1016/j.fsisyn.2026.100694",
+      "source": "Europe PMC",
+      "abstract": "",
+      "date": "2026-06-15",
+      "authors": [
+        "Ip SC",
+        "Chan CW",
+        "Chan CW"
+      ],
+      "doi": "10.1016/j.fsisyn.2026.100694"
+    },
+    {
+      "title": "Hesperidin mitigates cognitive and anxiety-like deficits by enhancing hippocampal antioxidant defenses, reducing neuroinflammation, and preventing neuronal apoptosis in a third-trimester-equivalent rat model of developmental ethanol neurotoxicity.",
+      "url": "https://doi.org/10.1016/j.ibneur.2026.06.001",
+      "source": "Europe PMC",
+      "abstract": "Ethanol exposure during brain development has been associated with hippocampal oxidative stress, neuroinflammation, and apoptosis, resulting in lasting cognitive and emotional deficits characteristic of fetal alcohol spectrum disorders (FASD). This study evaluated the neuroprotective potential of Hesperidin, a citrus flavanone with antioxidant and anti-inflammatory actions, against developmental ethanol neurotoxicity. Neonatal Wistar rats received ethanol (5.25 g/kg/day; 11.9% v/v) from postnatal days 2-10 and were subsequently treated intraperitoneally with Hesperidin (25, 50, or 100 mg/kg). Behavioral testing on days 39-45 using the Elevated Plus Maze (EPM) and Morris Water Maze (MWM) showed that ethanol markedly decreased open arm time (Oat%) and entries (OAE%) (P < 0.001, P < 0.01 vs Control), increased escape latency (P < 0.001), and reduced probe target time (P < 0.001 vs Control). Hesperidin at 50 and 100 mg/kg improved all indices (P < 0.05-0.01 vs Ethanol). Ethanol elevated hippocampal MDA and TNF-α (P < 0.001) while decreasing SOD (P < 0.01) and GSH-Px (P < 0.001), Hesperidin normalized these values (P < 0.01-0.001 vs Ethanol). GFAP and cleaved caspase-3 immunoreactivity were also reduced by hesperidin (P < 0.001 vs Ethanol). Overall, Hesperidin afforded dose-dependent neuroprotection by mitigating oxidative stress, inflammation, and apoptosis, thereby improving ethanol-induced behavioral impairments.",
+      "date": "2026-06-05",
+      "authors": [
+        "Jamali Z",
+        "Mohseni F",
+        "Salimi A"
+      ],
+      "doi": "10.1016/j.ibneur.2026.06.001"
+    },
+    {
       "title": "CZ",
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2018-004480-31/CZ",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-08-21",
+      "date": "2026-08-22",
       "authors": [],
       "doi": ""
     },
@@ -447,7 +578,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2020-005037-32/CZ",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-08-21",
+      "date": "2026-08-22",
       "authors": [],
       "doi": ""
     },
@@ -456,7 +587,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2021-002909-10/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-08-21",
+      "date": "2026-08-22",
       "authors": [],
       "doi": ""
     },
@@ -465,7 +596,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2015-000550-37/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-08-21",
+      "date": "2026-08-22",
       "authors": [],
       "doi": ""
     },
@@ -474,7 +605,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2021-000041-40/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-08-21",
+      "date": "2026-08-22",
       "authors": [],
       "doi": ""
     },
@@ -483,7 +614,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2020-000829-55/DK",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-08-21",
+      "date": "2026-08-22",
       "authors": [],
       "doi": ""
     },
@@ -492,7 +623,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2020-002790-94/SE",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-08-21",
+      "date": "2026-08-22",
       "authors": [],
       "doi": ""
     },
@@ -501,7 +632,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2021-006200-33/FI",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-08-21",
+      "date": "2026-08-22",
       "authors": [],
       "doi": ""
     },
@@ -510,7 +641,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2019-004812-73/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-08-21",
+      "date": "2026-08-22",
       "authors": [],
       "doi": ""
     },
@@ -519,7 +650,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2022-002369-14/BE",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-08-21",
+      "date": "2026-08-22",
       "authors": [],
       "doi": ""
     },

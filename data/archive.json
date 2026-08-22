@@ -1,6 +1,85 @@
 {
   "items": [
     {
+      "title": "Low-dose lysergic acid diethylamide alters subjective visual perception but not visual contrast surround suppression.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42626628/",
+      "source": "PubMed",
+      "date": "2026-08-20",
+      "authors": [
+        "Jaeckel Lucca F",
+        "Logvinski Deborah",
+        "Kanana Mika"
+      ],
+      "doi": "10.1093/nc/niag050",
+      "summary_en": "A randomized, double-blind study (N=30) examined whether low-dose LSD (10-20 μg) alters contrast surround suppression—a visual illusion where embedded gratings appear lower in contrast. While participants reported subjective visual changes (increased blur, saturation, and dynamism), LSD did not measurably affect the suppression mechanism itself. This dissociation suggests low-dose LSD's visual effects operate through mechanisms distinct from early contextual visual processing.",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "rct",
+      "substances": [
+        "lsd"
+      ],
+      "added_at": "2026-08-22T07:08:35.061769+00:00"
+    },
+    {
+      "title": "Methodological fragmentation and integration priorities in psychedelic-assisted therapy assessment: a scoping review.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42625811/",
+      "source": "PubMed",
+      "date": "2026-08-06",
+      "authors": [
+        "Mele Maria Laura",
+        "Federici Stefano"
+      ],
+      "doi": "10.3389/fpsyt.2026.1880744",
+      "summary_en": "A scoping review analyzing 59 publications (2008-2026) on evaluation methods in psychedelic-assisted therapy. The study systematizes assessment approaches across pre-session screening, acute experience, intervention processes, post-session integration, and clinical/existential outcomes. Four evaluation domains identified: subjective experience instruments, clinical intervention models, outcome measures, and safety frameworks. Findings highlight validated instruments for measuring mystical experiences and emerging clinical frameworks, while revealing methodological fragmentation requiring standardization.",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "review",
+      "substances": [
+        "other"
+      ],
+      "added_at": "2026-08-22T07:08:35.061769+00:00"
+    },
+    {
+      "title": "A scoping review: ketamine or esketamine when used to assist psychotherapy or in combination with psychotherapy for the management of depression in adults.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42624888/",
+      "source": "PubMed",
+      "date": "2026-07-27",
+      "authors": [
+        "Swainson J",
+        "Grewal P",
+        "Polard S"
+      ],
+      "doi": "10.1038/s44184-026-00226-1",
+      "summary_en": "A scoping review: ketamine or esketamine when used to assist psychotherapy or in combination with psychotherapy for the management of depression in adults.",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "review",
+      "substances": [
+        "ketamine"
+      ],
+      "added_at": "2026-08-22T07:08:35.061769+00:00"
+    },
+    {
+      "title": "Comment on \"KET-MCI: A Pilot Safety and Tolerability Study of Single Infusion Intravenous Ketamine for Older Adults With Depression and Mild Cognitive Impairment\".",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42629230/",
+      "source": "PubMed",
+      "date": "2026-07-30",
+      "authors": [
+        "Mokkapati Anuradha",
+        "Thakkar Rhushvi",
+        "Rani Anjna"
+      ],
+      "doi": "10.1016/j.jagp.2026.07.013",
+      "summary_en": "Commentary on a pilot study examining single-dose intravenous ketamine safety and tolerability in older adults with depression and mild cognitive impairment. The study evaluates ketamine as a potential rapid-acting treatment for this population.",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "other",
+      "substances": [
+        "ketamine"
+      ],
+      "added_at": "2026-08-22T07:08:35.061769+00:00"
+    },
+    {
       "title": "From network destabilisation to adaptive reconfiguration: A hippocampal longitudinal Axis model of psychedelic therapy.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42624281/",
       "source": "PubMed",

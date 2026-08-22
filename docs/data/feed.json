@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21T07:23:48.284697+00:00",
+  "generated_at": "2026-08-22T07:09:52.064828+00:00",
   "items": [
     {
       "title": "Blinding integrity in psychedelic research: Evidence from a comparative randomized controlled trial of psilocybin, MDMA, and methylphenidate in healthy volunteers",
@@ -32,6 +32,37 @@
         "mdma"
       ],
       "added_at": "2026-07-09T10:03:12.956794+00:00"
+    },
+    {
+      "title": "Low-dose lysergic acid diethylamide alters subjective visual perception but not visual contrast surround suppression.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42626628/",
+      "source": "PubMed",
+      "date": "2026-08-20",
+      "authors": [
+        "Jaeckel Lucca F",
+        "Logvinski Deborah",
+        "Kanana Mika"
+      ],
+      "doi": "10.1093/nc/niag050",
+      "summaries": {
+        "en": "A randomized, double-blind study (N=30) examined whether low-dose LSD (10-20 μg) alters contrast surround suppression—a visual illusion where embedded gratings appear lower in contrast. While participants reported subjective visual changes (increased blur, saturation, and dynamism), LSD did not measurably affect the suppression mechanism itself. This dissociation suggests low-dose LSD's visual effects operate through mechanisms distinct from early contextual visual processing.",
+        "sv": "En randomiserad, dubbelblind studie (N=30) undersökte om låg-dos LSD (10-20 μg) förändrar kontrastomgärdningsundertryckning—en visuell illusion där inbäddade gitter verkar ha lägre kontrast. Även om deltagarna rapporterade subjektiva visuella förändringar (ökad suddighet, mättnad och dynamik), påverkade LSD inte suppressionsmekanismen. Denna dissociation tyder på att låg-dos LSD:s visuella effekter verkar genom mekanismer skilda från tidig visuell kontextbearbetning.",
+        "no": "En randomisert, dobbeltblindet studie (N=30) undersøkte om lavdose LSD (10-20 μg) endrer kontraststøy-undertrykkelse—en visuell illusjon der innbakte gitter ser ut til å ha lavere kontrast. Selv om deltakerne rapporterte subjektive visuelle endringer (økt uskarphet, metning og dynamikk), påvirket LSD ikke undertrykkingsmekanismen. Denne dissosiasjonen tyder på at lavdose LSD:s visuelle effekter virker gjennom andre mekanismer enn tidlig visuell kontekstbehandling.",
+        "da": "Et randomiseret, dobbeltblindet studie (N=30) undersøgte, om lav-dosis LSD (10-20 μg) ændrer kontraststyrkenedsættelse—en visuell illusion, hvor indlejrede mønstre virker lavere i kontrast. Selvom deltagerne rapporterede subjektive visuelle ændringer (øget sløring, mætning og dynamik), påvirkede LSD ikke mekanismen. Denne dissociation tyder på, at lav-dosis LSD:s visuelle effekter virker gennem andre mekanismer end tidlig visuell kontekstbehandling.",
+        "fi": "Satunnaistettu, kaksoissokkoutettu tutkimus (N=30) tutki, muuttaako matala-annosinen LSD (10-20 μg) kontrastinympäröintivaikutusta—visuaalista illuusiota, jossa silmukan kontrasti näyttää matalammalta. Osallistujat ilmoittivat subjektiivisista visuaalisista muutoksista (lisääntynyt epäterävyys, värikylläisyys ja dynamiikka), mutta LSD ei vaikuttanut vaikutusmekanismiin. Tämä dissosiaatio viittaa siihen, että matala-annoksisen LSD:n visuaaliset vaikutukset toimivat muiden mekanismien kautta kuin varhainen visuaalinen kontekstin käsittely.",
+        "is": "Slembirannsókn með tvöfaldri blindri hönnun (N=30) kannaði hvort lágskammta-LSD (10-20 μg) breytir andstæðuheitum—sjónkvörfun þar sem innfelldir grindur virðast með minni andstæðu. Þó að þátttakendur greindi frá huglægum sjónbreytingum (auknu óskarpri sýn, metingu og virkni), hafði LSD ekki áhrif á kerfið. Þessi sundurstaða bendir til þess að sjónviðurkenning lágskammta-LSD starfi í gegnum aðra kerfi en snarvirk sjón- og samhengisvinnsla.",
+        "et": "Randomiseeritud, kahekordse pimestusega uuring (N=30) uuris, kas madala doosiga LSD (10-20 μg) muudab kontrastiümbritsuse summutust—visuaalset illusiooni, kus sisestatud võred näivad madalama kontrastiga. Kuigi osalejad teatanud subjektiivsetest visuaalsetest muutustest (suurenenud hägusus, küllastus ja dünaamilisus), ei mõjutanud LSD summutusmehhhanismi. See dissotsiatsioon viitab sellele, et madala doosiga LSD visuaalsed efektid toimivad muul mehhanismil kui varajane visuaalne kontekstiline töötlemine.",
+        "lv": "Randomizēts, dubultslēpts pētījums (N=30) pārbaudīja, vai zema deva LSD (10-20 μg) maina kontrasta apkārtējās slāpēšanas—vizuālu ilūziju, kur iegultie režģi izskatās ar zemāku kontrastu. Lai arī dalībnieki ziņoja par subjektīvām vizuālām izmaiņām (palielinātu neskaidrību, piesātinājumu un dinamiku), LSD neietekmēja slāpēšanas mehānismu. Šī disociācija liecina, ka zema deva LSD vizuālie efekti darbojas caur mehānismiem, kas atšķiras no agrīnās vizuālās konteksta apstrādes.",
+        "lt": "Randomizuotas, dvigubai aklas studija (N=30) tiria, ar mažos LSD dozėse (10-20 μg) keičiasi kontrasto aplinkos slopinimas—vizualinė iliuzija, kai įdėti grindiniai atrodo mažesniu kontrastu. Nors dalyviai pranešė apie subjektyvius vaizdo pokyčius (padidėjusį neaištrumą, sodrumą ir dinamiką), LSD nepaveikė slopinimo mechanizmo. Šis atsiskyrimas rodo, kad žema LSD dozė sukelti vaizdo efektai veikia per kitokius mekanizmus nei ankstyvoji vizualinio konteksto apdorojimas."
+      },
+      "notable": false,
+      "notable_reasons": null,
+      "relevance_score": 4,
+      "study_type": "rct",
+      "substances": [
+        "lsd"
+      ],
+      "added_at": "2026-08-22T07:08:35.061769+00:00"
     },
     {
       "title": "From network destabilisation to adaptive reconfiguration: A hippocampal longitudinal Axis model of psychedelic therapy.",
@@ -969,6 +1000,36 @@
       "added_at": "2026-08-08T07:28:15.314747+00:00"
     },
     {
+      "title": "Methodological fragmentation and integration priorities in psychedelic-assisted therapy assessment: a scoping review.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42625811/",
+      "source": "PubMed",
+      "date": "2026-08-06",
+      "authors": [
+        "Mele Maria Laura",
+        "Federici Stefano"
+      ],
+      "doi": "10.3389/fpsyt.2026.1880744",
+      "summaries": {
+        "en": "A scoping review analyzing 59 publications (2008-2026) on evaluation methods in psychedelic-assisted therapy. The study systematizes assessment approaches across pre-session screening, acute experience, intervention processes, post-session integration, and clinical/existential outcomes. Four evaluation domains identified: subjective experience instruments, clinical intervention models, outcome measures, and safety frameworks. Findings highlight validated instruments for measuring mystical experiences and emerging clinical frameworks, while revealing methodological fragmentation requiring standardization.",
+        "sv": "En omfattande granskning av 59 publikationer (2008-2026) om utvärderingsmetoder för psykedelika-assisterad terapi. Studien systematiserar bedömningsmetoder från förscreening, akut upplevelse, interventionsprocesser, efterintegrering till kliniska och existentiella utfall. Fyra utvärderingsdomäner identifierades: instrument för subjektiv upplevelse, kliniska interventionsmodeller, resultatmått och säkerhet. Resultaten visar validerade instrument för mystiska upplevelser och framväxande ramverk, men avslöjar metodologisk fragmentering som kräver standardisering.",
+        "no": "En omfattende gjennomgang av 59 publikasjoner (2008-2026) om evalueringsmetoder for psykedelika-assistert terapi. Studien systematiserer vurderingstilnærminger fra forscreening, akutt erfaring, intervensjonsprosesser, etterintegrasjon til kliniske og eksistensielle utfall. Fire evalueringsdomener identifisert: instrumenter for subjektiv erfaring, kliniske intervensjonsmodeller, resultatmål og sikkerhet. Funnene viser validerte instrumenter for mystiske erfaringer og framvoksende rammeverk, men avslører metodologisk fragmentering som krever standardisering.",
+        "da": "En omfattende oversigt over 59 publikationer (2008-2026) om evalueringsmetoder i psykedelika-assisteret terapi. Studien systematiserer vurderingstilgange fra forscreening, akut oplevelse, interventionsprocesser, efterintegration til kliniske og eksistentielle udfald. Fire evalueringsdomæner identificeret: instrumenter for subjektiv oplevelse, kliniske interventionsmodeller, resultatmål og sikkerhed. Funnene viser validerede instrumenter til måling af mystiske oplevelser og fremvoksende rammer, men afslører metodologisk fragmentering som kræver standardisering.",
+        "fi": "Laaja katsaus 59 julkaisuun (2008-2026) psykedeeliavusteisen terapian arviointimenetelmistä. Tutkimus systematisoi arviointikäytäntöjä enäisiosta, akuutista kokemuksesta, interventioprosesseista, jälkiintegroinista kliinisiin ja eksistentiaalisiin tuloksiin. Neljä arviointialuetta tunnistettu: subjektiivisen kokemuksen mittarit, kliniiset interventiomallit, tulosmittarit ja turvallisuus. Tulokset osoittavat validoituja mittareita mystisille kokemuksille ja kehittyviä viitekehyksiä, mutta paljastaa metodologisen pirstoutumisen, joka vaatii standardisointia.",
+        "is": "Yfirlit yfir 59 ritgerðir (2008-2026) um matsaðferðir við sálfræðivirkri sálarlyfjameðferð. Rannsóknin kerfisbætir matstegundir frá fyrirmatsprófunum, beinni reynslu, meðferðarferlum, endursamhæfingu til klínískra og tilvistarlegra útkomu. Fjórir matssviðir auðkenndir: tæki fyrir huglæga reynslu, klínísk inngrip og hæfnirammar, útkomenumælikvarðar og öryggi. Niðurstöður sýna staðfest tæki fyrir dularlegra reynslu og vaxandi ramma, en sýna aðferðafræðilega sundrung sem krefst staðfestingar.",
+        "et": "Ülevaade 59 avaldisest (2008-2026) psühhedeeliabiga toetatud teraapia hindamismeetoditest. Uuring süstematiseerib hindamiskäsitlusi eelhindamisest, teravast kogemusest, sekkumisprotsessidest, järelintegratsioonist kliinilistele ja eksistentsiaalsele tulemustele. Neli hindamispiirkonda tuvastatud: subjektiivse kogemuse instrumendid, klinilised sekkumismudelid, tulemuste mõõdikud ja ohutus. Tulemused näitavad valideeritud instrumente müstiliste kogemuste mõõtmiseks ja arenevaid raamistikke, kuid paljastab metodoloogilist killustumist, mis nõuab standardiseerimist.",
+        "lv": "Pārskats par 59 publikācijām (2008-2026) par novērtēšanas metodēm psihedēliku atbalstītajā terapijā. Pētījums sistematizē novērtēšanas pieejas no priekšscreeninga, akūtas pieredzes, intervences procesiem, pēcintegrācijai līdz klīniskiem un eksistenciāliem rezultātiem. Identificēti četri novērtēšanas jomas: subjektīvās pieredzes instrumenti, klīniskie intervences modeļi, rezultātu mēri un drošība. Rezultāti parāda validētos instrumentus mistisku pieredzju mērīšanai un attīstāmos rāmjus, taču atklāj metodologisku fragmentāciju, kas prasa standartizāciju.",
+        "lt": "Apžvalga apie 59 publikacijas (2008-2026) apie psichedelinių medžiagų pagalbą turinčios terapijos vertinimo metodus. Tyrimas sistematizuoja vertinimo prieigas nuo išankstinio atsijimo, aštraus patyrimo, intervencijos procesų, po-sesijos integracijos iki klininių ir egzistencialių rezultatų. Nustatyti keturi vertinimo sritys: subjektyvios patirties instrumentai, klininiai intervencijos modeliai, rezultatų matavimai ir saugumas. Rezultatai rodo patvirtintus instrumentus mistinei patirčiai matuoti ir besivystančius rėmus, tačiau atskleidžia metodologinį fragmentaciją, reikalingą standartizavimo."
+      },
+      "notable": false,
+      "notable_reasons": null,
+      "relevance_score": 4,
+      "study_type": "review",
+      "substances": [
+        "other"
+      ],
+      "added_at": "2026-08-22T07:08:35.061769+00:00"
+    },
+    {
       "title": "Well-being as a primary endpoint in clinical trials: a call for consensus.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42581324/",
       "source": "PubMed",
@@ -1859,68 +1920,6 @@
         "et": "Tagasivaatav analüüs 28 hospitaliseeritud patsiendi kohta, kellel on ravi vastupidav depression ja kes saivad 8 ketamiini-infusiooni lisaravi. Psühhiaatrilised kõrvaltoimed registreeriti IDS-SR-30 abil. Unehäired olid kõige sagedamini tekkinud sümptom, kusjuures ööuni häired ja varased ärkamised jätkusid jälgimiseni. Isu ja kaalu muutused esinesid ravi alguses. Meeleolu-, kognitiivsed sümptomid ja enesetapu ideation jäid haruldased, viidates ketamiini psühhiaatriaalsele ohutuseprofiilile.",
         "lv": "Retrospektīva analīze 28 stacionētu pacientu ar ārstēšanai rezistentām depresiju, kuri saņēma 8 ketamīna infūzijas kā papildu ārstēšanu. Psihiatriskās blakusparādības tika novērotas, izmantojot IDS-SR-30. Miega traucējumi bija visbiežāk ziņotā parādošanās simptoms, miega problēmas naktī un agrs pacelšanās turpinājās līdz sekošanai. Apetītes un svara izmaiņas novērotas ārstēšanas sākumā. Garastāvokļa, kognitīvie simptomi un pašnāvnieciskas idejas palika retas, kas norāda ketamīna psihiatrisko drošības profilu.",
         "lt": "Retrospektyvi 28 hospitalizuotų pacientų, turinčių medikamentui atspari depresija, analizė, gavusių 8 ketamino infuzijas kaip papildomą terapiją. Psichiatriniai šalutiniai poveikiai buvo vertinami naudojant IDS-SR-30. Miego sutrikimai buvo dažniausias iškilęs simptomas, naktinės miego problemos ir anksti subudimas tęsėsi stebėjimui. Apetito ir svorio pokyčiai buvo stebimi gydymo pradžioje. Nuotaika, kognityviniai simptomai ir savižudybės ideacijos liko reti, o tai rodo ketamino psichiatrinį saugumo profilį."
-      },
-      "notable": false,
-      "notable_reasons": null,
-      "relevance_score": 4,
-      "study_type": "observational",
-      "substances": [
-        "ketamine"
-      ],
-      "added_at": "2026-08-01T12:00:00+00:00"
-    },
-    {
-      "title": "Regulatory context for protocol amendments and public reporting in psychedelic trials.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42092602/",
-      "source": "PubMed",
-      "date": "2026-Aug",
-      "authors": [
-        "Swieczkowski Damian",
-        "Kwaśny Aleksander",
-        "Cubała Wiesław Jerzy"
-      ],
-      "doi": "10.1016/j.jclinepi.2026.112311",
-      "summaries": {
-        "en": "This article examines regulatory frameworks governing protocol amendments and public reporting in clinical trials of hallucinogens. The study addresses compliance requirements and transparency standards for researchers conducting psychedelic research, emphasizing the importance of proper documentation and disclosure practices in this evolving field.",
-        "sv": "Artikeln undersöker regelverken för protokolländringar och offentlig rapportering i kliniska studier med psykedelika. Studien behandlar efterlevnadskrav och transparensstandarder för forskare inom psykedelisk forskning, med fokus på betydelsen av korrekt dokumentation och rapporteringspraxis.",
-        "no": "Artikkelen undersøker regelverket for protokollendringar og offentlig rapportering i kliniske studier av psykedelika. Studien tar for seg krav til overholdelse og transparensstandarder for forskere innen psykedelisk forskning, med vekt på betydningen av korrekt dokumentasjon og rapporteringspraksis.",
-        "da": "Artiklen undersøger regelværket for protokoländringer og offentlig rapportering i kliniske forsøg med psykedelika. Studien behandler overholdelses- og transparenskrav for forskere inden for psykedelisk forskning, med vægt på betydningen af korrekt dokumentation og rapporteringspraksis.",
-        "fi": "Artikkeli tarkastelee sääntöjä, jotka koskevat protokollamuutoksia ja julkista raportointia psykedeeleihin liittyvissä kliinisissa tutkimuksissa. Tutkimus käsittelee vaatimuksia noudattamiselle ja läpinäkyvyydelle psykedeelitutkimusta tekeville tutkijoille, korostaen asianmukaisen dokumentoinnin ja raportointikäytäntöjen merkitystä.",
-        "is": "Greinin fjallar um reglur um breytingar á rannsóknaáætlunum og opinbera skýrslugerð í klínískum rannsóknum á sálarsvifum. Rannsóknin fjallar um kröfur um fylgni og gagnsæi fyrir vísindamenn sem stunda rannsóknir á sálarsvifum, með áherslu á mikilvægi réttrar skjalavörslu og skýrslugerðar.",
-        "et": "Artikkel käsitleb protesti muudatuste ja avaliku aruandluse regulatiivse raamistiku psühhedeeliliste uuringute kliinilistes katsetes. Uuring käsitleb nõuetele vastavuse ja läbipaistvuse standardeid psühhedeeliliste uuringute teadustöötajatele, rõhutades õige dokumenteerimise ja aruandlustavade tähtsust.",
-        "lv": "Raksts pēta normatīvo sistēmu protokola izmaiņām un publiski pieejamam ziņošanai psihodēliku klīniskajos pētījumos. Pētījums aplūko atbilstības prasības un pārredzamības standartus psihodēliku pētījumos iesaistītajiem pētniekiem, uzsverot pareizas dokumentācijas un pārskatīšanas prakses nozīmi.",
-        "lt": "Straipsnis nagrinėja psichodelinių medžiagų klinikinių tyrimų protokolo pakeitimų ir viešų ataskaitų reguliacinę sistemą. Tyrimas svarsto atitikties reikalavimus ir skaidrumo standartus psichodelinių tyrimų mokslininkams, pabrėžiant tinkamos dokumentacijos ir ataskaitų praktikos svarbą."
-      },
-      "notable": false,
-      "notable_reasons": null,
-      "relevance_score": 3,
-      "study_type": "other",
-      "substances": [
-        "other"
-      ],
-      "added_at": "2026-08-01T12:00:00+00:00"
-    },
-    {
-      "title": "Brain iron-sensitive markers (magnetic susceptibility and R2*) predict antidepressant response to ketamine in treatment-resistant depression.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42068886/",
-      "source": "PubMed",
-      "date": "2026-Aug",
-      "authors": [
-        "Yonezawa Kengo",
-        "Nakajima Shinichiro",
-        "Shibukawa Shuhei"
-      ],
-      "doi": "10.1016/j.pscychresns.2026.112229",
-      "summaries": {
-        "en": "Double-blind RCT with open-label extension examining repeated IV ketamine in 17 Japanese TRD patients. Baseline brain iron levels (measured via QSM and R2* mapping) predicted antidepressant response. Higher iron in right nucleus accumbens and left amygdala correlated with greater improvement in retardation and vegetative symptoms on MADRS, suggesting iron-related dopamine dysfunction may indicate ketamine treatment response.",
-        "sv": "Dubbelblind RCT med öppen förlängning undersökte upprepad IV ketamin hos 17 japanska patienter med behandlingsresistent depression. Utgångsvärden för hjärnans järnnivåer (uppmätt via QSM och R2*-kartläggning) förutsade antidepressiv effekt. Högre järnhalter i höger nucleus accumbens och vänster amygdala korrelerade med större förbättring av retardations- och vegetativa symtom på MADRS.",
-        "no": "Dobbeltblindt RCT med åpen forlengelse undersøkte gjentatt IV ketamin hos 17 japanske pasienter med behandlingsresistent depresjon. Baseline hjernens jernnivåer (målt via QSM og R2*-kartlegging) predikerte antidepressiv respons. Høyere jernkonsentrasjon i høyre nucleus accumbens og venstre amygdala korrelerte med større forbedring av retardasjon- og vegetative symptomer på MADRS.",
-        "da": "Dobbeltblindet RCT med åben forlængelse undersøgte gentagen IV ketamin hos 17 japanske patienter med behandlingsresistent depression. Baseline hjernens jernkoncentration (målt via QSM og R2*-kortlægning) forudsagde antidepressiv respons. Højere jernindhold i højre nucleus accumbens og venstre amygdala korrelerede med større forbedring af retardations- og vegetative symptomer på MADRS.",
-        "fi": "Kaksoissokkoutettu satunnaistettu kontrolloitu tutkimus ja avoin jatkovaihe, jossa tutkittiin toistuvaa IV-ketamiinia 17 japanilaisella hoidon­resistenttia masennusta sairastavalla potilaalla. Lähtötason aivon rautatasot (mitattu QSM ja R2*-kartoituksella) ennustivat psykoosilääkkeellisen vasteen. Korkeammat rautapitoisuudet oikeassa nucleus accumbensissä ja vasemmassa amygdalassa korreloivat parempaan paranemiseen MADRS-retardaatio- ja vegetatiivisissa oireissa.",
-        "is": "Tvíblind slembiraðað eftirlitsdómi með opnu framlengingu sem kannaði endurtekin IV-ketamín hjá 17 japönskum sjúklingum með meðferðarþolin þunglyndi. Grunnlínur heilans járnmagn (mælt með QSM og R2*-kortlagningu) spáðu fyrir um andirðu svörun. Hærri járnmagn í hægri nucleus accumbens og vinstri amygdala tengdist meiri bætingu á hægju og vöxtuleysi einkenna á MADRS.",
-        "et": "Kahekordse pimestusega randomiseeritud kontrollitud uuring koos avatud jätku-uuringuga uuris korduvat IV-ketamiini 17 jaapani patsiendi hulgas, kel oli raviresistentne depressioon. Algse seisundi ajus raud (mõõdetud QSM ja R2*-kaardistamisega) ennustas antidepressiivsed vastust. Kõrgem raudasisaldus paremas nucleus accumensi ja vasaku amygdala piirkonnas korreleerus MADRS retardatsiooni ja vegetatiivsete sümptomite paranemisega.",
-        "lv": "Dubultslēpta randomizēta kontrolēta pētījuma ar atklātu pagarinājumu ietvaros pētīja atkārtotu IV ketamīnu 17 japāņu pacientiem ar ārstējošā nespēcīgu depresiju. Sākotnējais smadzeņu dzelzs (mērīts, izmantojot QSM un R2* kartēšanu) prognozēja antidepresīvu atbildi. Augstāks dzelzs saturs labajā nucleus accumbens un kreisajā migdala korelēja ar lielāku MADRS retardācijas un veģetatīvo simptomu uzlabošanos.",
-        "lt": "Dvigubai aklas randomizuota kontroliuojama studija su atvirais tęsiniu, tirianti pakartotą IV ketaminą 17 japonų pacientų su rezistentine depresija. Pradinis smegenyse esantis geležis (matuota QSM ir R2* žemėlapiavaric) numato antidepresyvų atsaką. Didesnė geležies koncentracija dešiniajame nucleus accumbens ir kairiajame amygdala susiejo su didesniu MADRS retardacijos ir vegetacinių simptomų pagerinimo."
       },
       "notable": false,
       "notable_reasons": null,

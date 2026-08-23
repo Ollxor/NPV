@@ -1,6 +1,109 @@
 {
   "items": [
     {
+      "title": "Single-Infusion Ketamine in Older Adults With Depression and Mild Cognitive Impairment: Promising Signal, Falls, and Cognitive Safety Need Closer Scrutiny.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42632764/",
+      "source": "PubMed",
+      "date": "2026-07-30",
+      "authors": [
+        "Jannasz Iwona",
+        "Pruc Michal",
+        "Szarpak Lukasz"
+      ],
+      "doi": "10.1016/j.jagp.2026.07.012",
+      "summary_en": "A study examined single-dose ketamine infusion in older adults with depression and mild cognitive impairment. While showing promise for depression relief, the research raises safety concerns regarding falls and cognitive effects that warrant further investigation.",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "other",
+      "substances": [
+        "ketamine"
+      ],
+      "added_at": "2026-08-23T07:09:45.539258+00:00"
+    },
+    {
+      "title": "Adverse Effect-Related Language in Recreational Psychedelic and non-Psychedelic Substance Experience Reports.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42631663/",
+      "source": "PubMed",
+      "date": "2026-08-22",
+      "authors": [
+        "Hase Adrian",
+        "Erdmann Max",
+        "Calder Abigail"
+      ],
+      "doi": "10.15288/jsad.25-00426",
+      "summary_en": "Psycholinguistic analysis of 4,226 online experience reports compared adverse effect language across psychedelics and non-psychedelic substances. Using latent semantic analysis, researchers assessed semantic similarity to 77 literature-based adverse effect terms. Ayahuasca showed highest vomiting-related language; ketamine, dissociation-related; MDMA, drowsiness and cardiac event-related language. Report sentiment (positive/negative) influenced between-substance differences. Findings suggest recreational experience reports contain substance-specific adverse effect signatures.",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "observational",
+      "substances": [
+        "lsd",
+        "psilocybin",
+        "ketamine",
+        "mdma",
+        "ayahuasca",
+        "other"
+      ],
+      "added_at": "2026-08-23T07:09:45.539258+00:00"
+    },
+    {
+      "title": "The trials of translating psilocybin treatment from research to practice.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42629464/",
+      "source": "PubMed",
+      "date": "2026-08-21",
+      "authors": [
+        "Galindo Liliana",
+        "Ragnhildstveit Anya",
+        "Illingworth Benjamin J G"
+      ],
+      "doi": "10.1038/s41591-026-04597-y",
+      "summary_en": "This article examines challenges in translating psilocybin-assisted therapy from clinical research settings to practical medical implementation. Key considerations include protocol standardization, therapist training, regulatory pathways, and patient selection criteria necessary for safe and effective clinical deployment.",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "other",
+      "substances": [
+        "psilocybin"
+      ],
+      "added_at": "2026-08-23T07:09:45.539258+00:00"
+    },
+    {
+      "title": "Ketamine Safety and Therapeutic Opportunity in Late-Life Depression With Depression-Executive Dysfunction Syndrome (DED).",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42632766/",
+      "source": "PubMed",
+      "date": "2026-07-30",
+      "authors": [
+        "McIntyre Roger S"
+      ],
+      "doi": "10.1016/j.jagp.2026.07.014",
+      "summary_en": "Study examines ketamine safety and therapeutic efficacy in older adults with late-life depression, specifically those presenting with depression-executive dysfunction syndrome (DED). The research explores ketamine as a potential treatment option for this population, evaluating both safety profile and clinical outcomes in patients with concurrent cognitive impairment.",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "other",
+      "substances": [
+        "ketamine"
+      ],
+      "added_at": "2026-08-23T07:09:45.539258+00:00"
+    },
+    {
+      "title": "Depression Heterogeneity as a Confounder in Ketamine Response for Late-Life Depression.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42632765/",
+      "source": "PubMed",
+      "date": "2026-07-29",
+      "authors": [
+        "Lind J",
+        "Hophing Megan",
+        "Brody Benjamin"
+      ],
+      "doi": "10.1016/j.jagp.2026.07.015",
+      "summary_en": "A study examining ketamine response in late-life depression, highlighting how depression heterogeneity may confound treatment outcomes. The research suggests that varying depression subtypes in older adults could affect ketamine efficacy assessment, indicating need for stratified analysis in future clinical trials.",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "other",
+      "substances": [
+        "ketamine"
+      ],
+      "added_at": "2026-08-23T07:09:45.539258+00:00"
+    },
+    {
       "title": "Low-dose lysergic acid diethylamide alters subjective visual perception but not visual contrast surround suppression.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42626628/",
       "source": "PubMed",

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-22T07:09:52.064828+00:00",
+  "generated_at": "2026-08-23T07:11:03.475168+00:00",
   "items": [
     {
       "title": "Blinding integrity in psychedelic research: Evidence from a comparative randomized controlled trial of psilocybin, MDMA, and methylphenidate in healthy volunteers",
@@ -32,6 +32,73 @@
         "mdma"
       ],
       "added_at": "2026-07-09T10:03:12.956794+00:00"
+    },
+    {
+      "title": "Adverse Effect-Related Language in Recreational Psychedelic and non-Psychedelic Substance Experience Reports.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42631663/",
+      "source": "PubMed",
+      "date": "2026-08-22",
+      "authors": [
+        "Hase Adrian",
+        "Erdmann Max",
+        "Calder Abigail"
+      ],
+      "doi": "10.15288/jsad.25-00426",
+      "summaries": {
+        "en": "Psycholinguistic analysis of 4,226 online experience reports compared adverse effect language across psychedelics and non-psychedelic substances. Using latent semantic analysis, researchers assessed semantic similarity to 77 literature-based adverse effect terms. Ayahuasca showed highest vomiting-related language; ketamine, dissociation-related; MDMA, drowsiness and cardiac event-related language. Report sentiment (positive/negative) influenced between-substance differences. Findings suggest recreational experience reports contain substance-specific adverse effect signatures.",
+        "sv": "Psykolingvistisk analys av 4 226 onlinerapporter jämförde adversa effektspråk mellan psykedelika och icke-psykedelika. Med latent semantisk analys bedömde forskare semantisk likhet med 77 litteraturbaserade adversa effekttermer. Ayahuasca visade högst kräkningar; ketamin, dissociation; MDMA, sömnighet och hjärteffekter. Rapporternas känsla påverkade skillnader mellan substanser. Resultaten visar att rekreationella upplevelserapporter innehåller substansspecifika signaturer för adversa effekter.",
+        "no": "Psykolingvistisk analyse av 4 226 nettrapporter sammenliknet bivirkning-språk mellom psykedelika og ikke-psykedelika. Med latent semantisk analyse vurderte forskere semantisk likhet med 77 litteraturbaserte bivirkningstermer. Ayahuasca viste høyest oppkastingsrelatert språk; ketamin, dissosiasjonsrelatert; MDMA, døsighet og hjerterelatert. Rapportenes sentimentalitet påvirket substansforskjeller. Funnene tyder på at rekreasjonelle erfaringsrapporter inneholder substansspesifikke signaturer for bivirkninger.",
+        "da": "Psykolingvistisk analyse af 4.226 onlinerapporter sammenlignede bivirkning-sprog mellem psykedelika og ikke-psykedelika. Med latent semantisk analyse vurderede forskere semantisk lighed med 77 litteraturbaserede bivirkning-termer. Ayahuasca viste højeste opkastnings-relateret sprog; ketamin, dissociation-relateret; MDMA, døsighed og hjerte-relateret. Rapporternes sentimentalitet påvirkede substansforskelle. Fund tyder på, at rekreative erfaringsrapporter indeholder substansspecifikke signaturer for bivirkninger.",
+        "fi": "Psykolingvistinen analyysi 4 226 verkkokertomuksesta vertaili haittavaikutuksiin liittyvää kieltä psykedeliikan ja muiden aineiden välillä. Latentin semanttisen analyysin avulla tutkijat arvioivat semanttista samankaltaisuutta 77 kirjallisuusperusteiseen haittavaikutustermiin. Ayahuasca näytti korkeinta oksentamisen vähennykseen liittyvää kieltä; ketamiini, dissosiaatiot; MDMA, uneliaisuus ja sydäntapahtumiin liittyvät termit. Raporttien sentimentin arvioineet vaikuttivat aineisiin liittyviin eroihin. Tulokset viittaavat rekreatiivisten kokemuskertomuksien sisältävän ainekohtaisia haittavaikutusten piirteitä.",
+        "is": "Sálkræn málfræðileg greining á 4.226 netkennslum berdur saman skaðlegar afleiðingar milli getuhrifa og annarra efna. Með latentri merkingarfræðilegri greiningu metu vísindamenn merkingarfræðilega líkindi við 77 bókmenntabyggðar skaðlegar afleiðingar. Ayahuasca sýndi hæstu beina-tengda tungumál; ketamin, sundrun; MDMA, þreytu og hjartaflækju. Viðhorf skýrslna höfðu áhrif á muninn milli efna. Niðurstöður benda til að afslöppuðar reynsluskýrslur innihaldi efnisbundnar skaðlegar afleiðingar.",
+        "et": "Psühholingvistilise analüüsi abil uuriti 4 226 veebiaruannet, võrreldes kahjulike toimete kirjeldusi psühhedeelikumide ja muude ainete vahel. Latentne semantiline analüüs hindas semantilist sarnasust 77 kirjandusel põhineva kahjulike toimete terminiga. Ayahuasca näitas kõrgeimaid oksendamise-seotud avaldisi; ketamiin, dissotsiatsiooni; MDMA, uimasust ja südamehäirete seotud termineid. Aruannete sentimentidel oli mõju ainete vahelisele erinevusele. Tulemused viitavad, et rekreatiivsetel kogemuste aruannetel on ainetespetsiifilised kahjulike toimete mustrid.",
+        "lv": "Psiholingvistiskā analīze pārbaudīja 4 226 tiešsaistes ziņojumus, salīdzinot nelabvēlīgo efektu valodu starp psihedelikiem un citām vielām. Latentā semantiskā analīze novērtēja semantisko līdzību ar 77 literatūrā balstītajiem nelabvēlīgo efektu terminiem. Ayahuasca uzrādīja augstākās vemšanas-saistītās valodas; ketamīns, disociatīvos; MDMA, miegainību un sirds-saistītos terminus. Ziņojumu sentiments ietekmēja atšķirības starp vielām. Rezultāti liecina, ka rekreatīvi pieredzes ziņojumi satur vielu-specifiskas nelabvēlīgo efektu pazīmes.",
+        "lt": "Psiholingvistinė 4 226 interneto ataskaitų analizė palyginusi neigiamų poveikių kalbą tarp psichedelikų ir kitų medžiagų. Latenčios semantinės analizės metodu tyrėjai įvertino semantinį panašumą su 77 literatūriniais neigiamų poveikių terminais. Ayahuasca parodė didžiausią pykinimo-susijusią kalbą; ketaminas, disociaciją; MDMA, pasparimą ir širdies-susijusius terminus. Ataskaitų sentimentas turėjo įtakos medžiagų skirtumams. Rezultatai rodo, kad rekreacines patirties ataskaitos turi medžiagai būdingus neigiamų poveikių požymius."
+      },
+      "notable": false,
+      "notable_reasons": null,
+      "relevance_score": 4,
+      "study_type": "observational",
+      "substances": [
+        "lsd",
+        "psilocybin",
+        "ketamine",
+        "mdma",
+        "ayahuasca",
+        "other"
+      ],
+      "added_at": "2026-08-23T07:09:45.539258+00:00"
+    },
+    {
+      "title": "The trials of translating psilocybin treatment from research to practice.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42629464/",
+      "source": "PubMed",
+      "date": "2026-08-21",
+      "authors": [
+        "Galindo Liliana",
+        "Ragnhildstveit Anya",
+        "Illingworth Benjamin J G"
+      ],
+      "doi": "10.1038/s41591-026-04597-y",
+      "summaries": {
+        "en": "This article examines challenges in translating psilocybin-assisted therapy from clinical research settings to practical medical implementation. Key considerations include protocol standardization, therapist training, regulatory pathways, and patient selection criteria necessary for safe and effective clinical deployment.",
+        "sv": "Artikeln undersöker utmaningarna med att implementera psylocybinassisterad terapi från klinisk forskning till praktisk medicinsk tillämpning. Viktiga aspekter inkluderar protokollstandardisering, terapeututbildning, regulatoriska vägar och patientvalsskriterier för säker och effektiv klinisk användning.",
+        "no": "Artikkelen ser på utfordringene med å overføre psylocybinassistert terapi fra klinisk forskning til praktisk medisinsk bruk. Viktige hensyn inkluderer protokollstandardisering, terapeutopplæring, regulatoriske prosesser og pasientseleksjonskriterier for sikker og effektiv klinisk gjennomføring.",
+        "da": "Artiklen undersøger udfordringerne ved at oversætte psylocybinassisteret terapi fra klinisk forskning til praktisk medicinsk implementering. Vigtige overvejelser omfatter protokolstandardisering, terapeutuddannelse, regulatoriske veje og patienturvalsskriterier for sikker og effektiv klinisk anvendelse.",
+        "fi": "Artikkelissa tarkastellaan psylosibiini-avusteisen terapian siirtämiseen liittyviä haasteita kliinisestä tutkimuksesta käytännön lääketieteelliseen soveltamiseen. Keskeisiä tekijöitä ovat protokollan standardointi, terapeutikoulutus, sääntelyreitit ja potilasvalintakriteerit turvallista ja tehokasta kliinistä käyttöä varten.",
+        "is": "Greinin fjallar um áskorunum við að flytja psýlósýbín-aðstoðað meðferð frá klínískum rannsóknum yfir í hagnýta lækniðlega beitingu. Mikilvæg atriði fela í sér stöðlun samskipta, þjálfun meðferðarmanna, reglubundnar leiðir og val á sjúklingum fyrir örugga og árangursríka klíníska notkun.",
+        "et": "Artikkel käsitleb psülotsibiini-abiliseeritud teraapia tõlkimise väljakutseid kliinilisest uurimistööst praktilisse meditsiinilisse rakendamisse. Peamised aspektid hõlmavad protokolli standardiseerimist, terapeudi koolitust, regulatiivseid teid ja patsiendi valiku kriteeriume turvalise ja tõhusa kliinilise kasutamise jaoks.",
+        "lv": "Raksts izskata izaicinājumus psilotsibīna-atbalstītas terapijas pārnešanā no klīniskajiem pētījumiem uz praktisku medicīnisku ieviešanu. Galvenie apsvērumi ietver protokola standartizāciju, terapeita apmācību, normatīvos ceļus un pacientu atlases kritērijus drošai un efektīvai klīniskai pielietošanai.",
+        "lt": "Straipsnis nagrinėja iššūkius, susijusius su psiliocibino-pagalbine terapija perkeliant iš klinikinių tyrimų į praktinę medicininę taikymą. Pagrindiniai aspektai apima protokolo standartizavimą, terapeutu mokymą, normatyvinius kelius ir pacientų atrankos kriterijus, reikalingus saugiai ir veiksmingai klinikai taikymui."
+      },
+      "notable": false,
+      "notable_reasons": null,
+      "relevance_score": 4,
+      "study_type": "other",
+      "substances": [
+        "psilocybin"
+      ],
+      "added_at": "2026-08-23T07:09:45.539258+00:00"
     },
     {
       "title": "Low-dose lysergic acid diethylamide alters subjective visual perception but not visual contrast surround suppression.",
@@ -1863,70 +1930,6 @@
         "psilocybin",
         "mescaline",
         "other"
-      ],
-      "added_at": "2026-08-01T12:00:00+00:00"
-    },
-    {
-      "title": "The Serotonin 2B (5-HT2B) Receptor: A Narrative Review of Preclinical and Clinical Evidence on the Safety Considerations and Therapeutic Potential for the Treatment of Depression.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42209433/",
-      "source": "PubMed",
-      "date": "2026-Aug",
-      "authors": [
-        "Le Gia Han",
-        "Wong Sabrina",
-        "Johnson Danica E"
-      ],
-      "doi": "10.1002/cpt.70344",
-      "summaries": {
-        "en": "Narrative review examining 5-HT2B receptor's role in depression treatment. While peripheral 5-HT2B agonism risks valvular heart disease (documented with fenfluramine, ergot agonists), central mechanisms show antidepressant potential through astrocytic and neuronal signaling. Classical psychedelics bind 5-HT2B receptors; cumulative exposure risks from intermittent dosing remain understudied. Some approved antidepressant adjuncts target this pathway, warranting further clinical investigation of safety-efficacy profiles.",
-        "sv": "Narrativ översikt av 5-HT2B-receptorns roll vid depressionsbehandling. Medan perifer 5-HT2B-agonism riskerar hjärtklaffsjukdom (dokumenterat med fenfluramin, ergotalkaloider), visar centrala mekanismer antidepressiv potential genom astrocyt- och neuronala signaler. Klassiska psykedelika binder 5-HT2B-receptorer; kumulativ exponering från intermittent dosering är otillräckligt studerad. Några godkända antidepressiva adjuvanter riktar sig mot denna väg och kräver vidare klinisk utredning.",
-        "no": "Narrativ gjennomgang av 5-HT2B-reseptorens rolle i depresjonsbehandling. Mens perifer 5-HT2B-agonisme risikerer hjerteklaffsjukdom (dokumentert med fenfluramin, ergotalkaloidter), viser sentrale mekanismer antidepressivt potensial gjennom astrocytt- og nevronale signaler. Klassiske psykedelika binder 5-HT2B-reseptorer; kumulativ eksponering fra intermittent dosering er utilstrekkelig studert. Noen godkjente antidepressiva adjuvanter retter seg mot denne veien og krever videre klinisk utredning.",
-        "da": "Narrativ oversigt over 5-HT2B-receptorens rolle i depressionsbehandling. Mens perifer 5-HT2B-agonisme risikerer hjerteklapbetændelse (dokumenteret med fenfluramin, ergotalkaloidter), viser centrale mekanismer antidepressiv potentiale gennem astrocyt- og neuronale signaler. Klassiske psykedelika binder 5-HT2B-receptorer; kumulativ eksponering fra intermittent dosering er utilstrækkeligt undersøgt. Nogle godkendte antidepressive adjuvanter retter sig mod denne vej og kræver videre klinisk undersøgelse.",
-        "fi": "Katsaus 5-HT2B-reseptorin roolista masennuksen hoidossa. Vaikka perifeerinen 5-HT2B-agonismi aiheuttaa sydämen vajaatoimintariskiä (dokumentoitu fenfluramiinil, ergotarkoilla), keskeiset mekanismit osoittavat masennuslääkettä lisäävää potentiaalia astrosyytin ja neuronaalisten signaalien kautta. Klassiset psykedeelit sitoutuvat 5-HT2B-reseptoreihin; kumulatiivinen altistuminen jaksoittaisesta annostelusta on riittämättömästi tutkittu. Jotkut hyväksytyt masennuslääkkeiden lisäaineita kohdistavat tätä polkua ja vaativat lisää kliinisiä tutkimuksia.",
-        "is": "Yfirlitið um hlutverk 5-HT2B-viðtaka við meðferð þunglyndi. Þó að jaðarligur 5-HT2B-agnismi myndi hætta á hjartaklappasjúkdómum (skjalfæst með fenflúramíni, ergótalkalóida), sýna miðlæg kerfi geðlyfjaaðstoð með astrócýtu- og taugafrummerki. Klassísk sálarhrif binda 5-HT2B-viðtaka; uppsöfnuð útsetning frá millibili skammtabylgjum er ótillitið rannsakað. Sum samþykkt geðlyfjaúrræði miða að þessari leið og krefjast frekari klínískrar rannsóknar.",
-        "et": "Ülevaade 5-HT2B-retseptori rollist depressiooni ravis. Kuigi perifeerne 5-HT2B-agonism suurendab südameklapi haiguse riski (dokumenteeritud fenfluramiin, ergotalkaloidide abil), näitavad kesksed mehhanismid antidepressiivseid võimalusi astrotsüütide ja neuronaalse signaalimise kaudu. Klassikalised psühhedeelikumid seonduvad 5-HT2B-retseptoritega; kumulatiivne eksponeerimine katkendlikust dooseerimisest on ebapiisavalt uuritud. Mõned kinnitatud antidepressantide adjuvandid suunavad sellele teele ja nõuavad edasist kliinilist uurimist.",
-        "lv": "Pārskatījums par 5-HT2B receptora lomu depresijas ārstēšanā. Lai arī perifēra 5-HT2B agonija izraisa sirds vārstuļu slimības risku (dokumentēts ar fenfluramīnu, ergotaloīdiem), centrālie mehānismi parāda pretdepresijas potenciālu caur astrocītu un neuroinālo signalizāciju. Klasiskie psihedeliki saistās ar 5-HT2B receptoriem; kumulatīva eksponēšana no pārtrauktās dozēšanas ir nepietiekami pētīta. Daži apstiprināti antidepresanti adjuvanti ir vērsti uz šo virziens un prasa tālākus klīniskos pētījumus.",
-        "lt": "Apžvalga apie 5-HT2B receptoriaus vaidmenį depresijos gydymui. Nors periferinis 5-HT2B agonizmas sukelia širdies vožtuvų ligų riziką (dokumentuota fenfluraminiu, ergotalkaloidais), centriniai mechanizmai parodo antidepresyvų potencialą per astrocitų ir neuronalinius signalus. Klasikiniai psichedelikai rišasi prie 5-HT2B receptorių; kumuliacinė ekspozicija iš pertraukiamo dozavimo yra nepakankamais ištirta. Kai kurie patvirtinti antidepresantų adjuvantai nukreipti į šią kryptį ir reikalingi tolesni klinikiniai tyrimai."
-      },
-      "notable": false,
-      "notable_reasons": null,
-      "relevance_score": 4,
-      "study_type": "review",
-      "substances": [
-        "mdma",
-        "psilocybin",
-        "lsd"
-      ],
-      "added_at": "2026-08-01T12:00:00+00:00"
-    },
-    {
-      "title": "Treatment-emergent psychiatric adverse events in patient-reported outcomes during ketamine use for major depressive disorder: a retrospective analysis.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42159864/",
-      "source": "PubMed",
-      "date": "2026-Aug",
-      "authors": [
-        "Kwaśny Aleksander",
-        "Wilkowska Alina",
-        "Pastuszak Michał"
-      ],
-      "doi": "10.1007/s43440-026-00867-1",
-      "summaries": {
-        "en": "Retrospective analysis of 28 inpatients with treatment-resistant depression receiving 8 ketamine infusions as add-on therapy. Psychiatric adverse events were tracked using IDS-SR-30. Sleep disturbances were the most common emerging symptom, with nighttime sleep problems and early waking persisting through follow-up. Appetite and weight changes occurred early in treatment. Mood, cognitive symptoms, and suicidal ideation remained rare, suggesting ketamine's psychiatric safety profile in this population.",
-        "sv": "Retrospektiv analys av 28 patienter med behandlingsresistent depression som fick 8 ketamininfusioner som tilläggsbehandling. Psykiatriska biverkningar kartlades med IDS-SR-30. Sömnstörningar var den vanligaste framväxande symtomen, med nattlig sömnlöshet och tidig uppvaknande som kvarstod vid uppföljning. Appetit- och viktförändringar uppträdde tidigt i behandlingen. Humör-, kognitiva symtom och suicidtankar förblev sällsynta, vilket antyder ketamins psykiatriska säkerhetsprofil i denna population.",
-        "no": "Retrospektiv analyse av 28 inneliggende pasienter med behandlingsresistent depresjon som mottok 8 ketamininfusjoner som tilleggsterapi. Psykiatriske bivirkninger ble kartlagt med IDS-SR-30. Søvnforstyrrelser var det vanligste framvekstende symptomet, med nattsøvnproblemer og tidlig oppvåkning som vedvarte ved oppfølging. Appetitt- og vektendringer oppstod tidlig i behandlingen. Humør-, kognitive symptomer og selvmordstanker forble sjeldne, noe som tyder på ketamins psykiatriske sikkerhetsprofil i denne populasjonen.",
-        "da": "Retrospektiv analyse af 28 indlagte patienter med behandlingsresistent depression, som modtog 8 ketamininfusioner som tilskudsbehandling. Psykiatriske bivirkninger blev kortlagt med IDS-SR-30. Søvnforstyrrelser var det mest almindelige fremvekstende symptom, med natlig søvnløshed og tidlig opvågnen, der fortsatte ved opfølgning. Appetit- og vægtændringer opstod tidligt i behandlingen. Humør-, kognitive symptomer og selvmordstanker forblev sjældne, hvilket tyder på ketamins psykiatriske sikkerhedsprofil i denne population.",
-        "fi": "Retrospektiivinen analyysi 28 sairaalan potilaasta, joilla oli hoitoon vastustava depressio ja jotka saivat 8 ketamiiniinfuusiota lisähoitona. Psykiatrisia haittavaikutuksia seurattiin IDS-SR-30-mittarilla. Unihäiriöt olivat yleisin ilmaantuva oire, ja yöunettomuus ja varhainen herääminen jatkuneet seurantaan saakka. Ruokahalun ja painon muutokset ilmaantuivat hoidon alussa. Mieliala-, kognitiiviset oireet ja itsemurhapisteet pysyivät harvinaisina, mikä viittaa ketamiinin psykiatriseen turvallisuusprofiiliin tässä populaatiossa.",
-        "is": "Afturkönnun greining á 28 sjúklingum með meðferðarþola þunglyndi sem fengu 8 ketamín-innflutning sem viðbótarmeðferð. Geðræn aukaverkanir voru mældar með IDS-SR-30. Svefntruflanir voru algengasta kvikandi einkenni, með næturvökvun og snemmbilun sem héldust við eftirfylgni. Matarlyst og þyngdarbreytingar komu fram snemma í meðferð. Skap-, vitræn einkenni og sjálfsmorðshugsanir voru sjaldgæf, sem bendir til öryggissnið ketamíns á geðsviði í þessum hópi.",
-        "et": "Tagasivaatav analüüs 28 hospitaliseeritud patsiendi kohta, kellel on ravi vastupidav depression ja kes saivad 8 ketamiini-infusiooni lisaravi. Psühhiaatrilised kõrvaltoimed registreeriti IDS-SR-30 abil. Unehäired olid kõige sagedamini tekkinud sümptom, kusjuures ööuni häired ja varased ärkamised jätkusid jälgimiseni. Isu ja kaalu muutused esinesid ravi alguses. Meeleolu-, kognitiivsed sümptomid ja enesetapu ideation jäid haruldased, viidates ketamiini psühhiaatriaalsele ohutuseprofiilile.",
-        "lv": "Retrospektīva analīze 28 stacionētu pacientu ar ārstēšanai rezistentām depresiju, kuri saņēma 8 ketamīna infūzijas kā papildu ārstēšanu. Psihiatriskās blakusparādības tika novērotas, izmantojot IDS-SR-30. Miega traucējumi bija visbiežāk ziņotā parādošanās simptoms, miega problēmas naktī un agrs pacelšanās turpinājās līdz sekošanai. Apetītes un svara izmaiņas novērotas ārstēšanas sākumā. Garastāvokļa, kognitīvie simptomi un pašnāvnieciskas idejas palika retas, kas norāda ketamīna psihiatrisko drošības profilu.",
-        "lt": "Retrospektyvi 28 hospitalizuotų pacientų, turinčių medikamentui atspari depresija, analizė, gavusių 8 ketamino infuzijas kaip papildomą terapiją. Psichiatriniai šalutiniai poveikiai buvo vertinami naudojant IDS-SR-30. Miego sutrikimai buvo dažniausias iškilęs simptomas, naktinės miego problemos ir anksti subudimas tęsėsi stebėjimui. Apetito ir svorio pokyčiai buvo stebimi gydymo pradžioje. Nuotaika, kognityviniai simptomai ir savižudybės ideacijos liko reti, o tai rodo ketamino psichiatrinį saugumo profilį."
-      },
-      "notable": false,
-      "notable_reasons": null,
-      "relevance_score": 4,
-      "study_type": "observational",
-      "substances": [
-        "ketamine"
       ],
       "added_at": "2026-08-01T12:00:00+00:00"
     }

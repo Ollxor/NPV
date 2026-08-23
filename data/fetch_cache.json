@@ -1,7 +1,70 @@
 {
-  "date": "2026-08-22",
-  "cached_at": "2026-08-22T06:34:39.531958+00:00",
+  "date": "2026-08-23",
+  "cached_at": "2026-08-23T06:35:47.614518+00:00",
   "articles": [
+    {
+      "title": "Ketamine Safety and Therapeutic Opportunity in Late-Life Depression With Depression-Executive Dysfunction Syndrome (DED).",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42632766/",
+      "source": "PubMed",
+      "abstract": "",
+      "date": "2026-07-30",
+      "authors": [
+        "McIntyre Roger S"
+      ],
+      "doi": "10.1016/j.jagp.2026.07.014"
+    },
+    {
+      "title": "Depression Heterogeneity as a Confounder in Ketamine Response for Late-Life Depression.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42632765/",
+      "source": "PubMed",
+      "abstract": "",
+      "date": "2026-07-29",
+      "authors": [
+        "Lind J",
+        "Hophing Megan",
+        "Brody Benjamin"
+      ],
+      "doi": "10.1016/j.jagp.2026.07.015"
+    },
+    {
+      "title": "Single-Infusion Ketamine in Older Adults With Depression and Mild Cognitive Impairment: Promising Signal, Falls, and Cognitive Safety Need Closer Scrutiny.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42632764/",
+      "source": "PubMed",
+      "abstract": "",
+      "date": "2026-07-30",
+      "authors": [
+        "Jannasz Iwona",
+        "Pruc Michal",
+        "Szarpak Lukasz"
+      ],
+      "doi": "10.1016/j.jagp.2026.07.012"
+    },
+    {
+      "title": "Adverse Effect-Related Language in Recreational Psychedelic and non-Psychedelic Substance Experience Reports.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42631663/",
+      "source": "PubMed",
+      "abstract": "In recent decades, psychedelic substances like LSD and psilocybin have been increasingly researched, but relatively few studies examined their adverse effects in recreational settings. As online substance experience reports may offer relevant information, we conducted a psycholinguistic (i.e., inferring psychologically relevant outcomes from natural language) assessment of popular psychedelic and related substances' adverse effects. We applied latent semantic analysis to 4226 online substance experience reports, calculating each report's respective semantic similarity with 77 empirical literature-based adverse effect-related reference texts. We compared seven groups including ayahuasca, (isolated) DMT, ketamine, LSD, MDMA, psilocybin mushroom, and recreational antidepressant experiences (as a non-psychedelic comparator). Using sentiment analysis, we also classified each report's contextual valence (positive vs. negative) to examine its potential influence on between-substance semantic similarity differences. Fifteen outcomes featured large effect sizes; with semantic similarity with vomiting-, excessive drowsiness-, cardiac event-, sleep problem-, and dissociation- or depersonalization-related terms leading the list. Report groups standing out with high scores were ayahuasca on vomiting-, ketamine on dissociation-, and MDMA on excessive drowsiness- and cardiac event-related semantic similarity. Report groups standing out with low scores were MDMA on dissociation-, ayahuasca on sleep problems-, and DMT on sleep problems- and drowsiness-related semantic similarity. A literature-driven secondary examination showed that LSD and psilocybin mushroom reports scored higher than all other groups on anxiety-related outcomes. Despite the limitations of the observational study context, these results provide valuable insights into adverse effect-related language in recreational psychedelic substance experience reports. They show that psycholinguistic analyses of experience reports enable relatively feasible, low-cost, and useful substance comparisons that might be difficult to realize using other research designs.",
+      "date": "2026-08-22",
+      "authors": [
+        "Hase Adrian",
+        "Erdmann Max",
+        "Calder Abigail"
+      ],
+      "doi": "10.15288/jsad.25-00426"
+    },
+    {
+      "title": "The trials of translating psilocybin treatment from research to practice.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42629464/",
+      "source": "PubMed",
+      "abstract": "",
+      "date": "2026-08-21",
+      "authors": [
+        "Galindo Liliana",
+        "Ragnhildstveit Anya",
+        "Illingworth Benjamin J G"
+      ],
+      "doi": "10.1038/s41591-026-04597-y"
+    },
     {
       "title": "Interoceptive effects of N",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42629248/",
@@ -191,68 +254,6 @@
         "Normann Claus"
       ],
       "doi": "10.1007/s00115-026-02001-1"
-    },
-    {
-      "title": "Clinical EEG In Modern Psychiatry: Diagnostics and Prediction.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42606304/",
-      "source": "PubMed",
-      "abstract": "Clinical electroencephalography (EEG) remains a central diagnostic tool in psychiatry. As a non-invasive, widely available and cost-effective method with high temporal resolution, EEG contributes to the detection of epileptiform activity, exclusion of organic brain dysfunction, assessment of delirium and encephalopathies, differential diagnosis of dementias, and monitoring of psychopharmacological treatments. It provides functional information that complements structural imaging and serves as an indispensable auxiliary tool in the diagnostic work up.While EEG has not demonstrated sufficient specificity as a diagnostic marker for primary psychiatric disorders, there is growing evidence supporting the predictive use of quantitative EEG features, particularly in depression. Resting-state markers, including alpha peak frequency, vigilance regulation and frontal alpha asymmetry have shown small-to-moderate effect sizes in predicting differential treatment responses to antidepressants, brain stimulation techniques, ketamine and electroconvulsive therapy. These markers operate probabilistically, shifting response likelihoods rather than determining outcomes at the individual level. Even modest predictive effects can translate into meaningful population-level improvements by reducing ineffective treatment trials and accelerating remission.In summary, electroencephalography is a valuable tool in routine clinical practice that should be part of standard diagnostic procedures. Subject to large validation studies, quantitative EEG can provide predictive instruments in precision psychiatry, enhance treatment selection and thus improve outcomes by augmenting the clinical nature of psychiatric practice.",
-      "date": "2026-08-17",
-      "authors": [
-        "Pogarell Oliver",
-        "Olbrich Sebastian"
-      ],
-      "doi": "10.1177/15500594261471242"
-    },
-    {
-      "title": "Defining 'psychedelic'.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42605589/",
-      "source": "PubMed",
-      "abstract": "Humphry Osmond coined the term 'psychedelic' in 1956, conjoining 'psyche' for 'soul' and 'delic' for 'to manifest' or 'illuminate'.",
-      "date": "2026-08-17",
-      "authors": [
-        "Ostrand A E",
-        "Nour M M",
-        "Timmermann C"
-      ],
-      "doi": "10.1177/02698811261464986"
-    },
-    {
-      "title": "Rapid Symptom Reduction Following Intramuscular Ketamine in Refractory Obsessive-Compulsive Disorder: A Case Report.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42602667/",
-      "source": "PubMed",
-      "abstract": "Obsessive-compulsive disorder (OCD) is a chronic psychiatric condition that frequently presents with comorbid depressive disorders. For patients exhibiting treatment-refractory OCD and concurrent depressive disorder(s), there is growing clinical interest in the noncompetitive N-methyl-D-aspartate (NMDA) receptor antagonist ketamine as a rapid-acting intervention. This case report describes a 27-year-old female patient with severe, treatment-refractory OCD and comorbid depressive symptoms, detailing her response to a single intramuscular (IM) ketamine administration. The patient's primary compulsion was that of handwashing, which she would partake in for ~6 h per handwashing session at the time of the first ketamine administration. This occurred daily over a 3.5-month period, wherein a single day would consist of up to 18 total hours of handwashing. These extreme compulsions resulted in severe in-home isolation, precluding in-person psychotherapy and employment. Despite ongoing management by an independent telepsychiatrist, the patient reported no symptom relief from her prescribed regimen of fluoxetine (80 mg) and alprazolam (1 mg, four times daily)-a pharmacotherapeutic approach that may have been clinically suboptimal given the potential for high-dose benzodiazepines to exacerbate obsessive-compulsive symptoms. Given the severity of her condition, she subsequently pursued treatment at an unaffiliated outpatient ketamine clinic. Following a single IM ketamine administration, the patient experienced an acute, ~97% reduction in handwashing duration (from 6 h sessions to 5-10 min sessions) sustained over a 10-day period. This observation highlights an acute change in the patient's primary compulsive behavior. However, concurrent pharmacotherapy may confound the results, and prospective controlled trials are required to fully evaluate the efficacy of this intervention.",
-      "date": "2026-08-14",
-      "authors": [
-        "Angel Maxwell"
-      ],
-      "doi": "10.1155/crps/6450306"
-    },
-    {
-      "title": "LSD therapy: A few hundred meters from where it began.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42600572/",
-      "source": "PubMed",
-      "abstract": "In Basel, only a few hundred meters from where LSD was first synthesized, we tested LSD-assisted therapy for major depression in a randomized trial comparing two high doses with two low doses, each paired with supportive psychotherapy. This Backstory reflects on treating patients, long dosing days, and what remains uncertain.",
-      "date": "2026-Aug-14",
-      "authors": [
-        "Müller Felix",
-        "Becker Anna M",
-        "Böhlke Christopher"
-      ],
-      "doi": "10.1016/j.medj.2026.101233"
-    },
-    {
-      "title": "Intranasal esketamine for ECT-refractory bipolar depression: a case report.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42597507/",
-      "source": "PubMed",
-      "abstract": "This is a case report of a 52 year old female with ECT-refractory bipolar depression who was treated with esketamine nasal spray, leading to a noticeable improvement in her depressive symptoms. She experienced a relapse after a reduction in her maintenance treatment in conjunction with psychosocial stressors, but improved once again after returning to her induction regimen. She tolerated the treatment well with minimal side effects and no reported manic or hypomanic events. More robust research is warranted to better characterize the effectiveness of esketamine in treating treatment-resistant bipolar depression.",
-      "date": "2026-07-30",
-      "authors": [
-        "Abbas Muhammad",
-        "Kallas Bruno",
-        "Garris Max"
-      ],
-      "doi": "10.3389/fpsyt.2026.1890002"
     },
     {
       "title": "Field Notes #4: Resilient Refiles, Definium’s Readout, HRSA’s RFI Responses, and J&J’s Neuroplastogen Bet",
@@ -526,50 +527,50 @@
       "doi": "10.1080/07853890.2026.2692804"
     },
     {
-      "title": "Simplified method for EEG recordings in mice.",
-      "url": "https://doi.org/10.1016/j.mex.2026.104004",
+      "title": "&lt;i&gt;Lactobacillus acidophilus&lt;/i&gt; improves memory and attenuates neuroinflammation in streptozotocin- and aluminum chloride-exposed rats.",
+      "url": "https://doi.org/10.1016/j.ibneur.2026.06.014",
       "source": "Europe PMC",
-      "abstract": "Currently, implantation of electroencephalogram (EEG) electrodes in laboratory animals is time-consuming and requires specialized equipment. We present a novel method for EEG recordings in mice that utilizes thin needle electrodes. These electrodes are inserted into the skull at predetermined locations by gently pressing them against the bone surface. To ensure stable fixation of the implant, hook-shaped needles are positioned along the lateral aspects of the skull. The electrodes are connected to a multipin connector and secured to the skull using dental composite, after which the animal is allowed to recover from anesthesia. Importantly, procedures such as skull drilling and screw placement are not required, allowing the entire surgery to be completed in <15 min. Consequently, this EEG implantation approach is rapid and minimally invasive. Results of our studies indicate that EEG recordings obtained with needle electrodes are not inferior to those obtained with screw electrodes. Overall, the method is designed to enhance the accuracy and efficiency of EEG recording studies while improving animal welfare. • Simplifies the placement of EEG electrodes. • Reduces the time required for electrode implantation.",
-      "date": "2026-06-11",
+      "abstract": "<h4>Introduction</h4>Cognitive impairment associated with neurodegenerative conditions is frequently driven by oxidative stress and neuroinflammation arising from metabolic and environmental insults. Streptozotocin (STZ) and aluminum chloride (AlCl₃) are widely used to induce experimental models of cognitive dysfunction through distinct pathogenic mechanisms. This study evaluated the neuroprotective effects of the probiotic <i>Lactobacillus acidophilus</i> in these two models.<h4>Materials and methods</h4>Adult male Wistar rats were divided into five groups: control, STZ, AlCl₃, probiotic + STZ, and probiotic + AlCl₃. Rats received intracerebroventricular STZ or saline, AlCl₃ in drinking water, and daily oral gavage of <i>Lactobacillus acidophilus</i> for 14 days. Behavioral performance was assessed using the novel object recognition and passive avoidance tests. Aluminum levels, oxidative stress markers, inflammatory cytokines, and hippocampal neuronal integrity were evaluated using biochemical and histological analyses.<h4>Results</h4>STZ and AlCl₃ administration induced significant memory impairment, increased oxidative stress and pro-inflammatory cytokines, and reduced the number of healthy hippocampal neurons. Probiotic treatment significantly improved memory performance, reduced lipid peroxidation and inflammatory markers, enhanced antioxidant defenses, decreased aluminum accumulation, and preserved neuronal integrity in the hippocampus.<h4>Conclusion</h4>Oral administration of <i>Lactobacillus acidophilus</i> effectively attenuates cognitive impairment, neuroinflammation, and oxidative stress induced by both metabolic and metal-related neurotoxic insults. These findings suggest that probiotic supplementation may represent a promising preventive strategy against cognitive dysfunction associated with diverse neurotoxic conditions.",
+      "date": "2026-06-23",
       "authors": [
-        "Zou B",
-        "Xie XS",
-        "Gerashchenko L."
+        "Yousefi R",
+        "Darbandi N",
+        "Komijani M."
       ],
-      "doi": "10.1016/j.mex.2026.104004"
+      "doi": "10.1016/j.ibneur.2026.06.014"
     },
     {
-      "title": "Interpol review of forensic toxicology, 2023-2025.",
-      "url": "https://doi.org/10.1016/j.fsisyn.2026.100694",
+      "title": "Development and characterization of silicone-based testosterone propionate implants for sustained androgen delivery in juvenile castrated male pigs.",
+      "url": "https://doi.org/10.1016/j.mex.2026.104009",
       "source": "Europe PMC",
-      "abstract": "",
-      "date": "2026-06-15",
+      "abstract": "Validated techniques for androgen replacement in swine research models are limited, particularly for studies requiring controlled hormone delivery in males during early development. We adapted a silicone-based androgen implant methodology originally developed for adult female pigs to establish an androgen replacement model in castrated juvenile male pigs.•Castrated male pigs were surgically implanted with low (0.5 g), medium (1.0 g), or high (2.0 g) doses of testosterone propionate (TP), and compared with castrated controls.•Intact male pigs were included as a physiologically relevant reference group to benchmark implant-derived testosterone concentrations against endogenous androgen production during juvenile development.•Circulating testosterone was monitored weekly for 49 days to evaluate the concentration and duration of testosterone release.•Body weights were recorded weekly to assess body weight gain.Testosterone propionate implants produced a dose-dependent elevation in circulating testosterone that peaked between 7 and ​14 days post-implantation and reached or exceeded concentrations of intact males. Following peak release, testosterone levels gradually declined across all implant groups but remained elevated relative to castrated controls throughout the 49-day study period, with the medium- and high-dose groups maintaining the highest concentrations. Growth rates of animals were similar across experimental groups, indicating that TP implantation did not adversely affect overall growth during the study. These findings validate silicone-based TP surgical implants as a reliable method for sustained androgen delivery in juvenile, prepubertal pigs, establishing a tractable model for mechanistic studies of androgen action with translational relevance to human and animal health.",
+      "date": "2026-06-20",
       "authors": [
-        "Ip SC",
-        "Chan CW",
-        "Chan CW"
+        "Puda ST",
+        "Moeser HA",
+        "Moeser AJ."
       ],
-      "doi": "10.1016/j.fsisyn.2026.100694"
+      "doi": "10.1016/j.mex.2026.104009"
     },
     {
-      "title": "Hesperidin mitigates cognitive and anxiety-like deficits by enhancing hippocampal antioxidant defenses, reducing neuroinflammation, and preventing neuronal apoptosis in a third-trimester-equivalent rat model of developmental ethanol neurotoxicity.",
-      "url": "https://doi.org/10.1016/j.ibneur.2026.06.001",
+      "title": "Sprayable lipid-based lubricated hydrogel coating for alleviating catheter-related mucosal damage and pain.",
+      "url": "https://doi.org/10.1016/j.bioactmat.2026.06.021",
       "source": "Europe PMC",
-      "abstract": "Ethanol exposure during brain development has been associated with hippocampal oxidative stress, neuroinflammation, and apoptosis, resulting in lasting cognitive and emotional deficits characteristic of fetal alcohol spectrum disorders (FASD). This study evaluated the neuroprotective potential of Hesperidin, a citrus flavanone with antioxidant and anti-inflammatory actions, against developmental ethanol neurotoxicity. Neonatal Wistar rats received ethanol (5.25 g/kg/day; 11.9% v/v) from postnatal days 2-10 and were subsequently treated intraperitoneally with Hesperidin (25, 50, or 100 mg/kg). Behavioral testing on days 39-45 using the Elevated Plus Maze (EPM) and Morris Water Maze (MWM) showed that ethanol markedly decreased open arm time (Oat%) and entries (OAE%) (P < 0.001, P < 0.01 vs Control), increased escape latency (P < 0.001), and reduced probe target time (P < 0.001 vs Control). Hesperidin at 50 and 100 mg/kg improved all indices (P < 0.05-0.01 vs Ethanol). Ethanol elevated hippocampal MDA and TNF-α (P < 0.001) while decreasing SOD (P < 0.01) and GSH-Px (P < 0.001), Hesperidin normalized these values (P < 0.01-0.001 vs Ethanol). GFAP and cleaved caspase-3 immunoreactivity were also reduced by hesperidin (P < 0.001 vs Ethanol). Overall, Hesperidin afforded dose-dependent neuroprotection by mitigating oxidative stress, inflammation, and apoptosis, thereby improving ethanol-induced behavioral impairments.",
-      "date": "2026-06-05",
+      "abstract": "Medical catheters are essential for clinical diagnosis and therapy, yet their insertion and retention inevitably cause mucosal damage and pain. Conventional catheters compromise comfort and risk secondary inflammation, underscoring the need for advanced catheter surface coatings. Herein, we developed a sprayable lipid-based lubricated hydrogel coating (Oxy@Lipo/Gel) by integrating oxybuprocaine-loaded liposomes (Oxy@Lipo) with an oxidized hyaluronic acid/carboxymethyl chitosan (OHA/CMCS) hydrogel. The OHA/CMCS hydrogel enables rapid spray-induced gelation, while Oxy@Lipo acts as a carrier for the local anesthetic oxybuprocaine. Oxy@Lipo/Gel not only enhances catheter hydrophilicity, reduces interfacial friction and nonspecific protein adsorption, but also exhibits pH-responsive drug release, self-healing capacity, and appropriate degradability. It is worth noting that Lipo dramatically augments the hydrogel's lubricity by reconstruction of phospholipid lubricating interface upon friction-induced migration and surface exposure of Lipo. Furthermore, Oxy@Lipo/Gel-coated endotracheal tube significantly minimize intubation-induced heart rate fluctuations of rhesus monkey, alleviate airway mucosal injury and pain responses effectively, and preserve post-extubation feeding willingness. Mechanistically, Oxy@Lipo/Gel mitigates mucosal damage and pain by activating the Nrf2 pathway for antioxidant defense, inhibiting the pro-inflammatory MAPK cascade, and facilitating M2 macrophage polarization. Collectively, Oxy@Lipo/Gel emerges as a promising strategy to mitigate catheter-related mucosal damage and pain, holding substantial potential for clinical translation and application.",
+      "date": "2026-06-25",
       "authors": [
-        "Jamali Z",
-        "Mohseni F",
-        "Salimi A"
+        "Chen S",
+        "Wang H",
+        "Du J"
       ],
-      "doi": "10.1016/j.ibneur.2026.06.001"
+      "doi": "10.1016/j.bioactmat.2026.06.021"
     },
     {
       "title": "CZ",
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2018-004480-31/CZ",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-08-22",
+      "date": "2026-08-23",
       "authors": [],
       "doi": ""
     },
@@ -578,7 +579,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2020-005037-32/CZ",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-08-22",
+      "date": "2026-08-23",
       "authors": [],
       "doi": ""
     },
@@ -587,7 +588,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2021-002909-10/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-08-22",
+      "date": "2026-08-23",
       "authors": [],
       "doi": ""
     },
@@ -596,7 +597,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2015-000550-37/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-08-22",
+      "date": "2026-08-23",
       "authors": [],
       "doi": ""
     },
@@ -605,7 +606,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2021-000041-40/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-08-22",
+      "date": "2026-08-23",
       "authors": [],
       "doi": ""
     },
@@ -614,7 +615,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2020-000829-55/DK",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-08-22",
+      "date": "2026-08-23",
       "authors": [],
       "doi": ""
     },
@@ -623,7 +624,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2020-002790-94/SE",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-08-22",
+      "date": "2026-08-23",
       "authors": [],
       "doi": ""
     },
@@ -632,7 +633,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2021-006200-33/FI",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-08-22",
+      "date": "2026-08-23",
       "authors": [],
       "doi": ""
     },
@@ -641,7 +642,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2019-004812-73/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-08-22",
+      "date": "2026-08-23",
       "authors": [],
       "doi": ""
     },
@@ -650,7 +651,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2022-002369-14/BE",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-08-22",
+      "date": "2026-08-23",
       "authors": [],
       "doi": ""
     },

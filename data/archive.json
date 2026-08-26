@@ -1,6 +1,86 @@
 {
   "items": [
     {
+      "title": "Salvinorin A in humans: A systematic review of pharmacokinetics, pharmacodynamics, and safety.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42638533/",
+      "source": "PubMed",
+      "date": "2026-08-25",
+      "authors": [
+        "Zürrer Wolfgang Emanuel",
+        "Liesner Johann",
+        "Brüschweiler David"
+      ],
+      "doi": "10.1177/02698811261473385",
+      "summary_en": "Systematic review examining salvinorin A pharmacokinetics, pharmacodynamics, and safety in humans. The analysis synthesizes data on absorption, metabolism, and clinical effects of this natural hallucinogen, providing evidence-based assessment of its pharmacological profile and safety considerations for research applications.",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "review",
+      "substances": [
+        "other"
+      ],
+      "added_at": "2026-08-26T07:23:28.268748+00:00"
+    },
+    {
+      "title": "As Psychedelic Treatments Get Leaner, Patients' Social Environments Deserve Attention.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42640722/",
+      "source": "PubMed",
+      "date": "2026-08-25",
+      "authors": [
+        "Jacobs Edward",
+        "Roullier Ian",
+        "Watts Rosalind"
+      ],
+      "doi": "10.1177/07067437261479491",
+      "summary_en": "Opinion article examining how streamlined psychedelic treatment protocols may underestimate the importance of patients' social environments in therapeutic outcomes. As clinical models become more efficient, researchers argue that social context and support systems warrant greater attention in treatment design and outcome evaluation.",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "other",
+      "substances": [
+        "other"
+      ],
+      "added_at": "2026-08-26T07:23:28.268748+00:00"
+    },
+    {
+      "title": "Case report of S-ketamine as treatment option for suicidal ideation and treatment-resistant depression in adolescents with early-onset psychosis.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42640420/",
+      "source": "PubMed",
+      "date": "2026-08-25",
+      "authors": [
+        "Schmelzle Nicolas",
+        "Neubacher Katrin",
+        "Plener Paul L"
+      ],
+      "doi": "10.1007/s40211-026-00587-1",
+      "summary_en": "Case report of S-ketamine as treatment option for suicidal ideation and treatment-resistant depression in adolescents with early-onset psychosis.",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "case_report",
+      "substances": [
+        "ketamine"
+      ],
+      "added_at": "2026-08-26T07:23:28.268748+00:00"
+    },
+    {
+      "title": "Beyond head-twitch response: Acute psilocybin affects spontaneous behaviors in rats in a dose-dependent manner.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42639976/",
+      "source": "PubMed",
+      "date": "2026-08-25",
+      "authors": [
+        "Tiwari Praachi",
+        "Jenkins Bryan W",
+        "Moore Catherine F"
+      ],
+      "doi": "10.1177/02698811261478600",
+      "summary_en": "Study of male and female Sprague-Dawley rats examined psilocybin's effects on spontaneous behaviors at doses 0.5-1.5 mg/kg. Beyond the commonly measured head-twitch response, researchers assessed immobility, rearing, grooming, sniffing/digging, and circling. Results showed distinct dose-dependent profiles across behaviors and sexes: immobility increased linearly with dose, rearing and grooming decreased at low doses, while other behaviors showed variable patterns. Findings expand understanding of psilocybin's neurobehavioral effects in preclinical models.",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "preclinical",
+      "substances": [
+        "psilocybin"
+      ],
+      "added_at": "2026-08-26T07:23:28.268748+00:00"
+    },
+    {
       "title": "Single-Infusion Ketamine in Older Adults With Depression and Mild Cognitive Impairment: Promising Signal, Falls, and Cognitive Safety Need Closer Scrutiny.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42632764/",
       "source": "PubMed",

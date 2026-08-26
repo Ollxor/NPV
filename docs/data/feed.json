@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-23T07:11:03.475168+00:00",
+  "generated_at": "2026-08-26T07:24:49.081221+00:00",
   "items": [
     {
       "title": "Blinding integrity in psychedelic research: Evidence from a comparative randomized controlled trial of psilocybin, MDMA, and methylphenidate in healthy volunteers",
@@ -32,6 +32,130 @@
         "mdma"
       ],
       "added_at": "2026-07-09T10:03:12.956794+00:00"
+    },
+    {
+      "title": "Salvinorin A in humans: A systematic review of pharmacokinetics, pharmacodynamics, and safety.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42638533/",
+      "source": "PubMed",
+      "date": "2026-08-25",
+      "authors": [
+        "Zürrer Wolfgang Emanuel",
+        "Liesner Johann",
+        "Brüschweiler David"
+      ],
+      "doi": "10.1177/02698811261473385",
+      "summaries": {
+        "en": "Systematic review examining salvinorin A pharmacokinetics, pharmacodynamics, and safety in humans. The analysis synthesizes data on absorption, metabolism, and clinical effects of this natural hallucinogen, providing evidence-based assessment of its pharmacological profile and safety considerations for research applications.",
+        "sv": "Systematisk översynning av salvinorins A farmakoknetik, farmakodynamik och säkerhet hos människor. Analysen sammanfattar data om upptag, metabolism och kliniska effekter av denna naturliga hallucingen, och ger evidensbaserad bedömning av dess farmakologiska profil och säkerhetshänsyn för forskningsändamål.",
+        "no": "Systematisk gjennomgang av salvinorins A farmakokinetikk, farmakodynamikk og sikkerhet hos mennesker. Analysen oppsummerer data om absorpsjon, metabolisme og kliniske effekter av denne naturlige hallucinogenen, og gir evidensbasert vurdering av dens farmakologiske profil og sikkerhetshensyn for forskningsformål.",
+        "da": "Systematisk oversigt over salvinorins A farmakokinetik, farmakodynamik og sikkerhed hos mennesker. Analysen opsummerer data om optagelse, stofskifte og kliniske effekter af denne naturlige hallucinogen, og giver evidensbaseret vurdering af dens farmakologiske profil og sikkerhedsovervejelser til forskningsformål.",
+        "fi": "Systemaattinen katsaus salvinoiini A:n farmakokinetiikkaan, farmakodynamiikkaan ja turvallisuuteen ihmisillä. Analyysi kokoaa tietoa tämän luonnollisen hallusinogeenin imeytymisestä, metaboliasta ja kliinisistä vaikutuksista sekä antaa näyttöön perustuvaa arviota sen farmakologisesta profiilista ja turvallisuusnäkökohdista tutkimuskäyttöön.",
+        "is": "Kerfræðileg endurskoðun á farmakokineticí, farmakódynamicí og öryggi salvinóríns A hjá mönnum. Greiningin dregur saman gögn um frásog, efnaskipti og klínísk áhrif þessa náttúrulega hallúsínógena og gefur sannanabundna mat á farmakólagðri sniðum þess og öryggissjónarmiðum fyrir rannsóknir.",
+        "et": "Süstemaatiline ülevaade salvinoiini A farmakokineetikast, farmakodünaamikast ja ohutusest inimestel. Analüüs kokkuvõttes andmed selle loomuliku hallutsinogeeni imendumisel, ainevahetusest ja kliinilistest mõjudest ning annab tõendipõhise hinnangu selle farmakoloogilisele profiile ja ohutusaspektidele uurimistöö rakendamiseks.",
+        "lv": "Sistemātisks pārskats par salvinoīna A farmakokinētiku, farmakodinātiku un drošību cilvēkiem. Analīze apkopo datus par šīs dabīgās alucinogēnās vielas uzsūkšanu, metabolismu un klīniskajiem efektiem, kā arī sniedz uz pierādījumiem balstītu novērtējumu par tās farmakoloģisko profilu un drošības apsvērumiem pētniecības nolūkiem.",
+        "lt": "Sisteminė apžvalga apie salvinorino A farmakokinetika, farmakodinamika ir saugumą žmonėms. Analizė apibendrina duomenis apie šios natūralios halucinogeno medžiagos šilumą, medžiagų apykaitą ir klinikinį poveikį bei pateikia į įrodymus pagrįstą šios farmakologinės savybės ir saugumo aspektų vertinimą mokslinių tyrimų tikslams."
+      },
+      "notable": false,
+      "notable_reasons": null,
+      "relevance_score": 4,
+      "study_type": "review",
+      "substances": [
+        "other"
+      ],
+      "added_at": "2026-08-26T07:23:28.268748+00:00"
+    },
+    {
+      "title": "As Psychedelic Treatments Get Leaner, Patients' Social Environments Deserve Attention.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42640722/",
+      "source": "PubMed",
+      "date": "2026-08-25",
+      "authors": [
+        "Jacobs Edward",
+        "Roullier Ian",
+        "Watts Rosalind"
+      ],
+      "doi": "10.1177/07067437261479491",
+      "summaries": {
+        "en": "Opinion article examining how streamlined psychedelic treatment protocols may underestimate the importance of patients' social environments in therapeutic outcomes. As clinical models become more efficient, researchers argue that social context and support systems warrant greater attention in treatment design and outcome evaluation.",
+        "sv": "Opinionsartikel som undersöker hur strömlinjeformade behandlingsprotokoll för psykedelika kan underskatta betydelsen av patienters sociala miljö för terapeutiska resultat. När kliniska modeller blir mer effektiva argumenterar forskare för att social kontext och stödsystem förtjänar större uppmärksamhet i behandlingsdesign och resultatmätning.",
+        "no": "Meningsartikkel som undersøker hvordan strømlinjeformede behandlingsprotokoller for psykedelika kan undervurdere betydningen av pasienters sosiale omgivelser for terapeutiske resultater. Ettersom kliniske modeller blir mer effektive, argumenterer forskere for at sosial kontekst og støttesystemer fortjener større oppmerksomhet i behandlingsdesign og resultatvurdering.",
+        "da": "Debatindlæg, der undersøger, hvordan rationaliserede behandlingsprotokoller for psykedelika kan undervurdere betydningen af patienters sociale miljø for terapeutiske resultater. Efterhånden som kliniske modeller bliver mere effektive, argumenterer forskere for, at social kontekst og støttesystemer fortjener større opmærksomhed i behandlingsdesign og resultatvurdering.",
+        "fi": "Mielipideartikkeli, joka tarkastelee kuinka virtaviivaistetut psykedeelisten aineiden hoitoprotokollat saattavat aliarvioida potilaiden sosiaalisen ympäristön merkitystä terapeuttisissa tuloksissa. Kliinisten mallien tehostuessa tutkijat väittävät, että sosiaalinen konteksti ja tukijärjestelmät ansaitsevat suurempaa huomiota hoitosuunnittelussa ja tulosarvioinnissa.",
+        "is": "Skoðunargrein sem kannar hvernig hagrætt meðferðarsamskipti fyrir sálfræðilyf gætu vanmetið mikilvægi félagslegra aðstæðna sjúklinga fyrir meðferðarúrsliti. Eftir því sem klínísk módel verða skilvirkari halda vísindamenn því fram að félagslegur samhengi og stuðningskerfi ættu að fá meiri athygli við hönnun meðferðar og mat á niðurstöðum.",
+        "et": "Arvamuste artikkel, mis uurib, kuidas lihtsustatud psühhedeelikumide ravitaotlused võivad alahinnata patsientide sotsiaalse keskkonna tähtsust terapeutiliste tulemuste saavutamisel. Kliiniliste mudelite muutumisel tõhusamaks väidavad teadlased, et sotsiaalne kontekst ja toetussüsteemid vääriksid suuremat tähelepanu raviplaani kavandamisel ja tulemuste hindamisel.",
+        "lv": "Viedokļa raksts, kurā tiek pārbaudīts, kā vienkāršoti psihodeeliku ārstēšanas protokoli var nenovērtēt pacientu sociālās vides nozīmi terapeitiskiem rezultātiem. Tā kā klīniskie modeļi kļūst efektīvāki, pētnieki apgalvo, ka sociālais konteksts un atbalsta sistēmas ir pelnījušas lielāku uzmanību ārstēšanas projektēšanā un rezultātu novērtēšanā.",
+        "lt": "Nuomonės straipsnis, kuriame nagrinėjama, kaip supaprastinti psichedelinių medžiagų gydymo protokolai gali neįvertinti pacientų socialinės aplinkos svarbos terapeutiniams rezultatams. Klinikiniu modeliu tapus efektyvesniais, mokslininkai teigia, kad socialiniu konteksta ir pagalbos sistemos nusipelno daugiau dėmesio gydymo projektavime ir rezultatu vertinime."
+      },
+      "notable": false,
+      "notable_reasons": null,
+      "relevance_score": 3,
+      "study_type": "other",
+      "substances": [
+        "other"
+      ],
+      "added_at": "2026-08-26T07:23:28.268748+00:00"
+    },
+    {
+      "title": "Case report of S-ketamine as treatment option for suicidal ideation and treatment-resistant depression in adolescents with early-onset psychosis.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42640420/",
+      "source": "PubMed",
+      "date": "2026-08-25",
+      "authors": [
+        "Schmelzle Nicolas",
+        "Neubacher Katrin",
+        "Plener Paul L"
+      ],
+      "doi": "10.1007/s40211-026-00587-1",
+      "summaries": {
+        "en": "Case report of S-ketamine as treatment option for suicidal ideation and treatment-resistant depression in adolescents with early-onset psychosis.",
+        "sv": "Case report of S-ketamine as treatment option for suicidal ideation and treatment-resistant depression in adolescents with early-onset psychosis.",
+        "no": "Case report of S-ketamine as treatment option for suicidal ideation and treatment-resistant depression in adolescents with early-onset psychosis.",
+        "da": "Case report of S-ketamine as treatment option for suicidal ideation and treatment-resistant depression in adolescents with early-onset psychosis.",
+        "fi": "Case report of S-ketamine as treatment option for suicidal ideation and treatment-resistant depression in adolescents with early-onset psychosis.",
+        "is": "Case report of S-ketamine as treatment option for suicidal ideation and treatment-resistant depression in adolescents with early-onset psychosis.",
+        "et": "Case report of S-ketamine as treatment option for suicidal ideation and treatment-resistant depression in adolescents with early-onset psychosis.",
+        "lv": "Case report of S-ketamine as treatment option for suicidal ideation and treatment-resistant depression in adolescents with early-onset psychosis.",
+        "lt": "Case report of S-ketamine as treatment option for suicidal ideation and treatment-resistant depression in adolescents with early-onset psychosis."
+      },
+      "notable": false,
+      "notable_reasons": null,
+      "relevance_score": 3,
+      "study_type": "case_report",
+      "substances": [
+        "ketamine"
+      ],
+      "added_at": "2026-08-26T07:23:28.268748+00:00"
+    },
+    {
+      "title": "Beyond head-twitch response: Acute psilocybin affects spontaneous behaviors in rats in a dose-dependent manner.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42639976/",
+      "source": "PubMed",
+      "date": "2026-08-25",
+      "authors": [
+        "Tiwari Praachi",
+        "Jenkins Bryan W",
+        "Moore Catherine F"
+      ],
+      "doi": "10.1177/02698811261478600",
+      "summaries": {
+        "en": "Study of male and female Sprague-Dawley rats examined psilocybin's effects on spontaneous behaviors at doses 0.5-1.5 mg/kg. Beyond the commonly measured head-twitch response, researchers assessed immobility, rearing, grooming, sniffing/digging, and circling. Results showed distinct dose-dependent profiles across behaviors and sexes: immobility increased linearly with dose, rearing and grooming decreased at low doses, while other behaviors showed variable patterns. Findings expand understanding of psilocybin's neurobehavioral effects in preclinical models.",
+        "sv": "Studie på hane- och honråttor (Sprague-Dawley) undersökte psilocybins effekter på spontana beteenden vid doser 0,5-1,5 mg/kg. Utöver det vanligt mätta huvudvridningsresponsen bedömdes stillhet, rest upp, grooming, sniffning/grävning och cirkling. Resultaten visade distinkta dose-beroende profiler mellan beteenden och kön: stillhet ökade linjärt med dos, rest upp och grooming minskade redan vid låga doser. Fynd utökar förståelsen av psilocybins neurobeteendeavvikelser i prekliniska modeller.",
+        "no": "Studie av han- og hunnrotter (Sprague-Dawley) undersøkte psilocybins effekter på spontan atferd ved doser 0,5-1,5 mg/kg. Utover det vanlig målt hoderykkingsresponsen ble også immobilitet, reising, grooming, sniffing/graving og sirkling vurdert. Resultatene viste distinkte dose-avhengige profiler mellom atferder og kjønn: immobilitet økte lineært med dose, reising og grooming avtok ved lave doser. Funnene utvider forståelsen av psilocybins neuroatferdsmessige effekter i prekliniske modeller.",
+        "da": "Studie af han- og hunrotter (Sprague-Dawley) undersøgte psilocybins virkninger på spontan adfærd ved doser 0,5-1,5 mg/kg. Ud over det almindeligt målte hovednikkingsrespons blev også immobilitet, rejsning, grooming, snifning/graveadfærd og cirkling vurderet. Resultaterne viste forskellige dose-afhængige mønstre mellem adfærd og køn: immobilitet steg lineært med dosis, rejsning og grooming faldt ved lave doser. Funnene udvider forståelsen af psilocybins neuroadfærdsmæssige virkninger i prækliniske modeller.",
+        "fi": "Tutkimuksessa tutkittiin psilosibiinin vaikutuksia spontaaniin käyttäytymiseen uros- ja naarasrotan (Sprague-Dawley) malleilla annoksilla 0,5-1,5 mg/kg. Yleisesti mitatun pään täristyresponsin lisäksi arvioitiin liikkumattomuus, notkotus, ihottelu, nuuhkiminen/kaivaminen ja pyöriminen. Tulokset osoittivat erilaiset annos-riippuvaiset profiilit käyttäytymisen ja sukupuolen välillä: liikkumattomuus lisääntyi lineaarisesti annoksen kanssa, notkotus ja ihottelu vähenivät jo pienillä annoksilla. Tulokset laajentavat ymmärrystä psilosibiinin neurokäyttäytymisen vaikutuksista prekliinisissä malleissa.",
+        "is": "Rannsóknin á hönkum og kvenum Sprague-Dawley stúkum kannaði áhrif psýlósýbíns á náttúruleg hegðun við skömmtum 0,5-1,5 mg/kg. Fyrir utan algengt mælda höfuðvifting voru metin kyrð, stökkva, kirtill, þefill/grafa og hringari. Niðurstöður sýndu aðskilda skammtabundin mynstur milli hegðunar og kyns: kyrð jókst línulega með skammti, stökkva og kirtill minnkuðu við lága skammta. Niðurstöðurnar auka skilning á hegðunarábrigðum psýlósýbíns í fordæmum fyrir klínísk fræði.",
+        "et": "Uuringus uuriti psilotsübiini mõju spontaansele käitumisele Sprague-Dawley isas ja emashiirtel annuste juures 0,5-1,5 mg/kg. Tavaliselt mõõdetud pea-tõmbereakooni kõrval hinnati paigalseisu, seismist, puhastamist, nuuskamist/kaevamist ja ringlemist. Tulemused näitasid erinevaid doosisõltuvaid mustreid käitumise ja soo vahel: paigalseismine suurenes lineaarselt doosiga, seismine ja puhastamine vähenesid juba madala doosiga. Tulemused parandavad arusaama psilotsübiini neurokäitumuslikust toimest prekliinilistel mudelitel.",
+        "lv": "Pētījumā Sprague-Dawley žurku tēviņiem un mātītēm pārbaudīja psilocibiīna ietekmi uz spontānu uzvedību devas 0,5-1,5 mg/kg. Papildus parasti mērītajam galvas trīcošanās atbildei novērtēja nekustību, celšanos, tīrīšanu, nūsošanu/rakšanu un rotāciju. Rezultāti parādīja atšķirīgus devas atkarīgus modeļus starp uzvedību un dzimumu: nekustība lineāri pieauga ar devu, celšanās un tīrīšana samazinājās jau zemo devu dēļ. Atklājumi paplašina izpratni par psilocibiīna neurouzvedības ietekmi prekliniskajos modeļos.",
+        "lt": "Tyrime buvo tiriamas psilocibino poveikis savaimiškam elgesiui Sprague-Dawley žiurkėms ir žiurkėnams 0,5–1,5 mg/kg dozėse. Be įprastai matuojamo galvos trūkčiojimo atsakymo buvo vertinti nejudrumas, kėlimasis, priežiūra, sniffavimas/kastmas ir sukinėjimasis. Rezultatai parodė skirtingus dozės nuo priklausomus modelius tarp elgesio ir lyties: nejudrumas tiesiškai didėjo su doze, kėlimasis ir priežiūra mažėjo jau žemose dozėse. Rezultatai plečia psilocibino neurielgesio poveikio supratimą preklininėse modelyse."
+      },
+      "notable": false,
+      "notable_reasons": null,
+      "relevance_score": 3,
+      "study_type": "preclinical",
+      "substances": [
+        "psilocybin"
+      ],
+      "added_at": "2026-08-26T07:23:28.268748+00:00"
     },
     {
       "title": "Adverse Effect-Related Language in Recreational Psychedelic and non-Psychedelic Substance Experience Reports.",
@@ -1793,143 +1917,6 @@
       "study_type": "review",
       "substances": [
         "ketamine"
-      ],
-      "added_at": "2026-08-01T12:00:00+00:00"
-    },
-    {
-      "title": "Dreaming during anaesthesia: a scoping review.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42270528/",
-      "source": "PubMed",
-      "date": "2026-Aug",
-      "authors": [
-        "Sikka Pilleriin",
-        "Hu Sherry",
-        "Heifets Boris D"
-      ],
-      "doi": "10.1016/j.bja.2026.05.002",
-      "summaries": {
-        "en": "Dreaming during anaesthesia: a scoping review.",
-        "sv": "Dreaming during anaesthesia: a scoping review.",
-        "no": "Dreaming during anaesthesia: a scoping review.",
-        "da": "Dreaming during anaesthesia: a scoping review.",
-        "fi": "Dreaming during anaesthesia: a scoping review.",
-        "is": "Dreaming during anaesthesia: a scoping review.",
-        "et": "Dreaming during anaesthesia: a scoping review.",
-        "lv": "Dreaming during anaesthesia: a scoping review.",
-        "lt": "Dreaming during anaesthesia: a scoping review."
-      },
-      "notable": false,
-      "notable_reasons": null,
-      "relevance_score": 2,
-      "study_type": "review",
-      "substances": [
-        "ketamine"
-      ],
-      "added_at": "2026-08-01T12:00:00+00:00"
-    },
-    {
-      "title": "Letter to the Editor: Esketamine in treatment-resistant depression: Beyond symptom reduction toward psychopathological network reorganization.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42269353/",
-      "source": "PubMed",
-      "date": "2026-Aug",
-      "authors": [
-        "Baharuddin Baharuddin",
-        "Setyaningrum Rohmaningtyas Hidayah",
-        "Handayani Lilies"
-      ],
-      "doi": "10.1016/j.ajp.2026.105044",
-      "summaries": {
-        "en": "Letter examining esketamine's mechanism in treatment-resistant depression, proposing that therapeutic effects may extend beyond symptom reduction to involve reorganization of psychopathological networks. The analysis suggests esketamine's action operates at a systems level rather than simply alleviating individual symptoms.",
-        "sv": "Insändare som undersöker esketamins verkningssätt vid behandlingsresistent depression. Författarna föreslår att terapeutiska effekter kan gå bortom symtomlindrande och involve reorganisering av psykopatologiska nätverk. Analysen tyder på en systemnivå-effekt snarare än blott symtomlindring.",
-        "no": "Innlegg som undersøker esketamins virkningsmekanisme ved behandlingsresistent depresjon. Forfatterne foreslår at terapeutiske effekter kan gå utover symptomreduksjon og omfatte reorganisering av psykopatologiske nettverk. Analysen indikerer at esketamin virker på systemnivå snarere enn bare symptomdemping.",
-        "da": "Læserbrev, der undersøger esketamins virkningsmekanisme ved behandlingsresistent depression. Forfatterne foreslår, at terapeutiske effekter kan gå ud over symptomreduktion og omfatte reorganisering af psykopatologiske netværk. Analysen indikerer virkning på systemniveau frem for blot symptombehandling.",
-        "fi": "Kirjoitus, joka tutkii esketamiinin vaikutusmekanismia hoitoresistentissa masennuksessa. Kirjoittajat ehdottavat, että terapeuttinen vaikutus voi ulottua oireiden lievityksestä psykopatologisten verkostojen uudelleenjärjestäytymiseen. Analyysi viittaa systeemitason vaikutukseen eikä pelkkään oireiden vähenemiseen.",
-        "is": "Lesarbrjóf sem rannsakar virknikerfi esketamíns við meðhöndlun-ónæmri þunglyndi. Höfundar leggja til að meðferðaráhrif gætu gengið lengra en einkennaasir og náð til endurskipulagningar andlegra netvirkja. Greiningin bendir til áhrifa á kerfisstigum frekar en aðeins einkennabæta.",
-        "et": "Kirjavahetus, mis uurib esketamiini toimemehanismi ravi-resistentsel depressioonil. Autorid teevad ettepaneku, et terapeeutilised efektid võivad ulatuda sümptomite vähendamisest psühhopatoloogiliste võrgustike reorganiseerimiseni. Analüüs näitab mõju süsteeemitasandil, mitte ainult sümptomite leevendamisel.",
-        "lv": "Lasītāju vēstule, kas pēta esketamīna darbības mehānismu ārstēšanas-rezistentā depresijā. Autori ierosina, ka terapeitiskā ietekme var pārsniedzt simptomu mazināšanu un ietvert psihopatoloģisko tīklu reorganizāciju. Analīze norāda uz sistēmas līmeņa ietekmi, nevis tikai simptomu atvieglošanu.",
-        "lt": "Redakcijos laiškas, kuriame tiriamas esketamino veikimo mechanizmas gydymui atsparioje depresijoje. Autoriai siūlo, kad terapinis poveikis gali peržengti simptomų mažinimą ir apimti psichiopatologinių tinklų reorganizavimą. Analizė rodo sistemos lygio poveikį, o ne tik simptomų palengvinimą."
-      },
-      "notable": false,
-      "notable_reasons": null,
-      "relevance_score": 3,
-      "study_type": "other",
-      "substances": [
-        "ketamine"
-      ],
-      "added_at": "2026-08-01T12:00:00+00:00"
-    },
-    {
-      "title": "Mystery shopper assessments of cannabis retailer practices and regulatory compliance in five U.S. states, 2025.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42224931/",
-      "source": "PubMed",
-      "date": "2026-Aug",
-      "authors": [
-        "Berg Carla J",
-        "LoParco Cassidy R",
-        "Rossheim Matthew E"
-      ],
-      "doi": "10.1016/j.drugalcdep.2026.113218",
-      "summaries": {
-        "en": "Mystery shopper assessments of cannabis retailer practices and regulatory compliance in five U.S. states, 2025.",
-        "sv": "Mystery shopper assessments of cannabis retailer practices and regulatory compliance in five U.S. states, 2025.",
-        "no": "Mystery shopper assessments of cannabis retailer practices and regulatory compliance in five U.S. states, 2025.",
-        "da": "Mystery shopper assessments of cannabis retailer practices and regulatory compliance in five U.S. states, 2025.",
-        "fi": "Mystery shopper assessments of cannabis retailer practices and regulatory compliance in five U.S. states, 2025.",
-        "is": "Mystery shopper assessments of cannabis retailer practices and regulatory compliance in five U.S. states, 2025.",
-        "et": "Mystery shopper assessments of cannabis retailer practices and regulatory compliance in five U.S. states, 2025.",
-        "lv": "Mystery shopper assessments of cannabis retailer practices and regulatory compliance in five U.S. states, 2025.",
-        "lt": "Mystery shopper assessments of cannabis retailer practices and regulatory compliance in five U.S. states, 2025."
-      },
-      "notable": false,
-      "notable_reasons": null,
-      "relevance_score": 3,
-      "study_type": "observational",
-      "substances": [
-        "psilocybin"
-      ],
-      "added_at": "2026-08-01T12:00:00+00:00"
-    },
-    {
-      "title": "A systematic review of the pharmacokinetics of classical serotonergic psychedelic compounds in healthy adult subjects.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42212869/",
-      "source": "PubMed",
-      "date": "2026-Aug",
-      "authors": [
-        "Hampsey Elliot",
-        "Martin Kirsty",
-        "Kalfas Michail"
-      ],
-      "doi": "10.1177/02698811261453938",
-      "summaries": {
-        "en": "A systematic review of 32 trials examined pharmacokinetic profiles of classical serotonergic psychedelics (LSD, psilocybin, DMT, mescaline, 5-MeO-DMT) in healthy adults. LSD was most studied, followed by DMT via intravenous and oral routes, and psilocybin. Mescaline had limited data (2 trials). Key findings reveal dose-proportional responses and important variations in absorption, distribution, and elimination between compounds with implications for clinical and research applications.",
-        "sv": "En systematisk överblick av 32 studier undersökte farmakokinetiken för klassiska serotonerga psykedelika (LSD, psilocybin, DMT, meskalin, 5-MeO-DMT) hos friska vuxna. LSD var mest studerat, följt av DMT via intravenös och oral väg, samt psilocybin. Meskalin hade begränsad data (2 studier). Nyckelresultat visar dosproporionella effekter och viktiga skillnader i absorption, distribution och eliminering mellan substanserna med kliniska och forskningskonsekvenser.",
-        "no": "En systematisk oversikt av 32 studier undersøkte farmakokinetikken for klassiske serotonerge psykedelika (LSD, psilocybin, DMT, meskalin, 5-MeO-DMT) hos friske voksne. LSD var mest studert, etterfulgt av DMT via intravenøs og oral rute, samt psilocybin. Meskalin hadde begrenset data (2 studier). Nøkkelfunn viser doseproporsjonale responser og viktige forskjeller i absorpsjon, distribusjon og eliminering mellom stoffene med kliniske og forskningsimplikasjoner.",
-        "da": "En systematisk oversigt af 32 studier undersøgte farmakokinetikken for klassiske serotonerge psykedelika (LSD, psilocybin, DMT, meskalin, 5-MeO-DMT) hos raske voksne. LSD var mest studeret, efterfulgt af DMT via intravenøs og oral rute samt psilocybin. Meskalin havde begrænset data (2 studier). Vigtige resultater viser dosisafhængige reaktioner og væsentlige forskelle i absorption, distribution og eliminering mellem stoffer med kliniske og forskningsimplikationer.",
-        "fi": "Systemaattinen katsaus 32 tutkimuksesta selvitti klassisten serotonergeisten psykedeelien (LSD, psilosybiini, DMT, meskaliiini, 5-MeO-DMT) farmakokinetiikkaa terveillä aikuisilla. LSD oli eniten tutkittu, jota seurasivat DMT (suonensisäinen ja suun kautta) ja psilosybiini. Meskaliinitiedot olivat rajalliset (2 tutkimusta). Tärkeimmät havainnot osoittavat annoksesta riippuvia vastauksia ja merkittäviä eroja aineiden imeytyksessä, jakautumisessa ja poistumisessa kliinisine ja tutkimuksellisine seurauksineen.",
-        "is": "Kerfræðileg endurskoðun á 32 rannsóknum skoðaði lyfjafræðilega eiginleika klassískra serotonerg-hvatandi sáleinasambanda (LSD, psilosýbín, DMT, meskalín, 5-MeO-DMT) hjá heilbrigðum fullorðnum. LSD var best rannsakað, fylgt eftir af DMT (ígengum æðar og munnlega leið) og psilosýbín. Meskalín hafði takmarkaðar gögn (2 rannsóknir). Lykilniðurstöður sýna skammtafylgjandi svörun og mikilvæg munur á frásogni, dreifingu og losun efna með klínískum og rannsóknareiningum.",
-        "et": "Süstemaatiline ülevaade 32 uuringust uuris klassikaliste serotonergiliste psühhedeelide (LSD, psilotsibiin, DMT, meskaliin, 5-MeO-DMT) farmakokineetikat tervetel täiskasvanutel. LSD oli kõige rohkem uuritud, millele järgnesid DMT (veenisisene ja suuline manustamine) ja psilotsibiin. Meskaliinil oli piiratud andmed (2 uuringut). Põhilised leiud näitavad doosiproportsionaalseid vastuseid ja olulisi erinevusi ainete imendumisel, jaotamisel ja kõrvaldamisel kliiniliste ja uuringuliste tagajärgedega.",
-        "lv": "Sistemātisks pārskats par 32 pētījumiem pārbaudīja klasisko serotonīnergo psihedeliku (LSD, psilotsibīns, DMT, meskalīns, 5-MeO-DMT) farmakokinētiku veseliem pieaugušajiem. LSD bija visvairāk pētīts, kam sekoja DMT (intravenozi un perorāli) un psilotsibīns. Meskalīnam bija ierobežoti dati (2 pētījumi). Galvenie atklājumi parāda devas proporcionālas atbildes un nozīmīgas atšķirības vielu absorpcijā, izplatībā un eliminācijā ar klīniskām un pētnieciskām sekām.",
-        "lt": "Sisteminė 32 tyrimų apžvalga nagrinėjo klasikinių serotonininių psichedelikų (LSD, psilosibinas, DMT, meskalinas, 5-MeO-DMT) farmakokinetika sveikuose suaugusiuosiuose. LSD buvo labiausiai tirinėtas, po to sekė DMT (intraveninis ir per burną) ir psilosibinas. Meskalinui buvo riboti duomenys (2 tyrimai). Pagrindiniai rezultatai rodo dozės proporcingus atsakus ir reikšmingus skirtumus medžiagų sugeryje, pasiskirstyme ir pašalinime su klinikinėmis ir mokslinėmis implikacijomis."
-      },
-      "notable": true,
-      "notable_reasons": {
-        "en": "Systematic review synthesizing pharmacokinetic data across 32 trials of multiple classical psychedelics (LSD, psilocybin, DMT, mescaline, 5-MEO-DMT) with implications for clinical and research design.",
-        "sv": "Systematisk granskning som syntetiserar farmakokinetisk data från 32 studier av flera klassiska psykedeliska substanser (LSD, psilocybin, DMT, mescaline, 5-MEO-DMT) med implikationer för klinisk design och forskningsmetod.",
-        "no": "Systematisk oversikt som syntetiserer farmakokinetiske data på tvers av 32 studier av flere klassiske psykedelier (LSD, psilocybin, DMT, mescaline, 5-MEO-DMT) med implikasjoner for klinisk og forskningsdesign.",
-        "da": "Systematisk oversigt, der syntetiserer farmakokinetiske data på tværs af 32 forsøg med flere klassiske psykedelika (LSD, psilocybin, DMT, mescaline, 5-MEO-DMT) med implikationer for klinisk og forskningsdesign.",
-        "fi": "Järjestelmällinen katsaus, joka syntetisoi farmakokineettisiä tietoja 32 klassisen psykedeelikokeen (LSD, psilocybin, DMT, mescaline, 5-MEO-DMT) poikki kliinisillä ja tutkimussuunnittelun vaikutuksilla.",
-        "is": "Kerfisbundin yfirlitið sem samsafnar farmakokinetískum gögnum yfir 32 tilraunir á mörgum klassískum psýkedelikum (LSD, psilocybin, DMT, mescaline, 5-MEO-DMT) með afleiðingum fyrir klíníska og rannsóknarhönnun.",
-        "et": "Süstemaatiline ülevaade, mis ühendab farmakokineetilisi andmeid 32 klassikaliste psühhedeelikute uuringust (LSD, psilocybin, DMT, mescaline, 5-MEO-DMT) kliinilise ja uuringute disaini implikatsioonidega.",
-        "lv": "Sistematisks pārskats, kas sintetizē farmakokinētiskos datus no 32 klasisko psihedēliku pētījumiem (LSD, psilocybin, DMT, mescaline, 5-MEO-DMT) ar sekām klīniskajai un pētniecības dizainam.",
-        "lt": "Sistemingas apžvalga, sudaranti farmakokinetikus duomenis iš 32 klasikinių psichedelikų tyrimų (LSD, psilocybin, DMT, mescaline, 5-MEO-DMT) su reikšme klinikinei ir tyrimo dizainui."
-      },
-      "relevance_score": 4,
-      "study_type": "review",
-      "substances": [
-        "lsd",
-        "psilocybin",
-        "mescaline",
-        "other"
       ],
       "added_at": "2026-08-01T12:00:00+00:00"
     }

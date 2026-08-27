@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-26T07:24:49.081221+00:00",
+  "generated_at": "2026-08-27T17:46:30.510183+00:00",
   "items": [
     {
       "title": "Blinding integrity in psychedelic research: Evidence from a comparative randomized controlled trial of psilocybin, MDMA, and methylphenidate in healthy volunteers",
@@ -32,6 +32,160 @@
         "mdma"
       ],
       "added_at": "2026-07-09T10:03:12.956794+00:00"
+    },
+    {
+      "title": "Efficacy and tolerability of ketamine in moderate to severe obsessive-compulsive disorder: a systematic review.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42649323/",
+      "source": "PubMed",
+      "date": "2026-08-27",
+      "authors": [
+        "Eghdami Shayan",
+        "Boroon Mahsa",
+        "Keshavarz-Akhlaghi Amir-Abbas"
+      ],
+      "doi": "10.1007/s00213-026-07155-z",
+      "summaries": {
+        "en": "Systematic review of 15 studies (3 RCTs, 118 participants) examining ketamine for treatment-resistant OCD. Single-dose IV ketamine (0.5 mg/kg) produced 50-60% response rates but benefits were transient. Combined ketamine with exposure-response prevention showed sustained remission over weeks-months. Safety concerns included delayed dysphoria and suicidal ideation 24-48 hours post-infusion. Ketamine shows promise as adjunct to behavioral therapy rather than monotherapy.",
+        "sv": "Systematisk granskning av 15 studier (3 RCT, 118 deltagare) om ketamin för behandlingsresistent OCD. Singel IV-dos ketamin (0,5 mg/kg) gav 50-60% responsgrad men effekten var övergående. Kombinerad ketamin med exponerings- och responsförebyggande terapi visade ihållande remission över veckor-månader. Säkerhetsfrågor inkluderade försenad dysforbi och självmordstankar 24-48 timmar efter infusion. Ketamin visar potential som tillägg till beteendeterapi snarare än monoterapi.",
+        "no": "Systematisk gjennomgang av 15 studier (3 RCT, 118 deltakere) som undersøker ketamin for behandlingsresistent OCD. Enkelt IV-dose ketamin (0,5 mg/kg) ga 50-60% responsrate, men effekten var forbigående. Kombinert ketamin med eksponerings- og responsforhindring viste vedvarende remisjon over uker-måneder. Sikkerhetsproblemer inkluderte forsinket dysforbi og selvmordstanker 24-48 timer etter infusjon. Ketamin viser potensial som tillegg til atferdsterapi snarere enn monoterapi.",
+        "da": "Systematisk gennemgang af 15 studier (3 RCT, 118 deltagere) om ketamin til behandlingsresistent OCD. Enkelt IV-dosis ketamin (0,5 mg/kg) gav 50-60% responsrate, men effekten var kortvarig. Kombineret ketamin med eksponerings- og responsforebyggelse viste vedvarende remission over uger-måneder. Sikkerhedsproblemer omfattede forsinket dysforbi og selvmordstanker 24-48 timer efter infusion. Ketamin viser potentiale som supplement til adfærdsterapi snarere end monoterapi.",
+        "fi": "Systemaattinen katsaus 15 tutkimuksesta (3 RCT, 118 osallistujaa) ketamiinin käytöstä hoitoresistentissa OCD:ssä. Yksittäinen IV-annos ketamiinia (0,5 mg/kg) antoi 50-60% vastausnopeuden, mutta vaikutus oli ohimenevä. Ketamiini yhdessä eksposuurin ja vasteen estämisen hoidon kanssa osoitti pysyvää remissiota viikkojen-kuukausien ajan. Turvallisuusongelmia olivat viivästyneet dysforiat ja itsemurhajäännökset 24-48 tuntia infuusion jälkeen. Ketamiini osoittaa potentiaalia käyttäen täydennysaineena käyttäytymishoidolle monoterapian sijaan.",
+        "is": "Kerfræðileg yfirlit yfir 15 rannsóknir (3 RCT, 118 þátttakendur) um ketamín við meðferðaróðæfar OCD. Ein IV-skammtur ketamíns (0,5 mg/kg) gaf 50-60% svörun en áhrifin voru skammlíf. Sameinuð ketamín með útsetningu og svörum sem kom í veg fyrir sýndu varanlega remisju yfir vikur til mánuði. Öryggisáhyggjur innihéldu seinaða dysforí og sjálfsmorðshugsanir 24-48 klukkustundum eftir innflutning. Ketamín sýnir möguleika sem viðbót við hegðunarmeðferð fremur en einogunarmeðferð.",
+        "et": "Süstemaatiline ülevaade 15 uuringust (3 RCT, 118 osalejat) ketamiini kasutamise kohta ravi-resistentse OCD-ga. Üksik IV-annus ketamiini (0,5 mg/kg) andis 50-60% vastusekaasuse, kuid efekt oli lühiajaline. Ketamiini kombinatsiooni eksponoeerimise ja reaktsiooni ennetamisega teraapiaga näitas püsivat remissiooni nädalate-kuude jooksul. Ohutusprobleemd hõlmasid viivitatud düsfooriat ja enesetapu ideatsiooni 24-48 tundi pärast infusiooni. Ketamiin näitab potentsiaali täiendava abina käitumisteraapia asemel monoteraapia asemel.",
+        "lv": "Sistematisks pārskats par 15 pētījumiem (3 RCT, 118 dalībnieki) par ketamīnu grūti ārstējamas OCD gadījumos. Viena IV doza ketamīna (0,5 mg/kg) deva 50-60% reaģējošus pacientus, bet efekts bija īslaicīgs. Ketamīns kombinācijā ar ekspozīcijas un atbildes novēršanas terapiju parādīja noturīgu remisiju nedēļas-mēneši. Drošības problēmas ietver aizkavētu disforiju un pašnāvības ideāciju 24-48 stundu laikā pēc infūzijas. Ketamīns rāda potenciālu kā papildinājums uzvedības terapijai, nevis monoaterapijai.",
+        "lt": "Sistemingas 15 tyrimų (3 RCT, 118 dalyvių) peržvalga dėl ketamino naudojimo gydymui atsparioje OCD. Viena IV ketamino doze (0,5 mg/kg) davė 50-60% atsako dažnį, tačiau efektas buvo trumpalaikis. Ketaminas kartu su ekspozicija ir atsakų prevencija parodė ilgalaikę remiją per savaites-mėnesius. Saugumo problemos apėmė vėluotą disforią ir savižudybės ideacijas 24-48 valandų po infuzijos. Ketaminas rodo potencialą kaip papildomoji priemonė elgesio terapijai, o ne monoterapija."
+      },
+      "notable": true,
+      "notable_reasons": {
+        "en": "Systematic review synthesizing 15 studies (including 3 RCTs) with n=118; identifies novel safety signal (delayed dysphoria/suicidality) and synergistic effect with behavioral therapy.",
+        "sv": "Systematisk översikt som syntetiserar 15 studier (inklusive 3 RCTs) med n=118; identifierar ny säkerhetssignal (försenad dysphoria/suicidialitet) och synergistisk effekt med beteendeterapi.",
+        "no": "Systematisk oversikt som syntetiserer 15 studier (inkludert 3 RCTs) med n=118; identifiserer nytt sikkerhetssignal (forsinket dysphoria/suicidalitet) og synergistisk effekt med atferdsterapi.",
+        "da": "Systematisk oversigt, der syntetiserer 15 studier (herunder 3 RCTs) med n=118; identificerer nyt sikkerhedssignal (forsinket dysphoria/suicidalitet) og synergistisk effekt med adfærdsterapi.",
+        "fi": "Systemaattinen katsaus, joka syntetisoi 15 tutkimusta (mukaan lukien 3 RCT:tä) n=118:lla; tunnistaa uuden turvallisuussignaalin (viivästynyt dysphoria/itsemurhariski) ja synergistisen vaikutuksen käyttäytymisterapian kanssa.",
+        "is": "Kerfbundin yfirlit sem tekur saman 15 rannsóknir (þar á meðal 3 RCTs) með n=118; auðkennir nýja öryggmerki (seinkuð dysphoria/sjálfsmorðshætta) og samverkandi áhrif með hegðunarmeðferð.",
+        "et": "Süstemaatiline ülevaade, mis sintetiseerib 15 uuringut (kaasa arvatud 3 RCT-d) n=118-ga; identifitseerib uue ohutussignaali (hiline dysphoria/enesetapuoht) ja sünergistilist efekti käitumisteraapiaga.",
+        "lv": "Sistematisks pārskats, kas sintetizē 15 pētījumus (ieskaitant 3 RCT) ar n=118; identificē jaunu drošības signālu (aizkavēta dysphoria/pašnāvniecības risks) un sinerģisku efektu ar uzvedības terapiju.",
+        "lt": "Sisteminė apžvalga, apibendrinanti 15 tyrimų (įskaitant 3 RCT) su n=118; nustato naują saugumo signalą (uždelstą dysphoria/savižudybės riziką) ir sinergišką poveikį kartu su elgesio terapija."
+      },
+      "relevance_score": 4,
+      "study_type": "review",
+      "substances": [
+        "ketamine"
+      ],
+      "added_at": "2026-08-27T17:44:17.771269+00:00"
+    },
+    {
+      "title": "Pilot study comparing the effects of high dose THC to high dose psilocybin and placebo in the set and setting of a classic psychedelic therapy session.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42649324/",
+      "source": "PubMed",
+      "date": "2026-08-27",
+      "authors": [
+        "Barrett Frederick S",
+        "Wolinsky David",
+        "Daily Zach"
+      ],
+      "doi": "10.1007/s00213-026-07138-0",
+      "summaries": {
+        "en": "Pilot study (n=4) comparing oral Δ9-THC (25–50 mg) with psilocybin (25 mg) and placebo in a double-blind, controlled design. Both synthetic dronabinol and cannabis distillate forms of 25 mg Δ9-THC produced subjective effects similar to psilocybin under psychedelic therapy conditions. Participants mistook dronabinol for a classic hallucinogen, suggesting high-dose THC can elicit psychedelic-like experiences in structured therapeutic settings.",
+        "sv": "Pilottudie (n=4) som jämförde oral Δ9-THC (25–50 mg) med psilo­cybin (25 mg) och placebo i dubbelblind, kontrollerad design. Både syntetisk dronabinol och cannabis­distillat innehållande 25 mg Δ9-THC gav subjektiva effekter liknande psilo­cybin under psykedelisk terapi. Deltagare förväxlade dronabinol med klassisk hallucinogen, vilket tyder på att höga THC-doser kan framkalla psykedeliska upplevelser i strukturerad terapi­miljö.",
+        "no": "Pilotstudie (n=4) som sammenliknet oral Δ9-THC (25–50 mg) med psilocybin (25 mg) og placebo i dobbeltblindet, kontrollert design. Både syntetisk dronabinol og cannabisdestillat med 25 mg Δ9-THC ga subjektive effekter tilsvarende psilocybin under psykedelisk terapi. Deltakere forvekslet dronabinol med klassisk hallusinogen, noe som antyder at høye THC-doser kan framkalle psykedeliske opplevelser i strukturert terapisetting.",
+        "da": "Pilotstudie (n=4) der oral Δ9-THC (25–50 mg) blev sammenlignet med psilocybin (25 mg) og placebo i dobbelblind, kontrolleret design. Både syntetisk dronabinol og cannabisdestillat indeholdende 25 mg Δ9-THC producerede subjektive effekter svarende til psilocybin under psykedelisk terapi. Deltagere forvekslede dronabinol med klassisk hallucsinogen, hvilket tyder på at høje THC-doser kan fremkalde psykedaliske oplevelser i struktureret terapisetting.",
+        "fi": "Piloititutkimus (n=4), jossa vertailtiin suun kautta annettavaa Δ9-THC:ta (25–50 mg) psilo­sybiiniin (25 mg) ja lumelääkkeeseen kaksoissokkoutetussa, kontrolloidussa tutkimusasetelmassa. Sekä synteettinen dronabinoli että kannabis­tislaite, joka sisälsi 25 mg Δ9-THC:ta, tuottivat psilo­sybiinin kaltaisia subjektiivisia vaikutuksia psykedeelis­ten hoito-olosuhteiden alaisena. Osallistujat sekoittivat dronabinolin klassiseen hallusinogeeniin, mikä viittaa siihen, että korkeat THC-annokset voivat aiheuttaa psykedeelis­täpaisen kokemuksen strukturoiduissa hoito­tilanteissa.",
+        "is": "Tilraunarannsókn (n=4) þar sem borið var saman á stærðfræðilegt Δ9-THC (25–50 mg) við psíló­síbín (25 mg) og lyfleysu í tvöföldu blindu, stjórðu hönnun. Bæði tilbúnu dronabinól og kannabís­þjöppu sem innihélt 25 mg Δ9-THC framleiddu huglæg áhrif svipuð psíló­síbíni við sálgreinandi meðferðar­skilyrði. Þátttakendur rugluðu dronabinóli við klassiska geislun, sem bendir til þess að há Δ9-THC skammtar geti valdið sálgreiningarendalíkri reynslu í skipulögðum meðferðar­aðstæðum.",
+        "et": "Pilootuuring (n=4), kus võrreldi suulisel teel manustatud Δ9-THC:d (25–50 mg) psilo­tsübiiniga (25 mg) ja platseeboa kahepimestses, kontrollitud katsekujunduses. Nii sünteetiline dronabinool kui ka kanep­distillaat, mis sisaldas 25 mg Δ9-THC:d, tekitasid subjektiivset toime, mis oli sarnane psilo­tsübiiniga psühhedeliumi teraapia tingimustes. Osalised avastas dronabinoolit klassikalise hallutsinogeeninagu, mis viitab sellele, et kõrgendatud THC-annused võivad esile kutsuda psühhedeliumi­laadseid kogemusi struktureeritud ravi­keskkonnades.",
+        "lv": "Pilotpētījums (n=4), kurā salīdzināja perorāli lietotu Δ9-THC (25–50 mg) ar psilo­cibīnu (25 mg) un placebu dubultā aklā, kontrolētā dizainā. Gan sintetiskais dronabinols, gan konopju destilāts, kas satur 25 mg Δ9-THC, radīja subjektīvus efektus, kas līdzīgi psilo­cibīnam psihedelisko terapijas apstākļos. Dalībnieki jaukt dronabinolu ar klasisku halicinogēnu, kas liecina, ka augsti THC devas var izraisīt psihedelu­līdzīgas pieredzes strukturētas terapijas vidē.",
+        "lt": "Bandomoji studija (n=4), kurioje buvo lygintas žandikaulio Δ9-THC (25–50 mg) su psilocibinu (25 mg) ir placebu dvigubai akliname, kontroliuojamame tyrime. Tiek sintetinis dronabinolis, tiek kanapių distilatas, turintis 25 mg Δ9-THC, sukėlė subjektyvius efektus, panašius į psilocinbino psichedelinės terapijos sąlygomis. Dalyviai klaidingai identifikavo dronabinolį kaip klasikinį haliu­cinogeną, o tai rodo, kad aukštos THC dozės gali sukelti psichedeliniu­mo panašias patirtis struktūrizuotoje terapijoje."
+      },
+      "notable": false,
+      "notable_reasons": null,
+      "relevance_score": 3,
+      "study_type": "rct",
+      "substances": [
+        "psilocybin",
+        "other"
+      ],
+      "added_at": "2026-08-27T17:44:17.771269+00:00"
+    },
+    {
+      "title": "Next-Generation Pharmacotherapies for Unipolar Mood Disorders: A Leading Article on Phase II/III Drug Development Across Diverse Mechanisms.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42645703/",
+      "source": "PubMed",
+      "date": "2026-08-26",
+      "authors": [
+        "King Alana",
+        "Hardy Morgan",
+        "Rhee Taeho Greg"
+      ],
+      "doi": "10.1007/s40263-026-01330-8",
+      "summaries": {
+        "en": "This review examines Phase II/III clinical trials for novel mood disorder treatments, noting that ~30% of patients don't respond to standard antidepressants. Following FDA approvals of esketamine and brexanolone in 2019, research has shifted toward glutamatergic, GABAergic, ion channel, and psychedelic mechanisms. Analysis of 24 investigational compounds shows an expanding therapeutic landscape beyond traditional monoaminergic approaches.",
+        "sv": "Denna översikt granskar kliniska prövningar i fas II/III för nya bemodelbehandlingar, med notering att ~30% av patienterna inte svarar på standardantidepressiva. Efter FDA-godkännande av esketamin och brexanolon 2019 har forskningen skiftat mot glutamaterg, GABAerg, jonkanal- och psykedeliska mekanismer. Analys av 24 experimentella läkemedel visar ett växande terapeutiskt landskap bortom traditionella monoaminerga näringsliv.",
+        "no": "Denne oversikten undersøker kliniske fase II/III-studier for nye stemningslidbehandlinger, med notat om at ~30% av pasientene ikke responderer på standardantidepressiva. Etter FDA-godkjenning av esketamin og brexanolon i 2019 har forskningen skiftet mot glutamaterg, GABAerg, ionkanal- og psykedelisk-baserte mekanismer. Analysen av 24 eksperimentelle legemidler viser et ekspanderende terapeutisk landskap utover tradisjonelle monoaminerge tilnærminger.",
+        "da": "Denne oversigt undersøger kliniske fase II/III-forsøg for nye behandlinger af stemningsforstyrrelser, idet omkring 30% af patienterne ikke responderer på standardantidepressiva. Efter FDA-godkendelse af esketamin og brexanolon i 2019 har forskningen flyttet fokus mod glutamaterge, GABAerge, ionkanal- og psykedel-baserede mekanismer. Analyse af 24 eksperimentelle lægemidler viser et ekspanderende terapeutisk landskab ud over traditionelle monoaminerge tilgange.",
+        "fi": "Tämä katsaus tarkastelee kliinisiä II/III-vaiheen tutkimuksia uusille mielialahäiriöiden hoitoille, huomioiden, että noin 30% potilaista ei vastaa tavanomaisten masennuslääkkeiden hoitoon. FDA:n esketamiinin ja breksanolonin hyväksynnän jälkeen vuonna 2019 tutkimus on siirtynyt glutamaatergisten, GABAergisten, ionikanavien ja psykedeelikkojen mekanismeihin. 24 kokeellisen lääkkeen analyysi osoittaa laajentuvan terapeuttisen kentän perinteisten monoamiineristen lähestymistapojen ulkopuolella.",
+        "is": "Þessi yfirlit skoðar klíníska II/III-stiga tilraunir fyrir ný meðferðir við þunglyndi og kvíða, með athugasemd um að um 30% sjúklinga bregðast ekki við venjulegum þunglyndislyfum. Eftir samþykki FDA á esketamíni og brexanolóni árið 2019 hefur rannsóknir beint sér að glutamatergi, GABAerg, jónarásum og sálkirtilum. Greining á 24 tilraunalyfum sýnir vaxandi meðferðarsvið umfram hefðbundnar einamínúkortisaðar aðferðir.",
+        "et": "See ülevaade uurib kliinilisi II/III faasi uuringuid uute meeleoluhäirete raviks, märkides, et umbes 30% patsientidest ei vasta standardsete depressiooniravimite ravile. Pärast FDA-d esketamiini ja breksanoloni heakskiitmist 2019. aastal on teadus liikunud glutamaatergiliste, GABAergiliste, ioonikanavate ja psühhedeelikute mehhanismide poole. 24 katseravimi analüüs näitab teraapiamaastiku laiendamist traditsioonilistest monoamiinergilistest lähenemisviisidest kaugemale.",
+        "lv": "Šis pārskats pārbauda II/III fāzes klīniskos pētījumus par jauniem depresijas traucējumu ārstēšanas līdzekļiem, ņemot vērā, ka aptuveni 30% pacientu nereagē uz standarta antidepresantiem. Pēc esketamīna un breksanolona FDA apstiprinājuma 2019. gadā pētniecība ir pārvērtusies uz glutamāta, GABA, jonu kanālu un psihedeliku mehānismiem. 24 eksperimentālo zāļu analīze parāda paplašinātu terapeitisko ainu aiz tradicionālajiem monoamīnerģiskajiem pieejas.",
+        "lt": "Šioje apžvalgoje nagrinėjami II/III fazės klinikiniu tyrimai, skirti naujiems nuotaikos sutrikimų gydymams, pažymint, kad apie 30% pacientų nereaguoja į standartinį antidepresantus. Po FDA esketamino ir breksanolono patvirtinimo 2019 m. tyrimai persikėlė į glutamaterginius, GABAerginius, jonų kanalus ir psichedelikus. 24 eksperimentinių vaistų analizė rodo plečiamą terapijų spektrą už tradicinius monoaminerginio požiūrio ribų."
+      },
+      "notable": true,
+      "notable_reasons": {
+        "en": "Comprehensive review of Phase II/III clinical trials across novel mechanisms including psychedelics, published in a peer-reviewed venue; synthesizes FDA-approved and pipeline therapeutics for mood disorders.",
+        "sv": "Omfattande granskning av Phase II/III kliniska försök över nya mekanismer inklusive psykedelika, publicerad i en peer-reviewed tidskrift; syntetiserar FDA-godkända och pipeline-terapier för stämningsstörningar.",
+        "no": "Omfattende gjennomgang av Phase II/III kliniske forsøk på tvers av nye mekanismer inkludert psykedelika, publisert i et fagfellevurdert tidsskrift; syntetiserer FDA-godkjente og pipeline-terapeier for stemningslidelser.",
+        "da": "Omfattende gennemgang af Phase II/III kliniske forsøg på tværs af nye mekanismer inklusiv psykedelika, udgivet i et peer-reviewed tidsskrift; syntetiserer FDA-godkendte og pipeline-terapier for stemningstilstande.",
+        "fi": "Kattava katsaus Phase II/III kliinisiin tutkimuksiin uusien mekanismien poikki mukaan lukien psykedeellit, julkaistu vertaisarvioitavassa julkaisussa; syntetisoi FDA-hyväksyttyjä ja putkilinjan terapeutteja mielialahäiriöille.",
+        "is": "Yfirlit yfir Phase II/III klínískum rannsóknum á nýjum aðferðum, þar með talið sálfræðivirkum efnum, birt í ritreynt tímariti; tekur saman FDA-samþykkt og leiðslulínur meðferðir fyrir geðrofa.",
+        "et": "Põhjalik ülevaade Phase II/III kliinilistest uuringutest uute mehhanismide üle, sealhulgas psühhedeelikud, avaldatud kaalutsiteeritud ajakirjas; koondab FDA-heaks kiidetud ja torujuhtmete ravimeid meeleolu häirete vastu.",
+        "lv": "Visaptverošs Phase II/III klīnisko pētījumu pārskats pāri jaunajiem mehānismiem, ieskaitant psihedēlijus, publicēts recenzētos žurnālos; sintetizē FDA apstiprinātās un cauruļvadu terapijas garastāvokļu traucējumiem.",
+        "lt": "Išsamus Phase II/III klinikinių bandymų apžvalga skirtingais naujais mechanizmais, įskaitant psichedelikus, paskelbta recenzuojamame žurnale; susumuoja FDA patvirtintus ir potencialius terapinius šaltinius nuotaikos sutrikdymams."
+      },
+      "relevance_score": 4,
+      "study_type": "review",
+      "substances": [
+        "psilocybin",
+        "lsd",
+        "ketamine",
+        "other"
+      ],
+      "added_at": "2026-08-27T17:44:17.771269+00:00"
+    },
+    {
+      "title": "A Closer Look at Definium’s Phase 3 LSD for GAD Readout",
+      "url": "https://psychedelicalpha.com/news/a-closer-look-at-definiums-phase-3-lsd-for-gad-readout/",
+      "source": "Psychedelic Alpha",
+      "date": "2026-08-26",
+      "authors": [],
+      "doi": "",
+      "summaries": {
+        "en": "Definium Therapeutics' Phase 3 trial of LSD (DT120) for generalized anxiety disorder met its primary and key secondary endpoints. This represents the company's second Phase 3 readout for lysergamides in anxiety treatment.",
+        "sv": "Definium Therapeutics' fas 3-studie av LSD (DT120) mot generaliserat ångestsyndrom nådde primära och viktiga sekundära effektmål. Detta är företagets andra fas 3-resultat för lysergamider vid ångestbehandling.",
+        "no": "Definium Therapeutics' fase 3-studie av LSD (DT120) mot generalisert angstlidelse nådde primære og viktige sekundære endepunkter. Dette er selskapets andre fase 3-resultater for lysergamider ved angstbehandling.",
+        "da": "Definium Therapeutics' fase 3-studie af LSD (DT120) mod generaliseret angstlidelse nåede primære og vigtige sekundære endepunkter. Dette er virksomhedens andet fase 3-resultat for lysergamider ved angstbehandling.",
+        "fi": "Definium Therapeuticsin kolmannen vaiheen tutkimus LSD:stä (DT120) yleistynyttä ahdistuneisuushäiriötä vastaan saavutti ensisijaiset ja tärkeät toissijaiset päätetavoitteet. Tämä on yhtiön toinen kolmannen vaiheen tulos lysergamideista ahdistuneisuuden hoidossa.",
+        "is": "Fase 3 rannsókn Definium Therapeutics á LSD (DT120) fyrir almenna kvíða náði aðal- og helstu aukastoðum. Þetta er annar fase 3 niðurstaða fyrirtækisins fyrir lysergamíð við meðferð kvíða.",
+        "et": "Definium Therapeutics' III faasi uuringus LSD-ga (DT120) üldistunud ärevushäire vastu saavutati esmased ja olulised teisesed lõpp-punktid. See on ettevõtte teine III faasi tulem lysergamiidide kasutamisel ärevushäire ravi puhul.",
+        "lv": "Definium Therapeutics' III fāzes pētījumā ar LSD (DT120) vispārinātas trauksmes traucējuma ārstēšanai tika sasniegti primārie un galvenie sekundārie gala punkti. Šis ir uzņēmuma otrais III fāzes rezultāts lizergamīdiem trauksmes ārstēšanā.",
+        "lt": "Definium Therapeutics' III fazės tyrime su LSD (DT120) bendrai nerimui gydyti pasiekti pirminiai ir svarbūs antriniai galutiniai rodikliai. Tai antrasis bendrovės III fazės rezultatas lizergamidams nerimo gydymui."
+      },
+      "notable": true,
+      "notable_reasons": {
+        "en": "Phase 3 pivotal trial results for LSD (DT120) in GAD with primary and key secondary endpoints met",
+        "sv": "Phase 3 pivotal trial-resultat för LSD (DT120) vid GAD med primär och viktiga sekundära ändpunkter uppfyllda",
+        "no": "Phase 3 pivotal trial-resultater for LSD (DT120) ved GAD med primært og viktige sekundære endepunkter oppfylt",
+        "da": "Phase 3 pivotal trial-resultater for LSD (DT120) ved GAD med primært og vigtige sekundære endepunkter opnået",
+        "fi": "Phase 3 pivotal trial -tulokset LSD:lle (DT120) GAD:ssa primaarisen ja keskeiset toissijaiset päätetapahtumat saavutettu",
+        "is": "Phase 3 pivotal trial niðurstöður fyrir LSD (DT120) við GAD með aðal- og lykilaukakjörum uppfylltum",
+        "et": "Phase 3 pivotal trial tulemused LSD-le (DT120) GAD-is esmase ja peamiste teisese otspunkti täitega",
+        "lv": "Phase 3 pivotal trial rezultāti LSD (DT120) GAD gadījumā ar primāro un galvenajiem sekundārajiem galapunktiem sasniegti",
+        "lt": "Phase 3 pivotal trial rezultatai LSD (DT120) GAD atveju su pirminiais ir pagrindiniais antriniais galutiniais taškais pasiekti"
+      },
+      "relevance_score": 4,
+      "study_type": "rct",
+      "substances": [
+        "lsd"
+      ],
+      "added_at": "2026-08-27T17:44:17.771269+00:00"
     },
     {
       "title": "Salvinorin A in humans: A systematic review of pharmacokinetics, pharmacodynamics, and safety.",
@@ -730,6 +884,67 @@
         "lsd"
       ],
       "added_at": "2026-08-14T07:56:27.920057+00:00"
+    },
+    {
+      "title": "Psilocybin-Assisted Therapy in Psychiatry: A Narrative Clinical Review of Mechanisms, Therapeutic Applications, and Emerging Evidence (2025-2026).",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42652632/",
+      "source": "PubMed",
+      "date": "2026-08-12",
+      "authors": [
+        "Anghel Teodora",
+        "Cojocaru Adriana",
+        "Hogea Lavinia"
+      ],
+      "doi": "10.3390/jcm15166228",
+      "summaries": {
+        "en": "A narrative clinical review examining psilocybin-assisted therapy in psychiatry. The review synthesizes evidence on mechanisms of action, therapeutic applications across psychiatric conditions, and current empirical findings. Provides clinicians with an overview of this emerging treatment approach based on recent literature.",
+        "sv": "En narrativ klinisk överblick över psiklocybin-assisterad terapi inom psykiatrin. Granskningen sammanfattar mekanismer, terapeutiska tillämpningar vid olika psykiatriska tillstånd och aktuell evidens. Ger kliniker en översikt över denna växande behandlingsmetod baserad på senaste forskningen.",
+        "no": "En narrativ klinisk gjennomgang av psilocybin-assistert terapi innen psykiatri. Oversikten syntetiserer mekanismer, terapeutiske anvendelser ved psykiatriske lidelser og gjeldende empiri. Gir kliniker en oversikt over denne framvoksende behandlingsmetoden basert på nyere litteratur.",
+        "da": "En narrativ klinisk gennemgang af psilocybin-assisteret terapi inden for psykiatri. Gennemgangen sammenfatter virkningsmekanismer, terapeutiske anvendelser ved psykiatriske tilstande og aktuelle beviser. Giver klinikere overblik over denne voksende behandlingstilgang baseret på seneste forskning.",
+        "fi": "Narratiivinen klininen katsaus psilosybiini-avusteisesta terapiasta psykiatriassa. Katsaus kokoaa vaikutusmekanismeja, terapeuttisia soveltamiskohteita psykiatrisissa sairauksissa ja nykyistä näyttöä. Antaa klinikoille yleiskuvan tästä kehittyvästä hoitomenetelmästä viimeisen tutkimuksen perusteella.",
+        "is": "Skýring um psilocybín-aðstoðað meðferð í geðlæknisfræði. Yfirlit yfir virknikerfi, meðferðarnotkun við geðraskanir og núverandi vísindalegar niðurstöður. Veitir klínískum starfsmönnum yfirlit yfir þessa nýja meðferðaraðferð á grundvelli nýlegrar rannsókna.",
+        "et": "Narratiivne klinikaline ülevaade psilotsübiini-abil antavast teraapiast psühhiaatrias. Ülevaade kokkuvõtab toimemehhanisme, ravi rakendusi psühhiaatrilisel häiretel ja praeguseid tõendeid. Annab klinitsistidele ülevaate selle arenevast ravimeetodist praeguse kirjanduse alusel.",
+        "lv": "Naratīva klīniskā pārskats par psilocibīna-asistētu terapiju psihiātrijas jomā. Pārskats apkopo darbības mehānismus, terapeitiskos pielietojumus psihiatriskos stāvokļos un pašreizējos pierādījumus. Sniedz klīniciešiem pārskatu par šo augošo ārstēšanas pieeju pēc jaunākās literatūras.",
+        "lt": "Naratyvinė klininė apžvalga apie psilocinbino-pagalbinę terapiją psichiatrijoje. Apžvalga apibendrina veikimo mechanizmus, terapinius pritaikymus psichiatriniams sutrikimams ir šiuos duomenis. Suteikia klinicistams apžvalgą apie šį augantį gydymo būdą, remiantis naujausia literatūra."
+      },
+      "notable": false,
+      "notable_reasons": null,
+      "relevance_score": 4,
+      "study_type": "review",
+      "substances": [
+        "psilocybin"
+      ],
+      "added_at": "2026-08-27T17:44:17.771269+00:00"
+    },
+    {
+      "title": "Psychedelic integration beyond the verbal: participatory-imaginal processing as a hypothesis-generating therapeutic framework.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42656547/",
+      "source": "PubMed",
+      "date": "2026-08-12",
+      "authors": [
+        "Back Anthony L",
+        "Bosnak Robert"
+      ],
+      "doi": "10.3389/fpsyt.2026.1895181",
+      "summaries": {
+        "en": "Psilocybin therapy in cancer patients often produces vivid embodied experiences that resist verbal description. This article proposes participatory-imaginal processing as an integration approach that directly engages these non-verbal experiences without requiring translation into narrative, potentially allowing patients to re-access and consolidate psychedelic insights into lasting therapeutic touchstones.",
+        "sv": "Psylocybinterapi hos cancerpatienter framkallar ofta intensiva kroppsliga och imaginära upplevelser som är svåra att beskriva verbalt. Artikeln föreslår participatorisk-imaginär bearbetning som en integreringsmetod som direkt engagerar dessa icke-verbala erfarenheter utan att kräva omvandling till berättelse, vilket potentiellt kan hjälpa patienter att återkoppla och befästa psykedeliska insikter.",
+        "no": "Psilocybinterapi hos kreftpasienter frambringer ofte intense somatiske og imaginære opplevelser som er vanskelige å beskrive verbalt. Artikkelen foreslår deltakende-imaginær prosessering som en integreringsmetode som direkte engasjerer disse ikke-verbale erfaringene uten å kreve omgjøring til fortelling, og kan potensielt hjelpe pasienter å gjenta og konsolidere psykedeliske innsikter.",
+        "da": "Psilocybinterapi hos kræftpatienter fremkalder ofte intense kropslige og imaginære oplevelser, der er svære at beskrive verbalt. Artiklen foreslår deltager-imaginær processering som en integreringstilgang, der direkte engagerer disse ikke-verbale erfaringer uden at kræve omformning til fortælling, og kan potentielt hjælpe patienter med at gengenskabe og konsolidere psykeedeliske indsigter.",
+        "fi": "Psilosybiinihoidolla syöpäpotilailla syntyy usein voimakkaita kehollisia ja kuvitteellisia kokemuksia, joita on vaikea kuvata sanallisesti. Artikkeli ehdottaa osallistuvaa-imaginaarista prosessointia integraatiomenetelmäksi, joka suoraan sitoutuu näihin ei-verbaaleihin kokemuksiin ilman muuntamista kerronnaksi, mikä voi mahdollistaa potilaiden psykedeelisten näkemysten uudelleensaamiseen ja konsolidointiin.",
+        "is": "Psýlósýbín meðferð hjá krabbameinsjúklingum framkallar oft sterkar líkamleg og ímynduð upplifun sem erfitt er að lýsa orðum. Greinin leggur til samnýtingu og ímynduð vinnslu sem samþættingaraðferð sem beinir sér að þessum munnlausum reynslunum án þess að breyta þeim í sögur, sem gæti hugsanlega hjálpað sjúklingum að endurvinna og festa sálkirteisleg skilyrði.",
+        "et": "Psülotsibiini ravi vähihaigete patsientidel tekitab sageli viviivseid kehalisi ja kujutlusvõimega kogemusi, mida on raske sõnadega kirjeldada. Artikkel pakub osaline-imaginaarset töötlust integratsioonimeetodina, mis otseselt kaasab neid mitteverbal kogemusi ilma narratiiviks muundamiseta, võimaldades potentsiaalselt patsientidel taastada ja konsolideerida psühhedeelse ülevaate.",
+        "lv": "Psilo­cibīna terapija vēža pacientiem bieži izraisa dzīvas ķermeņa un iztēles pieredzes, kuras ir grūti aprakstīt verbāli. Raksts piedāvā dalībnieka-iztēles apstrādi kā integrācijas pieeju, kas tieši iesaista šīs neverbālās pieredzes bez konvertēšanas par stāstu, potenciāli ļaujot pacientiem atkārtoti piekļūt un konsolidēt psihodelisku ieskatus.",
+        "lt": "Psilocibino terapija vėžio ligonių dažnai sukelia ryšias somatines ir vaizduotės patirtis, kurias sunku aprašyti žodžiais. Straipsnis siūlo dalyvavimo-vaizduotės apdorojimą kaip integracijos metodą, tiesiogiai angažuojančią šias neverbalines patirtis be jų konvertavimo į pasakojimą, potencialiai leidžiančią ligoniams iš naujo susigrąžinti ir konsoliduoti psichedelinį supratimą."
+      },
+      "notable": false,
+      "notable_reasons": null,
+      "relevance_score": 3,
+      "study_type": "other",
+      "substances": [
+        "psilocybin"
+      ],
+      "added_at": "2026-08-27T17:44:17.771269+00:00"
     },
     {
       "title": "Smooth Sailing: Definium’s LSD Voyage Hits Primary and Key Secondary Endpoints in GAD",
@@ -1733,190 +1948,6 @@
       "study_type": "review",
       "substances": [
         "psilocybin"
-      ],
-      "added_at": "2026-08-01T12:00:00+00:00"
-    },
-    {
-      "title": "Toward a nuanced framework for the medical development of ibogaine and its analogues and derivatives: implications for psychopharmacology.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42400152/",
-      "source": "PubMed",
-      "date": "2026-Aug",
-      "authors": [
-        "Verrico Christopher D",
-        "Averill Lynnette A",
-        "Moore Cameron J"
-      ],
-      "doi": "10.1080/17460441.2026.2693144",
-      "summaries": {
-        "en": "This review proposes a framework for developing ibogaine analogs and derivatives as therapeutics for substance use disorders, trauma, mood disorders, and suicidality. Two strategies are discussed: preserving ibogaine's broad polypharmacology while reducing safety risks, or creating selective analogs targeting specific conditions like opioid use disorder or PTSD. The authors evaluate evidence for each approach, discuss trade-offs in safety and efficacy, and emphasize pharmacogenetic variability in treatment response.",
-        "sv": "Denna översikt presenterar ett ramverk för utveckling av ibogananaloga och derivat för behandling av substansmissbruk, trauma, stämningsstörningar och suicidalitet. Två strategier diskuteras: bevara ibogains breda farmakologi samtidigt som säkerhetsproblem minskas, eller skapa selektiva analoga riktade mot specifika tillstånd som opioiddisorder eller PTSD. Författarna utvärderar evidens för båda tillvägagångssätten och betonar farmakogenetisk variation i behandlingssvar.",
-        "no": "Denne oversikten presenterer et rammeverk for utvikling av ibogainanaloga og derivater som behandling for substansmisbruk, traume, stemningslidelser og suisidalitet. To strategier diskuteres: bevare ibogeins brede farmakologi samtidig som sikkerhetsproblemer reduseres, eller skape selektive analoga rettet mot spesifikke tilstander som opioiddisorder eller PTSD. Forfatterne evaluerer evidens for begge tilnærminger og understreker farmakogenetisk variasjon i behandlingsrespons.",
-        "da": "Denne oversigt præsenterer en ramme for udvikling af ibogainanaloga og derivater som behandling for misbrug af rusmidler, traume, humørstørnelser og selvmordstanker. To strategier diskuteres: bevare ibogeins brede farmakologi mens sikkerhedsrisici mindskes, eller skabe selektive analoga rettet mod specifikke tilstande som opioidmisbrug eller PTSD. Forfatterne evaluerer evidens for begge tilgange og understreger farmakogenetisk variation i behandlingsrespons.",
-        "fi": "Tämä katsaus esittelee kehikon ibogaiinin analogien ja derivaattien kehittämiseen hoitokeinona päihteidenkäytöshäiriöihin, traumaan, mielialahäiriöihin ja itsemurhaisuuteen. Kaksi strategiaa käsitellään: ibogaiinin laajan farmakologian säilyttäminen turvallisuusriskejä pienentäen tai selektiivisten analogien kehittäminen kohdennettuihin sairauksiin, kuten opioidihäiriöihin tai PTSD:hen. Kirjoittajat arvioivat molempien lähestymistapojen näyttöä ja korostavat farmakogeneettiset erot hoitovasteessa.",
-        "is": "Þessi yfirlit setur fram ramma fyrir þróun ibogaín-analogra og afleiðna sem meðferð fyrir ofnotkun vímuefna, áfalli, geðröskunar og sjálfsmorðshugsun. Tvær aðferðir eru ræddar: varðveita víðtæka lyfjafræði ibogaíns á meðan áhættu á öryggi er minnkað, eða búa til sértæka analög miðuð að sérstökum aðstæðum eins og opioidaröskunum eða PTSD. Höfundar meta sönnunargögn fyrir báðum aðferðum og leggja áherslu á lyfjagenetíska breytileika í meðferðarsvörun.",
-        "et": "See ülevaade esitab raamistiku ibogaiini analoogide ja derivaatide väljatöötamiseks ravimitena ained, traumad, meeleoluhäired ja enesetapuoht. Käsitletakse kahte strateegiat: ibogaiini laia farmakoloogia säilitamine ohutusriskide vähendamisel või selektiivsete analoogide loomine spetsiifiliste seisundite jaoks nagu opioidihäire või PTSD. Autorid hindavad mõlema lähenemise tõendeid ja rõhutavad farmakogeeniliste erinevuste rolli ravivastuses.",
-        "lv": "Šis pārskats iepazīstina ar ietvaru ibogaīna analogu un atvasinājumu izstrādei kā terapijai vielu izmantošanas traucējumiem, traumai, garastāvokļa traucējumiem un pašnāvniecībai. Tiek apspriesti divi stratēģijas: saglabāt ibogaīna plašu farmakoloģiju, vienlaikus mazinot drošības riskus, vai veidot selektīvus analāgus, orientētus uz specifiskiem stāvokļiem, piemēram, opiātu traucējumiem vai PTSD. Autori novērtē pierādījumus abiem pieejām un uzsver farmakoģenētisku mainību ārstēšanas atbildē.",
-        "lt": "Šis apžvalga pateikia ibogaino analogų ir darinių plėtros sistemą psichotropinių medžiagų vartojimo sutrikiams, traumai, nuotaikos sutrikiams ir savižudybei gydyti. Aptariami du strategijos: išsaugoti ibogaino platų farmakokinetinį poveikį, mažinant saugumo riziką, arba kurti selektyvius analōgus, skirtas specifinėms būsenoms, tokioms kaip opioido sutrikimas ar PTSD. Autoriai vertina abiejų požiūrių įrodymus ir pabrėžia farmakogenetinį svarbumą gydymo atsakymui."
-      },
-      "notable": false,
-      "notable_reasons": null,
-      "relevance_score": 4,
-      "study_type": "review",
-      "substances": [
-        "ibogaine"
-      ],
-      "added_at": "2026-08-01T12:00:00+00:00"
-    },
-    {
-      "title": "Rapid clinical improvement after intravenous ketamine in an adolescent with treatment-resistant depression, severe obesity, and pseudo-Cushing syndrome: A case report.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42398266/",
-      "source": "PubMed",
-      "date": "2026-Aug",
-      "authors": [
-        "Vivekanand B",
-        "Sethi Kanika",
-        "Sharma Eesha"
-      ],
-      "doi": "10.1016/j.ajp.2026.105077",
-      "summaries": {
-        "en": "Case report documenting rapid clinical improvement in an adolescent with treatment-resistant depression, severe obesity, and pseudo-Cushing syndrome following intravenous ketamine administration. The report illustrates ketamine's potential therapeutic effect in a complex clinical presentation unresponsive to conventional treatments.",
-        "sv": "Fallrapport som dokumenterar snabb klinisk förbättring hos en ungdom med behandlingsresistent depression, svår fetma och pseudo-Cushings syndrom efter intravenös ketaminadministration. Rapporten illustrerar psykedelikas terapeutiska potential i en komplex klinisk presentation som inte svarar på konventionell behandling.",
-        "no": "Kasusrapport som dokumenterer rask klinisk forbedring hos en ungdom med behandlingsresistent depresjon, alvorlig fedme og pseudo-Cushings syndrom etter intravenøs ketaminadministrasjon. Rapporten illustrerer psykedelikaets terapeutiske potensial i en kompleks klinisk presentasjon som ikke responderer på konvensjonell behandling.",
-        "da": "Kasusrapport der hurtig klinisk forbedring dokumenteres hos en ungdom med behandlingsresistent depression, svær overvægt og pseudo-Cushings syndrom efter intravenøs ketaminadministration. Rapporten illustrerer psykedelikas terapeutiske potentiale i en kompleks klinisk præsentation, som ikke reagerer på konventionel behandling.",
-        "fi": "Tapausraportti, joka dokumentoi nopean kliinisen paranemisen nuorella, jolla oli hoitoresistentin masennuksen, vakavan lihavuuden ja pseudo-Cushingsin oireyhtymän jälkeen, kun hänelle annettiin intravenöösä ketimiinia. Raportti osoittaa psykedeelikkojen terapeuttisen potentiaalin monimutkaisessa kliinisessä esityksessä, joka ei reagoi tavanomaisen hoidon.",
-        "is": "Tilfellaskýrsla sem skjalfestir skjóta klíníska bætingu hjá unglingi með meðferðarþolnu þunglyndi, alvarlegu offitu og gervi-Cushings heilkenni eftir eirðarækt ketamíns. Skýrslan sýnir hugsanlega heilþerapeitiska áhrif sálfræðilegra efna í flóknu klínísku tilfelli sem ekki brást við venjulegri meðferð.",
-        "et": "Juhtumi aruanne, mis dokumenteerib kiiret kliinilist paranemist noorukil, kellel oli ravi­vastupidav depressioon, raske ülekaalulisus ja pseudo-Cushingu sündroom pärast intraveenoosset ketamiini manustamist. Aruanne illustreerib psühhedeelikumide terapeudi potentsiaali keerulises kliinilises esituses, mis ei reageeri tavapärasele ravile.",
-        "lv": "Klīnisks gadījums, kas dokumentē strauju klīnisku uzlabošanos pusaudzim ar rezistenti depresiju, smaganu aptaukošanos un pseudo-Kushinga sindromu pēc intravenoza ketamīna ievadīšanas. Pārskats ilustrē psihodelikumu terapeitisko potenciālu sarežģītā klīniskā gadījumā, kas nereaģē uz konvencionālu ārstēšanu.",
-        "lt": "Klinikinė ataskaitą, kurioje dokumentuojamas greitas klinis pagerėjimas paaugliu su terapijai atsparią depresija, sunkiu nutukimu ir pseudo-Cushingo sindromu po intraveninio ketamino skyrimo. Ataskaitą rodo psichedelinių medžiagų terapinį potencialą sudėtingame klininame atvejy, neatsakančiame į įprastinę gydymą."
-      },
-      "notable": false,
-      "notable_reasons": null,
-      "relevance_score": 3,
-      "study_type": "case_report",
-      "substances": [
-        "ketamine"
-      ],
-      "added_at": "2026-08-01T12:00:00+00:00"
-    },
-    {
-      "title": "Acute and post-acute neurobehavioral responses to lysergic acid diethylamide in healthy subjects: a randomized controlled study.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42315644/",
-      "source": "PubMed",
-      "date": "2026-Aug",
-      "authors": [
-        "Calder Abigail E",
-        "Diehl Vincent J",
-        "Lietz Morten P"
-      ],
-      "doi": "10.1038/s41386-026-02454-7",
-      "summaries": {
-        "en": "Acute and post-acute neurobehavioral responses to lysergic acid diethylamide in healthy subjects: a randomized controlled study.",
-        "sv": "Acute and post-acute neurobehavioral responses to lysergic acid diethylamide in healthy subjects: a randomized controlled study.",
-        "no": "Acute and post-acute neurobehavioral responses to lysergic acid diethylamide in healthy subjects: a randomized controlled study.",
-        "da": "Acute and post-acute neurobehavioral responses to lysergic acid diethylamide in healthy subjects: a randomized controlled study.",
-        "fi": "Acute and post-acute neurobehavioral responses to lysergic acid diethylamide in healthy subjects: a randomized controlled study.",
-        "is": "Acute and post-acute neurobehavioral responses to lysergic acid diethylamide in healthy subjects: a randomized controlled study.",
-        "et": "Acute and post-acute neurobehavioral responses to lysergic acid diethylamide in healthy subjects: a randomized controlled study.",
-        "lv": "Acute and post-acute neurobehavioral responses to lysergic acid diethylamide in healthy subjects: a randomized controlled study.",
-        "lt": "Acute and post-acute neurobehavioral responses to lysergic acid diethylamide in healthy subjects: a randomized controlled study."
-      },
-      "notable": false,
-      "notable_reasons": null,
-      "relevance_score": 4,
-      "study_type": "rct",
-      "substances": [
-        "lsd"
-      ],
-      "added_at": "2026-08-01T12:00:00+00:00"
-    },
-    {
-      "title": "Barriers and Facilitators for Psychedelic Research and Regulation in Brazil: Insights From Diverse Stakeholders.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42288429/",
-      "source": "PubMed",
-      "date": "2026-Aug",
-      "authors": [
-        "Guimarães Anna Luiza",
-        "Beserra Fernando R",
-        "Cruz Lucas"
-      ],
-      "doi": "10.1016/j.clinthera.2026.05.012",
-      "summaries": {
-        "en": "Qualitative interview study (n=26) examining barriers, facilitators, and stakeholder perspectives on psychedelic research and regulation in Brazil. Diverse participants included Indigenous leaders, clinicians, policymakers, and activists. Thematic analysis identified four barriers (accessibility, regulation, limited knowledge, risks), three facilitators (innovation need, scientific advancement, legal loopholes), and four perspectives (ancestral knowledge integration, scientific rigor, user autonomy, social benefits).",
-        "sv": "Kvalitativ intervjustudie (n=26) som undersöker hinder, möjliggörare och intressentperspektiv på psykedelikaforskning och reglering i Brasilien. Deltagarna inkluderade ursprungsfolksledare, kliniker, beslutsfattare och aktivister. Tematisk analys identifierade fyra hinder (tillgänglighet, reglering, begränsad kunskap, risker), tre möjliggörare (innovationsbehov, vetenskapliga framsteg, juridiska luckor) och fyra perspektiv (integration av traditionell kunskap, vetenskaplig noggrannhet, användarautonomi, sociala fördelar).",
-        "no": "Kvalitativ intervjustudie (n=26) som undersøker barrierer, fasiliterende faktorer og interessenters perspektiver på psykedelikaforskning og regulering i Brasil. Deltakerne inkluderte urfolk-ledere, kliniker, beslutningstakere og aktivister. Tematisk analyse identifiserte fire barrierer (tilgjengelighet, regulering, begrenset kunnskap, risiko), tre fasiliterende faktorer (innovasjonsbehov, vitenskapelige fremskritt, juridiske smutthull) og fire perspektiver (integrering av tradisjonell kunnskap, vitenskapelig strenghet, brukerautonomi, sosiale fordeler).",
-        "da": "Kvalitativ interviewstudie (n=26) der undersøges barrierer, facilitatorer og interessenters perspektiver på psykedelikaforskning og regulering i Brasilien. Deltagere inkluderede oprindelige ledere, klinikere, politikere og aktivister. Tematisk analyse identificerede fire barrierer (tilgængelighed, regulering, begrænset viden, risici), tre facilitatorer (innovationsbehov, videnskabelige fremskridt, juridiske smuthuller) og fire perspektiver (integration af traditionel viden, videnskabelig stringens, brugerautonomi, sociale fordele).",
-        "fi": "Kvalitatiivinen haastattelututkimus (n=26), jossa tutkittiin esteitä, edistäjiä ja sidosryhmien näkemyksiä psykedeelejä koskevan tutkimuksen ja säätelyn osalta Brasiliassa. Osallistujia olivat alkuperäiskansojen johtajat, kliinikot, päättäjät ja aktivistit. Temaattinen analyysi tunnisti neljä estettä (saatavuus, säätely, rajallinen tieto, riskit), kolme edistäjää (innovaation tarve, tieteelliset edistysaskeleet, oikeudelliset porsaanreiät) ja neljä näkemystä (perinteisen tiedon integraatio, tieteellinen tarkkuus, käyttäjien autonomia, sosiaaliset hyödyt).",
-        "is": "Eigindleiðin viðtalsrannsókn (n=26) sem kannar hindranir, auðkatalanir og sjónarmið hagsmunaaðila um rannsóknir og reglusetningu psykedalíka í Brasilíu. Þátttakendur voru meðal annars leiðtogar frumbyggja, klínikusir, stjórnmálamenn og aðgerðarsinnar. Þemagreiningu kom í ljós fjórir hindranir (aðgengi, reglusetning, takmarkaðar þekkingar, áhættur), þrír auðkatalanir (þörf fyrir nýjungar, vísindalegir framfarir, lagaleg gat) og fjórir sjónarmið (samþætting eldri þekkingar, vísindaleg strangleiki, frelsi notenda, þekkt félagsleg ávinningur).",
-        "et": "Kvalitatiivne intervjuuuuringus (n=26), mis uuriti takistusi, soodustajaid ja huvitatud osapoolte seisukohti psühhedeelikutest teaduses ja regulatsioonis Brasiilias. Osalejad olid algne rahva juhid, kliinikusid, poliitikud ja aktivistid. Temaatiline analüüs leidis neli takistust (juurdepääsetavus, regulatsioon, piiratud teadus, riskid), kolm soodustajat (innovatsiooni vajadus, teaduslik areng, õiguslikud augud) ja neli vaatenurka (traditsioonilise teaduse integreerimine, teaduslik rangus, kasutaja autonoomia, sotsiaalse kasu).",
-        "lv": "Kvalitatīva interviju pētījums (n=26), kurā pētītas barjeras, veicināšanas faktori un ieinteresēto personu viedokļi par psihedeliku pētniecību un regulējumu Brazīlijā. Dalībnieki bija vietējie vadītāji, kliniķi, politiķi un aktivisti. Tematiskā analīze identificēja četras barjeras (pieejamību, regulējumu, ierobežotās zināšanas, riskus), trīs veicināšanas faktorus (inovācijas nepieciešamību, zinātniski sasniegumi, juridiskās spraugas) un četrus viedokļus (tradicionālo zināšanu integrāciju, zinātnisko stingrību, lietotāju autonomiju, konkrētas sociālās priekšrocības).",
-        "lt": "Kokybinis interviu tyrimas (n=26), tyrinėjantis kliūtis, sąlygojančius veiksnius ir suinteresuotųjų šalių požiūrį į psichedelikus susijusį mokslinį tyrimą ir reguliavimą Brazilijoje. Dalyviai buvo savigalvų grupių vadovai, klinikai, politikai ir aktyvistai. Teminė analizė nustatė keturis barjerus (prieinamumą, reguliavimą, ribotas žinias, rizikus), tris sąlygojančius veiksnius (inovacijos poreikį, mokslinius žingsnius, teisinius spragas) ir keturis požiūrius (tradicinio žinojimo integravimą, mokslinį griežtumą, vartotojo autonomiją, apčiuopiamas socialines naudas)."
-      },
-      "notable": false,
-      "notable_reasons": null,
-      "relevance_score": 4,
-      "study_type": "qualitative",
-      "substances": [
-        "other"
-      ],
-      "added_at": "2026-08-01T12:00:00+00:00"
-    },
-    {
-      "title": "Ketamine and Evolving Neuroplasticity.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42287566/",
-      "source": "PubMed",
-      "date": "2026-Aug",
-      "authors": [
-        "Prabakar Angel"
-      ],
-      "doi": "10.1007/s40261-026-01565-9",
-      "summaries": {
-        "en": "This review synthesizes preclinical and clinical evidence on ketamine's time-dependent neuroplastic effects in treating mood disorders. Unlike traditional antidepressants, ketamine acts via NMDA receptor antagonism, triggering glutamatergic signaling that promotes synaptic plasticity and rapid symptom relief. The review examines molecular changes including BDNF signaling, mTOR pathway activation, and AMPA receptor modulation, and correlates these with clinical outcomes in mood, cognition, and functioning.",
-        "sv": "Denna översikt sammanfattar pre- och kliniska studier om ketamins tidsberoende neuroplastiska effekter vid behandling av stämningsstörningar. Till skillnad från traditionella antidepressiva verkar ketamin via NMDA-receptorblockning och utlöser glutamaterg signalering som främjar synaptisk plasticitet och snabb symtomlindring. Översikten undersöker molekylära förändringar inklusive BDNF-signalering, mTOR-vägsaktivering och AMPA-receptormodulering, och korrelerar dessa med kliniska utfall.",
-        "no": "Denne oversikten syntetiserer pre- og kliniske studier om ketamins tidsavhengige neuroplastiske effekter ved behandling av stemningslidelser. I motsetning til tradisjonelle antidepressiva virker ketamin via NMDA-reseptorblokade og utløser glutamatergisk signalering som fremmer synaptisk plastisitet og rask symptomlettelses. Oversikten undersøker molekylære endringer inkludert BDNF-signalering, mTOR-veisaktivering og AMPA-reseptormodulering.",
-        "da": "Denne oversigt syntetiserer pre- og kliniske studier af ketamins tidsafhængige neuroplastiske effekter ved behandling af stemningsforstyrrelser. I modsætning til traditionelle antidepressiva virker ketamin via NMDA-receptorblokade og udløser glutamatergisk signalering, der fremmer synaptisk plasticitet og hurtig symptombedring. Oversigten undersøger molekylære ændringer herunder BDNF-signalering, mTOR-vejaktivering og AMPA-receptormodulering.",
-        "fi": "Tämä katsaus syntetisoi esikliinisiä ja kliinisiä tutkimuksia ketamiinin aikariippuvaisista neuroplastisista vaikutuksista mielialahäiriöiden hoidossa. Toisin kuin perinteiset masennuslääkkeet, ketamiini vaikuttaa NMDA-reseptoriestolla ja laukaisee glutamaattisignalointia, joka edistää synaptista plastisuutta ja nopeaa oireenlievitystä. Katsaus tutkii molekyylimuutoksia mukaan lukien BDNF-signalointi, mTOR-polun aktivointi ja AMPA-reseptorin modulointi.",
-        "is": "Þessi yfirlitið samanstæður fyrir- og klínískar rannsóknir á tímabundnum neuroplastískum áhrifum ketamíns við meðferð á geðrænum truflunum. Ólíkt hefðbundnum þunglyndslyfjum virkar ketamín með NMDA-viðtakahemlun og virkjar glutamötergja merkingu sem stuðlar að synaptískri sveigjanleika og hröðum einkennaúlgum. Yfirlitið rannsaka sameindabreytingar þar sem talið er BDNF-merking, mTOR-slóðavirknun og AMPA-viðtaka breytingar.",
-        "et": "See ülevaade ühendab eelkliinilisi ja kliinilisi uuringuid ketamiini ajast sõltuvate neuroplastiliste mõjude kohta meeleoluhäirete ravi korral. Erinevalt tavapärastest antidepressantidest toimib ketamiin NMDA-retseptori antagonismi kaudu, mis käivitab glutamaatergse signaliseerimise, edendades sünaptilise plastiilsuse ja kiire sümptomite leevendamist. Ülevaade uurib molekulaarseid muutusi, sealhulgas BDNF-signaliseerimist, mTOR-raja aktiveerimist ja AMPA-retseptori moduleerimist.",
-        "lv": "Šis pārskats apkopo preklīniskus un klīniskus pētījumus par ketamīna laika atkarīgajiem neiroplas­tiskajiem efektiem garastāvokļa traucējumu ārstēšanā. Atšķirībā no tradicionālajiem antidepresantiem ketamīns darbojas, antagonizējot NMDA receptorus un izraisot glutamātergisko signalizāciju, kas veicina sinaptisku plastisku un ātrā simptomātisku atvieglošanu. Pārskats pēta molekulāras izmaiņas, tostarp BDNF signalizāciju, mTOR ceļa aktivāciju un AMPA receptoru modulāciju.",
-        "lt": "Šis apžvalga sintetina preklinikinius ir klinikiniais tyrimais apie ketamino laiko priklausomas neuroplastines įtakas nuotaikos sutrikdymams gydyti. Skirtingai nei tradiciniai antidepresantai, ketaminas veikia per NMDA receptorių antagonizmą ir suaktyvina glutamatergini signalizavimą, kuris skatina sinaptinį plastiškumą ir greitą simptomų palengvinimą. Apžvalga nagrinėja molekulinius pokyčius, įskaitant BDNF signalizavimą, mTOR kelio aktyvinimą ir AMPA receptorių moduliavimą."
-      },
-      "notable": false,
-      "notable_reasons": null,
-      "relevance_score": 4,
-      "study_type": "review",
-      "substances": [
-        "ketamine"
-      ],
-      "added_at": "2026-08-01T12:00:00+00:00"
-    },
-    {
-      "title": "AMPA receptor modulation in depression: from molecular mechanisms of plasticity to therapeutic translation.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42284011/",
-      "source": "PubMed",
-      "date": "2026-Aug",
-      "authors": [
-        "Ziemichód Wojciech",
-        "Kajka Natalia",
-        "Kister Klaudia"
-      ],
-      "doi": "10.1007/s43440-026-00871-5",
-      "summaries": {
-        "en": "AMPA receptor modulators, particularly AMPAkines, show promise for rapid-acting depression treatment. These positive allosteric modulators enhance glutamatergic signaling and BDNF expression. Preclinical studies demonstrate antidepressant effects with low-impact compounds offering favorable safety profiles, though seizure risk exists with high-impact variants. Limited clinical trials support efficacy, but translational challenges remain: narrow therapeutic windows, suboptimal pharmacokinetics, and weak animal model predictivity.",
-        "sv": "AMPA-receptormodulatorer, särskilt AMPAkiner, visar potential som snabbverkande antidepressiva. Dessa positiva allosteriska modulatorer förstärker glutamaterg signalering och BDNF-uttryck. Prekliniska studier visar antidepressiv effekt med låginverkanspreparat som erbjuder god säkerhetsprofil, men höginerkanspreparat medför anfallsrisk. Begränsade kliniska försök stödjer effektivitet, men translationella utmaningar återstår: smala terapeutiska fönster, suboptimal farmakokinetik och svag prognosprediktivitet för djurmodeller.",
-        "no": "AMPA-receptormodulatorer, særlig AMPAkiner, viser lovende resultater for raskt virkende antidepressiva. Disse positive allosteriske modulatorer forbedrer glutamaterg signalering og BDNF-uttrykk. Prekliniske studier viser antidepressiv effekt med laveffekt-forbindelser som tilbyr god sikkerhetsprofil, men høyeffekt-forbindelser har anfallsrisiko. Begrenset kliniske studier støtter effektivitet, men translasjonsutfordringer gjenstår: smalt terapeutisk vindu, suboptimal farmakokinetikk og svak prognosevaliditet.",
-        "da": "AMPA-receptormodulatorer, især AMPAkiner, viser lovende resultater for hurtigt virkende antidepressiva. Disse positive allosteriske modulatorer forbedrer glutamaterg signalering og BDNF-udtryk. Præ-kliniske studier viser antidepressiv effekt med lavimpakt-forbindelser, der tilbyder god sikkerhedsprofil, mens højimpakt-forbindelser har krampefaktor. Begrænsede kliniske forsøg støtter effektivitet, men translationelle udfordringer forbliver: snævert terapeutisk vindue, suboptimal farmakokinetik og svag prognosevaliditet.",
-        "fi": "AMPA-reseptorin modulaattorit, erityisesti AMPAkinit, osoittavat lupauksia nopeasti vaikuttavina masennuslääkkeinä. Nämä positiiviset allosteerisesti vaikuttavat modulaattorit parantavat glutamaatergista signalointia ja BDNF-ilmentymistä. Prekliiniset tutkimukset osoittavat masennusta lieventävää vaikutusta matalan vaikutuksen yhdisteillä, jotka tarjoavat hyvän turvallisuusprofiilin, kun taas korkeamman vaikutuksen yhdisteillä on kouristusriski. Rajalliset kliiniset tutkimukset tukevat tehokkuutta, mutta käännöshaasteet jäävät: kapea terapeuttinen ikkuna, suboptimaalinen farmakokinetiikka ja heikko ennusteen validiteetti.",
-        "is": "AMPA-viðtakastýringar, sérstaklega AMPAkinir, sýna fyrirheit sem hraðverkandi þunglyndilyf. Þessir jákvæðu allósterísku stýringar bæta glutamaterga merkingarflutning og BDNF-tjáningu. Forrannsóknir sýna þunglyndisvækkandi áhrif með lágum áhrifum efnasamböndum sem bjóða upp á góða öryggissnið, en há áhrifsefn bera hættu á krampum. Takmörkuð klínísk tilraun styðja verkun, en þýðingarkröf standa eftir: þröngt terapeutískt glugginn, ófullnægjandi farmakokóetík og veik spálíkingagildi.",
-        "et": "AMPA-retseptorite modulaatorid, eelkõige AMPAkinid, näitavad lubadust kiiresti toimivate depressiooniravimitena. Need positiivsed allosteerilised modulaatorid parandavad glutamaatergilist signaliseerimist ja BDNF-ekspressiooni. Prekliinilised uuringud näitavad depressioonivastast toimet madala mõjuga ühendetel, mis pakuvad head ohutusprofiili, kuid kõrge mõjuga ühendeil on krambi risk. Piiratud kliinilised uuringud toetavad tõhusust, kuid tõlkimisprobleemid jäävad: kitsas terapeeutiline aken, suboptimaalne farmakokineetika ja nõrk prognoosi kehtivus.",
-        "lv": "AMPA receptoru modulatori, īpaši AMPAkinīni, parāda solījumu kā ātri darbojošies antidepresanti. Šie pozitīvie alosteriskie modulatori uzlabo glutamaterģisko signalizēšanu un BDNF ekspresiju. Preklīniskie pētījumi parāda antidepresīvu iedarbību ar zema smaguma savienojumiem, kas piedāvā labvēlīgu drošības profilu, taču augsta smaguma savienojumiem ir krampju risks. Ierobežoti klīniskie pētījumi apstiprina efektivitāti, bet paliek tulkošanas izaicinājumi: šaurs terapeitiskais logs, nepietiekama farmakokinētika un vāja prognozes validitāte.",
-        "lt": "AMPA receptorių moduliatoriai, ypač AMPAkinai, rodo žadą kaip greitai veikiantys antidepresantai. Šie teigiami alosteriniai moduliatoriai sustiprina glutamaaterginį signalizavimą ir BDNF ekspresijos padidėjimą. Preklinikiai tyrimai parodo antidepresantinį efektą su mažo poveikio junginiais, kurie siūlo gerą saugumo profilį, tačiau aukšto poveikio junginiai turi seizūros riziką. Riboti klinikinaiai tyrimai patvirtina veiksmingumą, bet lieka vertimo iššūkiai: siauras terapinis langas, suboptimali farmakokinetika ir silpna prognozės validumas."
-      },
-      "notable": false,
-      "notable_reasons": null,
-      "relevance_score": 4,
-      "study_type": "review",
-      "substances": [
-        "ketamine"
       ],
       "added_at": "2026-08-01T12:00:00+00:00"
     }

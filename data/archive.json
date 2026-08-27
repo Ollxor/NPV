@@ -1,6 +1,125 @@
 {
   "items": [
     {
+      "title": "Psilocybin-Assisted Therapy in Psychiatry: A Narrative Clinical Review of Mechanisms, Therapeutic Applications, and Emerging Evidence (2025-2026).",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42652632/",
+      "source": "PubMed",
+      "date": "2026-08-12",
+      "authors": [
+        "Anghel Teodora",
+        "Cojocaru Adriana",
+        "Hogea Lavinia"
+      ],
+      "doi": "10.3390/jcm15166228",
+      "summary_en": "A narrative clinical review examining psilocybin-assisted therapy in psychiatry. The review synthesizes evidence on mechanisms of action, therapeutic applications across psychiatric conditions, and current empirical findings. Provides clinicians with an overview of this emerging treatment approach based on recent literature.",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "review",
+      "substances": [
+        "psilocybin"
+      ],
+      "added_at": "2026-08-27T17:44:17.771269+00:00"
+    },
+    {
+      "title": "Efficacy and tolerability of ketamine in moderate to severe obsessive-compulsive disorder: a systematic review.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42649323/",
+      "source": "PubMed",
+      "date": "2026-08-27",
+      "authors": [
+        "Eghdami Shayan",
+        "Boroon Mahsa",
+        "Keshavarz-Akhlaghi Amir-Abbas"
+      ],
+      "doi": "10.1007/s00213-026-07155-z",
+      "summary_en": "Systematic review of 15 studies (3 RCTs, 118 participants) examining ketamine for treatment-resistant OCD. Single-dose IV ketamine (0.5 mg/kg) produced 50-60% response rates but benefits were transient. Combined ketamine with exposure-response prevention showed sustained remission over weeks-months. Safety concerns included delayed dysphoria and suicidal ideation 24-48 hours post-infusion. Ketamine shows promise as adjunct to behavioral therapy rather than monotherapy.",
+      "notable": true,
+      "notable_reason": "Systematic review synthesizing 15 studies (including 3 RCTs) with n=118; identifies novel safety signal (delayed dysphoria/suicidality) and synergistic effect with behavioral therapy.",
+      "study_type": "review",
+      "substances": [
+        "ketamine"
+      ],
+      "added_at": "2026-08-27T17:44:17.771269+00:00"
+    },
+    {
+      "title": "Next-Generation Pharmacotherapies for Unipolar Mood Disorders: A Leading Article on Phase II/III Drug Development Across Diverse Mechanisms.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42645703/",
+      "source": "PubMed",
+      "date": "2026-08-26",
+      "authors": [
+        "King Alana",
+        "Hardy Morgan",
+        "Rhee Taeho Greg"
+      ],
+      "doi": "10.1007/s40263-026-01330-8",
+      "summary_en": "This review examines Phase II/III clinical trials for novel mood disorder treatments, noting that ~30% of patients don't respond to standard antidepressants. Following FDA approvals of esketamine and brexanolone in 2019, research has shifted toward glutamatergic, GABAergic, ion channel, and psychedelic mechanisms. Analysis of 24 investigational compounds shows an expanding therapeutic landscape beyond traditional monoaminergic approaches.",
+      "notable": true,
+      "notable_reason": "Comprehensive review of Phase II/III clinical trials across novel mechanisms including psychedelics, published in a peer-reviewed venue; synthesizes FDA-approved and pipeline therapeutics for mood disorders.",
+      "study_type": "review",
+      "substances": [
+        "psilocybin",
+        "lsd",
+        "ketamine",
+        "other"
+      ],
+      "added_at": "2026-08-27T17:44:17.771269+00:00"
+    },
+    {
+      "title": "A Closer Look at Definium’s Phase 3 LSD for GAD Readout",
+      "url": "https://psychedelicalpha.com/news/a-closer-look-at-definiums-phase-3-lsd-for-gad-readout/",
+      "source": "Psychedelic Alpha",
+      "date": "2026-08-26",
+      "authors": [],
+      "doi": "",
+      "summary_en": "Definium Therapeutics' Phase 3 trial of LSD (DT120) for generalized anxiety disorder met its primary and key secondary endpoints. This represents the company's second Phase 3 readout for lysergamides in anxiety treatment.",
+      "notable": true,
+      "notable_reason": "Phase 3 pivotal trial results for LSD (DT120) in GAD with primary and key secondary endpoints met",
+      "study_type": "rct",
+      "substances": [
+        "lsd"
+      ],
+      "added_at": "2026-08-27T17:44:17.771269+00:00"
+    },
+    {
+      "title": "Psychedelic integration beyond the verbal: participatory-imaginal processing as a hypothesis-generating therapeutic framework.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42656547/",
+      "source": "PubMed",
+      "date": "2026-08-12",
+      "authors": [
+        "Back Anthony L",
+        "Bosnak Robert"
+      ],
+      "doi": "10.3389/fpsyt.2026.1895181",
+      "summary_en": "Psilocybin therapy in cancer patients often produces vivid embodied experiences that resist verbal description. This article proposes participatory-imaginal processing as an integration approach that directly engages these non-verbal experiences without requiring translation into narrative, potentially allowing patients to re-access and consolidate psychedelic insights into lasting therapeutic touchstones.",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "other",
+      "substances": [
+        "psilocybin"
+      ],
+      "added_at": "2026-08-27T17:44:17.771269+00:00"
+    },
+    {
+      "title": "Pilot study comparing the effects of high dose THC to high dose psilocybin and placebo in the set and setting of a classic psychedelic therapy session.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42649324/",
+      "source": "PubMed",
+      "date": "2026-08-27",
+      "authors": [
+        "Barrett Frederick S",
+        "Wolinsky David",
+        "Daily Zach"
+      ],
+      "doi": "10.1007/s00213-026-07138-0",
+      "summary_en": "Pilot study (n=4) comparing oral Δ9-THC (25–50 mg) with psilocybin (25 mg) and placebo in a double-blind, controlled design. Both synthetic dronabinol and cannabis distillate forms of 25 mg Δ9-THC produced subjective effects similar to psilocybin under psychedelic therapy conditions. Participants mistook dronabinol for a classic hallucinogen, suggesting high-dose THC can elicit psychedelic-like experiences in structured therapeutic settings.",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "rct",
+      "substances": [
+        "psilocybin",
+        "other"
+      ],
+      "added_at": "2026-08-27T17:44:17.771269+00:00"
+    },
+    {
       "title": "Salvinorin A in humans: A systematic review of pharmacokinetics, pharmacodynamics, and safety.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42638533/",
       "source": "PubMed",

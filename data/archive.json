@@ -1,6 +1,86 @@
 {
   "items": [
     {
+      "title": "Psychedelics in psychiatry: comparative effectiveness, implementation, commercialization and safety lessons learned from intranasal esketamine.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42663266/",
+      "source": "PubMed",
+      "date": "2026-08-28",
+      "authors": [
+        "McIntyre Roger S"
+      ],
+      "doi": "10.1080/14740338.2026.2726227",
+      "summary_en": "Review examining esketamine's role in psychiatric treatment, analyzing comparative effectiveness, implementation strategies, and safety considerations. Discusses commercialization lessons relevant to broader psychedelic therapeutics development in psychiatry.",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "review",
+      "substances": [
+        "ketamine",
+        "other"
+      ],
+      "added_at": "2026-08-28T18:53:07.862220+00:00"
+    },
+    {
+      "title": "Oncology Providers' Perspectives on Psychedelic-Assisted Therapy.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42661611/",
+      "source": "PubMed",
+      "date": "2026-08-28",
+      "authors": [
+        "Hanubal Krishna S",
+        "Munjal Akul N",
+        "Park Jino"
+      ],
+      "doi": "10.1177/10499091261483604",
+      "summary_en": "Cross-sectional survey of 385 oncology providers (8% response rate) across US institutions assessed attitudes toward psychedelic-assisted therapy (PAT). While 49% received patient inquiries about PAT, only 20% felt comfortable counseling patients. Key barriers: unfamiliarity with legal status (56%) and concerns about drug interactions and safety. Willingness to recommend PAT correlated with knowledge of emerging data, regulatory understanding, and prior patient inquiries.",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "observational",
+      "substances": [
+        "psilocybin",
+        "other"
+      ],
+      "added_at": "2026-08-28T18:53:07.862220+00:00"
+    },
+    {
+      "title": "Development of Japanese Versions of the 4-Item Mystical Experience Questionnaire and 7-Item Challenging Experience Questionnaire.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42661240/",
+      "source": "PubMed",
+      "date": "2026-Sep",
+      "authors": [
+        "Umemura Futaba",
+        "Kotajima-Murakami Hiroko",
+        "Strickland Justin C"
+      ],
+      "doi": "10.1002/npr2.70164",
+      "summary_en": "Researchers developed Japanese versions of brief questionnaires measuring mystical and challenging experiences induced by psychedelics. The 4-item Mystical Experience Questionnaire (MEQ-4) and 7-item Challenging Experience Questionnaire (CEQ-7) were translated following international standards for patient-reported outcomes, with expert review of semantic accuracy. These shorter versions reduce respondent burden compared to their longer counterparts (MEQ-30 and CEQ-26), facilitating efficient assessment in Japanese-speaking populations.",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "other",
+      "substances": [
+        "psilocybin"
+      ],
+      "added_at": "2026-08-28T18:53:07.862220+00:00"
+    },
+    {
+      "title": "AMCP Market Insights: Optimizing managed care approaches to treatment-resistant depression.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42658027/",
+      "source": "PubMed",
+      "date": "2026-Sep",
+      "authors": [
+        "Flavin Bridget",
+        "Small Gary",
+        "Dragovich Charles"
+      ],
+      "doi": "10.18553/jmcp.2026.32.9-a.s1",
+      "summary_en": "Treatment-resistant depression (TRD) affects individuals unresponsive to ≥2 antidepressants. An AMCP expert panel (March 2026) discussed managed care approaches to TRD, including psilocybin-assisted treatment. Key findings: significant unmet need exists; payers seek comparative efficacy data, cost-effectiveness analyses, and treatment population clarification; infrastructure for trained mental health professionals remains a critical implementation challenge.",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "qualitative",
+      "substances": [
+        "psilocybin"
+      ],
+      "added_at": "2026-08-28T18:53:07.862220+00:00"
+    },
+    {
       "title": "Psilocybin-Assisted Therapy in Psychiatry: A Narrative Clinical Review of Mechanisms, Therapeutic Applications, and Emerging Evidence (2025-2026).",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42652632/",
       "source": "PubMed",

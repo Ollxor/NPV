@@ -1,7 +1,57 @@
 {
-  "date": "2026-08-27",
-  "cached_at": "2026-08-27T17:18:20.140738+00:00",
+  "date": "2026-08-28",
+  "cached_at": "2026-08-28T18:10:42.871904+00:00",
   "articles": [
+    {
+      "title": "Psychedelics in psychiatry: comparative effectiveness, implementation, commercialization and safety lessons learned from intranasal esketamine.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42663266/",
+      "source": "PubMed",
+      "abstract": "",
+      "date": "2026-08-28",
+      "authors": [
+        "McIntyre Roger S"
+      ],
+      "doi": "10.1080/14740338.2026.2726227"
+    },
+    {
+      "title": "Oncology Providers' Perspectives on Psychedelic-Assisted Therapy.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42661611/",
+      "source": "PubMed",
+      "abstract": "PurposeDespite most psychedelic substances remaining Schedule I, clinical research exploring psychedelic-assisted therapy (PAT) in oncology is expanding. We sought to assess oncology providers' attitudes toward and understanding of PAT.MethodsWe conducted a cross-sectional survey of healthcare professionals involved in oncology across five academic institutions in California, South Carolina, and Florida, and one nonacademic institution in Georgia. The survey was also distributed to 4500 members of the American Academy of Hospice and Palliative Medicine. Items assessed demographics, familiarity and concerns regarding psychedelic medications, and willingness to recommend PAT based on case-based scenarios.ResultsOf 5084 surveyed, 385 responded (8% response rate). Most respondents (85%) were palliative care physicians. Only 44% were familiar with the legal and regulatory status of psychedelic agents. While 49% had received patient inquiries about PAT, 80% did not feel comfortable counseling patients on its use. Primary concerns included unknown drug interactions with cancer therapies and safety in the setting of oncologic comorbidities. Factors encouraging future PAT adoption included increased education and access to experienced treatment centers. On multivariate analysis, willingness to recommend PAT was associated with familiarity with emerging PAT data, knowledge of the legal and regulatory status of psychedelics, and prior patient inquiry about PAT. Provider age, specialty, and other clinicodemographic factors were not significant predictors.ConclusionMany oncology providers report patient interest in PAT but lack confidence to counsel them. Findings underscore the need for targeted provider education and further clinical research to support informed decision-making about PAT in oncology.",
+      "date": "2026-08-28",
+      "authors": [
+        "Hanubal Krishna S",
+        "Munjal Akul N",
+        "Park Jino"
+      ],
+      "doi": "10.1177/10499091261483604"
+    },
+    {
+      "title": "Development of Japanese Versions of the 4-Item Mystical Experience Questionnaire and 7-Item Challenging Experience Questionnaire.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42661240/",
+      "source": "PubMed",
+      "abstract": "Interest in therapeutic applications of psychedelics has recently resurged. Mystical-type and challenging experiences that are elicited by psychedelics are commonly assessed using the 30-item Mystical Experience Questionnaire (MEQ-30) and the 26-item Challenging Experience Questionnaire (CEQ), respectively. The brief 4-item MEQ (MEQ-4) and 7-item CEQ (CEQ-7) may reduce respondent burden, but Japanese versions have not yet been developed. This study developed Japanese versions of the MEQ-4 and CEQ-7. In translating the MEQ-4 and CEQ-7, our procedures were informed by the recommendations of the \"Principles of Good Practice for the Translation and Cultural Adaptation Process for Patient-Reported Outcomes (PRO) Measures: Report of the ISPOR Task Force for Translation and Cultural Adaptation.\" Separately, experts in psychedelics reviewed semantic nuances and the naturalness and appropriateness of the Japanese wording. Cognitive debriefing was not conducted because recruiting an appropriate Japanese-speaking sample with psychedelic experience was not feasible. The final, approved back-translated versions of the MEQ-4 and CEQ-7 were developed, and the authorized Japanese versions of the MEQ-4 and CEQ-7 were established. In the present study, Japanese versions of the MEQ-4 and CEQ-7 were developed, enabling more rapid and efficient assessments of mystical and challenging experiences among Japanese speakers. Future studies should evaluate their comprehensibility, interpretability, cultural appropriateness, reliability, and validity in Japanese-speaking samples.",
+      "date": "2026-Sep",
+      "authors": [
+        "Umemura Futaba",
+        "Kotajima-Murakami Hiroko",
+        "Strickland Justin C"
+      ],
+      "doi": "10.1002/npr2.70164"
+    },
+    {
+      "title": "AMCP Market Insights: Optimizing managed care approaches to treatment-resistant depression.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42658027/",
+      "source": "PubMed",
+      "abstract": "Treatment-resistant depression (TRD) is a subset of major depressive disorder (MDD) most commonly defined as failure to respond to 2 or more antidepressant regimens despite adequate dose, duration, and adherence to treatment. The burden of TRD impacts individuals, families, and society, with outcomes such as decreased health-related quality of life and increased health care utilization and costs. To address the unmet need in many mental health conditions, psychedelic-assisted treatment such as psilocybin for TRD is emerging as a potential option. To discuss optimizing managed care approaches to TRD including the use of psilocybin, AMCP Market Insights virtually convened an expert panel of managed care stakeholders in March 2026. This article provides a qualitative summary of the panel discussion along with key insights and suggested payer practices meant to support informed coverage decisions and guide future work such as collaboration, research, and advocacy. Key insights underscore that there is a high unmet need in TRD and that mitigating barriers to care is a priority for payers. Perspectives on the current evidence for psilocybin in TRD are mixed; payers want additional data to compare treatments, elucidate the appropriate treatment population, and assess cost-effectiveness. Additionally, a primary challenge with psilocybin treatment will be an adequate network of mental health professionals to oversee administration and observation and to provide post-treatment care. Examples of suggested payer practices include education, collaboration, prioritizing behavioral health network readiness and quality, and mitigating barriers to care.",
+      "date": "2026-Sep",
+      "authors": [
+        "Flavin Bridget",
+        "Small Gary",
+        "Dragovich Charles"
+      ],
+      "doi": "10.18553/jmcp.2026.32.9-a.s1"
+    },
     {
       "title": "Aquahenosis: a non-pharmacological altered state of consciousness induced by floatation-REST in individuals with anxiety and depression.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42657182/",
@@ -206,58 +256,6 @@
         "Calder Abigail"
       ],
       "doi": "10.15288/jsad.25-00426"
-    },
-    {
-      "title": "The trials of translating psilocybin treatment from research to practice.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42629464/",
-      "source": "PubMed",
-      "abstract": "",
-      "date": "2026-08-21",
-      "authors": [
-        "Galindo Liliana",
-        "Ragnhildstveit Anya",
-        "Illingworth Benjamin J G"
-      ],
-      "doi": "10.1038/s41591-026-04597-y"
-    },
-    {
-      "title": "Interoceptive effects of N",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42629248/",
-      "source": "PubMed",
-      "abstract": "Novel analogs of the psychedelic lysergic acid diethylamide (LSD) have emerged on the gray market in recent years, typically containing substitutions to the ergoline scaffold on the indole (N",
-      "date": "2026-07-17",
-      "authors": [
-        "Berquist Michael D",
-        "Gannon Brenda M",
-        "Honeywell Kevin M"
-      ],
-      "doi": "10.1016/j.jpet.2026.104988"
-    },
-    {
-      "title": "Comment on \"KET-MCI: A Pilot Safety and Tolerability Study of Single Infusion Intravenous Ketamine for Older Adults With Depression and Mild Cognitive Impairment\".",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42629230/",
-      "source": "PubMed",
-      "abstract": "",
-      "date": "2026-07-30",
-      "authors": [
-        "Mokkapati Anuradha",
-        "Thakkar Rhushvi",
-        "Rani Anjna"
-      ],
-      "doi": "10.1016/j.jagp.2026.07.013"
-    },
-    {
-      "title": "Low-dose lysergic acid diethylamide alters subjective visual perception but not visual contrast surround suppression.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42626628/",
-      "source": "PubMed",
-      "abstract": "Theoretical models and empirical evidence suggest that psychedelics alter contextual influences on perception. To test this, we examined contrast surround suppression, a visual illusion in which a grating appears lower in contrast when embedded in a high-contrast surround. While psilocybin has been reported to enhance this and related illusions at moderate-to-high doses, it is unknown whether low-dose Lysergic Acid Diethylamide (LSD) produces similar effects. In a randomized, double-blind, within-subjects crossover study, N = 30 healthy participants received placebo, 10, and 20 μg of LSD (base-equivalent). In each session, participants performed a contrast discrimination task and rated subjective drug effects. LSD did not measurably influence contrast surround suppression. However, participants reported subjective visual changes, including blurrier, more saturated, and more dynamical visual perception. These subjective alterations did not correlate with individual differences in contrast-surround suppression. Our findings indicate a dissociation between subjective experience and early visual contextual processing, suggesting that subjective visual effects of low-dose LSD may arise through mechanisms distinct from those mediating contrast surround suppression. Future research should test whether higher doses of LSD affect contrast surround suppression.",
-      "date": "2026-08-20",
-      "authors": [
-        "Jaeckel Lucca F",
-        "Logvinski Deborah",
-        "Kanana Mika"
-      ],
-      "doi": "10.1093/nc/niag050"
     },
     {
       "title": "A Closer Look at Definium’s Phase 3 LSD for GAD Readout",
@@ -574,7 +572,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2018-004480-31/CZ",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-08-27",
+      "date": "2026-08-28",
       "authors": [],
       "doi": ""
     },
@@ -583,7 +581,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2020-005037-32/CZ",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-08-27",
+      "date": "2026-08-28",
       "authors": [],
       "doi": ""
     },
@@ -592,7 +590,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2021-002909-10/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-08-27",
+      "date": "2026-08-28",
       "authors": [],
       "doi": ""
     },
@@ -601,7 +599,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2015-000550-37/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-08-27",
+      "date": "2026-08-28",
       "authors": [],
       "doi": ""
     },
@@ -610,7 +608,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2021-000041-40/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-08-27",
+      "date": "2026-08-28",
       "authors": [],
       "doi": ""
     },
@@ -619,7 +617,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2020-000829-55/DK",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-08-27",
+      "date": "2026-08-28",
       "authors": [],
       "doi": ""
     },
@@ -628,7 +626,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2020-002790-94/SE",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-08-27",
+      "date": "2026-08-28",
       "authors": [],
       "doi": ""
     },
@@ -637,7 +635,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2021-006200-33/FI",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-08-27",
+      "date": "2026-08-28",
       "authors": [],
       "doi": ""
     },
@@ -646,7 +644,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2019-004812-73/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-08-27",
+      "date": "2026-08-28",
       "authors": [],
       "doi": ""
     },
@@ -655,7 +653,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2022-002369-14/BE",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-08-27",
+      "date": "2026-08-28",
       "authors": [],
       "doi": ""
     },

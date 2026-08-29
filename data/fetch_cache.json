@@ -1,7 +1,33 @@
 {
-  "date": "2026-08-28",
-  "cached_at": "2026-08-28T18:10:42.871904+00:00",
+  "date": "2026-08-29",
+  "cached_at": "2026-08-29T12:15:40.584577+00:00",
   "articles": [
+    {
+      "title": "Bedtime tetrahydrocannabinol ingestion reduces morning orthostatic cardiovascular reactivity in adults: An exploratory study.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42665978/",
+      "source": "PubMed",
+      "abstract": "Acute cannabis use and its primary psychoactive constituent tetrahydrocannabinol (THC) can induce postural dizziness, indicating increased risk of orthostatic instability. However, it is unknown if vulnerabilities persist the morning after bedtime THC consumption. This study investigated the influence of bedtime THC consumption on cardiovascular variables during an orthostatic challenge. Nine individuals with no cannabis use and eight individuals who regularly use cannabis participated in a tilt table test associated with a 3-day in-laboratory stay. Participants underwent an acclimatization day, followed by a placebo dosing day, and a 10 mg THC dosing day. Placebo and THC pills were given 1 h before a participant's habitual bedtime, and the tilt table test was performed ~1 h upon awakening. Participants were instrumented with an electrocardiogram and an automated sphygmomanometer. Fluid intake and output were measured throughout the study. The morning after THC administration, individuals with no cannabis use reported a higher frequency of dizziness and exhibited a significant reduction in both diastolic blood pressure and heart rate reactivity to tilt (reactivity = tilt - baseline) compared to the morning after placebo. Our results indicate a potential increased risk for orthostatic instability the morning after cannabis consumption in individuals with no cannabis use history.",
+      "date": "2026-Sep",
+      "authors": [
+        "Gonzalez Joshua E",
+        "Stewart Alicia V",
+        "Robinson LaTroy D"
+      ],
+      "doi": "10.14814/phy2.71076"
+    },
+    {
+      "title": "Network structure and mental health correlates of the Mount Sinai Resilience Scale.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42664566/",
+      "source": "PubMed",
+      "abstract": "The Mount Sinai Resilience Scale (MSRS) assesses cognitive, behavioral, and emotional resilience processes, yet the interrelationships among these processes, including which are most central and most strongly associated with mental health outcomes, remain poorly characterized. This study used network analysis to characterize the structure of MSRS-assessed resilience processes and their associations with clinical outcomes in a population-based sample of U.S. adults (N = 1794) enriched for elevated perceived stress and trauma exposure. Participants completed the MSRS and validated measures of depressive, anxiety, and posttraumatic stress disorder (PTSD) symptoms and well-being. Regularized Gaussian graphical models were estimated to characterize network structure and centrality, with clinical outcomes incorporated as nodes to identify unique associations with individual MSRS items. The network demonstrated moderate density (157 of 276 possible edges), reflecting widespread conditional associations among resilience processes. Engagement in meaningful activities, perceived positive impact of spirituality, and active emotional recovery demonstrated the highest centrality, while emotional awareness and directly facing fears also showed high expected influence. Staying hopeful about the future, directly facing fears, and engaging in meaningful activities were consistently associated with lower depressive, anxiety, and PTSD symptoms and higher well-being. Forgiveness was positively associated with PTSD symptoms, suggesting a more complex role in trauma-related adaptation. Overall, MSRS resilience processes were organized around interconnected domains of meaning, spirituality, and emotional regulation. Hope, behavioral approach to feared experiences, and engagement in meaningful activities emerged as resilience processes with consistent associations across multiple mental health outcomes, highlighting their potential relevance for resilience-focused interventions.",
+      "date": "2026-08-27",
+      "authors": [
+        "Pietrzak Robert H",
+        "Feder Adriana",
+        "Marin Deborah B"
+      ],
+      "doi": "10.1016/j.jpsychires.2026.08.029"
+    },
     {
       "title": "Psychedelics in psychiatry: comparative effectiveness, implementation, commercialization and safety lessons learned from intranasal esketamine.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42663266/",
@@ -38,6 +64,19 @@
         "Strickland Justin C"
       ],
       "doi": "10.1002/npr2.70164"
+    },
+    {
+      "title": "Erratum to \"Long-term treatment with esketamine nasal spray in patients with treatment resistant depression: Results from the ESCAPE-LTE study\" [European Neuropsychopharmacology 107 (2026) 112801].",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42659716/",
+      "source": "PubMed",
+      "abstract": "",
+      "date": "2026-08-27",
+      "authors": [
+        "Reif A",
+        "Anıl Yağcıoğlu Ae",
+        "Bitter I"
+      ],
+      "doi": "10.1016/j.euroneuro.2026.113860"
     },
     {
       "title": "AMCP Market Insights: Optimizing managed care approaches to treatment-resistant depression.",
@@ -217,45 +256,6 @@
         "McIntyre Roger S"
       ],
       "doi": "10.1016/j.jagp.2026.07.014"
-    },
-    {
-      "title": "Depression Heterogeneity as a Confounder in Ketamine Response for Late-Life Depression.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42632765/",
-      "source": "PubMed",
-      "abstract": "",
-      "date": "2026-07-29",
-      "authors": [
-        "Lind J",
-        "Hophing Megan",
-        "Brody Benjamin"
-      ],
-      "doi": "10.1016/j.jagp.2026.07.015"
-    },
-    {
-      "title": "Single-Infusion Ketamine in Older Adults With Depression and Mild Cognitive Impairment: Promising Signal, Falls, and Cognitive Safety Need Closer Scrutiny.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42632764/",
-      "source": "PubMed",
-      "abstract": "",
-      "date": "2026-07-30",
-      "authors": [
-        "Jannasz Iwona",
-        "Pruc Michal",
-        "Szarpak Lukasz"
-      ],
-      "doi": "10.1016/j.jagp.2026.07.012"
-    },
-    {
-      "title": "Adverse Effect-Related Language in Recreational Psychedelic and non-Psychedelic Substance Experience Reports.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42631663/",
-      "source": "PubMed",
-      "abstract": "In recent decades, psychedelic substances like LSD and psilocybin have been increasingly researched, but relatively few studies examined their adverse effects in recreational settings. As online substance experience reports may offer relevant information, we conducted a psycholinguistic (i.e., inferring psychologically relevant outcomes from natural language) assessment of popular psychedelic and related substances' adverse effects. We applied latent semantic analysis to 4226 online substance experience reports, calculating each report's respective semantic similarity with 77 empirical literature-based adverse effect-related reference texts. We compared seven groups including ayahuasca, (isolated) DMT, ketamine, LSD, MDMA, psilocybin mushroom, and recreational antidepressant experiences (as a non-psychedelic comparator). Using sentiment analysis, we also classified each report's contextual valence (positive vs. negative) to examine its potential influence on between-substance semantic similarity differences. Fifteen outcomes featured large effect sizes; with semantic similarity with vomiting-, excessive drowsiness-, cardiac event-, sleep problem-, and dissociation- or depersonalization-related terms leading the list. Report groups standing out with high scores were ayahuasca on vomiting-, ketamine on dissociation-, and MDMA on excessive drowsiness- and cardiac event-related semantic similarity. Report groups standing out with low scores were MDMA on dissociation-, ayahuasca on sleep problems-, and DMT on sleep problems- and drowsiness-related semantic similarity. A literature-driven secondary examination showed that LSD and psilocybin mushroom reports scored higher than all other groups on anxiety-related outcomes. Despite the limitations of the observational study context, these results provide valuable insights into adverse effect-related language in recreational psychedelic substance experience reports. They show that psycholinguistic analyses of experience reports enable relatively feasible, low-cost, and useful substance comparisons that might be difficult to realize using other research designs.",
-      "date": "2026-08-22",
-      "authors": [
-        "Hase Adrian",
-        "Erdmann Max",
-        "Calder Abigail"
-      ],
-      "doi": "10.15288/jsad.25-00426"
     },
     {
       "title": "A Closer Look at Definium’s Phase 3 LSD for GAD Readout",
@@ -572,7 +572,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2018-004480-31/CZ",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-08-28",
+      "date": "2026-08-29",
       "authors": [],
       "doi": ""
     },
@@ -581,7 +581,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2020-005037-32/CZ",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-08-28",
+      "date": "2026-08-29",
       "authors": [],
       "doi": ""
     },
@@ -590,7 +590,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2021-002909-10/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-08-28",
+      "date": "2026-08-29",
       "authors": [],
       "doi": ""
     },
@@ -599,7 +599,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2015-000550-37/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-08-28",
+      "date": "2026-08-29",
       "authors": [],
       "doi": ""
     },
@@ -608,7 +608,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2021-000041-40/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-08-28",
+      "date": "2026-08-29",
       "authors": [],
       "doi": ""
     },
@@ -617,7 +617,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2020-000829-55/DK",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-08-28",
+      "date": "2026-08-29",
       "authors": [],
       "doi": ""
     },
@@ -626,7 +626,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2020-002790-94/SE",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-08-28",
+      "date": "2026-08-29",
       "authors": [],
       "doi": ""
     },
@@ -635,7 +635,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2021-006200-33/FI",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-08-28",
+      "date": "2026-08-29",
       "authors": [],
       "doi": ""
     },
@@ -644,7 +644,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2019-004812-73/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-08-28",
+      "date": "2026-08-29",
       "authors": [],
       "doi": ""
     },
@@ -653,7 +653,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2022-002369-14/BE",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-08-28",
+      "date": "2026-08-29",
       "authors": [],
       "doi": ""
     },

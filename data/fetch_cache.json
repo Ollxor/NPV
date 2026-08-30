@@ -1,7 +1,59 @@
 {
-  "date": "2026-08-29",
-  "cached_at": "2026-08-29T12:15:40.584577+00:00",
+  "date": "2026-08-30",
+  "cached_at": "2026-08-30T11:13:19.726655+00:00",
   "articles": [
+    {
+      "title": "A randomized crossover trial comparing the acute physiological and psychological effects of botanical formulations of oral psilocybin, oral psilocin, and sublingual psilocin.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42668404/",
+      "source": "PubMed",
+      "abstract": "Psilocybin, a serotonergic psychedelic found in hallucinogenic mushrooms, is metabolized to psilocin, the compound responsible for its psychoactive effects. Psilocybin has demonstrated therapeutic potential for neuropsychiatric conditions. While recent trials have primarily used orally administered synthetic psilocybin, alternative formulations and delivery methods may offer therapeutic advantages, yet the effects of these approaches remain poorly characterized. To compare the pharmacodynamic profiles and tolerability of oral psilocybin, oral psilocin, and sublingual psilocin derived from whole-mushroom extracts in healthy adults. In this randomized, within-subject, crossover trial, 20 healthy adults (10 men, 10 women; mean age 40.1 ± 5.9 years) completed up to four drug administration sessions involving botanical oral psilocybin (25 mg), oral psilocin (17.5 mg), or sublingual psilocin (2.18, 4.36, or 8 mg). All sessions included therapeutic support and pre- and post-dose psychotherapy. Acute effects were assessed using vital signs and subjective ratings of drug intensity and psychedelic experience. Oral psilocin produced a similar temporal and subjective profile to oral psilocybin, with a lower burden of adverse effects. Sublingual psilocin was well tolerated, though the apparently lower achieved drug exposure limited comparability to oral administration. Oral psilocin may offer tolerability advantages over oral psilocybin. Sublingual psilocin was well tolerated at the dosages tested. Further studies are needed to evaluate botanical formulations and optimize delivery approaches.",
+      "date": "2026-08-29",
+      "authors": [
+        "Tai Marlene L",
+        "Szigeti Balázs",
+        "Downey Amanda E"
+      ],
+      "doi": "10.1177/02698811261478603"
+    },
+    {
+      "title": "The role of BDNF promoter VI in mediating protective effects of prophylactic (R,S)-ketamine.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42668318/",
+      "source": "PubMed",
+      "abstract": "Brain-derived neurotrophic factor (BDNF) exon VI promoter is implicated in mediating activity-induced synthesis of hippocampal BDNF. BDNF is implicated in (R,S)-ketamine's antidepressant effects, but its role in (R,S)-ketamine-mediated prophylaxis is unknown. Using BDNF-e6 mice, in which promoter VI-driven BDNF production is disrupted, we tested its necessity for (R,S)-ketamine's prophylactic effects.",
+      "date": "2026-08-29",
+      "authors": [
+        "Chen Briana K",
+        "Williams Brenna L",
+        "Darling Anna"
+      ],
+      "doi": "10.1038/s41386-026-02536-6"
+    },
+    {
+      "title": "Esketamine-based treatment, depression-specific metacognitive training, and their combination in treatment-resistant depression: 6-month trajectories of depressive symptoms and rumination in a multicenter observational study.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42667415/",
+      "source": "PubMed",
+      "abstract": "Treatment-resistant depression (TRD) remains a highly burdensome clinical condition, and improvement in depressive severity does not necessarily imply parallel modification of maladaptive cognitive-affective processes such as rumination. We compared 6-month trajectories of depressive symptoms and depressive rumination across three active treatment conditions in routine clinical care: intranasal esketamine-based treatment without depression-specific metacognitive training (ESK), depression-specific metacognitive training without esketamine exposure (D-MCT), and combined esketamine plus D-MCT (D-MCT + ESK). Of 65 screened patients, 12 were excluded because of at least one absolute contraindication and 53 were enrolled (ESK n = 15, D-MCT n = 12, D-MCT + ESK n = 26). Seven participants did not complete the 6-month endpoint assessment (six in ESK and one in D-MCT + ESK), yielding a complete-case analysis set of 46 patients (ESK n = 9, D-MCT n = 12, D-MCT + ESK n = 25). Generalized estimating equations showed significant time effects and time-by-group interactions for both MADRS and RRS total scores. Endpoint ANCOVA models adjusting for baseline outcome value showed significant group effects at 6 months for MADRS (F(2,42) = 24.97, p<.001) and RRS (F(2,42) = 5.59, p=.007). Six-month MADRS response among completers was 3/9 (33.3%) in ESK, 4/12 (33.3%) in D-MCT, and 23/25 (92.0%) in D-MCT + ESK; corresponding intention-to-treat estimates using non-responder imputation were 3/15 (20.0%), 4/12 (33.3%), and 23/26 (88.5%). Concomitant treatment profiles showed marked imbalance in previous non-pharmacological treatment exposure, representing an important potential confounder. Findings support a cautious, hypothesis-generating interpretation because allocation was nonrandomized, assessment was open-label, the sample was modest, and baseline rumination was higher in the combined group.",
+      "date": "2026-08-29",
+      "authors": [
+        "Martiadis Vassilis",
+        "Raffone Fabiola",
+        "Atripaldi Danilo"
+      ],
+      "doi": "10.1007/s00406-026-02361-4"
+    },
+    {
+      "title": "Corrigendum to \"Health-related behavioral changes following the use of psychedelics in naturalistic settings\" [Prevent. Med. Rep. 56 (2025) 103161].",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42666508/",
+      "source": "PubMed",
+      "abstract": "[This corrects the article DOI: 10.1016/j.pmedr.2025.103161.].",
+      "date": "2026-07-14",
+      "authors": [
+        "Teixeira Pedro J",
+        "Jain Rakesh",
+        "Penn Andrew D"
+      ],
+      "doi": "10.1016/j.pmedr.2026.103574"
+    },
     {
       "title": "Bedtime tetrahydrocannabinol ingestion reduces morning orthostatic cardiovascular reactivity in adults: An exploratory study.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42665978/",
@@ -206,56 +258,6 @@
         "Plener Paul L"
       ],
       "doi": "10.1007/s40211-026-00587-1"
-    },
-    {
-      "title": "Beyond head-twitch response: Acute psilocybin affects spontaneous behaviors in rats in a dose-dependent manner.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42639976/",
-      "source": "PubMed",
-      "abstract": "Psychedelics have emerged as promising pharmacological agents for treating a range of neuropsychiatric disorders. While preclinical studies have provided valuable insight into the neural mechanisms underlying their effects, systematic characterization of psychedelic effects on inherent spontaneous behaviors in animal models remains limited. In the current study, male and female Sprague-Dawley rats were administered psilocybin (0.5, 1, 1.5 mg/kg, i.p.) or its vehicle (saline). Behaviors were video recorded for subsequent analysis. In addition to the widely studied head-twitch response and wet dog shakes (HTR/WDS), five additional spontaneous behaviors that were modulated by psilocybin (immobility, rearing, grooming, sniffing/digging, and circling) were assessed. Assessed behaviors showed distinct dose-response profiles in both sexes. When compared to saline, psilocybin elicited HTR/WDS following a bell-shaped curve, while immobility increased linearly, with dose. Rearing and grooming decreased markedly even at low doses, sniffing/digging declined only at higher doses, and circling increased variably across doses for each sex. Furthermore, some behaviors were correlated in a dose-dependent manner. Together, our findings highlight a broader range of behaviors influenced by psilocybin beyond HTR and provide a framework for identifying its neurobehavioral effects in Sprague-Dawley rats within a widely used physiologically relevant dose range.",
-      "date": "2026-08-25",
-      "authors": [
-        "Tiwari Praachi",
-        "Jenkins Bryan W",
-        "Moore Catherine F"
-      ],
-      "doi": "10.1177/02698811261478600"
-    },
-    {
-      "title": "Propofol for depression: mechanisms and therapeutic potential.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42638996/",
-      "source": "PubMed",
-      "abstract": "Propofol, one of the most widely used intravenous anesthetics, is undergoing a transformative identity shift from a purely surgical agent to a potential therapeutic tool for neuropsychiatric disorders. This review synthesizes current evidence on the emerging field of propofol therapeutics, with a focus on its rapid antidepressant, anti-anhedonia, and anxiolytic effects. We first examine preliminary clinical evidence from open-label studies suggesting that propofol may produce dose-dependent mood-elevating effects in treatment-resistant depression; however, this evidence remains limited by small sample sizes and lack of large controlled trials. Next, we explore putative mechanisms, including GABA",
-      "date": "2026-08-10",
-      "authors": [
-        "Yu Dan",
-        "Liao Ye",
-        "Li Jie"
-      ],
-      "doi": "10.3389/fphys.2026.1876988"
-    },
-    {
-      "title": "Salvinorin A in humans: A systematic review of pharmacokinetics, pharmacodynamics, and safety.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42638533/",
-      "source": "PubMed",
-      "abstract": "Salvinorin A, the principal psychoactive constituent of",
-      "date": "2026-08-25",
-      "authors": [
-        "Zürrer Wolfgang Emanuel",
-        "Liesner Johann",
-        "Brüschweiler David"
-      ],
-      "doi": "10.1177/02698811261473385"
-    },
-    {
-      "title": "Ketamine Safety and Therapeutic Opportunity in Late-Life Depression With Depression-Executive Dysfunction Syndrome (DED).",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42632766/",
-      "source": "PubMed",
-      "abstract": "",
-      "date": "2026-07-30",
-      "authors": [
-        "McIntyre Roger S"
-      ],
-      "doi": "10.1016/j.jagp.2026.07.014"
     },
     {
       "title": "A Closer Look at Definium’s Phase 3 LSD for GAD Readout",
@@ -572,7 +574,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2018-004480-31/CZ",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-08-29",
+      "date": "2026-08-30",
       "authors": [],
       "doi": ""
     },
@@ -581,7 +583,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2020-005037-32/CZ",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-08-29",
+      "date": "2026-08-30",
       "authors": [],
       "doi": ""
     },
@@ -590,7 +592,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2021-002909-10/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-08-29",
+      "date": "2026-08-30",
       "authors": [],
       "doi": ""
     },
@@ -599,7 +601,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2015-000550-37/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-08-29",
+      "date": "2026-08-30",
       "authors": [],
       "doi": ""
     },
@@ -608,7 +610,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2021-000041-40/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-08-29",
+      "date": "2026-08-30",
       "authors": [],
       "doi": ""
     },
@@ -617,7 +619,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2020-000829-55/DK",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-08-29",
+      "date": "2026-08-30",
       "authors": [],
       "doi": ""
     },
@@ -626,7 +628,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2020-002790-94/SE",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-08-29",
+      "date": "2026-08-30",
       "authors": [],
       "doi": ""
     },
@@ -635,7 +637,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2021-006200-33/FI",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-08-29",
+      "date": "2026-08-30",
       "authors": [],
       "doi": ""
     },
@@ -644,7 +646,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2019-004812-73/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-08-29",
+      "date": "2026-08-30",
       "authors": [],
       "doi": ""
     },
@@ -653,7 +655,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2022-002369-14/BE",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-08-29",
+      "date": "2026-08-30",
       "authors": [],
       "doi": ""
     },

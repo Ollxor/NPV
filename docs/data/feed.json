@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-29T12:46:19.975384+00:00",
+  "generated_at": "2026-08-30T12:05:46.229886+00:00",
   "items": [
     {
       "title": "Blinding integrity in psychedelic research: Evidence from a comparative randomized controlled trial of psilocybin, MDMA, and methylphenidate in healthy volunteers",
@@ -94,6 +94,99 @@
         "psilocybin"
       ],
       "added_at": "2026-08-28T18:53:07.862220+00:00"
+    },
+    {
+      "title": "A randomized crossover trial comparing the acute physiological and psychological effects of botanical formulations of oral psilocybin, oral psilocin, and sublingual psilocin.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42668404/",
+      "source": "PubMed",
+      "date": "2026-08-29",
+      "authors": [
+        "Tai Marlene L",
+        "Szigeti Balázs",
+        "Downey Amanda E"
+      ],
+      "doi": "10.1177/02698811261478603",
+      "summaries": {
+        "en": "Randomized crossover trial (n=20) comparing acute effects of botanical oral psilocybin (25 mg), oral psilocin (17.5 mg), and sublingual psilocin (2.18–8 mg) in healthy adults. Oral psilocin produced similar subjective and temporal profiles to oral psilocybin with fewer adverse effects. Sublingual psilocin showed good tolerability but lower drug exposure. Results suggest oral psilocin may offer tolerability advantages for psychedelic-assisted therapy.",
+        "sv": "Randomiserad crossover-studie (n=20) jämförande akuta effekter av botanisk oral psilo­cybin (25 mg), oral psilocin (17,5 mg) och sublingual psilocin (2,18–8 mg) hos friska vuxna. Oral psilocin uppvisade liknande subjektiv och temporal profil som oral psilo­cybin med färre biverkningar. Sublingual psilocin visade god tolerabilitet men lägre exponering. Resultaten tyder på att oral psilocin kan erbjuda tolerabilitetfördelar för psykedelika-assisterad terapi.",
+        "no": "Randomisert crossover-studie (n=20) som sammenligner akutte effekter av botanisk oral psilosybin (25 mg), oral psilosin (17,5 mg) og sublingual psilosin (2,18–8 mg) hos friske voksne. Oral psilosin ga lignende subjektiv og tidsmessig profil som oral psilosybin med færre bivirkninger. Sublingual psilosin viste god tolerabilitet men lavere stoffeksponering. Resultater tyder på at oral psilosin kan gi tolerabilitetfordeler for psykedelika-assistert terapi.",
+        "da": "Randomiseret crossover-studie (n=20) der sammenligner akutte effekter af botanisk oral psilocybin (25 mg), oral psilocin (17,5 mg) og sublingual psilocin (2,18–8 mg) hos raske voksne. Oral psilocin viste lignende subjektiv og tidsmæssig profil som oral psilocybin med færre bivirkninger. Sublingual psilocin viste god tolerabilitet men lavere stofeksponering. Resultater tyder på, at oral psilocin kan give tolerabilitetfordele for psykedelika-assisteret terapi.",
+        "fi": "Satunnaistettu crossover-tutkimus (n=20) vertaamassa akuutteja vaikutuksia kasvi­peräiseen suun kautta otettavaan psilosybiiniin (25 mg), suun kautta otettavaan psilosiiniin (17,5 mg) ja kielen alle asetettavaan psilosiiniin (2,18–8 mg) terveillä aikuisilla. Suun kautta otettu psilosiini osoitti samanlaista subjektiivista ja ajallista profiilia kuin suun kautta otettu psilosybiini, mutta vähemmän haittavaikutuksia. Kielen alle asetettava psilosiini oli hyvin siedetty, mutta pienempi lääkkeen alttius rajoitti vertailukelpoisuutta. Tulokset viittaavat, että psilosiini suun kautta saattaa tarjota tolerabiliteetin etuja psykedeliikka-avustetussa terapiassa.",
+        "is": "Handahóf crossover-rannsókn (n=20) sem borið saman akút áhrif jurtabyggðrar frumorals psílosýbíns (25 mg), frumorals psílosíns (17,5 mg) og undir tungu setts psílosíns (2,18–8 mg) hjá heilbrigðum fullorðnum. Frumoral psílosín sýndi svipaða huglæga og tímavinnu prófíl og frumoral psílosýbín með færri aukaverkun. Psílosín undir tungu var vel þolað en lægri fráboranir takmarkaði samanburðarhæfi. Niðurstöður benda til þess að frumoral psílosín gæti veitt kostir fyrir þola­beitni í psýkedelíka-aðstoðuðri meðferð.",
+        "et": "Randomiseeritud crossover-uuringu (n=20) akuutsete mõjude võrdlemine taime­pärase suust võetava psülotsibiini (25 mg), suust võetava psülotsiin (17,5 mg) ja keele alla pandava psülotsiin (2,18–8 mg) puhul tervetel täiskasvanutel. Suust võetud psülotsiin näitas sarnast subjektiivset ja ajaprofiili kui suust võetud psülotsibiini, kuid väiksema kõrvaltoimete koormuse. Keele alla pandav psülotsiin oli hästi talutav, kuid madalam ravimi eksponeeritus piiras võrreldavust. Tulemused osutavad, et suust võetud psülotsiin võib pakkuda talutavuse eeliseid psühhedeelikume-abistatud teraapiasse.",
+        "lv": "Randomizēts crossover pētījums (n=20), salīdzinot akūtās iedarbības no botāniskas mutiskā psilociīna (25 mg), mutiskā psilociīna (17,5 mg) un sublinguāla psilociīna (2,18–8 mg) veseliem pieaugušajiem. Mutisks psilociīns parādīja līdzīgu subjektīvu un laika profilu kā mutisks psilociīns ar mazāk blakusparādībām. Sublinguāls psilociīns bija labi panesamais, bet mazāka zāļu iedarbība ierobežoja salīdzināmību. Rezultāti liecina, ka mutiski apcerēts psilociīns var sniegt pieļaujamības priekšrocības psihedēliku-asistētā terapijā.",
+        "lt": "Randomizuotas crossover tyrimas (n=20), palyginant akutinius poveikius iš botaninio žalios psilocibino (25 mg), žalio psilocino (17,5 mg) ir po liežuviu dedamo psilocino (2,18–8 mg) sveikiems suaugusiems. Žalias psilocinas parode panašų subjektyvų ir laiko profilį kaip žalias psilocibinas su mažiau šalutinių efektų. Po liežuviu dedamas psilocinas buvo gerai toleruojamas, tačiau mažesnė vaisto ekspozicija ribojanč palyginamumą. Rezultatai rodo, kad žalias psilocinas gali suteikti toleravimo pranašumus psichedelinių medžiagų pagalba grindžiamoje terapijoje."
+      },
+      "notable": false,
+      "notable_reasons": null,
+      "relevance_score": 4,
+      "study_type": "rct",
+      "substances": [
+        "psilocybin"
+      ],
+      "added_at": "2026-08-30T12:04:49.032814+00:00"
+    },
+    {
+      "title": "The role of BDNF promoter VI in mediating protective effects of prophylactic (R,S)-ketamine.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42668318/",
+      "source": "PubMed",
+      "date": "2026-08-29",
+      "authors": [
+        "Chen Briana K",
+        "Williams Brenna L",
+        "Darling Anna"
+      ],
+      "doi": "10.1038/s41386-026-02536-6",
+      "summaries": {
+        "en": "Study using BDNF-e6 mice investigated whether promoter VI of the BDNF exon VI gene is necessary for ketamine's preventive antidepressant effects. While BDNF is known to mediate ketamine's acute antidepressant action via hippocampal activity-induced synthesis, its role in prophylactic effects remained unclear. Findings clarify BDNF's contribution to ketamine's protective mechanisms.",
+        "sv": "Studie med BDNF-e6-möss undersökte om promoter VI för BDNF exon VI är nödvändig för ketamins förebyggande antidepressiva effekter. Även om BDNF är känt för att mediera ketamins akuta antidepressiva verkan via aktivitetsindad hippocampalsynteses, var dess roll i profylaktiska effekter oklar. Resultaten klargör BDNFs bidrag till ketamins skyddande mekanismer.",
+        "no": "Studie med BDNF-e6-mus undersøkte om promoter VI for BDNF exon VI er nødvendig for ketamins forebyggende antidepressive effekter. Selv om BDNF er kjent for å medialisere ketamins akutte antidepressive virkning via aktivitetsindusert hippocampal-syntese, var dets rolle i profylaktiske effekter uklar. Funnene avklarer BDNFs bidrag til ketamins beskyttende mekanismer.",
+        "da": "Studie med BDNF-e6-mus undersøgte, hvorvidt promoter VI for BDNF exon VI er nødvendig for ketamins forebyggende antidepressive effekter. Selvom BDNF er kendt for at medialisere ketamins akutte antidepressive virkning via aktivitetsinduceret hippocampal-syntese, var dets rolle i profylaktiske effekter uafklaret. Resultaterne præciserer BDNFs bidrag til ketamins beskyttende mekanismer.",
+        "fi": "Tutkimuksessa BDNF-e6-hiirillä tutkittiin, onko promoter VI BDNF-eksoni VI:lle välttämätön ketamiinin ennaltaehkäisevien masennuslääkkeiden vaikutusten kannalta. Vaikka BDNF tunnetaan ketamiinin akuuttien masennuslääkkeiden vaikutusten välittäjänä aktiviteetin indusoimalla hippocampuksen synteesillä, sen rooli profylaktisissa vaikutuksissa oli epäselvä. Tulokset selventävät BDNF:n osuutta ketamiinin suojaavissa mekanismeissa.",
+        "is": "Rannsókn á BDNF-e6-músum könnuðu hvort promoter VI fyrir BDNF exon VI sé nauðsynlegt fyrir fyrirbyggjandi þunglyndisstöðvandi áhrif ketamíns. Þó að BDNF sé þekkt fyrir að miðla beinni þunglyndisstöðvandi verkunarferli ketamíns með virkniframkallandi hippocampal-samsetningu, var hlutverk þess í fyrirbyggjandi áhrifum óljóst. Niðurstöður skýra framlag BDNF til verndandi virkniferla ketamíns.",
+        "et": "Uuringus BDNF-e6-hiirtega uuriti, kas promoter VI BDNF eksoon VI jaoks on vajalik ketamiini ennetava depressioonivastase toime jaoks. Kuigi BDNF on teada ketamiini akuutse depressioonivastase toimet tegevusega indutseeritud hipokampuse sünteesi kaudu, oli selle roll ennetavate mõjude puhul ebaselge. Tulemused selgitavad BDNF panust ketamiini kaitsvatesse mehhanismidesse.",
+        "lv": "Pētījumā ar BDNF-e6 pārkāļiem tika pārbaudīts, vai promoter VI BDNF eksona VI ir nepieciešams ketamīna profilaktiskajiem antidepresīvajiem efektiem. Lai gan BDNF ir zināms kā ketamīna akūto antidepresīvo iedarbību mediators caur aktivitāti izraisītu hipokampa sintēzi, tā loma profilaktiskos efektos palika neskaidra. Rezultāti skaidro BDNF ieguldījumu ketamīna aizsardzošajos mehānismos.",
+        "lt": "Studijoje su BDNF-e6 pelėmis buvo tiriama, ar promoter VI BDNF eksono VI yra būtinas ketamino profilaktiniams antidepresyviniams efektams. Nors BDNF žinomas kaip ketamino ūmių antidepresyvinių veiksmų tarpininkas per aktivumo sukeltos hipokampo sintezę, jo vaidmuo profilaktiniuose efektuose liko neaiškus. Rezultatai aiškina BDNF indėlį ketamino apsauginiais mechanizmais."
+      },
+      "notable": false,
+      "notable_reasons": null,
+      "relevance_score": 4,
+      "study_type": "preclinical",
+      "substances": [
+        "ketamine"
+      ],
+      "added_at": "2026-08-30T12:04:49.032814+00:00"
+    },
+    {
+      "title": "Esketamine-based treatment, depression-specific metacognitive training, and their combination in treatment-resistant depression: 6-month trajectories of depressive symptoms and rumination in a multicenter observational study.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42667415/",
+      "source": "PubMed",
+      "date": "2026-08-29",
+      "authors": [
+        "Martiadis Vassilis",
+        "Raffone Fabiola",
+        "Atripaldi Danilo"
+      ],
+      "doi": "10.1007/s00406-026-02361-4",
+      "summaries": {
+        "en": "Esketamine-based treatment, depression-specific metacognitive training, and their combination in treatment-resistant depression: 6-month trajectories of depressive symptoms and rumination in a multicenter observational study.",
+        "sv": "Esketamine-based treatment, depression-specific metacognitive training, and their combination in treatment-resistant depression: 6-month trajectories of depressive symptoms and rumination in a multicenter observational study.",
+        "no": "Esketamine-based treatment, depression-specific metacognitive training, and their combination in treatment-resistant depression: 6-month trajectories of depressive symptoms and rumination in a multicenter observational study.",
+        "da": "Esketamine-based treatment, depression-specific metacognitive training, and their combination in treatment-resistant depression: 6-month trajectories of depressive symptoms and rumination in a multicenter observational study.",
+        "fi": "Esketamine-based treatment, depression-specific metacognitive training, and their combination in treatment-resistant depression: 6-month trajectories of depressive symptoms and rumination in a multicenter observational study.",
+        "is": "Esketamine-based treatment, depression-specific metacognitive training, and their combination in treatment-resistant depression: 6-month trajectories of depressive symptoms and rumination in a multicenter observational study.",
+        "et": "Esketamine-based treatment, depression-specific metacognitive training, and their combination in treatment-resistant depression: 6-month trajectories of depressive symptoms and rumination in a multicenter observational study.",
+        "lv": "Esketamine-based treatment, depression-specific metacognitive training, and their combination in treatment-resistant depression: 6-month trajectories of depressive symptoms and rumination in a multicenter observational study.",
+        "lt": "Esketamine-based treatment, depression-specific metacognitive training, and their combination in treatment-resistant depression: 6-month trajectories of depressive symptoms and rumination in a multicenter observational study."
+      },
+      "notable": false,
+      "notable_reasons": null,
+      "relevance_score": 4,
+      "study_type": "observational",
+      "substances": [
+        "ketamine"
+      ],
+      "added_at": "2026-08-30T12:04:49.032814+00:00"
     },
     {
       "title": "Psychedelics in psychiatry: comparative effectiveness, implementation, commercialization and safety lessons learned from intranasal esketamine.",
@@ -1845,99 +1938,6 @@
       "study_type": "other",
       "substances": [
         "other"
-      ],
-      "added_at": "2026-08-01T12:00:00+00:00"
-    },
-    {
-      "title": "Blinding Integrity and Psychedelic Drug Trials.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42555000/",
-      "source": "PubMed",
-      "date": "2026-Aug",
-      "authors": [
-        "Elliott Michael",
-        "Chernoloz Olga"
-      ],
-      "doi": "10.1001/jamapsychiatry.2026.2293",
-      "summaries": {
-        "en": "This article examines blinding integrity in psychedelic clinical trials. Effective blinding is challenging in psychedelic research due to participants' perceptual experiences. The study discusses methodological implications for maintaining trial validity and suggests strategies to strengthen blinding procedures in future psychedelic investigations.",
-        "sv": "Artikeln granskar blindningen i kliniska studier med psykedelika. Effektiv blindning är utmanande i psykedelikaforskning på grund av deltagares upplevelser. Studien diskuterar metodiska konsekvenser för försökens giltighet och föreslår strategier för att stärka blindningsprocedurer.",
-        "no": "Artikkelen undersøker blindingsintegritet i kliniske studier med psykedelika. Effektiv blinding er utfordrende i psykedelikaforskning på grunn av deltakernes perceptuelle erfaringer. Studien diskuterer metodiske implikasjoner for forsøkenes validitet og foreslår strategier for å styrke blindingsprosedyrer.",
-        "da": "Artiklen undersøger blindingsintegritet i kliniske studier med psykedelika. Effektiv blindning er udfordrende i psykedelikaforskning på grund af deltagernes oplevelser. Studien diskuterer metodologiske implikationer for forsøgenes validitet og foreslår strategier til at styrke blindingsprocedurer.",
-        "fi": "Artikkeli tarkastelee sokkouttamisen eheyden säilyttämistä psykedeliikkitutkimuksissa. Tehokas sokkouttaminen on haastavaa psykedeliikkien tutkimuksessa osallistujien aistimuksellisten kokemusten vuoksi. Tutkimus käsittelee metodologisia vaikutuksia tutkimuksen pätevyyteen ja ehdottaa strategioita sokkouttamismenettelyjen vahvistamiseksi.",
-        "is": "Greinin fjallar um heilleika blindunar í klínískum rannsóknum á sálfræðilögum efnum. Áhrifarík blunding er krefjandi í rannsóknum á sálfræðilögum efnum vegna skynjunarupplifunar þátttakenda. Rannsóknin fjallar um aðferðafræðilegar afleiðingar fyrir réttmæti rannsókna og leggur til aðferðir til að styrkja blindunarverklagsreglur.",
-        "et": "Artikkel käsitleb psühhedeelikute kliinilistes uuringutes pimestamise terviklikkust. Efektiivne pimestamine on psühhedeelikute uuringutes keeruline osalejate tajumuskogemuste tõttu. Uuringus arutatakse metoodoloogilisi tagajärgi uuringu kehtivusele ja pakutakse strateegiaid pimestamismenetluste tugevdamiseks.",
-        "lv": "Raksts aplūko aklo metodes integritāti psihedēliku klīniskajos pētījumos. Efektīva aklošana ir sarežģīta psihedēliku pētniecībā dalībnieku sensoriskās pieredzes dēļ. Pētījumā aplūkotas metodiskas sekas pētījuma derīgumam un piedāvāti stratēģijas aklošanas procedūru stiprināšanai.",
-        "lt": "Straipsnis nagrinėja aklosios kontrolės integritetą psichodeliko klinikiniu tyrimuose. Veiksminga aklosios kontrolės yra sudėtinga psichodeliko tyrimuose dėl dalyvių pojūčių patirties. Tyrime aptariamos metodologinės išvados dėl tyrimo patikimumo ir siūlomos strategijos aklosios kontrolės procedūroms stiprinti."
-      },
-      "notable": false,
-      "notable_reasons": null,
-      "relevance_score": 4,
-      "study_type": "other",
-      "substances": [
-        "other"
-      ],
-      "added_at": "2026-08-01T12:00:00+00:00"
-    },
-    {
-      "title": "Psychedelics and women's mental health: the effects of female sex hormones on psychedelics' efficacy and tolerability.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42552418/",
-      "source": "PubMed",
-      "date": "2026-Aug",
-      "authors": [
-        "Kuypers Kim P C",
-        "Mason Natasha L",
-        "Carlier Aurelie"
-      ],
-      "doi": "10.1038/s41380-026-03801-2",
-      "summaries": {
-        "en": "Narrative review examining how female sex hormones (estradiol and progesterone) modulate psychedelic pharmacokinetics, pharmacodynamics, and brain networks. Evidence suggests hormones alter gastrointestinal physiology, hepatic metabolism (CYP3A4, CYP2D6), and serotonergic signaling including 5-HT2A receptor density across menstrual cycles. Despite preclinical and neuroimaging data, direct human pharmacokinetic studies in psychedelic-assisted therapies remain absent, highlighting a critical gap given women's higher burden of mood and stress disorders.",
-        "sv": "Narrativ översikt av hur kvinnliga könshormon (östradiol och progesteron) modulerar psykedelikas farmakokenetik, farmakodynamik och hjärnans nätverk. Evidens tyder på att hormon påverkar gastrointestinal fysiologi, hepatisk metabolism (CYP3A4, CYP2D6) och serotonergi inklusive 5-HT2A-receptordensitet över menstruationscykeln. Trots prekliniska och neuroavbildningsdata saknas direkta humanstudier, vilket är kritiskt givet kvinnors högre börda av affektiva och stressrelaterade störningar.",
-        "no": "Narrativ oversikt over hvordan kvinnelige kjønnshormoner (østradiol og progesteron) modulerer psykedelikas farmakokinetikk, farmakodynamikk og hjernenettverk. Evidens tyder på at hormoner påvirker gastrointestinal fysiologi, hepatisk metabolisme (CYP3A4, CYP2D6) og serotonergi inkludert 5-HT2A-reseptortetthet over menstruasjonssyklusen. Til tross for preklin­iske og neuroavbildningsdata mangler direkte humane studier, noe som er kritisk gitt kvinners høyere belastning av affektive og stressrelaterte lidelser.",
-        "da": "Narrativ oversigt over, hvordan kvindelige kønnshormoner (østradiol og progesteron) modulerer psykedelikas farmakokinetik, farmakodynamik og hjernenetværk. Evidens tyder på, at hormoner påvirker gastrointestinal fysiologi, hepatisk metabolisme (CYP3A4, CYP2D6) og serotonergi inklusive 5-HT2A-receptortæthed over menstruationscyklus. På trods af prækliniske og neurobillede-data mangler direkte humane studier, hvilket er kritisk givet kvinders højere byrde af affektive og stressrelaterede lidelser.",
-        "fi": "Narratiivinen katsaus siitä, kuinka naisten sukupuolihormonit (estradiol ja progesteroni) säätelevät psykedeelien farmakokinetiikkaa, farmakodynamiikkaa ja aivoverkkoja. Todisteet viittaavat siihen, että hormonit vaikuttavat ruoansulatuskanavan fysiologiaan, maksametabolismiin (CYP3A4, CYP2D6) ja serotoniinisignalointiin mukaan lukien 5-HT2A-reseptorien tiheys kuukautiskierron aikana. Prekliinisistä ja neuroavautuskuvantamistiedoista huolimatta suorat ihmistutkimukset puuttuvat, mikä on kriittistä naisten suuremman mielialan ja stressiin liittyvien häiriöiden kuormituksen vuoksi.",
-        "is": "Yfirlitskoðun um hvernig kvenkyns-hormónar (estradiól og prógesterón) stýra sáleindum-efnum. Sönnunargögn benda til þess að hormónar hafi áhrif á meltingarfæraflýti, lifrarensun (CYP3A4, CYP2D6) og serótonín-merking á meðal annars 5-HT2A-viðtakaþéttleika yfir blæðingartíðlið. Þó að fyrir-klínísk og heilauppflettingargögn séu til skortir beinar manneskja-rannsóknir, sem er mikilvægt miðað við meiri byrðu kvenna af þunglyndi og streitu-tengdum truflunum.",
-        "et": "Narratiivne ülevaade selle kohta, kuidas naise suguhormoonid (estradiool ja progesteroon) reguleerivad psühhedeelide farmakokineetikat, farmakodünaamikat ja ajuvärgistikku. Tõendid viitavad sellele, et hormoonid mõjutavad seedetrakti füsioloogiat, maksaensüüme (CYP3A4, CYP2D6) ja serotoniinsignaliseerimist, sealhulgas 5-HT2A-retseptori tihedust menstruaaltsükli jooksul. Vaatamata prekliinilistele andmetele puuduvad otsesed inimesi käsitlevad uuringud, mis on kriitiliste naiste suurema depressiooni- ja stressitõvete koormuse kontekstis.",
-        "lv": "Narratīvs pārskats par to, kā sieviešu dzimuma hormoni (estrādiols un progesterons) modulē psihedēliku farmakokinētiku, farmakodinamiku un smadzeņu tīklus. Pierādījumi liecina, ka hormoni ietekmē kuņģa-zarnu fizioloģiju, aknu metabolismu (CYP3A4, CYP2D6) un serotoninergisko signalizāciju, ieskaitant 5-HT2A receptoru blīvumu menstruālā cikla laikā. Neskatoties uz prekliniskiem datiem, pastāv tiešu cilvēka pētījumu trūkums, kas ir svarīgi ņemot vērā sieviešu lielāko afektīvo un stresa-saistīto traucējumu nasta.",
-        "lt": "Naratyvus apžvalga, kaip moterų lyties hormonai (estradiol ir progesterone) moduliuoja psichedelinių medžiagų farmakokinetikos, farmakodinamikos ir smegenų tinklus. Įrodymai rodo, kad hormonai veikia virškinimo sistemos fiziologiją, kepenų metabolizmą (CYP3A4, CYP2D6) ir serotonerginio signalizavimo, įskaitant 5-HT2A receptorių tankį per menstruacinį ciklą. Nepaisant preklinikai duomenų, stygus tiesioginių žmonių tyrimų, o tai yra kritiškai svarbu moterų didesnes afekcinės ir su stresu susijusios negalavimo naštos fone."
-      },
-      "notable": false,
-      "notable_reasons": null,
-      "relevance_score": 4,
-      "study_type": "review",
-      "substances": [
-        "lsd",
-        "psilocybin"
-      ],
-      "added_at": "2026-08-01T12:00:00+00:00"
-    },
-    {
-      "title": "A crucial cautionary note on frequently incorrect dose equivalence between ketamine and esketamine.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42547800/",
-      "source": "PubMed",
-      "date": "2026-Aug",
-      "authors": [
-        "Damiano Rodolfo Furlan",
-        "Medeiros Gustavo C",
-        "Quevedo João"
-      ],
-      "doi": "10.1038/s41380-026-03807-w",
-      "summaries": {
-        "en": "Researchers warn of frequent errors in dose equivalence calculations between ketamine and esketamine. The article highlights critical discrepancies in clinical dosing practices that could affect treatment outcomes and patient safety in psychedelic-assisted therapies.",
-        "sv": "Forskare varnar för vanliga fel vid omräkning av dosökning mellan ketamin och esketamin. Artikeln belyser kritiska avvikelser i klinisk doseringsmedicin som kan påverka behandlingsresultat och patientsäkerhet vid psykedelika-assisterad terapi.",
-        "no": "Forskere advarer mot hyppige feil ved omregning av doseekvivalens mellom ketamin og esketamin. Artikkelen fremhever kritiske avvik i klinisk doseringsmedisin som kan påvirke behandlingsresultater og pasientsikkerhet ved psykedelika-assistert terapi.",
-        "da": "Forskere advarer mod hyppige fejl ved omregning af doseekvivalens mellem ketamin og esketamin. Artiklen fremhæver kritiske afvigelser i klinisk doseringsmedicin, som kan påvirke behandlingsresultater og patientsikkerhed ved psykedelika-assisteret terapi.",
-        "fi": "Tutkijat varoittavat yleisistä virheistä ketamiinin ja esketamiinin annosekvivalenssin laskennassa. Artikkelissa korostetaan kriittisiä puutteita kliinisessä annostelukäytännössä, jotka voivat vaikuttaa psykedeelejä hyödyntävän hoidon tuloksiin ja potilasturvallisuuteen.",
-        "is": "Vísindamenn vara við algengum mistökum við útreikning samsvarandi skammta ketamíns og esketamíns. Greinin undirstrikar mikilvæg frávik í klínískum skammtaætlunum sem geta haft áhrif á meðferðarniðurstöður og öryggi sjúklinga í psykindalíkum-aðstoðuðri meðferð.",
-        "et": "Teadlased hoiatavad ketamiini ja esketamiini vahel esinevate sageli esinevate doseekvivalentsuse arvutamise vigade eest. Artikkel toob välja kriitilised erinevused kliinilises annustamispraktikas, mis võivad mõjutada psühhedeelikute-abistatud ravi tulemusi ja patsiendi ohutust.",
-        "lv": "Pētnieki brīdina par bieži esinoši kļūdām ketamīna un esketamīna devu ekvivalences aprēķināšanā. Raksts izceļ kritiskus nesaderības klīniskajā devu noteikšanas praksē, kas var ietekmēt psihodēliju-atbalstītas terapijas rezultātus un pacientu drošību.",
-        "lt": "Mokslininkai įspėja apie dažnai pasitaikančias klaidas skaičiuojant ketamino ir esketamino dozės ekvivalentiškumą. Straipsnyje akcentuojami kritiniai neatitikimai klininėje dozavimo praktikoje, kurie gali turėti įtakos psichodelinių medžiagų pagalba atliekamo gydymo rezultatams ir ligonio saugumui."
-      },
-      "notable": false,
-      "notable_reasons": null,
-      "relevance_score": 4,
-      "study_type": "other",
-      "substances": [
-        "ketamine"
       ],
       "added_at": "2026-08-01T12:00:00+00:00"
     }

@@ -1,6 +1,66 @@
 {
   "items": [
     {
+      "title": "A randomized crossover trial comparing the acute physiological and psychological effects of botanical formulations of oral psilocybin, oral psilocin, and sublingual psilocin.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42668404/",
+      "source": "PubMed",
+      "date": "2026-08-29",
+      "authors": [
+        "Tai Marlene L",
+        "Szigeti Balázs",
+        "Downey Amanda E"
+      ],
+      "doi": "10.1177/02698811261478603",
+      "summary_en": "Randomized crossover trial (n=20) comparing acute effects of botanical oral psilocybin (25 mg), oral psilocin (17.5 mg), and sublingual psilocin (2.18–8 mg) in healthy adults. Oral psilocin produced similar subjective and temporal profiles to oral psilocybin with fewer adverse effects. Sublingual psilocin showed good tolerability but lower drug exposure. Results suggest oral psilocin may offer tolerability advantages for psychedelic-assisted therapy.",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "rct",
+      "substances": [
+        "psilocybin"
+      ],
+      "added_at": "2026-08-30T12:04:49.032814+00:00"
+    },
+    {
+      "title": "The role of BDNF promoter VI in mediating protective effects of prophylactic (R,S)-ketamine.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42668318/",
+      "source": "PubMed",
+      "date": "2026-08-29",
+      "authors": [
+        "Chen Briana K",
+        "Williams Brenna L",
+        "Darling Anna"
+      ],
+      "doi": "10.1038/s41386-026-02536-6",
+      "summary_en": "Study using BDNF-e6 mice investigated whether promoter VI of the BDNF exon VI gene is necessary for ketamine's preventive antidepressant effects. While BDNF is known to mediate ketamine's acute antidepressant action via hippocampal activity-induced synthesis, its role in prophylactic effects remained unclear. Findings clarify BDNF's contribution to ketamine's protective mechanisms.",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "preclinical",
+      "substances": [
+        "ketamine"
+      ],
+      "added_at": "2026-08-30T12:04:49.032814+00:00"
+    },
+    {
+      "title": "Esketamine-based treatment, depression-specific metacognitive training, and their combination in treatment-resistant depression: 6-month trajectories of depressive symptoms and rumination in a multicenter observational study.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42667415/",
+      "source": "PubMed",
+      "date": "2026-08-29",
+      "authors": [
+        "Martiadis Vassilis",
+        "Raffone Fabiola",
+        "Atripaldi Danilo"
+      ],
+      "doi": "10.1007/s00406-026-02361-4",
+      "summary_en": "Esketamine-based treatment, depression-specific metacognitive training, and their combination in treatment-resistant depression: 6-month trajectories of depressive symptoms and rumination in a multicenter observational study.",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "observational",
+      "substances": [
+        "ketamine"
+      ],
+      "added_at": "2026-08-30T12:04:49.032814+00:00"
+    },
+    {
       "title": "Psychedelics in psychiatry: comparative effectiveness, implementation, commercialization and safety lessons learned from intranasal esketamine.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42663266/",
       "source": "PubMed",

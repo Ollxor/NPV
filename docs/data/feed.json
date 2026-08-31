@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-30T12:05:46.229886+00:00",
+  "generated_at": "2026-08-31T14:14:22.273616+00:00",
   "items": [
     {
       "title": "Blinding integrity in psychedelic research: Evidence from a comparative randomized controlled trial of psilocybin, MDMA, and methylphenidate in healthy volunteers",
@@ -249,6 +249,47 @@
         "other"
       ],
       "added_at": "2026-08-28T18:53:07.862220+00:00"
+    },
+    {
+      "title": "Intraoperative esketamine for postoperative analgesia and depression in pancreatic cancer surgery: protocol for a multicenter randomized controlled trial.",
+      "url": "https://doi.org/10.1080/07853890.2026.2722438",
+      "source": "Europe PMC",
+      "date": "2026-08-27",
+      "authors": [
+        "Chong YZ",
+        "Sun YE",
+        "Ma X"
+      ],
+      "doi": "10.1080/07853890.2026.2722438",
+      "summaries": {
+        "en": "Multicenter RCT protocol testing intraoperative esketamine (0.15–0.6 mg/kg) versus placebo in 280 pancreatic cancer surgery patients across three Chinese hospitals. Co-primary endpoints: postoperative analgesia score at 24 h and depression incidence (PHQ-9 ≥10) at 7 days, with secondary assessments at 1 and 3 months.",
+        "sv": "Multicenterstudie med randomiserad dubbelblind design som testar intraoperativ esketamin (0,15–0,6 mg/kg) mot placebo hos 280 pankreascancerpatienter på tre sjukhus i Kina. Primära endpunkter: smärtlindring efter 24 h och depressionsförekomst (PHQ-9 ≥10) efter 7 dagar, med uppföljning vid 1 och 3 månader.",
+        "no": "Multisenter RCT-protokoll som tester intraoperativ esketamin (0,15–0,6 mg/kg) mot placebo hos 280 pankreaskreftrpasientar på tre sjukehus i Kina. Primære endepunkt: postoperativ smertelindring etter 24 t og depresjonsinsidens (PHQ-9 ≥10) etter 7 dagar, med sekundær oppfølging ved 1 og 3 månader.",
+        "da": "Multicenterstudie med randomiseret dobbeltblind design, der intraoperativ esketamin (0,15–0,6 mg/kg) sammenlignes med placebo hos 280 pankreaskræftpatienter på tre hospitaler i Kina. Primære endepunkter: postoperativ smertelindring efter 24 timer og depressionsincidens (PHQ-9 ≥10) efter 7 dage, med sekundær opfølgning ved 1 og 3 måneder.",
+        "fi": "Monisenttrinen satunnaistettu kaksoissokkoutunut tutkimus, joka vertaa intraoperatiivista esketamiinia (0,15–0,6 mg/kg) plaseboa vastaan 280 pankreassyöpäpotilaalla kolmessa Kiinan sairaalassa. Päätulosmitat: postoperatiivinen kivunlievitys 24 tunnin jälkeen ja masennuksen esiintyvyys (PHQ-9 ≥10) 7 päivän jälkeen sekä toissijaiset mittaukset 1 ja 3 kuukauden kohdalla.",
+        "is": "Fjölsetrsstyrð slembiúrtak með tvöfaldri blindri hönnun sem prófar intraoperatífa esketamín (0,15–0,6 mg/kg) gegn placebó hjá 280 krabbameinsjúklingum í næru sem gangast undir skurðaðgerð á þremur sjúkrahúsum í Kína. Aðalútkomur: verkjastjórnun eftir 24 klst og alvarleg þunglyndi (PHQ-9 ≥10) eftir 7 daga, með auknum mælingum eftir 1 og 3 mánuði.",
+        "et": "Mitmeotstarbelise juhuslikustatud kahekordse pimestusega uuring, mis võrdleb intraoperatiivset esketamiini (0,15–0,6 mg/kg) platseeboga 280 haima pahaloomulise kasvajaga patsiendi puhul kolmes Hiina haiglas. Esmased lõpp-punktid: postoperatiivne valu lindistamine 24 tunni möödudes ja depressiooni esinemissagedus (PHQ-9 ≥10) 7 päeva järel, teisesed mõõtmised 1 ja 3 kuu möödudes.",
+        "lv": "Daudzcentru randomizēts dubultaklais pētījums, kurā tiek salīdzināta intraoperatīvā esketamīna (0,15–0,6 mg/kg) un placebo iedarbība 280 pankreas vēža pacientiem trīs Ķīnas slimnīcās. Primārie rezultātu mērinstrumenti: postoperatīvā sāpju mazināšana pēc 24 stundām un vidēji smags vai smags nogurums (PHQ-9 ≥10) pēc 7 dienām, ar sekundāriem mērījumiem 1. un 3. mēnesi.",
+        "lt": "Daugiacentrinis randomizuotas dvigubai aklas tyrimas, kuriame lyginamas intraoperacinis esketaminas (0,15–0,6 mg/kg) su placebu 280 kūno liaukos vėžiu sergantiems pacientams trijose Kinijos ligoninėse. Pirminiai galutiniai taškai: postoperacinis skausmo lengvinimas praėjus 24 valandoms ir vidutinė arba sunki depresija (PHQ-9 ≥10) praėjus 7 dienoms, su antriniais matavimai 1 ir 3 mėnesių."
+      },
+      "notable": true,
+      "notable_reasons": {
+        "en": "Multicenter RCT (n=280) with dual primary endpoints testing esketamine's rapid-onset antidepressant properties in a high-risk surgical population.",
+        "sv": "Flercenter-RCT (n=280) med dubbla primära slutpunkter som testar esketamins snabba antidepressiva egenskaper i en högriskkirurgisk population.",
+        "no": "Multisenter-RCT (n=280) med to primære endepunkter som tester esketamins raskt virkende antidepressiv egenskaper i en høyrisiko-kirurgisk populasjon.",
+        "da": "Multicenterstudie RCT (n=280) med to primære endepunkter, der esketamins hurtigtvirkende antidepressive egenskaber testes i en højrisikokirurgisk population.",
+        "fi": "Monitapainen RCT (n=280) kahdella pääasiallisella päätetapahtumalla, joka testaa esketamiinin nopeasti vaikuttavia masennuslääkkeen ominaisuuksia korkean riskin kirurgisessa populaatiossa.",
+        "is": "Fjölflétta RCT (n=280) með tveim aðaltilvikum sem prófar hraðvirkni þunglyndismeðferðar esketamíns í hópi sjúklinga með mikla áhættu við skurðaðgerð.",
+        "et": "Mitmeotstarbeliste keskustega RCT (n=280) kahe peamise lõpp-punktiga, mis testib esketamiini kiire toimega antidepressantset omadusi kõrge riskiga kirurgilises populatsioonis.",
+        "lv": "Daudzzinātniski centru RCT (n=280) ar diviem primārajiem galapunktiem, kas pārbauda esketamīna ātrajā darbības antidepresīvās īpašības augsta riska ķirurģiskā populācijā.",
+        "lt": "Daugiacentrinė RCT (n=280) su dviem pirminiais galiniais taškais, testuojančiais esketamino greitai veikiančias antidepresines savybes aukštos rizikos chirurginėje populiacijoje."
+      },
+      "relevance_score": 4,
+      "study_type": "rct",
+      "substances": [
+        "ketamine"
+      ],
+      "added_at": "2026-08-31T14:13:57.802883+00:00"
     },
     {
       "title": "Efficacy and tolerability of ketamine in moderate to severe obsessive-compulsive disorder: a systematic review.",
@@ -1904,37 +1945,6 @@
       "notable": false,
       "notable_reasons": null,
       "relevance_score": 4,
-      "study_type": "other",
-      "substances": [
-        "other"
-      ],
-      "added_at": "2026-08-01T12:00:00+00:00"
-    },
-    {
-      "title": "Blinding Integrity and Psychedelic Drug Trials-Reply.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42555020/",
-      "source": "PubMed",
-      "date": "2026-Aug",
-      "authors": [
-        "Cubala Wieslaw J",
-        "Valcheva Velichka",
-        "Thase Michael E"
-      ],
-      "doi": "10.1001/jamapsychiatry.2026.2296",
-      "summaries": {
-        "en": "This is a reply article addressing blinding integrity in psychedelic research trials. Without access to the full text, the specific methodological concerns and responses cannot be detailed. The piece likely discusses challenges in maintaining double-blind conditions in clinical studies of hallucinogens, given their distinctive subjective effects.",
-        "sv": "Detta är ett svarsinlägg som behandlar blinderingens integritet i försök med psykedelika. Utan tillgång till fullständig text kan specifika metodologiska frågor och svar inte beskrivas i detalj. Artikeln diskuterar förmodligen utmaningar med att upprätthålla dubbelblindning i kliniska studier av hallucinogener.",
-        "no": "Dette er et svarartikkel som omhandler blindingsintegritet i forsøk med psykedelika. Uten tilgang til full tekst kan spesifikke metodologiske bekymringer og svar ikke beskrives i detalj. Artikkelen diskuterer sannsynligvis utfordringer ved å opprettholde dobbeltblinding i kliniske studier av hallusinogener.",
-        "da": "Dette er et svarindlæg, der behandler blindingens integritet i forsøg med psykedelika. Uden adgang til fuldt tekst kan specifikke metodologiske bekymringer og svar ikke beskrives detaljeret. Artiklen diskuterer sandsynligvis udfordringer ved at opretholde dobbeltblinding i kliniske studier af hallucinogener.",
-        "fi": "Tämä on vastausartikkeli, joka käsittelee sokaisun eheyden säilyttämistä psykedeelikokeiluissa. Ilman pääsyä täystekstiin ei voida yksityiskohtaisesti kuvata metodologisia huolenaiheita ja vastauksia. Artikkeli käsittelee todennäköisesti kaksoissokaisen ylläpidon haasteita hallusinogeenien kliinisissä tutkimuksissa.",
-        "is": "Þetta er svarsgrein sem fjallar um heilleika blindunar í rannsóknum á hállucinógendum efnum. Án aðgangs að fullum texta er ekki hægt að lýsa sérstökum aðferðafræðilegum áhyggjum og svörum í smáatriðum. Greinin fjallar líklega um áskoranir við að viðhalda tvöfaldri blindun í klínískum rannsóknum á hallúsinógendum.",
-        "et": "See on vastusartikkel, mis käsitleb pimenemise terviklikkust psühhedeelikute uuringutes. Ilma juurdepääsuta täisele tekstile ei ole võimalik üksikasjalikult kirjeldada konkreetseid metodoloogilisi murekohti ja vastuseid. Artikkel käsitleb tõenäoliselt topeltpimenemise säilitamise väljakutseid hallutsinogeenitega kliinilistes uuringutes.",
-        "lv": "Šis ir atbildes raksts, kas risina aklo metodes integritāti psihedēlisko vielu pētījumos. Bez piekļuves pilnajam tekstam nav iespējams detalizēti aprakstīt konkrētas metodoloģiskas bažas un atbildes. Raksts iespējams apspriež izaicinājumus dubultās aklo metodes uzturēšanā halucinogēnu klīniskajos pētījumos.",
-        "lt": "Tai atsakomasis straipsnis, kuriame svarstoma apaklinimo integralumas psichedelinių medžiagų tyrimuose. Be prieigos prie pilno teksto konkrečių metodologinių problemų ir atsakymų negalima išsamiai aprašyti. Straipsnis tikriausiai aptaria iššūkius, susijusius su dvigubos aklios schemos išlaikymu klinikiniu psichedelinių tyrimais."
-      },
-      "notable": false,
-      "notable_reasons": null,
-      "relevance_score": 3,
       "study_type": "other",
       "substances": [
         "other"

@@ -1,6 +1,26 @@
 {
   "items": [
     {
+      "title": "Intraoperative esketamine for postoperative analgesia and depression in pancreatic cancer surgery: protocol for a multicenter randomized controlled trial.",
+      "url": "https://doi.org/10.1080/07853890.2026.2722438",
+      "source": "Europe PMC",
+      "date": "2026-08-27",
+      "authors": [
+        "Chong YZ",
+        "Sun YE",
+        "Ma X"
+      ],
+      "doi": "10.1080/07853890.2026.2722438",
+      "summary_en": "Multicenter RCT protocol testing intraoperative esketamine (0.15–0.6 mg/kg) versus placebo in 280 pancreatic cancer surgery patients across three Chinese hospitals. Co-primary endpoints: postoperative analgesia score at 24 h and depression incidence (PHQ-9 ≥10) at 7 days, with secondary assessments at 1 and 3 months.",
+      "notable": true,
+      "notable_reason": "Multicenter RCT (n=280) with dual primary endpoints testing esketamine's rapid-onset antidepressant properties in a high-risk surgical population.",
+      "study_type": "rct",
+      "substances": [
+        "ketamine"
+      ],
+      "added_at": "2026-08-31T14:13:57.802883+00:00"
+    },
+    {
       "title": "A randomized crossover trial comparing the acute physiological and psychological effects of botanical formulations of oral psilocybin, oral psilocin, and sublingual psilocin.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42668404/",
       "source": "PubMed",

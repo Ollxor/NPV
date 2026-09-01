@@ -1,6 +1,169 @@
 {
   "items": [
     {
+      "title": "Serotonergic psychedelics induce distinct patterns of metabolic activity and covariance within biologically informed rat brain networks.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42675044/",
+      "source": "PubMed",
+      "date": "2026-08-03",
+      "authors": [
+        "Gudmundsen Frederik",
+        "Czurylo Julia",
+        "Rijsketic Daniel R"
+      ],
+      "doi": "10.1038/s41467-026-75890-0",
+      "summary_en": "PET imaging study in rats comparing acute and one-week effects of psilocybin, LSD, and 2C-B on brain metabolism. Despite sharing serotonin 2A receptor activity, the three substances produced distinct metabolic patterns in cortico-striatal and limbic networks. LSD and psilocybin showed sustained hypometabolism after one week, while 2C-B did not. Findings support a network-level framework for understanding shared and drug-specific mechanisms relevant to therapeutic applications.",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "preclinical",
+      "substances": [
+        "psilocybin",
+        "lsd",
+        "mescaline"
+      ],
+      "added_at": "2026-09-01T11:53:04.984893+00:00"
+    },
+    {
+      "title": "Pharmacokinetics, pharmacodynamics and safety of",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42671902/",
+      "source": "PubMed",
+      "date": "2026-08-31",
+      "authors": [
+        "van der Heijden Katelijne V",
+        "Makai-Bölöni Soma",
+        "Inamdar Amir"
+      ],
+      "doi": "10.1177/02698811261473451",
+      "summary_en": "Randomised controlled study examining DMT administration in healthy volunteers via 90-minute and escalating-dose intravenous infusions. Doses ranged from 0.10–0.81 mg/min (part 1) to 3.64–4.93 mg/min (part 2). Psychedelic effects emerged at ~35 ng/mL plasma concentration. Smoking doubled DMT levels, likely due to monoamine oxidase inhibition. All adverse events were mild-moderate and self-limiting; two subjects discontinued due to anxiety. Moderate pharmacokinetic variability observed.",
+      "notable": true,
+      "notable_reason": "First-in-human study establishing optimal dosing regimen, PK/PD relationship, and safety profile for intravenous DMT administration in healthy volunteers.",
+      "study_type": "rct",
+      "substances": [
+        "other"
+      ],
+      "added_at": "2026-09-01T11:53:04.984893+00:00"
+    },
+    {
+      "title": "The Prescriber's Guide to Oral Ketamine for Patients With Major Depressive Illness: Principles and Practice.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42671282/",
+      "source": "PubMed",
+      "date": "2026-08-26",
+      "authors": [
+        "Andrade Chittaranjan"
+      ],
+      "doi": "10.4088/JCP.26f16110",
+      "summary_en": "This prescriber's guide examines oral ketamine for treating major depression. Ketamine can be administered multiple ways; oral administration using repurposed injectable ketamine is a noninvasive, safe, and cost-effective option. When sipped in liquid form over 20-30 minutes, dissociative and neurological side effects are minimized. The approach offers particular advantages for low-resource and low-to-middle-income settings, avoiding costs of patented formulations and hospitalization.",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "other",
+      "substances": [
+        "ketamine"
+      ],
+      "added_at": "2026-09-01T11:53:04.984893+00:00"
+    },
+    {
+      "title": "Optimizing Ketamine Infusion Therapy for Treatment-Resistant Bipolar Depression: Commentary on Zhou et al. (2023).",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42670081/",
+      "source": "PubMed",
+      "date": "2026-Sep",
+      "authors": [
+        "Lin Chih-Cheng",
+        "Wei Lien-Chung"
+      ],
+      "doi": "10.1111/bdi.70177",
+      "summary_en": "Commentary on ketamine infusion therapy for treatment-resistant bipolar depression. Repeated subanesthetic ketamine infusions show rapid symptom improvement with acceptable short-term safety. However, inflammatory markers' predictive value varies; cognitive data are limited; and relapse risk after treatment highlights need for individualized maintenance planning. Prospective bipolar-specific studies needed.",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "other",
+      "substances": [
+        "ketamine"
+      ],
+      "added_at": "2026-09-01T11:53:04.984893+00:00"
+    },
+    {
+      "title": "The role of therapeutic alliance in psilocybin treatment for treatment-resistant depression: A post hoc path analysis",
+      "url": "https://doi.org/10.1016/j.jad.2026.121662",
+      "source": "OpenAIRE",
+      "date": "2026-08-01",
+      "authors": [
+        "Goodwin, Guy M.",
+        "Aaronson, Scott T.",
+        "Alvarez, Oscar"
+      ],
+      "doi": "10.1016/j.jad.2026.121662",
+      "summary_en": "The role of therapeutic alliance in psilocybin treatment for treatment-resistant depression: A post hoc path analysis",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "observational",
+      "substances": [
+        "psilocybin"
+      ],
+      "added_at": "2026-09-01T11:53:04.984893+00:00"
+    },
+    {
+      "title": "The Experience-Trajectory Framework: Substance-Specific Risk Stratification for Psychedelic Preparation and Aftercare Beyond Set and Setting",
+      "url": "https://doi.org/10.36948/ijfmr.2026.v08i04.84804",
+      "source": "OpenAIRE",
+      "date": "2026-07-31",
+      "authors": [
+        "Elias Rubenstein"
+      ],
+      "doi": "10.36948/ijfmr.2026.v08i04.84804",
+      "summary_en": "The Experience-Trajectory Framework: Substance-Specific Risk Stratification for Psychedelic Preparation and Aftercare Beyond Set and Setting",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "other",
+      "substances": [
+        "psilocybin",
+        "lsd",
+        "mescaline",
+        "ayahuasca",
+        "other"
+      ],
+      "added_at": "2026-09-01T11:53:04.984893+00:00"
+    },
+    {
+      "title": "Childhood trauma and psychological outcomes following psychedelic use: a scoping review",
+      "url": "https://doi.org/10.1038/s44184-026-00233-2",
+      "source": "OpenAIRE",
+      "date": "2026-07-30",
+      "authors": [
+        "Lorraine Li",
+        "Paige Seath",
+        "Nadav Liam Modlin"
+      ],
+      "doi": "10.1038/s44184-026-00233-2",
+      "summary_en": "Childhood trauma and psychological outcomes following psychedelic use: a scoping review",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "review",
+      "substances": [
+        "psilocybin",
+        "ayahuasca",
+        "mdma"
+      ],
+      "added_at": "2026-09-01T11:53:04.984893+00:00"
+    },
+    {
+      "title": "Identifying factors that contribute to the behavioral effects of psilocybin in preclinical mouse models",
+      "url": "https://doi.org/10.64898/2026.07.24.740586",
+      "source": "OpenAIRE",
+      "date": "2026-07-28",
+      "authors": [
+        "Sixtine Fleury",
+        "Luke J. Chang",
+        "Katherine M. Nautiyal"
+      ],
+      "doi": "10.64898/2026.07.24.740586",
+      "summary_en": "Large preclinical study (N=693 mice) identifies factors modulating psilocybin's behavioral effects. Acute responses (head twitch, locomotion) were robust, while post-acute effects (sucrose preference, anxiety tests) varied significantly. Sex, stress model, and 5-HT1B signaling emerged as key modulators of antidepressant-like and anxiolytic outcomes, explaining heterogeneity in drug response across laboratories.",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "preclinical",
+      "substances": [
+        "psilocybin"
+      ],
+      "added_at": "2026-09-01T11:53:04.984893+00:00"
+    },
+    {
       "title": "Intraoperative esketamine for postoperative analgesia and depression in pancreatic cancer surgery: protocol for a multicenter randomized controlled trial.",
       "url": "https://doi.org/10.1080/07853890.2026.2722438",
       "source": "Europe PMC",

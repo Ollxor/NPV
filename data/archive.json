@@ -1,6 +1,88 @@
 {
   "items": [
     {
+      "title": "Age and Cannabis Co-Use Are Associated with Differences in Experience and Perceived Benefits of Psilocybin: A Retrospective Study.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42682203/",
+      "source": "PubMed",
+      "date": "2026-09-02",
+      "authors": [
+        "Hooper Jake",
+        "Williams Sarah",
+        "Mueller Raeghan"
+      ],
+      "doi": "10.1080/02791072.2026.2727016",
+      "summary_en": "Retrospective cross-sectional study of 365 psilocybin users examined how age and cannabis co-use influenced acute experiences and perceived benefits. Younger adults (18-25) reported more adverse effects than older adults (55-77), though age did not significantly affect mystical experiences or psychological insights. Cannabis co-use was associated with greater perceived improvements in quality of life, anxiety, depression, and alcohol use. Findings suggest age and cannabis may modulate psilocybin's effects and therapeutic outcomes.",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "observational",
+      "substances": [
+        "psilocybin"
+      ],
+      "added_at": "2026-09-02T11:33:33.070909+00:00"
+    },
+    {
+      "title": "The mPFC-reuniens-hippocampus pathway links brain circuitry and neural plasticity in antidepressant response.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42680757/",
+      "source": "PubMed",
+      "date": "2026-09-01",
+      "authors": [
+        "Veleanu Maxime",
+        "Schuberth Louise",
+        "Kilias Antje"
+      ],
+      "doi": "10.1038/s41467-026-77248-y",
+      "summary_en": "Mouse study identifies the mPFC-reuniens-hippocampus circuit as central to antidepressant response. Chemogenetic activation of infralimbic cortex produced rapid antidepressant-like effects and enhanced hippocampal plasticity. The thalamic nucleus reuniens mediated these effects; blocking it prevented both stimulation-induced antidepressant response and ketamine's therapeutic effects, linking circuit activity to depression.",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "preclinical",
+      "substances": [
+        "ketamine"
+      ],
+      "added_at": "2026-09-02T11:33:33.070909+00:00"
+    },
+    {
+      "title": "Can Psychedelics help with Alcohol Use Disorder (AUD): For now, the data says no.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42677050/",
+      "source": "PubMed",
+      "date": "2026-04-10",
+      "authors": [
+        "Blum Kenneth",
+        "Lewandrowski Kai-Uwe",
+        "Lorio Morgan P"
+      ],
+      "doi": "10.66339/sa.mhc.2026.073",
+      "summary_en": "A narrative review of RCTs and meta-analyses finds limited evidence supporting classical psychedelics (LSD, psilocybin, MDMA) for alcohol use disorder treatment. While interest is growing, existing studies show sparse efficacy data with high expectancy bias and short follow-ups. FDA-approved medications (naltrexone, acamprosate, disulfiram) remain underutilized at 2% clinical adoption. Psychedelics may warrant investigation in treatment-resistant cases through rigorous, placebo-controlled trials, but current evidence does not support routine clinical use.",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "review",
+      "substances": [
+        "lsd",
+        "mdma",
+        "psilocybin"
+      ],
+      "added_at": "2026-09-02T11:33:33.070909+00:00"
+    },
+    {
+      "title": "Factors Associated with Intentions to Use Psilocybin for Mental Health in Relation to Psychotherapy, Psychiatric Medications, and Natural/Synthetic Options.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42678038/",
+      "source": "PubMed",
+      "date": "2026-09-01",
+      "authors": [
+        "Meier Brian P",
+        "Lappas Courtney M",
+        "Johnson Matthew W"
+      ],
+      "doi": "10.1080/02791072.2026.2727013",
+      "summary_en": "Two independent studies examined factors influencing intentions to use psilocybin for mental health treatment. The research explored how perceptions vary regarding psilocybin's potential role alongside psychotherapy, psychiatric medications, and natural versus synthetic options. This represents one of few systematic investigations into public attitudes toward psilocybin in clinical mental health contexts.",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "observational",
+      "substances": [
+        "psilocybin"
+      ],
+      "added_at": "2026-09-02T11:33:33.070909+00:00"
+    },
+    {
       "title": "Serotonergic psychedelics induce distinct patterns of metabolic activity and covariance within biologically informed rat brain networks.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42675044/",
       "source": "PubMed",

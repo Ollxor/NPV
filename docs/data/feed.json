@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-01T11:55:58.941186+00:00",
+  "generated_at": "2026-09-02T11:34:50.349859+00:00",
   "items": [
     {
       "title": "Blinding integrity in psychedelic research: Evidence from a comparative randomized controlled trial of psilocybin, MDMA, and methylphenidate in healthy volunteers",
@@ -32,6 +32,99 @@
         "mdma"
       ],
       "added_at": "2026-07-09T10:03:12.956794+00:00"
+    },
+    {
+      "title": "Age and Cannabis Co-Use Are Associated with Differences in Experience and Perceived Benefits of Psilocybin: A Retrospective Study.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42682203/",
+      "source": "PubMed",
+      "date": "2026-09-02",
+      "authors": [
+        "Hooper Jake",
+        "Williams Sarah",
+        "Mueller Raeghan"
+      ],
+      "doi": "10.1080/02791072.2026.2727016",
+      "summaries": {
+        "en": "Retrospective cross-sectional study of 365 psilocybin users examined how age and cannabis co-use influenced acute experiences and perceived benefits. Younger adults (18-25) reported more adverse effects than older adults (55-77), though age did not significantly affect mystical experiences or psychological insights. Cannabis co-use was associated with greater perceived improvements in quality of life, anxiety, depression, and alcohol use. Findings suggest age and cannabis may modulate psilocybin's effects and therapeutic outcomes.",
+        "sv": "En retrospektiv tvärsnittsstudie med 365 psilocybin-användare undersökte hur ålder och cannabissambruk påverkade akuta effekter och upplevda fördelar. Yngre vuxna (18-25) rapporterade fler negativa effekter än äldre vuxna (55-77), men ålder påverkade inte mystikerfarenheter eller psykologiska insikter signifikant. Cannabissambruk associerades med större upplevd förbättring av livskvalitet, ångest, depression och alkoholbruk. Resultaten tyder på att ålder och cannabis kan modulera psilocybins effekter och terapeutiska resultat.",
+        "no": "En retrospektiv tverrsnittstudie av 365 psilocybin-brukere undersøkte hvordan alder og cannabissambruk påvirket akutte erfaringer og opplevde fordeler. Yngre voksne (18-25) rapporterte flere negative effekter enn eldre voksne (55-77), men alder påvirket ikke mystiske erfaringer eller psykologisk innsikt signifikant. Cannabissambruk var forbundet med større opplevd forbedring av livskvalitet, angst, depresjon og alkoholbruk. Funnene tyder på at alder og cannabis kan modulere psilocybins effekter og terapeutiske resultater.",
+        "da": "En retrospektiv tværsnitstudie af 365 psilocybin-brugere undersøgte, hvordan alder og cannabissamforbrug påvirkede akutte oplevelser og oplevede fordele. Yngre voksne (18-25) rapporterede flere negative effekter end ældre voksne (55-77), men alder påvirkede ikke mystiske erfaringer eller psykologisk indsigt signifikant. Cannabissamforbrug var forbundet med større oplevede forbedringer af livskvalitet, angst, depression og alkoholforbrug. Resultaterne tyder på, at alder og cannabis kan modulere psilocybins effekter og terapeutiske resultater.",
+        "fi": "Retrospektiivinen poikittaistutkimus 365 psilosybiinin käyttäjällä tutki, miten ikä ja kannabiksen rinnakkaiskäyttö vaikuttivat akuutteihin kokemuksiin ja koettuihin hyötyihin. Nuoremmat aikuiset (18-25) ilmoittivat useammista haitallisista vaikutuksista kuin vanhemmat aikuiset (55-77), mutta ikä ei merkittävästi vaikuttanut mystisiin kokemuksiin tai psykologiseen ymmärrykseen. Kannabiksen rinnakkaiskayttö oli yhteydessä suurempaan koettuun elämänlaadun, ahdistuksen, masennuksen ja alkoholin käytön paranemiseen. Tulokset viittaavat siihen, että ikä ja kannabis voivat säätää psilosybiinin vaikutuksia ja terapeuttisia tuloksia.",
+        "is": "Afturvirk þversniðsrannsókn með 365 psilosýbín-notendum skoðaði hvernig aldur og samsamnotkun kannabis hafði áhrif á bein áhrif og skynjaða ávinning. Yngri fullorðnir (18-25) tilkynntu um fleiri neikvæð áhrif en eldri fullorðnir (55-77), en aldur hafði ekki marktæk áhrif á djarflega reynslu eða sálræna innsýn. Samsamnotkun kannabis var tengd meiri skynjuðum bótum fyrir lífsgæði, kvöl, þunglyndi og áfengisnotkun. Niðurstöður benda til þess að aldur og kannabis geti breytt áhrifum psilosýbíns og meðferðarniðurstöðum.",
+        "et": "Retrospektiivne ristlõikeuuring 365 psilotsibiini kasutajaga uuris, kuidas vanus ja kannabise kaasinahtumine mõjutasid ägeda kogemuse ja tajutud kasu. Nooremad täiskasvanud (18-25) teatanud rohkem kahjulikest mõjust kui vanemad täiskasvanud (55-77), kuid vanus ei mõjutanud oluliselt müstilisi kogemusi ega psühholoogilist ülevaadet. Kannabise kaasnahtumine oli seotud paremini tajutud elukvaliteedi, ärevuse, depressiooni ja alkoholi kuritarvitamisega. Tulemused viitavad sellele, et vanus ja kannabis võivad moduleerida psilotsibiini mõju ja terapeutilist tulemust.",
+        "lv": "Retrospektīvs šķērsgriezuma pētījums ar 365 psilocibīna lietotājiem pārbaudīja, kā vecums un kannabinoīdu līdzlietošana ietekmēja akūtas pieredzes un uztvertos ieguvumus. Jaunāki pieaugušie (18-25) ziņoja par vairāk nevēlamu efektu nekā vecāki pieaugušie (55-77), taču vecums neietekmēja būtiski mistiskas pieredzes vai psiholoģisku ieskatu. Kannabinoīdu līdzlietošana bija saistīta ar lielāku uztverto dzīves kvalitātes, trauksmes, depresijas un alkohola ļaunprātīgas lietošanas uzlabošanos. Atradumi liecina, ka vecums un kannabinoīdi var modulēt psilocibīna efektus un terapeitiskos rezultātus.",
+        "lt": "Retrospektyvinis skerspjūvio tyrimas su 365 psilocibino vartotojais negraudė, kaip amžius ir kanabio bendras vartojimas veikė ūmius patyrimus ir suvoktas naudas. Jaunesnių suaugusiųjų (18-25) pranešta apie daugiau neigiamų efektų nei vyresnių suaugusiųjų (55-77), tačiau amžius reikšmingai neveikė mistinių patirčių ar psichologinės sąmonės. Bendras kanabio vartojimas buvo susijęs su didesniais suvokto gyvenimo kokybės, nerimo, depresijos ir alkoholio piktnaudžiavimo patobulinimais. Rezultatai rodo, kad amžius ir kanabis gali moduliuoti psilocibino efektus ir terapinius rezultatus."
+      },
+      "notable": false,
+      "notable_reasons": null,
+      "relevance_score": 4,
+      "study_type": "observational",
+      "substances": [
+        "psilocybin"
+      ],
+      "added_at": "2026-09-02T11:33:33.070909+00:00"
+    },
+    {
+      "title": "The mPFC-reuniens-hippocampus pathway links brain circuitry and neural plasticity in antidepressant response.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42680757/",
+      "source": "PubMed",
+      "date": "2026-09-01",
+      "authors": [
+        "Veleanu Maxime",
+        "Schuberth Louise",
+        "Kilias Antje"
+      ],
+      "doi": "10.1038/s41467-026-77248-y",
+      "summaries": {
+        "en": "Mouse study identifies the mPFC-reuniens-hippocampus circuit as central to antidepressant response. Chemogenetic activation of infralimbic cortex produced rapid antidepressant-like effects and enhanced hippocampal plasticity. The thalamic nucleus reuniens mediated these effects; blocking it prevented both stimulation-induced antidepressant response and ketamine's therapeutic effects, linking circuit activity to depression.",
+        "sv": "Mösstudien identifierar mPFC-reuniens-hippocampus-kretsen som central för antidepressiv respons. Kemogenetisk aktivering av infralimbisk cortex gav snabb antidepressiv effekt och förbättrad hippocampus-plasticitet. Thalamus nucleus reuniens förmedlade dessa effekter; blockering förhindrade både stimulerings-inducerad respons och ketamins terapeutiska effekter.",
+        "no": "Musesstudien identifiserer mPFC-reuniens-hippocampus-kretsen som sentral for antidepressiv respons. Kemogenetisk aktivering av infralimbisk cortex ga rask antidepressiv effekt og forbedret hippocampus-plastisitet. Thalamus nucleus reuniens formidlet disse effektene; blokkering hindret bade stimuleringsindusert respons og ketamins terapeutiske effekter.",
+        "da": "Musestudien identificerer mPFC-reuniens-hippocampus-kredsløbet som centralt for antidepressiv respons. Kemogenetisk aktivering af infralimbisk cortex gav hurtig antidepressiv effekt og forbedret hippocampus-plasticitet. Thalamus nucleus reuniens formidlede disse effekter; blokering forhindrede både stimuleringsudløst respons og ketamins terapeutiske effekter.",
+        "fi": "Hiiritutkimus tunnistaa mPFC-reuniens-hippocampus-piirin antidepressiivisen vasteen kannalta keskeisenä. Infralimbisen aivokuoren kemogeneetinen aktivointi tuotti nopean antidepressiivisen vaikutuksen ja paransi hippocampuksen plastisuutta. Thalamus nucleus reuniens välitti nämä vaikutukset; sen estäminen esti sekä stimulaation aiheuttaman vasteen että ketamiinin terapeuttisia vaikutuksia.",
+        "is": "Músarannsókn sýnir að mPFC-reuniens-seahöfði-braut er lykilatriði fyrir andirðandi áhrif antidepressiflyfja. Kemógenetísk virkjun infralimbíska kortexsins olli hröðum andirðandi áhrifum og bættri plastisku sannfæringu. Thalamus nucleus reuniens miðlaði þessum áhrifum; blokkun kom í veg fyrir bæði stimulunaráhrif og meðferðaráhrif ketamíns.",
+        "et": "Hiirte uuringu tulemused näitavad, et mPFC-reuniens-hippocampus-ahel on antidepressantide toimele keskne roll. Infralimbilise kooruse kemogeneetiline aktiveerimine andis kiiret antidepressiivsed toimed ja parandas hippocampuse plastilisust. Thalamus nucleus reuniens vahendas neid toimed; selle blokeerimine takistas nii stimuleerimist kui ka ketamiini terapeutilisi toimed.",
+        "lv": "Peles pētījums identificē mPFC-reuniens-hippocampus ceļu kā centrālu antidepresiju atbildei. Infralimbiskās garozas kemogēnētiska aktivizēšana izraisīja ātru antidepresiju efektu un uzlaboja hipokampa plastiskumu. Thalamus nucleus reuniens starpniecīgi realizēja šos efektus; tā bloķēšana novērsa gan stimulācijas izraisītu atbildi, gan ketamīna terapeitiskos efektus.",
+        "lt": "Pelių tyrimas identifikuoja mPFC-reuniens-hippocampus grandinę kaip pagrindinę antidepresantų atsakui. Infraliminės žievės chemogenetinis aktyvavimas sudarė greitą antidepresantinį poveikį ir pagerinę hipokampo plastiškumą. Thalamo nucleus reuniens tarpininko šiems efektams; jo blokavimas stabdė tiek stimuliavimo indukuotą atsaką, tiek ketamino terapinį poveikį."
+      },
+      "notable": false,
+      "notable_reasons": null,
+      "relevance_score": 4,
+      "study_type": "preclinical",
+      "substances": [
+        "ketamine"
+      ],
+      "added_at": "2026-09-02T11:33:33.070909+00:00"
+    },
+    {
+      "title": "Factors Associated with Intentions to Use Psilocybin for Mental Health in Relation to Psychotherapy, Psychiatric Medications, and Natural/Synthetic Options.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42678038/",
+      "source": "PubMed",
+      "date": "2026-09-01",
+      "authors": [
+        "Meier Brian P",
+        "Lappas Courtney M",
+        "Johnson Matthew W"
+      ],
+      "doi": "10.1080/02791072.2026.2727013",
+      "summaries": {
+        "en": "Two independent studies examined factors influencing intentions to use psilocybin for mental health treatment. The research explored how perceptions vary regarding psilocybin's potential role alongside psychotherapy, psychiatric medications, and natural versus synthetic options. This represents one of few systematic investigations into public attitudes toward psilocybin in clinical mental health contexts.",
+        "sv": "Två oberoende studier undersökte faktorer som påverkar intentioner att använda psilo­cybin för psykisk hälsa. Forskningen utforskade hur uppfattningar skiljer sig gällande psilo­cybins potentiella roll tillsammans med psykoterapi, psykiatriska mediciner och naturliga kontra syntetiska alternativ. Detta är en av få systematiska undersökningar av allmänhetens inställning till psilo­cybin i kliniska sammanhang.",
+        "no": "To uavhengige studier undersøkte faktorer som påvirker intensjonen om å bruke psilocybin for psykisk helse. Forskningen utforsket hvordan oppfatninger varierer når det gjelder psilocybins potensielle rolle sammen med psykoterapibehandling, psykiatriske medisiner og naturlige kontra syntetiske alternativer. Dette er en av få systematiske undersøkelser av publikums holdninger til psilocybin.",
+        "da": "To uafhængige studier undersøgte faktorer, der påvirker intentionen om at bruge psilocybin til psykisk sundhed. Forskningen udforsker, hvordan opfattelser varierer angående psilocybins potentielle rolle sammen med psykoterapi, psykiatrisk medicin og naturlige versus syntetiske alternativer. Dette er en af få systematiske undersøgelser af offentlighedens holdninger til psilocybin i klinisk sammenhæng.",
+        "fi": "Kaksi itsenäistä tutkimusta selvitti psiloksiinin käyttöaikeisiin liittyviä tekijöitä mielenterveyden hoidossa. Tutkimuksessa tarkasteltiin, kuinka käsitykset vaihtelevat psiloksiinin mahdollisesta roolista psykoterapian, psykiatristen lääkkeiden ja luonnollisten verrattuna synteettisiin vaihtoehtoihin liittyen. Kyseessä on yksi harvoista systemaattisista tutkimuksista julkisen mielipiteen psiloksiiniin liittyen.",
+        "is": "Tvær óháðar rannsóknir könnuðu þá þætti sem hafa áhrif á fyrirætlanir um notkun psílokyníns fyrir andlega heilsu. Rannsóknin kannaði hvernig skoðanir eru mismunandi varðandi hugsanlegt hlutverk psílokyníns við meðferð með sálrænni meðferð, geðlyfjum og náttúrulegum samanborið við gervilegum valkostum. Þetta er ein af fáum kerfisbundnum rannsóknum á viðhorfi almennings til psílokyníns.",
+        "et": "Kaks sõltumatut uuringut uurisid tegureid, mis mõjutavad psülotsübiini kasutamise kavatsust vaimse tervise jaoks. Uuringus uuriti, kuidas erinevad arusaamad psülotsübiini võimalikust rollist psühhoterapia, psühhiaatriliste ravimite ja loodusliku versus sünteetiliste valikute kõrval. See on üks vähestest süstemaatilisest uuringust avalikkuse hoiakutest psülotsübiini suhtes.",
+        "lv": "Divi neatkarīgi pētījumi pētīja faktorus, kas ietekmē nodomu izmantot psilocibīnu garīgās veselības ārstēšanai. Pētniecība pārbaudīja, kā uzskati atšķiras attiecībā uz psilocibīna potenciālo lomu kopā ar psihoterapiju, psihiatriskajiem medikamentiem un dabiskajiem salīdzinājumā ar sintētiskajiem variantiem. Šis ir viens no retajiem sistemātiskiem pētījumiem par sabiedrības attieksmi pret psilocibīnu.",
+        "lt": "Du nepriklausomi tyrimai nagrinėjo veiksnius, kurie veikia psilo­cibino naudojimo norą psichikos sveikatos gydymui. Tyrime buvo nagrinėjami skirtumai tarp psilo­cibino galimo vaidmens su psichoteraija, psichiatrini­ais vaistais ir natūraliais, palyginti su sintetiniais variantais. Tai vienas iš retų sisteminių tyrimų apie visuomenės nuomonę apie psilo­cibiną klinikinėje praktikoje."
+      },
+      "notable": false,
+      "notable_reasons": null,
+      "relevance_score": 3,
+      "study_type": "observational",
+      "substances": [
+        "psilocybin"
+      ],
+      "added_at": "2026-09-02T11:33:33.070909+00:00"
     },
     {
       "title": "Optimizing Ketamine Infusion Therapy for Treatment-Resistant Bipolar Depression: Commentary on Zhou et al. (2023).",
@@ -1854,110 +1947,6 @@
         "ketamine"
       ],
       "added_at": "2026-08-11T07:44:36.046881+00:00"
-    },
-    {
-      "title": "Psilocybin-assisted therapy for treatment-resistant major depressive disorder in a public healthcare setting: a randomized controlled trial.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42562964/",
-      "source": "PubMed",
-      "date": "2026-08-06",
-      "authors": [
-        "Rucker James J",
-        "Mantingh Tim",
-        "Kerr-Gaffney Jess"
-      ],
-      "doi": "10.1038/s41591-026-04541-0",
-      "summaries": {
-        "en": "Randomized controlled trial (n=60) examining single-dose psilocybin (25 mg) with psychological support for treatment-resistant depression in NHS setting. At week 3, psilocybin showed significantly greater symptom reduction (MADRS: -10.41, Cohen's d=-1.70) versus placebo, sustained at week 6. High retention (59/60 completed follow-up). Results support confirmatory trials.",
-        "sv": "Randomiserad kontrollerad studie (n=60) undersökte engångsdos pslocybin (25 mg) med psykologiskt stöd för behandlingsresistent depression vid NHS-klinik. Vid vecka 3 visade pslocybin signifikant större symptomreduktion (MADRS: -10,41, Cohen's d=-1,70) jämfört med placebo, som bestod vid vecka 6. Hög genomförande (59/60 slutförde uppföljning).",
-        "no": "Randomisert kontrollert studie (n=60) som undersøkte enkeltdose psilocybin (25 mg) med psykologisk støtte for behandlingsresistent depresjon ved NHS-klinikk. Ved uke 3 viste psilocybin signifikant større symptomreduksjon (MADRS: -10,41, Cohen's d=-1,70) sammenlignet med placebo, vedvarende ved uke 6. Høy gjennomføring (59/60 fullførte oppfølging).",
-        "da": "Randomiseret kontrolleret studie (n=60) undersøgte enkeltdosis psilocybin (25 mg) med psykologisk støtte til behandlingsresistent depression på NHS-klinik. Ved uge 3 viste psilocybin signifikant større symptomreduktion (MADRS: -10,41, Cohen's d=-1,70) sammenlignet med placebo, som fortsatte ved uge 6. Høj gennemførelsesrate (59/60 afsluttede opfølgning).",
-        "fi": "Satunnaistettu kontrolloitu tutkimus (n=60) tutki yksittäistä psilosybiinin annosta (25 mg) psykologisen tuen kanssa hoitoresistentin masennuksen hoitoon NHS-klinikoilla. Viikolla 3 psilosybiini osoitti merkittävästi paremman oireiden vähenemisen (MADRS: -10,41, Cohen's d=-1,70) verrattuna lumekohteluun, mikä säilyi viikolla 6. Korkea osallistujien säilyminen (59/60 suoritti seurannan).",
-        "is": "Slembiúrtak með stjórnarflokki (n=60) sem kannaði eina skammta af psílosýbíni (25 mg) með sálfræðilegum stuðningi við meðferðarþolna þunglyndi á NHS-kliníkum. Við viku 3 sýndi psílosýbín umtalsvert meiri minnkun einkenna (MADRS: -10,41, Cohen's d=-1,70) samanborið við lyfleysu, sem varðaði við viku 6. Há þátttaka (59/60 luku skoðun).",
-        "et": "Randomiseeritud kontrollitud uuring (n=60) uuris ühe psilostsübiini annuse (25 mg) koos psühholoogilise toega ravile vastupidavale depressioonile NHS-kliinikutes. Nädalal 3 näitas psilostsübiin märkimisväärselt suuremat sümptomite vähenemist (MADRS: -10,41, Cohen's d=-1,70) võrreldes platseeboga, mis säilis nädalal 6. Kõrge osalejate säilitamine (59/60 lõpetasid jälgimise).",
-        "lv": "Randomizēts kontrolēts pētījums (n=60) pārbaudīja vienas psilocibīna devas (25 mg) kombināciju ar psiholoģisku atbalstu ārstēšanai rezistentai depresijā NHS klīnikā. 3. nedēļā psilocibīns parādīja ievērojami lielāku simptomu samazināšanos (MADRS: -10,41, Cohen's d=-1,70) salīdzinājumā ar placebu, kas saglabājās 6. nedēļā. Augsta dalībnieku saglabāšana (59/60 pabeidza sekošanu).",
-        "lt": "Randomizuotas kontroliuojamas tyrimas (n=60) nagrinėjo vieną psilocibino dozę (25 mg) su psichologine pagalba gydant depresijos atvejams, kurie nereaguoja į gydymą, NHS klinikoje. 3-ią savaitę psilocibinas parodė reikšmingai didesnį simptomų sumažėjimą (MADRS: -10,41, Cohen's d=-1,70) palyginti su placebu, kuris išliko 6-ią savaitę. Aukštas dalyvių išlaikymas (59/60 baigė sekimą)."
-      },
-      "notable": true,
-      "notable_reasons": {
-        "en": "Randomized controlled trial in public healthcare setting (NHS) demonstrating significant efficacy (Cohen's d = -1.70) for psilocybin in treatment-resistant major depressive disorder with high completion rates (59/60 participants).",
-        "sv": "Randomized controlled trial in public healthcare setting (NHS) demonstrating significant efficacy (Cohen's d = -1.70) for psilocybin in treatment-resistant major depressive disorder with high completion rates (59/60 participants).",
-        "no": "Randomized controlled trial in public healthcare setting (NHS) demonstrating significant efficacy (Cohen's d = -1.70) for psilocybin in treatment-resistant major depressive disorder with high completion rates (59/60 participants).",
-        "da": "Randomized controlled trial in public healthcare setting (NHS) demonstrating significant efficacy (Cohen's d = -1.70) for psilocybin in treatment-resistant major depressive disorder with high completion rates (59/60 participants).",
-        "fi": "Randomized controlled trial in public healthcare setting (NHS) demonstrating significant efficacy (Cohen's d = -1.70) for psilocybin in treatment-resistant major depressive disorder with high completion rates (59/60 participants).",
-        "is": "Randomized controlled trial in public healthcare setting (NHS) demonstrating significant efficacy (Cohen's d = -1.70) for psilocybin in treatment-resistant major depressive disorder with high completion rates (59/60 participants).",
-        "et": "Randomized controlled trial in public healthcare setting (NHS) demonstrating significant efficacy (Cohen's d = -1.70) for psilocybin in treatment-resistant major depressive disorder with high completion rates (59/60 participants).",
-        "lv": "Randomized controlled trial in public healthcare setting (NHS) demonstrating significant efficacy (Cohen's d = -1.70) for psilocybin in treatment-resistant major depressive disorder with high completion rates (59/60 participants).",
-        "lt": "Randomized controlled trial in public healthcare setting (NHS) demonstrating significant efficacy (Cohen's d = -1.70) for psilocybin in treatment-resistant major depressive disorder with high completion rates (59/60 participants)."
-      },
-      "relevance_score": 5,
-      "study_type": "rct",
-      "substances": [
-        "psilocybin"
-      ],
-      "added_at": "2026-08-08T07:28:15.314747+00:00"
-    },
-    {
-      "title": "The occurrence and potential role of mystical experiences in MDMA-assisted therapy for PTSD: A secondary analysis.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42563131/",
-      "source": "PubMed",
-      "date": "2026-08-06",
-      "authors": [
-        "Bostoen Tijmen P L",
-        "Krediet Erwin",
-        "van Schagen Annette M"
-      ],
-      "doi": "10.1177/02698811261464502",
-      "summaries": {
-        "en": "Secondary analysis of two phase 2 randomized trials examined mystical experiences during MDMA-assisted therapy (MDMA-AT) for chronic PTSD. Fifty-three participants received MDMA or active placebo with psychotherapy; mystical experiences were measured using MEQ30 after each session. MDMA produced significantly higher mystical experience scores than placebo. Positive mood components, rather than full mystical states, most strongly associated with PTSD symptom reduction. Results warrant cautious interpretation due to limited sample size.",
-        "sv": "Sekundäranalys av två randomiserade fas 2-studier undersökte mystiska upplevelser under MDMA-assisterad terapi för kronisk PTSD. Femtitre deltagare fick MDMA eller aktiv placebo tillsammans med psykoterapi; mystiska upplevelser mättes med MEQ30 efter varje session. MDMA producerade signifikant högre poäng än placebo. Positiv stämning, snarare än fullständiga mystiska tillstånd, associerades starkast med minskning av PTSD-symtom. Resultaten bör tolkas försiktigt på grund av begränsat urval.",
-        "no": "Sekundæranalyse av to randomiserte fase 2-studier undersøkte mystiske opplevelser under MDMA-assistert terapi for kronisk PTSD. Femtitre deltakere mottok MDMA eller aktiv placebo sammen med psykoterapi; mystiske opplevelser ble målt med MEQ30 etter hver sesjon. MDMA ga signifikant høyere poeng enn placebo. Positiv stemning, snarere enn fullstendige mystiske tilstander, var sterkest assosiert med reduksjon av PTSD-symptomer. Resultatene bør tolkes med forsiktighet på grunn av begrenset utvalg.",
-        "da": "Sekundæranalyse af to randomiserede fase 2-studier undersøgte mystiske oplevelser under MDMA-assisteret terapi for kronisk PTSD. Treoghalvtreds deltagere modtog MDMA eller aktiv placebo sammen med psykoterapi; mystiske oplevelser blev målt med MEQ30 efter hver session. MDMA gav signifikant højere scoringer end placebo. Positiv stemning, snarere end fuldstændige mystiske tilstande, var stærkest forbundet med reduktion af PTSD-symptomer. Resultaterne bør tolkes forsigtigt på grund af begrænset stikprøvestørrelse.",
-        "fi": "Kahden satunnaistetun 2. vaiheen tutkimuksen sekundaarinen analyysi tutki mystisiä kokemuksia MDMA-avusteisessa terapiassa kroonista PTSD:tä varten. Viisikymmentäkolme osallistujaa sai MDMA:ta tai aktiivista plasebota psykoterapian rinnalla; mystisiä kokemuksia mitattiin MEQ30-kyselyllä jokaisen istunnon jälkeen. MDMA tuotti merkitsevästi korkeammat pisteet kuin plasebo. Positiivinen mieliala, eikä täydelliset mystiset tilat, oli vahvimmin yhteydessä PTSD-oireiden vähenemiseen. Tuloksia tulisi tulkita varovaisesti pienen otoskoon vuoksi.",
-        "is": "Aukaanalyse á tveimur slembiðum 2. stigs rannsóknum skoðaði dularfulla reynslu meðan MDMA-studda meðferð fyrir langvinnan PTSD. Fimmtíu og þrír þátttakendur fengu MDMA eða virka placebó með sálfræðilegri meðferð; dularfull reynsla var mæld með MEQ30 eftir hverja setu. MDMA skilaði marktækt hærri stigum en placebó. Jákvæð þögun, frekar en fullin dularfull ástand, tengdist sterkast við minnkun PTSD-einkenna. Niðurstöðum skal túlka varlega vegna takmarkaðrar úrtakastærðar.",
-        "et": "Kahe randomiseeritud 2. faasi uuringu sekundaarne analüüs uuris müstilisi kogemusi MDMA-abistatud teraapiaga kroonilise PTSD-ga patsientidel. Viiskümmend kolm osalejat said MDMA-d või aktiivset platseebot psühhoteraapiaga kombineerituna; müstilisi kogemusi mõõdeti MEQ30 abil iga seansi järel. MDMA andis märkimisväärselt kõrgemad skoorid kui platseebo. Positiivne meeleolu, mitte täielikud müstilised seisundid, seostus kõige tugevamalt PTSD-sümptomite vähenemisega. Tulemusi tuleb tõlgendada ettevaatusega piiratud valimi suuruse tõttu.",
-        "lv": "Divu randomizētu 2. fāzes pētījumu sekundārā analīze pētīja mistiskās pieredzes MDMA-palīdzinātas terapijas laikā hroniskam PTSD. Piecdesmit trīs dalībnieki saņēma MDMA vai aktīvu placebо kombinācijā ar psihoterapiju; mistiskā pieredze tika mērīta ar MEQ30 pēc katras sesijas. MDMA radīja ievērojami augstākus rādītājus nekā placebo. Pozitīva noskaņa, nevis pilnīgā mistiskā stāvokļa, bija visspēcīgāk saistīta ar PTSD simptomu samazināšanos. Rezultātus jāinterpretē piesardzīgi ņemot vērā ierobežoto izlases lielumu.",
-        "lt": "Dviejų atsitiktinių 2 fazės tyrimų antrinė analizė nagrinėjo mistines patirtis MDMA-pagalbine terapija ligoniams, sergantiems lėtine PTSD. Penkiasdešimt trys dalyviai gavo MDMA arba aktyvų placebą kartu su psichosocialine terapija; mistinė patirtis buvo matuojama MEQ30 po kiekvienos sesijos. MDMA davė žymiai aukštesnius rezultatus nei placebas. Teigiama nuotaika, o ne pilnos mistinės būsenos, buvo stipriausiai susieta su PTSD simptomų sumažėjimu. Rezultatai turėtų būti interpretuojami atsargiai dėl riboto imties dydžio."
-      },
-      "notable": false,
-      "notable_reasons": null,
-      "relevance_score": 4,
-      "study_type": "rct",
-      "substances": [
-        "mdma"
-      ],
-      "added_at": "2026-08-08T07:28:15.314747+00:00"
-    },
-    {
-      "title": "A suite of engineered mice for interrogating psychedelic drug actions.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42563032/",
-      "source": "PubMed",
-      "date": "2026-08-06",
-      "authors": [
-        "Chiu Yi-Ting",
-        "Deutch Ariel Y",
-        "Wang Wei"
-      ],
-      "doi": "10.1038/s41593-026-02375-0",
-      "summaries": {
-        "en": "Researchers developed engineered mouse models to study how classical psychedelics like LSD and psilocybin work in the brain. These substances show therapeutic promise for depression, anxiety, PTSD, and headache disorders by activating the 5-HT2A receptor. The new transgenic mice will help clarify this receptor's specific role in psychedelic effects.",
-        "sv": "Forskare utvecklade genetiskt modifierade möss för att studera hur klassiska psykedelika som LSD och psilocybin verkar i hjärnan. Dessa ämnen visar terapeutisk potential för depression, ångest, PTSD och huvudvärkslidanden genom aktivering av 5-HT2A-receptorn. De nya transgena mössen kommer att klargöra denna receptors specifika roll i psykedeliska effekter.",
-        "no": "Forskere utviklet genetisk modifiserte mus for å studere hvordan klassiske psykedelika som LSD og psilocybin virker i hjernen. Disse stoffene viser terapeutisk potensial for depresjon, angst, PTSD og hodepinesykdommer gjennom aktivering av 5-HT2A-reseptoren. De nye transgene musene vil hjelpe til med å avklare denne reseptorens spesifikke rolle i psykedeliske effekter.",
-        "da": "Forskere udvikled genetisk modificerede mus til at studere, hvordan klassiske psykedelika som LSD og psilocybin virker i hjernen. Disse stoffer viser terapeutisk potentiale for depression, angst, PTSD og hovedpinesygdomme gennem aktivering af 5-HT2A-receptoren. De nye transgene mus vil hjælpe med at præcisere denne receptors specifikke rolle i psykedeliske effekter.",
-        "fi": "Tutkijat kehittivät geneettisesti muunneltuja hiiriä tutkiakseen, kuinka klassiset psykedeelit kuten LSD ja psilosybiini vaikuttavat aivoissa. Nämä aineet osoittavat terapeuttista potentiaalia masennukseen, ahdistukseen, PTSD:hen ja päänsärkyoireisiin 5-HT2A-reseptorin aktivoinnin kautta. Uudet transgeniset hiiret auttavat selventämään tämän reseptorin erityistä roolia psykedeliikan vaikutuksissa.",
-        "is": "Vísindamenn þróuðu erfðabreyttar músir til að rannsaka hvernig klassísk geisladraugsefni eins og LSD og psilocybín virka í heila. Þessi efni sýna meðferðarmöguleika við þunglyndi, kvíða, PTSD og höfuðverkasykdóma með virkjun 5-HT2A-viðtaka. Nýju erfðabreyttu músirnar munu hjálpa til við að skýra sérstakt hlutverk þessa viðtaka í áhrifum geisladrauga.",
-        "et": "Teadlased töötasid välja geneetiliselt muundatud hiired, et uurida, kuidas klassikalised psühhedeeliad nagu LSD ja psilotsibiin ajus toimivad. Need ained näitavad terapeeutilist potentsiaali depressiooni, ärevuse, PTSD ja peavalust ravil 5-HT2A retseptori aktiveerimisel. Uued transgeensed hiired aitavad selgitada selle retseptori konkreetset rolli psühhedeeliliste efektide tekitamisel.",
-        "lv": "Pētnieki izstrādāja ģenētiski modificētus pelējus, lai pētītu, kā klasiskie psihedēliki, piemēram, LSD un psilocibirrs, darbojas smadzenēs. Šas vielas parāda terapeitisko potenciālu depresijas, trauksmes, PTSP un galvassāpju traucējumu ārstēšanai, aktivizējot 5-HT2A receptoru. Jaunās transģēnās pelējus palīdzēs noskaidrot šī receptora specifisko lomu psihedēlisko efektu darbībā.",
-        "lt": "Mokslininkai sukūrė genetiškai modifikuotus pelikus, skiritus tirti, kaip klasikiniai psichedelikai, tokie kaip LSD ir psilocibinas, veikia smegenyse. Šios medžiagos rodo terapinį potencialą depresijos, nerimo, PTSD ir galvos skausmų sutrikimams gydyti, aktyvinant 5-HT2A receptorių. Nauji transgeniniai pelikai padės paaiškinti šio receptoriaus specifinį vaidmenį psichedelinio poveikio mechanizmuose."
-      },
-      "notable": false,
-      "notable_reasons": null,
-      "relevance_score": 4,
-      "study_type": "preclinical",
-      "substances": [
-        "lsd",
-        "psilocybin"
-      ],
-      "added_at": "2026-08-08T07:28:15.314747+00:00"
     }
   ]
 }

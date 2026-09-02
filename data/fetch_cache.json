@@ -1,7 +1,85 @@
 {
-  "date": "2026-09-01",
-  "cached_at": "2026-09-01T11:04:07.267704+00:00",
+  "date": "2026-09-02",
+  "cached_at": "2026-09-02T10:36:15.427707+00:00",
   "articles": [
+    {
+      "title": "Age and Cannabis Co-Use Are Associated with Differences in Experience and Perceived Benefits of Psilocybin: A Retrospective Study.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42682203/",
+      "source": "PubMed",
+      "abstract": "As psychedelic use increases, understanding how demographic and behavioral factors influence the effects of psychedelics is essential for both research and public health. This cross-sectional retrospective study examined 365 people who currently use psilocybin, analyzing differences in acute experiences, psychological outcomes, and substance co-use patterns. Participants were categorized into young (18-25), middle-aged (26-54), and older (55-77) adults. Results showed that younger participants reported significantly more adverse experiences while older adults had milder effects. Despite differences in adverse experiences, age did not significantly impact mystical experiences, psychological insight, or psychological outcomes. Polysubstance use patterns also varied by age, as younger adults were more likely to co-use nicotine with psilocybin. Cannabis co-use specifically was associated with greater perceived improvements in quality of life, anxiety, depression, and alcohol abuse, suggesting potential synergies between psilocybin and THC. These findings emphasize that age and cannabis co-use may modulate aspects of psilocybin's acute effects and therapeutic outcomes. Given the increasing legalization and accessibility of psychedelics, future research should further investigate mechanisms underlying individual differences and assess the impact of polysubstance use with psychedelics.",
+      "date": "2026-09-02",
+      "authors": [
+        "Hooper Jake",
+        "Williams Sarah",
+        "Mueller Raeghan"
+      ],
+      "doi": "10.1080/02791072.2026.2727016"
+    },
+    {
+      "title": "Whole-exome sequencing in individuals with obsessive-compulsive disorder and chronic tic disorders identifies 36 large-effect risk genes.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42680906/",
+      "source": "PubMed",
+      "abstract": "Obsessive-compulsive disorder (OCD) and chronic tic disorders (CTDs) are highly heritable. Rare mutations confer large risks for OCD and CTDs but only four high-confidence (hc) genes have been identified. Here we analyzed whole-exome sequencing data from 3,964 individuals with OCD, CTDs or both, including 2,418 trios. We found an excess in cases of de novo and rare protein-damaging mutations and identified 36 hc genes (false discovery rate < 0.1), including four previously identified hc genes (CELSR3, CHD8, SCUBE1 and WWC1) and four genes that overlap with OCD genome-wide association study loci (BRWD1, CELSR3, QRICH1 and SYNE1). Risk genes are shared among OCD, CTDs and other neurodevelopmental conditions. Transcriptomic and network analyses highlight mechanistic convergence and increased risk gene expression in postnatal cerebellum, prenatal and postnatal cortex and striatum. Dozens of large-effect OCD and CTD genes offer insights into pathogenesis and a path forward for illuminating pathophysiology and identifying novel treatment targets.",
+      "date": "2026-09-01",
+      "authors": [
+        "Wang Belinda",
+        "Tran Matthew N",
+        "Wang Sheng"
+      ],
+      "doi": "10.1038/s41593-026-02419-5"
+    },
+    {
+      "title": "The mPFC-reuniens-hippocampus pathway links brain circuitry and neural plasticity in antidepressant response.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42680757/",
+      "source": "PubMed",
+      "abstract": "The pathophysiology of depression involves multiple biological processes, including circuit dysfunction and impaired neuroplasticity, yet an integrative view linking these processes remains elusive. Here, we identify a convergent circuit for antidepressant response and plasticity modulation. We demonstrate that chemogenetic activation of the infralimbic cortex (IL) exerts rapid antidepressant-like effects across multiple behavioral domains in a mouse model of stress-induced depression. IL stimulation exerts top-down control over the hippocampus, enhancing structural plasticity, restoring long-term potentiation deficits and improving state-dependent network dynamics in the ventral hippocampus (vHIPP). We identify the thalamic nucleus reuniens (RE) as a necessary mediator of these effects. Notably, direct inhibition of RE, its inputs from IL or projections to vHIPP, blocks both IL stimulation-induced antidepressant response and the therapeutic and neuroplastic effects of ketamine. Our findings demonstrate that the functional IL → RE→vHIPP circuit plays a central role in the antidepressant response, linking circuit activity, hippocampal plasticity, and depressive-like behaviors.",
+      "date": "2026-09-01",
+      "authors": [
+        "Veleanu Maxime",
+        "Schuberth Louise",
+        "Kilias Antje"
+      ],
+      "doi": "10.1038/s41467-026-77248-y"
+    },
+    {
+      "title": "Mental health and brain injury-related symptom overlap among women who have experienced intimate partner violence: a network analysis.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42679658/",
+      "source": "PubMed",
+      "abstract": "Women who experience intimate partner violence (IPV) repetitively experience multiple trauma types, leading to comorbidities such as post-traumatic stress disorder (PTSD), depression, anxiety, and brain injury-related symptoms. The overlapping symptoms across these conditions make accurate diagnosis and effective treatment challenging. We explored the relationships between PTSD, depression, anxiety, and brain injury-related symptoms among women with histories of IPV using a network analysis. Using a multi-site sample (Australia and the United States) of 300 community-dwelling women with IPV experiences aged 18-75 years, we employed a network approach (Gaussian) to assess the connectivity, the influence, and the bridging ability of mental health and brain injury-related symptoms. The network revealed modest connectivity between these symptoms. Among IPV victim-survivors, symptoms of worthlessness, jumpiness, and intrusive memories were identified as the most influential symptoms within the network. An inability to experience positive feelings, breathing difficulties, and initiative issues served as bridging symptoms closely connected across conditions, which can help explain comorbidities. Mental health symptoms seen in IPV victim-survivors are highly influential and connected, reinforcing the need for interventions to take symptom approaches as opposed to treating overall conditions. Our findings highlight key symptom treatment targets warranting further investigation. Specifically, treating depression and PTSD-related symptoms is crucial as these symptoms are highly influential in activating the broader symptom network.",
+      "date": "2026-08-24",
+      "authors": [
+        "Astridge Abigail",
+        "de Souza Nicola L",
+        "Kennedy Eamonn"
+      ],
+      "doi": "10.1016/j.psychres.2026.117420"
+    },
+    {
+      "title": "Factors Associated with Intentions to Use Psilocybin for Mental Health in Relation to Psychotherapy, Psychiatric Medications, and Natural/Synthetic Options.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42678038/",
+      "source": "PubMed",
+      "abstract": "Few studies have examined perceptions of psilocybin for use in a mental health context. In two studies involving independent samples (total",
+      "date": "2026-09-01",
+      "authors": [
+        "Meier Brian P",
+        "Lappas Courtney M",
+        "Johnson Matthew W"
+      ],
+      "doi": "10.1080/02791072.2026.2727013"
+    },
+    {
+      "title": "Can Psychedelics help with Alcohol Use Disorder (AUD): For now, the data says no.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42677050/",
+      "source": "PubMed",
+      "abstract": "The aim of this perspective article is to evaluate the potential of Psychedelics in the management of Alcohol Use Disorder (AUD) vis-a-vis pre-existing therapeutic modalities and to elucidate practical directions for policy in AUD Addiction medicine, supported by scientific evidence, while prioritizing safety and accessibility. We performed a narrative synthesis of past and current literature and incorporated findings from randomized controlled trials (RCTs), meta-analyses, and policy reports in relation to pharmacological and psychedelic-assisted treatments for AUD. PubMed was utilized for this search. While there is budding interest in psychedelics- LSD, MDMA, Psilocybin- existing evidence supporting their efficacy in treating AUD is sparse and in some studies require more evidence in terms of study types (placebo controlled blind) and methods, with high expectancy bias and limited follow-up periods. On the contrary, current FDA-approved medications such as Naltrexone, Acamprosate, and Disulfiram are aimed at minimizing relapse, moderating craving, and promoting continued abstinence. However, the clinical application of these drugs is alarmingly low at 2%. Policy measures such as telehealth-based prescribing, long-acting formulations, and potential over-the-counter access to naltrexone may improve treatment accessibility and reduce stigma. Psychedelics may be considered during the management of treatment-resistant AUD, but should be limited to methodologically sound clinical trials until clear safety and efficacy are demonstrated. Current therapeutic modalities for AUD remain severely underused. Policy should focus primarily on integrating and improving patient access to existing multimodal approaches, such as pharmacotherapy in primary and telehealth care, and behavioral supports such as AA. While psychedelics do present an intriguing prospect, the priority should be implementing what works now while rigorously testing what may enhance care in the future.",
+      "date": "2026-04-10",
+      "authors": [
+        "Blum Kenneth",
+        "Lewandrowski Kai-Uwe",
+        "Lorio Morgan P"
+      ],
+      "doi": "10.66339/sa.mhc.2026.073"
+    },
     {
       "title": "Serotonergic psychedelics induce distinct patterns of metabolic activity and covariance within biologically informed rat brain networks.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42675044/",
@@ -178,80 +256,13 @@
       "doi": "10.1016/j.jpsychires.2026.08.029"
     },
     {
-      "title": "Psychedelics in psychiatry: comparative effectiveness, implementation, commercialization and safety lessons learned from intranasal esketamine.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42663266/",
-      "source": "PubMed",
-      "abstract": "",
-      "date": "2026-08-28",
-      "authors": [
-        "McIntyre Roger S"
-      ],
-      "doi": "10.1080/14740338.2026.2726227"
-    },
-    {
-      "title": "Oncology Providers' Perspectives on Psychedelic-Assisted Therapy.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42661611/",
-      "source": "PubMed",
-      "abstract": "PurposeDespite most psychedelic substances remaining Schedule I, clinical research exploring psychedelic-assisted therapy (PAT) in oncology is expanding. We sought to assess oncology providers' attitudes toward and understanding of PAT.MethodsWe conducted a cross-sectional survey of healthcare professionals involved in oncology across five academic institutions in California, South Carolina, and Florida, and one nonacademic institution in Georgia. The survey was also distributed to 4500 members of the American Academy of Hospice and Palliative Medicine. Items assessed demographics, familiarity and concerns regarding psychedelic medications, and willingness to recommend PAT based on case-based scenarios.ResultsOf 5084 surveyed, 385 responded (8% response rate). Most respondents (85%) were palliative care physicians. Only 44% were familiar with the legal and regulatory status of psychedelic agents. While 49% had received patient inquiries about PAT, 80% did not feel comfortable counseling patients on its use. Primary concerns included unknown drug interactions with cancer therapies and safety in the setting of oncologic comorbidities. Factors encouraging future PAT adoption included increased education and access to experienced treatment centers. On multivariate analysis, willingness to recommend PAT was associated with familiarity with emerging PAT data, knowledge of the legal and regulatory status of psychedelics, and prior patient inquiry about PAT. Provider age, specialty, and other clinicodemographic factors were not significant predictors.ConclusionMany oncology providers report patient interest in PAT but lack confidence to counsel them. Findings underscore the need for targeted provider education and further clinical research to support informed decision-making about PAT in oncology.",
-      "date": "2026-08-28",
-      "authors": [
-        "Hanubal Krishna S",
-        "Munjal Akul N",
-        "Park Jino"
-      ],
-      "doi": "10.1177/10499091261483604"
-    },
-    {
-      "title": "Development of Japanese Versions of the 4-Item Mystical Experience Questionnaire and 7-Item Challenging Experience Questionnaire.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42661240/",
-      "source": "PubMed",
-      "abstract": "Interest in therapeutic applications of psychedelics has recently resurged. Mystical-type and challenging experiences that are elicited by psychedelics are commonly assessed using the 30-item Mystical Experience Questionnaire (MEQ-30) and the 26-item Challenging Experience Questionnaire (CEQ), respectively. The brief 4-item MEQ (MEQ-4) and 7-item CEQ (CEQ-7) may reduce respondent burden, but Japanese versions have not yet been developed. This study developed Japanese versions of the MEQ-4 and CEQ-7. In translating the MEQ-4 and CEQ-7, our procedures were informed by the recommendations of the \"Principles of Good Practice for the Translation and Cultural Adaptation Process for Patient-Reported Outcomes (PRO) Measures: Report of the ISPOR Task Force for Translation and Cultural Adaptation.\" Separately, experts in psychedelics reviewed semantic nuances and the naturalness and appropriateness of the Japanese wording. Cognitive debriefing was not conducted because recruiting an appropriate Japanese-speaking sample with psychedelic experience was not feasible. The final, approved back-translated versions of the MEQ-4 and CEQ-7 were developed, and the authorized Japanese versions of the MEQ-4 and CEQ-7 were established. In the present study, Japanese versions of the MEQ-4 and CEQ-7 were developed, enabling more rapid and efficient assessments of mystical and challenging experiences among Japanese speakers. Future studies should evaluate their comprehensibility, interpretability, cultural appropriateness, reliability, and validity in Japanese-speaking samples.",
-      "date": "2026-Sep",
-      "authors": [
-        "Umemura Futaba",
-        "Kotajima-Murakami Hiroko",
-        "Strickland Justin C"
-      ],
-      "doi": "10.1002/npr2.70164"
-    },
-    {
-      "title": "Erratum to \"Long-term treatment with esketamine nasal spray in patients with treatment resistant depression: Results from the ESCAPE-LTE study\" [European Neuropsychopharmacology 107 (2026) 112801].",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42659716/",
-      "source": "PubMed",
-      "abstract": "",
-      "date": "2026-08-27",
-      "authors": [
-        "Reif A",
-        "Anıl Yağcıoğlu Ae",
-        "Bitter I"
-      ],
-      "doi": "10.1016/j.euroneuro.2026.113860"
-    },
-    {
-      "title": "AMCP Market Insights: Optimizing managed care approaches to treatment-resistant depression.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42658027/",
-      "source": "PubMed",
-      "abstract": "Treatment-resistant depression (TRD) is a subset of major depressive disorder (MDD) most commonly defined as failure to respond to 2 or more antidepressant regimens despite adequate dose, duration, and adherence to treatment. The burden of TRD impacts individuals, families, and society, with outcomes such as decreased health-related quality of life and increased health care utilization and costs. To address the unmet need in many mental health conditions, psychedelic-assisted treatment such as psilocybin for TRD is emerging as a potential option. To discuss optimizing managed care approaches to TRD including the use of psilocybin, AMCP Market Insights virtually convened an expert panel of managed care stakeholders in March 2026. This article provides a qualitative summary of the panel discussion along with key insights and suggested payer practices meant to support informed coverage decisions and guide future work such as collaboration, research, and advocacy. Key insights underscore that there is a high unmet need in TRD and that mitigating barriers to care is a priority for payers. Perspectives on the current evidence for psilocybin in TRD are mixed; payers want additional data to compare treatments, elucidate the appropriate treatment population, and assess cost-effectiveness. Additionally, a primary challenge with psilocybin treatment will be an adequate network of mental health professionals to oversee administration and observation and to provide post-treatment care. Examples of suggested payer practices include education, collaboration, prioritizing behavioral health network readiness and quality, and mitigating barriers to care.",
-      "date": "2026-Sep",
-      "authors": [
-        "Flavin Bridget",
-        "Small Gary",
-        "Dragovich Charles"
-      ],
-      "doi": "10.18553/jmcp.2026.32.9-a.s1"
-    },
-    {
-      "title": "Aquahenosis: a non-pharmacological altered state of consciousness induced by floatation-REST in individuals with anxiety and depression.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42657182/",
-      "source": "PubMed",
-      "abstract": "Floatation-REST (Reduced Environmental Stimulation Therapy) systematically alters the balance of sensory signals reaching the brain by combining neutral buoyancy, thermal and proprioceptive neutrality, attenuation of exteroceptive stimulation, and enhancement of cardiorespiratory signaling. Here we examined whether this non-pharmacological sensory perturbation induces altered states of consciousness and whether specific experiential dimensions are statistically related to changes in affect. In a secondary analysis of a randomized controlled feasibility trial, 75 treatment-seeking adults with anxiety and depression were assigned to six sessions of Floatation-REST with prescribed scheduling, Floatation-REST with preferred scheduling and duration, or a zero-gravity chair comparison condition. Altered states of consciousness were assessed using the 5-Dimensional Altered States of Consciousness Rating Scale, alongside measures of interoceptive awareness and affect. Compared to the chair condition, Floatation-REST was associated with increased interoceptive awareness of cardiorespiratory sensations and an altered state of consciousness characterized by Oceanic Boundlessness, Disembodiment, and Experience of Unity-a pattern we refer to as \"",
-      "date": "2026-08-26",
-      "authors": [
-        "Tobel Theo",
-        "Cone Aidan",
-        "Choquette Emily"
-      ],
-      "doi": "10.1093/nc/niag044"
+      "title": "Pα+ Psychedelic Bulletin #230: Pharma Ramps Up Ad Spend on Psychedelic Keywords; ARPA-H’s Ibogaine Funding; Psychedelics in Medicaid?",
+      "url": "https://psychedelicalpha.com/news/p%ce%b1-psychedelic-bulletin-230-pharma-ramps-up-ad-spend-on-psychedelic-keywords-arpa-hs-ibogaine-funding-psychedelics-in-medicaid/",
+      "source": "Psychedelic Alpha",
+      "abstract": "Pharma Ramps Up Google Ad Spend on Psychedelic Keywords Large pharmaceutical companies appear to be ramping up U.S. Google ad spend targeting psychedelics-related keywords, with the most common ads pointing to Johnson & Johnson’s Spravato webpage. Searching for more generic terms like “psychedelic” returns results from J&J as well as at-home ketamine providers like Mindbloom […]",
+      "date": "2026-09-01",
+      "authors": [],
+      "doi": ""
     },
     {
       "title": "A Closer Look at Definium’s Phase 3 LSD for GAD Readout",
@@ -331,15 +342,6 @@
       "source": "Psychedelic Alpha",
       "abstract": "SAMHSA Convenes Experts to Tackle Psychedelic Data Gaps Dozens of experts met in D.C. last week under the auspices of SAMHSA’s two-day consultation, titled ‘Addressing Data Gaps to Monitor the Expanding Use and Misuse of Psychedelics in the U.S.’. Attendees included federal agency representatives as well as psychedelic researchers, state regulators, and entrepreneurs. Drug development […]",
       "date": "2026-08-07",
-      "authors": [],
-      "doi": ""
-    },
-    {
-      "title": "From Sonora to Big Pharma: Kimon de Greef Traces the Strange Rise of 5-MeO-DMT",
-      "url": "https://psychedelicalpha.com/news/from-sonora-to-big-pharma-kimon-de-greef-traces-the-strange-rise-of-5-meo-dmt/",
-      "source": "Psychedelic Alpha",
-      "abstract": "",
-      "date": "2026-08-04",
       "authors": [],
       "doi": ""
     },
@@ -568,7 +570,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2018-004480-31/CZ",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-09-01",
+      "date": "2026-09-02",
       "authors": [],
       "doi": ""
     },
@@ -577,7 +579,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2020-005037-32/CZ",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-09-01",
+      "date": "2026-09-02",
       "authors": [],
       "doi": ""
     },
@@ -586,7 +588,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2021-002909-10/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-09-01",
+      "date": "2026-09-02",
       "authors": [],
       "doi": ""
     },
@@ -595,7 +597,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2015-000550-37/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-09-01",
+      "date": "2026-09-02",
       "authors": [],
       "doi": ""
     },
@@ -604,7 +606,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2021-000041-40/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-09-01",
+      "date": "2026-09-02",
       "authors": [],
       "doi": ""
     },
@@ -613,7 +615,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2020-000829-55/DK",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-09-01",
+      "date": "2026-09-02",
       "authors": [],
       "doi": ""
     },
@@ -622,7 +624,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2020-002790-94/SE",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-09-01",
+      "date": "2026-09-02",
       "authors": [],
       "doi": ""
     },
@@ -631,7 +633,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2021-006200-33/FI",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-09-01",
+      "date": "2026-09-02",
       "authors": [],
       "doi": ""
     },
@@ -640,7 +642,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2019-004812-73/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-09-01",
+      "date": "2026-09-02",
       "authors": [],
       "doi": ""
     },
@@ -649,7 +651,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2022-002369-14/BE",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-09-01",
+      "date": "2026-09-02",
       "authors": [],
       "doi": ""
     },

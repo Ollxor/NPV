@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-02T11:34:50.349859+00:00",
+  "generated_at": "2026-09-03T11:30:26.315693+00:00",
   "items": [
     {
       "title": "Blinding integrity in psychedelic research: Evidence from a comparative randomized controlled trial of psilocybin, MDMA, and methylphenidate in healthy volunteers",
@@ -32,6 +32,47 @@
         "mdma"
       ],
       "added_at": "2026-07-09T10:03:12.956794+00:00"
+    },
+    {
+      "title": "Serial Ketamine Infusions for Treatment-Resistant Bipolar Depression: A Randomized Clinical Trial.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42684694/",
+      "source": "PubMed",
+      "date": "2026-09-02",
+      "authors": [
+        "Orsini Diana K",
+        "Di Luch Sara",
+        "Tomlinson George"
+      ],
+      "doi": "10.1001/jamapsychiatry.2026.2658",
+      "summaries": {
+        "en": "Ket-BD, a double-blind randomized controlled trial (n=3 Canadian sites, 2022-2025), compared adjunctive IV ketamine (0.5-0.75 mg/kg, 4 infusions) with midazolam in treatment-resistant bipolar I/II depression. Adults aged 21-65 with ≥2 failed pharmacotherapy trials received infusions over 2 weeks alongside mood stabilizers. Primary outcome: MADRS score change at day 14. Results address efficacy, safety, and mania risk in this understudied population.",
+        "sv": "Ket-BD, en dubbelblind randomiserad studie (3 kanadensiska platser, 2022-2025), jämförde adjunkt IV-ketamin (0,5-0,75 mg/kg, 4 infusioner) med midazolam vid behandlingsresistent bipolär depression. Vuxna 21-65 år med ≥2 misslyckade läkemedelförsök fick infusioner under 2 veckor tillsammans med stämningsreglerare. Primär utfallsmått: MADRS-poäng vid dag 14. Studien utvärderar effektivitet, säkerhet och manirisk i denna liten befolkningsgrupp.",
+        "no": "Ket-BD, en dobbeltblindet randomisert kontrollert studie (3 kanadiske steder, 2022-2025), sammenlignet adjuvant IV-ketamin (0,5-0,75 mg/kg, 4 infusjoner) med midazolam ved behandlingsresistent bipolar depresjon. Voksne 21-65 år med ≥2 mislykkede legemiddelforsøk fikk infusjoner over 2 uker sammen med stemmingsstabilisatorer. Primær utfallsmål: MADRS-score på dag 14. Studien vurderer effektivitet, sikkerhet og manirisiko i denne befolkningsgruppen.",
+        "da": "Ket-BD, et dobbeltblindet randomiseret kontrolleret forsøg (3 kanadiske steder, 2022-2025), sammenlignede adjuvant IV-ketamin (0,5-0,75 mg/kg, 4 infusioner) med midazolam ved behandlingsresistent bipolar depression. Voksne 21-65 år med ≥2 mislykkede lægemiddelforsøg fik infusioner over 2 uger sammen med stemmingsstabilisatorer. Primært måleparameter: MADRS-score på dag 14. Studien vurderer effektivitet, sikkerhed og manirisiko.",
+        "fi": "Ket-BD oli kaksoissokkoutettu satunnaistettu kontrolloitu tutkimus (3 kanadalaista tutkimuskeskusta, 2022-2025), jossa verrattiin adjuvanttista IV-ketamiinia (0,5-0,75 mg/kg, 4 infuusiota) ja midatsolamia hoitoresistentin bipolaarisen masennuksen hoidossa. 21-65-vuotiaat aikuiset, joilla oli ≥2 epäonnistunutta lääkehoidon yritystä, saivat infuusioita 2 viikon ajan mielialan vakauttajien kanssa. Päätulosmuuttuja: MADRS-pisteet päivällä 14.",
+        "is": "Ket-BD var tvöfalt blindað handahóf stýrð rannsókn (3 kanadískar staðir, 2022-2025) sem batti saman aukaðar IV-ketamín (0,5-0,75 mg/kg, 4 innfellingar) og miðazólam við meðferðarþolin kynbundna þunglyndi. Fullorðnir 21-65 ára með ≥2 misheppnuð lyfjameðferðartilraun fengu innfellingar yfir 2 vikur með stemmingsstöðugum lyfjum. Aðalútkoma: MADRS-stig á degi 14. Rannsóknin metur verkun, öryggi og ofnæmi fyrir æði.",
+        "et": "Ket-BD oli kahekordselt pime randomiseeritud kontrollitud uuring (3 Kanada kohta, 2022-2025), mis võrdles adjuvantiivset IV-ketamiini (0,5-0,75 mg/kg, 4 infusiooni) midatsolaamiga ravile vastupidava bipolaarset depressiooni puhul. 21-65-aastased täiskasvanud koos ≥2 ebaõnnestunud ravikatsega said infusioonid 2 nädala jooksul koos meeleolu stabilisaatoritega. Esmane tulem: MADRS-skoor 14. päeval. Uuringus hinnati efektiivsust, ohutust ja maanika riski.",
+        "lv": "Ket-BD bija dubultā aklā randomizēts kontrolēts pētījums (3 Kanādas vietas, 2022-2025), kurā salīdzināja adjuvanta IV-ketamīnu (0,5-0,75 mg/kg, 4 infūzijas) ar midazolāmu ārstēšanai rezistentā bipolārā depresijā. Pieaugušie 21-65 gadi ar ≥2 neveiksmīgiem farmakoterapijas mēģinājumiem saņēma infūzijas 2 nedēļu laikā kopā ar garastāvokļa stabilizatoriem. Primārais iznākums: MADRS rādītājs 14. dienā. Pētījumā novērtēta efektivitāte, draudzīgums un mānijas risks.",
+        "lt": "Ket-BD buvo dvigubai-aklai atsitiktinės imties kontroliuojama klinikinė studu (3 Kanados vietos, 2022-2025), lyginusi papildomą IV-ketaminą (0,5-0,75 mg/kg, 4 infuzijos) su midazolamu gydymui atsparioje bipolinėje depresijoje. 21-65 metų suaugusieji su ≥2 nesėkmingais farmakoterapijos bandymais gavo infuzijas per 2 savaites kartu su nuotaiką stabilizuojančiais vaistais. Pirminis rezultatas: MADRS balas 14 dieną. Tyrime vertinti veiksmingumas, saugumas ir manijos rizika."
+      },
+      "notable": true,
+      "notable_reasons": {
+        "en": "Randomized controlled trial (n appears adequately powered) evaluating IV ketamine in treatment-resistant bipolar disorder, a clinically significant population with limited therapeutic options.",
+        "sv": "Randomiserad kontrollerad studie (n verkar adekvat powered) som utvärderar IV ketamine vid behandlingsresistent bipolär sjukdom, en kliniskt betydelsefull population med begränsade terapeutiska alternativ.",
+        "no": "Randomisert kontrollert forsøk (n virker tilstrekkelig powered) som evaluerer IV ketamine ved behandlingsresistent bipolar lidelse, en klinisk signifikant populasjon med begrenset terapeutiske alternativer.",
+        "da": "Randomiseret kontrolleret forsøg (n virker tilstrækkeligt powered) der evaluerer IV ketamine ved behandlingsresistent bipolær lidelse, en klinisk signifikant befolkning med begrænsede terapeutiske muligheder.",
+        "fi": "Satunnaistettu kontrolloitu tutkimus (n näyttää riittävän powered) IV-ketamiinin arvioimiseksi hoitoresistentin kaksisuuntaisen mielialahäiriön hoidossa, kliinisesti merkittävässä populaatiossa, jolla on rajallisia terapeuttisia vaihtoehtoja.",
+        "is": "Handahóf stýrð rannsókn (n virðist nægilega powered) sem metur IV ketamín við meðferðarþolna tvíhyggju, klínískt marktæka þjóð með takmarkaða meðferðarkosti.",
+        "et": "Randomiseeritud kontrollitud uuring (n tundub piisavalt powered) IV ketamiini hindamiseks ravi-resistentsel kahepoolsel häirel, kliiniliselt olulises populatsioonis, millel on piiratud teraapiavõimalused.",
+        "lv": "Randomizēts kontrolēts pētījums (n šķiet pietiekami powered) IV ketamīna novērtēšanai ārstēšanai rezistentam bipolāram traucējumam, klīniski nozīmīgai populācijai ar ierobežotām terapeitiskajām iespējām.",
+        "lt": "Randomizuotas kontroliuojamas tyrimas (n atrodo pakankamai powered) IV ketamino įvertinimui gydymui atspariai bipolinei sutrikai, klinikinai reikšmingai populiacijai su ribotomis terapinėmis parinktimis."
+      },
+      "relevance_score": 4,
+      "study_type": "rct",
+      "substances": [
+        "ketamine"
+      ],
+      "added_at": "2026-09-03T11:29:23.388921+00:00"
     },
     {
       "title": "Age and Cannabis Co-Use Are Associated with Differences in Experience and Perceived Benefits of Psilocybin: A Retrospective Study.",
@@ -217,6 +258,37 @@
         "psilocybin"
       ],
       "added_at": "2026-08-28T18:53:07.862220+00:00"
+    },
+    {
+      "title": "Real-world clinical practice, effectiveness and safety of esketamine nasal spray in major depressive disorder patients: a French prospective cohort (ELLIPSE study).",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42682977/",
+      "source": "PubMed",
+      "date": "2026-08-31",
+      "authors": [
+        "Llorca Pierre-Michel",
+        "Sauvaget Anne",
+        "Olié Emilie"
+      ],
+      "doi": "10.1177/20451253261463652",
+      "summaries": {
+        "en": "ELLIPSE, a French prospective cohort study of 200 patients with treatment-resistant depression, examined esketamine nasal spray effectiveness in routine clinical practice over 12 months. Mean MADRS scores decreased from 31.9 to 12.4; response and remission rates (55.2% and 33.6% respectively) plateaued by month 2. Adverse events occurred in 65.7% of patients, primarily dissociative states (28.0%) and transient blood pressure increases (11.6%).",
+        "sv": "ELLIPSE, en fransk prospektiv kohorstudie med 200 patienter med behandlingsresistent depression, undersökte effektiviteten av esketamin-nässpray i rutinmässig klinisk praktik under 12 månader. Genomsnittliga MADRS-värden minskade från 31,9 till 12,4; respons- och remissionsgrader (55,2% respektive 33,6%) stabiliserades vid månad 2. Biverkningar förekom hos 65,7% av patienterna, främst dissociativa tillstånd (28,0%) och temporära blodtrycksökningar (11,6%).",
+        "no": "ELLIPSE, en fransk prospektiv kohortstudie med 200 pasienter med behandlingsresistent depresjon, undersøkte effektiviteten av esketamin-nesespray i rutineklinisk praksis over 12 måneder. Gjennomsnittlige MADRS-skårer falt fra 31,9 til 12,4; respons- og remisjonrater (55,2% henholdsvis 33,6%) nådde platå ved måned 2. Bivirkninger forekom hos 65,7% av pasientene, mest dissociative tilstander (28,0%) og forbigående blodtrykkøkninger (11,6%).",
+        "da": "ELLIPSE, en fransk prospektiv kohortstudie med 200 patienter med behandlingsresistent depression, undersøgte esketamin-næsespray's effektivitet i rutineklinisk praksis over 12 måneder. Gennemsnitlige MADRS-scoringer faldt fra 31,9 til 12,4; respons- og remissionsrater (55,2% henholdsvis 33,6%) stabiliserede sig ved måned 2. Bivirkninger forekom hos 65,7% af patienterne, primært dissociative tilstande (28,0%) og forbigående blodtryksstigninger (11,6%).",
+        "fi": "ELLIPSE, ranskalainen prospektiivinen kohorttitutkimus 200 hoitoon vastustavan masennuksen potilaan kanssa, tutki esketamiinin nenäsuihkeen tehokkuutta rutiinilääkärikäytännössä 12 kuukauden ajan. MADRS-pisteet laskivat keskimäärin 31,9:stä 12,4:ään; vastaus- ja remissioasteet (55,2% ja 33,6%) saavuttivat tasangon kuukauden 2 kohdalla. Haittavaikutuksia ilmeni 65,7%:lla potilaista, pääasiassa dissosiatatiiviset tilat (28,0%) ja ohimenevät verenpaineen nousut (11,6%).",
+        "is": "ELLIPSE, frönsk forgangsstuðla með 200 sjúklingum með meðferðarþolna þunglyndi, skoðaði verkun esketamín-nasúðs í venjulegri klínískri iðkun yfir 12 mánuði. Meðaltal MADRS-stiga lækkaði úr 31,9 niður í 12,4; svörun og batatilföll (55,2% og 33,6%) náðu hámarki við mánuð 2. Aukaverkanir komu fram hjá 65,7% sjúklinga, aðallega sundrunarflói (28,0%) og tímabundin blóðþrýstingshækkun (11,6%).",
+        "et": "ELLIPSE, prantsuslik prospektiivne kohorduuringuuurimus 200 raviravimite suhtes resistentse depressiooni patsientiga, uuris esketamiin-ninaspreid tegelikus kliinilises praktikas 12 kuukauda. MADRS-skoorid vähenesid keskmiselt 31,9-lt 12,4-le; vastuse ja remissiooni määrad (55,2% ja 33,6%) stabiliseerusid 2. kuul. Kõrvalnähtuseid esines 65,7%-l patsientidest, peamiselt dissotsiatiivsed seisundid (28,0%) ja ajutised vererõhu tõusjad (11,6%).",
+        "lv": "ELLIPSE, Francijas prospektīvs kohortas pētījums ar 200 pacientiem ar ārstēšanai rezistentām depresiju, pārbaudīja esketamīna deguna spreja efektivitāti parastajā klīniskajā praksē 12 mēnešus. MADRS vidējie rādītāji samazinājās no 31,9 līdz 12,4; atbildes un remisijas likmes (55,2% attiecīgi 33,6%) stabilizējās 2. mēnesī. Blakusparādības radās 65,7% pacientu, galvenokārt dissociatīvie stāvokļi (28,0%) un pārejošs arteriālā spiediena paaugstinājums (11,6%).",
+        "lt": "ELLIPSE, Prancūzijos prospektyvinė kohortos studija su 200 pacientais, kurie turi gydymui rezistentinę depresiją, ištyrė esketamino nosies puršo veiksmingumą įprastoje klininėje praktikoje per 12 mėnesių. MADRS vidurkiai sumažėjo nuo 31,9 iki 12,4; atsako ir remisijos lygis (atitinkamai 55,2% ir 33,6%) pasistabilizavo 2 mėnesį. Nepageidaujami reiškiniai atsirado 65,7% pacientų, dažniausiai dissociacinės būsenos (28,0%) ir laikinai padidėjęs kraujo spaudimas (11,6%)."
+      },
+      "notable": false,
+      "notable_reasons": null,
+      "relevance_score": 4,
+      "study_type": "observational",
+      "substances": [
+        "ketamine"
+      ],
+      "added_at": "2026-09-03T11:29:23.388921+00:00"
     },
     {
       "title": "Pharmacokinetics, pharmacodynamics and safety of",
@@ -1885,68 +1957,6 @@
         "other"
       ],
       "added_at": "2026-08-22T07:08:35.061769+00:00"
-    },
-    {
-      "title": "Well-being as a primary endpoint in clinical trials: a call for consensus.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42581324/",
-      "source": "PubMed",
-      "date": "2026-08-06",
-      "authors": [
-        "Marseille Elliot",
-        "Kettner Hannes",
-        "Sgambati Tyrone J"
-      ],
-      "doi": "10.1038/s44184-026-00234-1",
-      "summaries": {
-        "en": "Psychiatric trials typically measure success through symptom reduction, but patients prioritize meaning, vitality, and functioning. Psychedelic trials demonstrate this gap: significant well-being improvements often occur despite modest symptom effects. Researchers propose elevating well-being to co-primary endpoint status in clinical trials, with a validated consensus instrument and safeguards ensuring therapies don't worsen underlying conditions.",
-        "sv": "Psykiatriska studier mäter framgång främst genom symtomreduktion, men patienter värderar mening, vitalitet och fungerande högre. Psykedeliska försök visar detta gap: betydande välbefinnande förbättras ofta trots blygsamma symtomeffekter. Forskare föreslår att välbefinnande höjs till samordnad primär slutpunkt med validerade instrument och skyddsåtgärder.",
-        "no": "Psykiatriske studier måler suksess primært gjennom symptomreduksjon, men pasienter prioriterer mening, vitalitet og funksjonering. Psykedeliske forsøk viser dette gapet: betydelig velværeforbedring oppstår ofte til tross for beskjedne symptomeffekter. Forskere foreslår å heve velvære til co-primær endepunkt med validerte måleinstrumenter og sikringsmekanismer.",
-        "da": "Psykiatriske studier måler succes primært gennem symptomreduktion, men patienter prioriterer mening, vitalitet og funktionalitet. Psykedeliske forsøg illustrerer dette hul: betydelig velvære-forbedring sker ofte på trods af beskedne symptomeffekter. Forskere foreslår at hæve velvære til co-primært endepunkt med validerede instrumenter og sikkerhedsforanstaltninger.",
-        "fi": "Psykiatriset tutkimukset mittaavat onnistumista ensisijaisesti oireen vähenemisen kautta, mutta potilaat asettavat merkityksellisyyden, vitaliteetin ja toimintakyvyn etusijalle. Psykedeeliset tutkimukset osoittavat tätä aukkoa: merkittävä hyvinvoinnin paraneminen usein tapahtuu huolimatta vaatimattomista oireiden vähenemisistä. Tutkijat ehdottavat hyvinvoinnin nostamista rinnasteiseksi päätepisteeksi validoiduin mittarein.",
-        "is": "Sálfræðirannsóknir mæla árangur fyrst og fremst með minnkun einkenna, en sjúklingar leggja áherslu á merkingu, lífsstyrkleika og virkni. Sálfræðilyf-tilraunir sýna þetta bil: verulegir endurbætingar vellíðunar eiga sér oft stað þrátt fyrir hófleg einkennaáhrif. Rannsakendur leggja til að hækka vellíðun til sameiginlegs frumtilgangs með staðfestum málum.",
-        "et": "Psühhiaatrilised uuringud mõõdavad edu peamiselt sümptomite vähenemise kaudu, kuid patsiendid hindavad tähendust, vitaalsust ja toimingut. Psühhedeeliakatsed näitavad seda lünka: märkimisväärne heaolu paranemine toimub sageli vaatamata tagasihoidlikele sümptomite mõjudele. Teadlased soovitavad tõsta heaolu kaasülesandeks valideeritud instrumentidega.",
-        "lv": "Psihiatriskos pētījumos panākumi tiek mērīti galvenokārt pēc simptomi samazināšanās, bet pacienti prioritizē nozīmi, vitalitāti un funkcionēšanu. Psihedelikas pētījumi parāda šo spraugumiumu: ievērojams labsajūtas uzlabojums bieži notiek neskatoties uz pieticīgiem simptomiem. Pētnieki ierosina paaugstināt labsajūtu uz līdzprimāro galapunktu ar validētiem instrumentiem.",
-        "lt": "Psichiatriniai tyrimai sėkmę matuoja pagrindinai per simptomų sumažėjimą, bet ligoniai teikia pirmenybę prasmei, vitalumui ir funkcionavimui. Psichedeliniai tyrimai rodo šią spragą: žymiai pagerėjusi gerovė dažnai pasitaiko nepaisant kuklių simptomų efektų. Tyrėjai siūlo pakelti gerovę į bendrą pirminį tašką su patvirtintais instrumentais."
-      },
-      "notable": false,
-      "notable_reasons": null,
-      "relevance_score": 4,
-      "study_type": "other",
-      "substances": [
-        "psilocybin"
-      ],
-      "added_at": "2026-08-13T07:59:35.488991+00:00"
-    },
-    {
-      "title": "Adjunctive transcutaneous auricular vagus nerve stimulation following loss of response to maintenance intranasal esketamine in treatment-resistant depression.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42574893/",
-      "source": "PubMed",
-      "date": "2026-08-06",
-      "authors": [
-        "Sierra Pilar",
-        "Cañada Yolanda",
-        "Benavent Pilar"
-      ],
-      "doi": "10.1016/j.ajp.2026.105110",
-      "summaries": {
-        "en": "Case report examining adjunctive transcutaneous auricular vagus nerve stimulation in a patient with treatment-resistant depression who lost response to maintenance intranasal esketamine. The study explores combining two neuromodulation approaches when initial ketamine treatment efficacy wanes.",
-        "sv": "Fallrapport om användning av transkutan aurär vagusnervstimuleringsterapeutisk behandling som tillägg hos patient med behandlingsresistent depression som förlorat effekten av underhållsbehandling med intranasalt esketamin. Studien undersöker kombination av två neuromodulativa metoder när ketaminbehandlingens effektivitet minskar.",
-        "no": "Pasientrapport om adjuvant transkutan auriculær vagusnervstimulerering hos pasient med behandlingsresistent depresjon som mistet respons på vedlikeholdsbehandling med intranasal esketamin. Studien utforsker kombinasjon av to neuromodulasjonsmetoder når initial ketaminbehandlingseffekt avtok.",
-        "da": "Patientrapport om adjuvant transkutan auriculær vagusnervestimulation hos patient med behandlingsresistent depression, som mistede responsen på vedligeholdelsesbehandling med intranasal esketamin. Studien undersøger kombinationen af to neuromodulationsmetoder når ketaminbehandlingens effektivitet aftager.",
-        "fi": "Tapausraportti transktutaanin auraalisen vagushermoärsytyksen lisähoidosta potilaalla, jolla oli resisdentti masennus ja joka oli menettänyt vasteen intranaasaalisen esketamiinin ylläpitohoitoon. Tutkimus tarkastelee kahden neuromodulaatiomenetelmän yhdistämistä, kun ketamiinihoidon teho heikkenee.",
-        "is": "Tilfelliskýrsla um aukaðir transkútan aurals vagusnarfasetning hjá sjúklingi með meðferðarþolna þunglyndi sem hefur týnt viðbrögðum við viðhaldsstöðvum intra-nasals esketamíns. Rannsóknin kannar samsetning tveggja taugabreytingaaðferða þegar upphaflega ketamínmeðferðin missir skilvirkni.",
-        "et": "Juhtumiuuring transkutaanset auraalse vagusnervi stimulatsioonist lisaravi abil haigel, kellel on ravi-resistentne depressioon ja kes on kaotanud reaktsiooni intranasaalse esketamiini hooldusravile. Uuringus uuritakse kahe neuromodulatsioonimeetodi kombineerimist, kui ketamiini esialgne tõhusus väheneb.",
-        "lv": "Klīniskais ziņojums par transkutānu aurālās vagusa nerva stimulāciju kā papildu ārstēšanu pacientam ar ārstēšanai rezistentū depresiju, kurš zaudējis atsargu uz nazālu esketamīna uzturošās terapijas. Pētījums izpēta divu neiromudulācijas metožu kombinēšanu, kad sākotnējā ketamīna terapijas efektivitāte samazinās.",
-        "lt": "Klinikinė istorija apie transkutaninę aurinę vaguso nervo stimuliaciją kaip papildomą gydymą pacientui su gydymui rezistentine depresija, kuris prarado atsaką į intranasinį esketaminą. Tyrime tiriama dviejų neuromoduliacijų metodų kombinacija, kai pradinis ketamino gydymas nustoja veikti."
-      },
-      "notable": false,
-      "notable_reasons": null,
-      "relevance_score": 3,
-      "study_type": "case_report",
-      "substances": [
-        "ketamine"
-      ],
-      "added_at": "2026-08-11T07:44:36.046881+00:00"
     }
   ]
 }

@@ -1,6 +1,65 @@
 {
   "items": [
     {
+      "title": "Serial Ketamine Infusions for Treatment-Resistant Bipolar Depression: A Randomized Clinical Trial.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42684694/",
+      "source": "PubMed",
+      "date": "2026-09-02",
+      "authors": [
+        "Orsini Diana K",
+        "Di Luch Sara",
+        "Tomlinson George"
+      ],
+      "doi": "10.1001/jamapsychiatry.2026.2658",
+      "summary_en": "Ket-BD, a double-blind randomized controlled trial (n=3 Canadian sites, 2022-2025), compared adjunctive IV ketamine (0.5-0.75 mg/kg, 4 infusions) with midazolam in treatment-resistant bipolar I/II depression. Adults aged 21-65 with ≥2 failed pharmacotherapy trials received infusions over 2 weeks alongside mood stabilizers. Primary outcome: MADRS score change at day 14. Results address efficacy, safety, and mania risk in this understudied population.",
+      "notable": true,
+      "notable_reason": "Randomized controlled trial (n appears adequately powered) evaluating IV ketamine in treatment-resistant bipolar disorder, a clinically significant population with limited therapeutic options.",
+      "study_type": "rct",
+      "substances": [
+        "ketamine"
+      ],
+      "added_at": "2026-09-03T11:29:23.388921+00:00"
+    },
+    {
+      "title": "Real-world clinical practice, effectiveness and safety of esketamine nasal spray in major depressive disorder patients: a French prospective cohort (ELLIPSE study).",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42682977/",
+      "source": "PubMed",
+      "date": "2026-08-31",
+      "authors": [
+        "Llorca Pierre-Michel",
+        "Sauvaget Anne",
+        "Olié Emilie"
+      ],
+      "doi": "10.1177/20451253261463652",
+      "summary_en": "ELLIPSE, a French prospective cohort study of 200 patients with treatment-resistant depression, examined esketamine nasal spray effectiveness in routine clinical practice over 12 months. Mean MADRS scores decreased from 31.9 to 12.4; response and remission rates (55.2% and 33.6% respectively) plateaued by month 2. Adverse events occurred in 65.7% of patients, primarily dissociative states (28.0%) and transient blood pressure increases (11.6%).",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "observational",
+      "substances": [
+        "ketamine"
+      ],
+      "added_at": "2026-09-03T11:29:23.388921+00:00"
+    },
+    {
+      "title": "[Not Available].",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42686626/",
+      "source": "PubMed",
+      "date": "2026",
+      "authors": [
+        "Gavoury Juliette",
+        "Perot Romain"
+      ],
+      "doi": "10.3917/rsi.164.0045",
+      "summary_en": "A scoping review (12 publications, mostly North American, post-2020) examines nursing's role in psychedelic-assisted psychotherapy for treatment-resistant psychiatric conditions. Nurses contribute to assessment, preparation, administration, and integration phases, offering prolonged therapeutic support. Key gaps include limited literature representation, lack of specialized training, and need for regulatory frameworks. Rigorous validation of nursing contributions and application of nursing theoretical models are recommended.",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "review",
+      "substances": [
+        "other"
+      ],
+      "added_at": "2026-09-03T11:29:23.388921+00:00"
+    },
+    {
       "title": "Age and Cannabis Co-Use Are Associated with Differences in Experience and Perceived Benefits of Psilocybin: A Retrospective Study.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42682203/",
       "source": "PubMed",

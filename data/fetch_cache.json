@@ -1,7 +1,58 @@
 {
-  "date": "2026-09-02",
-  "cached_at": "2026-09-02T10:36:15.427707+00:00",
+  "date": "2026-09-03",
+  "cached_at": "2026-09-03T10:38:58.229557+00:00",
   "articles": [
+    {
+      "title": "Heterogeneous structural brain signatures of methamphetamine and ketamine use disorders revealed by normative modeling.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42686998/",
+      "source": "PubMed",
+      "abstract": "Marked interindividual heterogeneity in substance use disorder (SUD) impedes the identification of consistent neuroanatomical alterations, limiting the development of robust markers for clinical risk stratification. We applied a normative modeling framework to explore individual neuroanatomical deviations in individuals with SUD across two distinct substance classes, and assessed their potential for classification and risk prediction. We established a developmental normative model of gray matter volume (GMV) using T1-weighted images from 1209 healthy individuals aged 18-65 years. Deviations from this normative model were then estimated for 184 individuals with methamphetamine use disorder (MUD), 94 with ketamine use disorder (KUD), and 220 healthy controls (HC) collected from two independent sites. Based on these individual deviation scores, a machine learning model was constructed to identify individuals at risk for SUD. The normative model revealed high interindividual heterogeneity in GMV deviations among individuals with MUD and KUD. Cross-substance extreme negative deviations were primarily located in regions of the default mode network (DMN). Notably, individual-level deviations could successfully distinguish both MUD and KUD from HC, and replicated in an external dataset. We further identified significant associations between abnormal GMV trajectories and neurobiological features, particularly myelination and neurotransmitter systems. These findings enhance our understanding of the heterogeneous neurobiology underlying SUD, providing potential neurobiological biomarkers for clinical diagnosis, risk stratification, and prevention.",
+      "date": "2026-09-02",
+      "authors": [
+        "Sun Yunkai",
+        "Fang Yehong",
+        "Peng Pu"
+      ],
+      "doi": "10.1038/s41380-026-03859-y"
+    },
+    {
+      "title": "[Not Available].",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42686626/",
+      "source": "PubMed",
+      "abstract": "Psychedelic-assisted psychotherapy (PAP) is emerging as a promising approach for treating various treatmentresistant psychiatric disorders. Despite the expansion of this practice, few studies have examined nursing contribution. This review explores nursing contributions to PAP in psychiatry and analyzes the challenges related to nurses&amp;#8217; contributions. A scoping review was conducted following the Joanna Briggs Institute methodology, exploring several databases. Twelve publications were included. Their number has increased since 2020, and the publications are predominantly North American. The authors, predominantly nurses, are highly qualified. They describe roles in assessment, preparation, administration, and integration, as well as distinctive strengths such as prolonged therapeutic support. Nursing representation in the literature remains limited, and specialized training is lacking. Applying nursing theoretical models to PAP could help demonstrate the added value of the nursing role. Calls for research reveal a desire for greater professional recognition and structuring. Ethical and regulatory challenges require appropriate frameworks. The nursing contribution requires rigorous scientific validation, and advanced practice nurses possess the necessary competencies to contribute to this process. Introduction&amp;#160;: la psychoth&amp;#233;rapie assist&amp;#233;e par psych&amp;#233;d&amp;#233;liques (PAP) &amp;#233;merge comme une approche encourageante pour traiter divers troubles psychiatriques r&amp;#233;sistants. Malgr&amp;#233; l&amp;#8217;expansion de cette pratique, peu d&amp;#8217;&amp;#233;tudes abordent la contribution infirmi&amp;#232;re. Objectifs&amp;#160;: cette revue explore la contribution infirmi&amp;#232;re dans la PAP en psychiatrie et analyse les d&amp;#233;fis li&amp;#233;s &amp;#224; l&amp;#8217;int&amp;#233;gration des infirmiers. M&amp;#233;thode&amp;#160;: une revue de la port&amp;#233;e a &amp;#233;t&amp;#233; men&amp;#233;e selon la m&amp;#233;thodologie Joanna Briggs Institute explorant plusieurs bases de donn&amp;#233;es. R&amp;#233;sultats&amp;#160;: 12 publications ont &amp;#233;t&amp;#233; retenues. Celles-ci augmentent depuis 2020 et sont majoritairement nord-am&amp;#233;ricaines. Les auteurs, principalement infirmiers, pr&amp;#233;sentent un niveau de qualification &amp;#233;lev&amp;#233;. Ils d&amp;#233;crivent des r&amp;#244;les d&amp;#8217;&amp;#233;valuation, de pr&amp;#233;paration, d&amp;#8217;administration et d&amp;#8217;int&amp;#233;gration, avec des atouts distinctifs, comme l&amp;#8217;accompagnement th&amp;#233;rapeutique prolong&amp;#233;. Discussion&amp;#160;: la pr&amp;#233;sence infirmi&amp;#232;re dans la litt&amp;#233;rature reste faible, et les formations sp&amp;#233;cialis&amp;#233;es manquent. L&amp;#8217;application de mod&amp;#232;les th&amp;#233;oriques infirmiers &amp;#224; la PAP permettrait de l&amp;#233;gitimer la valeur ajout&amp;#233;e du r&amp;#244;le infirmier. Les appels &amp;#224; la recherche r&amp;#233;v&amp;#232;lent une volont&amp;#233; de structuration professionnelle. Les d&amp;#233;fis &amp;#233;thiques et r&amp;#233;glementaires requi&amp;#232;rent un encadrement adapt&amp;#233;. La contribution infirmi&amp;#232;re n&amp;#233;cessite une validation scientifique rigoureuse pour laquelle les infirmiers en pratique avanc&amp;#233;e poss&amp;#232;dent les comp&amp;#233;tences requises.",
+      "date": "2026",
+      "authors": [
+        "Gavoury Juliette",
+        "Perot Romain"
+      ],
+      "doi": "10.3917/rsi.164.0045"
+    },
+    {
+      "title": "Serial Ketamine Infusions for Treatment-Resistant Bipolar Depression: A Randomized Clinical Trial.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42684694/",
+      "source": "PubMed",
+      "abstract": "Antidepressant efficacy of intravenous (IV) ketamine has been demonstrated in major depressive disorder; however, the efficacy and safety of ketamine for bipolar depression remain largely unknown, with limited data available in this specific population. To evaluate the efficacy, safety, and tolerability of adjunctive IV ketamine compared with midazolam for treatment-resistant bipolar I or II depression (TRBD). The Ket-BD study (Ketamine for Treatment-Resistant Bipolar Disorder) was an investigator-led, double-blind, midazolam-controlled randomized clinical trial conducted at 3 sites in Ontario, Canada, from July 2022 to November 2025. Participants included adult outpatients (aged 21-65 years) with a primary bipolar I or II disorder DSM-5 diagnosis with a current moderate to severe major depressive episode (Montgomery-Åsberg Depression Rating Scale [MADRS] score ≥21), having had at least 2 failed trials of evidence-based pharmacotherapies. Data were analyzed from November 2025 through February 2026. Participants were randomized 1:1 to receive 4 flexibly dosed 40-minute infusions over 2 weeks of either ketamine (0.5-0.75 mg/kg) or midazolam (0.02-0.03 mg/kg) adjunctive to a stable dose of at least 1 mood stabilizer or antipsychotic. The primary outcome was change in depression symptom severity measured by the observer-rated MADRS score from baseline to end of treatment (day 14). Safety and tolerability were assessed with close evaluation for potential treatment-emergent mania, hypomania, mixed features, or psychosis. Of 68 randomized participants (mean [SD] age, 44.4 [11.8] years; 38 female [55.8%]), 63 were included in the final efficacy analysis as 5 participants withdrew (1 ketamine, 4 midazolam) before the primary end point. In the primary efficacy analysis, controlling for sex, bipolar type, and baseline MADRS, the mean MADRS score at day 14 was significantly lower in the ketamine group compared to the midazolam group (between-group difference = -7.3 points; 95% CI, -12.0 to -2.5; P = .003; Cohen d = 0.7). No cases of mania, hypomania, psychosis, or suicide attempts were observed in either group. One case of mixed features (subthreshold hypomanic symptoms) was observed in each group. After the first infusion, 31 of 66 participants (47%) correctly guessed treatment allocation. In TRBD, adjunctive IV ketamine was well tolerated and associated with significant antidepressant effects compared to midazolam. ClinicalTrials.gov Identifier: NCT05004896.",
+      "date": "2026-09-02",
+      "authors": [
+        "Orsini Diana K",
+        "Di Luch Sara",
+        "Tomlinson George"
+      ],
+      "doi": "10.1001/jamapsychiatry.2026.2658"
+    },
+    {
+      "title": "Real-world clinical practice, effectiveness and safety of esketamine nasal spray in major depressive disorder patients: a French prospective cohort (ELLIPSE study).",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42682977/",
+      "source": "PubMed",
+      "abstract": "Major depressive disorder (MDD) is highly prevalent and associated with significant disability and mortality. Treatment-resistant depression (TRD), defined as inadequate response to ⩾2 antidepressant lines, remains a major therapeutic challenge. Esketamine nasal spray, approved in 2019 for TRD, demonstrated efficacy and safety in randomized trials, but real-world evidence remains limited. The ELLIPSE study aimed to describe patient characteristics, treatment patterns, and 12-month outcomes of esketamine in routine clinical practice in France. ELLIPSE was a prospective, multicenter, observational cohort study including adults with unipolar MDD initiating esketamine between Dec 2021 and Jul 2023, followed for 12 months. Data were collected via standardized clinical assessments. Effectiveness was evaluated using the Montgomery-Åsberg Depression Rating Scale (MADRS). Response was defined as ⩾50% MADRS reduction; remission as MADRS ⩽ 10. A total of 200 patients (mean age 46.6 years; 56.5% female) were enrolled; 97.5% met TRD criteria. Median esketamine exposure was 4.5 months. Mean MADRS decreased from 31.9 at baseline to 12.4 at month 12 (mean change -17.9; 95% CI: -21.6 to -14.2). Response and remission rates reached a plateau at month 2, where the response rate was 55.2% and the remission rate was 33.6%, maintained up to month 12. Adverse events (AEs) occurred in 65.7% of patients, most commonly dissociative states (28.0%) and transient blood pressure increases (11.6%). This real-world study in patients with treatment-resistant depression, including those with comorbidities/prior suicide attempts, showed clinically relevant improvement from month 2, sustained through 12 months. Dissociative symptoms were the most frequent treatment-related AE.",
+      "date": "2026-08-31",
+      "authors": [
+        "Llorca Pierre-Michel",
+        "Sauvaget Anne",
+        "Olié Emilie"
+      ],
+      "doi": "10.1177/20451253261463652"
+    },
     {
       "title": "Age and Cannabis Co-Use Are Associated with Differences in Experience and Perceived Benefits of Psilocybin: A Retrospective Study.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42682203/",
@@ -202,58 +253,6 @@
         "Darling Anna"
       ],
       "doi": "10.1038/s41386-026-02536-6"
-    },
-    {
-      "title": "Esketamine-based treatment, depression-specific metacognitive training, and their combination in treatment-resistant depression: 6-month trajectories of depressive symptoms and rumination in a multicenter observational study.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42667415/",
-      "source": "PubMed",
-      "abstract": "Treatment-resistant depression (TRD) remains a highly burdensome clinical condition, and improvement in depressive severity does not necessarily imply parallel modification of maladaptive cognitive-affective processes such as rumination. We compared 6-month trajectories of depressive symptoms and depressive rumination across three active treatment conditions in routine clinical care: intranasal esketamine-based treatment without depression-specific metacognitive training (ESK), depression-specific metacognitive training without esketamine exposure (D-MCT), and combined esketamine plus D-MCT (D-MCT + ESK). Of 65 screened patients, 12 were excluded because of at least one absolute contraindication and 53 were enrolled (ESK n = 15, D-MCT n = 12, D-MCT + ESK n = 26). Seven participants did not complete the 6-month endpoint assessment (six in ESK and one in D-MCT + ESK), yielding a complete-case analysis set of 46 patients (ESK n = 9, D-MCT n = 12, D-MCT + ESK n = 25). Generalized estimating equations showed significant time effects and time-by-group interactions for both MADRS and RRS total scores. Endpoint ANCOVA models adjusting for baseline outcome value showed significant group effects at 6 months for MADRS (F(2,42) = 24.97, p<.001) and RRS (F(2,42) = 5.59, p=.007). Six-month MADRS response among completers was 3/9 (33.3%) in ESK, 4/12 (33.3%) in D-MCT, and 23/25 (92.0%) in D-MCT + ESK; corresponding intention-to-treat estimates using non-responder imputation were 3/15 (20.0%), 4/12 (33.3%), and 23/26 (88.5%). Concomitant treatment profiles showed marked imbalance in previous non-pharmacological treatment exposure, representing an important potential confounder. Findings support a cautious, hypothesis-generating interpretation because allocation was nonrandomized, assessment was open-label, the sample was modest, and baseline rumination was higher in the combined group.",
-      "date": "2026-08-29",
-      "authors": [
-        "Martiadis Vassilis",
-        "Raffone Fabiola",
-        "Atripaldi Danilo"
-      ],
-      "doi": "10.1007/s00406-026-02361-4"
-    },
-    {
-      "title": "Corrigendum to \"Health-related behavioral changes following the use of psychedelics in naturalistic settings\" [Prevent. Med. Rep. 56 (2025) 103161].",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42666508/",
-      "source": "PubMed",
-      "abstract": "[This corrects the article DOI: 10.1016/j.pmedr.2025.103161.].",
-      "date": "2026-07-14",
-      "authors": [
-        "Teixeira Pedro J",
-        "Jain Rakesh",
-        "Penn Andrew D"
-      ],
-      "doi": "10.1016/j.pmedr.2026.103574"
-    },
-    {
-      "title": "Bedtime tetrahydrocannabinol ingestion reduces morning orthostatic cardiovascular reactivity in adults: An exploratory study.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42665978/",
-      "source": "PubMed",
-      "abstract": "Acute cannabis use and its primary psychoactive constituent tetrahydrocannabinol (THC) can induce postural dizziness, indicating increased risk of orthostatic instability. However, it is unknown if vulnerabilities persist the morning after bedtime THC consumption. This study investigated the influence of bedtime THC consumption on cardiovascular variables during an orthostatic challenge. Nine individuals with no cannabis use and eight individuals who regularly use cannabis participated in a tilt table test associated with a 3-day in-laboratory stay. Participants underwent an acclimatization day, followed by a placebo dosing day, and a 10 mg THC dosing day. Placebo and THC pills were given 1 h before a participant's habitual bedtime, and the tilt table test was performed ~1 h upon awakening. Participants were instrumented with an electrocardiogram and an automated sphygmomanometer. Fluid intake and output were measured throughout the study. The morning after THC administration, individuals with no cannabis use reported a higher frequency of dizziness and exhibited a significant reduction in both diastolic blood pressure and heart rate reactivity to tilt (reactivity = tilt - baseline) compared to the morning after placebo. Our results indicate a potential increased risk for orthostatic instability the morning after cannabis consumption in individuals with no cannabis use history.",
-      "date": "2026-Sep",
-      "authors": [
-        "Gonzalez Joshua E",
-        "Stewart Alicia V",
-        "Robinson LaTroy D"
-      ],
-      "doi": "10.14814/phy2.71076"
-    },
-    {
-      "title": "Network structure and mental health correlates of the Mount Sinai Resilience Scale.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42664566/",
-      "source": "PubMed",
-      "abstract": "The Mount Sinai Resilience Scale (MSRS) assesses cognitive, behavioral, and emotional resilience processes, yet the interrelationships among these processes, including which are most central and most strongly associated with mental health outcomes, remain poorly characterized. This study used network analysis to characterize the structure of MSRS-assessed resilience processes and their associations with clinical outcomes in a population-based sample of U.S. adults (N = 1794) enriched for elevated perceived stress and trauma exposure. Participants completed the MSRS and validated measures of depressive, anxiety, and posttraumatic stress disorder (PTSD) symptoms and well-being. Regularized Gaussian graphical models were estimated to characterize network structure and centrality, with clinical outcomes incorporated as nodes to identify unique associations with individual MSRS items. The network demonstrated moderate density (157 of 276 possible edges), reflecting widespread conditional associations among resilience processes. Engagement in meaningful activities, perceived positive impact of spirituality, and active emotional recovery demonstrated the highest centrality, while emotional awareness and directly facing fears also showed high expected influence. Staying hopeful about the future, directly facing fears, and engaging in meaningful activities were consistently associated with lower depressive, anxiety, and PTSD symptoms and higher well-being. Forgiveness was positively associated with PTSD symptoms, suggesting a more complex role in trauma-related adaptation. Overall, MSRS resilience processes were organized around interconnected domains of meaning, spirituality, and emotional regulation. Hope, behavioral approach to feared experiences, and engagement in meaningful activities emerged as resilience processes with consistent associations across multiple mental health outcomes, highlighting their potential relevance for resilience-focused interventions.",
-      "date": "2026-08-27",
-      "authors": [
-        "Pietrzak Robert H",
-        "Feder Adriana",
-        "Marin Deborah B"
-      ],
-      "doi": "10.1016/j.jpsychires.2026.08.029"
     },
     {
       "title": "Pα+ Psychedelic Bulletin #230: Pharma Ramps Up Ad Spend on Psychedelic Keywords; ARPA-H’s Ibogaine Funding; Psychedelics in Medicaid?",
@@ -570,7 +569,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2018-004480-31/CZ",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-09-02",
+      "date": "2026-09-03",
       "authors": [],
       "doi": ""
     },
@@ -579,7 +578,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2020-005037-32/CZ",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-09-02",
+      "date": "2026-09-03",
       "authors": [],
       "doi": ""
     },
@@ -588,7 +587,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2021-002909-10/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-09-02",
+      "date": "2026-09-03",
       "authors": [],
       "doi": ""
     },
@@ -597,7 +596,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2015-000550-37/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-09-02",
+      "date": "2026-09-03",
       "authors": [],
       "doi": ""
     },
@@ -606,7 +605,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2021-000041-40/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-09-02",
+      "date": "2026-09-03",
       "authors": [],
       "doi": ""
     },
@@ -615,7 +614,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2020-000829-55/DK",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-09-02",
+      "date": "2026-09-03",
       "authors": [],
       "doi": ""
     },
@@ -624,7 +623,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2020-002790-94/SE",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-09-02",
+      "date": "2026-09-03",
       "authors": [],
       "doi": ""
     },
@@ -633,7 +632,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2021-006200-33/FI",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-09-02",
+      "date": "2026-09-03",
       "authors": [],
       "doi": ""
     },
@@ -642,7 +641,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2019-004812-73/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-09-02",
+      "date": "2026-09-03",
       "authors": [],
       "doi": ""
     },
@@ -651,7 +650,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2022-002369-14/BE",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-09-02",
+      "date": "2026-09-03",
       "authors": [],
       "doi": ""
     },

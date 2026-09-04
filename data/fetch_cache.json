@@ -1,7 +1,72 @@
 {
-  "date": "2026-09-03",
-  "cached_at": "2026-09-03T10:38:58.229557+00:00",
+  "date": "2026-09-04",
+  "cached_at": "2026-09-04T10:33:50.982313+00:00",
   "articles": [
+    {
+      "title": "Implementing psychedelic-assisted therapy in Ireland: perspectives from a national stakeholder survey.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42693921/",
+      "source": "PubMed",
+      "abstract": "",
+      "date": "2026-09-04",
+      "authors": [
+        "Harrington Colm",
+        "Mallon Orla",
+        "Gribben Andrew David"
+      ],
+      "doi": "10.1017/ipm.2026.10224"
+    },
+    {
+      "title": "Healing together: Results from a pilot trial of 3,4-Methylenedioxymethamphetamine-enhanced cognitive-behavioral conjoint therapy for posttraumatic stress disorder.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42693902/",
+      "source": "PubMed",
+      "abstract": "Posttraumatic stress disorder (PTSD) disrupts individual well-being and relationship health, particularly among veteran/military couples with heightened risks due to deployment, family reintegration, and traumatic stress. Although cognitive-behavioral conjoint therapy (CBCT) and brief CBCT (bCBCT) have demonstrated strong efficacy in reducing PTSD symptoms, their impact on relational outcomes is less compelling. Given the importance of relationship functioning for veterans' overall health, enhancing interpersonal outcomes of PTSD treatment remains a research priority. One promising approach is the integration of 3,4-methylenedioxymethamphetamine (MDMA)-assisted therapy to augment the relational benefits of established PTSD interventions. This single-site, open-label pilot study evaluated the preliminary benefit, safety, and acceptability of MDMA-assisted bCBCT in eight U.S. military veterans with PTSD and their intimate partners (N = 16). An eight-session MDMA-assisted bCBCT protocol with two MDMA administration sessions and dyadic integration sessions incorporating elements of integrative behavioral couples therapy was delivered. Outcomes included PTSD symptom severity, relationship functioning, and safety. Veterans exhibited large pre-post PTSD symptom reductions, d = 1.25, which were generally maintained during follow-up. Both veterans and partners experienced large improvements in relationship functioning, ds = 1.83 and 1.29, respectively, with moderate rebound during follow-up. No serious adverse events were reported. This first trial of MDMA-assisted bCBCT in U.S. veterans and their partners provides preliminary evidence of potential improvements in PTSD and relational outcomes, with no identified serious safety concerns. This model has potential for future evaluation in large health care systems, leveraging the hypothesized therapeutic effects of MDMA for individuals with PTSD and their families.",
+      "date": "2026-09-04",
+      "authors": [
+        "Morland Leslie A",
+        "Khalifian Chandra E",
+        "Perivoliotis Dimitri"
+      ],
+      "doi": "10.1002/jts.70126"
+    },
+    {
+      "title": "Psilocybin prevents chemotherapy-induced peripheral neuropathy through mitochondrial trafficking preservation.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42691184/",
+      "source": "PubMed",
+      "abstract": "Chemotherapy-induced peripheral neuropathy (CIPN) is a disabling, often irreversible toxicity that affects millions of patients, limits life-saving cancer therapy, and lacks proven treatment. In this work, we show that as little as two doses of psilocybin before chemotherapy durably prevented the onset of CIPN across platinum- and taxane-based models, including repeated chemotherapy cycles, without impairing antitumor efficacy. Peripherally, psilocybin maintained tactile sensitivity and intraepidermal nerve fiber endings through axonal mitochondrial trafficking and distribution preservation, through the TrkB-Akt-PAK5-MAP2-KIF5B pathway and remobilization of syntaphilin-anchored mitochondria. Centrally, it normalized medial prefrontal cortical synaptic activity and cortical alpha and beta electroencephalography power. This stabilization of peripheral axonal energy balance establishes psilocybin as a first-in-class prophylactic agent for CIPN while also preserving central neural function. Given psilocybin's established safety, these discoveries support clinical evaluation as a strategy to prevent CIPN.",
+      "date": "2026-09-03",
+      "authors": [
+        "Heles Mario",
+        "Pasvolsky Lilach",
+        "Sathishkumar Hinduja"
+      ],
+      "doi": "10.1126/science.aec6116"
+    },
+    {
+      "title": "Safety, pharmacokinetics, and pharmacodynamics of intravenously administered deuterated",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42689687/",
+      "source": "PubMed",
+      "abstract": "Serotonergic psychedelics, such as  This exploratory study investigated the PK, pharmacodynamic (PD), and safety profile of CYB004, a deuterated DMT analogue, following intravenous administration in healthy volunteers. CYB004, a deuterated DMT analogue, was evaluated in a randomized, double-blind, placebo-controlled, two-part study in healthy participants. Part 1 was a single-dose cohort, in which participants received a 5-minute intravenous 12.7 mg CYB004 bolus, followed by a 30-minute 15.41 mg infusion. Part 2 was a three-way crossover, during which two separate 5-minute 12.7 mg CYB004 boluses were administered. Outcome measures included PK of CYB004 and subjective, autonomic, neurophysiological, and adverse effects. Although high CYB004 doses led to intense psychedelic experiences and participant withdrawals, lower doses achieving plasma concentrations similar to those in previous DMT studies demonstrated an acceptable safety profile. CYB004 demonstrated a PD profile that was similar to DMT at comparable plasma concentrations. PD effects consisted of subjective psychedelic effects, electroencephalography power band reductions, and autonomic nervous system activation. CYB004's half-life was approximately two-fold longer than DMT, prolonging the duration of psychedelic effects to ~40-60 minutes following brief intravenous administration. However, deuteration did not improve PK variability, with IV-administered CYB004 demonstrating moderate to high variability, largely driven by interindividual differences. CYB004 demonstrated PD effects comparable to DMT. However, CYB004 demonstrated an extended duration of these effects due to reduced clearance, while maintaining an acceptable safety profile at clinically relevant exposures despite PK variability.",
+      "date": "2026-09-03",
+      "authors": [
+        "van der Heijden Katelijne V",
+        "Jacobs Gabriel E",
+        "James Ellen H"
+      ],
+      "doi": "10.1177/02698811261478616"
+    },
+    {
+      "title": "The subtle science: a systematic review of psilocybin magic mushroom and truffle microdosing.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42688116/",
+      "source": "PubMed",
+      "abstract": "Microdosing psilocybin magic mushrooms (MM) and truffles has grown in popularity, but the evidence supporting reported benefits remains poorly characterized. The purpose of this systematic review was to synthesize the existing literature on microdosing psilocybin MM and truffles in adults to determine reported health effects and perceived benefits, motivations for use, dosing protocols and preparations, adverse events, and competing interests. This systematic review followed the Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) and was registered with the International Prospective Register of Systematic Reviews (PROSPERO; CRD42023428107). Studies of adults microdosing psilocybin MM or truffles were eligible. Risk of bias was assessed across included studies. Eleven articles (five quantitative and six qualitative studies) met inclusion criteria. Studies were conducted in the United States (n=4), Netherlands, Argentina, and internationally (n=2 each), and Slovenia (n=1) with a total sample of 3,262 adults. Some studies reported microdosing psilocybin MM or truffles may improve well-being, mental health, cognition, physical health, creativity, relationships, pain, curiosity, and substance dependence, and enhance senses among adults. However, the majority of evidence had at least some concerns for risk of bias or was qualitative and used a variety of self-reported outcome measures. Approximately 86% of microdoser motivations were non-medical and only 14% were related to medical diagnoses, mostly for mental health improvements. Extreme heterogeneity was identified across dosing protocols and preparations. The majority of studies did not report adverse events but for those reported, they were mostly mild. All but four studies declared no conflicts of interest and four did not disclose funding sources. The certainty of the evidence is low, and a causal effect of microdosing cannot be inferred. Future research should prioritize well-powered randomized controlled trials with standardized and substance-specific dosing protocols to determine causal relationships between microdosing MM or truffles and health outcomes. Mandatory reporting of adverse events and funding sources should be implemented to build the safety profile of microdosing MM and truffles and ensure transparency for potential conflicts of interest. https://www.crd.york.ac.uk/prospero/, identifier CRD42023428107.",
+      "date": "2026-08-19",
+      "authors": [
+        "Page Jeni",
+        "Moore Alexandra",
+        "Hawkins Bridget E"
+      ],
+      "doi": "10.3389/fpsyt.2026.1866881"
+    },
     {
       "title": "Heterogeneous structural brain signatures of methamphetamine and ketamine use disorders revealed by normative modeling.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42686998/",
@@ -191,68 +256,6 @@
         "Andrade Chittaranjan"
       ],
       "doi": "10.4088/JCP.26f16110"
-    },
-    {
-      "title": "The Relative Infant Dose for Maternal Use of Drugs During Breastfeeding: Nuances in Derivation, Interpretation, and Application.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42671278/",
-      "source": "PubMed",
-      "abstract": "Medications used by lactating mothers appear in breast milk to varying extents and are ingested by the breastfed infant. The degree of exposure of infants to maternal medication is therefore a matter of concern. Key clinical considerations are the absolute exposure of the infant to the drug, the infant's age and capacity to metabolize the drug, and the possible effects of drug exposure in the infant. In this context, the relative infant dose (RID) is a useful construct that helps predict infant exposure without requiring infant blood sampling. By definition, the RID estimates the dose of drug that a breastfed infant ingests per day relative to the dose that the mother receives per day; dosing is standardized per kg body weight, and breast milk intake is standardized at 150 mL/kg/d. A drug with an RID that is <10% is conventionally considered to be compatible with breastfeeding; however, this interpretation is nuanced. This article explains the RID using a worked example. Clinically important issues in the derivation, interpretation, and application of the RID are discussed. Matters considered include how maternal weight and infant weight influence the estimated RID, the need to consider active metabolites, and study-related issues such as sample size and breast milk sampling. Special situations examined include intermittent drug dosing and rescue dosing, dosing with drugs that have long half-lives, use of prodrugs or long-acting injections, and use of drugs that may be problematic regardless of dose. Examples of the RID are provided for ketamine and its active metabolite norketamine, lurasidone, and viloxazine. Readers need to be aware that there is more to the RID than just the arbitrary 10% cutoff.",
-      "date": "2026-08-10",
-      "authors": [
-        "Andrade Chittaranjan"
-      ],
-      "doi": "10.4088/JCP.26f16563"
-    },
-    {
-      "title": "Optimizing Ketamine Infusion Therapy for Treatment-Resistant Bipolar Depression: Commentary on Zhou et al. (2023).",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42670081/",
-      "source": "PubMed",
-      "abstract": "To contextualize the real-world findings of repeated intravenous ketamine infusions for treatment-resistant bipolar depression (TRBPD) and identify priorities for safer, more durable clinical implementation. We provide a focused commentary on Zhou et al. (2023) and integrate selected evidence concerning inflammatory and metabolic correlates, neurocognitive outcomes, and continuation-phase ketamine treatment. Repeated subanesthetic ketamine infusions may rapidly improve depressive and anxiety symptoms with an acceptable short-term safety profile. However, the predictive value of C-reactive protein and body mass index varies across cohorts; available cognitive findings are reassuring but limited; and relapse after induction highlights the need for individualized maintenance planning. Ketamine pathways for TRBPD should combine cautious patient stratification, repeatable cognitive monitoring, and explicit continuation or booster strategies. Prospective bipolar-specific studies are needed to clarify predictors, durability, and stopping rules.",
-      "date": "2026-Sep",
-      "authors": [
-        "Lin Chih-Cheng",
-        "Wei Lien-Chung"
-      ],
-      "doi": "10.1111/bdi.70177"
-    },
-    {
-      "title": "Reframing neuropsychiatric disorders: Nuclear calcium signaling as a core signaling axis of mitochondrial proteostasis and synaptic energy homeostasis.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42669372/",
-      "source": "PubMed",
-      "abstract": "Neuropsychiatric disorders have a high global health impact; however, the molecular basis of these disorders is still not fully understood due to the intricate complexity of neuronal homeostasis. In this review article, we have highlighted an emerging paradigm that places nuclear calcium signaling at the apex of cellular metabolism by bridging synaptic functions and mitochondrial proteostasis. We have highlighted how cytosolic and nucleoplasmic Ca",
-      "date": "2026-08-30",
-      "authors": [
-        "Mohan Maneesh",
-        "Mannan Ashi",
-        "Mondal Debasmita"
-      ],
-      "doi": "10.1016/j.mcn.2026.104114"
-    },
-    {
-      "title": "A randomized crossover trial comparing the acute physiological and psychological effects of botanical formulations of oral psilocybin, oral psilocin, and sublingual psilocin.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42668404/",
-      "source": "PubMed",
-      "abstract": "Psilocybin, a serotonergic psychedelic found in hallucinogenic mushrooms, is metabolized to psilocin, the compound responsible for its psychoactive effects. Psilocybin has demonstrated therapeutic potential for neuropsychiatric conditions. While recent trials have primarily used orally administered synthetic psilocybin, alternative formulations and delivery methods may offer therapeutic advantages, yet the effects of these approaches remain poorly characterized. To compare the pharmacodynamic profiles and tolerability of oral psilocybin, oral psilocin, and sublingual psilocin derived from whole-mushroom extracts in healthy adults. In this randomized, within-subject, crossover trial, 20 healthy adults (10 men, 10 women; mean age 40.1 ± 5.9 years) completed up to four drug administration sessions involving botanical oral psilocybin (25 mg), oral psilocin (17.5 mg), or sublingual psilocin (2.18, 4.36, or 8 mg). All sessions included therapeutic support and pre- and post-dose psychotherapy. Acute effects were assessed using vital signs and subjective ratings of drug intensity and psychedelic experience. Oral psilocin produced a similar temporal and subjective profile to oral psilocybin, with a lower burden of adverse effects. Sublingual psilocin was well tolerated, though the apparently lower achieved drug exposure limited comparability to oral administration. Oral psilocin may offer tolerability advantages over oral psilocybin. Sublingual psilocin was well tolerated at the dosages tested. Further studies are needed to evaluate botanical formulations and optimize delivery approaches.",
-      "date": "2026-08-29",
-      "authors": [
-        "Tai Marlene L",
-        "Szigeti Balázs",
-        "Downey Amanda E"
-      ],
-      "doi": "10.1177/02698811261478603"
-    },
-    {
-      "title": "The role of BDNF promoter VI in mediating protective effects of prophylactic (R,S)-ketamine.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42668318/",
-      "source": "PubMed",
-      "abstract": "Brain-derived neurotrophic factor (BDNF) exon VI promoter is implicated in mediating activity-induced synthesis of hippocampal BDNF. BDNF is implicated in (R,S)-ketamine's antidepressant effects, but its role in (R,S)-ketamine-mediated prophylaxis is unknown. Using BDNF-e6 mice, in which promoter VI-driven BDNF production is disrupted, we tested its necessity for (R,S)-ketamine's prophylactic effects.",
-      "date": "2026-08-29",
-      "authors": [
-        "Chen Briana K",
-        "Williams Brenna L",
-        "Darling Anna"
-      ],
-      "doi": "10.1038/s41386-026-02536-6"
     },
     {
       "title": "Pα+ Psychedelic Bulletin #230: Pharma Ramps Up Ad Spend on Psychedelic Keywords; ARPA-H’s Ibogaine Funding; Psychedelics in Medicaid?",
@@ -513,6 +516,32 @@
       "doi": "10.1016/j.ibneur.2026.07.010"
     },
     {
+      "title": "Reconstituting a two-step pathway for &lt;i&gt;N&lt;/i&gt;,&lt;i&gt;N&lt;/i&gt;-dimethyltryptamine (DMT) biosynthesis in bacteria.",
+      "url": "https://doi.org/10.1016/j.mec.2026.e00286",
+      "source": "Europe PMC",
+      "abstract": "N,N-dimethyltryptamine (DMT) is a bioactive indole alkaloid that could greatly benefit from scalable, fermentation-based production for research and pharmaceutical applications. In this study, we reconstructed a two-step bacterial pathway converting L-tryptophan to DMT via tryptamine. This involved combining a pyridoxal 5'-phosphate (PLP)-dependent tryptophan decarboxylase from the bacterium <i>Ruminococcus gnavus</i> (RgnTDC) with an <i>S</i>-adenosyl-L-methionine (SAM)-dependent <i>N</i>-methyltransferase from the cane toad <i>Rhinella marina</i> (RmNMT) in <i>Escherichia coli</i>. We optimised conditions for each step, determining 37 °C (pH 8.0) as the optimal condition for tryptamine production and 25 °C (pH 7.5) for DMT. While PLP supplementation did not raise tryptamine levels, methionine supplementation increased DMT levels by 2.8 times, emphasising the importance of methyl-donor supply. Co-culture and co-expression experiments showed that DMT accumulation depends on sufficient methylation capacity. Increased tryptophan availability led to tryptamine accumulation without a proportional increase in DMT formation, indicating a downstream limitation after decarboxylation. Together with the stimulatory effect of methionine supplementation, this result points to <i>N</i>-methylation and methyl-donor supply as key constraints in this system. In shake-flask cultures, a co-expression strain (TN1) produced 103 mg/L DMT after 48 h in complex medium without direct tryptophan supplementation. To enable growth in a defined medium, we used a workflow involving a tryptophan-enriched supernatant from a <i>Corynebacterium glutamicum</i> tryptophan overproducer, which supported de novo DMT formation at 16 mg/L in defined medium. These findings establish a plasmid-based platform for DMT production with <i>E. coli</i> and identify methyltransferase capacity as a key target for further yield improvements.",
+      "date": "2026-07-21",
+      "authors": [
+        "Junges LH",
+        "Pontes FLD",
+        "Mota FJT"
+      ],
+      "doi": "10.1016/j.mec.2026.e00286"
+    },
+    {
+      "title": "Development and characterization of a topical ferrochelatase inhibitor nanoemulsion for choroidal neovascularization therapy.",
+      "url": "https://doi.org/10.1016/j.ijpx.2026.100619",
+      "source": "Europe PMC",
+      "abstract": "Choroidal neovascularization (CNV) is a hallmark of neovascular age-related macular degeneration (nAMD). We previously identified the heme synthesis enzyme ferrochelatase (FECH) as a promising therapeutic target. This study aimed to develop and characterize topical ophthalmic nanoemulsions (NEs) of a novel FECH inhibitor, SH-17023, for CNV therapy, to avoid the intravitreal injections needed for standard-of-care anti-vascular endothelial growth factor (anti-VEGF) biologics. SH-17023-loaded NEs were prepared by spontaneous emulsification and optimized using D-optimal mixture design-based Quality-by-Design to obtain nanometric globule size (Z<sub>avg</sub>), low polydispersity index (PDI), and highest drug loading capacity (% LC). Therapeutic efficacy was assessed in the laser-induced CNV (L-CNV) mouse model with fundus imaging, optical coherence tomography (OCT), fluorescein angiography, and ex vivo vasculature staining. The optimized formulation was transparent with a globule size of 32.832 ± 2.125 nm, PDI 0.201 ± 0.003, spherical morphology, and LC of 7.436 ± 0.035%. It showed zeta potential of -29.2 ± 0.45 mV, sustained drug release, and robust accelerated and kinetic stability. Attenuated total reflectance-Fourier transform infrared spectroscopy and X-ray diffraction revealed excellent drug-excipient compatibility. Ex vivo goat cornea permeation of NEs showed significantly higher drug transport (permeability coefficient (K<sub>p</sub>) = 0.050 ± 0.012 h<sup>-1</sup>.cm<sup>-2</sup>, steady-state flux (J<sub>ss</sub>) = 37.51 ± 9.29 μg.h<sup>-1</sup>.cm<sup>-2</sup>) than the drug in solution (K<sub>p</sub> = 0.002 ± 0.0004 h<sup>-1</sup>.cm<sup>-2</sup> and J<sub>ss</sub> = 1.575 ± 0.488 μg.h<sup>-1</sup>.cm<sup>-2</sup>) with an enhancement ratio of 23.815. Optimized NEs significantly reduced L-CNV assessed by OCT and ex vivo staining by >45% compared to blank NEs, without ocular irritation or toxicity, indicating their promise for nAMD therapy.",
+      "date": "2026-07-17",
+      "authors": [
+        "Mohapatra D",
+        "Seo SY",
+        "Corson TW."
+      ],
+      "doi": "10.1016/j.ijpx.2026.100619"
+    },
+    {
       "title": "Substance use and mental health outcomes among gay and bisexual men in South Korea: a cross-sectional study.",
       "url": "https://doi.org/10.1016/j.abrep.2026.100728",
       "source": "Europe PMC",
@@ -526,50 +555,24 @@
       "doi": "10.1016/j.abrep.2026.100728"
     },
     {
-      "title": "Effects of low-dose esketamine on early quality of recovery following minimally invasive esophagectomy: a multicenter, randomized controlled study.",
-      "url": "https://doi.org/10.1080/07853890.2026.2704297",
+      "title": "A porcine model of chronic hepatitis E virus (HEV) infection identifies male reproductive glands as sites of viral persistence.",
+      "url": "https://doi.org/10.1080/21505594.2026.2707701",
       "source": "Europe PMC",
-      "abstract": "<h4>Background</h4>Patients undergoing minimally invasive esophagectomy (MIE) frequently experience moderate-to-severe postoperative pain and anxiety-depressive symptoms, compromising postoperative quality of recovery (QoR). Esketamine is a promising adjunct for analgesia and anxiolysis; however, the effect of low-dose esketamine on patient-centered recovery outcomes in MIE remains unclear.<h4>Methods</h4>In this double-blinded, multicenter randomized controlled trial, patients scheduled for elective McKeown esophagectomy were allocated to esketamine (0.25 mg/kg loading dose and 0.125 mg/kg/h continuous infusion during surgery) or placebo (equivalent volume and rate of saline). The primary outcome was the QoR-15 score on postoperative day (POD) 2. Secondary outcomes included QoR-15 scores on POD 1, 3, 7 and 30. Hospital Anxiety and Depression Scale - Anxiety Subscale (HADS-A) and Depression Subscale (HADS-D) scores, numeric rating scale (NRS) pain scores, and the Brief Pain Inventory (BPI) scores on POD 1 to 3, and safety evaluations.<h4>Results</h4>A total of 198 patients were analyzed (esketamine, <i>n</i> = 98; placebo, <i>n</i> = 100). Intraoperative esketamine significantly improved QoR-15 scores on POD 2 (116.9 ± 9.4 <i>vs.</i> 110.2 ± 9.8, <i>p</i> < 0.001) and POD 3 (123.6 ± 7.2 <i>vs.</i> 116.8 ± 8.4, <i>p</i> < 0.001) compared with placebo. HADS-A and HADS-D scores were lower in the esketamine group on POD 1 to 3 (all <i>p</i> < 0.001). Additionally, esketamine recipients reported significantly lower NRS scores at rest and during movement and BPI scores for pain severity and pain interference items (all <i>p</i> < 0.001). There were no significant between-group differences in safety outcomes.<h4>Conclusions</h4>Intraoperative low-dose esketamine improved early, patient-reported recovery after MIE by enhancing analgesia and reducing postoperative anxiety and depression without increasing adverse events.<h4>Trial registration</h4>Chinese Clinical Trial Register (identifier: ChiCTR2400088916).",
-      "date": "2026-07-22",
+      "abstract": "Hepatitis E virus (HEV) is an expanding zoonotic viral disease threat. Although HEV causes acute viral hepatitis, it is increasingly being recognized as a systemic pathogen with detection and damage in extrahepatic tissues. The presence of HEV RNA in the semen of chronically infected human patients in the absence of viremia and fecal shedding and presence of HEV in the sperm head underscores the need to understand the interaction of HEV within the male reproduction system. The role of male accessory glands in the dissemination and persistence of HEV infection has not been studied. Using an immunosuppressed pig model for chronic HEV infection, we demonstrate infectious HEV in mature sperm cells, altering the sperm motility and morphology. HEV isolated from sperm cells remained infectious in human hepatoma cells. Spermatic fluid contained lower virus titers than the sperm cells from chronically infected pigs, highlighting that the sperm cells themselves can associate with the virus. Evaluation of the male accessory glands demonstrated viral replication, infiltration of CD45 leukocytes, and apoptosis associated with HEV infection. A decrease in serum testosterone levels was evident in the HEV-infected pigs. Even though a lower viral RNA titer was seen in serum and feces of chronically infected, immunosuppressed, and ribavirin-treated pigs, high viral RNA and infectious particles in sperm is a concern. Our findings necessitate further studies defining the mechanism of sperm cell invasion by HEV and the risk of sexual transmission of HEV during both acute and chronic phases of infection.",
+      "date": "2026-07-30",
       "authors": [
-        "Zhang H",
-        "Yin F",
-        "Li L"
+        "Yadav KK",
+        "Boley PA",
+        "Laocharoensuk T"
       ],
-      "doi": "10.1080/07853890.2026.2704297"
-    },
-    {
-      "title": "Step-by-step &lt;i&gt;En face&lt;/i&gt; O red oil method for aortic plaque staining and quantification in ApoE knockout mouse.",
-      "url": "https://doi.org/10.1016/j.mex.2026.104020",
-      "source": "Europe PMC",
-      "abstract": "The <i>en face</i> Oil Red O (ORO) technique is an established method for quantifying experimental atherosclerotic plaque. However, interlaboratory reproducibility is influenced by procedural factors, including aorta dissection, image preparation, and analysis. This paper provides a detailed step-by-step procedure for <i>en face</i> ORO analysis of ApoE knockout mice, with comprehensive photographic guidance for each step, for plaque staining and quantification using a standard digital camera and Adobe Photoshop. The procedure includes harvesting and trimming the aorta, staining, mounting, imaging, and quantitative analysis. Images are captured using generic digital cameras and plaques are quantified in Adobe Photoshop. Each step is documented photographically, providing a visual reference to aid protocol implementation and enhance methodological transparency. The workflow offers a practical and reproducible method for standardized <i>en face</i> plaque evaluation and could be valuable for novice researchers performing preclinical atherosclerosis studies. This method: • Provides a standardized, photographically documented workflow for <i>en face</i> ORO staining and plaque quantification in ApoE knockout mice. • Enables accurate plaque measurement using a conventional digital camera and Adobe Photoshop. • Includes practical photo guidance from aorta dissection through image capture and lesion measurement.",
-      "date": "2026-06-27",
-      "authors": [
-        "Khairudin NYM",
-        "Balasubramaniam BVRMT",
-        "Muid SA"
-      ],
-      "doi": "10.1016/j.mex.2026.104020"
-    },
-    {
-      "title": "Effects of sub-anesthetic doses of esketamine on immune function and postoperative negative emotions in acoustic neuroma patients: a randomized clinical trial.",
-      "url": "https://doi.org/10.1080/07853890.2026.2692804",
-      "source": "Europe PMC",
-      "abstract": "<h4>Background</h4>Patients undergoing acoustic neuroma (AN) surgery often experience postoperative negative emotions, including anxiety, depression, and immune function suppression. This trial evaluated whether perioperative sub-anesthetic esketamine improves early postoperative negative emotions and immune function.<h4>Methods</h4>In this single-center, double-blind, randomized trial, 84 patients scheduled for AN surgery were assigned to esketamine (<i>n</i> = 42) or placebo (<i>n</i> = 42). The esketamine cohort received a continuous intravenous infusion of esketamine at 0.2 mg·kg<sup>-1</sup>·h<sup>-1</sup> during anesthesia, followed by 1 mg·kg<sup>-1</sup> esketamine as an adjuvant in patient-controlled intravenous analgesia (PCIA). The placebo group received saline. The primary outcome was the incidence of depression on postoperative day (POD1), defined as a Hospital Anxiety and Depression Scale-Depression subscale (HADS-D) score > 7.<h4>Results</h4>Seventy-seven patients completed the study (39 in the esketamine group, 38 in the placebo group). Esketamine significantly reduced the incidence of depression at POD1 (7.7% <i>versus</i> 31.6%; relative risk 0.24, 95% CI: 0.08-0.80, <i>p</i> = 0.008) and POD3 (0.0% <i>versus</i> 15.8%, relative risk 0.00, 95% CI: 0.00-0.47, <i>p</i> = 0.031) compared with placebo. The incidences of anxiety on POD1 and 3 and sleep disturbances on POD1 were also significantly reduced (<i>p</i> < 0.05). Notably, no significant differences were observed between the two groups in terms of immune function, postoperative pain scores, or intraoperative morphine equivalent. Adverse events did not differ between the groups.<h4>Conclusion</h4>Perioperative sub-anesthetic esketamine reduced postoperative depression and anxiety, and improve sleep quality after AN surgery, without significant effects on early immune function or acute postoperative analgesia.<h4>Trial registration</h4>Chinese Clinical Trial Registry, ChiCTR2400084537.",
-      "date": "2026-07-03",
-      "authors": [
-        "Chen Z",
-        "Wang Y",
-        "Cong P"
-      ],
-      "doi": "10.1080/07853890.2026.2692804"
+      "doi": "10.1080/21505594.2026.2707701"
     },
     {
       "title": "CZ",
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2018-004480-31/CZ",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-09-03",
+      "date": "2026-09-04",
       "authors": [],
       "doi": ""
     },
@@ -578,7 +581,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2020-005037-32/CZ",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-09-03",
+      "date": "2026-09-04",
       "authors": [],
       "doi": ""
     },
@@ -587,7 +590,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2021-002909-10/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-09-03",
+      "date": "2026-09-04",
       "authors": [],
       "doi": ""
     },
@@ -596,7 +599,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2015-000550-37/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-09-03",
+      "date": "2026-09-04",
       "authors": [],
       "doi": ""
     },
@@ -605,7 +608,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2021-000041-40/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-09-03",
+      "date": "2026-09-04",
       "authors": [],
       "doi": ""
     },
@@ -614,7 +617,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2020-000829-55/DK",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-09-03",
+      "date": "2026-09-04",
       "authors": [],
       "doi": ""
     },
@@ -623,7 +626,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2020-002790-94/SE",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-09-03",
+      "date": "2026-09-04",
       "authors": [],
       "doi": ""
     },
@@ -632,7 +635,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2021-006200-33/FI",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-09-03",
+      "date": "2026-09-04",
       "authors": [],
       "doi": ""
     },
@@ -641,7 +644,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2019-004812-73/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-09-03",
+      "date": "2026-09-04",
       "authors": [],
       "doi": ""
     },
@@ -650,7 +653,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2022-002369-14/BE",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-09-03",
+      "date": "2026-09-04",
       "authors": [],
       "doi": ""
     },

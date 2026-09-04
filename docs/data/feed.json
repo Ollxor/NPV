@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-03T11:30:26.315693+00:00",
+  "generated_at": "2026-09-04T11:34:59.922194+00:00",
   "items": [
     {
       "title": "Blinding integrity in psychedelic research: Evidence from a comparative randomized controlled trial of psilocybin, MDMA, and methylphenidate in healthy volunteers",
@@ -32,6 +32,150 @@
         "mdma"
       ],
       "added_at": "2026-07-09T10:03:12.956794+00:00"
+    },
+    {
+      "title": "Healing together: Results from a pilot trial of 3,4-Methylenedioxymethamphetamine-enhanced cognitive-behavioral conjoint therapy for posttraumatic stress disorder.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42693902/",
+      "source": "PubMed",
+      "date": "2026-09-04",
+      "authors": [
+        "Morland Leslie A",
+        "Khalifian Chandra E",
+        "Perivoliotis Dimitri"
+      ],
+      "doi": "10.1002/jts.70126",
+      "summaries": {
+        "en": "Pilot study (N=16) evaluated MDMA-assisted brief cognitive-behavioral conjoint therapy for PTSD in military veteran couples. Eight-session protocol with two MDMA sessions showed large reductions in PTSD symptoms (d=1.25) and substantial improvements in relationship functioning for both veterans (d=1.83) and partners (d=1.29). Results suggest psychedelic-assisted couples therapy may enhance relational outcomes beyond standard treatment.",
+        "sv": "Pilotstudie (N=16) utvärderade MDMA-assisterad kort kognitiv-beteendeterapi för PTSD hos militära veteranpar. Åttasessionsprotokollet med två MDMA-sessioner visade stora minskningar av PTSD-symtom (d=1,25) och väsentliga förbättringar i relationsfunktionering för både veteraner (d=1,83) och partners (d=1,29). Resultaten tyder på att psykedelika-assisterad parterapi kan förbättra relationella utfall bortom standardbehandling.",
+        "no": "Pilotstudie (N=16) evaluerte MDMA-assistert kort kognitiv-atferdsterapi for PTSD hos militære veteranpar. Åtte-sesjonprotokoll med to MDMA-sesjoner viste store reduksjoner i PTSD-symptomer (d=1,25) og betydelige forbedringer i relasjonsfunksjonering for både veteraner (d=1,83) og partnere (d=1,29). Resultatene tyder på at psykedelika-assistert parterapi kan forbedre relasjonelle utfall utover standardbehandling.",
+        "da": "Pilotstudie (N=16) evaluerede MDMA-assisteret kort kognitiv-adfærdsterapi for PTSD hos militære veteranpar. Otte-sessionsprotokollet med to MDMA-sessioner viste store reduktioner i PTSD-symptomer (d=1,25) og væsentlige forbedringer i relationsfunktion for både veteraner (d=1,83) og partnere (d=1,29). Resultaterne tyder på, at psykedelika-assisteret parrterapi kan forbedre relationelle resultater ud over standardbehandling.",
+        "fi": "Pilottitutkimus (N=16) arvioi MDMA-avusteista lyhyttä kognitiivista käyttäytymisterapiaa PTSD:n hoitamiseksi sotilasveteraaniparien osalta. Kahdeksan istunnon protokolla kahdella MDMA-istunnolla osoitti suuret PTSD-oireiden vähentymiset (d=1,25) ja merkittävät parannukset parisuhteen toiminnassa sekä veteraaneille (d=1,83) että kumppaneille (d=1,29). Tulokset viittaavat siihen, että psykedeliikka-avusteiset pariterapiat voivat parantaa suhteita standardihoidon yli.",
+        "is": "Tilraunarstuðla (N=16) mat MDMA-aðstoðað stutta hugrænna atferlismeðferð fyrir PTSD hjá herjum og eiginföt þeirra. Átta-lotuforrit með tveimur MDMA-lotum sýndi stóra lækkun PTSD-einkenni (d=1,25) og umtalsverðar bætingar á sambandaaðgerðum fyrir bæði herja (d=1,83) og tengdamenn (d=1,29). Niðurstöður benda til að sálfræðivirkir stuðnir parameðferðir gætu bætt samskipti umfram staðlaða meðferð.",
+        "et": "Pilootuuring (N=16) hinnatas MDMA-assisteeritud lühikest kognitiivsete käitumisterapiat PTSD-ravi jaoks sõjaväe veterani paaridele. Kaheksa-sessioonilise protokolli kahe MDMA-sessiooniga näitati suuri PTSD-sümptomite vähenemisi (d=1,25) ja märgatavaid parandusi suhte toimimises nii veteranide (d=1,83) kui kaaslaste (d=1,29) puhul. Tulemused viitavad, et psühhedeelikumid-assisteeritud paarisuhteet võivad parandada suhteid standardravi ületamisel.",
+        "lv": "Pētījums (N=16) novērtēja MDMA-palīdzinātu īsu kognitīvi-uzvedības terapiju PTSD ārstēšanai karavīru veterānu pārim. Astoņu sesiju protokols ar divām MDMA seansēm parādīja lielas PTSD simptomu samazināšanos (d=1,25) un būtiskas attiecību funkcijas uzlabošanos gan veterāniem (d=1,83), gan partneriem (d=1,29). Rezultāti liecina, ka psihodeliski-palīdzināta pāru terapija var uzlabot attiecības pāri standarta ārstēšanai.",
+        "lt": "Bandomasis tyrimas (N=16) vertino MDMA-pagalbą turinčią trumpą kognityviai-elgesio terapiją PTSD gydymui karių veteranų poroms. Aštuonių sesijų protokolas su dviem MDMA seansais parodė didelius PTSD simptomų sumažėjimus (d=1,25) ir žymius ryšio funkcijos pagerinimus tiek veteranams (d=1,83), tiek partneriams (d=1,29). Rezultatai rodo, jog psichedelikais-pagalbą turinčios poros terapija gali pagerinti santykius, viršijant standartinį gydymą."
+      },
+      "notable": false,
+      "notable_reasons": null,
+      "relevance_score": 4,
+      "study_type": "rct",
+      "substances": [
+        "mdma"
+      ],
+      "added_at": "2026-09-04T11:32:40.517675+00:00"
+    },
+    {
+      "title": "Implementing psychedelic-assisted therapy in Ireland: perspectives from a national stakeholder survey.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42693921/",
+      "source": "PubMed",
+      "date": "2026-09-04",
+      "authors": [
+        "Harrington Colm",
+        "Mallon Orla",
+        "Gribben Andrew David"
+      ],
+      "doi": "10.1017/ipm.2026.10224",
+      "summaries": {
+        "en": "Irish stakeholder survey examines implementation perspectives for psychedelic-assisted therapy. Study gathers views from key national actors on clinical, regulatory, and practical considerations for integrating these treatments into healthcare systems.",
+        "sv": "Irlandsk intressentenkät undersöker implementeringsperspektiv för psykedelika-assisterad terapi. Studien samlar synpunkter från nationella aktörer om kliniska, regulatoriska och praktiska hänsyn vid integrering av dessa behandlingar.",
+        "no": "Irsk interessentkartlegging undersøker implementeringsperspektiver for psykedelika-assistert terapi. Studien samler synspunkter fra nasjonale aktører om kliniske, regulatoriske og praktiske hensyn ved integrering av disse behandlingene.",
+        "da": "Irsk interessentundersøgelse undersøger implementeringsperspektiver for psykedelika-assisteret terapi. Studien indsamler synspunkter fra nationale aktører om kliniske, lovgivnings- og praktiske overvejelser ved integration af disse behandlinger.",
+        "fi": "Irlantilainen sidosryhmäkysely tutkii psykedeelejä käyttävän terapian täytäntöönpanon näkökulmia. Tutkimuksessa kerätään kansallisten toimijoiden näkemyksiä näiden hoitojen kliinisistä, sääntelyllisistä ja käytännöllisistä näkökohdista.",
+        "is": "Íslenska hagsmunaaðilakannski rannsakar framkvæmdarsjónarmið fyrir psykedelík-aðstoðað meðferð. Rannsóknin safnar skoðunum frá helstu aðilum um klíníska, reglugerðar- og hagnýta sjónarmið við feileitun meðferða.",
+        "et": "Iirimaa huvitatud osapoolte küsitlus uurib psühhedeelium-toetatud teraapia rakendamise vaatenurki. Uuring kogub riiklike sidusrühmade seisukohti kliiniliste, regulatiivsete ja praktiliste aspektide kohta nende ravi integreerimisel.",
+        "lv": "Īrijas ieinteresēto pušu aptauja pēta psihedeliku-palīdzības terapijas ieviešanas perspektīvas. Pētījumā apkopoti nacionālo dalībnieku viedokļi par klīniskiem, normatīviem un praktiskiem apsvērumiem šo ārstēšanas metožu integrēšanai.",
+        "lt": "Airijos suinteresuotų šalių apklausa nagrinėja psichodeliko-pagalbinės terapijos diegimo perspektyvas. Tyrime surinktos nacionalinių dalyvių nuomonės apie klininius, normatyvinius ir praktinius šiųjų gydymo metodų integracijai svarbius aspektus."
+      },
+      "notable": false,
+      "notable_reasons": null,
+      "relevance_score": 3,
+      "study_type": "qualitative",
+      "substances": [
+        "other"
+      ],
+      "added_at": "2026-09-04T11:32:40.517675+00:00"
+    },
+    {
+      "title": "Safety, pharmacokinetics, and pharmacodynamics of intravenously administered deuterated",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42689687/",
+      "source": "PubMed",
+      "date": "2026-09-03",
+      "authors": [
+        "van der Heijden Katelijne V",
+        "Jacobs Gabriel E",
+        "James Ellen H"
+      ],
+      "doi": "10.1177/02698811261478616",
+      "summaries": {
+        "en": "A randomized, double-blind, placebo-controlled study evaluated the safety, pharmacokinetics, and pharmacodynamics of CYB004, a deuterated DMT analogue, in healthy volunteers. Intravenous administration at lower doses produced an acceptable safety profile with psychedelic effects, EEG changes, and autonomic activation similar to DMT. CYB004 showed approximately twice the half-life of DMT, extending effects to 40-60 minutes. Higher doses caused intense experiences and participant withdrawals. Deuteration did not reduce pharmacokinetic variability.",
+        "sv": "En randomiserad, dubbelblind, placebokontrollerad studie utvärderade säkerhet, farmakokinetik och farmakodynamik hos CYB004, en deutererad DMT-analog, hos friska försökspersoner. Intravenös administrering vid lägre doser gav acceptabel säkerhetsprofil med psykedeliska effekter, EEG-förändringar och autonom aktivering liknande DMT. CYB004 uppvisade cirka dubbelt så lång halveringstid som DMT, vilket förlängde effekterna till 40-60 minuter. Högre doser orsakade intensiva upplevelser och försökspersonernas avhopp. Deutering minskade inte farmakokinetisk variabilitet.",
+        "no": "En randomisert, dobbeltblind, placebokontrollert studie evaluerte sikkerhet, farmakokinetikk og farmakodynamikk av CYB004, en deuterert DMT-analog, hos friske frivillige. Intravenøs administrering ved lavere doser ga akseptabel sikkerhetsprofil med psykedeliske effekter, EEG-endringer og autonom aktivering lignende DMT. CYB004 viste omtrent dobbelt så lang halveringstid som DMT, noe som forlenget effektene til 40-60 minutter. Høyere doser forårsaket intense opplevelser og frafall blant deltakere. Deutering reduserte ikke farmakokinetisk variabilitet.",
+        "da": "Et randomiseret, dobbelttblindet, placebo-kontrolleret studie evaluerede sikkerhed, farmakokinetik og farmakodynamik af CYB004, en deutereret DMT-analog, hos sunde frivillige. Intravenøs administration ved lavere doser gav acceptabel sikkerhedsprofil med psykedeliske effekter, EEG-ændringer og autonom aktivering svarende til DMT. CYB004 viste cirka dobbelt så lang halveringstid som DMT, hvilket forlængede effekterne til 40-60 minutter. Højere doser forårsagede intensive oplevelser og frafaldt blandt deltagere. Deutering reducerede ikke farmakokinetisk variabilitet.",
+        "fi": "Satunnaistettu, kaksoissokkoutettu, lumekontrolloitu tutkimus arvioi CYB004:n, deuteroidun DMT-analogin, turvallisuutta, farmakokinetiikkaa ja farmakodynamiikkaa terveillä vapaaehtoisilla. Intravenöösiantoa pienempiä annoksia käytettäessä saavutettiin hyväksyttävä turvallisuusprofiili psykedeelistenä vaikutuksina, EEG-muutoksina ja autonomisen hermostojärjestelmän aktivaationa, jotka muistuttivat DMT:tä. CYB004:llä oli noin kaksinkertainen puoliintumisaika verrattuna DMT:hen, jolloin vaikutukset jatkuneet 40-60 minuuttia. Suuremmat annokset aiheuttivat intensiivisiä kokemuksia ja osallistujien poistumisia. Deuterointi ei vähentänyt farmakokineettista vaihtelua.",
+        "is": "Tilraunaðri, tvöföldum blindri, lyfleysu-stýrðri rannsókn var metin öryggni, lyfjahreyfing og lyfjahyggja CYB004, deuteraðs DMT-álogs, hjá heilbrigðum sjálfboðaliðum. Intravenæ gjöf við lægri skammta gaf viðunandi öryggissnið með sígildri tilfinningum, EEG-breytingum og sjálfvirka taugakerfisaktívun svipaða DMT. CYB004 sýndi um tvisvar sinnum lengri hálfu líf en DMT, sem framlengdi áhrif til 40-60 mínútur. Hærri skammtar olli mikilli reynslu og aftökum þátttakenda. Deuterun bætti ekki lyfjahreyfing-breytileika.",
+        "et": "Randomiseeritud, kahepime, platseebo-kontrollitud uuring hinnangus CYB004 (deuteeritud DMT-analoog) ohutust, farmakokineetika ja farmakodünaamikat tervetel vabatahtlikel. Intravenoosne manustamine väiksematel annustel andis vastuvõetava ohutusprofiiliga psühhedeelsed efektid, EEG-muutused ja autonoomse närvisüsteemi aktiveerimine, mis sarnanesid DMT-le. CYB004-l oli ligikaudu kaks korda pikem pooleerinemisaeg kui DMT-l, pikendades efekte 40-60 minutini. Suuremad annused põhjustasid intensiivseid kogemusi ja osalejate katkestamisi. Deuteerimine ei parandanud farmakokineetilist varieeruvust.",
+        "lv": "Randomizēts, dubultākls, placebo-kontrolēts pētījums novērtēja CYB004 (deuterēta DMT analoga) drošumu, farmakokinētiku un farmakodinamiku veseliem brīvprātīgajiem. Intravenoza ievadīšana zemākos devumos nodrošināja pieņemamu drošuma profilu ar psihedeliskiem efektiem, EEG izmaiņām un autonomās nervu sistēmas aktivizāciju, kas līdzīga DMT. CYB004 uzrādīja aptuveni divas reizes garāku pussabrukšanas laiku salīdzinājumā ar DMT, pagarinot efektus līdz 40-60 minūtēm. Augstāki devumi izraisīja intensīvas pieredzes un dalībnieku atkāpšanos. Deuterēšana neuzlaboja farmakokinētisko mainību.",
+        "lt": "Randomizuotame, dvigubai aklame, placebo kontroliuojamame tyrime įvertinti CYB004 (deuterintų DMT analogo) saugumas, farmakokinetika ir farmakodinamika sveikatai savanoriams. Intraveninis skyrimas mažesnėmis dozėmis suteikė priimtiną saugumo profilį su psichedeliniais efektais, EEG pokyčiais ir autonominės nervų sistemos aktyvavimu, panašiais į DMT. CYB004 rodė maždaug du kartus ilgesnį pusperiodį nei DMT, ilginant efektus iki 40-60 minučių. Didesnės dozės sukėlė intensyvius patirti ir dalyvių atsisakymą. Deuterinimas nepagerinao farmakokinetinio kitimo."
+      },
+      "notable": true,
+      "notable_reasons": {
+        "en": "First-in-human study of a new psychedelic compound (CYB004, deuterated DMT analogue) with detailed PK/PD characterization in randomized controlled design.",
+        "sv": "Första studie på människor av en ny psykedelisk förening (CYB004, deutererad DMT-analog) med detaljerad PK/PD-karakterisering i randomiserad kontrollerad design.",
+        "no": "Første menneske-studie av en ny psykedelisk forbindelse (CYB004, deuterert DMT-analog) med detaljert PK/PD-karakterisering i randomisert kontrollert design.",
+        "da": "Første menneske-studie af en ny psykedelisk forbindelse (CYB004, deutereret DMT-analog) med detaljeret PK/PD-karakterisering i randomiseret kontrolleret design.",
+        "fi": "Ensimmäinen ihmistutkimus uudesta psykedelisesta yhdisteestä (CYB004, deuteroitu DMT-analogi) yksityiskohtaisella PK/PD-karakterisoinnilla satunnaistetussa kontrolloidussa tutkimussuunnitelmassa.",
+        "is": "Fyrsta manneskjarannsókn á nýrri geðhrærandi efni (CYB004, deuterað DMT-hliðstæða) með ítarlegri PK/PD-einkennum í tilviljunarkenndum stýrðum hönnun.",
+        "et": "Esimene inimestel läbiviidud uurimus uuest psühhodeelse ühendist (CYB004, deutereeritud DMT-analoog) detailse PK/PD-karakteriseerimisega randomiseeritud kontrollitud kujunduses.",
+        "lv": "Pirmais cilvēku pētījums par jaunu psihodelisku savienojumu (CYB004, deuterēts DMT analogs) ar detalizētu PK/PD raksturojumu randomizētā kontrolētā dizainā.",
+        "lt": "Pirmasis žmonių tyrimas su nauja psichedelike medžiaga (CYB004, deuteruotasis DMT analogas) su detalia PK/PD charakterizacija atsitiktinės imties kontroliuojamame dizaine."
+      },
+      "relevance_score": 5,
+      "study_type": "rct",
+      "substances": [
+        "other"
+      ],
+      "added_at": "2026-09-04T11:32:40.517675+00:00"
+    },
+    {
+      "title": "Psilocybin prevents chemotherapy-induced peripheral neuropathy through mitochondrial trafficking preservation.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42691184/",
+      "source": "PubMed",
+      "date": "2026-09-03",
+      "authors": [
+        "Heles Mario",
+        "Pasvolsky Lilach",
+        "Sathishkumar Hinduja"
+      ],
+      "doi": "10.1126/science.aec6116",
+      "summaries": {
+        "en": "Preclinical study demonstrates that two psilocybin doses before chemotherapy prevented chemotherapy-induced peripheral neuropathy in rodent models of platinum and taxane treatment. Psilocybin preserved nerve fiber integrity and tactile sensitivity through mitochondrial trafficking mechanisms (TrkB-Akt-PAK5-MAP2-KIF5B pathway) while maintaining normal brain activity. Antitumor efficacy remained unimpaired. Results suggest psilocybin warrants clinical evaluation as a preventive agent for this often-irreversible chemotherapy side effect.",
+        "sv": "Förexperimentell studie visar att två pslocybindoser före cytostatika förhindrade kemoterapiinducerad perifer neuropati i möss. Psilocybin bevarade nervfiberintegritet och taktil känslighet genom mekanismer för mitokondriell transport medan hjärnaktiviteten förblev normal. Cancereffektiviteten påverkades inte. Resultaten föreslår klinisk utvärdering av pslocybin som profylaktisk agent mot denna ofta irreversibla cytostatika-biverkan.",
+        "no": "Preklinisk studie viser at to psilo-psybin-doser før kjemoterapibehandling forhindret kjemoterapiindusert perifer neuropati imus. Psilocybin opprettholdt nervefiberintegritet og taktil sensibilitet gjennom mitokondriell transportmekanisme mens hjernefunksjonen forble normal. Antitumor-effektiviteten ble ikke påvirket. Resultatene tilsier klinisk evaluering av psilocybin som profylaktisk agent mot denne ofte irreversible bivirkingen.",
+        "da": "Præ-klinisk studie viser, at to psylocibin-doser før kemoterapibehandling forhindrede kemoterapiinduceret perifer neuropati hos mus. Psylocibin bevarede nervefiber-integritet og taktil følsomhed gennem mitokondriell transportmekanisme, mens hjernefunktionen forblev normal. Antitumor-effektiviteten blev ikke påvirket. Resultaterne peger på klinisk evaluering af psylocibin som profylaktisk middel mod denne ofte irreversible bivirkning.",
+        "fi": "Esikliininen tutkimus osoittaa, että kaksi psilosybiiniannosta ennen kemoterapiaa esti kemoterapian aiheuttamaa perifeeristä neuropatiaa hiirillä. Psilosybiini säilytti hermosäikeiden eheyden ja taktuaalisen herkkyyden mitokondrioiden kuljetusmekanismin kautta, kun taas aivojen toiminta pysyi normaalina. Syövän vastaiset vaikutukset säilyivät. Tulokset viittaavat psilosybiinin kliiniseen arviointiin profylaktisena aineena tätä usein pysyvää sivuvaikutusta vastaan.",
+        "is": "Fyrir klínísku rannsókn sýnir að tvær skammtar af psýlósýbíni fyrir krabbameinslyfjameðferð stöðvuðu krabbameinslyfja-framkallaða jaðarflaugaveiki hjá musum. Psýlósýbín varðveittu taugarlokasamfellur og tilfinningu fyrir snertingu með mitkondríuflutningsmálum á meðan heilafunt stóð í engu. Krabbameinsvirkni varðveitist. Niðurstöður benda til klínískrar endurmats á psýlósýbíni sem fyrirbyggjandi lyfjum gegn þessari oft varanlegri aukaverkun.",
+        "et": "Prekliinilises uuringus näidati, et kaks psülotsübiini annust kemoterapia enne takistasid kemoterapiast põhjustatud perifeerset neuropaatiat hiirtel. Psülotsübiini säilitas närvirakeste terviklikkust ja puutendeliust mitokondriaalsete transportmehhanismide kaudu, samal ajal kui ajutegevus jäi normaalseks. Kasvajatevastane toime säilis. Tulemused viitavad psülotsübiini kliinilisele hindamisele profülaktilise agendina selle sageli püsiva kõrvalmõju vastu.",
+        "lv": "Prekliniskā pētījuma atklāti, ka divas psilocibiīna devas pirms ķīmijterapijas novērsa ķīmijterapijas izraisītu perifēro neiropātiju pelēs. Psilocibiīns saglabāja nervu šķiedru integritāti un taustes jūtību mitohondriju pārvadāšanas mehānismu caur, kamēr smadzeņu darbība palika normāla. Antitumora efektivitāte saglabājās. Rezultāti liecina par psilocibiīna klīnisko novērtēšanu kā profilaktiskās vielas pret šo bieži neatgriezenisko blakusefektu.",
+        "lt": "Preklininiame tyrime parodyta, kad dvi psilocibin dozes prieš chemoterapiją užklupo chemoterapijos sukeltos periferinės neuropatijos pelėse. Psilocibin išsaugojo nervų skaidulų vientisumą ir liestės jautrumą mitochondrijų transporto mechanizmų pagalba, tuo metu kai smegenų veikla liko normali. Priešvėžinis poveikis išliko. Rezultatai rodo psilocibin klinikinį vertinimą kaip profilaksinę medžiagą prieš šį dažnai negrįžtamą šalutinį poveikį."
+      },
+      "notable": true,
+      "notable_reasons": {
+        "en": "First-in-class mechanistic evidence for psilocybin preventing chemotherapy-induced peripheral neuropathy via identified molecular pathway (TrkB-Akt-PAK5-MAP2-KIF5B), with both peripheral and central nervous system validation.",
+        "sv": "First-in-class mechanistic evidence for psilocybin preventing chemotherapy-induced peripheral neuropathy via identified molecular pathway (TrkB-Akt-PAK5-MAP2-KIF5B), with both peripheral and central nervous system validation.",
+        "no": "First-in-class mechanistic evidence for psilocybin preventing chemotherapy-induced peripheral neuropathy via identified molecular pathway (TrkB-Akt-PAK5-MAP2-KIF5B), with both peripheral and central nervous system validation.",
+        "da": "First-in-class mechanistic evidence for psilocybin preventing chemotherapy-induced peripheral neuropathy via identified molecular pathway (TrkB-Akt-PAK5-MAP2-KIF5B), with both peripheral and central nervous system validation.",
+        "fi": "First-in-class mechanistic evidence for psilocybin preventing chemotherapy-induced peripheral neuropathy via identified molecular pathway (TrkB-Akt-PAK5-MAP2-KIF5B), with both peripheral and central nervous system validation.",
+        "is": "First-in-class mechanistic evidence for psilocybin preventing chemotherapy-induced peripheral neuropathy via identified molecular pathway (TrkB-Akt-PAK5-MAP2-KIF5B), with both peripheral and central nervous system validation.",
+        "et": "First-in-class mechanistic evidence for psilocybin preventing chemotherapy-induced peripheral neuropathy via identified molecular pathway (TrkB-Akt-PAK5-MAP2-KIF5B), with both peripheral and central nervous system validation.",
+        "lv": "First-in-class mechanistic evidence for psilocybin preventing chemotherapy-induced peripheral neuropathy via identified molecular pathway (TrkB-Akt-PAK5-MAP2-KIF5B), with both peripheral and central nervous system validation.",
+        "lt": "First-in-class mechanistic evidence for psilocybin preventing chemotherapy-induced peripheral neuropathy via identified molecular pathway (TrkB-Akt-PAK5-MAP2-KIF5B), with both peripheral and central nervous system validation."
+      },
+      "relevance_score": 4,
+      "study_type": "preclinical",
+      "substances": [
+        "psilocybin"
+      ],
+      "added_at": "2026-09-04T11:32:40.517675+00:00"
     },
     {
       "title": "Serial Ketamine Infusions for Treatment-Resistant Bipolar Depression: A Randomized Clinical Trial.",
@@ -1021,6 +1165,37 @@
       "added_at": "2026-08-21T07:22:42.288520+00:00"
     },
     {
+      "title": "The subtle science: a systematic review of psilocybin magic mushroom and truffle microdosing.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42688116/",
+      "source": "PubMed",
+      "date": "2026-08-19",
+      "authors": [
+        "Page Jeni",
+        "Moore Alexandra",
+        "Hawkins Bridget E"
+      ],
+      "doi": "10.3389/fpsyt.2026.1866881",
+      "summaries": {
+        "en": "A systematic review of 11 studies (5 quantitative, 6 qualitative) involving 3,262 adults examined psilocybin microdosing. Studies from the US, Netherlands, Argentina, and Slovenia reported potential improvements in well-being, mental health, cognition, and creativity. However, most evidence had bias concerns or relied on self-reported measures. Non-medical motivations accounted for 86% of use.",
+        "sv": "En systematisk granskning av 11 studier (5 kvantitativa, 6 kvalitativa) med 3 262 vuxna undersökte psilocybin-mikrodosering. Studier från USA, Nederländerna, Argentina och Slovenien rapporterade potentiella förbättringar i välbefinnande, mental hälsa, kognition och kreativitet. Dock hade de flesta bevis bias-problem eller baserades på självrapporterade mått. Icke-medicinska motiv stod för 86% av användningen.",
+        "no": "En systematisk gjennomgang av 11 studier (5 kvantitative, 6 kvalitative) med 3 262 voksne undersøkte psilocybin-mikrodosering. Studier fra USA, Nederland, Argentina og Slovenia rapporterte potensielle forbedringer i velvære, mental helse, kognitiv fungering og kreativitet. Imidlertid hadde de fleste bevis skjevhet-bekymringer eller baserte seg på selvrapporterte mål. Ikke-medisinske motivasjoner utgjorde 86% av bruken.",
+        "da": "En systematisk gennemgang af 11 studier (5 kvantitative, 6 kvalitative) med 3.262 voksne undersøgte psilocybin-mikrodosering. Studier fra USA, Holland, Argentina og Slovenien rapporterede potentielle forbedringer i velbefindende, mental sundhed, kognitiv fungering og kreativitet. De fleste beviser havde dog bias-bekymringer eller var baseret på selvrapporterede mål. Ikke-medicinske motivationer udgjorde 86% af brugen.",
+        "fi": "Systemaattinen katsaus 11 tutkimukseen (5 kvantitatiivista, 6 kvalitatiivista) 3 262 aikuisen kanssa tutki psilosybiinin mikrodoseerausta. Tutkimukset USA:sta, Alankomaista, Argentiinasta ja Sloveniasta raportoivat mahdollisia parannuksia hyvinvoinnissa, mielenterveyksessä, kognitiivisissa toiminnoissa ja luovuudessa. Useimmilla todisteilla oli kuitenkin harha-huolia tai ne perustuivat itseraportoiduille mittareille. Ei-lääketieteelliset motivaatiot muodostivat 86% käytöstä.",
+        "is": "Kerfbundin yfirlit yfir 11 rannsóknum (5 megindlegar, 6 eigindlegar) með 3.262 fullorðnum skoðaði psilosýbín-litla skammta. Rannsóknir frá Bandaríkjum, Hollandi, Argentínu og Slóveníu greindu frá mögulegum bótum á vellíðan, geðheilsu, hugrænum getu og skapandi hugsun. Flestar sannanir höfðu þó hlutdrægni-áhyggjur eða byggðu á sjálfskilgreindum mælikvörðum. Ekki-læknisfræðileg hvöt mynduðu 86% notkunar.",
+        "et": "Süstemaatiline ülevaade 11 uuringust (5 kvantitatiivset, 6 kvalitatiivset) 3 262 täiskasvanuga uuris psilotsibiini mikrodoseerimist. Uuringud USA-st, Hollandist, Argentiinast ja Sloveeniast teatavad võimalikest parandustest heaolusse, vaimses tervisesse, kognitiivsetes funktsioonides ja loomingulisuses. Enamus tõendusmaterjalist omab aga kallutatud oht või põhineb iseseisval aruannete andmistel. Mittemeditsiinikud motivatsioonid moodustasid 86% kasutamisest.",
+        "lv": "Sistematisks pārskats par 11 pētījumiem (5 kvantitatīvi, 6 kvalitatīvi) ar 3 262 pieaugušajiem pārbaudīja psilocibīna mikrodozēšanu. Pētījumi no ASV, Nīderlandes, Argentīnas un Slovēnijas ziņoja par iespējamiem uzlabojumiem labsajūtā, garīgajā veselībā, kognitīvajās funkcijās un radošumā. Tomēr lielākajai daļai pierādījumu bija neobjektivitātes bažas vai tie balstījās uz pašpaziņotiem mēriem. Nemediciski motīvi veidoja 86% lietošanas.",
+        "lt": "Sistemingas 11 tyrimų (5 kiekybiniai, 6 kokybiniai) su 3 262 suaugusiais apžvalga nagrinėjo psilocibin mikrodozavimą. Tyrimai iš JAV, Nyderlandų, Argentinos ir Slovėnijos pranešė apie galimus pagerinimus gerovėje, psichikos sveikatoje, kognityvinėse funkcijose ir kūrybiškume. Tačiau dauguma įrodymų turėjo šališkumo rūpesčius arba buvo grindžiami savivaldžiais matais. Nemediciniai motyvaciniai veiksniai sudarė 86% naudojimo."
+      },
+      "notable": false,
+      "notable_reasons": null,
+      "relevance_score": 4,
+      "study_type": "review",
+      "substances": [
+        "psilocybin"
+      ],
+      "added_at": "2026-09-04T11:32:40.517675+00:00"
+    },
+    {
       "title": "Psychedelics align brain activity with context.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42618786/",
       "source": "PubMed",
@@ -1795,168 +1970,6 @@
         "psilocybin"
       ],
       "added_at": "2026-08-11T07:44:36.046881+00:00"
-    },
-    {
-      "title": "Feasibility and Tolerability of Psilocybin for Phantom Limb Pain.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42567236/",
-      "source": "PubMed",
-      "date": "2026-08-07",
-      "authors": [
-        "Dean Jon G",
-        "Hurwitz Ethan",
-        "Furnish Timothy"
-      ],
-      "doi": "10.1016/j.jpain.2026.106404",
-      "summaries": {
-        "en": "Pilot randomized controlled trial (n=9) examined psilocybin feasibility and safety for phantom limb pain. Participants received 25 mg psilocybin (n=5) or niacin placebo (n=4) with preparatory and integration sessions. No serious adverse events or suicidality emerged. Transient anxiety, discomfort, and BP/HR elevations resolved before discharge. Two weeks post-administration, pain ratings showed trends toward >30% reduction, suggesting preliminary feasibility for further investigation.",
-        "sv": "Pilotöversyn av randomiserad kontrollerad studie (n=9) undersökte psylocybin-genomförbarhet och säkerhet för fantomsmärta. Deltagare fick 25 mg psylocybin (n=5) eller niacin-placebo (n=4) med förberedande och integrationssessioner. Inga allvarliga biverkningar eller suicidalitet observerades. Övergående ångest, obehag och BP/pulsökning försvann före utskrivning. Två veckor efter administrering visade smärtbetyg trender mot >30% minskning, vilket tyder på preliminär genomförbarhet för vidare forskning.",
-        "no": "Pilotforsøk med randomisert kontrollert design (n=9) undersøkte psylocybin-gjennomførbarhet og sikkerhet for fantomsmerte. Deltakere mottok 25 mg psylocybin (n=5) eller niasin-placebo (n=4) med forberedende og integreringssessions. Ingen alvorlige bivirkninger eller suicidalitet ble observert. Forbigående angst, ubehag og økt blodtrykk/puls løste seg før utskrivning. To uker etter administrering viste smertevurderinger tendenser til >30% reduksjon, noe som tyder på preliminary gjennomførbarhet.",
-        "da": "Pilot randomiseret kontrolleret forsøg (n=9) undersøgte psilocybins gennemførbarhed og sikkerhed for fantombedrevet smerte. Deltagere modtog 25 mg psilocybin (n=5) eller niacin-placebo (n=4) med forberedende og integrationssessioner. Ingen alvorlige bivirkninger eller selvmordstanker blev observeret. Forbigående angst, ubehag og forhøjet blodtryk/puls løste sig før udskrivning. To uger efter administration viste smertevurderinger tendenser til >30% reduktion, hvilket indikerer preliminary gennemførbarhed.",
-        "fi": "Pilottitutkimus satunnaistetulla kontrolloidulla asetelmalla (n=9) tutki psylosibiinin toteuttamiskelpoisuutta ja turvallisuutta fantomikiputkelle. Osallistujat saivat 25 mg psylosibiinia (n=5) tai niasiini-plaseboo (n=4) valmistelu- ja integraatiosessioiden kanssa. Vakavia haittavaikutuksia tai itsemurhaisuutta ei havaittu. Ohimenevät ahdistuneisuus, epämukavuus ja kohonneet verenpaine/pulssi ratkenivat ennen kotiutusta. Kaksi viikkoa administroinnin jälkeen kiputasot osoittivat trendit >30% vähenemiseen.",
-        "is": "Tilraunapróun með handahófskenndu, stjórnuðu hönnun (n=9) skoðaði framkvæmni og öryggi psýlósýbíns fyrir sérsmerta í týndum útlimum. Þátttakendur fengu 25 mg psýlósýbín (n=5) eða níasín-lyfleysu (n=4) með undirbúnings- og samþættingaþjálfun. Engar alvarleg aukaverknanir eða sjálfsmorðshugsanir komu fram. Bráðar kvíðir, óþægindi og hækkuð blóðþrýstingur/púls fóru hjá fyrir útskrift. Tvær vikur eftir lyfjagjöf sýndu verkjavurðun stefnu í >30% minnkun.",
-        "et": "Pilootuuringu randomiseeritud kontrollitud disainiga (n=9) uuriti psülotsibiini rakendatavust ja ohutust fantomilimbi valus. Osalejad said 25 mg psülotsibiini (n=5) või niatsiini platseebod (n=4) koos ettevalmistus- ja integratsioonisessioonidega. Tõsiseid kõrvaltoimeid ega enesetapuohtusid ei täheldatud. Ajutised ärevus, ebamugavus ja tõusnud vererõhk/pulss taandusid enne lahkumist. Kaks nädalat pärast manustamist näitasid valutasemed trende >30% vähenemise suunas.",
-        "lv": "Pilota pētījums ar randomizētu kontrolētu dizainu (n=9) pārbaudīja psilocibīna īstenojamību un draudzīgumu fantoma locekļa sāpēm. Dalībnieki saņēma 25 mg psilocibīnu (n=5) vai niacīna placebu (n=4) ar sagatavošanas un integrācijas sesijām. Netika novēroti nopietni blakusefekti vai pašnāvniecības tendences. Īslaicīga trauksme, diskomforts un paaugstināts asinsspiediens/pulss pamatīgi tika atrisināti pirms izrakstīšanas. Divas nedēļas pēc ievadīšanas sāpju novērtējumi parādīja tendences uz >30% samazinājumu.",
-        "lt": "Pilotinis tyrimas su atsitiktine kontroliuojama schema (n=9) tyre psilocibino įgyvendinto ir tolerancijos šalutinio kojos skausmui. Dalyviai gavo 25 mg psilocibino (n=5) arba niacino placebą (n=4) su paruošomojo ir integracijų seansais. Nerasta jokių rimtų šalutinių reiškinių ar savižudybės polinkio. Laikinoji nervinė įtampa, nepatogumas ir padidėtas kraujospūdis/širdies ritmas išnyko prieš iškraustymą. Dvi savaitės po vartojimo skausmo vertinimai rodė tendencijas link >30% sumažėjimo."
-      },
-      "notable": false,
-      "notable_reasons": null,
-      "relevance_score": 4,
-      "study_type": "rct",
-      "substances": [
-        "psilocybin"
-      ],
-      "added_at": "2026-08-08T07:28:15.314747+00:00"
-    },
-    {
-      "title": "Microdosing psychedelics: What, why, when, and how often? Insights from an international survey of people who use psychedelics.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42566966/",
-      "source": "PubMed",
-      "date": "2026-08-07",
-      "authors": [
-        "Petranker Rotem",
-        "Syed Omer A",
-        "Sobolenko Valentyn"
-      ],
-      "doi": "10.1016/j.drugpo.2026.105459",
-      "summaries": {
-        "en": "GPS 2025, an international survey of 5,399 microdosers, examined patterns of use across 19 languages. Psilocybin dominated (81.1%), followed by LSD (39.6%). The Fadiman protocol (one day on, two days off) was most common among regular users (24.3%). Participants typically microdosed in nature (58.9%), with introspective focus (56.8%) or leisure activities (43%), supporting set and setting integration.",
-        "sv": "GPS 2025, en internationell undersökning av 5 399 mikrosdosörer, undersökte användningsmönster över 19 språk. Psilocybin dominerade (81,1%), följt av LSD (39,6%). Fadiman-protokollet (en dag på, två dagar av) var vanligast bland regelbundna användare (24,3%). Deltagare mikrosdoserade vanligen i naturen (58,9%), med introspektiv fokusering (56,8%) eller fritidsaktiviteter (43%), vilket stöder integration av set och setting.",
-        "no": "GPS 2025, en internasjonal undersøkelse av 5 399 mikrodosører, undersøkte bruksmønster på tvers av 19 språk. Psilocybin dominerte (81,1%), etterfulgt av LSD (39,6%). Fadiman-protokollen (en dag på, to dager av) var vanligst blant regelmessige brukere (24,3%). Deltakerne mikrodoserte typisk i naturen (58,9%), med introspektiv fokusering (56,8%) eller fritidsaktiviteter (43%), som støtter integrasjon av setting og sinnstilstand.",
-        "da": "GPS 2025, en international undersøgelse af 5.399 mikrodosister, undersøgte brugsmønstre på tværs af 19 sprog. Psilocybin dominerede (81,1%), fulgt af LSD (39,6%). Fadiman-protokollen (en dag på, to dage fra) var mest almindelig blandt regelmæssige brugere (24,3%). Deltagerne mikrodoserede typisk i naturen (58,9%), med introspektiv fokusering (56,8%) eller fritidsaktiviteter (43%), hvilket understøtter integration af sinnstilstand og omgivelser.",
-        "fi": "GPS 2025, kansainvälinen tutkimus 5 399 mikrodoseeraajasta, tutki käyttömalleja 19 kielellä. Psilosybiini hallitsi (81,1%), jota seurasi LSD (39,6%). Fadiman-protokolla (yksi päivä päällä, kaksi päivää pois) oli yleisin säännöllisten käyttäjien keskuudessa (24,3%). Osallistujat mikrodoseerasivat tyypillisesti luonnossa (58,9%), sisäänpäin suuntautuneella keskittymisellä (56,8%) tai vapaa-ajan aktiviteetein (43%), mikä tukee asenteen ja ympäristön integroimista.",
-        "is": "GPS 2025, alþjóðleg könnun á 5.399 örsmækjum notendum, skoðaði notkunarmynstur á 19 tungumálum. Psýlosíbín var ráðandi (81,1%), fylgt eftir af LSD (39,6%). Fadiman-bókunin (ein dagur á, tveir dagar af) var algengust meðal reglulegra notenda (24,3%). Þátttakendur örsmækju venjulega í náttúru (58,9%), með innri áherslu (56,8%) eða tómstundum (43%), sem styðja samþættingu stemmningar og umhverfis.",
-        "et": "GPS 2025, rahvusvaheline küsitlus 5 399 mikrodoosijatest, uuris kasutamismalle 19 keeles. Psülosibiin domineeris (81,1%), millele järgnes LSD (39,6%). Fadimani protokoll (üks päev sisse, kaks päeva välja) oli kõige levinud regulaarsetel kasutajatel (24,3%). Osalejad mikrodoosissid tavaliselt looduses (58,9%), sissepoole suunatud teadvusega (56,8%) või vaba aja tegevustega (43%), mis toetab meeleolu ja keskkonna integreerimist.",
-        "lv": "GPS 2025, starptautiska aptauja par 5 399 mikrodozētājiem, pētīja lietošanas modeļus 19 valodās. Psilocibīns dominēja (81,1%), kam sekoja LSD (39,6%). Fadimana protokols (viena diena ieslēgta, divas dienas izslēgta) bija visizplatītākais parastajiem lietotājiem (24,3%). Dalībnieki parasti mikrodozēja dabā (58,9%), ar introspektīvu fokusēšanos (56,8%) vai brīvā laika aktivitātēm (43%), kas atbalsta noskaņojuma un vides integrāciju.",
-        "lt": "GPS 2025, tarptautinė apklausa 5 399 mikrodozuotojams, tyrinėjo vartojimo modelius 19 kalbomis. Psilocibinas dominavo (81,1%), po jo sekė LSD (39,6%). Fadimano protokolas (viena diena įjungus, dvi dienos išjungus) buvo dažniausias reguliarių vartotojų tarpe (24,3%). Dalyviai paprastai mikrodozavo gamtoje (58,9%), su introspekcine orientacija (56,8%) arba laisvalaikio veiklomis (43%), remiantis nuotaikos ir aplinkos integraciją."
-      },
-      "notable": true,
-      "notable_reasons": {
-        "en": "Large cross-sectional study (n=5399 microdosers) across 19 languages examining global patterns of psychedelic microdosing with detailed behavioral data.",
-        "sv": "Stor tvärsnittsstudie (n=5399 microdosers) på 19 språk som undersöker globala mönster för psykedelisk microdosing med detaljerad beteendedata.",
-        "no": "Stor tverrsnittstudie (n=5399 microdosers) på tvers av 19 språk som undersøker globale mønstre for psykedelisk microdosing med detaljerte atferdsdata.",
-        "da": "Stort tværsnitstudie (n=5399 microdosers) på tværs af 19 sprog, der undersøger globale mønstre for psykedelisk microdosing med detaljerede adfærdsdata.",
-        "fi": "Suuri poikittaistutkimus (n=5399 microdosers) 19 kielellä, joka tutkii psykedeelistä microdosing-tekniikkaa globaalisti yksityiskohtaisilla käyttäytymistiedoilla.",
-        "is": "Stór þversniðsrannsókn (n=5399 microdosers) á 19 tungumálum sem skoðar alþjóðleg mynstur psykedélísku microdosing með nákvæmum hegðunargögnum.",
-        "et": "Suur ristlõikeuuring (n=5399 microdosers) 19 keeles, mis uurib psühhedeelikute microdosing'u globaalseid mustreid üksikasjalike käitumisandmetega.",
-        "lv": "Liels šķērsgriezuma pētījums (n=5399 microdosers) 19 valodās, kurā tiek pārbaudīti psihedelisko microdosing globālie modeļi ar detalizētiem uzvedības datiem.",
-        "lt": "Didelis skerspjūvio tyrimas (n=5399 microdosers) 19 kalbomis, kuriame tiriami globaliniai psichedelinio microdosing modeliai su detaliais elgesio duomenimis."
-      },
-      "relevance_score": 4,
-      "study_type": "observational",
-      "substances": [
-        "psilocybin",
-        "lsd"
-      ],
-      "added_at": "2026-08-08T07:28:15.314747+00:00"
-    },
-    {
-      "title": "Impact of Psilocybin on Motor Function in Healthy Participants: A Phase 1, Randomised, Triple-Blind, Dose-Finding Study.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42566154/",
-      "source": "PubMed",
-      "date": "2026-08-07",
-      "authors": [
-        "Bhagavan Chiranth",
-        "Carter Olivia",
-        "Nielsen Glenn"
-      ],
-      "doi": "10.1007/s40263-026-01326-4",
-      "summaries": {
-        "en": "Phase 1 randomised triple-blind study examining psilocybin's effects on motor function in healthy adults. Participants received doses of 5–20 mg psilocybin with motor assessments at 1.5–4.5 hours post-dose. Feasibility and safety were primary endpoints; exploratory outcomes included grip strength, dexterity, reaction time and upper limb function. Results provide evidence for safe administration of movement tasks during psilocybin effects.",
-        "sv": "Fas 1-studie med randomisering och trippelblindning som undersökte psylocybins effekter på motorisk funktion hos friska vuxna. Deltagare fick doser om 5–20 mg psylocybin med motoriska bedömningar 1,5–4,5 timmar efter administrering. Genomförbarhet och säkerhet var primära slutpunkter; utforskande mål inkluderade gripstyrka, skicklighet, reaktionstid och övre extremitetsfunktion.",
-        "no": "Fase 1-studie med randomisering og trippelblinding som undersøkte psylocybins effekter på motorisk funksjon hos friske voksne. Deltakere fikk doser på 5–20 mg psylocybin med motoriske vurderinger 1,5–4,5 timer etter administrering. Gjennomførbarhet og sikkerhet var primære endepunkter; utforskende mål inkluderte gripstyrke, dyktighet, reaksjonstid og funksjon i øvre ekstremitet.",
-        "da": "Fase 1-studie med randomisering og trippelblindning, der psylocybins virkning på motorisk funktion hos raske voksne blev undersøgt. Deltagerne modtog doser på 5–20 mg psylocybin med motoriske vurderinger 1,5–4,5 timer efter administration. Gennemførbarhed og sikkerhed var primære endepunkter; eksplorativ mål omfattede grebsstyrke, håndskikkelighed, reaktionstid og funktion i øvre ekstremitet.",
-        "fi": "Vaihe 1 -tutkimus, jossa tutkittiin psylokybiinin vaikutusta motorisiin toimintoihin terveillä aikuisilla satunnaistamisen ja kolminkertaisen sokkouttamisen avulla. Osallistujat saivat annoksia 5–20 mg psylokybiinia ja motorisia testejä tehtiin 1,5–4,5 tuntia annostelun jälkeen. Ensisijaiset päätepisteet olivat toteutettavuus ja turvallisuus; tutkimukseen kuuluivat myös hahmotuskyky, tarkkuus, reaktioaika ja yläraajan toiminto.",
-        "is": "Fasi 1 rannsókn með tilviljunarkenningu og þrefaldri blindun sem skoðaði áhrif psýlósýbíns á hreyfigetu heilbrigðra fullorðinna. Þátttakendur fengu skammta 5–20 mg psýlósýbíns með hreyfimati 1,5–4,5 klst. eftir afhendingu. Aðalendapunktar voru hagkvæmni og öryggi; rannsóknir náðu einnig til hreyfigetu, nákvæmni, viðbragðstíma og starfemi efri útlima.",
-        "et": "Faas 1 randomiseeritud kolmekordse pimestamise uuringus uuriti psülotsibiini mõju motorsetele funktsioonidele tervetel täiskasvanutel. Osalejad said doose 5–20 mg psülotsibiini ning motoorset hindamist tehti 1,5–4,5 tundi pärast manustamist. Esmased lõpp-punktid olid teostatavus ja ohutus; uuringus hinnati ka gripijõudu, täpsust, reaktsiooniaja ja ülemiste jäsemete funktsiooni.",
-        "lv": "I fāzes randomizēts un trīskārt aklais pêtījums, kurā pētīja psīlocibiņa ietekmi uz motoro funkciju veseliem pieaugušajiem. Dalībnieki saņēma 5–20 mg psīlocibiņa devas ar motoro novērtējumu 1,5–4,5 stundas pēc ievadīšanas. Primārie rezultāti bija iespējamība un draudzīgums; pêtījumā tika novērtēta arī satveres spēks, prasme, reakcijas laiks un augšējās ekstremitātes funkcija.",
-        "lt": "I fazės atsitiktinės atranką ir trigubo aklumą naudojantis tyrimas, kuriame buvo tiriamas psilo­cibi­no poveikis motorinėms funkcijoms sveikiems suaugusiems. Dalyviai gavo 5–20 mg psilo­cibi­no dozių su motoriniu vertinimu 1,5–4,5 val. po vartojimo. Pagrindiniai rezultatai buvo įgyvendinimas ir sauga; tyrime taip pat buvo įvertinti griebimo stiprumas, dexterumas, reakcijos laikas ir viršutinės galūnės funkcija."
-      },
-      "notable": false,
-      "notable_reasons": null,
-      "relevance_score": 4,
-      "study_type": "rct",
-      "substances": [
-        "psilocybin"
-      ],
-      "added_at": "2026-08-08T07:28:15.314747+00:00"
-    },
-    {
-      "title": "Pα+ Psychedelic Bulletin #229: SAMHSA Convenes Experts; AtaiBeckley’s Road to Lilly; Turnbull Doubles Down on BOL-148; Compass Talks Indication Expansion, Could VA Help?",
-      "url": "https://psychedelicalpha.com/news/p%ce%b1-psychedelic-bulletin-229-samhsa-convenes-experts-ataibeckleys-road-to-lilly-turnbull-doubles-down-on-bol-148-compass-talks-indication-expansion-could-va-help/",
-      "source": "Psychedelic Alpha",
-      "date": "2026-08-07",
-      "authors": [],
-      "doi": "",
-      "summaries": {
-        "en": "SAMHSA convened experts in Washington D.C. for a two-day consultation on data gaps in monitoring psychedelic use and misuse in the U.S. Participants included federal agencies, researchers, regulators, and industry representatives. The meeting addressed evidence collection needs as clinical development of psychedelics-assisted therapies advances.",
-        "sv": "SAMHSA samlade experter i Washington D.C. för en tvådagars konsultation om datakällor gällande användning och missbruk av psykedelika i USA. Deltagare inkluderade federala myndigheter, forskare, tillsynsmyndigheter och näringsrepresentanter. Mötet behandlade behov av evidensinsamling när klinisk utveckling av psykedelika-assisterad terapi fortskrider.",
-        "no": "SAMHSA samlet eksperter i Washington D.C. for en todagers konsultasjon om databrister ved overvåking av psykedelikabruk og misbruk i USA. Deltakere inkluderte føderale myndigheter, forskere, regulatorer og industri representanter. Møtet adresserte behovet for evidensinnsamling ettersom klinisk utvikling av psykedelika-assistert terapi skrider frem.",
-        "da": "SAMHSA samlede eksperter i Washington D.C. til en todages konsultation om datahuller i overvågningen af psykedelikaanvendelse og misbrug i USA. Deltagerene omfattede føderale agenturer, forskere, regulatorer og industri repræsentanter. Mødet adresserede behovet for bevisindsamling efterhånden som klinisk udvikling af psykedelika-assisteret terapi skrider frem.",
-        "fi": "SAMHSA kutsui asiantuntijoita kokoon Washingtoniin kahden päivän neuvotteluun psykedeliikan käytön ja väärinkäytön seurannan tietovajeista Yhdysvalloissa. Osallistujat sisälsivät liittovaltion virastoja, tutkijoita, sääntelyviranomaisia ja alan edustajia. Kokouksessa käsiteltiin todistenkeruun tarpeita psykedeliikka-avusteisenhoitojen kliinisen kehityksen edetessä.",
-        "is": "SAMHSA safnaði sérfræðingum saman í Washington D.C. fyrir tveggja daga ráðstefnu um gagnaskortin við eftirlit með notkun og misnotkun psýkí í Bandaríkjunum. Þátttakendur voru alríkisstofnanir, vísindamenn, eftirlitsaðilar og fulltrúar iðnaðar. Fundurinn fjallaði um þörf á söfnun sannanir þar sem klínísk þróun psýkí-aðstoðaðra meðferða er fram.",
-        "et": "SAMHSA kutsus ekspertide kokku Washingtoni kahepäevasele nõupidamisele psühhedeelide kasutamise ja kuritarvitamise jälgimisega seotud andmelünkade teemadel USA-s. Osalejate hulka kuulusid föderaalasutused, teadlased, regulaatorid ja tööstuse esindajad. Kohtumisel käsitleti tõendite kogumise vajadusi kliinilise psühhedeelide-abistatud ravi arengu edenemisel.",
-        "lv": "SAMHSA sanāca ekspertus Vašingtonā divu dienu konsultācijai par datu trūkumiem psihedeliku lietošanas un ļaunprātīgas lietošanas uzraudzībā ASV. Dalībnieki iekļāva federālās aģentūras, pētniekus, regulatorus un nozares pārstāvjus. Sanāksme risināja pierādījumu vākšanas nepieciešamību, jo turpinās psihedēliku-palīdz terapijas klīniskā attīstība.",
-        "lt": "SAMHSA suvaidino ekspertus Vašingtone dviejų dienų konsultacijai apie duomenų spragas stebint psichodelinių medžiagų naudojimą ir piktnaudžiavimą JAV. Dalyviai apėmė federalines agentūras, tyrėjus, reguliatorius ir pramonės atstovus. Susitikimas nagrinėjo įrodymų rinkimo poreikius, kaip vyksta psichodelinėmis medžiagomis padedamų terapijų klinikinė raida."
-      },
-      "notable": false,
-      "notable_reasons": null,
-      "relevance_score": 3,
-      "study_type": "other",
-      "substances": [
-        "psilocybin",
-        "other"
-      ],
-      "added_at": "2026-08-08T07:28:15.314747+00:00"
-    },
-    {
-      "title": "Methodological fragmentation and integration priorities in psychedelic-assisted therapy assessment: a scoping review.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42625811/",
-      "source": "PubMed",
-      "date": "2026-08-06",
-      "authors": [
-        "Mele Maria Laura",
-        "Federici Stefano"
-      ],
-      "doi": "10.3389/fpsyt.2026.1880744",
-      "summaries": {
-        "en": "A scoping review analyzing 59 publications (2008-2026) on evaluation methods in psychedelic-assisted therapy. The study systematizes assessment approaches across pre-session screening, acute experience, intervention processes, post-session integration, and clinical/existential outcomes. Four evaluation domains identified: subjective experience instruments, clinical intervention models, outcome measures, and safety frameworks. Findings highlight validated instruments for measuring mystical experiences and emerging clinical frameworks, while revealing methodological fragmentation requiring standardization.",
-        "sv": "En omfattande granskning av 59 publikationer (2008-2026) om utvärderingsmetoder för psykedelika-assisterad terapi. Studien systematiserar bedömningsmetoder från förscreening, akut upplevelse, interventionsprocesser, efterintegrering till kliniska och existentiella utfall. Fyra utvärderingsdomäner identifierades: instrument för subjektiv upplevelse, kliniska interventionsmodeller, resultatmått och säkerhet. Resultaten visar validerade instrument för mystiska upplevelser och framväxande ramverk, men avslöjar metodologisk fragmentering som kräver standardisering.",
-        "no": "En omfattende gjennomgang av 59 publikasjoner (2008-2026) om evalueringsmetoder for psykedelika-assistert terapi. Studien systematiserer vurderingstilnærminger fra forscreening, akutt erfaring, intervensjonsprosesser, etterintegrasjon til kliniske og eksistensielle utfall. Fire evalueringsdomener identifisert: instrumenter for subjektiv erfaring, kliniske intervensjonsmodeller, resultatmål og sikkerhet. Funnene viser validerte instrumenter for mystiske erfaringer og framvoksende rammeverk, men avslører metodologisk fragmentering som krever standardisering.",
-        "da": "En omfattende oversigt over 59 publikationer (2008-2026) om evalueringsmetoder i psykedelika-assisteret terapi. Studien systematiserer vurderingstilgange fra forscreening, akut oplevelse, interventionsprocesser, efterintegration til kliniske og eksistentielle udfald. Fire evalueringsdomæner identificeret: instrumenter for subjektiv oplevelse, kliniske interventionsmodeller, resultatmål og sikkerhed. Funnene viser validerede instrumenter til måling af mystiske oplevelser og fremvoksende rammer, men afslører metodologisk fragmentering som kræver standardisering.",
-        "fi": "Laaja katsaus 59 julkaisuun (2008-2026) psykedeeliavusteisen terapian arviointimenetelmistä. Tutkimus systematisoi arviointikäytäntöjä enäisiosta, akuutista kokemuksesta, interventioprosesseista, jälkiintegroinista kliinisiin ja eksistentiaalisiin tuloksiin. Neljä arviointialuetta tunnistettu: subjektiivisen kokemuksen mittarit, kliniiset interventiomallit, tulosmittarit ja turvallisuus. Tulokset osoittavat validoituja mittareita mystisille kokemuksille ja kehittyviä viitekehyksiä, mutta paljastaa metodologisen pirstoutumisen, joka vaatii standardisointia.",
-        "is": "Yfirlit yfir 59 ritgerðir (2008-2026) um matsaðferðir við sálfræðivirkri sálarlyfjameðferð. Rannsóknin kerfisbætir matstegundir frá fyrirmatsprófunum, beinni reynslu, meðferðarferlum, endursamhæfingu til klínískra og tilvistarlegra útkomu. Fjórir matssviðir auðkenndir: tæki fyrir huglæga reynslu, klínísk inngrip og hæfnirammar, útkomenumælikvarðar og öryggi. Niðurstöður sýna staðfest tæki fyrir dularlegra reynslu og vaxandi ramma, en sýna aðferðafræðilega sundrung sem krefst staðfestingar.",
-        "et": "Ülevaade 59 avaldisest (2008-2026) psühhedeeliabiga toetatud teraapia hindamismeetoditest. Uuring süstematiseerib hindamiskäsitlusi eelhindamisest, teravast kogemusest, sekkumisprotsessidest, järelintegratsioonist kliinilistele ja eksistentsiaalsele tulemustele. Neli hindamispiirkonda tuvastatud: subjektiivse kogemuse instrumendid, klinilised sekkumismudelid, tulemuste mõõdikud ja ohutus. Tulemused näitavad valideeritud instrumente müstiliste kogemuste mõõtmiseks ja arenevaid raamistikke, kuid paljastab metodoloogilist killustumist, mis nõuab standardiseerimist.",
-        "lv": "Pārskats par 59 publikācijām (2008-2026) par novērtēšanas metodēm psihedēliku atbalstītajā terapijā. Pētījums sistematizē novērtēšanas pieejas no priekšscreeninga, akūtas pieredzes, intervences procesiem, pēcintegrācijai līdz klīniskiem un eksistenciāliem rezultātiem. Identificēti četri novērtēšanas jomas: subjektīvās pieredzes instrumenti, klīniskie intervences modeļi, rezultātu mēri un drošība. Rezultāti parāda validētos instrumentus mistisku pieredzju mērīšanai un attīstāmos rāmjus, taču atklāj metodologisku fragmentāciju, kas prasa standartizāciju.",
-        "lt": "Apžvalga apie 59 publikacijas (2008-2026) apie psichedelinių medžiagų pagalbą turinčios terapijos vertinimo metodus. Tyrimas sistematizuoja vertinimo prieigas nuo išankstinio atsijimo, aštraus patyrimo, intervencijos procesų, po-sesijos integracijos iki klininių ir egzistencialių rezultatų. Nustatyti keturi vertinimo sritys: subjektyvios patirties instrumentai, klininiai intervencijos modeliai, rezultatų matavimai ir saugumas. Rezultatai rodo patvirtintus instrumentus mistinei patirčiai matuoti ir besivystančius rėmus, tačiau atskleidžia metodologinį fragmentaciją, reikalingą standartizavimo."
-      },
-      "notable": false,
-      "notable_reasons": null,
-      "relevance_score": 4,
-      "study_type": "review",
-      "substances": [
-        "other"
-      ],
-      "added_at": "2026-08-22T07:08:35.061769+00:00"
     }
   ]
 }

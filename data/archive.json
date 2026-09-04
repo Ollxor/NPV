@@ -1,6 +1,126 @@
 {
   "items": [
     {
+      "title": "Safety, pharmacokinetics, and pharmacodynamics of intravenously administered deuterated",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42689687/",
+      "source": "PubMed",
+      "date": "2026-09-03",
+      "authors": [
+        "van der Heijden Katelijne V",
+        "Jacobs Gabriel E",
+        "James Ellen H"
+      ],
+      "doi": "10.1177/02698811261478616",
+      "summary_en": "A randomized, double-blind, placebo-controlled study evaluated the safety, pharmacokinetics, and pharmacodynamics of CYB004, a deuterated DMT analogue, in healthy volunteers. Intravenous administration at lower doses produced an acceptable safety profile with psychedelic effects, EEG changes, and autonomic activation similar to DMT. CYB004 showed approximately twice the half-life of DMT, extending effects to 40-60 minutes. Higher doses caused intense experiences and participant withdrawals. Deuteration did not reduce pharmacokinetic variability.",
+      "notable": true,
+      "notable_reason": "First-in-human study of a new psychedelic compound (CYB004, deuterated DMT analogue) with detailed PK/PD characterization in randomized controlled design.",
+      "study_type": "rct",
+      "substances": [
+        "other"
+      ],
+      "added_at": "2026-09-04T11:32:40.517675+00:00"
+    },
+    {
+      "title": "Healing together: Results from a pilot trial of 3,4-Methylenedioxymethamphetamine-enhanced cognitive-behavioral conjoint therapy for posttraumatic stress disorder.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42693902/",
+      "source": "PubMed",
+      "date": "2026-09-04",
+      "authors": [
+        "Morland Leslie A",
+        "Khalifian Chandra E",
+        "Perivoliotis Dimitri"
+      ],
+      "doi": "10.1002/jts.70126",
+      "summary_en": "Pilot study (N=16) evaluated MDMA-assisted brief cognitive-behavioral conjoint therapy for PTSD in military veteran couples. Eight-session protocol with two MDMA sessions showed large reductions in PTSD symptoms (d=1.25) and substantial improvements in relationship functioning for both veterans (d=1.83) and partners (d=1.29). Results suggest psychedelic-assisted couples therapy may enhance relational outcomes beyond standard treatment.",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "rct",
+      "substances": [
+        "mdma"
+      ],
+      "added_at": "2026-09-04T11:32:40.517675+00:00"
+    },
+    {
+      "title": "Psilocybin prevents chemotherapy-induced peripheral neuropathy through mitochondrial trafficking preservation.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42691184/",
+      "source": "PubMed",
+      "date": "2026-09-03",
+      "authors": [
+        "Heles Mario",
+        "Pasvolsky Lilach",
+        "Sathishkumar Hinduja"
+      ],
+      "doi": "10.1126/science.aec6116",
+      "summary_en": "Preclinical study demonstrates that two psilocybin doses before chemotherapy prevented chemotherapy-induced peripheral neuropathy in rodent models of platinum and taxane treatment. Psilocybin preserved nerve fiber integrity and tactile sensitivity through mitochondrial trafficking mechanisms (TrkB-Akt-PAK5-MAP2-KIF5B pathway) while maintaining normal brain activity. Antitumor efficacy remained unimpaired. Results suggest psilocybin warrants clinical evaluation as a preventive agent for this often-irreversible chemotherapy side effect.",
+      "notable": true,
+      "notable_reason": "First-in-class mechanistic evidence for psilocybin preventing chemotherapy-induced peripheral neuropathy via identified molecular pathway (TrkB-Akt-PAK5-MAP2-KIF5B), with both peripheral and central nervous system validation.",
+      "study_type": "preclinical",
+      "substances": [
+        "psilocybin"
+      ],
+      "added_at": "2026-09-04T11:32:40.517675+00:00"
+    },
+    {
+      "title": "The subtle science: a systematic review of psilocybin magic mushroom and truffle microdosing.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42688116/",
+      "source": "PubMed",
+      "date": "2026-08-19",
+      "authors": [
+        "Page Jeni",
+        "Moore Alexandra",
+        "Hawkins Bridget E"
+      ],
+      "doi": "10.3389/fpsyt.2026.1866881",
+      "summary_en": "A systematic review of 11 studies (5 quantitative, 6 qualitative) involving 3,262 adults examined psilocybin microdosing. Studies from the US, Netherlands, Argentina, and Slovenia reported potential improvements in well-being, mental health, cognition, and creativity. However, most evidence had bias concerns or relied on self-reported measures. Non-medical motivations accounted for 86% of use.",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "review",
+      "substances": [
+        "psilocybin"
+      ],
+      "added_at": "2026-09-04T11:32:40.517675+00:00"
+    },
+    {
+      "title": "Implementing psychedelic-assisted therapy in Ireland: perspectives from a national stakeholder survey.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42693921/",
+      "source": "PubMed",
+      "date": "2026-09-04",
+      "authors": [
+        "Harrington Colm",
+        "Mallon Orla",
+        "Gribben Andrew David"
+      ],
+      "doi": "10.1017/ipm.2026.10224",
+      "summary_en": "Irish stakeholder survey examines implementation perspectives for psychedelic-assisted therapy. Study gathers views from key national actors on clinical, regulatory, and practical considerations for integrating these treatments into healthcare systems.",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "qualitative",
+      "substances": [
+        "other"
+      ],
+      "added_at": "2026-09-04T11:32:40.517675+00:00"
+    },
+    {
+      "title": "Reconstituting a two-step pathway for &lt;i&gt;N&lt;/i&gt;,&lt;i&gt;N&lt;/i&gt;-dimethyltryptamine (DMT) biosynthesis in bacteria.",
+      "url": "https://doi.org/10.1016/j.mec.2026.e00286",
+      "source": "Europe PMC",
+      "date": "2026-07-21",
+      "authors": [
+        "Junges LH",
+        "Pontes FLD",
+        "Mota FJT"
+      ],
+      "doi": "10.1016/j.mec.2026.e00286",
+      "summary_en": "Researchers reconstructed a bacterial two-step pathway for DMT biosynthesis by combining a tryptophan decarboxylase from Ruminococcus gnavus with an N-methyltransferase from the cane toad in E. coli. Optimization studies identified optimal pH and temperature conditions for each step. Methionine supplementation increased DMT production 2.8-fold, revealing N-methylation as the rate-limiting step. Co-expression strains produced 103 mg/L DMT in 48 hours, suggesting potential for scalable fermentation-based production.",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "preclinical",
+      "substances": [
+        "other"
+      ],
+      "added_at": "2026-09-04T11:32:40.517675+00:00"
+    },
+    {
       "title": "Serial Ketamine Infusions for Treatment-Resistant Bipolar Depression: A Randomized Clinical Trial.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42684694/",
       "source": "PubMed",

@@ -1,7 +1,70 @@
 {
-  "date": "2026-09-04",
-  "cached_at": "2026-09-04T10:33:50.982313+00:00",
+  "date": "2026-09-05",
+  "cached_at": "2026-09-05T09:56:18.883510+00:00",
   "articles": [
+    {
+      "title": "Pharmacological and non-pharmacological modulation of striatal dopamine release: a meta-analysis of [",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42697901/",
+      "source": "PubMed",
+      "abstract": "The dopaminergic system has long been a central focus of functional neuroimaging. Positron emission tomography (PET) with the D2/D3 receptor radioligand [",
+      "date": "2026-09-04",
+      "authors": [
+        "Eklund Mikael",
+        "Hassanain Eman",
+        "Vahlberg Tero"
+      ],
+      "doi": "10.1038/s41380-026-03826-7"
+    },
+    {
+      "title": "Association of Intrusive Posttraumatic Stress Symptoms With Elevated C-Reactive Protein Levels in World Trade Center Responders.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42696757/",
+      "source": "PubMed",
+      "abstract": "",
+      "date": "2026-09-01",
+      "authors": [
+        "Rutter Sarah B",
+        "Collins Abigail B",
+        "Kautz Marin"
+      ],
+      "doi": "10.4088/PCC.25m04177"
+    },
+    {
+      "title": "Low Dose Ketamine Preconditions Astrocyte Mitochondria to Achieve Antidepressant Efficacy via Adenosine, Humanin, and Melatonin Upregulation and Efflux.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42694894/",
+      "source": "PubMed",
+      "abstract": "Understanding the physiological changes induced by ketamine in mood disorders, while reducing its side effects, is likely to contribute to a more comprehensive understanding of the physiology underlying mood disorders, as well as to the development of faster-acting and more efficacious antidepressant treatments. An extensive review of the literature on ketamine and the pathophysiology of depression indicates that ketamine's antidepressant efficacy has classically been attributed to noncompetitive antagonism of the n-methyl-d-aspartate receptor (NMDAR) on the neuronal postsynaptic membrane, thereby reducing excessive Ca²⁺ influx through the NMDAR channel. However, recent evidence suggests that ketamine's antidepressant efficacy is mediated not by synaptic NMDAR antagonism but rather by its direct effects on mitochondrial function, arising from its amphiphilic structure. It is proposed that astrocyte mitochondria represent the primary target of ketamine, with the broader effects induced by ketamine occurring downstream of the optimization of astrocyte mitochondrial function and, consequently, astrocyte function. Developmental stress and trauma are proposed to differentially prime specific regions of the central nervous system, rendering them more susceptible to subsequent stressors through the epigenetic regulation of astrocytes. This process increases astrocyte reactivity and dysregulates astrocyte mitochondrial function in response to subsequent stressors, while also increasing blood-brain barrier permeability within these regions. At stress-vulnerable sites, ketamine may upregulate adenosine, humanin, and melatonin, thereby restoring astrocyte function and attenuating inflammatory activity within the local astrocytic microenvironment, including microglia, neurons, and oligodendrocytes. Ketamine's modulation of mitochondrial function is proposed to be mediated via NMDARs located on the inner mitochondrial membrane, leading to alterations in mitochondrial ionic regulation that enhance astrocyte mitochondrial resilience to stress, possibly through a preconditioning mechanism. Ketamine-induced increases in melatonin and humanin are proposed to suppress microglial activation, promote white matter remyelination, and restore neuronal activity, as well as patterned intercellular and interregional communication. This hypothesis-driven overview evaluates ketamine's capacity to restore astrocyte mitochondrial function and thereby counteract the consequences of developmental stress and trauma that underlie vulnerability to subsequent stress-induced depression.",
+      "date": "2026-08-24",
+      "authors": [
+        "Anderson George"
+      ],
+      "doi": "10.31083/AP54760"
+    },
+    {
+      "title": "Hallucinogen Persisting Perception Disorder in a Young Adult Case Report.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42694657/",
+      "source": "PubMed",
+      "abstract": "Hallucinogen persisting perception disorder (HPPD) is a rare psychiatric diagnosis encompassing a range of perceptual disturbances caused by the lingering effects of hallucinogens. There are two major subtypes of the disorder: HPPD I and II. HPPD II is considered a more severe form that is generally longer-term, distressing, and requiring more intense treatment. In the limited available literature, many of the affected patients have multiple psychiatric comorbidities. The following case describes a 24-year-old college student, WA, who was diagnosed with HPPD II along with comorbid bipolar I disorder and generalized anxiety disorder. WA presented with an escalation of manic symptoms, psychosis, and two lysergic acid diethylamide (LSD) uses prior to hospitalization. He was treated with olanzapine, leading to mood stabilization and remission of psychosis. Post treatment, WA continued to experience perceptual disturbances and \"visual snow.\" Medications clonidine and clonazepam were trialed for HPPD. While symptoms fluctuated in severity, they never fully resolved. Despite this, WA achieved acceptance of his symptoms, mood stability, and a functional recovery. WA's case is an example of the clinical complexity in accurate diagnosis and treatment of HPPD, including the distinction of the symptoms from psychosis. As LSD-assisted therapies continue to be investigated for conditions such as anxiety and depression, recognition and management of persistent adverse effects such as HPPD are becoming increasingly important in both psychiatric and general medical practice. This case demonstrates the limited effectiveness and lack of knowledge on HPPD treatments as well as the need for longitudinal assessments in management.",
+      "date": "2026-09-03",
+      "authors": [
+        "Notani Sonali",
+        "Srinivasa Vikas",
+        "Chaudhry Serena"
+      ],
+      "doi": "10.1155/crps/6605265"
+    },
+    {
+      "title": "Network Pharmacology Reveals the Potential Mechanism of Ketamine in Improving Cognitive Impairment in Patients With Depression.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42694621/",
+      "source": "PubMed",
+      "abstract": "Ketamine may have antidepressant and anti-suicidal effects. However, the mechanism underlying ketamine-mediated improvement in cognitive impairment in patients with depression remains unclear. To improve patient cognition in depression using molecular docking and network pharmacology, we examined ketamine's key targets and identified its molecular mechanisms. To gain target information about cognitive impairment (1983) and depression (1874), we used three databases, including Online Mendelian Inheritance in Man, GeneCards, and DisGENET. Information on ketamine targets (63) was retrieved from public databases. To locate signaling pathways and core targets, we conducted bioinformatics analysis, including an enrichment analysis and protein-protein interaction (PPI) network analysis. To assess the interaction between core targets and ketamine, we carried out molecular docking. We identified 20 ketamine target proteins of ketamine related to depression and cognitive impairment. Enrichment analyses revealed that ketamine influenced depression and cognitive function through multiple pathways, targets, and overall synergy. The important signaling pathways identified were \"amphetamine addiction\" and \"dopaminergic synapse\". Five core genes (monoamine oxidase (MAO)-A,  The antidepressant and cognitive-enhancing effects of ketamine are primarily mediated through targets associated with inflammation, neural signaling, tumors, and neurodegeneration, as well as pathways such as amphetamine addiction, dopaminergic synapse, and the cyclic adenosine monophosphate (cAMP) signaling pathway. The findings provide theoretical support and guidance for optimizing clinical application strategies of ketamine and for designing new drugs.",
+      "date": "2026-08-06",
+      "authors": [
+        "Yang Lei",
+        "Zhang Qiuyu",
+        "Zhang Ying"
+      ],
+      "doi": "10.31083/AP56752"
+    },
     {
       "title": "Implementing psychedelic-assisted therapy in Ireland: perspectives from a national stakeholder survey.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42693921/",
@@ -197,65 +260,13 @@
       "doi": "10.66339/sa.mhc.2026.073"
     },
     {
-      "title": "Serotonergic psychedelics induce distinct patterns of metabolic activity and covariance within biologically informed rat brain networks.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42675044/",
-      "source": "PubMed",
-      "abstract": "Serotonergic psychedelics show therapeutic potential across neuropsychiatric disorders despite transient acute effects. These compounds share serotonin 2 A receptor agonism but differ in broader pharmacology, motivating a systematic comparison of their neurobiological effects. Here, we use [18 F]FDG-PET in rats to assess acute and one-week effects of psilocybin, LSD, and 2C-B on brain metabolic activity and metabolic covariance within biologically informed networks. All three drugs produce distinct acute patterns, with drug-specific alterations in cortico-striato-thalamo-cortical and cortico-amygdalo-hippocampal-hypothalamic networks. Voxel-wise analyses reveal LSD-driven hypometabolic clusters in retrosplenial and hippocampal regions and a 2C-B-specific hypermetabolic cluster in the midbrain. One week after administration, LSD and psilocybin, but not 2C-B, show modest hypometabolism spanning cortical, limbic, and midbrain structures. These findings demonstrate that serotonergic psychedelics induce distinct acute and sustained metabolic signatures, providing a network-level framework for understanding their shared and drug-selective mechanisms and informing therapeutic stratification across neuropsychiatric disorders.",
-      "date": "2026-08-03",
-      "authors": [
-        "Gudmundsen Frederik",
-        "Czurylo Julia",
-        "Rijsketic Daniel R"
-      ],
-      "doi": "10.1038/s41467-026-75890-0"
-    },
-    {
-      "title": "Psychedelic renaissance in healthcare: between the biomedical and the existential.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42674855/",
-      "source": "PubMed",
-      "abstract": "In this review essay I outline how the current renaissance of psychedelics in mainstream discourses about medicine is spearheaded first and foremost by profit-oriented technomedical initiatives focusing on individual wellness, and how this very situation reinforces a problematic line of demarcation between the psychopharmaceutical approach to mental health, and the more classical approach that relies on intersubjective talk therapy. It will lead me to formulate brief remarks about the unique challenges that this context presents for the field of medical humanities-specifically regarding the status of narratives in therapy and their existential implications.",
-      "date": "2026-08-31",
-      "authors": [
-        "Laforest Daniel"
-      ],
-      "doi": "10.1136/medhum-2025-013688"
-    },
-    {
-      "title": "Pharmacokinetics, pharmacodynamics and safety of",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42671902/",
-      "source": "PubMed",
-      "abstract": "The serotonergic psychedelic  Prior to exploring this clinical potential, it is essential to determine an optimal administration regimen for DMT, explore the relationship between its pharmacokinetics (PK) and pharmacodynamics and identify potential sources of pharmacokinetic variability. Therefore, DMT was administered as a 90-minute intravenous infusion (0.10, 0.20, 0.40 and 0.81 mg/min DMT) in a randomised, double-blind, placebo-controlled, single-ascending dose part in healthy smokers . Subsequently, DMT was administered as a 5-minute loading dose followed by a 55-minute infusion (3.64 mg/min + 0.81 mg/min and 3.64 mg/min + 1.29 mg/min) in an open-label, single-sequence two-period escalating dose study in healthy non-smokers. Outcome measures included PK of DMT and subjective, autonomic, neurophysiological and adverse effects. All adverse events were mild to moderate in intensity and self-limiting. Two subjects requested their infusion to be discontinued following the loading dose in Part 2 due to anxiety and intense effects. Moderate inter- and intra-individual pharmacokinetic variability was observed, while DMT plasma concentrations at similar infusion rates in smokers were roughly double that of non-smokers, probably due to mono-amine oxidase A-inhibiting compounds in cigarette smoke. Mild to moderate subjective psychedelic effects emerged at plasma concentrations of ~35 ng/mL in both parts, while only limited undesired effects such as sedation or impaired sustained attention occurred for DMT 0.81 ng/mL. Interestingly, no differences were noted in psychoactive effects between smokers and non-smokers. These findings provide a basis for future studies exploring the (inter)relationships between DMT PK, different infusion regimens and subjective, neurophysiological and neuroendocrine effects resulting from 5-HT2A agonism.",
-      "date": "2026-08-31",
-      "authors": [
-        "van der Heijden Katelijne V",
-        "Makai-Bölöni Soma",
-        "Inamdar Amir"
-      ],
-      "doi": "10.1177/02698811261473451"
-    },
-    {
-      "title": "Dose-Dependent Effects of Cannabis Edibles on Simulated Driving Performance: A Randomized Clinical Trial.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42671837/",
-      "source": "PubMed",
-      "abstract": "Use of cannabis edibles is increasing, yet little is known about the impact of edibles on driving, which is particularly important in the context of per se thresholds (commonly 2 or 5 ng/mL) used to enforce cannabis-impaired driving laws. To determine whether driving simulator performance is dose-dependently impaired by commercially available edible cannabis. This randomized, double-blind, placebo-controlled, crossover clinical trial was completed at a single-site tertiary care academic hospital in Toronto, Ontario, Canada, between September 2024 and April 2025. Participants were healthy adults aged 19 to 45 years endorsing at least weekly cannabis use and monthly use of cannabis edibles. Edible (oral) delta-9-tetrahydrocannabinol (THC) was administered to all participants in soft-chew gummies, 0 or 2 mg each, to achieve doses of 0, 2, 10, and 20 mg. Standard deviation of lateral position (SDLP) in simulated driving scenarios at 2 and 5 hours after THC exposure was the primary outcome (reported as difference in means [95% CIs]) assessed in the intention-to-treat population. Secondary outcomes included driving simulator standard deviation of speed (SDS) and reaction time (RT), self-reported driving willingness and perceived ability, and whole-blood THC and metabolite levels. Of 85 potential participants, 52 were enrolled as eligible, 10 withdrew before receiving a dose of THC, and 2 were removed from the analysis. Thus, 40 participants (20 [50.0%] female and 20 [50.0%] male) were included in the analysis (mean [SD] age, 30.4 [6.9] years). Relative to placebo, SDLP was significantly increased at 20 mg (3.3 [95% CI, 2.4 to 4.3] cm; P < .001) and 10 mg (2.0 [95% CI, 1.0 to 2.9] cm; P < .001), but not 2 mg (0.7 [95% CI, -0.3 to 1.6] cm; P = .16). The secondary driving measures RT and SDS were also negatively influenced by THC exposure. For example, compared with placebo, RT was significantly higher at 20 mg (difference in means, 0.034 [95% CI, 0.018 to 0.050] s; P < .001) and SDS was significantly increased at 20 mg (difference in means, 0.469 [95% CI, 0.154 to 0.784] km/h; P = .004). Self-reported driving measures were dose-dependently decreased by THC dose. For example, compared with placebo, willingness to drive was significantly decreased at 20 mg (difference in means, -2.113 [95% CI, 1.166-1.821]; P < .001), as was participant-perceived driving ability (difference in means, -1.694 [95% CI, 1.422-1.966]; P < .001). Whole-blood THC concentrations (peaks of 3.4 and 1.6 ng/mL at 20 and 10 mg, respectively) were near or below common per se thresholds for driving. In this crossover randomized clinical trial of driving performance after exposure to THC edibles, THC dose-dependently impaired simulated driving performance at blood THC concentrations below per se thresholds commonly used for roadside enforcement. ClinicalTrials.gov Identifier: NCT06595576.",
-      "date": "2026-08-03",
-      "authors": [
-        "Le Foll Bernard",
-        "Matheson Justin",
-        "Antwi Paulina"
-      ],
-      "doi": "10.1001/jamanetworkopen.2026.31306"
-    },
-    {
-      "title": "The Prescriber's Guide to Oral Ketamine for Patients With Major Depressive Illness: Principles and Practice.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42671282/",
-      "source": "PubMed",
-      "abstract": "Ketamine can be administered in more than a dozen different ways for on-label and off-label indications. Oral ketamine, administered as a liquid repurposed from ketamine for injection, is one way in which ketamine is used to treat depression and chronic pain. Such repurposing may seem unorthodox but has been reported for at least the past 3 decades from many countries, including Canada, England, India, Israel, Japan, New Zealand, and the United States. Oral ketamine, thus administered, is noninvasive, and a safe and inexpensive option for medical practitioners who treat severe, suicidal, and/or treatment-resistant depression. It is safe because, when administered as a liquid in a glass of water or fruit juice, it can be sipped across 20-30 min; treatment-emergent dissociative, neurological, and other psychophysiological effects are thereby minimized. It is inexpensive because there are no costs associated with patented formulations, hospitalization, monitoring facilities, and additional personnel. Because of its simplicity, safety, and inexpensiveness, oral ketamine represents an opportunity for low-resource settings, especially in low- and middle-income countries. This article is intended to be a teaching article. It presents a brief theoretical background to the use of ketamine in the treatment of depression, justifies oral ketamine as an alternative to intranasal and intravenous routes of administration, explains clinical contexts in which the intervention can be used, and presents a detailed protocol for the use of oral ketamine. Matters considered are fitness for oral ketamine, consenting, facilities required, instructions on how to conduct the session, dosing, monitoring, ending the session, scheduling future sessions, continuation and maintenance therapy, domiciliary use, and many others. Drug interactions and concurrent medications are also discussed. This article is therefore a prescriber's guide to the use of oral racemic ketamine that could, it is hoped, make ketamine available in settings in which it is currently unavailable but needed.",
-      "date": "2026-08-26",
-      "authors": [
-        "Andrade Chittaranjan"
-      ],
-      "doi": "10.4088/JCP.26f16110"
+      "title": "Pα+ Library: Psychedelic REMS",
+      "url": "https://psychedelicalpha.com/news/p%ce%b1-library-psychedelic-rems/",
+      "source": "Psychedelic Alpha",
+      "abstract": "As potential approvals of psychedelic therapies draw closer, attention is increasingly turning to what their real-world delivery might look like. While many details remain unknown, one thing appears increasingly likely: Risk Evaluation and Mitigation Strategies (REMS) will play a significant role in shaping how FDA-approved psychedelic therapies are delivered. REMS are additional safeguards that the […]",
+      "date": "2026-09-03",
+      "authors": [],
+      "doi": ""
     },
     {
       "title": "Pα+ Psychedelic Bulletin #230: Pharma Ramps Up Ad Spend on Psychedelic Keywords; ARPA-H’s Ibogaine Funding; Psychedelics in Medicaid?",
@@ -335,15 +346,6 @@
       "source": "Psychedelic Alpha",
       "abstract": "This morning, Definium Therapeutics announced positive topline results from its Phase 3 study of LSD (DT120) for generalised anxiety disorder (GAD). It comes just two months after it posted positive topline results from its first Phase 3 program in major depressive disorder (MDD), Emerge, making it a successful summer for the LSD developer…",
       "date": "2026-08-12",
-      "authors": [],
-      "doi": ""
-    },
-    {
-      "title": "Pα+ Psychedelic Bulletin #229: SAMHSA Convenes Experts; AtaiBeckley’s Road to Lilly; Turnbull Doubles Down on BOL-148; Compass Talks Indication Expansion, Could VA Help?",
-      "url": "https://psychedelicalpha.com/news/p%ce%b1-psychedelic-bulletin-229-samhsa-convenes-experts-ataibeckleys-road-to-lilly-turnbull-doubles-down-on-bol-148-compass-talks-indication-expansion-could-va-help/",
-      "source": "Psychedelic Alpha",
-      "abstract": "SAMHSA Convenes Experts to Tackle Psychedelic Data Gaps Dozens of experts met in D.C. last week under the auspices of SAMHSA’s two-day consultation, titled ‘Addressing Data Gaps to Monitor the Expanding Use and Misuse of Psychedelics in the U.S.’. Attendees included federal agency representatives as well as psychedelic researchers, state regulators, and entrepreneurs. Drug development […]",
-      "date": "2026-08-07",
       "authors": [],
       "doi": ""
     },
@@ -451,6 +453,19 @@
       "doi": "10.5812/ijpr-164903"
     },
     {
+      "title": "Esketamine vs. sufentanil for quality of recovery after outpatient gynecological surgery: a randomized clinical trial.",
+      "url": "https://doi.org/10.1080/07853890.2026.2723715",
+      "source": "Europe PMC",
+      "abstract": "<h4>Background</h4>Perioperative administration of esketamine has been reported to improve early quality of recovery (QoR). However, data on its effects in outpatient surgery are limited. This study aimed to assess the impact of esketamine on QoR in patients undergoing outpatient gynecological procedures.<h4>Methods</h4>In this investigator-initiated, double-blind, randomized clinical trial, patients aged 18-65 years scheduled for outpatient gynecological surgery under sedation were allocated to receive esketamine (0.2 mg/kg) or sufentanil (0.1 μg/kg) combined with propofol (1.5-3 mg/kg). The primary outcome was quality of recovery on postoperative day (POD) 1. Secondary outcomes included quality of recovery on POD2, sedation success rate, length of post-anesthesia care unit (PACU) stay, injection pain, postoperative pain, nausea and vomiting, fatigue, patient and clinician satisfaction, sleep quality, and anxiety and depression.<h4>Results</h4>A total of 126 patients were randomized, with 63 assigned to the esketamine group and 63 to the sufentanil group. Of these, 125 patients were included in the final analysis (62 in the esketamine group and 63 in the sufentanil group), as one patient lacked follow-up data. The mean (SD) QoR-15 score on POD1 was 137.9 (14.5) in the esketamine group and 137.8 (10.7) in the sufentanil group, with no significant difference between groups (absolute difference, 0.2; 95% CI, -4.2 to 4.6; <i>p</i> = 0.93). For secondary outcomes, the esketamine group had a longer PACU stay (median, 28.0 vs. 23.0 min; <i>p</i> < 0.001), a lower incidence of severe injection pain (22.6% vs. 50.8%; <i>p</i> = 0.002), a higher proportion of patients with pain scores ≥ 4 at 30 min postoperatively (30.6% vs. 6.3%; <i>p</i> = 0.001), and higher fatigue scores (median, 3.0 vs. 2.0; <i>p</i> = 0.01). Other secondary outcomes did not differ significantly between groups.<h4>Conclusion</h4>Among patients undergoing sedation for outpatient gynecological procedures, esketamine did not significantly improve quality of recovery on POD1 compared to sufentanil.<h4>Trial registration</h4>Chinese Clinical Trial Registry, ChiCTR2500098466.",
+      "date": "2026-09-04",
+      "authors": [
+        "Wang XL",
+        "Li YN",
+        "Ma QL"
+      ],
+      "doi": "10.1080/07853890.2026.2723715"
+    },
+    {
       "title": "Cardiotoxicological assessment of crocin-coated silver nanoparticles in an experimental rat model.",
       "url": "https://doi.org/10.1016/j.toxrep.2026.102333",
       "source": "Europe PMC",
@@ -555,24 +570,11 @@
       "doi": "10.1016/j.abrep.2026.100728"
     },
     {
-      "title": "A porcine model of chronic hepatitis E virus (HEV) infection identifies male reproductive glands as sites of viral persistence.",
-      "url": "https://doi.org/10.1080/21505594.2026.2707701",
-      "source": "Europe PMC",
-      "abstract": "Hepatitis E virus (HEV) is an expanding zoonotic viral disease threat. Although HEV causes acute viral hepatitis, it is increasingly being recognized as a systemic pathogen with detection and damage in extrahepatic tissues. The presence of HEV RNA in the semen of chronically infected human patients in the absence of viremia and fecal shedding and presence of HEV in the sperm head underscores the need to understand the interaction of HEV within the male reproduction system. The role of male accessory glands in the dissemination and persistence of HEV infection has not been studied. Using an immunosuppressed pig model for chronic HEV infection, we demonstrate infectious HEV in mature sperm cells, altering the sperm motility and morphology. HEV isolated from sperm cells remained infectious in human hepatoma cells. Spermatic fluid contained lower virus titers than the sperm cells from chronically infected pigs, highlighting that the sperm cells themselves can associate with the virus. Evaluation of the male accessory glands demonstrated viral replication, infiltration of CD45 leukocytes, and apoptosis associated with HEV infection. A decrease in serum testosterone levels was evident in the HEV-infected pigs. Even though a lower viral RNA titer was seen in serum and feces of chronically infected, immunosuppressed, and ribavirin-treated pigs, high viral RNA and infectious particles in sperm is a concern. Our findings necessitate further studies defining the mechanism of sperm cell invasion by HEV and the risk of sexual transmission of HEV during both acute and chronic phases of infection.",
-      "date": "2026-07-30",
-      "authors": [
-        "Yadav KK",
-        "Boley PA",
-        "Laocharoensuk T"
-      ],
-      "doi": "10.1080/21505594.2026.2707701"
-    },
-    {
       "title": "CZ",
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2018-004480-31/CZ",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-09-04",
+      "date": "2026-09-05",
       "authors": [],
       "doi": ""
     },
@@ -581,7 +583,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2020-005037-32/CZ",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-09-04",
+      "date": "2026-09-05",
       "authors": [],
       "doi": ""
     },
@@ -590,7 +592,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2021-002909-10/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-09-04",
+      "date": "2026-09-05",
       "authors": [],
       "doi": ""
     },
@@ -599,7 +601,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2015-000550-37/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-09-04",
+      "date": "2026-09-05",
       "authors": [],
       "doi": ""
     },
@@ -608,7 +610,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2021-000041-40/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-09-04",
+      "date": "2026-09-05",
       "authors": [],
       "doi": ""
     },
@@ -617,7 +619,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2020-000829-55/DK",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-09-04",
+      "date": "2026-09-05",
       "authors": [],
       "doi": ""
     },
@@ -626,7 +628,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2020-002790-94/SE",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-09-04",
+      "date": "2026-09-05",
       "authors": [],
       "doi": ""
     },
@@ -635,7 +637,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2021-006200-33/FI",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-09-04",
+      "date": "2026-09-05",
       "authors": [],
       "doi": ""
     },
@@ -644,7 +646,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2019-004812-73/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-09-04",
+      "date": "2026-09-05",
       "authors": [],
       "doi": ""
     },
@@ -653,7 +655,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2022-002369-14/BE",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-09-04",
+      "date": "2026-09-05",
       "authors": [],
       "doi": ""
     },

@@ -1,6 +1,80 @@
 {
   "items": [
     {
+      "title": "Low Dose Ketamine Preconditions Astrocyte Mitochondria to Achieve Antidepressant Efficacy via Adenosine, Humanin, and Melatonin Upregulation and Efflux.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42694894/",
+      "source": "PubMed",
+      "date": "2026-08-24",
+      "authors": [
+        "Anderson George"
+      ],
+      "doi": "10.31083/AP54760",
+      "summary_en": "A literature review proposes that ketamine's antidepressant effects operate primarily through direct effects on astrocyte mitochondrial function rather than classical NMDAR antagonism. Low-dose ketamine may upregulate adenosine, humanin, and melatonin, optimizing mitochondrial function and downstream astrocyte activity. The mechanism may involve epigenetic priming of astrocytes by developmental stress, increasing their reactivity and mitochondrial dysfunction.",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "review",
+      "substances": [
+        "ketamine"
+      ],
+      "added_at": "2026-09-05T10:48:05.148635+00:00"
+    },
+    {
+      "title": "Hallucinogen Persisting Perception Disorder in a Young Adult Case Report.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42694657/",
+      "source": "PubMed",
+      "date": "2026-09-03",
+      "authors": [
+        "Notani Sonali",
+        "Srinivasa Vikas",
+        "Chaudhry Serena"
+      ],
+      "doi": "10.1155/crps/6605265",
+      "summary_en": "Hallucinogen Persisting Perception Disorder in a Young Adult Case Report.",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "case_report",
+      "substances": [
+        "lsd"
+      ],
+      "added_at": "2026-09-05T10:48:05.148635+00:00"
+    },
+    {
+      "title": "Network Pharmacology Reveals the Potential Mechanism of Ketamine in Improving Cognitive Impairment in Patients With Depression.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42694621/",
+      "source": "PubMed",
+      "date": "2026-08-06",
+      "authors": [
+        "Yang Lei",
+        "Zhang Qiuyu",
+        "Zhang Ying"
+      ],
+      "doi": "10.31083/AP56752",
+      "summary_en": "Network pharmacology study identified 20 ketamine target proteins involved in depression and cognitive impairment. Bioinformatics and molecular docking analyses revealed ketamine's mechanisms operate through inflammation, neural signaling, and neurodegeneration pathways, particularly dopaminergic signaling and amphetamine addiction pathways. Key targets include MAO-A and other core genes mediating antidepressant and cognitive-enhancing effects.",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "preclinical",
+      "substances": [
+        "ketamine"
+      ],
+      "added_at": "2026-09-05T10:48:05.148635+00:00"
+    },
+    {
+      "title": "Pα+ Library: Psychedelic REMS",
+      "url": "https://psychedelicalpha.com/news/p%ce%b1-library-psychedelic-rems/",
+      "source": "Psychedelic Alpha",
+      "date": "2026-09-03",
+      "authors": [],
+      "doi": "",
+      "summary_en": "As psychedelic therapies approach FDA approval, Risk Evaluation and Mitigation Strategies (REMS) are expected to shape their clinical delivery. REMS are regulatory safeguards that impose additional requirements on approved medications to ensure safe use in real-world settings.",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "other",
+      "substances": [
+        "psilocybin"
+      ],
+      "added_at": "2026-09-05T10:48:05.148635+00:00"
+    },
+    {
       "title": "Safety, pharmacokinetics, and pharmacodynamics of intravenously administered deuterated",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42689687/",
       "source": "PubMed",

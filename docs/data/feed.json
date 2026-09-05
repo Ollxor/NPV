@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-04T11:34:59.922194+00:00",
+  "generated_at": "2026-09-05T10:49:09.196136+00:00",
   "items": [
     {
       "title": "Blinding integrity in psychedelic research: Evidence from a comparative randomized controlled trial of psilocybin, MDMA, and methylphenidate in healthy volunteers",
@@ -94,6 +94,64 @@
         "other"
       ],
       "added_at": "2026-09-04T11:32:40.517675+00:00"
+    },
+    {
+      "title": "Hallucinogen Persisting Perception Disorder in a Young Adult Case Report.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42694657/",
+      "source": "PubMed",
+      "date": "2026-09-03",
+      "authors": [
+        "Notani Sonali",
+        "Srinivasa Vikas",
+        "Chaudhry Serena"
+      ],
+      "doi": "10.1155/crps/6605265",
+      "summaries": {
+        "en": "Hallucinogen Persisting Perception Disorder in a Young Adult Case Report.",
+        "sv": "Hallucinogen Persisting Perception Disorder in a Young Adult Case Report.",
+        "no": "Hallucinogen Persisting Perception Disorder in a Young Adult Case Report.",
+        "da": "Hallucinogen Persisting Perception Disorder in a Young Adult Case Report.",
+        "fi": "Hallucinogen Persisting Perception Disorder in a Young Adult Case Report.",
+        "is": "Hallucinogen Persisting Perception Disorder in a Young Adult Case Report.",
+        "et": "Hallucinogen Persisting Perception Disorder in a Young Adult Case Report.",
+        "lv": "Hallucinogen Persisting Perception Disorder in a Young Adult Case Report.",
+        "lt": "Hallucinogen Persisting Perception Disorder in a Young Adult Case Report."
+      },
+      "notable": false,
+      "notable_reasons": null,
+      "relevance_score": 3,
+      "study_type": "case_report",
+      "substances": [
+        "lsd"
+      ],
+      "added_at": "2026-09-05T10:48:05.148635+00:00"
+    },
+    {
+      "title": "Pα+ Library: Psychedelic REMS",
+      "url": "https://psychedelicalpha.com/news/p%ce%b1-library-psychedelic-rems/",
+      "source": "Psychedelic Alpha",
+      "date": "2026-09-03",
+      "authors": [],
+      "doi": "",
+      "summaries": {
+        "en": "As psychedelic therapies approach FDA approval, Risk Evaluation and Mitigation Strategies (REMS) are expected to shape their clinical delivery. REMS are regulatory safeguards that impose additional requirements on approved medications to ensure safe use in real-world settings.",
+        "sv": "I takt med att psykedelisk terapi närmar sig FDA-godkännande förväntas Risk Evaluation and Mitigation Strategies (REMS) forma deras kliniska leverans. REMS är regulatoriska skyddsåtgärder som ställer ytterligare krav på godkända läkemedel för att säkerställa säker användning.",
+        "no": "Ettersom psykedelisk terapi nærmer seg FDA-godkjenning, forventes Risk Evaluation and Mitigation Strategies (REMS) å forme deres kliniske levering. REMS er regulatoriske sikkerhetstiltak som pålegger godkjente legemidler ytterligere krav for å sikre trygg bruk.",
+        "da": "Efterhånden som psykedelisk terapi nærmer sig FDA-godkendelse, forventes Risk Evaluation and Mitigation Strategies (REMS) at forme deres kliniske levering. REMS er regulatoriske sikkerhedsforanstaltninger, der pålægger godkendte lægemidler yderligere krav for sikker anvendelse.",
+        "fi": "Psykedeelisen terapian lähestyessä FDA-hyväksyntää Risk Evaluation and Mitigation Strategies (REMS) -säännösten odotetaan muotoilevan niiden kliinistä toimittamista. REMS ovat sääntelyyn perustuvia turvatoimia, jotka asettavat hyväksytyille lääkkeille lisävaatimuksia turvallisen käytön varmistamiseksi.",
+        "is": "Þar sem sálfræðileg meðferð nálgast samþykki FDA, er gert ráð fyrir að Risk Evaluation and Mitigation Strategies (REMS) muni móta klíníska afhendingu þeirra. REMS eru eftirlitsöryggisaðgerðir sem setja viðbótarkröfur á samþykkta lyf til að tryggja örugga notkun.",
+        "et": "Psühhedeelsete teraapia lähenedes FDA heakskiidule, on oodata, et Risk Evaluation and Mitigation Strategies (REMS) kujundavad nende kliinilist kohaletoimetamist. REMS on regulatoorset järelevalvet tagavad meetmed, mis kehtestavad heakskiidetud ravimitele lisanõudeid ohutute kasutamise tagamiseks.",
+        "lv": "Tā kā psihedelisko terapiju pielaižas FDA apstiprināšana, tiek prognozēts, ka Risk Evaluation and Mitigation Strategies (REMS) veidosies to klīnisko piegādi. REMS ir regulējošie drošības pasākumi, kas uzliek apstiprināto zāļu papildu prasības, lai nodrošinātu drošu lietošanu.",
+        "lt": "Artėjant psichedelinei terapijai prie FDA patvirtinimo, tikimasi, kad Risk Evaluation and Mitigation Strategies (REMS) suformavo jų klinikinį pristatymą. REMS yra reguliavimo saugos priemonės, kurios skiria papildomus reikalavimus patvirtintoms vaistams, siekiant užtikrinti saugų naudojimą."
+      },
+      "notable": false,
+      "notable_reasons": null,
+      "relevance_score": 3,
+      "study_type": "other",
+      "substances": [
+        "psilocybin"
+      ],
+      "added_at": "2026-09-05T10:48:05.148635+00:00"
     },
     {
       "title": "Safety, pharmacokinetics, and pharmacodynamics of intravenously administered deuterated",
@@ -977,6 +1035,35 @@
         "psilocybin"
       ],
       "added_at": "2026-08-26T07:23:28.268748+00:00"
+    },
+    {
+      "title": "Low Dose Ketamine Preconditions Astrocyte Mitochondria to Achieve Antidepressant Efficacy via Adenosine, Humanin, and Melatonin Upregulation and Efflux.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42694894/",
+      "source": "PubMed",
+      "date": "2026-08-24",
+      "authors": [
+        "Anderson George"
+      ],
+      "doi": "10.31083/AP54760",
+      "summaries": {
+        "en": "A literature review proposes that ketamine's antidepressant effects operate primarily through direct effects on astrocyte mitochondrial function rather than classical NMDAR antagonism. Low-dose ketamine may upregulate adenosine, humanin, and melatonin, optimizing mitochondrial function and downstream astrocyte activity. The mechanism may involve epigenetic priming of astrocytes by developmental stress, increasing their reactivity and mitochondrial dysfunction.",
+        "sv": "En litteraturöversikt föreslår att ketamins antidepressiv effekt främst verkar genom direkta effekter på astrocytmitokondriernas funktion snarare än klassisk NMDAR-antagonism. Låg-dosketamin kan uppregulera adenosin, humanin och melatonin, vilket optimerar mitokondriefunktion och nedströmsamtida astrocytaktivitet. Mekanismen kan innebära epigenetisk priming av astrocyter genom utvecklingsstress.",
+        "no": "En litteraturgjennomgang foreslår at ketamins antidepressive effekt fungerer primært gjennom direkte effekter på astrocyttmitokondriefunksjonen snarere enn klassisk NMDAR-antagonisme. Lavdose ketamin kan oppregulere adenosin, humanin og melatonin, og optimalisere mitokondriefunksjonen og nedstrøms astrocyttaktivitet. Mekanismen kan involvere epigenetisk priming av astrocytter gjennom utviklingsstress.",
+        "da": "En litteraturgennemgang foreslår, at ketamins antidepressiv virkning primært fungerer gennem direkte effekter på astrocytmitokondriefunktionen snarere end klassisk NMDAR-antagonisme. Lav-dosis ketamin kan opregulere adenosin, humanin og melatonin, hvilket optimerer mitokondriefunktion og downstreamastrocytaktivitet. Mekanismen kan involvere epigenetisk priming af astrocytter gennem udviklingsstress.",
+        "fi": "Kirjallisuuskatsauksessa ehdotetaan, että ketamiinin masennuslääkkeelliset vaikutukset toimivat ensisijaisesti astrosyytti-mitokondrion toimintaan kohdistuvien suorien vaikutusten kautta klassisen NMDAR-antagonismin sijaan. Pieni annos ketamiinia voi lisätä adenosiinia, humaniinia ja melatoniinia, optimoiden mitokondrion toiminnan ja alemman astrosyytti-aktiivisuuden. Mekanismi voi sisältää astrosyyttien epigeneetistä kuntoutusta kehitysaikaisen stressin avulla.",
+        "is": "Bókafletting bendir til þess að andþunglyndisáhrif ketamíns starfi fyrst og fremst með beinum áhrifum á virkni astrocyta-sæta frekar en klassiskri NMDAR-andæðingu. Lágskammta ketamín gæti aukið adenósín, humanín og melatónín, sem fínstillir virknisæti og afdrifarstarfsemi astrocyta. Aðferðin gæti falið í sér erfðafræðilega undirbúning astrocyta með þreytu í þroska.",
+        "et": "Kirjandusülevaade omakskestab, et ketamiini antidepressiivsed efektid toimivad peamiselt astrotsüütmitokondriaalsele funktsioonile mõjuvate otseste efektide kaudu, mitte klassikalise NMDAR-antagonismi teel. Madal ketamiini doos võib tõsta adenosiini, humaniiini ja melatoniini taset, optimeerides mitokondriaalsete funktsioonid ja edaspidist astrotsüütide aktiivsust. Mehhanism võib hõlmata astrotsüütide epigenetilist ettevalmistamist arenguperioodil tekkinud stressi kaudu.",
+        "lv": "Literatūras pārskats ierosina, ka ketamīna antidepresīvā iedarbība darbojas galvenokārt caur tiešiem efektiem uz astrociītu mitohondriju funkciju, nevis klasiskās NMDAR-antagonisma ceļā. Zema ketamīna doza var palielināt adenozīna, humanīna un melatonīna līmeni, optimizējot mitohondriju funkciju un turpmāko astrociītu aktivitāti. Mehānisms var ietvert astrociītu epigenētisko priekšgatavošanu attīstības stresa ietekmē.",
+        "lt": "Literatūros peržvalga rodo, kad ketamino antidepresinis poveikis veikia per tiesioginius poveikius astrocitų mitochondrijų funkcijai, o ne per klasikinį NMDAR antagonizmą. Žema ketamino doza gali padidinti adenozino, humanino ir melatonino kiekį, optimizuojant mitochondrijų funkciją ir tolesnę astrocitų aktyvumą. Šis mechanizmas gali būti susijęs su astrocitų epigenetine priešgatave, kurią sukelia raidos metu patirtas stresas."
+      },
+      "notable": false,
+      "notable_reasons": null,
+      "relevance_score": 4,
+      "study_type": "review",
+      "substances": [
+        "ketamine"
+      ],
+      "added_at": "2026-09-05T10:48:05.148635+00:00"
     },
     {
       "title": "Adverse Effect-Related Language in Recreational Psychedelic and non-Psychedelic Substance Experience Reports.",
@@ -1875,99 +1962,6 @@
       "study_type": "rct",
       "substances": [
         "ketamine"
-      ],
-      "added_at": "2026-08-11T07:44:36.046881+00:00"
-    },
-    {
-      "title": "Discordant signals: How outcome measurement shapes interpretation of ketamine response in treatment-resistant depression.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42575191/",
-      "source": "PubMed",
-      "date": "2026-08-10",
-      "authors": [
-        "Vazquez Gustavo",
-        "Kang Melody J Y",
-        "Gutierrez Gilmar"
-      ],
-      "doi": "10.1016/j.jad.2026.122368",
-      "summaries": {
-        "en": "Secondary analysis of 71 treatment-resistant depression patients examined ketamine response using three rating scales (MADRS, BDI-II, CGI-S). Change scores showed variable correlations across instruments (ρ = 0.13–0.69). MADRS detected greater symptom reduction (54.2%) than BDI-II (41.9%), with larger effect sizes (d = 1.78 vs 1.34). Suicidality improved on both measures. Results demonstrate that outcome measurement choice significantly influences effect size estimates and perceived treatment response magnitude.",
-        "sv": "Sekundäranalys av 71 patienter med behandlingsresistent depression undersökte responsen på ketamin med tre bedömningsskalor (MADRS, BDI-II, CGI-S). Förändringsvärden visade variabel korrelation mellan instrumenten (ρ = 0,13–0,69). MADRS detekterade större symptomreduktion (54,2%) än BDI-II (41,9%) med större effektstorlekar (d = 1,78 vs 1,34). Suicidalitet förbättrades på båda måtten. Resultaten visar att valet av utfallsmål påverkar effektstorlekar och uppfattad behandlingsrespons betydligt.",
-        "no": "Sekundæranalyse av 71 pasienter med behandlingsresistent depresjon undersøkte ketaminrespons ved hjelp av tre vurderingsskalaer (MADRS, BDI-II, CGI-S). Endringsskårer viste variabel korrelasjon mellom instrumentene (ρ = 0,13–0,69). MADRS oppdaget større symptomreduksjon (54,2%) enn BDI-II (41,9%) med større effektstørrelser (d = 1,78 vs 1,34). Selvmordstanker forbedret seg på begge mål. Resultatene viser at valg av utfallsmål påvirker effektstørrelser og oppfattet behandlingsrespons betydelig.",
-        "da": "Sekundæranalyse af 71 patienter med behandlingsresistent depression undersøgte ketaminrespons ved hjælp af tre vurderingsskalaer (MADRS, BDI-II, CGI-S). Ændringsskåre viste variabel korrelation mellem instrumenterne (ρ = 0,13–0,69). MADRS detekterede større symptomreduktion (54,2%) end BDI-II (41,9%) med større effektstørrelser (d = 1,78 vs 1,34). Selvmordstanker blev forbedret på begge mål. Resultaterne viser, at valg af målemetode påvirker effektstørrelser og opfattet behandlingsrespons væsentligt.",
-        "fi": "Toissijaisanalyysi 71 hoitoresistentin masennuksen potilaan ketamiinivasteesta kolmen arviointiasteikon avulla (MADRS, BDI-II, CGI-S). Muutospisteiden korrelaatiot vaihtelivat mittareiden välillä (ρ = 0,13–0,69). MADRS havaitsi suuremman oireenvähennyksen (54,2%) kuin BDI-II (41,9%) suuremmilla efektikooilla (d = 1,78 vs 1,34). Itsemurhaisuus parani molemmilla mitoilla. Tulokset osoittavat, että tulosmittarin valinta vaikuttaa merkittävästi efektikokoon ja havaittuun hoitovasteiden suuruuteen.",
-        "is": "Aukahlutfræðileg greining á 71 sjúklingi með meðferðarþolna þunglyndi kannaði svörun við ketamíni með þremur matskvarðum (MADRS, BDI-II, CGI-S). Breytingarstig sýndu breytileg fylgni milli tækja (ρ = 0,13–0,69). MADRS greindi meiri einkennaminnkun (54,2%) en BDI-II (41,9%) með stærri áhrifastærðum (d = 1,78 vs 1,34). Sjálfsmorðahugir bárust betri á báðum mælingum. Niðurstöður sýna að val á útkomusmælingum hefur veruleg áhrif á áhrifastærðir og skynjaða meðferðarsvörun.",
-        "et": "Sekundaarne analüüs 71 ravist-resistentse depressiooni patsiendil uuris ketamiini vastust kolme hindamisskaalaga (MADRS, BDI-II, CGI-S). Muutuste skoorid näitasid muutuvat korrelatsiooni vahendite vahel (ρ = 0,13–0,69). MADRS tuvastab suurema sümptomite vähenemise (54,2%) kui BDI-II (41,9%) suurema efekti suurusega (d = 1,78 vs 1,34). Enesetapulised mõtted paranesid mõlemal meetmel. Tulemused näitavad, et tulemuste mõõtmise valik mõjutab märkimisväärselt efekti suurust ja tajutavat ravi vastust.",
-        "lv": "Sekundārā analīze 71 pacientiem ar ārstēšanai rezistentām depresiju pārbaudīja ketamīna iedarbību, izmantojot trīs novērtēšanas skalas (MADRS, BDI-II, CGI-S). Izmaiņu rādītāji parādīja mainīgu korelāciju starp instrumentiem (ρ = 0,13–0,69). MADRS konstatēja lielāku simeņu samazināšanos (54,2%) nekā BDI-II (41,9%) ar lielāku efekta lielumu (d = 1,78 vs 1,34). Pašnāvniecības jūtas uzlabojās abos mēros. Rezultāti parāda, ka iznākuma mērīšanas izvēle būtiski ietekmē efekta lielumu un uztvertās ārstēšanas iedarbību.",
-        "lt": "Antrinė 71 gydymui atsparios depresijos pacientų analizė ištyrė ketamino atsako efektyvumą naudojant tris vertinimo svarstykles (MADRS, BDI-II, CGI-S). Pokyčių balai parodė kintamą koreliaciją tarp priemonių (ρ = 0,13–0,69). MADRS nustatė didesnį simptomų sumažėjimą (54,2%) nei BDI-II (41,9%) su didesniais efekto dydžiais (d = 1,78 vs 1,34). Savižudybės idėjos pagerėjo abiais matais. Rezultatai rodo, kad rezultato matavimo pasirinkimas reikšmingai veikia efekto dydžius ir suvokiamą gydymo atsako dydį."
-      },
-      "notable": false,
-      "notable_reasons": null,
-      "relevance_score": 4,
-      "study_type": "observational",
-      "substances": [
-        "ketamine"
-      ],
-      "added_at": "2026-08-11T07:44:36.046881+00:00"
-    },
-    {
-      "title": "Psychedelics in psychiatry: from promise to translation.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42572968/",
-      "source": "PubMed",
-      "date": "2026-08-10",
-      "authors": [
-        "Zhang Yi",
-        "Zheng Yongbo B",
-        "Jin Meng"
-      ],
-      "doi": "10.1192/bjp.2026.10749",
-      "summaries": {
-        "en": "A review examining psychedelics' therapeutic potential in psychiatry finds that clinical translation remains premature. The authors argue that progress requires simultaneous advances in mechanistic research, clinical implementation, regulatory frameworks, and public discourse.",
-        "sv": "En översikt av psykedelikas terapeutiska potential inom psykiatrin visar att klinisk tillämpning ännu är för tidig. Författarna hävdar att framsteg kräver samtidiga utvecklingar inom mekanistisk forskning, klinisk implementering, reglerande ramverk och samhällsdebatt.",
-        "no": "En gjennomgang av psykedelikas terapeutiske potensial innen psykiatri viser at klinisk oversetting fortsatt er prematur. Forfatterne argumenterer for at fremgang krever samtidige fremskritt innen mekanistisk forskning, klinisk implementering, regulatoriske rammer og offentlig diskurs.",
-        "da": "En oversigt over psykedelikas terapeutiske potentiale inden for psykiatri viser, at klinisk translation stadig er præmatur. Forfatterne argumenterer for, at fremskridt kræver samtidige udvikling inden for mekanistisk forskning, klinisk implementering, regulatoriske rammer og offentlig diskurs.",
-        "fi": "Psykedeliikan terapeuttista potentiaalia psykiatriassa käsittelevä katsaus osoittaa, että kliininen soveltaminen on vielä ennenaikaista. Kirjoittajat väittävät, että edistys vaatii samanaikaisia kehitysaskeleita mekanistisessa tutkimuksessa, kliinisessä toteutuksessa, sääntelykehikossa ja julkisessa keskustelussa.",
-        "is": "Yfirlitskoð á þerapeitisegu möguleikum hállucinógena innan geðheilabrigðis sýnir að klínísk þýðing er of snemmbær. Höfundar halda því fram að framvindu krefst samtímis framfara í tilraunafræðilegri rannsókn, klínískri innleiðingu, eftirlitsramma og opinberri umræðu.",
-        "et": "Psühhedeeliliste ainete teraapiapotentsiaali psühhiaatriat käsitlev ülevaade näitab, et kliiniline rakendamine on veel ennatlik. Autorid väidavad, et edenemine nõuab paralleelseid edusamme mehhanistilises uurimises, kliinilises rakendamises, regulatiivses raamistikus ja avalikus arutelus.",
-        "lv": "Psihedēlisko vielu terapeitiskā potenciāla psihiatrijas jomā apskats parāda, ka klīnisks pielietojums joprojām ir priekšlaicīgs. Autori apgalvo, ka progresa sasniegšanai nepieciešami vienlaikus attīstības pasākumi mehānisma izpētē, klīniskā ieviešanā, normatīvajā regulējumā un sabiedrības diskursā.",
-        "lt": "Apžvalga apie psichedelinių medžiagų terapinį potencialą psichiatrijoje rodo, kad klininė translucija yra dar per anksti. Autoriai tvirtina, kad pažanga reikalauja lygiagrečių darbų mechanistiniame tyrime, klininiame diegime, reguliacinėje sistemoje ir viešoje diskusijoje."
-      },
-      "notable": false,
-      "notable_reasons": null,
-      "relevance_score": 4,
-      "study_type": "review",
-      "substances": [
-        "other"
-      ],
-      "added_at": "2026-08-11T07:44:36.046881+00:00"
-    },
-    {
-      "title": "'So many relationships in the room': Participant perspectives on the affordances and challenges of co-therapy in psychedelic assisted therapy.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42572818/",
-      "source": "PubMed",
-      "date": "2026-08-10",
-      "authors": [
-        "Ham Rachel",
-        "Gardner John",
-        "Carter Adrian"
-      ],
-      "doi": "10.1111/papt.70098",
-      "summaries": {
-        "en": "Qualitative study of 18 participants from a phase 2 randomized trial examining experiences of co-therapy (two therapists) in psilocybin-assisted therapy for generalized anxiety disorder. Semi-structured interviews (n=29) before and after dosing sessions revealed three themes: co-therapy provided safety and trust; influenced therapeutic processes; and shaped credibility of insights. Co-therapy functioned as both a safety measure and therapeutic enhancer, though accessibility considerations remain.",
-        "sv": "Kvalitativ studie av 18 deltagare från en fas 2-randomiserad studie som undersökte erfarenheter av dubbelterapeutmodellen (två terapeuter) i psilocybin-assisterad terapi för generaliserad ångestsjukdom. Semi-strukturerade intervjuer (n=29) före och efter dosering avslöjade tre teman: dubbelterapeutin gav säkerhet och tillit; påverkade terapeutiska processer; och formade trovärdigheten av insikter. Modellen fungerade både som säkerhetsmått och terapeutisk förstärkare.",
-        "no": "Kvalitativ studie av 18 deltakere fra en fase 2-randomisert studie som undersøkte erfaringer med co-terapi (to terapeuter) i psilocybin-assistert terapi for generalisert angstlidelse. Semi-strukturerte intervjuer (n=29) før og etter dosering avslørte tre tema: co-terapi ga sikkerhet og tillit; påvirket terapeutiske prosesser; og formet troverdigheten av innsikter. Co-terapi fungerte både som sikkerhetstiltak og terapeutisk forsterker.",
-        "da": "Kvalitativ undersøgelse af 18 deltagere fra en fase 2-randomiseret studie, der undersøgte erfaringer med co-terapi (to terapeuter) i psilocybin-assisteret terapi for generaliseret angstlidelse. Semi-strukturerede interviews (n=29) før og efter dosering afslørede tre temaer: co-terapi gav sikkerhed og tillid; påvirkede terapeutiske processer; og formede troværdighed af indsigter. Co-terapi fungerede både som sikkerhedsmål og terapeutisk forstærker.",
-        "fi": "Kvalitatiivinen tutkimus 18 osallistujalta vaihe 2 -satunnaistetusta tutkimuksesta, jossa tutkittiin rinnakkaisista terapeuteista (kaksi terapeuttia) saatuja kokemuksia psilosybiini-avusteisessa terapiassa yleistynyttä ahdistuneisuushäiriötä vastaan. Puolistrukturoidut haastattelut (n=29) ennen ja jälkeen annoksenantoa paljastivat kolme teemaa: rinnakkaisesta terapiasta saatiin turvallisuus ja luottamus; se vaikutti terapeuttisiin prosesseihin; ja muokkasi oivallusten uskottavuutta. Rinnakkaisterapia toimi sekä turvatoimena että terapeuttisena vahvistajana.",
-        "is": "Eigindlegur rannsóknir á 16 þátttakendum úr 2. stigs handahófskenndri rannsókn sem könnuðu reynslu af samstarfsmeðferðum (tveir meðferðarmenn) í psílosýbín-aðstoðuðri meðferð fyrir almenna kvíða. Hálfbyggð viðtöl (n=29) fyrir og eftir skammtöku leiddu í ljós þrjú þemu: samstarfsmeðferðir veitti öryggi og traust; hefðu áhrif á meðferðarferli; og mótaði trúverðugleika innsæis. Samstarfsmeðferðir virkuðu sem bæði öryggisaðgerð og meðferðarstyrking.",
-        "et": "Kvalitatiivne uurimus 18 osalejast 2. faasi randomiseeritud uuringust, kus uuriti koteraapia (kaks terapeuti) kogemusi psülosübiini-abistatud teraapia puhul üldistatud ärevushäire vastu. Poolstruktureeritud intervjuud (n=29) enne ja pärast dooseerimist paljastasid kolm teemat: koteraapia andis turvalisust ja usaldust; mõjutas terapeutilisi protsesse; ja kujundas teadmiste usaldatavust. Koteraapia toimus nii ohutusabinõu kui ka terapeutilise võimendi rollis.",
-        "lv": "Kvalitatīvs pētījums ar 18 dalībniekiem no 2. fāzes randomizēta pētījuma, kurā tika pētītas pieredzes ar kopterāpiju (divi terapeiti) psilotsibīna-palīdzinātā terapijā vispārēja trauksmes traucējuma gadījumā. Pusstukturētas intervijas (n=29) pirms un pēc dozēšanas atklāja trīs tēmas: kopterāpija nodrošināja drošību un uzticību; ietekmēja terapeitiskos procesus; un ietekmēja ieskatu ticamību. Kopterāpija darbojas gan kā drošības pasākums, gan terapeitisks pastiprinātājs.",
-        "lt": "Kokybinis tyrimas su 18 dalyviais iš 2 fazės randomizuoto tyrimo, kuriame buvo tiriamos patirtys bendradarbiavus su psichėdelinėmis medžiagomis (du terapeutai) psilocibino-pagalboje terapijoje, skirtos bendrai nerimo sutrikiui. Pusiau struktūruoti interviu (n=29) prieš ir po dozavimo atskleido tris temas: bendradarbiavimas suteikė saugumą ir pasitikėjimą; turėjo įtakos terapijoje naudojamiems procesams; ir formavo įžvalgų kredibilumą. Bendradarbiavimas veikė ir kaip saugumo priemonė, ir kaip terapinis stiprintuvas."
-      },
-      "notable": false,
-      "notable_reasons": null,
-      "relevance_score": 4,
-      "study_type": "qualitative",
-      "substances": [
-        "psilocybin"
       ],
       "added_at": "2026-08-11T07:44:36.046881+00:00"
     }

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-05T10:49:09.196136+00:00",
+  "generated_at": "2026-09-06T11:10:39.843974+00:00",
   "items": [
     {
       "title": "Blinding integrity in psychedelic research: Evidence from a comparative randomized controlled trial of psilocybin, MDMA, and methylphenidate in healthy volunteers",
@@ -32,6 +32,36 @@
         "mdma"
       ],
       "added_at": "2026-07-09T10:03:12.956794+00:00"
+    },
+    {
+      "title": "Psilocybin as an emerging anxiolytic: mechanisms, evidence, and open questions.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42701111/",
+      "source": "PubMed",
+      "date": "2026-09-06",
+      "authors": [
+        "Konstantinou Gerasimos N",
+        "Kloiber Stefan"
+      ],
+      "doi": "10.1038/s41386-026-02551-7",
+      "summaries": {
+        "en": "Review examining psilocybin's potential as an anxiolytic agent. The article explores the underlying mechanisms of action, synthesizes current evidence from clinical and preclinical studies, and identifies key gaps in our understanding. Psilocybin shows promise in anxiety treatment, though questions remain regarding optimal dosing, long-term effects, and mechanisms of anxiolytic action.",
+        "sv": "Översikt av psilocybins potential som ängstsänkande medel. Artikeln granskar verkningsmekanism, sammanfattar befintliga kliniska och prekliniska studier, och identifierar kunskapsluckor. Psilocybin visar lovande resultat för ängstsymtom, men viktiga frågor återstår om optimal dosering, långtidseffekter och verkningsmekanismer.",
+        "no": "Oversikt av psilocybins potensial som angstdempende stoff. Artikkelen undersøker virkningsmekanismer, oppsummerer eksisterende kliniske og prekliniske studier, og identifiserer kunnskapshull. Psilocybin viser lovende resultater for angstlidelser, men spørsmål gjenstår om optimal dosering, langtidseffekter og virkningsmekanismer.",
+        "da": "Oversigt over psilocybins potentiale som angstdæmpende middel. Artiklen udforsker virkningsmekanismer, opsummerer nuværende kliniske og prækliniske studier og identificerer vidensgab. Psilocybin viser lovende resultater for angstforstyrrelser, men spørgsmål forbliver om optimal dosering, langsigtede effekter og virkningsmekanismer.",
+        "fi": "Katsaus psilosybiinin potentiaalista ahdistusta lievittävänä aineena. Artikkeli tarkastelee vaikutusmekanismeja, yhteenveto nykyisistä kliinisistä ja prekliinisistä tutkimuksista sekä tunnistaa tietoaukot. Psilosybiini osoittaa lupaavia tuloksia ahdistuneisuushäiriöissä, mutta optimaalisesta annostuksesta, pitkäaikaisvaikutuksista ja vaikutusmekanismeista jää avoimia kysymyksiä.",
+        "is": "Yfirlit um möguleika psilósýbíns sem kvíðadrífandi efnis. Greinin kannar verkunarkerfi, tekur saman núverandi klínísk og forklinís rannsóknir og greinir þekkingarhlé. Psilósýbín sýnir loforðandi árangur við kvíðaraskanir, en spurningar standa yfir um bestu skammta, langtímaáhrif og verkunarkerfi.",
+        "et": "Ülevaade psilotsibiini potentsiaalist ärevuse leevendajana. Artikkel uurib toimemehhanisme, kokkuvõtted olemasolevatest kliiniliste ja prekliiniliste uuringute ning tuvastab teadmistevahed. Psilotsibiini näitab lubavaid tulemusi ärevushäirete puhul, kuid avatud on küsimused optimaalse annustamise, pikaajalistel mõjude ja toimemehhanismide kohta.",
+        "lv": "Pārskats par psilocībina potenciālu kā trauksmes mazinošam vielas. Raksts pēta darbības mehānismus, apkopo pašreizējos klīniskos un preklīniskos pētījumus un identificē zināšanu nepilnības. Psilocībins rāda solīgus rezultātus trauksmes traucējumos, taču paliek atklāti jautājumi par optimālo devu, ilgtermiņa efektiem un darbības mehānismiem.",
+        "lt": "Apžvalga apie psilocibino potencialą kaip nerimo slopinančios medžiagos. Straipsnis nagrinėja veikimo mechanizmus, apibendrina esamus klinikinių ir preklinkinių tyrimų rezultatus ir identifikuoja žinių spragas. Psilocibinas rodo žadančius rezultatus nerimo sutrikimuose, tačiau išlieka atidaryti klausimai dėl optimalios dozes, ilgalaikių efektų ir veikimo mechanizmų."
+      },
+      "notable": false,
+      "notable_reasons": null,
+      "relevance_score": 4,
+      "study_type": "review",
+      "substances": [
+        "psilocybin"
+      ],
+      "added_at": "2026-09-06T11:10:06.581018+00:00"
     },
     {
       "title": "Healing together: Results from a pilot trial of 3,4-Methylenedioxymethamphetamine-enhanced cognitive-behavioral conjoint therapy for posttraumatic stress disorder.",
@@ -1102,6 +1132,37 @@
       "added_at": "2026-08-23T07:09:45.539258+00:00"
     },
     {
+      "title": "Appetite measures during ketamine administration in treatment-resistant mood disorders: a naturalistic study.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42698604/",
+      "source": "PubMed",
+      "date": "2026-08-21",
+      "authors": [
+        "Mechlińska Agnieszka",
+        "Wiglusz Mariusz",
+        "Słupski Jakub"
+      ],
+      "doi": "10.3389/fnut.2026.1858899",
+      "summaries": {
+        "en": "Naturalistic study examining appetite changes during repeated ketamine treatment in hospitalized adults with treatment-resistant depression and bipolar disorder. Using Visual Analog Scales and nutritional questionnaires at baseline and up to 7 days post-administration, researchers found no significant appetite alterations across diagnostic groups or BMI categories, with no increased undernutrition risk. Results support ketamine's favorable metabolic safety profile in treatment-resistant mood disorders.",
+        "sv": "Naturalistisk studie som undersökte appetitförändringar under upprepad ketaminbehandling hos inlagda patienter med behandlingsresistent depression och bipolär sjukdom. Med visuella analogskalor och nutritionsenkäter vid baseline och upp till 7 dagar efter administrering fann forskare inga signifikanta appetitförändringar över diagnostiska grupper eller BMI-kategorier, utan ökad undernäringsrisk. Resultaten stödjer ketamins gynnsamma metabola säkerhetsprofil.",
+        "no": "Naturalistisk studie som undersøkte appetitendringer under gjentatt ketaminkur hos innlagte pasienter med behandlingsresistent depresjon og bipolar lidelse. Ved hjelp av visuelle analogskalaer og ernæringsundersøkelser ved baseline og opp til 7 dager etter administrering fant forskere ingen signifikante appetitendringer på tvers av diagnostiske grupper eller BMI-kategorier, uten økt underernæringsrisiko. Resultatene støtter ketamins gunstige metabolske sikkerhetsprofil.",
+        "da": "Naturalistisk studie, der man undersøgte appetitændringer under gentagen ketaminbehandling hos indlagte patienter med behandlingsresistent depression og bipolar lidelse. Ved hjælp af visuelle analogskalaer og ernæringsbaserede spørgeskemaer ved baseline og op til 7 dage efter administration fandt forskerne ingen signifikante appetitændringer på tværs af diagnostiske grupper eller BMI-kategorier, uden øget underernæringsrisiko. Resultaterne understøtter ketamins gunstige metabolske sikkerhedsprofil.",
+        "fi": "Luonnollinen tutkimus, joka tutki ruokahalun muutoksia toistuvien ketamiinihoitojen aikana sairaalahoitoisilla potilailla, joilla oli hoitoresistentti depressio ja kaksisuuntainen mielialahäiriö. Visuaalisten analogiasteikkojen ja ravitsemuksellisten kyselyjen avulla baseline-mittauksissa ja jopa 7 päivää administroinnin jälkeen tutkijat havaitsivat merkittäviä ruokahalun muutoksia diagnostisten ryhmien ja BMI-luokkien välillä ilman lisääntynyttä aliravitsemuksen riskiä. Tulokset tukevat ketamiinin hyvää metabolista turvallisuusprofiilia.",
+        "is": "Náttúruleg rannsókn sem skoðaði breytingar á matarlyst meðan á endurteknum ketamínmeðferðum stóð hjá innlagðum sjúklingum með meðferðarþolni þunglyndi og tvíhnattu truflunum. Með því að nota sjónrænar hliðstæðakvarða og næringu spurningalista við grunnlínu og allt að 7 dögum eftir skammtinn fundu rannsakendur engar verulegar breytingar á matarlyst yfir greiningarhópa og líkamsþyngdarvísitölu flokka, án aukinnar vannæringar áhættu. Niðurstöður styðja hagstæða efnaskiptaöryggissnið ketamíns.",
+        "et": "Loomulik uuringust, mis uuris isu muutusi korduvate ketamiinravide ajal hospitaliseeritud patsientidel, kellel oli ravile vastupidav depressioon ja kahepoolne häire. Visuaalsete analoogskaala ja toitumise küsimustike abil algmõõtmises ja kuni 7 päeva pärast manustamist ei leidnud teadlased märkimisväärseid isumuutusi diagnostiliste gruppide ja kehakaalunäitaja kategooriate vahel ning ohututa alanärimise riskita. Tulemused toetavad ketamiini soodsat metaboliitset ohutuseprofiili.",
+        "lv": "Naturāla pētījuma par apetītes izmaiņām atkārtotās ketamīna ārstēšanas laikā hospitalizētiem pacientiem ar ārstēšanai rezistentu depresiju un bipolāru traucējumu. Izmantojot vizuālās analogas skalas un uztūres jautājumus pamatmērījumos un līdz 7 dienām pēc ievadīšanas, pētnieki neatrada nozīmīgas apetītes izmaiņas diagnostikas grupu un ķermeņa masas indeksa kategoriju starpā, bez paaugstināta nepietiekama uztūres risku. Rezultāti atbalsta ketamīna labvēlīgo metabolisko drošības profilu.",
+        "lt": "Natūralus tyrimas, skirtas pokyčiams apetitui tirti kartotinai ketamino terapijai gydant hospitalizuotus pacientus su atlaidu depresija ir bipoliniu sutrikimu. Naudojant vizualines analogines skales ir mitybos klausimynus bazeline ir iki 7 dienu po vartojimo, tyrėjai nenustate reikšmingu apetito pokyčiu diagnostiniu grupiu ir kūno masės indekso kategoriju, be padidėjusio nepakankamos mitybos rizikos. Rezultatai paremia ketamino palankią metabolinę saugumo profilį."
+      },
+      "notable": false,
+      "notable_reasons": null,
+      "relevance_score": 3,
+      "study_type": "observational",
+      "substances": [
+        "ketamine"
+      ],
+      "added_at": "2026-09-06T11:10:06.581018+00:00"
+    },
+    {
       "title": "The trials of translating psilocybin treatment from research to practice.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42629464/",
       "source": "PubMed",
@@ -1889,81 +1950,6 @@
         "psilocybin"
       ],
       "added_at": "2026-08-12T07:58:17.936680+00:00"
-    },
-    {
-      "title": "Sex-sensitive serotonergic signaling in psychedelic pharmacology.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42575820/",
-      "source": "PubMed",
-      "date": "2026-08-10",
-      "authors": [
-        "Nasini Sofia",
-        "Barzon Benedetta",
-        "Casile Antonino"
-      ],
-      "doi": "10.1016/j.tips.2026.07.006",
-      "summaries": {
-        "en": "Classic serotonergic psychedelics primarily act via 5-HT2A receptor agonism, yet show heterogeneous therapeutic effects. This review synthesizes evidence that biological sex and endocrine state modulate key serotonergic mechanisms—including 5-HT1A feedback, 5-HT2A signaling, and neuroplasticity—relevant to psychedelic action. Most clinical and preclinical studies lack sex-by-treatment designs. The authors prioritize sex-informed translational research to better understand variability in psychedelic responses.",
-        "sv": "Klassiska serotonerga psykedelika verkar primärt genom 5-HT2A-receptoragonism, men visar heterogena terapeutiska effekter. Denna översikt sammanfattar evidens för att biologiskt kön och endokrint tillstånd modulerar viktiga serotonerga mekanismer—inklusive 5-HT1A-återkoppling, 5-HT2A-signalering och neuroplasticitet—relevanta för psykedelikaverkan. De flesta kliniska och prekliniska studier saknar sexspecifika behandlingsdesigner. Författarna prioriterar köninformerad translationell forskning.",
-        "no": "Klassiske serotonerge psykedelika virker primært gjennom 5-HT2A-reseptoagonisme, men viser heterogene terapeutiske effekter. Denne oversikten syntetiserer evidens for at biologisk kjønn og endokrint tilstand modulerer sentrale serotonerge mekanismer—inkludert 5-HT1A-tilbakekobling, 5-HT2A-signalering og neuroplastisitet—relevant for psykedelikavirkning. De fleste kliniske og prekliniske studier mangler kjønnsbaserte behandlingsdesign. Forfatterne prioriterer kjønnsinformert translasjonsforskning.",
-        "da": "Klassiske serotonerge psykedelika virker primært via 5-HT2A-receptoragonisme, men viser heterogene terapeutiske effekter. Denne oversigt syntetiserer evidens for, at biologisk køn og endokrint tilstand modulerer vigtige serotonerge mekanismer—herunder 5-HT1A-feedback, 5-HT2A-signalering og neuroplasticitet—relevant for psykedelikavirkning. De fleste kliniske og præ-kliniske studier mangler kønsbaserede behandlingsdesign. Forfatterne prioriterer køninformeret translationel forskning.",
-        "fi": "Klassiset serotonergiset psykedeliikka vaikuttavat ensisijaisesti 5-HT2A-reseptorien agonismin kautta, mutta osoittavat heterogeenisiä terapeuttisia vaikutuksia. Tämä katsaus syntetisoi näyttöä siitä, että biologinen sukupuoli ja endokriininen tila säätelevät keskeisiä serotonergiikan mekanismeja—mukaan lukien 5-HT1A-palaute, 5-HT2A-signalointi ja neuroplastisuus—psykedeliikan vaikutuksille. Useimmissa kliinisissa ja prekliinisissä tutkimuksissa puuttuu sukupuolikohtainen hoitosuunnittelu. Kirjoittajat asettavat etusijalle sukupuolivetoisen translaatiohoidon tutkimuksen.",
-        "is": "Klassísk serótónin-miðuð geislaspor verka fyrst og fremst með 5-HT2A-viðtakakvörnum, en sýna fjölbreytilega meðferðaráhrif. Þessi yfirlit safnar saman sönnunargögnum um að líffræðilegt kyn og innkirtlavöxtur stýra lykilverkum serótóninkerfa—þar á meðal 5-HT1A-endurkopplun, 5-HT2A-boðflutningi og taugasveigjuleika—sem skipta máli fyrir geislaspor. Flest klínísk og fyrir-klínísk rannsóknir skortir kynja-miðaða meðferðarhönnun. Höfundar taka fram rannsóknir með kynjaveitu.",
-        "et": "Klassikalised serotonergilised psühhedeelikad toimivad peamiselt 5-HT2A retseptori agonismi kaudu, kuid näitavad heterogeenseid teraapiamõjusid. See ülevaade koondab tõendeid selle kohta, et bioloogiline sugu ja endokriinne seisund moduleerivad peamisi serotonergilise mehhanismi—sealhulgas 5-HT1A tagasiside, 5-HT2A signaliseerimise ja neuropaindlikkuse—psühhedeelikute toimele. Enamikus kliinilistest ja prekliinilistest uuringutest puudub sooliselt eristatud ravikavand. Autorid prioritiseerivad soopõhist translatsiooniforsking.",
-        "lv": "Klasiskā serotoninergā psihodelika darbojas galvenokārt, aktivizējot 5-HT2A receptorus, tomēr parāda neviendabīgus terapeitiskos efektus. Šis pārskats apkopo pierādījumus, ka biologiskais dzimums un endokrīnais stāvoklis modulē svarīgus serotoninergos mehānismus—tostarp 5-HT1A atgriezenisko saiti, 5-HT2A signāļu pārradi un neiropastiprinājumu—kas ir svarīgi psihodeliku darbībai. Lielākajai daļai klīnisko un preklinisko pētījumu trūkst dzimuma diferencētas ārstēšanas protokola. Autori prioritizē dzimumam sensitīvu translācijas pētniecību.",
-        "lt": "Klasikiniai serotoninergiai psichodelikiai veikia per 5-HT2A receptorių agonizmą, tačiau pasireiškia nevienalytiškai terapiniais efektais. Šis apžvalga apibendrina įrodymą, kad biologinis lytis ir endokrininė būsena moduliuoja pagrindinius serotoniniu mechanizmus—tarp jų 5-HT1A grįžtamąjį ryšį, 5-HT2A signalizavimą ir neuroplastičumą—svarbius psichedeliko veikimui. Daugumoje klinikiniu ir preklinikiniu tyrimų trūksta lyties diferencijuoto gydymo modelio. Autoriai prioritizuoja lyčiai jautrią transliacijinę tyrimą."
-      },
-      "notable": false,
-      "notable_reasons": null,
-      "relevance_score": 4,
-      "study_type": "review",
-      "substances": [
-        "psilocybin",
-        "lsd",
-        "mescaline",
-        "other"
-      ],
-      "added_at": "2026-08-11T07:44:36.046881+00:00"
-    },
-    {
-      "title": "Intravenous Ketamine reduces psychological pain in suicidal inpatients: A secondary analysis of a six-week randomized placebo-controlled trial.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42575195/",
-      "source": "PubMed",
-      "date": "2026-08-10",
-      "authors": [
-        "Baryshnikov Ilya",
-        "Demattei Christophe",
-        "Abbar Mocrane"
-      ],
-      "doi": "10.1016/j.jad.2026.122366",
-      "summaries": {
-        "en": "Secondary analysis of the KETIS trial (n=156 suicidal inpatients) examined intravenous ketamine's effect on psychological pain. Two 40-min infusions (0.5 mg/kg) or placebo, 24h apart, were given alongside standard care. Psychological pain decreased significantly more with ketamine within 96h (p<0.001), with largest effects at 40min-24h, but differences disappeared by week 2-6. Effects remained after adjusting for depression and hopelessness.",
-        "sv": "Sekundäranalys av KETIS-studien (n=156 suicida patienter på inläggning) undersökte ketamins effekt på psykologisk smärta. Två 40-minuters intravenösa infusioner (0,5 mg/kg) eller placebo, 24h isär, gavs tillsammans med standardvård. Psykologisk smärta minskade betydligt mer med ketamin inom 96h (p<0,001), med största effekter vid 40min-24h, men skillnaderna försvann vid vecka 2-6. Effekterna kvarstod efter justering för depression och hopplöshet.",
-        "no": "Sekundæranalyse av KETIS-studien (n=156 innlagte pasienter med selvmordstanker) undersøkte ketamins effekt på psykologisk smerte. To 40-minutters intravenøse infusjoner (0,5 mg/kg) eller placebo, 24t fra hverandre, ble gitt sammen med standardbehandling. Psykologisk smerte avtok betydelig mer med ketamin innen 96 timer (p<0,001), med største effekter ved 40min-24t, men forskjellene forsvant ved uke 2-6. Effektene ble værende etter justering for depresjon og håpløshet.",
-        "da": "Sekundæranalyse af KETIS-studien (n=156 indlagte patienter med selvmordstanker) undersøgte ketamins effekt på psykologisk smerte. To 40-minutters intravenøse infusioner (0,5 mg/kg) eller placebo, 24t fra hinanden, blev givet sammen med standardbehandling. Psykologisk smerte blev betydeligt mere reduceret med ketamin inden for 96 timer (p<0,001), med største effekter ved 40min-24t, men forskelle forsvandt ved uge 2-6. Effekterne bestod efter justering for depression og håbløshed.",
-        "fi": "KETIS-tutkimuksen sekundaarianalyysi (n=156 itsemurhaa harkitsevaa sairaalan potilasta) tutki ketamiinin vaikutusta psykologiseen kipuun. Kaksi 40 minuutin suonensisäistä infuusiota (0,5 mg/kg) tai lumelääke, 24h välein, annettiin standardihoidon ohella. Psykologinen kipu väheni merkittävästi enemmän ketamiinin kanssa 96 tunnin sisällä (p<0,001), suurimmat vaikutukset 40min-24h kohdalla, mutta erot katosivat viikkojen 2-6 aikana. Vaikutukset säilyivät depressio- ja toivottomuusarvioiden jälkeen.",
-        "is": "Aukaanalýsi KETIS-rannsóknarinnar (n=156 innlögð sjúklingar með sjálfsmorðshugsun) skoðaði áhrif ketamíns á sálræna verkina. Tvær 40 mínútna innrásarvognkerfi (0,5 mg/kg) eða placebó, 24 klst. á milli, voru gefin með venjulegri meðferð. Sálræn verkur minnkaði verulega meira með ketamíni innan 96 klukkustunda (p<0,001), með stærstu áhrifum við 40mín-24klst., en munur hvarf fyrir vikum 2-6. Áhrifin héldu eftir leiðréttingu fyrir þunglyndi og vonleysi.",
-        "et": "KETIS-uuringu sekundaaranalüüs (n=156 enesetappe kaaluva haiglaravi patsiendi) uuris ketamiini mõju psühholoogilisele valule. Kaks 40-minutilist intravenoosset infusiooni (0,5 mg/kg) või platseebo, 24h vahemaa, anti tavapärase ravi kõrvalt. Psühholoogiline valu vähenes märkimisväärselt rohkem ketamiini korral 96 tunni jooksul (p<0,001), suurimad efektid 40min-24h juures, kuid erinevused kadusid nädalate 2-6 jooksul. Efektid säilisid depressiooni ja lootusetus korrigeerimise järel.",
-        "lv": "KETIS pētījuma sekundārā analīze (n=156 stacionārie pacienti ar pašnāvnieciskiem domu) pārbaudīja ketamīna ietekmi uz psiholoģisko sāpes. Divas 40 minūšu intravenozas infūzijas (0,5 mg/kg) vai placebo, 24h intervālos, tika dotas līdzās standarta ārstēšanai. Psiholoģiskā sāpe samazinājās būtiski vairāk ar ketamīnu 96 stundu laikā (p<0,001), ar lielākajiem efektiem 40min-24h, bet atšķirības izzuda nedēļas 2-6. Efekti saglabājās pēc depresijas un bezjēdzības koriģēšanas.",
-        "lt": "KETIS tyrimo antrinė analizė (n=156 savižudybės rizikoje esantys stacionariniai pacientai) nagrinėjo ketamino poveikį psichologiniam skausmui. Dvi 40 minučių intravenines infuzijos (0,5 mg/kg) arba placebo, 24v. intervalu, duotos kartu su standartine gydymo. Psichologinis skausmas sumažėjo žymiai labiau su ketaminu per 96 valandas (p<0,001), didžiausi efektai 40min-24v., bet skirtumai išnyko 2-6 savaitėmis. Efektai išliko po depresijos ir beviltiškumo pakoregavimo."
-      },
-      "notable": true,
-      "notable_reasons": {
-        "en": "Secondary analysis of a 6-week double-blind RCT (n=156) examining ketamine's mechanism of action on psychological pain in suicidal inpatients—a novel treatment target with rapid-onset effects.",
-        "sv": "Sekundäranalys av en 6-veckors double-blind RCT (n=156) som undersöker ketamins verkningsmekanismo på psykologisk smärta hos suicidala inlagda patienter—ett nytt behandlingsmål med snabb påverkan.",
-        "no": "Sekundæranalyse av en 6-ukers double-blind RCT (n=156) som undersøker ketamins virkningsmekanisme på psykologisk smerte hos suicidale innlagte pasienter—et nytt behandlingsmål med rask inntreden.",
-        "da": "Sekundæranalyse af et 6-ugers double-blind RCT (n=156), der undersøger ketamins virkningsmekanisme på psykologisk smerte hos suicidale indlagte patienter—et nyt behandlingsmål med hurtig virkning.",
-        "fi": "Sekundaarinen analyysi 6 viikon mittaisesta double-blind RCT:stä (n=156), joka tutkii ketamiinin vaikutusmekanismia psyykkiseen kipuun itsemurhaa yrittäneillä sairaalan potilailla—uusi hoitokohde nopealla vaikutuksella.",
-        "is": "Aukaanalýsi á 6 vikna double-blind RCT (n=156) sem kannar virknisveg ketamíns á sálrænu verkjum hjá sjúklingum sem reyndu sjálfsmorð á spítala—ný meðferðarmarkmið með hröðum áhrifum.",
-        "et": "Teisene analüüs 6-nädalasest double-blind RCT-st (n=156), mis uuritakse ketamiini toime ketamiini tegevusmehhanism ülestunnustuste valus eneseohustavatel haiglaravi patsientidel—uus raviemõrgutus kiirete mõjudega.",
-        "lv": "Sekundārā analīze no 6 nedēļu double-blind RCT (n=156), kas pēta ketamīna darbības mehānismu uz psihiskiem sāpēm pašnāvnieciskiem stacionārajiem pacientiem—jauns ārstēšanas mērķis ar ātriem efektiem.",
-        "lt": "Antrinė analizė 6 savaičių double-blind RCT (n=156), kurioje tirtas ketamino veikimo mechanizmas psichiškim skausmui savižudžių ligoninės pacientams—naujas gydymo tikslas su greitai veikiančiais efektais."
-      },
-      "relevance_score": 4,
-      "study_type": "rct",
-      "substances": [
-        "ketamine"
-      ],
-      "added_at": "2026-08-11T07:44:36.046881+00:00"
     }
   ]
 }

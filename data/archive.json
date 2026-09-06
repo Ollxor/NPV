@@ -1,6 +1,45 @@
 {
   "items": [
     {
+      "title": "Psilocybin as an emerging anxiolytic: mechanisms, evidence, and open questions.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42701111/",
+      "source": "PubMed",
+      "date": "2026-09-06",
+      "authors": [
+        "Konstantinou Gerasimos N",
+        "Kloiber Stefan"
+      ],
+      "doi": "10.1038/s41386-026-02551-7",
+      "summary_en": "Review examining psilocybin's potential as an anxiolytic agent. The article explores the underlying mechanisms of action, synthesizes current evidence from clinical and preclinical studies, and identifies key gaps in our understanding. Psilocybin shows promise in anxiety treatment, though questions remain regarding optimal dosing, long-term effects, and mechanisms of anxiolytic action.",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "review",
+      "substances": [
+        "psilocybin"
+      ],
+      "added_at": "2026-09-06T11:10:06.581018+00:00"
+    },
+    {
+      "title": "Appetite measures during ketamine administration in treatment-resistant mood disorders: a naturalistic study.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42698604/",
+      "source": "PubMed",
+      "date": "2026-08-21",
+      "authors": [
+        "Mechlińska Agnieszka",
+        "Wiglusz Mariusz",
+        "Słupski Jakub"
+      ],
+      "doi": "10.3389/fnut.2026.1858899",
+      "summary_en": "Naturalistic study examining appetite changes during repeated ketamine treatment in hospitalized adults with treatment-resistant depression and bipolar disorder. Using Visual Analog Scales and nutritional questionnaires at baseline and up to 7 days post-administration, researchers found no significant appetite alterations across diagnostic groups or BMI categories, with no increased undernutrition risk. Results support ketamine's favorable metabolic safety profile in treatment-resistant mood disorders.",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "observational",
+      "substances": [
+        "ketamine"
+      ],
+      "added_at": "2026-09-06T11:10:06.581018+00:00"
+    },
+    {
       "title": "Low Dose Ketamine Preconditions Astrocyte Mitochondria to Achieve Antidepressant Efficacy via Adenosine, Humanin, and Melatonin Upregulation and Efflux.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42694894/",
       "source": "PubMed",

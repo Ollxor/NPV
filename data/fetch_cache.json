@@ -1,7 +1,45 @@
 {
-  "date": "2026-09-06",
-  "cached_at": "2026-09-06T10:14:50.570717+00:00",
+  "date": "2026-09-07",
+  "cached_at": "2026-09-07T11:32:32.007966+00:00",
   "articles": [
+    {
+      "title": "The Effect of Psychedelics on Associative Learning: a Systematic Review.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42702287/",
+      "source": "PubMed",
+      "abstract": "Psychedelics are emerging as potential treatments for neuropsychiatric conditions, with evidence suggesting a single administration can lead to enduring behavioural changes. While the underlying putative mechanism(s) remain unclear, there is evidence supporting altered learning as a key candidate. This systematic review examined studies assessing the effects of psychedelics on associative learning in humans and animals. Electronic databases were searched until 02/02/2026 for studies investigating differences in learning after classical psychedelic administration. 62 studies were included (2 human studies). Classical and operant conditioning paradigms were employed, including fear extinction, conditioned avoidance, conditioned place preference and reversal learning. Studies assessed acute and post-acute effects, however repeated dosing paradigms often obscured this distinction. There was heterogeneity in study designs, paradigms, drug administration timings and doses, and behavioural effects appeared to be influenced by dose, timing, training intensity, and sex. The evidence reviewed suggests that psychedelic administration enhances associative learning in animals across paradigms, although findings were not consistent. Possible mechanisms identified spanned levels of explanation including computational (prediction error sensitivity), neuropharmacological (serotonin receptor agonism), and cellular/subcellular (structural plasticity). Learning enhancements extend into the post-acute phase of psychedelic action and appear to depend on environmental engagement during this window. Studies suggest that psychedelics enhance associative learning in animals; however, while human studies demonstrate altered cognitive flexibility and learning-related processes, direct evidence of enhanced associative learning remains limited. Understanding whether a period of enhanced learning follows the psychedelic experience may have implications for psychedelic-assisted psychotherapy, where behavioural changes must generalise and persist beyond the drug-induced state.",
+      "date": "2026-09-06",
+      "authors": [
+        "Caulfield Alice",
+        "Li Lorraine",
+        "Belessiotis-Richards Clara"
+      ],
+      "doi": "10.1016/j.neubiorev.2026.106951"
+    },
+    {
+      "title": "Metabolomic correlates of intravenous racemic ketamine in treatment-resistant major depressive disorder: the Bio-K/NNDC multicenter trial.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42702010/",
+      "source": "PubMed",
+      "abstract": "Ketamine is a rapid-acting antidepressant with an incompletely understood mechanism of action. Pharmacometabolomics can identify pathways underlying its effects and response variability. Using data from the Bio-K trial (NCT03156504), a multisite open-label study, we characterised metabolomic signatures of intravenous (IV) racemic ketamine in adults with treatment-resistant depression (TRD). Sixty-nine adults with TRD and major depressive disorder received three ketamine infusions (0.5 mg/kg). Remission was defined as MADRS ≤9 at 24 h post-third infusion. Metabolomic profiling used the Biocrates MxP® Q500 kit (>600 metabolites). Mixed-effects models assessed changes across time points (pre-dose, post-infusion 1, post-infusion 3), adjusting for age, sex, infusion length (first), and body mass index, with false discovery rate correction. Mean MADRS improved from 27.8 ± 5.8 to 11.1 ± 9.1 post-third infusion ( Ketamine exposure was correlated with broad metabolic alterations spanning mitochondrial activation, neurotransmitter modulation, and neuroendocrine signalling. These findings represent metabolic correlates of ketamine exposure and remission, rather than validated predictors or established mechanistic drivers of antidepressant response. ClinicalTrials.gov: NCT03156504.",
+      "date": "2026-09-06",
+      "authors": [
+        "Singh Balwinder",
+        "MahmoudianDehkordi Siamak",
+        "Vande Voort Jennifer L"
+      ],
+      "doi": "10.1080/15622975.2026.2724510"
+    },
+    {
+      "title": "Psilocybin as an emerging anxiolytic: mechanisms, evidence, and open questions.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42701111/",
+      "source": "PubMed",
+      "abstract": "",
+      "date": "2026-09-06",
+      "authors": [
+        "Konstantinou Gerasimos N",
+        "Kloiber Stefan"
+      ],
+      "doi": "10.1038/s41386-026-02551-7"
+    },
     {
       "title": "Neuroprotective effects of ketamine, lamotrigine, and ketoprofen combinations after pars plana vitrectomy and silicone oil injection.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42700282/",
@@ -27,18 +65,6 @@
         "Słupski Jakub"
       ],
       "doi": "10.3389/fnut.2026.1858899"
-    },
-    {
-      "title": "Psilocybin as an emerging anxiolytic: mechanisms, evidence, and open questions.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42701111/",
-      "source": "PubMed",
-      "abstract": "",
-      "date": "2026-09-06",
-      "authors": [
-        "Konstantinou Gerasimos N",
-        "Kloiber Stefan"
-      ],
-      "doi": "10.1038/s41386-026-02551-7"
     },
     {
       "title": "Pharmacological and non-pharmacological modulation of striatal dopamine release: a meta-analysis of [",
@@ -231,32 +257,6 @@
         "Mueller Raeghan"
       ],
       "doi": "10.1080/02791072.2026.2727016"
-    },
-    {
-      "title": "Whole-exome sequencing in individuals with obsessive-compulsive disorder and chronic tic disorders identifies 36 large-effect risk genes.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42680906/",
-      "source": "PubMed",
-      "abstract": "Obsessive-compulsive disorder (OCD) and chronic tic disorders (CTDs) are highly heritable. Rare mutations confer large risks for OCD and CTDs but only four high-confidence (hc) genes have been identified. Here we analyzed whole-exome sequencing data from 3,964 individuals with OCD, CTDs or both, including 2,418 trios. We found an excess in cases of de novo and rare protein-damaging mutations and identified 36 hc genes (false discovery rate < 0.1), including four previously identified hc genes (CELSR3, CHD8, SCUBE1 and WWC1) and four genes that overlap with OCD genome-wide association study loci (BRWD1, CELSR3, QRICH1 and SYNE1). Risk genes are shared among OCD, CTDs and other neurodevelopmental conditions. Transcriptomic and network analyses highlight mechanistic convergence and increased risk gene expression in postnatal cerebellum, prenatal and postnatal cortex and striatum. Dozens of large-effect OCD and CTD genes offer insights into pathogenesis and a path forward for illuminating pathophysiology and identifying novel treatment targets.",
-      "date": "2026-09-01",
-      "authors": [
-        "Wang Belinda",
-        "Tran Matthew N",
-        "Wang Sheng"
-      ],
-      "doi": "10.1038/s41593-026-02419-5"
-    },
-    {
-      "title": "The mPFC-reuniens-hippocampus pathway links brain circuitry and neural plasticity in antidepressant response.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42680757/",
-      "source": "PubMed",
-      "abstract": "The pathophysiology of depression involves multiple biological processes, including circuit dysfunction and impaired neuroplasticity, yet an integrative view linking these processes remains elusive. Here, we identify a convergent circuit for antidepressant response and plasticity modulation. We demonstrate that chemogenetic activation of the infralimbic cortex (IL) exerts rapid antidepressant-like effects across multiple behavioral domains in a mouse model of stress-induced depression. IL stimulation exerts top-down control over the hippocampus, enhancing structural plasticity, restoring long-term potentiation deficits and improving state-dependent network dynamics in the ventral hippocampus (vHIPP). We identify the thalamic nucleus reuniens (RE) as a necessary mediator of these effects. Notably, direct inhibition of RE, its inputs from IL or projections to vHIPP, blocks both IL stimulation-induced antidepressant response and the therapeutic and neuroplastic effects of ketamine. Our findings demonstrate that the functional IL → RE→vHIPP circuit plays a central role in the antidepressant response, linking circuit activity, hippocampal plasticity, and depressive-like behaviors.",
-      "date": "2026-09-01",
-      "authors": [
-        "Veleanu Maxime",
-        "Schuberth Louise",
-        "Kilias Antje"
-      ],
-      "doi": "10.1038/s41467-026-77248-y"
     },
     {
       "title": "Pα+ Library: Psychedelic REMS",
@@ -504,6 +504,45 @@
       "doi": "10.1016/j.toxrep.2026.102324"
     },
     {
+      "title": "Intravenous Ketamine reduces psychological pain in suicidal inpatients: A secondary analysis of a six-week randomized placebo-controlled trial.",
+      "url": "https://doi.org/10.1016/j.jad.2026.122366",
+      "source": "Europe PMC",
+      "abstract": "<h4>Background</h4>Psychological pain has been conceptualized as an unbearable inner experience and a possible precondition for suicidal ideation. No randomized placebo-controlled study has specifically investigated psychological pain as a treatment target in psychiatric populations. We examined ketamine's effect on psychological pain in suicidal psychiatric inpatients.<h4>Methods</h4>This secondary analysis used KETIS, a 6-week randomized, double-blind, placebo-controlled trial. Participants received two 40-minute intravenous infusions of ketamine (0.5 mg/kg) or placebo (0.9% saline) 24 h apart, alongside usual care and medication. Psychological and physical pain were assessed at baseline, repeatedly during 96 h, and at weeks 2, 4, and 6 using the self-rated PPP-VAS. Longitudinal mixed models compared pain trajectories.<h4>Results</h4>The trial randomized suicidal inpatients to ketamine (n = 73) or placebo (n = 83). Psychological pain decreased in both groups but was lower with ketamine during the first 96 h. Pointwise scores were lower with ketamine from 40 min to 96 h, largest at 40 min, 2 h, 4 h, and 24 h (all p < 0.001), but not at weeks 2, 4, or 6. This early difference remained significant after adjustment for depressive symptoms and hopelessness. The early reduction appeared more pronounced in the bipolar subgroup. No robust baseline predictors of outcome were identified.<h4>Conclusions</h4>Intravenous ketamine was associated with a greater reduction in psychological pain than placebo in suicidal inpatients, with the clearest effects emerging within the first hours after treatment and remaining evident through the first 96 h. Ketamine may represent a clinically relevant option as a psychological pain reliever in psychiatric patients.",
+      "date": "2026-08-10",
+      "authors": [
+        "Baryshnikov I",
+        "Demattei C",
+        "Abbar M"
+      ],
+      "doi": "10.1016/j.jad.2026.122366"
+    },
+    {
+      "title": "Discordant signals: How outcome measurement shapes interpretation of ketamine response in treatment-resistant depression.",
+      "url": "https://doi.org/10.1016/j.jad.2026.122368",
+      "source": "Europe PMC",
+      "abstract": "<h4>Background</h4>Depression rating scales capture heterogeneous symptom domains, raising questions about the comparability of treatment response across instruments. This issue is particularly relevant for rapid-acting interventions such as ketamine.<h4>Methods</h4>We conducted a secondary analysis of a naturalistic cohort (N = 71) of patients with treatment-resistant depression treated with intravenous ketamine. Changes in depressive symptoms were assessed using the Montgomery-Åsberg Depression Rating Scale (MADRS), Beck Depression Inventory-II (BDI-II), and Clinical Global Impression-Severity (CGI-S). We examined correlations between change scores, magnitude of improvement across instruments, and changes in suicidality items.<h4>Results</h4>Change scores demonstrated variable associations across instruments. BDI-II and CGI-S change scores were strongly correlated (ρ = 0.69, p < 0.001), whereas MADRS showed weaker association with CGI-S (ρ = 0.13, p = 0.52) and moderate association with BDI-II (ρ = 0.46, p = 0.009). Mean percent reduction was greater for MADRS (54.2%) than BDI-II (41.9%), with correspondingly larger effect sizes (d = 1.78 vs d = 1.34). Suicidality improved on both measures, with a larger effect size for the clinician-rated MADRS item (d = 0.94) than the self-rated BDI-II item (d = 0.65).<h4>Conclusions</h4>Depression rating scales provide non-equivalent estimates of ketamine treatment response. Outcome measurement influences effect size estimates and magnitude of improvement, supporting a multidimensional approach to characterizing antidepressant response.",
+      "date": "2026-08-10",
+      "authors": [
+        "Vazquez G",
+        "Kang MJY",
+        "Gutierrez G."
+      ],
+      "doi": "10.1016/j.jad.2026.122368"
+    },
+    {
+      "title": "Exploratory non-randomized clinical trial of subcutaneous esketamine in treatment-resistant depression: Effects of ketamine-assisted psychotherapy.",
+      "url": "https://doi.org/10.1016/j.jad.2026.122369",
+      "source": "Europe PMC",
+      "abstract": "<h4>Background</h4>Ketamine is an effective rapid-acting treatment for treatment-resistant depression (TRD), producing antidepressant effects within hours of administration. Because it induces states of heightened neuroplasticity and psychological openness, psychotherapy may enhance its therapeutic effects.<h4>Methods</h4>This exploratory, nonrandomized, open-label clinical trial evaluated the adjunctive effects of ketamine-assisted psychotherapy (KAP) in an outpatient setting. Forty-six patients with TRD received eight weekly sessions of subcutaneous esketamine (0.5-1.0 mg/kg) and were sequentially allocated to esketamine alone (KET, n = 23) or esketamine plus KAP (n = 23). Depressive symptoms were assessed using the Montgomery-Åsberg Depression Rating Scale (MADRS) and the Beck Depression Inventory-II (BDI-II) during treatment and at follow-up assessments up to six months after protocol completion.<h4>Results</h4>Both groups showed significant reductions in depressive symptoms. MADRS scores were significantly lower in the KAP group at the seventh and eighth sessions (p = 0.015 and p = 0.041). At treatment completion, response and remission rates were 52.2% and 34.8% in the KET group versus 78.3% and 78.3% in the KAP group; the between-group difference was significant only for remission (p = 0.007). BDI-II scores also indicated earlier subjective improvement in the KAP group. No significant between-group differences were observed during the six-month follow-up.<h4>Conclusions</h4>These findings suggest that structured psychotherapeutic support may accelerate symptomatic improvement and increase remission rates during subcutaneous esketamine treatment for TRD, without improving the durability of response. Randomized controlled trials are needed to clarify the specific contribution of psychotherapy, investigate the mechanisms underlying this interaction, and optimize integrated treatment approaches.",
+      "date": "2026-08-10",
+      "authors": [
+        "Varela YM",
+        "Cavalcanti-Ribeiro P",
+        "de Sousa GM"
+      ],
+      "doi": "10.1016/j.jad.2026.122369"
+    },
+    {
       "title": "Ketamine preserves perineuronal nets in chronic stressed mice brain through the inhibition of microglia activation.",
       "url": "https://doi.org/10.1016/j.ibneur.2026.07.016",
       "source": "Europe PMC",
@@ -530,50 +569,11 @@
       "doi": "10.1016/j.ibneur.2026.07.010"
     },
     {
-      "title": "Reconstituting a two-step pathway for &lt;i&gt;N&lt;/i&gt;,&lt;i&gt;N&lt;/i&gt;-dimethyltryptamine (DMT) biosynthesis in bacteria.",
-      "url": "https://doi.org/10.1016/j.mec.2026.e00286",
-      "source": "Europe PMC",
-      "abstract": "N,N-dimethyltryptamine (DMT) is a bioactive indole alkaloid that could greatly benefit from scalable, fermentation-based production for research and pharmaceutical applications. In this study, we reconstructed a two-step bacterial pathway converting L-tryptophan to DMT via tryptamine. This involved combining a pyridoxal 5'-phosphate (PLP)-dependent tryptophan decarboxylase from the bacterium <i>Ruminococcus gnavus</i> (RgnTDC) with an <i>S</i>-adenosyl-L-methionine (SAM)-dependent <i>N</i>-methyltransferase from the cane toad <i>Rhinella marina</i> (RmNMT) in <i>Escherichia coli</i>. We optimised conditions for each step, determining 37 °C (pH 8.0) as the optimal condition for tryptamine production and 25 °C (pH 7.5) for DMT. While PLP supplementation did not raise tryptamine levels, methionine supplementation increased DMT levels by 2.8 times, emphasising the importance of methyl-donor supply. Co-culture and co-expression experiments showed that DMT accumulation depends on sufficient methylation capacity. Increased tryptophan availability led to tryptamine accumulation without a proportional increase in DMT formation, indicating a downstream limitation after decarboxylation. Together with the stimulatory effect of methionine supplementation, this result points to <i>N</i>-methylation and methyl-donor supply as key constraints in this system. In shake-flask cultures, a co-expression strain (TN1) produced 103 mg/L DMT after 48 h in complex medium without direct tryptophan supplementation. To enable growth in a defined medium, we used a workflow involving a tryptophan-enriched supernatant from a <i>Corynebacterium glutamicum</i> tryptophan overproducer, which supported de novo DMT formation at 16 mg/L in defined medium. These findings establish a plasmid-based platform for DMT production with <i>E. coli</i> and identify methyltransferase capacity as a key target for further yield improvements.",
-      "date": "2026-07-21",
-      "authors": [
-        "Junges LH",
-        "Pontes FLD",
-        "Mota FJT"
-      ],
-      "doi": "10.1016/j.mec.2026.e00286"
-    },
-    {
-      "title": "Development and characterization of a topical ferrochelatase inhibitor nanoemulsion for choroidal neovascularization therapy.",
-      "url": "https://doi.org/10.1016/j.ijpx.2026.100619",
-      "source": "Europe PMC",
-      "abstract": "Choroidal neovascularization (CNV) is a hallmark of neovascular age-related macular degeneration (nAMD). We previously identified the heme synthesis enzyme ferrochelatase (FECH) as a promising therapeutic target. This study aimed to develop and characterize topical ophthalmic nanoemulsions (NEs) of a novel FECH inhibitor, SH-17023, for CNV therapy, to avoid the intravitreal injections needed for standard-of-care anti-vascular endothelial growth factor (anti-VEGF) biologics. SH-17023-loaded NEs were prepared by spontaneous emulsification and optimized using D-optimal mixture design-based Quality-by-Design to obtain nanometric globule size (Z<sub>avg</sub>), low polydispersity index (PDI), and highest drug loading capacity (% LC). Therapeutic efficacy was assessed in the laser-induced CNV (L-CNV) mouse model with fundus imaging, optical coherence tomography (OCT), fluorescein angiography, and ex vivo vasculature staining. The optimized formulation was transparent with a globule size of 32.832 ± 2.125 nm, PDI 0.201 ± 0.003, spherical morphology, and LC of 7.436 ± 0.035%. It showed zeta potential of -29.2 ± 0.45 mV, sustained drug release, and robust accelerated and kinetic stability. Attenuated total reflectance-Fourier transform infrared spectroscopy and X-ray diffraction revealed excellent drug-excipient compatibility. Ex vivo goat cornea permeation of NEs showed significantly higher drug transport (permeability coefficient (K<sub>p</sub>) = 0.050 ± 0.012 h<sup>-1</sup>.cm<sup>-2</sup>, steady-state flux (J<sub>ss</sub>) = 37.51 ± 9.29 μg.h<sup>-1</sup>.cm<sup>-2</sup>) than the drug in solution (K<sub>p</sub> = 0.002 ± 0.0004 h<sup>-1</sup>.cm<sup>-2</sup> and J<sub>ss</sub> = 1.575 ± 0.488 μg.h<sup>-1</sup>.cm<sup>-2</sup>) with an enhancement ratio of 23.815. Optimized NEs significantly reduced L-CNV assessed by OCT and ex vivo staining by >45% compared to blank NEs, without ocular irritation or toxicity, indicating their promise for nAMD therapy.",
-      "date": "2026-07-17",
-      "authors": [
-        "Mohapatra D",
-        "Seo SY",
-        "Corson TW."
-      ],
-      "doi": "10.1016/j.ijpx.2026.100619"
-    },
-    {
-      "title": "Substance use and mental health outcomes among gay and bisexual men in South Korea: a cross-sectional study.",
-      "url": "https://doi.org/10.1016/j.abrep.2026.100728",
-      "source": "Europe PMC",
-      "abstract": "<h4>Purpose</h4>This study investigated the prevalence of substance use among gay and bisexual men in South Korea and examined its association with mental health outcomes.<h4>Methods</h4>Data were drawn from a nationwide cross-sectional survey of 1407 Korean gay and bisexual men aged 19-34 conducted in 2021. Participants completed measures assessing lifetime substance use (e.g., methamphetamine, ketamine, and cannabis) and mental health outcomes including depressive symptoms, suicidal ideation, suicide attempts, and psychiatric service utilization. Multivariate regression analyses examined associations between substance use and mental health outcomes.<h4>Results</h4>Among participants, 17.7% reported lifetime substance use. Substance use was significantly associated with increased risks of suicidality and psychiatric service utilization.<h4>Conclusion</h4>This study found significant associations between substance use and adverse mental health outcomes among Korean gay and bisexual men. These findings highlight the urgent need for integrated interventions addressing both substance use and mental health in this population.",
-      "date": "2026-07-17",
-      "authors": [
-        "Jeong SJ",
-        "Kim B",
-        "Lee H"
-      ],
-      "doi": "10.1016/j.abrep.2026.100728"
-    },
-    {
       "title": "CZ",
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2018-004480-31/CZ",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-09-06",
+      "date": "2026-09-07",
       "authors": [],
       "doi": ""
     },
@@ -582,7 +582,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2020-005037-32/CZ",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-09-06",
+      "date": "2026-09-07",
       "authors": [],
       "doi": ""
     },
@@ -591,7 +591,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2021-002909-10/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-09-06",
+      "date": "2026-09-07",
       "authors": [],
       "doi": ""
     },
@@ -600,7 +600,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2015-000550-37/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-09-06",
+      "date": "2026-09-07",
       "authors": [],
       "doi": ""
     },
@@ -609,7 +609,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2021-000041-40/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-09-06",
+      "date": "2026-09-07",
       "authors": [],
       "doi": ""
     },
@@ -618,7 +618,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2020-000829-55/DK",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-09-06",
+      "date": "2026-09-07",
       "authors": [],
       "doi": ""
     },
@@ -627,7 +627,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2020-002790-94/SE",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-09-06",
+      "date": "2026-09-07",
       "authors": [],
       "doi": ""
     },
@@ -636,7 +636,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2021-006200-33/FI",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-09-06",
+      "date": "2026-09-07",
       "authors": [],
       "doi": ""
     },
@@ -645,7 +645,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2019-004812-73/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-09-06",
+      "date": "2026-09-07",
       "authors": [],
       "doi": ""
     },
@@ -654,7 +654,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2022-002369-14/BE",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-09-06",
+      "date": "2026-09-07",
       "authors": [],
       "doi": ""
     },

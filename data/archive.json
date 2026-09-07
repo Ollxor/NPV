@@ -1,6 +1,106 @@
 {
   "items": [
     {
+      "title": "The Effect of Psychedelics on Associative Learning: a Systematic Review.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42702287/",
+      "source": "PubMed",
+      "date": "2026-09-06",
+      "authors": [
+        "Caulfield Alice",
+        "Li Lorraine",
+        "Belessiotis-Richards Clara"
+      ],
+      "doi": "10.1016/j.neubiorev.2026.106951",
+      "summary_en": "Systematic review of 62 studies (2 human) examining psychedelic effects on associative learning. Classical and operant conditioning paradigms showed enhanced learning in animals across fear extinction, conditioned avoidance, and reversal learning tasks. Effects varied by dose, timing, training intensity, and sex. Proposed mechanisms include altered prediction error sensitivity, serotonin receptor agonism, and structural plasticity. Enhancements persisted post-acutely, suggesting potential relevance to sustained therapeutic outcomes.",
+      "notable": true,
+      "notable_reason": "Systematic review synthesizing 62 studies on psychedelic effects on learning mechanisms, addressing mechanistic understanding relevant to clinical efficacy.",
+      "study_type": "review",
+      "substances": [
+        "other"
+      ],
+      "added_at": "2026-09-07T12:51:11.192589+00:00"
+    },
+    {
+      "title": "Metabolomic correlates of intravenous racemic ketamine in treatment-resistant major depressive disorder: the Bio-K/NNDC multicenter trial.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42702010/",
+      "source": "PubMed",
+      "date": "2026-09-06",
+      "authors": [
+        "Singh Balwinder",
+        "MahmoudianDehkordi Siamak",
+        "Vande Voort Jennifer L"
+      ],
+      "doi": "10.1080/15622975.2026.2724510",
+      "summary_en": "Bio-K trial (n=69, open-label, multisite) investigated metabolomic changes following intravenous racemic ketamine in treatment-resistant depression. Patients received three 0.5 mg/kg infusions; MADRS scores improved from 27.8 to 11.1 post-treatment. Metabolomic profiling identified broad alterations in mitochondrial function, neurotransmitter pathways, and neuroendocrine signalling correlated with ketamine exposure. Findings represent metabolic correlates rather than validated predictors of antidepressant response.",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "observational",
+      "substances": [
+        "ketamine"
+      ],
+      "added_at": "2026-09-07T12:51:11.192589+00:00"
+    },
+    {
+      "title": "Intravenous Ketamine reduces psychological pain in suicidal inpatients: A secondary analysis of a six-week randomized placebo-controlled trial.",
+      "url": "https://doi.org/10.1016/j.jad.2026.122366",
+      "source": "Europe PMC",
+      "date": "2026-08-10",
+      "authors": [
+        "Baryshnikov I",
+        "Demattei C",
+        "Abbar M"
+      ],
+      "doi": "10.1016/j.jad.2026.122366",
+      "summary_en": "Secondary analysis of KETIS trial (n=156) examined IV ketamine's effect on psychological pain in suicidal inpatients over 6 weeks. Two 0.5 mg/kg ketamine or placebo infusions were given 24h apart. Psychological pain decreased significantly more with ketamine during first 96h (p<0.001 at multiple timepoints), with largest effects at 40min-24h, but differences disappeared by week 2. Effect remained significant after adjusting for depression and hopelessness. No consistent baseline predictors identified.",
+      "notable": true,
+      "notable_reason": "Secondary analysis of a 6-week RCT (n=156) showing ketamine reduces psychological pain in suicidal inpatients within 96 hours, a novel and clinically significant finding for acute suicide risk management.",
+      "study_type": "rct",
+      "substances": [
+        "ketamine"
+      ],
+      "added_at": "2026-09-07T12:51:11.192589+00:00"
+    },
+    {
+      "title": "Discordant signals: How outcome measurement shapes interpretation of ketamine response in treatment-resistant depression.",
+      "url": "https://doi.org/10.1016/j.jad.2026.122368",
+      "source": "Europe PMC",
+      "date": "2026-08-10",
+      "authors": [
+        "Vazquez G",
+        "Kang MJY",
+        "Gutierrez G."
+      ],
+      "doi": "10.1016/j.jad.2026.122368",
+      "summary_en": "Secondary analysis of 71 treatment-resistant depression patients receiving intravenous ketamine. Depression rating scales (MADRS, BDI-II, CGI-S) showed variable correlations in measuring symptom change. MADRS indicated greater improvement (54.2%) than BDI-II (41.9%), with larger effect sizes. Suicidality improved on both measures, more prominently on clinician-rated assessments. Results suggest outcome measurement choice significantly influences ketamine response interpretation.",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "observational",
+      "substances": [
+        "ketamine"
+      ],
+      "added_at": "2026-09-07T12:51:11.192589+00:00"
+    },
+    {
+      "title": "Exploratory non-randomized clinical trial of subcutaneous esketamine in treatment-resistant depression: Effects of ketamine-assisted psychotherapy.",
+      "url": "https://doi.org/10.1016/j.jad.2026.122369",
+      "source": "Europe PMC",
+      "date": "2026-08-10",
+      "authors": [
+        "Varela YM",
+        "Cavalcanti-Ribeiro P",
+        "de Sousa GM"
+      ],
+      "doi": "10.1016/j.jad.2026.122369",
+      "summary_en": "Exploratory open-label trial (n=46) comparing subcutaneous esketamine alone versus esketamine combined with psychotherapy in treatment-resistant depression. Eight weekly sessions at 0.5–1.0 mg/kg. Both groups improved significantly; KAP group showed lower depression scores at sessions 7–8 (MADRS, p=0.015–0.041) and higher remission rates at completion (78.3% vs 34.8%, p=0.007). No significant differences at six-month follow-up.",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "observational",
+      "substances": [
+        "ketamine"
+      ],
+      "added_at": "2026-09-07T12:51:11.192589+00:00"
+    },
+    {
       "title": "Psilocybin as an emerging anxiolytic: mechanisms, evidence, and open questions.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42701111/",
       "source": "PubMed",

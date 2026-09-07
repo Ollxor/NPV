@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-06T11:10:39.843974+00:00",
+  "generated_at": "2026-09-07T12:53:01.776451+00:00",
   "items": [
     {
       "title": "Blinding integrity in psychedelic research: Evidence from a comparative randomized controlled trial of psilocybin, MDMA, and methylphenidate in healthy volunteers",
@@ -32,6 +32,78 @@
         "mdma"
       ],
       "added_at": "2026-07-09T10:03:12.956794+00:00"
+    },
+    {
+      "title": "The Effect of Psychedelics on Associative Learning: a Systematic Review.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42702287/",
+      "source": "PubMed",
+      "date": "2026-09-06",
+      "authors": [
+        "Caulfield Alice",
+        "Li Lorraine",
+        "Belessiotis-Richards Clara"
+      ],
+      "doi": "10.1016/j.neubiorev.2026.106951",
+      "summaries": {
+        "en": "Systematic review of 62 studies (2 human) examining psychedelic effects on associative learning. Classical and operant conditioning paradigms showed enhanced learning in animals across fear extinction, conditioned avoidance, and reversal learning tasks. Effects varied by dose, timing, training intensity, and sex. Proposed mechanisms include altered prediction error sensitivity, serotonin receptor agonism, and structural plasticity. Enhancements persisted post-acutely, suggesting potential relevance to sustained therapeutic outcomes.",
+        "sv": "Systematisk granskning av 62 studier (2 på människor) om psykedelikas effekter på associativ inlärning. Klassisk och operant betingning visade förbättrad inlärning hos djur inom rädslutsläckning, betingad undvikelse och reversionsuppgifter. Effekterna varierade beroende på dos, tidpunkt, träningsintensitet och kön. Föreslagna mekanismer innefattar förändrad prediktionsfelkänslighet, serotoninreceptoragonism och strukturell plasticitet. Förbättringarna kvarstod post-akut.",
+        "no": "Systematisk gjennomgang av 62 studier (2 på mennesker) om psykedelikas effekter på assosiativ læring. Klassisk og operant betinging viste forbedret læring hos dyr innenfor fryktslukkking, betinget unngåelse og reverseringslæring. Effektene varierte etter dose, timing, treningsintensitet og kjønn. Foreslåtte mekanismer inkluderer endret prediksjonsfeilvarsling, serotonin-reseptor-agonisme og strukturell plastisitet. Forbedringene fortsatte post-akutt.",
+        "da": "Systematisk review af 62 studier (2 på mennesker) om psykedelikas effekter på associativ læring. Klassisk og operant betingelse viste forbedret læring hos dyr inden for fryktslukking, betinget undvigelse og reverserings-læring. Effekterne varierede efter dosis, timing, træningsintensitet og køn. Foreslåede mekanismer omfatter ændret prædiktion-fejl-sensitivitet, serotoninreceptor-agonisme og strukturel plastisitet. Forbedringerne fortsatte post-akut.",
+        "fi": "Systemaattinen katsaus 62 tutkimukseen (2 ihmisillä) psykedeliikkien vaikutuksista assosiatiiviseen oppimiseen. Klassinen ja operantti-ehdollistaminen osoittivat parantuneita oppimistuloksia eläimillä pelon sammutuksessa, ehdollisessa välttämisessä ja käänteisen oppimisen tehtävissä. Vaikutukset vaihtelivat annoksen, ajoituksen, harjoitusintensiteetin ja sukupuolen mukaan. Ehdotetut mekanismit sisältävät muuttuneen ennustevirheen herkkyyttä, serotoniinireseptori-agonismia ja rakenteellista plastisuutta.",
+        "is": "Kerfræðileg endurskoðun á 62 rannsóknum (2 á mönnum) um áhrif sáleinflugamíkla á hlutfellslærdóm. Klassísk og starfræn skilyrt hafði bætti námsárangur hjá dýrum í óttabrotum, skilyrtu forðun og umsnúningi náms. Áhrifin voru mismunandi eftir skammti, tímasetningu, þjálfunarintensiteti og kyni. Tillögðir virkjanir innihalda breytta spávillutilfinningu, serótóníníviðtaka agonisma og byggingarlega plasticitet.",
+        "et": "Süstemaatiline ülevaade 62 uuringust (2 inimestel) psühhedeelikumide mõjust assotsiatiivsele õppimisele. Klassikaline ja operantne tingitus näitas paremat õppimist loomadel hirmu kustutamises, tingimustes hoidumises ja pöördõppimise ülesannetes. Efektid varieerusid doosi, ajastuse, treeningintensiivsuse ja soo järgi. Pakutud mehhanismid hõlmavad muutunud ennustusviga tundlikkust, serotooniinretseptori agonismi ja struktuaalset plastisuust.",
+        "lv": "Sistemātisks pārskats par 62 pētījumiem (2 ar cilvēkiem) par psihedeliku ietekmi uz asociatīvo mācīšanos. Klasiskā un operanta kondicionēšana parādīja uzlabotu mācīšanos dzīvniekiem baiļu dzēšanā, nosacītā izvairīšanās un atpakaļgaitības mācībās. Efekti mainījās atkarībā no devas, laika, apmācības intensitātes un dzimuma. Ierosinātie mehānismi ietver mainītu prognozes kļūdu jutību, serotonīna receptoru agonismu un strukturālu plasticitāti.",
+        "lt": "Sistemingas 62 tyrimų (2 su žmonėmis) apžvalga apie psichedelinių medžiagų poveikį asociaciniam mokymuisi. Klasikinis ir operantinis sąlyginimas parodė pagerintą mokymą gyvūnuose baimės gesinime, sąlyginėje vengime ir reversinio mokymosi užduotyse. Efektai skyrėsi priklausomai nuo dozes, laiko, mokymo intensyvumo ir lyties. Siūlyti mechanizmai apima pakeistą prognozės klaidos jautrumą, seratonino receptorių agonizmą ir struktūrinį plasticiškumą."
+      },
+      "notable": true,
+      "notable_reasons": {
+        "en": "Systematic review synthesizing 62 studies on psychedelic effects on learning mechanisms, addressing mechanistic understanding relevant to clinical efficacy.",
+        "sv": "Systematisk översikt som syntetiserar 62 studier om psykedeliskas effekter på inlärningsmekanismer och behandlar mekanistisk förståelse relevant för klinisk effektivitet.",
+        "no": "Systematisk gjennomgang som syntetiserer 62 studier om psykedeliskas effekter på læringmekanismer, og tar opp mekanistisk forståelse relevant for klinisk effektivitet.",
+        "da": "Systematisk oversigt, der syntetiserer 62 studier om psykedelikas effekter på læringmekanismer og behandler mekanistisk forståelse relevant for klinisk effektivitet.",
+        "fi": "Järjestelmällinen katsaus, joka syntetisoi 62 tutkimusta psykedeelistä vaikutuksista oppimisen mekanismeihin ja käsittelee mekanistista ymmärrystä, joka on relevantti kliiniselle tehokkuudelle.",
+        "is": "Kerfisbundin yfirlit sem fléttar saman 62 rannsóknir um áhrif geðrofaralyfja á námmekanisma og fjallar um virknileg skilningur sem skiptir máli fyrir klíníska virkni.",
+        "et": "Süstemaatiline ülevaade, mis koondab 62 uuringut psühhedeelikute mõjust õpimehhanismidele ja käsitleb mehhanistilikku mõistmist, mis on asjakohane kliinilisele tõhususele.",
+        "lv": "Sistematisks pārskats, kas sintezē 62 pētījumus par psihedeliku ietekmi uz mācīšanās mehānismiem, ņemot vērā mehānistisko izpratni, kas ir svarīga klīniskajai efektivitātei.",
+        "lt": "Sisteminė peržvalga, apibendrinanti 62 tyrimų apie psichedelinių medžiagų poveikį mokymo mechanizmams, skirta mechanistiniam supratimui, aktualiam klininei veiksmingumui."
+      },
+      "relevance_score": 4,
+      "study_type": "review",
+      "substances": [
+        "other"
+      ],
+      "added_at": "2026-09-07T12:51:11.192589+00:00"
+    },
+    {
+      "title": "Metabolomic correlates of intravenous racemic ketamine in treatment-resistant major depressive disorder: the Bio-K/NNDC multicenter trial.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42702010/",
+      "source": "PubMed",
+      "date": "2026-09-06",
+      "authors": [
+        "Singh Balwinder",
+        "MahmoudianDehkordi Siamak",
+        "Vande Voort Jennifer L"
+      ],
+      "doi": "10.1080/15622975.2026.2724510",
+      "summaries": {
+        "en": "Bio-K trial (n=69, open-label, multisite) investigated metabolomic changes following intravenous racemic ketamine in treatment-resistant depression. Patients received three 0.5 mg/kg infusions; MADRS scores improved from 27.8 to 11.1 post-treatment. Metabolomic profiling identified broad alterations in mitochondrial function, neurotransmitter pathways, and neuroendocrine signalling correlated with ketamine exposure. Findings represent metabolic correlates rather than validated predictors of antidepressant response.",
+        "sv": "Bio-K-studien (n=69, öppen design, flerscenters) undersökte metabolomiska förändringar efter intravenös racemisk ketamin vid behandlingsresistent depression. Patienter fick tre infusioner à 0,5 mg/kg; MADRS-poäng förbättrades från 27,8 till 11,1 efter behandling. Metabolomisk profilering identifierade breda förändringar i mitokondriefunktion, neurotransmittörvägarna och neuroendokrin signalering korrelerad med ketaminexponering. Resultaten representerar metaboliska korrelater snarare än validerade prediktorer för antidepressiv effekt.",
+        "no": "Bio-K-studien (n=69, åpen design, flersenter) undersøkte metabolomiske endringer etter intravenøs racemisk ketamin ved behandlingsresistent depresjon. Pasienter mottok tre infusjoner à 0,5 mg/kg; MADRS-skårer forbedret seg fra 27,8 til 11,1 etter behandling. Metabolomisk profilering identifiserte brede endringer i mitokondriefunksjon, nevrotransmitterveger og neuroendokrin signalering korrelert med ketamineksponering. Funnene representerer metabolske korrelatorer snarere enn validerte prediktorer for antidepressiv respons.",
+        "da": "Bio-K-studien (n=69, åben design, multisite) undersøgte metabolomiske ændringer efter intravenøs racemisk ketamin ved behandlingsresistent depression. Patienter modtog tre infusioner à 0,5 mg/kg; MADRS-score blev forbedret fra 27,8 til 11,1 efter behandling. Metabolomisk profilering identificerede brede ændringer i mitokondriefunktion, neurotransmittersignalering og neuroendokrin signalering korreleret med ketamineksponering. Resultaterne repræsenterer metabolske korrelater snarere end validerede prediktorer for antidepressiv respons.",
+        "fi": "Bio-K-tutkimus (n=69, avoin monipaikkaistutkimus) tutki metaboloomisia muutoksia rasemisen ketamiinin intravenöösisen annostelun jälkeen hoitoresistenteissa masennuksissa. Potilaat saivat kolme infuusiota (0,5 mg/kg); MADRS-pisteet paranivat 27,8:sta 11,1:een hoidon jälkeen. Metaboloomisen profiloinnin avulla tunnistettiin laajat muutokset mitokondrioiden toiminnassa, neurotransmitteritavoissa ja neuroendokriinisessa signaloinnissa, jotka korreloivat ketamiinin altistumisen kanssa. Tulokset edustavat metabolisia korrelaatteja eikä validoituja antidepressiivisen vasteen ennustajia.",
+        "is": "Bio-K-rannsóknin (n=69, opinn hönnun, marglóð) kannaði metabolómískar breytingar eftir intravenösa racemíska ketamín í meðhöndlun-ónæmri þunglyndi. Sjúklingar fengu þrjú innkoma (0,5 mg/kg); MADRS-stig batnaðu úr 27,8 í 11,1 eftir meðferð. Metabolómísk prófun auðkenndi víðtækar breytingar í starfsemi mítókondría, taugaboðefnaefnavegum og neuroendókrinri merkingarflutningi sem tengdust ketamínútsetningi. Niðurstöðurnar tákna metabolískar tengingar frekar en staðfestar spár fyrir andslægðarsvörun.",
+        "et": "Bio-K uuring (n=69, avatud disain, mitmelinnuline) uuris metaboloomilisi muutusi intraveenooselt racemilise ketamiini manustamise järel ravile resistentse depressiooni korral. Patsiendid said kolm infusiiooni (0,5 mg/kg); MADRS-skoor paranes 27,8-lt 11,1-le pärast ravi. Metaboloomiline profiileerimine tuvastas ulatuslikud muutused mitokondrite funktsioonis, neurotransmitterite radades ja neuroendokriinses signaliseerimises, mis korreleerusid ketamiini ekspositsiooniga. Tulemused esindavad metaboloomilisi korrelaate pigem kui valideeritud antiдепressiivsete vastuste ennustajaid.",
+        "lv": "Bio-K pētījums (n=69, atvērta dizaina, vairāku vietu) pēta metabolomiskās izmaiņas pēc intravenozas racemiskās ketamīna ievadīšanas ar ārstēšanu rezistentā depresijā. Pacienti saņēma trīs infūzijas (0,5 mg/kg); MADRS rādītāji uzlabojās no 27,8 līdz 11,1 pēc ārstēšanas. Metabolomiskā profilēšana identificēja plašas izmaiņas mitohondriju funkcijā, neirotransmiteru ceļos un neuroendokrīnajā signalizācijā, kas korelē ar ketamīna ekspozīciju. Rezultāti attēlo metaboliskos korelātus, nevis validētus antidepresīvās atbildes prognozētājus.",
+        "lt": "Bio-K tyrimas (n=69, atviras dizainas, daugiacentris) ištyrė metabolominius pokyčius po intraveninio raceminio ketamino, naudoto gydant atspariąją depresijoje. Pacientai gavo tris infuzijas (0,5 mg/kg); MADRS balas pagerėjo nuo 27,8 iki 11,1 po gydymo. Metabolominis profiliavimai nustatė plačius mitochondrijų funkcijos, neurotransmiterių takų ir neuroendokrininės signalizacijos pokyčius, koreliuojančius su ketamino ekspozicija. Rezultatai atspindi metabolinius koreliatus, o ne patvirtintus antidepresacinio atsako prognostikatorius."
+      },
+      "notable": false,
+      "notable_reasons": null,
+      "relevance_score": 4,
+      "study_type": "observational",
+      "substances": [
+        "ketamine"
+      ],
+      "added_at": "2026-09-07T12:51:11.192589+00:00"
     },
     {
       "title": "Psilocybin as an emerging anxiolytic: mechanisms, evidence, and open questions.",
@@ -1887,69 +1959,6 @@
         "lsd"
       ],
       "added_at": "2026-08-13T07:59:35.488991+00:00"
-    },
-    {
-      "title": "Effects of naturalistic psychedelic use on executive functioning: An online survey of lifetime history and recent use in university students.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42580581/",
-      "source": "PubMed",
-      "date": "2026-08-11",
-      "authors": [
-        "Todesco Stefanie",
-        "Allan Zachary",
-        "Liu May Y M"
-      ],
-      "doi": "10.1016/j.pnpbp.2026.111888",
-      "summaries": {
-        "en": "Cross-sectional online study of 1342 university students examining executive functioning in relation to psychedelic use. Participants completed the Wisconsin Card Sorting Task and reported lifetime/recent psychedelic use. Lifetime (n=224) and recent (n=114) users showed better performance on most measures: fewer errors, more correct responses, and more categories achieved. Moderate-dose users completed more categories than low-dose users. Results suggest naturalistic psychedelic use associates with enhanced executive functioning.",
-        "sv": "Tvärsnittsstudie med 1342 universitetsstudenter som undersökte verkningsfull funktion i relation till psykedelikabruk. Deltagarna genomförde Wisconsin Card Sorting Task och rapporterade livstids- och aktuellt bruk. Livstidsanvändare (n=224) och nyligen aktiva användare (n=114) visade bättre prestanda på de flesta mått: färre fel, fler korrekta svar och fler lösta kategorier. Måttliga doser gav bättre resultat än låga doser. Resultaten tyder på att naturalistiskt psykedelikabruk associeras med förbättrad verkningsfull funktion.",
-        "no": "Tverrsnittsstudie med 1342 universitetsstudenter som undersøkte eksekutiv fungering i forhold til psykedelikabruk. Deltakerne fullførte Wisconsin Card Sorting Task og rapporterte livstids- og nylig bruk. Livstidsbrukere (n=224) og nylig aktive brukere (n=114) viste bedre prestasjon på de fleste mål: færre feil, flere korrekte svar og flere løste kategorier. Moderate doser ga bedre resultater enn lave doser. Resultatene tyder på at naturalistisk psykedelikabruk er assosiert med forbedret eksekutiv fungering.",
-        "da": "Tværsnitsundersøgelse med 1342 universitetsstuderende, der undersøgte eksekutiv funktion i forhold til psykedelikabrugere. Deltagerne gennemførte Wisconsin Card Sorting Task og rapporterede livsvarig og nyligt forbrug. Livsvarige brugere (n=224) og nyligt aktive brugere (n=114) viste bedre præstationer på de fleste mål: færre fejl, flere korrekte svar og flere løste kategorier. Moderate doser gav bedre resultater end lave doser. Resultaterne tyder på, at naturalistisk psykedelikabruge er forbundet med forbedret eksekutiv funktion.",
-        "fi": "Poikkileikkaustutkimus 1342 yliopisto-opiskelijalla, joka tutki toimeenpanovoimaa suhteessa psykedeliikkaaineiden käyttöön. Osallistujat suorittivat Wisconsin Card Sorting Task -testin ja raportoivat elinikäisen ja äskettäisen käytön. Elinikäiset käyttäjät (n=224) ja äskettäin aktiiviset käyttäjät (n=114) osoittivat parempaa suoritusta useimmissa mittareissa: vähemmän virheitä, enemmän oikeita vastauksia ja useampia ratkaisuja. Kohtalaiset annokset antoivat parempia tuloksia kuin pienet annokset. Tulokset viittaavat siihen, että luonnollinen psykedeliikkaaineiden käyttö liittyy parantuneeseen toimeenpanovoimaan.",
-        "is": "Þversnið rannsókn með 1342 háskólanemendum sem kannaði framkvæmdarstarfsemi í tengslum við notkun sálfræðilyfja. Þátttakendur loku Wisconsin Card Sorting Task og tilkynntu ævikort og nýlegt notkun. Ævikort notendur (n=224) og nýlega virkir notendur (n=114) sýndu betri frammistöðu á flestum mælingum: færri villur, fleiri rétt svör og fleiri leyst flokkar. Meðaltal skammta gáfu betri niðurstöður en lágt skammta. Niðurstöðurnar benda til að náttúrúleg notkun sálfræðilyfja tengist bættri framkvæmdarstarfsemi.",
-        "et": "Ristlõikeline uuring 1342 üliõpilasega, mis uuris täitmisfunktsiooni suhtes psühhedeelikate kasutamisega. Osalejad sooritasid Wisconsin Card Sorting Task testi ja teatanud eluaegse ja hiljutise kasutamise kohta. Eluaegsed kasutajad (n=224) ja hiljuti aktiivsed kasutajad (n=114) näitasid paremat jõudlust enamikul mõõtmistel: vähem vigu, rohkem õigeid vastuseid ja rohkem lahendatud kategooriaid. Keskmised annused andsid paremaid tulemusi kui madalad annused. Tulemused viitavad sellele, et loomulik psühhedeelikate kasutamine on seotud parandatud täitmisfunktsiooniga.",
-        "lv": "Šķērsgriežu pētījums ar 1342 universitātes studentiem, kas pārbaudīja izpildfunkcijas attiecības pret psihedēliku lietošanu. Dalībnieki pabeidza Wisconsin Card Sorting Task testu un paziņoja par mūžīgo un nesen notikušo lietošanu. Mūžīgie lietotāji (n=224) un nesen aktīvie lietotāji (n=114) parādīja labāku sniegumu lielākajā daļā rādītāju: mazāk kļūdu, vairāk pareizu atbilžu un vairāk atrisinātu kategoriju. Vidējās devas deva labākus rezultātus nekā zemas devas. Rezultāti liecina, ka dabiska psihedēliku lietošana ir saistīta ar uzlabotu izpildfunkciju.",
-        "lt": "Skerspjūvio tyrimas su 1342 universitetų studentais, kuriame buvo tiriamos vykdomosios funkcijos ryšys su psichedelinių medžiagų vartojimu. Dalyviai atliko Wisconsin Card Sorting Task testą ir pranešė apie visą gyvenimą ir neseniai atliktas vartojimu. Visą gyvenimą vartoję dalyviai (n=224) ir neseniai aktyvūs vartotojai (n=114) parodė geresnę veiklą pagal daugumą rodiklių: mažiau klaidų, daugiau teisingų atsakymų ir daugiau išspręstų kategorijų. Vidutinės dozės davė geresnius rezultatus nei mažos dozės. Rezultatai rodo, kad natūralus psichedelinių medžiagų vartojimas yra susijęs su pagerėjusia vykdomąja funkcija."
-      },
-      "notable": false,
-      "notable_reasons": null,
-      "relevance_score": 4,
-      "study_type": "observational",
-      "substances": [
-        "psilocybin",
-        "lsd"
-      ],
-      "added_at": "2026-08-12T07:58:17.936680+00:00"
-    },
-    {
-      "title": "Psilocybin-associated microRNA changes in the pig brain: Establishing an nCounter pipeline for cross-species microRNA quantification.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42580506/",
-      "source": "PubMed",
-      "date": "2026-08-11",
-      "authors": [
-        "Kaadt Erik",
-        "Søkilde Rolf Fyllgraf",
-        "Garling Hanne Demant"
-      ],
-      "doi": "10.1016/j.ejphar.2026.179222",
-      "summaries": {
-        "en": "Study in adolescent female pigs examined microRNA expression changes in prefrontal cortex and hippocampus after single psilocybin dose. Using NanoString nCounter analysis, researchers identified 12 dysregulated microRNAs in prefrontal cortex and 2-4 in hippocampus at day 1 and day 7 post-administration. Nine of 18 identified microRNAs previously linked to depression. Findings demonstrate region- and time-dependent microRNA changes, establishing a validated pipeline for cross-species psychedelic neurochemistry research.",
-        "sv": "Studie på ungdomsiga hongriser undersökte mikroRNA-förändringar i prefrontalkortex och hippocampus efter enstaka psilocybin-dos. Med NanoString nCounter-analys identifierades 12 dysregulerade mikroRNA:or i prefrontalkortex och 2-4 i hippocampus vid dag 1 och dag 7 efter administrering. Nio av 18 identifierade mikroRNA:or tidigare kopplade till depression. Resultaten visar region- och tidsberoende mikroRNA-förändringar och etablerar en validerad pipeline för tvärartsstudier av psykedelikas neurokemi.",
-        "no": "Studie på ungdomlige hunner undersøkte mikroRNA-endringer i prefrontalkorteks og hippocampus etter enkeltdose psilocybin. Med NanoString nCounter-analyse identifiserte forskere 12 dysregulerte mikroRNA i prefrontalkorteks og 2-4 i hippocampus på dag 1 og dag 7 etter administrering. Ni av 18 identifiserte mikroRNA tidligere knyttet til depresjon. Funnene viser region- og tidsavhengige mikroRNA-endringer og etablerer en validert pipeline for tverrartspsykedelia-nevrokjemi.",
-        "da": "Studie på unge hunlige grise undersøgte mikroRNA-ændringer i præfrontal cortex og hippocampus efter enkelt psilocybin-dosis. Med NanoString nCounter-analyse identificeredes 12 dysregulerede mikroRNA i præfrontal cortex og 2-4 i hippocampus på dag 1 og dag 7 efter administration. Ni af 18 identificerede mikroRNA tidligere forbundet til depression. Resultaterne viser region- og tidsafhængige mikroRNA-ændringer og etablerer en valideret pipeline til tværarts-psykedelika-neurovidenskab.",
-        "fi": "Tutkimus nuorilla naarassikoilla tutki mikroRNA-muutoksia prefrontaalisessa kuoressa ja hippocampuksessa yhden psilosybiini-annoksen jälkeen. NanoString nCounter -analyysin avulla tutkijat tunnistivat 12 dysreguloidun mikroRNA:n prefrontaalisessa kuoressa ja 2-4 hippocampuksessa päivänä 1 ja 7 antamisen jälkeen. Yhdeksän 18 tunnistetusta mikroRNA:sta oli aiemmin liitetty masennukseen. Tulokset osoittavat alue- ja aikariippuvaisia mikroRNA-muutoksia ja vahvistavat validoidun pipeline:n psykedeelien neurokemian tutkimukselle lajien välillä.",
-        "is": "Rannsókn á ungum kvenfleysum skoðaði breytingar á microRNA í forvitlausarhorni og hippocampus eftir eina skammta af psilocybíni. Með NanoString nCounter greiningu greindu vísindamenn 12 illa skipuleg microRNA í forvitlausarhorni og 2-4 í hippocampus á degi 1 og 7 eftir inngift. Níu af 18 greind microRNA voru áður tengd þunglyndi. Niðurstöður sýna svæðis- og tímabundnar microRNA breytingar og staðfesta staðfesta rörslulínu fyrir víðtæka psykedeelíska taugavirkjanefnafræði.",
-        "et": "Uuringus noortel emisigadel uuriti mikroRNA muutusi prefrontaalsetes koores ja hippocampuses pärast ühekordset psilosübiini annust. NanoString nCounter analüüsi abil tuvastasid teadlased 12 dysreguleeritud mikroRNA:t prefrontaalsetes koores ja 2-4 hippocampuses päeval 1 ja 7 pärast manustamist. Üheksast 18 tuvastatud mikroRNA:st oli varem seotud depressiooniga. Tulemused näitavad piirkonna- ja ajast sõltuvaid mikroRNA muutusi ning kinnitavad valideeritud teisendijoont psühhedeelikute neurokeemia uurimiseks liikide vahel.",
-        "lv": "Pētījumā jaunām sivēnmāsām pārbaudīja mikroRNS izmaiņas priekšējā garozā un hipokampā pēc vienas psilocibīna devas. Izmantojot NanoString nCounter analīzi, pētnieki identificēja 12 disfunkcionālus mikroRNS priekšējā garozā un 2-4 hipokampā 1. un 7. dienā pēc ievadīšanas. Deviņi no 18 identificētiem mikroRNS bija iepriekš saistīti ar depresiju. Rezultāti parāda reģiona un laika atkarīgas mikroRNS izmaiņas un apstiprina validētu caurstarpsugas psihedeliku neuroķīmijas pētniecības sistēmu.",
-        "lt": "Tyrime su jaunomis paršelėmis buvo tiriami mikroRNS pokyčiai priekinėje žievėje ir hipokampe po vienos psilocibino dozes. Naudojant NanoString nCounter analizę, tyrinėtojai nustatė 12 dysreguliuotų mikroRNS priekinėje žievėje ir 2–4 hipokampe 1 ir 7 dieną po skyrimo. Devyni iš 18 nustatytų mikroRNS buvo anksčiau susieti su depresija. Rezultatai rodo regionui ir laikui priklausomus mikroRNS pokyčius ir patvirtina validuotą psichedelikų neurochemijos tarprūšių tyrimų metodiką."
-      },
-      "notable": false,
-      "notable_reasons": null,
-      "relevance_score": 4,
-      "study_type": "preclinical",
-      "substances": [
-        "psilocybin"
-      ],
-      "added_at": "2026-08-12T07:58:17.936680+00:00"
     }
   ]
 }

@@ -1,6 +1,121 @@
 {
   "items": [
     {
+      "title": "Is (S)-norketamine an active mediator of esketamine's antidepressant effects?",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42706419/",
+      "source": "PubMed",
+      "date": "2026-09-07",
+      "authors": [
+        "Hashimoto Kenji",
+        "Yang Chun"
+      ],
+      "doi": "10.1038/s41380-026-03867-y",
+      "summary_en": "Researchers investigate whether (S)-norketamine, a metabolite of esketamine, mediates the antidepressant effects of esketamine. This mechanistic study examines the pharmacological role of this breakdown product in producing therapeutic outcomes, relevant for understanding how esketamine-based treatments work.",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "other",
+      "substances": [
+        "ketamine"
+      ],
+      "added_at": "2026-09-08T11:32:38.587024+00:00"
+    },
+    {
+      "title": "Higher signal diversity, network dysregulation, and increased well-being under DMT administration: An EEG study.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42705377/",
+      "source": "PubMed",
+      "date": "2026-09-07",
+      "authors": [
+        "Kroupi Eleni",
+        "Araujo Helena",
+        "Oosterveld Cas"
+      ],
+      "doi": "10.1016/j.brainres.2026.150530",
+      "summary_en": "A 13-participant EEG study examined intravenous DMT versus placebo effects on brain activity and emotional states. DMT increased signal complexity (HFD and PE metrics) correlated with subjective intensity, while reducing functional connectivity and network efficiency in alpha/beta bands. Frontal alpha asymmetry indicated increased well-being. These findings extend understanding of psychedelic effects beyond typical alpha power reductions.",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "rct",
+      "substances": [
+        "other"
+      ],
+      "added_at": "2026-09-08T11:32:38.587024+00:00"
+    },
+    {
+      "title": "The Antidepressant Effects of the mGlu2/3 Receptor Antagonist TS-161 in Treatment-Resistant Depression: A Phase IIa Proof-of-Concept Clinical Trial.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42704784/",
+      "source": "PubMed",
+      "date": "2026-09-07",
+      "authors": [
+        "Kvarta Mark D",
+        "Watanabe Mai",
+        "Ozaki Satoshi"
+      ],
+      "doi": "10.1097/JCP.0000000000002246",
+      "summary_en": "The Antidepressant Effects of the mGlu2/3 Receptor Antagonist TS-161 in Treatment-Resistant Depression: A Phase IIa Proof-of-Concept Clinical Trial.",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "rct",
+      "substances": [
+        "ketamine"
+      ],
+      "added_at": "2026-09-08T11:32:38.587024+00:00"
+    },
+    {
+      "title": "Exploratory Insights into 5-MeO-DMT Experiences on Reddit: A Thematic Analysis.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42704210/",
+      "source": "PubMed",
+      "date": "2026-09-07",
+      "authors": [
+        "Swieczkowski Damian",
+        "Kwaśny Aleksander",
+        "Cubała Wiesław Jerzy"
+      ],
+      "doi": "10.1080/02791072.2026.2727030",
+      "summary_en": "Qualitative analysis of 120 Reddit posts examined self-reported 5-MeO-DMT experiences. Users reported individualized dosing, distinct tolerance patterns, and introspective, emotionally transformative effects. Preparation, supportive environment, and integration practices were emphasized as essential. Users demonstrated awareness of pharmacological interactions and harm-reduction practices. Socio-cultural narratives about origins and ethics influenced perceptions.",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "qualitative",
+      "substances": [
+        "other"
+      ],
+      "added_at": "2026-09-08T11:32:38.587024+00:00"
+    },
+    {
+      "title": "The effect of ketamine on mitochondrial bioenergetics, viability, and function: A systematic review.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42704076/",
+      "source": "PubMed",
+      "date": "2026-09-07",
+      "authors": [
+        "Wong Sabrina",
+        "Le Gia Han",
+        "Selby Simryn"
+      ],
+      "doi": "10.1177/02698811261481085",
+      "summary_en": "Systematic review of 13 preclinical studies examining ketamine and esketamine effects on mitochondrial function. Low therapeutic doses showed minimal adverse effects on membrane potential and energy production, while higher concentrations induced dysfunction. Human safety data remain limited; further research needed to clarify mitochondrial effects at antidepressant dosages.",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "review",
+      "substances": [
+        "ketamine"
+      ],
+      "added_at": "2026-09-08T11:32:38.587024+00:00"
+    },
+    {
+      "title": "Two New Zealand Psychiatrists Approved to Prescribe MDMA for PTSD",
+      "url": "https://psychedelicalpha.com/news/two-new-zealand-psychiatrists-approved-to-prescribe-mdma-for-ptsd/",
+      "source": "Psychedelic Alpha",
+      "date": "2026-09-07",
+      "authors": [],
+      "doi": "",
+      "summary_en": "Two psychiatrists in New Zealand have received regulatory approval to prescribe MDMA for post-traumatic stress disorder (PTSD) treatment. This marks a significant development in clinical access to psychedelics within the country's mental healthcare framework.",
+      "notable": true,
+      "notable_reason": "First regulatory approval of prescribers for MDMA-assisted PTSD treatment in New Zealand—a national policy milestone",
+      "study_type": "other",
+      "substances": [
+        "mdma"
+      ],
+      "added_at": "2026-09-08T11:32:38.587024+00:00"
+    },
+    {
       "title": "The Effect of Psychedelics on Associative Learning: a Systematic Review.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42702287/",
       "source": "PubMed",

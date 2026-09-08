@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-07T12:53:01.776451+00:00",
+  "generated_at": "2026-09-08T11:34:12.054050+00:00",
   "items": [
     {
       "title": "Blinding integrity in psychedelic research: Evidence from a comparative randomized controlled trial of psilocybin, MDMA, and methylphenidate in healthy volunteers",
@@ -32,6 +32,197 @@
         "mdma"
       ],
       "added_at": "2026-07-09T10:03:12.956794+00:00"
+    },
+    {
+      "title": "Is (S)-norketamine an active mediator of esketamine's antidepressant effects?",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42706419/",
+      "source": "PubMed",
+      "date": "2026-09-07",
+      "authors": [
+        "Hashimoto Kenji",
+        "Yang Chun"
+      ],
+      "doi": "10.1038/s41380-026-03867-y",
+      "summaries": {
+        "en": "Researchers investigate whether (S)-norketamine, a metabolite of esketamine, mediates the antidepressant effects of esketamine. This mechanistic study examines the pharmacological role of this breakdown product in producing therapeutic outcomes, relevant for understanding how esketamine-based treatments work.",
+        "sv": "Forskare undersöker om (S)-norketamin, en metabolit av esketamin, förmedlar esketamins antidepressiva effekter. Denna mekanistisk studie granskar den farmakologiska rollen för denna nedbrytningsprodukt i terapeutiska effekter, vilket är relevant för förståelsen av hur esketaminbehandlingar fungerar.",
+        "no": "Forskere undersøker om (S)-norketamin, en metabolitt av esketamin, formidler esketamins antidepressive effekter. Denne mekanistiske studien vurderer den farmakologiske rollen til dette nedbrytningsproduktet i terapeutiske utfall, relevant for å forstå hvordan esketaminbehandlinger virker.",
+        "da": "Forskere undersøger, om (S)-norketamin, et metabolit af esketamin, formidler esketamins antidepressive effekter. Denne mekanistiske undersøgelse vurderer den farmakologiske rolle for dette nedbrydningsprodukt i terapeutiske resultater, relevant for forståelsen af, hvordan esketaminbehandlinger virker.",
+        "fi": "Tutkijat selvittävät, välittääkö (S)-norketamiini, esketamiinin aineenvaihduntotuote, esketamiinin masennuslääkkeen vaikutusta. Tämä mekanistinen tutkimus tarkastelee tämän hajoamistuotteen farmakologista roolia terapeuttisissa tuloksissa, mikä on tärkeää esketamiinihoidon ymmärtämiseksi.",
+        "is": "Vísindamenn rannsaka hvort (S)-norketamín, efniefnastofa esketamíns, miðlar geislakvillandi áhrifum esketamíns. Þessi vélræna rannsókn kannar lyfjafræðilegt hlutverk þessa niðurbrotsvara í meðferðarniðurstöðum, sem skiptir máli fyrir skilning á því hvernig esketamínmeðferð virkar.",
+        "et": "Teadlased uurivad, kas (S)-norketamiin, esketamiini metaboliit, vahendab esketamiini depressioonivastaseid efekte. See mehhanistiline uuring uurib selle lagundamistoote farmakoloogilist rolli terapeutilistes tulemites, mis on oluline esketamiini ravi toime mõistmiseks.",
+        "lv": "Pētnieki pēta, vai (S)-norketamīns, esketamīna metabolīts, starpniecībā ietekmē esketamīna pretdepresijas efektus. Šis mehāniskas pētījums pārbauda šī sadalīšanās produkta farmakoloģisko lomu terapeitiskajos rezultātos, kas ir svarīgi esketamīna ārstēšanas darbības izpratnei.",
+        "lt": "Tyrėjai tiria, ar (S)-norketaminas, esketamino metabolitas, tarpininkaujaantidepresantinius esketamino efektus. Šis mechaninis tyrimas nagrinėja šio skilimo produkto farmakologinį vaidmenį terapiniuose rezultatuose, svarbiame suprasti, kaip veikia esketamino gydymas."
+      },
+      "notable": false,
+      "notable_reasons": null,
+      "relevance_score": 4,
+      "study_type": "other",
+      "substances": [
+        "ketamine"
+      ],
+      "added_at": "2026-09-08T11:32:38.587024+00:00"
+    },
+    {
+      "title": "Higher signal diversity, network dysregulation, and increased well-being under DMT administration: An EEG study.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42705377/",
+      "source": "PubMed",
+      "date": "2026-09-07",
+      "authors": [
+        "Kroupi Eleni",
+        "Araujo Helena",
+        "Oosterveld Cas"
+      ],
+      "doi": "10.1016/j.brainres.2026.150530",
+      "summaries": {
+        "en": "A 13-participant EEG study examined intravenous DMT versus placebo effects on brain activity and emotional states. DMT increased signal complexity (HFD and PE metrics) correlated with subjective intensity, while reducing functional connectivity and network efficiency in alpha/beta bands. Frontal alpha asymmetry indicated increased well-being. These findings extend understanding of psychedelic effects beyond typical alpha power reductions.",
+        "sv": "En EEG-studie med 13 deltagare undersökte effekterna av intravenös DMT jämfört med placebo på hjärnaktivitet och emotionella tillstånd. DMT ökade signalkomplexitet (HFD- och PE-mått) korrelerad med upplevd intensitet, medan funktionell konnektivitet och nätverkseffektivitet minskade i alfa/betabanden. Frontal alfaband-asymmetri indikerade ökad välmående.",
+        "no": "En EEG-studie med 13 deltakere undersøkte effektene av intravenøs DMT sammenlignet med placebo på hjernaktivitet og emosjonelle tilstander. DMT økte signalkompleksitet (HFD- og PE-mål) korrelert med opplevd intensitet, mens funksjonell konnektivitet og nettverkseffektivitet minket i alfa/betabånd. Frontal alfaband-asymmetri indikerte økt velvære.",
+        "da": "En EEG-undersøgelse med 13 deltagere undersøgte virkningerne af intravenøs DMT sammenlignet med placebo på hjerneaktivitet og følelsestilstande. DMT øgede signalkompleksitet (HFD- og PE-mål) korreleret med oplevet intensitet, mens funktionel forbindelse og netværkseffektivitet faldt i alfa/betabånd. Frontal alfaband-asymmetri indikerede øget velbefindende.",
+        "fi": "13 osallistujan EEG-tutkimus vertaili sisäänlaskettavaa DMT:tä ja lumelääkettä aivojen aktiivisuuden ja emotionaalisten tilojen osalta. DMT lisäsi signaalin kompleksisuutta (HFD- ja PE-mittarit), joka korreloi subjektiivisen intensiteetin kanssa, samalla kun funktionaalinen konnektiviteetti ja verkon tehokkuus vähenivät alfa/betataajuuksilla. Frontaalinen alfaband-asymmetria vihjasi lisääntyneeseen hyvinvointiin.",
+        "is": "EEG-rannsókn með 13 þátttakendum skoðaði áhrif intravenórar DMT miðað við lyfleysu á heilastarfsemi og tilfinningaleg ástand. DMT jók flókið merki (HFD og PE mælingar) sem fylgdist með skynjuðum styrk, en funktíónaleg tenging og netskilvirknileikat fækkaðist í alfa/betaböndum. Frontal alfabands ósamhverfa benti til aukins líðanleika.",
+        "et": "EEG-uuringus 13 osalejaga võrreldi endovenoosset DMT platseebot. DMT suurendas signaalide keerukust (HFD ja PE mõõdikud), mis korreleerus subjektiivse intensiivsusega, samal ajal kui funktsionaalne ühendus ja võrgu efektiivsus vähenesid alfa/beeta sagedusalas. Frontaalne alfabandi asümmeetria näitas paranenud heaolu.",
+        "lv": "EEG pētījumā ar 13 dalībniekiem tika salīdzināti intravenozi DMT un placebo iedarbības uz smadzeņu aktivitāti un emocionālo stāvokli. DMT palielināja signāla sarežģītību (HFD un PE rādītāji), kas korelēja ar subjektīvo intensitāti, savukārt funkcionālā savienojamība un tīkla efektivitāte samazinājās alfa/beta frekvenču joslās. Frontālā alfa joslas asimetrija norādīja uz paaugstinātu labsajūtu.",
+        "lt": "EEG tyrime su 13 dalyviais buvo lygintas intraveninės DMT ir placebo poveikis smegenų aktyvumui ir emocinei būsenai. DMT padidino signalo sudėtingumą (HFD ir PE rodikliai), kuris buvo susijęs su subjektyviu intensyvumu, o funkcinė jungtis ir tinklo efektyvumas sumažėjo alfa/beta dažnių diapazone. Frontalinė alfa juostos asimetrija reiškė padidėjusią gerovę."
+      },
+      "notable": false,
+      "notable_reasons": null,
+      "relevance_score": 4,
+      "study_type": "rct",
+      "substances": [
+        "other"
+      ],
+      "added_at": "2026-09-08T11:32:38.587024+00:00"
+    },
+    {
+      "title": "The Antidepressant Effects of the mGlu2/3 Receptor Antagonist TS-161 in Treatment-Resistant Depression: A Phase IIa Proof-of-Concept Clinical Trial.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42704784/",
+      "source": "PubMed",
+      "date": "2026-09-07",
+      "authors": [
+        "Kvarta Mark D",
+        "Watanabe Mai",
+        "Ozaki Satoshi"
+      ],
+      "doi": "10.1097/JCP.0000000000002246",
+      "summaries": {
+        "en": "The Antidepressant Effects of the mGlu2/3 Receptor Antagonist TS-161 in Treatment-Resistant Depression: A Phase IIa Proof-of-Concept Clinical Trial.",
+        "sv": "The Antidepressant Effects of the mGlu2/3 Receptor Antagonist TS-161 in Treatment-Resistant Depression: A Phase IIa Proof-of-Concept Clinical Trial.",
+        "no": "The Antidepressant Effects of the mGlu2/3 Receptor Antagonist TS-161 in Treatment-Resistant Depression: A Phase IIa Proof-of-Concept Clinical Trial.",
+        "da": "The Antidepressant Effects of the mGlu2/3 Receptor Antagonist TS-161 in Treatment-Resistant Depression: A Phase IIa Proof-of-Concept Clinical Trial.",
+        "fi": "The Antidepressant Effects of the mGlu2/3 Receptor Antagonist TS-161 in Treatment-Resistant Depression: A Phase IIa Proof-of-Concept Clinical Trial.",
+        "is": "The Antidepressant Effects of the mGlu2/3 Receptor Antagonist TS-161 in Treatment-Resistant Depression: A Phase IIa Proof-of-Concept Clinical Trial.",
+        "et": "The Antidepressant Effects of the mGlu2/3 Receptor Antagonist TS-161 in Treatment-Resistant Depression: A Phase IIa Proof-of-Concept Clinical Trial.",
+        "lv": "The Antidepressant Effects of the mGlu2/3 Receptor Antagonist TS-161 in Treatment-Resistant Depression: A Phase IIa Proof-of-Concept Clinical Trial.",
+        "lt": "The Antidepressant Effects of the mGlu2/3 Receptor Antagonist TS-161 in Treatment-Resistant Depression: A Phase IIa Proof-of-Concept Clinical Trial."
+      },
+      "notable": false,
+      "notable_reasons": null,
+      "relevance_score": 4,
+      "study_type": "rct",
+      "substances": [
+        "ketamine"
+      ],
+      "added_at": "2026-09-08T11:32:38.587024+00:00"
+    },
+    {
+      "title": "Exploratory Insights into 5-MeO-DMT Experiences on Reddit: A Thematic Analysis.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42704210/",
+      "source": "PubMed",
+      "date": "2026-09-07",
+      "authors": [
+        "Swieczkowski Damian",
+        "Kwaśny Aleksander",
+        "Cubała Wiesław Jerzy"
+      ],
+      "doi": "10.1080/02791072.2026.2727030",
+      "summaries": {
+        "en": "Qualitative analysis of 120 Reddit posts examined self-reported 5-MeO-DMT experiences. Users reported individualized dosing, distinct tolerance patterns, and introspective, emotionally transformative effects. Preparation, supportive environment, and integration practices were emphasized as essential. Users demonstrated awareness of pharmacological interactions and harm-reduction practices. Socio-cultural narratives about origins and ethics influenced perceptions.",
+        "sv": "Kvalitativ analys av 120 Reddit-inlägg undersökte självrapporterade erfarenheter med 5-MeO-DMT. Användare rapporterade individualiserad dosering, särskilda toleransmönster och introspektiva, känslomässigt omvandlande effekter. Förberedelse, stödjande miljö och integrationspraxis framhölls som väsentliga. Användarna visade medvetenhet om farmakologiska interaktioner och skadereducerande praktiker.",
+        "no": "Kvalitativ analyse av 120 Reddit-innlegg undersøkte selvrapporterte erfaringer med 5-MeO-DMT. Brukere rapporterte individualisert dosering, særegne toleransmonster og introspektive, følelsesmessig transformative effekter. Forberedelse, støttende miljø og integrasjonspraksiser ble vektlagt som essensielle. Brukerne viste bevissthet om farmakologiske interaksjoner og skadereduseringspraksiser.",
+        "da": "Kvalitativ analyse af 120 Reddit-indlæg undersøgte selvrapporterede erfaringer med 5-MeO-DMT. Brugere rapporterede individualiseret dosering, særskilte tolerancemønstre og introspektive, følelsesmæssigt transformative effekter. Forberedelse, støttende miljø og integrationspraksis blev fremhævet som væsentlige. Brugerne viste bevidsthed om farmakologiske interaktioner og skadereduceringspraksis.",
+        "fi": "Laadullinen analyysi 120 Reddit-viestistä tutki itseraportoituja kokemuksia 5-MeO-DMT:n kanssa. Käyttäjät ilmoittivat yksilöllisestä annoksista, erillisistä toleranssikuvioista ja introspektiivisista, tunneperäisesti muuttavista vaikutuksista. Valmistelu, tukeva ympäristö ja integraatiokäytännöt korostettiin välttämättöminä. Käyttäjät osoittivat tietoisuutta farmakologisista vuorovaikutuksista ja vahinkojen vähentämiskäytännöistä.",
+        "is": "Eigindlæg greining á 120 Reddit-færslum rannsakaði sjálfskilgreind reynslu með 5-MeO-DMT. Notendur tilkyntu um einstaklingsmiðaða skammta, sérkennilega þolnæmismynstur og hugleiðandi, tilfinningalega umbreytandi áhrif. Undirbúningur, stuðningsríkt umhverfi og samþættingaraðferðir voru álitin nauðsynleg. Notendur sýndu meðvitund um lyfjafræðilega samspil og tjónsleysandi aðferðir.",
+        "et": "Kvalitatiivne analüüs 120 Reddit-postitusest uuris ise teatavat kogemust 5-MeO-DMT-ga. Kasutajad teatasid individualiseeritud doseerimisest, erinevast taluvusest ja introspektiivsetest, emotsionaalselt transformatiivsetest mõjudest. Ettevalmistus, toetav keskkond ja integreerimise praktikad olid olulised. Kasutajad näitasid teadlikkust farmakoloogilisest koostoimes ja kahjude vähendamise praktikatest.",
+        "lv": "Kvalitatīvā analīze no 120 Reddit ierakstiem pārbaudīja pašpārskatītas pieredzes ar 5-MeO-DMT. Lietotāji ziņoja par individualizētu devu, atšķirīgu tolerances modelēm un introspektīvām, emocionāli transformējošām iedarbībām. Gatavošanās, atbalstošā vide un integrācijas prakses tika uzskatītas par būtiskām. Lietotāji parādīja izpratni par farmakoloģisko mijiedarbību un kaitējuma samazināšanas praksi.",
+        "lt": "Kokybinė 120 Reddit įrašų analizė nagrinėjo saviraporte atliktą patirtį su 5-MeO-DMT. Vartotojai pranešė apie individualizuotą dozavimą, skirtingą tolerancijos profilį ir introspektyvius, emocionaliai transformuojančius efektus. Pasiruošimas, palaikantis aplinka ir integracijos praktikos buvo laikomi būtinais. Vartotojai parodė suvokimą apie farmakologines sąveikas ir žalos mažinimo praktikas."
+      },
+      "notable": false,
+      "notable_reasons": null,
+      "relevance_score": 4,
+      "study_type": "qualitative",
+      "substances": [
+        "other"
+      ],
+      "added_at": "2026-09-08T11:32:38.587024+00:00"
+    },
+    {
+      "title": "The effect of ketamine on mitochondrial bioenergetics, viability, and function: A systematic review.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42704076/",
+      "source": "PubMed",
+      "date": "2026-09-07",
+      "authors": [
+        "Wong Sabrina",
+        "Le Gia Han",
+        "Selby Simryn"
+      ],
+      "doi": "10.1177/02698811261481085",
+      "summaries": {
+        "en": "Systematic review of 13 preclinical studies examining ketamine and esketamine effects on mitochondrial function. Low therapeutic doses showed minimal adverse effects on membrane potential and energy production, while higher concentrations induced dysfunction. Human safety data remain limited; further research needed to clarify mitochondrial effects at antidepressant dosages.",
+        "sv": "Systematisk översikt av 13 prekliniska studier om ketamins och esketamins effekter på mitokondriefunktion. Låga terapeutiska doser visade minimal skada på membranpotential och energiproduktion, medan högre koncentrationer orsakade dysfunktion. Säkerhetsdata från människor är begränsade; ytterligare forskning krävs.",
+        "no": "Systematisk gjennomgang av 13 prekliniske studier om ketamins og esketamins effekter på mitokondriefunksjon. Lave terapeutiske doser viste minimal skade på membranpotensial og energiproduksjon, mens høyere konsentrasjoner forårsaket dysfunksjon. Menneskedata mangler; videre forskning nødvendig for å avklare mitokondrieffekter.",
+        "da": "Systematisk gennemgang af 13 præklin­iske studier om ketamins og esketamins effekter på mitokondriefunktion. Lave terapeutiske doser viste minimal skade på membranpotentiale og energiproduktion, mens højere koncentrationer inducerede dysfunktion. Menneskedata er begrænsede; yderligere forskning nødvendig.",
+        "fi": "Järjestelmällinen katsaus 13 prekliiniseen tutkimukseen ketamiinin ja esketamiinin vaikutuksista mitokondrioiden toimintaan. Alhaiset terapeutttiset annokset eivät aiheuttaneet merkittävää vahinkoa kalvopotentiaaliin ja energiantuotantoon, kun taas korkeammat pitoisuudet indusoivat toimintahäiriöitä. Ihmisaineisto on rajoittunut; lisätutkimus tarpeen.",
+        "is": "Kerfræðileg endurskoðun 13 forrannsókna á áhrifum ketamíns og esketamíns á virkni mitkókondría. Lágar meðferðarskammtar sýndu lágmarks skaða á himininn og orkuframleiðslu, en hærri styrkleikar framkölluðu biun. Manneskjugögn eru takmörkuð; frekari rannsóknir nauðsynlegar.",
+        "et": "13 prekliinilise uuringu süstemaatiline ülevaade ketamiini ja esketamiini toimest mitokondrite funktsioonile. Madalad teraapiaviigilised doosid ei põhjustanud märkimisväärset kahjustust membranipotentiaalile ja energiatootmisele, kuid kõrgemad kontsentratsioonid põhjustasid disfunktsiooni. Inimeste ohutusandmed on piiratud; täiendavad uuringud vajalikud.",
+        "lv": "13 preklinisko pētījumu sistēmiska pārskatīšana par ketamīna un esketamīna ietekmi uz mitohondriju funkciju. Zemās terapeitiskās devas izrādīja minimālu kaitējumu membrānas potenciālam un enerģijas ražošanai, bet augstākas koncentrācijas izraisīja disfunkciju. Cilvēku drošuma dati ir ierobežoti; nepieciešami papildu pētījumi.",
+        "lt": "13 preklinikinio tyrimų sisteminė apžvalga apie ketamino ir esketamino poveikį mitochondrijų funkcijoms. Žemos terapinius dozius nesudarė reikšmingo pavojaus membranų potencialui ir energijos gamybai, tačiau aukštesnės koncentracijos sukelė disfunkciją. Žmonių saugumo duomenys yra ribotas; reikalingi tolimesni tyrimai."
+      },
+      "notable": false,
+      "notable_reasons": null,
+      "relevance_score": 4,
+      "study_type": "review",
+      "substances": [
+        "ketamine"
+      ],
+      "added_at": "2026-09-08T11:32:38.587024+00:00"
+    },
+    {
+      "title": "Two New Zealand Psychiatrists Approved to Prescribe MDMA for PTSD",
+      "url": "https://psychedelicalpha.com/news/two-new-zealand-psychiatrists-approved-to-prescribe-mdma-for-ptsd/",
+      "source": "Psychedelic Alpha",
+      "date": "2026-09-07",
+      "authors": [],
+      "doi": "",
+      "summaries": {
+        "en": "Two psychiatrists in New Zealand have received regulatory approval to prescribe MDMA for post-traumatic stress disorder (PTSD) treatment. This marks a significant development in clinical access to psychedelics within the country's mental healthcare framework.",
+        "sv": "Två psykiatrer i Nya Zeeland har fått myndighetsgodkännande att ordinera MDMA för behandling av posttraumatisk stress. Detta utgör ett betydande steg för klinisk tillgång till psykedelika inom landets mentalvårdsystem.",
+        "no": "To psykiatere i New Zealand har fått regulatorisk godkjenning til å forskrive MDMA for behandling av posttraumatisk stresslidelse. Dette markerer en betydelig utvikling for klinisk tilgang til psykedelika innenfor landets psykiske helsevesen.",
+        "da": "To psykiatere i New Zealand har fået myndighedsgodkendelse til at ordinere MDMA til behandling af posttraumatisk belastningstilstand. Dette markerer en betydelig udvikling for klinisk adgang til psykedelika inden for landets psykiske sundhedssystem.",
+        "fi": "Kaksi psykiatria Uudessa-Seelannissa on saanut sääntelyviranomaisten hyväksynnän MDMA:n määräämiseen posttraumaattisen stressihäiriön hoitoon. Tämä merkitsee merkittävää kehitystä psykedeelejä koskevalle kliiniselle saatavuudelle maan mielenterveyspalveluissa.",
+        "is": "Tveir geðlæknar á Nýju-Sjálandi hafa fengið samþykki eftirlitsaðila til að ávísa MDMA fyrir meðferð sálkrafameinunar. Þetta táknar umtalsverða þróun varðandi klíníska aðgengi að geðhrif innan heilbrigðiskerfis landsins.",
+        "et": "Kaks psühhiaatrit Uus-Meremaal on saanud reguleerivate asutuste heakskiidu MDMA määramiseks posttraumaatilise stressihäire raviks. See märgib arengut psühhedeelikumide kliinilisele kättesaadavusele riigi psüühika-abiliste teenuste raamistikus.",
+        "lv": "Divi Jaunās Zēlandes psihiatri ir saņēmuši regulējošo iestāžu atļauju MDMA nozīmēšanai pēctraumatisku stresu traucējuma ārstēšanai. Tas atzīmē nozīmīgu attīstību psihedēliku klīniskajai pieejamībai valsts garīgās veselības aprūpes sistēmā.",
+        "lt": "Du Naujosios Zelandijos psichiatrai gavo reguliacinių institucijų leidimą skirti MDMA kompleksiniam stresui po traumos gydyti. Tai žymi reikšmingą pažangą psichedelikams prieinamas klinikas prieigai šalies psichikos sveikatos sistemoje."
+      },
+      "notable": true,
+      "notable_reasons": {
+        "en": "First regulatory approval of prescribers for MDMA-assisted PTSD treatment in New Zealand—a national policy milestone",
+        "sv": "Första regulatoriska godkännandet av förskrivare för MDMA-assisterad PTSD-behandling i Nya Zeeland—en nationell policymilepål",
+        "no": "Første regulatoriske godkjenning av foreskrivere for MDMA-assistert PTSD-behandling i New Zealand—en nasjonal politisk milepæl",
+        "da": "Første regulatoriske godkendelse af receptudstedere for MDMA-assisteret PTSD-behandling i New Zealand—en national politisk milepæl",
+        "fi": "Ensimmäinen sääntelyviranomaisen hyväksyntä MDMA-avusteiselle PTSD-hoidolle määrääville lääkäreille Uudessa-Seelannissa—kansallinen poliittinen virstanpylväs",
+        "is": "Fyrsti eftirlitssamþykkti fyrir MDMA-aðstoðað PTSD-meðferð fyrir lyfjaávörðun á Nýju-Sjálandi—innlend stefnumótun tímamót",
+        "et": "Esimene regulatiivsus heakskiit MDMA-abistatud PTSD ravi määramiseks Uus-Meremaal—rahvuslik poliitika verstapost",
+        "lv": "Pirmais normatīvais apstiprinājums MDMA-palīdzētai PTSD ārstēšanai Jaunajā Zēlandē—nacionāls politikas etaps",
+        "lt": "Pirmas reguliacinis patvirtinimas MDMA-pagalbai skirtai PTSD gydymui Naujojoje Zelandijoje—nacionalinis politikos šaltinis"
+      },
+      "relevance_score": 4,
+      "study_type": "other",
+      "substances": [
+        "mdma"
+      ],
+      "added_at": "2026-09-08T11:32:38.587024+00:00"
     },
     {
       "title": "The Effect of Psychedelics on Associative Learning: a Systematic Review.",
@@ -1760,205 +1951,6 @@
         "other"
       ],
       "added_at": "2026-08-14T07:56:27.920057+00:00"
-    },
-    {
-      "title": "Efficacy and Safety of Psychedelic Microdosing on Psychological Outcomes in Healthy Adults: A Systematic Review and Meta-analysis.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42593636/",
-      "source": "PubMed",
-      "date": "2026-08-13",
-      "authors": [
-        "Meshkat Shakila",
-        "Leung Marco",
-        "Meshkat Sarina"
-      ],
-      "doi": "10.1007/s40263-026-01325-5",
-      "summaries": {
-        "en": "Systematic review and meta-analysis of 24 studies (3,681 participants) examining psychedelic microdosing in healthy adults. RCTs of psilocybin and LSD showed subjective and neurophysiological effects but minimal impact on cognition, creativity, or sustained mood improvement. Observational studies reported mood and personality benefits, suggesting study design influences outcomes. Safety data from RCTs indicate generally minor adverse effects.",
-        "sv": "Systematisk genomgång och metaanalys av 24 studier (3 681 deltagare) om psykedelisk mikrodosering hos friska vuxna. RCT:er med psylocybin och LSD visade subjektiva och neurofysiologiska effekter men minimal påverkan på kognition, kreativitet eller varaktig humörförbättring. Observationsstudier rapporterade humör- och personlighetsförbättringar, vilket tyder på att studiedesign påverkar resultaten.",
-        "no": "Systematisk gjennomgang og metaanalyse av 24 studier (3 681 deltakere) om psykedelisk mikrodosering hos friske voksne. RCT-er med psilocybin og LSD viste subjektive og nevrofysiologiske effekter, men minimale effekter på kognisjon, kreativitet eller vedvarende humørforbedring. Observasjonsstudier rapporterte humør- og personlighetsforbedringer, noe som tyder på at studiedesign påvirker resultatene.",
-        "da": "Systematisk oversigt og metaanalyse af 24 studier (3.681 deltagere) om psykedelisk mikrodosering hos raske voksne. RCT'er med psilocybin og LSD viste subjektive og neurofysiologiske effekter, men minimal påvirkning på kognition, kreativitet eller vedvarende humørforbedring. Observationsstudier rapporterede humør- og personlighedsforbedringer, hvilket tyder på at studiedesign påvirker resultaterne.",
-        "fi": "Systemaattinen katsaus ja meta-analyysi 24 tutkimuksesta (3 681 osallistujaa) psykedeelistä mikrodoseerausta tutkien terveillä aikuisilla. Psilosybiini- ja LSD-RCT:t osoittivat subjektiivisia ja neurofysiologisia vaikutuksia, mutta minimaaliset vaikutukset kognitioon, luovuuteen tai pitkäaikaiseen mielialan parantumiseen. Havainnointi tutkimukset raportoivat mielialan ja persoonallisuuden parannuksia, mikä viittaa tutkimussuunnitelman vaikutukseen tuloksiin.",
-        "is": "Kerfbundin yfirlit og gagnagreiningu 24 rannsókna (3.681 þátttakendur) um sáleinravirkra ört-skammta hjá heilbrigðum fullorðnum. Tilraunir með psílosýbíni og LSD sýndu huglæga og taugafræðilega áhrif en mjög lítil áhrif á hugsun, sköpun eða viðvarandi bætingu á stjórnmálum. Athugunarrannsóknir greyndu frá bætingu á skap og persónuleika, sem bendir til áhrifa rannsóknarhönnunar.",
-        "et": "Süstemaatiline ülevaade ja metaanalüüs 24 uuringust (3 681 osalejat) psühhedeelikute mikrodoseerimisest tervetel täiskasvanutel. Psülotsibiini ja LSD RCT-d näitasid subjektiivseid ja neurofüsioloogilisi efekte, kuid minimaalset mõju kognitsioonile, loovusele või püsivale meeleolu parandamisele. Vaatlusuuringud kajastasid meeleolu ja isiksuse paranemist, mis viitab uuringu disaini mõjule tulemustele.",
-        "lv": "Sistematisks pārskats un metaanalīze no 24 pētījumiem (3 681 dalībnieks) par psihedelisko mikrodozēšanu veselos pieaugušos. Psilocibīna un LSD RCT parādīja subjektīvas un neirofizioloģiskas ietekmes, bet minimālu ietekmi uz kognitīvajiem spējām, radošumu vai ilgstošu noskaņojuma uzlabošanu. Novērojuma pētījumi ziņoja par noskaņojuma un personības uzlabošanu, kas norāda uz pētījuma dizaina ietekmi uz rezultātiem.",
-        "lt": "Sisteminė apžvalga ir metaanalizė iš 24 tyrimų (3 681 dalyvis) apie psichedelių mikrodozavimą sveikiems suaugusiems. Psilocibino ir LSD RCT parodė subjektyvius ir neurofiziolinius efektus, bet minimalų poveikį pažinimui, kūrybingumui ar nuolatiniam nuotaikos pagerinimui. Stebėjimo tyrimai pranešė apie nuotaikos ir asmenybės pagerinimą, kas rodo tyrimų projekto įtaką rezultatams."
-      },
-      "notable": true,
-      "notable_reasons": {
-        "en": "Large meta-analysis (n=3,681 participants across 24 studies, 6 contributing to pooled analyses) synthesizing RCT and observational evidence on psilocybin and LSD microdosing with safety outcomes.",
-        "sv": "Stor metaanalys (n=3 681 deltagare från 24 studier, 6 bidragande till poolade analyser) som syntetiserar RCT och observationell evidens om psilocybin och LSD microdosing med säkerhetsmått.",
-        "no": "Stor metaanalyse (n=3 681 deltakere på tvers av 24 studier, 6 som bidro til poolete analyser) som syntetiserer RCT og observasjonsdata om psilocybin og LSD microdosing med sikkerhetsutsagn.",
-        "da": "Stor metaanalyse (n=3 681 deltagere på tværs af 24 studier, 6 bidragende til poolede analyser) der syntetiserer RCT og observationsdata om psilocybin og LSD microdosing med sikkerhedsmål.",
-        "fi": "Suuri meta-analyysi (n=3 681 osallistujaa 24 tutkimuksesta, joista 6 osallistui yhdisteltyihin analyyseihin) syntetisoidaan RCT ja observaatiotutkimusnäyttöä psilosybiinin ja LSD-mikroannosttelusta turvallisuustulosten kanssa.",
-        "is": "Stór meta-greining (n=3 681 þátttakendur á 24 rannsóknum, 6 með framlagandi til sameinaðra greininga) sem einir saman RCT og athugunargögn um psilocybin og LSD microdosing með öryggisniðurstöðum.",
-        "et": "Suur metaanalüüs (n=3 681 osalejat 24 uuringust, 6 osalejat ühendatud analüüsides) RCT ja vaatlusandmete süntees psilotsübiini ja LSD mikrodoseerimise turvallisuustulemuste kohta.",
-        "lv": "Liela meta-analīze (n=3 681 dalībnieks 24 pētījumos, 6 devuši ieguldījumu apvienotajās analīzēs) sintezējot RCT un novērojumos balstītos datus par psilocybin un LSD mikrodozēšanu ar drošības rezultātiem.",
-        "lt": "Didelė meta-analizė (n=3 681 dalyviai 24 tyrimuose, 6 prisidėję prie suvestinių analitinių duomenų) sintetinanti RCT ir stebėjimo duomenis apie psilocybin ir LSD mikrodozavimą su saugumo rezultatais."
-      },
-      "relevance_score": 4,
-      "study_type": "review",
-      "substances": [
-        "psilocybin",
-        "lsd"
-      ],
-      "added_at": "2026-08-14T07:56:27.920057+00:00"
-    },
-    {
-      "title": "Psilocybin-Assisted Therapy in Psychiatry: A Narrative Clinical Review of Mechanisms, Therapeutic Applications, and Emerging Evidence (2025-2026).",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42652632/",
-      "source": "PubMed",
-      "date": "2026-08-12",
-      "authors": [
-        "Anghel Teodora",
-        "Cojocaru Adriana",
-        "Hogea Lavinia"
-      ],
-      "doi": "10.3390/jcm15166228",
-      "summaries": {
-        "en": "A narrative clinical review examining psilocybin-assisted therapy in psychiatry. The review synthesizes evidence on mechanisms of action, therapeutic applications across psychiatric conditions, and current empirical findings. Provides clinicians with an overview of this emerging treatment approach based on recent literature.",
-        "sv": "En narrativ klinisk överblick över psiklocybin-assisterad terapi inom psykiatrin. Granskningen sammanfattar mekanismer, terapeutiska tillämpningar vid olika psykiatriska tillstånd och aktuell evidens. Ger kliniker en översikt över denna växande behandlingsmetod baserad på senaste forskningen.",
-        "no": "En narrativ klinisk gjennomgang av psilocybin-assistert terapi innen psykiatri. Oversikten syntetiserer mekanismer, terapeutiske anvendelser ved psykiatriske lidelser og gjeldende empiri. Gir kliniker en oversikt over denne framvoksende behandlingsmetoden basert på nyere litteratur.",
-        "da": "En narrativ klinisk gennemgang af psilocybin-assisteret terapi inden for psykiatri. Gennemgangen sammenfatter virkningsmekanismer, terapeutiske anvendelser ved psykiatriske tilstande og aktuelle beviser. Giver klinikere overblik over denne voksende behandlingstilgang baseret på seneste forskning.",
-        "fi": "Narratiivinen klininen katsaus psilosybiini-avusteisesta terapiasta psykiatriassa. Katsaus kokoaa vaikutusmekanismeja, terapeuttisia soveltamiskohteita psykiatrisissa sairauksissa ja nykyistä näyttöä. Antaa klinikoille yleiskuvan tästä kehittyvästä hoitomenetelmästä viimeisen tutkimuksen perusteella.",
-        "is": "Skýring um psilocybín-aðstoðað meðferð í geðlæknisfræði. Yfirlit yfir virknikerfi, meðferðarnotkun við geðraskanir og núverandi vísindalegar niðurstöður. Veitir klínískum starfsmönnum yfirlit yfir þessa nýja meðferðaraðferð á grundvelli nýlegrar rannsókna.",
-        "et": "Narratiivne klinikaline ülevaade psilotsübiini-abil antavast teraapiast psühhiaatrias. Ülevaade kokkuvõtab toimemehhanisme, ravi rakendusi psühhiaatrilisel häiretel ja praeguseid tõendeid. Annab klinitsistidele ülevaate selle arenevast ravimeetodist praeguse kirjanduse alusel.",
-        "lv": "Naratīva klīniskā pārskats par psilocibīna-asistētu terapiju psihiātrijas jomā. Pārskats apkopo darbības mehānismus, terapeitiskos pielietojumus psihiatriskos stāvokļos un pašreizējos pierādījumus. Sniedz klīniciešiem pārskatu par šo augošo ārstēšanas pieeju pēc jaunākās literatūras.",
-        "lt": "Naratyvinė klininė apžvalga apie psilocinbino-pagalbinę terapiją psichiatrijoje. Apžvalga apibendrina veikimo mechanizmus, terapinius pritaikymus psichiatriniams sutrikimams ir šiuos duomenis. Suteikia klinicistams apžvalgą apie šį augantį gydymo būdą, remiantis naujausia literatūra."
-      },
-      "notable": false,
-      "notable_reasons": null,
-      "relevance_score": 4,
-      "study_type": "review",
-      "substances": [
-        "psilocybin"
-      ],
-      "added_at": "2026-08-27T17:44:17.771269+00:00"
-    },
-    {
-      "title": "Psychedelic integration beyond the verbal: participatory-imaginal processing as a hypothesis-generating therapeutic framework.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42656547/",
-      "source": "PubMed",
-      "date": "2026-08-12",
-      "authors": [
-        "Back Anthony L",
-        "Bosnak Robert"
-      ],
-      "doi": "10.3389/fpsyt.2026.1895181",
-      "summaries": {
-        "en": "Psilocybin therapy in cancer patients often produces vivid embodied experiences that resist verbal description. This article proposes participatory-imaginal processing as an integration approach that directly engages these non-verbal experiences without requiring translation into narrative, potentially allowing patients to re-access and consolidate psychedelic insights into lasting therapeutic touchstones.",
-        "sv": "Psylocybinterapi hos cancerpatienter framkallar ofta intensiva kroppsliga och imaginära upplevelser som är svåra att beskriva verbalt. Artikeln föreslår participatorisk-imaginär bearbetning som en integreringsmetod som direkt engagerar dessa icke-verbala erfarenheter utan att kräva omvandling till berättelse, vilket potentiellt kan hjälpa patienter att återkoppla och befästa psykedeliska insikter.",
-        "no": "Psilocybinterapi hos kreftpasienter frambringer ofte intense somatiske og imaginære opplevelser som er vanskelige å beskrive verbalt. Artikkelen foreslår deltakende-imaginær prosessering som en integreringsmetode som direkte engasjerer disse ikke-verbale erfaringene uten å kreve omgjøring til fortelling, og kan potensielt hjelpe pasienter å gjenta og konsolidere psykedeliske innsikter.",
-        "da": "Psilocybinterapi hos kræftpatienter fremkalder ofte intense kropslige og imaginære oplevelser, der er svære at beskrive verbalt. Artiklen foreslår deltager-imaginær processering som en integreringstilgang, der direkte engagerer disse ikke-verbale erfaringer uden at kræve omformning til fortælling, og kan potentielt hjælpe patienter med at gengenskabe og konsolidere psykeedeliske indsigter.",
-        "fi": "Psilosybiinihoidolla syöpäpotilailla syntyy usein voimakkaita kehollisia ja kuvitteellisia kokemuksia, joita on vaikea kuvata sanallisesti. Artikkeli ehdottaa osallistuvaa-imaginaarista prosessointia integraatiomenetelmäksi, joka suoraan sitoutuu näihin ei-verbaaleihin kokemuksiin ilman muuntamista kerronnaksi, mikä voi mahdollistaa potilaiden psykedeelisten näkemysten uudelleensaamiseen ja konsolidointiin.",
-        "is": "Psýlósýbín meðferð hjá krabbameinsjúklingum framkallar oft sterkar líkamleg og ímynduð upplifun sem erfitt er að lýsa orðum. Greinin leggur til samnýtingu og ímynduð vinnslu sem samþættingaraðferð sem beinir sér að þessum munnlausum reynslunum án þess að breyta þeim í sögur, sem gæti hugsanlega hjálpað sjúklingum að endurvinna og festa sálkirteisleg skilyrði.",
-        "et": "Psülotsibiini ravi vähihaigete patsientidel tekitab sageli viviivseid kehalisi ja kujutlusvõimega kogemusi, mida on raske sõnadega kirjeldada. Artikkel pakub osaline-imaginaarset töötlust integratsioonimeetodina, mis otseselt kaasab neid mitteverbal kogemusi ilma narratiiviks muundamiseta, võimaldades potentsiaalselt patsientidel taastada ja konsolideerida psühhedeelse ülevaate.",
-        "lv": "Psilo­cibīna terapija vēža pacientiem bieži izraisa dzīvas ķermeņa un iztēles pieredzes, kuras ir grūti aprakstīt verbāli. Raksts piedāvā dalībnieka-iztēles apstrādi kā integrācijas pieeju, kas tieši iesaista šīs neverbālās pieredzes bez konvertēšanas par stāstu, potenciāli ļaujot pacientiem atkārtoti piekļūt un konsolidēt psihodelisku ieskatus.",
-        "lt": "Psilocibino terapija vėžio ligonių dažnai sukelia ryšias somatines ir vaizduotės patirtis, kurias sunku aprašyti žodžiais. Straipsnis siūlo dalyvavimo-vaizduotės apdorojimą kaip integracijos metodą, tiesiogiai angažuojančią šias neverbalines patirtis be jų konvertavimo į pasakojimą, potencialiai leidžiančią ligoniams iš naujo susigrąžinti ir konsoliduoti psichedelinį supratimą."
-      },
-      "notable": false,
-      "notable_reasons": null,
-      "relevance_score": 3,
-      "study_type": "other",
-      "substances": [
-        "psilocybin"
-      ],
-      "added_at": "2026-08-27T17:44:17.771269+00:00"
-    },
-    {
-      "title": "Smooth Sailing: Definium’s LSD Voyage Hits Primary and Key Secondary Endpoints in GAD",
-      "url": "https://psychedelicalpha.com/news/smooth-sailing-definiums-lsd-voyage-hits-primary-and-key-secondary-endpoints-in-gad/",
-      "source": "Psychedelic Alpha",
-      "date": "2026-08-12",
-      "authors": [],
-      "doi": "",
-      "summaries": {
-        "en": "Definium Therapeutics announced positive Phase 3 trial results for LSD (DT120) in generalised anxiety disorder, meeting primary and key secondary endpoints. This follows successful Phase 3 results in major depressive disorder announced two months earlier, marking significant progress in clinical development of lysergamides for psychiatric conditions.",
-        "sv": "Definium Therapeutics presenterade positiva resultat från en fas 3-studie med LSD (DT120) vid generaliserad ångestsyndrom, där både primär och viktiga sekundära målparametrar uppnåddes. Detta följer på positiva fas 3-resultat vid svår depression som presenterades två månader tidigare.",
-        "no": "Definium Therapeutics kunngjorde positive resultater fra en fase 3-studie av LSD (DT120) for generalisert angststyrke, der både primær og viktige sekundære endepunkter ble oppfylt. Dette følger positive fase 3-resultater for alvorlig depresjon annonsert to måneder tidligere.",
-        "da": "Definium Therapeutics offentliggjorde positive resultater fra en fase 3-studie af LSD (DT120) til generaliseret angststyrke, hvor både primære og vigtige sekundære endepunkter blev nået. Dette følger positive fase 3-resultater for alvorlig depression annonceret for to måneder siden.",
-        "fi": "Definium Therapeutics ilmoitti myönteisistä tuloksista LSD:n (DT120) kolmessa vaiheen tutkimuksesta yleistynyttä ahdistuneisuushäiriötä vastaan, jossa saavutettiin sekä päätetavoite että keskeiset sivutavoitteet. Tulokset seuraavat kaksi kuukautta aikaisemmin julkaisemiaan myönteisiä tuloksia vakavaa masennusta koskevasta tutkimuksesta.",
-        "is": "Definium Therapeutics tilkynnti jákvæðar niðurstöður úr 3. þrepi klínískrar rannsóknar á LSD (DT120) við almenna kvíðarasir, þar sem bæði aðal- og lykilaukaaðgerðir náðust. Þetta fylgir jákvæðum niðurstöðum úr 3. þrepi rannsóknar á alvarlegri þunglyndi sem tilkynnt var fyrir tveimur mánuðum.",
-        "et": "Definium Therapeutics teatas positiivsetest tulemusttest LSD-ga (DT120) tehtud 3. faasi uuringust üldistatud ärevushäire raviks, kus saavutati nii esmane kui ka olulised teisesed lõpp-punktid. See järgneb kahe kuu eest teatatud positiivsele 3. faasi uuringu tulausele raskes depressioonis.",
-        "lv": "Definium Therapeutics paziņoja pozitīvus rezultātus LSD (DT120) 3. fāzes pētījumā vispārinātam trauksmes traucējumam, sasniedzot gan primāro, gan svarīgos sekundāros galā punktus. Tas seko pozitīviem 3. fāzes pētījuma rezultātiem smagā depresijā, kurus paziņoja divi mēneši agrāk.",
-        "lt": "Definium Therapeutics paskelbė teigiamus rezultatus iš 3 fazės tyrimo, kuriame LSD (DT120) buvo tiriamas generaliniam nerviniam sutrikimui, pasiekus pirminį ir pagrindinius antrinius tyrimo taškus. Tai seka teigiamais rezultatais iš 3 fazės tyrimo sunkioje depresijoje, kurie buvo paskelti prieš du mėnesius."
-      },
-      "notable": true,
-      "notable_reasons": {
-        "en": "Phase 3 RCT results meeting primary and key secondary endpoints in GAD, following recent positive Phase 3 results in MDD for the same compound.",
-        "sv": "Phase 3 RCT-resultat som uppfyller primära och viktiga sekundära slutpunkter inom GAD, efter nyligen positiva Phase 3-resultat inom MDD för samma substans.",
-        "no": "Phase 3 RCT-resultater som oppfyller primære og viktige sekundære endepunkter i GAD, etter nylig positive Phase 3-resultater i MDD for samme forbindelse.",
-        "da": "Phase 3 RCT-resultater der mødte primære og vigtige sekundære endepunkter i GAD, efter nylige positive Phase 3-resultater i MDD for samme forbindelse.",
-        "fi": "Phase 3 RCT-tulokset, jotka saavuttivat päätetavoitteet ja tärkeät sivutetavoitteet GAD:ssä, seuraten äskettäisiä positiivisia Phase 3 -tuloksia MDD:ssä samalle yhdisteelle.",
-        "is": "Phase 3 RCT niðurstöður sem uppfylla aðal- og mikilvæg aukakriteria í GAD, eftir nýlegum jákvæðum Phase 3 niðurstöðum í MDD fyrir sama efnasambandið.",
-        "et": "Phase 3 RCT tulemused, mis vastasid esmastele ja olulistele teisesele lõpp-punktidele GAD-s, järgides hiljuti positiivseid Phase 3 tulemusi MDD-s sama ühendi puhul.",
-        "lv": "Phase 3 RCT rezultāti, kas sasniedza primāros un svarīgos sekundāros galapunktus GAD, sekojot nesen pozitīviem Phase 3 rezultātiem MDD tam pašam savienojumam.",
-        "lt": "Phase 3 RCT rezultatai, atitinkantys pirminius ir pagrindinius antrinius galutinius taškus GAD, po neseniai pozityvių Phase 3 rezultatų MDD tam pačiam juniniui."
-      },
-      "relevance_score": 4,
-      "study_type": "rct",
-      "substances": [
-        "lsd"
-      ],
-      "added_at": "2026-08-13T07:59:35.488991+00:00"
-    },
-    {
-      "title": "Two Years After Rejection, Resilient Quietly Refiles MDMA for PTSD Application",
-      "url": "https://psychedelicalpha.com/news/two-years-after-rejection-resilient-quietly-refiles-mdma-for-ptsd-application/",
-      "source": "Psychedelic Alpha",
-      "date": "2026-08-12",
-      "authors": [],
-      "doi": "",
-      "summaries": {
-        "en": "Resilient Therapeutics has resubmitted its MDMA application for PTSD treatment to regulatory authorities, two years after an initial rejection. The company's resubmission follows previous clinical data evaluations.",
-        "sv": "Resilient Therapeutics har återinlämnat sin ansökan för MDMA-behandling av PTSD två år efter ett första avslag. Omställningen av ansökan baseras på tidigare kliniska data.",
-        "no": "Resilient Therapeutics har på nytt sendt inn sin søknad om MDMA-behandling for PTSD to år etter første avslag. Gjennomleggingen av ansøkningen følger tidligere kliniske dataanalyser.",
-        "da": "Resilient Therapeutics har på ny indgivet sin ansøgning om MDMA-behandling for PTSD to år efter et første afslag. Genindgivelsen bygger på tidligere kliniske data.",
-        "fi": "Resilient Therapeutics on jättänyt uudelleen MDMA-hakemuksensa PTSD-hoitoon kaksi vuotta alkuperäisen hylkäyksen jälkeen. Uudelleenjättö perustuu aiempiin kliinisiin tutkimustietoihin.",
-        "is": "Resilient Therapeutics hefur endurskrifað umsókn sína um MDMA-meðferð fyrir PTSD tveimur árum eftir upphaflega synjun. Endurskráningin byggir á fyrri klínískum gögnum.",
-        "et": "Resilient Therapeutics esitas uuesti oma MDMA-taotluse PTSD-ravi jaoks kaks aastat pärast algset tagasilükkamist. Uuesti esitamine põhineb varasemate kliiniliste andmete hindamisel.",
-        "lv": "Resilient Therapeutics atkārtoti iesniedzis savu MDMA pieteikumu PTSD ārstēšanai divus gadus pēc sākotnējā noraidījuma. Atkārtotas iesniegšanas pamatā ir iepriekšējie klīniskie dati.",
-        "lt": "Resilient Therapeutics iš naujo pateikė savo MDMA paraišką PTSD gydymui dvejus metus po pirminio atmetimo. Pakartotinis pasiūlymas grindžiamas ankstesniais klininiais duomenimis."
-      },
-      "notable": false,
-      "notable_reasons": null,
-      "relevance_score": 3,
-      "study_type": "other",
-      "substances": [
-        "mdma"
-      ],
-      "added_at": "2026-08-13T07:59:35.488991+00:00"
-    },
-    {
-      "title": "Psychedelics and astrocytes: a hypothesis-driven perspective on neuro-glial integration, network plasticity, and neuroimmune reprogramming.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42581074/",
-      "source": "PubMed",
-      "date": "2026-08-11",
-      "authors": [
-        "Ke Xiaoshan",
-        "Du Xiubo",
-        "Wang Xiaohui"
-      ],
-      "doi": "10.1038/s41380-026-03816-9",
-      "summaries": {
-        "en": "This hypothesis-driven review examines astrocytes' potential role in psychedelic-induced brain changes. While serotonin 2A receptor signaling on neurons remains central, evidence suggests astrocytes—traditionally viewed as passive support cells—actively integrate neuromodulatory signals and coordinate synaptic plasticity, metabolic coupling, and immune responses. The authors propose a neuro-glial ensemble framework where neuron-astrocyte interactions constitute functional units underlying psychedelic-induced network reorganization and therapeutic effects across neuropsychiatric disorders.",
-        "sv": "Denna hypotesdrivet granskningsarbete undersöker astrocyters potentiella roll i psykedelika-inducerade hjärnförändringar. Medan serotonin 2A-receptorsignalering på neuroner förblir central, tyder evidens på att astrocyter—traditionellt sedda som passiva stödjande celler—aktivt integrerar neuromodulatoriska signaler och samordnar synaptisk plasticitet, metabolisk koppling och immunsvar. Författarna föreslår en neuro-glia-ramverk där neuron-astrocytinteraktioner utgör funktionella enheter bakom psykedelika-inducerad nätverksomorganisation och terapeutiska effekter.",
-        "no": "Denne hypotesedrevet gjennomgangen undersøker astrocytters potensielle rolle i psykedelika-induserte hjerneforsvinninger. Mens serotonin 2A-reseptorsignalering på nevroner forblir sentral, tyder bevis på at astrocytter—tradisjonelt sett som passive støtteceller—aktivt integrerer neuromoduleringsignaler og koordinerer synaptisk plastisitet, metabolisk kobling og immunrespons. Forfatterne foreslår et neuro-gliacelle-rammeverk der neuron-astrocyttinteraksjoner utgjør funksjonelle enheter bak psykedelika-indusert nettverksomorganisering og terapeutiske effekter.",
-        "da": "Denne hypotesedrevet gennemgang undersøger astrocytters potentielle rolle i psykedelika-inducerede hjerneforsvinninger. Mens serotonin 2A-receptorsignalering på neuroner forbliver central, tyder evidens på, at astrocytter—traditionelt set som passive støtteceller—aktivt integrerer neuromodulatoriske signaler og koordinerer synaptisk plasticitet, metabolisk kobling og immunrespons. Forfatterne foreslår en neuro-gliacelle-ramme, hvor neuron-astrocyt-interaktioner udgør funktionelle enheder bag psykedelika-induceret netværksreorganisering og terapeutiske effekter.",
-        "fi": "Tämä hypoteesiohjaava katsaus tutkii astrosyyttien mahdollista roolia psykedeliikka-indusoitujen aivomuutosten taustalla. Vaikka serotoniin 2A -reseptoreiden signalointi hermosoluissa on keskeistä, näyttö viittaa siihen, että astrosyytit—perinteisesti passiivisina tukisoluina pidetyt—aktiivisesti integroivat neuromodulatorisia signaaleja ja koordinoivat synaptista plastisuutta, metabolista kytkentää ja immuunivasteita. Kirjoittajat ehdottavat neuro-glia-viitekehystä, jossa neuronien ja astrosyyttien vuorovaikutus muodostavat psykedeliikka-indusoidun verkon uudelleenjärjestelyn ja terapeuttisten vaikutusten funktionaaliset yksiköt.",
-        "is": "Þessi tilgátuknúna yfirlit kannar hugsanlegt hlutverk stjarnfrumna í breytingum á heila sem valdið er lyfjum með draumakosti. Þó að serotonín 2A-viðtakaboð á taugum helst miðlæg, bendir sönnunargögn til að stjarnfrumur—jafnan taldar óvirkar stoðfrumur—virkt flétta saman taugabreytandi merki og samræmi samskipta frumna, orkasamsetningu og ónæmissvörum. Höfundar leggja fram rammann fyrir taugaglía-samspil þar sem víxlverkun taugna og stjarnfruma mynda virkni-einingar sem liggja til grundvallar endurskipulagningu netkerfis og meðferðaráhrifum.",
-        "et": "Selle hüpoteesipõhine ülevaade uurib astrotsüütide võimalikku rolli psühhedeelikute poolt kutsutud ajumuutustes. Kuigi serotooniini 2A retseptori signaliseerimine neuroonidel jääb keskseks, viitavad tõendid sellele, et astrotsüüdid—traditsiooniliselt passiivse toe rakud—aktiivselt integreerivad neuromodulatoorseid signaale ning koordineerivad sünaptylist plastiilsust, metabolilist sidumist ja immuunvastuseid. Autorid pakuvad välja neuro-gliaraami, kus neuroni-astrotsüüdi koostöö moodustavad psühhedeelikute tekitatud võrgustiku ümberorganiseerimise ja teraapiamõjude funktsionaalsed üksused.",
-        "lv": "Šis hipotēžu vadīts pārskats pēta astrociītu iespējamo lomu psihodeļu izraisītās smadzeņu izmaiņās. Lai gan serotonīna 2A receptora signalizēšana neironos paliek galvenā, pierādījumi liecina, ka astrociīti—tradicionāli uzskatīti par pasīvām atbalsta šūnām—aktīvi integrē neuromodulatorus signālus un koordinē sinaptisko plastiskumu, metaboliskā sakaņojuma un imūnās atbildes. Autori piedāvā neuro-glijas sistēmu, kurā neironastrociītu mijiedarbība veido funkcionālas vienības, kas ir psihodeļu izraisītas tīkla pārkārtošanās un terapeitiskās ietekmes pamatā.",
-        "lt": "Šis hipotezėmis pagrįstas apžvalga tiria astrocitų galimą vaidmenį psichedelikų sukeltame smegenyse pokyčiams. Nors serotonino 2A receptoriaus signalizacija neurona lieka pagrindinė, įrodymai rodo, kad astrocitai—tradiciškai laikomi pasyvios paramos ląstelėmis—aktyviai integruoja neuromoduliatorinį signalą ir koordinuoja sinaptinį plastiklumą, metabolinį susiejimą ir imuninį atsakymą. Autoriai siūlo neuro-glijos sistemą, kurioje neurono-astrocito sąveika sudaro funkcinius vienetus, esančius psichedelikų sukeltos tinklo reorganizacijos ir terapinio poveikio pagrinde."
-      },
-      "notable": false,
-      "notable_reasons": null,
-      "relevance_score": 4,
-      "study_type": "review",
-      "substances": [
-        "psilocybin",
-        "lsd"
-      ],
-      "added_at": "2026-08-13T07:59:35.488991+00:00"
     }
   ]
 }

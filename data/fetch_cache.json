@@ -1,7 +1,71 @@
 {
-  "date": "2026-09-07",
-  "cached_at": "2026-09-07T11:32:32.007966+00:00",
+  "date": "2026-09-08",
+  "cached_at": "2026-09-08T10:32:46.548612+00:00",
   "articles": [
+    {
+      "title": "Is (S)-norketamine an active mediator of esketamine's antidepressant effects?",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42706419/",
+      "source": "PubMed",
+      "abstract": "",
+      "date": "2026-09-07",
+      "authors": [
+        "Hashimoto Kenji",
+        "Yang Chun"
+      ],
+      "doi": "10.1038/s41380-026-03867-y"
+    },
+    {
+      "title": "Higher signal diversity, network dysregulation, and increased well-being under DMT administration: An EEG study.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42705377/",
+      "source": "PubMed",
+      "abstract": "N,N-Dimethyltryptamine (DMT), a potent serotonin-2A receptor agonist, elicits intense psychedelic experiences and has become a focus of interest in neuroscience and mental health research. While EEG studies of psychedelics typically report reduced alpha power, increased delta power, and enhanced signal complexity-primarily assessed using Lempel-Ziv complexity (LZc)-less is known about DMT's effects on other complexity metrics, EEG-based connectivity, and emotional correlates. This study investigated the effects of intravenous DMT versus saline placebo in 13 healthy participants using EEG. We analyzed spectral power, brain signal complexity, and functional connectivity, and examined their associations with emotional responses and subjective intensity ratings. Four complexity measures were evaluated: Lempel-Ziv-Welch (LZW) complexity, Higuchi fractal dimension (HFD), permutation entropy (PE), and waveform complexity (WC). Connectivity was assessed using weighted symbolic mutual information (wSMI), with network segregation and efficiency inferred from clustering coefficient and path length. Emotional correlates included beta-to-alpha ratio (BAR, an indicator of arousal) and frontal alpha asymmetry (FAA, an indicator of well-being). DMT significantly reduced broadband wSMI connectivity, segregation, and efficiency, particularly in alpha and beta bands in posterior and frontoparietal regions. Complexity metrics positively correlated with subjective intensity; HFD and PE were the most sensitive, revealing increased complexity in beta/gamma and decreased complexity in delta/theta/alpha bands under DMT. BAR and FAA both increased under DMT, correlating with perceived intensity. These findings suggest that DMT induces greater neural unpredictability and emotional arousal, consistent with the Entropic Brain theory. The results highlight a dynamic brain state that may support therapeutic brain network reorganization relevant for psychiatric treatment.",
+      "date": "2026-09-07",
+      "authors": [
+        "Kroupi Eleni",
+        "Araujo Helena",
+        "Oosterveld Cas"
+      ],
+      "doi": "10.1016/j.brainres.2026.150530"
+    },
+    {
+      "title": "The Antidepressant Effects of the mGlu2/3 Receptor Antagonist TS-161 in Treatment-Resistant Depression: A Phase IIa Proof-of-Concept Clinical Trial.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42704784/",
+      "source": "PubMed",
+      "abstract": "Like ketamine, group II metabotropic glutamate receptor (mGluR2/3) antagonists increase glutamate release and monoaminergic signaling, promote synaptic plasticity, and show antidepressant-related activity in preclinical models. A recent phase I trial of the orthosteric mGluR2/3 antagonist prodrug TS-161 established its safety, tolerability, and pharmacokinetic profile. This phase IIa randomized, placebo-controlled, double-blind, crossover, proof-of-concept, single-site trial was designed to evaluate the antidepressant effects of TS-161. Eleven unmedicated adults with treatment-resistant depression received either oral TS-161 (50 to 100 mg daily) or a placebo for 3 weeks before crossing over to the other condition. The study was halted early due to low recruitment. Adverse events were mild and consistent with the prior phase I study. Linear mixed models using drug×time interaction to estimate mean Montgomery-Åsberg Depression Rating Scale scores per treatment identified no significant difference between treatment conditions at any timepoint, including the primary endpoint, day 21 (P=0.91). One of the 11 participants responded to TS-161 by day 7 (vs. 0/9 receiving placebo); no participants achieved remission. Magnetic resonance spectroscopy suggested a qualitative trend for increased glutamate metabolite values, and TS-161 increased gamma power during magnetoencephalography relative to baseline and placebo (pFDR<0.01) in lateral cortical regions. Peripheral brain-derived neurotrophic factor levels trended toward elevation (overall drug effect P=0.055). No advantages were seen in secondary clinical or cognitive outcomes. The findings suggest potential central nervous system engagement through proxy biomarkers and increased glutamatergic tone, but this did not translate to clinical improvement.",
+      "date": "2026-09-07",
+      "authors": [
+        "Kvarta Mark D",
+        "Watanabe Mai",
+        "Ozaki Satoshi"
+      ],
+      "doi": "10.1097/JCP.0000000000002246"
+    },
+    {
+      "title": "Exploratory Insights into 5-MeO-DMT Experiences on Reddit: A Thematic Analysis.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42704210/",
+      "source": "PubMed",
+      "abstract": "This qualitative study examines self-reported experiences with 5-methoxy-N,N-dimethyltryptamine (5-MeO-DMT) shared on Reddit to explore subjective reports, contextual influences, and perceived effects. A total of 120 posts from 24 discussion threads were purposively selected and thematically analyzed using an inductive, constructivist approach. The analysis resulted in 48 codes, which were grouped into seven categories: Administration Methods, Dosage, and Tolerance; Experiential and transformative effects; Pharmacological specificity and interaction; Risk, adverse effects, and harm reduction; Socio-cultural and contextual factors; Support, preparation and integration; and Therapeutic and health-related effects. Users described individualized dosing strategies and a distinct tolerance profile compared to other psychedelics. Narratives emphasized introspective, emotionally cathartic, and spiritually unifying experiences that were often viewed as transformative life events. A preparatory context, supportive environment, and sustained integration practices were seen as essential. Users were aware of pharmacological interactions, particularly with serotonergic medications, and emphasized harm‑minimization measures such as the presence of a trusted sitter. Socio-cultural narratives about the origins, traditions, and ethics of 5-MeO-DMT shaped perceptions and motivation. These findings contribute to the literature on real-world use of psychedelics by highlighting the interplay of pharmacology, personal mind-set, and cultural context, and providing information on harm reduction, preparation, integration, and future research priorities.",
+      "date": "2026-09-07",
+      "authors": [
+        "Swieczkowski Damian",
+        "Kwaśny Aleksander",
+        "Cubała Wiesław Jerzy"
+      ],
+      "doi": "10.1080/02791072.2026.2727030"
+    },
+    {
+      "title": "The effect of ketamine on mitochondrial bioenergetics, viability, and function: A systematic review.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42704076/",
+      "source": "PubMed",
+      "abstract": "Extant literature indicates mitochondrial dysfunction may contribute to the pathophysiology of depressive disorders. Preclinical data indicate that anesthetic doses of ketamine are associated with deficits in mitochondrial viability and function. Ketamine and esketamine have demonstrated rapid antidepressant effects in persons with difficult-to-treat depressive disorders. Herein, we aim to synthesize literature reporting on the effect of antidepressant doses of ketamine and esketamine in vivo versus in vitro on mitochondrial viability and function. We performed a systematic review of previous studies on PubMed, Ovid, and Scopus databases from inception to November 30, 2025. Preclinical studies reporting on the effect of antidepressant doses of ketamine and/or esketamine in mitochondrial viability, structure/morphology, bioenergetics, and metabolic function were sought for inclusion. Thirteen studies were included. Lower ketamine/esketamine concentrations generally did not adversely affect membrane potential, oxidative phosphorylation, respiration, or bioenergetics, whereas higher concentrations or prolonged exposure induced mitochondrial dysfunction in some models. Additional evaluation of the safety of ketamine/esketamine on mitochondria in humans is required. Preliminary research suggests that ketamine at lower concentrations may not adversely affect brain mitochondrial viability or bioenergetic function, but requires further validation. The reported effects on mitochondrial viability and function are preclinical, model- and dose-dependent and derived from limited heterogeneous literature. This study generates the hypothesis that ketamine's antidepressant mechanism of action may be partially mediated by insulin-sensitive metabolic pathways, energetically supporting synaptic remodeling and neurogenesis. Incorporation of mitochondrial and metabolic biomarkers into ketamine clinical trials is a current research imperative.",
+      "date": "2026-09-07",
+      "authors": [
+        "Wong Sabrina",
+        "Le Gia Han",
+        "Selby Simryn"
+      ],
+      "doi": "10.1177/02698811261481085"
+    },
     {
       "title": "The Effect of Psychedelics on Associative Learning: a Systematic Review.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42702287/",
@@ -195,68 +259,13 @@
       "doi": "10.3389/fpsyt.2026.1866881"
     },
     {
-      "title": "Heterogeneous structural brain signatures of methamphetamine and ketamine use disorders revealed by normative modeling.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42686998/",
-      "source": "PubMed",
-      "abstract": "Marked interindividual heterogeneity in substance use disorder (SUD) impedes the identification of consistent neuroanatomical alterations, limiting the development of robust markers for clinical risk stratification. We applied a normative modeling framework to explore individual neuroanatomical deviations in individuals with SUD across two distinct substance classes, and assessed their potential for classification and risk prediction. We established a developmental normative model of gray matter volume (GMV) using T1-weighted images from 1209 healthy individuals aged 18-65 years. Deviations from this normative model were then estimated for 184 individuals with methamphetamine use disorder (MUD), 94 with ketamine use disorder (KUD), and 220 healthy controls (HC) collected from two independent sites. Based on these individual deviation scores, a machine learning model was constructed to identify individuals at risk for SUD. The normative model revealed high interindividual heterogeneity in GMV deviations among individuals with MUD and KUD. Cross-substance extreme negative deviations were primarily located in regions of the default mode network (DMN). Notably, individual-level deviations could successfully distinguish both MUD and KUD from HC, and replicated in an external dataset. We further identified significant associations between abnormal GMV trajectories and neurobiological features, particularly myelination and neurotransmitter systems. These findings enhance our understanding of the heterogeneous neurobiology underlying SUD, providing potential neurobiological biomarkers for clinical diagnosis, risk stratification, and prevention.",
-      "date": "2026-09-02",
-      "authors": [
-        "Sun Yunkai",
-        "Fang Yehong",
-        "Peng Pu"
-      ],
-      "doi": "10.1038/s41380-026-03859-y"
-    },
-    {
-      "title": "[Not Available].",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42686626/",
-      "source": "PubMed",
-      "abstract": "Psychedelic-assisted psychotherapy (PAP) is emerging as a promising approach for treating various treatmentresistant psychiatric disorders. Despite the expansion of this practice, few studies have examined nursing contribution. This review explores nursing contributions to PAP in psychiatry and analyzes the challenges related to nurses&amp;#8217; contributions. A scoping review was conducted following the Joanna Briggs Institute methodology, exploring several databases. Twelve publications were included. Their number has increased since 2020, and the publications are predominantly North American. The authors, predominantly nurses, are highly qualified. They describe roles in assessment, preparation, administration, and integration, as well as distinctive strengths such as prolonged therapeutic support. Nursing representation in the literature remains limited, and specialized training is lacking. Applying nursing theoretical models to PAP could help demonstrate the added value of the nursing role. Calls for research reveal a desire for greater professional recognition and structuring. Ethical and regulatory challenges require appropriate frameworks. The nursing contribution requires rigorous scientific validation, and advanced practice nurses possess the necessary competencies to contribute to this process. Introduction&amp;#160;: la psychoth&amp;#233;rapie assist&amp;#233;e par psych&amp;#233;d&amp;#233;liques (PAP) &amp;#233;merge comme une approche encourageante pour traiter divers troubles psychiatriques r&amp;#233;sistants. Malgr&amp;#233; l&amp;#8217;expansion de cette pratique, peu d&amp;#8217;&amp;#233;tudes abordent la contribution infirmi&amp;#232;re. Objectifs&amp;#160;: cette revue explore la contribution infirmi&amp;#232;re dans la PAP en psychiatrie et analyse les d&amp;#233;fis li&amp;#233;s &amp;#224; l&amp;#8217;int&amp;#233;gration des infirmiers. M&amp;#233;thode&amp;#160;: une revue de la port&amp;#233;e a &amp;#233;t&amp;#233; men&amp;#233;e selon la m&amp;#233;thodologie Joanna Briggs Institute explorant plusieurs bases de donn&amp;#233;es. R&amp;#233;sultats&amp;#160;: 12 publications ont &amp;#233;t&amp;#233; retenues. Celles-ci augmentent depuis 2020 et sont majoritairement nord-am&amp;#233;ricaines. Les auteurs, principalement infirmiers, pr&amp;#233;sentent un niveau de qualification &amp;#233;lev&amp;#233;. Ils d&amp;#233;crivent des r&amp;#244;les d&amp;#8217;&amp;#233;valuation, de pr&amp;#233;paration, d&amp;#8217;administration et d&amp;#8217;int&amp;#233;gration, avec des atouts distinctifs, comme l&amp;#8217;accompagnement th&amp;#233;rapeutique prolong&amp;#233;. Discussion&amp;#160;: la pr&amp;#233;sence infirmi&amp;#232;re dans la litt&amp;#233;rature reste faible, et les formations sp&amp;#233;cialis&amp;#233;es manquent. L&amp;#8217;application de mod&amp;#232;les th&amp;#233;oriques infirmiers &amp;#224; la PAP permettrait de l&amp;#233;gitimer la valeur ajout&amp;#233;e du r&amp;#244;le infirmier. Les appels &amp;#224; la recherche r&amp;#233;v&amp;#232;lent une volont&amp;#233; de structuration professionnelle. Les d&amp;#233;fis &amp;#233;thiques et r&amp;#233;glementaires requi&amp;#232;rent un encadrement adapt&amp;#233;. La contribution infirmi&amp;#232;re n&amp;#233;cessite une validation scientifique rigoureuse pour laquelle les infirmiers en pratique avanc&amp;#233;e poss&amp;#232;dent les comp&amp;#233;tences requises.",
-      "date": "2026",
-      "authors": [
-        "Gavoury Juliette",
-        "Perot Romain"
-      ],
-      "doi": "10.3917/rsi.164.0045"
-    },
-    {
-      "title": "Serial Ketamine Infusions for Treatment-Resistant Bipolar Depression: A Randomized Clinical Trial.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42684694/",
-      "source": "PubMed",
-      "abstract": "Antidepressant efficacy of intravenous (IV) ketamine has been demonstrated in major depressive disorder; however, the efficacy and safety of ketamine for bipolar depression remain largely unknown, with limited data available in this specific population. To evaluate the efficacy, safety, and tolerability of adjunctive IV ketamine compared with midazolam for treatment-resistant bipolar I or II depression (TRBD). The Ket-BD study (Ketamine for Treatment-Resistant Bipolar Disorder) was an investigator-led, double-blind, midazolam-controlled randomized clinical trial conducted at 3 sites in Ontario, Canada, from July 2022 to November 2025. Participants included adult outpatients (aged 21-65 years) with a primary bipolar I or II disorder DSM-5 diagnosis with a current moderate to severe major depressive episode (Montgomery-Åsberg Depression Rating Scale [MADRS] score ≥21), having had at least 2 failed trials of evidence-based pharmacotherapies. Data were analyzed from November 2025 through February 2026. Participants were randomized 1:1 to receive 4 flexibly dosed 40-minute infusions over 2 weeks of either ketamine (0.5-0.75 mg/kg) or midazolam (0.02-0.03 mg/kg) adjunctive to a stable dose of at least 1 mood stabilizer or antipsychotic. The primary outcome was change in depression symptom severity measured by the observer-rated MADRS score from baseline to end of treatment (day 14). Safety and tolerability were assessed with close evaluation for potential treatment-emergent mania, hypomania, mixed features, or psychosis. Of 68 randomized participants (mean [SD] age, 44.4 [11.8] years; 38 female [55.8%]), 63 were included in the final efficacy analysis as 5 participants withdrew (1 ketamine, 4 midazolam) before the primary end point. In the primary efficacy analysis, controlling for sex, bipolar type, and baseline MADRS, the mean MADRS score at day 14 was significantly lower in the ketamine group compared to the midazolam group (between-group difference = -7.3 points; 95% CI, -12.0 to -2.5; P = .003; Cohen d = 0.7). No cases of mania, hypomania, psychosis, or suicide attempts were observed in either group. One case of mixed features (subthreshold hypomanic symptoms) was observed in each group. After the first infusion, 31 of 66 participants (47%) correctly guessed treatment allocation. In TRBD, adjunctive IV ketamine was well tolerated and associated with significant antidepressant effects compared to midazolam. ClinicalTrials.gov Identifier: NCT05004896.",
-      "date": "2026-09-02",
-      "authors": [
-        "Orsini Diana K",
-        "Di Luch Sara",
-        "Tomlinson George"
-      ],
-      "doi": "10.1001/jamapsychiatry.2026.2658"
-    },
-    {
-      "title": "Real-world clinical practice, effectiveness and safety of esketamine nasal spray in major depressive disorder patients: a French prospective cohort (ELLIPSE study).",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42682977/",
-      "source": "PubMed",
-      "abstract": "Major depressive disorder (MDD) is highly prevalent and associated with significant disability and mortality. Treatment-resistant depression (TRD), defined as inadequate response to ⩾2 antidepressant lines, remains a major therapeutic challenge. Esketamine nasal spray, approved in 2019 for TRD, demonstrated efficacy and safety in randomized trials, but real-world evidence remains limited. The ELLIPSE study aimed to describe patient characteristics, treatment patterns, and 12-month outcomes of esketamine in routine clinical practice in France. ELLIPSE was a prospective, multicenter, observational cohort study including adults with unipolar MDD initiating esketamine between Dec 2021 and Jul 2023, followed for 12 months. Data were collected via standardized clinical assessments. Effectiveness was evaluated using the Montgomery-Åsberg Depression Rating Scale (MADRS). Response was defined as ⩾50% MADRS reduction; remission as MADRS ⩽ 10. A total of 200 patients (mean age 46.6 years; 56.5% female) were enrolled; 97.5% met TRD criteria. Median esketamine exposure was 4.5 months. Mean MADRS decreased from 31.9 at baseline to 12.4 at month 12 (mean change -17.9; 95% CI: -21.6 to -14.2). Response and remission rates reached a plateau at month 2, where the response rate was 55.2% and the remission rate was 33.6%, maintained up to month 12. Adverse events (AEs) occurred in 65.7% of patients, most commonly dissociative states (28.0%) and transient blood pressure increases (11.6%). This real-world study in patients with treatment-resistant depression, including those with comorbidities/prior suicide attempts, showed clinically relevant improvement from month 2, sustained through 12 months. Dissociative symptoms were the most frequent treatment-related AE.",
-      "date": "2026-08-31",
-      "authors": [
-        "Llorca Pierre-Michel",
-        "Sauvaget Anne",
-        "Olié Emilie"
-      ],
-      "doi": "10.1177/20451253261463652"
-    },
-    {
-      "title": "Age and Cannabis Co-Use Are Associated with Differences in Experience and Perceived Benefits of Psilocybin: A Retrospective Study.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42682203/",
-      "source": "PubMed",
-      "abstract": "As psychedelic use increases, understanding how demographic and behavioral factors influence the effects of psychedelics is essential for both research and public health. This cross-sectional retrospective study examined 365 people who currently use psilocybin, analyzing differences in acute experiences, psychological outcomes, and substance co-use patterns. Participants were categorized into young (18-25), middle-aged (26-54), and older (55-77) adults. Results showed that younger participants reported significantly more adverse experiences while older adults had milder effects. Despite differences in adverse experiences, age did not significantly impact mystical experiences, psychological insight, or psychological outcomes. Polysubstance use patterns also varied by age, as younger adults were more likely to co-use nicotine with psilocybin. Cannabis co-use specifically was associated with greater perceived improvements in quality of life, anxiety, depression, and alcohol abuse, suggesting potential synergies between psilocybin and THC. These findings emphasize that age and cannabis co-use may modulate aspects of psilocybin's acute effects and therapeutic outcomes. Given the increasing legalization and accessibility of psychedelics, future research should further investigate mechanisms underlying individual differences and assess the impact of polysubstance use with psychedelics.",
-      "date": "2026-09-02",
-      "authors": [
-        "Hooper Jake",
-        "Williams Sarah",
-        "Mueller Raeghan"
-      ],
-      "doi": "10.1080/02791072.2026.2727016"
+      "title": "Two New Zealand Psychiatrists Approved to Prescribe MDMA for PTSD",
+      "url": "https://psychedelicalpha.com/news/two-new-zealand-psychiatrists-approved-to-prescribe-mdma-for-ptsd/",
+      "source": "Psychedelic Alpha",
+      "abstract": "",
+      "date": "2026-09-07",
+      "authors": [],
+      "doi": ""
     },
     {
       "title": "Pα+ Library: Psychedelic REMS",
@@ -335,15 +344,6 @@
       "url": "https://psychedelicalpha.com/news/two-years-after-rejection-resilient-quietly-refiles-mdma-for-ptsd-application/",
       "source": "Psychedelic Alpha",
       "abstract": "",
-      "date": "2026-08-12",
-      "authors": [],
-      "doi": ""
-    },
-    {
-      "title": "Smooth Sailing: Definium’s LSD Voyage Hits Primary and Key Secondary Endpoints in GAD",
-      "url": "https://psychedelicalpha.com/news/smooth-sailing-definiums-lsd-voyage-hits-primary-and-key-secondary-endpoints-in-gad/",
-      "source": "Psychedelic Alpha",
-      "abstract": "This morning, Definium Therapeutics announced positive topline results from its Phase 3 study of LSD (DT120) for generalised anxiety disorder (GAD). It comes just two months after it posted positive topline results from its first Phase 3 program in major depressive disorder (MDD), Emerge, making it a successful summer for the LSD developer…",
       "date": "2026-08-12",
       "authors": [],
       "doi": ""
@@ -573,7 +573,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2018-004480-31/CZ",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-09-07",
+      "date": "2026-09-08",
       "authors": [],
       "doi": ""
     },
@@ -582,7 +582,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2020-005037-32/CZ",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-09-07",
+      "date": "2026-09-08",
       "authors": [],
       "doi": ""
     },
@@ -591,7 +591,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2021-002909-10/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-09-07",
+      "date": "2026-09-08",
       "authors": [],
       "doi": ""
     },
@@ -600,7 +600,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2015-000550-37/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-09-07",
+      "date": "2026-09-08",
       "authors": [],
       "doi": ""
     },
@@ -609,7 +609,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2021-000041-40/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-09-07",
+      "date": "2026-09-08",
       "authors": [],
       "doi": ""
     },
@@ -618,7 +618,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2020-000829-55/DK",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-09-07",
+      "date": "2026-09-08",
       "authors": [],
       "doi": ""
     },
@@ -627,7 +627,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2020-002790-94/SE",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-09-07",
+      "date": "2026-09-08",
       "authors": [],
       "doi": ""
     },
@@ -636,7 +636,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2021-006200-33/FI",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-09-07",
+      "date": "2026-09-08",
       "authors": [],
       "doi": ""
     },
@@ -645,7 +645,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2019-004812-73/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-09-07",
+      "date": "2026-09-08",
       "authors": [],
       "doi": ""
     },
@@ -654,7 +654,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2022-002369-14/BE",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-09-07",
+      "date": "2026-09-08",
       "authors": [],
       "doi": ""
     },

@@ -1,7 +1,33 @@
 {
-  "date": "2026-09-08",
-  "cached_at": "2026-09-08T10:32:46.548612+00:00",
+  "date": "2026-09-09",
+  "cached_at": "2026-09-09T10:44:18.518201+00:00",
   "articles": [
+    {
+      "title": "Differences in associations between long-acting injectable and oral antipsychotic prescribing and healthcare utilisation in people with intellectual disability: a self-controlled case series (LOID study).",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42711066/",
+      "source": "PubMed",
+      "abstract": "Literature guiding the use of long-acting injectable antipsychotics (LAIAs) versus oral antipsychotics (OAs) in people with intellectual disability (PWID) remains scarce. Examining the associations of LAIAs vs OAs with healthcare utilisation among PWID. This self-controlled case series study used electronic health records from Hong Kong. We included adults with intellectual disability prescribed both LAIAs and OAs at different periods in 2004-2023. We compared within-individual LAIA and OA periods, adjusting for age, calendar year, season, inpatient stay and concomitant psychotropic use, using conditional Poisson regression to estimate incidence rate ratios (IRRs) for all-cause emergency department (ED) visits; all-cause hospitalisations; hospitalisations for psychiatric disorders, schizophrenia/bipolar disorder, behaviour-related problems, somatic disorders and cardiovascular diseases (CVDs) and diagnosis records of extrapyramidal symptoms (EPS); falls and fractures. Subgroup analyses were conducted by diagnosis of schizophrenia or bipolar disorder. We identified 1675 PWID who had been prescribed both OAs and LAIAs at different periods during the study period. LAIA use was associated with lower risks of incident all-cause ED visits (adjusted IRR: 0.71, 95% CI 0.51 to 0.98), all-cause hospitalisations (0.91, 0.85-0.98); hospitalisations for psychiatric disorders (0.90, 0.81-0.99); for schizophrenia/bipolar disorder (0.86, 0.75-0.99) and EPS (0.34, 0.23-0.51), compared with OAs. In PWID with schizophrenia/bipolar disorder, LAIAs were associated with lower risks of all-cause hospitalisations, hospitalisations for psychiatric disorders, schizophrenia/bipolar disorder, behaviour-related problems and somatic disorders, and EPS, but a higher risk of hospitalisations for CVDs (with hypertensive disease being the most common), compared with OAs. In contrast, among PWID without such diagnoses, LAIA use was associated with higher risks of all-cause hospitalisations, hospitalisations for somatic disorders; a lower risk of incident all-cause ED visits and hospitalisations for CVDs, but no significant difference in hospitalisations for behaviour-related problems, compared with OAs. These findings are consistent with potential benefit of LAIAs among PWID with schizophrenia or bipolar disorder, while raising concern about off-label use in those without these diagnoses. LAIAs may be considered in PWID with schizophrenia or bipolar disorder; off-label use in those without these diagnoses should be approached cautiously, and deprescribing may be considered where appropriate if these results are replicated.",
+      "date": "2026-09-08",
+      "authors": [
+        "Leung Shek Ming",
+        "Lee Kyung Jin",
+        "Wei Yue"
+      ],
+      "doi": "10.1136/bmjment-2026-302830"
+    },
+    {
+      "title": "MDMA-Assisted Therapy May Decrease PTSD Symptoms, Dissociation, Depression, and Functional Disability: A Systematic Review and Meta-Analysis.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42708350/",
+      "source": "PubMed",
+      "abstract": "There is a need for new effective treatment options for posttraumatic stress disorder (PTSD), as many people with PTSD do not fully recover despite current treatments. 3,4-methylenedioxymethamphetamine (MDMA)-assisted psychotherapy (MDMA-AT) is emerging as a new treatment option. We assessed the current body of MDMA-AT evidence for effectiveness in treating PTSD, associated impairments, and quality of life by conducting a systematic review and meta-analysis of randomized controlled trials. Databases from ClinicalTrials.gov, MEDLINE, PsycInfo, PsycArticles, and Cochrane Library were searched from inception to June 2025. Data from seven randomized control trials (both published and unpublished) compared MDMA-AT with low-dose MDMA or placebo control combined with psychotherapy. Identified studies were not included in recent article retractions. Effect sizes were calculated using standardized mean difference for Clinician-Administered PTSD Scale scores and mean difference for secondary measures. MDMA-AT may significantly improve PTSD, dissociation, depression, and functional impairment, compared to controls, but not sleep quality. These results support MDMA-AT for PTSD core symptoms and quality-of-life measures. The evidence, however, is limited by small sample sizes in some studies, challenges with blinding in psychedelic studies, use of non-standardized therapies, and a common sponsor for all trials. While limitations exist, these findings provide evidence for a new emerging treatment option for PTSD.",
+      "date": "2026-09-09",
+      "authors": [
+        "Green Warwick M",
+        "Raut Sanket B",
+        "James Fionnghuala L J"
+      ],
+      "doi": "10.1097/HRP.0000000000000478"
+    },
     {
       "title": "Is (S)-norketamine an active mediator of esketamine's antidepressant effects?",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42706419/",
@@ -231,32 +257,6 @@
         "Sathishkumar Hinduja"
       ],
       "doi": "10.1126/science.aec6116"
-    },
-    {
-      "title": "Safety, pharmacokinetics, and pharmacodynamics of intravenously administered deuterated",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42689687/",
-      "source": "PubMed",
-      "abstract": "Serotonergic psychedelics, such as  This exploratory study investigated the PK, pharmacodynamic (PD), and safety profile of CYB004, a deuterated DMT analogue, following intravenous administration in healthy volunteers. CYB004, a deuterated DMT analogue, was evaluated in a randomized, double-blind, placebo-controlled, two-part study in healthy participants. Part 1 was a single-dose cohort, in which participants received a 5-minute intravenous 12.7 mg CYB004 bolus, followed by a 30-minute 15.41 mg infusion. Part 2 was a three-way crossover, during which two separate 5-minute 12.7 mg CYB004 boluses were administered. Outcome measures included PK of CYB004 and subjective, autonomic, neurophysiological, and adverse effects. Although high CYB004 doses led to intense psychedelic experiences and participant withdrawals, lower doses achieving plasma concentrations similar to those in previous DMT studies demonstrated an acceptable safety profile. CYB004 demonstrated a PD profile that was similar to DMT at comparable plasma concentrations. PD effects consisted of subjective psychedelic effects, electroencephalography power band reductions, and autonomic nervous system activation. CYB004's half-life was approximately two-fold longer than DMT, prolonging the duration of psychedelic effects to ~40-60 minutes following brief intravenous administration. However, deuteration did not improve PK variability, with IV-administered CYB004 demonstrating moderate to high variability, largely driven by interindividual differences. CYB004 demonstrated PD effects comparable to DMT. However, CYB004 demonstrated an extended duration of these effects due to reduced clearance, while maintaining an acceptable safety profile at clinically relevant exposures despite PK variability.",
-      "date": "2026-09-03",
-      "authors": [
-        "van der Heijden Katelijne V",
-        "Jacobs Gabriel E",
-        "James Ellen H"
-      ],
-      "doi": "10.1177/02698811261478616"
-    },
-    {
-      "title": "The subtle science: a systematic review of psilocybin magic mushroom and truffle microdosing.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42688116/",
-      "source": "PubMed",
-      "abstract": "Microdosing psilocybin magic mushrooms (MM) and truffles has grown in popularity, but the evidence supporting reported benefits remains poorly characterized. The purpose of this systematic review was to synthesize the existing literature on microdosing psilocybin MM and truffles in adults to determine reported health effects and perceived benefits, motivations for use, dosing protocols and preparations, adverse events, and competing interests. This systematic review followed the Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) and was registered with the International Prospective Register of Systematic Reviews (PROSPERO; CRD42023428107). Studies of adults microdosing psilocybin MM or truffles were eligible. Risk of bias was assessed across included studies. Eleven articles (five quantitative and six qualitative studies) met inclusion criteria. Studies were conducted in the United States (n=4), Netherlands, Argentina, and internationally (n=2 each), and Slovenia (n=1) with a total sample of 3,262 adults. Some studies reported microdosing psilocybin MM or truffles may improve well-being, mental health, cognition, physical health, creativity, relationships, pain, curiosity, and substance dependence, and enhance senses among adults. However, the majority of evidence had at least some concerns for risk of bias or was qualitative and used a variety of self-reported outcome measures. Approximately 86% of microdoser motivations were non-medical and only 14% were related to medical diagnoses, mostly for mental health improvements. Extreme heterogeneity was identified across dosing protocols and preparations. The majority of studies did not report adverse events but for those reported, they were mostly mild. All but four studies declared no conflicts of interest and four did not disclose funding sources. The certainty of the evidence is low, and a causal effect of microdosing cannot be inferred. Future research should prioritize well-powered randomized controlled trials with standardized and substance-specific dosing protocols to determine causal relationships between microdosing MM or truffles and health outcomes. Mandatory reporting of adverse events and funding sources should be implemented to build the safety profile of microdosing MM and truffles and ensure transparency for potential conflicts of interest. https://www.crd.york.ac.uk/prospero/, identifier CRD42023428107.",
-      "date": "2026-08-19",
-      "authors": [
-        "Page Jeni",
-        "Moore Alexandra",
-        "Hawkins Bridget E"
-      ],
-      "doi": "10.3389/fpsyt.2026.1866881"
     },
     {
       "title": "Two New Zealand Psychiatrists Approved to Prescribe MDMA for PTSD",
@@ -504,6 +504,19 @@
       "doi": "10.1016/j.toxrep.2026.102324"
     },
     {
+      "title": "A Systemic embolization model in a rat with real-time micro-fluoroscopy for direct quantification of thrombolysis.",
+      "url": "https://doi.org/10.1016/j.mex.2026.104036",
+      "source": "Europe PMC",
+      "abstract": "Recanalization after intravenous thrombolysis remains incomplete in many stroke patients, highlighting the need for standardized preclinical methods to evaluate thrombolytic therapies. We developed a rat systemic embolization model combined with high-resolution micro-fluoroscopy enabling direct, real-time, and quantitative assessment of thrombolysis in vivo. Human fibrin-based BaSO₄ labeled clots were introduced into the abdominal aorta (three clots/animal) to assess alteplase (rtPA) efficacy at doses of 0.9 and 5 mg/kg/h. Micro-CT imaging served as a reference modality. Micro-fluoroscopy continuously visualized clot dissolution, detecting a mean of two clots per animal. Thrombolysis resulted in a dose-dependent reduction in clot area (mean ± SD; -46 ± 26% and -81 ± 22% for 0.9 and 5 mg/kg/h rtPA, respectively, versus -21 ± 14% in controls). Measurement reliability was high (ICC = 0.89), and concordance with micro-CT supported concurrent validity. The model demonstrated predictive and construct validity, and offers technically feasible, reproducible, and standardized platform for pharmacodynamic evaluation of thrombolytic agents.•A systemic embolization model with C-arm micro-fluoroscopy enables direct, real-time visualization of thrombolysis in vivo.•Applying multiple clots per animal reduces the total number of animals required.•The model allows standardized, reproducible testing of thrombolytics with translational relevance.",
+      "date": "2026-07-07",
+      "authors": [
+        "Scheer P",
+        "Hložková J",
+        "Novobilský A"
+      ],
+      "doi": "10.1016/j.mex.2026.104036"
+    },
+    {
       "title": "Intravenous Ketamine reduces psychological pain in suicidal inpatients: A secondary analysis of a six-week randomized placebo-controlled trial.",
       "url": "https://doi.org/10.1016/j.jad.2026.122366",
       "source": "Europe PMC",
@@ -556,24 +569,11 @@
       "doi": "10.1016/j.ibneur.2026.07.016"
     },
     {
-      "title": "Investigating the effects of chlorogenic acid on novel object recognition memory impairment, hyperlocomotion, and prefrontal BDNF expression in a sub-chronic ketamine-induced schizophrenia-like rat model.",
-      "url": "https://doi.org/10.1016/j.ibneur.2026.07.010",
-      "source": "Europe PMC",
-      "abstract": "Schizophrenia is a severe neuropsychiatric disorder characterized by positive, negative, cognitive, mood-related, and motor symptoms. Sub-chronic ketamine administration is widely used to induce schizophrenia-like behavioral and cognitive alterations in rodents. Chlorogenic acid (CGA) is an abundant dietary phenolic acid with reported anti-inflammatory, antioxidative, and neuroprotective properties. The present study examined the effects of CGA on behavioral disturbances in male and female rats exposed to sub-chronic ketamine administration, together with brain-derived neurotrophic factor (BDNF) expression in the prefrontal cortex. Ketamine was injected for 7 consecutive days (30 mg/kg, i.p.), and CGA was orally administered once (150 mg/kg) 24 h after the last ketamine injection. Ketamine increased locomotor activity in both sexes, with a greater effect in females; CGA partially reduced this effect only in males. Rearing was reduced only in ketamine-treated males, and CGA did not reverse this change. Grooming was increased in both sexes after ketamine administration, whereas CGA attenuated this effect only in females. Novel object recognition memory was impaired in both sexes after ketamine administration, and CGA partially attenuated this impairment. Immobility in the forced swim test was reduced only in ketamine-treated females, and CGA attenuated this effect. Prefrontal BDNF expression was decreased after ketamine administration in both sexes, and CGA partially attenuated this reduction. Overall, CGA showed partial and sex-dependent protective effects against selected ketamine-induced behavioral and molecular alterations. These findings should be interpreted in light of the absence of independent DMSO-only vehicle-control cohorts.",
-      "date": "2026-07-24",
-      "authors": [
-        "Bahrami A",
-        "Ghorbani Yekta B",
-        "Baghdasarians A."
-      ],
-      "doi": "10.1016/j.ibneur.2026.07.010"
-    },
-    {
       "title": "CZ",
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2018-004480-31/CZ",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-09-08",
+      "date": "2026-09-09",
       "authors": [],
       "doi": ""
     },
@@ -582,7 +582,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2020-005037-32/CZ",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-09-08",
+      "date": "2026-09-09",
       "authors": [],
       "doi": ""
     },
@@ -591,7 +591,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2021-002909-10/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-09-08",
+      "date": "2026-09-09",
       "authors": [],
       "doi": ""
     },
@@ -600,7 +600,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2015-000550-37/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-09-08",
+      "date": "2026-09-09",
       "authors": [],
       "doi": ""
     },
@@ -609,7 +609,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2021-000041-40/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-09-08",
+      "date": "2026-09-09",
       "authors": [],
       "doi": ""
     },
@@ -618,7 +618,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2020-000829-55/DK",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-09-08",
+      "date": "2026-09-09",
       "authors": [],
       "doi": ""
     },
@@ -627,7 +627,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2020-002790-94/SE",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-09-08",
+      "date": "2026-09-09",
       "authors": [],
       "doi": ""
     },
@@ -636,7 +636,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2021-006200-33/FI",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-09-08",
+      "date": "2026-09-09",
       "authors": [],
       "doi": ""
     },
@@ -645,7 +645,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2019-004812-73/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-09-08",
+      "date": "2026-09-09",
       "authors": [],
       "doi": ""
     },
@@ -654,7 +654,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2022-002369-14/BE",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-09-08",
+      "date": "2026-09-09",
       "authors": [],
       "doi": ""
     },

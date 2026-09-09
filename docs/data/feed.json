@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-08T11:34:12.054050+00:00",
+  "generated_at": "2026-09-09T11:39:06.352497+00:00",
   "items": [
     {
       "title": "Blinding integrity in psychedelic research: Evidence from a comparative randomized controlled trial of psilocybin, MDMA, and methylphenidate in healthy volunteers",
@@ -32,6 +32,47 @@
         "mdma"
       ],
       "added_at": "2026-07-09T10:03:12.956794+00:00"
+    },
+    {
+      "title": "MDMA-Assisted Therapy May Decrease PTSD Symptoms, Dissociation, Depression, and Functional Disability: A Systematic Review and Meta-Analysis.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42708350/",
+      "source": "PubMed",
+      "date": "2026-09-09",
+      "authors": [
+        "Green Warwick M",
+        "Raut Sanket B",
+        "James Fionnghuala L J"
+      ],
+      "doi": "10.1097/HRP.0000000000000478",
+      "summaries": {
+        "en": "A systematic review and meta-analysis of seven randomized controlled trials examined MDMA-assisted psychotherapy for PTSD treatment. Compared to control groups, MDMA-assisted therapy showed significant improvements in PTSD symptoms, dissociation, depression, and functional impairment, but not sleep quality. However, evidence is limited by small sample sizes, blinding challenges, non-standardized therapeutic protocols, and single trial sponsor.",
+        "sv": "En systematisk översikt och metaanalys av sju randomiserade kontrollerade studier undersökte MDMA-assisterad psykoterapi för PTSD-behandling. Jämfört med kontrollgrupper visade MDMA-assisterad terapi signifikanta förbättringar inom PTSD-symtom, dissociation, depression och funktionell svikt, men inte sömnkvalitet. Dock är evidensen begränsad av små urvalsstorlekar, blindningsutmaningar och gemensam studiefinansiär.",
+        "no": "En systematisk oversikt og metaanalyse av sju randomiserte kontrollerte studier undersøkte MDMA-assistert psykoterapi for PTSD-behandling. Sammenlignet med kontrollgrupper viste MDMA-assistert terapi betydelige forbedringer i PTSD-symptomer, dissosiasjon, depresjon og funksjonssvikt, men ikke søvnkvalitet. Bevisene er imidlertid begrenset av små utvalgsstørrelser, blindingsproblemer og felles studiefinansiør.",
+        "da": "En systematisk oversigt og metaanalyse af syv randomiserede kontrollerede studier undersøgte MDMA-assisteret psykoterapi til PTSD-behandling. Sammenlignet med kontrolgrupper viste MDMA-assisteret terapi signifikante forbedringer i PTSD-symptomer, dissociation, depression og funktionel invaliditet, men ikke søvnkvalitet. Evidensen er dog begrænset af små stikprøvestørrelser, blindingsudfordringer og fælles studiesponsor.",
+        "fi": "Seitsemän satunnaistetun kontrolloitujen tutkimuksen järjestelmällinen katsaus ja meta-analyysi tutkivat MDMA-avusteista psykoterapiaa PTSD-hoidossa. Verratuna kontrolliryhmiin MDMA-avusteinen terapia osoitti merkitseviä parannuksia PTSD-oireissa, dissosiaatiossa, masennuksessa ja toimintakyvyn heikentymisessä, mutta ei unen laadussa. Näyttö on kuitenkin rajoitettu pienillä otoskooilla, sokkouttamisen haasteilla ja yhteisellä tutkimuksen rahoittajalla.",
+        "is": "Kerfbundin yfirlit og meðalgreining á sjö tilviljunarkenndum samanburðarrannsóknum skoðaði MDMA-aðstoðaða sálfræðiþerapíu við meðferð á áfallastreituröskun. Miðað við samanburðarhópa sýndi MDMA-aðstoðuð meðferð marktæka bætingu á einkennum áfallastreitaröskunar, skotningu, þunglyndi og hæfislegri skerðingu, en ekki svefngæði. Þó eru sönnunargögn takmörkuð með litlum sýnishornum, áskorunum við blindun og sameiginlegum styrktaraðila rannsóknarinnar.",
+        "et": "Seitseme juhuslikult määratud kontrollitud uuringu süstemaatiline ülevaade ja metaanalüüs uurisid MDMA-abistatud psühhoteraapiat PTSD-ravi jaoks. Võrreldes kontrollrühmadega näitas MDMA-abistatud teraapia olulist paranemist PTSD-sümptomites, dissotsiatsioonias, depressioonis ja funktsionaalsete puudete puhul, kuid mitte und kvaliteedi osas. Tõend on siiski piiratud väikeste valimiga, pimestamise probleemidega ja ühise uuringu rahastajaga.",
+        "lv": "Septiņu randomizēto kontrolēto pētījumu sistemātisks pārskats un metaanalīze pārbaudīja MDMA-palīdzētās psihoterapijas efektivitāti PTSB ārstēšanā. Salīdzinājumā ar kontroles grupām MDMA-palīdzētā terapija parādīja nozīmīgus uzlabojumus PTSB simptomos, disociācijā, depresijā un funkcionālā traucējumā, bet ne miega kvalitātē. Tomēr pierādījumi ir ierobežoti ar maziem izlases lielumiem, aklošanas problēmām un vienotu pētījuma sponsoru.",
+        "lt": "Septyniu atsitiktinių kontroliuojamų bandymų sisteminė apžvalga ir metaanalizė tyrė MDMA pagalba asistavusią psichoterapiją PTSR gydymui. Lyginant su kontrolės grupėmis MDMA pagalba asistavusi terapija parodė reikšmingą pagerinimą PTSR simptomuose, disociacijos, depresijos ir funkcinės negalios atžvilgiu, bet ne miego kokybės. Tačiau įrodymai yra riboti dėl mažų imčių dydžių, aklės kaupos iššūkių ir bendro tyrimo finansatoriaus."
+      },
+      "notable": true,
+      "notable_reasons": {
+        "en": "Large meta-analysis synthesizing seven RCTs on MDMA-assisted therapy for PTSD, directly relevant to emerging clinical evidence in psychedelic medicine.",
+        "sv": "Stor metaanalys som syntetiserar sju RCT:er om MDMA-assisterad terapi för PTSD, direkt relevant för växande kliniska bevis inom psykedelisk medicin.",
+        "no": "Stor metaanalyse som syntetiserer syv RCT-er om MDMA-assistert terapi for PTSD, direkte relevant for voksende klinisk evidens innen psykedelisk medisin.",
+        "da": "Stor metaanalyse, der syntetiserer syv RCT'er om MDMA-assisteret terapi for PTSD, direkte relevant for voksende klinisk evidens inden for psykedelisk medicin.",
+        "fi": "Suuri metaanalyysi, joka syntetisoi seitsemän RCT:tä MDMA-avusteisesta PTSD-terapiasta, suoraan relevantti nousevan kliinisen evidenssin kannalta psykedelisessä lääketieteessä.",
+        "is": "Stór gagnasöfnun sem fléttar saman sjö RCT-um um MDMA-aðstoðað meðferð fyrir PTSD, beint viðeigandi fyrir vaxandi klíníska sönnun innan sálfræðilegra lyfja.",
+        "et": "Suur metaanalüüs, mis ühendab seitse RCT-d MDMA-abil antava PTSD-ravi kohta, otseselt asjakohane psühhedeeliumi meditsiini kasvava kliinilise tõendusega.",
+        "lv": "Liela metaanalīze, kas sintezē septiņas RCT par MDMA-palīdzību PTSD terapijai, tieši attiecīga psihedelisko vielu medicīnas augošajiem klīniskajiem pierādījumiem.",
+        "lt": "Didelė metaanalizė, kurioje sintetinamos septyni RCT dėl MDMA-pagalbinės PTSD terapijos, tiesiogiai svarbi psichedelinės medicinos besivystantiems klinikiniais įrodymais."
+      },
+      "relevance_score": 5,
+      "study_type": "review",
+      "substances": [
+        "mdma"
+      ],
+      "added_at": "2026-09-09T11:38:42.550210+00:00"
     },
     {
       "title": "Is (S)-norketamine an active mediator of esketamine's antidepressant effects?",
@@ -1918,37 +1959,6 @@
       "study_type": "rct",
       "substances": [
         "ketamine"
-      ],
-      "added_at": "2026-08-14T07:56:27.920057+00:00"
-    },
-    {
-      "title": "A contemporary exploration of motivations and practices of psychedelic use among emerging adult cannabis users in the United States: A qualitative analysis.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42593989/",
-      "source": "PubMed",
-      "date": "2026-08-13",
-      "authors": [
-        "Conn Bridgid M",
-        "Osornio Alisha",
-        "Sheean Kaia"
-      ],
-      "doi": "10.1037/adb0001180",
-      "summaries": {
-        "en": "Qualitative study (2022-2023) examining motivations for psalmoterapeutic use among ethnically diverse cannabis-using emerging adults in the US. Thematic analysis identified four key domains: social/contextual factors, user expectancies, motives (spiritual exploration, social connection, self-treatment), and practices (microdosing, intentional use). Findings contribute to understanding contemporary psychedelic use patterns.",
-        "sv": "Kvalitativ studie (2022-2023) som undersöker motiv för psykedeliska växter bland etniskt och rasiskt mångsidiga cannabisanvändande unga vuxna i USA. Tematisk analys identifierade fyra områden: kontext, förväntningar, användarmotiv (andlig utforskning, social kontakt, självbehandling) och praktiker (microdosering, intentionell användning). Studien bidrar till förståelse av samtida psykedelikaanvändning.",
-        "no": "Kvalitativ studie (2022-2023) som undersøker motiv for bruk av psykedelika blant etnisk og rasielt mangfoldig cannabisbrukende unge voksne i USA. Tematisk analyse identifiserte fire domener: kontekst, forventninger, bruksmotiver (åndelig utforsking, sosial kontakt, selvbehandling) og praksiser (microdosing, intentional bruk). Studien bidrar til forståelse av samtidig psykedelikabruk.",
-        "da": "Kvalitativ studie (2022-2023) der undersøgt motivationen for psykedelika-brug blandt etnisk og racemæssigt forskelligartet cannabisbrugere blandt unge voksne i USA. Tematisk analyse identificerede fire områder: kontekst, forventninger, brugsmotiver (åndelig udforskning, social kontakt, selvbehandling) og praksisser (microdosering, målrettet brug). Studien bidrager til forståelse af samtidig psykedelika-brug.",
-        "fi": "Laadullinen tutkimus (2022-2023), joka tutki psykedeliikkojen käytön motiivia etnisesti ja rodullisesti moninaisilla kannabiksenkäyttäjillä nuorilla aikuisilla Yhdysvalloissa. Temaattinen analyysi tunnisti neljä aluetta: konteksti, odotukset, käyttöön liittyvät motiivit (hengellinen tutkiskelu, sosiaalinen yhteys, itsehoidon tarkoitus) ja käytännöt (mikrodoseeraus, tavoitteellinen käyttö). Tutkimus lisää ymmärrystä psykedeliikkojen nykyisestä käytöstä.",
-        "is": "Eigindlega rannsókn (2022-2023) sem kannaðist til um hvata fyrir notkun geðbreytandi efna meðal fjölbreytts hóps kannabis- og geðbreytandi efnanotenda meðal ungra fullorðinna í Bandaríkjunum. Þemarannsókn greindi fjóra þætti: samhengi, væntingar, hvata fyrir notkun (andleg könnun, félagsleg tengsl, sjálfsmeðferð) og æf (smádosering, markviss notkun). Rannsóknin stuðlar að skilningi á nútíma notkun geðbreytandi efna.",
-        "et": "Kvalitatiivne uuring (2022-2023) psühhedeelikute kasutamise motiveerimisest etniliselt ja rassiliselt mitmekesiste kannabise kasutajate seas noorte täiskasvanute hulgas USA-s. Teemaatiline analüüs tuvastis neli valdkonda: kontekst, ootused, kasutamise motivid (vaimne uurimine, sotsiaalne suhtumine, eneseravitamine) ja praktikad (mikrodoseerimine, taotluslik kasutamine). Uuring aitab paremini mõista kaasaegset psühhedeelikute kasutamist.",
-        "lv": "Kvalitatīvs pētījums (2022-2023), kas pārbaudīja motivāciju psihedēliku lietošanai starp etnisko un rasu daudzveidību kannabisa lietošanas jaunajiem pieaugušajiem ASV. Tematiskā analīze identificēja četrus domēnus: kontekstu, cerības, lietošanas motīvus (garīga pētniecība, sociālā savienošanās, pašārstēšanās) un praksi (mikrodozējums, mērķtiecīga lietošana). Pētījums veicina izpratni par pašreizējo psihedēliku lietošanu.",
-        "lt": "Kokybinis tyrimas (2022-2023), kuriame nagrinėti psichedelinių medžiagų vartojimo motyvai tarp etninės ir rasinės įvairovės kannabio vartotojų tarp jaunų suaugusiųjų JAV. Teminė analizė identifikavo keturis sritis: kontekstą, lūkesčius, vartojimo motyvus (dvasinę tyrinėjimą, socialinį ryšį, savigydą) ir praktiką (mikrodozavimą, tikslingą vartojimą). Tyrimas prisideda prie dabarties psichedelinių medžiagų vartojimo supratimo."
-      },
-      "notable": false,
-      "notable_reasons": null,
-      "relevance_score": 4,
-      "study_type": "qualitative",
-      "substances": [
-        "other"
       ],
       "added_at": "2026-08-14T07:56:27.920057+00:00"
     }

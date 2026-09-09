@@ -1,6 +1,26 @@
 {
   "items": [
     {
+      "title": "MDMA-Assisted Therapy May Decrease PTSD Symptoms, Dissociation, Depression, and Functional Disability: A Systematic Review and Meta-Analysis.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42708350/",
+      "source": "PubMed",
+      "date": "2026-09-09",
+      "authors": [
+        "Green Warwick M",
+        "Raut Sanket B",
+        "James Fionnghuala L J"
+      ],
+      "doi": "10.1097/HRP.0000000000000478",
+      "summary_en": "A systematic review and meta-analysis of seven randomized controlled trials examined MDMA-assisted psychotherapy for PTSD treatment. Compared to control groups, MDMA-assisted therapy showed significant improvements in PTSD symptoms, dissociation, depression, and functional impairment, but not sleep quality. However, evidence is limited by small sample sizes, blinding challenges, non-standardized therapeutic protocols, and single trial sponsor.",
+      "notable": true,
+      "notable_reason": "Large meta-analysis synthesizing seven RCTs on MDMA-assisted therapy for PTSD, directly relevant to emerging clinical evidence in psychedelic medicine.",
+      "study_type": "review",
+      "substances": [
+        "mdma"
+      ],
+      "added_at": "2026-09-09T11:38:42.550210+00:00"
+    },
+    {
       "title": "Is (S)-norketamine an active mediator of esketamine's antidepressant effects?",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42706419/",
       "source": "PubMed",

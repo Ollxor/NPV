@@ -1,7 +1,84 @@
 {
-  "date": "2026-09-09",
-  "cached_at": "2026-09-09T10:44:18.518201+00:00",
+  "date": "2026-09-10",
+  "cached_at": "2026-09-10T10:34:52.054461+00:00",
   "articles": [
+    {
+      "title": "Ketamine-Induced Dissociation as an Ethical Signal, Not a Side Effect: Context as the Determinant of Clinical Duties Under Beneficence and Non-maleficence.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42717138/",
+      "source": "PubMed",
+      "abstract": "Ketamine has emerged as an important intervention in contemporary psychiatry, yet its acute dissociative effects remain ethically under-theorized. Clinical approaches often frame dissociation as either a liability to minimize or a therapeutic feature to promote, but both views oversimplify a context-dependent phenomenon. We propose that ketamine-induced dissociation is better understood as an ethically salient signal whose significance is shaped by patient vulnerability, dosing, preparatory framing, interpersonal support, and post-session integration. Using a framework grounded in beneficence and non-maleficence, we conceptualize dissociation not as a neutral side effect but as a predictable alteration of subjectivity that may orient patients toward harm or therapeutic possibility. We distinguish two clinically meaningful trajectories: the dysphoric trajectory of dissociative experience, characterized by threat appraisal and foreseeable psychological harm, and the integrative trajectory of dissociative experience, characterized by meaningful or generative appraisal that may permit emotional reappraisal and meaning-making. We advance a dual-trajectory model in which clinical context shapes these outcomes, supporting proportionate safeguards rather than categorical exclusion and informing consent, risk assessment, and intervention design.",
+      "date": "2026-09-09",
+      "authors": [
+        "Moon Gun",
+        "Noto Jack",
+        "Shuler Zachary"
+      ],
+      "doi": "10.1007/s10730-026-09611-x"
+    },
+    {
+      "title": "Psychedelic 4-AcO-DMT attenuated looming-induced freezing behaviors by activating PrL",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42716959/",
+      "source": "PubMed",
+      "abstract": "Psychedelics modulate emotion and cognition, yet the underlying mechanisms remain unclear. Given the ability of psychedelics to induce visual hallucinations, we employed the looming model-a visual threat assay that combines visual stimulation with innate fear-to investigate the effects of psychedelics. Unexpectedly, 4-acetoxy-N,N-dimethyltryptamine (4-AcO-DMT), a psychedelic compound that acts as a prodrug of psilocin and exhibits comparable central nervous system effects to psilocybin, significantly reduced looming-induced freezing behavior compared to R/S-MDMA, without eliciting overt hallucinogen-like effects under the current experimental conditions. This anti-fear effect was independent of β-arrestin 2 signaling and visual function, but associated with decreased innate fear emotion. We identified that 4-AcO-DMT activates CaMKIIα neurons in the prelimbic cortex (PrL) via 5-HT",
+      "date": "2026-09-09",
+      "authors": [
+        "Xia Ke",
+        "Wang Yuanyuan",
+        "Liu Junhong"
+      ],
+      "doi": "10.1038/s41380-026-03894-9"
+    },
+    {
+      "title": "Toward an interdisciplinary mind science of advanced meditation.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42716834/",
+      "source": "PubMed",
+      "abstract": "Meditation research is increasingly moving beyond mindfulness and other early-stage practices toward advanced meditation, encompassing states, stages, and endpoints that progressively unfold with increasing expertise through meditative development. This emerging subfield consists of interdisciplinary research that brings advanced meditation within reach of systematic scientific investigation. Here we articulate this research subfield, including its constitutive conceptual and methodological components and interrelated translational domains: philosophical and theoretical foundations, computational phenomenology, cognitive neuroscience, epidemiology and public health, clinical and well-being outcomes, and relations with psychedelic experiences. This subfield represents an important development for meditation research and the mind sciences more broadly, with implications for health and well-being and for empirical understanding of the human mind.",
+      "date": "2026-09-09",
+      "authors": [
+        "Lieberman Jonathan M",
+        "Sacchet Matthew D"
+      ],
+      "doi": "10.1016/j.tics.2026.07.009"
+    },
+    {
+      "title": "Psilocybin selectively suppresses novelty-induced grooming via 5-HT2B receptors: A microstructure analysis in Wistar rats.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42716333/",
+      "source": "PubMed",
+      "abstract": "Psilocybin, a tryptamine alkaloid found naturally in numerous Psilocybe mushroom species, is currently being investigated for its therapeutic potential in treating several neurobehavioral and psychiatric diseases. Our previous data showed that the 5-HT2B receptor (5-HT2BR) immobility and increases in climbing behavior in the forced swim test (FST), revealing that psilocybin's predictive validity in the FST can be dissociated from its 5-HT2A-mediated psychedelic effects. Assessing how psilocybin modulates other innate, ethologically relevant behaviors beyond the FST is critical to fully mapping its 5-HT2BR-dependent profile. Given the emerging relevance of self-grooming in modeling various affective brain disorders, studying its microstructure offers important insights into the complex neural regulation of behavioral sequences. Specifically, this study aimed to characterize the effect of psilocybin on novelty-induced grooming in Wistar rats using the Grooming Analysis Algorithm (GAA) and evaluated whether RS-127445 reversed these behavioral changes. Our data showed that psilocybin reduced grooming as quantified by traditional grooming measures (total grooming time and number of bouts), and that this reduction resulted from a selective suppression of abnormal, non-comfort behavioral grooming microstructure. RS-127445 reversed the psilocybin-induced reduction in traditional measures and blocked psilocybin's selective suppression of fragmented bout and aberrant transition patterns. These results extend our understanding of psilocybin's behavioral profile, demonstrating a novel role for the 5-HT2BRs in the regulation of complex, novelty-induced grooming activity.",
+      "date": "2026-09-09",
+      "authors": [
+        "Seillier Alexandre",
+        "El Dannan Ghinwa Ibrahim",
+        "Seillier Lenka"
+      ],
+      "doi": "10.1016/j.pnpbp.2026.111924"
+    },
+    {
+      "title": "Craving Reduction and Smoking Outcomes in Psilocybin-Assisted and Standard Cessation Care.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42715291/",
+      "source": "PubMed",
+      "abstract": "Smoking cessation outcomes are heterogeneous, and factors associated with these differences are not fully understood. We examined longitudinal smoking trajectories across distinct smoking profiles and evaluated whether early craving and affective symptom changes were associated with verified abstinence. Participants in this observational cohort were classified as dependence-predominant or affective-predominant using measures of smoking severity and affective symptoms. Abstinence was defined as 7-day self-reported abstinence verified by exhaled CO <8 ppm. Psilocybin-assisted care was associated with greater smoking reduction at week 12 (β = 5.56, 95% CI 2.18-8.94, p = .001) and greater urge reductions at T1 (β = -3.26, 95% CI -5.31 to -1.21, p = .002) and T2 (β = -2.74, 95% CI -4.85 to -0.63, p = .011). Psilocybin-assisted care was not associated with abstinence after adjustment (OR = 1.82, 95% CI 0.68-4.86, p = .233). Early craving reduction was associated with the outcome (OR = 1.54, 95% CI 1.17-2.03, p = .002). Distinct patterns of change were observed across treatment pathways and smoking profiles, while early craving reduction was associated with abstinence. Future studies may clarify whether these profiles and early trajectories could help inform treatment stratification and individualized cessation strategies.",
+      "date": "2026-09-09",
+      "authors": [
+        "Strandberg Lisbeth",
+        "Fernandes Thiago P",
+        "Shoshina Irina I"
+      ],
+      "doi": "10.47626/1516-4446-2026-5060"
+    },
+    {
+      "title": "Correction: The transformational power of psychedelics: catalysts for creativity, consciousness, and mental health.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42711410/",
+      "source": "PubMed",
+      "abstract": "",
+      "date": "2026-09-08",
+      "authors": [
+        "Du Xiubo",
+        "Liu Jiantao",
+        "Wang Xiaohui"
+      ],
+      "doi": "10.1038/s41380-026-03863-2"
+    },
     {
       "title": "Differences in associations between long-acting injectable and oral antipsychotic prescribing and healthcare utilisation in people with intellectual disability: a self-controlled case series (LOID study).",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42711066/",
@@ -181,82 +258,6 @@
         "Kautz Marin"
       ],
       "doi": "10.4088/PCC.25m04177"
-    },
-    {
-      "title": "Low Dose Ketamine Preconditions Astrocyte Mitochondria to Achieve Antidepressant Efficacy via Adenosine, Humanin, and Melatonin Upregulation and Efflux.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42694894/",
-      "source": "PubMed",
-      "abstract": "Understanding the physiological changes induced by ketamine in mood disorders, while reducing its side effects, is likely to contribute to a more comprehensive understanding of the physiology underlying mood disorders, as well as to the development of faster-acting and more efficacious antidepressant treatments. An extensive review of the literature on ketamine and the pathophysiology of depression indicates that ketamine's antidepressant efficacy has classically been attributed to noncompetitive antagonism of the n-methyl-d-aspartate receptor (NMDAR) on the neuronal postsynaptic membrane, thereby reducing excessive Ca²⁺ influx through the NMDAR channel. However, recent evidence suggests that ketamine's antidepressant efficacy is mediated not by synaptic NMDAR antagonism but rather by its direct effects on mitochondrial function, arising from its amphiphilic structure. It is proposed that astrocyte mitochondria represent the primary target of ketamine, with the broader effects induced by ketamine occurring downstream of the optimization of astrocyte mitochondrial function and, consequently, astrocyte function. Developmental stress and trauma are proposed to differentially prime specific regions of the central nervous system, rendering them more susceptible to subsequent stressors through the epigenetic regulation of astrocytes. This process increases astrocyte reactivity and dysregulates astrocyte mitochondrial function in response to subsequent stressors, while also increasing blood-brain barrier permeability within these regions. At stress-vulnerable sites, ketamine may upregulate adenosine, humanin, and melatonin, thereby restoring astrocyte function and attenuating inflammatory activity within the local astrocytic microenvironment, including microglia, neurons, and oligodendrocytes. Ketamine's modulation of mitochondrial function is proposed to be mediated via NMDARs located on the inner mitochondrial membrane, leading to alterations in mitochondrial ionic regulation that enhance astrocyte mitochondrial resilience to stress, possibly through a preconditioning mechanism. Ketamine-induced increases in melatonin and humanin are proposed to suppress microglial activation, promote white matter remyelination, and restore neuronal activity, as well as patterned intercellular and interregional communication. This hypothesis-driven overview evaluates ketamine's capacity to restore astrocyte mitochondrial function and thereby counteract the consequences of developmental stress and trauma that underlie vulnerability to subsequent stress-induced depression.",
-      "date": "2026-08-24",
-      "authors": [
-        "Anderson George"
-      ],
-      "doi": "10.31083/AP54760"
-    },
-    {
-      "title": "Hallucinogen Persisting Perception Disorder in a Young Adult Case Report.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42694657/",
-      "source": "PubMed",
-      "abstract": "Hallucinogen persisting perception disorder (HPPD) is a rare psychiatric diagnosis encompassing a range of perceptual disturbances caused by the lingering effects of hallucinogens. There are two major subtypes of the disorder: HPPD I and II. HPPD II is considered a more severe form that is generally longer-term, distressing, and requiring more intense treatment. In the limited available literature, many of the affected patients have multiple psychiatric comorbidities. The following case describes a 24-year-old college student, WA, who was diagnosed with HPPD II along with comorbid bipolar I disorder and generalized anxiety disorder. WA presented with an escalation of manic symptoms, psychosis, and two lysergic acid diethylamide (LSD) uses prior to hospitalization. He was treated with olanzapine, leading to mood stabilization and remission of psychosis. Post treatment, WA continued to experience perceptual disturbances and \"visual snow.\" Medications clonidine and clonazepam were trialed for HPPD. While symptoms fluctuated in severity, they never fully resolved. Despite this, WA achieved acceptance of his symptoms, mood stability, and a functional recovery. WA's case is an example of the clinical complexity in accurate diagnosis and treatment of HPPD, including the distinction of the symptoms from psychosis. As LSD-assisted therapies continue to be investigated for conditions such as anxiety and depression, recognition and management of persistent adverse effects such as HPPD are becoming increasingly important in both psychiatric and general medical practice. This case demonstrates the limited effectiveness and lack of knowledge on HPPD treatments as well as the need for longitudinal assessments in management.",
-      "date": "2026-09-03",
-      "authors": [
-        "Notani Sonali",
-        "Srinivasa Vikas",
-        "Chaudhry Serena"
-      ],
-      "doi": "10.1155/crps/6605265"
-    },
-    {
-      "title": "Network Pharmacology Reveals the Potential Mechanism of Ketamine in Improving Cognitive Impairment in Patients With Depression.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42694621/",
-      "source": "PubMed",
-      "abstract": "Ketamine may have antidepressant and anti-suicidal effects. However, the mechanism underlying ketamine-mediated improvement in cognitive impairment in patients with depression remains unclear. To improve patient cognition in depression using molecular docking and network pharmacology, we examined ketamine's key targets and identified its molecular mechanisms. To gain target information about cognitive impairment (1983) and depression (1874), we used three databases, including Online Mendelian Inheritance in Man, GeneCards, and DisGENET. Information on ketamine targets (63) was retrieved from public databases. To locate signaling pathways and core targets, we conducted bioinformatics analysis, including an enrichment analysis and protein-protein interaction (PPI) network analysis. To assess the interaction between core targets and ketamine, we carried out molecular docking. We identified 20 ketamine target proteins of ketamine related to depression and cognitive impairment. Enrichment analyses revealed that ketamine influenced depression and cognitive function through multiple pathways, targets, and overall synergy. The important signaling pathways identified were \"amphetamine addiction\" and \"dopaminergic synapse\". Five core genes (monoamine oxidase (MAO)-A,  The antidepressant and cognitive-enhancing effects of ketamine are primarily mediated through targets associated with inflammation, neural signaling, tumors, and neurodegeneration, as well as pathways such as amphetamine addiction, dopaminergic synapse, and the cyclic adenosine monophosphate (cAMP) signaling pathway. The findings provide theoretical support and guidance for optimizing clinical application strategies of ketamine and for designing new drugs.",
-      "date": "2026-08-06",
-      "authors": [
-        "Yang Lei",
-        "Zhang Qiuyu",
-        "Zhang Ying"
-      ],
-      "doi": "10.31083/AP56752"
-    },
-    {
-      "title": "Implementing psychedelic-assisted therapy in Ireland: perspectives from a national stakeholder survey.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42693921/",
-      "source": "PubMed",
-      "abstract": "",
-      "date": "2026-09-04",
-      "authors": [
-        "Harrington Colm",
-        "Mallon Orla",
-        "Gribben Andrew David"
-      ],
-      "doi": "10.1017/ipm.2026.10224"
-    },
-    {
-      "title": "Healing together: Results from a pilot trial of 3,4-Methylenedioxymethamphetamine-enhanced cognitive-behavioral conjoint therapy for posttraumatic stress disorder.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42693902/",
-      "source": "PubMed",
-      "abstract": "Posttraumatic stress disorder (PTSD) disrupts individual well-being and relationship health, particularly among veteran/military couples with heightened risks due to deployment, family reintegration, and traumatic stress. Although cognitive-behavioral conjoint therapy (CBCT) and brief CBCT (bCBCT) have demonstrated strong efficacy in reducing PTSD symptoms, their impact on relational outcomes is less compelling. Given the importance of relationship functioning for veterans' overall health, enhancing interpersonal outcomes of PTSD treatment remains a research priority. One promising approach is the integration of 3,4-methylenedioxymethamphetamine (MDMA)-assisted therapy to augment the relational benefits of established PTSD interventions. This single-site, open-label pilot study evaluated the preliminary benefit, safety, and acceptability of MDMA-assisted bCBCT in eight U.S. military veterans with PTSD and their intimate partners (N = 16). An eight-session MDMA-assisted bCBCT protocol with two MDMA administration sessions and dyadic integration sessions incorporating elements of integrative behavioral couples therapy was delivered. Outcomes included PTSD symptom severity, relationship functioning, and safety. Veterans exhibited large pre-post PTSD symptom reductions, d = 1.25, which were generally maintained during follow-up. Both veterans and partners experienced large improvements in relationship functioning, ds = 1.83 and 1.29, respectively, with moderate rebound during follow-up. No serious adverse events were reported. This first trial of MDMA-assisted bCBCT in U.S. veterans and their partners provides preliminary evidence of potential improvements in PTSD and relational outcomes, with no identified serious safety concerns. This model has potential for future evaluation in large health care systems, leveraging the hypothesized therapeutic effects of MDMA for individuals with PTSD and their families.",
-      "date": "2026-09-04",
-      "authors": [
-        "Morland Leslie A",
-        "Khalifian Chandra E",
-        "Perivoliotis Dimitri"
-      ],
-      "doi": "10.1002/jts.70126"
-    },
-    {
-      "title": "Psilocybin prevents chemotherapy-induced peripheral neuropathy through mitochondrial trafficking preservation.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42691184/",
-      "source": "PubMed",
-      "abstract": "Chemotherapy-induced peripheral neuropathy (CIPN) is a disabling, often irreversible toxicity that affects millions of patients, limits life-saving cancer therapy, and lacks proven treatment. In this work, we show that as little as two doses of psilocybin before chemotherapy durably prevented the onset of CIPN across platinum- and taxane-based models, including repeated chemotherapy cycles, without impairing antitumor efficacy. Peripherally, psilocybin maintained tactile sensitivity and intraepidermal nerve fiber endings through axonal mitochondrial trafficking and distribution preservation, through the TrkB-Akt-PAK5-MAP2-KIF5B pathway and remobilization of syntaphilin-anchored mitochondria. Centrally, it normalized medial prefrontal cortical synaptic activity and cortical alpha and beta electroencephalography power. This stabilization of peripheral axonal energy balance establishes psilocybin as a first-in-class prophylactic agent for CIPN while also preserving central neural function. Given psilocybin's established safety, these discoveries support clinical evaluation as a strategy to prevent CIPN.",
-      "date": "2026-09-03",
-      "authors": [
-        "Heles Mario",
-        "Pasvolsky Lilach",
-        "Sathishkumar Hinduja"
-      ],
-      "doi": "10.1126/science.aec6116"
     },
     {
       "title": "Two New Zealand Psychiatrists Approved to Prescribe MDMA for PTSD",
@@ -439,6 +440,45 @@
       "doi": ""
     },
     {
+      "title": "Update on Sedation for Upper Gastrointestinal Endoscopy in Japan: Current Evidence on Remimazolam.",
+      "url": "https://doi.org/10.1002/deo2.70402",
+      "source": "Europe PMC",
+      "abstract": "Sedation is an essential component of upper gastrointestinal endoscopy because it reduces patient discomfort and anxiety while improving patient acceptance and procedural quality. In Japan, benzodiazepines such as midazolam and opioid analgesics have long been widely used in routine clinical practice; however, many of these agents historically lacked formal insurance approval for sedation during gastrointestinal endoscopy. Propofol is also a useful sedative because of its rapid onset and recovery, but its use in Japan has been limited because of concerns regarding respiratory and cardiovascular depression and the need for management by anesthesia-trained personnel. Against this background, the approval of remimazolam for sedation during gastrointestinal endoscopy in June 2025 represented a major turning point in Japanese endoscopic sedation practice. Remimazolam is an ultra-short-acting benzodiazepine rapidly metabolized by carboxylesterases and reversible with flumazenil. Japanese phase III trials demonstrated high sedation success rates and rapid recovery during upper gastrointestinal endoscopy, including in elderly patients. Compared with midazolam, remimazolam shortened awakening and ambulation times, whereas compared with propofol, it may cause fewer respiratory and cardiovascular adverse events. This review summarizes the current status of upper gastrointestinal endoscopic sedation in Japan, focusing on the clinical evidence and positioning of the newly approved ultra-short-acting benzodiazepine, remimazolam.",
+      "date": "2026-08-12",
+      "authors": [
+        "Ichijima R",
+        "Toyama M",
+        "Shishido T"
+      ],
+      "doi": "10.1002/deo2.70402"
+    },
+    {
+      "title": "Preclinical evaluation of PSMA-targeted ultrasound contrast agents in an orthotopic model of prostate cancer in rabbits.",
+      "url": "https://doi.org/10.1016/j.bioactmat.2026.07.040",
+      "source": "Europe PMC",
+      "abstract": "The localization of prostate cancer by ultrasound remains limited by the lack of B-mode conspicuity and the confinement of clinically approved microbubbles (MBs) to the vasculature. This precludes differentiating viable tumor, necrotic tissue, and margin-associated disease. We investigated prostate-specific membrane antigen (PSMA)-targeted lipid-shelled perfluorocarbon nanobubbles (PSMA-NBs) in an orthotopic rabbit model using a clinical contrast-enhanced ultrasound (CEUS) system. We implanted PSMA-positive PC3pip-GFP tumors into the prostates of immunosuppressed New Zealand White rabbits and performed transabdominal imaging with PSMA-NBs, MBs, and Plain-NBs using identical protocols. To address tumor heterogeneity and ultrasound boundary ambiguity, regions of interest were defined from baseline B-mode images and segmented into the tumor core, rim, and a peritumoral area. Pixel-wise parametric and decorrelation time (DT) maps were generated and compared with whole-slide histology (H&E) and, in an exploratory and non-specific analysis, with PSMA IHC. Compared to MBs at the doses used, PSMA-NBs exhibited higher peak intensities in the tumor core and rim (1.60-fold and 1.50-fold, respectively) and improved retention (mean transit time [MTT]: 4.20 to 5.40-fold higher) for up to 10 min in the tumor and peritumoral areas. In an exploratory analysis constrained by cohort size, PSMA-NB kinetics, notably MTT, tracked histology-defined tumor viability, and DT mapping showed spatially heterogeneous retention at the tumor periphery. Compared to Plain-NBs, PSMA-NBs also exhibited improved retention (MTT +21% overall) in the rim and peritumoral areas. This study demonstrates the potential of PSMA-NBs to characterize prostate cancer by molecularly targeted CEUS beyond that achieved with MBs at the doses used.",
+      "date": "2026-08-11",
+      "authors": [
+        "Berg FM",
+        "Abenojar EC",
+        "Nittayacharn P"
+      ],
+      "doi": "10.1016/j.bioactmat.2026.07.040"
+    },
+    {
+      "title": "Long-term exploratory evaluation of an acellular biomimetic polyfascicular nerve guidance conduit for peripheral nerve repair in a rhesus macaque model.",
+      "url": "https://doi.org/10.1016/j.bioactmat.2026.07.035",
+      "source": "Europe PMC",
+      "abstract": "Peripheral nerve injury (PNI) affects millions worldwide, yet currently approved nerve guidance conduits (NGCs) have limited ability to recapitulate the native fascicular architecture that supports organized axonal regeneration. Here, we present an acellular biomimetic multi-fascicle NGC (MFNGC) constructed by integrating electrospun poly(L-lactide-co-ε-caprolactone) (PLCL) membranes with visible-light-crosslinked gelatin hydrogel guide structures, without cells or exogenous growth factors. The MFNGC incorporates three inner conduits mimicking perineurial fascicles enclosed within an epineurium-like outer conduit, approximating key architectural features of the native median nerve in rhesus macaques. In a 12-month exploratory follow-up study using a 15-mm median nerve defect model in three rhesus macaques (<i>Macaca mulatta</i>), the MFNGC showed evidence of functional and histological nerve regeneration, as assessed by compound muscle action potential (CMAP), hand dexterity using pellet clearance test, motor dysfunction scoring, thenar muscle preservation, and axonal remyelination. Nerves regenerated within the MFNGC exhibited organized multi-fascicular tissue formation resembling native nerve architecture, and the conduit showed substantial <i>in vivo</i> degradation, as indicated by a 94% reduction in PLCL molecular weight without obvious chronic inflammatory response at the 12-month endpoint. Although limited by the small number of NHP, this study provides exploratory preclinical evidence supporting further evaluation of an acellular polyfascicular NGC for peripheral nerve regeneration.",
+      "date": "2026-08-04",
+      "authors": [
+        "Kim YJ",
+        "Choi IC",
+        "Cho J"
+      ],
+      "doi": "10.1016/j.bioactmat.2026.07.035"
+    },
+    {
       "title": "Impact of Mild Traumatic Brain Injury (mTBI) on CYP2D6 Activity and the Restorative Effects of Melatonin and Vitamin C Supplementation.",
       "url": "https://doi.org/10.5812/ijpr-164903",
       "source": "Europe PMC",
@@ -491,6 +531,18 @@
       "doi": "10.1080/07853890.2026.2722438"
     },
     {
+      "title": "Interpol review of forensic drug chemistry, 2022-2025.",
+      "url": "https://doi.org/10.1016/j.fsisyn.2026.100701",
+      "source": "Europe PMC",
+      "abstract": "",
+      "date": "2026-08-16",
+      "authors": [
+        "Love D",
+        "Page E."
+      ],
+      "doi": "10.1016/j.fsisyn.2026.100701"
+    },
+    {
       "title": "Integrated biomarker analysis of multi-organ effects following MDMA and alcohol co-consumption in Pakistan: A pilot study.",
       "url": "https://doi.org/10.1016/j.toxrep.2026.102324",
       "source": "Europe PMC",
@@ -504,76 +556,24 @@
       "doi": "10.1016/j.toxrep.2026.102324"
     },
     {
-      "title": "A Systemic embolization model in a rat with real-time micro-fluoroscopy for direct quantification of thrombolysis.",
-      "url": "https://doi.org/10.1016/j.mex.2026.104036",
+      "title": "A double-layer scaffold composed of 3D bioprinted layer of granulocyte-colony stimulating factor and electrospun nanofibers of abietic acid for full thickness skin repair.",
+      "url": "https://doi.org/10.1016/j.ijpx.2026.100628",
       "source": "Europe PMC",
-      "abstract": "Recanalization after intravenous thrombolysis remains incomplete in many stroke patients, highlighting the need for standardized preclinical methods to evaluate thrombolytic therapies. We developed a rat systemic embolization model combined with high-resolution micro-fluoroscopy enabling direct, real-time, and quantitative assessment of thrombolysis in vivo. Human fibrin-based BaSO₄ labeled clots were introduced into the abdominal aorta (three clots/animal) to assess alteplase (rtPA) efficacy at doses of 0.9 and 5 mg/kg/h. Micro-CT imaging served as a reference modality. Micro-fluoroscopy continuously visualized clot dissolution, detecting a mean of two clots per animal. Thrombolysis resulted in a dose-dependent reduction in clot area (mean ± SD; -46 ± 26% and -81 ± 22% for 0.9 and 5 mg/kg/h rtPA, respectively, versus -21 ± 14% in controls). Measurement reliability was high (ICC = 0.89), and concordance with micro-CT supported concurrent validity. The model demonstrated predictive and construct validity, and offers technically feasible, reproducible, and standardized platform for pharmacodynamic evaluation of thrombolytic agents.•A systemic embolization model with C-arm micro-fluoroscopy enables direct, real-time visualization of thrombolysis in vivo.•Applying multiple clots per animal reduces the total number of animals required.•The model allows standardized, reproducible testing of thrombolytics with translational relevance.",
-      "date": "2026-07-07",
+      "abstract": "Wound healing is a multifaceted and dynamic process, and any interruption in this process presents a considerable challenge to healthcare. Advanced wound dressings are essential in improving healing outcomes by offering protection, facilitating tissue regeneration, and preventing infections. This study centers on the development of a biopolymer-based two-layer wound dressing that integrates granulocyte-colony stimulating factor (G-CSF) for tissue regeneration and abietic acid for its anti-inflammatory properties. The lower layer was 3D-printed and composed of sodium alginate, polyacrylamide, sodium CMC and different concentrations of hyaluronic acid infused with G-CSF, while the upper layer was formed from electrospun polyacrylamide, polyvinyl alcohol (PVA) and hyaluronic acid nanofibers containing abietic acid. Different ratios of polyacrylamide to hyaluronic acid were assessed to enhance mechanical properties, swelling behavior, biodegradability, and the proliferation of fibroblast cells (L929). The optimized formulation demonstrated a swelling ratio of 93% and a biodegradation rate of 94%, reflecting favorable hydration and degradation properties appropriate for wound environments. Results from the MTT assay indicated a 168% increase in cell viability after 72 h with the application of the double-layered dressing. An <i>in vivo</i> assessment utilizing a 14-day rat wound model showed improved angiogenic potential and 94% wound closure by day 15. Histomorphological analysis further validated complete re-epithelialization, organized collagen deposition, and full regeneration of skin appendages, signifying effective tissue remodeling. This dual-layer approach enhanced wound healing by integrating structural support, controlled release of bioactive agents, and improved cellular response, thus offering a promising strategy for advanced wound care.",
+      "date": "2026-07-31",
       "authors": [
-        "Scheer P",
-        "Hložková J",
-        "Novobilský A"
+        "Koupai AA",
+        "Varshosaz J",
+        "Salahi M"
       ],
-      "doi": "10.1016/j.mex.2026.104036"
-    },
-    {
-      "title": "Intravenous Ketamine reduces psychological pain in suicidal inpatients: A secondary analysis of a six-week randomized placebo-controlled trial.",
-      "url": "https://doi.org/10.1016/j.jad.2026.122366",
-      "source": "Europe PMC",
-      "abstract": "<h4>Background</h4>Psychological pain has been conceptualized as an unbearable inner experience and a possible precondition for suicidal ideation. No randomized placebo-controlled study has specifically investigated psychological pain as a treatment target in psychiatric populations. We examined ketamine's effect on psychological pain in suicidal psychiatric inpatients.<h4>Methods</h4>This secondary analysis used KETIS, a 6-week randomized, double-blind, placebo-controlled trial. Participants received two 40-minute intravenous infusions of ketamine (0.5 mg/kg) or placebo (0.9% saline) 24 h apart, alongside usual care and medication. Psychological and physical pain were assessed at baseline, repeatedly during 96 h, and at weeks 2, 4, and 6 using the self-rated PPP-VAS. Longitudinal mixed models compared pain trajectories.<h4>Results</h4>The trial randomized suicidal inpatients to ketamine (n = 73) or placebo (n = 83). Psychological pain decreased in both groups but was lower with ketamine during the first 96 h. Pointwise scores were lower with ketamine from 40 min to 96 h, largest at 40 min, 2 h, 4 h, and 24 h (all p < 0.001), but not at weeks 2, 4, or 6. This early difference remained significant after adjustment for depressive symptoms and hopelessness. The early reduction appeared more pronounced in the bipolar subgroup. No robust baseline predictors of outcome were identified.<h4>Conclusions</h4>Intravenous ketamine was associated with a greater reduction in psychological pain than placebo in suicidal inpatients, with the clearest effects emerging within the first hours after treatment and remaining evident through the first 96 h. Ketamine may represent a clinically relevant option as a psychological pain reliever in psychiatric patients.",
-      "date": "2026-08-10",
-      "authors": [
-        "Baryshnikov I",
-        "Demattei C",
-        "Abbar M"
-      ],
-      "doi": "10.1016/j.jad.2026.122366"
-    },
-    {
-      "title": "Discordant signals: How outcome measurement shapes interpretation of ketamine response in treatment-resistant depression.",
-      "url": "https://doi.org/10.1016/j.jad.2026.122368",
-      "source": "Europe PMC",
-      "abstract": "<h4>Background</h4>Depression rating scales capture heterogeneous symptom domains, raising questions about the comparability of treatment response across instruments. This issue is particularly relevant for rapid-acting interventions such as ketamine.<h4>Methods</h4>We conducted a secondary analysis of a naturalistic cohort (N = 71) of patients with treatment-resistant depression treated with intravenous ketamine. Changes in depressive symptoms were assessed using the Montgomery-Åsberg Depression Rating Scale (MADRS), Beck Depression Inventory-II (BDI-II), and Clinical Global Impression-Severity (CGI-S). We examined correlations between change scores, magnitude of improvement across instruments, and changes in suicidality items.<h4>Results</h4>Change scores demonstrated variable associations across instruments. BDI-II and CGI-S change scores were strongly correlated (ρ = 0.69, p < 0.001), whereas MADRS showed weaker association with CGI-S (ρ = 0.13, p = 0.52) and moderate association with BDI-II (ρ = 0.46, p = 0.009). Mean percent reduction was greater for MADRS (54.2%) than BDI-II (41.9%), with correspondingly larger effect sizes (d = 1.78 vs d = 1.34). Suicidality improved on both measures, with a larger effect size for the clinician-rated MADRS item (d = 0.94) than the self-rated BDI-II item (d = 0.65).<h4>Conclusions</h4>Depression rating scales provide non-equivalent estimates of ketamine treatment response. Outcome measurement influences effect size estimates and magnitude of improvement, supporting a multidimensional approach to characterizing antidepressant response.",
-      "date": "2026-08-10",
-      "authors": [
-        "Vazquez G",
-        "Kang MJY",
-        "Gutierrez G."
-      ],
-      "doi": "10.1016/j.jad.2026.122368"
-    },
-    {
-      "title": "Exploratory non-randomized clinical trial of subcutaneous esketamine in treatment-resistant depression: Effects of ketamine-assisted psychotherapy.",
-      "url": "https://doi.org/10.1016/j.jad.2026.122369",
-      "source": "Europe PMC",
-      "abstract": "<h4>Background</h4>Ketamine is an effective rapid-acting treatment for treatment-resistant depression (TRD), producing antidepressant effects within hours of administration. Because it induces states of heightened neuroplasticity and psychological openness, psychotherapy may enhance its therapeutic effects.<h4>Methods</h4>This exploratory, nonrandomized, open-label clinical trial evaluated the adjunctive effects of ketamine-assisted psychotherapy (KAP) in an outpatient setting. Forty-six patients with TRD received eight weekly sessions of subcutaneous esketamine (0.5-1.0 mg/kg) and were sequentially allocated to esketamine alone (KET, n = 23) or esketamine plus KAP (n = 23). Depressive symptoms were assessed using the Montgomery-Åsberg Depression Rating Scale (MADRS) and the Beck Depression Inventory-II (BDI-II) during treatment and at follow-up assessments up to six months after protocol completion.<h4>Results</h4>Both groups showed significant reductions in depressive symptoms. MADRS scores were significantly lower in the KAP group at the seventh and eighth sessions (p = 0.015 and p = 0.041). At treatment completion, response and remission rates were 52.2% and 34.8% in the KET group versus 78.3% and 78.3% in the KAP group; the between-group difference was significant only for remission (p = 0.007). BDI-II scores also indicated earlier subjective improvement in the KAP group. No significant between-group differences were observed during the six-month follow-up.<h4>Conclusions</h4>These findings suggest that structured psychotherapeutic support may accelerate symptomatic improvement and increase remission rates during subcutaneous esketamine treatment for TRD, without improving the durability of response. Randomized controlled trials are needed to clarify the specific contribution of psychotherapy, investigate the mechanisms underlying this interaction, and optimize integrated treatment approaches.",
-      "date": "2026-08-10",
-      "authors": [
-        "Varela YM",
-        "Cavalcanti-Ribeiro P",
-        "de Sousa GM"
-      ],
-      "doi": "10.1016/j.jad.2026.122369"
-    },
-    {
-      "title": "Ketamine preserves perineuronal nets in chronic stressed mice brain through the inhibition of microglia activation.",
-      "url": "https://doi.org/10.1016/j.ibneur.2026.07.016",
-      "source": "Europe PMC",
-      "abstract": "<h4>Background</h4>Deeper understanding of ketamine's mechanism of action would contribute to the discovery of novel therapeutic targets with fast-onset actions. To gain insight on the mechanism underlying the antidepressant-like effects of ketamine, we focused on perineuronal nets (PNNs), an extracellular matrix structure that surrounds fast-spiking parvalbumin-positive interneurons and regulates synaptic plasticity, whose integrity is known to be compromised under stress-induced depressive conditions.<h4>Methods</h4>We first performed the description of the plastic remodeling of PNNs in the Chronic restraint stress (CRS) mice treated or un-treated with ketamine, by quantifying the number of WFA, marker of PNNs, parvalbumin (PV) and c-Fos positive cells, as a surrogate of neuronal activity. And then, we investigated the the transcripts of a number of proteins involved in the formation or degradation of PNNs with or without ketamine in CRS mice. Next, we evaluated the expression of IBA1, a microglial marker, in the hippocampus and medial prefrontal cortex after CRS treated or un-treated with ketamine.<h4>Results</h4>We found that ketamine effectively alleviated the animals' depression like behavior as well as attenuates CRS-induced reduction of WFA-positive cells in the hippocampus and medial prefrontal cortex of mice. Although ketamine treatment had little or no effect on the number of PV, c-Fos positive cells and the transcripts of proteins involved in the formation or degradation of PNNs. Notably, ketamine treatment lead to remarkably reduced the number of IBA1-positive cells in the hippocampus and medial prefrontal cortex after CRS.<h4>Conclusion</h4>Our findings suggest that PNNs is characterized by region-specific changes in chronic stress mouse brain and provide extensive evidence that ketamine exposure initiates microglia to remodel PNN, instead of the PNN accumulation and degradation enzymes.",
-      "date": "2026-07-26",
-      "authors": [
-        "Yang J",
-        "Huang T",
-        "Wang M"
-      ],
-      "doi": "10.1016/j.ibneur.2026.07.016"
+      "doi": "10.1016/j.ijpx.2026.100628"
     },
     {
       "title": "CZ",
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2018-004480-31/CZ",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-09-09",
+      "date": "2026-09-10",
       "authors": [],
       "doi": ""
     },
@@ -582,7 +582,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2020-005037-32/CZ",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-09-09",
+      "date": "2026-09-10",
       "authors": [],
       "doi": ""
     },
@@ -591,7 +591,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2021-002909-10/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-09-09",
+      "date": "2026-09-10",
       "authors": [],
       "doi": ""
     },
@@ -600,7 +600,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2015-000550-37/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-09-09",
+      "date": "2026-09-10",
       "authors": [],
       "doi": ""
     },
@@ -609,7 +609,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2021-000041-40/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-09-09",
+      "date": "2026-09-10",
       "authors": [],
       "doi": ""
     },
@@ -618,7 +618,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2020-000829-55/DK",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-09-09",
+      "date": "2026-09-10",
       "authors": [],
       "doi": ""
     },
@@ -627,7 +627,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2020-002790-94/SE",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-09-09",
+      "date": "2026-09-10",
       "authors": [],
       "doi": ""
     },
@@ -636,7 +636,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2021-006200-33/FI",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-09-09",
+      "date": "2026-09-10",
       "authors": [],
       "doi": ""
     },
@@ -645,7 +645,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2019-004812-73/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-09-09",
+      "date": "2026-09-10",
       "authors": [],
       "doi": ""
     },
@@ -654,7 +654,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2022-002369-14/BE",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-09-09",
+      "date": "2026-09-10",
       "authors": [],
       "doi": ""
     },

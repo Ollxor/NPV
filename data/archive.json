@@ -1,6 +1,107 @@
 {
   "items": [
     {
+      "title": "Ketamine-Induced Dissociation as an Ethical Signal, Not a Side Effect: Context as the Determinant of Clinical Duties Under Beneficence and Non-maleficence.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42717138/",
+      "source": "PubMed",
+      "date": "2026-09-09",
+      "authors": [
+        "Moon Gun",
+        "Noto Jack",
+        "Shuler Zachary"
+      ],
+      "doi": "10.1007/s10730-026-09611-x",
+      "summary_en": "A new ethical framework proposes that ketamine-induced dissociation should be understood as a context-dependent signal rather than a mere side effect. The model distinguishes between dysphoric and integrative dissociative trajectories, arguing that clinical outcomes depend on patient vulnerability, dosing, preparation, support, and integration. Rather than categorical exclusion, the authors recommend proportionate safeguards aligned with beneficence and non-maleficence principles.",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "other",
+      "substances": [
+        "ketamine"
+      ],
+      "added_at": "2026-09-10T11:37:11.956703+00:00"
+    },
+    {
+      "title": "Psychedelic 4-AcO-DMT attenuated looming-induced freezing behaviors by activating PrL",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42716959/",
+      "source": "PubMed",
+      "date": "2026-09-09",
+      "authors": [
+        "Xia Ke",
+        "Wang Yuanyuan",
+        "Liu Junhong"
+      ],
+      "doi": "10.1038/s41380-026-03894-9",
+      "summary_en": "A study examined how 4-AcO-DMT, a psilocybin-like psychedelic, affects fear responses using a looming visual threat model in animals. The compound reduced freezing behavior induced by looming stimuli, independent of visual hallucinations or β-arrestin 2 signaling. The anti-fear effect was linked to decreased innate fear and activation of CaMKIIα neurons in the prelimbic cortex via serotonin receptors.",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "preclinical",
+      "substances": [
+        "psilocybin",
+        "mdma",
+        "other"
+      ],
+      "added_at": "2026-09-10T11:37:11.956703+00:00"
+    },
+    {
+      "title": "Craving Reduction and Smoking Outcomes in Psilocybin-Assisted and Standard Cessation Care.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42715291/",
+      "source": "PubMed",
+      "date": "2026-09-09",
+      "authors": [
+        "Strandberg Lisbeth",
+        "Fernandes Thiago P",
+        "Shoshina Irina I"
+      ],
+      "doi": "10.47626/1516-4446-2026-5060",
+      "summary_en": "Observational study comparing psilocybin-assisted therapy with standard smoking cessation care. Psilocybin group showed greater smoking reduction at week 12 and greater urge reduction early on. However, psilocybin was not associated with verified abstinence after adjustment. Early craving reduction independently predicted abstinence success. Results suggest different treatment responses across smoking profiles warrant individualized cessation strategies.",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "observational",
+      "substances": [
+        "psilocybin"
+      ],
+      "added_at": "2026-09-10T11:37:11.956703+00:00"
+    },
+    {
+      "title": "Toward an interdisciplinary mind science of advanced meditation.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42716834/",
+      "source": "PubMed",
+      "date": "2026-09-09",
+      "authors": [
+        "Lieberman Jonathan M",
+        "Sacchet Matthew D"
+      ],
+      "doi": "10.1016/j.tics.2026.07.009",
+      "summary_en": "This review outlines an emerging interdisciplinary field studying advanced meditation beyond mindfulness, examining progressive states and stages through meditative development. Using computational phenomenology, cognitive neuroscience, and epidemiological methods, researchers investigate philosophical foundations, clinical outcomes, and connections to psychedelic experiences, advancing systematic understanding of meditation's effects on mind and well-being.",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "review",
+      "substances": [
+        "other"
+      ],
+      "added_at": "2026-09-10T11:37:11.956703+00:00"
+    },
+    {
+      "title": "Psilocybin selectively suppresses novelty-induced grooming via 5-HT2B receptors: A microstructure analysis in Wistar rats.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42716333/",
+      "source": "PubMed",
+      "date": "2026-09-09",
+      "authors": [
+        "Seillier Alexandre",
+        "El Dannan Ghinwa Ibrahim",
+        "Seillier Lenka"
+      ],
+      "doi": "10.1016/j.pnpbp.2026.111924",
+      "summary_en": "Psilocybin reduced novelty-induced grooming in Wistar rats through 5-HT2B receptor activation, selectively suppressing abnormal grooming microstructure while leaving comfort grooming intact. Using the Grooming Analysis Algorithm, researchers found this effect was reversed by the 5-HT2B antagonist RS-127445, demonstrating psilocybin's receptor-specific behavioral profile independent of its 5-HT2A-mediated psychedelic effects.",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "preclinical",
+      "substances": [
+        "psilocybin"
+      ],
+      "added_at": "2026-09-10T11:37:11.956703+00:00"
+    },
+    {
       "title": "MDMA-Assisted Therapy May Decrease PTSD Symptoms, Dissociation, Depression, and Functional Disability: A Systematic Review and Meta-Analysis.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42708350/",
       "source": "PubMed",

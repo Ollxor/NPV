@@ -1,7 +1,44 @@
 {
-  "date": "2026-09-10",
-  "cached_at": "2026-09-10T10:34:52.054461+00:00",
+  "date": "2026-09-11",
+  "cached_at": "2026-09-11T10:35:24.048466+00:00",
   "articles": [
+    {
+      "title": "Ketamine: from anesthesia to pediatric suicidal crisis.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42722964/",
+      "source": "PubMed",
+      "abstract": "",
+      "date": "2026-Sep-11",
+      "authors": [
+        "Maguire Lindsay A",
+        "Jha Manish K",
+        "Than Martin"
+      ],
+      "doi": "10.1007/s43678-026-01261-9"
+    },
+    {
+      "title": "Changes in Glutathione and Homocysteine Concentrations in Treatment-Resistant Depression After Electroconvulsive Therapy.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42721112/",
+      "source": "PubMed",
+      "abstract": "BACKGROUND Electroconvulsive therapy (ECT) is one of the most effective treatment for drug-resistant depression, but the search for reliable biological predictors of its efficacy remains in-conclusive. Glutathione and homocysteine have been proposed as potential markers of oxidative stress involvement in mood disorders. MATERIAL AND METHODS We retrospectively analyzed clinical data and collected serum samples from 54 patients with treatment-resistant depression (46.3% with major depressive disorder, 53.7% with bipolar disorder) who had undergone a series of bilateral ECT. Serum concentrations of glutathione and homocysteine were measured before and after treatment. Patients were anesthetized with thiopental or thiopental combined with ketamine. Clinical improvement was assessed using the 17-item Hamilton Depression Rating Scale. RESULTS ECT significantly reduced Hamilton Depression Rating Scale scores (P<0.0001). No significant changes were observed in serum glutathione or homocysteine concentrations after treatment, and no correlations were found between biomarker levels and clinical response, remission, or anesthetic type. However, patients with bipolar disorder showed consistently higher glutathione levels than those with unipolar disorder (P<0.05). CONCLUSIONS Neither homocysteine nor glutathione levels were associated with ECT response, suggesting limited utility of these markers as predictors of clinical outcome. Elevated glutathione in patients with bipolar disorder may suggest potential biological differences between mood disorder subtypes; however, further prospective studies are required to confirm this observation. Further studies are needed to clarify the clinical significance of oxidative stress markers in ECT.",
+      "date": "2026-09-10",
+      "authors": [
+        "Permoda-Pachuta Agnieszka",
+        "Ziemecki Piotr",
+        "Dorszewska Jolanta"
+      ],
+      "doi": "10.12659/MSM.952203"
+    },
+    {
+      "title": "Non-randomized rapamycin augmentation of chronic self-administered ketamine provides subjective improvement in diverse phenotypes.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42719198/",
+      "source": "PubMed",
+      "abstract": "Multiple preclinical and clinical reports suggest that rapamycin augmentation may increase the safety and efficacy of ketamine treatment. Population variability in patient biochemical gain-of-function and phenotypic admixtures, however, has slowed initial investigations into patient selection and dose finding. A single-center, retrospective chart review identified 101 patients with ketamine use longer than 2 months. Correlational relationships between demographics, biometrics, ketamine use, concurrent medication use, and serum and tissue biomarkers were obtained in an attempt to characterize this group, given that likely severe selection bias limits generalizability. Rapamycin augmentation was attempted in 38 of these patients. Response was defined by patient preference for continuation and asymptotic dosing. Ketamine dosing (mean 4.4 ± 3.9 mg/kg/day) ranged widely from 0.4 to 20.7 mg/kg/day. Chronic ketamine use correlated with concurrent opioid use and was possibly associated with various tissue indices of mitochondrial activity. Among 38 patients who attempted rapamycin augmentation, 22 reported phenotypic benefit. Average dose was 1.5 ± 0.95 mg. Phenotypic response was highly variable, with improvement in cognition, fatigue, mood, pain, and dysautonomia. Rapamycin response correlated with weight and absence of antipsychotic use. Rapamycin and ketamine in combination provide subjective benefit in a select, narrow population. The generalizability of these findings cannot be estimated easily. Subsequent randomized trials may consider using modal dosing as an exploratory endpoint and/or biomarkers, which may have greater utility than phenotypic checklists. These biomarkers could reflect ketamine's action on complex 1 activity in presynaptic glutamatergic terminals and/or joint effects with rapamycin on homeostatic microglia.",
+      "date": "2026-08-26",
+      "authors": [
+        "Berner Jon"
+      ],
+      "doi": "10.3389/fpsyt.2026.1910337"
+    },
     {
       "title": "Ketamine-Induced Dissociation as an Ethical Signal, Not a Side Effect: Context as the Determinant of Clinical Duties Under Beneficence and Non-maleficence.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42717138/",
@@ -221,43 +258,13 @@
       "doi": "10.1007/s10792-026-04256-8"
     },
     {
-      "title": "Appetite measures during ketamine administration in treatment-resistant mood disorders: a naturalistic study.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42698604/",
-      "source": "PubMed",
-      "abstract": "This study evaluated the acute and short-term effects of repeated ketamine treatment on appetite in adult inpatients with treatment-resistant mood disorders, including major depressive disorder and bipolar disorder. Appetite, hunger, and desire to eat were assessed using the Visual Analog Scales (VAS) and the Simplified Nutritional Appetite Questionnaire (SNAQ) at baseline and at multiple time points up to 7 days following ketamine administration. No significant changes were observed over the course of treatment, and results were consistent across diagnostic groups and body mass index (BMI) categories. No increased risk of appetite-related undernutrition or clinically relevant weight loss was identified. These findings do not suggest a substantial short-term impact of ketamine on appetite regulation or body weight and are consistent with a favorable metabolic safety profile, supporting its clinical use in patients with treatment-resistant depression (TRD) and treatment-resistant bipolar disorder (TRBD).",
-      "date": "2026-08-21",
-      "authors": [
-        "Mechlińska Agnieszka",
-        "Wiglusz Mariusz",
-        "Słupski Jakub"
-      ],
-      "doi": "10.3389/fnut.2026.1858899"
-    },
-    {
-      "title": "Pharmacological and non-pharmacological modulation of striatal dopamine release: a meta-analysis of [",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42697901/",
-      "source": "PubMed",
-      "abstract": "The dopaminergic system has long been a central focus of functional neuroimaging. Positron emission tomography (PET) with the D2/D3 receptor radioligand [",
-      "date": "2026-09-04",
-      "authors": [
-        "Eklund Mikael",
-        "Hassanain Eman",
-        "Vahlberg Tero"
-      ],
-      "doi": "10.1038/s41380-026-03826-7"
-    },
-    {
-      "title": "Association of Intrusive Posttraumatic Stress Symptoms With Elevated C-Reactive Protein Levels in World Trade Center Responders.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42696757/",
-      "source": "PubMed",
-      "abstract": "",
-      "date": "2026-09-01",
-      "authors": [
-        "Rutter Sarah B",
-        "Collins Abigail B",
-        "Kautz Marin"
-      ],
-      "doi": "10.4088/PCC.25m04177"
+      "title": "Davis, Farchione and Colleagues Present FDA’s Psychedelic Drug Framework in NEJM",
+      "url": "https://psychedelicalpha.com/news/davis-farchione-and-colleagues-present-fdas-psychedelic-drug-framework-in-nejm/",
+      "source": "Psychedelic Alpha",
+      "abstract": "In a commentary published in the New England Journal of Medicine yesterday, FDA outlined what it describes as its “new framework for psychedelic drugs”. The four agency staffers kick off the article by outlining the severity of the mental health crisis in the U.S., focusing on depression and PTSD in particular, before stating that FDA […]",
+      "date": "2026-09-10",
+      "authors": [],
+      "doi": ""
     },
     {
       "title": "Two New Zealand Psychiatrists Approved to Prescribe MDMA for PTSD",
@@ -337,15 +344,6 @@
       "source": "Psychedelic Alpha",
       "abstract": "",
       "date": "2026-08-13",
-      "authors": [],
-      "doi": ""
-    },
-    {
-      "title": "Two Years After Rejection, Resilient Quietly Refiles MDMA for PTSD Application",
-      "url": "https://psychedelicalpha.com/news/two-years-after-rejection-resilient-quietly-refiles-mdma-for-ptsd-application/",
-      "source": "Psychedelic Alpha",
-      "abstract": "",
-      "date": "2026-08-12",
       "authors": [],
       "doi": ""
     },
@@ -518,6 +516,45 @@
       "doi": "10.1016/j.toxrep.2026.102333"
     },
     {
+      "title": "SRT1720-loaded exosome-mimetic nanovesicles promote mitophagy via SIRT1/PARKIN activation to ameliorate diabetic cerebral infarction in a preclinical rat model.",
+      "url": "https://doi.org/10.1016/j.ijpx.2026.100639",
+      "source": "Europe PMC",
+      "abstract": "Mitochondrial dysfunction and impaired mitophagy-a key event in diabetic hyperglycemia-aggravated ischemic injury - lead to accumulation of dysfunctional mitochondria and neuronal apoptosis, which are vital processes involved in diabetic cerebral infarction (DCI). Herein, we developed SRT1720-loaded exosome-mimetic nanovesicles (SRT1720@M) to leverage the potential of SIRT1/PARKIN pathway activation to inhibit these processes and counteract DCI. The lipid fusion approach was used to fabricate exosome-loaded SRT1720@M. The properties of SRT1720@M were established by employing UV-Vis, transmission electron microscopy (TEM), dynamic light scattering, and Fourier-transform infrared (FTIR) spectroscopy. Oxygen-glucose deprivation/reperfusion (OGD/R) and high-glucose (HG)-treated primary hippocampal neurons were used as an in vitro DCI model treated with SRT1720@M. qPCR, Western blotting and immunofluorescence were used for expression analyses, whereas cell viability, phagocytosis, inflammation, and ATP/L-LA levels were assessed by CCK-8, ELISA and TEM. A rat model of DCI was obtained by establishing middle cerebral artery occlusion (MCAO), from which infarct volume, neurological deficits, histopathology, behavioral indexes, and molecular markers were detected. SRT1720@M average size was ∼68 nm, with an encapsulation efficiency of 78.19%, loading capacity of 8.52%, and zeta potential of -54 mV. In vitro, SRT1720@M markedly improved cell viability (<i>P</i> < 0.01), decreased IL-1β, TNF-α, and L-LA, but increased ATP levels, and promoted mitophagy and suppressed inflammatory responses compared with the DCI group. In the DCI model, SRT1720@M improved neurological deficits, reduced infarct volume, and alleviated behavioral disorders by inhibiting apoptosis and inflammation and promoting mitophagy and mitochondrial function through activation of the SIRT1/PARKIN pathway. SRT1720@M alleviates DCI by activating the SIRT1/PARKIN pathway and promoting mitophagy, highlighting its potential as a promising preclinical therapeutic strategy.",
+      "date": "2026-08-13",
+      "authors": [
+        "Huang Q",
+        "Zhao F",
+        "Sun B"
+      ],
+      "doi": "10.1016/j.ijpx.2026.100639"
+    },
+    {
+      "title": "Unlocking the brain: Biodistribution insights into tween 80 nanoliposomes in healthy brains.",
+      "url": "https://doi.org/10.1016/j.ijpx.2026.100636",
+      "source": "Europe PMC",
+      "abstract": "Limited drug penetration across the blood-brain barrier hinders brain tumor therapy. This study evaluated doxorubicin-loaded nanoliposomes with varying Tween 80 contents, investigating formulation characteristics, release profiles, cytotoxicity on cancer and healthy cells, and tissue distribution in healthy models. Nanoliposomes were prepared <i>via</i> thin-film hydration. Physicochemical properties, <i>in vitro</i> drug release at physiological and acidic pH, and cytotoxicity (MTT assay and IC<sub>50</sub>) on C6 cells and normal NIH 3 T3 cells (including empty-carrier biosafety) were assessed. <i>In vivo</i> tissue distribution and histopathological safety were also examined in mice. Formulations showed composition-dependent size and 3-month stability. Formulation F2 emerged as the lead candidate, exhibiting optimal size (142.4 nm), PDI (0.139), encapsulation efficiency (82.4%), and pH-responsive release (80-90% at pH 5.5 <i>vs.</i> <10% at pH 7.4). F2 maintained potent cytotoxicity on C6 cells (IC<sub>50</sub>: 0.44 μg/mL) while demonstrating high biosafety on normal NIH 3 T3 cells, showing >90% viability with empty blanks and a markedly higher IC<sub>50</sub> (20.67 μg/mL) than free DOX. <i>In vivo</i>, F2 achieved superior brain accumulation at 24 and 48 h (2.61 and 2.78 μg/g; <i>p</i> < 0.05 <i>vs.</i> DOX) while reducing cardiac uptake (2.29 <i>vs.</i> 14.49 μg/g at 24 h). Formulation F2 balances colloidal stability, reduced cardiotoxicity, and superior brain accumulation, supporting its potential for neuro-oncology applications.",
+      "date": "2026-08-13",
+      "authors": [
+        "Khatibi M",
+        "Hosseinikhah SM",
+        "Alavizdaeh SH"
+      ],
+      "doi": "10.1016/j.ijpx.2026.100636"
+    },
+    {
+      "title": "Store-operated calcium signaling modulators improve a dendritic cell-based vaccine against melanoma.",
+      "url": "https://doi.org/10.1080/2162402x.2026.2723541",
+      "source": "Europe PMC",
+      "abstract": "<h4>Summary</h4>Cruz Cobo et al. identify small molecules that reprogram dendritic cells toward an immuno-stimulating secretory phenotype, revealing endoplasmic reticulum calcium signaling as a druggable axis to boost vaccine-based and T cell-mediated cancer immunotherapies. The study links broad changes in calcium-induced secretion to improved immune activation and therapeutic potency.",
+      "date": "2026-08-28",
+      "authors": [
+        "Cruz Cobo M",
+        "Garnier L",
+        "Mandavit M"
+      ],
+      "doi": "10.1080/2162402x.2026.2723541"
+    },
+    {
       "title": "Intraoperative esketamine for postoperative analgesia and depression in pancreatic cancer surgery: protocol for a multicenter randomized controlled trial.",
       "url": "https://doi.org/10.1080/07853890.2026.2722438",
       "source": "Europe PMC",
@@ -531,49 +568,11 @@
       "doi": "10.1080/07853890.2026.2722438"
     },
     {
-      "title": "Interpol review of forensic drug chemistry, 2022-2025.",
-      "url": "https://doi.org/10.1016/j.fsisyn.2026.100701",
-      "source": "Europe PMC",
-      "abstract": "",
-      "date": "2026-08-16",
-      "authors": [
-        "Love D",
-        "Page E."
-      ],
-      "doi": "10.1016/j.fsisyn.2026.100701"
-    },
-    {
-      "title": "Integrated biomarker analysis of multi-organ effects following MDMA and alcohol co-consumption in Pakistan: A pilot study.",
-      "url": "https://doi.org/10.1016/j.toxrep.2026.102324",
-      "source": "Europe PMC",
-      "abstract": "3,4-Methylenedioxymethamphetamine (MDMA, \"Ecstasy\") is a widely abused recreational drug associated with multi-organ toxicity. Objective was to compare hepatic, renal, and systemic biochemical abnormalities after acute MDMA exposure alone and with alcohol. This cross-sectional pilot study was conducted at Sheikh Zayed bin Al Nahyan and Shalamar Medical and Dental Colleges, Pakistan. The study included 24 exposed participants (ecstasy-only n = 10; ecstasy and alcohol n = 14) and 20 controls. Blood samples were analyzed for AST (<37 U/L), ALT (<63 U/L), ALP (46-116 U/L), GGT (<55 U/L), LDH (81-234 U/L), Urea (10-50 mg/dl), Creatinine (0.7-1.4 mg/dL), Uric Acid (3.5-7.2 mg/dl), and CK (39-232 U/L). Marked hepatorenal biochemical injury was predefined as ALP > 3 times the laboratory specific upper limit of normal or serum urea > 150 mg/dl. Group comparison, age and sex adjusted multivariable linear regression and ROC analyses were performed. The study group exhibited significantly elevated hepatorenal biomarkers vs. controls. Median AST, ALT and ALP were117.0, 117.5 and 439.0 U/L, equivalent to 3.16, 1.86 and 3.78 x ULN, respectively. Median urea and creatinine levels were 172.5 mg/dL and 1.42 mg/dL respectively. No significant difference was found between ecstasy-only and ecstasy and alcohol after correction. Adjusted models showed significantly higher ALP, urea, and creatinine in both study groups versus controls. RSI and STI showed high apparent discrimination (AUC 1.000 and 0.890, respectively). Acute MDMA exposure was associated with marked hepatic and renal biochemical abnormalities. Alcohol co-consumption did not independently exacerbate organ damage. The RSI and STI are novel, cost-effective, and highly accurate tools for emergency triage using routine laboratory parameters.",
-      "date": "2026-08-04",
-      "authors": [
-        "Jaleel A",
-        "Khan M",
-        "Namoos K"
-      ],
-      "doi": "10.1016/j.toxrep.2026.102324"
-    },
-    {
-      "title": "A double-layer scaffold composed of 3D bioprinted layer of granulocyte-colony stimulating factor and electrospun nanofibers of abietic acid for full thickness skin repair.",
-      "url": "https://doi.org/10.1016/j.ijpx.2026.100628",
-      "source": "Europe PMC",
-      "abstract": "Wound healing is a multifaceted and dynamic process, and any interruption in this process presents a considerable challenge to healthcare. Advanced wound dressings are essential in improving healing outcomes by offering protection, facilitating tissue regeneration, and preventing infections. This study centers on the development of a biopolymer-based two-layer wound dressing that integrates granulocyte-colony stimulating factor (G-CSF) for tissue regeneration and abietic acid for its anti-inflammatory properties. The lower layer was 3D-printed and composed of sodium alginate, polyacrylamide, sodium CMC and different concentrations of hyaluronic acid infused with G-CSF, while the upper layer was formed from electrospun polyacrylamide, polyvinyl alcohol (PVA) and hyaluronic acid nanofibers containing abietic acid. Different ratios of polyacrylamide to hyaluronic acid were assessed to enhance mechanical properties, swelling behavior, biodegradability, and the proliferation of fibroblast cells (L929). The optimized formulation demonstrated a swelling ratio of 93% and a biodegradation rate of 94%, reflecting favorable hydration and degradation properties appropriate for wound environments. Results from the MTT assay indicated a 168% increase in cell viability after 72 h with the application of the double-layered dressing. An <i>in vivo</i> assessment utilizing a 14-day rat wound model showed improved angiogenic potential and 94% wound closure by day 15. Histomorphological analysis further validated complete re-epithelialization, organized collagen deposition, and full regeneration of skin appendages, signifying effective tissue remodeling. This dual-layer approach enhanced wound healing by integrating structural support, controlled release of bioactive agents, and improved cellular response, thus offering a promising strategy for advanced wound care.",
-      "date": "2026-07-31",
-      "authors": [
-        "Koupai AA",
-        "Varshosaz J",
-        "Salahi M"
-      ],
-      "doi": "10.1016/j.ijpx.2026.100628"
-    },
-    {
       "title": "CZ",
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2018-004480-31/CZ",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-09-10",
+      "date": "2026-09-11",
       "authors": [],
       "doi": ""
     },
@@ -582,7 +581,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2020-005037-32/CZ",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-09-10",
+      "date": "2026-09-11",
       "authors": [],
       "doi": ""
     },
@@ -591,7 +590,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2021-002909-10/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-09-10",
+      "date": "2026-09-11",
       "authors": [],
       "doi": ""
     },
@@ -600,7 +599,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2015-000550-37/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-09-10",
+      "date": "2026-09-11",
       "authors": [],
       "doi": ""
     },
@@ -609,7 +608,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2021-000041-40/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-09-10",
+      "date": "2026-09-11",
       "authors": [],
       "doi": ""
     },
@@ -618,7 +617,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2020-000829-55/DK",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-09-10",
+      "date": "2026-09-11",
       "authors": [],
       "doi": ""
     },
@@ -627,7 +626,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2020-002790-94/SE",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-09-10",
+      "date": "2026-09-11",
       "authors": [],
       "doi": ""
     },
@@ -636,7 +635,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2021-006200-33/FI",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-09-10",
+      "date": "2026-09-11",
       "authors": [],
       "doi": ""
     },
@@ -645,7 +644,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2019-004812-73/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-09-10",
+      "date": "2026-09-11",
       "authors": [],
       "doi": ""
     },
@@ -654,132 +653,9 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2022-002369-14/BE",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-09-10",
+      "date": "2026-09-11",
       "authors": [],
       "doi": ""
-    },
-    {
-      "title": "Blinding integrity in psychedelic research: Evidence from a comparative randomized controlled trial of psilocybin, MDMA, and methylphenidate in healthy volunteers",
-      "url": "https://doi.org/10.1016/j.euroneuro.2026.112879",
-      "source": "OpenAIRE",
-      "abstract": "Maintaining effective blinding is a major methodological challenge in psychedelic research. This study provides a comprehensive evaluation of blinding integrity in 120 healthy volunteers who received either psilocybin, MDMA, or methylphenidate (active placebo) in a double-blind, randomized controlled trial. Using a multi-level assessment incorporating forced-choice substance guesses, certainty ratings, decision factors, and subjective substance effects, the analyses characterize blinding integrity and its relation to the substance experience. Results indicate that overall blinding was insufficient, with psilocybin showing the highest rates of functional unblinding, MDMA moderate levels, and methylphenidate the lowest. As an active placebo, methylphenidate provided more effective blinding for MDMA than for psilocybin. Incorporating certainty levels of substance guesses revealed a more differentiated pattern, with lower functional unblinding rates. Decision factors and subjective substance experiences were associated with phenomenological substance effects. Prior substance experiences did not influence accuracy of forced-choice substance guesses. These findings provide empirical guidance for the design and reporting of blinding procedures in psychedelic trials and underscore the value of systematic, multi-level assessment of blinding integrity.",
-      "date": "2026-10-01",
-      "authors": [
-        "L. Belinger",
-        "N.M. Rieser",
-        "E.J.E. Engeli"
-      ],
-      "doi": "10.1016/j.euroneuro.2026.112879"
-    },
-    {
-      "title": "Evaluating psilocybin for the management of depression: a literature review",
-      "url": "https://doi.org/10.12968/bjmh.2025.0020",
-      "source": "OpenAIRE",
-      "abstract": "<jats:sec>                     <jats:title>Background/Aims</jats:title>                     <jats:p>Depression remains a significant public health concern worldwide and many individuals do not achieve adequate symptom relief from conventional treatments such as antidepressants and psychological therapies. Interest has therefore increased in alternative interventions, including psilocybin microdosing. This article aimed to critically review the current evidence regarding the use of psilocybin for managing symptoms of depression and consider the implications for mental health nursing practice.</jats:p>                   </jats:sec>                   <jats:sec>                     <jats:title>Methods</jats:title>                     <jats:p>A narrative literature review was undertaken. Search terms included ‘microdosing’, ‘psilocybin’, ‘psychedelics’, ‘mental health’ and ‘depression’. Studies published in the last 10 years involving human participants were considered. Following screening and application of inclusion and exclusion criteria, five articles with a total of six empirical studies were included in the review.</jats:p>                   </jats:sec>                   <jats:sec>                     <jats:title>Results</jats:title>                     <jats:p>Three themes emerged, including ethical risks and limitations of microdosing, demographic and participant characteristics and the impact of microdosing on mental health. Some studies reported improvements in mood, anx",
-      "date": "2026-08-02",
-      "authors": [
-        "Rachel Sinclair"
-      ],
-      "doi": "10.12968/bjmh.2025.0020"
-    },
-    {
-      "title": "Psychedelic and Medicinal Mushrooms: Potent Source of Active Metabolites and Medicines",
-      "url": "https://doi.org/10.2174/0115734072383313250602052217",
-      "source": "OpenAIRE",
-      "abstract": "<jats:sec>                     <jats:title>Background:</jats:title>                     <jats:p>Mushrooms, usually used for their nutritional and culinary properties, have recently gained attention for their medicinal effects, so that they are not only used as dietary foods but also as mycotherapeutics, nutraceuticals, and food supplements.</jats:p>                   </jats:sec>                   <jats:sec>                     <jats:title>Objective:</jats:title>                     <jats:p>The aim of this study is therefore to educate readers about various mushrooms with medicinal benefits. Methodology: A large number of English-language publications from different databases were analysed for this purpose.</jats:p>                   </jats:sec>                   <jats:sec>                     <jats:title>Results and Discussion:</jats:title>                     <jats:p>Medicinal mushrooms have been attributed various biological properties, e.g. prebiotic, antihyperlipidaemic, anti-allergic, antioxidant, anticancer, hepatoprotective, antioxidant, cytotoxic, antidiabetic, immunomodulatory, anti-inflammatory, and antimicrobial. These properties are due to the presence of various bioactive compounds presentin the mycelium and fruiting bodies. The biological effects of these bioactive compounds vary according to their chemical nature, and their distribution varies according to the type of mushroom. Psilocybin-containing mushrooms have been consumed in different parts of the world f",
-      "date": "2026-08-01",
-      "authors": [
-        "Priya Chaudhary",
-        "Pracheta Janmeda"
-      ],
-      "doi": "10.2174/0115734072383313250602052217"
-    },
-    {
-      "title": "The role of therapeutic alliance in psilocybin treatment for treatment-resistant depression: A post hoc path analysis",
-      "url": "https://doi.org/10.1016/j.jad.2026.121662",
-      "source": "OpenAIRE",
-      "abstract": "<p>Introduction The contribution of patient support to psilocybin's antidepressant effects remains uncertain. Methods Relationships between therapeutic alliance (Scale to Assess Therapeutic Relationship-Patient version; STAR-P), psychedelic experience (Five-Dimensional Altered States of Consciousness Questionnaire and Emotional Breakthrough Inventory; 5D-ASC and EBI) and clinical outcomes (Montgomery-Åsberg Depression Rating Scale; MADRS) were explored using correlation and path analysis for individuals with treatment-resistant depression receiving 25 mg psilocybin with monitoring and support ( N = 79). Results Change from Baseline to Week 3 MADRS scores showed weaker correlations with pre-dosing therapeutic alliance (−0.178) than with measures of the psychedelic experience: EBI (−0.637), Oceanic Boundlessness (−0.508), and Visual Restructuralization (−0.516). Path analysis showed no nominally significant direct effects of therapeutic alliance on Week 3 MADRS scores, but there were nominally significant effects of therapeutic alliance on psychedelic experience (Oceanic Boundlessness ( β = 0.28), Visual Restructuralization ( β = 0.27), and Auditory Alterations ( β = 0.25)). Only one indirect effect of therapeutic alliance on clinical outcome reached nominal significance (via Visual Restructuralization; β = −0.15). Stronger effects were seen on clinical outcomes for psychedelic experience (EBI ( β = −0.59), Oceanic Boundlessness ( β = −0.53), Visual Restructuralization ( β = −0",
-      "date": "2026-08-01",
-      "authors": [
-        "Goodwin, Guy M.",
-        "Aaronson, Scott T.",
-        "Alvarez, Oscar"
-      ],
-      "doi": "10.1016/j.jad.2026.121662"
-    },
-    {
-      "title": "A cross-national comparison of nonmedical and medical use of psychedelic drugs in the international cannabis policy study",
-      "url": "https://doi.org/10.1016/j.drugpo.2026.105348",
-      "source": "OpenAIRE",
-      "abstract": "Background We know little about the extent psychedelic substances are consumed therapeutically and/or discussed with medical professionals despite renewed global interest in these substances. Methods We examined self-reported responses from the 2023 International Cannabis Policy Study (ICPS) in repeated cross-sectional surveys in Canada, the United States, Australia, and New Zealand. The survey included questions on lifetime, past year, and past month use of psilocybin, LSD, MDMA, and ketamine. It inquired about respondents’ discussions with medical professionals, their self-reported medical use, and related adverse events. We estimate the mean proportion rate for each of these using logistic regression methods that adjust for demographics, country, and sampling weights. Findings Estimated results suggest nineteen per cent of all ICPS respondents reported lifetime use of one of the four substances. Psilocybin was the most commonly estimated to be used in one’s lifetime and in the past year, followed by LSD and MDMA. Estimated prevalences of ever using psilocybin were higher among respondents from Canada (16.3%, CI: 15.6–16.9%) than the USA (13.0%, CI: 12.3–13.6%) and New Zealand (12.1%, CI: 10.4–13.8%). Estimated rates of psilocybin ever use in Australia were significantly lower (7.8%, CI: 6.8–8.8%). An estimated 10–20% of respondents who report ever-use of a psychedelic asked their medical provider about medical use, and over a third who had used in the past year reported ex",
-      "date": "2026-08-01",
-      "authors": [
-        "Myfanwy Graham",
-        "Yimin Ge",
-        "Rosalie Liccardo Pacula"
-      ],
-      "doi": "10.1016/j.drugpo.2026.105348"
-    },
-    {
-      "title": "The Experience-Trajectory Framework: Substance-Specific Risk Stratification for Psychedelic Preparation and Aftercare Beyond Set and Setting",
-      "url": "https://doi.org/10.36948/ijfmr.2026.v08i04.84804",
-      "source": "OpenAIRE",
-      "abstract": "<jats:p>Set, setting, preparation, and integration are widely recognized as important dimensions of psychedelic experiences. However, these concepts often remain too general to specify how preparation, containment, and aftercare should differ across substances, routes of administration, acute duration, residual effects, bodily condition, and interaction exposure. This article proposes the Experience-Trajectory Framework for psychedelic preparation and aftercare. The framework focuses on psilocybin, LSD, mescaline, vaporized N,N-DMT, vaporized 5-MeO-DMT, and ayahuasca or oral DMT combined with monoamine oxidase inhibition. Its central claim is that preparation and aftercare should be stratified by two primary variables: the Experience-Trajectory Profile of the psychedelic state and the participant’s Baseline Risk State before exposure. Experience-Trajectory Profile refers to onset, peak phase, acute duration, residual effects, recovery window, and the earliest appropriate timing for interpretation or integration. Baseline Risk State refers to the participant’s acute physiological and pharmacological condition, including sleep, hydration, cardiovascular stability, gastrointestinal status, glucose stability, psychological stability, and interaction load. This article is a conceptual framework paper, not a clinical protocol or medication-discontinuation guide. It provides a stratification model that links substance-specific experience trajectories with baseline physiological and ",
-      "date": "2026-07-31",
-      "authors": [
-        "Elias Rubenstein"
-      ],
-      "doi": "10.36948/ijfmr.2026.v08i04.84804"
-    },
-    {
-      "title": "Childhood trauma and psychological outcomes following psychedelic use: a scoping review",
-      "url": "https://doi.org/10.1038/s44184-026-00233-2",
-      "source": "OpenAIRE",
-      "abstract": "<jats:title>Abstract</jats:title>                   <jats:p>Research examining psychological outcomes following psychedelic use has grown substantially, yet the role of childhood trauma in shaping these responses remains insufficiently understood. This scoping review mapped the literature examining childhood trauma in relation to post-psychedelic psychological outcomes. Thirty-four sources met inclusion criteria and investigated substances including psilocybin, ayahuasca, and MDMA across clinical, ceremonial, naturalistic, and guided non-clinical contexts. The evidence primarily relied on retrospective self-report, exhibited considerable heterogeneity in study design and trauma operationalisation, and included minimal representation from non-Western or Indigenous contexts. Findings were heterogeneous: some sources reported reductions in trauma-related symptoms in maltreated populations, others found no association between childhood trauma exposure and psychological outcomes, and some identified increased vulnerability to post-acute psychedelic difficulties. Qualitative accounts frequently described resurfacing trauma-related memories accompanied by both psychological growth and distress. Prospective, trauma-informed, and culturally-inclusive research is needed to clarify risks and therapeutic potential for childhood trauma-exposed populations.</jats:p>",
-      "date": "2026-07-30",
-      "authors": [
-        "Lorraine Li",
-        "Paige Seath",
-        "Nadav Liam Modlin"
-      ],
-      "doi": "10.1038/s44184-026-00233-2"
-    },
-    {
-      "title": "Identifying factors that contribute to the behavioral effects of psilocybin in preclinical mouse models",
-      "url": "https://doi.org/10.64898/2026.07.24.740586",
-      "source": "OpenAIRE",
-      "abstract": "<jats:title>ABSTRACT</jats:title>                 <jats:p>Psychedelic drugs offer a potentially promising avenue for novel therapeutics for the treatment of psychiatric conditions, including for mood and anxiety disorders. Emerging clinical studies have prompted increased preclinical research into mechanisms of action. However, post-acute behavioral outcomes in rodents remain inconsistent and difficult to reproduce across laboratories. To address this, we collected a large dataset of behavioral responses to psilocybin in mice (N=693) and used data-driven analyses to identify biological and experimental factors that modulated behavioral readouts. We examined the effects of sex, age, strain, stress protocol, and 5-HT1B signaling on the response to a single high dose of psilocybin measured in acute (head twitch responding and locomotion) or post-acute (sucrose preference, elevated plus maze, novelty-suppressed feeding) behavioral outcomes. We found that psilocybin displays a robust acute behavioral response and a more variable post-acute behavioral profile with a most robust response in sucrose preference. Sex, stress model, and 5-HT1BR activation emerged as key modulators of post-acute antidepressant-like and anxiolytic effects. Random forest classification was narrowly able to predict drug treatment based on post-acute behavioral outcomes and biological and experimental factors. These findings suggest that the heterogeneity seen in the response to psilocybin in mice reflects m",
-      "date": "2026-07-28",
-      "authors": [
-        "Sixtine Fleury",
-        "Luke J. Chang",
-        "Katherine M. Nautiyal"
-      ],
-      "doi": "10.64898/2026.07.24.740586"
-    },
-    {
-      "title": "The “dark magic mushroom” co-produces amatoxins and psilocybin",
-      "url": "https://doi.org/10.64898/2026.07.17.739257",
-      "source": "OpenAIRE",
-      "abstract": "<jats:title>Abstract</jats:title>                 <jats:p>                   The most famous chemicals produced by mushrooms are the psychedelic compound psilocybin from “magic mushrooms” and amatoxins from deadly poisonous mushrooms. These compounds are known to occur in multiple phylogenetically disjunct fungal lineages but have never been shown to co-occur within a single species. Here we show that the “dark magic mushroom”                   <jats:italic>Galerina indica</jats:italic>                   produces both psilocybin and amatoxins. Mass spectrometry revealed psilocybin and amatoxins in mushroom tissues, and genomic analyses identified corresponding biosynthetic genes. Phylogenetic analyses suggest that                   <jats:italic>G. indica</jats:italic>                   acquired psilocybin biosynthesis via horizontal gene transfer after amatoxin biosynthesis was already established, and that psilocybin biosynthesis was acquired twice independently within                   <jats:italic>Galerina</jats:italic>                   . Intriguingly, acquisition of psilocybin biosynthesis in                   <jats:italic>G. indica</jats:italic>                   may have coincided with reduced amatoxin potency. These findings reveal how horizontal gene transfer can combine powerful bioactive systems in a single species, potentially altering the ecological roles of both compound classes and the evolutionary fitness of the species.                 </jats:p>",
-      "date": "2026-07-22",
-      "authors": [
-        "Andrew R. Kunik",
-        "Michael W. Christopher",
-        "Benjamin Lemmond"
-      ],
-      "doi": "10.64898/2026.07.17.739257"
-    },
-    {
-      "title": "Predictive Processing, Psychedelic Spirituality, and Neurophenomenology",
-      "url": "https://doi.org/10.1093/oxfordhb/9780192844064.013.41",
-      "source": "OpenAIRE",
-      "abstract": "<jats:title>Abstract</jats:title>                   <jats:p>Psychedelic substances such as psilocybin, LSD, ayahuasca, DMT, or mescaline, when employed with knowledge and skill, can sometimes lead to profoundly meaningful and transformative subjective experiences. This chapter discusses how the predictive processing theory can further our understanding of these deeply meaningful spiritual psychedelic experience. It makes a more specific proposal that the predictive processing theory of psychedelics can contribute to the neurophenomenology research program. The chapter proposes that phenomenological reflection on the psychedelic experience can be used as a method by subjects for providing first-person descriptions of how the different phenomenological structures of their experience are altered during, and after, their acute psychedelic experience. What predictive processing adds is a further mathematical way of knowing consciousness that can serve as a neutral vocabulary for creating generative passages between neurobiology and phenomenology that allows neuroscientists to make sense of how psychedelics perturb the structures of first-person experience in ways that can lead to profoundly meaningful spiritual experiences.</jats:p>",
-      "date": "2026-07-22",
-      "authors": [
-        "Julian Kiverstein"
-      ],
-      "doi": "10.1093/oxfordhb/9780192844064.013.41"
     }
   ]
 }

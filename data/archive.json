@@ -1,6 +1,61 @@
 {
   "items": [
     {
+      "title": "Davis, Farchione and Colleagues Present FDA’s Psychedelic Drug Framework in NEJM",
+      "url": "https://psychedelicalpha.com/news/davis-farchione-and-colleagues-present-fdas-psychedelic-drug-framework-in-nejm/",
+      "source": "Psychedelic Alpha",
+      "date": "2026-09-10",
+      "authors": [],
+      "doi": "",
+      "summary_en": "FDA staff members Davis and Farchione published a framework for psychedelic drug regulation in the New England Journal of Medicine. The commentary addresses the U.S. mental health crisis, particularly depression and PTSD, outlining the agency's approach to evaluating psychedelic compounds for therapeutic development.",
+      "notable": true,
+      "notable_reason": "FDA's official psychedelic drug framework published in NEJM by agency leadership (Davis, Farchione) — landmark regulatory policy statement.",
+      "study_type": "other",
+      "substances": [
+        "psilocybin",
+        "other"
+      ],
+      "added_at": "2026-09-11T11:38:30.978989+00:00"
+    },
+    {
+      "title": "Ketamine: from anesthesia to pediatric suicidal crisis.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42722964/",
+      "source": "PubMed",
+      "date": "2026-Sep-11",
+      "authors": [
+        "Maguire Lindsay A",
+        "Jha Manish K",
+        "Than Martin"
+      ],
+      "doi": "10.1007/s43678-026-01261-9",
+      "summary_en": "This article examines ketamine's clinical trajectory from its use as an anesthetic to its application in treating pediatric suicidal crises. The piece explores the pharmacological basis and emerging evidence for ketamine's rapid-acting effects in acute psychiatric emergencies, highlighting its potential role in crisis intervention for young patients.",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "other",
+      "substances": [
+        "ketamine"
+      ],
+      "added_at": "2026-09-11T11:38:30.978989+00:00"
+    },
+    {
+      "title": "Non-randomized rapamycin augmentation of chronic self-administered ketamine provides subjective improvement in diverse phenotypes.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42719198/",
+      "source": "PubMed",
+      "date": "2026-08-26",
+      "authors": [
+        "Berner Jon"
+      ],
+      "doi": "10.3389/fpsyt.2026.1910337",
+      "summary_en": "Single-center retrospective study of 101 patients using ketamine chronically (>2 months). Among 38 patients who received rapamycin augmentation, 22 reported subjective improvement across diverse symptoms including cognition, fatigue, mood, pain, and dysautonomia. Ketamine dosing varied widely (0.4-20.7 mg/kg/day). Rapamycin response correlated with lower weight and absence of antipsychotic use. Results suggest potential benefit in select populations, though severe selection bias limits generalizability.",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "observational",
+      "substances": [
+        "ketamine"
+      ],
+      "added_at": "2026-09-11T11:38:30.978989+00:00"
+    },
+    {
       "title": "Ketamine-Induced Dissociation as an Ethical Signal, Not a Side Effect: Context as the Determinant of Clinical Duties Under Beneficence and Non-maleficence.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42717138/",
       "source": "PubMed",

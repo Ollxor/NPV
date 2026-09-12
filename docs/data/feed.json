@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-11T11:39:20.011786+00:00",
+  "generated_at": "2026-09-12T11:02:24.428374+00:00",
   "items": [
     {
       "title": "Blinding integrity in psychedelic research: Evidence from a comparative randomized controlled trial of psilocybin, MDMA, and methylphenidate in healthy volunteers",
@@ -32,6 +32,37 @@
         "mdma"
       ],
       "added_at": "2026-07-09T10:03:12.956794+00:00"
+    },
+    {
+      "title": "Characterizing Psychedelic-Evoked Familiarity: A Comparative Study with Autobiographical and Déjà Vu Experiences.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42725633/",
+      "source": "PubMed",
+      "date": "2026-09-11",
+      "authors": [
+        "Lawrence David Wyndham",
+        "Doss Manoj K",
+        "O'Connor Akira Robert"
+      ],
+      "doi": "10.1080/02791072.2026.2729618",
+      "summaries": {
+        "en": "Online survey of 1,050 participants compared psychedelic-induced familiarity with autobiographical and déjà vu experiences using the Sense of Familiarity Questionnaire. Study characterizes the distinctive phenomenological qualities of familiarity during psychedelic experiences, an understudied aspect with potential therapeutic implications.",
+        "sv": "Webbaserad enkätundersökning med 1 050 deltagare jämförde psykedelika-framkallad förtrogenhet med autobiografiska och déjà vu-upplevelser med hjälp av Sense of Familiarity Questionnaire. Studien karaktäriserar de fenomenologiska egenskaper hos förtrogenhet under psykedelika-erfarenheter.",
+        "no": "Nettbasert spørreskjema med 1 050 deltakere sammenlignet psykedelika-indusert kjenthet med autobiografiske og déjà vu-opplevelser ved hjelp av Sense of Familiarity Questionnaire. Studien karakteriserer de fenomenologiske kvalitetene ved kjenthet under psykedelika-erfaringer.",
+        "da": "Webbaseret spørgeskemaundersøgelse med 1 050 deltagere sammenlignede psykedelika-induceret kendskab med autobiografiske og déjà vu-oplevelser ved hjælp af Sense of Familiarity Questionnaire. Studien karakteriserer de fænomenologiske kvaliteter ved kendskab under psykedelika-erfaringer.",
+        "fi": "Verkkopohjaisessa kyselytutkimuksessa 1 050 osallistujaa vertailivat psykedeelisen kokemuksen aiheuttamaa tuttavuuden tunnetta autobiografisiin ja déjà vu -kokemuksiin käyttäen Sense of Familiarity -kyselyä. Tutkimus karakterisoi psykedeelisten kokemusten aikaisen tuttavuuden fenomenologisia ominaisuuksia.",
+        "is": "Vefkönnuð könnun með 1 050 þátttakendum bó saman psykedelíska framkallaða kunnáttu með sjálfsævisögulegu og déjà vu-reynslu með Sense of Familiarity spurningalistanum. Rannsóknin ætti að greina eðlilega eiginleika kunnattu meðan á psykedelískri reynslu stóð.",
+        "et": "Võrgus läbiviidud küsitlus 1 050 osalejaga võrdles psühhedeelika-tekitatud tuttavuse tunnet autobiograafiliste ja déjà vu-kogemustega, kasutades Sense of Familiarity küsimustikku. Uuring iseloomustab psühhedeelika-kogemuste käigus tekkiva tuttavuse fenomenoloogilisi omadusi.",
+        "lv": "Tiešsaistes aptauja ar 1 050 dalībniekiem salīdzināja psihedeliku izraisītu pazīstamības sajūtu ar autobiogrāfiskām un déjà vu pieredzēm, izmantojot Sense of Familiarity anketu. Pētījums raksturo pazīstamības fenomenoloģiskās īpašības psihedeliku pieredzes laikā.",
+        "lt": "Internete atlikta apklausa su 1 050 dalyvių palyginusi psichedelinių medžiagų sukeltą pažįstamumą su autobiografinėmis ir déjà vu patirtimis, naudojant Sense of Familiarity klausimyną. Tyrimas apibūdina pažįstamumo fenomenologines savybes psichedelinės patirties metu."
+      },
+      "notable": false,
+      "notable_reasons": null,
+      "relevance_score": 3,
+      "study_type": "observational",
+      "substances": [
+        "other"
+      ],
+      "added_at": "2026-09-12T11:02:13.640639+00:00"
     },
     {
       "title": "Ketamine: from anesthesia to pediatric suicidal crisis.",
@@ -1931,37 +1962,6 @@
         "other"
       ],
       "added_at": "2026-08-21T07:22:42.288520+00:00"
-    },
-    {
-      "title": "Ketamine's impact on rumination-related brain dynamics: insights from a randomized controlled fMRI trial.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42613319/",
-      "source": "PubMed",
-      "date": "2026-08-18",
-      "authors": [
-        "Meiering Marvin S",
-        "Weigner David",
-        "Gärtner Matti"
-      ],
-      "doi": "10.1038/s41398-026-04392-w",
-      "summaries": {
-        "en": "Randomized controlled fMRI study (N=75) examining ketamine's effects on brain network dynamics associated with rumination. Ketamine acutely reduced occurrence of a hybrid default mode-frontoparietal network pattern positively linked to rumination at baseline, with larger decreases in high-rumination individuals. Effects were transient, returning to baseline after 24 hours. Lamotrigine pretreatment nominally attenuated these changes, suggesting glutamatergic involvement.",
-        "sv": "Randomiserad, dubbelblind fMRI-studie (N=75) som undersökte ketamins effekter på hjärnans nätverksdynamik associerad med grubblande tankar. Ketamin minskade akut förekomsten av ett hybridmönster inom default mode- och frontoparietal-nätverk som var positivt kopplat till grubblande. Effekterna var övergående och återgick till utgångsvärden efter 24 timmar. Förberedande lamotriginbehandling dämpade nominellt dessa effekter, vilket tyder på glutamatergt inblandning.",
-        "no": "Randomisert, dobbeltblind fMRI-studie (N=75) som undersøkte ketamins effekter på hjernenettverk knyttet til grubling. Ketamin reduserte akutt forekomsten av et hybrid default mode-frontoparietal nettverksmønster positivt assosiert med grubling, med større reduksjoner hos individer med høyere grubling. Effektene var forbigående og returnerte til utgangsnivå etter 24 timer. Lamotrigin-forbehandling dempet nominelt disse effektene, noe som tyder på glutamaterginvolvement.",
-        "da": "Randomiseret, dobbeltblindet fMRI-studie (N=75) som undersøgte ketamins effekter på hjerneネtværksdynamik forbundet med grubling. Ketamin reducerede akut hyppigheden af et hybrid default mode-frontoparietal netværksmønster positivt associeret med grubling, med større reduktioner hos højtgublende individer. Effekterne var forbigående og vendte tilbage til udgangsniveauet efter 24 timer. Lamotriginforhåndsbehandling dæmpede nominelt disse effekter, hvilket tyder på glutamaterg indblandelse.",
-        "fi": "Satunnaistettu, kaksoissokkoinen fMRI-tutkimus (N=75), jossa tutkittiin ketamiinin vaikutuksia pohdiskeluun liittyvän aivojen verkkodynamiikkaan. Ketamiini vähensi akuutisti hybrid default mode-frontoparietal-verkkomallia, joka oli positiivisesti yhteydessä pohdiskeluun lähtötasolla. Vaikutukset olivat ohimeneviä ja palautuivat lähtötasoon 24 tunnin jälkeen. Lamotrigiini-esikäsittely lievensi näitä vaikutuksia nimellisesti, mikä viittaa glutamaattijärjestelmään osallistumiseen.",
-        "is": "Slembirannsókn með tvöfaldri blindun og fMRI (N=75) sem skoðaði áhrif ketamíns á gangverk heilans sem tengist endurtekningu hugsana. Ketamín minnkaði bráðlega tíðni tvöfaldra sjálfgefnu-og framhliðar-netkerfa sem var jákvætt tengt endurtekningu hugsana. Áhrif voru skammtíma og fóru aftur til upphafs eftir 24 klst. Lamotrigín-fyrirfarbúningur dempandi þessi áhrif, sem bendir til þátttöku glutamats.",
-        "et": "Randomiseeritud, kahekordse pimestamisega fMRI-uuringu (N=75) ketamiini mõjude uurimine ajudünaamilikale mudelidele, mis on seotud mõtisklustega. Ketamiin vähendasid teravalt hübriidse vaikeoleku ja frontoparieetaalse võrgustikumustri esinemise sagedust, mis oli positiivselt seotud mõtisklustega. Mõjud olid ajutised ja pöördusid 24 tunni pärast tagasi. Lamotrigiinieelse ravi summutas neid mõjusid, mis viitab glutamaatsusteemile.",
-        "lv": "Randomizēts, dubultaklls fMRI pētījums (N=75), kurā pārbaudīja ketamīna ietekmi uz smadzeņu tīkla dinamiku, kas saistīta ar rumināciju. Ketamīns akūti samazināja hibrīda noklusējuma režīma un priekšējā parietal tīkla modeļa esiešanu, kas bija pozitīvi saistīta ar rumināciju. Efekti bija pagaidu un atgriezās sākotnējā līmenī pēc 24 stundām. Lamotrigīna priekšapstrāde nominālā vērtībā slāpēja šos efektus.",
-        "lt": "Randomizuotas, dvigubai aklinas fMRI tyrimas (N=75), kuriame tyrinta ketamino įtaka smegenyse tinklams, susijusiems su ruminacija. Ketaminas sumažino hibridiniu numatytojo režimo ir priekinės parietal tinklo šablono pasirodymo dažnį, kuris buvo teigiamai susietas su rumiacijom. Efektai buvo trumpalaikiai ir grįžo į pradinį lygį po 24 valandų. Lamotrigino išankstinis gydymas vardine reikšme susilpnino šiuos efektus."
-      },
-      "notable": false,
-      "notable_reasons": null,
-      "relevance_score": 4,
-      "study_type": "rct",
-      "substances": [
-        "ketamine"
-      ],
-      "added_at": "2026-08-20T07:21:17.759198+00:00"
     }
   ]
 }

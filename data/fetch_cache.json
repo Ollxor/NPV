@@ -1,7 +1,20 @@
 {
-  "date": "2026-09-11",
-  "cached_at": "2026-09-11T10:35:24.048466+00:00",
+  "date": "2026-09-12",
+  "cached_at": "2026-09-12T10:03:28.782412+00:00",
   "articles": [
+    {
+      "title": "Characterizing Psychedelic-Evoked Familiarity: A Comparative Study with Autobiographical and Déjà Vu Experiences.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42725633/",
+      "source": "PubMed",
+      "abstract": "Psychedelic experiences often evoke a sense of familiarity, an experiential quality that has received little empirical attention despite its potential therapeutic and cognitive significance. This study examined psychedelic-evoked familiarity in comparison to non-drug-induced forms of familiarity, including autobiographical and déjà vu experiences. An anonymous online survey was administered to 1050 participants, who completed the Sense of Familiarity Questionnaire (SOFQ) and psycho-emotional ratings for at least one of three experiences: Psychedelic, Autobiographical, or",
+      "date": "2026-09-11",
+      "authors": [
+        "Lawrence David Wyndham",
+        "Doss Manoj K",
+        "O'Connor Akira Robert"
+      ],
+      "doi": "10.1080/02791072.2026.2729618"
+    },
     {
       "title": "Ketamine: from anesthesia to pediatric suicidal crisis.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42722964/",
@@ -245,17 +258,13 @@
       "doi": "10.1038/s41386-026-02551-7"
     },
     {
-      "title": "Neuroprotective effects of ketamine, lamotrigine, and ketoprofen combinations after pars plana vitrectomy and silicone oil injection.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42700282/",
-      "source": "PubMed",
-      "abstract": "This experimental study aims to assess the protective impact of combined treatment with ketamine (KTM), lamotrigine (LMT), and ketoprofen (KTP), agents that have demonstrated neuroprotective properties in other experimental contexts, on rabbit retinas in an experimental model of pars plana vitrectomy (PPV) and silicone oil injection (SOI). Thirty-six rabbits were divided into six treatment groups: saline, KTP, KTM+LMT, KTM+KTP, LMT+KTP, and KTM+LMT+KTP. All rabbits underwent PPV and SOI in the right eye. The left eyes served as negative controls. Histological assessments were conducted to evaluate cell densities and structural changes in the ganglion cell layer (GCL), the inner nuclear layer (INL), and the outer nuclear layer (ONL). Apoptosis was evaluated using the TUNEL method. The KTP group exhibited reduced apoptosis and partial protection in all retinal layers. The KTM+LMT combination significantly protected the GCL. The KTM+KTP group showed notable protection in the INL. The LMT+KTP combination was effective for both the INL and GCL. The KTM+LMT+KTP combination provided the most comprehensive protection across the ONL and INL. The cell densities in the ONL, INL, and GCL were significantly greater in the treatment groups than in the positive control group. The combination of KTM, LMT, and KTP exhibited significant neuroprotective effects on rabbit retinas following PPV and SOI. These findings suggest the potential of this combination treatment as a therapeutic strategy for retinal pathologies.",
-      "date": "2026-09-05",
-      "authors": [
-        "Paques Mila W",
-        "Bellanda Victor",
-        "Guizzo Renato"
-      ],
-      "doi": "10.1007/s10792-026-04256-8"
+      "title": "Approvals to Access: A Crude Schematic",
+      "url": "https://psychedelicalpha.com/news/approval-to-access-a-crude-schematic/",
+      "source": "Psychedelic Alpha",
+      "abstract": "",
+      "date": "2026-09-11",
+      "authors": [],
+      "doi": ""
     },
     {
       "title": "Davis, Farchione and Colleagues Present FDA’s Psychedelic Drug Framework in NEJM",
@@ -335,15 +344,6 @@
       "source": "Psychedelic Alpha",
       "abstract": "Dr. Husseini Manji’s affiliations are quite the laundry list: a professor of psychiatry at the University of Oxford with adjunct and visiting positions at Yale and Duke, as well as serving as co-chair of the UK government’s mental health mission. But it’s his earlier work as a pioneer in the development of rapid-acting antidepressants that […]",
       "date": "2026-08-18",
-      "authors": [],
-      "doi": ""
-    },
-    {
-      "title": "The Psychedelic Practitioner Issue 6: Preparedness (People)",
-      "url": "https://psychedelicalpha.com/news/the-psychedelic-practitioner-issue-6-preparedness-people/",
-      "source": "Psychedelic Alpha",
-      "abstract": "",
-      "date": "2026-08-13",
       "authors": [],
       "doi": ""
     },
@@ -438,141 +438,11 @@
       "doi": ""
     },
     {
-      "title": "Update on Sedation for Upper Gastrointestinal Endoscopy in Japan: Current Evidence on Remimazolam.",
-      "url": "https://doi.org/10.1002/deo2.70402",
-      "source": "Europe PMC",
-      "abstract": "Sedation is an essential component of upper gastrointestinal endoscopy because it reduces patient discomfort and anxiety while improving patient acceptance and procedural quality. In Japan, benzodiazepines such as midazolam and opioid analgesics have long been widely used in routine clinical practice; however, many of these agents historically lacked formal insurance approval for sedation during gastrointestinal endoscopy. Propofol is also a useful sedative because of its rapid onset and recovery, but its use in Japan has been limited because of concerns regarding respiratory and cardiovascular depression and the need for management by anesthesia-trained personnel. Against this background, the approval of remimazolam for sedation during gastrointestinal endoscopy in June 2025 represented a major turning point in Japanese endoscopic sedation practice. Remimazolam is an ultra-short-acting benzodiazepine rapidly metabolized by carboxylesterases and reversible with flumazenil. Japanese phase III trials demonstrated high sedation success rates and rapid recovery during upper gastrointestinal endoscopy, including in elderly patients. Compared with midazolam, remimazolam shortened awakening and ambulation times, whereas compared with propofol, it may cause fewer respiratory and cardiovascular adverse events. This review summarizes the current status of upper gastrointestinal endoscopic sedation in Japan, focusing on the clinical evidence and positioning of the newly approved ultra-short-acting benzodiazepine, remimazolam.",
-      "date": "2026-08-12",
-      "authors": [
-        "Ichijima R",
-        "Toyama M",
-        "Shishido T"
-      ],
-      "doi": "10.1002/deo2.70402"
-    },
-    {
-      "title": "Preclinical evaluation of PSMA-targeted ultrasound contrast agents in an orthotopic model of prostate cancer in rabbits.",
-      "url": "https://doi.org/10.1016/j.bioactmat.2026.07.040",
-      "source": "Europe PMC",
-      "abstract": "The localization of prostate cancer by ultrasound remains limited by the lack of B-mode conspicuity and the confinement of clinically approved microbubbles (MBs) to the vasculature. This precludes differentiating viable tumor, necrotic tissue, and margin-associated disease. We investigated prostate-specific membrane antigen (PSMA)-targeted lipid-shelled perfluorocarbon nanobubbles (PSMA-NBs) in an orthotopic rabbit model using a clinical contrast-enhanced ultrasound (CEUS) system. We implanted PSMA-positive PC3pip-GFP tumors into the prostates of immunosuppressed New Zealand White rabbits and performed transabdominal imaging with PSMA-NBs, MBs, and Plain-NBs using identical protocols. To address tumor heterogeneity and ultrasound boundary ambiguity, regions of interest were defined from baseline B-mode images and segmented into the tumor core, rim, and a peritumoral area. Pixel-wise parametric and decorrelation time (DT) maps were generated and compared with whole-slide histology (H&E) and, in an exploratory and non-specific analysis, with PSMA IHC. Compared to MBs at the doses used, PSMA-NBs exhibited higher peak intensities in the tumor core and rim (1.60-fold and 1.50-fold, respectively) and improved retention (mean transit time [MTT]: 4.20 to 5.40-fold higher) for up to 10 min in the tumor and peritumoral areas. In an exploratory analysis constrained by cohort size, PSMA-NB kinetics, notably MTT, tracked histology-defined tumor viability, and DT mapping showed spatially heterogeneous retention at the tumor periphery. Compared to Plain-NBs, PSMA-NBs also exhibited improved retention (MTT +21% overall) in the rim and peritumoral areas. This study demonstrates the potential of PSMA-NBs to characterize prostate cancer by molecularly targeted CEUS beyond that achieved with MBs at the doses used.",
-      "date": "2026-08-11",
-      "authors": [
-        "Berg FM",
-        "Abenojar EC",
-        "Nittayacharn P"
-      ],
-      "doi": "10.1016/j.bioactmat.2026.07.040"
-    },
-    {
-      "title": "Long-term exploratory evaluation of an acellular biomimetic polyfascicular nerve guidance conduit for peripheral nerve repair in a rhesus macaque model.",
-      "url": "https://doi.org/10.1016/j.bioactmat.2026.07.035",
-      "source": "Europe PMC",
-      "abstract": "Peripheral nerve injury (PNI) affects millions worldwide, yet currently approved nerve guidance conduits (NGCs) have limited ability to recapitulate the native fascicular architecture that supports organized axonal regeneration. Here, we present an acellular biomimetic multi-fascicle NGC (MFNGC) constructed by integrating electrospun poly(L-lactide-co-ε-caprolactone) (PLCL) membranes with visible-light-crosslinked gelatin hydrogel guide structures, without cells or exogenous growth factors. The MFNGC incorporates three inner conduits mimicking perineurial fascicles enclosed within an epineurium-like outer conduit, approximating key architectural features of the native median nerve in rhesus macaques. In a 12-month exploratory follow-up study using a 15-mm median nerve defect model in three rhesus macaques (<i>Macaca mulatta</i>), the MFNGC showed evidence of functional and histological nerve regeneration, as assessed by compound muscle action potential (CMAP), hand dexterity using pellet clearance test, motor dysfunction scoring, thenar muscle preservation, and axonal remyelination. Nerves regenerated within the MFNGC exhibited organized multi-fascicular tissue formation resembling native nerve architecture, and the conduit showed substantial <i>in vivo</i> degradation, as indicated by a 94% reduction in PLCL molecular weight without obvious chronic inflammatory response at the 12-month endpoint. Although limited by the small number of NHP, this study provides exploratory preclinical evidence supporting further evaluation of an acellular polyfascicular NGC for peripheral nerve regeneration.",
-      "date": "2026-08-04",
-      "authors": [
-        "Kim YJ",
-        "Choi IC",
-        "Cho J"
-      ],
-      "doi": "10.1016/j.bioactmat.2026.07.035"
-    },
-    {
-      "title": "Impact of Mild Traumatic Brain Injury (mTBI) on CYP2D6 Activity and the Restorative Effects of Melatonin and Vitamin C Supplementation.",
-      "url": "https://doi.org/10.5812/ijpr-164903",
-      "source": "Europe PMC",
-      "abstract": "<h4>Background</h4>Mild traumatic brain injury (mTBI) may disrupt hepatic cytochrome P-450 enzyme activity, potentially altering drug pharmacokinetics.<h4>Objectives</h4>This study investigated the impact of mTBI on CYP2D6 activity and the restorative effects of melatonin and vitamin C supplementation.<h4>Methods</h4>Mild traumatic brain injury was induced in rats using a modified weight-drop model, which were then assigned to treatment or control groups. CYP2D6 activity was assessed at multiple time points post-injury using metabolic ratios of tramadol and mirtazapine through isolated liver perfusion. All experimental procedures were conducted with the investigator blinded to group assignments.<h4>Results</h4>Mild traumatic brain injury significantly suppressed CYP2D6 activity on day 3, with partial recovery by day 7. While tramadol metabolism normalized by day 28, mirtazapine metabolism remained impaired in non-supplemented groups. Supplementation accelerated CYP2D6 recovery, showing statistically significant change by day 7. By day 28, supplemented groups exhibited metabolic ratios surpassing baseline levels.<h4>Conclusions</h4>Mild traumatic brain injury induces transient suppression of CYP2D6 activity, which was attenuated in antioxidant-treated groups in this preclinical model. Further studies are needed to explore the clinical relevance of these findings.",
-      "date": "2026-02-08",
-      "authors": [
-        "Berenjian K",
-        "Gholipour Z",
-        "Khoshayand M"
-      ],
-      "doi": "10.5812/ijpr-164903"
-    },
-    {
-      "title": "Esketamine vs. sufentanil for quality of recovery after outpatient gynecological surgery: a randomized clinical trial.",
-      "url": "https://doi.org/10.1080/07853890.2026.2723715",
-      "source": "Europe PMC",
-      "abstract": "<h4>Background</h4>Perioperative administration of esketamine has been reported to improve early quality of recovery (QoR). However, data on its effects in outpatient surgery are limited. This study aimed to assess the impact of esketamine on QoR in patients undergoing outpatient gynecological procedures.<h4>Methods</h4>In this investigator-initiated, double-blind, randomized clinical trial, patients aged 18-65 years scheduled for outpatient gynecological surgery under sedation were allocated to receive esketamine (0.2 mg/kg) or sufentanil (0.1 μg/kg) combined with propofol (1.5-3 mg/kg). The primary outcome was quality of recovery on postoperative day (POD) 1. Secondary outcomes included quality of recovery on POD2, sedation success rate, length of post-anesthesia care unit (PACU) stay, injection pain, postoperative pain, nausea and vomiting, fatigue, patient and clinician satisfaction, sleep quality, and anxiety and depression.<h4>Results</h4>A total of 126 patients were randomized, with 63 assigned to the esketamine group and 63 to the sufentanil group. Of these, 125 patients were included in the final analysis (62 in the esketamine group and 63 in the sufentanil group), as one patient lacked follow-up data. The mean (SD) QoR-15 score on POD1 was 137.9 (14.5) in the esketamine group and 137.8 (10.7) in the sufentanil group, with no significant difference between groups (absolute difference, 0.2; 95% CI, -4.2 to 4.6; <i>p</i> = 0.93). For secondary outcomes, the esketamine group had a longer PACU stay (median, 28.0 vs. 23.0 min; <i>p</i> < 0.001), a lower incidence of severe injection pain (22.6% vs. 50.8%; <i>p</i> = 0.002), a higher proportion of patients with pain scores ≥ 4 at 30 min postoperatively (30.6% vs. 6.3%; <i>p</i> = 0.001), and higher fatigue scores (median, 3.0 vs. 2.0; <i>p</i> = 0.01). Other secondary outcomes did not differ significantly between groups.<h4>Conclusion</h4>Among patients undergoing sedation for outpatient gynecological procedures, esketamine did not significantly improve quality of recovery on POD1 compared to sufentanil.<h4>Trial registration</h4>Chinese Clinical Trial Registry, ChiCTR2500098466.",
-      "date": "2026-09-04",
-      "authors": [
-        "Wang XL",
-        "Li YN",
-        "Ma QL"
-      ],
-      "doi": "10.1080/07853890.2026.2723715"
-    },
-    {
-      "title": "Cardiotoxicological assessment of crocin-coated silver nanoparticles in an experimental rat model.",
-      "url": "https://doi.org/10.1016/j.toxrep.2026.102333",
-      "source": "Europe PMC",
-      "abstract": "Silver nanoparticles (AgNPs) are widely used for various industrial and biomedical applications; however, their potential cardiotoxicity remains insufficiently understood and requires further investigation. We evaluated the cardiotoxic effects of AgNPs and crocin-coated AgNPs (CR-AgNPs) administered at doses of 20, 40, and 80 µg/kg in male Wistar rats. Forty-two rats were randomly allocated to seven groups as follows: The groups included a control group (normal saline), three AgNPs-treated groups (20, 40, and 80 µg/kg), and three crocin-coated AgNPs-treated groups (20, 40, and 80 µg/kg), all of which received treatment via oral gavage for 30 days. At the end of the experiment, the animals were anesthetized with ketamine and xylazine, and blood samples and cardiac tissues were collected for biochemical and histopathological analyses. Our findings showed that malondialdehyde (MDA) levels were significantly increased in the AgNPs 80 group compared with the control group. In addition, administration of CR-AgNPs at 80 µg/kg significantly reduced MDA levels compared with the AgNPs 80 group. Histopathological examination confirmed the toxic effect of AgNPs at 80 µg/kg, as evidenced by mild interstitial edema and localized separation of myocardial muscle fibers. In conclusion, these findings suggest that CR-AgNPs may represent a safer alternative for pharmaceutical applications by reducing the risk of subacute cardiotoxicity in experimental animals. Further investigations are required to provide additional evidence in this field.",
-      "date": "2026-08-21",
-      "authors": [
-        "Ziaaldini MAA",
-        "Fakhrtaha T",
-        "Samarghandian S"
-      ],
-      "doi": "10.1016/j.toxrep.2026.102333"
-    },
-    {
-      "title": "SRT1720-loaded exosome-mimetic nanovesicles promote mitophagy via SIRT1/PARKIN activation to ameliorate diabetic cerebral infarction in a preclinical rat model.",
-      "url": "https://doi.org/10.1016/j.ijpx.2026.100639",
-      "source": "Europe PMC",
-      "abstract": "Mitochondrial dysfunction and impaired mitophagy-a key event in diabetic hyperglycemia-aggravated ischemic injury - lead to accumulation of dysfunctional mitochondria and neuronal apoptosis, which are vital processes involved in diabetic cerebral infarction (DCI). Herein, we developed SRT1720-loaded exosome-mimetic nanovesicles (SRT1720@M) to leverage the potential of SIRT1/PARKIN pathway activation to inhibit these processes and counteract DCI. The lipid fusion approach was used to fabricate exosome-loaded SRT1720@M. The properties of SRT1720@M were established by employing UV-Vis, transmission electron microscopy (TEM), dynamic light scattering, and Fourier-transform infrared (FTIR) spectroscopy. Oxygen-glucose deprivation/reperfusion (OGD/R) and high-glucose (HG)-treated primary hippocampal neurons were used as an in vitro DCI model treated with SRT1720@M. qPCR, Western blotting and immunofluorescence were used for expression analyses, whereas cell viability, phagocytosis, inflammation, and ATP/L-LA levels were assessed by CCK-8, ELISA and TEM. A rat model of DCI was obtained by establishing middle cerebral artery occlusion (MCAO), from which infarct volume, neurological deficits, histopathology, behavioral indexes, and molecular markers were detected. SRT1720@M average size was ∼68 nm, with an encapsulation efficiency of 78.19%, loading capacity of 8.52%, and zeta potential of -54 mV. In vitro, SRT1720@M markedly improved cell viability (<i>P</i> < 0.01), decreased IL-1β, TNF-α, and L-LA, but increased ATP levels, and promoted mitophagy and suppressed inflammatory responses compared with the DCI group. In the DCI model, SRT1720@M improved neurological deficits, reduced infarct volume, and alleviated behavioral disorders by inhibiting apoptosis and inflammation and promoting mitophagy and mitochondrial function through activation of the SIRT1/PARKIN pathway. SRT1720@M alleviates DCI by activating the SIRT1/PARKIN pathway and promoting mitophagy, highlighting its potential as a promising preclinical therapeutic strategy.",
-      "date": "2026-08-13",
-      "authors": [
-        "Huang Q",
-        "Zhao F",
-        "Sun B"
-      ],
-      "doi": "10.1016/j.ijpx.2026.100639"
-    },
-    {
-      "title": "Unlocking the brain: Biodistribution insights into tween 80 nanoliposomes in healthy brains.",
-      "url": "https://doi.org/10.1016/j.ijpx.2026.100636",
-      "source": "Europe PMC",
-      "abstract": "Limited drug penetration across the blood-brain barrier hinders brain tumor therapy. This study evaluated doxorubicin-loaded nanoliposomes with varying Tween 80 contents, investigating formulation characteristics, release profiles, cytotoxicity on cancer and healthy cells, and tissue distribution in healthy models. Nanoliposomes were prepared <i>via</i> thin-film hydration. Physicochemical properties, <i>in vitro</i> drug release at physiological and acidic pH, and cytotoxicity (MTT assay and IC<sub>50</sub>) on C6 cells and normal NIH 3 T3 cells (including empty-carrier biosafety) were assessed. <i>In vivo</i> tissue distribution and histopathological safety were also examined in mice. Formulations showed composition-dependent size and 3-month stability. Formulation F2 emerged as the lead candidate, exhibiting optimal size (142.4 nm), PDI (0.139), encapsulation efficiency (82.4%), and pH-responsive release (80-90% at pH 5.5 <i>vs.</i> <10% at pH 7.4). F2 maintained potent cytotoxicity on C6 cells (IC<sub>50</sub>: 0.44 μg/mL) while demonstrating high biosafety on normal NIH 3 T3 cells, showing >90% viability with empty blanks and a markedly higher IC<sub>50</sub> (20.67 μg/mL) than free DOX. <i>In vivo</i>, F2 achieved superior brain accumulation at 24 and 48 h (2.61 and 2.78 μg/g; <i>p</i> < 0.05 <i>vs.</i> DOX) while reducing cardiac uptake (2.29 <i>vs.</i> 14.49 μg/g at 24 h). Formulation F2 balances colloidal stability, reduced cardiotoxicity, and superior brain accumulation, supporting its potential for neuro-oncology applications.",
-      "date": "2026-08-13",
-      "authors": [
-        "Khatibi M",
-        "Hosseinikhah SM",
-        "Alavizdaeh SH"
-      ],
-      "doi": "10.1016/j.ijpx.2026.100636"
-    },
-    {
-      "title": "Store-operated calcium signaling modulators improve a dendritic cell-based vaccine against melanoma.",
-      "url": "https://doi.org/10.1080/2162402x.2026.2723541",
-      "source": "Europe PMC",
-      "abstract": "<h4>Summary</h4>Cruz Cobo et al. identify small molecules that reprogram dendritic cells toward an immuno-stimulating secretory phenotype, revealing endoplasmic reticulum calcium signaling as a druggable axis to boost vaccine-based and T cell-mediated cancer immunotherapies. The study links broad changes in calcium-induced secretion to improved immune activation and therapeutic potency.",
-      "date": "2026-08-28",
-      "authors": [
-        "Cruz Cobo M",
-        "Garnier L",
-        "Mandavit M"
-      ],
-      "doi": "10.1080/2162402x.2026.2723541"
-    },
-    {
-      "title": "Intraoperative esketamine for postoperative analgesia and depression in pancreatic cancer surgery: protocol for a multicenter randomized controlled trial.",
-      "url": "https://doi.org/10.1080/07853890.2026.2722438",
-      "source": "Europe PMC",
-      "abstract": "<h4>Introduction</h4>Patients undergoing pancreatic cancer surgery frequently experience severe postoperative pain and a high prevalence of depression. Esketamine, an N-methyl-D-aspartate (NMDA) receptor antagonist, offers rapid-onset analgesic and antidepressant properties, yet its efficacy in this high-risk population remains unknown. We hypothesize that intraoperative esketamine infusion improves multidimensional analgesic benefit and reduces postoperative depression compared with placebo.<h4>Patients and methods</h4>This prospective, multicenter, randomized, double-blind, placebo-controlled trial will be conducted at three tertiary hospitals in China. We will enroll 280 adult patients (aged 18-80 years, ASA physical status I-III) undergoing elective pancreatectomy for pancreatic cancer. Participants will be randomized (1:1) to receive either intraoperative intravenous esketamine (0.15 mg/kg/h, maximum 0.6 mg/kg over 4 h) or volume-matched 0.9% saline, stratified by center and surgical approach (open vs. laparoscopic). The co-primary endpoints are (1) the Overall Benefit of Analgesia Score at 24 h postoperatively and (2) the incidence of moderate-to-severe depression (Patient Health Questionnaire-9 ≥ 10) at 7 days postoperatively. A two-sided significance level is α = 0.025 for each primary endpoint with Bonferroni correction. Secondary endpoints include Numerical Rating Scale pain scores and the incidence of moderate-to-severe depression at 1 month and 3 months. Exploratory long-term endpoints are 5-year disease-free and overall survival.<h4>Discussion</h4>This trial will generate high-quality evidence on the use of esketamine as a dual-action perioperative intervention targeting both analgesic quality and psychological outcomes after pancreatic cancer surgery. The findings will inform enhanced recovery after surgery protocols and may provide mechanistic insights into NMDA receptor modulation in perioperative outcomes.<h4>Trial registration</h4>Chinese Clinical Trial Registry (ChiCTR2600119701; registered on March 2, 2026).",
-      "date": "2026-08-27",
-      "authors": [
-        "Chong YZ",
-        "Sun YE",
-        "Ma X"
-      ],
-      "doi": "10.1080/07853890.2026.2722438"
-    },
-    {
       "title": "CZ",
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2018-004480-31/CZ",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-09-11",
+      "date": "2026-09-12",
       "authors": [],
       "doi": ""
     },
@@ -581,7 +451,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2020-005037-32/CZ",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-09-11",
+      "date": "2026-09-12",
       "authors": [],
       "doi": ""
     },
@@ -590,7 +460,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2021-002909-10/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-09-11",
+      "date": "2026-09-12",
       "authors": [],
       "doi": ""
     },
@@ -599,7 +469,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2015-000550-37/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-09-11",
+      "date": "2026-09-12",
       "authors": [],
       "doi": ""
     },
@@ -608,7 +478,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2021-000041-40/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-09-11",
+      "date": "2026-09-12",
       "authors": [],
       "doi": ""
     },
@@ -617,7 +487,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2020-000829-55/DK",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-09-11",
+      "date": "2026-09-12",
       "authors": [],
       "doi": ""
     },
@@ -626,7 +496,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2020-002790-94/SE",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-09-11",
+      "date": "2026-09-12",
       "authors": [],
       "doi": ""
     },
@@ -635,7 +505,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2021-006200-33/FI",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-09-11",
+      "date": "2026-09-12",
       "authors": [],
       "doi": ""
     },
@@ -644,7 +514,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2019-004812-73/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-09-11",
+      "date": "2026-09-12",
       "authors": [],
       "doi": ""
     },
@@ -653,9 +523,132 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2022-002369-14/BE",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-09-11",
+      "date": "2026-09-12",
       "authors": [],
       "doi": ""
+    },
+    {
+      "title": "Blinding integrity in psychedelic research: Evidence from a comparative randomized controlled trial of psilocybin, MDMA, and methylphenidate in healthy volunteers",
+      "url": "https://doi.org/10.1016/j.euroneuro.2026.112879",
+      "source": "OpenAIRE",
+      "abstract": "Maintaining effective blinding is a major methodological challenge in psychedelic research. This study provides a comprehensive evaluation of blinding integrity in 120 healthy volunteers who received either psilocybin, MDMA, or methylphenidate (active placebo) in a double-blind, randomized controlled trial. Using a multi-level assessment incorporating forced-choice substance guesses, certainty ratings, decision factors, and subjective substance effects, the analyses characterize blinding integrity and its relation to the substance experience. Results indicate that overall blinding was insufficient, with psilocybin showing the highest rates of functional unblinding, MDMA moderate levels, and methylphenidate the lowest. As an active placebo, methylphenidate provided more effective blinding for MDMA than for psilocybin. Incorporating certainty levels of substance guesses revealed a more differentiated pattern, with lower functional unblinding rates. Decision factors and subjective substance experiences were associated with phenomenological substance effects. Prior substance experiences did not influence accuracy of forced-choice substance guesses. These findings provide empirical guidance for the design and reporting of blinding procedures in psychedelic trials and underscore the value of systematic, multi-level assessment of blinding integrity.",
+      "date": "2026-10-01",
+      "authors": [
+        "L. Belinger",
+        "N.M. Rieser",
+        "E.J.E. Engeli"
+      ],
+      "doi": "10.1016/j.euroneuro.2026.112879"
+    },
+    {
+      "title": "Evaluating psilocybin for the management of depression: a literature review",
+      "url": "https://doi.org/10.12968/bjmh.2025.0020",
+      "source": "OpenAIRE",
+      "abstract": "<jats:sec>                     <jats:title>Background/Aims</jats:title>                     <jats:p>Depression remains a significant public health concern worldwide and many individuals do not achieve adequate symptom relief from conventional treatments such as antidepressants and psychological therapies. Interest has therefore increased in alternative interventions, including psilocybin microdosing. This article aimed to critically review the current evidence regarding the use of psilocybin for managing symptoms of depression and consider the implications for mental health nursing practice.</jats:p>                   </jats:sec>                   <jats:sec>                     <jats:title>Methods</jats:title>                     <jats:p>A narrative literature review was undertaken. Search terms included ‘microdosing’, ‘psilocybin’, ‘psychedelics’, ‘mental health’ and ‘depression’. Studies published in the last 10 years involving human participants were considered. Following screening and application of inclusion and exclusion criteria, five articles with a total of six empirical studies were included in the review.</jats:p>                   </jats:sec>                   <jats:sec>                     <jats:title>Results</jats:title>                     <jats:p>Three themes emerged, including ethical risks and limitations of microdosing, demographic and participant characteristics and the impact of microdosing on mental health. Some studies reported improvements in mood, anx",
+      "date": "2026-08-02",
+      "authors": [
+        "Rachel Sinclair"
+      ],
+      "doi": "10.12968/bjmh.2025.0020"
+    },
+    {
+      "title": "Psychedelic and Medicinal Mushrooms: Potent Source of Active Metabolites and Medicines",
+      "url": "https://doi.org/10.2174/0115734072383313250602052217",
+      "source": "OpenAIRE",
+      "abstract": "<jats:sec>                     <jats:title>Background:</jats:title>                     <jats:p>Mushrooms, usually used for their nutritional and culinary properties, have recently gained attention for their medicinal effects, so that they are not only used as dietary foods but also as mycotherapeutics, nutraceuticals, and food supplements.</jats:p>                   </jats:sec>                   <jats:sec>                     <jats:title>Objective:</jats:title>                     <jats:p>The aim of this study is therefore to educate readers about various mushrooms with medicinal benefits. Methodology: A large number of English-language publications from different databases were analysed for this purpose.</jats:p>                   </jats:sec>                   <jats:sec>                     <jats:title>Results and Discussion:</jats:title>                     <jats:p>Medicinal mushrooms have been attributed various biological properties, e.g. prebiotic, antihyperlipidaemic, anti-allergic, antioxidant, anticancer, hepatoprotective, antioxidant, cytotoxic, antidiabetic, immunomodulatory, anti-inflammatory, and antimicrobial. These properties are due to the presence of various bioactive compounds presentin the mycelium and fruiting bodies. The biological effects of these bioactive compounds vary according to their chemical nature, and their distribution varies according to the type of mushroom. Psilocybin-containing mushrooms have been consumed in different parts of the world f",
+      "date": "2026-08-01",
+      "authors": [
+        "Priya Chaudhary",
+        "Pracheta Janmeda"
+      ],
+      "doi": "10.2174/0115734072383313250602052217"
+    },
+    {
+      "title": "The role of therapeutic alliance in psilocybin treatment for treatment-resistant depression: A post hoc path analysis",
+      "url": "https://doi.org/10.1016/j.jad.2026.121662",
+      "source": "OpenAIRE",
+      "abstract": "<p>Introduction The contribution of patient support to psilocybin's antidepressant effects remains uncertain. Methods Relationships between therapeutic alliance (Scale to Assess Therapeutic Relationship-Patient version; STAR-P), psychedelic experience (Five-Dimensional Altered States of Consciousness Questionnaire and Emotional Breakthrough Inventory; 5D-ASC and EBI) and clinical outcomes (Montgomery-Åsberg Depression Rating Scale; MADRS) were explored using correlation and path analysis for individuals with treatment-resistant depression receiving 25 mg psilocybin with monitoring and support ( N = 79). Results Change from Baseline to Week 3 MADRS scores showed weaker correlations with pre-dosing therapeutic alliance (−0.178) than with measures of the psychedelic experience: EBI (−0.637), Oceanic Boundlessness (−0.508), and Visual Restructuralization (−0.516). Path analysis showed no nominally significant direct effects of therapeutic alliance on Week 3 MADRS scores, but there were nominally significant effects of therapeutic alliance on psychedelic experience (Oceanic Boundlessness ( β = 0.28), Visual Restructuralization ( β = 0.27), and Auditory Alterations ( β = 0.25)). Only one indirect effect of therapeutic alliance on clinical outcome reached nominal significance (via Visual Restructuralization; β = −0.15). Stronger effects were seen on clinical outcomes for psychedelic experience (EBI ( β = −0.59), Oceanic Boundlessness ( β = −0.53), Visual Restructuralization ( β = −0",
+      "date": "2026-08-01",
+      "authors": [
+        "Goodwin, Guy M.",
+        "Aaronson, Scott T.",
+        "Alvarez, Oscar"
+      ],
+      "doi": "10.1016/j.jad.2026.121662"
+    },
+    {
+      "title": "A cross-national comparison of nonmedical and medical use of psychedelic drugs in the international cannabis policy study",
+      "url": "https://doi.org/10.1016/j.drugpo.2026.105348",
+      "source": "OpenAIRE",
+      "abstract": "Background We know little about the extent psychedelic substances are consumed therapeutically and/or discussed with medical professionals despite renewed global interest in these substances. Methods We examined self-reported responses from the 2023 International Cannabis Policy Study (ICPS) in repeated cross-sectional surveys in Canada, the United States, Australia, and New Zealand. The survey included questions on lifetime, past year, and past month use of psilocybin, LSD, MDMA, and ketamine. It inquired about respondents’ discussions with medical professionals, their self-reported medical use, and related adverse events. We estimate the mean proportion rate for each of these using logistic regression methods that adjust for demographics, country, and sampling weights. Findings Estimated results suggest nineteen per cent of all ICPS respondents reported lifetime use of one of the four substances. Psilocybin was the most commonly estimated to be used in one’s lifetime and in the past year, followed by LSD and MDMA. Estimated prevalences of ever using psilocybin were higher among respondents from Canada (16.3%, CI: 15.6–16.9%) than the USA (13.0%, CI: 12.3–13.6%) and New Zealand (12.1%, CI: 10.4–13.8%). Estimated rates of psilocybin ever use in Australia were significantly lower (7.8%, CI: 6.8–8.8%). An estimated 10–20% of respondents who report ever-use of a psychedelic asked their medical provider about medical use, and over a third who had used in the past year reported ex",
+      "date": "2026-08-01",
+      "authors": [
+        "Myfanwy Graham",
+        "Yimin Ge",
+        "Rosalie Liccardo Pacula"
+      ],
+      "doi": "10.1016/j.drugpo.2026.105348"
+    },
+    {
+      "title": "The Experience-Trajectory Framework: Substance-Specific Risk Stratification for Psychedelic Preparation and Aftercare Beyond Set and Setting",
+      "url": "https://doi.org/10.36948/ijfmr.2026.v08i04.84804",
+      "source": "OpenAIRE",
+      "abstract": "<jats:p>Set, setting, preparation, and integration are widely recognized as important dimensions of psychedelic experiences. However, these concepts often remain too general to specify how preparation, containment, and aftercare should differ across substances, routes of administration, acute duration, residual effects, bodily condition, and interaction exposure. This article proposes the Experience-Trajectory Framework for psychedelic preparation and aftercare. The framework focuses on psilocybin, LSD, mescaline, vaporized N,N-DMT, vaporized 5-MeO-DMT, and ayahuasca or oral DMT combined with monoamine oxidase inhibition. Its central claim is that preparation and aftercare should be stratified by two primary variables: the Experience-Trajectory Profile of the psychedelic state and the participant’s Baseline Risk State before exposure. Experience-Trajectory Profile refers to onset, peak phase, acute duration, residual effects, recovery window, and the earliest appropriate timing for interpretation or integration. Baseline Risk State refers to the participant’s acute physiological and pharmacological condition, including sleep, hydration, cardiovascular stability, gastrointestinal status, glucose stability, psychological stability, and interaction load. This article is a conceptual framework paper, not a clinical protocol or medication-discontinuation guide. It provides a stratification model that links substance-specific experience trajectories with baseline physiological and ",
+      "date": "2026-07-31",
+      "authors": [
+        "Elias Rubenstein"
+      ],
+      "doi": "10.36948/ijfmr.2026.v08i04.84804"
+    },
+    {
+      "title": "Childhood trauma and psychological outcomes following psychedelic use: a scoping review",
+      "url": "https://doi.org/10.1038/s44184-026-00233-2",
+      "source": "OpenAIRE",
+      "abstract": "<jats:title>Abstract</jats:title>                   <jats:p>Research examining psychological outcomes following psychedelic use has grown substantially, yet the role of childhood trauma in shaping these responses remains insufficiently understood. This scoping review mapped the literature examining childhood trauma in relation to post-psychedelic psychological outcomes. Thirty-four sources met inclusion criteria and investigated substances including psilocybin, ayahuasca, and MDMA across clinical, ceremonial, naturalistic, and guided non-clinical contexts. The evidence primarily relied on retrospective self-report, exhibited considerable heterogeneity in study design and trauma operationalisation, and included minimal representation from non-Western or Indigenous contexts. Findings were heterogeneous: some sources reported reductions in trauma-related symptoms in maltreated populations, others found no association between childhood trauma exposure and psychological outcomes, and some identified increased vulnerability to post-acute psychedelic difficulties. Qualitative accounts frequently described resurfacing trauma-related memories accompanied by both psychological growth and distress. Prospective, trauma-informed, and culturally-inclusive research is needed to clarify risks and therapeutic potential for childhood trauma-exposed populations.</jats:p>",
+      "date": "2026-07-30",
+      "authors": [
+        "Lorraine Li",
+        "Paige Seath",
+        "Nadav Liam Modlin"
+      ],
+      "doi": "10.1038/s44184-026-00233-2"
+    },
+    {
+      "title": "Identifying factors that contribute to the behavioral effects of psilocybin in preclinical mouse models",
+      "url": "https://doi.org/10.64898/2026.07.24.740586",
+      "source": "OpenAIRE",
+      "abstract": "<jats:title>ABSTRACT</jats:title>                 <jats:p>Psychedelic drugs offer a potentially promising avenue for novel therapeutics for the treatment of psychiatric conditions, including for mood and anxiety disorders. Emerging clinical studies have prompted increased preclinical research into mechanisms of action. However, post-acute behavioral outcomes in rodents remain inconsistent and difficult to reproduce across laboratories. To address this, we collected a large dataset of behavioral responses to psilocybin in mice (N=693) and used data-driven analyses to identify biological and experimental factors that modulated behavioral readouts. We examined the effects of sex, age, strain, stress protocol, and 5-HT1B signaling on the response to a single high dose of psilocybin measured in acute (head twitch responding and locomotion) or post-acute (sucrose preference, elevated plus maze, novelty-suppressed feeding) behavioral outcomes. We found that psilocybin displays a robust acute behavioral response and a more variable post-acute behavioral profile with a most robust response in sucrose preference. Sex, stress model, and 5-HT1BR activation emerged as key modulators of post-acute antidepressant-like and anxiolytic effects. Random forest classification was narrowly able to predict drug treatment based on post-acute behavioral outcomes and biological and experimental factors. These findings suggest that the heterogeneity seen in the response to psilocybin in mice reflects m",
+      "date": "2026-07-28",
+      "authors": [
+        "Sixtine Fleury",
+        "Luke J. Chang",
+        "Katherine M. Nautiyal"
+      ],
+      "doi": "10.64898/2026.07.24.740586"
+    },
+    {
+      "title": "The “dark magic mushroom” co-produces amatoxins and psilocybin",
+      "url": "https://doi.org/10.64898/2026.07.17.739257",
+      "source": "OpenAIRE",
+      "abstract": "<jats:title>Abstract</jats:title>                 <jats:p>                   The most famous chemicals produced by mushrooms are the psychedelic compound psilocybin from “magic mushrooms” and amatoxins from deadly poisonous mushrooms. These compounds are known to occur in multiple phylogenetically disjunct fungal lineages but have never been shown to co-occur within a single species. Here we show that the “dark magic mushroom”                   <jats:italic>Galerina indica</jats:italic>                   produces both psilocybin and amatoxins. Mass spectrometry revealed psilocybin and amatoxins in mushroom tissues, and genomic analyses identified corresponding biosynthetic genes. Phylogenetic analyses suggest that                   <jats:italic>G. indica</jats:italic>                   acquired psilocybin biosynthesis via horizontal gene transfer after amatoxin biosynthesis was already established, and that psilocybin biosynthesis was acquired twice independently within                   <jats:italic>Galerina</jats:italic>                   . Intriguingly, acquisition of psilocybin biosynthesis in                   <jats:italic>G. indica</jats:italic>                   may have coincided with reduced amatoxin potency. These findings reveal how horizontal gene transfer can combine powerful bioactive systems in a single species, potentially altering the ecological roles of both compound classes and the evolutionary fitness of the species.                 </jats:p>",
+      "date": "2026-07-22",
+      "authors": [
+        "Andrew R. Kunik",
+        "Michael W. Christopher",
+        "Benjamin Lemmond"
+      ],
+      "doi": "10.64898/2026.07.17.739257"
+    },
+    {
+      "title": "Predictive Processing, Psychedelic Spirituality, and Neurophenomenology",
+      "url": "https://doi.org/10.1093/oxfordhb/9780192844064.013.41",
+      "source": "OpenAIRE",
+      "abstract": "<jats:title>Abstract</jats:title>                   <jats:p>Psychedelic substances such as psilocybin, LSD, ayahuasca, DMT, or mescaline, when employed with knowledge and skill, can sometimes lead to profoundly meaningful and transformative subjective experiences. This chapter discusses how the predictive processing theory can further our understanding of these deeply meaningful spiritual psychedelic experience. It makes a more specific proposal that the predictive processing theory of psychedelics can contribute to the neurophenomenology research program. The chapter proposes that phenomenological reflection on the psychedelic experience can be used as a method by subjects for providing first-person descriptions of how the different phenomenological structures of their experience are altered during, and after, their acute psychedelic experience. What predictive processing adds is a further mathematical way of knowing consciousness that can serve as a neutral vocabulary for creating generative passages between neurobiology and phenomenology that allows neuroscientists to make sense of how psychedelics perturb the structures of first-person experience in ways that can lead to profoundly meaningful spiritual experiences.</jats:p>",
+      "date": "2026-07-22",
+      "authors": [
+        "Julian Kiverstein"
+      ],
+      "doi": "10.1093/oxfordhb/9780192844064.013.41"
     }
   ]
 }

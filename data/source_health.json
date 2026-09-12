@@ -3,13 +3,13 @@
     "PubMed": {
       "error_streak": 0,
       "zero_streak": 0,
-      "last_ok": "2026-09-11",
+      "last_ok": "2026-09-12",
       "alerted": false,
       "last_error": ""
     },
     "Semantic Scholar": {
       "error_streak": 0,
-      "zero_streak": 70,
+      "zero_streak": 71,
       "last_ok": "",
       "alerted": false,
       "last_error": ""
@@ -17,38 +17,38 @@
     "Psychedelic Alpha": {
       "error_streak": 0,
       "zero_streak": 0,
-      "last_ok": "2026-09-11",
+      "last_ok": "2026-09-12",
       "alerted": false,
       "last_error": ""
     },
     "DiVA": {
       "error_streak": 0,
       "zero_streak": 0,
-      "last_ok": "2026-09-11",
+      "last_ok": "2026-09-12",
       "alerted": false,
       "last_error": ""
     },
     "Europe PMC": {
-      "error_streak": 0,
-      "zero_streak": 0,
+      "error_streak": 1,
+      "zero_streak": 1,
       "last_ok": "2026-09-11",
       "alerted": false,
-      "last_error": ""
+      "last_error": "503 Server Error: Service Temporarily Unavailable for url: https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=psilocybin+OR+psychedelic+OR+MDMA+OR+ayahuasca+OR+ketamine&resultType=core&pageSize=10&format=json&sort=P_PDATE_D%20desc"
     },
     "EU Clinical Trials Register": {
       "error_streak": 0,
       "zero_streak": 0,
-      "last_ok": "2026-09-11",
+      "last_ok": "2026-09-12",
       "alerted": false,
       "last_error": ""
     },
     "OpenAIRE": {
-      "error_streak": 1,
-      "zero_streak": 1,
-      "last_ok": "2026-09-10",
+      "error_streak": 0,
+      "zero_streak": 0,
+      "last_ok": "2026-09-12",
       "alerted": false,
-      "last_error": "HTTPSConnectionPool(host='api.openaire.eu', port=443): Read timed out. (read timeout=30)"
+      "last_error": ""
     }
   },
-  "last_updated": "2026-09-11T10:35:24.048111+00:00"
+  "last_updated": "2026-09-12T10:03:28.782130+00:00"
 }

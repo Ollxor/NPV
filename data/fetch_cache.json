@@ -1,7 +1,20 @@
 {
-  "date": "2026-09-12",
-  "cached_at": "2026-09-12T10:03:28.782412+00:00",
+  "date": "2026-09-13",
+  "cached_at": "2026-09-13T11:03:58.540327+00:00",
   "articles": [
+    {
+      "title": "Beyond symptom reduction: Intranasal esketamine is associated with improved quality of life in treatment-resistant depression.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42731235/",
+      "source": "PubMed",
+      "abstract": "Treatment-resistant depression (TRD) is associated with severe functional impairment, poor quality of life, and increased suicide risk. This study evaluated the effectiveness of intranasal esketamine on depressive symptoms, hopelessness, suicidal ideation, and quality of life in patients with TRD, exploring whether outcomes differed according to concomitant antidepressant class (SSRI vs. SNRI). Thirty-five outpatients with TRD received intranasal esketamine combined with an oral antidepressant. Assessments were conducted at baseline, 3 months, and 6 months using the Montgomery-Åsberg Depression Rating Scale (MADRS), Beck Depression Inventory-II (BDI-II), Beck Hopelessness Scale (BHS), Columbia-Suicide Severity Rating Scale (C-SSRS), and Quality of Life Enjoyment and Satisfaction Questionnaire (Q-LES-Q). Mixed Models for Repeated Measures and Generalized Estimating Equations were applied. Significant improvements over time were observed in depressive symptoms, hopelessness, and quality of life as measured by the Q-LES-Q (all p < .001). Suicidal ideation significantly decreased during follow-up (p = .025). Improvement in Q-LES-Q scores exceeded the threshold for clinical meaningfulness. No significant differences emerged between SSRI and SNRI subgroups across outcome measures. Intranasal esketamine was associated with significant improvements in depressive symptoms, hopelessness, suicidal ideation, and quality of life over 6 months in patients with TRD, with no statistically significant differences detected across antidepressant subgroups in this exploratory comparison.",
+      "date": "2026-09-07",
+      "authors": [
+        "Pompili Maurizio",
+        "Sarubbi Salvatore",
+        "Di Biase Giulia"
+      ],
+      "doi": "10.1016/j.jpsychires.2026.09.005"
+    },
     {
       "title": "Characterizing Psychedelic-Evoked Familiarity: A Comparative Study with Autobiographical and Déjà Vu Experiences.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42725633/",
@@ -246,18 +259,6 @@
       "doi": "10.1080/15622975.2026.2724510"
     },
     {
-      "title": "Psilocybin as an emerging anxiolytic: mechanisms, evidence, and open questions.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42701111/",
-      "source": "PubMed",
-      "abstract": "",
-      "date": "2026-09-06",
-      "authors": [
-        "Konstantinou Gerasimos N",
-        "Kloiber Stefan"
-      ],
-      "doi": "10.1038/s41386-026-02551-7"
-    },
-    {
       "title": "Approvals to Access: A Crude Schematic",
       "url": "https://psychedelicalpha.com/news/approval-to-access-a-crude-schematic/",
       "source": "Psychedelic Alpha",
@@ -438,11 +439,141 @@
       "doi": ""
     },
     {
+      "title": "Update on Sedation for Upper Gastrointestinal Endoscopy in Japan: Current Evidence on Remimazolam.",
+      "url": "https://doi.org/10.1002/deo2.70402",
+      "source": "Europe PMC",
+      "abstract": "Sedation is an essential component of upper gastrointestinal endoscopy because it reduces patient discomfort and anxiety while improving patient acceptance and procedural quality. In Japan, benzodiazepines such as midazolam and opioid analgesics have long been widely used in routine clinical practice; however, many of these agents historically lacked formal insurance approval for sedation during gastrointestinal endoscopy. Propofol is also a useful sedative because of its rapid onset and recovery, but its use in Japan has been limited because of concerns regarding respiratory and cardiovascular depression and the need for management by anesthesia-trained personnel. Against this background, the approval of remimazolam for sedation during gastrointestinal endoscopy in June 2025 represented a major turning point in Japanese endoscopic sedation practice. Remimazolam is an ultra-short-acting benzodiazepine rapidly metabolized by carboxylesterases and reversible with flumazenil. Japanese phase III trials demonstrated high sedation success rates and rapid recovery during upper gastrointestinal endoscopy, including in elderly patients. Compared with midazolam, remimazolam shortened awakening and ambulation times, whereas compared with propofol, it may cause fewer respiratory and cardiovascular adverse events. This review summarizes the current status of upper gastrointestinal endoscopic sedation in Japan, focusing on the clinical evidence and positioning of the newly approved ultra-short-acting benzodiazepine, remimazolam.",
+      "date": "2026-08-12",
+      "authors": [
+        "Ichijima R",
+        "Toyama M",
+        "Shishido T"
+      ],
+      "doi": "10.1002/deo2.70402"
+    },
+    {
+      "title": "Preclinical evaluation of PSMA-targeted ultrasound contrast agents in an orthotopic model of prostate cancer in rabbits.",
+      "url": "https://doi.org/10.1016/j.bioactmat.2026.07.040",
+      "source": "Europe PMC",
+      "abstract": "The localization of prostate cancer by ultrasound remains limited by the lack of B-mode conspicuity and the confinement of clinically approved microbubbles (MBs) to the vasculature. This precludes differentiating viable tumor, necrotic tissue, and margin-associated disease. We investigated prostate-specific membrane antigen (PSMA)-targeted lipid-shelled perfluorocarbon nanobubbles (PSMA-NBs) in an orthotopic rabbit model using a clinical contrast-enhanced ultrasound (CEUS) system. We implanted PSMA-positive PC3pip-GFP tumors into the prostates of immunosuppressed New Zealand White rabbits and performed transabdominal imaging with PSMA-NBs, MBs, and Plain-NBs using identical protocols. To address tumor heterogeneity and ultrasound boundary ambiguity, regions of interest were defined from baseline B-mode images and segmented into the tumor core, rim, and a peritumoral area. Pixel-wise parametric and decorrelation time (DT) maps were generated and compared with whole-slide histology (H&E) and, in an exploratory and non-specific analysis, with PSMA IHC. Compared to MBs at the doses used, PSMA-NBs exhibited higher peak intensities in the tumor core and rim (1.60-fold and 1.50-fold, respectively) and improved retention (mean transit time [MTT]: 4.20 to 5.40-fold higher) for up to 10 min in the tumor and peritumoral areas. In an exploratory analysis constrained by cohort size, PSMA-NB kinetics, notably MTT, tracked histology-defined tumor viability, and DT mapping showed spatially heterogeneous retention at the tumor periphery. Compared to Plain-NBs, PSMA-NBs also exhibited improved retention (MTT +21% overall) in the rim and peritumoral areas. This study demonstrates the potential of PSMA-NBs to characterize prostate cancer by molecularly targeted CEUS beyond that achieved with MBs at the doses used.",
+      "date": "2026-08-11",
+      "authors": [
+        "Berg FM",
+        "Abenojar EC",
+        "Nittayacharn P"
+      ],
+      "doi": "10.1016/j.bioactmat.2026.07.040"
+    },
+    {
+      "title": "Long-term exploratory evaluation of an acellular biomimetic polyfascicular nerve guidance conduit for peripheral nerve repair in a rhesus macaque model.",
+      "url": "https://doi.org/10.1016/j.bioactmat.2026.07.035",
+      "source": "Europe PMC",
+      "abstract": "Peripheral nerve injury (PNI) affects millions worldwide, yet currently approved nerve guidance conduits (NGCs) have limited ability to recapitulate the native fascicular architecture that supports organized axonal regeneration. Here, we present an acellular biomimetic multi-fascicle NGC (MFNGC) constructed by integrating electrospun poly(L-lactide-co-ε-caprolactone) (PLCL) membranes with visible-light-crosslinked gelatin hydrogel guide structures, without cells or exogenous growth factors. The MFNGC incorporates three inner conduits mimicking perineurial fascicles enclosed within an epineurium-like outer conduit, approximating key architectural features of the native median nerve in rhesus macaques. In a 12-month exploratory follow-up study using a 15-mm median nerve defect model in three rhesus macaques (<i>Macaca mulatta</i>), the MFNGC showed evidence of functional and histological nerve regeneration, as assessed by compound muscle action potential (CMAP), hand dexterity using pellet clearance test, motor dysfunction scoring, thenar muscle preservation, and axonal remyelination. Nerves regenerated within the MFNGC exhibited organized multi-fascicular tissue formation resembling native nerve architecture, and the conduit showed substantial <i>in vivo</i> degradation, as indicated by a 94% reduction in PLCL molecular weight without obvious chronic inflammatory response at the 12-month endpoint. Although limited by the small number of NHP, this study provides exploratory preclinical evidence supporting further evaluation of an acellular polyfascicular NGC for peripheral nerve regeneration.",
+      "date": "2026-08-04",
+      "authors": [
+        "Kim YJ",
+        "Choi IC",
+        "Cho J"
+      ],
+      "doi": "10.1016/j.bioactmat.2026.07.035"
+    },
+    {
+      "title": "Impact of Mild Traumatic Brain Injury (mTBI) on CYP2D6 Activity and the Restorative Effects of Melatonin and Vitamin C Supplementation.",
+      "url": "https://doi.org/10.5812/ijpr-164903",
+      "source": "Europe PMC",
+      "abstract": "<h4>Background</h4>Mild traumatic brain injury (mTBI) may disrupt hepatic cytochrome P-450 enzyme activity, potentially altering drug pharmacokinetics.<h4>Objectives</h4>This study investigated the impact of mTBI on CYP2D6 activity and the restorative effects of melatonin and vitamin C supplementation.<h4>Methods</h4>Mild traumatic brain injury was induced in rats using a modified weight-drop model, which were then assigned to treatment or control groups. CYP2D6 activity was assessed at multiple time points post-injury using metabolic ratios of tramadol and mirtazapine through isolated liver perfusion. All experimental procedures were conducted with the investigator blinded to group assignments.<h4>Results</h4>Mild traumatic brain injury significantly suppressed CYP2D6 activity on day 3, with partial recovery by day 7. While tramadol metabolism normalized by day 28, mirtazapine metabolism remained impaired in non-supplemented groups. Supplementation accelerated CYP2D6 recovery, showing statistically significant change by day 7. By day 28, supplemented groups exhibited metabolic ratios surpassing baseline levels.<h4>Conclusions</h4>Mild traumatic brain injury induces transient suppression of CYP2D6 activity, which was attenuated in antioxidant-treated groups in this preclinical model. Further studies are needed to explore the clinical relevance of these findings.",
+      "date": "2026-02-08",
+      "authors": [
+        "Berenjian K",
+        "Gholipour Z",
+        "Khoshayand M"
+      ],
+      "doi": "10.5812/ijpr-164903"
+    },
+    {
+      "title": "Effects of Esketamine on Postoperative Hospital Anxiety and Depression Scale Scores in Patients Undergoing Laparoscopic Radical Resection for Colorectal Cancer.",
+      "url": "https://doi.org/10.1080/08941939.2026.2712673",
+      "source": "Europe PMC",
+      "abstract": "<h4>Objective</h4>To investigate the effects of intravenous esketamine on postoperative Hospital Anxiety and Depression Scale (HADS) scores in patients undergoing laparoscopic radical resection for colorectal cancer.<h4>Methods</h4>In this prospective, randomized, placebo-controlled study, adult patients for elective laparoscopic radical resection were randomly assigned (1:1) to a control group (group C) or an esketamine group (group PE). Group C received conventional general anesthesia and patient-controlled intravenous analgesia (PCIA). In group PE, esketamine 0.5 mg/kg was injected during induction of anesthesia, with esketamine 1 mg/kg added to PCIA. Primary outcome was HADS score on postoperative day 1. Secondary outcomes included HADS scores on postoperative days 3 and 7, sleep quality scores, postoperative level of consciousness, complication rate, length of hospital stay, 24 h inflammatory factors, and satisfaction scores.<h4>Results</h4>Group PE showed significantly lower HADS-A and HADS-D scores on postoperative days 1 and 3 , reduced 24 h interleukin-6 (IL-6) leveland higher patient satisfaction compared with group C (all <i>p</i> < 0.05).<h4>Conclusions</h4>Esketamine given during induction and in PCIA reduced early-stage postoperative HADS scores and improved patient satisfaction in colorectal cancer patients.",
+      "date": "2026-09-11",
+      "authors": [
+        "He L",
+        "Sun Z",
+        "Guo Q"
+      ],
+      "doi": "10.1080/08941939.2026.2712673"
+    },
+    {
+      "title": "Oscillatory activity and LFP power modulation in the hippocampal CA1 and prelimbic cortex during morphine-induced place preference.",
+      "url": "https://doi.org/10.1016/j.ibneur.2026.08.018",
+      "source": "Europe PMC",
+      "abstract": "Morphine use disorder (MUD) is a complex neurobiological condition characterized by the reinforcement of addictive behaviors and the development of both psychological and physical dependence. The euphoric effects induced by morphine are mediated by key brain regions, including the CA1 region of the hippocampus and the prelimbic cortex (PrL). This study investigates the neural dynamics underlying morphine's effects on reward processing by examining local field potentials (LFP) in the CA1 and PrL regions during morphine-induced conditioned place preference (CPP). LFP recordings from male Wistar rats reveal significant changes in oscillatory activity in response to morphine administration during both the conditioning and reinstatement phases of the CPP paradigm. Specifically, morphine enhanced theta and high-gamma power in the CA1 region, reflecting increased hippocampal activity associated with drug-reward memory. Additionally, coherence between the CA1 and PrL regions in the theta frequency band was significantly altered, suggesting enhanced communication between these areas during drug craving behavior. These findings underscore the role of neural oscillations, particularly in the theta band, in morphine-induced reward memory formation and the reinstatement of drug-seeking behavior. This research provides insights into the neurophysiological mechanisms of MUD and highlights potential targets for developing therapeutic strategies aimed at addiction treatment.",
+      "date": "2026-08-22",
+      "authors": [
+        "Moshrefi F",
+        "Farrokhi AM",
+        "Karimian-Sani-Varjovi H"
+      ],
+      "doi": "10.1016/j.ibneur.2026.08.018"
+    },
+    {
+      "title": "Esketamine vs. sufentanil for quality of recovery after outpatient gynecological surgery: a randomized clinical trial.",
+      "url": "https://doi.org/10.1080/07853890.2026.2723715",
+      "source": "Europe PMC",
+      "abstract": "<h4>Background</h4>Perioperative administration of esketamine has been reported to improve early quality of recovery (QoR). However, data on its effects in outpatient surgery are limited. This study aimed to assess the impact of esketamine on QoR in patients undergoing outpatient gynecological procedures.<h4>Methods</h4>In this investigator-initiated, double-blind, randomized clinical trial, patients aged 18-65 years scheduled for outpatient gynecological surgery under sedation were allocated to receive esketamine (0.2 mg/kg) or sufentanil (0.1 μg/kg) combined with propofol (1.5-3 mg/kg). The primary outcome was quality of recovery on postoperative day (POD) 1. Secondary outcomes included quality of recovery on POD2, sedation success rate, length of post-anesthesia care unit (PACU) stay, injection pain, postoperative pain, nausea and vomiting, fatigue, patient and clinician satisfaction, sleep quality, and anxiety and depression.<h4>Results</h4>A total of 126 patients were randomized, with 63 assigned to the esketamine group and 63 to the sufentanil group. Of these, 125 patients were included in the final analysis (62 in the esketamine group and 63 in the sufentanil group), as one patient lacked follow-up data. The mean (SD) QoR-15 score on POD1 was 137.9 (14.5) in the esketamine group and 137.8 (10.7) in the sufentanil group, with no significant difference between groups (absolute difference, 0.2; 95% CI, -4.2 to 4.6; <i>p</i> = 0.93). For secondary outcomes, the esketamine group had a longer PACU stay (median, 28.0 vs. 23.0 min; <i>p</i> < 0.001), a lower incidence of severe injection pain (22.6% vs. 50.8%; <i>p</i> = 0.002), a higher proportion of patients with pain scores ≥ 4 at 30 min postoperatively (30.6% vs. 6.3%; <i>p</i> = 0.001), and higher fatigue scores (median, 3.0 vs. 2.0; <i>p</i> = 0.01). Other secondary outcomes did not differ significantly between groups.<h4>Conclusion</h4>Among patients undergoing sedation for outpatient gynecological procedures, esketamine did not significantly improve quality of recovery on POD1 compared to sufentanil.<h4>Trial registration</h4>Chinese Clinical Trial Registry, ChiCTR2500098466.",
+      "date": "2026-09-04",
+      "authors": [
+        "Wang XL",
+        "Li YN",
+        "Ma QL"
+      ],
+      "doi": "10.1080/07853890.2026.2723715"
+    },
+    {
+      "title": "Sprayable NIR/pH-responsive NSC/PF127 hydrogel loaded with MoO₂, ciprofloxacin, and FGF-2 for enhanced antibacterial and pro-regenerative infected wound healing.",
+      "url": "https://doi.org/10.1080/10717544.2026.2719063",
+      "source": "Europe PMC",
+      "abstract": "Infected wounds represent a significant clinical burden owing to persistent infection, excessive inflammation, and impaired tissue regeneration. To overcome these limitations, we developed a sprayable <i>N</i>-succinyl chitosan/Pluronic F127 (NSC/PF127) hydrogel incorporating MoO₂ nanoparticles, ciprofloxacin, and fibroblast growth factor-2 (FGF-2). At body temperature, the hydrogel rapidly transitions from a solution to a gel and responds to both pH changes and near-infrared (NIR) irradiation. MoO₂ exhibits NIR-mediated photothermal activity, while CIP and FGF-2 are released in a sustained and pH-dependent manner, thereby maintaining antibacterial efficacy and growth factor bioactivity. <i>In vitro</i> studies demonstrated excellent cytocompatibility and significantly enhanced fibroblast and keratinocyte migration. The combined photothermal effect and antibiotic therapy effectively suppressed bacterial growth and disrupted established biofilms. In a rat model of <i>Staphylococcus aureus</i>-infected full-thickness wounds, the hydrogel composite significantly accelerated healing, reduced inflammation, promoted collagen deposition and angiogenesis, and enhanced tissue regeneration. Biochemical and gene expression analyses further indicated reduced oxidative stress and improved tissue regeneration. This multifunctional, sprayable hydrogel combines targeted antibacterial action with sustained pro-regenerative signaling, offering a promising strategy for further preclinical investigations of infected wound management.",
+      "date": "2026-09-03",
+      "authors": [
+        "Li Z",
+        "Lei M",
+        "Chen C"
+      ],
+      "doi": "10.1080/10717544.2026.2719063"
+    },
+    {
+      "title": "Cardiotoxicological assessment of crocin-coated silver nanoparticles in an experimental rat model.",
+      "url": "https://doi.org/10.1016/j.toxrep.2026.102333",
+      "source": "Europe PMC",
+      "abstract": "Silver nanoparticles (AgNPs) are widely used for various industrial and biomedical applications; however, their potential cardiotoxicity remains insufficiently understood and requires further investigation. We evaluated the cardiotoxic effects of AgNPs and crocin-coated AgNPs (CR-AgNPs) administered at doses of 20, 40, and 80 µg/kg in male Wistar rats. Forty-two rats were randomly allocated to seven groups as follows: The groups included a control group (normal saline), three AgNPs-treated groups (20, 40, and 80 µg/kg), and three crocin-coated AgNPs-treated groups (20, 40, and 80 µg/kg), all of which received treatment via oral gavage for 30 days. At the end of the experiment, the animals were anesthetized with ketamine and xylazine, and blood samples and cardiac tissues were collected for biochemical and histopathological analyses. Our findings showed that malondialdehyde (MDA) levels were significantly increased in the AgNPs 80 group compared with the control group. In addition, administration of CR-AgNPs at 80 µg/kg significantly reduced MDA levels compared with the AgNPs 80 group. Histopathological examination confirmed the toxic effect of AgNPs at 80 µg/kg, as evidenced by mild interstitial edema and localized separation of myocardial muscle fibers. In conclusion, these findings suggest that CR-AgNPs may represent a safer alternative for pharmaceutical applications by reducing the risk of subacute cardiotoxicity in experimental animals. Further investigations are required to provide additional evidence in this field.",
+      "date": "2026-08-21",
+      "authors": [
+        "Ziaaldini MAA",
+        "Fakhrtaha T",
+        "Samarghandian S"
+      ],
+      "doi": "10.1016/j.toxrep.2026.102333"
+    },
+    {
+      "title": "SRT1720-loaded exosome-mimetic nanovesicles promote mitophagy via SIRT1/PARKIN activation to ameliorate diabetic cerebral infarction in a preclinical rat model.",
+      "url": "https://doi.org/10.1016/j.ijpx.2026.100639",
+      "source": "Europe PMC",
+      "abstract": "Mitochondrial dysfunction and impaired mitophagy-a key event in diabetic hyperglycemia-aggravated ischemic injury - lead to accumulation of dysfunctional mitochondria and neuronal apoptosis, which are vital processes involved in diabetic cerebral infarction (DCI). Herein, we developed SRT1720-loaded exosome-mimetic nanovesicles (SRT1720@M) to leverage the potential of SIRT1/PARKIN pathway activation to inhibit these processes and counteract DCI. The lipid fusion approach was used to fabricate exosome-loaded SRT1720@M. The properties of SRT1720@M were established by employing UV-Vis, transmission electron microscopy (TEM), dynamic light scattering, and Fourier-transform infrared (FTIR) spectroscopy. Oxygen-glucose deprivation/reperfusion (OGD/R) and high-glucose (HG)-treated primary hippocampal neurons were used as an in vitro DCI model treated with SRT1720@M. qPCR, Western blotting and immunofluorescence were used for expression analyses, whereas cell viability, phagocytosis, inflammation, and ATP/L-LA levels were assessed by CCK-8, ELISA and TEM. A rat model of DCI was obtained by establishing middle cerebral artery occlusion (MCAO), from which infarct volume, neurological deficits, histopathology, behavioral indexes, and molecular markers were detected. SRT1720@M average size was ∼68 nm, with an encapsulation efficiency of 78.19%, loading capacity of 8.52%, and zeta potential of -54 mV. In vitro, SRT1720@M markedly improved cell viability (<i>P</i> < 0.01), decreased IL-1β, TNF-α, and L-LA, but increased ATP levels, and promoted mitophagy and suppressed inflammatory responses compared with the DCI group. In the DCI model, SRT1720@M improved neurological deficits, reduced infarct volume, and alleviated behavioral disorders by inhibiting apoptosis and inflammation and promoting mitophagy and mitochondrial function through activation of the SIRT1/PARKIN pathway. SRT1720@M alleviates DCI by activating the SIRT1/PARKIN pathway and promoting mitophagy, highlighting its potential as a promising preclinical therapeutic strategy.",
+      "date": "2026-08-13",
+      "authors": [
+        "Huang Q",
+        "Zhao F",
+        "Sun B"
+      ],
+      "doi": "10.1016/j.ijpx.2026.100639"
+    },
+    {
       "title": "CZ",
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2018-004480-31/CZ",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-09-12",
+      "date": "2026-09-13",
       "authors": [],
       "doi": ""
     },
@@ -451,7 +582,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2020-005037-32/CZ",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-09-12",
+      "date": "2026-09-13",
       "authors": [],
       "doi": ""
     },
@@ -460,7 +591,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2021-002909-10/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-09-12",
+      "date": "2026-09-13",
       "authors": [],
       "doi": ""
     },
@@ -469,7 +600,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2015-000550-37/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-09-12",
+      "date": "2026-09-13",
       "authors": [],
       "doi": ""
     },
@@ -478,7 +609,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2021-000041-40/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-09-12",
+      "date": "2026-09-13",
       "authors": [],
       "doi": ""
     },
@@ -487,7 +618,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2020-000829-55/DK",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-09-12",
+      "date": "2026-09-13",
       "authors": [],
       "doi": ""
     },
@@ -496,7 +627,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2020-002790-94/SE",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-09-12",
+      "date": "2026-09-13",
       "authors": [],
       "doi": ""
     },
@@ -505,7 +636,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2021-006200-33/FI",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-09-12",
+      "date": "2026-09-13",
       "authors": [],
       "doi": ""
     },
@@ -514,7 +645,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2019-004812-73/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-09-12",
+      "date": "2026-09-13",
       "authors": [],
       "doi": ""
     },
@@ -523,7 +654,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2022-002369-14/BE",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-09-12",
+      "date": "2026-09-13",
       "authors": [],
       "doi": ""
     },

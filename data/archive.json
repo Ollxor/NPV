@@ -1,6 +1,26 @@
 {
   "items": [
     {
+      "title": "Beyond symptom reduction: Intranasal esketamine is associated with improved quality of life in treatment-resistant depression.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42731235/",
+      "source": "PubMed",
+      "date": "2026-09-07",
+      "authors": [
+        "Pompili Maurizio",
+        "Sarubbi Salvatore",
+        "Di Biase Giulia"
+      ],
+      "doi": "10.1016/j.jpsychires.2026.09.005",
+      "summary_en": "A 6-month study of 35 treatment-resistant depression patients receiving intranasal esketamine plus oral antidepressants showed significant improvements in depressive symptoms, hopelessness, and quality of life (all p<0.001), with suicidal ideation also decreasing (p=0.025). Quality-of-life gains exceeded clinical significance thresholds, with no differences between SSRI and SNRI combinations.",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "observational",
+      "substances": [
+        "ketamine"
+      ],
+      "added_at": "2026-09-13T12:10:38.227698+00:00"
+    },
+    {
       "title": "Characterizing Psychedelic-Evoked Familiarity: A Comparative Study with Autobiographical and Déjà Vu Experiences.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42725633/",
       "source": "PubMed",

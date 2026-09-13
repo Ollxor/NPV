@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-12T11:02:24.428374+00:00",
+  "generated_at": "2026-09-13T12:10:53.115967+00:00",
   "items": [
     {
       "title": "Blinding integrity in psychedelic research: Evidence from a comparative randomized controlled trial of psilocybin, MDMA, and methylphenidate in healthy volunteers",
@@ -329,6 +329,37 @@
         "mdma"
       ],
       "added_at": "2026-09-09T11:38:42.550210+00:00"
+    },
+    {
+      "title": "Beyond symptom reduction: Intranasal esketamine is associated with improved quality of life in treatment-resistant depression.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42731235/",
+      "source": "PubMed",
+      "date": "2026-09-07",
+      "authors": [
+        "Pompili Maurizio",
+        "Sarubbi Salvatore",
+        "Di Biase Giulia"
+      ],
+      "doi": "10.1016/j.jpsychires.2026.09.005",
+      "summaries": {
+        "en": "A 6-month study of 35 treatment-resistant depression patients receiving intranasal esketamine plus oral antidepressants showed significant improvements in depressive symptoms, hopelessness, and quality of life (all p<0.001), with suicidal ideation also decreasing (p=0.025). Quality-of-life gains exceeded clinical significance thresholds, with no differences between SSRI and SNRI combinations.",
+        "sv": "En 6-månaders studie med 35 patienter med behandlingsresistent depression som fick intranasalt esketamin tillsammans med muntlig antidepressiva visade signifikanta förbättringar i depressiva symtom, hopplöshet och livskvalitet (alla p<0,001), med minskad suicidal ideation (p=0,025). Förbättringar i livskvalitet överskred klinisk betydelse, utan skillnader mellan SSRI och SNRI.",
+        "no": "En 6-månaders studie med 35 pasienter med behandlingsresistent depresjon som fikk intranasalt esketamin sammen med oral antidepressiva viste signifikante forbedringer i depressive symptomer, håpløshet og livskvalitet (alle p<0,001), med redusert suicidal ideasjon (p=0,025). Forbedringer i livskvalitet oversteg klinisk betydning, uten forskjeller mellom SSRI og SNRI.",
+        "da": "Et 6-måneders studie med 35 patienter med behandlingsresistent depression, der intranasalt esketamin blev kombineret med oral antidepressiva, viste betydelige forbedringer i depressive symptomer, håbløshed og livskvalitet (alle p<0,001), med reduceret selvmordstanker (p=0,025). Forbedringer i livskvalitet oversteg klinisk signifikans, uden forskelle mellem SSRI og SNRI.",
+        "fi": "6 kuukauden tutkimuksessa 35 hoitoresistentin masennuksen potilasta, jotka saivat intranaasaalista esketamiinia suullisen masennuslääkkeen kanssa, osoitettiin merkittäviä parannuksia masennusoireissa, toivottomuudessa ja elämänlaadun laadussa (kaikki p<0,001), sekä itsemurhapitäisyyden väheneminen (p=0,025). Elämänlaadun paraneminen ylitti kliinisen merkitsevyyden kynnyksen ilman SSRI- ja SNRI-ryhmien välisiä eroja.",
+        "is": "6 mánaða rannsókn með 35 sjúklingum með meðferðarþolna þunglyndi sem fengu intnasalt esketamín ásamt munnlegum þunglyndislyfjaum sýndi marktæk framförningu í þunglyndiseinkennum, einbeitni og lífsgæðum (öll p<0,001), með minnkun sjálfsmorðshugsana (p=0,025). Framförnun í lífsgæðum fór yfir klíníska mikilvægi án munar milli SSRI og SNRI hópa.",
+        "et": "6-kuulise uuringu käigus saadi 35 ravi-resistentse depressiooni patsiendil, kes said intranaasaalset esketamiini suulise antidepressandi kõrvale, märkimisväärne paranemine depressioonisümptomites, aussituses ja elukvaliteedis (kõik p<0,001), lisaks vähenes enesetapumõtted (p=0,025). Elukvaliteedi paranemine ületas kliinilist tähtsust ilma erinevuseta SSRI ja SNRI vahel.",
+        "lv": "6 mēnešu pētījumā ar 35 ārstēšanai rezistentās depresijas pacientiem, kuri saņēma intranazālo esketamīnu kopā ar mutvārdu antidepresantiem, tika novēroti nozīmīgi uzlabojumi depresijas simptomiem, bezjēdzības jūtai un dzīves kvalitātei (visi p<0,001), kā arī samazinājās pašnāvnieciskas ideācijas (p=0,025). Dzīves kvalitātes uzlabojumi pārsniedza klīnisku nozīmīgumu bez atšķirībām starp SSRI un SNRI grupām.",
+        "lt": "6 mėnesių tyrime, kuriame dalyvavo 35 gydymui atsparūs depresija sergantys pacientai, gavę intranasinį esketaminą su peroraliniu antidepresantu, buvo pastebėti reikšmingi pagerinimas depresijos simptomais, beprotybės jausmais ir gyvenimo kokybe (visi p<0,001), taip pat sumažėjo savižudybės ideacija (p=0,025). Gyvenimo kokybės pagerinimas viršijo klininę reikšmę be skirtumų tarp SSRI ir SNRI grupių."
+      },
+      "notable": false,
+      "notable_reasons": null,
+      "relevance_score": 4,
+      "study_type": "observational",
+      "substances": [
+        "ketamine"
+      ],
+      "added_at": "2026-09-13T12:10:38.227698+00:00"
     },
     {
       "title": "Is (S)-norketamine an active mediator of esketamine's antidepressant effects?",
@@ -1931,37 +1962,6 @@
         "psilocybin"
       ],
       "added_at": "2026-09-04T11:32:40.517675+00:00"
-    },
-    {
-      "title": "Psychedelics align brain activity with context.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42618786/",
-      "source": "PubMed",
-      "date": "2026-08-19",
-      "authors": [
-        "Stoliker Devon",
-        "Novelli Leonardo",
-        "Khajehnejad Moein"
-      ],
-      "doi": "10.1038/s41586-026-10910-z",
-      "summaries": {
-        "en": "Study demonstrates that psychedelics reorganize brain connectivity to align neural activity with environmental context. This reorganization underlies the profound alterations in consciousness observed during psychedelic experiences. Research findings suggest mechanisms by which these substances modify information processing across distributed brain networks.",
-        "sv": "Studie visar att psykedelika reorganiserar hjärnans konnektivitet för att anpassa neural aktivitet till miljökontext. Denna omorganisering ligger bakom de djupa förändringarna i medvetande som observeras under psykedeliska upplevelser. Resultaten förklarar mekanismer för hur dessa ämnen modifierar informationsbearbetning i spridda hjärnetnätverk.",
-        "no": "Studie viser at psykedelika reorganiserer hjernens konnektivitet for å justere nevral aktivitet til miljøkontekst. Denne omorganiseringen ligger til grunn for de dype endringene i bevissthet som observeres under psykedeliske opplevelser. Funnene forklarer mekanismer for hvordan disse stoffene modifiserer informasjonsbehandling i spredte hjernenettverk.",
-        "da": "Studie viser, at psykedelika reorganiserer hjernens forbindelser for at tilpasse neural aktivitet til miljøkontekst. Denne reorganisering ligger til grund for de dybe ændringer i bevidsthed, som observeres under psykedeliske oplevelser. Resultaterne forklarer mekanismer for, hvordan disse stoffer modificerer informationsbehandling i distribuerede hjernenetværk.",
-        "fi": "Tutkimus osoittaa, että psykedeelit organisoivat uudelleen aivojen verkkojen yhteyksiä sopeutumaan hermostollisen aktiviteetin ympäristön kontekstiin. Tämä uudelleenorganisaatio selittää psykedeelisten kokemusten aikana havaittavat syvät tietoisuuden muutokset. Tulokset valaisevat mekanismeja, joilla nämä aineet muovaavat tiedon käsittelyä hajautetuissa aivoverkoissa.",
-        "is": "Rannsókn sýnir að geðrofslyf endurskipuleggja tengingar heilans til að samræma taugastarfsemi við umhverfiskostnað. Þessi endurskipulagning útskýrir ítarlegar breytingar á vitund sem sést við geðrofslyfjastarf. Niðurstöður skýra aðferðir sem þessi efni breyta upplýsingavinnslu í dreifðum heila netum.",
-        "et": "Uurimus näitab, et psühhedeelikumid korraldavad ümber aju ühenduste võrke, et kohandada neuraalne aktiivsus keskkonna kontekstiga. See ümberkorraldamine seletab psühhedeelikumide kasutamisel täheldatud sügavaid teadvuse muutusi. Tulemused selgitavad mehhanisme, kuidas need ained muudavad infotöötlust jaotunud ajaruutes.",
-        "lv": "Pētījums parāda, ka psihedeliski savienojumi pārkorrektē smadzeņu savienojumu tīklus, lai saskaņotu neirālo aktivitāti ar vides kontekstu. Šī pārkorrektēšana izskaidro dziļas apziņas izmaiņas, kas novērotas psihedelisko pieredžu laikā. Rezultāti skaidro mehānismus, kā šīs vielas maina informācijas apstrādi izkliedētos smadzeņu tīklos.",
-        "lt": "Tyrimas parodė, kad psichodelikai pervartoja smegenų ryšius, kad suderintų neuroninę aktyvumą su aplinkos kontekstu. Šis persitvarkymas paaiškina gilus sąmonės pokyčius, pastebėtus psichodelinių patirčių metu. Rezultatai atveria mechanizmus, kaip šios medžiagos modifikuoja informacijos apdorojimą paskirstytuose smegenų tinkluose."
-      },
-      "notable": false,
-      "notable_reasons": null,
-      "relevance_score": 4,
-      "study_type": "preclinical",
-      "substances": [
-        "other"
-      ],
-      "added_at": "2026-08-21T07:22:42.288520+00:00"
     }
   ]
 }

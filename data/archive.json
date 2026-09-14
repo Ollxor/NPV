@@ -1,6 +1,27 @@
 {
   "items": [
     {
+      "title": "[The use of psychedelics in psychiatry].",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42732542/",
+      "source": "PubMed",
+      "date": "2026-09-13",
+      "authors": [
+        "Kéri Szabolcs"
+      ],
+      "doi": "10.1556/650.2026.33665",
+      "summary_en": "[The use of psychedelics in psychiatry].",
+      "notable": true,
+      "notable_reason": "Discusses Phase 3 trial outcomes for COMP360 (synthetic psilocybin) meeting primary endpoints and FDA's 2024 MDMA-PTSD approval decline—major regulatory developments in the field.",
+      "study_type": "review",
+      "substances": [
+        "psilocybin",
+        "mdma",
+        "lsd",
+        "ayahuasca"
+      ],
+      "added_at": "2026-09-14T13:07:38.604183+00:00"
+    },
+    {
       "title": "Beyond symptom reduction: Intranasal esketamine is associated with improved quality of life in treatment-resistant depression.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42731235/",
       "source": "PubMed",

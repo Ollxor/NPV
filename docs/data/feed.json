@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-13T12:10:53.115967+00:00",
+  "generated_at": "2026-09-14T13:08:09.794483+00:00",
   "items": [
     {
       "title": "Blinding integrity in psychedelic research: Evidence from a comparative randomized controlled trial of psilocybin, MDMA, and methylphenidate in healthy volunteers",
@@ -32,6 +32,48 @@
         "mdma"
       ],
       "added_at": "2026-07-09T10:03:12.956794+00:00"
+    },
+    {
+      "title": "[The use of psychedelics in psychiatry].",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42732542/",
+      "source": "PubMed",
+      "date": "2026-09-13",
+      "authors": [
+        "Kéri Szabolcs"
+      ],
+      "doi": "10.1556/650.2026.33665",
+      "summaries": {
+        "en": "[The use of psychedelics in psychiatry].",
+        "sv": "[The use of psychedelics in psychiatry].",
+        "no": "[The use of psychedelics in psychiatry].",
+        "da": "[The use of psychedelics in psychiatry].",
+        "fi": "[The use of psychedelics in psychiatry].",
+        "is": "[The use of psychedelics in psychiatry].",
+        "et": "[The use of psychedelics in psychiatry].",
+        "lv": "[The use of psychedelics in psychiatry].",
+        "lt": "[The use of psychedelics in psychiatry]."
+      },
+      "notable": true,
+      "notable_reasons": {
+        "en": "Discusses Phase 3 trial outcomes for COMP360 (synthetic psilocybin) meeting primary endpoints and FDA's 2024 MDMA-PTSD approval decline—major regulatory developments in the field.",
+        "sv": "Discusses Phase 3 trial outcomes for COMP360 (synthetic psilocybin) meeting primary endpoints and FDA's 2024 MDMA-PTSD approval decline—major regulatory developments in the field.",
+        "no": "Discusses Phase 3 trial outcomes for COMP360 (synthetic psilocybin) meeting primary endpoints and FDA's 2024 MDMA-PTSD approval decline—major regulatory developments in the field.",
+        "da": "Discusses Phase 3 trial outcomes for COMP360 (synthetic psilocybin) meeting primary endpoints and FDA's 2024 MDMA-PTSD approval decline—major regulatory developments in the field.",
+        "fi": "Discusses Phase 3 trial outcomes for COMP360 (synthetic psilocybin) meeting primary endpoints and FDA's 2024 MDMA-PTSD approval decline—major regulatory developments in the field.",
+        "is": "Discusses Phase 3 trial outcomes for COMP360 (synthetic psilocybin) meeting primary endpoints and FDA's 2024 MDMA-PTSD approval decline—major regulatory developments in the field.",
+        "et": "Discusses Phase 3 trial outcomes for COMP360 (synthetic psilocybin) meeting primary endpoints and FDA's 2024 MDMA-PTSD approval decline—major regulatory developments in the field.",
+        "lv": "Discusses Phase 3 trial outcomes for COMP360 (synthetic psilocybin) meeting primary endpoints and FDA's 2024 MDMA-PTSD approval decline—major regulatory developments in the field.",
+        "lt": "Discusses Phase 3 trial outcomes for COMP360 (synthetic psilocybin) meeting primary endpoints and FDA's 2024 MDMA-PTSD approval decline—major regulatory developments in the field."
+      },
+      "relevance_score": 5,
+      "study_type": "review",
+      "substances": [
+        "psilocybin",
+        "mdma",
+        "lsd",
+        "ayahuasca"
+      ],
+      "added_at": "2026-09-14T13:07:38.604183+00:00"
     },
     {
       "title": "Characterizing Psychedelic-Evoked Familiarity: A Comparative Study with Autobiographical and Déjà Vu Experiences.",
@@ -1931,37 +1973,6 @@
         "psilocybin"
       ],
       "added_at": "2026-08-21T07:22:42.288520+00:00"
-    },
-    {
-      "title": "The subtle science: a systematic review of psilocybin magic mushroom and truffle microdosing.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42688116/",
-      "source": "PubMed",
-      "date": "2026-08-19",
-      "authors": [
-        "Page Jeni",
-        "Moore Alexandra",
-        "Hawkins Bridget E"
-      ],
-      "doi": "10.3389/fpsyt.2026.1866881",
-      "summaries": {
-        "en": "A systematic review of 11 studies (5 quantitative, 6 qualitative) involving 3,262 adults examined psilocybin microdosing. Studies from the US, Netherlands, Argentina, and Slovenia reported potential improvements in well-being, mental health, cognition, and creativity. However, most evidence had bias concerns or relied on self-reported measures. Non-medical motivations accounted for 86% of use.",
-        "sv": "En systematisk granskning av 11 studier (5 kvantitativa, 6 kvalitativa) med 3 262 vuxna undersökte psilocybin-mikrodosering. Studier från USA, Nederländerna, Argentina och Slovenien rapporterade potentiella förbättringar i välbefinnande, mental hälsa, kognition och kreativitet. Dock hade de flesta bevis bias-problem eller baserades på självrapporterade mått. Icke-medicinska motiv stod för 86% av användningen.",
-        "no": "En systematisk gjennomgang av 11 studier (5 kvantitative, 6 kvalitative) med 3 262 voksne undersøkte psilocybin-mikrodosering. Studier fra USA, Nederland, Argentina og Slovenia rapporterte potensielle forbedringer i velvære, mental helse, kognitiv fungering og kreativitet. Imidlertid hadde de fleste bevis skjevhet-bekymringer eller baserte seg på selvrapporterte mål. Ikke-medisinske motivasjoner utgjorde 86% av bruken.",
-        "da": "En systematisk gennemgang af 11 studier (5 kvantitative, 6 kvalitative) med 3.262 voksne undersøgte psilocybin-mikrodosering. Studier fra USA, Holland, Argentina og Slovenien rapporterede potentielle forbedringer i velbefindende, mental sundhed, kognitiv fungering og kreativitet. De fleste beviser havde dog bias-bekymringer eller var baseret på selvrapporterede mål. Ikke-medicinske motivationer udgjorde 86% af brugen.",
-        "fi": "Systemaattinen katsaus 11 tutkimukseen (5 kvantitatiivista, 6 kvalitatiivista) 3 262 aikuisen kanssa tutki psilosybiinin mikrodoseerausta. Tutkimukset USA:sta, Alankomaista, Argentiinasta ja Sloveniasta raportoivat mahdollisia parannuksia hyvinvoinnissa, mielenterveyksessä, kognitiivisissa toiminnoissa ja luovuudessa. Useimmilla todisteilla oli kuitenkin harha-huolia tai ne perustuivat itseraportoiduille mittareille. Ei-lääketieteelliset motivaatiot muodostivat 86% käytöstä.",
-        "is": "Kerfbundin yfirlit yfir 11 rannsóknum (5 megindlegar, 6 eigindlegar) með 3.262 fullorðnum skoðaði psilosýbín-litla skammta. Rannsóknir frá Bandaríkjum, Hollandi, Argentínu og Slóveníu greindu frá mögulegum bótum á vellíðan, geðheilsu, hugrænum getu og skapandi hugsun. Flestar sannanir höfðu þó hlutdrægni-áhyggjur eða byggðu á sjálfskilgreindum mælikvörðum. Ekki-læknisfræðileg hvöt mynduðu 86% notkunar.",
-        "et": "Süstemaatiline ülevaade 11 uuringust (5 kvantitatiivset, 6 kvalitatiivset) 3 262 täiskasvanuga uuris psilotsibiini mikrodoseerimist. Uuringud USA-st, Hollandist, Argentiinast ja Sloveeniast teatavad võimalikest parandustest heaolusse, vaimses tervisesse, kognitiivsetes funktsioonides ja loomingulisuses. Enamus tõendusmaterjalist omab aga kallutatud oht või põhineb iseseisval aruannete andmistel. Mittemeditsiinikud motivatsioonid moodustasid 86% kasutamisest.",
-        "lv": "Sistematisks pārskats par 11 pētījumiem (5 kvantitatīvi, 6 kvalitatīvi) ar 3 262 pieaugušajiem pārbaudīja psilocibīna mikrodozēšanu. Pētījumi no ASV, Nīderlandes, Argentīnas un Slovēnijas ziņoja par iespējamiem uzlabojumiem labsajūtā, garīgajā veselībā, kognitīvajās funkcijās un radošumā. Tomēr lielākajai daļai pierādījumu bija neobjektivitātes bažas vai tie balstījās uz pašpaziņotiem mēriem. Nemediciski motīvi veidoja 86% lietošanas.",
-        "lt": "Sistemingas 11 tyrimų (5 kiekybiniai, 6 kokybiniai) su 3 262 suaugusiais apžvalga nagrinėjo psilocibin mikrodozavimą. Tyrimai iš JAV, Nyderlandų, Argentinos ir Slovėnijos pranešė apie galimus pagerinimus gerovėje, psichikos sveikatoje, kognityvinėse funkcijose ir kūrybiškume. Tačiau dauguma įrodymų turėjo šališkumo rūpesčius arba buvo grindžiami savivaldžiais matais. Nemediciniai motyvaciniai veiksniai sudarė 86% naudojimo."
-      },
-      "notable": false,
-      "notable_reasons": null,
-      "relevance_score": 4,
-      "study_type": "review",
-      "substances": [
-        "psilocybin"
-      ],
-      "added_at": "2026-09-04T11:32:40.517675+00:00"
     }
   ]
 }

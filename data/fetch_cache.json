@@ -1,7 +1,18 @@
 {
-  "date": "2026-09-13",
-  "cached_at": "2026-09-13T11:03:58.540327+00:00",
+  "date": "2026-09-14",
+  "cached_at": "2026-09-14T11:44:58.680166+00:00",
   "articles": [
+    {
+      "title": "[The use of psychedelics in psychiatry].",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42732542/",
+      "source": "PubMed",
+      "abstract": "Over the past five years, the literature on the psychiatric use of psychedelic and related treatments has expanded substantially. Several randomized controlled trials and pooled analyses have been conducted in mood disorders, treatment-resistant depression, and post-traumatic stress disorder. Trial methodology, however, remains a fundamental source of uncertainty, and despite the popularity of the field, the clinical evidence is still weak. Psilocybin produces consistent and often large improvements in major depressive disorder, yet in the most rigorous trials, the predefined primary endpoint does not always reach statistical significance. At the same time, a synthetic psilocybin (COMP360) met its primary endpoint in two phase 3 trials in 2025-2026, representing the most advanced regulatory evidence in the field to date. MDMA (3,4-methylenedioxymethamphetamine; \"ecstasy\")-assisted psychotherapy has the largest phase 3 dataset in post-traumatic stress disorder, but in 2024 the US Food and Drug Administration declined to approve the product on ethical grounds. Evidence for LSD (lysergic acid diethylamide) and ayahuasca in depressive and anxiety symptoms is considerably weaker and cannot yet be interpreted within an evidence-based medicine framework. The therapeutic use of psychedelics can no longer be regarded as merely a theoretical question or a subcultural movement: the clinical effect is consistent and, in several trials, markedly strong. Nevertheless, according to the international system grading the certainty of evidence, the level of certainty remains low or very low for several indications. The main reasons are practical unblinding, small sample sizes, trial heterogeneity, and a lack of long-term safety data. Despite encouraging phase 3 data, psilocybin and the classic psychedelics should be considered experimental treatments. For MDMA, the phase 3 results are promising but have not proven sufficient for regulatory approval. Orv Hetil. 2026; 167(37): 1461-1467. A pszichedelikus kezelések alkalmazásáról szóló szakirodalom az elmúlt öt évben jelentősen bővült. A hangulatzavarok, a terápiarezisztens depresszív zavar és a poszttraumás stressz-zavar területén több randomizált-kontrollált vizsgálat és összegző elemzés jelent meg. A vizsgálati módszertan azonban továbbra is alapvető bizonytalansági forrás, a klinikai bizonyítékok a terület népszerűségének ellenére szegényesek. A pszilocibin alkalmazása major depresszív zavarban következetes és nagymértékű javulással jár, ám a legszigorúbb vizsgálatokban a primer végpont nem mindig éri el a statisztikai szignifikanciát. Ugyanakkor egy szintetikus pszilocibin (COMP360) két 2025–2026-os, 3. fázisú vizsgálatában is teljesítette a primer végpontot. Az MDMA (metiléndioxi-metamfetamin; „ecstasy”) segítségével támogatott pszichoterápia poszttraumás stressz-zavarban rendelkezik a legmeggyőzőbb 3. fázisú vizsgálati anyaggal, az amerikai gyógyszerhatóság azonban 2024-ben etikai aggályok miatt nem hagyta jóvá a készítményt. Az LSD-nek (lizergsav-dietilamid) és az ayahuascának a depresszív tünetekre és szorongásra gyakorolt hatásával kapcsolatos bizonyítékok lényegesen gyengébbek. A pszichedelikumok terápiás használata ma már nem tekinthető pusztán elméleti kérdésnek vagy egy szubkultúra mozgalmának: a klinikai hatás következetes, több vizsgálatban pedig kifejezetten erős. A klinikai bizonyosság szintje azonban több indikációban is alacsony vagy nagyon alacsony marad. Ennek fő okai a vakítás gyakorlati feloldása, a kis esetszámok, a vizsgálatok eltérő jellege és a hosszú távú biztonsági adatok hiánya. A pszilocibin és a klasszikus pszichedelikumok egyelőre kísérleti kezelésnek tekinthetők. Az MDMA esetében a 3. fázisú eredmények ígéretesek, de a hatósági jóváhagyáshoz nem bizonyultak elegendőnek. Orv Hetil. 2026; 167(37): 1461–1467.",
+      "date": "2026-09-13",
+      "authors": [
+        "Kéri Szabolcs"
+      ],
+      "doi": "10.1556/650.2026.33665"
+    },
     {
       "title": "Beyond symptom reduction: Intranasal esketamine is associated with improved quality of life in treatment-resistant depression.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42731235/",
@@ -246,19 +257,6 @@
       "doi": "10.1016/j.neubiorev.2026.106951"
     },
     {
-      "title": "Metabolomic correlates of intravenous racemic ketamine in treatment-resistant major depressive disorder: the Bio-K/NNDC multicenter trial.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42702010/",
-      "source": "PubMed",
-      "abstract": "Ketamine is a rapid-acting antidepressant with an incompletely understood mechanism of action. Pharmacometabolomics can identify pathways underlying its effects and response variability. Using data from the Bio-K trial (NCT03156504), a multisite open-label study, we characterised metabolomic signatures of intravenous (IV) racemic ketamine in adults with treatment-resistant depression (TRD). Sixty-nine adults with TRD and major depressive disorder received three ketamine infusions (0.5 mg/kg). Remission was defined as MADRS ≤9 at 24 h post-third infusion. Metabolomic profiling used the Biocrates MxP® Q500 kit (>600 metabolites). Mixed-effects models assessed changes across time points (pre-dose, post-infusion 1, post-infusion 3), adjusting for age, sex, infusion length (first), and body mass index, with false discovery rate correction. Mean MADRS improved from 27.8 ± 5.8 to 11.1 ± 9.1 post-third infusion ( Ketamine exposure was correlated with broad metabolic alterations spanning mitochondrial activation, neurotransmitter modulation, and neuroendocrine signalling. These findings represent metabolic correlates of ketamine exposure and remission, rather than validated predictors or established mechanistic drivers of antidepressant response. ClinicalTrials.gov: NCT03156504.",
-      "date": "2026-09-06",
-      "authors": [
-        "Singh Balwinder",
-        "MahmoudianDehkordi Siamak",
-        "Vande Voort Jennifer L"
-      ],
-      "doi": "10.1080/15622975.2026.2724510"
-    },
-    {
       "title": "Approvals to Access: A Crude Schematic",
       "url": "https://psychedelicalpha.com/news/approval-to-access-a-crude-schematic/",
       "source": "Psychedelic Alpha",
@@ -452,6 +450,19 @@
       "doi": "10.1002/deo2.70402"
     },
     {
+      "title": "Ultrasound-activated piezoelectric muscle constructs for tissue-engineered regenerative peripheral nerve interfaces.",
+      "url": "https://doi.org/10.1016/j.bioactmat.2026.08.053",
+      "source": "Europe PMC",
+      "abstract": "Regenerative peripheral nerve interfaces (RPNIs) are emerging platforms capable to translate neural activity into controllable myoelectric signals. However, current clinical RPNIs rely on muscle autografts, limiting their scalability and extensive adoption. Here, we report a bioactive, ultrasound-responsive piezoelectric muscle biomaterial designed as a fully tissue-engineered alternative to autologous grafts. The construct consists of fibrinogen-based muscle tissues enriched with barium titanate nanoparticles (BTNPs, diameter∼60 nm) and supported by a biodegradable surgical membrane that promotes the formation of aligned, multinucleated myotubes. The incorporation of BTNPs imparts intrinsic piezoelectric activity to the construct, and the nanoparticles are taken up by developing myotubes, enabling remote mechanoelectrical tissue stimulation under low-intensity pulsed ultrasound (LIPUS). In vivo, piezoelectric constructs implanted around the rat peroneal nerve for two months undergo LIPUS-driven activation of internalized BTNPs, which enhances muscle maturation, and electromechanical responsiveness, yielding myoelectrical signals up to 3.2 mV upon nerve activation. Histological analyses confirm improved structural organization, increased desmin expression, and evidence of neovascularization and axonal regeneration within the engineered interface. These findings suggest that the piezoelectric constructs form stable, functional biointerfaces with peripheral nerves, and that LIPUS-driven activation of embedded BTNPs provides a non-invasive strategy to potentiate muscle development and signal transduction. This study positions LIPUS-responsive, engineered piezoelectric muscle constructs as a donor-free, bioactive platform alternative to traditional autografts for next-generation human-machine interfaces and regenerative bioelectronics.",
+      "date": "2026-09-01",
+      "authors": [
+        "Vannozzi L",
+        "Redondo J",
+        "Trucco D"
+      ],
+      "doi": "10.1016/j.bioactmat.2026.08.053"
+    },
+    {
       "title": "Preclinical evaluation of PSMA-targeted ultrasound contrast agents in an orthotopic model of prostate cancer in rabbits.",
       "url": "https://doi.org/10.1016/j.bioactmat.2026.07.040",
       "source": "Europe PMC",
@@ -491,6 +502,32 @@
       "doi": "10.5812/ijpr-164903"
     },
     {
+      "title": "A stereotaxic surgical protocol for posterior and total corpus callosotomy in adult Wistar rats using the WIN-PTZ kindling model.",
+      "url": "https://doi.org/10.1016/j.mex.2026.104123",
+      "source": "Europe PMC",
+      "abstract": "Corpus callosotomy is an established palliative surgical procedure for drug-resistant generalized epilepsy. Although total callosotomy (TC) is the conventional approach, posterior callosotomy (PC) has emerged as a potentially less morbid alternative that preserves prefrontal commissural connectivity. Detailed stereotaxic protocols for PC in rodent models are absent from the experimental literature. Here we describe a detailed, step-by-step surgical protocol for both PC and TC in adult male Wistar rats (500-700 g; 8-9 months) using the WIN-PTZ kindling paradigm as the epilepsy induction model. The protocol encompasses: (1) a validated seven-session pentylenetetrazole (PTZ) kindling schedule (37.5 mg/kg, i.p., alternating days); (2) a complete multimodal anesthesia and analgesia regimen; (3) precise stereotaxic coordinates for both procedures, referenced from bregma using the Paxinos and Watson rat brain atlas; and (4) a postoperative PTZ rechallenge paradigm with behavioral outcome assessment using the revised Racine scale. Protocol feasibility was confirmed in 11 animals with no intraoperative mortality and full postoperative tolerability. This protocol provides a feasible and repeatable experimental foundation for callosal disconnection research and can be adapted to chronic or focal epilepsy models with electrophysiological monitoring. Eight brains were available for histological analysis; Luxol Fast Blue myelin staining was attempted in a single specimen but proved non-diagnostic in this unoptimized preparation. On hematoxylin-eosin and toluidine blue sections, representative specimens showed morphological features of an in vivo callosal lesion (hemorrhage and reactive gliosis with a mononuclear infiltrate) within the transected territory, although prolonged fixation compromised tissue quality and precluded evaluation of the transection in many specimens. The protocol therefore supports feasibility, procedural repeatability, and preliminary morphological evidence of callosal disconnection, while confirmation of myelinated-fiber interruption at the tract level remains to be established.",
+      "date": "2026-08-27",
+      "authors": [
+        "Cavalcanti VB",
+        "Matsusako L",
+        "Canabarro L"
+      ],
+      "doi": "10.1016/j.mex.2026.104123"
+    },
+    {
+      "title": "RPE-derived extracellular matrix improves graft retention and photoreceptor preservation in preclinical models of retinal degeneration.",
+      "url": "https://doi.org/10.1016/j.mbplus.2026.100203",
+      "source": "Europe PMC",
+      "abstract": "<h4>Introduction</h4>Human pluripotent stem cells-derived retinal pigment epithelium (hPSC-RPE) represent a promising therapeutic approach for macular degeneration. This study examines whether RPE-derived extracellular matrix (RPE-ECM), enhances survival and functional outcomes following hPSC-RPE suspension transplantation in a preclinical model of retinal degeneration.<h4>Methods</h4>hPSC-RPE cells were cultured under three conditions: control, RPE-conditioned medium (RPE-CM), and RPE-ECM. In vitro, the cells were assessed for proliferation, monolayer organization, and gene expression. In vivo, GFP-labeled hPSC-RPE cells were co-transplanted with the corresponding treatments into the subretinal space of a mouse model of retinal degeneration. For functional assessment, the cells were injected into RCS rats, with visual acuity tracked over six months using optomotor response testing. Retinal morphometry was analyzed by immunohistology techniques to evaluate graft integration and structural rescue.<h4>Results</h4>In vitro, culture of hPSC-RPE cells with RPE-ECM enhanced proliferation and promoted monolayer formation, and increased Nidogen expression. In vivo, co-transplantation with RPE-ECM significantly improved mice retinal graft integration (47.1% vs. 3.6% in control, <i>P</i> < 0.001) and visual acuity over four months in RCS rats. RPE-derived ECM improved graft retention and photoreceptor preservation observed at 180 days (<i>P</i> < 0.001), with neuroprotective effects extending beyond the graft site to the contralateral retina.<h4>Conclusion</h4>These findings suggest that co-transplantation with RPE-ECM enhances the integration and function performance of hPSC-RPE cells and may represent a promising strategy to improve graft viability within the host retina. Nevertheless, this study has several limitations, including short-term assessment in animal models and the lack of detailed ECM compositional analysis. Further studies are required to elucidate the underlying mechanisms and to evaluate the long-term transplantation potential of this approach in clinical settings.",
+      "date": "2026-08-24",
+      "authors": [
+        "Mazinani FSH",
+        "Ashtiani MK",
+        "Moradmand A"
+      ],
+      "doi": "10.1016/j.mbplus.2026.100203"
+    },
+    {
       "title": "Effects of Esketamine on Postoperative Hospital Anxiety and Depression Scale Scores in Patients Undergoing Laparoscopic Radical Resection for Colorectal Cancer.",
       "url": "https://doi.org/10.1080/08941939.2026.2712673",
       "source": "Europe PMC",
@@ -502,6 +539,19 @@
         "Guo Q"
       ],
       "doi": "10.1080/08941939.2026.2712673"
+    },
+    {
+      "title": "Determinants of enteric hyperoxaluria in the SAMP1/YitFc mouse model of spontaneous ileitis.",
+      "url": "https://doi.org/10.1080/19490976.2026.2725367",
+      "source": "Europe PMC",
+      "abstract": "Enteric hyperoxaluria (EH) results from increased oxalate bioavailability in the gastrointestinal (GI) tract, often affecting patients with inflammatory bowel disease (IBD). We investigated the pathophysiology of EH in an ileitis mouse model, hypothesizing that fat malabsorption, increased gut permeability, and microbial shifts collectively contribute to the hyperoxaluric phenotype in the setting of GI tract inflammation. SAMP1/YitFc (SAMP1) mice and their parental AKR controls were fed one of three diets varying in fat content (10%, 45%, or 60% kcal), each supplemented with 1% oxalate, for 6 weeks. Plasma (P), urine (U), oxalate (Ox), and creatinine (Cr) levels were measured, while stool lipid species were analyzed using mass spectrometry. Intestinal permeability was assessed using sucralose and <sup>13</sup>C<sub>2</sub> oxalate gastric gavage in SAMP1 and AKR mice. Histology, qPCR, and Western blotting were performed on kidney, liver, and GI tissues. Microbial DNA was analyzed at the community, genus, and functional levels. Changes in bacterial metabolic pathways were investigated in the mice fed the highest fat content. The oxalobiome of SAMP1 and AKR mice was characterized using our bioinformatics pipeline. On high-fat diets, SAMP1 mice had higher UOx, POx, and PCr levels than AKR mice. Increased levels of diacylglycerols and free fatty acids in SAMP1 stool samples suggested fat malabsorption. A decrease in ZO1 and occludin intestinal expression, coupled with significantly increased urinary sucralose and oxalate levels, indicated increased intestinal permeability. Microbiome analysis revealed the enrichment of <i>Lactobacilli</i> and <i>Bacteroides</i> in SAMP1 mice, with bacterial pathways favoring lipid synthesis and glyoxylate metabolism. Ileal SLC26A6 protein expression was significantly reduced in SAMP1 mice. SAMP1 mice also developed progressive kidney injury with interstitial inflammation. These findings highlight fat malabsorption as a central pathophysiologic disturbance in EH that reduces luminal calcium availability for oxalate binding, is associated with enhanced intestinal permeability, and accompanies microbiome and enzymatic pathway alterations.",
+      "date": "2026-09-06",
+      "authors": [
+        "Zaidan N",
+        "Jaber K",
+        "Ho M"
+      ],
+      "doi": "10.1080/19490976.2026.2725367"
     },
     {
       "title": "Oscillatory activity and LFP power modulation in the hippocampal CA1 and prelimbic cortex during morphine-induced place preference.",
@@ -517,63 +567,11 @@
       "doi": "10.1016/j.ibneur.2026.08.018"
     },
     {
-      "title": "Esketamine vs. sufentanil for quality of recovery after outpatient gynecological surgery: a randomized clinical trial.",
-      "url": "https://doi.org/10.1080/07853890.2026.2723715",
-      "source": "Europe PMC",
-      "abstract": "<h4>Background</h4>Perioperative administration of esketamine has been reported to improve early quality of recovery (QoR). However, data on its effects in outpatient surgery are limited. This study aimed to assess the impact of esketamine on QoR in patients undergoing outpatient gynecological procedures.<h4>Methods</h4>In this investigator-initiated, double-blind, randomized clinical trial, patients aged 18-65 years scheduled for outpatient gynecological surgery under sedation were allocated to receive esketamine (0.2 mg/kg) or sufentanil (0.1 μg/kg) combined with propofol (1.5-3 mg/kg). The primary outcome was quality of recovery on postoperative day (POD) 1. Secondary outcomes included quality of recovery on POD2, sedation success rate, length of post-anesthesia care unit (PACU) stay, injection pain, postoperative pain, nausea and vomiting, fatigue, patient and clinician satisfaction, sleep quality, and anxiety and depression.<h4>Results</h4>A total of 126 patients were randomized, with 63 assigned to the esketamine group and 63 to the sufentanil group. Of these, 125 patients were included in the final analysis (62 in the esketamine group and 63 in the sufentanil group), as one patient lacked follow-up data. The mean (SD) QoR-15 score on POD1 was 137.9 (14.5) in the esketamine group and 137.8 (10.7) in the sufentanil group, with no significant difference between groups (absolute difference, 0.2; 95% CI, -4.2 to 4.6; <i>p</i> = 0.93). For secondary outcomes, the esketamine group had a longer PACU stay (median, 28.0 vs. 23.0 min; <i>p</i> < 0.001), a lower incidence of severe injection pain (22.6% vs. 50.8%; <i>p</i> = 0.002), a higher proportion of patients with pain scores ≥ 4 at 30 min postoperatively (30.6% vs. 6.3%; <i>p</i> = 0.001), and higher fatigue scores (median, 3.0 vs. 2.0; <i>p</i> = 0.01). Other secondary outcomes did not differ significantly between groups.<h4>Conclusion</h4>Among patients undergoing sedation for outpatient gynecological procedures, esketamine did not significantly improve quality of recovery on POD1 compared to sufentanil.<h4>Trial registration</h4>Chinese Clinical Trial Registry, ChiCTR2500098466.",
-      "date": "2026-09-04",
-      "authors": [
-        "Wang XL",
-        "Li YN",
-        "Ma QL"
-      ],
-      "doi": "10.1080/07853890.2026.2723715"
-    },
-    {
-      "title": "Sprayable NIR/pH-responsive NSC/PF127 hydrogel loaded with MoO₂, ciprofloxacin, and FGF-2 for enhanced antibacterial and pro-regenerative infected wound healing.",
-      "url": "https://doi.org/10.1080/10717544.2026.2719063",
-      "source": "Europe PMC",
-      "abstract": "Infected wounds represent a significant clinical burden owing to persistent infection, excessive inflammation, and impaired tissue regeneration. To overcome these limitations, we developed a sprayable <i>N</i>-succinyl chitosan/Pluronic F127 (NSC/PF127) hydrogel incorporating MoO₂ nanoparticles, ciprofloxacin, and fibroblast growth factor-2 (FGF-2). At body temperature, the hydrogel rapidly transitions from a solution to a gel and responds to both pH changes and near-infrared (NIR) irradiation. MoO₂ exhibits NIR-mediated photothermal activity, while CIP and FGF-2 are released in a sustained and pH-dependent manner, thereby maintaining antibacterial efficacy and growth factor bioactivity. <i>In vitro</i> studies demonstrated excellent cytocompatibility and significantly enhanced fibroblast and keratinocyte migration. The combined photothermal effect and antibiotic therapy effectively suppressed bacterial growth and disrupted established biofilms. In a rat model of <i>Staphylococcus aureus</i>-infected full-thickness wounds, the hydrogel composite significantly accelerated healing, reduced inflammation, promoted collagen deposition and angiogenesis, and enhanced tissue regeneration. Biochemical and gene expression analyses further indicated reduced oxidative stress and improved tissue regeneration. This multifunctional, sprayable hydrogel combines targeted antibacterial action with sustained pro-regenerative signaling, offering a promising strategy for further preclinical investigations of infected wound management.",
-      "date": "2026-09-03",
-      "authors": [
-        "Li Z",
-        "Lei M",
-        "Chen C"
-      ],
-      "doi": "10.1080/10717544.2026.2719063"
-    },
-    {
-      "title": "Cardiotoxicological assessment of crocin-coated silver nanoparticles in an experimental rat model.",
-      "url": "https://doi.org/10.1016/j.toxrep.2026.102333",
-      "source": "Europe PMC",
-      "abstract": "Silver nanoparticles (AgNPs) are widely used for various industrial and biomedical applications; however, their potential cardiotoxicity remains insufficiently understood and requires further investigation. We evaluated the cardiotoxic effects of AgNPs and crocin-coated AgNPs (CR-AgNPs) administered at doses of 20, 40, and 80 µg/kg in male Wistar rats. Forty-two rats were randomly allocated to seven groups as follows: The groups included a control group (normal saline), three AgNPs-treated groups (20, 40, and 80 µg/kg), and three crocin-coated AgNPs-treated groups (20, 40, and 80 µg/kg), all of which received treatment via oral gavage for 30 days. At the end of the experiment, the animals were anesthetized with ketamine and xylazine, and blood samples and cardiac tissues were collected for biochemical and histopathological analyses. Our findings showed that malondialdehyde (MDA) levels were significantly increased in the AgNPs 80 group compared with the control group. In addition, administration of CR-AgNPs at 80 µg/kg significantly reduced MDA levels compared with the AgNPs 80 group. Histopathological examination confirmed the toxic effect of AgNPs at 80 µg/kg, as evidenced by mild interstitial edema and localized separation of myocardial muscle fibers. In conclusion, these findings suggest that CR-AgNPs may represent a safer alternative for pharmaceutical applications by reducing the risk of subacute cardiotoxicity in experimental animals. Further investigations are required to provide additional evidence in this field.",
-      "date": "2026-08-21",
-      "authors": [
-        "Ziaaldini MAA",
-        "Fakhrtaha T",
-        "Samarghandian S"
-      ],
-      "doi": "10.1016/j.toxrep.2026.102333"
-    },
-    {
-      "title": "SRT1720-loaded exosome-mimetic nanovesicles promote mitophagy via SIRT1/PARKIN activation to ameliorate diabetic cerebral infarction in a preclinical rat model.",
-      "url": "https://doi.org/10.1016/j.ijpx.2026.100639",
-      "source": "Europe PMC",
-      "abstract": "Mitochondrial dysfunction and impaired mitophagy-a key event in diabetic hyperglycemia-aggravated ischemic injury - lead to accumulation of dysfunctional mitochondria and neuronal apoptosis, which are vital processes involved in diabetic cerebral infarction (DCI). Herein, we developed SRT1720-loaded exosome-mimetic nanovesicles (SRT1720@M) to leverage the potential of SIRT1/PARKIN pathway activation to inhibit these processes and counteract DCI. The lipid fusion approach was used to fabricate exosome-loaded SRT1720@M. The properties of SRT1720@M were established by employing UV-Vis, transmission electron microscopy (TEM), dynamic light scattering, and Fourier-transform infrared (FTIR) spectroscopy. Oxygen-glucose deprivation/reperfusion (OGD/R) and high-glucose (HG)-treated primary hippocampal neurons were used as an in vitro DCI model treated with SRT1720@M. qPCR, Western blotting and immunofluorescence were used for expression analyses, whereas cell viability, phagocytosis, inflammation, and ATP/L-LA levels were assessed by CCK-8, ELISA and TEM. A rat model of DCI was obtained by establishing middle cerebral artery occlusion (MCAO), from which infarct volume, neurological deficits, histopathology, behavioral indexes, and molecular markers were detected. SRT1720@M average size was ∼68 nm, with an encapsulation efficiency of 78.19%, loading capacity of 8.52%, and zeta potential of -54 mV. In vitro, SRT1720@M markedly improved cell viability (<i>P</i> < 0.01), decreased IL-1β, TNF-α, and L-LA, but increased ATP levels, and promoted mitophagy and suppressed inflammatory responses compared with the DCI group. In the DCI model, SRT1720@M improved neurological deficits, reduced infarct volume, and alleviated behavioral disorders by inhibiting apoptosis and inflammation and promoting mitophagy and mitochondrial function through activation of the SIRT1/PARKIN pathway. SRT1720@M alleviates DCI by activating the SIRT1/PARKIN pathway and promoting mitophagy, highlighting its potential as a promising preclinical therapeutic strategy.",
-      "date": "2026-08-13",
-      "authors": [
-        "Huang Q",
-        "Zhao F",
-        "Sun B"
-      ],
-      "doi": "10.1016/j.ijpx.2026.100639"
-    },
-    {
       "title": "CZ",
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2018-004480-31/CZ",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-09-13",
+      "date": "2026-09-14",
       "authors": [],
       "doi": ""
     },
@@ -582,7 +580,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2020-005037-32/CZ",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-09-13",
+      "date": "2026-09-14",
       "authors": [],
       "doi": ""
     },
@@ -591,7 +589,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2021-002909-10/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-09-13",
+      "date": "2026-09-14",
       "authors": [],
       "doi": ""
     },
@@ -600,7 +598,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2015-000550-37/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-09-13",
+      "date": "2026-09-14",
       "authors": [],
       "doi": ""
     },
@@ -609,7 +607,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2021-000041-40/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-09-13",
+      "date": "2026-09-14",
       "authors": [],
       "doi": ""
     },
@@ -618,7 +616,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2020-000829-55/DK",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-09-13",
+      "date": "2026-09-14",
       "authors": [],
       "doi": ""
     },
@@ -627,7 +625,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2020-002790-94/SE",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-09-13",
+      "date": "2026-09-14",
       "authors": [],
       "doi": ""
     },
@@ -636,7 +634,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2021-006200-33/FI",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-09-13",
+      "date": "2026-09-14",
       "authors": [],
       "doi": ""
     },
@@ -645,7 +643,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2019-004812-73/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-09-13",
+      "date": "2026-09-14",
       "authors": [],
       "doi": ""
     },
@@ -654,7 +652,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2022-002369-14/BE",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-09-13",
+      "date": "2026-09-14",
       "authors": [],
       "doi": ""
     },

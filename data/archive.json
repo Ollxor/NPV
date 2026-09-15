@@ -1,6 +1,60 @@
 {
   "items": [
     {
+      "title": "Real-World Effectiveness and Safety of Esketamine Nasal Spray in Treatment-Resistant Depression: A Retrospective Observational Study.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42736875/",
+      "source": "PubMed",
+      "date": "2026-08-26",
+      "authors": [
+        "Ali Mostafa A Sayed",
+        "Amirthalingam Palanisamy",
+        "Alshareef Hanan"
+      ],
+      "doi": "10.3390/healthcare14172717",
+      "summary_en": "Retrospective observational study examining real-world effectiveness and safety of esketamine nasal spray in treatment-resistant depression. The study analyzes clinical outcomes from actual clinical practice settings to evaluate the therapeutic potential and adverse event profile of this dissociative psychedelic in patients unresponsive to conventional antidepressants.",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "observational",
+      "substances": [
+        "ketamine"
+      ],
+      "added_at": "2026-09-15T11:57:34.349034+00:00"
+    },
+    {
+      "title": "Psychopharmacology at an Inflection Point: From Syndromes to Stratified Mechanisms, Circuit-Based Treatments, and Precision Psychiatry.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42735276/",
+      "source": "PubMed",
+      "date": "2026-09-01",
+      "authors": [
+        "Macaluso Matthew"
+      ],
+      "doi": "10.1097/PRA.0000000000000947",
+      "summary_en": "Psychiatry is shifting from treating syndromes to precision medicine based on biological mechanisms. Despite 100+ approved drugs, remission rates for depression remain modest, revealing heterogeneity within diagnoses. About 60% respond to monoamine treatments; others respond to glutamatergic agents like ketamine; some are treatment-resistant. Modern psychopharmacology encompasses synaptic plasticity, circuit regulation, inflammation, and psychedelic-assisted psychotherapy, complemented by neuromodulation techniques and pharmacogenomics.",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "review",
+      "substances": [
+        "ketamine"
+      ],
+      "added_at": "2026-09-15T11:57:34.349034+00:00"
+    },
+    {
+      "title": "Definium Notches Second Positive Phase 3 in Generalised Anxiety Disorder",
+      "url": "https://psychedelicalpha.com/news/definium-notches-second-positive-phase-3-in-generalised-anxiety-disorder/",
+      "source": "Psychedelic Alpha",
+      "date": "2026-09-14",
+      "authors": [],
+      "doi": "",
+      "summary_en": "Definium Therapeutics reported positive Phase 3 results for DT120, an LSD-based treatment for generalised anxiety disorder. The Panorama trial enrolled 245 participants across ~32 US and international sites. This is Definium's second positive Phase 3 readout in GAD and third overall since June.",
+      "notable": true,
+      "notable_reason": "Phase 3 RCT (n=245) with positive topline data for LSD in generalized anxiety disorder, meeting primary endpoint.",
+      "study_type": "rct",
+      "substances": [
+        "lsd"
+      ],
+      "added_at": "2026-09-15T11:57:34.349034+00:00"
+    },
+    {
       "title": "[The use of psychedelics in psychiatry].",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42732542/",
       "source": "PubMed",

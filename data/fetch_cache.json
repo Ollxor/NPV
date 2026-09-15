@@ -1,7 +1,44 @@
 {
-  "date": "2026-09-14",
-  "cached_at": "2026-09-14T11:44:58.680166+00:00",
+  "date": "2026-09-15",
+  "cached_at": "2026-09-15T11:02:02.126719+00:00",
   "articles": [
+    {
+      "title": "Real-World Effectiveness and Safety of Esketamine Nasal Spray in Treatment-Resistant Depression: A Retrospective Observational Study.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42736875/",
+      "source": "PubMed",
+      "abstract": "",
+      "date": "2026-08-26",
+      "authors": [
+        "Ali Mostafa A Sayed",
+        "Amirthalingam Palanisamy",
+        "Alshareef Hanan"
+      ],
+      "doi": "10.3390/healthcare14172717"
+    },
+    {
+      "title": "Psychopharmacology at an Inflection Point: From Syndromes to Stratified Mechanisms, Circuit-Based Treatments, and Precision Psychiatry.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42735276/",
+      "source": "PubMed",
+      "abstract": "Psychopharmacology, once propelled by a series of serendipitous mid-20th-century discoveries, has matured into a field defined by mechanistic diversity, translational neuroscience, and an expanding array of circuit-based interventions. Despite more than 100 approved psychiatric drugs, remission rates for major depressive disorder and other serious mental disorders remain modest, underscoring the biological heterogeneity embedded within syndromic diagnoses. Roughly 60% of patients with major depressive disorder respond to monoaminergic treatments, while others respond preferentially to glutamatergic agents such as ketamine or esketamine, and a smaller subset remains minimally responsive to both. These differential response patterns challenge the notion of a singular depressive disorder and highlight the need for biologically informed patient stratification. Contemporary psychopharmacology extends well beyond classic neurotransmitter modulation, encompassing synaptic plasticity, circuit regulation, inflammatory pathways, neurosteroids, muscarinic systems, drug-assisted psychotherapies, and computational neuroscience. Parallel advances in neuromodulation, including repetitive transcranial magnetic stimulation, transcranial direct current stimulation, vagus nerve stimulation, focused ultrasound, and adaptive deep brain stimulation, reflect a shift from region-based to network-based conceptualizations of psychiatric illness. Simultaneously, advances in pharmacogenomics, neuroimaging, artificial intelligence, and biomarker identification are beginning to make precision psychiatry a practical, though still emerging, reality. With these broadly described advances in mind, this column reflects on the historical trajectory of psychopharmacology, explores the convergence of pharmacology and neuromodulation, and considers the future of psychiatry through the lens of mechanism-based and personalized care. In doing so, it aims to carry forward the disciplined, mechanistically grounded scholarship that has long characterized this column.",
+      "date": "2026-09-01",
+      "authors": [
+        "Macaluso Matthew"
+      ],
+      "doi": "10.1097/PRA.0000000000000947"
+    },
+    {
+      "title": "The Nova Protocol: a comprehensive multimodal longitudinal study among civilian survivors of a mass trauma event.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42735067/",
+      "source": "PubMed",
+      "abstract": "We describe a multimodal longitudinal protocol tracking long-term responses to severe trauma among civilian survivors of the 7 October 2023 Nova festival attack.The protocol leverages a rare naturalistic cohort exposed to the same mass trauma event within a narrow time window, with many survivors also reporting psychoactive-substance use during the attack.Longitudinal assessments began in the first weeks after trauma and continued for approximately two years, integrating questionnaires, wearable sensors, ecological assessments, saliva-based biomarkers, brain imaging, interoception tasks, learning tasks, and survivor interviews.",
+      "date": "2026-09-14",
+      "authors": [
+        "Admon Roee",
+        "Netzer Ophir",
+        "Magal Noa"
+      ],
+      "doi": "10.1080/20008066.2026.2721729"
+    },
     {
       "title": "[The use of psychedelics in psychiatry].",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42732542/",
@@ -218,43 +255,13 @@
       "doi": "10.1097/JCP.0000000000002246"
     },
     {
-      "title": "Exploratory Insights into 5-MeO-DMT Experiences on Reddit: A Thematic Analysis.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42704210/",
-      "source": "PubMed",
-      "abstract": "This qualitative study examines self-reported experiences with 5-methoxy-N,N-dimethyltryptamine (5-MeO-DMT) shared on Reddit to explore subjective reports, contextual influences, and perceived effects. A total of 120 posts from 24 discussion threads were purposively selected and thematically analyzed using an inductive, constructivist approach. The analysis resulted in 48 codes, which were grouped into seven categories: Administration Methods, Dosage, and Tolerance; Experiential and transformative effects; Pharmacological specificity and interaction; Risk, adverse effects, and harm reduction; Socio-cultural and contextual factors; Support, preparation and integration; and Therapeutic and health-related effects. Users described individualized dosing strategies and a distinct tolerance profile compared to other psychedelics. Narratives emphasized introspective, emotionally cathartic, and spiritually unifying experiences that were often viewed as transformative life events. A preparatory context, supportive environment, and sustained integration practices were seen as essential. Users were aware of pharmacological interactions, particularly with serotonergic medications, and emphasized harm‑minimization measures such as the presence of a trusted sitter. Socio-cultural narratives about the origins, traditions, and ethics of 5-MeO-DMT shaped perceptions and motivation. These findings contribute to the literature on real-world use of psychedelics by highlighting the interplay of pharmacology, personal mind-set, and cultural context, and providing information on harm reduction, preparation, integration, and future research priorities.",
-      "date": "2026-09-07",
-      "authors": [
-        "Swieczkowski Damian",
-        "Kwaśny Aleksander",
-        "Cubała Wiesław Jerzy"
-      ],
-      "doi": "10.1080/02791072.2026.2727030"
-    },
-    {
-      "title": "The effect of ketamine on mitochondrial bioenergetics, viability, and function: A systematic review.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42704076/",
-      "source": "PubMed",
-      "abstract": "Extant literature indicates mitochondrial dysfunction may contribute to the pathophysiology of depressive disorders. Preclinical data indicate that anesthetic doses of ketamine are associated with deficits in mitochondrial viability and function. Ketamine and esketamine have demonstrated rapid antidepressant effects in persons with difficult-to-treat depressive disorders. Herein, we aim to synthesize literature reporting on the effect of antidepressant doses of ketamine and esketamine in vivo versus in vitro on mitochondrial viability and function. We performed a systematic review of previous studies on PubMed, Ovid, and Scopus databases from inception to November 30, 2025. Preclinical studies reporting on the effect of antidepressant doses of ketamine and/or esketamine in mitochondrial viability, structure/morphology, bioenergetics, and metabolic function were sought for inclusion. Thirteen studies were included. Lower ketamine/esketamine concentrations generally did not adversely affect membrane potential, oxidative phosphorylation, respiration, or bioenergetics, whereas higher concentrations or prolonged exposure induced mitochondrial dysfunction in some models. Additional evaluation of the safety of ketamine/esketamine on mitochondria in humans is required. Preliminary research suggests that ketamine at lower concentrations may not adversely affect brain mitochondrial viability or bioenergetic function, but requires further validation. The reported effects on mitochondrial viability and function are preclinical, model- and dose-dependent and derived from limited heterogeneous literature. This study generates the hypothesis that ketamine's antidepressant mechanism of action may be partially mediated by insulin-sensitive metabolic pathways, energetically supporting synaptic remodeling and neurogenesis. Incorporation of mitochondrial and metabolic biomarkers into ketamine clinical trials is a current research imperative.",
-      "date": "2026-09-07",
-      "authors": [
-        "Wong Sabrina",
-        "Le Gia Han",
-        "Selby Simryn"
-      ],
-      "doi": "10.1177/02698811261481085"
-    },
-    {
-      "title": "The Effect of Psychedelics on Associative Learning: a Systematic Review.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42702287/",
-      "source": "PubMed",
-      "abstract": "Psychedelics are emerging as potential treatments for neuropsychiatric conditions, with evidence suggesting a single administration can lead to enduring behavioural changes. While the underlying putative mechanism(s) remain unclear, there is evidence supporting altered learning as a key candidate. This systematic review examined studies assessing the effects of psychedelics on associative learning in humans and animals. Electronic databases were searched until 02/02/2026 for studies investigating differences in learning after classical psychedelic administration. 62 studies were included (2 human studies). Classical and operant conditioning paradigms were employed, including fear extinction, conditioned avoidance, conditioned place preference and reversal learning. Studies assessed acute and post-acute effects, however repeated dosing paradigms often obscured this distinction. There was heterogeneity in study designs, paradigms, drug administration timings and doses, and behavioural effects appeared to be influenced by dose, timing, training intensity, and sex. The evidence reviewed suggests that psychedelic administration enhances associative learning in animals across paradigms, although findings were not consistent. Possible mechanisms identified spanned levels of explanation including computational (prediction error sensitivity), neuropharmacological (serotonin receptor agonism), and cellular/subcellular (structural plasticity). Learning enhancements extend into the post-acute phase of psychedelic action and appear to depend on environmental engagement during this window. Studies suggest that psychedelics enhance associative learning in animals; however, while human studies demonstrate altered cognitive flexibility and learning-related processes, direct evidence of enhanced associative learning remains limited. Understanding whether a period of enhanced learning follows the psychedelic experience may have implications for psychedelic-assisted psychotherapy, where behavioural changes must generalise and persist beyond the drug-induced state.",
-      "date": "2026-09-06",
-      "authors": [
-        "Caulfield Alice",
-        "Li Lorraine",
-        "Belessiotis-Richards Clara"
-      ],
-      "doi": "10.1016/j.neubiorev.2026.106951"
+      "title": "Definium Notches Second Positive Phase 3 in Generalised Anxiety Disorder",
+      "url": "https://psychedelicalpha.com/news/definium-notches-second-positive-phase-3-in-generalised-anxiety-disorder/",
+      "source": "Psychedelic Alpha",
+      "abstract": "This morning, LSD drug developer Definium Therapeutics shared positive topline data from its second Phase 3 study of its lead candidate, DT120, in generalised anxiety disorder (GAD). It’s the third positive Phase 3 readout from the company since June. Trial Design The trial, dubbed Panorama, saw 245 participants across around 32 U.S. and international sites […]",
+      "date": "2026-09-14",
+      "authors": [],
+      "doi": ""
     },
     {
       "title": "Approvals to Access: A Crude Schematic",
@@ -333,15 +340,6 @@
       "url": "https://psychedelicalpha.com/news/scoop-johnson-johnson-to-lead-delix-therapeutics-85m-series-c/",
       "source": "Psychedelic Alpha",
       "abstract": "",
-      "date": "2026-08-18",
-      "authors": [],
-      "doi": ""
-    },
-    {
-      "title": "Paving the Way: Husseini Manji on Spravato’s Lessons for Psychedelic Drug Development",
-      "url": "https://psychedelicalpha.com/news/paving-the-way-husseini-manji-on-spravatos-lessons-for-psychedelic-drug-development/",
-      "source": "Psychedelic Alpha",
-      "abstract": "Dr. Husseini Manji’s affiliations are quite the laundry list: a professor of psychiatry at the University of Oxford with adjunct and visiting positions at Yale and Duke, as well as serving as co-chair of the UK government’s mental health mission. But it’s his earlier work as a pioneer in the development of rapid-acting antidepressants that […]",
       "date": "2026-08-18",
       "authors": [],
       "doi": ""
@@ -571,7 +569,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2018-004480-31/CZ",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-09-14",
+      "date": "2026-09-15",
       "authors": [],
       "doi": ""
     },
@@ -580,7 +578,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2020-005037-32/CZ",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-09-14",
+      "date": "2026-09-15",
       "authors": [],
       "doi": ""
     },
@@ -589,7 +587,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2021-002909-10/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-09-14",
+      "date": "2026-09-15",
       "authors": [],
       "doi": ""
     },
@@ -598,7 +596,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2015-000550-37/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-09-14",
+      "date": "2026-09-15",
       "authors": [],
       "doi": ""
     },
@@ -607,7 +605,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2021-000041-40/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-09-14",
+      "date": "2026-09-15",
       "authors": [],
       "doi": ""
     },
@@ -616,7 +614,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2020-000829-55/DK",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-09-14",
+      "date": "2026-09-15",
       "authors": [],
       "doi": ""
     },
@@ -625,7 +623,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2020-002790-94/SE",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-09-14",
+      "date": "2026-09-15",
       "authors": [],
       "doi": ""
     },
@@ -634,7 +632,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2021-006200-33/FI",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-09-14",
+      "date": "2026-09-15",
       "authors": [],
       "doi": ""
     },
@@ -643,7 +641,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2019-004812-73/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-09-14",
+      "date": "2026-09-15",
       "authors": [],
       "doi": ""
     },
@@ -652,7 +650,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2022-002369-14/BE",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-09-14",
+      "date": "2026-09-15",
       "authors": [],
       "doi": ""
     },

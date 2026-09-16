@@ -1,7 +1,57 @@
 {
-  "date": "2026-09-15",
-  "cached_at": "2026-09-15T11:02:02.126719+00:00",
+  "date": "2026-09-16",
+  "cached_at": "2026-09-16T10:49:19.414179+00:00",
   "articles": [
+    {
+      "title": "On the meaning of \"plasticity\" in neuroscience and mental health research and its relation to the action of psychedelic therapy.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42745840/",
+      "source": "PubMed",
+      "abstract": "First-line dictionary definitions of \"plasticity\" describe it as the ability (of a thing) to be shaped or molded; we call this \"plasticity proper\" (PP). In neuroscience, however, \"neural plasticity\" or \"neuroplasticity\" is defined as an induced change in brain function or structure. These two plasticities are not the same. Several popular biomarkers of neuroplasticity index part of an evoked process, often linked to learning. Paradoxically, these processes often bias phenotypic canalization, the opposite of phenotypic plasticity. Recognizing this paradox puts into question the custom of using \"plasticity\" as a shorthand for all neuroplastic phenomena. This custom risks an overgeneralization fallacy and the conflation of assays of evoked brain changes with plasticity proper. We also question extrapolating from any biomarker of neuroplasticity to improved mental health, whether it be aligned with plasticity proper or not. The relationship between the two is, logically,",
+      "date": "2026-09-01",
+      "authors": [
+        "Carhart-Harris R L",
+        "Zeifman R J",
+        "Pasquini L"
+      ],
+      "doi": "10.3389/fnins.2026.1875339"
+    },
+    {
+      "title": "Ketamine attenuates habenula activity in response to aversive outcomes during Pavlovian learning.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42743922/",
+      "source": "PubMed",
+      "abstract": "Ketamine is an NMDA receptor antagonist with rapid antidepressant properties when administered at a subanesthetic dose. Preclinical models indicate that a direct injection of ketamine into the lateral habenula (Hb), a small midbrain structure with an evolutionarily preserved role in aversive learning across mammals, can rapidly relieve depression-like behavior. However, there is limited evidence to explain how ketamine acts on the function of the human Hb. In a translational computational neuroscience study, 70 healthy adult volunteers were randomized in a 1:1 ratio to receive ketamine (0.5 mg/kg) or placebo (NaCl 0.9%). We used an aversive Pavlovian conditioning paradigm combined with 7-tesla functional neuroimaging to show that ketamine attenuates Hb response during aversive stimuli expectations and outcomes 24 h post-infusion. Furthermore, we present preliminary evidence suggesting that when aversive learning occurs after ketamine infusion, reduced Hb activity during the learning process may lead to downstream effects that diminish the aversive impact of negative affective memories. These findings provide translational support for ketamine's modulation of aversive learning and Hb activity and help to refine mechanistic models of its rapid antidepressant effect.",
+      "date": "2026-09-15",
+      "authors": [
+        "Pulcu Erdem",
+        "Costi Sara",
+        "Artiach-Hortelano Pilar"
+      ],
+      "doi": "10.1016/j.cub.2026.08.044"
+    },
+    {
+      "title": "Resetting the hippocampal buffer: a neurocognitive account of psychedelic therapy for anxiety-related psychopathology.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42742718/",
+      "source": "PubMed",
+      "abstract": "Psychedelics (hallucinogenic 5-HT",
+      "date": "2026-09-15",
+      "authors": [
+        "McGovern Hugh",
+        "Wellman Nick",
+        "Hutchinson Brendan"
+      ],
+      "doi": "10.1007/s00213-026-07163-z"
+    },
+    {
+      "title": "Risks from self-medicating with psychedelic drugs.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42742575/",
+      "source": "PubMed",
+      "abstract": "",
+      "date": "2026-Oct",
+      "authors": [
+        "Black Joshua C"
+      ],
+      "doi": "10.1002/wps.70099"
+    },
     {
       "title": "Real-World Effectiveness and Safety of Esketamine Nasal Spray in Treatment-Resistant Depression: A Retrospective Observational Study.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42736875/",
@@ -204,55 +254,13 @@
       "doi": "10.1136/bmjment-2026-302830"
     },
     {
-      "title": "MDMA-Assisted Therapy May Decrease PTSD Symptoms, Dissociation, Depression, and Functional Disability: A Systematic Review and Meta-Analysis.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42708350/",
-      "source": "PubMed",
-      "abstract": "There is a need for new effective treatment options for posttraumatic stress disorder (PTSD), as many people with PTSD do not fully recover despite current treatments. 3,4-methylenedioxymethamphetamine (MDMA)-assisted psychotherapy (MDMA-AT) is emerging as a new treatment option. We assessed the current body of MDMA-AT evidence for effectiveness in treating PTSD, associated impairments, and quality of life by conducting a systematic review and meta-analysis of randomized controlled trials. Databases from ClinicalTrials.gov, MEDLINE, PsycInfo, PsycArticles, and Cochrane Library were searched from inception to June 2025. Data from seven randomized control trials (both published and unpublished) compared MDMA-AT with low-dose MDMA or placebo control combined with psychotherapy. Identified studies were not included in recent article retractions. Effect sizes were calculated using standardized mean difference for Clinician-Administered PTSD Scale scores and mean difference for secondary measures. MDMA-AT may significantly improve PTSD, dissociation, depression, and functional impairment, compared to controls, but not sleep quality. These results support MDMA-AT for PTSD core symptoms and quality-of-life measures. The evidence, however, is limited by small sample sizes in some studies, challenges with blinding in psychedelic studies, use of non-standardized therapies, and a common sponsor for all trials. While limitations exist, these findings provide evidence for a new emerging treatment option for PTSD.",
-      "date": "2026-09-09",
-      "authors": [
-        "Green Warwick M",
-        "Raut Sanket B",
-        "James Fionnghuala L J"
-      ],
-      "doi": "10.1097/HRP.0000000000000478"
-    },
-    {
-      "title": "Is (S)-norketamine an active mediator of esketamine's antidepressant effects?",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42706419/",
-      "source": "PubMed",
+      "title": "No Questions Asked: FDA’s Psychedelics Public Hearing",
+      "url": "https://psychedelicalpha.com/news/no-questions-asked-fdas-psychedelics-public-hearing/",
+      "source": "Psychedelic Alpha",
       "abstract": "",
-      "date": "2026-09-07",
-      "authors": [
-        "Hashimoto Kenji",
-        "Yang Chun"
-      ],
-      "doi": "10.1038/s41380-026-03867-y"
-    },
-    {
-      "title": "Higher signal diversity, network dysregulation, and increased well-being under DMT administration: An EEG study.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42705377/",
-      "source": "PubMed",
-      "abstract": "N,N-Dimethyltryptamine (DMT), a potent serotonin-2A receptor agonist, elicits intense psychedelic experiences and has become a focus of interest in neuroscience and mental health research. While EEG studies of psychedelics typically report reduced alpha power, increased delta power, and enhanced signal complexity-primarily assessed using Lempel-Ziv complexity (LZc)-less is known about DMT's effects on other complexity metrics, EEG-based connectivity, and emotional correlates. This study investigated the effects of intravenous DMT versus saline placebo in 13 healthy participants using EEG. We analyzed spectral power, brain signal complexity, and functional connectivity, and examined their associations with emotional responses and subjective intensity ratings. Four complexity measures were evaluated: Lempel-Ziv-Welch (LZW) complexity, Higuchi fractal dimension (HFD), permutation entropy (PE), and waveform complexity (WC). Connectivity was assessed using weighted symbolic mutual information (wSMI), with network segregation and efficiency inferred from clustering coefficient and path length. Emotional correlates included beta-to-alpha ratio (BAR, an indicator of arousal) and frontal alpha asymmetry (FAA, an indicator of well-being). DMT significantly reduced broadband wSMI connectivity, segregation, and efficiency, particularly in alpha and beta bands in posterior and frontoparietal regions. Complexity metrics positively correlated with subjective intensity; HFD and PE were the most sensitive, revealing increased complexity in beta/gamma and decreased complexity in delta/theta/alpha bands under DMT. BAR and FAA both increased under DMT, correlating with perceived intensity. These findings suggest that DMT induces greater neural unpredictability and emotional arousal, consistent with the Entropic Brain theory. The results highlight a dynamic brain state that may support therapeutic brain network reorganization relevant for psychiatric treatment.",
-      "date": "2026-09-07",
-      "authors": [
-        "Kroupi Eleni",
-        "Araujo Helena",
-        "Oosterveld Cas"
-      ],
-      "doi": "10.1016/j.brainres.2026.150530"
-    },
-    {
-      "title": "The Antidepressant Effects of the mGlu2/3 Receptor Antagonist TS-161 in Treatment-Resistant Depression: A Phase IIa Proof-of-Concept Clinical Trial.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42704784/",
-      "source": "PubMed",
-      "abstract": "Like ketamine, group II metabotropic glutamate receptor (mGluR2/3) antagonists increase glutamate release and monoaminergic signaling, promote synaptic plasticity, and show antidepressant-related activity in preclinical models. A recent phase I trial of the orthosteric mGluR2/3 antagonist prodrug TS-161 established its safety, tolerability, and pharmacokinetic profile. This phase IIa randomized, placebo-controlled, double-blind, crossover, proof-of-concept, single-site trial was designed to evaluate the antidepressant effects of TS-161. Eleven unmedicated adults with treatment-resistant depression received either oral TS-161 (50 to 100 mg daily) or a placebo for 3 weeks before crossing over to the other condition. The study was halted early due to low recruitment. Adverse events were mild and consistent with the prior phase I study. Linear mixed models using drug×time interaction to estimate mean Montgomery-Åsberg Depression Rating Scale scores per treatment identified no significant difference between treatment conditions at any timepoint, including the primary endpoint, day 21 (P=0.91). One of the 11 participants responded to TS-161 by day 7 (vs. 0/9 receiving placebo); no participants achieved remission. Magnetic resonance spectroscopy suggested a qualitative trend for increased glutamate metabolite values, and TS-161 increased gamma power during magnetoencephalography relative to baseline and placebo (pFDR<0.01) in lateral cortical regions. Peripheral brain-derived neurotrophic factor levels trended toward elevation (overall drug effect P=0.055). No advantages were seen in secondary clinical or cognitive outcomes. The findings suggest potential central nervous system engagement through proxy biomarkers and increased glutamatergic tone, but this did not translate to clinical improvement.",
-      "date": "2026-09-07",
-      "authors": [
-        "Kvarta Mark D",
-        "Watanabe Mai",
-        "Ozaki Satoshi"
-      ],
-      "doi": "10.1097/JCP.0000000000002246"
+      "date": "2026-09-15",
+      "authors": [],
+      "doi": ""
     },
     {
       "title": "Definium Notches Second Positive Phase 3 in Generalised Anxiety Disorder",
@@ -332,15 +340,6 @@
       "source": "Psychedelic Alpha",
       "abstract": "The U.S. Health Resources and Services Administration (HRSA) has received 59 comments in response to its request for information (RFI) regarding ‘training and care delivery models for safe administration of potential FDA-approved psychedelic therapies in ambulatory settings.’ HRSA, which is housed in the Department of Health and Human Services is, in some respects, a lesser-known […]",
       "date": "2026-08-20",
-      "authors": [],
-      "doi": ""
-    },
-    {
-      "title": "Scoop: Johnson & Johnson to Lead Delix Therapeutics’ $85M Series C",
-      "url": "https://psychedelicalpha.com/news/scoop-johnson-johnson-to-lead-delix-therapeutics-85m-series-c/",
-      "source": "Psychedelic Alpha",
-      "abstract": "",
-      "date": "2026-08-18",
       "authors": [],
       "doi": ""
     },
@@ -448,6 +447,19 @@
       "doi": "10.1002/deo2.70402"
     },
     {
+      "title": "Barcoded oligonucleotide system (BOLT) for targeted organ delivery.",
+      "url": "https://doi.org/10.1016/j.bioactmat.2026.08.058",
+      "source": "Europe PMC",
+      "abstract": "The therapeutic potential of oligonucleotides (oligos) is limited by insufficient delivery to extrahepatic tissues. In vitro assays often fail to accurately predict in vivo behavior, while testing each oligo candidate in animals remains inherently low throughput. Here, we conceive a barcoded oligonucleotide system (BOLT), a platform that enables high-throughput in vivo evaluations of small-molecule ligands and identifies tissue-specific oligo delivery. BOLT integrates rational design of oligo barcodes, modular conjugation chemistry, and next-generation sequencing (NGS)-based quantification, allowing simultaneous evaluation of many chemically diverse ligand-oligo conjugates within a single animal. Notably, this platform is applicable in both mice and nonhuman primates (NHPs). Using BOLT, we discovered ligands with tropism for tissues such as the brain, lung, and muscle. Collectively, these results indicate that the BOLT platform can accelerate the discovery of tissue-targeting ligands for broad oligo therapeutics.",
+      "date": "2026-09-03",
+      "authors": [
+        "Hou X",
+        "Yu C",
+        "Xue Y"
+      ],
+      "doi": "10.1016/j.bioactmat.2026.08.058"
+    },
+    {
       "title": "Ultrasound-activated piezoelectric muscle constructs for tissue-engineered regenerative peripheral nerve interfaces.",
       "url": "https://doi.org/10.1016/j.bioactmat.2026.08.053",
       "source": "Europe PMC",
@@ -539,37 +551,11 @@
       "doi": "10.1080/08941939.2026.2712673"
     },
     {
-      "title": "Determinants of enteric hyperoxaluria in the SAMP1/YitFc mouse model of spontaneous ileitis.",
-      "url": "https://doi.org/10.1080/19490976.2026.2725367",
-      "source": "Europe PMC",
-      "abstract": "Enteric hyperoxaluria (EH) results from increased oxalate bioavailability in the gastrointestinal (GI) tract, often affecting patients with inflammatory bowel disease (IBD). We investigated the pathophysiology of EH in an ileitis mouse model, hypothesizing that fat malabsorption, increased gut permeability, and microbial shifts collectively contribute to the hyperoxaluric phenotype in the setting of GI tract inflammation. SAMP1/YitFc (SAMP1) mice and their parental AKR controls were fed one of three diets varying in fat content (10%, 45%, or 60% kcal), each supplemented with 1% oxalate, for 6 weeks. Plasma (P), urine (U), oxalate (Ox), and creatinine (Cr) levels were measured, while stool lipid species were analyzed using mass spectrometry. Intestinal permeability was assessed using sucralose and <sup>13</sup>C<sub>2</sub> oxalate gastric gavage in SAMP1 and AKR mice. Histology, qPCR, and Western blotting were performed on kidney, liver, and GI tissues. Microbial DNA was analyzed at the community, genus, and functional levels. Changes in bacterial metabolic pathways were investigated in the mice fed the highest fat content. The oxalobiome of SAMP1 and AKR mice was characterized using our bioinformatics pipeline. On high-fat diets, SAMP1 mice had higher UOx, POx, and PCr levels than AKR mice. Increased levels of diacylglycerols and free fatty acids in SAMP1 stool samples suggested fat malabsorption. A decrease in ZO1 and occludin intestinal expression, coupled with significantly increased urinary sucralose and oxalate levels, indicated increased intestinal permeability. Microbiome analysis revealed the enrichment of <i>Lactobacilli</i> and <i>Bacteroides</i> in SAMP1 mice, with bacterial pathways favoring lipid synthesis and glyoxylate metabolism. Ileal SLC26A6 protein expression was significantly reduced in SAMP1 mice. SAMP1 mice also developed progressive kidney injury with interstitial inflammation. These findings highlight fat malabsorption as a central pathophysiologic disturbance in EH that reduces luminal calcium availability for oxalate binding, is associated with enhanced intestinal permeability, and accompanies microbiome and enzymatic pathway alterations.",
-      "date": "2026-09-06",
-      "authors": [
-        "Zaidan N",
-        "Jaber K",
-        "Ho M"
-      ],
-      "doi": "10.1080/19490976.2026.2725367"
-    },
-    {
-      "title": "Oscillatory activity and LFP power modulation in the hippocampal CA1 and prelimbic cortex during morphine-induced place preference.",
-      "url": "https://doi.org/10.1016/j.ibneur.2026.08.018",
-      "source": "Europe PMC",
-      "abstract": "Morphine use disorder (MUD) is a complex neurobiological condition characterized by the reinforcement of addictive behaviors and the development of both psychological and physical dependence. The euphoric effects induced by morphine are mediated by key brain regions, including the CA1 region of the hippocampus and the prelimbic cortex (PrL). This study investigates the neural dynamics underlying morphine's effects on reward processing by examining local field potentials (LFP) in the CA1 and PrL regions during morphine-induced conditioned place preference (CPP). LFP recordings from male Wistar rats reveal significant changes in oscillatory activity in response to morphine administration during both the conditioning and reinstatement phases of the CPP paradigm. Specifically, morphine enhanced theta and high-gamma power in the CA1 region, reflecting increased hippocampal activity associated with drug-reward memory. Additionally, coherence between the CA1 and PrL regions in the theta frequency band was significantly altered, suggesting enhanced communication between these areas during drug craving behavior. These findings underscore the role of neural oscillations, particularly in the theta band, in morphine-induced reward memory formation and the reinstatement of drug-seeking behavior. This research provides insights into the neurophysiological mechanisms of MUD and highlights potential targets for developing therapeutic strategies aimed at addiction treatment.",
-      "date": "2026-08-22",
-      "authors": [
-        "Moshrefi F",
-        "Farrokhi AM",
-        "Karimian-Sani-Varjovi H"
-      ],
-      "doi": "10.1016/j.ibneur.2026.08.018"
-    },
-    {
       "title": "CZ",
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2018-004480-31/CZ",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-09-15",
+      "date": "2026-09-16",
       "authors": [],
       "doi": ""
     },
@@ -578,7 +564,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2020-005037-32/CZ",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-09-15",
+      "date": "2026-09-16",
       "authors": [],
       "doi": ""
     },
@@ -587,7 +573,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2021-002909-10/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-09-15",
+      "date": "2026-09-16",
       "authors": [],
       "doi": ""
     },
@@ -596,7 +582,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2015-000550-37/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-09-15",
+      "date": "2026-09-16",
       "authors": [],
       "doi": ""
     },
@@ -605,7 +591,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2021-000041-40/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-09-15",
+      "date": "2026-09-16",
       "authors": [],
       "doi": ""
     },
@@ -614,7 +600,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2020-000829-55/DK",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-09-15",
+      "date": "2026-09-16",
       "authors": [],
       "doi": ""
     },
@@ -623,7 +609,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2020-002790-94/SE",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-09-15",
+      "date": "2026-09-16",
       "authors": [],
       "doi": ""
     },
@@ -632,7 +618,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2021-006200-33/FI",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-09-15",
+      "date": "2026-09-16",
       "authors": [],
       "doi": ""
     },
@@ -641,7 +627,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2019-004812-73/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-09-15",
+      "date": "2026-09-16",
       "authors": [],
       "doi": ""
     },
@@ -650,7 +636,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2022-002369-14/BE",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-09-15",
+      "date": "2026-09-16",
       "authors": [],
       "doi": ""
     },

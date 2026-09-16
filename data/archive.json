@@ -1,6 +1,82 @@
 {
   "items": [
     {
+      "title": "Ketamine attenuates habenula activity in response to aversive outcomes during Pavlovian learning.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42743922/",
+      "source": "PubMed",
+      "date": "2026-09-15",
+      "authors": [
+        "Pulcu Erdem",
+        "Costi Sara",
+        "Artiach-Hortelano Pilar"
+      ],
+      "doi": "10.1016/j.cub.2026.08.044",
+      "summary_en": "Randomized controlled study (n=70) using 7-tesla fMRI examined ketamine's effects on habenula function during aversive Pavlovian learning. A single ketamine dose (0.5 mg/kg) attenuated habenula activity in response to aversive stimuli 24 hours post-infusion compared to placebo. Reduced habenula engagement during aversive learning may diminish negative memory impact, supporting ketamine's rapid antidepressant mechanism.",
+      "notable": true,
+      "notable_reason": "RCT (n=70) with 7-tesla fMRI and translational computational neuroscience approach elucidating ketamine's mechanism via habenula modulation during aversive learning.",
+      "study_type": "rct",
+      "substances": [
+        "ketamine"
+      ],
+      "added_at": "2026-09-16T11:52:56.874622+00:00"
+    },
+    {
+      "title": "Resetting the hippocampal buffer: a neurocognitive account of psychedelic therapy for anxiety-related psychopathology.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42742718/",
+      "source": "PubMed",
+      "date": "2026-09-15",
+      "authors": [
+        "McGovern Hugh",
+        "Wellman Nick",
+        "Hutchinson Brendan"
+      ],
+      "doi": "10.1007/s00213-026-07163-z",
+      "summary_en": "This theoretical review examines how psychedelics may treat anxiety-related disorders by modulating hippocampal function. The authors propose that psychedelics reset maladaptive memory patterns in the hippocampus through serotonin receptor activation, potentially alleviating anxiety symptoms. The paper integrates neurocognitive mechanisms to explain therapeutic outcomes in psychedelic-assisted therapy.",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "other",
+      "substances": [
+        "other"
+      ],
+      "added_at": "2026-09-16T11:52:56.874622+00:00"
+    },
+    {
+      "title": "On the meaning of \"plasticity\" in neuroscience and mental health research and its relation to the action of psychedelic therapy.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42745840/",
+      "source": "PubMed",
+      "date": "2026-09-01",
+      "authors": [
+        "Carhart-Harris R L",
+        "Zeifman R J",
+        "Pasquini L"
+      ],
+      "doi": "10.3389/fnins.2026.1875339",
+      "summary_en": "This opinion piece clarifies conceptual distinctions in plasticity research relevant to psychedelic therapy. The authors distinguish between \"plasticity proper\" (the ability to be shaped) and \"neuroplasticity\" (induced brain changes). They argue that common biomarkers of neuroplasticity often measure evoked processes linked to learning, which can paradoxically promote canalization rather than true plasticity. The authors caution against conflating neuroplastic biomarkers with improved mental health outcomes, noting this logical relationship remains unclear.",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "other",
+      "substances": [
+        "psilocybin"
+      ],
+      "added_at": "2026-09-16T11:52:56.874622+00:00"
+    },
+    {
+      "title": "No Questions Asked: FDA’s Psychedelics Public Hearing",
+      "url": "https://psychedelicalpha.com/news/no-questions-asked-fdas-psychedelics-public-hearing/",
+      "source": "Psychedelic Alpha",
+      "date": "2026-09-15",
+      "authors": [],
+      "doi": "",
+      "summary_en": "The FDA held a public hearing on psychedelics without allowing public questions or commentary. This represents a significant departure from standard regulatory procedure and raises concerns about transparency in the agency's approach to psychedelic substance evaluation and oversight.",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "other",
+      "substances": [
+        "other"
+      ],
+      "added_at": "2026-09-16T11:52:56.874622+00:00"
+    },
+    {
       "title": "Real-World Effectiveness and Safety of Esketamine Nasal Spray in Treatment-Resistant Depression: A Retrospective Observational Study.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42736875/",
       "source": "PubMed",

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-15T11:58:32.379584+00:00",
+  "generated_at": "2026-09-16T11:54:08.921340+00:00",
   "items": [
     {
       "title": "Blinding integrity in psychedelic research: Evidence from a comparative randomized controlled trial of psilocybin, MDMA, and methylphenidate in healthy volunteers",
@@ -32,6 +32,105 @@
         "mdma"
       ],
       "added_at": "2026-07-09T10:03:12.956794+00:00"
+    },
+    {
+      "title": "Ketamine attenuates habenula activity in response to aversive outcomes during Pavlovian learning.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42743922/",
+      "source": "PubMed",
+      "date": "2026-09-15",
+      "authors": [
+        "Pulcu Erdem",
+        "Costi Sara",
+        "Artiach-Hortelano Pilar"
+      ],
+      "doi": "10.1016/j.cub.2026.08.044",
+      "summaries": {
+        "en": "Randomized controlled study (n=70) using 7-tesla fMRI examined ketamine's effects on habenula function during aversive Pavlovian learning. A single ketamine dose (0.5 mg/kg) attenuated habenula activity in response to aversive stimuli 24 hours post-infusion compared to placebo. Reduced habenula engagement during aversive learning may diminish negative memory impact, supporting ketamine's rapid antidepressant mechanism.",
+        "sv": "Randomiserad studie (n=70) med 7-tesla fMRI undersökte kelamins effekter på habenulas funktion vid aversiv pavlovsk inlärning. En enda kelamindos (0,5 mg/kg) dämpade habenulas aktivitet som svar på aversiva stimuli 24 timmar efter infusion jämfört med placebo. Minskad habenulaktivitet under aversiv inlärning kan minska negativ minnespåverkan, vilket stödjer kelamins snabba antidepressiva mekanism.",
+        "no": "Randomisert studie (n=70) med 7-tesla fMRI undersøkte ketamins effekter på habenulas funksjon under aversiv pavlovsk læring. En enkelt ketamindose (0,5 mg/kg) reduserte habenulas aktivitet som respons på aversive stimuli 24 timer etter infusjon sammenlignet med placebo. Redusert habenulaktivitet under aversiv læring kan svekke negativ minnepåvirkning, noe som støtter ketamins raske antidepressiv mekanisme.",
+        "da": "Randomiseret studie (n=70) med 7-tesla fMRI undersøgte ketamins effekter på habenulaaktivitet under aversiv pavlovsk læring. En enkelt ketamindosis (0,5 mg/kg) mindskede habenulaens reaktion på aversive stimuli 24 timer efter infusion sammenlignet med placebo. Reduceret habenulaaktivitet under aversiv læring kan svække påvirkningen af negative erindringer, hvilket understøtter ketamins hurtige antidepressive virkning.",
+        "fi": "Satunnaistettu tutkimus (n=70) 7-teslalla fMRI:llä tutki ketamiinin vaikutusta habenulaan aversiivisen pavlovilaisen oppimisen aikana. Yksittäinen ketamiinitannos (0,5 mg/kg) vähensi habenulan reaktiota aversiivisiin ärsykkeisiin 24 tuntia infuusion jälkeen placeboon verrattuna. Heikentynyt habenulan aktiivisuus aversiivisen oppimisen aikana voi heikentää negatiivisten muistojen vaikutusta, mikä tukee ketamiinin nopeaa masennuslääkkeiden vaikutusmekanismia.",
+        "is": "Handahóf rannsókn (n=70) með 7-tesla fMRI kannaði áhrif ketamíns á starfsemi habenulu meðan á óhagstæðri pavljóvskri námi stóð. Ein skammtir ketamíns (0,5 mg/kg) minnkaði viðbrögð habenulu við óhagstæðum áreitum 24 klukkustundum eftir innsprautun samanborið við lyfleysu. Minnkuð starfsemi habenulu meðan á óhagstæðri námi stendur getur dregið úr áhrifum neikvæðra minningareffekta, sem styður hraða andþunglindaráhrif ketamíns.",
+        "et": "Randomiseeritud uuring (n=70) kasutades 7-tesla fMRI uuris ketamiini mõju habenulale aversiivsete pavlovi õppimise ajal. Üks ketamiini annus (0,5 mg/kg) vähendasid habenula reaktsiooni aversiivsete stiimulitele 24 tundi pärast infusiooni võrreldes platseeboga. Vähenenud habenula aktiivsus aversiivsete õppimise ajal võib nõrgendada negatiivsete mälestuste mõju, mis toetab ketamiini kiiret antidepressandse mehhanismi.",
+        "lv": "Randomizēts pētījums (n=70) ar 7-tesla fMRI pārbaudīja ketamīna ietekmi uz habenulu atversīvas Pavlova mācīšanās laikā. Viena ketamīna doza (0,5 mg/kg) samazināja habenulas aktivitāti, reagējot uz atversīviem stimuliem 24 stundas pēc infūzijas salīdzinājumā ar placebо. Samazināta habenulas aktivitāte atversīvās mācīšanās laikā var mazināt negatīvu afektīvu atmiņu ietekmi, atbalstot ketamīna ātro antidepresīvo mehānismu.",
+        "lt": "Randomizuotas tyrimas (n=70) su 7-tesla fMRI nagrinėjo ketamino poveikį habenulai per aversyvinį Pavlovo mokymąsi. Viena ketamino dozė (0,5 mg/kg) sumažino habenulos aktyvumą reaguojant į aversyvius dirgiklius 24 valandas po infuzijos, palyginti su placebu. Sumažėjęs habenulos aktyvumas aversyvaus mokymosi metu gali sumažinti neigiamų afektyvių atminčių poveikį, remiant ketamino greitą antidepresantinį mechanizmą."
+      },
+      "notable": true,
+      "notable_reasons": {
+        "en": "RCT (n=70) with 7-tesla fMRI and translational computational neuroscience approach elucidating ketamine's mechanism via habenula modulation during aversive learning.",
+        "sv": "RCT (n=70) med 7-tesla fMRI och translationell beräkningsneuroveteskap som klargör ketamins mekanism via habenula-modulering under aversiv inlärning.",
+        "no": "RCT (n=70) med 7-tesla fMRI og translasjonell beregningsneurobiologi som oppklarer ketamins mekanisme via habenula-modulering under aversiv læring.",
+        "da": "RCT (n=70) med 7-tesla fMRI og translationel beregnende neurobiologi, som præciserer ketamins mekanisme via habenula-modulering under aversiv læring.",
+        "fi": "RCT (n=70) 7-tesla fMRI:llä ja translationaalisella laskennallisella neurotiedeellä, joka selventää ketamiinin mekanismia habenula-modulaation kautta aversiivin oppimisen aikana.",
+        "is": "RCT (n=70) með 7-tesla fMRI og þýðandi reikningsneuruvísindum sem skýra kerfi ketamíns með habenula-breytingu við slæma nám.",
+        "et": "RCT (n=70) koos 7-tesla fMRI-ga ja translatsionaalse arvutusneuroteadusega, mis selgitab ketamiini mehhanismi habenula modulatsiooni kaudu vastumeelse õppimise ajal.",
+        "lv": "RCT (n=70) ar 7-tesla fMRI un translācijas skaitļošanas neirozinātnēm, kas skaidro ketamīna mehānismu caur habenula modulāciju neatvērtās mācīšanās laikā.",
+        "lt": "RCT (n=70) su 7-tesla fMRI ir transliacijine skaičiavimų neurausuomis, kurios paaiškina ketamino mechanizmą per habenula moduliavimą neigiamo mokymosi metu."
+      },
+      "relevance_score": 4,
+      "study_type": "rct",
+      "substances": [
+        "ketamine"
+      ],
+      "added_at": "2026-09-16T11:52:56.874622+00:00"
+    },
+    {
+      "title": "Resetting the hippocampal buffer: a neurocognitive account of psychedelic therapy for anxiety-related psychopathology.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42742718/",
+      "source": "PubMed",
+      "date": "2026-09-15",
+      "authors": [
+        "McGovern Hugh",
+        "Wellman Nick",
+        "Hutchinson Brendan"
+      ],
+      "doi": "10.1007/s00213-026-07163-z",
+      "summaries": {
+        "en": "This theoretical review examines how psychedelics may treat anxiety-related disorders by modulating hippocampal function. The authors propose that psychedelics reset maladaptive memory patterns in the hippocampus through serotonin receptor activation, potentially alleviating anxiety symptoms. The paper integrates neurocognitive mechanisms to explain therapeutic outcomes in psychedelic-assisted therapy.",
+        "sv": "Denna teoretisk översikt undersöker hur psykedelika kan behandla angststörningar genom att modulera hippocampus funktion. Författarna föreslår att psykedelika återställer maladaptiva minnesmönster i hippocampus via serotoninreceptoraktivering, vilket potentiellt kan lindra angstsymtom. Arbetet integrerar neurokognitiva mekanismer för att förklara terapeutiska resultat.",
+        "no": "Denne teoretiske oversikten undersøker hvordan psykedelika kan behandle angstrelaterte lidelser ved å modulere hippocampusfunksjon. Forfatterne foreslår at psykedelika tilbakestiller maladaptive minnesmønstre i hippocampus gjennom serotoninreseptoraktivering, noe som potensielt kan lindre angstesymptomer. Arbeidet integrerer nevrокognitive mekanismer.",
+        "da": "Denne teoretiske oversigt undersøger, hvordan psykedelika kan behandle angstrelaterede forstyrrelser ved at modulere hippocampusfunktion. Forfatterne foreslår, at psykedelika nulstiller maladaptive hukommelsesmønstre i hippocampus gennem serotoninreceptoraktivering, hvilket potentielt kan lindre angstesymptomer. Arbejdet integrerer neurokognitive mekanismer.",
+        "fi": "Tämä teoreettinen katsaus tutkii, kuinka psykedeelit voivat hoitaa ahdistukseen liittyviä häiriöitä sääntelemällä hippocampuksen toimintaa. Kirjoittajat ehdottavat, että psykedeelit nollaavat sopeutumattomia muistikuvioita hippocampuksessa serotoniiniereseptorien aktivoinnin kautta, mikä voi potentiaalisesti lievittää ahdistuksen oireita.",
+        "is": "Þessi fræðilega yfirlit skoðar hvernig sáleinkennavirkir efnir geta meðhöndlað kvöl-tengda geðraskanir með því að stýra starfsemi hippocampus. Höfundar benda til þess að sáleinkennavirkir efnir endurstilli óhentug minningamynstur í hippocampus með serotonínviðtakum, sem gæti hugsanlega dregið úr kvölasymptómum.",
+        "et": "See teoreetiline ülevaade uurib, kuidas psühhedeelikumid võivad ravida ärevusega seotud häireid hippocampuse funktsiooni moduleerimise kaudu. Autorid pakuvad välja, et psühhedeelikumid nullitavad hippocampuses ebakohanduvaid mälumustreid serotoniiniretseptorite aktiveerimise kaudu, mis võib potentsiaalselt leevendada ärevussümptomeid.",
+        "lv": "Šis teorētiskais pārskats pēta, kā psihedeliki var ārstēt trauksmi saistītus traucējumus, modulējot hipokampa funkciju. Autori iesaka, ka psihedeliki atjauno nepiemērotus atmiņas modeļus hipokampā caur serotonīna receptoru aktivāciju, kas potenciāli var mazināt trauksmes simptomus. Darbs integrē neirokognitīvos mehānismus.",
+        "lt": "Šiame teoriniame apžvalgoje nagrinėjama, kaip psichedelikai gali gydyti su nerimo susijusius sutrikimus moduliuojant hipokampo funkcijas. Autoriai siūlo, kad psichedelikai iš naujo nustato neprisitaikius atminties modelius hipokampe per serotonino receptorių aktyvinimą, o tai gali sumažinti nerimo simptomus. Darbas integruoja neurokognityvinius mechanizmus."
+      },
+      "notable": false,
+      "notable_reasons": null,
+      "relevance_score": 4,
+      "study_type": "other",
+      "substances": [
+        "other"
+      ],
+      "added_at": "2026-09-16T11:52:56.874622+00:00"
+    },
+    {
+      "title": "No Questions Asked: FDA’s Psychedelics Public Hearing",
+      "url": "https://psychedelicalpha.com/news/no-questions-asked-fdas-psychedelics-public-hearing/",
+      "source": "Psychedelic Alpha",
+      "date": "2026-09-15",
+      "authors": [],
+      "doi": "",
+      "summaries": {
+        "en": "The FDA held a public hearing on psychedelics without allowing public questions or commentary. This represents a significant departure from standard regulatory procedure and raises concerns about transparency in the agency's approach to psychedelic substance evaluation and oversight.",
+        "sv": "FDA höll en offentlig hearing om psykedeliska ämnen utan att tillåta publikfrågor eller kommentarer. Detta avviker markant från standardiserad regleringsprocess och väcker frågor om transparensen i myndighetens hantering av psykedeliska substanser.",
+        "no": "FDA gjennomførte en offentlig høring om psykedelika uten å tillate publikumsspørsmål eller kommentarer. Dette avviker betydelig fra standard regulatorisk prosedyre og reiser spørsmål om åpenhet i byråets tilnærming til psykedeliske stoffer.",
+        "da": "FDA afholdt en offentlig høring om psykedelika uden at tillade publikumsspørgsmål eller kommentarer. Dette afviger væsentligt fra standard regulatorisk procedure og rejser spørgsmål om transparens i myndighedens tilgang til psykedeliske stoffer.",
+        "fi": "FDA järjesti julkisen kuulemistilaisuuden psykedeliikeista ilman, että yleisö sai esittää kysymyksiä tai kommentteja. Tämä poikkeaa merkittävästi normaaleista sääntelymenettelyistä ja herättää huolia viranomaisen läpinäkyvyydestä psykedelisten aineiden arvioinnissa.",
+        "is": "FDA hélt opinbera málstofu um blýflug án þess að leyfa almenningi að spyrja spurninga eða gera athugasemdir. Þetta víkur umtalsvert frá venjulegum eftirlitsaðferðum og vekur spurningar um gagnsæi stofnunarinnar við mat á blýflugi.",
+        "et": "FDA pidas avalikku kuulamist psühhedeelikute kohta ilma, et publikul oleks võimalus küsimusi esitada või kommentaare teha. See erineb oluliselt standardsest regulatsioonimenetlusest ja tekitab küsimusi asutuse läbipaistvuse kohta psühhedeelikute hindamisel.",
+        "lv": "FDA sarīkoja publiskās klausīšanās sesiju par psihedelikiem bez atļaujas uzdot jautājumus vai sniegt komentārus. Tas būtiski novirzās no standarta regulējuma procedūras un izraisa bažas par aģentūras pārredzamību psihedelisko vielu novērtēšanā.",
+        "lt": "FDA surengė viešą psichedelinių medžiagų klausymą be galimybės visuomenei užduoti klausimus ar pateikti komentarus. Tai reikšmingai nukrypsta nuo standartinės reguliavimo procedūros ir kelią klausimus dėl agentūros skaidrumo psichedelinių medžiagų vertinime."
+      },
+      "notable": false,
+      "notable_reasons": null,
+      "relevance_score": 3,
+      "study_type": "other",
+      "substances": [
+        "other"
+      ],
+      "added_at": "2026-09-16T11:52:56.874622+00:00"
     },
     {
       "title": "Definium Notches Second Positive Phase 3 in Generalised Anxiety Disorder",
@@ -1008,6 +1107,37 @@
       "added_at": "2026-09-02T11:33:33.070909+00:00"
     },
     {
+      "title": "On the meaning of \"plasticity\" in neuroscience and mental health research and its relation to the action of psychedelic therapy.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42745840/",
+      "source": "PubMed",
+      "date": "2026-09-01",
+      "authors": [
+        "Carhart-Harris R L",
+        "Zeifman R J",
+        "Pasquini L"
+      ],
+      "doi": "10.3389/fnins.2026.1875339",
+      "summaries": {
+        "en": "This opinion piece clarifies conceptual distinctions in plasticity research relevant to psychedelic therapy. The authors distinguish between \"plasticity proper\" (the ability to be shaped) and \"neuroplasticity\" (induced brain changes). They argue that common biomarkers of neuroplasticity often measure evoked processes linked to learning, which can paradoxically promote canalization rather than true plasticity. The authors caution against conflating neuroplastic biomarkers with improved mental health outcomes, noting this logical relationship remains unclear.",
+        "sv": "Denna artikkel klargör begreppsmässiga skillnader inom plasticitets­forskning relevant för psykedelisk terapi. Författarna skiljer mellan \"plasticity proper\" (förmågan att formas) och \"neuroplasticitet\" (inducerade hjärnförändringar). De hävdar att vanliga biomarkörer för neuroplasticitet ofta mäter evokerade processer länkade till inlärning, vilket paradoxalt kan främja kanalisering snarare än sann plasticitet. Författarna varnar för att konfundera neuroplastiska biomarkörer med förbättrad psykisk hälsa, då detta logiska samband är oklart.",
+        "no": "Denne artikkelen presiserer konseptuelle skiller i plastisitetsforskning relevant for psykedelisk terapi. Forfatterne skiller mellom \"plasticity proper\" (evnen til å bli formet) og \"neuroplastisitet\" (induserte hjernedringer). De argumenterer for at vanlige biomarkører for neuroplastisitet ofte måler evokerte prosesser knyttet til læring, som paradoksalt kan fremme kanalisering heller enn sann plastisitet. Forfatterne advarer mot å forveksle neuroplastiske biomarkører med forbedret psykisk helse, da dette logiske forholdet forblir uklart.",
+        "da": "Denne artikel præciserer begrebsmæssige distinktioner inden for plasticitets­forskning relevant for psykedelisk terapi. Forfatterne skelner mellem \"plasticity proper\" (evnen til at blive formet) og \"neuroplasticitet\" (inducerede hjernændringer). De argumenterer for, at almindelige biomarkører for neuroplasticitet ofte måler evokerede processer forbundet med læring, hvilket paradoksalt kan fremme kanalisering snarere end sand plasticitet. Forfatterne advarer mod at sammenblande neuroplastiske biomarkører med forbedret psykisk sundhed, da denne logiske sammenhæng forbliver uafklaret.",
+        "fi": "Tässä artikkelissa selvitetään plastisiteettitutkimukseen liittyviä käsitteellisiä eroja, jotka ovat relevantteja psykedeliselle terapialle. Kirjoittajat erottavat \"plasticity properin\" (muovattavuuden) ja \"neuroplastisuuden\" (indusoituja aivojen muutoksia). He väittävät, että yleiset neuroplastisuuden biomarkerit usein mittaavat oppimiseen liittyviä herätettyjä prosesseja, jotka paradoksaalisesti voivat edistää kanavointia todellisen plastisuuden sijaan. Kirjoittajat varoittavat neuroplastisten biomarkkerien sekoittamisesta parantuneeseen psyykkiseen terveyteen, sillä tämä looginen yhteys on epäselvä.",
+        "is": "Þessi grein skýrir hugtakamun innan plastísiteits­rannsókna sem skipta máli fyrir sáleinkennis­meðferð með sálarflækjum. Höfundar greina á milli \"plasticity proper\" (getu til að endurmótunar) og \"taugaplastísiteits\" (framkallaðra breytinga á heila). Þeir halda því fram að algengar líffræðilegar merki taugaplastísiteits mæla oft framkölluð ferli tengd námi, sem þversagnar­fullt getur ýtt undir stærðun frekar en sannarlega plastísitet. Höfundar vara við því að rugla saman taugaplastís­legum merkjum og bættri andlegri heilsu, þar sem þetta rökfræðilega samband helst óljóst.",
+        "et": "See artikkel selgitab plastitsiteedi­uuringute mõiste­vahest erinevust, mis on olulised psühhedeelidega ravile. Autorid eristavad \"plastiidsust õigesti\" (muudatavuse võimet) ja \"närviplastitsiteeti\" (esile kutsutud aju muutusi). Nad väidavad, et levinud närviplastitsiteedi biomerkerid mõõdavad sageli õppimisega seotud esile kutsutud protsesse, mis paradoksaalselt võivad edendada kanaliseerimist õige plastitsiteedi asemel. Autorid hoiatavad närviplastitsiteedi biomerkerite segi ajamise eest paranenud vaimse tervisega, kuna see loogiline seos jääb ebaselgeks.",
+        "lv": "Šis raksts precizē plasticitātes pētniecības konceptuālas atšķirības, kas ir svarīgas psihedelisko vielu terapijai. Autori izšķir \"īsto plasticitāti\" (spēju tikt veidotam) un \"neiroplasticitāti\" (izraisītās smadzeņu izmaiņas). Viņi apgalvo, ka parastie neiroplasticitātes biomarķieri bieži mēra ar mācīšanos saistītus izraisītus procesus, kas paradoksāli var veicināt kanalizēšanu, nevis patieso plasticitāti. Autori brīdina pret neiroplasticitātes biomarķieru sajaukšanu ar uzlabotu garīgo veselību, jo šīs loģiskās sakarības paliek neskaidras.",
+        "lt": "Šiame straipsnyje aiškinama plastingumo tyrinėjimų sampratiniai skirtumai, svarbūs psichedelinėms medžiagoms skirtai terapijai. Autoriai išskiria \"tikrąjį plastingumą\" (gebėjimą būti suformuotam) ir \"neuroplasingumą\" (sukeltas smegenyno pokyčius). Jie teigia, kad bendri neuroplasingumo biožymenys dažnai matuoja mokymuisi susijusius sukeltas procesus, kurie paradoksaliai gali skatinti kanalizavimą, o ne tikrąjį plastingumą. Autoriai perspėja prieš neuroplasingumo biožymenų painiojimą su pagerintu psichine sveikata, nes šis loginis ryšys lieka neaiškus."
+      },
+      "notable": false,
+      "notable_reasons": null,
+      "relevance_score": 3,
+      "study_type": "other",
+      "substances": [
+        "psilocybin"
+      ],
+      "added_at": "2026-09-16T11:52:56.874622+00:00"
+    },
+    {
       "title": "Psychopharmacology at an Inflection Point: From Syndromes to Stratified Mechanisms, Circuit-Based Treatments, and Precision Psychiatry.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42735276/",
       "source": "PubMed",
@@ -1853,135 +1983,6 @@
         "ketamine"
       ],
       "added_at": "2026-09-05T10:48:05.148635+00:00"
-    },
-    {
-      "title": "Adverse Effect-Related Language in Recreational Psychedelic and non-Psychedelic Substance Experience Reports.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42631663/",
-      "source": "PubMed",
-      "date": "2026-08-22",
-      "authors": [
-        "Hase Adrian",
-        "Erdmann Max",
-        "Calder Abigail"
-      ],
-      "doi": "10.15288/jsad.25-00426",
-      "summaries": {
-        "en": "Psycholinguistic analysis of 4,226 online experience reports compared adverse effect language across psychedelics and non-psychedelic substances. Using latent semantic analysis, researchers assessed semantic similarity to 77 literature-based adverse effect terms. Ayahuasca showed highest vomiting-related language; ketamine, dissociation-related; MDMA, drowsiness and cardiac event-related language. Report sentiment (positive/negative) influenced between-substance differences. Findings suggest recreational experience reports contain substance-specific adverse effect signatures.",
-        "sv": "Psykolingvistisk analys av 4 226 onlinerapporter jämförde adversa effektspråk mellan psykedelika och icke-psykedelika. Med latent semantisk analys bedömde forskare semantisk likhet med 77 litteraturbaserade adversa effekttermer. Ayahuasca visade högst kräkningar; ketamin, dissociation; MDMA, sömnighet och hjärteffekter. Rapporternas känsla påverkade skillnader mellan substanser. Resultaten visar att rekreationella upplevelserapporter innehåller substansspecifika signaturer för adversa effekter.",
-        "no": "Psykolingvistisk analyse av 4 226 nettrapporter sammenliknet bivirkning-språk mellom psykedelika og ikke-psykedelika. Med latent semantisk analyse vurderte forskere semantisk likhet med 77 litteraturbaserte bivirkningstermer. Ayahuasca viste høyest oppkastingsrelatert språk; ketamin, dissosiasjonsrelatert; MDMA, døsighet og hjerterelatert. Rapportenes sentimentalitet påvirket substansforskjeller. Funnene tyder på at rekreasjonelle erfaringsrapporter inneholder substansspesifikke signaturer for bivirkninger.",
-        "da": "Psykolingvistisk analyse af 4.226 onlinerapporter sammenlignede bivirkning-sprog mellem psykedelika og ikke-psykedelika. Med latent semantisk analyse vurderede forskere semantisk lighed med 77 litteraturbaserede bivirkning-termer. Ayahuasca viste højeste opkastnings-relateret sprog; ketamin, dissociation-relateret; MDMA, døsighed og hjerte-relateret. Rapporternes sentimentalitet påvirkede substansforskelle. Fund tyder på, at rekreative erfaringsrapporter indeholder substansspecifikke signaturer for bivirkninger.",
-        "fi": "Psykolingvistinen analyysi 4 226 verkkokertomuksesta vertaili haittavaikutuksiin liittyvää kieltä psykedeliikan ja muiden aineiden välillä. Latentin semanttisen analyysin avulla tutkijat arvioivat semanttista samankaltaisuutta 77 kirjallisuusperusteiseen haittavaikutustermiin. Ayahuasca näytti korkeinta oksentamisen vähennykseen liittyvää kieltä; ketamiini, dissosiaatiot; MDMA, uneliaisuus ja sydäntapahtumiin liittyvät termit. Raporttien sentimentin arvioineet vaikuttivat aineisiin liittyviin eroihin. Tulokset viittaavat rekreatiivisten kokemuskertomuksien sisältävän ainekohtaisia haittavaikutusten piirteitä.",
-        "is": "Sálkræn málfræðileg greining á 4.226 netkennslum berdur saman skaðlegar afleiðingar milli getuhrifa og annarra efna. Með latentri merkingarfræðilegri greiningu metu vísindamenn merkingarfræðilega líkindi við 77 bókmenntabyggðar skaðlegar afleiðingar. Ayahuasca sýndi hæstu beina-tengda tungumál; ketamin, sundrun; MDMA, þreytu og hjartaflækju. Viðhorf skýrslna höfðu áhrif á muninn milli efna. Niðurstöður benda til að afslöppuðar reynsluskýrslur innihaldi efnisbundnar skaðlegar afleiðingar.",
-        "et": "Psühholingvistilise analüüsi abil uuriti 4 226 veebiaruannet, võrreldes kahjulike toimete kirjeldusi psühhedeelikumide ja muude ainete vahel. Latentne semantiline analüüs hindas semantilist sarnasust 77 kirjandusel põhineva kahjulike toimete terminiga. Ayahuasca näitas kõrgeimaid oksendamise-seotud avaldisi; ketamiin, dissotsiatsiooni; MDMA, uimasust ja südamehäirete seotud termineid. Aruannete sentimentidel oli mõju ainete vahelisele erinevusele. Tulemused viitavad, et rekreatiivsetel kogemuste aruannetel on ainetespetsiifilised kahjulike toimete mustrid.",
-        "lv": "Psiholingvistiskā analīze pārbaudīja 4 226 tiešsaistes ziņojumus, salīdzinot nelabvēlīgo efektu valodu starp psihedelikiem un citām vielām. Latentā semantiskā analīze novērtēja semantisko līdzību ar 77 literatūrā balstītajiem nelabvēlīgo efektu terminiem. Ayahuasca uzrādīja augstākās vemšanas-saistītās valodas; ketamīns, disociatīvos; MDMA, miegainību un sirds-saistītos terminus. Ziņojumu sentiments ietekmēja atšķirības starp vielām. Rezultāti liecina, ka rekreatīvi pieredzes ziņojumi satur vielu-specifiskas nelabvēlīgo efektu pazīmes.",
-        "lt": "Psiholingvistinė 4 226 interneto ataskaitų analizė palyginusi neigiamų poveikių kalbą tarp psichedelikų ir kitų medžiagų. Latenčios semantinės analizės metodu tyrėjai įvertino semantinį panašumą su 77 literatūriniais neigiamų poveikių terminais. Ayahuasca parodė didžiausią pykinimo-susijusią kalbą; ketaminas, disociaciją; MDMA, pasparimą ir širdies-susijusius terminus. Ataskaitų sentimentas turėjo įtakos medžiagų skirtumams. Rezultatai rodo, kad rekreacines patirties ataskaitos turi medžiagai būdingus neigiamų poveikių požymius."
-      },
-      "notable": false,
-      "notable_reasons": null,
-      "relevance_score": 4,
-      "study_type": "observational",
-      "substances": [
-        "lsd",
-        "psilocybin",
-        "ketamine",
-        "mdma",
-        "ayahuasca",
-        "other"
-      ],
-      "added_at": "2026-08-23T07:09:45.539258+00:00"
-    },
-    {
-      "title": "Appetite measures during ketamine administration in treatment-resistant mood disorders: a naturalistic study.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42698604/",
-      "source": "PubMed",
-      "date": "2026-08-21",
-      "authors": [
-        "Mechlińska Agnieszka",
-        "Wiglusz Mariusz",
-        "Słupski Jakub"
-      ],
-      "doi": "10.3389/fnut.2026.1858899",
-      "summaries": {
-        "en": "Naturalistic study examining appetite changes during repeated ketamine treatment in hospitalized adults with treatment-resistant depression and bipolar disorder. Using Visual Analog Scales and nutritional questionnaires at baseline and up to 7 days post-administration, researchers found no significant appetite alterations across diagnostic groups or BMI categories, with no increased undernutrition risk. Results support ketamine's favorable metabolic safety profile in treatment-resistant mood disorders.",
-        "sv": "Naturalistisk studie som undersökte appetitförändringar under upprepad ketaminbehandling hos inlagda patienter med behandlingsresistent depression och bipolär sjukdom. Med visuella analogskalor och nutritionsenkäter vid baseline och upp till 7 dagar efter administrering fann forskare inga signifikanta appetitförändringar över diagnostiska grupper eller BMI-kategorier, utan ökad undernäringsrisk. Resultaten stödjer ketamins gynnsamma metabola säkerhetsprofil.",
-        "no": "Naturalistisk studie som undersøkte appetitendringer under gjentatt ketaminkur hos innlagte pasienter med behandlingsresistent depresjon og bipolar lidelse. Ved hjelp av visuelle analogskalaer og ernæringsundersøkelser ved baseline og opp til 7 dager etter administrering fant forskere ingen signifikante appetitendringer på tvers av diagnostiske grupper eller BMI-kategorier, uten økt underernæringsrisiko. Resultatene støtter ketamins gunstige metabolske sikkerhetsprofil.",
-        "da": "Naturalistisk studie, der man undersøgte appetitændringer under gentagen ketaminbehandling hos indlagte patienter med behandlingsresistent depression og bipolar lidelse. Ved hjælp af visuelle analogskalaer og ernæringsbaserede spørgeskemaer ved baseline og op til 7 dage efter administration fandt forskerne ingen signifikante appetitændringer på tværs af diagnostiske grupper eller BMI-kategorier, uden øget underernæringsrisiko. Resultaterne understøtter ketamins gunstige metabolske sikkerhedsprofil.",
-        "fi": "Luonnollinen tutkimus, joka tutki ruokahalun muutoksia toistuvien ketamiinihoitojen aikana sairaalahoitoisilla potilailla, joilla oli hoitoresistentti depressio ja kaksisuuntainen mielialahäiriö. Visuaalisten analogiasteikkojen ja ravitsemuksellisten kyselyjen avulla baseline-mittauksissa ja jopa 7 päivää administroinnin jälkeen tutkijat havaitsivat merkittäviä ruokahalun muutoksia diagnostisten ryhmien ja BMI-luokkien välillä ilman lisääntynyttä aliravitsemuksen riskiä. Tulokset tukevat ketamiinin hyvää metabolista turvallisuusprofiilia.",
-        "is": "Náttúruleg rannsókn sem skoðaði breytingar á matarlyst meðan á endurteknum ketamínmeðferðum stóð hjá innlagðum sjúklingum með meðferðarþolni þunglyndi og tvíhnattu truflunum. Með því að nota sjónrænar hliðstæðakvarða og næringu spurningalista við grunnlínu og allt að 7 dögum eftir skammtinn fundu rannsakendur engar verulegar breytingar á matarlyst yfir greiningarhópa og líkamsþyngdarvísitölu flokka, án aukinnar vannæringar áhættu. Niðurstöður styðja hagstæða efnaskiptaöryggissnið ketamíns.",
-        "et": "Loomulik uuringust, mis uuris isu muutusi korduvate ketamiinravide ajal hospitaliseeritud patsientidel, kellel oli ravile vastupidav depressioon ja kahepoolne häire. Visuaalsete analoogskaala ja toitumise küsimustike abil algmõõtmises ja kuni 7 päeva pärast manustamist ei leidnud teadlased märkimisväärseid isumuutusi diagnostiliste gruppide ja kehakaalunäitaja kategooriate vahel ning ohututa alanärimise riskita. Tulemused toetavad ketamiini soodsat metaboliitset ohutuseprofiili.",
-        "lv": "Naturāla pētījuma par apetītes izmaiņām atkārtotās ketamīna ārstēšanas laikā hospitalizētiem pacientiem ar ārstēšanai rezistentu depresiju un bipolāru traucējumu. Izmantojot vizuālās analogas skalas un uztūres jautājumus pamatmērījumos un līdz 7 dienām pēc ievadīšanas, pētnieki neatrada nozīmīgas apetītes izmaiņas diagnostikas grupu un ķermeņa masas indeksa kategoriju starpā, bez paaugstināta nepietiekama uztūres risku. Rezultāti atbalsta ketamīna labvēlīgo metabolisko drošības profilu.",
-        "lt": "Natūralus tyrimas, skirtas pokyčiams apetitui tirti kartotinai ketamino terapijai gydant hospitalizuotus pacientus su atlaidu depresija ir bipoliniu sutrikimu. Naudojant vizualines analogines skales ir mitybos klausimynus bazeline ir iki 7 dienu po vartojimo, tyrėjai nenustate reikšmingu apetito pokyčiu diagnostiniu grupiu ir kūno masės indekso kategoriju, be padidėjusio nepakankamos mitybos rizikos. Rezultatai paremia ketamino palankią metabolinę saugumo profilį."
-      },
-      "notable": false,
-      "notable_reasons": null,
-      "relevance_score": 3,
-      "study_type": "observational",
-      "substances": [
-        "ketamine"
-      ],
-      "added_at": "2026-09-06T11:10:06.581018+00:00"
-    },
-    {
-      "title": "The trials of translating psilocybin treatment from research to practice.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42629464/",
-      "source": "PubMed",
-      "date": "2026-08-21",
-      "authors": [
-        "Galindo Liliana",
-        "Ragnhildstveit Anya",
-        "Illingworth Benjamin J G"
-      ],
-      "doi": "10.1038/s41591-026-04597-y",
-      "summaries": {
-        "en": "This article examines challenges in translating psilocybin-assisted therapy from clinical research settings to practical medical implementation. Key considerations include protocol standardization, therapist training, regulatory pathways, and patient selection criteria necessary for safe and effective clinical deployment.",
-        "sv": "Artikeln undersöker utmaningarna med att implementera psylocybinassisterad terapi från klinisk forskning till praktisk medicinsk tillämpning. Viktiga aspekter inkluderar protokollstandardisering, terapeututbildning, regulatoriska vägar och patientvalsskriterier för säker och effektiv klinisk användning.",
-        "no": "Artikkelen ser på utfordringene med å overføre psylocybinassistert terapi fra klinisk forskning til praktisk medisinsk bruk. Viktige hensyn inkluderer protokollstandardisering, terapeutopplæring, regulatoriske prosesser og pasientseleksjonskriterier for sikker og effektiv klinisk gjennomføring.",
-        "da": "Artiklen undersøger udfordringerne ved at oversætte psylocybinassisteret terapi fra klinisk forskning til praktisk medicinsk implementering. Vigtige overvejelser omfatter protokolstandardisering, terapeutuddannelse, regulatoriske veje og patienturvalsskriterier for sikker og effektiv klinisk anvendelse.",
-        "fi": "Artikkelissa tarkastellaan psylosibiini-avusteisen terapian siirtämiseen liittyviä haasteita kliinisestä tutkimuksesta käytännön lääketieteelliseen soveltamiseen. Keskeisiä tekijöitä ovat protokollan standardointi, terapeutikoulutus, sääntelyreitit ja potilasvalintakriteerit turvallista ja tehokasta kliinistä käyttöä varten.",
-        "is": "Greinin fjallar um áskorunum við að flytja psýlósýbín-aðstoðað meðferð frá klínískum rannsóknum yfir í hagnýta lækniðlega beitingu. Mikilvæg atriði fela í sér stöðlun samskipta, þjálfun meðferðarmanna, reglubundnar leiðir og val á sjúklingum fyrir örugga og árangursríka klíníska notkun.",
-        "et": "Artikkel käsitleb psülotsibiini-abiliseeritud teraapia tõlkimise väljakutseid kliinilisest uurimistööst praktilisse meditsiinilisse rakendamisse. Peamised aspektid hõlmavad protokolli standardiseerimist, terapeudi koolitust, regulatiivseid teid ja patsiendi valiku kriteeriume turvalise ja tõhusa kliinilise kasutamise jaoks.",
-        "lv": "Raksts izskata izaicinājumus psilotsibīna-atbalstītas terapijas pārnešanā no klīniskajiem pētījumiem uz praktisku medicīnisku ieviešanu. Galvenie apsvērumi ietver protokola standartizāciju, terapeita apmācību, normatīvos ceļus un pacientu atlases kritērijus drošai un efektīvai klīniskai pielietošanai.",
-        "lt": "Straipsnis nagrinėja iššūkius, susijusius su psiliocibino-pagalbine terapija perkeliant iš klinikinių tyrimų į praktinę medicininę taikymą. Pagrindiniai aspektai apima protokolo standartizavimą, terapeutu mokymą, normatyvinius kelius ir pacientų atrankos kriterijus, reikalingus saugiai ir veiksmingai klinikai taikymui."
-      },
-      "notable": false,
-      "notable_reasons": null,
-      "relevance_score": 4,
-      "study_type": "other",
-      "substances": [
-        "psilocybin"
-      ],
-      "added_at": "2026-08-23T07:09:45.539258+00:00"
-    },
-    {
-      "title": "Low-dose lysergic acid diethylamide alters subjective visual perception but not visual contrast surround suppression.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42626628/",
-      "source": "PubMed",
-      "date": "2026-08-20",
-      "authors": [
-        "Jaeckel Lucca F",
-        "Logvinski Deborah",
-        "Kanana Mika"
-      ],
-      "doi": "10.1093/nc/niag050",
-      "summaries": {
-        "en": "A randomized, double-blind study (N=30) examined whether low-dose LSD (10-20 μg) alters contrast surround suppression—a visual illusion where embedded gratings appear lower in contrast. While participants reported subjective visual changes (increased blur, saturation, and dynamism), LSD did not measurably affect the suppression mechanism itself. This dissociation suggests low-dose LSD's visual effects operate through mechanisms distinct from early contextual visual processing.",
-        "sv": "En randomiserad, dubbelblind studie (N=30) undersökte om låg-dos LSD (10-20 μg) förändrar kontrastomgärdningsundertryckning—en visuell illusion där inbäddade gitter verkar ha lägre kontrast. Även om deltagarna rapporterade subjektiva visuella förändringar (ökad suddighet, mättnad och dynamik), påverkade LSD inte suppressionsmekanismen. Denna dissociation tyder på att låg-dos LSD:s visuella effekter verkar genom mekanismer skilda från tidig visuell kontextbearbetning.",
-        "no": "En randomisert, dobbeltblindet studie (N=30) undersøkte om lavdose LSD (10-20 μg) endrer kontraststøy-undertrykkelse—en visuell illusjon der innbakte gitter ser ut til å ha lavere kontrast. Selv om deltakerne rapporterte subjektive visuelle endringer (økt uskarphet, metning og dynamikk), påvirket LSD ikke undertrykkingsmekanismen. Denne dissosiasjonen tyder på at lavdose LSD:s visuelle effekter virker gjennom andre mekanismer enn tidlig visuell kontekstbehandling.",
-        "da": "Et randomiseret, dobbeltblindet studie (N=30) undersøgte, om lav-dosis LSD (10-20 μg) ændrer kontraststyrkenedsættelse—en visuell illusion, hvor indlejrede mønstre virker lavere i kontrast. Selvom deltagerne rapporterede subjektive visuelle ændringer (øget sløring, mætning og dynamik), påvirkede LSD ikke mekanismen. Denne dissociation tyder på, at lav-dosis LSD:s visuelle effekter virker gennem andre mekanismer end tidlig visuell kontekstbehandling.",
-        "fi": "Satunnaistettu, kaksoissokkoutettu tutkimus (N=30) tutki, muuttaako matala-annosinen LSD (10-20 μg) kontrastinympäröintivaikutusta—visuaalista illuusiota, jossa silmukan kontrasti näyttää matalammalta. Osallistujat ilmoittivat subjektiivisista visuaalisista muutoksista (lisääntynyt epäterävyys, värikylläisyys ja dynamiikka), mutta LSD ei vaikuttanut vaikutusmekanismiin. Tämä dissosiaatio viittaa siihen, että matala-annoksisen LSD:n visuaaliset vaikutukset toimivat muiden mekanismien kautta kuin varhainen visuaalinen kontekstin käsittely.",
-        "is": "Slembirannsókn með tvöfaldri blindri hönnun (N=30) kannaði hvort lágskammta-LSD (10-20 μg) breytir andstæðuheitum—sjónkvörfun þar sem innfelldir grindur virðast með minni andstæðu. Þó að þátttakendur greindi frá huglægum sjónbreytingum (auknu óskarpri sýn, metingu og virkni), hafði LSD ekki áhrif á kerfið. Þessi sundurstaða bendir til þess að sjónviðurkenning lágskammta-LSD starfi í gegnum aðra kerfi en snarvirk sjón- og samhengisvinnsla.",
-        "et": "Randomiseeritud, kahekordse pimestusega uuring (N=30) uuris, kas madala doosiga LSD (10-20 μg) muudab kontrastiümbritsuse summutust—visuaalset illusiooni, kus sisestatud võred näivad madalama kontrastiga. Kuigi osalejad teatanud subjektiivsetest visuaalsetest muutustest (suurenenud hägusus, küllastus ja dünaamilisus), ei mõjutanud LSD summutusmehhhanismi. See dissotsiatsioon viitab sellele, et madala doosiga LSD visuaalsed efektid toimivad muul mehhanismil kui varajane visuaalne kontekstiline töötlemine.",
-        "lv": "Randomizēts, dubultslēpts pētījums (N=30) pārbaudīja, vai zema deva LSD (10-20 μg) maina kontrasta apkārtējās slāpēšanas—vizuālu ilūziju, kur iegultie režģi izskatās ar zemāku kontrastu. Lai arī dalībnieki ziņoja par subjektīvām vizuālām izmaiņām (palielinātu neskaidrību, piesātinājumu un dinamiku), LSD neietekmēja slāpēšanas mehānismu. Šī disociācija liecina, ka zema deva LSD vizuālie efekti darbojas caur mehānismiem, kas atšķiras no agrīnās vizuālās konteksta apstrādes.",
-        "lt": "Randomizuotas, dvigubai aklas studija (N=30) tiria, ar mažos LSD dozėse (10-20 μg) keičiasi kontrasto aplinkos slopinimas—vizualinė iliuzija, kai įdėti grindiniai atrodo mažesniu kontrastu. Nors dalyviai pranešė apie subjektyvius vaizdo pokyčius (padidėjusį neaištrumą, sodrumą ir dinamiką), LSD nepaveikė slopinimo mechanizmo. Šis atsiskyrimas rodo, kad žema LSD dozė sukelti vaizdo efektai veikia per kitokius mekanizmus nei ankstyvoji vizualinio konteksto apdorojimas."
-      },
-      "notable": false,
-      "notable_reasons": null,
-      "relevance_score": 4,
-      "study_type": "rct",
-      "substances": [
-        "lsd"
-      ],
-      "added_at": "2026-08-22T07:08:35.061769+00:00"
     }
   ]
 }

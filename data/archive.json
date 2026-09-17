@@ -1,6 +1,122 @@
 {
   "items": [
     {
+      "title": "[Intravenous ketamine in suicidal crisis : indications and patient referral].",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42750580/",
+      "source": "PubMed",
+      "date": "2026-Sep-16",
+      "authors": [
+        "Nasserdine Rayan",
+        "Xhymshiti Laura",
+        "Paporé Anne-Charlotte"
+      ],
+      "doi": "10.53738/REVMED.2026.22.975.49121",
+      "summary_en": "IV ketamine offers rapid relief for treatment-resistant depression and acute suicidal crisis, with effects emerging within hours compared to conventional antidepressants. This review outlines clinical indications, referral criteria, and ketamine's role in specialized hospital-based care with medical monitoring and psychiatric assessment for primary care physicians.",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "other",
+      "substances": [
+        "ketamine"
+      ],
+      "added_at": "2026-09-17T11:56:15.164798+00:00"
+    },
+    {
+      "title": "The Case for More Aggressive Masking in Psychedelic Trials.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42747812/",
+      "source": "PubMed",
+      "date": "2026-09-16",
+      "authors": [
+        "Yang Kevin H",
+        "Heifets Boris D",
+        "Krystal Andrew"
+      ],
+      "doi": "10.1001/jamapsychiatry.2026.2858",
+      "summary_en": "A Viewpoint on UMBRAA (unidentifiable multidrug blinding with reduced, authorized awareness), a strategy to strengthen blinding in psychedelic research trials. This approach addresses the methodological challenge of masking in studies where psychedelics' pronounced effects can compromise participant blinding, potentially biasing trial outcomes.",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "other",
+      "substances": [
+        "other"
+      ],
+      "added_at": "2026-09-17T11:56:15.164798+00:00"
+    },
+    {
+      "title": "Surrender, disidentification, and reappraisal: a qualitative comparison of psilocybin responders and non-responders in treatment-resistant OCD.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42746496/",
+      "source": "PubMed",
+      "date": "2026-09-01",
+      "authors": [
+        "Agin-Liebes Gabrielle",
+        "Shnayder Sarah",
+        "Fram Geena"
+      ],
+      "doi": "10.3389/fpsyt.2026.1791689",
+      "summary_en": "Qualitative case comparison (n=6) from a randomized controlled trial examining subjective experiences in psilocybin responders versus non-responders with treatment-resistant OCD. Semi-structured interviews 1-2 months post-dosing revealed four key distinctions: responders demonstrated surrender over control, disidentification from OCD with self-compassion, direct emotional experience, and reappraisal of OCD as inconsequential, while non-responders showed opposite patterns. Acute-session surrender appeared to facilitate subsequent psychological shifts in responders.",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "qualitative",
+      "substances": [
+        "psilocybin"
+      ],
+      "added_at": "2026-09-17T11:56:15.164798+00:00"
+    },
+    {
+      "title": "Pα+ Psychedelic Bulletin #231: Compass Shares 52 Week Follow-Up, Training Grant Recipients; Xylo Enters the Clinic; RFK Jr. Hosts Hubbard",
+      "url": "https://psychedelicalpha.com/news/p%ce%b1-psychedelic-bulletin-231-compass-shares-52-week-follow-up-training-grant-recipients-xylo-enters-the-clinic-rfk-jr-hosts-hubbard/",
+      "source": "Psychedelic Alpha",
+      "date": "2026-09-16",
+      "authors": [],
+      "doi": "",
+      "summary_en": "Compass Pathways released 52-week follow-up data from COMP005, a placebo-controlled Phase 3 trial of psilocybin (COMP360) in 258 treatment-resistant depression patients. The company also announced five training grant recipients. Separately, Xylo Therapeutics advanced into clinical trials, while policy discussions continued involving RFK Jr.",
+      "notable": true,
+      "notable_reason": "Phase 3 RCT (n=258) 52-week follow-up data from Compass Pathways' COMP005 trial for psilocybin in treatment-resistant depression.",
+      "study_type": "rct",
+      "substances": [
+        "psilocybin"
+      ],
+      "added_at": "2026-09-17T11:56:15.164798+00:00"
+    },
+    {
+      "title": "Opioid-free analgesia with esketamine-dexmedetomidine versus opioid-based analgesia after gynaecological laparoscopic surgery: a double-blind, randomized, controlled trial.",
+      "url": "https://doi.org/10.1080/07853890.2026.2732292",
+      "source": "Europe PMC",
+      "date": "2026-09-16",
+      "authors": [
+        "Ren Y",
+        "Li YT",
+        "Yin QL"
+      ],
+      "doi": "10.1080/07853890.2026.2732292",
+      "summary_en": "Double-blind RCT (n=132) comparing opioid-free analgesia (esketamine + dexmedetomidine) versus sufentanil after gynecological laparoscopic surgery. Opioid-free group achieved non-inferior pain control (AUC 175 vs 169, p=0.008) and superior recovery quality (QoR-15: 116 vs 108, p<0.001), with better physical comfort and emotional wellbeing.",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "rct",
+      "substances": [
+        "ketamine"
+      ],
+      "added_at": "2026-09-17T11:56:15.164798+00:00"
+    },
+    {
+      "title": "Clinical correlates of non-responders to ketamine in terms of self-assessed life engagement among treatment-resistant depression patients.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42748866/",
+      "source": "PubMed",
+      "date": "2026-09-10",
+      "authors": [
+        "Walaszek Michał",
+        "Cubała Wiesław Jerzy",
+        "Pastuszak Krzysztof"
+      ],
+      "doi": "10.1016/j.jpsychires.2026.09.003",
+      "summary_en": "Retrospective study of 65 treatment-resistant depression patients examining life engagement (LE) outcomes after four-week ketamine treatment. 50.8% showed non-response (≥50% IDS-SR 10 LE score reduction). Non-responders had later depression onset (39.5 vs 24.5 years), more prior ECT (40% vs 9.4%), absence of comorbid diabetes, and different employment status. Sociodemographic and baseline clinical variables otherwise similar. Preliminary findings require larger-scale confirmation.",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "observational",
+      "substances": [
+        "ketamine"
+      ],
+      "added_at": "2026-09-17T11:56:15.164798+00:00"
+    },
+    {
       "title": "Ketamine attenuates habenula activity in response to aversive outcomes during Pavlovian learning.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42743922/",
       "source": "PubMed",

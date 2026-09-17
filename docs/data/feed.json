@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-16T11:54:08.921340+00:00",
+  "generated_at": "2026-09-17T11:58:06.632163+00:00",
   "items": [
     {
       "title": "Blinding integrity in psychedelic research: Evidence from a comparative randomized controlled trial of psilocybin, MDMA, and methylphenidate in healthy volunteers",
@@ -32,6 +32,136 @@
         "mdma"
       ],
       "added_at": "2026-07-09T10:03:12.956794+00:00"
+    },
+    {
+      "title": "[Intravenous ketamine in suicidal crisis : indications and patient referral].",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42750580/",
+      "source": "PubMed",
+      "date": "2026-Sep-16",
+      "authors": [
+        "Nasserdine Rayan",
+        "Xhymshiti Laura",
+        "Paporé Anne-Charlotte"
+      ],
+      "doi": "10.53738/REVMED.2026.22.975.49121",
+      "summaries": {
+        "en": "IV ketamine offers rapid relief for treatment-resistant depression and acute suicidal crisis, with effects emerging within hours compared to conventional antidepressants. This review outlines clinical indications, referral criteria, and ketamine's role in specialized hospital-based care with medical monitoring and psychiatric assessment for primary care physicians.",
+        "sv": "IV-ketamin erbjuder snabb lindring vid behandlingsresistent depression och akut suicidal kris, med effekter inom timmar jämfört med konventionella antidepressiva. Denna artikel beskriver kliniska indikationer, remisskriterier och ketamins roll i specialiserad sjukhusbaserad vård med medicinsk övervakning för primärvårdsläkare.",
+        "no": "IV-ketamin tilbyr rask lindring ved behandlingsresistent depresjon og akutt suicidal krise, med effekter innen timer sammenlignet med konvensjonelle antidepressiva. Artikkelen beskriver kliniske indikasjoner, henvisningskriterier og ketamins rolle i spesialisert sykehusbasert behandling med medisinsk overvåking for fastleger.",
+        "da": "IV-ketamin giver hurtig lindring ved behandlingsresistent depression og akut selvmordskrise, med effekter inden for timer sammenlignet med konventionelle antidepressiva. Artiklen beskriver kliniske indikatorer, henvisningskriterier og ketamins rolle i specialiseret hospitalsbaseret behandling med medicinsk overvågning for praktiserende læger.",
+        "fi": "IV-ketamiini tarjoaa nopeaa helpotusta hoitoresistenttiin masennukseen ja akuuttiin itsemurhausaan liittyvään kriisiin, vaikutukset ilmaantuvat tunteissa verrattuna tavanomaisten masennuslääkkeiden. Artikkeli käsittelee kliinisiä indikaatioita, lähettämiskriteereita ja ketamiinin roolia erikoistuneessa sairaalapohjaisessa hoidossa lääketieteellisellä valvonnalla.",
+        "is": "IV-ketamín veitir hraða lékningu við meðferðarþolni þunglyndi og berskjaldri sjálfsmorðskrisu, með áhrifum innan klukkustunda samanborið við hefðbundin þunglyndislyf. Greinin fjallar um klínísk vísbendingar, tilvísunarviðmið og hlutverk ketamíns í sérhæfðri spítalaðri meðferð með læknilegri eftirliti.",
+        "et": "IV-ketamiin pakub kiiret leevendamist ravile vastupidavale depressioonile ja ägedale enesetapukriisile, mõjud tekivad tundide jooksul võrreldes tavapäraste antidepressantidega. Artikkel kirjeldab kliinilisi näidustusi, edastamise kriteeriume ja ketamiini rolli spetsialiseeritud haiglal baseeruvas ravi järelvalvega.",
+        "lv": "IV-ketamīns nodrošina ātru atvieglojumu pret ārstēšanai nereaģējošu depresiju un akūtu pašnāvības krīzi, efekti parādās stundās, salīdzinot ar parastajiem antidepresantiem. Raksts apraksta klīniskos rādītājus, remitēšanas kritērijus un ketamīna lomu specializētā slimnīcas bāzētā ārstēšanā ar medicīnisko uzraudzību.",
+        "lt": "IV-ketaminas suteikia greitą pagalbą gydymui atsparioje depresijoje ir ūmaus savižudybės krizėje, efektai atsiranda per valandas, palyginti su įprastais antidepresantais. Straipsnis aprašo klininius rodiklius, nukreipimo kriterijus ir ketamino vaidmenį specializuotoje ligonine grindžiamoje gydymoje su medicinine priežiūra."
+      },
+      "notable": false,
+      "notable_reasons": null,
+      "relevance_score": 4,
+      "study_type": "other",
+      "substances": [
+        "ketamine"
+      ],
+      "added_at": "2026-09-17T11:56:15.164798+00:00"
+    },
+    {
+      "title": "The Case for More Aggressive Masking in Psychedelic Trials.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42747812/",
+      "source": "PubMed",
+      "date": "2026-09-16",
+      "authors": [
+        "Yang Kevin H",
+        "Heifets Boris D",
+        "Krystal Andrew"
+      ],
+      "doi": "10.1001/jamapsychiatry.2026.2858",
+      "summaries": {
+        "en": "A Viewpoint on UMBRAA (unidentifiable multidrug blinding with reduced, authorized awareness), a strategy to strengthen blinding in psychedelic research trials. This approach addresses the methodological challenge of masking in studies where psychedelics' pronounced effects can compromise participant blinding, potentially biasing trial outcomes.",
+        "sv": "En diskussion om UMBRAA-strategin (okänlig multidrogs blindning med reducerad, auktoriserad medvetenhet) för att förbättra maskering i psykedeliska forskningsstudier. Metoden adresserar utmaningen att bibehålla blindning när psykedelikas tydliga effekter kan kompromissa deltagarnas blindering.",
+        "no": "En drøfting av UMBRAA-strategien (uidentifiserbar multidrug-blindering med redusert, autorisert bevissthet) for å styrke blindering i psykedelisk forskning. Metoden adresserer utfordringen med å opprettholde maskering når psykedelikas tydelige effekter kan kompromittere deltakernes blindering.",
+        "da": "En diskussion af UMBRAA-strategien (uidentificerbar multi-stof-blindering med reduceret, autoriseret bevidsthed) til at styrke maskering i psykedelisk forskning. Metoden adresserer udfordringen med at opretholde blindering, når psykedelikas tydelige effekter kan kompromittere deltagernes blindering.",
+        "fi": "Keskustelu UMBRAA-strategiasta (tunnistamaton monilääkkeiden sokkouttaminen ja rajoitettu valtuutettu tietoisuus) psykedeelisten tutkimusten sokkouttamisen parantamiseksi. Menetelmä käsittelee haastetta ylläpitää sokkouttamista, kun psykedeelien selkeät vaikutukset voivat heikentää osallistujien sokkouttamista.",
+        "is": "Umfjöllun um UMBRAA-aðferðina (óauðkenjanleg fjöllyfjablinding með minni, leyfilegri vitundarfullri útvistun) til að styrkja blindun í sáleinræktunarrannsóknum. Aðferðin tekur á áskorun þess að halda blindun þegar ljós áhrif sáleinræktunar geta skaðað blindun þátttakenda.",
+        "et": "UMBRAA-strateegia (tuvastamatute mitmeainete sõelumised vähendatud, lubatud teadlikkusega) käsitamine psühhedeelikate uuringutes sokeerimise tugevdamiseks. Meetod käsitleb sokeerimise säilitamise väljakutset, kui psühhedeelikate selged mõjud võivad kahjustada osalejate sokeerimist.",
+        "lv": "Diskusija par UMBRAA stratēģiju (identificējams daudzfarmakālu maskēšanu ar samazinātu, autorizētu informētību) psihedeliku pētniecības maskēšanas stiprināšanai. Metode risina izaicinājumu uzturēt maskēšanu, kad psihedeliku skaidras ietekmes var apdraudēt dalībnieku maskēšanu.",
+        "lt": "Diskusija apie UMBRAA strategiją (neidentifikuojamą daugiafarmakų aklinumą su sumažinta, autorizuota sąmone) psichodeelinių tyrimų aklinumo stiprinimui. Metodas skirtas spręsti aklinumo išlaikymo iššūkį, kai psichodeelinės medžiagos aiškūs poveikiai gali sutrumpinti dalyvių aklinumą."
+      },
+      "notable": false,
+      "notable_reasons": null,
+      "relevance_score": 4,
+      "study_type": "other",
+      "substances": [
+        "other"
+      ],
+      "added_at": "2026-09-17T11:56:15.164798+00:00"
+    },
+    {
+      "title": "Pα+ Psychedelic Bulletin #231: Compass Shares 52 Week Follow-Up, Training Grant Recipients; Xylo Enters the Clinic; RFK Jr. Hosts Hubbard",
+      "url": "https://psychedelicalpha.com/news/p%ce%b1-psychedelic-bulletin-231-compass-shares-52-week-follow-up-training-grant-recipients-xylo-enters-the-clinic-rfk-jr-hosts-hubbard/",
+      "source": "Psychedelic Alpha",
+      "date": "2026-09-16",
+      "authors": [],
+      "doi": "",
+      "summaries": {
+        "en": "Compass Pathways released 52-week follow-up data from COMP005, a placebo-controlled Phase 3 trial of psilocybin (COMP360) in 258 treatment-resistant depression patients. The company also announced five training grant recipients. Separately, Xylo Therapeutics advanced into clinical trials, while policy discussions continued involving RFK Jr.",
+        "sv": "Compass Pathways presenterade uppföljningsdata från 52 veckor från COMP005, en placebokontrollerad fas 3-studie av psylocybin (COMP360) hos 258 patienter med behandlingsresistent depression. Företaget tillkännagav också fem mottagare av utbildningsstipendier. Parallellt framskred Xylo Therapeutics till kliniska prövningar.",
+        "no": "Compass Pathways presenterte 52-ukers oppfølgingsdata fra COMP005, en placebokontrollert fase 3-studie av psilocybin (COMP360) hos 258 pasienter med behandlingsresistent depresjon. Selskapet kunngjorde også fem mottakere av utdanningsstipend. Xylo Therapeutics gikk samtidig inn i kliniske studier.",
+        "da": "Compass Pathways offentliggjorde 52-ugers opfølgningsdata fra COMP005, en placebokontrolleret fase 3-studie af psilocybin (COMP360) hos 258 patienter med behandlingsresistent depression. Virksomheden annoncerede også fem modtagere af uddannelsesstipendier. Xylo Therapeutics gik samtidig ind i kliniske forsøg.",
+        "fi": "Compass Pathways julkaisi 52 viikon seurantatiedot COMP005-tutkimuksesta, joka oli psilosybiinin (COMP360) plasebokontrolloitu vaihe 3 -tutkimus 258 hoitoresistentin masennuksen potilaalla. Yritys ilmoitti myös viidestä koulutusapurahan saajasta. Xylo Therapeutics edistyi samalla kliinisiin tutkimuksiin.",
+        "is": "Compass Pathways birt 52 vikna eftirfylgnigögnun frá COMP005, slembihópi-stýrðri 3. stigs rannsókn á psílosíbíni (COMP360) hjá 258 sjúklingum með þrautgöngum þunglyndi. Fyrirtækið tilkynnti einnig fimm styrkþega fyrir þjálfunarstyrki. Xylo Therapeutics komst á sama tíma inn í klínísk tilraun.",
+        "et": "Compass Pathways avaldas 52 nädalase järelkontrolli andmed COMP005-st, mis oli platseeboa kontrollivat faasi 3 uuringut psülotsübiini (COMP360) kohta 358 ravile resistentse depressiooni patsiendiga. Ettevõte teatas ka viiest koolitustoetuse saajast. Xylo Therapeutics edenes samal ajal kliinilistesse uuringutesse.",
+        "lv": "Compass Pathways publicēja 52 nedēļu uzraudzības datus no COMP005, placebo kontrolēta 3. fāzes psilotsibīna (COMP360) pētījuma 258 pacientiem ar ārstēšanai rezistentāmu depresiju. Uzņēmums paziņoja arī par pieciem apmācības granta saņēmējiem. Xylo Therapeutics tajā pašā laikā sāka klīniskos pētījumus.",
+        "lt": "Compass Pathways paskelbė 52 savaičių stebėsenos duomenis iš COMP005, placebo kontroliuoto 3 fazės psilotsibino (COMP360) tyrimo 258 gydymui rezistentinės depresijos pacientams. Bendrovė taip pat paskelbė penkis mokymo dotacijos gavėjus. Xylo Therapeutics tuo pačiu metu pradėjo klinikinių tyrimų."
+      },
+      "notable": true,
+      "notable_reasons": {
+        "en": "Phase 3 RCT (n=258) 52-week follow-up data from Compass Pathways' COMP005 trial for psilocybin in treatment-resistant depression.",
+        "sv": "Phase 3 RCT (n=258) 52-veckors uppföljningsdata från Compass Pathways COMP005-studie för psilocybin vid behandlingsresistent depression.",
+        "no": "Phase 3 RCT (n=258) 52-ukers oppfølgingsdata fra Compass Pathways COMP005-studie for psilocybin ved behandlingsresistent depresjon.",
+        "da": "Phase 3 RCT (n=258) 52-ugers opfølgningsdata fra Compass Pathways COMP005-forsøg for psilocybin ved behandlingsresistent depression.",
+        "fi": "Phase 3 RCT (n=258) 52 viikon seurantatiedot Compass Pathwaysin COMP005-tutkimuksesta psilo­sybiinin käytöstä hoitoresistentissa masennuksessa.",
+        "is": "Phase 3 RCT (n=258) 52 vikna eftirfylgni gögn frá COMP005 rannsókn Compass Pathways fyrir psilocybin við meðferðarþolna þunglyndi.",
+        "et": "Phase 3 RCT (n=258) 52 nädala järelkontrolli andmed Compass Pathways COMP005 uuringust psülotsübiini kohta ravi­vastupidaval depressioonil.",
+        "lv": "Phase 3 RCT (n=258) 52 nedēļu sekošanas dati no Compass Pathways COMP005 pētījuma par psilocybīnu ar ārstēšanu rezistentu depresiju.",
+        "lt": "Phase 3 RCT (n=258) 52 savaičių stebėjimo duomenys iš Compass Pathways COMP005 tyrimo apie psilocybinį gydymui atsparias depresiją."
+      },
+      "relevance_score": 4,
+      "study_type": "rct",
+      "substances": [
+        "psilocybin"
+      ],
+      "added_at": "2026-09-17T11:56:15.164798+00:00"
+    },
+    {
+      "title": "Opioid-free analgesia with esketamine-dexmedetomidine versus opioid-based analgesia after gynaecological laparoscopic surgery: a double-blind, randomized, controlled trial.",
+      "url": "https://doi.org/10.1080/07853890.2026.2732292",
+      "source": "Europe PMC",
+      "date": "2026-09-16",
+      "authors": [
+        "Ren Y",
+        "Li YT",
+        "Yin QL"
+      ],
+      "doi": "10.1080/07853890.2026.2732292",
+      "summaries": {
+        "en": "Double-blind RCT (n=132) comparing opioid-free analgesia (esketamine + dexmedetomidine) versus sufentanil after gynecological laparoscopic surgery. Opioid-free group achieved non-inferior pain control (AUC 175 vs 169, p=0.008) and superior recovery quality (QoR-15: 116 vs 108, p<0.001), with better physical comfort and emotional wellbeing.",
+        "sv": "Dubbelblind RCT (n=132) som jämförde opioidfri analges (esketamin + dexmedetomidin) mot sufentanil efter gynekologisk laparoskopisk kirurgi. Opioidfri grupp uppnådde icke-underlägsen smärtlindring (AUC 175 vs 169, p=0,008) och överlägsna återhämtningsresultat (QoR-15: 116 vs 108, p<0,001) med bättre fysisk komfort och emotionellt välbefinnande.",
+        "no": "Dobbeltblind RCT (n=132) som sammenliknet opioidfri analgetika (esketamin + deksmedetomidin) mot sufentanil etter gynekologisk laparoskopisk kirurgi. Opioidfri gruppe oppnådde ikke-mindreverdig smertelindring (AUC 175 vs 169, p=0,008) og overlegen utvinningsresultat (QoR-15: 116 vs 108, p<0,001) med bedre fysisk komfort og emosjonelt velvære.",
+        "da": "Dobbeltblind RCT (n=132) der opioidfri analgesi (esketamin + dexmedetomidin) blev sammenlignet med sufentanil efter gynækologisk laparoskopisk kirurgi. Opioidfri gruppe opnåede ikke-underlegne smertelindring (AUC 175 vs 169, p=0,008) og overlegen bedring (QoR-15: 116 vs 108, p<0,001) med bedre fysisk komfort og emotionel tilstand.",
+        "fi": "Kaksoissokkoutettu RCT (n=132) vertaili opioiditonta analgesiaa (esketamiini + deksmedetomidiini) versus sufentaali gynekologisen laparoskooppisen leikkauksen jälkeen. Opioiditon ryhmä saavutti ei-huonomman kivunlievityksen (AUC 175 vs 169, p=0,008) ja paremman toipumisen (QoR-15: 116 vs 108, p<0,001) paremmalla fyysisellä mukavuudella ja emotionaalisella hyvinvoinnilla.",
+        "is": "Tvíblinda tilviljunað prófun (n=132) sem bór saman opioidfríar sályfjaðir (esketamín + dexmedetomídín) og sufentanil eftir kvensjúkdómaeitrun með títlum. Opioidfría hópurinn náði jafngildum verkjastillingu (AUC 175 vs 169, p=0,008) og betri endalausn (QoR-15: 116 vs 108, p<0,001) með betri líkamlegu þægindum og tilfinningalegum ástandi.",
+        "et": "Topeltpimestatud RCT (n=132) võrdles opioidivaba analgeesiat (esketamiin + deksmedetomidiin) sufentaaniga günekoloogilise laparoskoopilise operatsiooni järel. Opioidivaba rühm saavutas mittealamäärase valuleevendamise (AUC 175 vs 169, p=0,008) ja paremad taastumistulemused (QoR-15: 116 vs 108, p<0,001) parema füüsilise mugavuse ja emotsionaalse seisundiga.",
+        "lv": "Dubultslēpts randomizēts kontrolēts pētījums (n=132) salīdzināja opioidbrīvu analgēziju (esketamīns + deksmēdetomidīns) pret sufentaņilu ģinekoloģiskas laparoskopijas operācijas pēc. Opioidbrīvā grupa sasniedza nepieciešamās sāpju mazināšanas (AUC 175 vs 169, p=0,008) un labākus atveseļošanās rezultātus (QoR-15: 116 vs 108, p<0,001) ar labāku fizisko komfortu.",
+        "lt": "Dvigubai aklai atliektas atsitiktinis kontroliuojamas tyrimas (n=132) lyginęs opioidą neturinčią analgesiją (esketaminas + deksmedetomidinas) su sufentaniliu po ginekologinės laparoskopinės operacijos. Opioidą neturinčioj grupėj pasiekta neinferiorinė skausmų kontrolė (AUC 175 vs 169, p=0,008) ir geresnė atsigavimo kokybė (QoR-15: 116 vs 108, p<0,001) su geresniais fizinio komforto ir emocinio būvio rodikliais."
+      },
+      "notable": false,
+      "notable_reasons": null,
+      "relevance_score": 4,
+      "study_type": "rct",
+      "substances": [
+        "ketamine"
+      ],
+      "added_at": "2026-09-17T11:56:15.164798+00:00"
     },
     {
       "title": "Ketamine attenuates habenula activity in response to aversive outcomes during Pavlovian learning.",
@@ -272,6 +402,37 @@
         "ketamine"
       ],
       "added_at": "2026-09-11T11:38:30.978989+00:00"
+    },
+    {
+      "title": "Clinical correlates of non-responders to ketamine in terms of self-assessed life engagement among treatment-resistant depression patients.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42748866/",
+      "source": "PubMed",
+      "date": "2026-09-10",
+      "authors": [
+        "Walaszek Michał",
+        "Cubała Wiesław Jerzy",
+        "Pastuszak Krzysztof"
+      ],
+      "doi": "10.1016/j.jpsychires.2026.09.003",
+      "summaries": {
+        "en": "Retrospective study of 65 treatment-resistant depression patients examining life engagement (LE) outcomes after four-week ketamine treatment. 50.8% showed non-response (≥50% IDS-SR 10 LE score reduction). Non-responders had later depression onset (39.5 vs 24.5 years), more prior ECT (40% vs 9.4%), absence of comorbid diabetes, and different employment status. Sociodemographic and baseline clinical variables otherwise similar. Preliminary findings require larger-scale confirmation.",
+        "sv": "Retrospektiv studie av 65 patienter med behandlingsresistent depression som undersökte livsengagemang efter fyra veckors ketaminbehandling. 50,8% klassificerades som icke-respondere (≥50% reduktion i IDS-SR 10 LE-poäng). Icke-respondere hade senare depressionsstart (39,5 vs 24,5 år), mer tidigare ECT (40% vs 9,4%), frånvaro av diabetes och skilda arbetssituationer. Sociodemografiska och kliniska basvariablerna var annars lika. Preliminära fynd kräver större bekräftelse.",
+        "no": "Retrospektiv studie av 65 pasienter med behandlingsresistent depresjon som undersøkte livsengasjement etter fire ukers ketaminbehandling. 50,8% klassifisert som ikke-respondere (≥50% reduksjon i IDS-SR 10 LE-poengsum). Ikke-respondere hadde senere depresionsstart (39,5 vs 24,5 år), mer tidligere ECT (40% vs 9,4%), fravær av diabetes og ulike sysselsettingsstatus. Sosiodemografiske og kliniske basisvariabler ellers like. Foreløpige funn krever større bekreftelse.",
+        "da": "Retrospektiv studie af 65 patienter med behandlingsresistent depression, der livsengagement blev undersøgt efter fire ugers ketaminbehandling. 50,8% klassificeredes som ikke-respondere (≥50% reduktion i IDS-SR 10 LE-score). Ikke-respondere havde senere depressionsdebut (39,5 vs 24,5 år), mere tidligere ECT (40% vs 9,4%), ingen diabetes og forskellig arbejdsstatus. Sociodemografiske og kliniske basisvariabler var ellers ens. Foreløbige resultater kræver større bekræftelse.",
+        "fi": "Retrospektiivinen tutkimus 65 hoitoresistentin masennuksen potilaasta, joiden elämän sitoutuneisuutta tutkittiin neljän viikon psykedeliinihoidon jälkeen. 50,8% luokiteltiin vastaajiksi (≥50% IDS-SR 10 LE-pistemäärän lasku). Vastaamattomilla oli myöhäisempi masennuksen alkaminen (39,5 vs 24,5 vuotta), enemmän aikaisempaa sähköhoitoa (40% vs 9,4%), ei diabetes-sairautta ja erilainen työllisyystilanne. Sosiodemografiset ja kliiniset perusmuuttujat muuten samankaltaiset. Alustavat tulokset vaativat suuremman vahvistuksen.",
+        "is": "Afturkönnun rannsókn á 65 sjúklingum með meðferðarónæmri þunglyndi sem skoðaði æviengasetning eftir fjóra vikna sýkódelíkaðgerð. 50,8% flokkuðust sem ekki svöruðu (≥50% minnkun á IDS-SR 10 LE-stigum). Ekki svarandi höfðu seinna upphaf þunglyndis (39,5 gegn 24,5 árum), fleiri fyrri ECT (40% gegn 9,4%), ekkert samhliða sykursýki og mismunandi atvinnustaða. Félagshagsmunanir og klínískar grunnbreytur annars svipaðar. Frumniðurstöður þarfnast meiri staðfestingar.",
+        "et": "Tagantjuurepilise uuringuga hõlmati 65 ravi-resistentse depressiooni patsienti, uurides elu-angažeeritust pärast nelja nädala ketatmiini ravi. 50,8% klassifitseeriti mittevastajateks (≥50% IDS-SR 10 LE-skoori vähenemisest). Mittevastajatel oli hilisem depressiooni algus (39,5 vs 24,5 aastat), rohkem eelnevat elektrokonvulsiivteraapiaid (40% vs 9,4%), puudus kaasuv diabeet ja erinev tööhõive-staatus. Sotsiaaldemograafilised ja kliinilised algmuutujad olid muidu sarnased. Esialgsetest leidudest on vaja suuremat kinnitust.",
+        "lv": "Retrospektīvs pētījums ar 65 pacientiem, kuriem ir ārstēšanai izturīga depresija, pārbaudot dzīves iesaisti pēc četru nedēļu psihedēlisko vielu ārstēšanas. 50,8% tika klasificēti kā neatbildoši (≥50% samazinājums IDS-SR 10 LE punktiem). Neatbildošiem bija vēlāka depresijas sākuma (39,5 pret 24,5 gadiem), vairāk iepriekšējas ECT (40% pret 9,4%), nav komorbīdā diabēta un atšķirīgs nodarbinātības statuss. Sociodemografiskie un kliniskie sākotnējie mainīgie citādi bija līdzīgi. Provizoriski rezultāti pieprasa lielāku apstiprināšanu.",
+        "lt": "Retrospektyvi 65 gydymui atsparios depresijos pacientų apklausų studija, tirianti gyvenimo įsitraukimą po keturių savaičių psichedelinės medžiagos gydymo. 50,8% buvo klasifikuoti kaip nereagavę (≥50% IDS-SR 10 LE balo sumažėjimas). Nereagavusiems buvo vėlesnis depresijos pradžia (39,5 vs 24,5 metų), daugiau ankstesnės elektrokrampinės terapijos (40% vs 9,4%), be kartu pasitaikančio diabeto ir skirtingas užimtumo statusas. Socialinės demografinės ir klininės bazinės kintamosios dydžiais buvo panašios. Preliminarūs rezultatai reikalingi didesnio patvirtinimo."
+      },
+      "notable": false,
+      "notable_reasons": null,
+      "relevance_score": 3,
+      "study_type": "observational",
+      "substances": [
+        "ketamine"
+      ],
+      "added_at": "2026-09-17T11:56:15.164798+00:00"
     },
     {
       "title": "Davis, Farchione and Colleagues Present FDA’s Psychedelic Drug Framework in NEJM",
@@ -1107,6 +1268,37 @@
       "added_at": "2026-09-02T11:33:33.070909+00:00"
     },
     {
+      "title": "Surrender, disidentification, and reappraisal: a qualitative comparison of psilocybin responders and non-responders in treatment-resistant OCD.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42746496/",
+      "source": "PubMed",
+      "date": "2026-09-01",
+      "authors": [
+        "Agin-Liebes Gabrielle",
+        "Shnayder Sarah",
+        "Fram Geena"
+      ],
+      "doi": "10.3389/fpsyt.2026.1791689",
+      "summaries": {
+        "en": "Qualitative case comparison (n=6) from a randomized controlled trial examining subjective experiences in psilocybin responders versus non-responders with treatment-resistant OCD. Semi-structured interviews 1-2 months post-dosing revealed four key distinctions: responders demonstrated surrender over control, disidentification from OCD with self-compassion, direct emotional experience, and reappraisal of OCD as inconsequential, while non-responders showed opposite patterns. Acute-session surrender appeared to facilitate subsequent psychological shifts in responders.",
+        "sv": "Kvalitativ fallstudie (n=6) från randomiserad kontrollerad prövning som undersökte upplevelser av psykedeliska svampar hos respondenter jämfört med icke-respondenter med behandlingsresistent OCD. Semi-strukturerade intervjuer 1-2 månader efter dosering avslöjade fyra huvudskillnader: respondenter visade övergivan framför kontroll, avidentifikation från OCD med självmedkänsla, direkt emotionell erfarenhet och omvärdering av OCD som obetydlig, medan icke-respondenter visade motsatta mönster. Övergivan under akut session verkar underlätta senare psykologiska förändringar.",
+        "no": "Kvalitativ casestudie (n=6) fra randomisert kontrollert studie som undersøkte opplevelser med psykedeliske stoffer hos respondenter sammenlignet med ikke-respondenter med behandlingsresistent OCD. Semi-strukturerte intervjuer 1-2 måneder etter dosering avslørte fire hovedforskjeller: respondenter viste overgivelse framfor kontroll, avidentifikasjon fra OCD med selvmedlidenhet, direkte emosjonell erfaring og omvurdering av OCD som uvesentlig, mens ikke-respondenter viste motsatte mønstre. Overgivelse under akutt økt synes å legge til rette for senere psykologiske endringer.",
+        "da": "Kvalitativ casestudie (n=6) fra randomiseret kontrolleret forsøg med psykedelika hos respondenter sammenlignet med ikke-respondenter med behandlingsresistent OCD. Semi-strukturerede interviews 1-2 måneder efter dosering afslørede fire centrale forskelle: respondenter viste hengivelse frem for kontrol, disidentifikation fra OCD med selvmedfølelse, direkte emotionel erfaring og omvurdering af OCD som ubetydeligt, mens ikke-respondenter viste modsatte mønstre. Hengivelse under den akutte session synes at lette senere psykologiske forandringer.",
+        "fi": "Kvalitatiivinen tapaustutkimus (n=6) satunnaistetusta kontrolloitusta tutkimuksesta, jossa vertailtiin psykedeelisten aineiden vaikutusta vastaajiin ja ei-vastaajiin hoitoresistenteilla OCD-potilailla. Puolistrukturoidut haastattelut 1-2 kuukautta annoksen jälkeen paljastivat neljä pääeroa: vastaajat osoittivat antautumista kontrollin sijaan, erillistäytymistä OCD:stä itsemedestä, suoraa emotionaalista kokemusta ja OCD:n uudelleenarviointi merkityksettömäksi, kun taas ei-vastaajat osoittivat vastakkaisia malleja. Antautuminen akuutissa istunnossa näytti helpottavan myöhempiä psykologisia muutoksia.",
+        "is": "Eigindleg tilfellastuðning (n=6) frá handahófskenndum samanburðarrannsóknum á sálkerfandi efnum með svörun samanborið við án svörunar hjá sjúklingum með meðferðarónæmni OCD. Hálf-skipulögð viðtöl 1-2 mánuðum eftir skammta afhjúpuðu fjóra lykilmun: svörunarmenn sýndu yfirgjöf fram yfir stjórn, aðgreiningu frá OCD með sjálfsaumkund, beina tilfinningaupplifun og endurkóðun OCD sem ómarktæka, en svararmenn sýndu andstæð mynstur. Yfirgjöf á bráðri setu virtist auðvelda síðari sálræna breytingu.",
+        "et": "Kvalitatiivne juhtumite võrdlus (n=6) randomiseeritud kontrollitud uuringust psühhedeelikumidega reageerijate ja mittereaegeerijate võrdlemiseks ravi-resistent OCD-ga. Poolstruktureeritud intervjuud 1-2 kuud pärast doosi paljastasid neli peamist erinevust: reageerijad näitasid loovutamist kontrolli asemel, OCD-st lahusoldamist enesemeetodusega, otsest emotsionaalset kogemust ja OCD ümberahindamist mitteoluliseks, samas mittereaegeerijad näitasid vastupidiseid mustreid. Loovutamine akuutsel istungil näis soodustavat hilisemaid psühholoogilisi muutusi.",
+        "lv": "Kvalitatīvs gadījumu salīdzinājums (n=6) no randomizēta kontrolēta psihedēlisko vielu pētījuma, salīdzinot respondentus ar neatbildētājiem pret ārstēšanu rezistentajiem OCD. Daļēji strukturētas intervijas 1-2 mēnešus pēc devas atklāja četras galvenās atšķirības: respondenti parādīja padošanos nevis kontroli, atsvešināšanos no OCD ar pašapziņu, tiešu emocionālu pieredzi un OCD pārvērtējumu kā nenozīmīgu, bet neatbildētāji parādīja pretējus modeļus. Padošanās akūtās sesijas laikā šķita atvieglojusi vēlākus psiholoģiskos pārkārtojumus.",
+        "lt": "Kokybinis atvejų palyginimas (n=6) iš atsitiktinių imčių kontroliuoto tyrimo su psichedelinėmis medžiagomis, lyginant atsakovus su neatssakovais į gydymą rezistentiniu OCD. Pusiau struktūruoti pokalbiai 1-2 mėnesius po dozės nustatė keturis pagrindinius skirtumus: atsakovai parodė pasidavimą, o ne kontrolę, atribojimąsi nuo OCD su savęs supratimu, tiesioginį emocinį patyrimą ir OCD perdažnį į nereikalingą, tuo tarpu neatssakovai parodė priešingus šablonus. Pasidavimas ūmios sesijos metu atrodė palengvinęs vėlesnius psichologinius pokyčius."
+      },
+      "notable": false,
+      "notable_reasons": null,
+      "relevance_score": 4,
+      "study_type": "qualitative",
+      "substances": [
+        "psilocybin"
+      ],
+      "added_at": "2026-09-17T11:56:15.164798+00:00"
+    },
+    {
       "title": "On the meaning of \"plasticity\" in neuroscience and mental health research and its relation to the action of psychedelic therapy.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42745840/",
       "source": "PubMed",
@@ -1793,196 +1985,6 @@
         "other"
       ],
       "added_at": "2026-08-27T17:44:17.771269+00:00"
-    },
-    {
-      "title": "A Closer Look at Definium’s Phase 3 LSD for GAD Readout",
-      "url": "https://psychedelicalpha.com/news/a-closer-look-at-definiums-phase-3-lsd-for-gad-readout/",
-      "source": "Psychedelic Alpha",
-      "date": "2026-08-26",
-      "authors": [],
-      "doi": "",
-      "summaries": {
-        "en": "Definium Therapeutics' Phase 3 trial of LSD (DT120) for generalized anxiety disorder met its primary and key secondary endpoints. This represents the company's second Phase 3 readout for lysergamides in anxiety treatment.",
-        "sv": "Definium Therapeutics' fas 3-studie av LSD (DT120) mot generaliserat ångestsyndrom nådde primära och viktiga sekundära effektmål. Detta är företagets andra fas 3-resultat för lysergamider vid ångestbehandling.",
-        "no": "Definium Therapeutics' fase 3-studie av LSD (DT120) mot generalisert angstlidelse nådde primære og viktige sekundære endepunkter. Dette er selskapets andre fase 3-resultater for lysergamider ved angstbehandling.",
-        "da": "Definium Therapeutics' fase 3-studie af LSD (DT120) mod generaliseret angstlidelse nåede primære og vigtige sekundære endepunkter. Dette er virksomhedens andet fase 3-resultat for lysergamider ved angstbehandling.",
-        "fi": "Definium Therapeuticsin kolmannen vaiheen tutkimus LSD:stä (DT120) yleistynyttä ahdistuneisuushäiriötä vastaan saavutti ensisijaiset ja tärkeät toissijaiset päätetavoitteet. Tämä on yhtiön toinen kolmannen vaiheen tulos lysergamideista ahdistuneisuuden hoidossa.",
-        "is": "Fase 3 rannsókn Definium Therapeutics á LSD (DT120) fyrir almenna kvíða náði aðal- og helstu aukastoðum. Þetta er annar fase 3 niðurstaða fyrirtækisins fyrir lysergamíð við meðferð kvíða.",
-        "et": "Definium Therapeutics' III faasi uuringus LSD-ga (DT120) üldistunud ärevushäire vastu saavutati esmased ja olulised teisesed lõpp-punktid. See on ettevõtte teine III faasi tulem lysergamiidide kasutamisel ärevushäire ravi puhul.",
-        "lv": "Definium Therapeutics' III fāzes pētījumā ar LSD (DT120) vispārinātas trauksmes traucējuma ārstēšanai tika sasniegti primārie un galvenie sekundārie gala punkti. Šis ir uzņēmuma otrais III fāzes rezultāts lizergamīdiem trauksmes ārstēšanā.",
-        "lt": "Definium Therapeutics' III fazės tyrime su LSD (DT120) bendrai nerimui gydyti pasiekti pirminiai ir svarbūs antriniai galutiniai rodikliai. Tai antrasis bendrovės III fazės rezultatas lizergamidams nerimo gydymui."
-      },
-      "notable": true,
-      "notable_reasons": {
-        "en": "Phase 3 pivotal trial results for LSD (DT120) in GAD with primary and key secondary endpoints met",
-        "sv": "Phase 3 pivotal trial-resultat för LSD (DT120) vid GAD med primär och viktiga sekundära ändpunkter uppfyllda",
-        "no": "Phase 3 pivotal trial-resultater for LSD (DT120) ved GAD med primært og viktige sekundære endepunkter oppfylt",
-        "da": "Phase 3 pivotal trial-resultater for LSD (DT120) ved GAD med primært og vigtige sekundære endepunkter opnået",
-        "fi": "Phase 3 pivotal trial -tulokset LSD:lle (DT120) GAD:ssa primaarisen ja keskeiset toissijaiset päätetapahtumat saavutettu",
-        "is": "Phase 3 pivotal trial niðurstöður fyrir LSD (DT120) við GAD með aðal- og lykilaukakjörum uppfylltum",
-        "et": "Phase 3 pivotal trial tulemused LSD-le (DT120) GAD-is esmase ja peamiste teisese otspunkti täitega",
-        "lv": "Phase 3 pivotal trial rezultāti LSD (DT120) GAD gadījumā ar primāro un galvenajiem sekundārajiem galapunktiem sasniegti",
-        "lt": "Phase 3 pivotal trial rezultatai LSD (DT120) GAD atveju su pirminiais ir pagrindiniais antriniais galutiniais taškais pasiekti"
-      },
-      "relevance_score": 4,
-      "study_type": "rct",
-      "substances": [
-        "lsd"
-      ],
-      "added_at": "2026-08-27T17:44:17.771269+00:00"
-    },
-    {
-      "title": "Salvinorin A in humans: A systematic review of pharmacokinetics, pharmacodynamics, and safety.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42638533/",
-      "source": "PubMed",
-      "date": "2026-08-25",
-      "authors": [
-        "Zürrer Wolfgang Emanuel",
-        "Liesner Johann",
-        "Brüschweiler David"
-      ],
-      "doi": "10.1177/02698811261473385",
-      "summaries": {
-        "en": "Systematic review examining salvinorin A pharmacokinetics, pharmacodynamics, and safety in humans. The analysis synthesizes data on absorption, metabolism, and clinical effects of this natural hallucinogen, providing evidence-based assessment of its pharmacological profile and safety considerations for research applications.",
-        "sv": "Systematisk översynning av salvinorins A farmakoknetik, farmakodynamik och säkerhet hos människor. Analysen sammanfattar data om upptag, metabolism och kliniska effekter av denna naturliga hallucingen, och ger evidensbaserad bedömning av dess farmakologiska profil och säkerhetshänsyn för forskningsändamål.",
-        "no": "Systematisk gjennomgang av salvinorins A farmakokinetikk, farmakodynamikk og sikkerhet hos mennesker. Analysen oppsummerer data om absorpsjon, metabolisme og kliniske effekter av denne naturlige hallucinogenen, og gir evidensbasert vurdering av dens farmakologiske profil og sikkerhetshensyn for forskningsformål.",
-        "da": "Systematisk oversigt over salvinorins A farmakokinetik, farmakodynamik og sikkerhed hos mennesker. Analysen opsummerer data om optagelse, stofskifte og kliniske effekter af denne naturlige hallucinogen, og giver evidensbaseret vurdering af dens farmakologiske profil og sikkerhedsovervejelser til forskningsformål.",
-        "fi": "Systemaattinen katsaus salvinoiini A:n farmakokinetiikkaan, farmakodynamiikkaan ja turvallisuuteen ihmisillä. Analyysi kokoaa tietoa tämän luonnollisen hallusinogeenin imeytymisestä, metaboliasta ja kliinisistä vaikutuksista sekä antaa näyttöön perustuvaa arviota sen farmakologisesta profiilista ja turvallisuusnäkökohdista tutkimuskäyttöön.",
-        "is": "Kerfræðileg endurskoðun á farmakokineticí, farmakódynamicí og öryggi salvinóríns A hjá mönnum. Greiningin dregur saman gögn um frásog, efnaskipti og klínísk áhrif þessa náttúrulega hallúsínógena og gefur sannanabundna mat á farmakólagðri sniðum þess og öryggissjónarmiðum fyrir rannsóknir.",
-        "et": "Süstemaatiline ülevaade salvinoiini A farmakokineetikast, farmakodünaamikast ja ohutusest inimestel. Analüüs kokkuvõttes andmed selle loomuliku hallutsinogeeni imendumisel, ainevahetusest ja kliinilistest mõjudest ning annab tõendipõhise hinnangu selle farmakoloogilisele profiile ja ohutusaspektidele uurimistöö rakendamiseks.",
-        "lv": "Sistemātisks pārskats par salvinoīna A farmakokinētiku, farmakodinātiku un drošību cilvēkiem. Analīze apkopo datus par šīs dabīgās alucinogēnās vielas uzsūkšanu, metabolismu un klīniskajiem efektiem, kā arī sniedz uz pierādījumiem balstītu novērtējumu par tās farmakoloģisko profilu un drošības apsvērumiem pētniecības nolūkiem.",
-        "lt": "Sisteminė apžvalga apie salvinorino A farmakokinetika, farmakodinamika ir saugumą žmonėms. Analizė apibendrina duomenis apie šios natūralios halucinogeno medžiagos šilumą, medžiagų apykaitą ir klinikinį poveikį bei pateikia į įrodymus pagrįstą šios farmakologinės savybės ir saugumo aspektų vertinimą mokslinių tyrimų tikslams."
-      },
-      "notable": false,
-      "notable_reasons": null,
-      "relevance_score": 4,
-      "study_type": "review",
-      "substances": [
-        "other"
-      ],
-      "added_at": "2026-08-26T07:23:28.268748+00:00"
-    },
-    {
-      "title": "As Psychedelic Treatments Get Leaner, Patients' Social Environments Deserve Attention.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42640722/",
-      "source": "PubMed",
-      "date": "2026-08-25",
-      "authors": [
-        "Jacobs Edward",
-        "Roullier Ian",
-        "Watts Rosalind"
-      ],
-      "doi": "10.1177/07067437261479491",
-      "summaries": {
-        "en": "Opinion article examining how streamlined psychedelic treatment protocols may underestimate the importance of patients' social environments in therapeutic outcomes. As clinical models become more efficient, researchers argue that social context and support systems warrant greater attention in treatment design and outcome evaluation.",
-        "sv": "Opinionsartikel som undersöker hur strömlinjeformade behandlingsprotokoll för psykedelika kan underskatta betydelsen av patienters sociala miljö för terapeutiska resultat. När kliniska modeller blir mer effektiva argumenterar forskare för att social kontext och stödsystem förtjänar större uppmärksamhet i behandlingsdesign och resultatmätning.",
-        "no": "Meningsartikkel som undersøker hvordan strømlinjeformede behandlingsprotokoller for psykedelika kan undervurdere betydningen av pasienters sosiale omgivelser for terapeutiske resultater. Ettersom kliniske modeller blir mer effektive, argumenterer forskere for at sosial kontekst og støttesystemer fortjener større oppmerksomhet i behandlingsdesign og resultatvurdering.",
-        "da": "Debatindlæg, der undersøger, hvordan rationaliserede behandlingsprotokoller for psykedelika kan undervurdere betydningen af patienters sociale miljø for terapeutiske resultater. Efterhånden som kliniske modeller bliver mere effektive, argumenterer forskere for, at social kontekst og støttesystemer fortjener større opmærksomhed i behandlingsdesign og resultatvurdering.",
-        "fi": "Mielipideartikkeli, joka tarkastelee kuinka virtaviivaistetut psykedeelisten aineiden hoitoprotokollat saattavat aliarvioida potilaiden sosiaalisen ympäristön merkitystä terapeuttisissa tuloksissa. Kliinisten mallien tehostuessa tutkijat väittävät, että sosiaalinen konteksti ja tukijärjestelmät ansaitsevat suurempaa huomiota hoitosuunnittelussa ja tulosarvioinnissa.",
-        "is": "Skoðunargrein sem kannar hvernig hagrætt meðferðarsamskipti fyrir sálfræðilyf gætu vanmetið mikilvægi félagslegra aðstæðna sjúklinga fyrir meðferðarúrsliti. Eftir því sem klínísk módel verða skilvirkari halda vísindamenn því fram að félagslegur samhengi og stuðningskerfi ættu að fá meiri athygli við hönnun meðferðar og mat á niðurstöðum.",
-        "et": "Arvamuste artikkel, mis uurib, kuidas lihtsustatud psühhedeelikumide ravitaotlused võivad alahinnata patsientide sotsiaalse keskkonna tähtsust terapeutiliste tulemuste saavutamisel. Kliiniliste mudelite muutumisel tõhusamaks väidavad teadlased, et sotsiaalne kontekst ja toetussüsteemid vääriksid suuremat tähelepanu raviplaani kavandamisel ja tulemuste hindamisel.",
-        "lv": "Viedokļa raksts, kurā tiek pārbaudīts, kā vienkāršoti psihodeeliku ārstēšanas protokoli var nenovērtēt pacientu sociālās vides nozīmi terapeitiskiem rezultātiem. Tā kā klīniskie modeļi kļūst efektīvāki, pētnieki apgalvo, ka sociālais konteksts un atbalsta sistēmas ir pelnījušas lielāku uzmanību ārstēšanas projektēšanā un rezultātu novērtēšanā.",
-        "lt": "Nuomonės straipsnis, kuriame nagrinėjama, kaip supaprastinti psichedelinių medžiagų gydymo protokolai gali neįvertinti pacientų socialinės aplinkos svarbos terapeutiniams rezultatams. Klinikiniu modeliu tapus efektyvesniais, mokslininkai teigia, kad socialiniu konteksta ir pagalbos sistemos nusipelno daugiau dėmesio gydymo projektavime ir rezultatu vertinime."
-      },
-      "notable": false,
-      "notable_reasons": null,
-      "relevance_score": 3,
-      "study_type": "other",
-      "substances": [
-        "other"
-      ],
-      "added_at": "2026-08-26T07:23:28.268748+00:00"
-    },
-    {
-      "title": "Case report of S-ketamine as treatment option for suicidal ideation and treatment-resistant depression in adolescents with early-onset psychosis.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42640420/",
-      "source": "PubMed",
-      "date": "2026-08-25",
-      "authors": [
-        "Schmelzle Nicolas",
-        "Neubacher Katrin",
-        "Plener Paul L"
-      ],
-      "doi": "10.1007/s40211-026-00587-1",
-      "summaries": {
-        "en": "Case report of S-ketamine as treatment option for suicidal ideation and treatment-resistant depression in adolescents with early-onset psychosis.",
-        "sv": "Case report of S-ketamine as treatment option for suicidal ideation and treatment-resistant depression in adolescents with early-onset psychosis.",
-        "no": "Case report of S-ketamine as treatment option for suicidal ideation and treatment-resistant depression in adolescents with early-onset psychosis.",
-        "da": "Case report of S-ketamine as treatment option for suicidal ideation and treatment-resistant depression in adolescents with early-onset psychosis.",
-        "fi": "Case report of S-ketamine as treatment option for suicidal ideation and treatment-resistant depression in adolescents with early-onset psychosis.",
-        "is": "Case report of S-ketamine as treatment option for suicidal ideation and treatment-resistant depression in adolescents with early-onset psychosis.",
-        "et": "Case report of S-ketamine as treatment option for suicidal ideation and treatment-resistant depression in adolescents with early-onset psychosis.",
-        "lv": "Case report of S-ketamine as treatment option for suicidal ideation and treatment-resistant depression in adolescents with early-onset psychosis.",
-        "lt": "Case report of S-ketamine as treatment option for suicidal ideation and treatment-resistant depression in adolescents with early-onset psychosis."
-      },
-      "notable": false,
-      "notable_reasons": null,
-      "relevance_score": 3,
-      "study_type": "case_report",
-      "substances": [
-        "ketamine"
-      ],
-      "added_at": "2026-08-26T07:23:28.268748+00:00"
-    },
-    {
-      "title": "Beyond head-twitch response: Acute psilocybin affects spontaneous behaviors in rats in a dose-dependent manner.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42639976/",
-      "source": "PubMed",
-      "date": "2026-08-25",
-      "authors": [
-        "Tiwari Praachi",
-        "Jenkins Bryan W",
-        "Moore Catherine F"
-      ],
-      "doi": "10.1177/02698811261478600",
-      "summaries": {
-        "en": "Study of male and female Sprague-Dawley rats examined psilocybin's effects on spontaneous behaviors at doses 0.5-1.5 mg/kg. Beyond the commonly measured head-twitch response, researchers assessed immobility, rearing, grooming, sniffing/digging, and circling. Results showed distinct dose-dependent profiles across behaviors and sexes: immobility increased linearly with dose, rearing and grooming decreased at low doses, while other behaviors showed variable patterns. Findings expand understanding of psilocybin's neurobehavioral effects in preclinical models.",
-        "sv": "Studie på hane- och honråttor (Sprague-Dawley) undersökte psilocybins effekter på spontana beteenden vid doser 0,5-1,5 mg/kg. Utöver det vanligt mätta huvudvridningsresponsen bedömdes stillhet, rest upp, grooming, sniffning/grävning och cirkling. Resultaten visade distinkta dose-beroende profiler mellan beteenden och kön: stillhet ökade linjärt med dos, rest upp och grooming minskade redan vid låga doser. Fynd utökar förståelsen av psilocybins neurobeteendeavvikelser i prekliniska modeller.",
-        "no": "Studie av han- og hunnrotter (Sprague-Dawley) undersøkte psilocybins effekter på spontan atferd ved doser 0,5-1,5 mg/kg. Utover det vanlig målt hoderykkingsresponsen ble også immobilitet, reising, grooming, sniffing/graving og sirkling vurdert. Resultatene viste distinkte dose-avhengige profiler mellom atferder og kjønn: immobilitet økte lineært med dose, reising og grooming avtok ved lave doser. Funnene utvider forståelsen av psilocybins neuroatferdsmessige effekter i prekliniske modeller.",
-        "da": "Studie af han- og hunrotter (Sprague-Dawley) undersøgte psilocybins virkninger på spontan adfærd ved doser 0,5-1,5 mg/kg. Ud over det almindeligt målte hovednikkingsrespons blev også immobilitet, rejsning, grooming, snifning/graveadfærd og cirkling vurderet. Resultaterne viste forskellige dose-afhængige mønstre mellem adfærd og køn: immobilitet steg lineært med dosis, rejsning og grooming faldt ved lave doser. Funnene udvider forståelsen af psilocybins neuroadfærdsmæssige virkninger i prækliniske modeller.",
-        "fi": "Tutkimuksessa tutkittiin psilosibiinin vaikutuksia spontaaniin käyttäytymiseen uros- ja naarasrotan (Sprague-Dawley) malleilla annoksilla 0,5-1,5 mg/kg. Yleisesti mitatun pään täristyresponsin lisäksi arvioitiin liikkumattomuus, notkotus, ihottelu, nuuhkiminen/kaivaminen ja pyöriminen. Tulokset osoittivat erilaiset annos-riippuvaiset profiilit käyttäytymisen ja sukupuolen välillä: liikkumattomuus lisääntyi lineaarisesti annoksen kanssa, notkotus ja ihottelu vähenivät jo pienillä annoksilla. Tulokset laajentavat ymmärrystä psilosibiinin neurokäyttäytymisen vaikutuksista prekliinisissä malleissa.",
-        "is": "Rannsóknin á hönkum og kvenum Sprague-Dawley stúkum kannaði áhrif psýlósýbíns á náttúruleg hegðun við skömmtum 0,5-1,5 mg/kg. Fyrir utan algengt mælda höfuðvifting voru metin kyrð, stökkva, kirtill, þefill/grafa og hringari. Niðurstöður sýndu aðskilda skammtabundin mynstur milli hegðunar og kyns: kyrð jókst línulega með skammti, stökkva og kirtill minnkuðu við lága skammta. Niðurstöðurnar auka skilning á hegðunarábrigðum psýlósýbíns í fordæmum fyrir klínísk fræði.",
-        "et": "Uuringus uuriti psilotsübiini mõju spontaansele käitumisele Sprague-Dawley isas ja emashiirtel annuste juures 0,5-1,5 mg/kg. Tavaliselt mõõdetud pea-tõmbereakooni kõrval hinnati paigalseisu, seismist, puhastamist, nuuskamist/kaevamist ja ringlemist. Tulemused näitasid erinevaid doosisõltuvaid mustreid käitumise ja soo vahel: paigalseismine suurenes lineaarselt doosiga, seismine ja puhastamine vähenesid juba madala doosiga. Tulemused parandavad arusaama psilotsübiini neurokäitumuslikust toimest prekliinilistel mudelitel.",
-        "lv": "Pētījumā Sprague-Dawley žurku tēviņiem un mātītēm pārbaudīja psilocibiīna ietekmi uz spontānu uzvedību devas 0,5-1,5 mg/kg. Papildus parasti mērītajam galvas trīcošanās atbildei novērtēja nekustību, celšanos, tīrīšanu, nūsošanu/rakšanu un rotāciju. Rezultāti parādīja atšķirīgus devas atkarīgus modeļus starp uzvedību un dzimumu: nekustība lineāri pieauga ar devu, celšanās un tīrīšana samazinājās jau zemo devu dēļ. Atklājumi paplašina izpratni par psilocibiīna neurouzvedības ietekmi prekliniskajos modeļos.",
-        "lt": "Tyrime buvo tiriamas psilocibino poveikis savaimiškam elgesiui Sprague-Dawley žiurkėms ir žiurkėnams 0,5–1,5 mg/kg dozėse. Be įprastai matuojamo galvos trūkčiojimo atsakymo buvo vertinti nejudrumas, kėlimasis, priežiūra, sniffavimas/kastmas ir sukinėjimasis. Rezultatai parodė skirtingus dozės nuo priklausomus modelius tarp elgesio ir lyties: nejudrumas tiesiškai didėjo su doze, kėlimasis ir priežiūra mažėjo jau žemose dozėse. Rezultatai plečia psilocibino neurielgesio poveikio supratimą preklininėse modelyse."
-      },
-      "notable": false,
-      "notable_reasons": null,
-      "relevance_score": 3,
-      "study_type": "preclinical",
-      "substances": [
-        "psilocybin"
-      ],
-      "added_at": "2026-08-26T07:23:28.268748+00:00"
-    },
-    {
-      "title": "Low Dose Ketamine Preconditions Astrocyte Mitochondria to Achieve Antidepressant Efficacy via Adenosine, Humanin, and Melatonin Upregulation and Efflux.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42694894/",
-      "source": "PubMed",
-      "date": "2026-08-24",
-      "authors": [
-        "Anderson George"
-      ],
-      "doi": "10.31083/AP54760",
-      "summaries": {
-        "en": "A literature review proposes that ketamine's antidepressant effects operate primarily through direct effects on astrocyte mitochondrial function rather than classical NMDAR antagonism. Low-dose ketamine may upregulate adenosine, humanin, and melatonin, optimizing mitochondrial function and downstream astrocyte activity. The mechanism may involve epigenetic priming of astrocytes by developmental stress, increasing their reactivity and mitochondrial dysfunction.",
-        "sv": "En litteraturöversikt föreslår att ketamins antidepressiv effekt främst verkar genom direkta effekter på astrocytmitokondriernas funktion snarare än klassisk NMDAR-antagonism. Låg-dosketamin kan uppregulera adenosin, humanin och melatonin, vilket optimerar mitokondriefunktion och nedströmsamtida astrocytaktivitet. Mekanismen kan innebära epigenetisk priming av astrocyter genom utvecklingsstress.",
-        "no": "En litteraturgjennomgang foreslår at ketamins antidepressive effekt fungerer primært gjennom direkte effekter på astrocyttmitokondriefunksjonen snarere enn klassisk NMDAR-antagonisme. Lavdose ketamin kan oppregulere adenosin, humanin og melatonin, og optimalisere mitokondriefunksjonen og nedstrøms astrocyttaktivitet. Mekanismen kan involvere epigenetisk priming av astrocytter gjennom utviklingsstress.",
-        "da": "En litteraturgennemgang foreslår, at ketamins antidepressiv virkning primært fungerer gennem direkte effekter på astrocytmitokondriefunktionen snarere end klassisk NMDAR-antagonisme. Lav-dosis ketamin kan opregulere adenosin, humanin og melatonin, hvilket optimerer mitokondriefunktion og downstreamastrocytaktivitet. Mekanismen kan involvere epigenetisk priming af astrocytter gennem udviklingsstress.",
-        "fi": "Kirjallisuuskatsauksessa ehdotetaan, että ketamiinin masennuslääkkeelliset vaikutukset toimivat ensisijaisesti astrosyytti-mitokondrion toimintaan kohdistuvien suorien vaikutusten kautta klassisen NMDAR-antagonismin sijaan. Pieni annos ketamiinia voi lisätä adenosiinia, humaniinia ja melatoniinia, optimoiden mitokondrion toiminnan ja alemman astrosyytti-aktiivisuuden. Mekanismi voi sisältää astrosyyttien epigeneetistä kuntoutusta kehitysaikaisen stressin avulla.",
-        "is": "Bókafletting bendir til þess að andþunglyndisáhrif ketamíns starfi fyrst og fremst með beinum áhrifum á virkni astrocyta-sæta frekar en klassiskri NMDAR-andæðingu. Lágskammta ketamín gæti aukið adenósín, humanín og melatónín, sem fínstillir virknisæti og afdrifarstarfsemi astrocyta. Aðferðin gæti falið í sér erfðafræðilega undirbúning astrocyta með þreytu í þroska.",
-        "et": "Kirjandusülevaade omakskestab, et ketamiini antidepressiivsed efektid toimivad peamiselt astrotsüütmitokondriaalsele funktsioonile mõjuvate otseste efektide kaudu, mitte klassikalise NMDAR-antagonismi teel. Madal ketamiini doos võib tõsta adenosiini, humaniiini ja melatoniini taset, optimeerides mitokondriaalsete funktsioonid ja edaspidist astrotsüütide aktiivsust. Mehhanism võib hõlmata astrotsüütide epigenetilist ettevalmistamist arenguperioodil tekkinud stressi kaudu.",
-        "lv": "Literatūras pārskats ierosina, ka ketamīna antidepresīvā iedarbība darbojas galvenokārt caur tiešiem efektiem uz astrociītu mitohondriju funkciju, nevis klasiskās NMDAR-antagonisma ceļā. Zema ketamīna doza var palielināt adenozīna, humanīna un melatonīna līmeni, optimizējot mitohondriju funkciju un turpmāko astrociītu aktivitāti. Mehānisms var ietvert astrociītu epigenētisko priekšgatavošanu attīstības stresa ietekmē.",
-        "lt": "Literatūros peržvalga rodo, kad ketamino antidepresinis poveikis veikia per tiesioginius poveikius astrocitų mitochondrijų funkcijai, o ne per klasikinį NMDAR antagonizmą. Žema ketamino doza gali padidinti adenozino, humanino ir melatonino kiekį, optimizuojant mitochondrijų funkciją ir tolesnę astrocitų aktyvumą. Šis mechanizmas gali būti susijęs su astrocitų epigenetine priešgatave, kurią sukelia raidos metu patirtas stresas."
-      },
-      "notable": false,
-      "notable_reasons": null,
-      "relevance_score": 4,
-      "study_type": "review",
-      "substances": [
-        "ketamine"
-      ],
-      "added_at": "2026-09-05T10:48:05.148635+00:00"
     }
   ]
 }

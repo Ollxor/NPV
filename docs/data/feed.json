@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-17T11:58:06.632163+00:00",
+  "generated_at": "2026-09-18T11:35:30.354829+00:00",
   "items": [
     {
       "title": "Blinding integrity in psychedelic research: Evidence from a comparative randomized controlled trial of psilocybin, MDMA, and methylphenidate in healthy volunteers",
@@ -32,6 +32,136 @@
         "mdma"
       ],
       "added_at": "2026-07-09T10:03:12.956794+00:00"
+    },
+    {
+      "title": "Validating and creating a short-form of the persisting effects questionnaire: A measure of positive and negative outcomes from psychedelic experiences.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42755297/",
+      "source": "PubMed",
+      "date": "2026-09-18",
+      "authors": [
+        "Ehrenkranz Rebecca",
+        "Sepeda Nathan D",
+        "Goldy Sean P"
+      ],
+      "doi": "10.1177/02698811261473405",
+      "summaries": {
+        "en": "Researchers validated and created a short form of the Persisting Effects Questionnaire (PEQ), a self-report measure of positive and negative outcomes from psychedelic experiences. The original 140+ item scale was reduced to 14 items plus three single items using exploratory and confirmatory factor analysis across clinical and non-clinical samples. The validated PEQ-SF maintains a two-factor structure (positive and negative valence) with strong psychometric properties and reduced participant burden.",
+        "sv": "Forskare validerade och skapade en kortform av Persisting Effects Questionnaire (PEQ), ett självrapporteringsmått för positiva och negativa effekter från psykedeliska erfarenheter. Den ursprungliga skalan med över 140 frågor reducerades till 14 frågor plus tre enskilda items genom faktoranalys i kliniska och icke-kliniska grupper. Den validerade PEQ-SF bibehåller en tvåfaktorsstruktur (positiv och negativ valens) med starka psykometriska egenskaper och minskad belastning för deltagarna.",
+        "no": "Forskere validerte og utviklet en kortversjon av Persisting Effects Questionnaire (PEQ), et selvrapporteringsmål for positive og negative utfall fra psykedeliske erfaringer. Den originale skalaen med over 140 spørsmål ble redusert til 14 spørsmål pluss tre enkeltitems gjennom faktoranalyse i kliniske og ikke-kliniske prøver. Den validerte PEQ-SF opprettholder en tofaktorstruktur (positiv og negativ valens) med sterke psykometriske egenskaper og redusert belastning for deltakerne.",
+        "da": "Forskere validerede og udviklede en kortform af Persisting Effects Questionnaire (PEQ), et selvrapporteringsmål for positive og negative resultater fra psykedeliske oplevelser. Den oprindelige skala med over 140 spørgsmål blev reduceret til 14 spørgsmål plus tre enkeltitems gennem faktoranalyse i kliniske og ikke-kliniske stikprøver. Den validerede PEQ-SF opretholder en tofaktorstruktur (positiv og negativ valens) med stærke psykometriske egenskaber og reduceret belastning for deltagerne.",
+        "fi": "Tutkijat validoivat ja kehittivät lyhennetyn version Persisting Effects Questionnairesta (PEQ), itseraportointimittarista psykedeelistä kokemuksista aiheutuvista positiivisista ja negatiivisista seurauksista. Yli 140 kysymystä sisältävä alkuperäinen mittari supistettiin 14 kysymykseen ja kolmeen yksittäiseen osioon faktorianalyysin avulla kliinisissa ja ei-kliinisissä otoksissa. Validoitu PEQ-SF säilyttää kaksifaktorisen rakenteen (positiivinen ja negatiivinen valenssi) vahvojen psykometristen ominaisuuksien ja osallistujien kuormituksen vähenemisen kanssa.",
+        "is": "Rannsakendur staðfesttu og búu til stutta útgáfu af Persisting Effects Questionnaire (PEQ), sjálfskilgreiningarkvörðun fyrir jákvæðar og neikvæðar afleiðingar sykdelíkaðra reynslu. Upprunalegi kvarðinn með yfir 140 spurningum var minnkaður í 14 spurningar auk þriggja einstakra atriða með því að nota þáttagreiningu í klínískum og ekki-klínískum úrtökum. Staðfest PEQ-SF heldur tveggja þátta byggingu (jákvæð og neikvæð gildisgrein) með sterkum sálorkumælingum og minni álagi á þátttakendur.",
+        "et": "Teadlased valideerisid ja lõid Persisting Effects Questionnaire (PEQ) lühivormingu, enesekohta käivat skaalat psühhedeelikate kogemustest tulenevate positiivsete ja negatiivsete tagajärgede mõõtmiseks. Üle 140 küsimusega algne skaala vähendati 14 küsimusele ja kolmele üksikule küsimusele faktorianalüüsi abil kliiniliste ja mittekliiniliste valimites. Valideeritud PEQ-SF säilitab kahetegurilist struktuuri (positiivne ja negatiivne valents) tugevate psühhomeetriliste omadustega ja vähenenud koormuse korral osalejatele.",
+        "lv": "Pētnieki validēja un izveidoja Persisting Effects Questionnaire (PEQ) īso formu, pašu ziņojumus vērtējošu mērījumu par pozitīvām un negatīvām psihedēliku pieredzes sekām. Oriģinālā skala ar vairāk nekā 140 jautājumiem tika samazināta līdz 14 jautājumiem un trim atsevišķiem vienumiem, izmantojot faktoru analīzi klīniskos un neklīniskos paraugos. Validētā PEQ-SF saglabā divu faktoru struktūru (pozitīvā un negatīvā valence) ar spēcīgām psihometriskām īpašībām un samazinātu dalībnieku noslodzi.",
+        "lt": "Tyrėjai validavo ir sukūrė sutrumpintą Persisting Effects Questionnaire (PEQ) formą - savivokos matą teigiamam ir neigiamam psichedelinių patirčių poveikiui matuoti. Originali skalė su daugiau nei 140 klausimų buvo sumažinta iki 14 klausimų ir trijų atskirų elementų naudojant faktorinę analizę klinikinėse ir neklinikinėse imtyse. Pavaliduota PEQ-SF išlaiko dvifaktorinę struktūrą (teigiamas ir neigiamas valentingumas) su stipriomis psichometrinio patvirtinimo savybėmis ir sumažinta dalyvių apkrova."
+      },
+      "notable": false,
+      "notable_reasons": null,
+      "relevance_score": 4,
+      "study_type": "other",
+      "substances": [
+        "psilocybin"
+      ],
+      "added_at": "2026-09-18T11:33:47.001208+00:00"
+    },
+    {
+      "title": "Psilocybin restores social novelty investigation in male SAPAP3 knockout mice and engages prefrontal-hippocampal circuitry.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42754621/",
+      "source": "PubMed",
+      "date": "2026-09-17",
+      "authors": [
+        "Gattuso James J",
+        "Bezcioglu Bilgenur",
+        "Hendey Jenna"
+      ],
+      "doi": "10.1038/s41380-026-03879-8",
+      "summaries": {
+        "en": "Male SAPAP3 knockout mice, a model of compulsive behavior, showed restored social novelty investigation following a single 1 mg/kg psilocybin injection. The behavioral improvement correlated with increased neural activation in the infralimbic prefrontal cortex and hippocampus. This preclinical study suggests psilocybalin may address social dysfunction in obsessive-compulsive disorder through specific prefrontal-hippocampal circuitry.",
+        "sv": "Manliga SAPAP3-knockout-möss, en modell för tvångsbeteende, visade återställd social nyhetsundersökning efter en enda injektionsdos psilocybin (1 mg/kg). Beteendebätringen korrelerade med ökad neural aktivering i infralimbisk prefrontalkortex och hippocampus. Denna preklinisk studie tyder på att psykedelika kan motverka social dysfunktion vid tvångsstörning genom specifik prefrontalt-hippocampal krets.",
+        "no": "Hannlige SAPAP3-knockout-mus, en modell for tvangsforstyrrelser, viste gjenopprettet sosial nyhetsutforsking etter en enkelt injeksjon med psilocybin (1 mg/kg). Forbedringen i atferd var korrelert med økt neural aktivering i infralimbisk prefrontalkorteks og hippocampus. Denne prekliniske studien antyder at psykedelika kan dempe sosial dysfunksjon ved tvangslidelser gjennom spesifikk prefrontalt-hippocampal krets.",
+        "da": "Mandlige SAPAP3-knockout-mus, en model for tvangsforstyrrelser, viste gendannet social nyhedersforskning efter en enkelt psilocybin-injektion (1 mg/kg). Adfærdsforbedringen var korreleret med øget neural aktivering i infralimbisk præfrontal cortex og hippocampus. Dette prækliniske studie antyder, at psykedelika kan afhjælpe social dysfunktion ved tvangslidelser gennem specifik præfrontalt-hippocampal kredsløb.",
+        "fi": "Urospuoliset SAPAP3-knockout-hiirit, pakko-oireisen häiriön malli, osoittivat palautuneen sosiaalisen uutuuden tutkimisen yksittäisen psilosybiini-injektioannoksen (1 mg/kg) jälkeen. Käyttäytymisen paraneminen korreloi lisääntyneen hermotoiminnan kanssa infralimbisessa prefrontaalikaihimessa ja hippocampuksessa. Tämä prekliininen tutkimus viittaa pskedeelien mahdollisuuksiin lievittää sosiaalista toimintahäiriötä pakko-oireisissa häiriöissä tietyn prefrontaalisen-hippocampaalisen piirin kautta.",
+        "is": "Karlkyns SAPAP3-slettir mýs, líkan fyrir þvingunarhegðun, sýndu endurkjapts rannsókn á félagslegum nýjungum eftir staka insúlínasprautugift af psilósýbíni (1 mg/kg). Hegðunarframbotin tengdust aukinni taugastarfsemi í infralimbísku formálhiminakjarna og hippokampi. Þessi undirklinískt rannsókn bendir til þess að geislastig-efni geti letið félagslega virkni við þvingunarhegðunarásj með sérstakri formálhimina-hippokampa hringrás.",
+        "et": "Isased SAPAP3-katkestatud hiired, sundmuste-obsessiivse häire mudel, näitasid taastunud sotsiaalse uudsuse uurimist ühe psilotsibiini süstimise (1 mg/kg) järel. Käitumise parendus korreleerus suurenenud neuronaalse aktiivsusega infralimbiilses prefrontaalkooris ja hippokampuses. See prekliiniline uuring viitab, et psühhedeelikud võivad leevendada sotsiaalset düsfunktsiooni obsessiivse-sundmuste häires konkreetse prefrontaal-hippokampaalse vooluahela kaudu.",
+        "lv": "Tēviņi SAPAP3 nokautu peles, obsesīvi kompulsīvo traucējumu modelis, parādīja atjaunotu sociālo jaunuma izpēti pēc vienas psilocibiīna injekcijas (1 mg/kg). Uzvedības uzlabošanās korelēja ar palielinātu neirālo aktivitāti infralimbiskajā prefrontālajā garozā un hipokampā. Šis prekliniskais pētījums liecina, ka psihodēliskas vielas var mazināt sociālo disfunkciju obsesīvi kompulsīvos traucējumos caur noteiktu prefrontāli-hipokampu ķēdi.",
+        "lt": "Patinai SAPAP3 genetiškai modifikuoti pelės, privalomųjų klausimų sutrikimo modelis, parodė atkurtą socialinio naujatvės tyrinėjimą po vienos psilocibiino injekcijos (1 mg/kg). Elgesio pagerinimas buvo susijęs su padidėjusia neuroninių aktyvumu infralimbiškoje prefrontale žievėje ir hipokampe. Šis preklininis tyrimas rodo, kad psichedeliai gali sumažinti socialinę disfunkciją obsesacinio-kompulsyvaus sutrikimo atveju per specifinę prefrontoriai-hipokampiną grandinę."
+      },
+      "notable": false,
+      "notable_reasons": null,
+      "relevance_score": 4,
+      "study_type": "preclinical",
+      "substances": [
+        "psilocybin"
+      ],
+      "added_at": "2026-09-18T11:33:47.001208+00:00"
+    },
+    {
+      "title": "‘Move Fast, with Precision’: Notes from ARPA-H’s Ibogaine Workshop",
+      "url": "https://psychedelicalpha.com/news/move-fast-with-precision-notes-from-arpa-hs-ibogaine-workshop/",
+      "source": "Psychedelic Alpha",
+      "date": "2026-09-17",
+      "authors": [],
+      "doi": "",
+      "summaries": {
+        "en": "ARPA-H convened a workshop on its ibogaine funding initiative (ASCENT-IBO), aimed at accelerating safe clinical evaluation of ibogaine for opioid use disorder treatment. The program emphasizes rapid yet rigorous research development, with proposals addressing novel therapeutic approaches.",
+        "sv": "ARPA-H genomförde en workshop för sitt ibogoainprogram (ASCENT-IBO), som syftar till att påskynda säker klinisk värdering av ibogain vid opioidberoende. Initiativet betonar snabb men noggrann forskningsutveckling med fokus på nya terapeutiska metoder.",
+        "no": "ARPA-H gjennomførte en workshop for sitt ibogoainprogram (ASCENT-IBO), som skal akselerere sikker klinisk evaluering av ibogain for opioidavhengighet. Initiativet legger vekt på rask men grundig forskningstilnærming med nye terapeutiske metoder.",
+        "da": "ARPA-H afholdt en workshop for sit ibogaeinprogram (ASCENT-IBO), som skal fremskynde sikker klinisk evaluering af ibogain ved opioidafhængighed. Initiativet understreger hurtig men grundig forskningstilgang med fokus på nye terapeutiske metoder.",
+        "fi": "ARPA-H järjesti työpajan ibogaiiniu-ohjelmastaan (ASCENT-IBO), jonka tavoitteena on nopeuttaa ibogaiinin turvallista kliinistä arviointia opioidiriippuvuuden hoidossa. Ohjelma painottaa nopeaa mutta tiukkaa tutkimuskehitystä uusilla terapeuttisilla lähestymistavoilla.",
+        "is": "ARPA-H hélt vinnustofnu um ibogaín-verkefnið sitt (ASCENT-IBO), sem miðar að því að flýta fyrir örugri klínískri mat á ibogaíni við opioidfíkn. Verkefnið leggur áherslu á hraða en ítarlega rannsóknir með nýjum meðferðaraðferðum.",
+        "et": "ARPA-H korraldas töötoa oma ibogoaiini rahastamisprogrammi (ASCENT-IBO) jaoks, mille eesmärk on kiirendada ibogoaiini ohutut kliinilist hindamist opioidisõltuvuse ravil. Programm rõhutab kiiret kuid hoolikat teadusliku arengu lähenemist uute terapeeutiliste meetodite abil.",
+        "lv": "ARPA-H organizēja darbnīcu par savu ibogoaīna finansēšanas iniciatīvu (ASCENT-IBO), kas vērsta uz ibogoaīna draudzīgas klīniskās novērtēšanas paātrināšanu opioīdu atkarības ārstēšanā. Iniciatīva uzsver ātru, bet precīzu pētniecības attīstību ar jaunām terapeitiskām metodēm.",
+        "lt": "ARPA-H surengė seminarą dėl savo ibogaino finansavimo programos (ASCENT-IBO), kuri skirta paspartinti ibogaino saugų klinikinį vertinimą opioidų priklausomybės gydymui. Programa pabrėžia greitą, bet atsakingą mokslinės plėtros požiūrį su naujais terapiniais metodais."
+      },
+      "notable": true,
+      "notable_reasons": {
+        "en": "ARPA-H (Advanced Research Projects Agency for Health) announces dedicated funding program (ASCENT-IBO) for ibogaine clinical trials in opioid use disorder, representing a major national-level research investment and policy signal.",
+        "sv": "ARPA-H (Advanced Research Projects Agency for Health) tillkännager ett dedikerat finansieringsprogram (ASCENT-IBO) för ibogaine-kliniska studier vid opioidberoende, vilket representerar en betydande nationell forskningsmässig investering och politisk signal.",
+        "no": "ARPA-H (Advanced Research Projects Agency for Health) annonserer et dedikert finansieringsprogram (ASCENT-IBO) for ibogaine kliniske studier ved opioidbruksstørrelse, som representerer en større nasjonalt nivå forskningsmessig investering og politisk signal.",
+        "da": "ARPA-H (Advanced Research Projects Agency for Health) annoncerer et dedikeret finansieringsprogram (ASCENT-IBO) for ibogaine kliniske forsøg ved opioidmisbrug, hvilket repræsenterer en større nationalt niveau forskningsmæssig investering og politisk signal.",
+        "fi": "ARPA-H (Advanced Research Projects Agency for Health) ilmoittaa omistetusta rahoitusohjelmasta (ASCENT-IBO) ibogaine-kliinisille tutkimuksille opioidiriippuvuudessa, mikä edustaa merkittävää kansallisen tason tutkimussijoitusta ja politiikkasignaalia.",
+        "is": "ARPA-H (Advanced Research Projects Agency for Health) tilkynnir sérstakt fjármögnunaráætlun (ASCENT-IBO) fyrir ibogaine klínísk rannsóknir við ópioid-misnotkun, sem táknar meiri rannsóknir- og stefnumörkun á landsvísu.",
+        "et": "ARPA-H (Advanced Research Projects Agency for Health) teatab eraldatud rahastamisprogrammist (ASCENT-IBO) ibogaine kliinilisteks uuringuteks opioidiulatusega seotud häirete puhul, mis esindab olulist rahvusliku tasandi uurimusinvesteeringut ja poliitilise signaali.",
+        "lv": "ARPA-H (Advanced Research Projects Agency for Health) paziņo par īpašu finansējuma programmu (ASCENT-IBO) ibogaine klīniskiem pētījumiem opioīdu lietošanas traucējumos, kas atspoguļo nozīmīgu valsts līmeņa pētniecības ieguldījumu un politikas signālu.",
+        "lt": "ARPA-H (Advanced Research Projects Agency for Health) paskelbė apie dedikuotą finansavimo programą (ASCENT-IBO) ibogaine klinikinius tyrimus opioidsukirtoje, kuri reiškia svarbų nacionalinio lygio mokslinių tyrimų investavimą ir politinį signalą."
+      },
+      "relevance_score": 4,
+      "study_type": "other",
+      "substances": [
+        "ibogaine"
+      ],
+      "added_at": "2026-09-18T11:33:47.001208+00:00"
+    },
+    {
+      "title": "Esketamine for treatment of depression in Huntington's disease: A case report.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42752279/",
+      "source": "PubMed",
+      "date": "2026-09-17",
+      "authors": [
+        "Saft Carsten",
+        "Jessen Julia",
+        "Kiefner David"
+      ],
+      "doi": "10.1177/18796397261489245",
+      "summaries": {
+        "en": "Case report of a 60-year-old male with Huntington's disease treated with nasal esketamine for treatment-resistant depression and suicidal ideation lasting 20 years. Beck Depression Inventory score improved from 29 to 5 within three days, though symptoms partially returned at three-month follow-up (BDI: 20). First reported esketamine use in HD, suggesting potential for treating resistant psychiatric symptoms.",
+        "sv": "Fallrapport om en 60-årig man med Huntingtons sjukdom behandlad med näsespray esketamin för behandlingsresistent depression och suicidale tankar under 20 år. Beck Depression Inventory-poäng förbättrades från 29 till 5 inom tre dagar, men symptomen återkom delvis vid tremånaders uppföljning (BDI: 20). Första rapporterade esketaminanvändningen vid HD, vilket tyder på potential för behandling av resistenta psykiatriska symptom.",
+        "no": "Pasientrapport om en 60-årig mann med Huntingtons sykdom behandlet med neseSpray esketamin for behandlingsresistent depresjon og suisidale tanker i 20 år. Beck Depression Inventory-poeng forbedret seg fra 29 til 5 innen tre dager, men symptomene returnerte delvis ved tre måneder oppfølging (BDI: 20). Første rapporterte esketaminbruk ved HD, noe som antyder potensial for behandling av resistente psykiatriske symptomer.",
+        "da": "Patientrapport om en 60-årig mand med Huntingtons sygdom behandlet med næsespray esketamin for behandlingsresistent depression og selvmordstanker gennem 20 år. Beck Depression Inventory-score forbedret sig fra 29 til 5 inden for tre dage, men symptomerne vendte delvis tilbage ved tre måneders opfølgning (BDI: 20). Første rapporterede esketaminbrug ved HD, hvilket tyder på potentiale for behandling af resistente psykiatriske symptomer.",
+        "fi": "Tapausraportti 60-vuotiaasta miehestä, jolla oli Huntingtonin tauti ja jota hoidettiin nenäsuihkulla annetulla esketamiinilla hoitoon vastustuskykoiseen masennukseen ja itsemurhaajatusten kanssa 20 vuoden ajan. Beck Depression Inventory -pisteet paranivat 29:stä 5:een kolmen päivän sisällä, mutta oireet palasivat osittain kolmen kuukauden seurannassa (BDI: 20). Ensimmäinen raportoitu esketamiinin käyttö HD-potilaalla, mikä viittaa potentiaaliin hoitaa resistenttejä psyykkisiä oireita.",
+        "is": "Tilfelliskýrsla um 60 ára gömul með Huntington-sjúkdómi sem meðhöndluð var með nasal esketamíni fyrir meðferðarþolin þunglyndi og sjálfsmorðshugleiðingar í 20 ár. Beck Depression Inventory stig batnaði úr 29 í 5 innan þriggja daga, en einkennin komu að hluta til aftur við þriggja mánaða endurskoðun (BDI: 20). Fyrsti skráði notkun esketamíns við Huntington, sem bendir til möguleika á meðhöndlun treggra geðrænna einkennis.",
+        "et": "Juhtumiaruanne 60-aastasest mehest Huntingtoni taudiga, keda raviti nenasprei esketamiiniga ravile vastupanuvõimeliseks depressiooniks ja enesetapumõteteks 20 aasta jooksul. Beck Depression Inventory skoor paranes 29-lt 5-le kolme päeva jooksul, kuid sümptomid taastusid osaliselt kolme kuu jälgimises (BDI: 20). Esimene teatatud esketamiini kasutus Huntingtoni taudis, mis viitab potentsiaalile ravi-vastupanuvõimeliste psühhiaatriliste sümptomite ravimiseks.",
+        "lv": "Klīniska gadījuma pārskats par 60 gadus vecu vīrieti ar Huntingtona slimību, kas tika ārstēts ar nazālu esketamīnu pret ārstēšanai rezistentām depresiju un pašnāvniecīgām domām 20 gadu laikā. Beka depresijas inventāra rādītājs uzlabojās no 29 uz 5 trīs dienu laikā, taču simptomi daļēji atgriezās trīs mēnešu kontroles laikā (BDI: 20). Pirmais ziņotais esketamīna lietojums Huntingtona slimības gadījumā, kas liecina par potenciālu ārstēt rezistentus psihiski traucējumus.",
+        "lt": "Klinikinė ataskaitа apie 60 metų amžiaus vyrą su Huntingtono liga, kuris buvo gydomas nazaliniais psichedelikais (esketaminu) dėl terapijai atsparaus depresijo ir savižudybės minčių, trukusių 20 metų. Beko depresijos inventoriaus balas pagerintas nuo 29 iki 5 per tris dienas, tačiau simptomų dalinė pasikartojimas pastebėtas per trijų mėnesių stebėjimą (BDI: 20). Pirmasis praneštas esketamino naudojimas Huntingtono ligoje, siūlantis potencialą psichiatrinių simptomų, atspariųjų gydymui, gydyti."
+      },
+      "notable": false,
+      "notable_reasons": null,
+      "relevance_score": 2,
+      "study_type": "case_report",
+      "substances": [
+        "ketamine"
+      ],
+      "added_at": "2026-09-18T11:33:47.001208+00:00"
     },
     {
       "title": "[Intravenous ketamine in suicidal crisis : indications and patient referral].",
@@ -340,6 +470,37 @@
         "ayahuasca"
       ],
       "added_at": "2026-09-14T13:07:38.604183+00:00"
+    },
+    {
+      "title": "Assessment of drug harm by final-year medical students and ChatGPT - a comparative analysis.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42754902/",
+      "source": "PubMed",
+      "date": "2026-09-12",
+      "authors": [
+        "Näslund Isak",
+        "Ott Michael",
+        "Vucins Alexander"
+      ],
+      "doi": "10.1186/s13011-026-00762-1",
+      "summaries": {
+        "en": "Study comparing drug harm assessments by 110 final-year medical students and ChatGPT-4. Students rated 28 substances on harm scales; ChatGPT generated 40 response sets. Both identified heroin, crack cocaine, and fentanyl as most harmful. Mean harm scores were similar (6.7 vs 6.4/10), but differences emerged for less harmful substances. Students felt underprepared in drug harm knowledge (5.8/10), while ChatGPT self-rated 8.3/10.",
+        "sv": "Studie som jämför bedömningar av substansskada mellan 110 läkarstudenter i slutår och ChatGPT-4. Studenterna bedömde 28 substanser på skador; ChatGPT genererade 40 svarsmängder. Båda identifierade heroin, crack-kokain och fentanyl som mest skadliga. Genomsnittliga skadescorer var likartade (6,7 vs 6,4/10), men skillnader framkom för mindre skadliga substanser. Studenterna ansåg sig underberedda inom substansskadakunskap (5,8/10), medan ChatGPT självbedömde 8,3/10.",
+        "no": "Studie som sammenlikner vurderinger av stoffskade mellom 110 medisinerstudenter i siste år og ChatGPT-4. Studentene vurderte 28 stoffer på skadeskalaer; ChatGPT genererte 40 responsett. Begge identifiserte heroin, crack-kokain og fentanyl som mest skadelige. Gjennomsnittlige skadescorer var like (6,7 vs 6,4/10), men forskjeller dukket opp for mindre skadelige stoffer. Studentene følte seg underpreparet innen stoffskadekunnskap (5,8/10), mens ChatGPT selvvurderte 8,3/10.",
+        "da": "Studie, der sammenlignes vurderinger af stofskade mellem 110 medicinstuderende i slutåret og ChatGPT-4. Studenterne vurderede 28 stoffer på skadeskalaer; ChatGPT genererede 40 responsæt. Begge identificerede heroin, crack-kokain og fentanyl som mest skadelige. Gennemsnitlige skadescorer var ens (6,7 vs 6,4/10), men forskelle opstod for mindre skadelige stoffer. Studenterne følte sig dårligt forberedt på stofskadekompetence (5,8/10), mens ChatGPT selvvurderede 8,3/10.",
+        "fi": "Tutkimus, joka vertaa lääketieteen viimeisen vuoden opiskelijoiden (n=110) ja ChatGPT-4:n arviointeja huumeiden haitoista. Opiskelijat arvioivat 28 ainetta vahingon asteikolla; ChatGPT tuotti 40 vastaussarjaa. Molemmat tunnistivat heroiinin, crackkokainin ja fentanyylin vaarallisimmiksi. Keskimääräiset vahinkopisteet olivat samankaltaiset (6,7 vs 6,4/10), mutta eroja ilmeni vähemmän haitallisilla aineilla. Opiskelijat kokivat osaamisensa puutteelliseksi (5,8/10), ChatGPT itsearvio 8,3/10.",
+        "is": "Rannsókn sem ber saman mat á skaða lyfja milli 110 læknanema á lokaári og ChatGPT-4. Nemarnir metið 28 efni á skaðakvarða; ChatGPT framleiddi 40 svarflokka. Báðir aðilar skilgreindu morfín, sprengkokaín og fentanýl sem skaðlegust. Meðaltal skaðastiga voru svipuð (6,7 vs 6,4/10), en munur kom fram fyrir óskaðlegri efni. Nemar töldu sig illa undirbúna á þekkingu um lyfjaðsáhættu (5,8/10), en ChatGPT metið 8,3/10.",
+        "et": "Uuring, mis võrdleb 110 lõpuaasta meditsiiniüliõpilase ja ChatGPT-4 hinnanguid psühhoaktiivsete ainete kahjulikuse kohta. Tudengid hindasid 28 ainet kahju skaalal; ChatGPT tootis 40 vastuskomplekti. Mõlemad tuvastasid heroiini, crack-kokaiiini ja fentanüüli kõige kahjulikumaks. Keskmised kahju-skoorid olid sarnased (6,7 vs 6,4/10), kuid erinevused ilmnesid vähem kahjulike ainete puhul. Tudengid tundsid end halvasti ette valmistatud (5,8/10), ChatGPT isetunnetus 8,3/10.",
+        "lv": "Pētījums, kurā salīdzināti 110 pēdējā kursa medicīnas studentu un ChatGPT-4 vērtējumi par narkotiku kaitīgumu. Studenti novērtēja 28 vielas uz kaitīguma skalas; ChatGPT ģenerēja 40 atbilžu kopas. Abi identificēja heroīnu, kreka kokaīnu un fentanilu kā viskaitleikākās vielas. Vidējie kaitīguma rādītāji bija līdzīgi (6,7 vs 6,4/10), taču atšķirības parādījās mazāk kaitīgām vielām. Studenti jutās nepietiekami sagatavoti (5,8/10), bet ChatGPT pašnovērtējums bija 8,3/10.",
+        "lt": "Tyrimas, lyginantis 110 paskutinio kurso medicinos studentų ir ChatGPT-4 psichotropinių medžiagų žalos vertinimus. Studentai įvertino 28 medžiagas žalos skalėje; ChatGPT sukūrė 40 atsakymų rinkinius. Abu grupės nustatė heroīną, kreką kokaīną ir fentanilį kaip žalodariausias medžiagas. Vidutiniai žalos balai buvo panašūs (6,7 vs 6,4/10), bet skirtumai atsirado mažiau žalodarioms medžiagoms. Studentai jautėsi nepasirengę (5,8/10), o ChatGPT savivertis 8,3/10."
+      },
+      "notable": false,
+      "notable_reasons": null,
+      "relevance_score": 3,
+      "study_type": "observational",
+      "substances": [
+        "other"
+      ],
+      "added_at": "2026-09-18T11:33:47.001208+00:00"
     },
     {
       "title": "Characterizing Psychedelic-Evoked Familiarity: A Comparative Study with Autobiographical and Déjà Vu Experiences.",
@@ -1818,171 +1979,6 @@
       "study_type": "review",
       "substances": [
         "ketamine"
-      ],
-      "added_at": "2026-08-27T17:44:17.771269+00:00"
-    },
-    {
-      "title": "Pilot study comparing the effects of high dose THC to high dose psilocybin and placebo in the set and setting of a classic psychedelic therapy session.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42649324/",
-      "source": "PubMed",
-      "date": "2026-08-27",
-      "authors": [
-        "Barrett Frederick S",
-        "Wolinsky David",
-        "Daily Zach"
-      ],
-      "doi": "10.1007/s00213-026-07138-0",
-      "summaries": {
-        "en": "Pilot study (n=4) comparing oral Δ9-THC (25–50 mg) with psilocybin (25 mg) and placebo in a double-blind, controlled design. Both synthetic dronabinol and cannabis distillate forms of 25 mg Δ9-THC produced subjective effects similar to psilocybin under psychedelic therapy conditions. Participants mistook dronabinol for a classic hallucinogen, suggesting high-dose THC can elicit psychedelic-like experiences in structured therapeutic settings.",
-        "sv": "Pilottudie (n=4) som jämförde oral Δ9-THC (25–50 mg) med psilo­cybin (25 mg) och placebo i dubbelblind, kontrollerad design. Både syntetisk dronabinol och cannabis­distillat innehållande 25 mg Δ9-THC gav subjektiva effekter liknande psilo­cybin under psykedelisk terapi. Deltagare förväxlade dronabinol med klassisk hallucinogen, vilket tyder på att höga THC-doser kan framkalla psykedeliska upplevelser i strukturerad terapi­miljö.",
-        "no": "Pilotstudie (n=4) som sammenliknet oral Δ9-THC (25–50 mg) med psilocybin (25 mg) og placebo i dobbeltblindet, kontrollert design. Både syntetisk dronabinol og cannabisdestillat med 25 mg Δ9-THC ga subjektive effekter tilsvarende psilocybin under psykedelisk terapi. Deltakere forvekslet dronabinol med klassisk hallusinogen, noe som antyder at høye THC-doser kan framkalle psykedeliske opplevelser i strukturert terapisetting.",
-        "da": "Pilotstudie (n=4) der oral Δ9-THC (25–50 mg) blev sammenlignet med psilocybin (25 mg) og placebo i dobbelblind, kontrolleret design. Både syntetisk dronabinol og cannabisdestillat indeholdende 25 mg Δ9-THC producerede subjektive effekter svarende til psilocybin under psykedelisk terapi. Deltagere forvekslede dronabinol med klassisk hallucsinogen, hvilket tyder på at høje THC-doser kan fremkalde psykedaliske oplevelser i struktureret terapisetting.",
-        "fi": "Piloititutkimus (n=4), jossa vertailtiin suun kautta annettavaa Δ9-THC:ta (25–50 mg) psilo­sybiiniin (25 mg) ja lumelääkkeeseen kaksoissokkoutetussa, kontrolloidussa tutkimusasetelmassa. Sekä synteettinen dronabinoli että kannabis­tislaite, joka sisälsi 25 mg Δ9-THC:ta, tuottivat psilo­sybiinin kaltaisia subjektiivisia vaikutuksia psykedeelis­ten hoito-olosuhteiden alaisena. Osallistujat sekoittivat dronabinolin klassiseen hallusinogeeniin, mikä viittaa siihen, että korkeat THC-annokset voivat aiheuttaa psykedeelis­täpaisen kokemuksen strukturoiduissa hoito­tilanteissa.",
-        "is": "Tilraunarannsókn (n=4) þar sem borið var saman á stærðfræðilegt Δ9-THC (25–50 mg) við psíló­síbín (25 mg) og lyfleysu í tvöföldu blindu, stjórðu hönnun. Bæði tilbúnu dronabinól og kannabís­þjöppu sem innihélt 25 mg Δ9-THC framleiddu huglæg áhrif svipuð psíló­síbíni við sálgreinandi meðferðar­skilyrði. Þátttakendur rugluðu dronabinóli við klassiska geislun, sem bendir til þess að há Δ9-THC skammtar geti valdið sálgreiningarendalíkri reynslu í skipulögðum meðferðar­aðstæðum.",
-        "et": "Pilootuuring (n=4), kus võrreldi suulisel teel manustatud Δ9-THC:d (25–50 mg) psilo­tsübiiniga (25 mg) ja platseeboa kahepimestses, kontrollitud katsekujunduses. Nii sünteetiline dronabinool kui ka kanep­distillaat, mis sisaldas 25 mg Δ9-THC:d, tekitasid subjektiivset toime, mis oli sarnane psilo­tsübiiniga psühhedeliumi teraapia tingimustes. Osalised avastas dronabinoolit klassikalise hallutsinogeeninagu, mis viitab sellele, et kõrgendatud THC-annused võivad esile kutsuda psühhedeliumi­laadseid kogemusi struktureeritud ravi­keskkonnades.",
-        "lv": "Pilotpētījums (n=4), kurā salīdzināja perorāli lietotu Δ9-THC (25–50 mg) ar psilo­cibīnu (25 mg) un placebu dubultā aklā, kontrolētā dizainā. Gan sintetiskais dronabinols, gan konopju destilāts, kas satur 25 mg Δ9-THC, radīja subjektīvus efektus, kas līdzīgi psilo­cibīnam psihedelisko terapijas apstākļos. Dalībnieki jaukt dronabinolu ar klasisku halicinogēnu, kas liecina, ka augsti THC devas var izraisīt psihedelu­līdzīgas pieredzes strukturētas terapijas vidē.",
-        "lt": "Bandomoji studija (n=4), kurioje buvo lygintas žandikaulio Δ9-THC (25–50 mg) su psilocibinu (25 mg) ir placebu dvigubai akliname, kontroliuojamame tyrime. Tiek sintetinis dronabinolis, tiek kanapių distilatas, turintis 25 mg Δ9-THC, sukėlė subjektyvius efektus, panašius į psilocinbino psichedelinės terapijos sąlygomis. Dalyviai klaidingai identifikavo dronabinolį kaip klasikinį haliu­cinogeną, o tai rodo, kad aukštos THC dozės gali sukelti psichedeliniu­mo panašias patirtis struktūrizuotoje terapijoje."
-      },
-      "notable": false,
-      "notable_reasons": null,
-      "relevance_score": 3,
-      "study_type": "rct",
-      "substances": [
-        "psilocybin",
-        "other"
-      ],
-      "added_at": "2026-08-27T17:44:17.771269+00:00"
-    },
-    {
-      "title": "Real-World Effectiveness and Safety of Esketamine Nasal Spray in Treatment-Resistant Depression: A Retrospective Observational Study.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42736875/",
-      "source": "PubMed",
-      "date": "2026-08-26",
-      "authors": [
-        "Ali Mostafa A Sayed",
-        "Amirthalingam Palanisamy",
-        "Alshareef Hanan"
-      ],
-      "doi": "10.3390/healthcare14172717",
-      "summaries": {
-        "en": "Retrospective observational study examining real-world effectiveness and safety of esketamine nasal spray in treatment-resistant depression. The study analyzes clinical outcomes from actual clinical practice settings to evaluate the therapeutic potential and adverse event profile of this dissociative psychedelic in patients unresponsive to conventional antidepressants.",
-        "sv": "Retrospektiv observationsstudie om verklig effektivitet och säkerhet för esketaminnässsspray vid behandlingsresistent depression. Studien analyserar kliniska resultat från praktisk klinisk verksamhet för att utvärdera terapeutisk potential och biverkningsprofil för denna dissociativ psykedelikum hos patienter som inte svarar på vanliga antidepressiva.",
-        "no": "Retrospektiv observasjonsstudie som undersøker virkelig effektivitet og sikkerhet av esketaminnesesprøyte ved behandlingsresistent depresjon. Studien analyserer kliniske resultater fra faktisk klinisk praksis for å evaluere terapeutisk potensial og bivirkningsprofil av dette dissosiativer psykedel hos pasienter som ikke responderer på konvensjonelle antidepressiva.",
-        "da": "Retrospektiv observationsstudie, der man undersøger virkelige effektivitet og sikkerhed af esketaminnæsespray ved behandlingsresistent depression. Studien analyserer kliniske resultater fra aktuel klinisk praksis for at evaluere terapeutisk potentiale og bivirkningsmønster af dette dissociativt psykedelikum hos patienter, der ikke reagerer på konventionelle antidepressiva.",
-        "fi": "Retrospektiivinen havainnointitutkimus esketamiinisientsusprayän tehokkuudesta ja turvallisuudesta hoitoresistenssissa masennuksessa. Tutkimus analysoi klinisia tuloksia todellisesta kliinisestä käytännöstä arvioidakseen tämän dissosiatiivin psykedeelikumin terapeuttista potentiaalia ja haittavaikutusprofiilia potilaille, jotka eivät vastaa tavanomaisten masennuslääkkeiden hoitoon.",
-        "is": "Afturvirðandi athugun sem skoðar raunkosti og öryggi esketamínbrakasprota við meðferðarþrjóskan þunglyndi. Rannsóknin greinir klíníska afleiðingu frá raunverulegri klínísku iðkun til að meta lækningakosti og aukaverkana þessa sundurskiljandi huglífsfræðilega efnis hjá sjúklingum sem bregðast ekki við venjulegum svangur.",
-        "et": "Retrospektiivne vaatluslik uuring esketamiini ninasprei efektiivsusest ja ohutusest ravi resistentse depressiooni korral. Uuring analüüsib kliinilisi tulemusi tegeliku kliinilise praktika seadest, et hinnata selle dissotsiatiivse psühhedliku terapeutilist potentsiaali ja kõrvalnähete profiili patsienditel, kes ei reageeri tavaliste antidepressantide ravile.",
-        "lv": "Retrospektīvs novērojumu pētījums par esketamīna deguna aerosola efektivitāti un drošību ārstēšanai rezistentā depresijā. Pētījums analizē klīniskos rezultātus no reālas klīniskas prakses, lai novērtētu šī disociatīvā psihodelika terapeitisko potenciālu un blakusparādību profilu pacientiem, kuri nereaģē uz parastajiem antidepresantiem.",
-        "lt": "Retrospektyvi stebėjimo studija, kurioje vertinama esketamino nosies purškalo veiksmingumas ir saugumas gydant atspariąją depresiją. Tyrime analizuojami klinikiniai rezultatai iš tikros klininės praktikos, siekiant įvertinti šio disociatyvaus psichedeliko terapeutinį potencialą ir nepageidaujamų poveikių profilį pacientams, kurie nereaguoja į standartinį antidepresantų gydymą."
-      },
-      "notable": false,
-      "notable_reasons": null,
-      "relevance_score": 4,
-      "study_type": "observational",
-      "substances": [
-        "ketamine"
-      ],
-      "added_at": "2026-09-15T11:57:34.349034+00:00"
-    },
-    {
-      "title": "Non-randomized rapamycin augmentation of chronic self-administered ketamine provides subjective improvement in diverse phenotypes.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42719198/",
-      "source": "PubMed",
-      "date": "2026-08-26",
-      "authors": [
-        "Berner Jon"
-      ],
-      "doi": "10.3389/fpsyt.2026.1910337",
-      "summaries": {
-        "en": "Single-center retrospective study of 101 patients using ketamine chronically (>2 months). Among 38 patients who received rapamycin augmentation, 22 reported subjective improvement across diverse symptoms including cognition, fatigue, mood, pain, and dysautonomia. Ketamine dosing varied widely (0.4-20.7 mg/kg/day). Rapamycin response correlated with lower weight and absence of antipsychotic use. Results suggest potential benefit in select populations, though severe selection bias limits generalizability.",
-        "sv": "Retrospektiv enkellcenterstudie av 101 patienter med kronisk ketaminanvändning (>2 månader). Bland 38 patienter som fick rapamycinökning rapporterade 22 subjektiv förbättring inom varierande symptom inklusive kognition, trötthet, humör, smärta och dysautonomi. Ketamindosering varierade brett (0,4-20,7 mg/kg/dag). Rapamycinrespons korrelerade med lägre vikt och frånvaro av antipsykotisk användning. Resultaten tyder på potentiell nytta i utvalda populationer, men allvarlig selektionsbias begränsar generaliserbarhet.",
-        "no": "Retrospektiv enkelsenterstudie av 101 pasienter med kronisk ketaminbruk (>2 månader). Blant 38 pasienter som fikk rapamycintillegg, rapporterte 22 subjektiv forbedring over varierte symptomer inkludert kognisjon, tretthet, humør, smerte og dysautinomi. Ketamindosering varierte bredt (0,4-20,7 mg/kg/dag). Rapamycinrespons korrelerte med lavere vekt og fravær av antipsykotisk bruk. Resultater tyder på potensiell nytte i utvalgte populasjoner, men alvorlig seleksjonsskjevhet begrenser generaliserbarhet.",
-        "da": "Retrospektiv enkeltcenterstudie af 101 patienter med kronisk ketaminbrug (>2 måneder). Blandt 38 patienter, der fik rapamycintilskud, rapporterede 22 subjektiv forbedring over varierede symptomer herunder kognitiv funktion, træthed, humør, smerter og dysautinomi. Ketamindosering varierede bredt (0,4-20,7 mg/kg/dag). Rapamycinrespons korrelerede med lavere vægt og fravær af antipsykotisk brug. Resultater tyder på potentiel nytte i udvalgte populationer, men alvorlig selektionsbias begrænser generaliserbarhed.",
-        "fi": "Retrospektiivinen yksikeskuksisen tutkimus 101 potilaasta, joilla oli krooninen ketamiinin käyttö (>2 kuukautta). 38 potilaasta, jotka saivat rapamysiini-lisäystä, 22 ilmoitti subjektiivista parannusta eri oireissa, kuten kognitiiviset toiminnot, väsymys, mieliala, kipu ja dysautonomi. Ketamiinin annos vaihteli laajasti (0,4-20,7 mg/kg/päivä). Rapamysiinin vaste korreloi pienemmän painon ja antipsykoottisten lääkkeiden puuttumisen kanssa. Tulokset viittaavat mahdolliseen hyötyyn valituissa populaatioissa, mutta vakava valinnan harha rajoittaa yleistettävyyttä.",
-        "is": "Afturrýnandi rannsókn frá einu miðstöð með 101 sjúklingum með langvinna ketamín notkun (>2 mánuðir). Meðal 38 sjúklinga sem fengu rapamycín viðbót, 22 tilkynntu huglæga endurbót á fjölbreyttum einkennum þar með talið þekking, þrekleysi, skap, verkir og dysautinomi. Ketamín skammtir voru breiðir (0,4-20,7 mg/kg/dagur). Rapamycín svar tengdist minni þyngd og engin notkun andgeislafræðilegra lyfja. Niðurstöður benda til hugsanlegra ávaxta í völdum hópum, en alvarleg hlutdrægni takmarkar alhæfingu.",
-        "et": "Tagasivaatav ühe keskuse uuring 101 patsiendiga, kellel oli krooniliselt ketamiini kasutamine (>2 kuud). 38 patsiendi hulgast, kes said rapamütsiini lisandust, 22 teatanud subjektiivset paranemist erinevate sümptomite osas sealhulgas kognitsioon, väsimus, meeleolu, valu ja dysautonoomia. Ketamiini doseerivad varieerusid laialdaselt (0,4-20,7 mg/kg/päev). Rapamütsiini vastus korreleerus madalamate kehakaalude ja antipsühhotiliste ravimite puudumisega. Tulemused viitavad võimalikule kasule valitud populatsioonides, kuid tõsine valikueelarv piiritleb üldistamist.",
-        "lv": "Retrospektīvs viena centra pētījums ar 101 pacientu, kuriem bija hroniska psihedeliku ketamīna lietošana (>2 mēneši). No 38 pacientiem, kuri saņēma rapamicīna papildinājumu, 22 ziņoja par subjektīvu uzlabošanos dažādos simptoma veidos, tostarp kognicija, nogurum, noskaņojums, sāpes un disautonomiija. Ketamīna devas variēja plašā diapazonā (0,4-20,7 mg/kg/dienu). Rapamicīna atbildes korelēja ar zemāku ķermeņa masu un antipsihotisku līdzekļu neesamību. Rezultāti liecina par potenciālu ieguvumu atlasītās populācijās, taču nopietna atlases neobjektivitāte ierobežo vispārinājamību.",
-        "lt": "Atgalinė retrospektyvi vieno centro studija su 101 pacientu, turinčiu chronišką psichodeliko ketamino vartojimą (>2 mėnesius). Iš 38 pacientų, gavusių rapamicino papildą, 22 pranešė apie subjektyvą pagerinimą įvairiuose simptomuose, įskaitant kognicija, nuovargį, nuotaiką, skausmą ir disautonomiją. Ketamino dozės buvo labai įvairios (0,4-20,7 mg/kg/dieną). Rapamicino atsakas buvo susijęs su mažesniu svoriu ir antipsichozinių vaistų nebuvimu. Rezultatai rodo potencialią naudą pasirinktose populiacijose, tačiau rimtas atrankos šališkumas riboja bendrinimą."
-      },
-      "notable": false,
-      "notable_reasons": null,
-      "relevance_score": 3,
-      "study_type": "observational",
-      "substances": [
-        "ketamine"
-      ],
-      "added_at": "2026-09-11T11:38:30.978989+00:00"
-    },
-    {
-      "title": "The Prescriber's Guide to Oral Ketamine for Patients With Major Depressive Illness: Principles and Practice.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42671282/",
-      "source": "PubMed",
-      "date": "2026-08-26",
-      "authors": [
-        "Andrade Chittaranjan"
-      ],
-      "doi": "10.4088/JCP.26f16110",
-      "summaries": {
-        "en": "This prescriber's guide examines oral ketamine for treating major depression. Ketamine can be administered multiple ways; oral administration using repurposed injectable ketamine is a noninvasive, safe, and cost-effective option. When sipped in liquid form over 20-30 minutes, dissociative and neurological side effects are minimized. The approach offers particular advantages for low-resource and low-to-middle-income settings, avoiding costs of patented formulations and hospitalization.",
-        "sv": "Denna guide granskar oral ketamin för behandling av svår depression. Ketamin kan administreras på flera sätt; oral administration med återanvänd injektionsketamin är ett icke-invasivt, säkert och kostnadseffektivt alternativ. Vid långsam uppslukande i vätskform under 20-30 minuter minimeras dissociativa och neurologiska bieffekter. Metoden erbjuder särskilda fördelar för resursbegränsade och låg-till-medelinkomsländer genom att undvika kostnader för patenterade preparat och sjukhusvård.",
-        "no": "Denne anbefaling gransker oral ketamin for behandling av alvorlig depresjon. Ketamin kan administreres på flere måter; oral administrering med gjenbruk av injeksjonsketamin er ikke-invasivt, trygt og kostnadseffektivt. Ved langsom inntak i væskform over 20-30 minutter minimeres dissociative og nevrologiske bivirkninger. Metoden gir særlige fordeler for ressursbegrensede og lav-til-middelsame-inntektsland ved å unngå kostnader for patenterte formuleringer og sykehusinnleggelse.",
-        "da": "Denne guide undersøger oral ketamin til behandling af svær depression. Ketamin kan administreres på flere måder; oral administration ved genanvendelse af injektionsketamin er ikke-invasiv, sikker og omkostningseffektiv. Ved langsom optagelse i væskiform over 20-30 minutter minimeres dissociative og neurologiske bivirkninger. Metoden giver særlige fordele for ressourcebegrænsede og lav-til-mellem-indkomstlande ved at undgå omkostninger til patenterede formuleringer og hospitalsindlæggelse.",
-        "fi": "Tämä opas tarkastelee oraalia ketamiinia vakavan masennuksen hoitoon. Ketamiinia voidaan antaa useilla tavoilla; suun kautta annettu ketamiini uudelleenkäytetystä injektioketamiinista on ei-invasiivinen, turvallinen ja kustannustehokas vaihtoehto. Hitaalla juomisella nesteen muodossa 20-30 minuutissa dissosiatatiiviset ja neurologiset sivuvaikutukset minimoituvat. Menetelmä tarjoaa erityisiä etuja resurssiköyhille ja matalan ja keskitulotason maille välttämällä patentoitujen valmisteiden ja sairaalahoitoon liittyvät kustannukset.",
-        "is": "Þessi handbók skoðar munnlega ketamín fyrir meðferð alvarlegrar þunglyndis. Hægt er að gefa ketamín á margan hátt; munnleg gefun endurnýtts innsprautarketamíns er ekki-innrásarknæm, örugg og kostnaðarhagkvæm kostur. Með hægri neyslu í fljótandi formi yfir 20-30 mínútur eru losandi og taugakerfisvirkir aukaverknanir lágmörkuð. Aðferðin býður upp á sérstakar ávantage fyrir auðlindasnauðar og lág-til-miðlungstek lönd með því að forðast kostnað við einkaleyf og sjúkrahúsinnlögn.",
-        "et": "See juhend uurib suulist ketamiini rasva depressiooni raviks. Ketamiini saab manustada mitmel viisil; suuline manustamine taaskasutatud injektsioonketamiinil on mitteinvaksiivne, ohutu ja kuluefektiivne valik. Aeglase neelamisega vedeliku kujul 20-30 minuti jooksul minimeeritakse dissotsiatiivseid ja neuroloogilisi kõrvalnähte. Meetod pakub erilisi eeliseid ressursside puudusega ja madala- kuni keskmise sissetulekuga riikidele, vältides patenteeritud formulatsioonide ja haiglaraviga seotud kulusid.",
-        "lv": "Šis ceļvedis pārbauda perorālu ketamīnu smagu depresijas ārstēšanai. Ketamīnu var ievadīt vairākos veidos; perorāla ievade, izmantojot atkārtoti injekcijas ketamīnu, ir neinvazīva, droša un rentabla iespēja. Lēnā uzņemšana šķidruma veidā 20-30 minūtes laikā samazina disociatīvās un neirolooģiskās blaknes. Metode piedāvā īpašus priekšrocības resursiem trūkstošām un zema un vidēja ienākuma valstīm, izvairīdamies no patentēto formulējumu un stacionāra ārstēšanas izmaksām.",
-        "lt": "Šis vadovas nagrinėja peroraliąjį ketamīną sunkios depresijos gydymui. Ketamīną galima suleisti keliais būdais; peroralis suleistinis, naudojant iš naujo panaudotą injekcijų ketamīną, yra neinvazyvus, saugus ir išlaidas taupus pasirinkimas. Lėtas vartojimas skystimo pavidalu per 20-30 minučių sumažina disociatyvius ir neurologinius šalutinius poveikius. Metodika siūlo ypatybes išteklių stygiaus ir žemo bei vidutinio pajamų šalims, vengiama patentinių formuluočių ir stacionarinio gydymo išlaidų."
-      },
-      "notable": false,
-      "notable_reasons": null,
-      "relevance_score": 4,
-      "study_type": "other",
-      "substances": [
-        "ketamine"
-      ],
-      "added_at": "2026-09-01T11:53:04.984893+00:00"
-    },
-    {
-      "title": "Next-Generation Pharmacotherapies for Unipolar Mood Disorders: A Leading Article on Phase II/III Drug Development Across Diverse Mechanisms.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42645703/",
-      "source": "PubMed",
-      "date": "2026-08-26",
-      "authors": [
-        "King Alana",
-        "Hardy Morgan",
-        "Rhee Taeho Greg"
-      ],
-      "doi": "10.1007/s40263-026-01330-8",
-      "summaries": {
-        "en": "This review examines Phase II/III clinical trials for novel mood disorder treatments, noting that ~30% of patients don't respond to standard antidepressants. Following FDA approvals of esketamine and brexanolone in 2019, research has shifted toward glutamatergic, GABAergic, ion channel, and psychedelic mechanisms. Analysis of 24 investigational compounds shows an expanding therapeutic landscape beyond traditional monoaminergic approaches.",
-        "sv": "Denna översikt granskar kliniska prövningar i fas II/III för nya bemodelbehandlingar, med notering att ~30% av patienterna inte svarar på standardantidepressiva. Efter FDA-godkännande av esketamin och brexanolon 2019 har forskningen skiftat mot glutamaterg, GABAerg, jonkanal- och psykedeliska mekanismer. Analys av 24 experimentella läkemedel visar ett växande terapeutiskt landskap bortom traditionella monoaminerga näringsliv.",
-        "no": "Denne oversikten undersøker kliniske fase II/III-studier for nye stemningslidbehandlinger, med notat om at ~30% av pasientene ikke responderer på standardantidepressiva. Etter FDA-godkjenning av esketamin og brexanolon i 2019 har forskningen skiftet mot glutamaterg, GABAerg, ionkanal- og psykedelisk-baserte mekanismer. Analysen av 24 eksperimentelle legemidler viser et ekspanderende terapeutisk landskap utover tradisjonelle monoaminerge tilnærminger.",
-        "da": "Denne oversigt undersøger kliniske fase II/III-forsøg for nye behandlinger af stemningsforstyrrelser, idet omkring 30% af patienterne ikke responderer på standardantidepressiva. Efter FDA-godkendelse af esketamin og brexanolon i 2019 har forskningen flyttet fokus mod glutamaterge, GABAerge, ionkanal- og psykedel-baserede mekanismer. Analyse af 24 eksperimentelle lægemidler viser et ekspanderende terapeutisk landskab ud over traditionelle monoaminerge tilgange.",
-        "fi": "Tämä katsaus tarkastelee kliinisiä II/III-vaiheen tutkimuksia uusille mielialahäiriöiden hoitoille, huomioiden, että noin 30% potilaista ei vastaa tavanomaisten masennuslääkkeiden hoitoon. FDA:n esketamiinin ja breksanolonin hyväksynnän jälkeen vuonna 2019 tutkimus on siirtynyt glutamaatergisten, GABAergisten, ionikanavien ja psykedeelikkojen mekanismeihin. 24 kokeellisen lääkkeen analyysi osoittaa laajentuvan terapeuttisen kentän perinteisten monoamiineristen lähestymistapojen ulkopuolella.",
-        "is": "Þessi yfirlit skoðar klíníska II/III-stiga tilraunir fyrir ný meðferðir við þunglyndi og kvíða, með athugasemd um að um 30% sjúklinga bregðast ekki við venjulegum þunglyndislyfum. Eftir samþykki FDA á esketamíni og brexanolóni árið 2019 hefur rannsóknir beint sér að glutamatergi, GABAerg, jónarásum og sálkirtilum. Greining á 24 tilraunalyfum sýnir vaxandi meðferðarsvið umfram hefðbundnar einamínúkortisaðar aðferðir.",
-        "et": "See ülevaade uurib kliinilisi II/III faasi uuringuid uute meeleoluhäirete raviks, märkides, et umbes 30% patsientidest ei vasta standardsete depressiooniravimite ravile. Pärast FDA-d esketamiini ja breksanoloni heakskiitmist 2019. aastal on teadus liikunud glutamaatergiliste, GABAergiliste, ioonikanavate ja psühhedeelikute mehhanismide poole. 24 katseravimi analüüs näitab teraapiamaastiku laiendamist traditsioonilistest monoamiinergilistest lähenemisviisidest kaugemale.",
-        "lv": "Šis pārskats pārbauda II/III fāzes klīniskos pētījumus par jauniem depresijas traucējumu ārstēšanas līdzekļiem, ņemot vērā, ka aptuveni 30% pacientu nereagē uz standarta antidepresantiem. Pēc esketamīna un breksanolona FDA apstiprinājuma 2019. gadā pētniecība ir pārvērtusies uz glutamāta, GABA, jonu kanālu un psihedeliku mehānismiem. 24 eksperimentālo zāļu analīze parāda paplašinātu terapeitisko ainu aiz tradicionālajiem monoamīnerģiskajiem pieejas.",
-        "lt": "Šioje apžvalgoje nagrinėjami II/III fazės klinikiniu tyrimai, skirti naujiems nuotaikos sutrikimų gydymams, pažymint, kad apie 30% pacientų nereaguoja į standartinį antidepresantus. Po FDA esketamino ir breksanolono patvirtinimo 2019 m. tyrimai persikėlė į glutamaterginius, GABAerginius, jonų kanalus ir psichedelikus. 24 eksperimentinių vaistų analizė rodo plečiamą terapijų spektrą už tradicinius monoaminerginio požiūrio ribų."
-      },
-      "notable": true,
-      "notable_reasons": {
-        "en": "Comprehensive review of Phase II/III clinical trials across novel mechanisms including psychedelics, published in a peer-reviewed venue; synthesizes FDA-approved and pipeline therapeutics for mood disorders.",
-        "sv": "Omfattande granskning av Phase II/III kliniska försök över nya mekanismer inklusive psykedelika, publicerad i en peer-reviewed tidskrift; syntetiserar FDA-godkända och pipeline-terapier för stämningsstörningar.",
-        "no": "Omfattende gjennomgang av Phase II/III kliniske forsøk på tvers av nye mekanismer inkludert psykedelika, publisert i et fagfellevurdert tidsskrift; syntetiserer FDA-godkjente og pipeline-terapeier for stemningslidelser.",
-        "da": "Omfattende gennemgang af Phase II/III kliniske forsøg på tværs af nye mekanismer inklusiv psykedelika, udgivet i et peer-reviewed tidsskrift; syntetiserer FDA-godkendte og pipeline-terapier for stemningstilstande.",
-        "fi": "Kattava katsaus Phase II/III kliinisiin tutkimuksiin uusien mekanismien poikki mukaan lukien psykedeellit, julkaistu vertaisarvioitavassa julkaisussa; syntetisoi FDA-hyväksyttyjä ja putkilinjan terapeutteja mielialahäiriöille.",
-        "is": "Yfirlit yfir Phase II/III klínískum rannsóknum á nýjum aðferðum, þar með talið sálfræðivirkum efnum, birt í ritreynt tímariti; tekur saman FDA-samþykkt og leiðslulínur meðferðir fyrir geðrofa.",
-        "et": "Põhjalik ülevaade Phase II/III kliinilistest uuringutest uute mehhanismide üle, sealhulgas psühhedeelikud, avaldatud kaalutsiteeritud ajakirjas; koondab FDA-heaks kiidetud ja torujuhtmete ravimeid meeleolu häirete vastu.",
-        "lv": "Visaptverošs Phase II/III klīnisko pētījumu pārskats pāri jaunajiem mehānismiem, ieskaitant psihedēlijus, publicēts recenzētos žurnālos; sintetizē FDA apstiprinātās un cauruļvadu terapijas garastāvokļu traucējumiem.",
-        "lt": "Išsamus Phase II/III klinikinių bandymų apžvalga skirtingais naujais mechanizmais, įskaitant psichedelikus, paskelbta recenzuojamame žurnale; susumuoja FDA patvirtintus ir potencialius terapinius šaltinius nuotaikos sutrikdymams."
-      },
-      "relevance_score": 4,
-      "study_type": "review",
-      "substances": [
-        "psilocybin",
-        "lsd",
-        "ketamine",
-        "other"
       ],
       "added_at": "2026-08-27T17:44:17.771269+00:00"
     }

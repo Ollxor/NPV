@@ -1,6 +1,102 @@
 {
   "items": [
     {
+      "title": "Validating and creating a short-form of the persisting effects questionnaire: A measure of positive and negative outcomes from psychedelic experiences.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42755297/",
+      "source": "PubMed",
+      "date": "2026-09-18",
+      "authors": [
+        "Ehrenkranz Rebecca",
+        "Sepeda Nathan D",
+        "Goldy Sean P"
+      ],
+      "doi": "10.1177/02698811261473405",
+      "summary_en": "Researchers validated and created a short form of the Persisting Effects Questionnaire (PEQ), a self-report measure of positive and negative outcomes from psychedelic experiences. The original 140+ item scale was reduced to 14 items plus three single items using exploratory and confirmatory factor analysis across clinical and non-clinical samples. The validated PEQ-SF maintains a two-factor structure (positive and negative valence) with strong psychometric properties and reduced participant burden.",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "other",
+      "substances": [
+        "psilocybin"
+      ],
+      "added_at": "2026-09-18T11:33:47.001208+00:00"
+    },
+    {
+      "title": "Psilocybin restores social novelty investigation in male SAPAP3 knockout mice and engages prefrontal-hippocampal circuitry.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42754621/",
+      "source": "PubMed",
+      "date": "2026-09-17",
+      "authors": [
+        "Gattuso James J",
+        "Bezcioglu Bilgenur",
+        "Hendey Jenna"
+      ],
+      "doi": "10.1038/s41380-026-03879-8",
+      "summary_en": "Male SAPAP3 knockout mice, a model of compulsive behavior, showed restored social novelty investigation following a single 1 mg/kg psilocybin injection. The behavioral improvement correlated with increased neural activation in the infralimbic prefrontal cortex and hippocampus. This preclinical study suggests psilocybalin may address social dysfunction in obsessive-compulsive disorder through specific prefrontal-hippocampal circuitry.",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "preclinical",
+      "substances": [
+        "psilocybin"
+      ],
+      "added_at": "2026-09-18T11:33:47.001208+00:00"
+    },
+    {
+      "title": "‘Move Fast, with Precision’: Notes from ARPA-H’s Ibogaine Workshop",
+      "url": "https://psychedelicalpha.com/news/move-fast-with-precision-notes-from-arpa-hs-ibogaine-workshop/",
+      "source": "Psychedelic Alpha",
+      "date": "2026-09-17",
+      "authors": [],
+      "doi": "",
+      "summary_en": "ARPA-H convened a workshop on its ibogaine funding initiative (ASCENT-IBO), aimed at accelerating safe clinical evaluation of ibogaine for opioid use disorder treatment. The program emphasizes rapid yet rigorous research development, with proposals addressing novel therapeutic approaches.",
+      "notable": true,
+      "notable_reason": "ARPA-H (Advanced Research Projects Agency for Health) announces dedicated funding program (ASCENT-IBO) for ibogaine clinical trials in opioid use disorder, representing a major national-level research investment and policy signal.",
+      "study_type": "other",
+      "substances": [
+        "ibogaine"
+      ],
+      "added_at": "2026-09-18T11:33:47.001208+00:00"
+    },
+    {
+      "title": "Assessment of drug harm by final-year medical students and ChatGPT - a comparative analysis.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42754902/",
+      "source": "PubMed",
+      "date": "2026-09-12",
+      "authors": [
+        "Näslund Isak",
+        "Ott Michael",
+        "Vucins Alexander"
+      ],
+      "doi": "10.1186/s13011-026-00762-1",
+      "summary_en": "Study comparing drug harm assessments by 110 final-year medical students and ChatGPT-4. Students rated 28 substances on harm scales; ChatGPT generated 40 response sets. Both identified heroin, crack cocaine, and fentanyl as most harmful. Mean harm scores were similar (6.7 vs 6.4/10), but differences emerged for less harmful substances. Students felt underprepared in drug harm knowledge (5.8/10), while ChatGPT self-rated 8.3/10.",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "observational",
+      "substances": [
+        "other"
+      ],
+      "added_at": "2026-09-18T11:33:47.001208+00:00"
+    },
+    {
+      "title": "Esketamine for treatment of depression in Huntington's disease: A case report.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42752279/",
+      "source": "PubMed",
+      "date": "2026-09-17",
+      "authors": [
+        "Saft Carsten",
+        "Jessen Julia",
+        "Kiefner David"
+      ],
+      "doi": "10.1177/18796397261489245",
+      "summary_en": "Case report of a 60-year-old male with Huntington's disease treated with nasal esketamine for treatment-resistant depression and suicidal ideation lasting 20 years. Beck Depression Inventory score improved from 29 to 5 within three days, though symptoms partially returned at three-month follow-up (BDI: 20). First reported esketamine use in HD, suggesting potential for treating resistant psychiatric symptoms.",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "case_report",
+      "substances": [
+        "ketamine"
+      ],
+      "added_at": "2026-09-18T11:33:47.001208+00:00"
+    },
+    {
       "title": "[Intravenous ketamine in suicidal crisis : indications and patient referral].",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42750580/",
       "source": "PubMed",

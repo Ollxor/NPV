@@ -3,13 +3,13 @@
     "PubMed": {
       "error_streak": 0,
       "zero_streak": 0,
-      "last_ok": "2026-09-17",
+      "last_ok": "2026-09-18",
       "alerted": false,
       "last_error": ""
     },
     "Semantic Scholar": {
       "error_streak": 0,
-      "zero_streak": 76,
+      "zero_streak": 77,
       "last_ok": "",
       "alerted": false,
       "last_error": ""
@@ -17,38 +17,38 @@
     "Psychedelic Alpha": {
       "error_streak": 0,
       "zero_streak": 0,
-      "last_ok": "2026-09-17",
+      "last_ok": "2026-09-18",
       "alerted": false,
       "last_error": ""
     },
     "DiVA": {
       "error_streak": 0,
       "zero_streak": 0,
-      "last_ok": "2026-09-17",
+      "last_ok": "2026-09-18",
       "alerted": false,
       "last_error": ""
     },
     "Europe PMC": {
       "error_streak": 0,
       "zero_streak": 0,
-      "last_ok": "2026-09-17",
+      "last_ok": "2026-09-18",
       "alerted": false,
       "last_error": ""
     },
     "EU Clinical Trials Register": {
       "error_streak": 0,
       "zero_streak": 0,
-      "last_ok": "2026-09-17",
+      "last_ok": "2026-09-18",
       "alerted": false,
       "last_error": ""
     },
     "OpenAIRE": {
-      "error_streak": 1,
-      "zero_streak": 1,
-      "last_ok": "2026-09-16",
+      "error_streak": 0,
+      "zero_streak": 0,
+      "last_ok": "2026-09-18",
       "alerted": false,
-      "last_error": "HTTPSConnectionPool(host='api.openaire.eu', port=443): Read timed out. (read timeout=30)"
+      "last_error": ""
     }
   },
-  "last_updated": "2026-09-17T10:56:20.674892+00:00"
+  "last_updated": "2026-09-18T10:32:13.654251+00:00"
 }

@@ -1,7 +1,46 @@
 {
-  "date": "2026-09-18",
-  "cached_at": "2026-09-18T10:32:13.654583+00:00",
+  "date": "2026-09-19",
+  "cached_at": "2026-09-19T10:16:47.279043+00:00",
   "articles": [
+    {
+      "title": "Serotonergic psychedelics and amphetamine shift male rat ultrasonic vocalizations toward call patterns associated with positively valenced states.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42759593/",
+      "source": "PubMed",
+      "abstract": "Psychedelics and psychostimulants produce subjective and often positive affective effects in humans. In rats, positive affective states are often associated with frequency-modulated ultrasonic vocalizations (USVs). We examined whether the hallucinogenic 2,5-dimethoxy-4-iodoamphetamine (DOI; 1.25-2.5 mg/kg) and LSD (0.04-0.08 mg/kg), the non-hallucinogenic lisuride (0.03 or 0.3 mg/kg) and the psychostimulant amphetamine (1 mg/kg) modulate USV emission, activity, and head-twitch response (HTR) in male Wistar rats. USVs were detected using DeepSqueak and clustered in a custom, unsupervised manner using variational autoencoder-based, and frequency-based embeddings. Behavior was analyzed using DeepLabCut and SimBA AI/machine learning tools. DOI (2.5 mg/kg) and LSD (0.08 mg/kg), but not lisuride or amphetamine induced HTR, whereas only amphetamine (1 mg/kg) increased activity. DeepSqueak detected nearly 48,000 calls, and UMAP-based k-means clustering identified four broad call categories: 22-kHz alarm and 50-kHz flat, step-up/trill, and upward-ramp-like calls. Total call emission increased after amphetamine and both DOI doses. However, cluster-based analyses indicated that the compounds did not merely increase overall calling but altered the vocal repertoire. DOI and LSD (0.04 mg/kg) reduced occupancy of the flat-call cluster, a call type typically unrelated to reward or appetitive behavior. In contrast, LSD (0.08 mg/kg), lisuride (0.03 mg/kg), and amphetamine increased occupancy of frequency-modulated clusters, call categories often associated with positive affect. Serotonergic psychedelics, lisuride, and amphetamine alter rat ultrasonic vocalizations and may shift vocal repertoires toward patterns associated with positively valenced states. USV profiles did not parallel HTR and should be viewed as a complementary affective readout rather than a substitute marker of psychedelic-like activity.",
+      "date": "2026-09-18",
+      "authors": [
+        "Cyrano Ewelina",
+        "Gołębiowska Joanna",
+        "Popik Piotr"
+      ],
+      "doi": "10.1016/j.pnpbp.2026.111940"
+    },
+    {
+      "title": "Short-term ketamine interventions for depressive disorders: practical best-practice recommendations for psychiatrists using oral, subcutaneous, and nasal formulations.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42756688/",
+      "source": "PubMed",
+      "abstract": "Ketamine and esketamine are increasingly used for treatment-resistant depressive disorders, particularly when rapid symptom reduction is clinically desirable. Intranasal esketamine has a product-specific regulatory framework in several jurisdictions, whereas most racemic ketamine formulations remain off-label for psychiatric indications. This narrative review provides practical recommendations for psychiatrists considering short-term ketamine interventions in depressive disorders, with emphasis on oral solution, oral tablets, subcutaneous injection, and nasal spray formulations. We conducted a narrative review and clinical-practice synthesis of PubMed/MEDLINE-indexed literature, open bibliographic sources, and regulatory documents, searched through 20 July 2026. Search concepts covered ketamine and esketamine, treatment-resistant major depressive disorder, intravenous, oral, subcutaneous, and intranasal administration, dosing, monitoring, treatment setting, substance-use risk, misuse/diversion, and short-term intervention. Evidence was prioritized by study design and regulatory status; practical recommendations were categorized according to whether they were label-supported, directly evidence-supported, or based mainly on expert-practice synthesis. Evidence is strongest for labeled intranasal esketamine and intravenous racemic ketamine. Among the non-IV approaches reviewed here, subcutaneous racemic ketamine has coherent randomized evidence for flexible-dose short-term treatment; oral ketamine has limited but supportive small-trial and systematic-review evidence, with newer prolonged-release tablets remaining formulation-specific and investigational; and compounded racemic intranasal ketamine has weaker, more heterogeneous evidence. For all off-label racemic formulations, optimal dosing, frequency, durability, long-term safety, misuse risk, and maintenance strategy remain incompletely established. Short-term ketamine treatment should be protocolized, measurement-based, supervised, time-limited, and embedded in a broader treatment plan for depressive disorders. For off-label racemic ketamine, the best-supported non-IV short-term regimen is supervised subcutaneous dosing with response-guided titration. Oral ketamine may be considered when parenteral or regulated nasal options are inaccessible, but it requires cautious patient selection, controlled dispensing, and objective monitoring. Esketamine nasal spray should follow the approved product label where available, whereas compounded racemic nasal ketamine should be reserved for exceptional circumstances.",
+      "date": "2026-09-03",
+      "authors": [
+        "Słupska Anita",
+        "Cubała Wiesław Jerzy",
+        "Swieczkowski Damian"
+      ],
+      "doi": "10.3389/fpsyt.2026.1931248"
+    },
+    {
+      "title": "Novel pharmacotherapies for opioid use disorder and opioid withdrawal.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42755825/",
+      "source": "PubMed",
+      "abstract": "Opioid use disorder (OUD) remains a major public health crisis despite evidence-based medications, including methadone, buprenorphine, and naltrexone. Persistent challenges with treatment retention, access, stigma, and incomplete response highlight the need for adjunctive pharmacotherapies targeting neurobiological systems beyond the mu-opioid receptor. We conducted a narrative review of emerging pharmacologic approaches for OUD and opioid withdrawal syndrome, focusing on ketamine and NMDA receptor antagonists, cannabinoids, psychedelics, and incretin-based therapies, including glucagon-like peptide-1 receptor agonists and dual glucose-dependent insulinotropic polypeptide/glucagon-like peptide-1 receptor agonists. Ketamine has preliminary randomized evidence suggesting potential effects on abstinence, withdrawal, craving, and psychotherapy augmentation. Cannabidiol may reduce cue-induced craving and anxiety, whereas dronabinol may modestly suppress opioid withdrawal symptoms. Psychedelic research, particularly involving ibogaine, shows observational signals for withdrawal reduction and abstinence but is limited by safety concerns, regulatory barriers, and sparse controlled evidence. Incretin-based therapies have generated strong observational signals linking GLP-1-based treatment to reduced overdose and OUD-related outcomes, though prospective trials remain limited. Across these therapeutic classes, convergent mechanisms include modulation of mesolimbic reward circuitry, cue-reactivity, stress responsivity, neuroplasticity, and cognitive flexibility. Future studies should prioritize rigorous blinding assessment, active comparators, objective endpoints, standardized cue-reactivity measures, diverse samples, and careful safety monitoring. Regulatory policies should facilitate the development and implementation of future research in novel therapies for OUD.",
+      "date": "2026-09-03",
+      "authors": [
+        "Shen Mary R",
+        "Owusu-Boaitey Kwadwo",
+        "Murphy Zackari D"
+      ],
+      "doi": "10.3389/fpsyt.2026.1909149"
+    },
     {
       "title": "Validating and creating a short-form of the persisting effects questionnaire: A measure of positive and negative outcomes from psychedelic experiences.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42755297/",
@@ -218,43 +257,13 @@
       "doi": "10.1016/j.jpsychires.2026.09.005"
     },
     {
-      "title": "Characterizing Psychedelic-Evoked Familiarity: A Comparative Study with Autobiographical and Déjà Vu Experiences.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42725633/",
-      "source": "PubMed",
-      "abstract": "Psychedelic experiences often evoke a sense of familiarity, an experiential quality that has received little empirical attention despite its potential therapeutic and cognitive significance. This study examined psychedelic-evoked familiarity in comparison to non-drug-induced forms of familiarity, including autobiographical and déjà vu experiences. An anonymous online survey was administered to 1050 participants, who completed the Sense of Familiarity Questionnaire (SOFQ) and psycho-emotional ratings for at least one of three experiences: Psychedelic, Autobiographical, or",
-      "date": "2026-09-11",
-      "authors": [
-        "Lawrence David Wyndham",
-        "Doss Manoj K",
-        "O'Connor Akira Robert"
-      ],
-      "doi": "10.1080/02791072.2026.2729618"
-    },
-    {
-      "title": "Ketamine: from anesthesia to pediatric suicidal crisis.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42722964/",
-      "source": "PubMed",
-      "abstract": "",
-      "date": "2026-Sep-11",
-      "authors": [
-        "Maguire Lindsay A",
-        "Jha Manish K",
-        "Than Martin"
-      ],
-      "doi": "10.1007/s43678-026-01261-9"
-    },
-    {
-      "title": "Changes in Glutathione and Homocysteine Concentrations in Treatment-Resistant Depression After Electroconvulsive Therapy.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42721112/",
-      "source": "PubMed",
-      "abstract": "BACKGROUND Electroconvulsive therapy (ECT) is one of the most effective treatment for drug-resistant depression, but the search for reliable biological predictors of its efficacy remains in-conclusive. Glutathione and homocysteine have been proposed as potential markers of oxidative stress involvement in mood disorders. MATERIAL AND METHODS We retrospectively analyzed clinical data and collected serum samples from 54 patients with treatment-resistant depression (46.3% with major depressive disorder, 53.7% with bipolar disorder) who had undergone a series of bilateral ECT. Serum concentrations of glutathione and homocysteine were measured before and after treatment. Patients were anesthetized with thiopental or thiopental combined with ketamine. Clinical improvement was assessed using the 17-item Hamilton Depression Rating Scale. RESULTS ECT significantly reduced Hamilton Depression Rating Scale scores (P<0.0001). No significant changes were observed in serum glutathione or homocysteine concentrations after treatment, and no correlations were found between biomarker levels and clinical response, remission, or anesthetic type. However, patients with bipolar disorder showed consistently higher glutathione levels than those with unipolar disorder (P<0.05). CONCLUSIONS Neither homocysteine nor glutathione levels were associated with ECT response, suggesting limited utility of these markers as predictors of clinical outcome. Elevated glutathione in patients with bipolar disorder may suggest potential biological differences between mood disorder subtypes; however, further prospective studies are required to confirm this observation. Further studies are needed to clarify the clinical significance of oxidative stress markers in ECT.",
-      "date": "2026-09-10",
-      "authors": [
-        "Permoda-Pachuta Agnieszka",
-        "Ziemecki Piotr",
-        "Dorszewska Jolanta"
-      ],
-      "doi": "10.12659/MSM.952203"
+      "title": "Field Notes #5: ‘Psychedelics Week’ in Washington D.C.",
+      "url": "https://psychedelicalpha.com/news/field-notes-5-psychedelics-week-in-washington-d-c/",
+      "source": "Psychedelic Alpha",
+      "abstract": "Welcome to our fifth Field Note. As a reminder, Field Notes are timely, candid voice notes from our Founder and Editor, Josh Hardman, that give our Pα+ readers a pulse on recent developments in psychedelic drug development, policy, and access. In this Field Note, Josh shared his notes from a busy week in Washington, D.C., […]",
+      "date": "2026-09-18",
+      "authors": [],
+      "doi": ""
     },
     {
       "title": "‘Move Fast, with Precision’: Notes from ARPA-H’s Ibogaine Workshop",
@@ -334,15 +343,6 @@
       "source": "Psychedelic Alpha",
       "abstract": "Pharma Ramps Up Google Ad Spend on Psychedelic Keywords Large pharmaceutical companies appear to be ramping up U.S. Google ad spend targeting psychedelics-related keywords, with the most common ads pointing to Johnson & Johnson’s Spravato webpage. Searching for more generic terms like “psychedelic” returns results from J&J as well as at-home ketamine providers like Mindbloom […]",
       "date": "2026-09-01",
-      "authors": [],
-      "doi": ""
-    },
-    {
-      "title": "A Closer Look at Definium’s Phase 3 LSD for GAD Readout",
-      "url": "https://psychedelicalpha.com/news/a-closer-look-at-definiums-phase-3-lsd-for-gad-readout/",
-      "source": "Psychedelic Alpha",
-      "abstract": "Earlier this month, we covered Definium Therapeutics’ second Phase 3 readout, this time pertaining to its first LSD (DT120) for generalised anxiety disorder (GAD) study. (See Smooth Sailing: Definium’s LSD Voyage Hits Primary and Key Secondary Endpoints in GAD.) As the dust settles on the first topline data from that program, we take a closer […]",
-      "date": "2026-08-26",
       "authors": [],
       "doi": ""
     },
@@ -558,7 +558,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2018-004480-31/CZ",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-09-18",
+      "date": "2026-09-19",
       "authors": [],
       "doi": ""
     },
@@ -567,7 +567,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2020-005037-32/CZ",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-09-18",
+      "date": "2026-09-19",
       "authors": [],
       "doi": ""
     },
@@ -576,7 +576,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2021-002909-10/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-09-18",
+      "date": "2026-09-19",
       "authors": [],
       "doi": ""
     },
@@ -585,7 +585,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2015-000550-37/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-09-18",
+      "date": "2026-09-19",
       "authors": [],
       "doi": ""
     },
@@ -594,7 +594,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2021-000041-40/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-09-18",
+      "date": "2026-09-19",
       "authors": [],
       "doi": ""
     },
@@ -603,7 +603,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2020-000829-55/DK",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-09-18",
+      "date": "2026-09-19",
       "authors": [],
       "doi": ""
     },
@@ -612,7 +612,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2020-002790-94/SE",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-09-18",
+      "date": "2026-09-19",
       "authors": [],
       "doi": ""
     },
@@ -621,7 +621,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2021-006200-33/FI",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-09-18",
+      "date": "2026-09-19",
       "authors": [],
       "doi": ""
     },
@@ -630,7 +630,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2019-004812-73/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-09-18",
+      "date": "2026-09-19",
       "authors": [],
       "doi": ""
     },
@@ -639,7 +639,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2022-002369-14/BE",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-09-18",
+      "date": "2026-09-19",
       "authors": [],
       "doi": ""
     },

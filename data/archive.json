@@ -1,6 +1,69 @@
 {
   "items": [
     {
+      "title": "Short-term ketamine interventions for depressive disorders: practical best-practice recommendations for psychiatrists using oral, subcutaneous, and nasal formulations.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42756688/",
+      "source": "PubMed",
+      "date": "2026-09-03",
+      "authors": [
+        "Słupska Anita",
+        "Cubała Wiesław Jerzy",
+        "Swieczkowski Damian"
+      ],
+      "doi": "10.3389/fpsyt.2026.1931248",
+      "summary_en": "Narrative review synthesizing evidence on ketamine and esketamine for treatment-resistant depression. Intranasal esketamine has regulatory approval in several jurisdictions; most racemic ketamine formulations remain off-label. Review prioritizes evidence by study design across oral, subcutaneous, and nasal routes. Strongest evidence supports labeled intranasal esketamine and intravenous ketamine; subcutaneous racemic ketamine shows randomized evidence for flexible-dose short-term treatment.",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "review",
+      "substances": [
+        "ketamine"
+      ],
+      "added_at": "2026-09-19T11:17:08.037177+00:00"
+    },
+    {
+      "title": "Novel pharmacotherapies for opioid use disorder and opioid withdrawal.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42755825/",
+      "source": "PubMed",
+      "date": "2026-09-03",
+      "authors": [
+        "Shen Mary R",
+        "Owusu-Boaitey Kwadwo",
+        "Murphy Zackari D"
+      ],
+      "doi": "10.3389/fpsyt.2026.1909149",
+      "summary_en": "A narrative review examined emerging pharmacotherapies for opioid use disorder beyond standard treatments (methadone, buprenorphine, naltrexone). Ketamine shows preliminary randomized evidence for reducing withdrawal and craving; cannabidiol may decrease cue-induced craving; ibogaine shows observational signals for abstinence but lacks controlled data; GLP-1 agonists demonstrate strong observational links to reduced overdose risk. These approaches target reward circuitry and neurobiological systems beyond mu-opioid receptors, addressing treatment limitations including poor retention and incomplete response.",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "review",
+      "substances": [
+        "ketamine",
+        "ibogaine",
+        "other"
+      ],
+      "added_at": "2026-09-19T11:17:08.037177+00:00"
+    },
+    {
+      "title": "Serotonergic psychedelics and amphetamine shift male rat ultrasonic vocalizations toward call patterns associated with positively valenced states.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42759593/",
+      "source": "PubMed",
+      "date": "2026-09-18",
+      "authors": [
+        "Cyrano Ewelina",
+        "Gołębiowska Joanna",
+        "Popik Piotr"
+      ],
+      "doi": "10.1016/j.pnpbp.2026.111940",
+      "summary_en": "Study using AI-based analysis of rat ultrasonic vocalizations found that serotonergic psychedelics (DOI, LSD) and amphetamine altered vocal patterns toward those associated with positive affective states. DOI and LSD reduced 'flat' calls linked to non-rewarding states, while LSD, lisuride, and amphetamine increased reward-associated call types. Results suggest these compounds modulate affective vocalization independent of overall call volume.",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "preclinical",
+      "substances": [
+        "lsd",
+        "other"
+      ],
+      "added_at": "2026-09-19T11:17:08.037177+00:00"
+    },
+    {
       "title": "Validating and creating a short-form of the persisting effects questionnaire: A measure of positive and negative outcomes from psychedelic experiences.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42755297/",
       "source": "PubMed",

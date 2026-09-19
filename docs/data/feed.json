@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-18T11:35:30.354829+00:00",
+  "generated_at": "2026-09-19T11:18:13.562308+00:00",
   "items": [
     {
       "title": "Blinding integrity in psychedelic research: Evidence from a comparative randomized controlled trial of psilocybin, MDMA, and methylphenidate in healthy volunteers",
@@ -32,6 +32,38 @@
         "mdma"
       ],
       "added_at": "2026-07-09T10:03:12.956794+00:00"
+    },
+    {
+      "title": "Serotonergic psychedelics and amphetamine shift male rat ultrasonic vocalizations toward call patterns associated with positively valenced states.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42759593/",
+      "source": "PubMed",
+      "date": "2026-09-18",
+      "authors": [
+        "Cyrano Ewelina",
+        "Gołębiowska Joanna",
+        "Popik Piotr"
+      ],
+      "doi": "10.1016/j.pnpbp.2026.111940",
+      "summaries": {
+        "en": "Study using AI-based analysis of rat ultrasonic vocalizations found that serotonergic psychedelics (DOI, LSD) and amphetamine altered vocal patterns toward those associated with positive affective states. DOI and LSD reduced 'flat' calls linked to non-rewarding states, while LSD, lisuride, and amphetamine increased reward-associated call types. Results suggest these compounds modulate affective vocalization independent of overall call volume.",
+        "sv": "Studie med AI-baserad analys av råttors ultraljudsljud visade att serotonerga psykedelika (DOI, LSD) och amfetamin förändrade vokala mönster mot sådana associerade med positiva affektiva tillstånd. DOI och LSD minskade 'platta' ljud kopplade till icke-belönande tillstånd, medan LSD, lisurid och amfetamin ökade belöningsrelaterade ljudtyper. Resultaten tyder på att dessa substanser modulerar affektiv vokalisering oberoende av total ljudvolym.",
+        "no": "Studie med AI-basert analyse av rotters ultralydslyder viste at serotonerge psykedelika (DOI, LSD) og amfetamin endret vokale mønster mot de som er forbundet med positive affektive tilstander. DOI og LSD reduserte 'flate' lyder knyttet til ikke-belønningstilstander, mens LSD, lisurid og amfetamin økte belønningsrelaterte lydtyper. Resultatene antyder at disse stoffene modulerer affektiv vokalisering uavhengig av total lydvolum.",
+        "da": "Studie med AI-baseret analyse af rotters ultralydslyden viste, at serotonerge psykedelika (DOI, LSD) og amfetamin ændrede vokale mønstre mod dem forbundet med positive affektive tilstande. DOI og LSD reducerede 'flade' lyde knyttet til ikke-belønningsstilstande, mens LSD, lisurid og amfetamin øgede belønningsrelaterede lydtyper. Resultaterne antyder, at disse stoffer modulerer affektiv vokalisering uafhængigt af samlet lydvolumen.",
+        "fi": "AI-pohjaisen analyysin käyttävä tutkimus rotien ultraäänihuudoista osoitti, että serotoniergit psykedeellit (DOI, LSD) ja amfetamiini muuttivat vokaalisia malleja positiivisiin affektiivisiin tiloihin liittyviksi. DOI ja LSD vähensi 'litteitä' ääniä, jotka liittyvät ei-palkkio-tiloihin, kun taas LSD, lisuriidi ja amfetamiini lisäsivät palkkio-suhteisia äänityppejä. Tulokset viittaavat, että nämä aineet moduloivat affektiivista vokalisaatiota riippumatta äänien kokonaismäärästä.",
+        "is": "Rannsókn með gervigreind-byggðri greiningu á hljóðum rotna sýndi að serótónerga sifreldiefni (DOI, LSD) og amfetamín breyttu raddmynstrum í stefnu jákvæðra tilfinningalegra tilstanda. DOI og LSD minnkuðu 'flöt' hljóð tengd ekki-verðlaunstilstöndum, en LSD, lisuríð og amfetamín jukust í verðlaunatengdum hljóðtegundum. Niðurstöður benda til að þessi efni stýri tilfinningalegri raddgefinni óháð heildarhljóðmagni.",
+        "et": "Tehisintellekti-põhise analüüsiga uuringu, mis uuris rotite ultraheli hääli, leiti, et serotoniergid psühhedooniakud (DOI, LSD) ja amfetamiin muutsid helimustreid positiivsete afektiivsete seisunditega seotuteks. DOI ja LSD vähendasid mittepalkitavate seisunditega seotud 'lamedad' helisid, samas kui LSD, lisuriid ja amfetamiin suurendasid palkitavate heliliikidega seotud helisid. Tulemused viitavad sellele, et need ained moduleerivad afektiivset vokalisatsiooni helide koguarvust sõltumatult.",
+        "lv": "Pētījums, kurā izmantota mākslīgā intelekta balstīta žurku ultrazvanisku vokalizāciju analīze, parādīja, ka serotonerģiskie psihodēliki (DOI, LSD) un amfetamīns izmainīja vokalus modeļus uz tiem, kas saistīti ar pozitīviem afektīviem stāvokļiem. DOI un LSD samazināja 'plaknus' izsaukumus, kas saistīti ar ne-uguņuotas stāvokļiem, kamēr LSD, lisuríds un amfetamīns palielināja atlīdzības saistītus zvanu tipus. Rezultāti norāda, ka šie vielas modulē afektīvu vokalizāciju neatkarīgi no kopējā izsaukumu skaita.",
+        "lt": "Tyrimas naudojant dirbtinio intelekto pagrįstą žiurkių ultragarsinių balsų analizę parodė, kad serotoniergiai psichedelikai (DOI, LSD) ir amfetaminas pakeitė vokalines šablonų link tų, susijetų su teigiamais afektyviais būviais. DOI ir LSD sumažino 'plokščius' balsus, susijetūs su nemotyvuotais būviais, o LSD, lisuridinas ir amfetaminas padidino atlygintų balsų tipus. Rezultatai rodo, kad šios medžiagos moduliuoja afektyvią vokalizaciją nepriklausomai nuo bendro balsų skaičiaus."
+      },
+      "notable": false,
+      "notable_reasons": null,
+      "relevance_score": 3,
+      "study_type": "preclinical",
+      "substances": [
+        "lsd",
+        "other"
+      ],
+      "added_at": "2026-09-19T11:17:08.037177+00:00"
     },
     {
       "title": "Validating and creating a short-form of the persisting effects questionnaire: A measure of positive and negative outcomes from psychedelic experiences.",
@@ -1217,6 +1249,70 @@
       "added_at": "2026-09-04T11:32:40.517675+00:00"
     },
     {
+      "title": "Short-term ketamine interventions for depressive disorders: practical best-practice recommendations for psychiatrists using oral, subcutaneous, and nasal formulations.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42756688/",
+      "source": "PubMed",
+      "date": "2026-09-03",
+      "authors": [
+        "Słupska Anita",
+        "Cubała Wiesław Jerzy",
+        "Swieczkowski Damian"
+      ],
+      "doi": "10.3389/fpsyt.2026.1931248",
+      "summaries": {
+        "en": "Narrative review synthesizing evidence on ketamine and esketamine for treatment-resistant depression. Intranasal esketamine has regulatory approval in several jurisdictions; most racemic ketamine formulations remain off-label. Review prioritizes evidence by study design across oral, subcutaneous, and nasal routes. Strongest evidence supports labeled intranasal esketamine and intravenous ketamine; subcutaneous racemic ketamine shows randomized evidence for flexible-dose short-term treatment.",
+        "sv": "Narrativ översikt av evidens för ketamin och esketamin vid behandlingsresistent depression. Intranasal esketamin har regulatoriskt godkännande i flera jurisdiktioner; mest racemisk ketamin förblir off-label. Granskningen prioriterar evidens efter studidesign för oralt, subkutant och nasalt. Starkast evidens stöder märkt intranasal esketamin och intravenös ketamin; subkutan racemisk ketamin visar randomiserad evidens för flexibel korttidsbehandling.",
+        "no": "Narrativ oversikt av evidens for ketamin og esketamin ved behandlingsresistent depresjon. Intranasal esketamin har regulatorisk godkjenning i flere jurisdiksjoner; mest racemisk ketamin forblir off-label. Oversikten prioriterer evidens etter studidesign for oralt, subkutant og nasalt. Sterkest evidens støtter godkjent intranasal esketamin og intravenøs ketamin; subkutan racemisk ketamin viser randomisert evidens for fleksibel korttidsbehandling.",
+        "da": "Narrativ oversigt over evidens for ketamin og esketamin ved behandlingsresistent depression. Intranasal esketamin har regulatorisk godkendelse i flere jurisdiktioner; mest racemisk ketamin forbliver off-label. Oversigten prioriterer evidens efter studidesign for oralt, subkutant og nasalt. Stærkest evidens understøtter godkendt intranasal esketamin og intravenøs ketamin; subkutan racemisk ketamin viser randomiseret evidens for fleksibel korttidsbehandling.",
+        "fi": "Narratiivinen katsaus ketamiinin ja esketamiinin näytöstä hoitoon vastustuskykyisessä masennuksessa. Intranaasaalinen esketamiini on sääntelyn mukainen useissa lainkäyttöalueissa; useimmat raseemiset ketamiini-muodot jäävät off-label-käytöksi. Katsaus priorisoi näytöt tutkimussuunnittelun perusteella suun, subkutaanisen ja nenän kautta. Vahvinta näyttöä tukee merkitty intranaasaalinen esketamiini ja intravenoosi ketamiini; subkutaaninen raseeminen ketamiini osoittaa satunnaistettua näyttöä joustavan lyhytaikaisen hoidon tueksi.",
+        "is": "Frásöguleg yfirlit yfir sönnun fyrir ketamíni og esketamíni við meðferðaróhörklegri þunglyndi. Berkjuð esketamín hefur eftirlitssamþykki í nokkrum lögsagnarumdæmum; flestar racemískar ketamínsnið eru off-label. Yfirlitið forgangsraðar sönnun eftir rannsóknarhönnun fyrir munnlegri, undirhuðlegri og nefslögu. Sterkasta sönnun styður merkt berkjuð esketamín og intravenously ketamín; undirhuðleg racemísk ketamín sýnir slembiraðað sönnun fyrir sveigjanlegri skammtímaðferð.",
+        "et": "Narratiivne ülevaade ketamiini ja esketamiini tõendusdest raviresistentses depressioonis. Intranaasaalsel esketamiinul on regulatoorse heakskiidu mitmetes jurisdiktsioonides; enamik rasemilist ketamiini jääb off-label-kasutusele. Ülevaade prioriseerib tõendeid uuringu kujunduse järgi suulisele, subkutaansele ja ninaesimsele viisile. Tugevaimat tõendit toetab märgitud intranaasaalne esketamiin ja intravenoosne ketamiin; subkutaanne rasemiline ketamiin näitab randomiseeritud tõenust paindliku lühiajaline ravi toetuseks.",
+        "lv": "Naratīvs pārskats par pierādījumiem ketamīnam un esketamīnam nopietnā depresijas ārstēšanā. Intranazeālam esketamīnam ir normatīvais apstiprinājums vairākās jurisdikcijās; lielākā daļa racēmiskā ketamīna paliek off-label. Pārskats prioritāri ņem pierādījumus pēc pētījuma dizaina mutāļiem, subkutāniem un nazāliem ceļiem. Spēcīgākos pierādījumus atbalsta atzītais intranazeālais esketamīns un intravenozais ketamīns; subkutānais racēmiskais ketamīns parāda randomizētus pierādījumus elastīgai īstermiņa ārstēšanai.",
+        "lt": "Naratyvinė apžvalga dėl ketamino ir esketamino įrodymų gydant depresijos pokyčius. Intranasiniam esketaminui yra reguliavimo patvirtinimas keliose jurisdikcijose; daugumoje raceminės ketamino formos lieka be ženklo. Apžvalga prioritizuoja įrodymus pagal tyrimo modelį per burnos, subkutaninės ir nosies formas. Stipriausią įrodymą remia pažymėtas intranasininis esketaminas ir intravenininas ketaminas; subkutaninis racemininis ketaminas parodo atsitiktinį įrodymą dėl lanksčios trumpalaikės gydymo."
+      },
+      "notable": false,
+      "notable_reasons": null,
+      "relevance_score": 4,
+      "study_type": "review",
+      "substances": [
+        "ketamine"
+      ],
+      "added_at": "2026-09-19T11:17:08.037177+00:00"
+    },
+    {
+      "title": "Novel pharmacotherapies for opioid use disorder and opioid withdrawal.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42755825/",
+      "source": "PubMed",
+      "date": "2026-09-03",
+      "authors": [
+        "Shen Mary R",
+        "Owusu-Boaitey Kwadwo",
+        "Murphy Zackari D"
+      ],
+      "doi": "10.3389/fpsyt.2026.1909149",
+      "summaries": {
+        "en": "A narrative review examined emerging pharmacotherapies for opioid use disorder beyond standard treatments (methadone, buprenorphine, naltrexone). Ketamine shows preliminary randomized evidence for reducing withdrawal and craving; cannabidiol may decrease cue-induced craving; ibogaine shows observational signals for abstinence but lacks controlled data; GLP-1 agonists demonstrate strong observational links to reduced overdose risk. These approaches target reward circuitry and neurobiological systems beyond mu-opioid receptors, addressing treatment limitations including poor retention and incomplete response.",
+        "sv": "En narrativ review undersökte nya läkemedelsterapi för opioidberoende bortom standardbehandlingar (metadon, buprenorfin, naltrexon). Ketamin visar preliminär randomiserad evidens för minskad abstinens och törstande; kannabidiol kan minska signalassocierad böjelse; ibogain visar observationella signaler för långvarig nykterhet men saknar kontrollerad data; GLP-1-agonister visar starkt observationell koppling till minskat överdödsrisk. Dessa metoder påverkar belöningssystem och neurobiologiska system bortom mu-opioidreceptorer.",
+        "no": "En narrativ oversikt undersøkte nye legemiddelbehandlinger for opioidavhengighet utover standardbehandlinger (metadon, buprenorfin, naltrexon). Ketamin viser preliminær randomisert evidens for redusert abstinens og trang; cannabidiol kan redusere signalutløst trang; ibogain viser observasjonsdata for langvarig abstinens men mangler kontrollert forskning; GLP-1-agonister viser sterk observasjonell sammenheng med redusert overdosedødelighet. Disse tilnærmingene påvirker belønningssystemer og neurobiologiske systemer utover mu-opioidreseptorer.",
+        "da": "En narrativ review undersøgte nye lægemiddelbehandlinger for opioidafhængighed ud over standardbehandlinger (metadon, buprenorfin, naltrexon). Ketamin viser foreløbig randomiseret evidens for reduceret abstinens og trang; cannabidiol kan reducere signaludløst trang; ibogain viser observationsdata for vedvarende abstinens men mangler kontrolleret forskning; GLP-1-agonister viser stærk observationel sammenhæng med reduceret overdosisdødelighed. Disse tilgange påvirker belønningssystemer og neurobiologiske systemer ud over mu-opioidreceptorer.",
+        "fi": "Narratiivinen katsaus tutki uusia lääkehoitoja opioidiriippuvuuteen tavanomaisten hoitojen (metadoni, buprenorfiini, naltreksoni) lisäksi. Ketamiinilla on alustava satunnaistettu näyttö vetäytymisen ja himon vähentämisestä; kannabiidioli voi vähentää ärsykkeestä johtuvaa himoa; ibokaini osoittaa havaintoaineistoa pitkäaikaisesta raittiudesta mutta vaatii kontrolloitua tutkimusta; GLP-1-agonistit osoittavat vahvaa yhteyttä liikaannoksen kuolleisuuden vähenemiseen. Nämä lähestymistavat vaikuttavat palkkiojärjestelmiin mu-opioidireceptoreiden lisäksi.",
+        "is": "Hugleiðing skoðaði ný lyfjameðferðir fyrir ópioidfíkn umfram staðlaða meðferðir (metadon, búprenorfín, naltrekson). Ketamín sýnir bersýnilega tilviljunarkennda sönnun fyrir minni afturköllunareinkennum og löngun; kannabídíól getur minnkað vísbendingu-framkallaða löngun; ibogaín sýnir athugunarmerki fyrir langvarandi stöðvun en skortar eftirlit. GLP-1-agonistar sýna sterka athugunarsamband við minni ofsadosis dánartíðni. Þessar aðferðir hafa áhrif á umbun og taugakerfi umfram mu-ópioidviðtaka.",
+        "et": "Narratiivne ülevaade uuris uusi ravimeid opioidisõltuvusele tavapärase ravi (metadoon, buprenorfiin, naltreksoon) kõrval. Ketamiinil on esialgne randomiseeritud tõend abstinensi ja himu vähendamise kohta; kannabidiooli võib vähendada signaaliga kutsutud iha; ibogain näitab vaatlusandmeid püsiva paastumisvõime kohta, kuid vajalike kontrollitud uuringute puudumisest; GLP-1-agonistid näitavad tugevat seost üliannoosiga seotud suremuse vähenemisega. Need lähenemisviisid mõjutavad auhinnastamis- ja neurobiioloogilisi süsteeme mu-opioidretseptorite kõrval.",
+        "lv": "Naratīvais pārskats pārbaudīja jaunas medikamentu terapijas opiātu atkarībai pēc noklusējuma ārstēšanas (metadons, buprenorfīns, naltreksons). Ketamīns parāda provizorisku randomizētu pierādījumu par abstinences un tieksmes samazināšanu; kanabidols var samazināt signāla izraisītu tieksmi; ibogaīns parāda novērošanas signālus par ilgstošu abstinenci, taču trūkst kontrolētu datu; GLP-1 agonisti parāda spēcīgu saistību ar pārdozējuma mirstības samazināšanu. Šīs pieejas ietekmē balvas sistēmas un neirobiologiskos sistēmus aiz mu-opiātu receptoriem.",
+        "lt": "Naratyvinė apžvalga nagrinėjo naujas vaistų terapijas opioido priklausomybei, peržengiant standartinį gydymą (metadoną, buprenorfiną, naltreksona). Ketaminas rodo preliminarų atsitiktinį įrodymą savęs apsukinėjimo ir troškimo mažinimui; kanabidiol gali sumažinti signalo sukeliamą troškimą; ibokainas rodo stebėjimo ženklus dėl ilgalaikio susilaikymo, tačiau trūksta kontroliuotų duomenų; GLP-1 agonistai rodo stiprią asociaciją su mažesne narkotikų perdozavimo mirtimi. Šie požiūriai veikia atlygintino ir neurobiologinius sistemas, peržengdami mu-opioido receptorius."
+      },
+      "notable": false,
+      "notable_reasons": null,
+      "relevance_score": 4,
+      "study_type": "review",
+      "substances": [
+        "ketamine",
+        "ibogaine",
+        "other"
+      ],
+      "added_at": "2026-09-19T11:17:08.037177+00:00"
+    },
+    {
       "title": "Hallucinogen Persisting Perception Disorder in a Young Adult Case Report.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42694657/",
       "source": "PubMed",
@@ -1867,120 +1963,6 @@
         "other"
       ],
       "added_at": "2026-08-28T18:53:07.862220+00:00"
-    },
-    {
-      "title": "Oncology Providers' Perspectives on Psychedelic-Assisted Therapy.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42661611/",
-      "source": "PubMed",
-      "date": "2026-08-28",
-      "authors": [
-        "Hanubal Krishna S",
-        "Munjal Akul N",
-        "Park Jino"
-      ],
-      "doi": "10.1177/10499091261483604",
-      "summaries": {
-        "en": "Cross-sectional survey of 385 oncology providers (8% response rate) across US institutions assessed attitudes toward psychedelic-assisted therapy (PAT). While 49% received patient inquiries about PAT, only 20% felt comfortable counseling patients. Key barriers: unfamiliarity with legal status (56%) and concerns about drug interactions and safety. Willingness to recommend PAT correlated with knowledge of emerging data, regulatory understanding, and prior patient inquiries.",
-        "sv": "Tvärsnittsstudie av 385 onkologer (8% svarsfrekvens) vid amerikanska institutioner undersökte inställningen till psykedelikaassisterad terapi (PAT). Även om 49% mottagit patientfrågor om PAT kände sig endast 20% bekväma med att ge rådgivning. Huvudhinder: okunnskap om juridisk status (56%) och oro för läkemedelinteraktioner och säkerhet. Benägenhet att rekommendera PAT korrelerade med kunskap om nya data och regelverksförståelse.",
-        "no": "Tverrsnittsstudie av 385 onkologer (8% responsrate) ved amerikanske institusjoner vurderte holdninger til psykedelika-assistert terapi (PAT). Selv om 49% mottok pasientspørsmål om PAT, følte kun 20% seg komfortable med å gi rådgivning. Hovedbarrierer: manglende kjennskap til juridisk status (56%) og bekymring for legemiddelinteraksjoner og sikkerhet. Villighet til å anbefale PAT korrelerte med kunnskap om nye data og regelverksforståelse.",
-        "da": "Tværsnitstudie af 385 onkologer (8% svarprocent) ved amerikanske institutioner vurderede holdninger til psykedelika-assisteret terapi (PAT). Selvom 49% modtog patientforespørgsler om PAT, følte kun 20% sig komfortable med at give rådgivning. Hovedbarrierer: manglende kendskab til juridisk status (56%) og bekymring for lægemiddelinteraktioner og sikkerhed. Vilje til at anbefale PAT korrelerede med viden om nye data og regelværksforståelse.",
-        "fi": "Poikkileikkaustutkimus 385 onkologille (8% vastausprosentti) Yhdysvaltojen laitoksissa arvioi asenteita psykedeliikka-avusteiseen terapiaan (PAT). Vaikka 49% sai potilaskysymyksiä PAT:sta, vain 20% tunsi olonsa mukavaksi neuvomaan potilaita. Pääesteet: psykedeliikan juridisen aseman tietämättömyys (56%) ja huoli lääkeinteraktioista ja turvallisuudesta. Halu suositella PAT:ia korreloi tuoreimpien tietojen tuntemisen ja sääntelytietämyksen kanssa.",
-        "is": "Þversnið rannsókn á 385 krabbameinslæknum (8% svarthlutfall) við bandarískar stofnanir mat viðhorf gagnvart lyfjastyrktri sálfræðilegri meðferð með hallusinógena (PAT). Þrátt fyrir að 49% fengu spurningar frá sjúklingum um PAT, fannst aðeins 20% sér þægt að veita ráðgjöf. Helstu hindranir: þekkingarleysi á lagalegri stöðu (56%) og áhyggjur um víxlhrifum lyfja og öryggi. Tilhneigingu til að mæla með PAT tengdist þekking á nýjustu gögnum og þekking á reglugerðum.",
-        "et": "Ristlõikeline uurimus 385 onkoloogiga (8% vastamise määr) Ameerika Ühendriikide institutsioonides hindas suhtumist psühhedeelikaga abistatud teraapiasse (PAT). Kuigi 49% sai patsiendi päringuid PAT kohta, ei tundnud end mugavalt nõu andmisel vaid 20%. Peamised takistused: teadmatus psühhedeelikate seadusliku staatuse kohta (56%) ja murehõõrd aine koostoimete ja ohutuse pärast. Soov PAT soovitada oli seotud teadusandmete tundmisega ja regulatsioonialaste teadmistega.",
-        "lv": "Šķērsgriezuma pētījums ar 385 onkoloģiem (8% atbildes likme) Amerikas Savienotajām Valstīm piederošās institūcijas novērtēja attieksmi pret psihodeliku-palīdz terāpiju (PAT). Lai gan 49% saņēma pacientu vaicājumus par PAT, tikai 20% justas komfortabli sniedzot konsultācijas. Galvenie šķēršļi: neizpratne par psihodeliku juridisko statusu (56%) un bažas par zāļu mijiedarbību un drošību. Gatavība ieteikt PAT bija saistīta ar zināšanām par jaunākajiem datiem un normatīvajiem noteikumiem.",
-        "lt": "Skerspjūvis tyrinėjimas su 385 onkologais (8% atsakymo dažnis) JAV institucijose vertino požiūrį į psichedeliko-pagalbos terapiją (PAT). Nors 49% gavo pacientų klausimus apie PAT, tik 20% jautos pasiruošę suteikti konsultacijas. Pagrindinės kliūtys: nežinojimas apie psichedeliko teisinį statusą (56%) ir susirūpinimas dėl vaistų sąveikos ir saugumo. Norą rekomenduoti PAT susijęs su žiniomis apie naujausius duomenis ir normatyvinių akto nuostatų supratimą."
-      },
-      "notable": false,
-      "notable_reasons": null,
-      "relevance_score": 4,
-      "study_type": "observational",
-      "substances": [
-        "psilocybin",
-        "other"
-      ],
-      "added_at": "2026-08-28T18:53:07.862220+00:00"
-    },
-    {
-      "title": "Intraoperative esketamine for postoperative analgesia and depression in pancreatic cancer surgery: protocol for a multicenter randomized controlled trial.",
-      "url": "https://doi.org/10.1080/07853890.2026.2722438",
-      "source": "Europe PMC",
-      "date": "2026-08-27",
-      "authors": [
-        "Chong YZ",
-        "Sun YE",
-        "Ma X"
-      ],
-      "doi": "10.1080/07853890.2026.2722438",
-      "summaries": {
-        "en": "Multicenter RCT protocol testing intraoperative esketamine (0.15–0.6 mg/kg) versus placebo in 280 pancreatic cancer surgery patients across three Chinese hospitals. Co-primary endpoints: postoperative analgesia score at 24 h and depression incidence (PHQ-9 ≥10) at 7 days, with secondary assessments at 1 and 3 months.",
-        "sv": "Multicenterstudie med randomiserad dubbelblind design som testar intraoperativ esketamin (0,15–0,6 mg/kg) mot placebo hos 280 pankreascancerpatienter på tre sjukhus i Kina. Primära endpunkter: smärtlindring efter 24 h och depressionsförekomst (PHQ-9 ≥10) efter 7 dagar, med uppföljning vid 1 och 3 månader.",
-        "no": "Multisenter RCT-protokoll som tester intraoperativ esketamin (0,15–0,6 mg/kg) mot placebo hos 280 pankreaskreftrpasientar på tre sjukehus i Kina. Primære endepunkt: postoperativ smertelindring etter 24 t og depresjonsinsidens (PHQ-9 ≥10) etter 7 dagar, med sekundær oppfølging ved 1 og 3 månader.",
-        "da": "Multicenterstudie med randomiseret dobbeltblind design, der intraoperativ esketamin (0,15–0,6 mg/kg) sammenlignes med placebo hos 280 pankreaskræftpatienter på tre hospitaler i Kina. Primære endepunkter: postoperativ smertelindring efter 24 timer og depressionsincidens (PHQ-9 ≥10) efter 7 dage, med sekundær opfølgning ved 1 og 3 måneder.",
-        "fi": "Monisenttrinen satunnaistettu kaksoissokkoutunut tutkimus, joka vertaa intraoperatiivista esketamiinia (0,15–0,6 mg/kg) plaseboa vastaan 280 pankreassyöpäpotilaalla kolmessa Kiinan sairaalassa. Päätulosmitat: postoperatiivinen kivunlievitys 24 tunnin jälkeen ja masennuksen esiintyvyys (PHQ-9 ≥10) 7 päivän jälkeen sekä toissijaiset mittaukset 1 ja 3 kuukauden kohdalla.",
-        "is": "Fjölsetrsstyrð slembiúrtak með tvöfaldri blindri hönnun sem prófar intraoperatífa esketamín (0,15–0,6 mg/kg) gegn placebó hjá 280 krabbameinsjúklingum í næru sem gangast undir skurðaðgerð á þremur sjúkrahúsum í Kína. Aðalútkomur: verkjastjórnun eftir 24 klst og alvarleg þunglyndi (PHQ-9 ≥10) eftir 7 daga, með auknum mælingum eftir 1 og 3 mánuði.",
-        "et": "Mitmeotstarbelise juhuslikustatud kahekordse pimestusega uuring, mis võrdleb intraoperatiivset esketamiini (0,15–0,6 mg/kg) platseeboga 280 haima pahaloomulise kasvajaga patsiendi puhul kolmes Hiina haiglas. Esmased lõpp-punktid: postoperatiivne valu lindistamine 24 tunni möödudes ja depressiooni esinemissagedus (PHQ-9 ≥10) 7 päeva järel, teisesed mõõtmised 1 ja 3 kuu möödudes.",
-        "lv": "Daudzcentru randomizēts dubultaklais pētījums, kurā tiek salīdzināta intraoperatīvā esketamīna (0,15–0,6 mg/kg) un placebo iedarbība 280 pankreas vēža pacientiem trīs Ķīnas slimnīcās. Primārie rezultātu mērinstrumenti: postoperatīvā sāpju mazināšana pēc 24 stundām un vidēji smags vai smags nogurums (PHQ-9 ≥10) pēc 7 dienām, ar sekundāriem mērījumiem 1. un 3. mēnesi.",
-        "lt": "Daugiacentrinis randomizuotas dvigubai aklas tyrimas, kuriame lyginamas intraoperacinis esketaminas (0,15–0,6 mg/kg) su placebu 280 kūno liaukos vėžiu sergantiems pacientams trijose Kinijos ligoninėse. Pirminiai galutiniai taškai: postoperacinis skausmo lengvinimas praėjus 24 valandoms ir vidutinė arba sunki depresija (PHQ-9 ≥10) praėjus 7 dienoms, su antriniais matavimai 1 ir 3 mėnesių."
-      },
-      "notable": true,
-      "notable_reasons": {
-        "en": "Multicenter RCT (n=280) with dual primary endpoints testing esketamine's rapid-onset antidepressant properties in a high-risk surgical population.",
-        "sv": "Flercenter-RCT (n=280) med dubbla primära slutpunkter som testar esketamins snabba antidepressiva egenskaper i en högriskkirurgisk population.",
-        "no": "Multisenter-RCT (n=280) med to primære endepunkter som tester esketamins raskt virkende antidepressiv egenskaper i en høyrisiko-kirurgisk populasjon.",
-        "da": "Multicenterstudie RCT (n=280) med to primære endepunkter, der esketamins hurtigtvirkende antidepressive egenskaber testes i en højrisikokirurgisk population.",
-        "fi": "Monitapainen RCT (n=280) kahdella pääasiallisella päätetapahtumalla, joka testaa esketamiinin nopeasti vaikuttavia masennuslääkkeen ominaisuuksia korkean riskin kirurgisessa populaatiossa.",
-        "is": "Fjölflétta RCT (n=280) með tveim aðaltilvikum sem prófar hraðvirkni þunglyndismeðferðar esketamíns í hópi sjúklinga með mikla áhættu við skurðaðgerð.",
-        "et": "Mitmeotstarbeliste keskustega RCT (n=280) kahe peamise lõpp-punktiga, mis testib esketamiini kiire toimega antidepressantset omadusi kõrge riskiga kirurgilises populatsioonis.",
-        "lv": "Daudzzinātniski centru RCT (n=280) ar diviem primārajiem galapunktiem, kas pārbauda esketamīna ātrajā darbības antidepresīvās īpašības augsta riska ķirurģiskā populācijā.",
-        "lt": "Daugiacentrinė RCT (n=280) su dviem pirminiais galiniais taškais, testuojančiais esketamino greitai veikiančias antidepresines savybes aukštos rizikos chirurginėje populiacijoje."
-      },
-      "relevance_score": 4,
-      "study_type": "rct",
-      "substances": [
-        "ketamine"
-      ],
-      "added_at": "2026-08-31T14:13:57.802883+00:00"
-    },
-    {
-      "title": "Efficacy and tolerability of ketamine in moderate to severe obsessive-compulsive disorder: a systematic review.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42649323/",
-      "source": "PubMed",
-      "date": "2026-08-27",
-      "authors": [
-        "Eghdami Shayan",
-        "Boroon Mahsa",
-        "Keshavarz-Akhlaghi Amir-Abbas"
-      ],
-      "doi": "10.1007/s00213-026-07155-z",
-      "summaries": {
-        "en": "Systematic review of 15 studies (3 RCTs, 118 participants) examining ketamine for treatment-resistant OCD. Single-dose IV ketamine (0.5 mg/kg) produced 50-60% response rates but benefits were transient. Combined ketamine with exposure-response prevention showed sustained remission over weeks-months. Safety concerns included delayed dysphoria and suicidal ideation 24-48 hours post-infusion. Ketamine shows promise as adjunct to behavioral therapy rather than monotherapy.",
-        "sv": "Systematisk granskning av 15 studier (3 RCT, 118 deltagare) om ketamin för behandlingsresistent OCD. Singel IV-dos ketamin (0,5 mg/kg) gav 50-60% responsgrad men effekten var övergående. Kombinerad ketamin med exponerings- och responsförebyggande terapi visade ihållande remission över veckor-månader. Säkerhetsfrågor inkluderade försenad dysforbi och självmordstankar 24-48 timmar efter infusion. Ketamin visar potential som tillägg till beteendeterapi snarare än monoterapi.",
-        "no": "Systematisk gjennomgang av 15 studier (3 RCT, 118 deltakere) som undersøker ketamin for behandlingsresistent OCD. Enkelt IV-dose ketamin (0,5 mg/kg) ga 50-60% responsrate, men effekten var forbigående. Kombinert ketamin med eksponerings- og responsforhindring viste vedvarende remisjon over uker-måneder. Sikkerhetsproblemer inkluderte forsinket dysforbi og selvmordstanker 24-48 timer etter infusjon. Ketamin viser potensial som tillegg til atferdsterapi snarere enn monoterapi.",
-        "da": "Systematisk gennemgang af 15 studier (3 RCT, 118 deltagere) om ketamin til behandlingsresistent OCD. Enkelt IV-dosis ketamin (0,5 mg/kg) gav 50-60% responsrate, men effekten var kortvarig. Kombineret ketamin med eksponerings- og responsforebyggelse viste vedvarende remission over uger-måneder. Sikkerhedsproblemer omfattede forsinket dysforbi og selvmordstanker 24-48 timer efter infusion. Ketamin viser potentiale som supplement til adfærdsterapi snarere end monoterapi.",
-        "fi": "Systemaattinen katsaus 15 tutkimuksesta (3 RCT, 118 osallistujaa) ketamiinin käytöstä hoitoresistentissa OCD:ssä. Yksittäinen IV-annos ketamiinia (0,5 mg/kg) antoi 50-60% vastausnopeuden, mutta vaikutus oli ohimenevä. Ketamiini yhdessä eksposuurin ja vasteen estämisen hoidon kanssa osoitti pysyvää remissiota viikkojen-kuukausien ajan. Turvallisuusongelmia olivat viivästyneet dysforiat ja itsemurhajäännökset 24-48 tuntia infuusion jälkeen. Ketamiini osoittaa potentiaalia käyttäen täydennysaineena käyttäytymishoidolle monoterapian sijaan.",
-        "is": "Kerfræðileg yfirlit yfir 15 rannsóknir (3 RCT, 118 þátttakendur) um ketamín við meðferðaróðæfar OCD. Ein IV-skammtur ketamíns (0,5 mg/kg) gaf 50-60% svörun en áhrifin voru skammlíf. Sameinuð ketamín með útsetningu og svörum sem kom í veg fyrir sýndu varanlega remisju yfir vikur til mánuði. Öryggisáhyggjur innihéldu seinaða dysforí og sjálfsmorðshugsanir 24-48 klukkustundum eftir innflutning. Ketamín sýnir möguleika sem viðbót við hegðunarmeðferð fremur en einogunarmeðferð.",
-        "et": "Süstemaatiline ülevaade 15 uuringust (3 RCT, 118 osalejat) ketamiini kasutamise kohta ravi-resistentse OCD-ga. Üksik IV-annus ketamiini (0,5 mg/kg) andis 50-60% vastusekaasuse, kuid efekt oli lühiajaline. Ketamiini kombinatsiooni eksponoeerimise ja reaktsiooni ennetamisega teraapiaga näitas püsivat remissiooni nädalate-kuude jooksul. Ohutusprobleemd hõlmasid viivitatud düsfooriat ja enesetapu ideatsiooni 24-48 tundi pärast infusiooni. Ketamiin näitab potentsiaali täiendava abina käitumisteraapia asemel monoteraapia asemel.",
-        "lv": "Sistematisks pārskats par 15 pētījumiem (3 RCT, 118 dalībnieki) par ketamīnu grūti ārstējamas OCD gadījumos. Viena IV doza ketamīna (0,5 mg/kg) deva 50-60% reaģējošus pacientus, bet efekts bija īslaicīgs. Ketamīns kombinācijā ar ekspozīcijas un atbildes novēršanas terapiju parādīja noturīgu remisiju nedēļas-mēneši. Drošības problēmas ietver aizkavētu disforiju un pašnāvības ideāciju 24-48 stundu laikā pēc infūzijas. Ketamīns rāda potenciālu kā papildinājums uzvedības terapijai, nevis monoaterapijai.",
-        "lt": "Sistemingas 15 tyrimų (3 RCT, 118 dalyvių) peržvalga dėl ketamino naudojimo gydymui atsparioje OCD. Viena IV ketamino doze (0,5 mg/kg) davė 50-60% atsako dažnį, tačiau efektas buvo trumpalaikis. Ketaminas kartu su ekspozicija ir atsakų prevencija parodė ilgalaikę remiją per savaites-mėnesius. Saugumo problemos apėmė vėluotą disforią ir savižudybės ideacijas 24-48 valandų po infuzijos. Ketaminas rodo potencialą kaip papildomoji priemonė elgesio terapijai, o ne monoterapija."
-      },
-      "notable": true,
-      "notable_reasons": {
-        "en": "Systematic review synthesizing 15 studies (including 3 RCTs) with n=118; identifies novel safety signal (delayed dysphoria/suicidality) and synergistic effect with behavioral therapy.",
-        "sv": "Systematisk översikt som syntetiserar 15 studier (inklusive 3 RCTs) med n=118; identifierar ny säkerhetssignal (försenad dysphoria/suicidialitet) och synergistisk effekt med beteendeterapi.",
-        "no": "Systematisk oversikt som syntetiserer 15 studier (inkludert 3 RCTs) med n=118; identifiserer nytt sikkerhetssignal (forsinket dysphoria/suicidalitet) og synergistisk effekt med atferdsterapi.",
-        "da": "Systematisk oversigt, der syntetiserer 15 studier (herunder 3 RCTs) med n=118; identificerer nyt sikkerhedssignal (forsinket dysphoria/suicidalitet) og synergistisk effekt med adfærdsterapi.",
-        "fi": "Systemaattinen katsaus, joka syntetisoi 15 tutkimusta (mukaan lukien 3 RCT:tä) n=118:lla; tunnistaa uuden turvallisuussignaalin (viivästynyt dysphoria/itsemurhariski) ja synergistisen vaikutuksen käyttäytymisterapian kanssa.",
-        "is": "Kerfbundin yfirlit sem tekur saman 15 rannsóknir (þar á meðal 3 RCTs) með n=118; auðkennir nýja öryggmerki (seinkuð dysphoria/sjálfsmorðshætta) og samverkandi áhrif með hegðunarmeðferð.",
-        "et": "Süstemaatiline ülevaade, mis sintetiseerib 15 uuringut (kaasa arvatud 3 RCT-d) n=118-ga; identifitseerib uue ohutussignaali (hiline dysphoria/enesetapuoht) ja sünergistilist efekti käitumisteraapiaga.",
-        "lv": "Sistematisks pārskats, kas sintetizē 15 pētījumus (ieskaitant 3 RCT) ar n=118; identificē jaunu drošības signālu (aizkavēta dysphoria/pašnāvniecības risks) un sinerģisku efektu ar uzvedības terapiju.",
-        "lt": "Sisteminė apžvalga, apibendrinanti 15 tyrimų (įskaitant 3 RCT) su n=118; nustato naują saugumo signalą (uždelstą dysphoria/savižudybės riziką) ir sinergišką poveikį kartu su elgesio terapija."
-      },
-      "relevance_score": 4,
-      "study_type": "review",
-      "substances": [
-        "ketamine"
-      ],
-      "added_at": "2026-08-27T17:44:17.771269+00:00"
     }
   ]
 }

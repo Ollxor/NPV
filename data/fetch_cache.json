@@ -1,7 +1,97 @@
 {
-  "date": "2026-09-19",
-  "cached_at": "2026-09-19T10:16:47.279043+00:00",
+  "date": "2026-09-20",
+  "cached_at": "2026-09-20T10:35:28.846594+00:00",
   "articles": [
+    {
+      "title": "A circuit dissection of perception-action decoupling in S-ketamine-induced hallucination-like states.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42763341/",
+      "source": "PubMed",
+      "abstract": "Hallucinations are a core feature of several psychiatric disorders, but the circuit mechanisms that separate perception from behavioral output remain poorly defined. Here, we combined an auditory discrimination task with AI-based pose analysis to quantify S-ketamine-induced false auditory threat responses and behavioral disorganization in mice. Control assays, including sucrose preference, loss of righting reflex, and prepulse inhibition, indicated that these effects were not explained by anhedonia, anesthesia, or basic auditory deficits. Using in vivo fiber photometry, single-cell miniscope calcium imaging, and pathway-specific chemogenetic and optogenetic manipulations, we identified dissociable circuit contributions within convergent striatal pathways. The basolateral amygdala to caudal striatum pathway (BLA→TS) supported salience-weighted perceptual decisions and, when aberrantly recruited by S-ketamine, promoted auditory false alarms. In contrast, the medial prefrontal cortex to caudal striatum pathway (mPFC→TS) primarily shaped behavioral expression and, when dysregulated, generated disorganized action patterns. At the network level, S-ketamine shifted TS activity from a sparse, high-contrast state to a high-frequency, low-amplitude, diffusely coupled state, consistent with reduced integrative precision. Auditory cortex to TS inputs were not broadly suppressed, supporting pathway specificity. Bidirectional chemogenetic manipulation of BLA→TS and mPFC→TS pathways in drug-naive mice further supported the TS as an integrative node linking perceptual evaluation to behavioral output. Dexmedetomidine co-administration restored pathway-level temporal dynamics and reorganized TS network coupling without simply suppressing activity. Together, these findings define a circuit framework for NMDAR-antagonist-induced hallucination-like states and provide a mechanistic rationale for dexmedetomidine-mediated mitigation of S-ketamine-associated perceptual and behavioral disruption.",
+      "date": "2026-09-19",
+      "authors": [
+        "Wang Dijia",
+        "Xu Junnan",
+        "Wang Zhaoran"
+      ],
+      "doi": "10.1038/s41380-026-03893-w"
+    },
+    {
+      "title": "Cognitive effects of ketamine and esketamine treatment for major depressive and bipolar disorder: a systematic review.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42762641/",
+      "source": "PubMed",
+      "abstract": "Cognitive impairment is a core feature of major depressive disorder (MDD) and bipolar disorder (BD). Most conventional antidepressants do not have direct and clinically relevant procognitive effects. Ketamine and esketamine are effective in treating treatment-resistant depression (TRD). Herein, this systematic review aims to evaluate the effects of both pharmacotherapeutics on cognitive measures in adults with MDD, BD and TRD. OVID databases were searched from inception until February 8, 2026. Clinical studies examining the cognitive effects of ketamine and esketamine were included. A systematic review was conducted following the Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) guidelines. Risk of bias was assessed with the Risk Of Bias In Non-randomized Studies-of Interventions, Version 2 (ROBINS-I V2) and the NHLBI's Quality Assessment of Controlled Intervention Studies. 22 studies were included, with a total sample size of 2,441 participants. In randomized controlled trials (RCTs), adults with MDD undergoing single-dose ketamine 0.5 mg/kg or esketamine 0.25 mg/kg showed inconsistent effects on cognition, with improvements in some domains as well as null findings and reports of impaired memory recall and processing speed. In open-label studies, maintenance ketamine 0.5 mg/kg in adults with MDD or BD was associated with improvements in memory, attention, language, processing speed, and verbal learning, though these were within-group changes not controlled against a comparator. The findings suggest ketamine and esketamine treatment are associated with improvements across several domains of objective cognitive performance, predominantly in uncontrolled or within-group analyses. The extent to which these changes represent direct procognitive effects independent of antidepressant response, practice effects, or comparator differences remains uncertain.",
+      "date": "2026-09-14",
+      "authors": [
+        "Xiao Kelei",
+        "Woo Yealin",
+        "Dri Christine E"
+      ],
+      "doi": "10.1016/j.psychres.2026.117456"
+    },
+    {
+      "title": "Psychedelics and suicidality: A double-edged sword - risks, mechanisms, and moving forward.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42762543/",
+      "source": "PubMed",
+      "abstract": "Classic psychedelics, including lysergic acid diethylamide (LSD), psilocybin, and dimethyltryptamine (DMT), have re-emerged as promising treatments for psychiatric conditions linked to suicidality. However, rare reports of increased suicidality potentially associated with psychedelic use have raised safety concerns. This article examines the complex relationship between psychedelics and suicidality and develops a theoretical mechanistic model: the double-edge sword. We first summarise available data on suicide-related outcomes associated with psychedelic use reported in recreational settings and in first and second waves of clinical research. Several deaths have occurred following non-medical psychedelic use, where unsafe contexts led to accidents or presumed suicides, with unclear suicidal intent. Though less frequent, rare cases of increased suicidal ideation and behaviours have also been reported in clinical settings, without significant differences from placebo groups or established causality. We then offer a theoretical mechanistic framework encompassing both anti- and pro- suicidality mechanisms. Specifically, we propose three key psychological mechanisms - reduced fear of death, altered representations of the world and reduced experiential avoidance - constituting a double-edged sword: the same processes that facilitate healing may, in vulnerable individuals or unsupportive contexts, precipitate destabilisation and suicidal crises. Then, we turn to clinical practice recommendations aimed at harnessing these mechanisms for therapeutic benefit while mitigating suicide risk. Adequate therapeutic support, spanning screening, preparation, in-session guidance, and integration, seems essential to shifting outcomes toward benefit. Finally, we discuss future directions regarding potential psychedelic use in suicidal crises and propose guidelines to better study and characterise the underlying mechanisms driving this complex relationship.",
+      "date": "2026-09-19",
+      "authors": [
+        "Mallevays Maia",
+        "Berkovitch Lucie"
+      ],
+      "doi": "10.1016/j.euroneuro.2026.113878"
+    },
+    {
+      "title": "Single ayahuasca administration mitigates long-term behavioral and neurochemical effects of early-life stress in rats.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42762335/",
+      "source": "PubMed",
+      "abstract": "Pharmacotherapy for depression is commonly prescribed, yet fewer than half of patients achieve remission with a single treatment. Many also experience intolerable side effects, highlighting the need for new treatment approaches. Classic psychedelics interact with the serotonin (5-HT) receptor class and are therefore strongly involved in the treatment of psychiatric illnesses such as depression, anxiety, and substance abuse, demonstrating great therapeutic potential. Specifically, Ayahuasca (AYA) is primarily used for physical or spiritual healing, and the effects resulting from its use are related to its serotonergic activation. Thus, the present study aimed to evaluate the behavioral and neurochemical effects of ayahuasca treatment in Wistar rats subjected to an animal model of depression induced by maternal deprivation (MD). To induce depressive-like behavior, MD was performed on the pups for 3 h/day for 10 days (1st to 10th day of life). Subsequently, rats underwent behavioral testing to assess anxiety- and depressive-like behavior using the elevated plus maze, open field test, splash test, and forced swim test. The levels of dopamine (DA), serotonin (5-HT), brain-derived neurotrophic factor (BDNF), antioxidant enzymes superoxide dismutase, catalase, glutathione peroxidase, and glutathione reductase activities, and oxidative stress biomarkers were assessed in the frontal cortex, hippocampus, and striatum 15 days after ayahuasca administration. MD promoted increased anxiety-like and depressive-like behaviors. Also, anxiety-like and depressive-like behaviors, as well as decreased BDNF and monoamine levels and increased oxidative stress induced by this model, were attenuated by treatment with a single dose of AYA, demonstrating significant therapeutic potential. The findings highlight the need for translational research of new pharmacological approaches for MDD.",
+      "date": "2026-09-19",
+      "authors": [
+        "Lodetti Guilherme",
+        "Redivo Henrique",
+        "Teixeira Amanda Gomes"
+      ],
+      "doi": "10.1007/s00702-026-03287-w"
+    },
+    {
+      "title": "Effect of ECT-anesthetics on reorientation time.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42762243/",
+      "source": "PubMed",
+      "abstract": "Electroconvulsive therapy (ECT) remains one of the most effective treatments in psychiatry, but cognitive side effects still pose a clinical concern. Delayed postictal reorientation is linked to worse cognitive outcomes, adversely affecting patient-perceived treatment tolerability and acceptability, while also increasing post-ECT and post-anesthesia care demands. Despite its clear clinical and operational relevance, comparative evidence on anesthetic effects remains scarce. This study therefore investigates the impact of different anesthetic agents (S-ketamine, propofol, etomidate, thiopental, and the combination of S-ketamine and propofol) on reorientation time following ECT. Retrospective data from 5148 ECT sessions were analyzed using a linear mixed-effects model controlling for age, sex, diagnosis, stimulation dose, electrode placement, seizure quality, ECT session number, need for restimulation, ECT duration, and postictal agitation. Compared with S-ketamine, propofol reduced reorientation time by 6.2 min, and the combination of S-ketamine and propofol reduced reorientation time by 1.5 min. Neither thiopental nor etomidate differed significantly from S-ketamine. The differences may be attributed to the distinct pharmacodynamic profiles of the anesthetic agents. The findings demonstrate that anesthetic choice is a significant and independent determinant of reorientation time following ECT, with propofol and the combination of S-ketamine and propofol associated with markedly faster cognitive recovery compared to S-ketamine.",
+      "date": "2026-09-19",
+      "authors": [
+        "Putschögl Franziska",
+        "Deicher Anton",
+        "Hermann Sophia"
+      ],
+      "doi": "10.1007/s00406-026-02386-9"
+    },
+    {
+      "title": "Intravenous Ketamine for Treatment-Resistant Depression: A Case Report From a Public Hospital in Argentina.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42762051/",
+      "source": "PubMed",
+      "abstract": "Treatment-resistant depression (TRD) is a severe form of depression associated with high rates of disability and suicide, underscoring the need for effective therapeutic alternatives. In recent years, subanesthetic intravenous (IV) ketamine has emerged as a promising intervention due to its rapid antidepressant and antisuicidal effects. This report describes the case of a 41-year-old male patient with TRD treated with IV ketamine at a public hospital in Argentina-the first such reported case in this setting. We detail the diagnostic process, treatment protocol, outcomes, and practical considerations in implementing this novel therapy within a public health system.",
+      "date": "2026-06-01",
+      "authors": [
+        "Dines Micaela",
+        "Bamondez Paloma",
+        "Montenegro Micaela"
+      ],
+      "doi": ""
+    },
+    {
+      "title": "A national approach in a European context: Multidisciplinary and multiprofessional recommendations on the clinical use of psychedelic substances.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42761569/",
+      "source": "PubMed",
+      "abstract": "The therapeutic benefits of psychedelics for neuropsychiatric conditions have gathered significant attention in Europe and around the world, with treatments using psilocybin, MDMA, and ketamine as notable examples. However, the mind-altering effects of these substances, and the complexity of their regulatory frameworks, both within and outside of therapeutic use, imply careful clinical guidance. Across Europe, associations dedicated to therapeutic use of psychedelics are flourishing, and have produced clinical recommendations, while more generalist professional boards have contributed with various clinical reports, statements and guidelines. In Portugal this prompted a unique collaborative movement of professional associations of Pharmacists, Psychologists and Physicians to work with national ethics authorities, scientific societies and both research and clinical stakeholders, to produce a consensual recommendation addressing core aspects of psychedelic treatments. This statement reflects positions regarding informed consent, the determinants of medical and psychological interventions, ethical considerations and regulatory recommendations. The initial document was open for public consultation, inviting other stakeholders to contribute to the final version, published in Portuguese and translated here into English towards broader access. The statement underscores the importance of multidisciplinary and multiprofessional collaboration among psychiatrists, psychologists and pharmacists, towards establishing common guidelines and regulations to ensure safe and effective clinical applications. By addressing these factors, the recommendations aim to foster responsible therapeutic use, while safeguarding patient well-being.",
+      "date": "2026-09-09",
+      "authors": [
+        "Seybert Carolina",
+        "Pires Ana Matos",
+        "Madeira Luís"
+      ],
+      "doi": "10.1016/j.nsa.2026.107028"
+    },
     {
       "title": "Serotonergic psychedelics and amphetamine shift male rat ultrasonic vocalizations toward call patterns associated with positively valenced states.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42759593/",
@@ -40,6 +130,19 @@
         "Murphy Zackari D"
       ],
       "doi": "10.3389/fpsyt.2026.1909149"
+    },
+    {
+      "title": "Longer Sleep Duration Predicts Progression to Bipolar or Psychotic Disorders in Youth Accessing Early Intervention Mental Health Services.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42755433/",
+      "source": "PubMed",
+      "abstract": "While growing evidence implicates sleep-wake and circadian rhythm disturbances (SCRDs) in the onset and course of mood and psychotic disorders, longitudinal studies using objective measures are limited. This clinical cohort study examined whether actigraphy-derived SCRDs (sleep duration, timing, and efficiency) predicted transition to (i) any full-threshold mental disorders; and then specifically; (ii) full-threshold bipolar or psychotic disorders; or (iii) other full-threshold (i.e., depressive or anxiety) disorders, in youth accessing mental health care. Actigraphy monitoring was completed for 5-23 days in 250 participants (aged 12-30) presenting to youth-focused early intervention services in Sydney, Australia. Participants were followed longitudinally as part of the Optymise cohort for at least 6+ months (up to 8 years; median 2.5 years). Logistic regression and Cox proportional hazards models estimated associations between SCRDs and illness progression, after controlling for relevant baseline clinical and demographic covariates (e.g., age, sex, social and occupational functioning, mania-like and psychotic-like experiences, medication use). Longer sleep duration at baseline predicted higher odds of transition (OR = 2.23 [95% CI = 1.38-3.74]), and shorter time-to-transition (HR = 2.05 [95% CI = 1.23-3.40]) to full-threshold bipolar or psychotic disorders. This effect remained significant after controlling for clinical covariates. Later sleep midpoint predicted transition to any full-threshold mental disorder (OR = 1.46 [95% CI = 1.02-2.17]) at the uncorrected significance level. Excessive sleep duration may represent an early marker of vulnerability for progression to severe mental illness. Findings support the prognostic utility of objective measures of SCRDs to guide indicated prevention and early intervention.",
+      "date": "2026-Nov",
+      "authors": [
+        "Carpenter Joanne S",
+        "Crouse Jacob J",
+        "Varidel Mathew"
+      ],
+      "doi": "10.1111/bdi.70183"
     },
     {
       "title": "Validating and creating a short-form of the persisting effects questionnaire: A measure of positive and negative outcomes from psychedelic experiences.",
@@ -157,104 +260,6 @@
         "Pasquini L"
       ],
       "doi": "10.3389/fnins.2026.1875339"
-    },
-    {
-      "title": "Ketamine attenuates habenula activity in response to aversive outcomes during Pavlovian learning.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42743922/",
-      "source": "PubMed",
-      "abstract": "Ketamine is an NMDA receptor antagonist with rapid antidepressant properties when administered at a subanesthetic dose. Preclinical models indicate that a direct injection of ketamine into the lateral habenula (Hb), a small midbrain structure with an evolutionarily preserved role in aversive learning across mammals, can rapidly relieve depression-like behavior. However, there is limited evidence to explain how ketamine acts on the function of the human Hb. In a translational computational neuroscience study, 70 healthy adult volunteers were randomized in a 1:1 ratio to receive ketamine (0.5 mg/kg) or placebo (NaCl 0.9%). We used an aversive Pavlovian conditioning paradigm combined with 7-tesla functional neuroimaging to show that ketamine attenuates Hb response during aversive stimuli expectations and outcomes 24 h post-infusion. Furthermore, we present preliminary evidence suggesting that when aversive learning occurs after ketamine infusion, reduced Hb activity during the learning process may lead to downstream effects that diminish the aversive impact of negative affective memories. These findings provide translational support for ketamine's modulation of aversive learning and Hb activity and help to refine mechanistic models of its rapid antidepressant effect.",
-      "date": "2026-09-15",
-      "authors": [
-        "Pulcu Erdem",
-        "Costi Sara",
-        "Artiach-Hortelano Pilar"
-      ],
-      "doi": "10.1016/j.cub.2026.08.044"
-    },
-    {
-      "title": "Resetting the hippocampal buffer: a neurocognitive account of psychedelic therapy for anxiety-related psychopathology.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42742718/",
-      "source": "PubMed",
-      "abstract": "Psychedelics (hallucinogenic 5-HT",
-      "date": "2026-09-15",
-      "authors": [
-        "McGovern Hugh",
-        "Wellman Nick",
-        "Hutchinson Brendan"
-      ],
-      "doi": "10.1007/s00213-026-07163-z"
-    },
-    {
-      "title": "Risks from self-medicating with psychedelic drugs.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42742575/",
-      "source": "PubMed",
-      "abstract": "",
-      "date": "2026-Oct",
-      "authors": [
-        "Black Joshua C"
-      ],
-      "doi": "10.1002/wps.70099"
-    },
-    {
-      "title": "Real-World Effectiveness and Safety of Esketamine Nasal Spray in Treatment-Resistant Depression: A Retrospective Observational Study.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42736875/",
-      "source": "PubMed",
-      "abstract": "",
-      "date": "2026-08-26",
-      "authors": [
-        "Ali Mostafa A Sayed",
-        "Amirthalingam Palanisamy",
-        "Alshareef Hanan"
-      ],
-      "doi": "10.3390/healthcare14172717"
-    },
-    {
-      "title": "Psychopharmacology at an Inflection Point: From Syndromes to Stratified Mechanisms, Circuit-Based Treatments, and Precision Psychiatry.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42735276/",
-      "source": "PubMed",
-      "abstract": "Psychopharmacology, once propelled by a series of serendipitous mid-20th-century discoveries, has matured into a field defined by mechanistic diversity, translational neuroscience, and an expanding array of circuit-based interventions. Despite more than 100 approved psychiatric drugs, remission rates for major depressive disorder and other serious mental disorders remain modest, underscoring the biological heterogeneity embedded within syndromic diagnoses. Roughly 60% of patients with major depressive disorder respond to monoaminergic treatments, while others respond preferentially to glutamatergic agents such as ketamine or esketamine, and a smaller subset remains minimally responsive to both. These differential response patterns challenge the notion of a singular depressive disorder and highlight the need for biologically informed patient stratification. Contemporary psychopharmacology extends well beyond classic neurotransmitter modulation, encompassing synaptic plasticity, circuit regulation, inflammatory pathways, neurosteroids, muscarinic systems, drug-assisted psychotherapies, and computational neuroscience. Parallel advances in neuromodulation, including repetitive transcranial magnetic stimulation, transcranial direct current stimulation, vagus nerve stimulation, focused ultrasound, and adaptive deep brain stimulation, reflect a shift from region-based to network-based conceptualizations of psychiatric illness. Simultaneously, advances in pharmacogenomics, neuroimaging, artificial intelligence, and biomarker identification are beginning to make precision psychiatry a practical, though still emerging, reality. With these broadly described advances in mind, this column reflects on the historical trajectory of psychopharmacology, explores the convergence of pharmacology and neuromodulation, and considers the future of psychiatry through the lens of mechanism-based and personalized care. In doing so, it aims to carry forward the disciplined, mechanistically grounded scholarship that has long characterized this column.",
-      "date": "2026-09-01",
-      "authors": [
-        "Macaluso Matthew"
-      ],
-      "doi": "10.1097/PRA.0000000000000947"
-    },
-    {
-      "title": "The Nova Protocol: a comprehensive multimodal longitudinal study among civilian survivors of a mass trauma event.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42735067/",
-      "source": "PubMed",
-      "abstract": "We describe a multimodal longitudinal protocol tracking long-term responses to severe trauma among civilian survivors of the 7 October 2023 Nova festival attack.The protocol leverages a rare naturalistic cohort exposed to the same mass trauma event within a narrow time window, with many survivors also reporting psychoactive-substance use during the attack.Longitudinal assessments began in the first weeks after trauma and continued for approximately two years, integrating questionnaires, wearable sensors, ecological assessments, saliva-based biomarkers, brain imaging, interoception tasks, learning tasks, and survivor interviews.",
-      "date": "2026-09-14",
-      "authors": [
-        "Admon Roee",
-        "Netzer Ophir",
-        "Magal Noa"
-      ],
-      "doi": "10.1080/20008066.2026.2721729"
-    },
-    {
-      "title": "[The use of psychedelics in psychiatry].",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42732542/",
-      "source": "PubMed",
-      "abstract": "Over the past five years, the literature on the psychiatric use of psychedelic and related treatments has expanded substantially. Several randomized controlled trials and pooled analyses have been conducted in mood disorders, treatment-resistant depression, and post-traumatic stress disorder. Trial methodology, however, remains a fundamental source of uncertainty, and despite the popularity of the field, the clinical evidence is still weak. Psilocybin produces consistent and often large improvements in major depressive disorder, yet in the most rigorous trials, the predefined primary endpoint does not always reach statistical significance. At the same time, a synthetic psilocybin (COMP360) met its primary endpoint in two phase 3 trials in 2025-2026, representing the most advanced regulatory evidence in the field to date. MDMA (3,4-methylenedioxymethamphetamine; \"ecstasy\")-assisted psychotherapy has the largest phase 3 dataset in post-traumatic stress disorder, but in 2024 the US Food and Drug Administration declined to approve the product on ethical grounds. Evidence for LSD (lysergic acid diethylamide) and ayahuasca in depressive and anxiety symptoms is considerably weaker and cannot yet be interpreted within an evidence-based medicine framework. The therapeutic use of psychedelics can no longer be regarded as merely a theoretical question or a subcultural movement: the clinical effect is consistent and, in several trials, markedly strong. Nevertheless, according to the international system grading the certainty of evidence, the level of certainty remains low or very low for several indications. The main reasons are practical unblinding, small sample sizes, trial heterogeneity, and a lack of long-term safety data. Despite encouraging phase 3 data, psilocybin and the classic psychedelics should be considered experimental treatments. For MDMA, the phase 3 results are promising but have not proven sufficient for regulatory approval. Orv Hetil. 2026; 167(37): 1461-1467. A pszichedelikus kezelések alkalmazásáról szóló szakirodalom az elmúlt öt évben jelentősen bővült. A hangulatzavarok, a terápiarezisztens depresszív zavar és a poszttraumás stressz-zavar területén több randomizált-kontrollált vizsgálat és összegző elemzés jelent meg. A vizsgálati módszertan azonban továbbra is alapvető bizonytalansági forrás, a klinikai bizonyítékok a terület népszerűségének ellenére szegényesek. A pszilocibin alkalmazása major depresszív zavarban következetes és nagymértékű javulással jár, ám a legszigorúbb vizsgálatokban a primer végpont nem mindig éri el a statisztikai szignifikanciát. Ugyanakkor egy szintetikus pszilocibin (COMP360) két 2025–2026-os, 3. fázisú vizsgálatában is teljesítette a primer végpontot. Az MDMA (metiléndioxi-metamfetamin; „ecstasy”) segítségével támogatott pszichoterápia poszttraumás stressz-zavarban rendelkezik a legmeggyőzőbb 3. fázisú vizsgálati anyaggal, az amerikai gyógyszerhatóság azonban 2024-ben etikai aggályok miatt nem hagyta jóvá a készítményt. Az LSD-nek (lizergsav-dietilamid) és az ayahuascának a depresszív tünetekre és szorongásra gyakorolt hatásával kapcsolatos bizonyítékok lényegesen gyengébbek. A pszichedelikumok terápiás használata ma már nem tekinthető pusztán elméleti kérdésnek vagy egy szubkultúra mozgalmának: a klinikai hatás következetes, több vizsgálatban pedig kifejezetten erős. A klinikai bizonyosság szintje azonban több indikációban is alacsony vagy nagyon alacsony marad. Ennek fő okai a vakítás gyakorlati feloldása, a kis esetszámok, a vizsgálatok eltérő jellege és a hosszú távú biztonsági adatok hiánya. A pszilocibin és a klasszikus pszichedelikumok egyelőre kísérleti kezelésnek tekinthetők. Az MDMA esetében a 3. fázisú eredmények ígéretesek, de a hatósági jóváhagyáshoz nem bizonyultak elegendőnek. Orv Hetil. 2026; 167(37): 1461–1467.",
-      "date": "2026-09-13",
-      "authors": [
-        "Kéri Szabolcs"
-      ],
-      "doi": "10.1556/650.2026.33665"
-    },
-    {
-      "title": "Beyond symptom reduction: Intranasal esketamine is associated with improved quality of life in treatment-resistant depression.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42731235/",
-      "source": "PubMed",
-      "abstract": "Treatment-resistant depression (TRD) is associated with severe functional impairment, poor quality of life, and increased suicide risk. This study evaluated the effectiveness of intranasal esketamine on depressive symptoms, hopelessness, suicidal ideation, and quality of life in patients with TRD, exploring whether outcomes differed according to concomitant antidepressant class (SSRI vs. SNRI). Thirty-five outpatients with TRD received intranasal esketamine combined with an oral antidepressant. Assessments were conducted at baseline, 3 months, and 6 months using the Montgomery-Åsberg Depression Rating Scale (MADRS), Beck Depression Inventory-II (BDI-II), Beck Hopelessness Scale (BHS), Columbia-Suicide Severity Rating Scale (C-SSRS), and Quality of Life Enjoyment and Satisfaction Questionnaire (Q-LES-Q). Mixed Models for Repeated Measures and Generalized Estimating Equations were applied. Significant improvements over time were observed in depressive symptoms, hopelessness, and quality of life as measured by the Q-LES-Q (all p < .001). Suicidal ideation significantly decreased during follow-up (p = .025). Improvement in Q-LES-Q scores exceeded the threshold for clinical meaningfulness. No significant differences emerged between SSRI and SNRI subgroups across outcome measures. Intranasal esketamine was associated with significant improvements in depressive symptoms, hopelessness, suicidal ideation, and quality of life over 6 months in patients with TRD, with no statistically significant differences detected across antidepressant subgroups in this exploratory comparison.",
-      "date": "2026-09-07",
-      "authors": [
-        "Pompili Maurizio",
-        "Sarubbi Salvatore",
-        "Di Biase Giulia"
-      ],
-      "doi": "10.1016/j.jpsychires.2026.09.005"
     },
     {
       "title": "Field Notes #5: ‘Psychedelics Week’ in Washington D.C.",
@@ -515,6 +520,19 @@
       "doi": "10.5812/ijpr-164903"
     },
     {
+      "title": "Modulation of spatial learning and memory by cannabinoid-estrogen interaction in an AD-like cognitive impairment: The role of cannabinoid receptors and BDNF protein.",
+      "url": "https://doi.org/10.1016/j.ibneur.2026.09.002",
+      "source": "Europe PMC",
+      "abstract": "Alzheimer's disease (AD) is an increasingly prevalent neurodegenerative disorder worldwide, with women showing a higher risk of developing the disease. The decline in steroid hormones after menopause may contribute to the increased susceptibility of women to neurodegenerative conditions. In parallel, cannabis-derived compounds have been reported to alleviate certain symptoms associated with neurological disorders. The present study was designed to investigate the effects of marijuana extract on cognitive impairment and hippocampal molecular markers in an ovariectomized AD-like rat model, and to evaluate whether co-administration with estradiol modifies these effects. The marijuana extract used in this study was characterized by HPLC and was found to contain 8.5% Δ9-THC. AD-like cognitive impairment pathology was induced by intra-hippocampal administration of Aβ25-35 in OVX rats. Animals were treated with marijuana extract (60 mg/kg/day, corresponding to approximately 5.1 mg/kg/day Δ9-THC) either alone or in combination with 17β-estradiol (1 mg/kg every 4 days) for 28 days. Cognitive performance was evaluated using the Morris water maze (MWM). In addition, hippocampal CB1/CB2 receptor expression and BDNF protein levels were measured to examine potential molecular associations. Our findings showed that chronic administration of the marijuana extract improved Aβ25-35-induced deficits in spatial learning and memory. Alterations in CB1 receptor expression and BDNF levels accompanied these behavioral effects. Notably, co-treatment with estradiol did not produce a synergistic effect, suggesting a complex interaction between cannabinoid-related and estrogen-related signaling pathways. These preclinical findings suggest that a THC-standardized marijuana extract may exert neuroprotective-like effects in an AD-like cognitive impairment model. However, because the extract was not fully phytochemically characterized and the mechanistic analyses were correlational, the results should be interpreted cautiously. Further studies are needed to clarify the underlying mechanisms and translational relevance of these findings.",
+      "date": "2026-09-09",
+      "authors": [
+        "Mirshekar MA",
+        "Nadi F",
+        "Fanaei H"
+      ],
+      "doi": "10.1016/j.ibneur.2026.09.002"
+    },
+    {
       "title": "Opioid-free analgesia with esketamine-dexmedetomidine versus opioid-based analgesia after gynaecological laparoscopic surgery: a double-blind, randomized, controlled trial.",
       "url": "https://doi.org/10.1080/07853890.2026.2732292",
       "source": "Europe PMC",
@@ -526,6 +544,19 @@
         "Yin QL"
       ],
       "doi": "10.1080/07853890.2026.2732292"
+    },
+    {
+      "title": "The Nova Protocol: a comprehensive multimodal longitudinal study among civilian survivors of a mass trauma event.",
+      "url": "https://doi.org/10.1080/20008066.2026.2721729",
+      "source": "Europe PMC",
+      "abstract": "<b>Background:</b> The 7 October 2023 attack in southern Israel was one of the deadliest terror attacks in modern history, with 1,182 fatalities, more than 4,000 wounded individuals, and 251 hostages. The Nova music festival, an all-night outdoor rave near the Gaza border, suffered the highest number of civilian casualties, with more than 370 festival attendees killed. Survivors were exposed to prolonged life-threatening trauma with similar characteristics and within a narrow time window. Many survivors also reported being under the acute influence of psychoactive substances during the attack and the following hours. This tragic combination of civilian mass trauma and naturalistic pharmacological exposure provided a rare opportunity to study trauma processing prospectively.<b>Objective:</b> This paper describes the rationale, design, and methodology of the Nova Protocol, a multimodal longitudinal observational study of survivors of the 7 October 2023 Nova festival attack and a sociocultural comparison group.<b>Methods:</b> The protocol spans from the first weeks to approximately 24 months post-trauma and includes three major assessment time points. It integrates repeated online clinical assessments, prolonged wearable-sensor monitoring, ecological assessments, saliva-based endocrine and inflammatory markers, structural and functional MRI, cardiac interoception paradigms, online and in-scanner reinforcement-learning tasks, and semi-structured qualitative interviews. Primary outcomes are PTSD symptom severity (PCL-5) and general psychological distress (K6), supplemented by a rich battery of secondary measures.<b>Conclusion:</b> The Nova Protocol provides an unusually rich longitudinal framework for characterizing psychological, behavioural, physiological, inflammatory, neural, interoceptive, and subjective mechanisms that shape clinical trajectories after civilian mass trauma. Because psychoactive substance exposure was naturalistic and self-selected, findings will be interpreted as mechanistic and prognostic associations rather than causal effects. The protocol is expected to inform early risk detection and scalable post-disaster monitoring and intervention strategies, while also providing unique insights into how psychoactive substances impact trauma processing.",
+      "date": "2026-09-14",
+      "authors": [
+        "Admon R",
+        "Netzer O",
+        "Magal N"
+      ],
+      "doi": "10.1080/20008066.2026.2721729"
     },
     {
       "title": "A stereotaxic surgical protocol for posterior and total corpus callosotomy in adult Wistar rats using the WIN-PTZ kindling model.",
@@ -541,24 +572,11 @@
       "doi": "10.1016/j.mex.2026.104123"
     },
     {
-      "title": "RPE-derived extracellular matrix improves graft retention and photoreceptor preservation in preclinical models of retinal degeneration.",
-      "url": "https://doi.org/10.1016/j.mbplus.2026.100203",
-      "source": "Europe PMC",
-      "abstract": "<h4>Introduction</h4>Human pluripotent stem cells-derived retinal pigment epithelium (hPSC-RPE) represent a promising therapeutic approach for macular degeneration. This study examines whether RPE-derived extracellular matrix (RPE-ECM), enhances survival and functional outcomes following hPSC-RPE suspension transplantation in a preclinical model of retinal degeneration.<h4>Methods</h4>hPSC-RPE cells were cultured under three conditions: control, RPE-conditioned medium (RPE-CM), and RPE-ECM. In vitro, the cells were assessed for proliferation, monolayer organization, and gene expression. In vivo, GFP-labeled hPSC-RPE cells were co-transplanted with the corresponding treatments into the subretinal space of a mouse model of retinal degeneration. For functional assessment, the cells were injected into RCS rats, with visual acuity tracked over six months using optomotor response testing. Retinal morphometry was analyzed by immunohistology techniques to evaluate graft integration and structural rescue.<h4>Results</h4>In vitro, culture of hPSC-RPE cells with RPE-ECM enhanced proliferation and promoted monolayer formation, and increased Nidogen expression. In vivo, co-transplantation with RPE-ECM significantly improved mice retinal graft integration (47.1% vs. 3.6% in control, <i>P</i> < 0.001) and visual acuity over four months in RCS rats. RPE-derived ECM improved graft retention and photoreceptor preservation observed at 180 days (<i>P</i> < 0.001), with neuroprotective effects extending beyond the graft site to the contralateral retina.<h4>Conclusion</h4>These findings suggest that co-transplantation with RPE-ECM enhances the integration and function performance of hPSC-RPE cells and may represent a promising strategy to improve graft viability within the host retina. Nevertheless, this study has several limitations, including short-term assessment in animal models and the lack of detailed ECM compositional analysis. Further studies are required to elucidate the underlying mechanisms and to evaluate the long-term transplantation potential of this approach in clinical settings.",
-      "date": "2026-08-24",
-      "authors": [
-        "Mazinani FSH",
-        "Ashtiani MK",
-        "Moradmand A"
-      ],
-      "doi": "10.1016/j.mbplus.2026.100203"
-    },
-    {
       "title": "CZ",
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2018-004480-31/CZ",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-09-19",
+      "date": "2026-09-20",
       "authors": [],
       "doi": ""
     },
@@ -567,7 +585,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2020-005037-32/CZ",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-09-19",
+      "date": "2026-09-20",
       "authors": [],
       "doi": ""
     },
@@ -576,7 +594,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2021-002909-10/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-09-19",
+      "date": "2026-09-20",
       "authors": [],
       "doi": ""
     },
@@ -585,7 +603,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2015-000550-37/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-09-19",
+      "date": "2026-09-20",
       "authors": [],
       "doi": ""
     },
@@ -594,7 +612,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2021-000041-40/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-09-19",
+      "date": "2026-09-20",
       "authors": [],
       "doi": ""
     },
@@ -603,7 +621,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2020-000829-55/DK",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-09-19",
+      "date": "2026-09-20",
       "authors": [],
       "doi": ""
     },
@@ -612,7 +630,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2020-002790-94/SE",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-09-19",
+      "date": "2026-09-20",
       "authors": [],
       "doi": ""
     },
@@ -621,7 +639,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2021-006200-33/FI",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-09-19",
+      "date": "2026-09-20",
       "authors": [],
       "doi": ""
     },
@@ -630,7 +648,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2019-004812-73/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-09-19",
+      "date": "2026-09-20",
       "authors": [],
       "doi": ""
     },
@@ -639,7 +657,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2022-002369-14/BE",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-09-19",
+      "date": "2026-09-20",
       "authors": [],
       "doi": ""
     },

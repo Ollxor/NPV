@@ -1,6 +1,149 @@
 {
   "items": [
     {
+      "title": "A circuit dissection of perception-action decoupling in S-ketamine-induced hallucination-like states.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42763341/",
+      "source": "PubMed",
+      "date": "2026-09-19",
+      "authors": [
+        "Wang Dijia",
+        "Xu Junnan",
+        "Wang Zhaoran"
+      ],
+      "doi": "10.1038/s41380-026-03893-w",
+      "summary_en": "Mouse study combining behavioral tasks with neural imaging to investigate S-ketamine-induced hallucinations. Researchers identified two distinct striatal circuits: basolateral amygdala→striatum pathway drove false perceptual responses, while prefrontal cortex→striatum pathway controlled behavioral output. S-ketamine shifted striatal activity patterns, reducing neural integration precision. Results clarify circuit mechanisms underlying perception-action decoupling in hallucinatory states.",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "preclinical",
+      "substances": [
+        "ketamine"
+      ],
+      "added_at": "2026-09-20T11:39:55.846587+00:00"
+    },
+    {
+      "title": "Cognitive effects of ketamine and esketamine treatment for major depressive and bipolar disorder: a systematic review.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42762641/",
+      "source": "PubMed",
+      "date": "2026-09-14",
+      "authors": [
+        "Xiao Kelei",
+        "Woo Yealin",
+        "Dri Christine E"
+      ],
+      "doi": "10.1016/j.psychres.2026.117456",
+      "summary_en": "Systematic review of 22 studies (n=2,441) examining cognitive effects of ketamine and esketamine in major depression and bipolar disorder. Single-dose ketamine/esketamine showed inconsistent effects on cognition in RCTs, with some improvements but also impaired memory and processing speed. Open-label maintenance studies reported improvements in memory, attention, and processing speed, though lacking control group comparisons.",
+      "notable": true,
+      "notable_reason": "Systematic review of 22 clinical studies (n=2,441) examining cognitive outcomes across RCTs and open-label trials of ketamine/esketamine for MDD, BD, and TRD—a clinically significant gap in the literature.",
+      "study_type": "review",
+      "substances": [
+        "ketamine"
+      ],
+      "added_at": "2026-09-20T11:39:55.846587+00:00"
+    },
+    {
+      "title": "Psychedelics and suicidality: A double-edged sword - risks, mechanisms, and moving forward.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42762543/",
+      "source": "PubMed",
+      "date": "2026-09-19",
+      "authors": [
+        "Mallevays Maia",
+        "Berkovitch Lucie"
+      ],
+      "doi": "10.1016/j.euroneuro.2026.113878",
+      "summary_en": "Psychedelics and suicidality: A double-edged sword - risks, mechanisms, and moving forward.",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "review",
+      "substances": [
+        "lsd",
+        "psilocybin",
+        "other"
+      ],
+      "added_at": "2026-09-20T11:39:55.846587+00:00"
+    },
+    {
+      "title": "Single ayahuasca administration mitigates long-term behavioral and neurochemical effects of early-life stress in rats.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42762335/",
+      "source": "PubMed",
+      "date": "2026-09-19",
+      "authors": [
+        "Lodetti Guilherme",
+        "Redivo Henrique",
+        "Teixeira Amanda Gomes"
+      ],
+      "doi": "10.1007/s00702-026-03287-w",
+      "summary_en": "Rat study examining ayahuasca's effects on depression induced by early maternal deprivation. Single ayahuasca dose reversed anxiety and depressive-like behaviors and normalized neurochemical markers (serotonin, dopamine, BDNF, antioxidant enzymes) in frontal cortex, hippocampus, and striatum. Results suggest classical psychedelics may offer rapid therapeutic potential for depression resistant to conventional treatments.",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "preclinical",
+      "substances": [
+        "ayahuasca"
+      ],
+      "added_at": "2026-09-20T11:39:55.846587+00:00"
+    },
+    {
+      "title": "A national approach in a European context: Multidisciplinary and multiprofessional recommendations on the clinical use of psychedelic substances.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42761569/",
+      "source": "PubMed",
+      "date": "2026-09-09",
+      "authors": [
+        "Seybert Carolina",
+        "Pires Ana Matos",
+        "Madeira Luís"
+      ],
+      "doi": "10.1016/j.nsa.2026.107028",
+      "summary_en": "Portuguese professional associations (pharmacists, psychologists, physicians) collaborated with ethics authorities and researchers to develop consensual clinical recommendations for psychedelic-assisted treatment. The statement addresses informed consent, medical/psychological interventions, ethics, and regulation for psilocybin, MDMA, and ketamine therapies, emphasizing multidisciplinary cooperation.",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "other",
+      "substances": [
+        "psilocybin",
+        "mdma",
+        "ketamine"
+      ],
+      "added_at": "2026-09-20T11:39:55.846587+00:00"
+    },
+    {
+      "title": "The Nova Protocol: a comprehensive multimodal longitudinal study among civilian survivors of a mass trauma event.",
+      "url": "https://doi.org/10.1080/20008066.2026.2721729",
+      "source": "Europe PMC",
+      "date": "2026-09-14",
+      "authors": [
+        "Admon R",
+        "Netzer O",
+        "Magal N"
+      ],
+      "doi": "10.1080/20008066.2026.2721729",
+      "summary_en": "The Nova Protocol is a longitudinal observational study of survivors from the October 7, 2023 Nova festival attack in southern Israel, which killed over 370 civilians. The study leverages this tragic event to prospectively examine trauma processing, particularly in survivors exposed to psychoactive substances during the attack. Spanning 24 months post-trauma with three major assessment points, the protocol integrates clinical assessments, wearable sensors, MRI imaging, endocrine markers, and qualitative interviews.",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "observational",
+      "substances": [
+        "other"
+      ],
+      "added_at": "2026-09-20T11:39:55.846587+00:00"
+    },
+    {
+      "title": "Intravenous Ketamine for Treatment-Resistant Depression: A Case Report From a Public Hospital in Argentina.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42762051/",
+      "source": "PubMed",
+      "date": "2026-06-01",
+      "authors": [
+        "Dines Micaela",
+        "Bamondez Paloma",
+        "Montenegro Micaela"
+      ],
+      "doi": "",
+      "summary_en": "Case report of a 41-year-old male with treatment-resistant depression treated with intravenous ketamine at an Argentine public hospital—the first documented case in this setting. Subanesthetic ketamine shows promise for severe depression with rapid antidepressant and antisuicidal effects. Report details diagnostic process, treatment protocol, outcomes, and implementation considerations.",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "case_report",
+      "substances": [
+        "ketamine"
+      ],
+      "added_at": "2026-09-20T11:39:55.846587+00:00"
+    },
+    {
       "title": "Short-term ketamine interventions for depressive disorders: practical best-practice recommendations for psychiatrists using oral, subcutaneous, and nasal formulations.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42756688/",
       "source": "PubMed",

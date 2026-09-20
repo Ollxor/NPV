@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-19T11:18:13.562308+00:00",
+  "generated_at": "2026-09-20T11:42:20.270194+00:00",
   "items": [
     {
       "title": "Blinding integrity in psychedelic research: Evidence from a comparative randomized controlled trial of psilocybin, MDMA, and methylphenidate in healthy volunteers",
@@ -32,6 +32,100 @@
         "mdma"
       ],
       "added_at": "2026-07-09T10:03:12.956794+00:00"
+    },
+    {
+      "title": "A circuit dissection of perception-action decoupling in S-ketamine-induced hallucination-like states.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42763341/",
+      "source": "PubMed",
+      "date": "2026-09-19",
+      "authors": [
+        "Wang Dijia",
+        "Xu Junnan",
+        "Wang Zhaoran"
+      ],
+      "doi": "10.1038/s41380-026-03893-w",
+      "summaries": {
+        "en": "Mouse study combining behavioral tasks with neural imaging to investigate S-ketamine-induced hallucinations. Researchers identified two distinct striatal circuits: basolateral amygdala→striatum pathway drove false perceptual responses, while prefrontal cortex→striatum pathway controlled behavioral output. S-ketamine shifted striatal activity patterns, reducing neural integration precision. Results clarify circuit mechanisms underlying perception-action decoupling in hallucinatory states.",
+        "sv": "Möss-studie som kombinerade beteendeprov med neural avbildning för att undersöka S-ketamin-inducerade hallucinationer. Forskare identifierade två distinkta striata-kretsar: basolateral amygdala→striatum-vägen drev falska perceptuella svar, medan prefrontal cortex→striatum-vägen kontrollerade beteendeutgång. S-ketamin skiftade striata aktivitetsmönster och minskade neural integrationsprecision. Resultaten klarläggde kretsmekanismer bakom perception-handling-avkoppling.",
+        "no": "Musestudi som kombinerte atferdstester med nevralt avbildning for å undersøke S-ketamin-induserte hallusinasjoner. Forskere identifiserte to distinkte striata-kretser: basolateral amygdala→striatum-banen drev falske perseptuelle svar, mens prefrontal cortex→striatum-banen kontrollerte atferdsuttrykk. S-ketamin endret striata aktivitetsmønstre og reduserte nevralt integreringspresisjons. Resultatene presiserte kretsmekanismer bakom persepsjon-handling-frakopling.",
+        "da": "Musestudie kombineret adfærdstests med neural afbildning for at undersøge S-ketamin-inducerede hallucinationer. Forskere identificerede to adskilte striata-kredsløb: basolateral amygdala→striatum-banen fremkaldte falske perceptuelle reaktioner, mens præfrontal cortex→striatum-banen kontrollerede adfærdsudtryk. S-ketamin skiftede striata aktivitetsmønstre og reducerede neural integrationspræcision. Resultaterne præciserede kredsløbsmekanismer bag perseption-handling-frakoblingen.",
+        "fi": "Hiirillä suoritettu tutkimus, jossa yhdistettiin käyttäytymistestejä hermosignaalin kuvantamiseen S-ketamiinin aiheuttamien hallusinaatioiden tutkimiseksi. Tutkijat tunnistivat kaksi erillistä striata-piiriä: basolateral amygdala→striatum-rata aiheutti väärät havainnot, kun taas prefrontaalinen cortex→striatum-rata kontrolloi käyttäytymisen ilmaisua. S-ketamiini muutti striata-aktiviteetin kuvioita ja vähensi hermoston integroinnin tarkkuutta. Tulokset selventävät piirien mekanismeja.",
+        "is": "Músstúdi sem sameinaði hegðunarpróf með taugamyndun til að rannsaka S-ketamín-framkallaðar hallúsínasir. Vísindamenn skilgreindu tvær aðskildar striata-hringrásir: basolateral amygdala→striatum-leið kom af stað röngum skynjunarviðbrögðum, en prefrontal cortex→striatum-leið stjórnaði hegðunarútfærslum. S-ketamín breytti striata-starfsemi og minnkaði nákvæmni taugasamþættingar. Niðurstöður skýra hringrásamekanisma skynjunar-hegðunarfrátengslu.",
+        "et": "Hiirtega tehtud uuringus kombineeriti käitumisteste neuraalsete kuvamismeetoditega S-ketamiini põhjustatud hallutsinatsiooni uurimiseks. Teadlased määratlesid kaks erinevat striata-ahelat: basolateraalne amügdaal→striatum-tee põhjustas valesid tajutusvastuseid, samas kui prefrontaalne ajukoor→striatum-tee kontrollis käitumise väljendamist. S-ketamiin muutis striata-aktiivsuse mustreid ja vähendas neuraalsete süsteemide integratsioon täpsust.",
+        "lv": "Peles pētījums, kurā apvienoti uzvedības testi ar neirālo attēlošanu, lai izpētītu S-ketamīna izraisītās halucinācijas. Pētnieki identificēja divas atšķirīgas striata ķēdes: bazolaterālā amigdala→striatum ceļš izraisīja nepareizas uztves atbildes, savukārt prefrontālā garozā→striatum ceļš kontrolēja uzvedības izpausmi. S-ketamīns mainīja striata aktivitātes modeļus un samazināja neirālo integrācijas precizitāti. Rezultāti skaidro ķēžu mehānismus.",
+        "lt": "Pelių tyrimas, kuriame buvo sujungti elgesio testai su neuraliniu vaizdu siekiant ištirti S-ketamino sukeltas halucinacijas. Mokslininkai nustatė dvi skirtingas striata grandines: basolateralinė amigdala→striatum takais sukeliami klaidingi suvokimo atsakai, o prefrontalioji žievė→striatum takas kontroliavo elgesio išraišką. S-ketaminas pasikeitė striata veiklos šablonus ir sumažino neurinio integravimo tikslumą. Rezultatai paaiškina grandinių mechanizmus."
+      },
+      "notable": false,
+      "notable_reasons": null,
+      "relevance_score": 4,
+      "study_type": "preclinical",
+      "substances": [
+        "ketamine"
+      ],
+      "added_at": "2026-09-20T11:39:55.846587+00:00"
+    },
+    {
+      "title": "Psychedelics and suicidality: A double-edged sword - risks, mechanisms, and moving forward.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42762543/",
+      "source": "PubMed",
+      "date": "2026-09-19",
+      "authors": [
+        "Mallevays Maia",
+        "Berkovitch Lucie"
+      ],
+      "doi": "10.1016/j.euroneuro.2026.113878",
+      "summaries": {
+        "en": "Psychedelics and suicidality: A double-edged sword - risks, mechanisms, and moving forward.",
+        "sv": "Psychedelics and suicidality: A double-edged sword - risks, mechanisms, and moving forward.",
+        "no": "Psychedelics and suicidality: A double-edged sword - risks, mechanisms, and moving forward.",
+        "da": "Psychedelics and suicidality: A double-edged sword - risks, mechanisms, and moving forward.",
+        "fi": "Psychedelics and suicidality: A double-edged sword - risks, mechanisms, and moving forward.",
+        "is": "Psychedelics and suicidality: A double-edged sword - risks, mechanisms, and moving forward.",
+        "et": "Psychedelics and suicidality: A double-edged sword - risks, mechanisms, and moving forward.",
+        "lv": "Psychedelics and suicidality: A double-edged sword - risks, mechanisms, and moving forward.",
+        "lt": "Psychedelics and suicidality: A double-edged sword - risks, mechanisms, and moving forward."
+      },
+      "notable": false,
+      "notable_reasons": null,
+      "relevance_score": 4,
+      "study_type": "review",
+      "substances": [
+        "lsd",
+        "psilocybin",
+        "other"
+      ],
+      "added_at": "2026-09-20T11:39:55.846587+00:00"
+    },
+    {
+      "title": "Single ayahuasca administration mitigates long-term behavioral and neurochemical effects of early-life stress in rats.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42762335/",
+      "source": "PubMed",
+      "date": "2026-09-19",
+      "authors": [
+        "Lodetti Guilherme",
+        "Redivo Henrique",
+        "Teixeira Amanda Gomes"
+      ],
+      "doi": "10.1007/s00702-026-03287-w",
+      "summaries": {
+        "en": "Rat study examining ayahuasca's effects on depression induced by early maternal deprivation. Single ayahuasca dose reversed anxiety and depressive-like behaviors and normalized neurochemical markers (serotonin, dopamine, BDNF, antioxidant enzymes) in frontal cortex, hippocampus, and striatum. Results suggest classical psychedelics may offer rapid therapeutic potential for depression resistant to conventional treatments.",
+        "sv": "Råttstudie som undersökte ayahuascas effekter på depression framkallad av tidig modersseparation. En enda ayahuascados reverserade ängstnivåer och depressionsliknande beteenden samt normaliserade neurokemsiska markörer (serotonin, dopamin, BDNF, antioxidantenzym) i prefrontal cortex, hippocampus och striatum. Resultaten tyder på att klassiska psykedelika kan erbjuda snabb terapeutisk potential för depressioner resistenta mot konventionell behandling.",
+        "no": "Rottestudie som undersøkte ayahuascas effekter på depresjon indusert av tidlig moderseparasjon. En enkelt ayahuascadose reverserte angst- og depresjonslignende atferd og normaliserte nevrokjemiske markører (serotonin, dopamin, BDNF, antioksidantenzym) i prefrontal cortex, hippocampus og striatum. Resultatene tyder på at klassiske psykedelika kan tilby rask terapeutisk potensial for depresjon resistent mot konvensjonell behandling.",
+        "da": "Rotteforsøg, der undersøgte ayahuascas effekter på depression induceret af tidlig moderadskillelse. En enkelt ayahuascadosis omvendte angst- og depressionsrelateret adfærd og normaliserede neurokediske markører (serotonin, dopamin, BDNF, antioksidantenzyme) i præfrontal cortex, hippocampus og striatum. Resultaterne tyder på, at klassiske psykedelika kan give hurtig terapeutisk potentiale for depression modstandsdygtig over for konventionel behandling.",
+        "fi": "Rottatutkimus, jossa tutkittiin ayahuascan vaikutuksia varhaisen äitien erottelun aiheuttamaan masennukseen. Yksittäinen ayahuascaannos vähensi ahdistus- ja masennuskaltaista käyttäytymistä ja normalisoi neurokemiallisia merkkiaineita (serotoniini, dopamiini, BDNF, antioksidanttientzyymiit) prefrontaalisessa kuoressa, hippocampuksessa ja striatumissa. Tulokset viittaavat siihen, että klassiset psykedeelit voivat tarjota nopeaa terapeuttista potentiaalia perinteisille hoitoille vastustuskykyiseen masennukseen.",
+        "is": "Rotnarannsókn sem kannaði áhrif ayahuasca á þunglyndi sem framkallað var með snemma aðskilnaði frá móður. Stakur skammtur ayahuasca sneri við kvíða- og þunglyndissvipuðum hegðun og eðlæði efnafræðilega merki (serótóníni, dópamín, BDNF, antíoxidantsensor) í forhluta heilans, hippocampus og striatum. Niðurstöðurnar gefa til kynna að klassísk sálfræðiefni geti boðið upp á hraðan þerapeutískan möguleika fyrir þunglyndi sem þolir ekki hefðbundna meðferð.",
+        "et": "Rottide uuring, mis uuris ayahuasca mõjusid varajasel emast eraldamisel põhjustatud depressioonile. Üksik ayahuasca annus pöördis ümber ärevus- ja depressiooniga sarnast käitumist ning normaliseeris neurokemilisi markereid (serotoniini, dopamiin, BDNF, antioksüdantsed ensüümid) prefrontaalses koores, hippocampuses ja striatumis. Tulemused viitavad sellele, et klassikalised psühhedeelikad võivad pakkuda kiiret teraapilist potentsiaali depressiooni jaoks, mis on resistentne tavapärasele ravile.",
+        "lv": "Žurķu pētījums, kurā pētīja ayahuaskas ietekmi uz depresiju, ko izraisīja agrīna mātes atdalīšana. Viena ayahuaskas doza apgriezā trauksmes un depresijas līdzīgu uzvedību un normalizēja neirokīmiskos marķierus (serotonīnu, dopamīnu, BDNF, antioksidantu enzīmus) prefrontālā garozā, hipokampā un striātumā. Rezultāti liecina, ka klasiskie psihedeliki var piedāvāt ātru terapeitisko potenciālu depresijā, kas ir rezistenta pret konvencionālo ārstēšanu.",
+        "lt": "Žiurkių tyrimas, kuriame buvo tiriami ayahuascos poveikiai depresijai, sukeltai ankstyvam motinos atskyrimo modeliui. Viena ayahuascos doza neutralizavo nerimą ir depresijos panašų elgesį bei normalizavo neurochemines žymeklius (serotonį, dopaminą, BDNF, antioksidacinius fermentus) prefrontalinėje žievėje, hipokampe ir striatume. Rezultatai rodo, kad klasinės psichedelinės medžiagos gali suteikti greitą terapinį potencialą depresijai, atspiriai prieš įprastą gydymą."
+      },
+      "notable": false,
+      "notable_reasons": null,
+      "relevance_score": 4,
+      "study_type": "preclinical",
+      "substances": [
+        "ayahuasca"
+      ],
+      "added_at": "2026-09-20T11:39:55.846587+00:00"
     },
     {
       "title": "Serotonergic psychedelics and amphetamine shift male rat ultrasonic vocalizations toward call patterns associated with positively valenced states.",
@@ -425,6 +519,78 @@
       "added_at": "2026-09-16T11:52:56.874622+00:00"
     },
     {
+      "title": "Cognitive effects of ketamine and esketamine treatment for major depressive and bipolar disorder: a systematic review.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42762641/",
+      "source": "PubMed",
+      "date": "2026-09-14",
+      "authors": [
+        "Xiao Kelei",
+        "Woo Yealin",
+        "Dri Christine E"
+      ],
+      "doi": "10.1016/j.psychres.2026.117456",
+      "summaries": {
+        "en": "Systematic review of 22 studies (n=2,441) examining cognitive effects of ketamine and esketamine in major depression and bipolar disorder. Single-dose ketamine/esketamine showed inconsistent effects on cognition in RCTs, with some improvements but also impaired memory and processing speed. Open-label maintenance studies reported improvements in memory, attention, and processing speed, though lacking control group comparisons.",
+        "sv": "Systematisk granskning av 22 studier (n=2,441) om kognitiva effekter av ketamin och esketamin vid depressiv sjukdom och bipolär störning. Engångsdoser visade inkonsistenta effekter i RCT-studier, med vissa förbättringar men också försämrad minne och bearbetningshastighet. Öppna underhållsstudier rapporterade kognitiva förbättringar, men saknade kontrollgruppssammanlikningar.",
+        "no": "Systematisk gjennomgang av 22 studier (n=2.441) om kognitive effekter av ketamin og esketamin ved depressiv lidelse og bipolar lidelse. Enkeltdoser viste ukonsekvente effekter i RCT-studier, med enkelte forbedringer men også nedsatt hukommelse og prosessering. Åpne vedlikeholdsstudier rapporterte kognitive forbedringer, men manglet kontrollgruppesammenligninger.",
+        "da": "Systematisk oversigt over 22 studier (n=2.441) om kognitive effekter af ketamin og esketamin ved depression og bipolar lidelse. Enkeltdoser viste ukonsekvente effekter i RCT-studier, med nogle forbedringer men også svækket hukommelse og processering. Åbne vedligeholdelsesstudier rapporterede kognitive forbedringer, men manglede kontrolgruppesammenligninger.",
+        "fi": "Järjestelmällinen katsaus 22 tutkimuksesta (n=2.441) ketamiinin ja esketamiinin kognitiivisista vaikutuksista masennustilassa ja bipolaarisessa häiriössä. Yksittäiset annokset osoittivat epäjohdonmukaisia vaikutuksia satunnaistetuissa kontrolloituissa tutkimuksissa, joissa oli joitakin parannuksia mutta myös heikentynyt muisti ja käsittelynopeus. Avoimissa ylläpitäväissä tutkimuksissa raportoitiin kognitiivisia parannuksia ilman kontrolliryhmävertailuja.",
+        "is": "Kerfræðileg yfirlit 22 rannsókna (n=2.441) um vitræna áhrif ketamíns og esketamíns við þungaflórð og tvíhnapparaskanir. Einblösk skammtar sýndu ósamkvæm áhrif í handahófskenndum stýrðum rannsóknum, með einhverjum batnun en einnig veikri minni og afkastahraða. Opin viðhaldsnálganir greindi frá vitrænum batnun án samanburðar við stjórnhópa.",
+        "et": "22 uuringu (n=2.441) süstemaatiline ülevaade ketamiini ja esketamiini kognitiivsete mõjude kohta suure depressiooni ja bipolaarhaiguse korral. Ühekordne annused näitasid juhuslikult kontrollitud uuringutes vastuolulisi mõjusid: osalised parandused, kuid ka halveneb mälu ja töötlemiskiirus. Avalikel uuringutel teatati kognitiivsest paranemisest, kuid puudusid kontrollgrupi võrdlused.",
+        "lv": "Sistemātisks pārskats par 22 pētījumiem (n=2.441) par ketamīna un esketamīna kognitīvajiem efektiem pie depresijas un bipolārā traucējuma. Vienas devas norādīja nekonsekventes iedarbības uz kognitīvajiem testiem randomizētos kontrolētos pētījumos ar dažiem uzlabojumiem, bet arī pasliktinātu atmiņu. Atvērti uzturēšanas pētījumi norādīja kognitīvus uzlabojumus bez kontrolgrupas salīdzinājuma.",
+        "lt": "Sisteminė 22 tyrimų (n=2.441) apžvalga apie ketamino ir eskitamino kognityvius efektus esant pagrindinei deprecijai ir bipoliarinei ligai. Vienos dozės parodė nekonsistentžius efektus atsitiktinėse kontroliuotuose tyrimuose su kai kuriomis pagerinimais, bet ir pablogėjusia atmintimi. Atviri palaikomieji tyrimai pranešė apie kognityvius patobulėjimus be kontrolinės grupės palyginimo."
+      },
+      "notable": true,
+      "notable_reasons": {
+        "en": "Systematic review of 22 clinical studies (n=2,441) examining cognitive outcomes across RCTs and open-label trials of ketamine/esketamine for MDD, BD, and TRD—a clinically significant gap in the literature.",
+        "sv": "Systematic review of 22 clinical studies (n=2,441) examining cognitive outcomes across RCTs and open-label trials of ketamine/esketamine for MDD, BD, and TRD—a clinically significant gap in the literature.",
+        "no": "Systematic review of 22 clinical studies (n=2,441) examining cognitive outcomes across RCTs and open-label trials of ketamine/esketamine for MDD, BD, and TRD—a clinically significant gap in the literature.",
+        "da": "Systematic review of 22 clinical studies (n=2,441) examining cognitive outcomes across RCTs and open-label trials of ketamine/esketamine for MDD, BD, and TRD—a clinically significant gap in the literature.",
+        "fi": "Systematic review of 22 clinical studies (n=2,441) examining cognitive outcomes across RCTs and open-label trials of ketamine/esketamine for MDD, BD, and TRD—a clinically significant gap in the literature.",
+        "is": "Systematic review of 22 clinical studies (n=2,441) examining cognitive outcomes across RCTs and open-label trials of ketamine/esketamine for MDD, BD, and TRD—a clinically significant gap in the literature.",
+        "et": "Systematic review of 22 clinical studies (n=2,441) examining cognitive outcomes across RCTs and open-label trials of ketamine/esketamine for MDD, BD, and TRD—a clinically significant gap in the literature.",
+        "lv": "Systematic review of 22 clinical studies (n=2,441) examining cognitive outcomes across RCTs and open-label trials of ketamine/esketamine for MDD, BD, and TRD—a clinically significant gap in the literature.",
+        "lt": "Systematic review of 22 clinical studies (n=2,441) examining cognitive outcomes across RCTs and open-label trials of ketamine/esketamine for MDD, BD, and TRD—a clinically significant gap in the literature."
+      },
+      "relevance_score": 4,
+      "study_type": "review",
+      "substances": [
+        "ketamine"
+      ],
+      "added_at": "2026-09-20T11:39:55.846587+00:00"
+    },
+    {
+      "title": "The Nova Protocol: a comprehensive multimodal longitudinal study among civilian survivors of a mass trauma event.",
+      "url": "https://doi.org/10.1080/20008066.2026.2721729",
+      "source": "Europe PMC",
+      "date": "2026-09-14",
+      "authors": [
+        "Admon R",
+        "Netzer O",
+        "Magal N"
+      ],
+      "doi": "10.1080/20008066.2026.2721729",
+      "summaries": {
+        "en": "The Nova Protocol is a longitudinal observational study of survivors from the October 7, 2023 Nova festival attack in southern Israel, which killed over 370 civilians. The study leverages this tragic event to prospectively examine trauma processing, particularly in survivors exposed to psychoactive substances during the attack. Spanning 24 months post-trauma with three major assessment points, the protocol integrates clinical assessments, wearable sensors, MRI imaging, endocrine markers, and qualitative interviews.",
+        "sv": "Nova Protocol är en longitudinell observationsstudie av överlevande från attacken på Nova-festivalen den 7 oktober 2023 i södra Israel, där över 370 civila omkom. Studien använder denna tragiska händelse för att prospektivt undersöka traumabearbetning, särskilt hos överlevande exponerade för psykedelika under attacken. Studien sträcker sig över 24 månader med tre huvudsakliga tidpunkter och integrerar kliniska bedömningar, bärbara sensorer, MRI-bildning, endokrina markörer och kvalitativa intervjuer.",
+        "no": "Nova Protocol er en longitudinell observasjonsstudie av overlevende fra angrepet på Nova-festivalen 7. oktober 2023 i Sør-Israel, der over 370 sivile ble drept. Studien utnytter denne tragiske hendelsen til å prospektivt undersøke traumabehandling, særlig hos overlevende eksponert for psykedelika under angrepet. Studien strekker seg over 24 måneder med tre hovedvurderingspunkter og integrerer kliniske vurderinger, bærbare sensorer, MR-avbildning, endokrine markører og kvalitative intervjuer.",
+        "da": "Nova Protocol er et longitudinelt observationsstudie af overlevende fra angrebet på Nova-festivalen den 7. oktober 2023 i det sydlige Israel, hvor over 370 civile blev dræbt. Studien udnytter denne tragiske begivenhed til prospektivt at undersøge traumabehandling, især hos overlevende eksponeret for psykedelika under angrebet. Studien strækker sig over 24 måneder med tre hovedvurderingspunkter og integrerer kliniske vurderinger, bærbare sensorer, MR-billeddannelse, endokrine markører og kvalitative interviews.",
+        "fi": "Nova Protocol on pitkittäistutkimus Nova-festivaalin hyökkäyksen 7.10.2023 selviytyjistä Etelä-Israelissa, jossa kuoli yli 370 siviilistä. Tutkimus hyödyntää tätä traagista tapahtumaa tutkiakseen prospektiivisesti traumankäsittelyä, erityisesti selviytyjillä, jotka olivat altistuneet psykedeleille hyökkäyksen aikana. Tutkimus kattaa 24 kuukautta kolmella pääarviointipisteellä ja integraatio kliinisiä arvioita, kannettavia sensoreita, MRI-kuvantamista, endokriinisia markkereita ja laadullisia haastatteluja.",
+        "is": "Nova Protocol er langfengd athugunarstuðla um lifendur árásarinnar á Nova hátíðinni 7. október 2023 í Suður-Ísrael, þar sem yfir 370 borgarar féllu. Rannsóknin nýtir þessa harmræðu atburði til að rannsaka framvindu um átroska á framtíðarstig, sérstaklega hjá lifendum sem voru fyrir áhrifum psýkedelíka við árásina. Rannsóknin nær yfir 24 mánuði með þremur meginmælingartímapunktum og felur í sér klíníska mat, flyttanleg skynjara, MRI-myndun, endókrín merki og eigindleg viðtöl.",
+        "et": "Nova Protocol on pikiuuriline vaatlusuuringut Nova festivali rünnakust 7. oktoobril 2023 Lõuna-Iisraelis, kus hukkus üle 370 tsiviilisiku. Uuring kasutab seda traagilist sündmust, et prospektiivselt uurida traumaprotsessimist, eriti pärast psühhedeelikaid saanud ellujäänutel. Uuring kestab 24 kuud kolme peamise hindamisajahetke ja hõlmab kliinilisi hinnanguid, kannatavaid andureid, MRI-kujutamist, endokriinseid markereid ja kvalitatiivset intervjueerimist.",
+        "lv": "Nova protokols ir garajlaicīga novērošanas pētījuma par Nova festivāla uzbrukuma izdzīvotājiem 2023. gada 7. oktobrī Dienvidisraēlā, kurā gāja bojā vairāk nekā 370 civiliedzīvotāji. Pētījums izmanto šo traģisko notikumu, lai prospektīvi pārbaudītu trauma apstrādi, īpaši izdzīvotājiem, kuri bija pakļauti psihedelikiem uzbrukuma laikā. Pētījums ilgst 24 mēnešus ar trim galvenajiem novērtēšanas punktiem un ietver klīniskus novērtējumus, valkājamus sensorus, MRI attēlošanu, endokrīnus marķierus un kvalitatīvus intervijus.",
+        "lt": "Nova protokolas yra išplėstinis stebimasis tyrimas apie Nova festivalio atakos 2023 m. spalio 7 d. Pietų Izraelyje išgyvenusiuosius, kai žuvo daugiau nei 370 civilių. Tyrimas pasinaudoja šiuo tragiškuoju įvykiu, norint prospektyviai tirti traumos apdorojimą, ypač išgyvenusiųjų, kurie atakos metu buvo veikti psichedelinių medžiagų. Tyrimas trunka 24 mėnesius su trimis pagrindiniais vertinimo punktais ir apima klinikinį vertinimą, nešiojamus jutiklius, MRI vaizdavimą, endokrininių žymeklių ir kokybinį interviu."
+      },
+      "notable": false,
+      "notable_reasons": null,
+      "relevance_score": 4,
+      "study_type": "observational",
+      "substances": [
+        "other"
+      ],
+      "added_at": "2026-09-20T11:39:55.846587+00:00"
+    },
+    {
       "title": "Definium Notches Second Positive Phase 3 in Generalised Anxiety Disorder",
       "url": "https://psychedelicalpha.com/news/definium-notches-second-positive-phase-3-in-generalised-anxiety-disorder/",
       "source": "Psychedelic Alpha",
@@ -664,6 +830,39 @@
         "other"
       ],
       "added_at": "2026-09-11T11:38:30.978989+00:00"
+    },
+    {
+      "title": "A national approach in a European context: Multidisciplinary and multiprofessional recommendations on the clinical use of psychedelic substances.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42761569/",
+      "source": "PubMed",
+      "date": "2026-09-09",
+      "authors": [
+        "Seybert Carolina",
+        "Pires Ana Matos",
+        "Madeira Luís"
+      ],
+      "doi": "10.1016/j.nsa.2026.107028",
+      "summaries": {
+        "en": "Portuguese professional associations (pharmacists, psychologists, physicians) collaborated with ethics authorities and researchers to develop consensual clinical recommendations for psychedelic-assisted treatment. The statement addresses informed consent, medical/psychological interventions, ethics, and regulation for psilocybin, MDMA, and ketamine therapies, emphasizing multidisciplinary cooperation.",
+        "sv": "Portugisiska yrkesföreningar (apotekare, psykologer, läkare) samarbetade med etiska myndigheter och forskare för att utveckla kliniska rekommendationer för psykedelika-assisterad behandling. Uttalandet behandlar informerat samtycke, medicinska/psykologiska interventioner, etik och reglering för psilocybin-, MDMA- och ketaminterapi.",
+        "no": "Portugisiske fagforeninger (apotekere, psykologer, leger) samarbeidet med etiske myndigheter og forskere for å utvikle kliniske anbefalinger for psykedelika-assistert behandling. Erklæringen adresserer informert samtykke, medisinske/psykologiske intervensjoner, etikk og regulering for psilocybin-, MDMA- og ketaminterapi.",
+        "da": "Portugisiske fagforeninger (farmaceuter, psykologer, læger) samarbejdede med etiske myndigheder og forskere for at udvikle kliniske anbefalinger for psykedelika-assisteret behandling. Udtalelsen behandler informeret samtykke, medicinske/psykologiske interventioner, etik og regulering for psilocybin-, MDMA- og ketaminterapi.",
+        "fi": "Portugalilaisten ammattiyhdistysten (apteekkarit, psykologit, lääkärit) ja eettisten viranomaisten yhteistyö johti psykedeeleihin perustuvien hoitojen kliinisiin suosituksiin. Lausunto käsittelee tietoista suostumusta, lääketieteellisiä ja psykologisia interventioita, etiikkaa sekä psilosybiini-, MDMA- ja ketamiinihoidon sääntelyä.",
+        "is": "Portúgölsk fagfélög (lyfjafræðingar, sálfræðingar, læknar) og siðarefnd unnu saman að klínísku tilmælum fyrir geðdrosum-aðstoðaðri meðferð. Yfirlýsingin fjallar um upplýsta samþykki, lyf- og sálfræðilegar inngrip, siðfræði og reglur fyrir psýlósýbín-, MDMA- og ketamínmeðferð.",
+        "et": "Portugali kutsealad (farmaatsid, psühholoogid, arstid) koostööd eetikanõuetega ja uurijatega viis psühhedeeliumiga abistatud ravi kliiniliste soovitusteni. Avaldus käsitleb teadusliku nõusoleku, meditsiiniliste ja psühholoogiliste sekkumiste, eetika ja psüllosübiini-, MDMA- ja ketamiini ravi reguleerimist.",
+        "lv": "Portugāles profesionālo asociāciju (farmaceitu, psihologu, ārstu) sadarbība ar ētikas iestādēm un pētniekiem rezultējās psihedēliku palīdzības terapijas klīniskajos ieteikumos. Paziņojums skar informētu piekrišanu, medicīniskās un psihologiskās iejaukšanās, ētiku un psilosibīna, MDMA un ketamīna terapijas regulējumu.",
+        "lt": "Portugalijos profesinės asociacijos (vaistininkai, psichologai, gydytojai) bendradarbiavo su etikos institucijomis ir tyrėjais, sukurdamos psichedelinių medžiagų pagalboje atliekamai terapijai skirtus klininius rekomendacijas. Pareiškimas aptaria informuotą sutikimą, medicininius ir psichologinius įsikišimus, etiką bei psilocibino, MDMA ir ketamino terapijos reguliavimą."
+      },
+      "notable": false,
+      "notable_reasons": null,
+      "relevance_score": 4,
+      "study_type": "other",
+      "substances": [
+        "psilocybin",
+        "mdma",
+        "ketamine"
+      ],
+      "added_at": "2026-09-20T11:39:55.846587+00:00"
     },
     {
       "title": "Ketamine-Induced Dissociation as an Ethical Signal, Not a Side Effect: Context as the Determinant of Clinical Duties Under Beneficence and Non-maleficence.",
@@ -1766,201 +1965,6 @@
       "study_type": "qualitative",
       "substances": [
         "psilocybin"
-      ],
-      "added_at": "2026-08-28T18:53:07.862220+00:00"
-    },
-    {
-      "title": "Real-world clinical practice, effectiveness and safety of esketamine nasal spray in major depressive disorder patients: a French prospective cohort (ELLIPSE study).",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42682977/",
-      "source": "PubMed",
-      "date": "2026-08-31",
-      "authors": [
-        "Llorca Pierre-Michel",
-        "Sauvaget Anne",
-        "Olié Emilie"
-      ],
-      "doi": "10.1177/20451253261463652",
-      "summaries": {
-        "en": "ELLIPSE, a French prospective cohort study of 200 patients with treatment-resistant depression, examined esketamine nasal spray effectiveness in routine clinical practice over 12 months. Mean MADRS scores decreased from 31.9 to 12.4; response and remission rates (55.2% and 33.6% respectively) plateaued by month 2. Adverse events occurred in 65.7% of patients, primarily dissociative states (28.0%) and transient blood pressure increases (11.6%).",
-        "sv": "ELLIPSE, en fransk prospektiv kohorstudie med 200 patienter med behandlingsresistent depression, undersökte effektiviteten av esketamin-nässpray i rutinmässig klinisk praktik under 12 månader. Genomsnittliga MADRS-värden minskade från 31,9 till 12,4; respons- och remissionsgrader (55,2% respektive 33,6%) stabiliserades vid månad 2. Biverkningar förekom hos 65,7% av patienterna, främst dissociativa tillstånd (28,0%) och temporära blodtrycksökningar (11,6%).",
-        "no": "ELLIPSE, en fransk prospektiv kohortstudie med 200 pasienter med behandlingsresistent depresjon, undersøkte effektiviteten av esketamin-nesespray i rutineklinisk praksis over 12 måneder. Gjennomsnittlige MADRS-skårer falt fra 31,9 til 12,4; respons- og remisjonrater (55,2% henholdsvis 33,6%) nådde platå ved måned 2. Bivirkninger forekom hos 65,7% av pasientene, mest dissociative tilstander (28,0%) og forbigående blodtrykkøkninger (11,6%).",
-        "da": "ELLIPSE, en fransk prospektiv kohortstudie med 200 patienter med behandlingsresistent depression, undersøgte esketamin-næsespray's effektivitet i rutineklinisk praksis over 12 måneder. Gennemsnitlige MADRS-scoringer faldt fra 31,9 til 12,4; respons- og remissionsrater (55,2% henholdsvis 33,6%) stabiliserede sig ved måned 2. Bivirkninger forekom hos 65,7% af patienterne, primært dissociative tilstande (28,0%) og forbigående blodtryksstigninger (11,6%).",
-        "fi": "ELLIPSE, ranskalainen prospektiivinen kohorttitutkimus 200 hoitoon vastustavan masennuksen potilaan kanssa, tutki esketamiinin nenäsuihkeen tehokkuutta rutiinilääkärikäytännössä 12 kuukauden ajan. MADRS-pisteet laskivat keskimäärin 31,9:stä 12,4:ään; vastaus- ja remissioasteet (55,2% ja 33,6%) saavuttivat tasangon kuukauden 2 kohdalla. Haittavaikutuksia ilmeni 65,7%:lla potilaista, pääasiassa dissosiatatiiviset tilat (28,0%) ja ohimenevät verenpaineen nousut (11,6%).",
-        "is": "ELLIPSE, frönsk forgangsstuðla með 200 sjúklingum með meðferðarþolna þunglyndi, skoðaði verkun esketamín-nasúðs í venjulegri klínískri iðkun yfir 12 mánuði. Meðaltal MADRS-stiga lækkaði úr 31,9 niður í 12,4; svörun og batatilföll (55,2% og 33,6%) náðu hámarki við mánuð 2. Aukaverkanir komu fram hjá 65,7% sjúklinga, aðallega sundrunarflói (28,0%) og tímabundin blóðþrýstingshækkun (11,6%).",
-        "et": "ELLIPSE, prantsuslik prospektiivne kohorduuringuuurimus 200 raviravimite suhtes resistentse depressiooni patsientiga, uuris esketamiin-ninaspreid tegelikus kliinilises praktikas 12 kuukauda. MADRS-skoorid vähenesid keskmiselt 31,9-lt 12,4-le; vastuse ja remissiooni määrad (55,2% ja 33,6%) stabiliseerusid 2. kuul. Kõrvalnähtuseid esines 65,7%-l patsientidest, peamiselt dissotsiatiivsed seisundid (28,0%) ja ajutised vererõhu tõusjad (11,6%).",
-        "lv": "ELLIPSE, Francijas prospektīvs kohortas pētījums ar 200 pacientiem ar ārstēšanai rezistentām depresiju, pārbaudīja esketamīna deguna spreja efektivitāti parastajā klīniskajā praksē 12 mēnešus. MADRS vidējie rādītāji samazinājās no 31,9 līdz 12,4; atbildes un remisijas likmes (55,2% attiecīgi 33,6%) stabilizējās 2. mēnesī. Blakusparādības radās 65,7% pacientu, galvenokārt dissociatīvie stāvokļi (28,0%) un pārejošs arteriālā spiediena paaugstinājums (11,6%).",
-        "lt": "ELLIPSE, Prancūzijos prospektyvinė kohortos studija su 200 pacientais, kurie turi gydymui rezistentinę depresiją, ištyrė esketamino nosies puršo veiksmingumą įprastoje klininėje praktikoje per 12 mėnesių. MADRS vidurkiai sumažėjo nuo 31,9 iki 12,4; atsako ir remisijos lygis (atitinkamai 55,2% ir 33,6%) pasistabilizavo 2 mėnesį. Nepageidaujami reiškiniai atsirado 65,7% pacientų, dažniausiai dissociacinės būsenos (28,0%) ir laikinai padidėjęs kraujo spaudimas (11,6%)."
-      },
-      "notable": false,
-      "notable_reasons": null,
-      "relevance_score": 4,
-      "study_type": "observational",
-      "substances": [
-        "ketamine"
-      ],
-      "added_at": "2026-09-03T11:29:23.388921+00:00"
-    },
-    {
-      "title": "Pharmacokinetics, pharmacodynamics and safety of",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42671902/",
-      "source": "PubMed",
-      "date": "2026-08-31",
-      "authors": [
-        "van der Heijden Katelijne V",
-        "Makai-Bölöni Soma",
-        "Inamdar Amir"
-      ],
-      "doi": "10.1177/02698811261473451",
-      "summaries": {
-        "en": "Randomised controlled study examining DMT administration in healthy volunteers via 90-minute and escalating-dose intravenous infusions. Doses ranged from 0.10–0.81 mg/min (part 1) to 3.64–4.93 mg/min (part 2). Psychedelic effects emerged at ~35 ng/mL plasma concentration. Smoking doubled DMT levels, likely due to monoamine oxidase inhibition. All adverse events were mild-moderate and self-limiting; two subjects discontinued due to anxiety. Moderate pharmacokinetic variability observed.",
-        "sv": "Randomiserad kontrollerad studie av DMT-administrering hos friska försökspersoner via 90-minuters och eskalerande intravenösa infusioner. Doserna varierade från 0,10–0,81 mg/min (del 1) till 3,64–4,93 mg/min (del 2). Psykedeliska effekter framträdde vid ~35 ng/mL plasmakoncentration. Rökning fördublade DMT-nivåerna, troligen via monoaminoxidasinhibering. Alla biverkningar var milda till måttliga och självbegränsande; två försökspersoner avbröt på grund av ångest. Måttlig farmakokinetisk variabilitet observerades.",
-        "no": "Randomisert kontrollert studie av DMT-administrering hos friske forsøkspersoner via 90-minutters og eskalerende intravenøse infusjoner. Dosene varierte fra 0,10–0,81 mg/min (del 1) til 3,64–4,93 mg/min (del 2). Psykedeliske effekter oppsto ved ~35 ng/mL plasmakonsentrasjon. Røyking doblet DMT-nivåer, sannsynligvis gjennom monoaminoksidase-inhibering. Alle bivirkninger var milde til moderate og selvbegrensende; to forsøkspersoner avbrøt på grunn av angst. Moderat farmakokinetisk variabilitet observert.",
-        "da": "Randomiseret kontrolleret studie af DMT-administration hos raske forsøgspersoner via 90-minutters og eskalerende intravenøse infusioner. Doserne varierede fra 0,10–0,81 mg/min (del 1) til 3,64–4,93 mg/min (del 2). Psykedeliske effekter opstod ved ~35 ng/mL plasmakoncentration. Rygning fordoblet DMT-niveauer, sandsynligvis via monoaminoxidase-hæmning. Alle bivirkninger var milde til moderate og selvbegrænsende; to forsøgspersoner afbrød på grund af angst. Moderat farmakokinetisk variabilitet observeret.",
-        "fi": "Satunnaistettu kontrolloitu tutkimus DMT-annostelusta terveille koehenkilöille 90-minuuttisten ja porrastetusti lisäävien laskimonsisäisten infuusioiden kautta. Annokset vaihtelivat 0,10–0,81 mg/min (osa 1) ja 3,64–4,93 mg/min (osa 2) välillä. Psykedeelisen vaikutukset ilmenivät ~35 ng/mL plasmapitoisuudella. Tupakointi kaksinkertaisti DMT-tasot, todennäköisesti monoamiinioksidaasin estämisen kautta. Kaikki haittavaikutukset olivat lieviä tai kohtalaisia ja itsestään rajoittuvia; kaksi koehenkilöä keskeyttivät ahdistuksen vuoksi. Kohtalaista farmakokineettista vaihtelua havaittiin.",
-        "is": "Tilrauningarfræðileg stýrð rannsókn á DMT-gjöf hjá heilbrigðum þátttakendum með 90 mínútna og stigvaxandi innæðri innfellingu. Skammtar voru frá 0,10–0,81 mg/min (hluti 1) til 3,64–4,93 mg/min (hluti 2). Sáleinkenni áhrif komu fram við ~35 ng/mL plasmastyrk. Reykingar tvöfölduðu DMT-stig, líklega með hemjun á monoamínoxýdasa. Allar aukaverkanir voru vægar til miðlungs og sjálfmörkuðu; tveir þátttakendur stöðvuðu vegna kvíða. Miðlungs lyfjafræðileg breytileiki sást.",
-        "et": "Randomiseeritud kontrollitud uuring DMT-manustamisest tervetele katseisikutele 90-minutiliste ja eskaleerivate veenisisese infusiooniga. Doosid varieerusid 0,10–0,81 mg/min (osa 1) ja 3,64–4,93 mg/min (osa 2) vahel. Psühhedeelsed efektid ilmnesid ~35 ng/mL plasmakontsentratsioonil. Suitsetamine kahekordistas DMT-tasemed, tõenäoliselt monoamiinoksüdaasi inhibeerimise kaudu. Kõik kõrvaltoimed olid kergea kuni keskmise intensiivsusega ja isepiiratavad; kaks katseisikut katkestasid ärevuse tõttu. Täheldati mõõdukat farmakokineetilist varieeruvust.",
-        "lv": "Randomizēts kontrolēts pētījums par DMT ievadīšanu veseliem dalībniekiem, izmantojot 90 minūšu un eskalējošas intravenozas infūzijas. Devas svārstījās no 0,10–0,81 mg/min (1. daļa) līdz 3,64–4,93 mg/min (2. daļa). Psihedēliski efekti parādījās aptuveni 35 ng/mL plazmas koncentrācijā. Smēķēšana dubultoja DMT līmeņus, iespējams, monoamīnoksidāzes inhibēšanas dēļ. Visas blakusparādības bija vieglas līdz mērenas un patstāvīgi ierobežotas; divi dalībnieki pārtrauca ārkārtējas trauksmes dēļ. Novērota mērena farmakokinētiska mainība.",
-        "lt": "Randomizuotas kontroliuojamas tyrimas apie DMT sušvirkštymą sveikiems savanoriams per 90 minučių ir didėjančias intravenines infuzijas. Dozės svyravo nuo 0,10–0,81 mg/min (1 dalis) iki 3,64–4,93 mg/min (2 dalis). Psichedeliniai efektai atsirado esant ~35 ng/mL plazmos koncentracijai. Rūkymas padvigubino DMT lygius, greičiausiai dėl monoamino oksidazės stabdymo. Visi nepageidaujami poveikiai buvo lengvi ar vidutinio sunkumo ir savaime ribojantys; du savanoriai nutraukė dėl sumaišties. Pastebėta vidutinė farmakokinetinė variabilumas."
-      },
-      "notable": true,
-      "notable_reasons": {
-        "en": "First-in-human study establishing optimal dosing regimen, PK/PD relationship, and safety profile for intravenous DMT administration in healthy volunteers.",
-        "sv": "First-in-human-studie som fastställer optimal dosschema, PK/PD-relation och säkerhetsprofil för intravenös DMT-administrering hos friska försökspersoner.",
-        "no": "First-in-human-studie som etablerer optimal doseringsskjema, PK/PD-forhold og sikkerhetsprofil for intravenøs DMT-administrering hos friske frivillige.",
-        "da": "First-in-human-studie, der etablerer optimal doseringsskema, PK/PD-forhold og sikkerhedsprofil for intravenøs DMT-administration hos raske frivillige.",
-        "fi": "First-in-human-tutkimus, joka määrittää optimaalisen annostusjärjestelmän, PK/PD-suhteen ja turvallisuusprofiilin intravenööselle DMT-antamiselle terveillä vapaaehtoisilla.",
-        "is": "First-in-human-rannsókn sem staðfestir ákjósanlegasta skammtaáætlun, PK/PD-tengsl og öryggissnið fyrir intravenósa DMT-gefingu hjá heilbrigðum sjálfboðaliðum.",
-        "et": "First-in-human-uuringu, mis määrab optimaalse annustamisskeemi, PK/PD-suhte ja ohutusprofiili intravenoosse DMT-manustamisel tervislikul vabatahtlikel.",
-        "lv": "First-in-human pētījums, kas nosaka optimālo devu shēmu, PK/PD attiecību un drošības profilu intravenozai DMT administrācijai veseliem brīvprātīgajiem.",
-        "lt": "First-in-human tyrimas, nustatantis optimalią dozavimo schemą, PK/PD santykį ir saugumo profilį intravenoziam DMT administravimui sveikiems savanoriams."
-      },
-      "relevance_score": 4,
-      "study_type": "rct",
-      "substances": [
-        "other"
-      ],
-      "added_at": "2026-09-01T11:53:04.984893+00:00"
-    },
-    {
-      "title": "A randomized crossover trial comparing the acute physiological and psychological effects of botanical formulations of oral psilocybin, oral psilocin, and sublingual psilocin.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42668404/",
-      "source": "PubMed",
-      "date": "2026-08-29",
-      "authors": [
-        "Tai Marlene L",
-        "Szigeti Balázs",
-        "Downey Amanda E"
-      ],
-      "doi": "10.1177/02698811261478603",
-      "summaries": {
-        "en": "Randomized crossover trial (n=20) comparing acute effects of botanical oral psilocybin (25 mg), oral psilocin (17.5 mg), and sublingual psilocin (2.18–8 mg) in healthy adults. Oral psilocin produced similar subjective and temporal profiles to oral psilocybin with fewer adverse effects. Sublingual psilocin showed good tolerability but lower drug exposure. Results suggest oral psilocin may offer tolerability advantages for psychedelic-assisted therapy.",
-        "sv": "Randomiserad crossover-studie (n=20) jämförande akuta effekter av botanisk oral psilo­cybin (25 mg), oral psilocin (17,5 mg) och sublingual psilocin (2,18–8 mg) hos friska vuxna. Oral psilocin uppvisade liknande subjektiv och temporal profil som oral psilo­cybin med färre biverkningar. Sublingual psilocin visade god tolerabilitet men lägre exponering. Resultaten tyder på att oral psilocin kan erbjuda tolerabilitetfördelar för psykedelika-assisterad terapi.",
-        "no": "Randomisert crossover-studie (n=20) som sammenligner akutte effekter av botanisk oral psilosybin (25 mg), oral psilosin (17,5 mg) og sublingual psilosin (2,18–8 mg) hos friske voksne. Oral psilosin ga lignende subjektiv og tidsmessig profil som oral psilosybin med færre bivirkninger. Sublingual psilosin viste god tolerabilitet men lavere stoffeksponering. Resultater tyder på at oral psilosin kan gi tolerabilitetfordeler for psykedelika-assistert terapi.",
-        "da": "Randomiseret crossover-studie (n=20) der sammenligner akutte effekter af botanisk oral psilocybin (25 mg), oral psilocin (17,5 mg) og sublingual psilocin (2,18–8 mg) hos raske voksne. Oral psilocin viste lignende subjektiv og tidsmæssig profil som oral psilocybin med færre bivirkninger. Sublingual psilocin viste god tolerabilitet men lavere stofeksponering. Resultater tyder på, at oral psilocin kan give tolerabilitetfordele for psykedelika-assisteret terapi.",
-        "fi": "Satunnaistettu crossover-tutkimus (n=20) vertaamassa akuutteja vaikutuksia kasvi­peräiseen suun kautta otettavaan psilosybiiniin (25 mg), suun kautta otettavaan psilosiiniin (17,5 mg) ja kielen alle asetettavaan psilosiiniin (2,18–8 mg) terveillä aikuisilla. Suun kautta otettu psilosiini osoitti samanlaista subjektiivista ja ajallista profiilia kuin suun kautta otettu psilosybiini, mutta vähemmän haittavaikutuksia. Kielen alle asetettava psilosiini oli hyvin siedetty, mutta pienempi lääkkeen alttius rajoitti vertailukelpoisuutta. Tulokset viittaavat, että psilosiini suun kautta saattaa tarjota tolerabiliteetin etuja psykedeliikka-avustetussa terapiassa.",
-        "is": "Handahóf crossover-rannsókn (n=20) sem borið saman akút áhrif jurtabyggðrar frumorals psílosýbíns (25 mg), frumorals psílosíns (17,5 mg) og undir tungu setts psílosíns (2,18–8 mg) hjá heilbrigðum fullorðnum. Frumoral psílosín sýndi svipaða huglæga og tímavinnu prófíl og frumoral psílosýbín með færri aukaverkun. Psílosín undir tungu var vel þolað en lægri fráboranir takmarkaði samanburðarhæfi. Niðurstöður benda til þess að frumoral psílosín gæti veitt kostir fyrir þola­beitni í psýkedelíka-aðstoðuðri meðferð.",
-        "et": "Randomiseeritud crossover-uuringu (n=20) akuutsete mõjude võrdlemine taime­pärase suust võetava psülotsibiini (25 mg), suust võetava psülotsiin (17,5 mg) ja keele alla pandava psülotsiin (2,18–8 mg) puhul tervetel täiskasvanutel. Suust võetud psülotsiin näitas sarnast subjektiivset ja ajaprofiili kui suust võetud psülotsibiini, kuid väiksema kõrvaltoimete koormuse. Keele alla pandav psülotsiin oli hästi talutav, kuid madalam ravimi eksponeeritus piiras võrreldavust. Tulemused osutavad, et suust võetud psülotsiin võib pakkuda talutavuse eeliseid psühhedeelikume-abistatud teraapiasse.",
-        "lv": "Randomizēts crossover pētījums (n=20), salīdzinot akūtās iedarbības no botāniskas mutiskā psilociīna (25 mg), mutiskā psilociīna (17,5 mg) un sublinguāla psilociīna (2,18–8 mg) veseliem pieaugušajiem. Mutisks psilociīns parādīja līdzīgu subjektīvu un laika profilu kā mutisks psilociīns ar mazāk blakusparādībām. Sublinguāls psilociīns bija labi panesamais, bet mazāka zāļu iedarbība ierobežoja salīdzināmību. Rezultāti liecina, ka mutiski apcerēts psilociīns var sniegt pieļaujamības priekšrocības psihedēliku-asistētā terapijā.",
-        "lt": "Randomizuotas crossover tyrimas (n=20), palyginant akutinius poveikius iš botaninio žalios psilocibino (25 mg), žalio psilocino (17,5 mg) ir po liežuviu dedamo psilocino (2,18–8 mg) sveikiems suaugusiems. Žalias psilocinas parode panašų subjektyvų ir laiko profilį kaip žalias psilocibinas su mažiau šalutinių efektų. Po liežuviu dedamas psilocinas buvo gerai toleruojamas, tačiau mažesnė vaisto ekspozicija ribojanč palyginamumą. Rezultatai rodo, kad žalias psilocinas gali suteikti toleravimo pranašumus psichedelinių medžiagų pagalba grindžiamoje terapijoje."
-      },
-      "notable": false,
-      "notable_reasons": null,
-      "relevance_score": 4,
-      "study_type": "rct",
-      "substances": [
-        "psilocybin"
-      ],
-      "added_at": "2026-08-30T12:04:49.032814+00:00"
-    },
-    {
-      "title": "The role of BDNF promoter VI in mediating protective effects of prophylactic (R,S)-ketamine.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42668318/",
-      "source": "PubMed",
-      "date": "2026-08-29",
-      "authors": [
-        "Chen Briana K",
-        "Williams Brenna L",
-        "Darling Anna"
-      ],
-      "doi": "10.1038/s41386-026-02536-6",
-      "summaries": {
-        "en": "Study using BDNF-e6 mice investigated whether promoter VI of the BDNF exon VI gene is necessary for ketamine's preventive antidepressant effects. While BDNF is known to mediate ketamine's acute antidepressant action via hippocampal activity-induced synthesis, its role in prophylactic effects remained unclear. Findings clarify BDNF's contribution to ketamine's protective mechanisms.",
-        "sv": "Studie med BDNF-e6-möss undersökte om promoter VI för BDNF exon VI är nödvändig för ketamins förebyggande antidepressiva effekter. Även om BDNF är känt för att mediera ketamins akuta antidepressiva verkan via aktivitetsindad hippocampalsynteses, var dess roll i profylaktiska effekter oklar. Resultaten klargör BDNFs bidrag till ketamins skyddande mekanismer.",
-        "no": "Studie med BDNF-e6-mus undersøkte om promoter VI for BDNF exon VI er nødvendig for ketamins forebyggende antidepressive effekter. Selv om BDNF er kjent for å medialisere ketamins akutte antidepressive virkning via aktivitetsindusert hippocampal-syntese, var dets rolle i profylaktiske effekter uklar. Funnene avklarer BDNFs bidrag til ketamins beskyttende mekanismer.",
-        "da": "Studie med BDNF-e6-mus undersøgte, hvorvidt promoter VI for BDNF exon VI er nødvendig for ketamins forebyggende antidepressive effekter. Selvom BDNF er kendt for at medialisere ketamins akutte antidepressive virkning via aktivitetsinduceret hippocampal-syntese, var dets rolle i profylaktiske effekter uafklaret. Resultaterne præciserer BDNFs bidrag til ketamins beskyttende mekanismer.",
-        "fi": "Tutkimuksessa BDNF-e6-hiirillä tutkittiin, onko promoter VI BDNF-eksoni VI:lle välttämätön ketamiinin ennaltaehkäisevien masennuslääkkeiden vaikutusten kannalta. Vaikka BDNF tunnetaan ketamiinin akuuttien masennuslääkkeiden vaikutusten välittäjänä aktiviteetin indusoimalla hippocampuksen synteesillä, sen rooli profylaktisissa vaikutuksissa oli epäselvä. Tulokset selventävät BDNF:n osuutta ketamiinin suojaavissa mekanismeissa.",
-        "is": "Rannsókn á BDNF-e6-músum könnuðu hvort promoter VI fyrir BDNF exon VI sé nauðsynlegt fyrir fyrirbyggjandi þunglyndisstöðvandi áhrif ketamíns. Þó að BDNF sé þekkt fyrir að miðla beinni þunglyndisstöðvandi verkunarferli ketamíns með virkniframkallandi hippocampal-samsetningu, var hlutverk þess í fyrirbyggjandi áhrifum óljóst. Niðurstöður skýra framlag BDNF til verndandi virkniferla ketamíns.",
-        "et": "Uuringus BDNF-e6-hiirtega uuriti, kas promoter VI BDNF eksoon VI jaoks on vajalik ketamiini ennetava depressioonivastase toime jaoks. Kuigi BDNF on teada ketamiini akuutse depressioonivastase toimet tegevusega indutseeritud hipokampuse sünteesi kaudu, oli selle roll ennetavate mõjude puhul ebaselge. Tulemused selgitavad BDNF panust ketamiini kaitsvatesse mehhanismidesse.",
-        "lv": "Pētījumā ar BDNF-e6 pārkāļiem tika pārbaudīts, vai promoter VI BDNF eksona VI ir nepieciešams ketamīna profilaktiskajiem antidepresīvajiem efektiem. Lai gan BDNF ir zināms kā ketamīna akūto antidepresīvo iedarbību mediators caur aktivitāti izraisītu hipokampa sintēzi, tā loma profilaktiskos efektos palika neskaidra. Rezultāti skaidro BDNF ieguldījumu ketamīna aizsardzošajos mehānismos.",
-        "lt": "Studijoje su BDNF-e6 pelėmis buvo tiriama, ar promoter VI BDNF eksono VI yra būtinas ketamino profilaktiniams antidepresyviniams efektams. Nors BDNF žinomas kaip ketamino ūmių antidepresyvinių veiksmų tarpininkas per aktivumo sukeltos hipokampo sintezę, jo vaidmuo profilaktiniuose efektuose liko neaiškus. Rezultatai aiškina BDNF indėlį ketamino apsauginiais mechanizmais."
-      },
-      "notable": false,
-      "notable_reasons": null,
-      "relevance_score": 4,
-      "study_type": "preclinical",
-      "substances": [
-        "ketamine"
-      ],
-      "added_at": "2026-08-30T12:04:49.032814+00:00"
-    },
-    {
-      "title": "Esketamine-based treatment, depression-specific metacognitive training, and their combination in treatment-resistant depression: 6-month trajectories of depressive symptoms and rumination in a multicenter observational study.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42667415/",
-      "source": "PubMed",
-      "date": "2026-08-29",
-      "authors": [
-        "Martiadis Vassilis",
-        "Raffone Fabiola",
-        "Atripaldi Danilo"
-      ],
-      "doi": "10.1007/s00406-026-02361-4",
-      "summaries": {
-        "en": "Esketamine-based treatment, depression-specific metacognitive training, and their combination in treatment-resistant depression: 6-month trajectories of depressive symptoms and rumination in a multicenter observational study.",
-        "sv": "Esketamine-based treatment, depression-specific metacognitive training, and their combination in treatment-resistant depression: 6-month trajectories of depressive symptoms and rumination in a multicenter observational study.",
-        "no": "Esketamine-based treatment, depression-specific metacognitive training, and their combination in treatment-resistant depression: 6-month trajectories of depressive symptoms and rumination in a multicenter observational study.",
-        "da": "Esketamine-based treatment, depression-specific metacognitive training, and their combination in treatment-resistant depression: 6-month trajectories of depressive symptoms and rumination in a multicenter observational study.",
-        "fi": "Esketamine-based treatment, depression-specific metacognitive training, and their combination in treatment-resistant depression: 6-month trajectories of depressive symptoms and rumination in a multicenter observational study.",
-        "is": "Esketamine-based treatment, depression-specific metacognitive training, and their combination in treatment-resistant depression: 6-month trajectories of depressive symptoms and rumination in a multicenter observational study.",
-        "et": "Esketamine-based treatment, depression-specific metacognitive training, and their combination in treatment-resistant depression: 6-month trajectories of depressive symptoms and rumination in a multicenter observational study.",
-        "lv": "Esketamine-based treatment, depression-specific metacognitive training, and their combination in treatment-resistant depression: 6-month trajectories of depressive symptoms and rumination in a multicenter observational study.",
-        "lt": "Esketamine-based treatment, depression-specific metacognitive training, and their combination in treatment-resistant depression: 6-month trajectories of depressive symptoms and rumination in a multicenter observational study."
-      },
-      "notable": false,
-      "notable_reasons": null,
-      "relevance_score": 4,
-      "study_type": "observational",
-      "substances": [
-        "ketamine"
-      ],
-      "added_at": "2026-08-30T12:04:49.032814+00:00"
-    },
-    {
-      "title": "Psychedelics in psychiatry: comparative effectiveness, implementation, commercialization and safety lessons learned from intranasal esketamine.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42663266/",
-      "source": "PubMed",
-      "date": "2026-08-28",
-      "authors": [
-        "McIntyre Roger S"
-      ],
-      "doi": "10.1080/14740338.2026.2726227",
-      "summaries": {
-        "en": "Review examining esketamine's role in psychiatric treatment, analyzing comparative effectiveness, implementation strategies, and safety considerations. Discusses commercialization lessons relevant to broader psychedelic therapeutics development in psychiatry.",
-        "sv": "Granskning av esketamins roll i psykiatrisk behandling, med analys av jämförande effektivitet, implementeringsstrategier och säkerhetshänsyn. Diskuterar lärdomar från kommersialisering relevanta för utveckling av psykedelisk terapi.",
-        "no": "Gjennomgang av esketamins rolle i psykiatrisk behandling, med analyse av komparativ effektivitet, implementeringsstrategier og sikkerhetshensyn. Diskuterer kommersialiseringsleksjoner relevant for utvikling av psykedelisk terapi.",
-        "da": "Gennemgang af esketamins rolle i psykiatrisk behandling med analyse af komparativ effektivitet, implementeringsstrategier og sikkerhedshensyn. Diskuterer læringspunkter fra kommercialisering relevant for udvikling af psykedelisk terapi.",
-        "fi": "Katsaus esketamiinin roolista psykiatrisessa hoidossa, jossa analysoidaan vertailevaa tehokkuutta, käyttöönottoa ja turvallisuusnäkökohtia. Käsittelee psykedeelisen terapian kehitykseen liittyviä kaupallisia opetuksia.",
-        "is": "Yfirlit um hlutverk esketamíns í geðlæknun með greiningu á hlutfallslegri verkun, innleiðingu og öryggissjónarmiðum. Fjallar um viðskiptaleg athuganir sem skipta máli fyrir þróun sálfræðilegra meðferða.",
-        "et": "Ülevaade esketamiini rollist psühhiaatrilises ravis, analüüsides võrdlevat tõhusust, rakendamist ja ohutuse aspekte. Arutab kaubanduslikke õppetunde, mis on asjakohased psühhedeelikute terapia arendamisele.",
-        "lv": "Pārskats par esketamīna lomu psihiatrijā ar salīdzinošas efektivitātes, ieviešanas un drošības analīzi. Apspriež komerciālas mācības, kas ir svarīgas psihedēlisko vielu terapijas attīstībai.",
-        "lt": "Apžvalga apie esketamino vaidmenį psichiatrijoje, analizuojant palyginį veiksmingumą, įgyvendinimą ir saugumą. Aptaria komercines pamokas, svarbias psichedelinių medžiagų terapijos plėtrai."
-      },
-      "notable": false,
-      "notable_reasons": null,
-      "relevance_score": 4,
-      "study_type": "review",
-      "substances": [
-        "ketamine",
-        "other"
       ],
       "added_at": "2026-08-28T18:53:07.862220+00:00"
     }

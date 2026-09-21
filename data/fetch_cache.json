@@ -1,6 +1,6 @@
 {
-  "date": "2026-09-20",
-  "cached_at": "2026-09-20T10:35:28.846594+00:00",
+  "date": "2026-09-21",
+  "cached_at": "2026-09-21T11:57:27.152790+00:00",
   "articles": [
     {
       "title": "A circuit dissection of perception-action decoupling in S-ketamine-induced hallucination-like states.",
@@ -533,6 +533,18 @@
       "doi": "10.1016/j.ibneur.2026.09.002"
     },
     {
+      "title": "The hidden curriculum of endurance: how students' psychosocial stress becomes normalised in arts higher education.",
+      "url": "https://doi.org/10.1080/17482631.2026.2727777",
+      "source": "Europe PMC",
+      "abstract": "<h4>Purpose</h4>The deterioration of university students' mental health has become a global public health concern. However, students' well-being in arts higher education remains underexamined, despite evidence that arts students may be especially vulnerable to psychosocial distress. This study explored how students in artistic disciplines experienced psychosocial stressors related to their studies in Czech arts higher education.<h4>Methods</h4>Thirtysemi-structured interviews with students enrolled in visual, audiovisual, and performing arts programmes were analysed using reflexive thematic analysis.<h4>Results</h4>Three categories of major psychosocial stressors were identified: institutional, organisational, and interpersonal. Institutional stressors included norms of total commitment, meritocratic constructions of success, and pressure to accumulate social capital. Organisational stressors involved intensive time demands, ambiguous and subjective evaluation practices, and emotionally demanding Final Critiques. Interpersonal stressors involved blurred student-teacher boundaries, intergenerational tensions, and competitive peer dynamics. Across these stressors, a hidden curriculum of endurance emerged through which exhaustion, uncertainty, and self-sacrifice became normalised as part of becoming an artist.<h4>Conclusions</h4>The findings show that psychosocial stressors in arts higher education are socially and institutionally produced and embedded in the everyday conditions of artistic training. Effective responses should address the organisational cultures, pedagogical practices, and relational dynamics through which psychosocial stress is produced and normalised.",
+      "date": "2026-09-17",
+      "authors": [
+        "Procházková B",
+        "Zábrodská K."
+      ],
+      "doi": "10.1080/17482631.2026.2727777"
+    },
+    {
       "title": "Opioid-free analgesia with esketamine-dexmedetomidine versus opioid-based analgesia after gynaecological laparoscopic surgery: a double-blind, randomized, controlled trial.",
       "url": "https://doi.org/10.1080/07853890.2026.2732292",
       "source": "Europe PMC",
@@ -559,24 +571,11 @@
       "doi": "10.1080/20008066.2026.2721729"
     },
     {
-      "title": "A stereotaxic surgical protocol for posterior and total corpus callosotomy in adult Wistar rats using the WIN-PTZ kindling model.",
-      "url": "https://doi.org/10.1016/j.mex.2026.104123",
-      "source": "Europe PMC",
-      "abstract": "Corpus callosotomy is an established palliative surgical procedure for drug-resistant generalized epilepsy. Although total callosotomy (TC) is the conventional approach, posterior callosotomy (PC) has emerged as a potentially less morbid alternative that preserves prefrontal commissural connectivity. Detailed stereotaxic protocols for PC in rodent models are absent from the experimental literature. Here we describe a detailed, step-by-step surgical protocol for both PC and TC in adult male Wistar rats (500-700 g; 8-9 months) using the WIN-PTZ kindling paradigm as the epilepsy induction model. The protocol encompasses: (1) a validated seven-session pentylenetetrazole (PTZ) kindling schedule (37.5 mg/kg, i.p., alternating days); (2) a complete multimodal anesthesia and analgesia regimen; (3) precise stereotaxic coordinates for both procedures, referenced from bregma using the Paxinos and Watson rat brain atlas; and (4) a postoperative PTZ rechallenge paradigm with behavioral outcome assessment using the revised Racine scale. Protocol feasibility was confirmed in 11 animals with no intraoperative mortality and full postoperative tolerability. This protocol provides a feasible and repeatable experimental foundation for callosal disconnection research and can be adapted to chronic or focal epilepsy models with electrophysiological monitoring. Eight brains were available for histological analysis; Luxol Fast Blue myelin staining was attempted in a single specimen but proved non-diagnostic in this unoptimized preparation. On hematoxylin-eosin and toluidine blue sections, representative specimens showed morphological features of an in vivo callosal lesion (hemorrhage and reactive gliosis with a mononuclear infiltrate) within the transected territory, although prolonged fixation compromised tissue quality and precluded evaluation of the transection in many specimens. The protocol therefore supports feasibility, procedural repeatability, and preliminary morphological evidence of callosal disconnection, while confirmation of myelinated-fiber interruption at the tract level remains to be established.",
-      "date": "2026-08-27",
-      "authors": [
-        "Cavalcanti VB",
-        "Matsusako L",
-        "Canabarro L"
-      ],
-      "doi": "10.1016/j.mex.2026.104123"
-    },
-    {
       "title": "CZ",
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2018-004480-31/CZ",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-09-20",
+      "date": "2026-09-21",
       "authors": [],
       "doi": ""
     },
@@ -585,7 +584,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2020-005037-32/CZ",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-09-20",
+      "date": "2026-09-21",
       "authors": [],
       "doi": ""
     },
@@ -594,7 +593,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2021-002909-10/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-09-20",
+      "date": "2026-09-21",
       "authors": [],
       "doi": ""
     },
@@ -603,7 +602,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2015-000550-37/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-09-20",
+      "date": "2026-09-21",
       "authors": [],
       "doi": ""
     },
@@ -612,7 +611,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2021-000041-40/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-09-20",
+      "date": "2026-09-21",
       "authors": [],
       "doi": ""
     },
@@ -621,7 +620,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2020-000829-55/DK",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-09-20",
+      "date": "2026-09-21",
       "authors": [],
       "doi": ""
     },
@@ -630,7 +629,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2020-002790-94/SE",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-09-20",
+      "date": "2026-09-21",
       "authors": [],
       "doi": ""
     },
@@ -639,7 +638,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2021-006200-33/FI",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-09-20",
+      "date": "2026-09-21",
       "authors": [],
       "doi": ""
     },
@@ -648,7 +647,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2019-004812-73/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-09-20",
+      "date": "2026-09-21",
       "authors": [],
       "doi": ""
     },
@@ -657,7 +656,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2022-002369-14/BE",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-09-20",
+      "date": "2026-09-21",
       "authors": [],
       "doi": ""
     },

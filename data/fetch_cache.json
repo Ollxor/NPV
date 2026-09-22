@@ -1,7 +1,98 @@
 {
-  "date": "2026-09-21",
-  "cached_at": "2026-09-21T11:57:27.152790+00:00",
+  "date": "2026-09-22",
+  "cached_at": "2026-09-22T10:56:54.171254+00:00",
   "articles": [
+    {
+      "title": "N,N-Dimethyltryptamine and harmine formulation alters transient EEG topography sequences near the peak of the psychedelic state.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42768932/",
+      "source": "PubMed",
+      "abstract": "Psychoactive serotonin 5-HT2A receptor agonists are potent modulators of awareness. Influential theories propose that psychedelics alter whole-brain dynamics by increasing neural signal diversity and dynamic flexibility. Beyond temporal variability, it is an open question whether psychedelics impact the characteristics of transient neural state sequences themselves. Our goal was to assess how an ayahuasca-inspired formulation (intranasal N,N-Dimethyltryptamine (DMT) and buccal harmine) modulates parameters of neural state sequences close to the peak of the psychedelic state. In a double-blind, randomised, placebo-controlled Electroencephalography (EEG) study, participants ( Compared to harmine and placebo, DMT/harmine was linked to reduced microstate duration but increased microstate occurrence and complexity. Higher first-order Markov statistics revealed that transition sequences became less random when DMT/harmine was administered. Our finding that DMT/harmine is associated with more complex and predictable neural state sequences as well as accelerated state transitions is consistent with models of increased metastability and signal diversity. By revealing a more diverse repertoire of neural state sequences under DMT/harmine, our findings improve our understanding of neural dynamics in psychedelic states. Neurodynamics of prosocial emotional processing following serotonergic stimulation with N,N-DMT and harmine in healthy subjects. https://clinicaltrials.gov/ct2/show/NCT04716335.",
+      "date": "2026-09-22",
+      "authors": [
+        "Niedernhuber Maria",
+        "Suay Dila",
+        "Lenggenhager Bigna"
+      ],
+      "doi": "10.1177/02698811261481062"
+    },
+    {
+      "title": "Modulation of GABA and glutamate by ketamine in depression: A systematic review and meta-analysis of magnetic resonance spectroscopy studies.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42768091/",
+      "source": "PubMed",
+      "abstract": "Disrupted excitation-inhibition (E/I) balance involving GABA and glutamate (Glu) is implicated in the pathophysiology of depression. Ketamine, an NMDA receptor antagonist with rapid antidepressant properties, may modulate this balance, yet proton magnetic resonance spectroscopy (¹H-MRS) studies report inconsistent findings regarding the direction, magnitude, and timing of neurochemical effects. Static ¹H-MRS metabolite concentrations, however, do not directly index neuronal excitation or inhibition; the E=Glx/Glu and I = GABA framework adopted here, as used commonly in the field, is an assumed convention rather than a validated physiological equivalence. We conducted a systematic review and meta-analysis evaluating ketamine's influence on GABA, Glu, and Glx levels and their relationship to clinical outcomes in adults with depression. Multiple databases were searched from inception through October 16, 2025; of 1046 identified studies, 11 met inclusion criteria. Included studies demonstrated significant methodological variability across infusion protocols, metabolite selection, MRS acquisition timing, and brain region of interest. Meta-analyses from limited evidence base did not demonstrate statistically significant treatment-related alterations in any metabolite. The anterior cingulate and prefrontal cortices were most frequently examined regions. The quality of included studies was generally good, despite methodological heterogeneity. One RCT found percent reduction in Glx/GABA ratio positively correlated with symptom improvement. Only a few studies examined ketamine blood levels relative to metabolite changes. Current ¹H-MRS evidence does not confirm significant ketamine-related neurochemical alterations, likely reflecting methodological heterogeneity in timing, acquisition techniques, and brain regions examined rather than a true absence of effect. E/I balance shows promise as a treatment response predictor. Rigorous RCTs with standardized protocols, larger sample sizes, uniform dosing, and systematic biomarker investigations are needed to clarify ketamine's neurochemical mechanism and optimize ketamine's clinical application in treatment-resistant depression.",
+      "date": "2026-09-21",
+      "authors": [
+        "Singh Balwinder",
+        "Ali Hossam M",
+        "Miola Alessandro"
+      ],
+      "doi": "10.1038/s41386-026-02562-4"
+    },
+    {
+      "title": "Implementation and Preliminary Evaluation of an Intravenous Ketamine Protocol for Psychiatric Conditions in Medical and Surgical Units: A One-Year Pilot Study.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42767564/",
+      "source": "PubMed",
+      "abstract": "Ketamine is an emerging therapy in psychiatry, but its implementation in the general hospital setting remains limited due to monitoring requirements, personnel allocation, and safety concerns in medically complex patients. Consultation-liaison (C-L) psychiatry services are well-positioned to deliver such interventions, yet practical models for doing so are lacking. To describe the implementation and feasibility of an intravenous ketamine protocol for depression and other psychiatric indications on general medical and surgical units at a quaternary academic medical center. A psychiatry-specific IV ketamine protocol was developed and approved through institutional pharmacy and nursing committees. The infusion rate was capped at 5 mcg/kg/min, with doses ranging from 0.5 to 1.0 mg/kg. Patients were maintained at routine floor-level care with continuous pulse oximetry during infusion. Feasibility was assessed through operational integration into existing hospital workflows, including the need for additional staffing, aborted procedures, care escalations, and the sustained use of the protocol. Tolerability outcomes included side effects, PRN medication use, and infusion rate adjustments or discontinuations. When applicable, depression and anxiety were assessed using the Montgomery-Åsberg Depression Rating Scale, Patient Health Questionnaire-9, and Generalized Anxiety Disorder-7 at baseline and after each infusion. The protocol was implemented hospital-wide beginning February 2025, with data collection concluding February 2026. Sixteen patients received a total of 51 infusions across medical and surgical units. Primary indications included major depressive episodes, bipolar depression, catatonia, and anxiety. The protocol was sustained over a one-year observation period without additional staffing, modifications to existing unit workflows, or aborted procedures. No infusions required rate adjustment or discontinuation, and no patients required escalation to higher-acuity monitoring or transfer to the ICU or PACU. Eight patients reported transient side effects; no serious adverse events occurred, and one instance of a PRN medication (ondansetron) was administered across all infusions. Among 14 patients treated for depression, 12 showed improvement from baseline to last recorded score, while five met thresholds for response and three for remission. The protocol remains in active use. A capped-rate IV ketamine protocol tailored for psychiatry was feasibly delivered on general medical and surgical floors. The protocol integrated into existing C-L workflows and may serve as a scalable model for expanding access to rapid-acting psychiatric intervention in medically ill populations.",
+      "date": "2026-09-21",
+      "authors": [
+        "Hu Bo",
+        "Ortiz-Cruz Alfonso",
+        "Sachidanandan Ridhaa"
+      ],
+      "doi": "10.1016/j.jaclp.2026.09.005"
+    },
+    {
+      "title": "Pharmacokinetics and safety of a modified-release psilocybin formulation: A SAD Phase I trial in normal-weight and overweight/obese participants.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42767271/",
+      "source": "PubMed",
+      "abstract": "This study aimed to evaluate the safety, tolerability and pharmacokinetics of a novel oral modified-release psilocybin formulation (REL-P11) in normal-weight and overweight/obese healthy adults and to assess its suitability for controlled, subperceptual exposure, in light of emerging evidence supporting serotonergic modulation in metabolic disorders. Simulation-based modelling compared predicted psilocin exposure with immediate-release formulations. Then, a randomized, double-blind, placebo-controlled, single ascending dose Phase I study was conducted in eight normal-weight and 32 overweight/obese adults. Single oral doses of 0.5, 1.0, 1.5 and 2.0 mg of REL-P11 were administered. Plasma psilocin concentrations were measured using liquid chromatography-mass spectrometry, and pharmacokinetic parameters were derived using non-compartmental analysis. Simulations indicated lower peak concentrations and prolonged absorption with the modified-release formulation compared with immediate-release psilocybin. No serious adverse events or adverse events of special interest (AESIs) occurred among REL-P11-treated participants, and no clinically meaningful treatment-related changes were detected in the prespecified psychometric and safety assessments. Psilocin exposure increased proportionally with dose, with low interindividual variability. At the 2-mg dose, pharmacokinetic parameters were broadly comparable between normal-weight and overweight/obese participants, and median time to peak concentration was approximately 2 h. Low-dose modified-release psilocybin provides predictable systemic exposure without measurable psychoactive effects across body weight categories. While these properties, together with preclinical evidence, are of potential interest in the context of metabolic regulation, the present findings remain preliminary. Further clinical studies are warranted to determine whether the favourable pharmacokinetic profile observed with controlled subperceptual psilocybin dosing translates into clinically relevant pharmacological and therapeutic effects in metabolic and liver-related disorders.",
+      "date": "2026-09-21",
+      "authors": [
+        "Signor Anna",
+        "Comai Stefano",
+        "Pasut Gianfranco"
+      ],
+      "doi": "10.1002/bcp.70839"
+    },
+    {
+      "title": "Methylenedioxymethamphetamine (MDMA)-related fatal poisoning in Australia, 2016 to 2025: Trends, characteristics and toxicology.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42767268/",
+      "source": "PubMed",
+      "abstract": "To determine: (1) Population rates of fatal methylenedioxymethamphetamine (MDMA)-related poisoning over the period 2016-2023, years with high closure rates in the National Coronial Information System (NDIS); (2) the case characteristics of known cases of fatal MDMA-related poisoning, 2016-2025; and (3) whether there have been changes in case characteristics of known fatal cases in the period pre-COVID (2016-2019), COVID (2020-2022) and post-COVID (2023-2025). Retrospective study of fatal MDMA-related poisonings in Australia retrieved from the NDIS, 2016-2025. Australia-wide. 217 cases of fatal MDMA-related poisoning. Population rates, case characteristics, circumstances of death, toxicology, major autopsy findings. There was a statistically significant increasing trend in the population rate over 2016-2019 [annual percentage change (APC) = 61.52], and a statistically significant decreasing trend over 2019-2023 (APC = -26.72). The mean age was 33.5 years, and males comprised 170 cases (78.3%). In 179 cases (82.5%) the cause of death was attributed to multiple drug toxicity. The fatal incident occurred in a private setting in 171 cases (78.8%), with 16 (7.4%) occurring at a music festival. The median MDMA blood concentration was 0.41 mg/l (range 0.00-25.0 mg/l). Cases in which death was attributed solely to MDMA toxicity had a higher median MDMA concentration than multiple drug toxicity deaths (1.7 vs. 0.30 mg/l). Psychoactive drugs other than MDMA were detected in 199 cases (91.7%), most commonly other psychostimulants (147, 67.7%) and opioids (98, 45.2%). Cardiomegaly was diagnosed in 33 cases (16.6%) in which the heart was examined, and severe coronary artery disease in 27 (13.6%). There were no statistically significant differences across time periods in age, sex, substance use issues, injecting drug use, intentionality, MDMA concentrations or diagnoses of cardiomegaly. While death rates in Australia from methylenedioxymethamphetamine-related poisoning have declined from 2019, case characteristics have remained relatively stable.",
+      "date": "2026-09-21",
+      "authors": [
+        "Darke Shane",
+        "Duflou Johan",
+        "Chrzanowska Agata"
+      ],
+      "doi": "10.1111/add.70613"
+    },
+    {
+      "title": "Default mode network functional connectivity following treatment with conventional antidepressants and (es)ketamine in major depressive disorder: A systematic review.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42767040/",
+      "source": "PubMed",
+      "abstract": "Antidepressant treatments, including conventional antidepressants and (es)ketamine, may reverse default mode network (DMN) resting-state functional connectivity (rsFC) alterations related to major depressive disorder (MDD). Despite these agents having distinct initial action mechanisms, both likely share downstream effects that lead to structural and functional adaptations in MDD-related neural circuits. Examining the effects of these agents on DMN rsFC can provide insights into network-level effects, advance understanding of network-level mechanisms of treatment response, and generate hypotheses regarding potential neurobiological differences between MDD and treatment-resistant depression populations. A systematic search was performed to retrieve studies investigating changes in DMN rsFC following treatment with conventional antidepressants and (es)ketamine in MDD, including the association with clinical outcomes. Nineteen studies were included, 13 administered conventional antidepressants (N = 546), and six intravenous ketamine (N = 247). Conventional antidepressants were associated with heterogeneous changes in DMN rsFC, some of which related to clinical improvements. Conversely, ketamine mostly related with reductions in DMN rsFC, particularly in DMN-limbic connectivity. While interpretations of current findings are limited by heterogeneity in study populations, treatment regimens, and timing assessments, findings suggest that these agents exhibit mostly distinct patterns of DMN modulation, and that differential effects on DMN rsFC associate with clinical improvements.",
+      "date": "2026-09-17",
+      "authors": [
+        "Lima Constantino Juliana",
+        "de Jager Jesca E",
+        "Nuninga Jasper O"
+      ],
+      "doi": "10.1016/j.pscychresns.2026.112333"
+    },
+    {
+      "title": "An Open-Label, Dose-Escalation Trial of Psilocybin-Assisted Therapy for Bipolar II Depression.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42765891/",
+      "source": "PubMed",
+      "abstract": "",
+      "date": "2026-09-21",
+      "authors": [
+        "Downey Amanda E",
+        "Szigeti Balázs",
+        "Bradley Ellen R"
+      ],
+      "doi": "10.4088/JCP.25m16227"
+    },
     {
       "title": "A circuit dissection of perception-action decoupling in S-ketamine-induced hallucination-like states.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42763341/",
@@ -171,95 +262,22 @@
       "doi": "10.1186/s13011-026-00762-1"
     },
     {
-      "title": "Psilocybin restores social novelty investigation in male SAPAP3 knockout mice and engages prefrontal-hippocampal circuitry.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42754621/",
-      "source": "PubMed",
-      "abstract": "Obsessive-compulsive disorder (OCD) remains difficult to treat, and evidence indicates that social dysfunction, common across obsessive-compulsive and related disorders, is an under-recognized clinical burden. SAPAP3 knockout (KO) mice, a well-established model of compulsive behavior, exhibit social abnormalities, suggesting broader disruptions in circuits relevant to social cognition. Here, we investigated whether psilocybin, a serotonergic psychedelic with emerging therapeutic potential, can restore social behavior in SAPAP3 KO mice and whether behavioral rescue is associated with modulation of neural activity. Male and female SAPAP3 KO mice and wild-type littermates received a 1 mg/kg psilocybin intraperitoneal injection, and social behavior was assessed seven days later using the three-chamber social interaction test. Psilocybin produced a male-specific, enduring restoration of novel-mouse-directed investigation during social recognition/novelty testing. Immunohistochemical quantification of c-Fos revealed that psilocybin increased neural activation in the medial prefrontal cortex and hippocampus regardless of genotype. Only infralimbic c-Fos levels correlated with improved social recognition/novelty behavior in male SAPAP3 KO mice, identifying infralimbic recruitment as a key correlate of therapeutic rescue. Psilocybin did not alter c-Fos in the nucleus accumbens, basolateral amygdala, or dorsal striatum. These findings demonstrate that psilocybin exerts domain-specific, enduring effects on social cognition in an established model of compulsive-like behavior, potentially involving prefrontal plasticity-related mechanisms. Given the lack of pharmacological treatments targeting social dysfunction in OCD and associated neuropsychiatric disorders, these results highlight psilocybin as a promising candidate for improving social-cognitive outcomes in disorders characterized by repetitive behaviors and social impairment.",
-      "date": "2026-09-17",
-      "authors": [
-        "Gattuso James J",
-        "Bezcioglu Bilgenur",
-        "Hendey Jenna"
-      ],
-      "doi": "10.1038/s41380-026-03879-8"
+      "title": "Podcast: Psychedelics in D.C., FDA’s Framework, and New Zealand’s MDMA Prescribers",
+      "url": "https://psychedelicalpha.com/news/podcast-psychedelics-in-d-c-fdas-framework-and-new-zealands-mdma-prescribers/",
+      "source": "Psychedelic Alpha",
+      "abstract": "",
+      "date": "2026-09-21",
+      "authors": [],
+      "doi": ""
     },
     {
-      "title": "Esketamine for treatment of depression in Huntington's disease: A case report.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42752279/",
-      "source": "PubMed",
-      "abstract": "Depression and suicidal ideation are common in Huntington's disease (HD). We report a 60-year-old male with HD who suffered from treatment-resistant depression with intermittent suicidal thoughts for 20 years, irritability and apathy. Despite multiple trials of antidepressants, no sustained improvement was achieved. Under nasal esketamine treatment his mood improved dramatically after three treatment days. Beck Depression Inventory (BDI) score dropped from 29 to 5. In a three-month follow-up investigation depression worsened again (BDI score: 20). To our knowledge, this is the first reported case of esketamine use in HD, suggesting that esketamine may be a treatment option for psychiatric symptoms in HD, particularly treatment-resistant depression.",
-      "date": "2026-09-17",
-      "authors": [
-        "Saft Carsten",
-        "Jessen Julia",
-        "Kiefner David"
-      ],
-      "doi": "10.1177/18796397261489245"
-    },
-    {
-      "title": "[Intravenous ketamine in suicidal crisis : indications and patient referral].",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42750580/",
-      "source": "PubMed",
-      "abstract": "Intravenous (IV) ketamine is a rapidly acting therapeutic option for the management of treatment-resistant depression and acute suicidal crisis. Unlike conventional antidepressants, its effects may occur within hours, allowing a rapid reduction in suicidal ideation and psychological distress. Its use remains specialized and requires hospital-based care with medical monitoring and a comprehensive psychiatric assessment. This article provides a practical overview for primary care physicians, focusing on the indications, referral criteria, and role of IV ketamine within the care pathway of patients with treatment-resistant depression or acute suicidal crisis, illustrated by a clinical vignette. La kétamine intraveineuse (IV) représente une option thérapeutique à effet rapide dans la prise en charge de la dépression résistante et de la crise suicidaire aiguë. Contrairement aux antidépresseurs conventionnels, son effet peut apparaître en quelques heures, permettant une réduction rapide des idées suicidaires et de la souffrance psychique. Son utilisation reste spécialisée et nécessite une prise en charge hospitalière avec surveillance médicale et évaluation psychiatrique préalable. Cet article propose une synthèse pratique destinée au médecin de premier recours, centrée sur les indications, les critères d’orientation et la place de la kétamine IV dans le parcours de soins des patients présentant une dépression résistante ou une crise suicidaire, illustrée par une vignette clinique.",
-      "date": "2026-Sep-16",
-      "authors": [
-        "Nasserdine Rayan",
-        "Xhymshiti Laura",
-        "Paporé Anne-Charlotte"
-      ],
-      "doi": "10.53738/REVMED.2026.22.975.49121"
-    },
-    {
-      "title": "Clinical correlates of non-responders to ketamine in terms of self-assessed life engagement among treatment-resistant depression patients.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42748866/",
-      "source": "PubMed",
-      "abstract": "Major depressive and bipolar disorders are leading causes of disability, with many patients developing treatment-resistant depression (TRD/TRBD). Ketamine offers rapid symptom relief, yet recovery extends beyond symptoms. Life engagement (LE) is a key patient-centered outcome encompassing the ability to experience pleasure, function effectively, and participate in meaningful activities but remains understudied. This study examines clinical and sociodemographic correlates of LE non-response following short-term ketamine intervention. A retrospective analysis using data from naturalistic, observational registries of 65 inpatients with treatment-resistant major depressive disorder or bipolar depression (NCT04226963 and NCT05565352). Patients received short-term ketamine (IV:0.5 mg/kg; oral:2.0-2.5 mg/kg) as add-on intervention over four weeks. Patients were stratified as responders or non-responders based on ≥50% Inventory of Depressive Symptomatology Self-Report (IDS-SR) 10 LE score reduction. Groups were compared on sociodemographic and clinical variables. 33 patients (50.8%) were classified as non-responders. Sociodemographic and baseline clinical variables were similar between groups. Non-responders had later depression onset (39.5 vs 24.5 years; p = 0.0257), more frequent prior ECT (40% vs 9.4%; p = 0.0084), no comorbid diabetes (vs 21.9%; p = 0.0048), and differed in employment status (p = 0.0171). These findings are preliminary and require confirmation in larger samples. In this post-hoc analysis LE non-response among TRD patients was associated with depression later onset, prior ECT, absence of diabetes, and occupational inactivity. This may reflect greater illness severity, psychosocial burden, and a lack of potential neuroplasticity enhancement through metabolic pharmacotherapy. Pharmacological treatment alone may be insufficient to improve LE, underscoring the need to integrate psychosocial and behavioral interventions.",
-      "date": "2026-09-10",
-      "authors": [
-        "Walaszek Michał",
-        "Cubała Wiesław Jerzy",
-        "Pastuszak Krzysztof"
-      ],
-      "doi": "10.1016/j.jpsychires.2026.09.003"
-    },
-    {
-      "title": "The Case for More Aggressive Masking in Psychedelic Trials.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42747812/",
-      "source": "PubMed",
-      "abstract": "This Viewpoint discusses the UMBRAA (unidentifiable multidrug blinding with reduced, authorized awareness) strategy to address the masking problem in psychedelic trials.",
-      "date": "2026-09-16",
-      "authors": [
-        "Yang Kevin H",
-        "Heifets Boris D",
-        "Krystal Andrew"
-      ],
-      "doi": "10.1001/jamapsychiatry.2026.2858"
-    },
-    {
-      "title": "Surrender, disidentification, and reappraisal: a qualitative comparison of psilocybin responders and non-responders in treatment-resistant OCD.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42746496/",
-      "source": "PubMed",
-      "abstract": "Psilocybin treatment has shown promise for treatment-resistant obsessive-compulsive disorder (OCD), yet clinical response is variable. Little is known about the subjective experiences associated with divergent outcomes or the psychological processes differentiating responders from non-responders. A qualitative case comparison was conducted using semi-structured interviews from six participants enrolled in a randomized controlled trial of single-dose psilocybin with psychological support for treatment-resistant OCD. Participants were purposively selected to contrast three responders with marked symptom improvement and three non-responders with minimal improvement or worsening symptoms. Interviews were conducted approximately 1-2 months post-dosing and analyzed using reflexive thematic analysis. Four dialectical themes captured key contrasts between responders and non-responders: 1) Surrender vs. Control, 2) Disidentification with OCD and Self-Compassion vs. Overidentification with OCD, 3) Emotional Breakthrough vs. Emotional Containment, and 4) Reappraisal of OCD as Inconsequential vs. Sustained Conviction in OCD. Among responders, surrender during the acute session appeared to enable subsequent psychological shifts. The self was separated from OCD while self-compassion was developed; emotions were experienced directly in the body without the usual cognitive filtering; and OCD-related concerns were spontaneously reappraised as arbitrary and inconsequential. Among non-responders, control was maintained or surrender was experienced as overwhelming; identification with OCD and persistent self-criticism remained; difficult emotions were avoided or accessed without lasting breakthrough; and conviction in OCD's logic and demands was maintained or intensified. The distinction between intellectual insight and embodied change emerged as central: responders described viscerally felt insights that spontaneously shaped behavior, whereas non-responders articulated understanding without corresponding change in feeling or action. Across themes, surrender during the acute session appeared to enable subsequent shifts in self-concept, emotional processing, and reappraisal of OCD as inconsequential. Therapeutic benefit may depend on the quality of psychological engagement-particularly the capacity to surrender, tolerate intense emotion, and translate insight into behavioral change-rather than experiential intensity alone. The distinction between intellectual insight and embodied change emerged as central to understanding differential response.",
-      "date": "2026-09-01",
-      "authors": [
-        "Agin-Liebes Gabrielle",
-        "Shnayder Sarah",
-        "Fram Geena"
-      ],
-      "doi": "10.3389/fpsyt.2026.1791689"
-    },
-    {
-      "title": "On the meaning of \"plasticity\" in neuroscience and mental health research and its relation to the action of psychedelic therapy.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42745840/",
-      "source": "PubMed",
-      "abstract": "First-line dictionary definitions of \"plasticity\" describe it as the ability (of a thing) to be shaped or molded; we call this \"plasticity proper\" (PP). In neuroscience, however, \"neural plasticity\" or \"neuroplasticity\" is defined as an induced change in brain function or structure. These two plasticities are not the same. Several popular biomarkers of neuroplasticity index part of an evoked process, often linked to learning. Paradoxically, these processes often bias phenotypic canalization, the opposite of phenotypic plasticity. Recognizing this paradox puts into question the custom of using \"plasticity\" as a shorthand for all neuroplastic phenomena. This custom risks an overgeneralization fallacy and the conflation of assays of evoked brain changes with plasticity proper. We also question extrapolating from any biomarker of neuroplasticity to improved mental health, whether it be aligned with plasticity proper or not. The relationship between the two is, logically,",
-      "date": "2026-09-01",
-      "authors": [
-        "Carhart-Harris R L",
-        "Zeifman R J",
-        "Pasquini L"
-      ],
-      "doi": "10.3389/fnins.2026.1875339"
+      "title": "Introducing The Psychedelic News Feed Podcast",
+      "url": "https://psychedelicalpha.com/news/introducing-the-psychedelic-news-feed-podcast/",
+      "source": "Psychedelic Alpha",
+      "abstract": "",
+      "date": "2026-09-21",
+      "authors": [],
+      "doi": ""
     },
     {
       "title": "Field Notes #5: ‘Psychedelics Week’ in Washington D.C.",
@@ -330,24 +348,6 @@
       "source": "Psychedelic Alpha",
       "abstract": "",
       "date": "2026-09-07",
-      "authors": [],
-      "doi": ""
-    },
-    {
-      "title": "Pα+ Library: Psychedelic REMS",
-      "url": "https://psychedelicalpha.com/news/p%ce%b1-library-psychedelic-rems/",
-      "source": "Psychedelic Alpha",
-      "abstract": "As potential approvals of psychedelic therapies draw closer, attention is increasingly turning to what their real-world delivery might look like. While many details remain unknown, one thing appears increasingly likely: Risk Evaluation and Mitigation Strategies (REMS) will play a significant role in shaping how FDA-approved psychedelic therapies are delivered. REMS are additional safeguards that the […]",
-      "date": "2026-09-03",
-      "authors": [],
-      "doi": ""
-    },
-    {
-      "title": "Pα+ Psychedelic Bulletin #230: Pharma Ramps Up Ad Spend on Psychedelic Keywords; ARPA-H’s Ibogaine Funding; Psychedelics in Medicaid?",
-      "url": "https://psychedelicalpha.com/news/p%ce%b1-psychedelic-bulletin-230-pharma-ramps-up-ad-spend-on-psychedelic-keywords-arpa-hs-ibogaine-funding-psychedelics-in-medicaid/",
-      "source": "Psychedelic Alpha",
-      "abstract": "Pharma Ramps Up Google Ad Spend on Psychedelic Keywords Large pharmaceutical companies appear to be ramping up U.S. Google ad spend targeting psychedelics-related keywords, with the most common ads pointing to Johnson & Johnson’s Spravato webpage. Searching for more generic terms like “psychedelic” returns results from J&J as well as at-home ketamine providers like Mindbloom […]",
-      "date": "2026-09-01",
       "authors": [],
       "doi": ""
     },
@@ -575,7 +575,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2018-004480-31/CZ",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-09-21",
+      "date": "2026-09-22",
       "authors": [],
       "doi": ""
     },
@@ -584,7 +584,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2020-005037-32/CZ",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-09-21",
+      "date": "2026-09-22",
       "authors": [],
       "doi": ""
     },
@@ -593,7 +593,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2021-002909-10/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-09-21",
+      "date": "2026-09-22",
       "authors": [],
       "doi": ""
     },
@@ -602,7 +602,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2015-000550-37/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-09-21",
+      "date": "2026-09-22",
       "authors": [],
       "doi": ""
     },
@@ -611,7 +611,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2021-000041-40/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-09-21",
+      "date": "2026-09-22",
       "authors": [],
       "doi": ""
     },
@@ -620,7 +620,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2020-000829-55/DK",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-09-21",
+      "date": "2026-09-22",
       "authors": [],
       "doi": ""
     },
@@ -629,7 +629,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2020-002790-94/SE",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-09-21",
+      "date": "2026-09-22",
       "authors": [],
       "doi": ""
     },
@@ -638,7 +638,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2021-006200-33/FI",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-09-21",
+      "date": "2026-09-22",
       "authors": [],
       "doi": ""
     },
@@ -647,7 +647,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2019-004812-73/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-09-21",
+      "date": "2026-09-22",
       "authors": [],
       "doi": ""
     },
@@ -656,7 +656,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2022-002369-14/BE",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-09-21",
+      "date": "2026-09-22",
       "authors": [],
       "doi": ""
     },

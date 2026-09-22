@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-21T13:05:50.557607+00:00",
+  "generated_at": "2026-09-22T11:57:13.136385+00:00",
   "items": [
     {
       "title": "Blinding integrity in psychedelic research: Evidence from a comparative randomized controlled trial of psilocybin, MDMA, and methylphenidate in healthy volunteers",
@@ -32,6 +32,172 @@
         "mdma"
       ],
       "added_at": "2026-07-09T10:03:12.956794+00:00"
+    },
+    {
+      "title": "N,N-Dimethyltryptamine and harmine formulation alters transient EEG topography sequences near the peak of the psychedelic state.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42768932/",
+      "source": "PubMed",
+      "date": "2026-09-22",
+      "authors": [
+        "Niedernhuber Maria",
+        "Suay Dila",
+        "Lenggenhager Bigna"
+      ],
+      "doi": "10.1177/02698811261481062",
+      "summaries": {
+        "en": "Double-blind EEG study examined how intranasal DMT combined with buccal harmine affects brain electrical activity near peak psychedelic effects. Compared to placebo and harmine alone, DMT/harmine reduced microstate duration while increasing occurrence and complexity. Neural state transitions became less random and more predictable. Findings support theories that psychedelics enhance neural signal diversity and metastability.",
+        "sv": "Dubbelblind EEG-studie undersökte hur intranasal DMT kombinerat med bukkal harmin påverkar hjärnans elektriska aktivitet nära toppen av psykedelisk effekt. Jämfört med placebo och harmin enbart minskade DMT/harmin mikrotillståndens varaktighet medan förekomst och komplexitet ökade. Neurala tillståndsövergångar blev mindre slumpmässiga och mer förutsägbara. Resultaten stödjer teorier om att psykedelika ökar neural signaldiversitet och metastabilitet.",
+        "no": "Dobbelblindet EEG-studie undersøkte hvordan intranasal DMT kombinert med bukkal harmin påvirker hjernens elektriske aktivitet nær toppen av psykedelisk effekt. Sammenlignet med placebo og harmin alene reduserte DMT/harmin varighet av mikrotilstander, mens forekomst og kompleksitet økte. Nevralt tilstandsoverganger ble mindre tilfeldige og mer forutsigbare. Funnene støtter teorier om at psykedelika øker neural signaldiversitet og metastabilitet.",
+        "da": "Dobbeltblindet EEG-studie undersøgte, hvordan intranasal DMT kombineret med bukkal harmin påvirker hjernens elektriske aktivitet nær toppen af psykedelisk effekt. Sammenlignet med placebo og harmin alene reducerede DMT/harmin varigheden af mikrotilstande, mens hyppighed og kompleksitet steg. Neurale tilstandsovergange blev mindre tilfældige og mere forudsigelige. Resultaterne understøtter teorier om, at psykedelika øger neural signaldiversitet og metastabilitet.",
+        "fi": "Kaksoissokkoutettu EEG-tutkimus tutki, miten intranaasaalinen DMT yhdessä bukkaaliharmonin kanssa vaikuttaa aivojen sähköiseen toimintaan psykedelisen vaikutuksen huipulla. Verrattuna plaseboon ja pelkkään harmiiniin DMT/harmiin vähensi mikrotilan kestoa, kun taas esiintyminen ja monimutkaisuus lisääntyivät. Neuraalien tilojen siirtymät tulivat vähemmän satunnaisiksi ja ennustettavammiksi. Tulokset tukevat teorioita siitä, että psykedeliikka lisäävät neuraalista signaalin monimuotoisuutta ja metastabiilisuutta.",
+        "is": "Tvíblindað EEG-rannsókn skoðaði hvernig innsná DMT ásamt buccal harmíni hefur áhrif á rafrænni starfsemi heila nálægt hámarki sálkennilífs áhrifa. Samanborið við lyfleysu og harmín eingöngu, minnkaði DMT/harmín tíðni örsmára ástanda en aukin kom fram í tíðni og flóknum. Breyting taugaástanda varð óhappalegri og fyrirsjáanlegri. Niðurstöður styðja kenningar um að sálkenni auka fjölbreytileika og metastöðugleika taugakerfis.",
+        "et": "Kahekordse pimeda EEG-uuringu käigus uuriti, kuidas intranaasaalne DMT koos bukkaalsete harmiiniga mõjutab aju elektrilist aktiivsust psühhedeelse efekti tipus. Võrreldes platseeboga ja ainult harmiinega vähendasid DMT/harmiin mikrotingimuse kestust, samas kui esinemise sagedus ja keerukus suurenesid. Neurotingimuse üleminekud muutusid vähem juhuslikeks ja ennustatavamaks. Tulemused toetavad teooriaid, et psühhedeelid suurendavad neuraalset signaali mitmekesisust ja metastabiilsust.",
+        "lv": "Dubulti-akls EEG pētījums pārbaudīja, kā intranazeāls DMT kopā ar bukālo harmīnu ietekmē smadzeņu elektrisko aktivitāti psihedeliskā stāvokļa virsotnē. Salīdzinājumā ar placebu un tikai harmīnu, DMT/harmīns samazināja mikrostāvokļa ilgumu, palielinoties to parādīšanās biežumam un sarežģītībai. Neirālo stāvokļu pārejas kļuva mazāk nejaušas un prognozējamas. Atklājumi atbalsta teorijas, ka psihedeliki palielina neirālā signāla daudzveidību un metastabilitāti.",
+        "lt": "Dvigubai aklas EEG tyrimas nagrinėjo, kaip intranaozinis DMT kartu su bukaliniu harminu veikia smegenų elektrinę veiklą psichodelinio efekto viršūnėje. Lyginant su placebu ir tik harminu, DMT/harminas sumažino mikrostatės trukmę, tačiau padidėjo jų dažnis ir sudėtingumas. Neuro būsenų perėjimai tapo mažiau atsitiktini ir labiau nuspėjami. Rezultatai parempia teorijas, kad psichodelikai padidina neurinio signalo įvairovę ir metastabilumą."
+      },
+      "notable": false,
+      "notable_reasons": null,
+      "relevance_score": 4,
+      "study_type": "rct",
+      "substances": [
+        "ayahuasca",
+        "other"
+      ],
+      "added_at": "2026-09-22T11:55:10.210502+00:00"
+    },
+    {
+      "title": "Modulation of GABA and glutamate by ketamine in depression: A systematic review and meta-analysis of magnetic resonance spectroscopy studies.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42768091/",
+      "source": "PubMed",
+      "date": "2026-09-21",
+      "authors": [
+        "Singh Balwinder",
+        "Ali Hossam M",
+        "Miola Alessandro"
+      ],
+      "doi": "10.1038/s41386-026-02562-4",
+      "summaries": {
+        "en": "Systematic review and meta-analysis of 11 ¹H-MRS studies examining ketamine's effects on GABA and glutamate in depression. Despite good study quality, significant methodological heterogeneity limited findings. Meta-analyses revealed no statistically significant treatment-related changes in metabolite levels. The excitation-inhibition imbalance hypothesis requires further validation.",
+        "sv": "Systematisk granskning och metaanalys av 11 ¹H-MRS-studier om ketamins effekter på GABA och glutamat vid depression. Trots god studiekvalitet begränsade betydande metodologisk variation resultaten. Metaanalyserna visade inga statistiskt signifikanta behandlingsrelaterade förändringar i metabolitnivåer. Hypotesen om obalans mellan excitation och inhibition kräver ytterligare validering.",
+        "no": "Systematisk gjennomgang og metaanalyse av 11 ¹H-MRS-studier som undersøker ketamins effekter på GABA og glutamat ved depresjon. Til tross for god studiekvalitet begrenset betydelig metodologisk variasjon funnene. Metaanalysene viste ingen statistisk signifikante behandlingsrelaterte endringer i metabolittnivåer. Hypotesen om ubalanse mellom eksitasjon og inhibisjon krever ytterligere validering.",
+        "da": "Systematisk review og metaanalyse af 11 ¹H-MRS-studier om ketamins effekter på GABA og glutamat ved depression. På trods af høj studierkvalitet begrænsede betydelig metodologisk variation resultaterne. Metaanalyserne viste ingen statistisk signifikante behandlingsrelaterede ændringer i metabolitkoncentrationer. Hypotesen om ubalance mellem excitation og inhibition kræver yderligere validering.",
+        "fi": "Systemaattinen katsaus ja metaanalyysi 11 ¹H-MRS-tutkimuksesta, joissa tarkasteltiin ketamiinin vaikutuksia GABA:aan ja glutamaattiin masennuksessa. Huolimatta hyvästä tutkimuksen laadusta merkittävä metodologinen vaihtelu rajoitti löydöksiä. Metaanalyyseissa ei todettu tilastollisesti merkitseviä hoitoon liittyviä metaboliittimuutoksia. Syöttö-estohypoteesin validointi vaatii lisätutkimuksia.",
+        "is": "Kerfræðileg yfirlit og gagnasöfnun 11 ¹H-MRS-rannsókna um áhrif ketamíns á GABA og glútamöt við þunglyndi. Þrátt fyrir góða rannsóknargæði takmarkaði veruleg aðferðafræðilegur breytileiki niðurstöðurnar. Gagnasöfnun sýndi engar tölfræðilega marktækar breytingar á efnefritum tengdar meðferð. Tilgátan um ójafnvægi milli örvunar og hemlunar þarf frekari sannprófun.",
+        "et": "Süstemaatiline ülevaade ja metaanalüüs 11 ¹H-MRS-uuringust, mis uurisid ketamiini mõju GABA-le ja glutamaadile depressiooni korral. Vaatamata heale uuringu kvaliteedile piiras märkimisväärne metodoloogiline varieeruvus tulemusi. Metaanalüüsid ei näidanud statistiliselt olulisi raviga seotud metaboliitide muutusi. Ergastus-inhibeerimistasakaalu hüpoteesi valideerimiseks on vaja täiendavaid uuringuid.",
+        "lv": "Sistēmiska pārskatīšana un metaanalīze no 11 ¹H-MRS pētījumiem par ketamīna ietekmi uz GABA un glutamātu depresijas gadījumā. Neskatoties uz labu pētījuma kvalitāti, nozīmīga metodoloģiskā mainība ierobežoja rezultātus. Metaanalīze neuzrādīja statistiski nozīmīgas ar ārstēšanu saistītas metabolītu izmaiņas. Ekscitācijas-inhibīcijas nelīdzsvara hipotēze prasa turpmāku validāciju.",
+        "lt": "Sistemingas 11 ¹H-MRS tyrimų apžvalga ir metaanalizė, kurioje tiriamas ketamino poveikis GABA ir glutamatui esant depresijaiui. Nepaisant geros tyrimų kokybės, reikšminga metodologinė heterogeniškumas ribojo rezultatus. Metaanalizė nerodė statistiškai reikšmingų su gydymu susijusių metabolito pokyčių. Jaudinimo-inhibicijos disbalanso hipotezė reikalinga tolesnio pagrindimo."
+      },
+      "notable": false,
+      "notable_reasons": null,
+      "relevance_score": 4,
+      "study_type": "review",
+      "substances": [
+        "ketamine"
+      ],
+      "added_at": "2026-09-22T11:55:10.210502+00:00"
+    },
+    {
+      "title": "Pharmacokinetics and safety of a modified-release psilocybin formulation: A SAD Phase I trial in normal-weight and overweight/obese participants.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42767271/",
+      "source": "PubMed",
+      "date": "2026-09-21",
+      "authors": [
+        "Signor Anna",
+        "Comai Stefano",
+        "Pasut Gianfranco"
+      ],
+      "doi": "10.1002/bcp.70839",
+      "summaries": {
+        "en": "Phase I SAD trial evaluating safety and pharmacokinetics of REL-P11, a modified-release psilocybin formulation, in 40 healthy adults (8 normal-weight, 32 overweight/obese). Single oral doses (0.5–2.0 mg) showed dose-proportional psilocin exposure with low variability and no serious adverse events. Modified-release formulation demonstrated lower peak concentrations and prolonged absorption compared to immediate-release forms.",
+        "sv": "Fas I-studie som utvärderade säkerhet och farmakokinetik för REL-P11, en långsam-frisättningsformulering av psykedelika, hos 40 friska vuxna (8 normalviktiga, 32 överviktiga/obesa). Enstaka orala doser (0,5–2,0 mg) visade dosproprotionell exposition med låg variation och inga allvarliga biverkningar. Långsam-frisättningsformuleringen uppvisade lägre toppkoncentrationer än snabbfrisättningsformer.",
+        "no": "Fase I SAD-studie som evaluerte sikkerhet og farmakokinetikk for REL-P11, en modifisert-frisettingsformulering av psykedelika, hos 40 friske voksne (8 normalvektige, 32 overvektige/obese). Enkelte orale doser (0,5–2,0 mg) viste doseproporsjonell eksponering med lav variabilitet og ingen alvorlige bivirkninger. Modifisert-frisettingsformuleringen hadde lavere toppkonsentrasjoner sammenlignet med hurtigfrisettingsformer.",
+        "da": "Fase I SAD-studie, som evaluerede sikkerhed og farmakokinetik for REL-P11, en modified-release-formulering af psykedelika, hos 40 raske voksne (8 normalvægtige, 32 overvægtige/obese). Enkelte orale doser (0,5–2,0 mg) viste dosepropor­tional eksponering med lav variabilitet og ingen alvorlige bivirkninger. Modified-release-formuleringen viste lavere topkoncentrationer sammenlignet med hurtig-release-former.",
+        "fi": "Vaiheen I SAD-tutkimus, joka arvioi REL-P11-psykedoliaafin modifioidun vapautumisen muotoilun turvallisuutta ja farmakokinetiikkaa 40 terveellä aikuisella (8 normaalipainoisella, 32 ylipainoisella/lihavalla). Yksittäiset suuonteloon annettavat annokset (0,5–2,0 mg) osoittivat annoksesta riippuvaa altistumista alhaisella vaihtelulla ja ilman vakavia sivuvaikutuksia. Modifioitu vapautuminen osoitti alhaisempia huippupitoisuuksia verrattuna nopeasti vapautuviin muotoiluihin.",
+        "is": "Fasi I SAD-rannsókn sem kannaði öryggi og lyfjafræði REL-P11, breytt útgáfu af sálfræðilegum lyfjum með seinkuðri losun, hjá 40 heilbrigðum fullorðnum (8 eðlilegir þyngd, 32 of- og of-þungir). Einföld munnleg skammtar (0,5–2,0 mg) sýndu skömmtunarhlutfallslega áhrifamagn með litlum breytileika og engum alvarlegum aukaverkunum. Breytt losunarlausn sýndi lægri hámarksþéttni miðað við hraðari losunarlausnir.",
+        "et": "Faasi I SAD-uuring, mis hinnati REL-P11 muudetud vabanemiskujul psühhedeelikume ohutust ja farmakokineetikat 40 tervel täiskasvanusel (8 normaalkaalulised, 32 ülekaalulised/rasvumise). Üksikud suu kaudu manustatud doosid (0,5–2,0 mg) näitasid doosiga proportsionaalset ekspouneerumist madala varieeruvusega ja ilma tõsiste kõrvaltoimeteta. Muudetud vabanemiskujul formulatsioon näitas madalamaid tipukonsentrratsioone võrreldes kiire vabanemisega vormidega.",
+        "lv": "I fāzes SAD pētījums, kas novērtēja REL-P11 modificētas atbrīvošanas psihedeliku formulējuma drošību un farmakokinetiku 40 veseliem pieaugušajiem (8 normāla svara, 32 ar pārsvarām/aptaukošanu). Atsevišķas perorālas devas (0,5–2,0 mg) parādīja devas proporcionālu ekspozīciju ar zemu mainīgumu un bez nopietnu blakusparādību. Modificētas atbrīvošanas formulējums parādīja zemākas maksimālās koncentrācijas salīdzinājumā ar ātrās atbrīvošanas formām.",
+        "lt": "I fazės SAD tyrimas, kurio metu buvo vertinamas REL-P11 modifikuoto atpalaidavimo psichedelikų formulės saugumas ir farmakokinetika 40 sveikiems suaugusiems žmonėms (8 normalaus svorio, 32 su antsvoriu/nutukimu). Atskiros perorales dozės (0,5–2,0 mg) parodė dozės proporcingą ekspoziciją su mažu kintamumu ir be rimtų nepageidaujamų reiškinių. Modifikuoto atpalaidavimo formulė parodė žemesnes piko koncentracijas, palyginti su greitojo atpalaidavimo formomis."
+      },
+      "notable": true,
+      "notable_reasons": {
+        "en": "First-in-human study of a modified-release psilocybin formulation (REL-P11) with pharmacokinetic characterization and subperceptual dosing design for metabolic disorders.",
+        "sv": "Första studien på människor av en förändrad-release psiklocybinformulering (REL-P11) med farmakokinetisk karakterisering och subperceptuell doseringdesign för metabola störningar.",
+        "no": "Første studie på mennesker av en modifisert-release psilo-cybinformulering (REL-P11) med farmakokinetisk karakterisering og subperceptuell doseringsdesign for metabolske lidelser.",
+        "da": "Første human-studie af en modificeret-release psilocibin-formulering (REL-P11) med farmakokinetisk karakterisering og subperceptuel doseringdesign til metaboliske forstyrrelser.",
+        "fi": "Ensimmäinen ihmisillä tehty tutkimus muunnetun vapautumisen psilosybiini-formulaatiosta (REL-P11) farmakokineettisellä karakterisoinnilla ja subperceptuaalisen annostelun suunnittelulla aineenvaihdunnan häiriöihin.",
+        "is": "Fyrri rannsókn á mönnum á breyttu-losunar psílokybin-formúlugerð (REL-P11) með farmakóhverfis einkennum og undirsonun skammta hönnun fyrir efnaskiptaröskun.",
+        "et": "Esimene inimestel läbiviidud uuring modifitseeritud-vabastusega psülotsiibiin-formulatsioonist (REL-P11) farmakokineetiliste omaduste iseloomustamisega ja subpertseptuaalse doseerimisega ainevahetuse häirete raviks.",
+        "lv": "Pirmais pētījums cilvēkiem par modificēta-izlaides psilotsibīna formulējumu (REL-P11) ar farmakokinētisko raksturošanu un subperceptuālu dosejas dizainu metabolo traucējumu ārstēšanai.",
+        "lt": "Pirmasis tyrimų su žmonėmis apie modifikuoto-išleidimo pslocibino formuluotę (REL-P11) su farmakokinetine charakterizacija ir subperceptualiu dozavimo dizainu metabolinių sutrikimų gydymui."
+      },
+      "relevance_score": 4,
+      "study_type": "rct",
+      "substances": [
+        "psilocybin"
+      ],
+      "added_at": "2026-09-22T11:55:10.210502+00:00"
+    },
+    {
+      "title": "An Open-Label, Dose-Escalation Trial of Psilocybin-Assisted Therapy for Bipolar II Depression.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42765891/",
+      "source": "PubMed",
+      "date": "2026-09-21",
+      "authors": [
+        "Downey Amanda E",
+        "Szigeti Balázs",
+        "Bradley Ellen R"
+      ],
+      "doi": "10.4088/JCP.25m16227",
+      "summaries": {
+        "en": "Open-label, dose-escalation trial investigating psilocybin-assisted therapy for bipolar II depression. Study design allows for systematic dose increases to establish safety and efficacy parameters in this patient population.",
+        "sv": "Öppen studie med dosökning som undersöker pslocybin-assisterad terapi för bipolär depression typ II. Studiedesignen möjliggör systematisk dosökning för att etablera säkerhet och effektivitet hos denna patientgrupp.",
+        "no": "Åpen studie med doseskalering som undersøker psilocybin-assistert terapi for bipolar II-depresjon. Studiedesignen tillater systematisk dosøkning for å fastslå sikkerhet og effektivitet hos denne pasientgruppen.",
+        "da": "Åben studie med dosestigning, der undersøger psilocybin-assisteret terapi til bipolar II-depression. Studiedesignet muliggør systematisk dosestigning for at fastlægge sikkerhed og effektivitet hos denne patientgruppe.",
+        "fi": "Avoin tutkimus, jossa tutkitaan psilosyybin-avusteista terapiaa bipolaarisen masennuksen tyypin II hoitoon asteittain nousevilla annoksilla. Tutkimusasetelma mahdollistaa systemaattisen annosnoston turvallisuuden ja tehokkuuden määrittämiseksi.",
+        "is": "Opin rannsókn með skalandi skammtum sem rannsakar psýlósýbín-aðstoðað meðferð fyrir tvíþætta þunglyndi. Rannsóknarhönnunin leyfir kerfisbundna skammtaaukningu til að ákvarða öryggi og skilvirkni hjá þessum sjúklingahópi.",
+        "et": "Avatud uuringud annuse tõstmisega, mis uurib psülotsübiini-abi teraapiaid bipolaarse depressiooni tüüp II-ks. Uuringu kujundus võimaldab süstemaatilist annuse tõstmist selle patsiendirühma ohutuse ja tõhususe määramiseks.",
+        "lv": "Atvērts pētījums ar devas paaugstināšanu, kurā tiek pētīta psilocibīna-palīgterāpija bipolāras II tipa depresijas ārstēšanā. Pētījuma dizains ļauj sistemātiski paaugstināt devas, lai noskaidrotu drošību un efektivitāti šajā pacientu grupā.",
+        "lt": "Atviras tyrimas su dozės padidinimu, kuriame tiriama psilo­cybino pagalba skatinta terapija II tipo bipolinei depresijai. Tyrimų dizainas leidžia sistemingai didinti dozę, kad būtų nustatyta šios pacientų grupės saugumas ir veiksmingumas."
+      },
+      "notable": false,
+      "notable_reasons": null,
+      "relevance_score": 4,
+      "study_type": "rct",
+      "substances": [
+        "psilocybin"
+      ],
+      "added_at": "2026-09-22T11:55:10.210502+00:00"
+    },
+    {
+      "title": "Implementation and Preliminary Evaluation of an Intravenous Ketamine Protocol for Psychiatric Conditions in Medical and Surgical Units: A One-Year Pilot Study.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42767564/",
+      "source": "PubMed",
+      "date": "2026-09-21",
+      "authors": [
+        "Hu Bo",
+        "Ortiz-Cruz Alfonso",
+        "Sachidanandan Ridhaa"
+      ],
+      "doi": "10.1016/j.jaclp.2026.09.005",
+      "summaries": {
+        "en": "One-year pilot study evaluating IV ketamine implementation in general hospital units for depression and psychiatric conditions. A psychiatry-specific protocol (0.5-1.0 mg/kg) was developed for consultation-liaison services, enabling treatment on standard floors with continuous pulse oximetry monitoring. Feasibility assessed through workflow integration, staffing needs, and safety outcomes; depression and anxiety measured via MADRS, PHQ-9, and GAD-7.",
+        "sv": "Ettårigt pilotprojekt som utvärderar implementering av intravenös ketamin på allmänna sjukhusavdelningar för depression och psykiatriska tillstånd. Ett psykiatrispecifikt protokoll (0,5-1,0 mg/kg) utvecklades för konsultationspsykiatri, vilket möjliggjorde behandling på standardavdelningar med kontinuerlig pulsoximetri. Genomförbarhet bedömdes genom arbetsflödesintegrering, personalresurser och säkerhet; depression och ångest mättes med MADRS, PHQ-9 och GAD-7.",
+        "no": "Ettårig pilotstudie som evaluerer implementering av intravenøs ketamin på alminnelige sykehusavdelinger for depresjon og psykiatriske tilstander. Et psykiatri-spesifikkt protokoll (0,5-1,0 mg/kg) ble utviklet for konsultasjonspsykiatri, som muliggjorde behandling på standardavdelinger med kontinuerlig pulsoksymetri-overvåking. Gjennomførbarhet vurdert gjennom arbeidsflytintegrasjon, bemanningsbehov og sikkerhet; depresjon og angst målt med MADRS, PHQ-9 og GAD-7.",
+        "da": "Etårigt pilotstudie, der implementering af intravenøs ketamin på almindelige hospitalsafdelinger for depression og psykiatriske tilstande evalueres. En psykiatri-specifik protokol (0,5-1,0 mg/kg) blev udviklet til konsultationspsykiatri, hvilket muliggjorde behandling på standardafdelinger med kontinuerlig pulsoxymetri-overvågning. Gennemførlighed vurderet gennem arbejdsgangintegration, bemandingsbehov og sikkerhed; depression og angst målt med MADRS, PHQ-9 og GAD-7.",
+        "fi": "Vuoden mittainen pilotitutkimus, joka arvioi ketamiinin intravenöösä antamista yleisillä sairaala-osastoilla masennuksen ja psyykkisten häiriöiden hoidossa. Psykiatriaan erityisesti suunniteltu protokolla (0,5-1,0 mg/kg) kehitettiin konsultaatiopalkiaksiiatriaan, mikä mahdollisti hoidon tavallisilla osastoilla jatkuvan pulssioxymetrian valvonnan kanssa. Toteuttamiskelpoisuus arvioitiin työnkulun integroinnin, henkilöstöresurssien ja turvallisuuden kautta; masennusta ja ahdistusta mitattiin MADRS-, PHQ-9- ja GAD-7-asteikoilla.",
+        "is": "Eins árs tilraunarannsókn sem metur innleiðingu á intravenösri ketamíni á almennum sjúkrahúsdeild fyrir þunglyndi og geðrækileg ástand. Sérstaklega utformuð ketamín-samskipti fyrir geðlækningar (0,5-1,0 mg/kg) voru þróuð fyrir ráðgjöf geðlækna, sem gerðu kleift að meðhöndla sjúklinga á venjulegum deild með stöðugri púlsoxymetrí-eftirliti. Framkvæmdarleiki metinn með samþættingu verkflæðis, starfsmannaþörf og öryggi; þunglyndi og kvíði mæld með MADRS, PHQ-9 og GAD-7.",
+        "et": "Aastase pilootuuringu raames hinnati intravenoosne ketamiini rakendamist üldistel haiglaosakondadel depressiooni ja psühhiaatriliste seisundite raviks. Psühhiaatriaks spetsiaalselt välja töötatud protokoll (0,5-1,0 mg/kg) loodi konsultatsiooniabi jaoks, mis võimaldas raviprotsessi läbiviimine tavalistel osakondadel pidevate pulsoksümeetria jälgimisega. Teostatavus hinnati tööprotsessi integreerimise, personalitarbe ja ohutuse kaudu; depressiooni ja ärevust mõõdeti MADRS, PHQ-9 ja GAD-7 abil.",
+        "lv": "Viena gada pētījums, kurā novērtēts intravenozā ketamīna ieviešanas iespējamība vispārīgajos slimnīcas nodalījumos depresijas un psihiatrisku stāvokļu ārstēšanai. Psihiatrijai specifisks protokols (0,5-1,0 mg/kg) tika izstrādāts konsultējošajai psihiatrijai, kas iespējoja pacienta ārstēšanu standarta palātās ar nepārtrauktu pulsa oksimetrijas monitorēšanu. Iespējamība novērtēta, pārbaudot darbplūsmas integrāciju, personāla nepieciešamību un drošību; depresija un trauksme mērīta, izmantojot MADRS, PHQ-9 un GAD-7.",
+        "lt": "Vienerių metų pagalbinio tyrimo metu buvo vertinama intraveninės ketamino naudojimo galimybė bendrose ligoninės skyriuose depresijos ir psichiatrinių sutrikimų gydymui. Psichiatrijai skirtas protokolas (0,5-1,0 mg/kg) buvo sukurtas konsultacinei psichiatrijai ir leido gydyti pacientus standartiniuose skyriuose su nuolatine pulso oksimetrijos kontrole. Įgyvendinimo realumas vertintas pagal darbo eigos integravimą, personalą ir saugumą; depresija ir nerimas matuoti naudojant MADRS, PHQ-9 ir GAD-7 skalę."
+      },
+      "notable": false,
+      "notable_reasons": null,
+      "relevance_score": 3,
+      "study_type": "observational",
+      "substances": [
+        "ketamine"
+      ],
+      "added_at": "2026-09-22T11:55:10.210502+00:00"
     },
     {
       "title": "A circuit dissection of perception-action decoupling in S-ketamine-induced hallucination-like states.",
@@ -189,6 +355,37 @@
         "psilocybin"
       ],
       "added_at": "2026-09-18T11:33:47.001208+00:00"
+    },
+    {
+      "title": "Default mode network functional connectivity following treatment with conventional antidepressants and (es)ketamine in major depressive disorder: A systematic review.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42767040/",
+      "source": "PubMed",
+      "date": "2026-09-17",
+      "authors": [
+        "Lima Constantino Juliana",
+        "de Jager Jesca E",
+        "Nuninga Jasper O"
+      ],
+      "doi": "10.1016/j.pscychresns.2026.112333",
+      "summaries": {
+        "en": "Systematic review of 19 studies (13 on conventional antidepressants, N=546; 6 on ketamine, N=247) examining default mode network changes in major depressive disorder. Conventional antidepressants showed heterogeneous connectivity changes, some correlating with clinical improvement. Ketamine predominantly reduced default mode network connectivity, especially limbic connections. Despite distinct initial mechanisms, both treatments may share downstream neural adaptations, though study heterogeneity limits definitive conclusions about treatment-resistant depression.",
+        "sv": "Systematisk granskning av 19 studier (13 om konventionella antidepressiva, N=546; 6 om ketamin, N=247) som undersökte förändring i default mode network vid svår depression. Konventionella antidepressiva visade varierande kopplingsförändringar, delvis korrelerade med klinisk förbättring. Ketamin reducerade främst default mode network-konnektivitet, särskilt limbiska förbindelser. Trots olika startmekanismer kan båda behandlingarna dela nedströmsampassningar, även om studieheterogenitet begränsar slutsatser om behandlingsresistent depression.",
+        "no": "Systematisk oversikt av 19 studier (13 om konvensjonelle antidepressiva, N=546; 6 om ketamin, N=247) som undersøkte endringer i default mode network ved alvorlig depresjon. Konvensjonelle antidepressiva viste heterogene tilkoblingendringer, delvis korrelert med klinisk forbedring. Ketamin reduserte hovedsakelig default mode network-tilkobling, særlig limbiske forbindelser. Til tross for distinkte initialsmekanismer kan begge behandlinger dele nedstrømsadaptasjoner, selv om studieheterogenitet begrenser konklusjoner om behandlingsresistent depresjon.",
+        "da": "Systematisk gennemgang af 19 studier (13 om konventionelle antidepressiva, N=546; 6 om ketamin, N=247) som undersøgte default mode network-ændringer ved svær depression. Konventionelle antidepressiva viste heterogene konnektivitetsændringer, nogle korreleret med klinisk forbedring. Ketamin reducerede primært default mode network-forbindelser, især limbiske forbindelser. På trods af forskellige initialsmekanismer kan begge behandlinger dele nedstrømsadaptationer, selvom studieheterogenitet begrænser konklusioner om behandlingsresistent depression.",
+        "fi": "Systemaattinen katsaus 19 tutkimukseen (13 tavanomaisista masennuslääkkeistä, N=546; 6 ketamiinista, N=247) jotka tutkivat default mode network -muutoksia vakavassa masennuksessa. Tavanomaiset masennuslääkkeet osoittivat heterogeenisia yhteysmuutoksia, joista osa korreloi kliinisen paranemisen kanssa. Ketamiini vähensi pääasiassa default mode network -yhteyksiä, etenkin limbisia yhteyksiä. Huolimatta erilaisista alkumekanismeista molemmat hoitavat voivat jakaa laskevat neuraaliadaptaatiot, vaikka tutkimusten heterogeenisuus rajoittaa johtopäätöksiä hoitoresistenttista masennuksesta.",
+        "is": "Kerfræðileg yfirlit yfir 19 rannsóknir (13 um hefðbundin þunglyndislyf, N=546; 6 um ketamín, N=247) sem rannsökuðu breytingar á default mode network við alvarleg þunglyndi. Hefðbundin þunglyndislyf sýndu ósamræmi tengslbreytingar, sumar í tengslum við klíníska bata. Ketamín minnkaði fyrst og fremst default mode network-tengsl, sérstaklega limbisk tengsöl. Þrátt fyrir ólík upphafsbindi geta báðar meðferðir deilt niðurstreymisaðlögun, þó að ósamræmi rannsókna takmarkar ályktanir um þunglyndi sem þolir ekki meðferð.",
+        "et": "Süstemaatiline ülevaade 19 uuringust (13 tavapärastest antidepressantidest, N=546; 6 ketamiinist, N=247), mis uurisid default mode network muutusi rasketes depressioonis. Tavapärased antidepressandid näitasid heterogeenseid ühendavuse muutusi, millest osa oli seotud kliinilise paranemisega. Ketamiin vähendas peamiselt default mode network ühendavust, eriti limbilisi ühendusi. Hoolimata erinevatest algmehanismidest võivad mõlemad ravid jagada allavoo neuraalseid kohanemisi, kuigi uuringute heterogeensus piirab järeldusi raviresistentse depressiooni kohta.",
+        "lv": "Sistematisks pārskats par 19 pētījumiem (13 par parastu antidepresantiem, N=546; 6 par ketamīnu, N=247), kuros pētniecības default mode network izmaiņas smagā depresijā. Parasti antidepresivu radīja heterogēnas savienojamības izmaiņas, no kurām dažas bija saistītas ar kliniskajiem uzlabojumiem. Ketamīns galvenokārt samazināja default mode network savienojamību, īpaši limbiskos savienojumus. Neskatoties uz dažādiem sākotnējiem mehānismiem, abas terapijas var dalīties lejupplūdē esošajos neiroloģiskajos pielāgojumos, lai gan pētījumu dažādība ierobežo secinājumus par ārstēšanai rezistentajām depresijām.",
+        "lt": "Sisteminė 19 tyrimų (13 apie įprastus antidepresantus, N=546; 6 apie ketaminą, N=247) apžvalga, tirianti default mode network pokyčius sunkioje depresijoje. Įprasti antidepresantai parodė heterogeninius ryšio pokyčius, kai kurie susiję su klinikiniu pagerintu. Ketaminas daugiausia sumažino default mode network ryšį, ypač limbinį ryšį. Nepaisant skirtingų pradinių mechanizmų, abi gydymo formos gali dalintiesi žemutinės srovės neuroniniais prisitaikymais, nors tyrimų heterogeniškumas riboja išvadas apie vaistams neatsparią depresiją."
+      },
+      "notable": false,
+      "notable_reasons": null,
+      "relevance_score": 4,
+      "study_type": "review",
+      "substances": [
+        "ketamine"
+      ],
+      "added_at": "2026-09-22T11:55:10.210502+00:00"
     },
     {
       "title": "Psilocybin restores social novelty investigation in male SAPAP3 knockout mice and engages prefrontal-hippocampal circuitry.",
@@ -1784,189 +1981,6 @@
         "psilocybin"
       ],
       "added_at": "2026-09-16T11:52:56.874622+00:00"
-    },
-    {
-      "title": "Psychopharmacology at an Inflection Point: From Syndromes to Stratified Mechanisms, Circuit-Based Treatments, and Precision Psychiatry.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42735276/",
-      "source": "PubMed",
-      "date": "2026-09-01",
-      "authors": [
-        "Macaluso Matthew"
-      ],
-      "doi": "10.1097/PRA.0000000000000947",
-      "summaries": {
-        "en": "Psychiatry is shifting from treating syndromes to precision medicine based on biological mechanisms. Despite 100+ approved drugs, remission rates for depression remain modest, revealing heterogeneity within diagnoses. About 60% respond to monoamine treatments; others respond to glutamatergic agents like ketamine; some are treatment-resistant. Modern psychopharmacology encompasses synaptic plasticity, circuit regulation, inflammation, and psychedelic-assisted psychotherapy, complemented by neuromodulation techniques and pharmacogenomics.",
-        "sv": "Psykiatrin övergår från att behandla syndromer till precision medicine baserad på biologiska mekanismer. Trots 100+ godkända läkemedel förblir remissionsgraden för depression blygsam, vilket avslöjar heterogenitet inom diagnoser. Cirka 60% svarar på monoaminbehandling; andra svarar på glutamaterga medel som ketamin; några är behandlingsresistenta. Modern psykofarmakologi omfattar synaptisk plasticitet, kretsreglering, inflammation och psykedelika-assisterad psykoterapi, kompletterat med neuromoduleringsteknik och farmakogenetik.",
-        "no": "Psykiatrien går over fra å behandle syndromer til presisjonsmedisin basert på biologiske mekanismer. Til tross for 100+ godkjente legemidler, forblir remisjonraten for depresjon beskjeden, noe som avslører heterogenitet innenfor diagnoser. Omtrent 60% reagerer på monoaminbehandling; andre reagerer på glutamaterge midler som ketamin; noen er behandlingsresistente. Moderne psykofarmakologi omfatter synaptisk plastisitet, kretsregulering, inflammasjon og psykedelika-assistert psykioterapi, supplert med neuromoduleringsteknikker og farmakogenetikk.",
-        "da": "Psykiatrien skifter fra at behandle syndromer til præcisionsmedicin baseret på biologiske mekanismer. På trods af 100+ godkendte lægemidler, forbliver remissionsraten for depression beskeden og afslører heterogenitet inden for diagnoser. Omkring 60% reagerer på monoaminbehandling; andre reagerer på glutamaterge midler som ketamin; nogle er behandlingsresistente. Moderne psykofarmakologi omfatter synaptisk plasticitet, kredsregulering, inflammation og psykedelika-assisteret psykoterapi, suppleret af neuromoduleringstekniker og farmakogenetik.",
-        "fi": "Psykiatria siirtyy oireyhtymien hoidosta tarkkuuslääketieteeseen, joka perustuu biologisiin mekanismeihin. Huolimatta 100+ hyväksytystä lääkkeestä masennuksen remissioprosentti pysyy vaatimattomana, mikä paljastaa heterogeenisuuden diagnoosien sisällä. Noin 60% vastaa monoamiini-hoitoon; toiset vastaavat glutamaattergisiin aineisiin kuten ketamiiniin; jotkut ovat hoitoresistentit. Moderni psykofarmakologia kattaa synaptisen plastisuuden, piirin säätelyn, inflammaation ja psykedeliikka-avusteisen psykoterapian sekä neuromodulaatiotekniikan ja farmakogenomiikan.",
-        "is": "Geðlækninginn skiptir frá meðferð á heilkennum yfir í nákvæma læknisfræði byggða á lífeindafræðilegum aðferðum. Þrátt fyrir 100+ samþykkt lyf helst endalok-hlutfall fyrir þunglyndi hóflegt og leiðir í ljós eðlisaðgreiningu innan greiningarflokka. Um 60% bregðast við monoamín-meðferð; aðrir bregðast við glútamaterga lyfjum eins og ketamíni; sumir eru meðferðarótælir. Nútímaleg sálfrumfræði lyfjanna nær til sameindaframleiðni, flæðisreglunar, bólgu og psýkidélika-aðstoðarmeðferðar, ásamt taukabreytingartækni og lyfjaeðlisfræði.",
-        "et": "Psühhiaatria liigub sündroomide ravilt üle täppismeditsiinile, mis põhineb bioloogilistel mehhanismidel. Vaatamata 100+ heakskiidetud ravimile, jääb depressiooni remissioon tagasihoidlikuks ja paljastab heterogeensust diagnooside piires. Umbes 60% reageerib monoamiin-ravile; teised reageerivad glutamatergilistele ainetele nagu ketamiin; mõned on ravikindlustatud. Kaasaegne psühhofarmakoloogia hõlmab sinaptilise plastilisuse, ahela reguleerimise, põletiku ja psühhedeelikud-toetatud psühhoteraapiat, täiendatud neuromodulatsioonitehnikate ja farmakogenoomiaga.",
-        "lv": "Psihiatrija pāriet no sindromu ārstēšanas uz precīzijas medicīnu, kura balstās uz bioloģiskiem mehānismiem. Neskatoties uz 100+ apstiprinātu zāļu, depresijas remisijas rādītāji paliek pieticīgi un atklāj heterogenitāti diagnožu ietvaros. Aptuveni 60% reaģē uz monoamīna ārstēšanu; citi reaģē uz glutamatērgiem līdzekļiem, piemēram, ketamīnu; daži ir resistenti pret ārstēšanu. Mūsdienu psihofarmakologija aptver sinaptisko plasticitāti, shēmas regulēšanu, iekaisumu un psihedēlikas-palīdzētu psihoterapiju, papildinot ar neirommoduļācijas tehnikām un farmakoģenomiku.",
-        "lt": "Psichiatrija pereina nuo sindromų gydymo prie tikslios medicinos, pagrįstos biologiniais mechanizmais. Nepaisant 100+ patvirtintų vaistų, depresijos remisijos rodikliai išlieka kuklūs ir atskleidžia heterogeniškumą diagnozių ribose. Maždaug 60% reaguoja į monoamino terapiją; kiti reaguoja į glutamatergines medžiagas, tokias kaip ketaminas; kai kurie yra terapijai rezistentūs. Šiuolaikinė psichofarmakologija apima sinaptinę plastiškumą, grandinės reguliavimą, uždegimą ir psichedelikais paremtą psichoterapiją, papildytą neuromoduliavimo technikomis ir farmakogenomika."
-      },
-      "notable": false,
-      "notable_reasons": null,
-      "relevance_score": 4,
-      "study_type": "review",
-      "substances": [
-        "ketamine"
-      ],
-      "added_at": "2026-09-15T11:57:34.349034+00:00"
-    },
-    {
-      "title": "The mPFC-reuniens-hippocampus pathway links brain circuitry and neural plasticity in antidepressant response.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42680757/",
-      "source": "PubMed",
-      "date": "2026-09-01",
-      "authors": [
-        "Veleanu Maxime",
-        "Schuberth Louise",
-        "Kilias Antje"
-      ],
-      "doi": "10.1038/s41467-026-77248-y",
-      "summaries": {
-        "en": "Mouse study identifies the mPFC-reuniens-hippocampus circuit as central to antidepressant response. Chemogenetic activation of infralimbic cortex produced rapid antidepressant-like effects and enhanced hippocampal plasticity. The thalamic nucleus reuniens mediated these effects; blocking it prevented both stimulation-induced antidepressant response and ketamine's therapeutic effects, linking circuit activity to depression.",
-        "sv": "Mösstudien identifierar mPFC-reuniens-hippocampus-kretsen som central för antidepressiv respons. Kemogenetisk aktivering av infralimbisk cortex gav snabb antidepressiv effekt och förbättrad hippocampus-plasticitet. Thalamus nucleus reuniens förmedlade dessa effekter; blockering förhindrade både stimulerings-inducerad respons och ketamins terapeutiska effekter.",
-        "no": "Musesstudien identifiserer mPFC-reuniens-hippocampus-kretsen som sentral for antidepressiv respons. Kemogenetisk aktivering av infralimbisk cortex ga rask antidepressiv effekt og forbedret hippocampus-plastisitet. Thalamus nucleus reuniens formidlet disse effektene; blokkering hindret bade stimuleringsindusert respons og ketamins terapeutiske effekter.",
-        "da": "Musestudien identificerer mPFC-reuniens-hippocampus-kredsløbet som centralt for antidepressiv respons. Kemogenetisk aktivering af infralimbisk cortex gav hurtig antidepressiv effekt og forbedret hippocampus-plasticitet. Thalamus nucleus reuniens formidlede disse effekter; blokering forhindrede både stimuleringsudløst respons og ketamins terapeutiske effekter.",
-        "fi": "Hiiritutkimus tunnistaa mPFC-reuniens-hippocampus-piirin antidepressiivisen vasteen kannalta keskeisenä. Infralimbisen aivokuoren kemogeneetinen aktivointi tuotti nopean antidepressiivisen vaikutuksen ja paransi hippocampuksen plastisuutta. Thalamus nucleus reuniens välitti nämä vaikutukset; sen estäminen esti sekä stimulaation aiheuttaman vasteen että ketamiinin terapeuttisia vaikutuksia.",
-        "is": "Músarannsókn sýnir að mPFC-reuniens-seahöfði-braut er lykilatriði fyrir andirðandi áhrif antidepressiflyfja. Kemógenetísk virkjun infralimbíska kortexsins olli hröðum andirðandi áhrifum og bættri plastisku sannfæringu. Thalamus nucleus reuniens miðlaði þessum áhrifum; blokkun kom í veg fyrir bæði stimulunaráhrif og meðferðaráhrif ketamíns.",
-        "et": "Hiirte uuringu tulemused näitavad, et mPFC-reuniens-hippocampus-ahel on antidepressantide toimele keskne roll. Infralimbilise kooruse kemogeneetiline aktiveerimine andis kiiret antidepressiivsed toimed ja parandas hippocampuse plastilisust. Thalamus nucleus reuniens vahendas neid toimed; selle blokeerimine takistas nii stimuleerimist kui ka ketamiini terapeutilisi toimed.",
-        "lv": "Peles pētījums identificē mPFC-reuniens-hippocampus ceļu kā centrālu antidepresiju atbildei. Infralimbiskās garozas kemogēnētiska aktivizēšana izraisīja ātru antidepresiju efektu un uzlaboja hipokampa plastiskumu. Thalamus nucleus reuniens starpniecīgi realizēja šos efektus; tā bloķēšana novērsa gan stimulācijas izraisītu atbildi, gan ketamīna terapeitiskos efektus.",
-        "lt": "Pelių tyrimas identifikuoja mPFC-reuniens-hippocampus grandinę kaip pagrindinę antidepresantų atsakui. Infraliminės žievės chemogenetinis aktyvavimas sudarė greitą antidepresantinį poveikį ir pagerinę hipokampo plastiškumą. Thalamo nucleus reuniens tarpininko šiems efektams; jo blokavimas stabdė tiek stimuliavimo indukuotą atsaką, tiek ketamino terapinį poveikį."
-      },
-      "notable": false,
-      "notable_reasons": null,
-      "relevance_score": 4,
-      "study_type": "preclinical",
-      "substances": [
-        "ketamine"
-      ],
-      "added_at": "2026-09-02T11:33:33.070909+00:00"
-    },
-    {
-      "title": "Factors Associated with Intentions to Use Psilocybin for Mental Health in Relation to Psychotherapy, Psychiatric Medications, and Natural/Synthetic Options.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42678038/",
-      "source": "PubMed",
-      "date": "2026-09-01",
-      "authors": [
-        "Meier Brian P",
-        "Lappas Courtney M",
-        "Johnson Matthew W"
-      ],
-      "doi": "10.1080/02791072.2026.2727013",
-      "summaries": {
-        "en": "Two independent studies examined factors influencing intentions to use psilocybin for mental health treatment. The research explored how perceptions vary regarding psilocybin's potential role alongside psychotherapy, psychiatric medications, and natural versus synthetic options. This represents one of few systematic investigations into public attitudes toward psilocybin in clinical mental health contexts.",
-        "sv": "Två oberoende studier undersökte faktorer som påverkar intentioner att använda psilo­cybin för psykisk hälsa. Forskningen utforskade hur uppfattningar skiljer sig gällande psilo­cybins potentiella roll tillsammans med psykoterapi, psykiatriska mediciner och naturliga kontra syntetiska alternativ. Detta är en av få systematiska undersökningar av allmänhetens inställning till psilo­cybin i kliniska sammanhang.",
-        "no": "To uavhengige studier undersøkte faktorer som påvirker intensjonen om å bruke psilocybin for psykisk helse. Forskningen utforsket hvordan oppfatninger varierer når det gjelder psilocybins potensielle rolle sammen med psykoterapibehandling, psykiatriske medisiner og naturlige kontra syntetiske alternativer. Dette er en av få systematiske undersøkelser av publikums holdninger til psilocybin.",
-        "da": "To uafhængige studier undersøgte faktorer, der påvirker intentionen om at bruge psilocybin til psykisk sundhed. Forskningen udforsker, hvordan opfattelser varierer angående psilocybins potentielle rolle sammen med psykoterapi, psykiatrisk medicin og naturlige versus syntetiske alternativer. Dette er en af få systematiske undersøgelser af offentlighedens holdninger til psilocybin i klinisk sammenhæng.",
-        "fi": "Kaksi itsenäistä tutkimusta selvitti psiloksiinin käyttöaikeisiin liittyviä tekijöitä mielenterveyden hoidossa. Tutkimuksessa tarkasteltiin, kuinka käsitykset vaihtelevat psiloksiinin mahdollisesta roolista psykoterapian, psykiatristen lääkkeiden ja luonnollisten verrattuna synteettisiin vaihtoehtoihin liittyen. Kyseessä on yksi harvoista systemaattisista tutkimuksista julkisen mielipiteen psiloksiiniin liittyen.",
-        "is": "Tvær óháðar rannsóknir könnuðu þá þætti sem hafa áhrif á fyrirætlanir um notkun psílokyníns fyrir andlega heilsu. Rannsóknin kannaði hvernig skoðanir eru mismunandi varðandi hugsanlegt hlutverk psílokyníns við meðferð með sálrænni meðferð, geðlyfjum og náttúrulegum samanborið við gervilegum valkostum. Þetta er ein af fáum kerfisbundnum rannsóknum á viðhorfi almennings til psílokyníns.",
-        "et": "Kaks sõltumatut uuringut uurisid tegureid, mis mõjutavad psülotsübiini kasutamise kavatsust vaimse tervise jaoks. Uuringus uuriti, kuidas erinevad arusaamad psülotsübiini võimalikust rollist psühhoterapia, psühhiaatriliste ravimite ja loodusliku versus sünteetiliste valikute kõrval. See on üks vähestest süstemaatilisest uuringust avalikkuse hoiakutest psülotsübiini suhtes.",
-        "lv": "Divi neatkarīgi pētījumi pētīja faktorus, kas ietekmē nodomu izmantot psilocibīnu garīgās veselības ārstēšanai. Pētniecība pārbaudīja, kā uzskati atšķiras attiecībā uz psilocibīna potenciālo lomu kopā ar psihoterapiju, psihiatriskajiem medikamentiem un dabiskajiem salīdzinājumā ar sintētiskajiem variantiem. Šis ir viens no retajiem sistemātiskiem pētījumiem par sabiedrības attieksmi pret psilocibīnu.",
-        "lt": "Du nepriklausomi tyrimai nagrinėjo veiksnius, kurie veikia psilo­cibino naudojimo norą psichikos sveikatos gydymui. Tyrime buvo nagrinėjami skirtumai tarp psilo­cibino galimo vaidmens su psichoteraija, psichiatrini­ais vaistais ir natūraliais, palyginti su sintetiniais variantais. Tai vienas iš retų sisteminių tyrimų apie visuomenės nuomonę apie psilo­cibiną klinikinėje praktikoje."
-      },
-      "notable": false,
-      "notable_reasons": null,
-      "relevance_score": 3,
-      "study_type": "observational",
-      "substances": [
-        "psilocybin"
-      ],
-      "added_at": "2026-09-02T11:33:33.070909+00:00"
-    },
-    {
-      "title": "Optimizing Ketamine Infusion Therapy for Treatment-Resistant Bipolar Depression: Commentary on Zhou et al. (2023).",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42670081/",
-      "source": "PubMed",
-      "date": "2026-Sep",
-      "authors": [
-        "Lin Chih-Cheng",
-        "Wei Lien-Chung"
-      ],
-      "doi": "10.1111/bdi.70177",
-      "summaries": {
-        "en": "Commentary on ketamine infusion therapy for treatment-resistant bipolar depression. Repeated subanesthetic ketamine infusions show rapid symptom improvement with acceptable short-term safety. However, inflammatory markers' predictive value varies; cognitive data are limited; and relapse risk after treatment highlights need for individualized maintenance planning. Prospective bipolar-specific studies needed.",
-        "sv": "Kommentar om ketaminfusionsbehandling för behandlingsresistent bipolär depression. Upprepad subanestesisk ketamin visar snabb symtomlindring med acceptabel korttidssäkerhet. Emellertid varierar inflammationsmarkörernas prediktiva värde; kognitiva data är begränsade; och återfallsrisk efter behandling kräver individualiserad underhållsplanering. Prospektiva bipolära studier behövs.",
-        "no": "Kommentar om ketaminfusjonsbehandling for behandlingsresistent bipolar depresjon. Gjentatt subanestesisk ketamin viser rask symptomforbedring med akseptabel korttidssikkerhet. Imidlertid varierer inflammasjonsmarkørers prediktive verdi; kognitive data er begrenset; og tilbakefallsrisiko etter behandling krever individualisert vedlikeholdsplanlegging. Prospektive bipolare studier er nødvendig.",
-        "da": "Kommentar om ketaminfusionsbehandling til behandlingsresistent bipolar depression. Gentaget subanæstetisk ketamin viser hurtig symptombedring med acceptabel korttidssikkerhed. Dog varierer inflammationsmarkørers prædiktive værdi; kognitive data er begrænsede; og tilbagefaldrisiko efter behandling kræver individualiseret vedligeholdelelsesplanering. Prospektive bipolære studier er nødvendige.",
-        "fi": "Kommentaari ketamiiniinfuusiohoidosta hoitoresistenttiin bipolaarisen masennukseen. Toistuva subanesteetinen ketamiini osoittaa nopeaa oireiden helpottumista hyväksyttävällä lyhytaikaisen turvallisuuden profiililla. Kuitenkin tulehdusmerkkerien ennusteellinen arvo vaihtelee; kognitiiviset tiedot ovat rajalliset; ja takaisinkäynnin riski vaatii yksilöllistä ylläpitosuunnittelua. Prospektiiviset bipolaarisiin potilaisiin kohdistuvat tutkimukset ovat tarpeellisia.",
-        "is": "Athugasemd um ketamínflæðismeðferð við meðferðaróviðkvæmri tvíkosta þunglyndi. Endurtekin ófulls svæfnunar ketamín sýnir skjóta einkennaúrbót með viðunandi skammtímaöryggisprófi. Þó getur fyrirspár virðis bólgumarkra verið mismunandi; vitræn gögn eru takmörkuð; og endurkomu áhætta krefst einstaklingsbundinnar viðhaldsáætlunar. Framsýn rannsóknir á tvíkostastigi eru nauðsynlegar.",
-        "et": "Kommentaar ketamiininfusioonravile raviresistentsel bipolaarsel depressiooni puhul. Korduvad subanesteesiaga ketamiin näitavad kiiret sümptomite paranemist vastuvõetava lühiajalise ohutusega. Kuid põletiku markerite prognoosiv väärtus varieerub; kognitiivsed andmed on piiratud; ja relatsi oht nõuab individualiseeritud hooldusplaani. Vaja on prospektiivset uuringut bipolaarsete patsientidega.",
-        "lv": "Komentārs par ketamīna infūzijas ārstēšanu ārstēšanai rezistentai bipolārai depresijā. Atkārtota subanestēzijas ketamīns parāda ātru simptomu uzlabošanos ar pieņemamu īstermiņa drošības profilu. Tomēr iekaisuma marķieru prognozes vērtība mainās; kognitīvie dati ir ierobežoti; un recidīva risks prasa individualizētu uzturēšanas plānošanu. Nepieciešami prospektīvi pêtījumi bipolārajiem pacientiem.",
-        "lt": "Komentaras apie ketamino infuzijos terapiją gydymui rezistentinei bipolinei depresijjai. Pasikartojęs subanestezijos ketaminas parodo greitą simptomų pagerinimą su priimtinu trumpalaikiu saugumu. Tačiau uždegiminio žymeklio prognostinė reikšmė skiriasi; kognityvūs duomenys yra riboti; o recidyvo rizika reikalinga individualizuoto palaikymo plano. Reikalingi prospektyviniai bipolinių pacientų tyrimai."
-      },
-      "notable": false,
-      "notable_reasons": null,
-      "relevance_score": 4,
-      "study_type": "other",
-      "substances": [
-        "ketamine"
-      ],
-      "added_at": "2026-09-01T11:53:04.984893+00:00"
-    },
-    {
-      "title": "Development of Japanese Versions of the 4-Item Mystical Experience Questionnaire and 7-Item Challenging Experience Questionnaire.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42661240/",
-      "source": "PubMed",
-      "date": "2026-Sep",
-      "authors": [
-        "Umemura Futaba",
-        "Kotajima-Murakami Hiroko",
-        "Strickland Justin C"
-      ],
-      "doi": "10.1002/npr2.70164",
-      "summaries": {
-        "en": "Researchers developed Japanese versions of brief questionnaires measuring mystical and challenging experiences induced by psychedelics. The 4-item Mystical Experience Questionnaire (MEQ-4) and 7-item Challenging Experience Questionnaire (CEQ-7) were translated following international standards for patient-reported outcomes, with expert review of semantic accuracy. These shorter versions reduce respondent burden compared to their longer counterparts (MEQ-30 and CEQ-26), facilitating efficient assessment in Japanese-speaking populations.",
-        "sv": "Forskare utvecklade japanska versioner av kortare frågeformulär för att mäta mystiska och utmanande upplevelser inducerade av psykedelika. 4-itemsversionen av Mystical Experience Questionnaire (MEQ-4) och 7-itemsversionen av Challenging Experience Questionnaire (CEQ-7) översattes enligt internationella standarder för patientrapporterade resultat, med expertgranskning av semantisk noggrannhet. Dessa kortare versioner minskar respondentbördan jämfört med längre motsvarigheter och möjliggör effektiv bedömning i japansktalkande populationer.",
-        "no": "Forskere utviklet japanske versjoner av korte spørreskjemaer for å måle mystiske og utfordrende opplevelser indusert av psykedelika. 4-punkts Mystical Experience Questionnaire (MEQ-4) og 7-punkts Challenging Experience Questionnaire (CEQ-7) ble oversatt etter internasjonale standarder for pasientrapporterte mål, med ekspertvurdering av semantisk nøyaktighet. Disse kortere versjonene reduserer respondentbelastning sammenlignet med lengre varianter og muliggjør effektiv vurdering i japanskspeakende populasjoner.",
-        "da": "Forskere udviklet japanske versioner af korte spørgeskemaer til måling af mystiske og udfordrende oplevelser induceret af psykedelika. 4-punkts Mystical Experience Questionnaire (MEQ-4) og 7-punkts Challenging Experience Questionnaire (CEQ-7) blev oversat efter internationale standarder for patientrapporterede mål, med ekspertvurdering af semantisk nøjagtighed. Disse kortere versioner reducerer respondentbelastning sammenlignet med længere modstykker og muliggør effektiv vurdering i japansksproget befolkning.",
-        "fi": "Tutkijat kehittivät japanilaisia versioita lyhyistä kyselylomakkeista psykedeleikkojen aiheuttamien mystisten ja haasteiden sisältävien kokemusten mittaamiseksi. 4-kohdan Mystical Experience Questionnaire (MEQ-4) ja 7-kohdan Challenging Experience Questionnaire (CEQ-7) käännettiin kansainvälisten potilasraportointimittareiden standardien mukaisesti, ja asiantuntijat tarkistivat semanttisen tarkkuuden. Nämä lyhyemmät versiot vähentävät vastaajien taakkaa pitkempiä versioita enemmän ja mahdollistavat tehokkaan arvioinnin japaninkielisessä väestössä.",
-        "is": "Vísindamenn þróuðu japanska útgáfur stuttra spurningalista til að mæla dásama og erfiða reynslu af völdum geislasprengjum. 4 atriðis Mystical Experience Questionnaire (MEQ-4) og 7 atriðis Challenging Experience Questionnaire (CEQ-7) voru þýdd samkvæmt alþjóðlegum stöðlum fyrir skýrslur sjúklinga, með fagfólk sem endurskoðaði merkingarfræðilega nákvæmni. Þessar stærri útgáfur draga úr álagi svarenda samanborið við lengri útgáfur og gera skjóta mat mögulan á japönskum tölum.",
-        "et": "Teadlased arendasid jaapani keelseid versioone lühikestest küsimustikest psühhedeelikute poolt esile kutsutud müstiliste ja väljakutset pakkuvate kogemuste mõõtmiseks. 4-punktiline Mystical Experience Questionnaire (MEQ-4) ja 7-punktiline Challenging Experience Questionnaire (CEQ-7) tõlgiti rahvusvaheliste patsiendi enda teatatud tulemuste standardite kohaselt, ekspertide hinnanguga semantilise täpsuse kohta. Need lühemad versioonid vähendavad vastajate koormust pikemaid versioone rohkem ja võimaldavad tõhusat hindamist jaapani keelt kõnelevates populatsioonides.",
-        "lv": "Pētnieki izstrādāja japāņu valodas versijas īsiem jautājumniekiem, lai mērītu psihedeliku izraisītas mistiskas un izaicinošas pieredzes. 4 jautājumu Mistiskās pieredzes anketa (MEQ-4) un 7 jautājumu Izaicinošās pieredzes anketa (CEQ-7) tika tulkotas saskaņā ar starptautiskiem pacientu pašvērtējuma mēru standartiem, eksperts pārskatīja semantisko precizitāti. Šīs īsākās versijas samazina respondenta slodzi salīdzinājumā ar garākām versijām un ļauj efektīvi novērtēt japāņu runātāju populācijās.",
-        "lt": "Mokslininkai sukūrė japonų kalbos versijas trumpų klausimynų psichedelikų sukeliamiems mistiškiems ir iššūkius keliančiems patirčių matavimams. 4 klausimų Mystical Experience Questionnaire (MEQ-4) ir 7 klausimų Challenging Experience Questionnaire (CEQ-7) buvo išversti pagal tarptautinius paciento savivertos rezultatų standartus, ekspertai peržiūrėjo semantinį tikslumą. Šios trumpesnės versijos sumažina respondentų naštą, palyginti su ilgesnėmis versijomis, ir leidžia efektyviai įvertinti japonų kalbą kalbančiose populiacijose."
-      },
-      "notable": false,
-      "notable_reasons": null,
-      "relevance_score": 3,
-      "study_type": "other",
-      "substances": [
-        "psilocybin"
-      ],
-      "added_at": "2026-08-28T18:53:07.862220+00:00"
-    },
-    {
-      "title": "AMCP Market Insights: Optimizing managed care approaches to treatment-resistant depression.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42658027/",
-      "source": "PubMed",
-      "date": "2026-Sep",
-      "authors": [
-        "Flavin Bridget",
-        "Small Gary",
-        "Dragovich Charles"
-      ],
-      "doi": "10.18553/jmcp.2026.32.9-a.s1",
-      "summaries": {
-        "en": "Treatment-resistant depression (TRD) affects individuals unresponsive to ≥2 antidepressants. An AMCP expert panel (March 2026) discussed managed care approaches to TRD, including psilocybin-assisted treatment. Key findings: significant unmet need exists; payers seek comparative efficacy data, cost-effectiveness analyses, and treatment population clarification; infrastructure for trained mental health professionals remains a critical implementation challenge.",
-        "sv": "Behandlingsresistent depression (TRD) drabbar individer som inte svarar på ≥2 antidepressiva. En AMCP-expertpanel (mars 2026) diskuterade managed care-strategier för TRD, inklusive psilocybin-assisterad behandling. Huvudfynd: betydande ouppfyllt behov finns; försäkringsgivare efterfrågar jämförande effektivitetsdata, kostnadseffektivitetsanalyser och klarhet om lämplig patientpopulation; infrastruktur för utbildad mentalvårdspersonal utgör en kritisk implementeringshinder.",
-        "no": "Behandlingsresistent depresjon (TRD) rammer individer som ikke responderer på ≥2 antidepressiva. En AMCP-ekspertpanel (mars 2026) diskuterte managed care-tilnærminger til TRD, inkludert psylocibin-assistert behandling. Hovedfunn: betydelig udekkede behov eksisterer; forsikringsselskap ønsker komparativ effektivitetsdata, kostnadseffektivitetsanalyser og klarhet om passende pasientpopulasjon; infrastruktur for opplært psykisk helsepersonell er en kritisk implementeringshindring.",
-        "da": "Behandlingsresistent depression (TRD) rammer individer, der ikke responderer på ≥2 antidepressiva. Et AMCP-ekspertpanel (marts 2026) diskuterede managed care-tilgange til TRD, herunder psilocybin-assisteret behandling. Vigtige fund: betydelig uopfyldt behov eksisterer; forsikringsselskaber ønsker sammenlignende effektivitetsdata, cost-effectiveness-analyser og præcisering af relevant patientpopulation; infrastruktur for uddannet psykisk sundhedspersonale udgør en kritisk implementeringshindring.",
-        "fi": "Hoitoon reagoimaton depressio (TRD) vaikuttaa henkilöihin, jotka eivät vastaa ≥2 masennuslääkkeeseen. AMCP-asiantuntijapaneeli (maaliskuu 2026) käsitteli TRD:n hallinnollisia lähestymistapoja, mukaan lukien psilo­sybiini-avusteinen hoito. Keskeiset löydökset: merkittävä tyydyttämätön tarve on olemassa; vakuutusyhtiöt haluavat vertailevaa tehokkuustietoa, kustannusvaikuttavuusanalyysia ja selkeyttä sopivasta potilasjoukosta; psykiatrisen hoidon ammattilaisten riittävä verkosto on kriittinen toteutushaasteena.",
-        "is": "Meðferðarónæm þunglyndi (TRD) hefur áhrif á einstaklinga sem bregðast ekki við ≥2 þunglyndislyfjum. AMCP sérfræðinefnd (mars 2026) ræddi skipulagða umönnunaraðferðir við TRD, þar með talið psýlósýbín-aðstoðuð meðferð. Helstu niðurstöður: umtalsverð óuppfyllt þörf er til staðar; tryggingafélög óska sér samanburðargagna um virkni, hagkvæmnisgreiningar og skýringar á viðeigandi sjúklingahópi; skipulegð úrræði fyrir þjálfað geðheilbrigðisstarfsfólk er mikilvæg útfærslahönnun.",
-        "et": "Ravile mittereageeriv depressioon (TRD) mõjutab inimesi, kes ei reageeri ≥2 antidepressandile. AMCP ekspertpaneel (märts 2026) arutles TRD-i hallatud hoolduse lähenemisi, sealhulgas psülosübiini-abistatud ravi. Peamised leiud: märkimisväärne rahuldamata vajadus on olemas; kindlustajad soovivad võrdlevaid tõhususe andmeid, kuluefektiivsuse analüüse ja selgitusi sobiva patsientide rühma kohta; psühhiaatriahaigete spetsialistide korraldatud võrgustik on kriitiliseks rakendamise takistuseks.",
-        "lv": "Nereaģējošā depresija pret ārstēšanu (TRD) ietekmē indivīdus, kuri nereagē uz ≥2 antidepresantiem. AMCP ekspertu panelis (2026. gada marts) apsprieda TRD pārvaldītas aprūpes pieejas, tostarp psilo­cibīna-palīdzīga ārstēšana. Galvenie atklājumi: pastāv nozīmīgs neapmierināts pieprasījums; apdrošinātāji vēlas salīdzinošos efektivitātes datus, rentabilitātes analīzes un skaidrības par atbilstošu pacientu grupu; psihiskas veselības speciālistu organizēts tīkls ir kritisks īstenošanas šķērslis.",
-        "lt": "Neišleidžiama depresija (TRD) paveikia asmenis, neatsako į ≥2 antidepresantus. AMCP ekspertų grupė (2026 m. kovas) aptarė valdomo sveikatos apsaugos požiūrius į TRD, įskaitant psilocibino pagalbą teikiamą gydymą. Pagrindiniai rezultatai: egzistuoja reikšmingas nepatenkintas poreikis; draudikai nori lyginamųjų veiksmingumo duomenų, išlaidos-naudos analizės ir patikslintų tinkamų pacientų grupių; psichikos sveikatos specialistų infrastruktūra yra kritinė diegimo kliūtis."
-      },
-      "notable": false,
-      "notable_reasons": null,
-      "relevance_score": 3,
-      "study_type": "qualitative",
-      "substances": [
-        "psilocybin"
-      ],
-      "added_at": "2026-08-28T18:53:07.862220+00:00"
     }
   ]
 }

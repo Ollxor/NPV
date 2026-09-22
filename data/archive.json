@@ -1,6 +1,127 @@
 {
   "items": [
     {
+      "title": "N,N-Dimethyltryptamine and harmine formulation alters transient EEG topography sequences near the peak of the psychedelic state.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42768932/",
+      "source": "PubMed",
+      "date": "2026-09-22",
+      "authors": [
+        "Niedernhuber Maria",
+        "Suay Dila",
+        "Lenggenhager Bigna"
+      ],
+      "doi": "10.1177/02698811261481062",
+      "summary_en": "Double-blind EEG study examined how intranasal DMT combined with buccal harmine affects brain electrical activity near peak psychedelic effects. Compared to placebo and harmine alone, DMT/harmine reduced microstate duration while increasing occurrence and complexity. Neural state transitions became less random and more predictable. Findings support theories that psychedelics enhance neural signal diversity and metastability.",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "rct",
+      "substances": [
+        "ayahuasca",
+        "other"
+      ],
+      "added_at": "2026-09-22T11:55:10.210502+00:00"
+    },
+    {
+      "title": "Modulation of GABA and glutamate by ketamine in depression: A systematic review and meta-analysis of magnetic resonance spectroscopy studies.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42768091/",
+      "source": "PubMed",
+      "date": "2026-09-21",
+      "authors": [
+        "Singh Balwinder",
+        "Ali Hossam M",
+        "Miola Alessandro"
+      ],
+      "doi": "10.1038/s41386-026-02562-4",
+      "summary_en": "Systematic review and meta-analysis of 11 ¹H-MRS studies examining ketamine's effects on GABA and glutamate in depression. Despite good study quality, significant methodological heterogeneity limited findings. Meta-analyses revealed no statistically significant treatment-related changes in metabolite levels. The excitation-inhibition imbalance hypothesis requires further validation.",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "review",
+      "substances": [
+        "ketamine"
+      ],
+      "added_at": "2026-09-22T11:55:10.210502+00:00"
+    },
+    {
+      "title": "Pharmacokinetics and safety of a modified-release psilocybin formulation: A SAD Phase I trial in normal-weight and overweight/obese participants.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42767271/",
+      "source": "PubMed",
+      "date": "2026-09-21",
+      "authors": [
+        "Signor Anna",
+        "Comai Stefano",
+        "Pasut Gianfranco"
+      ],
+      "doi": "10.1002/bcp.70839",
+      "summary_en": "Phase I SAD trial evaluating safety and pharmacokinetics of REL-P11, a modified-release psilocybin formulation, in 40 healthy adults (8 normal-weight, 32 overweight/obese). Single oral doses (0.5–2.0 mg) showed dose-proportional psilocin exposure with low variability and no serious adverse events. Modified-release formulation demonstrated lower peak concentrations and prolonged absorption compared to immediate-release forms.",
+      "notable": true,
+      "notable_reason": "First-in-human study of a modified-release psilocybin formulation (REL-P11) with pharmacokinetic characterization and subperceptual dosing design for metabolic disorders.",
+      "study_type": "rct",
+      "substances": [
+        "psilocybin"
+      ],
+      "added_at": "2026-09-22T11:55:10.210502+00:00"
+    },
+    {
+      "title": "Default mode network functional connectivity following treatment with conventional antidepressants and (es)ketamine in major depressive disorder: A systematic review.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42767040/",
+      "source": "PubMed",
+      "date": "2026-09-17",
+      "authors": [
+        "Lima Constantino Juliana",
+        "de Jager Jesca E",
+        "Nuninga Jasper O"
+      ],
+      "doi": "10.1016/j.pscychresns.2026.112333",
+      "summary_en": "Systematic review of 19 studies (13 on conventional antidepressants, N=546; 6 on ketamine, N=247) examining default mode network changes in major depressive disorder. Conventional antidepressants showed heterogeneous connectivity changes, some correlating with clinical improvement. Ketamine predominantly reduced default mode network connectivity, especially limbic connections. Despite distinct initial mechanisms, both treatments may share downstream neural adaptations, though study heterogeneity limits definitive conclusions about treatment-resistant depression.",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "review",
+      "substances": [
+        "ketamine"
+      ],
+      "added_at": "2026-09-22T11:55:10.210502+00:00"
+    },
+    {
+      "title": "An Open-Label, Dose-Escalation Trial of Psilocybin-Assisted Therapy for Bipolar II Depression.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42765891/",
+      "source": "PubMed",
+      "date": "2026-09-21",
+      "authors": [
+        "Downey Amanda E",
+        "Szigeti Balázs",
+        "Bradley Ellen R"
+      ],
+      "doi": "10.4088/JCP.25m16227",
+      "summary_en": "Open-label, dose-escalation trial investigating psilocybin-assisted therapy for bipolar II depression. Study design allows for systematic dose increases to establish safety and efficacy parameters in this patient population.",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "rct",
+      "substances": [
+        "psilocybin"
+      ],
+      "added_at": "2026-09-22T11:55:10.210502+00:00"
+    },
+    {
+      "title": "Implementation and Preliminary Evaluation of an Intravenous Ketamine Protocol for Psychiatric Conditions in Medical and Surgical Units: A One-Year Pilot Study.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42767564/",
+      "source": "PubMed",
+      "date": "2026-09-21",
+      "authors": [
+        "Hu Bo",
+        "Ortiz-Cruz Alfonso",
+        "Sachidanandan Ridhaa"
+      ],
+      "doi": "10.1016/j.jaclp.2026.09.005",
+      "summary_en": "One-year pilot study evaluating IV ketamine implementation in general hospital units for depression and psychiatric conditions. A psychiatry-specific protocol (0.5-1.0 mg/kg) was developed for consultation-liaison services, enabling treatment on standard floors with continuous pulse oximetry monitoring. Feasibility assessed through workflow integration, staffing needs, and safety outcomes; depression and anxiety measured via MADRS, PHQ-9, and GAD-7.",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "observational",
+      "substances": [
+        "ketamine"
+      ],
+      "added_at": "2026-09-22T11:55:10.210502+00:00"
+    },
+    {
       "title": "A circuit dissection of perception-action decoupling in S-ketamine-induced hallucination-like states.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42763341/",
       "source": "PubMed",

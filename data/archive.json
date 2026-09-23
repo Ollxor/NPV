@@ -1,6 +1,27 @@
 {
   "items": [
     {
+      "title": "Reply to 'Methodological concerns and interpretative limitations of assessing subjective effects of ketamine'.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42773206/",
+      "source": "PubMed",
+      "date": "2026-09-22",
+      "authors": [
+        "Dahan Jack D C",
+        "Dadiomov David",
+        "Bostoen Tijmen"
+      ],
+      "doi": "10.1038/s44184-026-00241-2",
+      "summary_en": "Researchers respond to methodological critiques of their meta-analysis comparing subjective effects and therapeutic outcomes of ketamine and psilocybin. The authors acknowledge limitations including psychotherapy's potential influence and variations in subjective-effect questionnaires across studies. They argue these factors may partly explain treatment differences and emphasize the importance of standardized, multidimensional measures in future research.",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "other",
+      "substances": [
+        "ketamine",
+        "psilocybin"
+      ],
+      "added_at": "2026-09-23T11:54:29.199059+00:00"
+    },
+    {
       "title": "N,N-Dimethyltryptamine and harmine formulation alters transient EEG topography sequences near the peak of the psychedelic state.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42768932/",
       "source": "PubMed",

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-22T11:57:13.136385+00:00",
+  "generated_at": "2026-09-23T11:54:44.237849+00:00",
   "items": [
     {
       "title": "Blinding integrity in psychedelic research: Evidence from a comparative randomized controlled trial of psilocybin, MDMA, and methylphenidate in healthy volunteers",
@@ -32,6 +32,38 @@
         "mdma"
       ],
       "added_at": "2026-07-09T10:03:12.956794+00:00"
+    },
+    {
+      "title": "Reply to 'Methodological concerns and interpretative limitations of assessing subjective effects of ketamine'.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42773206/",
+      "source": "PubMed",
+      "date": "2026-09-22",
+      "authors": [
+        "Dahan Jack D C",
+        "Dadiomov David",
+        "Bostoen Tijmen"
+      ],
+      "doi": "10.1038/s44184-026-00241-2",
+      "summaries": {
+        "en": "Researchers respond to methodological critiques of their meta-analysis comparing subjective effects and therapeutic outcomes of ketamine and psilocybin. The authors acknowledge limitations including psychotherapy's potential influence and variations in subjective-effect questionnaires across studies. They argue these factors may partly explain treatment differences and emphasize the importance of standardized, multidimensional measures in future research.",
+        "sv": "Forskare svarar på metodologisk kritik av sin metaanalys av subjektiva effekter och terapeutiska resultat efter behandling med ketamin och psillocybin. Författarna bekräftar begränsningar som psykoterapis potentiella påverkan och variationer i frågeformulär för subjektiv effekt. De hävdar att dessa faktorer kan förklara behandlingsskillnader och betonar vikten av standardiserade mätningar.",
+        "no": "Forskere svarer på metodologisk kritikk av sin metaanalyse av subjektive effekter og terapeutiske utfall etter behandling med ketamin og psilocibin. Forfatterne anerkjenner begrensninger som psykoterapis potensielle påvirkning og variasjoner i spørreskjemaer for subjektive effekter. De hevder disse faktorene kan forklare behandlingsforskjeller og understreker behovet for standardiserte målinger.",
+        "da": "Forskere svarer på metodologisk kritik af deres metaanalyse af subjektive effekter og terapeutiske resultater efter ketamin- og psilocibin-behandling. Forfatterne anerkender begrænsninger såsom psykoterapis potentielle indflydelse og variationer i spørgeskemaer for subjektive effekter. De argumenterer for, at disse faktorer kan forklare behandlingsforskellighederne og understreger behovet for standardiserede mål.",
+        "fi": "Tutkijat vastaavat metodologiseen kritiikkiin heidän metaanalyysiistään ketamiinin ja psilosybiinin subjektiivisista vaikutuksista ja terapeuttisista tuloksista. Kirjoittajat tunnustavat rajoituksiksi psykoterapian mahdollisen vaikutuksen ja subjektiivisia vaikutuksia mittaavien kyselyjen vaihtelut. He väittävät näiden tekijöiden osittain selittävän hoitoeroja ja korostavat standardoitujen mittareiden merkitystä.",
+        "is": "Vísindamenn svara gagnrýni á aðferðafræðilegum forsendum um þeirra gagnagreiningu á huglægum áhrifum og meðferðarniðurstöðum ketamíns og psílosýbíns. Höfundar viðurkenna takmarkanir eins og hugsanalegs áhrifa sálrænnar meðferðar og breytileika í spurningalistum um huglæg áhrif. Þeir halda því fram að þessir þættir geti skýrt muninn á meðferð og leggja áherslu á staðlaða mælingu.",
+        "et": "Teadlased vastavad nende ketamiini ja psilotsibiini subjektiivsete mõjude ja ravitulemuste metaanalüüsi metodoloogilisele kriitikale. Autorid tunnustavad piiranguid, nagu psühhoterapia võimalik mõju ja erinevused subjektiivsete mõjude küsimustikus. Nad väidavad, et need tegurid võivad osaliselt seletada ravi erinevusi ja rõhutavad standardiseeritud mõõtmiste vajalikkust.",
+        "lv": "Pētnieki atbild uz metodolotisko kritiku par viņu ketamīna un psilo­cibi­na subjektīvo efektu un terapeitisko rezultātu metaanalīzi. Autori atzīst ierobežojumus, tostarp psihoterapijas iespējamo ietekmi un atšķirības subjektīvo efektu anketas. Viņi apgalvo, ka šie faktori var daļēji izskaidrot ārstēšanas atšķirības un uzsver standartizēto mērījumu nepieciešamību.",
+        "lt": "Mokslininkai atsako į jų ketamino ir psilocibino subjektyvių efektų ir terapijos rezultatų metaanalizės metodologinę kritiką. Autoriai pripažįsta apribojimus, tokius kaip psichoterapijos galimas poveikis ir skirtumai subjektyvių efektų klausimynuose. Jie teigia, kad šie veiksniai gali iš dalies paaiškinti gydymo skirtumus ir pabrėžia standartizuotų matavimų svarbą."
+      },
+      "notable": false,
+      "notable_reasons": null,
+      "relevance_score": 3,
+      "study_type": "other",
+      "substances": [
+        "ketamine",
+        "psilocybin"
+      ],
+      "added_at": "2026-09-23T11:54:29.199059+00:00"
     },
     {
       "title": "N,N-Dimethyltryptamine and harmine formulation alters transient EEG topography sequences near the peak of the psychedelic state.",
@@ -1950,37 +1982,6 @@
         "psilocybin"
       ],
       "added_at": "2026-09-17T11:56:15.164798+00:00"
-    },
-    {
-      "title": "On the meaning of \"plasticity\" in neuroscience and mental health research and its relation to the action of psychedelic therapy.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42745840/",
-      "source": "PubMed",
-      "date": "2026-09-01",
-      "authors": [
-        "Carhart-Harris R L",
-        "Zeifman R J",
-        "Pasquini L"
-      ],
-      "doi": "10.3389/fnins.2026.1875339",
-      "summaries": {
-        "en": "This opinion piece clarifies conceptual distinctions in plasticity research relevant to psychedelic therapy. The authors distinguish between \"plasticity proper\" (the ability to be shaped) and \"neuroplasticity\" (induced brain changes). They argue that common biomarkers of neuroplasticity often measure evoked processes linked to learning, which can paradoxically promote canalization rather than true plasticity. The authors caution against conflating neuroplastic biomarkers with improved mental health outcomes, noting this logical relationship remains unclear.",
-        "sv": "Denna artikkel klargör begreppsmässiga skillnader inom plasticitets­forskning relevant för psykedelisk terapi. Författarna skiljer mellan \"plasticity proper\" (förmågan att formas) och \"neuroplasticitet\" (inducerade hjärnförändringar). De hävdar att vanliga biomarkörer för neuroplasticitet ofta mäter evokerade processer länkade till inlärning, vilket paradoxalt kan främja kanalisering snarare än sann plasticitet. Författarna varnar för att konfundera neuroplastiska biomarkörer med förbättrad psykisk hälsa, då detta logiska samband är oklart.",
-        "no": "Denne artikkelen presiserer konseptuelle skiller i plastisitetsforskning relevant for psykedelisk terapi. Forfatterne skiller mellom \"plasticity proper\" (evnen til å bli formet) og \"neuroplastisitet\" (induserte hjernedringer). De argumenterer for at vanlige biomarkører for neuroplastisitet ofte måler evokerte prosesser knyttet til læring, som paradoksalt kan fremme kanalisering heller enn sann plastisitet. Forfatterne advarer mot å forveksle neuroplastiske biomarkører med forbedret psykisk helse, da dette logiske forholdet forblir uklart.",
-        "da": "Denne artikel præciserer begrebsmæssige distinktioner inden for plasticitets­forskning relevant for psykedelisk terapi. Forfatterne skelner mellem \"plasticity proper\" (evnen til at blive formet) og \"neuroplasticitet\" (inducerede hjernændringer). De argumenterer for, at almindelige biomarkører for neuroplasticitet ofte måler evokerede processer forbundet med læring, hvilket paradoksalt kan fremme kanalisering snarere end sand plasticitet. Forfatterne advarer mod at sammenblande neuroplastiske biomarkører med forbedret psykisk sundhed, da denne logiske sammenhæng forbliver uafklaret.",
-        "fi": "Tässä artikkelissa selvitetään plastisiteettitutkimukseen liittyviä käsitteellisiä eroja, jotka ovat relevantteja psykedeliselle terapialle. Kirjoittajat erottavat \"plasticity properin\" (muovattavuuden) ja \"neuroplastisuuden\" (indusoituja aivojen muutoksia). He väittävät, että yleiset neuroplastisuuden biomarkerit usein mittaavat oppimiseen liittyviä herätettyjä prosesseja, jotka paradoksaalisesti voivat edistää kanavointia todellisen plastisuuden sijaan. Kirjoittajat varoittavat neuroplastisten biomarkkerien sekoittamisesta parantuneeseen psyykkiseen terveyteen, sillä tämä looginen yhteys on epäselvä.",
-        "is": "Þessi grein skýrir hugtakamun innan plastísiteits­rannsókna sem skipta máli fyrir sáleinkennis­meðferð með sálarflækjum. Höfundar greina á milli \"plasticity proper\" (getu til að endurmótunar) og \"taugaplastísiteits\" (framkallaðra breytinga á heila). Þeir halda því fram að algengar líffræðilegar merki taugaplastísiteits mæla oft framkölluð ferli tengd námi, sem þversagnar­fullt getur ýtt undir stærðun frekar en sannarlega plastísitet. Höfundar vara við því að rugla saman taugaplastís­legum merkjum og bættri andlegri heilsu, þar sem þetta rökfræðilega samband helst óljóst.",
-        "et": "See artikkel selgitab plastitsiteedi­uuringute mõiste­vahest erinevust, mis on olulised psühhedeelidega ravile. Autorid eristavad \"plastiidsust õigesti\" (muudatavuse võimet) ja \"närviplastitsiteeti\" (esile kutsutud aju muutusi). Nad väidavad, et levinud närviplastitsiteedi biomerkerid mõõdavad sageli õppimisega seotud esile kutsutud protsesse, mis paradoksaalselt võivad edendada kanaliseerimist õige plastitsiteedi asemel. Autorid hoiatavad närviplastitsiteedi biomerkerite segi ajamise eest paranenud vaimse tervisega, kuna see loogiline seos jääb ebaselgeks.",
-        "lv": "Šis raksts precizē plasticitātes pētniecības konceptuālas atšķirības, kas ir svarīgas psihedelisko vielu terapijai. Autori izšķir \"īsto plasticitāti\" (spēju tikt veidotam) un \"neiroplasticitāti\" (izraisītās smadzeņu izmaiņas). Viņi apgalvo, ka parastie neiroplasticitātes biomarķieri bieži mēra ar mācīšanos saistītus izraisītus procesus, kas paradoksāli var veicināt kanalizēšanu, nevis patieso plasticitāti. Autori brīdina pret neiroplasticitātes biomarķieru sajaukšanu ar uzlabotu garīgo veselību, jo šīs loģiskās sakarības paliek neskaidras.",
-        "lt": "Šiame straipsnyje aiškinama plastingumo tyrinėjimų sampratiniai skirtumai, svarbūs psichedelinėms medžiagoms skirtai terapijai. Autoriai išskiria \"tikrąjį plastingumą\" (gebėjimą būti suformuotam) ir \"neuroplasingumą\" (sukeltas smegenyno pokyčius). Jie teigia, kad bendri neuroplasingumo biožymenys dažnai matuoja mokymuisi susijusius sukeltas procesus, kurie paradoksaliai gali skatinti kanalizavimą, o ne tikrąjį plastingumą. Autoriai perspėja prieš neuroplasingumo biožymenų painiojimą su pagerintu psichine sveikata, nes šis loginis ryšys lieka neaiškus."
-      },
-      "notable": false,
-      "notable_reasons": null,
-      "relevance_score": 3,
-      "study_type": "other",
-      "substances": [
-        "psilocybin"
-      ],
-      "added_at": "2026-09-16T11:52:56.874622+00:00"
     }
   ]
 }

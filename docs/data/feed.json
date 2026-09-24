@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-23T11:54:44.237849+00:00",
+  "generated_at": "2026-09-24T12:03:32.228067+00:00",
   "items": [
     {
       "title": "Blinding integrity in psychedelic research: Evidence from a comparative randomized controlled trial of psilocybin, MDMA, and methylphenidate in healthy volunteers",
@@ -32,6 +32,99 @@
         "mdma"
       ],
       "added_at": "2026-07-09T10:03:12.956794+00:00"
+    },
+    {
+      "title": "Real-World Therapeutic Use of Ketamine in Clinical and Non-Clinical Settings: A Cross-Sectional Survey.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42776060/",
+      "source": "PubMed",
+      "date": "2026-09-23",
+      "authors": [
+        "Syed Omer A",
+        "Petranker Rotem",
+        "Nestor Sean M"
+      ],
+      "doi": "10.1080/02791072.2026.2730550",
+      "summaries": {
+        "en": "Cross-sectional survey comparing ketamine use in clinical vs. non-clinical settings using 2023 Global Psychedelic Survey data. Study examines demographic characteristics, clinical profiles, self-reported effectiveness, and hallucination side effects between medically supervised and unsupervised ketamine users treating mood disorders.",
+        "sv": "Tvärsnittsstudie som jämför ketaminanvändning i kliniska kontra icke-kliniska miljöer med data från Global Psychedelic Survey 2023. Studien undersöker demografiska egenskaper, kliniska profiler, självrappporterad effektivitet och hallucinogena biverkningar mellan medicinsk övervakad och övervaknig ketaminanvändning för stämningsrubbningar.",
+        "no": "Tverrsnittsstudie som sammenligner ketaminbruk i kliniske versus ikke-kliniske omgivelser ved hjelp av Global Psychedelic Survey 2023. Studien undersøker demografiske karakteristikker, kliniske profiler, selvrapportert effektivitet og hallusinogene bivirkninger mellom medisinsk overvåket og ikke-overvåket ketaminbruk for stemmingslidelser.",
+        "da": "Tværsnitsundersøgelse, der sammenligner ketaminbrug i kliniske versus ikke-kliniske omgivelser ved hjælp af Global Psychedelic Survey 2023. Studien undersøger demografiske karakteristika, kliniske profiler, selvrapporteret effektivitet og hallucinogene bivirkninger mellem medicinsk overvåget og ikke-overvåget ketaminbrug til stemningsforstyrrelser.",
+        "fi": "Poikkileikkaustutkimus, joka vertaa ketamiinin käyttöä kliinisissa ja ei-kliinisissä ympäristöissä Global Psychedelic Survey 2023 -aineistolla. Tutkimus tarkastelee demografisia ominaisuuksia, klinisia profiileja, itseraportoitua tehokkuutta ja hallusinaatiosidonnaiset haittavaikutukset lääketieteellisesti valvotussa ja valvomattomassa ketamiinin käytössä mielialahäiriöiden hoitoon.",
+        "is": "Þversniðsrannsókn sem ber saman notkun ketamíns í klínískum og ekki-klínískum aðstæðum með gögnum frá Global Psychedelic Survey 2023. Rannsóknin skoðar lýðfræðileg einkenni, klínísk prófíl, sjálfskýrða verkun og hállusynata aukaverkanir meðal þeirra sem nota ketamín með og án lækniseftirlits fyrir sveiflur í skap.",
+        "et": "Ristlõikeline uurimus, mis võrdleb ketamiini kasutamist kliinilistes ja mittekliinilistes keskkondades Global Psychedelic Survey 2023 andmete alusel. Uurimus uurib demograafilisi tunnuseid, kliinilisi profiile, enesepalju teadlikult märgitud tõhusust ja hallutsinatsioone puudutavaid kõrvaltoimeid arsti järelevalve all ja ilma ravimi kasutamisel meeleolu häirete raviks.",
+        "lv": "Šķērsgriezuma pētījums, kas salīdzina ketamīna lietošanu klīniskos un neklīniskos apstākļos, izmantojot Global Psychedelic Survey 2023 datus. Pētījums pēta demogrāfiskās īpašības, klīniskos profilus, pašu ziņoto efektivitāti un halucināciju izraisītās blakusparādības starp ketamīna lietotājiem ar un bez medicīniskā uzraudzības garastāvokļa traucējumu ārstēšanai.",
+        "lt": "Skerspjūvio tyrimas, kuriame lyginamos psichodelikai ketamino naudojimas klinikinėse ir neklinikinėse aplinkose, naudojant Global Psychedelic Survey 2023 duomenis. Tyrimas nagrinėja demografines charakteristikas, klinikinius profilius, savarankiškai pranešamą veiksmingumą ir halucinacijas susijusius šalutinius efektus tarp ketamino vartotojų su ir be medicininės priežiūros nuotaikos sutrikdymams gydyti."
+      },
+      "notable": false,
+      "notable_reasons": null,
+      "relevance_score": 4,
+      "study_type": "observational",
+      "substances": [
+        "ketamine"
+      ],
+      "added_at": "2026-09-24T12:02:14.493884+00:00"
+    },
+    {
+      "title": "A Multi-Site Evaluation of a Psychedelic Medicine Curriculum for Psychiatry Trainees.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42778871/",
+      "source": "PubMed",
+      "date": "2026-09-23",
+      "authors": [
+        "Yaden Mary E",
+        "O'Donnell Kelley C",
+        "Roberts Daniel E"
+      ],
+      "doi": "10.1007/s40596-026-02444-3",
+      "summaries": {
+        "en": "A 6-hour psychedelic medicine curriculum was delivered to 40 psychiatry trainees across four US programs in 2025-2026. Pre- and post-course surveys (n=34 baseline, n=22 follow-up) assessed knowledge and attitudes. Trainees showed significant improvements in self-assessed knowledge, quiz scores, understanding of treatment rationale, and confidence in patient counseling on clinical research and harm reduction. Prior didactic exposure was minimal. High baseline interest remained unchanged. The standardized curriculum effectively enhanced trainee knowledge and clinical counseling competence.",
+        "sv": "En 6-timmars utbildning i psykedelisk medicin genomfördes för 40 psykiatrieläkare vid fyra amerikanska program 2025-2026. Före- och efterkursenkäter (n=34 baseline, n=22 uppföljning) bedömde kunskap och attityder. Läkarna visade signifikanta förbättringar i självskattad kunskap, testresultat, förståelse för behandlingsgrunder och säkerhet i patientrådgivning om klinisk forskning och skadereducering. Tidigare undervisning var minimal. Höga initiala intresse förändrades inte. Curriculumen förbättrade effektivt läkarnas kunskap och klinisk rådgivningskompetens.",
+        "no": "Et 6-timers undervisningsprogram i psykedelisk medisin ble gjennomført for 40 psykiatrilærlinger ved fire amerikanske programmer i 2025-2026. Spørreskjemaer før og etter kurs (n=34 baseline, n=22 oppfølging) målte kunnskap og holdninger. Lærlingene viste betydelige forbedringer i selvrapportert kunnskap, testresultater, forståelse av behandlingsgrunnlag og tillit til pasientsamtaler om klinisk forskning og skadereduksjon. Prior undervisning var minimal. Høy initialinteresse endret seg ikke. Programmet økte effektivt kunnskaper og klinisk veiledningskompetanse.",
+        "da": "Et 6-timers uddannelsesprogram i psykedelisk medicin blev gennemført for 40 psykiatrilæger ved fire amerikanske programmer i 2025-2026. Spørgeskemaer før og efter kurset (n=34 baseline, n=22 opfølgning) målte viden og holdninger. Lægerne viste betydelige forbedringer i selvrapporteret viden, testresultater, forståelse af behandlingsgrundlag og selvtillid i patientvejledning om klinisk forskning og skadebegrænsning. Tidligere undervisning var minimal. Høj initialinteresse ændrede sig ikke. Programmet øgede effektivt viden og klinisk vejledningskompetence.",
+        "fi": "6-tunnin psykedeelimedisiinin koulutusohjelma toteutettiin 40 psykiatrian opiskelijalle neljällä yhdysvaltalaisella ohjelmalla vuosina 2025-2026. Ennen ja jälkeen kurssin täytetyt kyselyt (n=34 perustaso, n=22 seuranta) arvioivat tietoa ja asenteita. Opiskelijat osoittivat merkittäviä parannuksia itsearvioidussa tiedossa, testtuloksissa, ymmärryksessä hoitoperiaatteista ja luottamuksessa potilasneuvontaan kliinisestä tutkimuksesta ja haittajen vähentämisestä. Aiempi opetus oli vähäistä. Korkea alkuperäinen kiinnostus ei muuttunut. Ohjelma paransi tehokkaasti opiskelijoiden tietoa ja kliinistä neuvontakompetenssia.",
+        "is": "6 klst. námskrá um geðlyf var framkvæmd fyrir 40 geðlæknanema við fjórum bandarískum námskrám 2025-2026. Könnunarpöntun fyrir og eftir námskeið (n=34 grunnlína, n=22 eftirfylgni) mældu þekkingu og viðhorf. Nemendur sýndu verulega framför í sjálfsmetnu þekkingu, prófskorum, skilningi á meginreglum meðferðar og trausti í ráðleggingum um klíníska rannsókn og skaðaminnkun. Fyrri kennsla var lítil. Hátt upphaflegur áhugi breyttist ekki. Námskrá bætti þekkingu og klíníska ráðgjafargetu nemenda.",
+        "et": "6-tunnine psühhedeelikumide meditsiini õppekava viidi ellu 40 psühhiaatriaärile nelja USA programmi raames 2025-2026. Kursuseelse ja -järgse küsitlus (n=34 baas, n=22 järelkontroll) hindas teadmisi ja suhtumist. Arstid näitasid märkimisväärset paranemist omahinnangu teadmistes, testi tulemuste, ravi põhjuste mõistmise ja patsiendi nõustamise usaldusväärsuse osas kliiniliste uuringute ja kahjustuste vähendamise kohta. Eelnev õpetus oli minimaalne. Kõrge algne huvi ei muutunud. Õppekava parandas tulemuslikult arstide teadmisi ja kliinikalist nõustamiskompetentsi.",
+        "lv": "6 stundu psihedelisko vielu medicīnas kurss tika nodrošināts 40 psihiatrijas stažieriem četros ASV programos 2025-2026. Pirms un pēc kursa aptaujas (n=34 pamatdati, n=22 sekas) novērtēja zināšanas un attieksmi. Stažieri parādīja būtiskus uzlabojumus pašnovērtētās zināšanās, testa rezultātos, izpratnē par ārstēšanas principiem un pārliecībā pacientu konsultēšanā par klīniskajiem pētījumiem un kaitējuma mazināšanu. Iepriekšējā mācība bija minimāla. Augstā sākotnējā interese nemainījās. Kurss efektīvi uzlaboja stažieru zināšanas un klīniskas konsultēšanas kompetenci.",
+        "lt": "6 valandų psichedelinių medžiagų medicinos kursas buvo skirtas 40 psichiatrijos rezidentams keturiose JAV programose 2025-2026 m. Anketos prieš kursą ir po jo (n=34 pradinis lygis, n=22 stebėjimas) vertino žinias ir nuomones. Rezidentai parodė reikšmingus patobulinimus savarankiškai įvertintose žiniose, testų rezultatuose, supratime dėl gydymo principų ir pasitikėjimu pacientų konsultavime dėl klinikinių tyrimų ir žalos mažinimo. Ankstesnė mokyba buvo minimali. Didelis pradinis susidomėjimas nepasikeitė. Kursas efektyviai pagerinau rezidentų žinias ir klininę konsultavimo kompetenciją."
+      },
+      "notable": false,
+      "notable_reasons": null,
+      "relevance_score": 3,
+      "study_type": "other",
+      "substances": [
+        "other"
+      ],
+      "added_at": "2026-09-24T12:02:14.493884+00:00"
+    },
+    {
+      "title": "Feasibility and tolerability of virtual reality during esketamine treatment: A pilot study.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42778030/",
+      "source": "PubMed",
+      "date": "2026-09-23",
+      "authors": [
+        "Curran Erin",
+        "Kumpf Kristina T",
+        "Ansari Mina"
+      ],
+      "doi": "10.1016/j.jad.2026.122554",
+      "summaries": {
+        "en": "A pilot study examined integrating virtual reality (VR) into esketamine treatment for depression. Study 1 surveyed 21 patients on dissociative experiences and VR interest; 52% reported visual discomfort and 33% auditory discomfort during treatment, yet 71% were open to VR integration. Study 2 involved 5 patients using VR during one esketamine session. While feasible, VR showed mixed tolerability—participants wearing glasses experienced difficulty and nausea. Results suggest potential but indicate need for optimization before broader clinical application.",
+        "sv": "En pilotstudie undersökte integrering av virtuell verklighet (VR) i esketaminbehandling för depression. Studie 1 omfattade 21 patienter; 52% rapporterade visuell obehag och 33% auditiv obehag under behandling, men 71% var öppna för VR-integration. Studie 2 involverade 5 patienter som använde VR under en esketaminsession. Även om genomförbar visade VR blandad tolerabilitet—deltagare med glasögon upplevde svårigheter och illamående. Resultaten visar potential men indikerar behov av optimering innan bredare klinisk tillämpning.",
+        "no": "En pilotstudie undersøkte integrering av virtuell virkelighet (VR) i esketaminbehandling for depresjon. Studie 1 omfattet 21 pasienter; 52% rapporterte visuell ubehag og 33% auditiv ubehag under behandling, men 71% var åpne for VR-integrasjon. Studie 2 involverte 5 pasienter som brukte VR under én esketaminsesjon. Selv om gjennomførbar, viste VR blandet tolerabilitet—deltakere med briller erfarte vanskeligheter og kvalme. Resultatene viser potensial men indikerer behov for optimering før bredere klinisk bruk.",
+        "da": "En pilotstudie undersøgte integration af virtual reality (VR) i esketaminbehandling for depression. Studie 1 omfattede 21 patienter; 52% rapporterede visuelt ubehag og 33% auditivt ubehag under behandling, men 71% var åbne for VR-integration. Studie 2 involverede 5 patienter, der brugte VR under én esketaminsession. Selvom mulig viste VR blandet tolerabilitet—deltagere med briller oplevede vanskeligheder og kvalme. Resultaterne viser potentiale men indikerer behov for optimering før bredere klinisk anvendelse.",
+        "fi": "Pilottitutkimus tutki virtuaalitodellisuuden (VR) integrointia esketamiiniin perustuvaan masennuksen hoitoon. Tutkimus 1 koski 21 potilasta; 52% raportoi näkemisen epämukavuutta ja 33% kuulemisen epämukavuutta hoidon aikana, mutta 71% oli avoin VR-integraatiolle. Tutkimus 2 sisälsi 5 potilasta, jotka käyttivät VR:ää yhdessä esketamiinisessiossa. Vaikka toteutettavissa oleva, VR osoitti vaihtelevan siedettävyyden—silmälaseja käyttävät osallistujat kokivat vaikeuksia ja pahoinvointia. Tulokset viittaavat potentiaaliin mutta osoittavat optimoinnin tarvetta ennen laajempaa kliinistä soveltamista.",
+        "is": "Tilraunarannsókn kannaðist við að samþæta sýndarveruleika (VR) í esketamínmeðferð við þunglyndi. Rannsókn 1 naut yfir 21 sjúklingi; 52% tilkynntu sjónstirðleika og 33% heyrnstirðleika meðan á meðferð stóð, en 71% voru opin fyrir VR-samþættingu. Rannsókn 2 fól í sér 5 sjúklinga sem notuðu VR meðan á einni esketamínlotu stóð. Þó framkvæmanlegt, sýndi VR blandaða þolgæði—þátttakendur með gleraugum upplifðu erfiðleika og ógleði. Niðurstöður benda til möguleika en gefa til kynna þörf á hagræðingu fyrir víðtækari klíníska notkun.",
+        "et": "Pilootuuringus uuriti virtuaalreaalsuse (VR) integreerimist esketamiinraviiga depressiooni puhul. Uuring 1 hõlmas 21 patsienti; 52% teatasid visuaalses ebamugavusest ja 33% auditiivses ebamugavusest ravi ajal, kuid 71% olid avatud VR-integreerimisele. Uuring 2 hõlmas 5 patsienti, kes kasutasid VR-i ühe esketamiinseansi ajal. Kuigi teostatav, näitas VR segatud talumist—prillide kandvad osalejad kogesid raskusi ja iiveldust. Tulemused näitavad potentsiaali, kuid näitavad optimeerimise vajadust enne laiaulatuslikumat kliinilist rakendamist.",
+        "lv": "Pārbaudīta pētījuma studija pārbaudīja virtuālās realitātes (VR) integrēšanu esketamīna ārstēšanā depresijas gadījumā. Pirmajā studijā piedalījās 21 pacients; 52% ziņoja par redzes neērtībām un 33% par skaņas neērtībām ārstēšanas laikā, taču 71% bija atvērti VR integrēšanai. Otrajā studijā piedalījās 5 pacienti, kuri izmantoja VR vienas esketamīna sesijas laikā. Lai arī iespējams, VR uzrādīja jauktu pieņemamību—dalībnieki ar brillēm piedzīvoja grūtības un sliktu pašsajūtu. Rezultāti norāda uz potenciālu, bet liecina par nepieciešamību optimizēt pirms plašākas klīniskas pielietošanas.",
+        "lt": "Bandomojoje studijoje buvo tiriama virtuali realybė (VR) integravimas į esketamino gydymą nuo depresijos. 1-oje studijoje dalyvavo 21 pacientas; 52% pranešė apie vizualinį diskomfortą ir 33% apie klausos diskomfortą gydymo metu, tačiau 71% buvo atviri VR integracijai. 2-oje studijoje dalyvavo 5 pacientai, kurie naudojo VR vieno esketamino seanso metu. Nors ir įmanoma, VR parodė mišrią toleranciją—dalyviai, dėvėję akinius, patyrė sunkumus ir pykinimą. Rezultatai rodo potencialą, tačiau rodo poreikį optimizuoti prieš platesnį klinikinio taikymo."
+      },
+      "notable": false,
+      "notable_reasons": null,
+      "relevance_score": 3,
+      "study_type": "other",
+      "substances": [
+        "ketamine"
+      ],
+      "added_at": "2026-09-24T12:02:14.493884+00:00"
     },
     {
       "title": "Reply to 'Methodological concerns and interpretative limitations of assessing subjective effects of ketamine'.",
@@ -1291,6 +1384,37 @@
       "added_at": "2026-09-09T11:38:42.550210+00:00"
     },
     {
+      "title": "Mystical but not challenging experiences predict symptom improvement after psilocybin for treatment-resistant OCD.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42775190/",
+      "source": "PubMed",
+      "date": "2026-09-08",
+      "authors": [
+        "Shnayder Sarah",
+        "Agin-Liebes Gabrielle",
+        "Hubert Troy J"
+      ],
+      "doi": "10.3389/fpsyt.2026.1799543",
+      "summaries": {
+        "en": "A randomized controlled trial found that mystical experiences during psilocybin sessions predicted symptom improvement in treatment-resistant OCD. In 27 participants receiving psilocybin (0.25 mg/kg), greater mystical-type experiences on the Mystical Experience Questionnaire correlated with lower Yale-Brown Obsessive Compulsive Scale scores at 1 and 12 weeks post-treatment, independent of baseline severity. Challenging experiences showed no significant association with outcomes.",
+        "sv": "En randomiserad kontrollerad studie visade att mystiska upplevelser under psilocybinsessioner förutspådde symtomförbättring vid behandlingsresistent OCD. Hos 27 deltagare som fick psilocybin (0,25 mg/kg) korrelerade större mystiska upplevelser på Mystical Experience Questionnaire med lägre Yale-Brown Obsessive Compulsive Scale-värden vid 1 och 12 veckor efter behandling, oberoende av utgångsseveritet. Utmanande upplevelser visade ingen signifikant association med resultaten.",
+        "no": "En randomisert kontrollert studie fant at mystiske opplevelser under psiloxybin-sesjoner forutsa symptomforbedring ved behandlingsresistent OCD. Hos 27 deltakere som fikk psiloxybin (0,25 mg/kg), korrelerte større mystiske opplevelser på Mystical Experience Questionnaire med lavere Yale-Brown Obsessive Compulsive Scale-verdier ved 1 og 12 uker etter behandling, uavhengig av utgangsseveritet. Utfordrende opplevelser viste ingen signifikant assosiasjon med resultatene.",
+        "da": "Et randomiseret kontrolleret forsøg fandt, at mystiske oplevelser under psilocybin-sessioner forudsagde symptomforbedring ved behandlingsresistent OCD. Hos 27 deltagere, der fik psilocybin (0,25 mg/kg), korrelerede større mystiske oplevelser på Mystical Experience Questionnaire med lavere Yale-Brown Obsessive Compulsive Scale-værdier ved 1 og 12 uger efter behandling, uafhængigt af udgangsseveritet. Udfordrende oplevelser viste ingen signifikant association med resultaterne.",
+        "fi": "Satunnaistettu kontrolloitu tutkimus osoitti, että mystisiä kokemuksia psilosybiini-istuntojen aikana oli mahdollista ennustaa oireisen paranemisen käsittelemielessä OCD:ssä. 27 psilosybiinin saaneella osallistujalla (0,25 mg/kg) suuremmat myystiset kokemukset Mystical Experience Questionnairell korreloivat alhaisempien Yale-Brown Obsessive Compulsive Scale -arvojen kanssa 1 ja 12 viikon kuluttua, lähtötason vakavuudesta riippumatta. Haastavilla kokemuksilla ei ollut merkitsevää yhteyttä tuloksiin.",
+        "is": "Handahóf, tvíblind rannsókn leiddi í ljós að dularlegir reynsluatburðir meðan á psilosýbín-lotum stóð spáðu fyrir um bætingu einkennis við meðhöndlun-ónæma OCD. Meðal 27 þátttakenda sem fengu psilosýbín (0,25 mg/kg) tengdust meiri dularlegir reynsluatburðir í Mystical Experience Questionnaire við lægri Yale-Brown Obsessive Compulsive Scale gildi 1 og 12 vikum eftir meðhöndlun, óháð upphaflegum alvarleika. Áskorunarfullir atburðir sýndu engan marktæka tengingu við niðurstöður.",
+        "et": "Randomiseeritud kontrollitud uuringus leiti, et müstilised kogemused psilosübiini-seansside ajal ennustasid ravi-resistentse OCD-ga seotud sümptomite paranemist. 27 psilosübiini saanud osalejal (0,25 mg/kg) korreleerusid suuremad müstilised kogemused Mystical Experience Questionnaire'is madalama Yale-Brown Obsessive Compulsive Scale'i väärtustega 1 ja 12 nädalat pärast ravi, sõltumata algse raskusastmest. Väljakutsuvatel kogemustel ei olnud olulist seost tulemustega.",
+        "lv": "Randomizēts kontrolēts pētījums konstatēja, ka mistiskas pieredzes psilotsibīna sesiju laikā prognozēja simptomatiskas uzlabošanos pie ārstēšanu necensitīvā OCD. 27 dalībniekus, kuri saņēma psilotsibīnu (0,25 mg/kg), lielākas mistiskas pieredzes Mystical Experience Questionnaire korelēja ar zemākām Yale-Brown Obsessive Compulsive Scale vērtībām 1 un 12 nedēļas pēc ārstēšanas, neatkarīgi no sākotnējā smaguma. Izaicinošai pieredzei nebija nozīmīgas asociācijas ar rezultātiem.",
+        "lt": "Atsitiktinėje kontroliuojamoje studijoje nustatyta, kad mistiškos patirtys psilocibin seansų metu numatė simptomų pagerinimą gydymui atspariai OCD. 27 dalyvių, gavusių psilocibin (0,25 mg/kg), didesnės mistiškos patirtys Mystical Experience Questionnaire sutapo su žemesnėmis Yale-Brown Obsessive Compulsive Scale reikšmėmis 1 ir 12 savaičių po gydymo, nepaisant pradinės sunkumo. Iššūkiu patirtys nebuvo reikšmingai susietos su rezultatais."
+      },
+      "notable": false,
+      "notable_reasons": null,
+      "relevance_score": 4,
+      "study_type": "rct",
+      "substances": [
+        "psilocybin"
+      ],
+      "added_at": "2026-09-24T12:02:14.493884+00:00"
+    },
+    {
       "title": "Beyond symptom reduction: Intranasal esketamine is associated with improved quality of life in treatment-resistant depression.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42731235/",
       "source": "PubMed",
@@ -1838,150 +1962,6 @@
         "other"
       ],
       "added_at": "2026-09-04T11:32:40.517675+00:00"
-    },
-    {
-      "title": "Psilocybin prevents chemotherapy-induced peripheral neuropathy through mitochondrial trafficking preservation.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42691184/",
-      "source": "PubMed",
-      "date": "2026-09-03",
-      "authors": [
-        "Heles Mario",
-        "Pasvolsky Lilach",
-        "Sathishkumar Hinduja"
-      ],
-      "doi": "10.1126/science.aec6116",
-      "summaries": {
-        "en": "Preclinical study demonstrates that two psilocybin doses before chemotherapy prevented chemotherapy-induced peripheral neuropathy in rodent models of platinum and taxane treatment. Psilocybin preserved nerve fiber integrity and tactile sensitivity through mitochondrial trafficking mechanisms (TrkB-Akt-PAK5-MAP2-KIF5B pathway) while maintaining normal brain activity. Antitumor efficacy remained unimpaired. Results suggest psilocybin warrants clinical evaluation as a preventive agent for this often-irreversible chemotherapy side effect.",
-        "sv": "Förexperimentell studie visar att två pslocybindoser före cytostatika förhindrade kemoterapiinducerad perifer neuropati i möss. Psilocybin bevarade nervfiberintegritet och taktil känslighet genom mekanismer för mitokondriell transport medan hjärnaktiviteten förblev normal. Cancereffektiviteten påverkades inte. Resultaten föreslår klinisk utvärdering av pslocybin som profylaktisk agent mot denna ofta irreversibla cytostatika-biverkan.",
-        "no": "Preklinisk studie viser at to psilo-psybin-doser før kjemoterapibehandling forhindret kjemoterapiindusert perifer neuropati imus. Psilocybin opprettholdt nervefiberintegritet og taktil sensibilitet gjennom mitokondriell transportmekanisme mens hjernefunksjonen forble normal. Antitumor-effektiviteten ble ikke påvirket. Resultatene tilsier klinisk evaluering av psilocybin som profylaktisk agent mot denne ofte irreversible bivirkingen.",
-        "da": "Præ-klinisk studie viser, at to psylocibin-doser før kemoterapibehandling forhindrede kemoterapiinduceret perifer neuropati hos mus. Psylocibin bevarede nervefiber-integritet og taktil følsomhed gennem mitokondriell transportmekanisme, mens hjernefunktionen forblev normal. Antitumor-effektiviteten blev ikke påvirket. Resultaterne peger på klinisk evaluering af psylocibin som profylaktisk middel mod denne ofte irreversible bivirkning.",
-        "fi": "Esikliininen tutkimus osoittaa, että kaksi psilosybiiniannosta ennen kemoterapiaa esti kemoterapian aiheuttamaa perifeeristä neuropatiaa hiirillä. Psilosybiini säilytti hermosäikeiden eheyden ja taktuaalisen herkkyyden mitokondrioiden kuljetusmekanismin kautta, kun taas aivojen toiminta pysyi normaalina. Syövän vastaiset vaikutukset säilyivät. Tulokset viittaavat psilosybiinin kliiniseen arviointiin profylaktisena aineena tätä usein pysyvää sivuvaikutusta vastaan.",
-        "is": "Fyrir klínísku rannsókn sýnir að tvær skammtar af psýlósýbíni fyrir krabbameinslyfjameðferð stöðvuðu krabbameinslyfja-framkallaða jaðarflaugaveiki hjá musum. Psýlósýbín varðveittu taugarlokasamfellur og tilfinningu fyrir snertingu með mitkondríuflutningsmálum á meðan heilafunt stóð í engu. Krabbameinsvirkni varðveitist. Niðurstöður benda til klínískrar endurmats á psýlósýbíni sem fyrirbyggjandi lyfjum gegn þessari oft varanlegri aukaverkun.",
-        "et": "Prekliinilises uuringus näidati, et kaks psülotsübiini annust kemoterapia enne takistasid kemoterapiast põhjustatud perifeerset neuropaatiat hiirtel. Psülotsübiini säilitas närvirakeste terviklikkust ja puutendeliust mitokondriaalsete transportmehhanismide kaudu, samal ajal kui ajutegevus jäi normaalseks. Kasvajatevastane toime säilis. Tulemused viitavad psülotsübiini kliinilisele hindamisele profülaktilise agendina selle sageli püsiva kõrvalmõju vastu.",
-        "lv": "Prekliniskā pētījuma atklāti, ka divas psilocibiīna devas pirms ķīmijterapijas novērsa ķīmijterapijas izraisītu perifēro neiropātiju pelēs. Psilocibiīns saglabāja nervu šķiedru integritāti un taustes jūtību mitohondriju pārvadāšanas mehānismu caur, kamēr smadzeņu darbība palika normāla. Antitumora efektivitāte saglabājās. Rezultāti liecina par psilocibiīna klīnisko novērtēšanu kā profilaktiskās vielas pret šo bieži neatgriezenisko blakusefektu.",
-        "lt": "Preklininiame tyrime parodyta, kad dvi psilocibin dozes prieš chemoterapiją užklupo chemoterapijos sukeltos periferinės neuropatijos pelėse. Psilocibin išsaugojo nervų skaidulų vientisumą ir liestės jautrumą mitochondrijų transporto mechanizmų pagalba, tuo metu kai smegenų veikla liko normali. Priešvėžinis poveikis išliko. Rezultatai rodo psilocibin klinikinį vertinimą kaip profilaksinę medžiagą prieš šį dažnai negrįžtamą šalutinį poveikį."
-      },
-      "notable": true,
-      "notable_reasons": {
-        "en": "First-in-class mechanistic evidence for psilocybin preventing chemotherapy-induced peripheral neuropathy via identified molecular pathway (TrkB-Akt-PAK5-MAP2-KIF5B), with both peripheral and central nervous system validation.",
-        "sv": "First-in-class mechanistic evidence for psilocybin preventing chemotherapy-induced peripheral neuropathy via identified molecular pathway (TrkB-Akt-PAK5-MAP2-KIF5B), with both peripheral and central nervous system validation.",
-        "no": "First-in-class mechanistic evidence for psilocybin preventing chemotherapy-induced peripheral neuropathy via identified molecular pathway (TrkB-Akt-PAK5-MAP2-KIF5B), with both peripheral and central nervous system validation.",
-        "da": "First-in-class mechanistic evidence for psilocybin preventing chemotherapy-induced peripheral neuropathy via identified molecular pathway (TrkB-Akt-PAK5-MAP2-KIF5B), with both peripheral and central nervous system validation.",
-        "fi": "First-in-class mechanistic evidence for psilocybin preventing chemotherapy-induced peripheral neuropathy via identified molecular pathway (TrkB-Akt-PAK5-MAP2-KIF5B), with both peripheral and central nervous system validation.",
-        "is": "First-in-class mechanistic evidence for psilocybin preventing chemotherapy-induced peripheral neuropathy via identified molecular pathway (TrkB-Akt-PAK5-MAP2-KIF5B), with both peripheral and central nervous system validation.",
-        "et": "First-in-class mechanistic evidence for psilocybin preventing chemotherapy-induced peripheral neuropathy via identified molecular pathway (TrkB-Akt-PAK5-MAP2-KIF5B), with both peripheral and central nervous system validation.",
-        "lv": "First-in-class mechanistic evidence for psilocybin preventing chemotherapy-induced peripheral neuropathy via identified molecular pathway (TrkB-Akt-PAK5-MAP2-KIF5B), with both peripheral and central nervous system validation.",
-        "lt": "First-in-class mechanistic evidence for psilocybin preventing chemotherapy-induced peripheral neuropathy via identified molecular pathway (TrkB-Akt-PAK5-MAP2-KIF5B), with both peripheral and central nervous system validation."
-      },
-      "relevance_score": 4,
-      "study_type": "preclinical",
-      "substances": [
-        "psilocybin"
-      ],
-      "added_at": "2026-09-04T11:32:40.517675+00:00"
-    },
-    {
-      "title": "Serial Ketamine Infusions for Treatment-Resistant Bipolar Depression: A Randomized Clinical Trial.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42684694/",
-      "source": "PubMed",
-      "date": "2026-09-02",
-      "authors": [
-        "Orsini Diana K",
-        "Di Luch Sara",
-        "Tomlinson George"
-      ],
-      "doi": "10.1001/jamapsychiatry.2026.2658",
-      "summaries": {
-        "en": "Ket-BD, a double-blind randomized controlled trial (n=3 Canadian sites, 2022-2025), compared adjunctive IV ketamine (0.5-0.75 mg/kg, 4 infusions) with midazolam in treatment-resistant bipolar I/II depression. Adults aged 21-65 with ≥2 failed pharmacotherapy trials received infusions over 2 weeks alongside mood stabilizers. Primary outcome: MADRS score change at day 14. Results address efficacy, safety, and mania risk in this understudied population.",
-        "sv": "Ket-BD, en dubbelblind randomiserad studie (3 kanadensiska platser, 2022-2025), jämförde adjunkt IV-ketamin (0,5-0,75 mg/kg, 4 infusioner) med midazolam vid behandlingsresistent bipolär depression. Vuxna 21-65 år med ≥2 misslyckade läkemedelförsök fick infusioner under 2 veckor tillsammans med stämningsreglerare. Primär utfallsmått: MADRS-poäng vid dag 14. Studien utvärderar effektivitet, säkerhet och manirisk i denna liten befolkningsgrupp.",
-        "no": "Ket-BD, en dobbeltblindet randomisert kontrollert studie (3 kanadiske steder, 2022-2025), sammenlignet adjuvant IV-ketamin (0,5-0,75 mg/kg, 4 infusjoner) med midazolam ved behandlingsresistent bipolar depresjon. Voksne 21-65 år med ≥2 mislykkede legemiddelforsøk fikk infusjoner over 2 uker sammen med stemmingsstabilisatorer. Primær utfallsmål: MADRS-score på dag 14. Studien vurderer effektivitet, sikkerhet og manirisiko i denne befolkningsgruppen.",
-        "da": "Ket-BD, et dobbeltblindet randomiseret kontrolleret forsøg (3 kanadiske steder, 2022-2025), sammenlignede adjuvant IV-ketamin (0,5-0,75 mg/kg, 4 infusioner) med midazolam ved behandlingsresistent bipolar depression. Voksne 21-65 år med ≥2 mislykkede lægemiddelforsøg fik infusioner over 2 uger sammen med stemmingsstabilisatorer. Primært måleparameter: MADRS-score på dag 14. Studien vurderer effektivitet, sikkerhed og manirisiko.",
-        "fi": "Ket-BD oli kaksoissokkoutettu satunnaistettu kontrolloitu tutkimus (3 kanadalaista tutkimuskeskusta, 2022-2025), jossa verrattiin adjuvanttista IV-ketamiinia (0,5-0,75 mg/kg, 4 infuusiota) ja midatsolamia hoitoresistentin bipolaarisen masennuksen hoidossa. 21-65-vuotiaat aikuiset, joilla oli ≥2 epäonnistunutta lääkehoidon yritystä, saivat infuusioita 2 viikon ajan mielialan vakauttajien kanssa. Päätulosmuuttuja: MADRS-pisteet päivällä 14.",
-        "is": "Ket-BD var tvöfalt blindað handahóf stýrð rannsókn (3 kanadískar staðir, 2022-2025) sem batti saman aukaðar IV-ketamín (0,5-0,75 mg/kg, 4 innfellingar) og miðazólam við meðferðarþolin kynbundna þunglyndi. Fullorðnir 21-65 ára með ≥2 misheppnuð lyfjameðferðartilraun fengu innfellingar yfir 2 vikur með stemmingsstöðugum lyfjum. Aðalútkoma: MADRS-stig á degi 14. Rannsóknin metur verkun, öryggi og ofnæmi fyrir æði.",
-        "et": "Ket-BD oli kahekordselt pime randomiseeritud kontrollitud uuring (3 Kanada kohta, 2022-2025), mis võrdles adjuvantiivset IV-ketamiini (0,5-0,75 mg/kg, 4 infusiooni) midatsolaamiga ravile vastupidava bipolaarset depressiooni puhul. 21-65-aastased täiskasvanud koos ≥2 ebaõnnestunud ravikatsega said infusioonid 2 nädala jooksul koos meeleolu stabilisaatoritega. Esmane tulem: MADRS-skoor 14. päeval. Uuringus hinnati efektiivsust, ohutust ja maanika riski.",
-        "lv": "Ket-BD bija dubultā aklā randomizēts kontrolēts pētījums (3 Kanādas vietas, 2022-2025), kurā salīdzināja adjuvanta IV-ketamīnu (0,5-0,75 mg/kg, 4 infūzijas) ar midazolāmu ārstēšanai rezistentā bipolārā depresijā. Pieaugušie 21-65 gadi ar ≥2 neveiksmīgiem farmakoterapijas mēģinājumiem saņēma infūzijas 2 nedēļu laikā kopā ar garastāvokļa stabilizatoriem. Primārais iznākums: MADRS rādītājs 14. dienā. Pētījumā novērtēta efektivitāte, draudzīgums un mānijas risks.",
-        "lt": "Ket-BD buvo dvigubai-aklai atsitiktinės imties kontroliuojama klinikinė studu (3 Kanados vietos, 2022-2025), lyginusi papildomą IV-ketaminą (0,5-0,75 mg/kg, 4 infuzijos) su midazolamu gydymui atsparioje bipolinėje depresijoje. 21-65 metų suaugusieji su ≥2 nesėkmingais farmakoterapijos bandymais gavo infuzijas per 2 savaites kartu su nuotaiką stabilizuojančiais vaistais. Pirminis rezultatas: MADRS balas 14 dieną. Tyrime vertinti veiksmingumas, saugumas ir manijos rizika."
-      },
-      "notable": true,
-      "notable_reasons": {
-        "en": "Randomized controlled trial (n appears adequately powered) evaluating IV ketamine in treatment-resistant bipolar disorder, a clinically significant population with limited therapeutic options.",
-        "sv": "Randomiserad kontrollerad studie (n verkar adekvat powered) som utvärderar IV ketamine vid behandlingsresistent bipolär sjukdom, en kliniskt betydelsefull population med begränsade terapeutiska alternativ.",
-        "no": "Randomisert kontrollert forsøk (n virker tilstrekkelig powered) som evaluerer IV ketamine ved behandlingsresistent bipolar lidelse, en klinisk signifikant populasjon med begrenset terapeutiske alternativer.",
-        "da": "Randomiseret kontrolleret forsøg (n virker tilstrækkeligt powered) der evaluerer IV ketamine ved behandlingsresistent bipolær lidelse, en klinisk signifikant befolkning med begrænsede terapeutiske muligheder.",
-        "fi": "Satunnaistettu kontrolloitu tutkimus (n näyttää riittävän powered) IV-ketamiinin arvioimiseksi hoitoresistentin kaksisuuntaisen mielialahäiriön hoidossa, kliinisesti merkittävässä populaatiossa, jolla on rajallisia terapeuttisia vaihtoehtoja.",
-        "is": "Handahóf stýrð rannsókn (n virðist nægilega powered) sem metur IV ketamín við meðferðarþolna tvíhyggju, klínískt marktæka þjóð með takmarkaða meðferðarkosti.",
-        "et": "Randomiseeritud kontrollitud uuring (n tundub piisavalt powered) IV ketamiini hindamiseks ravi-resistentsel kahepoolsel häirel, kliiniliselt olulises populatsioonis, millel on piiratud teraapiavõimalused.",
-        "lv": "Randomizēts kontrolēts pētījums (n šķiet pietiekami powered) IV ketamīna novērtēšanai ārstēšanai rezistentam bipolāram traucējumam, klīniski nozīmīgai populācijai ar ierobežotām terapeitiskajām iespējām.",
-        "lt": "Randomizuotas kontroliuojamas tyrimas (n atrodo pakankamai powered) IV ketamino įvertinimui gydymui atspariai bipolinei sutrikai, klinikinai reikšmingai populiacijai su ribotomis terapinėmis parinktimis."
-      },
-      "relevance_score": 4,
-      "study_type": "rct",
-      "substances": [
-        "ketamine"
-      ],
-      "added_at": "2026-09-03T11:29:23.388921+00:00"
-    },
-    {
-      "title": "Age and Cannabis Co-Use Are Associated with Differences in Experience and Perceived Benefits of Psilocybin: A Retrospective Study.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42682203/",
-      "source": "PubMed",
-      "date": "2026-09-02",
-      "authors": [
-        "Hooper Jake",
-        "Williams Sarah",
-        "Mueller Raeghan"
-      ],
-      "doi": "10.1080/02791072.2026.2727016",
-      "summaries": {
-        "en": "Retrospective cross-sectional study of 365 psilocybin users examined how age and cannabis co-use influenced acute experiences and perceived benefits. Younger adults (18-25) reported more adverse effects than older adults (55-77), though age did not significantly affect mystical experiences or psychological insights. Cannabis co-use was associated with greater perceived improvements in quality of life, anxiety, depression, and alcohol use. Findings suggest age and cannabis may modulate psilocybin's effects and therapeutic outcomes.",
-        "sv": "En retrospektiv tvärsnittsstudie med 365 psilocybin-användare undersökte hur ålder och cannabissambruk påverkade akuta effekter och upplevda fördelar. Yngre vuxna (18-25) rapporterade fler negativa effekter än äldre vuxna (55-77), men ålder påverkade inte mystikerfarenheter eller psykologiska insikter signifikant. Cannabissambruk associerades med större upplevd förbättring av livskvalitet, ångest, depression och alkoholbruk. Resultaten tyder på att ålder och cannabis kan modulera psilocybins effekter och terapeutiska resultat.",
-        "no": "En retrospektiv tverrsnittstudie av 365 psilocybin-brukere undersøkte hvordan alder og cannabissambruk påvirket akutte erfaringer og opplevde fordeler. Yngre voksne (18-25) rapporterte flere negative effekter enn eldre voksne (55-77), men alder påvirket ikke mystiske erfaringer eller psykologisk innsikt signifikant. Cannabissambruk var forbundet med større opplevd forbedring av livskvalitet, angst, depresjon og alkoholbruk. Funnene tyder på at alder og cannabis kan modulere psilocybins effekter og terapeutiske resultater.",
-        "da": "En retrospektiv tværsnitstudie af 365 psilocybin-brugere undersøgte, hvordan alder og cannabissamforbrug påvirkede akutte oplevelser og oplevede fordele. Yngre voksne (18-25) rapporterede flere negative effekter end ældre voksne (55-77), men alder påvirkede ikke mystiske erfaringer eller psykologisk indsigt signifikant. Cannabissamforbrug var forbundet med større oplevede forbedringer af livskvalitet, angst, depression og alkoholforbrug. Resultaterne tyder på, at alder og cannabis kan modulere psilocybins effekter og terapeutiske resultater.",
-        "fi": "Retrospektiivinen poikittaistutkimus 365 psilosybiinin käyttäjällä tutki, miten ikä ja kannabiksen rinnakkaiskäyttö vaikuttivat akuutteihin kokemuksiin ja koettuihin hyötyihin. Nuoremmat aikuiset (18-25) ilmoittivat useammista haitallisista vaikutuksista kuin vanhemmat aikuiset (55-77), mutta ikä ei merkittävästi vaikuttanut mystisiin kokemuksiin tai psykologiseen ymmärrykseen. Kannabiksen rinnakkaiskayttö oli yhteydessä suurempaan koettuun elämänlaadun, ahdistuksen, masennuksen ja alkoholin käytön paranemiseen. Tulokset viittaavat siihen, että ikä ja kannabis voivat säätää psilosybiinin vaikutuksia ja terapeuttisia tuloksia.",
-        "is": "Afturvirk þversniðsrannsókn með 365 psilosýbín-notendum skoðaði hvernig aldur og samsamnotkun kannabis hafði áhrif á bein áhrif og skynjaða ávinning. Yngri fullorðnir (18-25) tilkynntu um fleiri neikvæð áhrif en eldri fullorðnir (55-77), en aldur hafði ekki marktæk áhrif á djarflega reynslu eða sálræna innsýn. Samsamnotkun kannabis var tengd meiri skynjuðum bótum fyrir lífsgæði, kvöl, þunglyndi og áfengisnotkun. Niðurstöður benda til þess að aldur og kannabis geti breytt áhrifum psilosýbíns og meðferðarniðurstöðum.",
-        "et": "Retrospektiivne ristlõikeuuring 365 psilotsibiini kasutajaga uuris, kuidas vanus ja kannabise kaasinahtumine mõjutasid ägeda kogemuse ja tajutud kasu. Nooremad täiskasvanud (18-25) teatanud rohkem kahjulikest mõjust kui vanemad täiskasvanud (55-77), kuid vanus ei mõjutanud oluliselt müstilisi kogemusi ega psühholoogilist ülevaadet. Kannabise kaasnahtumine oli seotud paremini tajutud elukvaliteedi, ärevuse, depressiooni ja alkoholi kuritarvitamisega. Tulemused viitavad sellele, et vanus ja kannabis võivad moduleerida psilotsibiini mõju ja terapeutilist tulemust.",
-        "lv": "Retrospektīvs šķērsgriezuma pētījums ar 365 psilocibīna lietotājiem pārbaudīja, kā vecums un kannabinoīdu līdzlietošana ietekmēja akūtas pieredzes un uztvertos ieguvumus. Jaunāki pieaugušie (18-25) ziņoja par vairāk nevēlamu efektu nekā vecāki pieaugušie (55-77), taču vecums neietekmēja būtiski mistiskas pieredzes vai psiholoģisku ieskatu. Kannabinoīdu līdzlietošana bija saistīta ar lielāku uztverto dzīves kvalitātes, trauksmes, depresijas un alkohola ļaunprātīgas lietošanas uzlabošanos. Atradumi liecina, ka vecums un kannabinoīdi var modulēt psilocibīna efektus un terapeitiskos rezultātus.",
-        "lt": "Retrospektyvinis skerspjūvio tyrimas su 365 psilocibino vartotojais negraudė, kaip amžius ir kanabio bendras vartojimas veikė ūmius patyrimus ir suvoktas naudas. Jaunesnių suaugusiųjų (18-25) pranešta apie daugiau neigiamų efektų nei vyresnių suaugusiųjų (55-77), tačiau amžius reikšmingai neveikė mistinių patirčių ar psichologinės sąmonės. Bendras kanabio vartojimas buvo susijęs su didesniais suvokto gyvenimo kokybės, nerimo, depresijos ir alkoholio piktnaudžiavimo patobulinimais. Rezultatai rodo, kad amžius ir kanabis gali moduliuoti psilocibino efektus ir terapinius rezultatus."
-      },
-      "notable": false,
-      "notable_reasons": null,
-      "relevance_score": 4,
-      "study_type": "observational",
-      "substances": [
-        "psilocybin"
-      ],
-      "added_at": "2026-09-02T11:33:33.070909+00:00"
-    },
-    {
-      "title": "Surrender, disidentification, and reappraisal: a qualitative comparison of psilocybin responders and non-responders in treatment-resistant OCD.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42746496/",
-      "source": "PubMed",
-      "date": "2026-09-01",
-      "authors": [
-        "Agin-Liebes Gabrielle",
-        "Shnayder Sarah",
-        "Fram Geena"
-      ],
-      "doi": "10.3389/fpsyt.2026.1791689",
-      "summaries": {
-        "en": "Qualitative case comparison (n=6) from a randomized controlled trial examining subjective experiences in psilocybin responders versus non-responders with treatment-resistant OCD. Semi-structured interviews 1-2 months post-dosing revealed four key distinctions: responders demonstrated surrender over control, disidentification from OCD with self-compassion, direct emotional experience, and reappraisal of OCD as inconsequential, while non-responders showed opposite patterns. Acute-session surrender appeared to facilitate subsequent psychological shifts in responders.",
-        "sv": "Kvalitativ fallstudie (n=6) från randomiserad kontrollerad prövning som undersökte upplevelser av psykedeliska svampar hos respondenter jämfört med icke-respondenter med behandlingsresistent OCD. Semi-strukturerade intervjuer 1-2 månader efter dosering avslöjade fyra huvudskillnader: respondenter visade övergivan framför kontroll, avidentifikation från OCD med självmedkänsla, direkt emotionell erfarenhet och omvärdering av OCD som obetydlig, medan icke-respondenter visade motsatta mönster. Övergivan under akut session verkar underlätta senare psykologiska förändringar.",
-        "no": "Kvalitativ casestudie (n=6) fra randomisert kontrollert studie som undersøkte opplevelser med psykedeliske stoffer hos respondenter sammenlignet med ikke-respondenter med behandlingsresistent OCD. Semi-strukturerte intervjuer 1-2 måneder etter dosering avslørte fire hovedforskjeller: respondenter viste overgivelse framfor kontroll, avidentifikasjon fra OCD med selvmedlidenhet, direkte emosjonell erfaring og omvurdering av OCD som uvesentlig, mens ikke-respondenter viste motsatte mønstre. Overgivelse under akutt økt synes å legge til rette for senere psykologiske endringer.",
-        "da": "Kvalitativ casestudie (n=6) fra randomiseret kontrolleret forsøg med psykedelika hos respondenter sammenlignet med ikke-respondenter med behandlingsresistent OCD. Semi-strukturerede interviews 1-2 måneder efter dosering afslørede fire centrale forskelle: respondenter viste hengivelse frem for kontrol, disidentifikation fra OCD med selvmedfølelse, direkte emotionel erfaring og omvurdering af OCD som ubetydeligt, mens ikke-respondenter viste modsatte mønstre. Hengivelse under den akutte session synes at lette senere psykologiske forandringer.",
-        "fi": "Kvalitatiivinen tapaustutkimus (n=6) satunnaistetusta kontrolloitusta tutkimuksesta, jossa vertailtiin psykedeelisten aineiden vaikutusta vastaajiin ja ei-vastaajiin hoitoresistenteilla OCD-potilailla. Puolistrukturoidut haastattelut 1-2 kuukautta annoksen jälkeen paljastivat neljä pääeroa: vastaajat osoittivat antautumista kontrollin sijaan, erillistäytymistä OCD:stä itsemedestä, suoraa emotionaalista kokemusta ja OCD:n uudelleenarviointi merkityksettömäksi, kun taas ei-vastaajat osoittivat vastakkaisia malleja. Antautuminen akuutissa istunnossa näytti helpottavan myöhempiä psykologisia muutoksia.",
-        "is": "Eigindleg tilfellastuðning (n=6) frá handahófskenndum samanburðarrannsóknum á sálkerfandi efnum með svörun samanborið við án svörunar hjá sjúklingum með meðferðarónæmni OCD. Hálf-skipulögð viðtöl 1-2 mánuðum eftir skammta afhjúpuðu fjóra lykilmun: svörunarmenn sýndu yfirgjöf fram yfir stjórn, aðgreiningu frá OCD með sjálfsaumkund, beina tilfinningaupplifun og endurkóðun OCD sem ómarktæka, en svararmenn sýndu andstæð mynstur. Yfirgjöf á bráðri setu virtist auðvelda síðari sálræna breytingu.",
-        "et": "Kvalitatiivne juhtumite võrdlus (n=6) randomiseeritud kontrollitud uuringust psühhedeelikumidega reageerijate ja mittereaegeerijate võrdlemiseks ravi-resistent OCD-ga. Poolstruktureeritud intervjuud 1-2 kuud pärast doosi paljastasid neli peamist erinevust: reageerijad näitasid loovutamist kontrolli asemel, OCD-st lahusoldamist enesemeetodusega, otsest emotsionaalset kogemust ja OCD ümberahindamist mitteoluliseks, samas mittereaegeerijad näitasid vastupidiseid mustreid. Loovutamine akuutsel istungil näis soodustavat hilisemaid psühholoogilisi muutusi.",
-        "lv": "Kvalitatīvs gadījumu salīdzinājums (n=6) no randomizēta kontrolēta psihedēlisko vielu pētījuma, salīdzinot respondentus ar neatbildētājiem pret ārstēšanu rezistentajiem OCD. Daļēji strukturētas intervijas 1-2 mēnešus pēc devas atklāja četras galvenās atšķirības: respondenti parādīja padošanos nevis kontroli, atsvešināšanos no OCD ar pašapziņu, tiešu emocionālu pieredzi un OCD pārvērtējumu kā nenozīmīgu, bet neatbildētāji parādīja pretējus modeļus. Padošanās akūtās sesijas laikā šķita atvieglojusi vēlākus psiholoģiskos pārkārtojumus.",
-        "lt": "Kokybinis atvejų palyginimas (n=6) iš atsitiktinių imčių kontroliuoto tyrimo su psichedelinėmis medžiagomis, lyginant atsakovus su neatssakovais į gydymą rezistentiniu OCD. Pusiau struktūruoti pokalbiai 1-2 mėnesius po dozės nustatė keturis pagrindinius skirtumus: atsakovai parodė pasidavimą, o ne kontrolę, atribojimąsi nuo OCD su savęs supratimu, tiesioginį emocinį patyrimą ir OCD perdažnį į nereikalingą, tuo tarpu neatssakovai parodė priešingus šablonus. Pasidavimas ūmios sesijos metu atrodė palengvinęs vėlesnius psichologinius pokyčius."
-      },
-      "notable": false,
-      "notable_reasons": null,
-      "relevance_score": 4,
-      "study_type": "qualitative",
-      "substances": [
-        "psilocybin"
-      ],
-      "added_at": "2026-09-17T11:56:15.164798+00:00"
     }
   ]
 }

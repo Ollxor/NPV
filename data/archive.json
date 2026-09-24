@@ -1,6 +1,86 @@
 {
   "items": [
     {
+      "title": "Real-World Therapeutic Use of Ketamine in Clinical and Non-Clinical Settings: A Cross-Sectional Survey.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42776060/",
+      "source": "PubMed",
+      "date": "2026-09-23",
+      "authors": [
+        "Syed Omer A",
+        "Petranker Rotem",
+        "Nestor Sean M"
+      ],
+      "doi": "10.1080/02791072.2026.2730550",
+      "summary_en": "Cross-sectional survey comparing ketamine use in clinical vs. non-clinical settings using 2023 Global Psychedelic Survey data. Study examines demographic characteristics, clinical profiles, self-reported effectiveness, and hallucination side effects between medically supervised and unsupervised ketamine users treating mood disorders.",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "observational",
+      "substances": [
+        "ketamine"
+      ],
+      "added_at": "2026-09-24T12:02:14.493884+00:00"
+    },
+    {
+      "title": "Mystical but not challenging experiences predict symptom improvement after psilocybin for treatment-resistant OCD.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42775190/",
+      "source": "PubMed",
+      "date": "2026-09-08",
+      "authors": [
+        "Shnayder Sarah",
+        "Agin-Liebes Gabrielle",
+        "Hubert Troy J"
+      ],
+      "doi": "10.3389/fpsyt.2026.1799543",
+      "summary_en": "A randomized controlled trial found that mystical experiences during psilocybin sessions predicted symptom improvement in treatment-resistant OCD. In 27 participants receiving psilocybin (0.25 mg/kg), greater mystical-type experiences on the Mystical Experience Questionnaire correlated with lower Yale-Brown Obsessive Compulsive Scale scores at 1 and 12 weeks post-treatment, independent of baseline severity. Challenging experiences showed no significant association with outcomes.",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "rct",
+      "substances": [
+        "psilocybin"
+      ],
+      "added_at": "2026-09-24T12:02:14.493884+00:00"
+    },
+    {
+      "title": "A Multi-Site Evaluation of a Psychedelic Medicine Curriculum for Psychiatry Trainees.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42778871/",
+      "source": "PubMed",
+      "date": "2026-09-23",
+      "authors": [
+        "Yaden Mary E",
+        "O'Donnell Kelley C",
+        "Roberts Daniel E"
+      ],
+      "doi": "10.1007/s40596-026-02444-3",
+      "summary_en": "A 6-hour psychedelic medicine curriculum was delivered to 40 psychiatry trainees across four US programs in 2025-2026. Pre- and post-course surveys (n=34 baseline, n=22 follow-up) assessed knowledge and attitudes. Trainees showed significant improvements in self-assessed knowledge, quiz scores, understanding of treatment rationale, and confidence in patient counseling on clinical research and harm reduction. Prior didactic exposure was minimal. High baseline interest remained unchanged. The standardized curriculum effectively enhanced trainee knowledge and clinical counseling competence.",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "other",
+      "substances": [
+        "other"
+      ],
+      "added_at": "2026-09-24T12:02:14.493884+00:00"
+    },
+    {
+      "title": "Feasibility and tolerability of virtual reality during esketamine treatment: A pilot study.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42778030/",
+      "source": "PubMed",
+      "date": "2026-09-23",
+      "authors": [
+        "Curran Erin",
+        "Kumpf Kristina T",
+        "Ansari Mina"
+      ],
+      "doi": "10.1016/j.jad.2026.122554",
+      "summary_en": "A pilot study examined integrating virtual reality (VR) into esketamine treatment for depression. Study 1 surveyed 21 patients on dissociative experiences and VR interest; 52% reported visual discomfort and 33% auditory discomfort during treatment, yet 71% were open to VR integration. Study 2 involved 5 patients using VR during one esketamine session. While feasible, VR showed mixed tolerability—participants wearing glasses experienced difficulty and nausea. Results suggest potential but indicate need for optimization before broader clinical application.",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "other",
+      "substances": [
+        "ketamine"
+      ],
+      "added_at": "2026-09-24T12:02:14.493884+00:00"
+    },
+    {
       "title": "Reply to 'Methodological concerns and interpretative limitations of assessing subjective effects of ketamine'.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42773206/",
       "source": "PubMed",

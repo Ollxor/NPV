@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-24T12:03:32.228067+00:00",
+  "generated_at": "2026-09-25T12:02:44.532274+00:00",
   "items": [
     {
       "title": "Blinding integrity in psychedelic research: Evidence from a comparative randomized controlled trial of psilocybin, MDMA, and methylphenidate in healthy volunteers",
@@ -32,6 +32,33 @@
         "mdma"
       ],
       "added_at": "2026-07-09T10:03:12.956794+00:00"
+    },
+    {
+      "title": "Pα+ Psychedelic Bulletin #232: Q2’26 Psychedelic Lobbying Update; DEA Again Moves to Schedule 5 Tryptamines; Oregon Backpedals Psilocybin Fee Hike",
+      "url": "https://psychedelicalpha.com/news/p%ce%b1-psychedelic-bulletin-232-q226-psychedelic-lobbying-update-dea-again-moves-to-schedule-5-tryptamines-oregon-backpedals-psilocybin-fee-hike/",
+      "source": "Psychedelic Alpha",
+      "date": "2026-09-25",
+      "authors": [],
+      "doi": "",
+      "summaries": {
+        "en": "Q2 2026 federal lobbying data shows psychedelic companies increased spending on lobbying firms to record levels. The DEA again moved to schedule tryptamines at Schedule 5, while Oregon reversed plans for a psilocybin program fee increase. The update tracks regulatory activity and industry advocacy across psychedelics developers and nonprofits.",
+        "sv": "Q2 2026 federal lobbying-data visar att psykedelika-företag ökade utgifterna för lobbyingfirmor till rekordhöga nivåer. DEA tog återigen initiativ till att klassificera tryptaminer som Schedule 5, medan Oregon backade från planer på höjd avgift för psylocybin-program. Uppdateringen spårar regulatorisk aktivitet och branschens påverkansarbete.",
+        "no": "Q2 2026-lobbyingsdata viser at psykedalika-selskaper økte utgifter til lobbyingfirmaer til rekordhøyt nivå. DEA tok igjen initiativ til å klassifisere tryptaminer som Schedule 5, mens Oregon trakk seg fra planer om avgiftsøkning for psilocybin-program. Oppdateringen sporer regulatorisk aktivitet og industrinorges påvirkningsarbeid.",
+        "da": "Q2 2026 lobbyingdata viser, at psykedelika-virksomheder øgede udgifterne til lobbyingfirmaer til rekordniveauer. DEA tog igen initiativ til at klassificere tryptaminer som Schedule 5, mens Oregon trak sig fra planer om gebyrforhøjelse for psilocybin-program. Opdateringen følger regulatorisk aktivitet og industriens påvirkningsarbejde.",
+        "fi": "Q2 2026 lobbausdata osoittaa, että psykedeeli-yritykset lisäsivät menojaan lobbaukseen ennätystasolle. DEA otti jälleen askeleen tryptamiinien luokittelemiseksi Schedule 5:ksi, kun taas Oregon perui suunnitelmat psilosibiini-ohjelman maksun nostosta. Päivitys seuraa sääntelyä ja alan vaikuttamistoimintaa.",
+        "is": "Q2 2026 gagnaögn um hagsmunagæslu sýna að sálarhrif-fyrirtæki jukust útgjöld til hagsmunagæslukerfa til metmarkanna. DEA hóf aftur tilraun til að flokka tryptamín sem Schedule 5, á meðan Oregon dró til baka áætlanir um gjaldahækkun fyrir psílosýbín-forrit. Uppfærslan fylgist með eftirlitsstarfsemi og hagsmunagæslu iðnaðarins.",
+        "et": "Q2 2026 lobiimiandmed näitavad, et psühhedeeliliste ühendite ettevõtted suurendasid lobiimiettevõtete kulutusi rekorditasemele. DEA võttis jälle ette trypotamiinide klassifitseerimise Schedule 5 kategooriasse, samas kui Oregon tõmbas tagasi psilotsibiini programmi tasude tõstmise plaanid. Värskendus jälgib regulatiivset tegevust ja tööstuse mõjutustegevust.",
+        "lv": "Q2 2026 lobēšanas dati parāda, ka psihodēlisko vielu uzņēmumi palielināja izdevumus lobējfirmām līdz rekordlīmenim. DEA atkal veica soļus triptamīnu klasificēšanai kā Schedule 5, savukārt Oregona atteicās no psīlocibīna programmas maksas paaugstināšanas plāniem. Atjauninājums izseko normatīvajām aktivitātēm un nozares ietekmēšanas darbībai.",
+        "lt": "Q2 2026 lobavimo duomenys rodo, kad psichedelinių medžiagų bendrovės padidino išlaidas lobavimo firmoms iki rekordinio lygio. DEA vėl veikė žingsnį, kad klasifikuotų triptaminus kaip Schedule 5, o Oregonas atšaukė psilocibin programos mokesčio padidinimo planus. Atnaujinimas stebi reguliacinę veiklą ir industrijos darbus paveikti."
+      },
+      "notable": false,
+      "notable_reasons": null,
+      "relevance_score": 3,
+      "study_type": "other",
+      "substances": [
+        "psilocybin"
+      ],
+      "added_at": "2026-09-25T12:02:30.143034+00:00"
     },
     {
       "title": "Real-World Therapeutic Use of Ketamine in Clinical and Non-Clinical Settings: A Cross-Sectional Survey.",
@@ -1921,47 +1948,6 @@
         "psilocybin"
       ],
       "added_at": "2026-09-05T10:48:05.148635+00:00"
-    },
-    {
-      "title": "Safety, pharmacokinetics, and pharmacodynamics of intravenously administered deuterated",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42689687/",
-      "source": "PubMed",
-      "date": "2026-09-03",
-      "authors": [
-        "van der Heijden Katelijne V",
-        "Jacobs Gabriel E",
-        "James Ellen H"
-      ],
-      "doi": "10.1177/02698811261478616",
-      "summaries": {
-        "en": "A randomized, double-blind, placebo-controlled study evaluated the safety, pharmacokinetics, and pharmacodynamics of CYB004, a deuterated DMT analogue, in healthy volunteers. Intravenous administration at lower doses produced an acceptable safety profile with psychedelic effects, EEG changes, and autonomic activation similar to DMT. CYB004 showed approximately twice the half-life of DMT, extending effects to 40-60 minutes. Higher doses caused intense experiences and participant withdrawals. Deuteration did not reduce pharmacokinetic variability.",
-        "sv": "En randomiserad, dubbelblind, placebokontrollerad studie utvärderade säkerhet, farmakokinetik och farmakodynamik hos CYB004, en deutererad DMT-analog, hos friska försökspersoner. Intravenös administrering vid lägre doser gav acceptabel säkerhetsprofil med psykedeliska effekter, EEG-förändringar och autonom aktivering liknande DMT. CYB004 uppvisade cirka dubbelt så lång halveringstid som DMT, vilket förlängde effekterna till 40-60 minuter. Högre doser orsakade intensiva upplevelser och försökspersonernas avhopp. Deutering minskade inte farmakokinetisk variabilitet.",
-        "no": "En randomisert, dobbeltblind, placebokontrollert studie evaluerte sikkerhet, farmakokinetikk og farmakodynamikk av CYB004, en deuterert DMT-analog, hos friske frivillige. Intravenøs administrering ved lavere doser ga akseptabel sikkerhetsprofil med psykedeliske effekter, EEG-endringer og autonom aktivering lignende DMT. CYB004 viste omtrent dobbelt så lang halveringstid som DMT, noe som forlenget effektene til 40-60 minutter. Høyere doser forårsaket intense opplevelser og frafall blant deltakere. Deutering reduserte ikke farmakokinetisk variabilitet.",
-        "da": "Et randomiseret, dobbelttblindet, placebo-kontrolleret studie evaluerede sikkerhed, farmakokinetik og farmakodynamik af CYB004, en deutereret DMT-analog, hos sunde frivillige. Intravenøs administration ved lavere doser gav acceptabel sikkerhedsprofil med psykedeliske effekter, EEG-ændringer og autonom aktivering svarende til DMT. CYB004 viste cirka dobbelt så lang halveringstid som DMT, hvilket forlængede effekterne til 40-60 minutter. Højere doser forårsagede intensive oplevelser og frafaldt blandt deltagere. Deutering reducerede ikke farmakokinetisk variabilitet.",
-        "fi": "Satunnaistettu, kaksoissokkoutettu, lumekontrolloitu tutkimus arvioi CYB004:n, deuteroidun DMT-analogin, turvallisuutta, farmakokinetiikkaa ja farmakodynamiikkaa terveillä vapaaehtoisilla. Intravenöösiantoa pienempiä annoksia käytettäessä saavutettiin hyväksyttävä turvallisuusprofiili psykedeelistenä vaikutuksina, EEG-muutoksina ja autonomisen hermostojärjestelmän aktivaationa, jotka muistuttivat DMT:tä. CYB004:llä oli noin kaksinkertainen puoliintumisaika verrattuna DMT:hen, jolloin vaikutukset jatkuneet 40-60 minuuttia. Suuremmat annokset aiheuttivat intensiivisiä kokemuksia ja osallistujien poistumisia. Deuterointi ei vähentänyt farmakokineettista vaihtelua.",
-        "is": "Tilraunaðri, tvöföldum blindri, lyfleysu-stýrðri rannsókn var metin öryggni, lyfjahreyfing og lyfjahyggja CYB004, deuteraðs DMT-álogs, hjá heilbrigðum sjálfboðaliðum. Intravenæ gjöf við lægri skammta gaf viðunandi öryggissnið með sígildri tilfinningum, EEG-breytingum og sjálfvirka taugakerfisaktívun svipaða DMT. CYB004 sýndi um tvisvar sinnum lengri hálfu líf en DMT, sem framlengdi áhrif til 40-60 mínútur. Hærri skammtar olli mikilli reynslu og aftökum þátttakenda. Deuterun bætti ekki lyfjahreyfing-breytileika.",
-        "et": "Randomiseeritud, kahepime, platseebo-kontrollitud uuring hinnangus CYB004 (deuteeritud DMT-analoog) ohutust, farmakokineetika ja farmakodünaamikat tervetel vabatahtlikel. Intravenoosne manustamine väiksematel annustel andis vastuvõetava ohutusprofiiliga psühhedeelsed efektid, EEG-muutused ja autonoomse närvisüsteemi aktiveerimine, mis sarnanesid DMT-le. CYB004-l oli ligikaudu kaks korda pikem pooleerinemisaeg kui DMT-l, pikendades efekte 40-60 minutini. Suuremad annused põhjustasid intensiivseid kogemusi ja osalejate katkestamisi. Deuteerimine ei parandanud farmakokineetilist varieeruvust.",
-        "lv": "Randomizēts, dubultākls, placebo-kontrolēts pētījums novērtēja CYB004 (deuterēta DMT analoga) drošumu, farmakokinētiku un farmakodinamiku veseliem brīvprātīgajiem. Intravenoza ievadīšana zemākos devumos nodrošināja pieņemamu drošuma profilu ar psihedeliskiem efektiem, EEG izmaiņām un autonomās nervu sistēmas aktivizāciju, kas līdzīga DMT. CYB004 uzrādīja aptuveni divas reizes garāku pussabrukšanas laiku salīdzinājumā ar DMT, pagarinot efektus līdz 40-60 minūtēm. Augstāki devumi izraisīja intensīvas pieredzes un dalībnieku atkāpšanos. Deuterēšana neuzlaboja farmakokinētisko mainību.",
-        "lt": "Randomizuotame, dvigubai aklame, placebo kontroliuojamame tyrime įvertinti CYB004 (deuterintų DMT analogo) saugumas, farmakokinetika ir farmakodinamika sveikatai savanoriams. Intraveninis skyrimas mažesnėmis dozėmis suteikė priimtiną saugumo profilį su psichedeliniais efektais, EEG pokyčiais ir autonominės nervų sistemos aktyvavimu, panašiais į DMT. CYB004 rodė maždaug du kartus ilgesnį pusperiodį nei DMT, ilginant efektus iki 40-60 minučių. Didesnės dozės sukėlė intensyvius patirti ir dalyvių atsisakymą. Deuterinimas nepagerinao farmakokinetinio kitimo."
-      },
-      "notable": true,
-      "notable_reasons": {
-        "en": "First-in-human study of a new psychedelic compound (CYB004, deuterated DMT analogue) with detailed PK/PD characterization in randomized controlled design.",
-        "sv": "Första studie på människor av en ny psykedelisk förening (CYB004, deutererad DMT-analog) med detaljerad PK/PD-karakterisering i randomiserad kontrollerad design.",
-        "no": "Første menneske-studie av en ny psykedelisk forbindelse (CYB004, deuterert DMT-analog) med detaljert PK/PD-karakterisering i randomisert kontrollert design.",
-        "da": "Første menneske-studie af en ny psykedelisk forbindelse (CYB004, deutereret DMT-analog) med detaljeret PK/PD-karakterisering i randomiseret kontrolleret design.",
-        "fi": "Ensimmäinen ihmistutkimus uudesta psykedelisesta yhdisteestä (CYB004, deuteroitu DMT-analogi) yksityiskohtaisella PK/PD-karakterisoinnilla satunnaistetussa kontrolloidussa tutkimussuunnitelmassa.",
-        "is": "Fyrsta manneskjarannsókn á nýrri geðhrærandi efni (CYB004, deuterað DMT-hliðstæða) með ítarlegri PK/PD-einkennum í tilviljunarkenndum stýrðum hönnun.",
-        "et": "Esimene inimestel läbiviidud uurimus uuest psühhodeelse ühendist (CYB004, deutereeritud DMT-analoog) detailse PK/PD-karakteriseerimisega randomiseeritud kontrollitud kujunduses.",
-        "lv": "Pirmais cilvēku pētījums par jaunu psihodelisku savienojumu (CYB004, deuterēts DMT analogs) ar detalizētu PK/PD raksturojumu randomizētā kontrolētā dizainā.",
-        "lt": "Pirmasis žmonių tyrimas su nauja psichedelike medžiaga (CYB004, deuteruotasis DMT analogas) su detalia PK/PD charakterizacija atsitiktinės imties kontroliuojamame dizaine."
-      },
-      "relevance_score": 5,
-      "study_type": "rct",
-      "substances": [
-        "other"
-      ],
-      "added_at": "2026-09-04T11:32:40.517675+00:00"
     }
   ]
 }

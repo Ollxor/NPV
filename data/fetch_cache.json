@@ -1,7 +1,20 @@
 {
-  "date": "2026-09-24",
-  "cached_at": "2026-09-24T11:05:16.639784+00:00",
+  "date": "2026-09-25",
+  "cached_at": "2026-09-25T11:06:06.490429+00:00",
   "articles": [
+    {
+      "title": "Sex-dependent effects of clozapine on PV interneurons, PNNs, and behavior in a neurodevelopmental model with schizophrenia-relevant phenotypes.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42785079/",
+      "source": "PubMed",
+      "abstract": "Sex modulates both the clinical presentation of schizophrenia (SCZ) and treatment response, yet its impact on the neurobiology of antipsychotic (AP) action remains insufficiently understood. Clozapine (CLZ), the gold standard for treatment-resistant SCZ, shows sex-dependent effects in both clinical and preclinical settings. We recently reported that CLZ treatment is associated with changes in extracellular matrix (ECM) organization and inhibitory circuitry in a neurodevelopmental mouse model with SCZ-relevant phenotypes, but whether these effects differ by sex remained unknown. Here, we investigated sex-dependent effects of CLZ on parvalbumin (PV) interneurons, perineuronal nets (PNNs), ECM-related gene expression, and behavior in adult mice exposed to perinatal ketamine. CLZ restored global PNN density in ketamine-exposed males, whereas in females it selectively increased PV-associated PNNs. At the molecular level, CLZ was associated with shared and sex-dependent changes in the expression of ECM-related genes, including effects on Hapln2, Reelin, and Acan. Behaviorally, CLZ improved cognitive flexibility in both sexes, but rescued social memory only in males, while females showed greater vulnerability to CLZ-induced cognitive impairment in control animals. Together, these findings reveal coordinated sex-dependent changes in PV interneuron- and ECM-related phenotypes, together with distinct behavioral responses following CLZ treatment. These observations support the hypothesis that ECM-related alterations may contribute to sex-dependent variability in CLZ response and reinforce the importance of incorporating sex as a biological variable in preclinical AP research.",
+      "date": "2026-09-24",
+      "authors": [
+        "Gómez-Garrido Ana",
+        "Moreno-Mellado Amanda",
+        "Crespo-Facorro Benedicto"
+      ],
+      "doi": "10.1016/j.biopha.2026.119917"
+    },
     {
       "title": "A Multi-Site Evaluation of a Psychedelic Medicine Curriculum for Psychiatry Trainees.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42778871/",
@@ -249,17 +262,13 @@
       "doi": ""
     },
     {
-      "title": "A national approach in a European context: Multidisciplinary and multiprofessional recommendations on the clinical use of psychedelic substances.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42761569/",
-      "source": "PubMed",
-      "abstract": "The therapeutic benefits of psychedelics for neuropsychiatric conditions have gathered significant attention in Europe and around the world, with treatments using psilocybin, MDMA, and ketamine as notable examples. However, the mind-altering effects of these substances, and the complexity of their regulatory frameworks, both within and outside of therapeutic use, imply careful clinical guidance. Across Europe, associations dedicated to therapeutic use of psychedelics are flourishing, and have produced clinical recommendations, while more generalist professional boards have contributed with various clinical reports, statements and guidelines. In Portugal this prompted a unique collaborative movement of professional associations of Pharmacists, Psychologists and Physicians to work with national ethics authorities, scientific societies and both research and clinical stakeholders, to produce a consensual recommendation addressing core aspects of psychedelic treatments. This statement reflects positions regarding informed consent, the determinants of medical and psychological interventions, ethical considerations and regulatory recommendations. The initial document was open for public consultation, inviting other stakeholders to contribute to the final version, published in Portuguese and translated here into English towards broader access. The statement underscores the importance of multidisciplinary and multiprofessional collaboration among psychiatrists, psychologists and pharmacists, towards establishing common guidelines and regulations to ensure safe and effective clinical applications. By addressing these factors, the recommendations aim to foster responsible therapeutic use, while safeguarding patient well-being.",
-      "date": "2026-09-09",
-      "authors": [
-        "Seybert Carolina",
-        "Pires Ana Matos",
-        "Madeira Luís"
-      ],
-      "doi": "10.1016/j.nsa.2026.107028"
+      "title": "Pα+ Psychedelic Bulletin #232: Q2’26 Psychedelic Lobbying Update; DEA Again Moves to Schedule 5 Tryptamines; Oregon Backpedals Psilocybin Fee Hike",
+      "url": "https://psychedelicalpha.com/news/p%ce%b1-psychedelic-bulletin-232-q226-psychedelic-lobbying-update-dea-again-moves-to-schedule-5-tryptamines-oregon-backpedals-psilocybin-fee-hike/",
+      "source": "Psychedelic Alpha",
+      "abstract": "Q2 2026 Federal Psychedelic Lobbying Update Now that federal lobbying data from the second quarter of the year is available to retrieve, we present our regular update on the state of activity across psychedelic drug developers and nonprofits. Psychedelics companies’ spending on lobbying firms at the federal level reached new heights in Q2 2026, though […]",
+      "date": "2026-09-25",
+      "authors": [],
+      "doi": ""
     },
     {
       "title": "Podcast: Psychedelics in D.C., FDA’s Framework, and New Zealand’s MDMA Prescribers",
@@ -339,15 +348,6 @@
       "source": "Psychedelic Alpha",
       "abstract": "In a commentary published in the New England Journal of Medicine yesterday, FDA outlined what it describes as its “new framework for psychedelic drugs”. The four agency staffers kick off the article by outlining the severity of the mental health crisis in the U.S., focusing on depression and PTSD in particular, before stating that FDA […]",
       "date": "2026-09-10",
-      "authors": [],
-      "doi": ""
-    },
-    {
-      "title": "Two New Zealand Psychiatrists Approved to Prescribe MDMA for PTSD",
-      "url": "https://psychedelicalpha.com/news/two-new-zealand-psychiatrists-approved-to-prescribe-mdma-for-ptsd/",
-      "source": "Psychedelic Alpha",
-      "abstract": "",
-      "date": "2026-09-07",
       "authors": [],
       "doi": ""
     },
@@ -575,7 +575,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2018-004480-31/CZ",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-09-24",
+      "date": "2026-09-25",
       "authors": [],
       "doi": ""
     },
@@ -584,7 +584,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2020-005037-32/CZ",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-09-24",
+      "date": "2026-09-25",
       "authors": [],
       "doi": ""
     },
@@ -593,7 +593,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2021-002909-10/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-09-24",
+      "date": "2026-09-25",
       "authors": [],
       "doi": ""
     },
@@ -602,7 +602,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2015-000550-37/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-09-24",
+      "date": "2026-09-25",
       "authors": [],
       "doi": ""
     },
@@ -611,7 +611,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2021-000041-40/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-09-24",
+      "date": "2026-09-25",
       "authors": [],
       "doi": ""
     },
@@ -620,7 +620,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2020-000829-55/DK",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-09-24",
+      "date": "2026-09-25",
       "authors": [],
       "doi": ""
     },
@@ -629,7 +629,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2020-002790-94/SE",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-09-24",
+      "date": "2026-09-25",
       "authors": [],
       "doi": ""
     },
@@ -638,7 +638,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2021-006200-33/FI",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-09-24",
+      "date": "2026-09-25",
       "authors": [],
       "doi": ""
     },
@@ -647,7 +647,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2019-004812-73/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-09-24",
+      "date": "2026-09-25",
       "authors": [],
       "doi": ""
     },
@@ -656,7 +656,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2022-002369-14/BE",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-09-24",
+      "date": "2026-09-25",
       "authors": [],
       "doi": ""
     },

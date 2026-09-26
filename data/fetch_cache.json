@@ -1,7 +1,45 @@
 {
-  "date": "2026-09-25",
-  "cached_at": "2026-09-25T11:06:06.490429+00:00",
+  "date": "2026-09-26",
+  "cached_at": "2026-09-26T10:47:52.930521+00:00",
   "articles": [
+    {
+      "title": "Non-suicidal self-injury and other key predictors of suicide deaths among children and adolescents in England: a population-based case-control study.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42791556/",
+      "source": "PubMed",
+      "abstract": "Suicide is a leading cause of mortality in young people globally. A history of prior self-harm, with or without suicidal intent, is associated with increased risks of future suicide attempts (SAs) or suicides. While non-suicidal self-injury (NSSI) is likely a predictor of SA, its particular association to suicide deaths remains unexplored. This is a population-based case-control study in England. Cases were all individuals who died by suicide before their 18th birthday (n = 240), between April 2019 and March 2021. Controls (n = 240) were age- and sex-matched individuals who died from other unexpected causes. Conditional logistic regression was used to estimate odds ratios for self-harm history and other risk factors, adjusting for ethnicity and socioeconomic deprivation. A fully adjusted multivariable model was formed to estimate associations between each risk factor and suicide death, adjusting for all measured factors. A history of NSSI was strongly associated with subsequent suicide death (partially adjusted OR, 27.8; 95% CI, 9.5-81.0; fully adjusted OR, 9.2; 95% CI, 2.1-39.5). The association remained significant in sensitivity analyses restricted to those with only NSSI history without SA (partially adjusted OR, 7.7; 95% CI, 3.6-16.5). History of SA was also significant (adjusted OR, 64.2; 95% CI, 8.8-468; fully adjusted OR, 12.3; 95% CI, 0.4-357). Notably, 42.6% of suicides occurred in individuals without previous self-harm, and 71% of suicides occurred on the first documented act of intentional self-injury or self-poisoning. MDMA was recorded in 14 suicide cases, and alcohol use in 34 suicide cases, regardless of whether the intake resulted in overdose. Fully adjusted model found that known NSSI history, known suicidal ideation history, and bullying victimization remained independently associated with suicide death. NSSI and SA are both major predictors for suicide in young people. Risk assessments should aim to include all significant factors. These findings highlight the need for holistic clinical screening for all forms of self-harm regardless of intent, indicated suicide prevention intervention for those identified, and enhanced access to mental health services.",
+      "date": "2026-08-26",
+      "authors": [
+        "Wong Ben Hoi-Ching",
+        "Odd David",
+        "Luyt Karen"
+      ],
+      "doi": "10.1186/s12916-026-05170-7"
+    },
+    {
+      "title": "Ketamine-enhanced psychotherapy for smoking cessation: A pilot study of feasibility, safety, and clinical outcomes.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42788697/",
+      "source": "PubMed",
+      "abstract": "Tobacco use remains a leading preventable cause of morbidity and mortality. Although several pharmacotherapies and behavioral treatments for tobacco use disorder (TUD) exist, their overall efficacy is modest, underscoring the need for innovative treatment approaches. Ketamine, a rapid-acting glutamate receptor antagonist with neuroplasticity-enhancing properties, has shown promise in the treatment of other substance use disorders. Combining ketamine with motivational enhancement therapy (MET) may complement behavioral treatment in TUD by facilitating cognitive and psychological flexibility while strengthening individuals' ability to quit smoking. The primary aim of this open-label pilot study was to evaluate the feasibility and preliminary clinical outcomes of ketamine treatments delivered in conjunction with MET for smoking cessation in individuals with TUD. Seven cigarette smokers (ages 29-64) with a history of unsuccessful quit attempts underwent three weekly intramuscular ketamine sessions (0.71 mg/kg) combined with MET. Feasibility, the primary outcome, was assessed by study completion rates. Secondary outcomes included changes in smoking patterns, craving, nicotine dependence, withdrawal, and motivation to quit. All participants completed the interventional sessions. Ketamine sessions were well-tolerated, and no adverse events other than the expected transient psychoactive effects were observed. Cigarette consumption decreased, accompanied by reductions in nicotine craving. Withdrawal symptoms, nicotine dependence severity, and motivation to quit remained stable. Ketamine-enhanced psychotherapy for TUD was feasible and was associated with reductions in smoking and craving. These preliminary findings support further trials investigating ketamine's potential to enhance behavioral interventions for addiction.",
+      "date": "2026-09-25",
+      "authors": [
+        "Jones Jennifer",
+        "Redding Joseph",
+        "Amador Emily"
+      ],
+      "doi": "10.1177/02698811261488486"
+    },
+    {
+      "title": "Integrated approaches to geriatric mental disorders: pathophysiology, interventions, and precision medicine horizons.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42787720/",
+      "source": "PubMed",
+      "abstract": "The global aging demographic has precipitated a surge in late-life mental disorders (LMDs)-including late-life depression (LLD), anxiety, and behavioral and psychological symptoms of dementia (BPSD)-posing critical public health challenges. This review synthesizes current evidence on the unique pathophysiology, clinical management, and emerging frontiers of geriatric mental health, emphasizing the interplay of neurobiological aging, multimorbidity, and psychosocial stressors. Key pathophysiological mechanisms include \"inflammaging\" (microglial overactivation), cerebral small vessel disease (CSVD), and senescence of monoaminergic systems, which collectively reduce neural resilience and complicate diagnosis. Clinical challenges-such as atypical symptom presentation (e.g., somatic masking of depression), polypharmacy risks, and diagnostic ambiguity between LLD and pseudodementia-necessitate tailored interventions. Notably, caregiver burden represents an independent predictor of patient institutionalization. Multiple systematic reviews and meta-analyses have consistently identified caregiver burden and distress as significant predictors of nursing home admission, with carer stress sometimes serving as the single determining factor for this transition. This underscores the critical need to integrate caregiver well-being into routine clinical assessment. Pharmacological strategies prioritize SSRIs/SNRIs but require cautious dosing due to age-related pharmacokinetic alterations (e.g., reduced renal clearance) and cardiovascular/metabolic risks. Emerging targets (e.g., ketamine for treatment-resistant LLD, anti-inflammatory agents guided by biomarker profiling) highlight a shift toward precision. Psychotherapeutic adaptations-including modified cognitive behavioral therapy (CBT), problem-solving therapy (PST), and life review therapy-address cognitive and psychosocial needs, while integrated care models (e.g., Collaborative Care Model [CoCM]) demonstrate superior outcomes over fragmented care. Lifestyle interventions (exercise) and neuromodulation (rTMS) further expand treatment options. Critical gaps remain, including underrepresentation of older adults in clinical trials and pervasive polypharmacy. Future directions emphasize pharmacogenomics, AI-driven early detection, and culturally equitable care to advance precision psychiatry for LMDs. This synthesis provides clinicians and researchers with a roadmap to navigate the complexities of geriatric mental health, advocating for multidisciplinary, patient-centered approaches to improve outcomes in aging populations.",
+      "date": "2026-09-04",
+      "authors": [
+        "Wang Jin",
+        "Li Anqi"
+      ],
+      "doi": "10.3389/fpsyt.2026.1946385"
+    },
     {
       "title": "Sex-dependent effects of clozapine on PV interneurons, PNNs, and behavior in a neurodevelopmental model with schizophrenia-relevant phenotypes.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42785079/",
@@ -221,45 +259,6 @@
         "Berkovitch Lucie"
       ],
       "doi": "10.1016/j.euroneuro.2026.113878"
-    },
-    {
-      "title": "Single ayahuasca administration mitigates long-term behavioral and neurochemical effects of early-life stress in rats.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42762335/",
-      "source": "PubMed",
-      "abstract": "Pharmacotherapy for depression is commonly prescribed, yet fewer than half of patients achieve remission with a single treatment. Many also experience intolerable side effects, highlighting the need for new treatment approaches. Classic psychedelics interact with the serotonin (5-HT) receptor class and are therefore strongly involved in the treatment of psychiatric illnesses such as depression, anxiety, and substance abuse, demonstrating great therapeutic potential. Specifically, Ayahuasca (AYA) is primarily used for physical or spiritual healing, and the effects resulting from its use are related to its serotonergic activation. Thus, the present study aimed to evaluate the behavioral and neurochemical effects of ayahuasca treatment in Wistar rats subjected to an animal model of depression induced by maternal deprivation (MD). To induce depressive-like behavior, MD was performed on the pups for 3 h/day for 10 days (1st to 10th day of life). Subsequently, rats underwent behavioral testing to assess anxiety- and depressive-like behavior using the elevated plus maze, open field test, splash test, and forced swim test. The levels of dopamine (DA), serotonin (5-HT), brain-derived neurotrophic factor (BDNF), antioxidant enzymes superoxide dismutase, catalase, glutathione peroxidase, and glutathione reductase activities, and oxidative stress biomarkers were assessed in the frontal cortex, hippocampus, and striatum 15 days after ayahuasca administration. MD promoted increased anxiety-like and depressive-like behaviors. Also, anxiety-like and depressive-like behaviors, as well as decreased BDNF and monoamine levels and increased oxidative stress induced by this model, were attenuated by treatment with a single dose of AYA, demonstrating significant therapeutic potential. The findings highlight the need for translational research of new pharmacological approaches for MDD.",
-      "date": "2026-09-19",
-      "authors": [
-        "Lodetti Guilherme",
-        "Redivo Henrique",
-        "Teixeira Amanda Gomes"
-      ],
-      "doi": "10.1007/s00702-026-03287-w"
-    },
-    {
-      "title": "Effect of ECT-anesthetics on reorientation time.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42762243/",
-      "source": "PubMed",
-      "abstract": "Electroconvulsive therapy (ECT) remains one of the most effective treatments in psychiatry, but cognitive side effects still pose a clinical concern. Delayed postictal reorientation is linked to worse cognitive outcomes, adversely affecting patient-perceived treatment tolerability and acceptability, while also increasing post-ECT and post-anesthesia care demands. Despite its clear clinical and operational relevance, comparative evidence on anesthetic effects remains scarce. This study therefore investigates the impact of different anesthetic agents (S-ketamine, propofol, etomidate, thiopental, and the combination of S-ketamine and propofol) on reorientation time following ECT. Retrospective data from 5148 ECT sessions were analyzed using a linear mixed-effects model controlling for age, sex, diagnosis, stimulation dose, electrode placement, seizure quality, ECT session number, need for restimulation, ECT duration, and postictal agitation. Compared with S-ketamine, propofol reduced reorientation time by 6.2 min, and the combination of S-ketamine and propofol reduced reorientation time by 1.5 min. Neither thiopental nor etomidate differed significantly from S-ketamine. The differences may be attributed to the distinct pharmacodynamic profiles of the anesthetic agents. The findings demonstrate that anesthetic choice is a significant and independent determinant of reorientation time following ECT, with propofol and the combination of S-ketamine and propofol associated with markedly faster cognitive recovery compared to S-ketamine.",
-      "date": "2026-09-19",
-      "authors": [
-        "Putschögl Franziska",
-        "Deicher Anton",
-        "Hermann Sophia"
-      ],
-      "doi": "10.1007/s00406-026-02386-9"
-    },
-    {
-      "title": "Intravenous Ketamine for Treatment-Resistant Depression: A Case Report From a Public Hospital in Argentina.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42762051/",
-      "source": "PubMed",
-      "abstract": "Treatment-resistant depression (TRD) is a severe form of depression associated with high rates of disability and suicide, underscoring the need for effective therapeutic alternatives. In recent years, subanesthetic intravenous (IV) ketamine has emerged as a promising intervention due to its rapid antidepressant and antisuicidal effects. This report describes the case of a 41-year-old male patient with TRD treated with IV ketamine at a public hospital in Argentina-the first such reported case in this setting. We detail the diagnostic process, treatment protocol, outcomes, and practical considerations in implementing this novel therapy within a public health system.",
-      "date": "2026-06-01",
-      "authors": [
-        "Dines Micaela",
-        "Bamondez Paloma",
-        "Montenegro Micaela"
-      ],
-      "doi": ""
     },
     {
       "title": "Pα+ Psychedelic Bulletin #232: Q2’26 Psychedelic Lobbying Update; DEA Again Moves to Schedule 5 Tryptamines; Oregon Backpedals Psilocybin Fee Hike",
@@ -575,7 +574,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2018-004480-31/CZ",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-09-25",
+      "date": "2026-09-26",
       "authors": [],
       "doi": ""
     },
@@ -584,7 +583,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2020-005037-32/CZ",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-09-25",
+      "date": "2026-09-26",
       "authors": [],
       "doi": ""
     },
@@ -593,7 +592,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2021-002909-10/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-09-25",
+      "date": "2026-09-26",
       "authors": [],
       "doi": ""
     },
@@ -602,7 +601,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2015-000550-37/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-09-25",
+      "date": "2026-09-26",
       "authors": [],
       "doi": ""
     },
@@ -611,7 +610,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2021-000041-40/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-09-25",
+      "date": "2026-09-26",
       "authors": [],
       "doi": ""
     },
@@ -620,7 +619,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2020-000829-55/DK",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-09-25",
+      "date": "2026-09-26",
       "authors": [],
       "doi": ""
     },
@@ -629,7 +628,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2020-002790-94/SE",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-09-25",
+      "date": "2026-09-26",
       "authors": [],
       "doi": ""
     },
@@ -638,7 +637,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2021-006200-33/FI",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-09-25",
+      "date": "2026-09-26",
       "authors": [],
       "doi": ""
     },
@@ -647,7 +646,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2019-004812-73/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-09-25",
+      "date": "2026-09-26",
       "authors": [],
       "doi": ""
     },
@@ -656,132 +655,9 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2022-002369-14/BE",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-09-25",
+      "date": "2026-09-26",
       "authors": [],
       "doi": ""
-    },
-    {
-      "title": "Blinding integrity in psychedelic research: Evidence from a comparative randomized controlled trial of psilocybin, MDMA, and methylphenidate in healthy volunteers",
-      "url": "https://doi.org/10.1016/j.euroneuro.2026.112879",
-      "source": "OpenAIRE",
-      "abstract": "Maintaining effective blinding is a major methodological challenge in psychedelic research. This study provides a comprehensive evaluation of blinding integrity in 120 healthy volunteers who received either psilocybin, MDMA, or methylphenidate (active placebo) in a double-blind, randomized controlled trial. Using a multi-level assessment incorporating forced-choice substance guesses, certainty ratings, decision factors, and subjective substance effects, the analyses characterize blinding integrity and its relation to the substance experience. Results indicate that overall blinding was insufficient, with psilocybin showing the highest rates of functional unblinding, MDMA moderate levels, and methylphenidate the lowest. As an active placebo, methylphenidate provided more effective blinding for MDMA than for psilocybin. Incorporating certainty levels of substance guesses revealed a more differentiated pattern, with lower functional unblinding rates. Decision factors and subjective substance experiences were associated with phenomenological substance effects. Prior substance experiences did not influence accuracy of forced-choice substance guesses. These findings provide empirical guidance for the design and reporting of blinding procedures in psychedelic trials and underscore the value of systematic, multi-level assessment of blinding integrity.",
-      "date": "2026-10-01",
-      "authors": [
-        "L. Belinger",
-        "N.M. Rieser",
-        "E.J.E. Engeli"
-      ],
-      "doi": "10.1016/j.euroneuro.2026.112879"
-    },
-    {
-      "title": "Evaluating psilocybin for the management of depression: a literature review",
-      "url": "https://doi.org/10.12968/bjmh.2025.0020",
-      "source": "OpenAIRE",
-      "abstract": "<jats:sec>                     <jats:title>Background/Aims</jats:title>                     <jats:p>Depression remains a significant public health concern worldwide and many individuals do not achieve adequate symptom relief from conventional treatments such as antidepressants and psychological therapies. Interest has therefore increased in alternative interventions, including psilocybin microdosing. This article aimed to critically review the current evidence regarding the use of psilocybin for managing symptoms of depression and consider the implications for mental health nursing practice.</jats:p>                   </jats:sec>                   <jats:sec>                     <jats:title>Methods</jats:title>                     <jats:p>A narrative literature review was undertaken. Search terms included ‘microdosing’, ‘psilocybin’, ‘psychedelics’, ‘mental health’ and ‘depression’. Studies published in the last 10 years involving human participants were considered. Following screening and application of inclusion and exclusion criteria, five articles with a total of six empirical studies were included in the review.</jats:p>                   </jats:sec>                   <jats:sec>                     <jats:title>Results</jats:title>                     <jats:p>Three themes emerged, including ethical risks and limitations of microdosing, demographic and participant characteristics and the impact of microdosing on mental health. Some studies reported improvements in mood, anx",
-      "date": "2026-08-02",
-      "authors": [
-        "Rachel Sinclair"
-      ],
-      "doi": "10.12968/bjmh.2025.0020"
-    },
-    {
-      "title": "Psychedelic and Medicinal Mushrooms: Potent Source of Active Metabolites and Medicines",
-      "url": "https://doi.org/10.2174/0115734072383313250602052217",
-      "source": "OpenAIRE",
-      "abstract": "<jats:sec>                     <jats:title>Background:</jats:title>                     <jats:p>Mushrooms, usually used for their nutritional and culinary properties, have recently gained attention for their medicinal effects, so that they are not only used as dietary foods but also as mycotherapeutics, nutraceuticals, and food supplements.</jats:p>                   </jats:sec>                   <jats:sec>                     <jats:title>Objective:</jats:title>                     <jats:p>The aim of this study is therefore to educate readers about various mushrooms with medicinal benefits. Methodology: A large number of English-language publications from different databases were analysed for this purpose.</jats:p>                   </jats:sec>                   <jats:sec>                     <jats:title>Results and Discussion:</jats:title>                     <jats:p>Medicinal mushrooms have been attributed various biological properties, e.g. prebiotic, antihyperlipidaemic, anti-allergic, antioxidant, anticancer, hepatoprotective, antioxidant, cytotoxic, antidiabetic, immunomodulatory, anti-inflammatory, and antimicrobial. These properties are due to the presence of various bioactive compounds presentin the mycelium and fruiting bodies. The biological effects of these bioactive compounds vary according to their chemical nature, and their distribution varies according to the type of mushroom. Psilocybin-containing mushrooms have been consumed in different parts of the world f",
-      "date": "2026-08-01",
-      "authors": [
-        "Priya Chaudhary",
-        "Pracheta Janmeda"
-      ],
-      "doi": "10.2174/0115734072383313250602052217"
-    },
-    {
-      "title": "The role of therapeutic alliance in psilocybin treatment for treatment-resistant depression: A post hoc path analysis",
-      "url": "https://doi.org/10.1016/j.jad.2026.121662",
-      "source": "OpenAIRE",
-      "abstract": "<p>Introduction The contribution of patient support to psilocybin's antidepressant effects remains uncertain. Methods Relationships between therapeutic alliance (Scale to Assess Therapeutic Relationship-Patient version; STAR-P), psychedelic experience (Five-Dimensional Altered States of Consciousness Questionnaire and Emotional Breakthrough Inventory; 5D-ASC and EBI) and clinical outcomes (Montgomery-Åsberg Depression Rating Scale; MADRS) were explored using correlation and path analysis for individuals with treatment-resistant depression receiving 25 mg psilocybin with monitoring and support ( N = 79). Results Change from Baseline to Week 3 MADRS scores showed weaker correlations with pre-dosing therapeutic alliance (−0.178) than with measures of the psychedelic experience: EBI (−0.637), Oceanic Boundlessness (−0.508), and Visual Restructuralization (−0.516). Path analysis showed no nominally significant direct effects of therapeutic alliance on Week 3 MADRS scores, but there were nominally significant effects of therapeutic alliance on psychedelic experience (Oceanic Boundlessness ( β = 0.28), Visual Restructuralization ( β = 0.27), and Auditory Alterations ( β = 0.25)). Only one indirect effect of therapeutic alliance on clinical outcome reached nominal significance (via Visual Restructuralization; β = −0.15). Stronger effects were seen on clinical outcomes for psychedelic experience (EBI ( β = −0.59), Oceanic Boundlessness ( β = −0.53), Visual Restructuralization ( β = −0",
-      "date": "2026-08-01",
-      "authors": [
-        "Goodwin, Guy M.",
-        "Aaronson, Scott T.",
-        "Alvarez, Oscar"
-      ],
-      "doi": "10.1016/j.jad.2026.121662"
-    },
-    {
-      "title": "A cross-national comparison of nonmedical and medical use of psychedelic drugs in the international cannabis policy study",
-      "url": "https://doi.org/10.1016/j.drugpo.2026.105348",
-      "source": "OpenAIRE",
-      "abstract": "Background We know little about the extent psychedelic substances are consumed therapeutically and/or discussed with medical professionals despite renewed global interest in these substances. Methods We examined self-reported responses from the 2023 International Cannabis Policy Study (ICPS) in repeated cross-sectional surveys in Canada, the United States, Australia, and New Zealand. The survey included questions on lifetime, past year, and past month use of psilocybin, LSD, MDMA, and ketamine. It inquired about respondents’ discussions with medical professionals, their self-reported medical use, and related adverse events. We estimate the mean proportion rate for each of these using logistic regression methods that adjust for demographics, country, and sampling weights. Findings Estimated results suggest nineteen per cent of all ICPS respondents reported lifetime use of one of the four substances. Psilocybin was the most commonly estimated to be used in one’s lifetime and in the past year, followed by LSD and MDMA. Estimated prevalences of ever using psilocybin were higher among respondents from Canada (16.3%, CI: 15.6–16.9%) than the USA (13.0%, CI: 12.3–13.6%) and New Zealand (12.1%, CI: 10.4–13.8%). Estimated rates of psilocybin ever use in Australia were significantly lower (7.8%, CI: 6.8–8.8%). An estimated 10–20% of respondents who report ever-use of a psychedelic asked their medical provider about medical use, and over a third who had used in the past year reported ex",
-      "date": "2026-08-01",
-      "authors": [
-        "Myfanwy Graham",
-        "Yimin Ge",
-        "Rosalie Liccardo Pacula"
-      ],
-      "doi": "10.1016/j.drugpo.2026.105348"
-    },
-    {
-      "title": "The Experience-Trajectory Framework: Substance-Specific Risk Stratification for Psychedelic Preparation and Aftercare Beyond Set and Setting",
-      "url": "https://doi.org/10.36948/ijfmr.2026.v08i04.84804",
-      "source": "OpenAIRE",
-      "abstract": "<jats:p>Set, setting, preparation, and integration are widely recognized as important dimensions of psychedelic experiences. However, these concepts often remain too general to specify how preparation, containment, and aftercare should differ across substances, routes of administration, acute duration, residual effects, bodily condition, and interaction exposure. This article proposes the Experience-Trajectory Framework for psychedelic preparation and aftercare. The framework focuses on psilocybin, LSD, mescaline, vaporized N,N-DMT, vaporized 5-MeO-DMT, and ayahuasca or oral DMT combined with monoamine oxidase inhibition. Its central claim is that preparation and aftercare should be stratified by two primary variables: the Experience-Trajectory Profile of the psychedelic state and the participant’s Baseline Risk State before exposure. Experience-Trajectory Profile refers to onset, peak phase, acute duration, residual effects, recovery window, and the earliest appropriate timing for interpretation or integration. Baseline Risk State refers to the participant’s acute physiological and pharmacological condition, including sleep, hydration, cardiovascular stability, gastrointestinal status, glucose stability, psychological stability, and interaction load. This article is a conceptual framework paper, not a clinical protocol or medication-discontinuation guide. It provides a stratification model that links substance-specific experience trajectories with baseline physiological and ",
-      "date": "2026-07-31",
-      "authors": [
-        "Elias Rubenstein"
-      ],
-      "doi": "10.36948/ijfmr.2026.v08i04.84804"
-    },
-    {
-      "title": "Childhood trauma and psychological outcomes following psychedelic use: a scoping review",
-      "url": "https://doi.org/10.1038/s44184-026-00233-2",
-      "source": "OpenAIRE",
-      "abstract": "<jats:title>Abstract</jats:title>                   <jats:p>Research examining psychological outcomes following psychedelic use has grown substantially, yet the role of childhood trauma in shaping these responses remains insufficiently understood. This scoping review mapped the literature examining childhood trauma in relation to post-psychedelic psychological outcomes. Thirty-four sources met inclusion criteria and investigated substances including psilocybin, ayahuasca, and MDMA across clinical, ceremonial, naturalistic, and guided non-clinical contexts. The evidence primarily relied on retrospective self-report, exhibited considerable heterogeneity in study design and trauma operationalisation, and included minimal representation from non-Western or Indigenous contexts. Findings were heterogeneous: some sources reported reductions in trauma-related symptoms in maltreated populations, others found no association between childhood trauma exposure and psychological outcomes, and some identified increased vulnerability to post-acute psychedelic difficulties. Qualitative accounts frequently described resurfacing trauma-related memories accompanied by both psychological growth and distress. Prospective, trauma-informed, and culturally-inclusive research is needed to clarify risks and therapeutic potential for childhood trauma-exposed populations.</jats:p>",
-      "date": "2026-07-30",
-      "authors": [
-        "Lorraine Li",
-        "Paige Seath",
-        "Nadav Liam Modlin"
-      ],
-      "doi": "10.1038/s44184-026-00233-2"
-    },
-    {
-      "title": "Identifying factors that contribute to the behavioral effects of psilocybin in preclinical mouse models",
-      "url": "https://doi.org/10.64898/2026.07.24.740586",
-      "source": "OpenAIRE",
-      "abstract": "<jats:title>ABSTRACT</jats:title>                 <jats:p>Psychedelic drugs offer a potentially promising avenue for novel therapeutics for the treatment of psychiatric conditions, including for mood and anxiety disorders. Emerging clinical studies have prompted increased preclinical research into mechanisms of action. However, post-acute behavioral outcomes in rodents remain inconsistent and difficult to reproduce across laboratories. To address this, we collected a large dataset of behavioral responses to psilocybin in mice (N=693) and used data-driven analyses to identify biological and experimental factors that modulated behavioral readouts. We examined the effects of sex, age, strain, stress protocol, and 5-HT1B signaling on the response to a single high dose of psilocybin measured in acute (head twitch responding and locomotion) or post-acute (sucrose preference, elevated plus maze, novelty-suppressed feeding) behavioral outcomes. We found that psilocybin displays a robust acute behavioral response and a more variable post-acute behavioral profile with a most robust response in sucrose preference. Sex, stress model, and 5-HT1BR activation emerged as key modulators of post-acute antidepressant-like and anxiolytic effects. Random forest classification was narrowly able to predict drug treatment based on post-acute behavioral outcomes and biological and experimental factors. These findings suggest that the heterogeneity seen in the response to psilocybin in mice reflects m",
-      "date": "2026-07-28",
-      "authors": [
-        "Sixtine Fleury",
-        "Luke J. Chang",
-        "Katherine M. Nautiyal"
-      ],
-      "doi": "10.64898/2026.07.24.740586"
-    },
-    {
-      "title": "The “dark magic mushroom” co-produces amatoxins and psilocybin",
-      "url": "https://doi.org/10.64898/2026.07.17.739257",
-      "source": "OpenAIRE",
-      "abstract": "<jats:title>Abstract</jats:title>                 <jats:p>                   The most famous chemicals produced by mushrooms are the psychedelic compound psilocybin from “magic mushrooms” and amatoxins from deadly poisonous mushrooms. These compounds are known to occur in multiple phylogenetically disjunct fungal lineages but have never been shown to co-occur within a single species. Here we show that the “dark magic mushroom”                   <jats:italic>Galerina indica</jats:italic>                   produces both psilocybin and amatoxins. Mass spectrometry revealed psilocybin and amatoxins in mushroom tissues, and genomic analyses identified corresponding biosynthetic genes. Phylogenetic analyses suggest that                   <jats:italic>G. indica</jats:italic>                   acquired psilocybin biosynthesis via horizontal gene transfer after amatoxin biosynthesis was already established, and that psilocybin biosynthesis was acquired twice independently within                   <jats:italic>Galerina</jats:italic>                   . Intriguingly, acquisition of psilocybin biosynthesis in                   <jats:italic>G. indica</jats:italic>                   may have coincided with reduced amatoxin potency. These findings reveal how horizontal gene transfer can combine powerful bioactive systems in a single species, potentially altering the ecological roles of both compound classes and the evolutionary fitness of the species.                 </jats:p>",
-      "date": "2026-07-22",
-      "authors": [
-        "Andrew R. Kunik",
-        "Michael W. Christopher",
-        "Benjamin Lemmond"
-      ],
-      "doi": "10.64898/2026.07.17.739257"
-    },
-    {
-      "title": "Predictive Processing, Psychedelic Spirituality, and Neurophenomenology",
-      "url": "https://doi.org/10.1093/oxfordhb/9780192844064.013.41",
-      "source": "OpenAIRE",
-      "abstract": "<jats:title>Abstract</jats:title>                   <jats:p>Psychedelic substances such as psilocybin, LSD, ayahuasca, DMT, or mescaline, when employed with knowledge and skill, can sometimes lead to profoundly meaningful and transformative subjective experiences. This chapter discusses how the predictive processing theory can further our understanding of these deeply meaningful spiritual psychedelic experience. It makes a more specific proposal that the predictive processing theory of psychedelics can contribute to the neurophenomenology research program. The chapter proposes that phenomenological reflection on the psychedelic experience can be used as a method by subjects for providing first-person descriptions of how the different phenomenological structures of their experience are altered during, and after, their acute psychedelic experience. What predictive processing adds is a further mathematical way of knowing consciousness that can serve as a neutral vocabulary for creating generative passages between neurobiology and phenomenology that allows neuroscientists to make sense of how psychedelics perturb the structures of first-person experience in ways that can lead to profoundly meaningful spiritual experiences.</jats:p>",
-      "date": "2026-07-22",
-      "authors": [
-        "Julian Kiverstein"
-      ],
-      "doi": "10.1093/oxfordhb/9780192844064.013.41"
     }
   ]
 }

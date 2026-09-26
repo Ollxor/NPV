@@ -1,6 +1,26 @@
 {
   "items": [
     {
+      "title": "Ketamine-enhanced psychotherapy for smoking cessation: A pilot study of feasibility, safety, and clinical outcomes.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42788697/",
+      "source": "PubMed",
+      "date": "2026-09-25",
+      "authors": [
+        "Jones Jennifer",
+        "Redding Joseph",
+        "Amador Emily"
+      ],
+      "doi": "10.1177/02698811261488486",
+      "summary_en": "Open-label pilot study (n=7) evaluating ketamine combined with motivational enhancement therapy for smoking cessation. Participants received three weekly intramuscular ketamine sessions (0.71 mg/kg). All completed treatment with good tolerability and no serious adverse events. Cigarette consumption and nicotine craving decreased, suggesting feasibility of this novel approach for tobacco use disorder.",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "case_report",
+      "substances": [
+        "ketamine"
+      ],
+      "added_at": "2026-09-26T11:36:58.320294+00:00"
+    },
+    {
       "title": "Pα+ Psychedelic Bulletin #232: Q2’26 Psychedelic Lobbying Update; DEA Again Moves to Schedule 5 Tryptamines; Oregon Backpedals Psilocybin Fee Hike",
       "url": "https://psychedelicalpha.com/news/p%ce%b1-psychedelic-bulletin-232-q226-psychedelic-lobbying-update-dea-again-moves-to-schedule-5-tryptamines-oregon-backpedals-psilocybin-fee-hike/",
       "source": "Psychedelic Alpha",

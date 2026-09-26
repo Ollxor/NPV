@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-25T12:02:44.532274+00:00",
+  "generated_at": "2026-09-26T11:37:14.561714+00:00",
   "items": [
     {
       "title": "Blinding integrity in psychedelic research: Evidence from a comparative randomized controlled trial of psilocybin, MDMA, and methylphenidate in healthy volunteers",
@@ -32,6 +32,37 @@
         "mdma"
       ],
       "added_at": "2026-07-09T10:03:12.956794+00:00"
+    },
+    {
+      "title": "Ketamine-enhanced psychotherapy for smoking cessation: A pilot study of feasibility, safety, and clinical outcomes.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42788697/",
+      "source": "PubMed",
+      "date": "2026-09-25",
+      "authors": [
+        "Jones Jennifer",
+        "Redding Joseph",
+        "Amador Emily"
+      ],
+      "doi": "10.1177/02698811261488486",
+      "summaries": {
+        "en": "Open-label pilot study (n=7) evaluating ketamine combined with motivational enhancement therapy for smoking cessation. Participants received three weekly intramuscular ketamine sessions (0.71 mg/kg). All completed treatment with good tolerability and no serious adverse events. Cigarette consumption and nicotine craving decreased, suggesting feasibility of this novel approach for tobacco use disorder.",
+        "sv": "Pilotöversiktsstudie (n=7) som utvärderade psykedelika-assisterad psykoterapi med ketamin kombinerat med motivationsförstärkande terapi för rökavvänjning. Deltagare fick tre veckovisa intramuskulära ketamininjektion (0,71 mg/kg). Alla slutförde behandlingen med god tolerabilitet och inga allvarliga biverkningar. Cigarettkonsumtion och nikotinbegär minskade, vilket talar för genomförbarhet.",
+        "no": "Pilottudie (n=7) som evaluerte ketamin kombinert med motivasjonsforsterket terapi for røykeslutt. Deltakerne fikk tre ukentlige intramuskulære ketamininjeksjoner (0,71 mg/kg). Alle fullførte behandlingen med god tolerabilitet og ingen alvorlige bivirkninger. Sigarettkonsum og nikotinbegjær avtok, noe som tyder på gjennomførbarhet for denne tilnærmingen.",
+        "da": "Pilotstudie (n=7) der ketamin kombineret med motivationsforbedret terapi blev evalueret for rygeophør. Deltagerne modtog tre ugentlige intramuskulære ketamininjektioner (0,71 mg/kg). Alle gennemførte behandlingen med god tolerabilitet og ingen alvorlige bivirkninger. Cigaretforbrug og nikotincraving faldt, hvilket understøtter gennemførligheden af denne tilgang.",
+        "fi": "Pilottitutkimus (n=7), jossa tutkittiin psykedeelejä sisältävää psykoterapiaa ketamiinikombinoidulla motivaatiota vahvistavalla terapialla tupakoinnin lopettamiseen. Osallistujat saivat kolme viikoittaista intramuskulaarista ketamiiniinjektiota (0,71 mg/kg). Kaikki suorittivat hoidon hyvin siedetystä ilman vakavia haittavaikutuksia. Savukkeiden kulutus ja nikotiinin halun väheni, mikä tukee lähestymistavan toteutettavuutta.",
+        "is": "Tilraunastuðill (n=7) sem mat sálfræðilega meðferð með hiti og hvatningaauknu meðferð við reykingahljótun. Þátttakendur fengu þrjár vikulegar vöðvarásanir af hiti (0,71 mg/kg). Allir kláruðu meðferðina með góðri umburðarlyndi og engum alvarlegum aukaáhrifum. Neysla sígaretta og sólarsteinn fyrir nikótín minnkaði, sem bendir til hagkvæmni þessarar nálgunar.",
+        "et": "Pilootuuringus (n=7) hinnati ketamiini kombineseeritult motivatsiooni tugevdava teraapiaga suitsetamisest loobumiseks. Osalejad said kolm nädalast intramuskulaarset ketamiini süsti (0,71 mg/kg). Kõik lõpetasid ravi heade taluvusega ja ilma tõsiste kõrvaltoimeteta. Sigarettide tarbimine ja nikotiini iha vähenesid, mis näitab selle lähenemise teostamisvõimalikkust.",
+        "lv": "Pārbaudāmais pētījums (n=7), kurā novērtēja ketamīnu kombinētu ar motivāciju stiprinošu terapiju smēķēšanas atmešanai. Dalībnieki saņēma trīs reizes nedēļā intramuskulāras ketamīna injekcijas (0,71 mg/kg). Visi pabeigušas ārstēšanu ar labu panesību un bez nopietnem blakņu parādībām. Cigarešu patēriņš un nikotīna ilgas samazinājās, norādot uz šīs pieejamības iespējamību.",
+        "lt": "Bandomasis tyrimas (n=7), vertinęs ketamino, sujungtą su motyvacijos stiprinimo terapija, psichodelių pagalbą dėl rūkymo nutraukimo. Dalyviai gavo tris savaitines intramuskulines ketamino injekcijas (0,71 mg/kg). Visi baigė gydymą su gera tolerancija ir be rimtų šalutinių poveikių. Cigarečių suvartojimas ir nikotino ilgesys sumažėjo, o tai rodo šio metodo įgyvendinamumą."
+      },
+      "notable": false,
+      "notable_reasons": null,
+      "relevance_score": 3,
+      "study_type": "case_report",
+      "substances": [
+        "ketamine"
+      ],
+      "added_at": "2026-09-26T11:36:58.320294+00:00"
     },
     {
       "title": "Pα+ Psychedelic Bulletin #232: Q2’26 Psychedelic Lobbying Update; DEA Again Moves to Schedule 5 Tryptamines; Oregon Backpedals Psilocybin Fee Hike",
@@ -1919,33 +1950,6 @@
       "study_type": "case_report",
       "substances": [
         "lsd"
-      ],
-      "added_at": "2026-09-05T10:48:05.148635+00:00"
-    },
-    {
-      "title": "Pα+ Library: Psychedelic REMS",
-      "url": "https://psychedelicalpha.com/news/p%ce%b1-library-psychedelic-rems/",
-      "source": "Psychedelic Alpha",
-      "date": "2026-09-03",
-      "authors": [],
-      "doi": "",
-      "summaries": {
-        "en": "As psychedelic therapies approach FDA approval, Risk Evaluation and Mitigation Strategies (REMS) are expected to shape their clinical delivery. REMS are regulatory safeguards that impose additional requirements on approved medications to ensure safe use in real-world settings.",
-        "sv": "I takt med att psykedelisk terapi närmar sig FDA-godkännande förväntas Risk Evaluation and Mitigation Strategies (REMS) forma deras kliniska leverans. REMS är regulatoriska skyddsåtgärder som ställer ytterligare krav på godkända läkemedel för att säkerställa säker användning.",
-        "no": "Ettersom psykedelisk terapi nærmer seg FDA-godkjenning, forventes Risk Evaluation and Mitigation Strategies (REMS) å forme deres kliniske levering. REMS er regulatoriske sikkerhetstiltak som pålegger godkjente legemidler ytterligere krav for å sikre trygg bruk.",
-        "da": "Efterhånden som psykedelisk terapi nærmer sig FDA-godkendelse, forventes Risk Evaluation and Mitigation Strategies (REMS) at forme deres kliniske levering. REMS er regulatoriske sikkerhedsforanstaltninger, der pålægger godkendte lægemidler yderligere krav for sikker anvendelse.",
-        "fi": "Psykedeelisen terapian lähestyessä FDA-hyväksyntää Risk Evaluation and Mitigation Strategies (REMS) -säännösten odotetaan muotoilevan niiden kliinistä toimittamista. REMS ovat sääntelyyn perustuvia turvatoimia, jotka asettavat hyväksytyille lääkkeille lisävaatimuksia turvallisen käytön varmistamiseksi.",
-        "is": "Þar sem sálfræðileg meðferð nálgast samþykki FDA, er gert ráð fyrir að Risk Evaluation and Mitigation Strategies (REMS) muni móta klíníska afhendingu þeirra. REMS eru eftirlitsöryggisaðgerðir sem setja viðbótarkröfur á samþykkta lyf til að tryggja örugga notkun.",
-        "et": "Psühhedeelsete teraapia lähenedes FDA heakskiidule, on oodata, et Risk Evaluation and Mitigation Strategies (REMS) kujundavad nende kliinilist kohaletoimetamist. REMS on regulatoorset järelevalvet tagavad meetmed, mis kehtestavad heakskiidetud ravimitele lisanõudeid ohutute kasutamise tagamiseks.",
-        "lv": "Tā kā psihedelisko terapiju pielaižas FDA apstiprināšana, tiek prognozēts, ka Risk Evaluation and Mitigation Strategies (REMS) veidosies to klīnisko piegādi. REMS ir regulējošie drošības pasākumi, kas uzliek apstiprināto zāļu papildu prasības, lai nodrošinātu drošu lietošanu.",
-        "lt": "Artėjant psichedelinei terapijai prie FDA patvirtinimo, tikimasi, kad Risk Evaluation and Mitigation Strategies (REMS) suformavo jų klinikinį pristatymą. REMS yra reguliavimo saugos priemonės, kurios skiria papildomus reikalavimus patvirtintoms vaistams, siekiant užtikrinti saugų naudojimą."
-      },
-      "notable": false,
-      "notable_reasons": null,
-      "relevance_score": 3,
-      "study_type": "other",
-      "substances": [
-        "psilocybin"
       ],
       "added_at": "2026-09-05T10:48:05.148635+00:00"
     }

@@ -1,7 +1,33 @@
 {
-  "date": "2026-09-26",
-  "cached_at": "2026-09-26T10:47:52.930521+00:00",
+  "date": "2026-09-27",
+  "cached_at": "2026-09-27T11:23:01.361380+00:00",
   "articles": [
+    {
+      "title": "Incidence, Clinical Outcomes, and Factors Associated With Post-intubation Hypotension Among Critically Ill Patients Undergoing Emergency Endotracheal Intubation: A Retrospective Observational Study.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42801266/",
+      "source": "PubMed",
+      "abstract": "Background Post-intubation hypotension (PIH) is a common and clinically significant complication of emergency airway management in critically ill patients and is associated with adverse short-term outcomes. Objective The objective of this study was to determine the incidence, clinical outcomes, and factors associated with post-intubation hypotension among critically ill adults undergoing emergency endotracheal intubation. Methodology This retrospective observational study was conducted at Mayo Hospital, Lahore, Pakistan. Medical records of 234 adult patients who underwent emergency endotracheal intubation between March 2023 to March 2026 were reviewed. PIH was defined as systolic blood pressure <90 mmHg, mean arterial pressure <65 mmHg, or a ≥20% reduction in systolic blood pressure from the pre-intubation baseline within 30 minutes after successful intubation. Multivariable logistic regression was performed to identify factors independently associated with PIH. Results PIH occurred in 68 of 234 patients (29.1%). Patients with PIH were significantly older and had higher Acute Physiology and Chronic Health Evaluation II (APACHE II), Sequential Organ Failure Assessment (SOFA) score, and Shock Index values than those without PIH. On multivariable analysis, increasing age (adjusted OR (AOR) 1.03, 95% CI 1.01-1.06; p = 0.011), chronic kidney disease (AOR 2.08, 95% CI 1.01-4.29; p = 0.047), sepsis (AOR 2.64, 95% CI 1.38-5.05; p = 0.003), higher APACHE II score (AOR 1.11, 95% CI 1.04-1.18; p = 0.001), elevated Shock Index (AOR 3.42, 95% CI 1.74-6.74; p < 0.001), ketamine use compared with etomidate (AOR 1.89, 95% CI 1.01-3.53; p = 0.045), and difficult airway (AOR 2.27, 95% CI 1.07-4.83; p = 0.033) were independently associated with PIH. PIH was also associated with higher vasopressor requirement, longer mechanical ventilation and ICU and hospital stays, increased AKI, and higher ICU and in-hospital mortality. Conclusion PIH occurred in nearly one-third of critically ill adults undergoing emergency endotracheal intubation and was associated with worse short-term clinical outcomes. Older age, sepsis, chronic kidney disease, higher APACHE II score, elevated Shock Index, ketamine use, and difficult airway were independently associated with PIH. These findings support early recognition of patients at increased risk and warrant prospective multicentre studies to determine whether standardized peri-intubation strategies can reduce PIH and improve outcomes.",
+      "date": "2026-08-27",
+      "authors": [
+        "Noreen Fatima Hafiza Amber",
+        "Shaukat Shahryar",
+        "Qureshi Rohma"
+      ],
+      "doi": "10.7759/cureus.115316"
+    },
+    {
+      "title": "Symptom-level and network analyses of ketamine treatment in treatment-resistant depression: A pooled analysis of two randomized controlled trials.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42800500/",
+      "source": "PubMed",
+      "abstract": "We examined symptom-level treatment effects and exploratory symptom networks after ketamine in treatment-resistant depression. This post hoc analysis pooled 132 participants assigned to ketamine 0.5 mg/kg or protocol-specific control (66 each) from saline-controlled 2017 and midazolam-controlled 2023 trials. Baseline- and trial-adjusted models assessed Montgomery-Åsberg Depression Rating Scale (MADRS) items and four literature-derived domains with false discovery rate (FDR) correction. Sensitivity analyses included trial-specific models and mixed models for repeated measures. Ketamine-arm Gaussian graphical models compared baseline with day 2. Treatment-node Network Intervention Analysis (NIA) estimated conditional associations; item-edge reporting required full-sample selection and at least 50% bootstrap selection. At 240 min, 9/10 items met the FDR criterion. Adjusted control-minus-ketamine differences were 1.09 (95% confidence interval 0.65-1.54) for apparent sadness, 1.09 (0.64-1.54) for pessimistic thoughts, and 1.10 (0.68-1.52) for suicidal thoughts. All four domains met the criterion at 240 min and day 2. Global strength increased from 3.38 to 4.47 (median permutation p = 0.024), with no detected structure difference (p = 0.433); baseline edge stability was limited. NIA retained nine edges at 50%, four at 60%, and two at 75%, the latter involving apparent sadness at days 3 and 7. Ketamine showed broad early symptom improvement. Exploratory network associations were sensitive to reporting thresholds and did not establish symptom-specific mechanisms. UMIN000016985, UMIN000033916 and UMIN000033760.",
+      "date": "2026-09-26",
+      "authors": [
+        "Liu Kuan-I",
+        "Lin Wei-Chen",
+        "Li Cheng-Ta"
+      ],
+      "doi": "10.1016/j.pnpbp.2026.111950"
+    },
     {
       "title": "Non-suicidal self-injury and other key predictors of suicide deaths among children and adolescents in England: a population-based case-control study.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42791556/",
@@ -234,31 +260,6 @@
         "Wang Zhaoran"
       ],
       "doi": "10.1038/s41380-026-03893-w"
-    },
-    {
-      "title": "Cognitive effects of ketamine and esketamine treatment for major depressive and bipolar disorder: a systematic review.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42762641/",
-      "source": "PubMed",
-      "abstract": "Cognitive impairment is a core feature of major depressive disorder (MDD) and bipolar disorder (BD). Most conventional antidepressants do not have direct and clinically relevant procognitive effects. Ketamine and esketamine are effective in treating treatment-resistant depression (TRD). Herein, this systematic review aims to evaluate the effects of both pharmacotherapeutics on cognitive measures in adults with MDD, BD and TRD. OVID databases were searched from inception until February 8, 2026. Clinical studies examining the cognitive effects of ketamine and esketamine were included. A systematic review was conducted following the Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) guidelines. Risk of bias was assessed with the Risk Of Bias In Non-randomized Studies-of Interventions, Version 2 (ROBINS-I V2) and the NHLBI's Quality Assessment of Controlled Intervention Studies. 22 studies were included, with a total sample size of 2,441 participants. In randomized controlled trials (RCTs), adults with MDD undergoing single-dose ketamine 0.5 mg/kg or esketamine 0.25 mg/kg showed inconsistent effects on cognition, with improvements in some domains as well as null findings and reports of impaired memory recall and processing speed. In open-label studies, maintenance ketamine 0.5 mg/kg in adults with MDD or BD was associated with improvements in memory, attention, language, processing speed, and verbal learning, though these were within-group changes not controlled against a comparator. The findings suggest ketamine and esketamine treatment are associated with improvements across several domains of objective cognitive performance, predominantly in uncontrolled or within-group analyses. The extent to which these changes represent direct procognitive effects independent of antidepressant response, practice effects, or comparator differences remains uncertain.",
-      "date": "2026-09-14",
-      "authors": [
-        "Xiao Kelei",
-        "Woo Yealin",
-        "Dri Christine E"
-      ],
-      "doi": "10.1016/j.psychres.2026.117456"
-    },
-    {
-      "title": "Psychedelics and suicidality: A double-edged sword - risks, mechanisms, and moving forward.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42762543/",
-      "source": "PubMed",
-      "abstract": "Classic psychedelics, including lysergic acid diethylamide (LSD), psilocybin, and dimethyltryptamine (DMT), have re-emerged as promising treatments for psychiatric conditions linked to suicidality. However, rare reports of increased suicidality potentially associated with psychedelic use have raised safety concerns. This article examines the complex relationship between psychedelics and suicidality and develops a theoretical mechanistic model: the double-edge sword. We first summarise available data on suicide-related outcomes associated with psychedelic use reported in recreational settings and in first and second waves of clinical research. Several deaths have occurred following non-medical psychedelic use, where unsafe contexts led to accidents or presumed suicides, with unclear suicidal intent. Though less frequent, rare cases of increased suicidal ideation and behaviours have also been reported in clinical settings, without significant differences from placebo groups or established causality. We then offer a theoretical mechanistic framework encompassing both anti- and pro- suicidality mechanisms. Specifically, we propose three key psychological mechanisms - reduced fear of death, altered representations of the world and reduced experiential avoidance - constituting a double-edged sword: the same processes that facilitate healing may, in vulnerable individuals or unsupportive contexts, precipitate destabilisation and suicidal crises. Then, we turn to clinical practice recommendations aimed at harnessing these mechanisms for therapeutic benefit while mitigating suicide risk. Adequate therapeutic support, spanning screening, preparation, in-session guidance, and integration, seems essential to shifting outcomes toward benefit. Finally, we discuss future directions regarding potential psychedelic use in suicidal crises and propose guidelines to better study and characterise the underlying mechanisms driving this complex relationship.",
-      "date": "2026-09-19",
-      "authors": [
-        "Mallevays Maia",
-        "Berkovitch Lucie"
-      ],
-      "doi": "10.1016/j.euroneuro.2026.113878"
     },
     {
       "title": "Pα+ Psychedelic Bulletin #232: Q2’26 Psychedelic Lobbying Update; DEA Again Moves to Schedule 5 Tryptamines; Oregon Backpedals Psilocybin Fee Hike",
@@ -574,7 +575,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2018-004480-31/CZ",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-09-26",
+      "date": "2026-09-27",
       "authors": [],
       "doi": ""
     },
@@ -583,7 +584,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2020-005037-32/CZ",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-09-26",
+      "date": "2026-09-27",
       "authors": [],
       "doi": ""
     },
@@ -592,7 +593,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2021-002909-10/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-09-26",
+      "date": "2026-09-27",
       "authors": [],
       "doi": ""
     },
@@ -601,7 +602,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2015-000550-37/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-09-26",
+      "date": "2026-09-27",
       "authors": [],
       "doi": ""
     },
@@ -610,7 +611,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2021-000041-40/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-09-26",
+      "date": "2026-09-27",
       "authors": [],
       "doi": ""
     },
@@ -619,7 +620,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2020-000829-55/DK",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-09-26",
+      "date": "2026-09-27",
       "authors": [],
       "doi": ""
     },
@@ -628,7 +629,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2020-002790-94/SE",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-09-26",
+      "date": "2026-09-27",
       "authors": [],
       "doi": ""
     },
@@ -637,7 +638,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2021-006200-33/FI",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-09-26",
+      "date": "2026-09-27",
       "authors": [],
       "doi": ""
     },
@@ -646,7 +647,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2019-004812-73/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-09-26",
+      "date": "2026-09-27",
       "authors": [],
       "doi": ""
     },
@@ -655,7 +656,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2022-002369-14/BE",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-09-26",
+      "date": "2026-09-27",
       "authors": [],
       "doi": ""
     }

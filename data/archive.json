@@ -1,6 +1,26 @@
 {
   "items": [
     {
+      "title": "Symptom-level and network analyses of ketamine treatment in treatment-resistant depression: A pooled analysis of two randomized controlled trials.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42800500/",
+      "source": "PubMed",
+      "date": "2026-09-26",
+      "authors": [
+        "Liu Kuan-I",
+        "Lin Wei-Chen",
+        "Li Cheng-Ta"
+      ],
+      "doi": "10.1016/j.pnpbp.2026.111950",
+      "summary_en": "Pooled analysis of two randomized controlled trials (n=132) examined ketamine's effects on treatment-resistant depression symptoms. Ketamine (0.5 mg/kg) versus control showed broad early improvements across 9/10 depression rating scale items at 240 minutes, with largest differences in sadness, pessimism, and suicidal ideation. Network analysis revealed increased symptom connectivity but limited stability. Results support ketamine's rapid symptom-level efficacy in this population.",
+      "notable": true,
+      "notable_reason": "Pooled analysis of two saline- and midazolam-controlled RCTs (n=132) with detailed symptom-level outcomes meeting FDR correction criteria, demonstrating broad early ketamine efficacy in treatment-resistant depression.",
+      "study_type": "rct",
+      "substances": [
+        "ketamine"
+      ],
+      "added_at": "2026-09-27T12:16:02.453474+00:00"
+    },
+    {
       "title": "Ketamine-enhanced psychotherapy for smoking cessation: A pilot study of feasibility, safety, and clinical outcomes.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42788697/",
       "source": "PubMed",

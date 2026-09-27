@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-26T11:37:14.561714+00:00",
+  "generated_at": "2026-09-27T12:16:31.660110+00:00",
   "items": [
     {
       "title": "Blinding integrity in psychedelic research: Evidence from a comparative randomized controlled trial of psilocybin, MDMA, and methylphenidate in healthy volunteers",
@@ -32,6 +32,47 @@
         "mdma"
       ],
       "added_at": "2026-07-09T10:03:12.956794+00:00"
+    },
+    {
+      "title": "Symptom-level and network analyses of ketamine treatment in treatment-resistant depression: A pooled analysis of two randomized controlled trials.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42800500/",
+      "source": "PubMed",
+      "date": "2026-09-26",
+      "authors": [
+        "Liu Kuan-I",
+        "Lin Wei-Chen",
+        "Li Cheng-Ta"
+      ],
+      "doi": "10.1016/j.pnpbp.2026.111950",
+      "summaries": {
+        "en": "Pooled analysis of two randomized controlled trials (n=132) examined ketamine's effects on treatment-resistant depression symptoms. Ketamine (0.5 mg/kg) versus control showed broad early improvements across 9/10 depression rating scale items at 240 minutes, with largest differences in sadness, pessimism, and suicidal ideation. Network analysis revealed increased symptom connectivity but limited stability. Results support ketamine's rapid symptom-level efficacy in this population.",
+        "sv": "Sammanslagna resultat från två randomiserade kontrollerade studier (n=132) undersökte kelamins effekter på depressiva symtom vid behandlingsresistent depression. Ketamin (0,5 mg/kg) mot kontroll visade breda tidiga förbättringar över 9/10 skala-items vid 240 minuter, med största skillnader i sadhet, pessimism och självmordstankar. Nätverksanalys påvisade ökad symptomkonnektivitet men begränsad stabilitet. Resultaten stödjer kelamins snabba symptomeffektivitet.",
+        "no": "Samlet analyse av to randomiserte kontrollerte studier (n=132) undersøkte ketamins effekter på depressive symptomer ved behandlingsresistent depresjon. Ketamin (0,5 mg/kg) versus kontroll viste bred tidlig forbedring på 9/10 skala-item ved 240 minutter, med største forskjeller i tristhet, pessimisme og selvmordstanker. Nettverksanalyse avslørte økt symptomforbindelse men begrenset stabilitet. Resultatene støtter ketamins raske symptomeffektivitet.",
+        "da": "Samlet analyse af to randomiserede kontrollerede studier (n=132) undersøgte ketamins effekter på depressive symptomer ved behandlingsresistent depression. Ketamin (0,5 mg/kg) mod kontrol viste bred tidlig forbedring på 9/10 skala-items ved 240 minutter, med største forskelle i tristhed, pessimisme og selvmordstanker. Netværksanalyse afslørede øget symptomforbindelse men begrænset stabilitet. Resultaterne understøtter ketamins hurtige symptomefficacitet.",
+        "fi": "Kahden satunnaistetun kontrolloitavan tutkimuksen yhdistetty analyysi (n=132) tutki ketamiinin vaikutuksia hoitoresistentin masennuksen oireisiin. Ketamiini (0,5 mg/kg) kontrollia vastaan osoitti laajaa varhaista paranemista 9/10 asteikon kohdalla 240 minuutissa, suurimmat erot surullisuudessa, pessimismissa ja itsemurhajärjestelmässä. Verkkohypoteesianalyysi paljasti lisääntynyttä oireyhteyttä mutta rajallista vakautta. Tulokset tukevat ketamiinin nopeaa oiresäätöä.",
+        "is": "Sameinuð greining tveggja slembiúrvals stjórnraðra rannsókna (n=132) kannaði áhrif ketamíns á þunglyndisorðir við meðferðarviðnáms þunglyndi. Ketamín (0,5 mg/kg) á móti stjórn sýndi víðtæka snemmbúna bata á 9/10 kvarðaatriðum við 240 mínútur, með stærstu mun í sorglyndi, svartsýni og sjálfsmorðshugsun. Netkerfigreining leiddi í ljós aukna einkennasamtengingu en takmarkaða stöðugleika. Niðurstöður styðja skjóta einkennaárangur ketamíns.",
+        "et": "Kahe randomiseeritud kontrollitud uuringu ühendatud analüüs (n=132) uuris ketamiini mõju ravi-resistentsele depressioonile. Ketamiin (0,5 mg/kg) versus kontroll näitas laiapõhjaist varast paranemist 9/10 skaalal 240 minuti jooksul, suurimate erinevustega kurvameeluses, pessimismis ja enesetappe mõtetes. Võrguanalüüs paljastas suurenenud sümptomite seotust, kuid piiratud stabiilsust. Tulemused toetavad ketamiini kiire sümptomilist efektiivsust.",
+        "lv": "Divu randomizētu kontrolēto pētījumu apvienotā analīze (n=132) pārbaudīja ketamīna ietekmi uz depresiju, kas ir rezistenta pret ārstēšanu. Ketamīns (0,5 mg/kg) pret kontroli parādīja plašu agrīnu uzlabošanos 9/10 skalas punktos 240 minūtēs, ar lielākām atšķirībām skumjās, pesimismā un pašnāvības domās. Tīkla analīze atklāja palielinātu simptomu savienojamību, bet ierobežotu stabilitāti. Rezultāti atbalsta ketamīna ātro simptomu efektivitāti.",
+        "lt": "Dviejų randomizuotų kontroliuojamų tyrimų sujungta analizė (n=132) tyrinėjo ketamino poveikį gydymui atspariom depresijom. Ketaminas (0,5 mg/kg) prieš kontrolę parodė platų ankstyvą pagerinimą 9/10 skalės dalyse per 240 minučių, didžiausias skirtumus liūdesyje, pesimizme ir savižudybės mintimis. Tinklo analizė atskleidė padidėjusią simptomų sąsają, bet ribotą stabilumą. Rezultatai paremti ketamino greitu simptomų veiksmingumu."
+      },
+      "notable": true,
+      "notable_reasons": {
+        "en": "Pooled analysis of two saline- and midazolam-controlled RCTs (n=132) with detailed symptom-level outcomes meeting FDR correction criteria, demonstrating broad early ketamine efficacy in treatment-resistant depression.",
+        "sv": "Pooled analysis of two saline- and midazolam-controlled RCTs (n=132) with detailed symptom-level outcomes meeting FDR correction criteria, demonstrating broad early ketamine efficacy in treatment-resistant depression.",
+        "no": "Pooled analysis of two saline- and midazolam-controlled RCTs (n=132) with detailed symptom-level outcomes meeting FDR correction criteria, demonstrating broad early ketamine efficacy in treatment-resistant depression.",
+        "da": "Pooled analysis of two saline- and midazolam-controlled RCTs (n=132) with detailed symptom-level outcomes meeting FDR correction criteria, demonstrating broad early ketamine efficacy in treatment-resistant depression.",
+        "fi": "Pooled analysis of two saline- and midazolam-controlled RCTs (n=132) with detailed symptom-level outcomes meeting FDR correction criteria, demonstrating broad early ketamine efficacy in treatment-resistant depression.",
+        "is": "Pooled analysis of two saline- and midazolam-controlled RCTs (n=132) with detailed symptom-level outcomes meeting FDR correction criteria, demonstrating broad early ketamine efficacy in treatment-resistant depression.",
+        "et": "Pooled analysis of two saline- and midazolam-controlled RCTs (n=132) with detailed symptom-level outcomes meeting FDR correction criteria, demonstrating broad early ketamine efficacy in treatment-resistant depression.",
+        "lv": "Pooled analysis of two saline- and midazolam-controlled RCTs (n=132) with detailed symptom-level outcomes meeting FDR correction criteria, demonstrating broad early ketamine efficacy in treatment-resistant depression.",
+        "lt": "Pooled analysis of two saline- and midazolam-controlled RCTs (n=132) with detailed symptom-level outcomes meeting FDR correction criteria, demonstrating broad early ketamine efficacy in treatment-resistant depression."
+      },
+      "relevance_score": 4,
+      "study_type": "rct",
+      "substances": [
+        "ketamine"
+      ],
+      "added_at": "2026-09-27T12:16:02.453474+00:00"
     },
     {
       "title": "Ketamine-enhanced psychotherapy for smoking cessation: A pilot study of feasibility, safety, and clinical outcomes.",
@@ -1921,37 +1962,6 @@
         "other"
       ],
       "added_at": "2026-09-19T11:17:08.037177+00:00"
-    },
-    {
-      "title": "Hallucinogen Persisting Perception Disorder in a Young Adult Case Report.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42694657/",
-      "source": "PubMed",
-      "date": "2026-09-03",
-      "authors": [
-        "Notani Sonali",
-        "Srinivasa Vikas",
-        "Chaudhry Serena"
-      ],
-      "doi": "10.1155/crps/6605265",
-      "summaries": {
-        "en": "Hallucinogen Persisting Perception Disorder in a Young Adult Case Report.",
-        "sv": "Hallucinogen Persisting Perception Disorder in a Young Adult Case Report.",
-        "no": "Hallucinogen Persisting Perception Disorder in a Young Adult Case Report.",
-        "da": "Hallucinogen Persisting Perception Disorder in a Young Adult Case Report.",
-        "fi": "Hallucinogen Persisting Perception Disorder in a Young Adult Case Report.",
-        "is": "Hallucinogen Persisting Perception Disorder in a Young Adult Case Report.",
-        "et": "Hallucinogen Persisting Perception Disorder in a Young Adult Case Report.",
-        "lv": "Hallucinogen Persisting Perception Disorder in a Young Adult Case Report.",
-        "lt": "Hallucinogen Persisting Perception Disorder in a Young Adult Case Report."
-      },
-      "notable": false,
-      "notable_reasons": null,
-      "relevance_score": 3,
-      "study_type": "case_report",
-      "substances": [
-        "lsd"
-      ],
-      "added_at": "2026-09-05T10:48:05.148635+00:00"
     }
   ]
 }

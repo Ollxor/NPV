@@ -1,7 +1,20 @@
 {
-  "date": "2026-09-27",
-  "cached_at": "2026-09-27T11:23:01.361380+00:00",
+  "date": "2026-09-28",
+  "cached_at": "2026-09-28T12:52:43.292077+00:00",
   "articles": [
+    {
+      "title": "Repetitive Transcranial Magnetic Stimulation for Refractory, Widespread Complex Regional Pain Syndrome Type II: A Case Report.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42802844/",
+      "source": "PubMed",
+      "abstract": "Complex regional pain syndrome (CRPS) is a poorly understood pain disorder often resistant to conventional therapies. Although typically localized, CRPS can spread to other regions. Repetitive transcranial magnetic stimulation (rTMS) is a non-invasive treatment showing promise for neuropathic pain associated with CRPS. A 33-year-old active-duty service member developed widespread, refractory CRPS following a severe ankle sprain, with persistent pain and functional limitations despite medications, ketamine infusions, and sympathetic nerve blocks. The patient received 21 rTMS sessions over four weeks, targeting the left primary motor cortex. Pain scores decreased from 5.9 to 3.8 (legs) and 5.3 to 3.3 (hands) following treatment sessions. A 10% pain reduction was sustained at one-month post-treatment. No significant adverse effects were observed. rTMS was safe, well-tolerated, and associated with clinically meaningful pain reduction in this case of refractory, widespread CRPS, supporting further investigation of rTMS for severe CRPS.",
+      "date": "2026-08-28",
+      "authors": [
+        "Garland Jared S",
+        "Kim Christopher J",
+        "La Croix Christina"
+      ],
+      "doi": "10.7759/cureus.115352"
+    },
     {
       "title": "Incidence, Clinical Outcomes, and Factors Associated With Post-intubation Hypotension Among Critically Ill Patients Undergoing Emergency Endotracheal Intubation: A Retrospective Observational Study.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42801266/",
@@ -213,7 +226,7 @@
       "title": "Methylenedioxymethamphetamine (MDMA)-related fatal poisoning in Australia, 2016 to 2025: Trends, characteristics and toxicology.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42767268/",
       "source": "PubMed",
-      "abstract": "To determine: (1) Population rates of fatal methylenedioxymethamphetamine (MDMA)-related poisoning over the period 2016-2023, years with high closure rates in the National Coronial Information System (NDIS); (2) the case characteristics of known cases of fatal MDMA-related poisoning, 2016-2025; and (3) whether there have been changes in case characteristics of known fatal cases in the period pre-COVID (2016-2019), COVID (2020-2022) and post-COVID (2023-2025). Retrospective study of fatal MDMA-related poisonings in Australia retrieved from the NDIS, 2016-2025. Australia-wide. 217 cases of fatal MDMA-related poisoning. Population rates, case characteristics, circumstances of death, toxicology, major autopsy findings. There was a statistically significant increasing trend in the population rate over 2016-2019 [annual percentage change (APC) = 61.52], and a statistically significant decreasing trend over 2019-2023 (APC = -26.72). The mean age was 33.5 years, and males comprised 170 cases (78.3%). In 179 cases (82.5%) the cause of death was attributed to multiple drug toxicity. The fatal incident occurred in a private setting in 171 cases (78.8%), with 16 (7.4%) occurring at a music festival. The median MDMA blood concentration was 0.41 mg/l (range 0.00-25.0 mg/l). Cases in which death was attributed solely to MDMA toxicity had a higher median MDMA concentration than multiple drug toxicity deaths (1.7 vs. 0.30 mg/l). Psychoactive drugs other than MDMA were detected in 199 cases (91.7%), most commonly other psychostimulants (147, 67.7%) and opioids (98, 45.2%). Cardiomegaly was diagnosed in 33 cases (16.6%) in which the heart was examined, and severe coronary artery disease in 27 (13.6%). There were no statistically significant differences across time periods in age, sex, substance use issues, injecting drug use, intentionality, MDMA concentrations or diagnoses of cardiomegaly. While death rates in Australia from methylenedioxymethamphetamine-related poisoning have declined from 2019, case characteristics have remained relatively stable.",
+      "abstract": "To determine: (1) Population rates of fatal methylenedioxymethamphetamine (MDMA)-related poisoning over the period 2016-2023, years with high closure rates in the National Coronial Information System (NDIS); (2) the case characteristics of known cases of fatal MDMA-related poisoning, 2016-2025; and (3) whether there have been changes in case characteristics of known fatal cases in the period pre-COVID (2016-2019), COVID (2020-2022) and post-COVID (2023-2025). Retrospective study of fatal MDMA-related poisonings in Australia retrieved from the NCIS, 2016-2025 [Correction added on 28 September 2026, after first online publication: In the previous sentence, \"NDIS\" has been changed to \"NCIS\".]. Australia-wide. 217 cases of fatal MDMA-related poisoning. Population rates, case characteristics, circumstances of death, toxicology, major autopsy findings. There was a statistically significant increasing trend in the population rate over 2016-2019 [annual percentage change (APC) = 61.52], and a statistically significant decreasing trend over 2019-2023 (APC = -26.72). The mean age was 33.5 years, and males comprised 170 cases (78.3%). In 179 cases (82.5%) the cause of death was attributed to multiple drug toxicity. The fatal incident occurred in a private setting in 171 cases (78.8%), with 16 (7.4%) occurring at a music festival. The median MDMA blood concentration was 0.41 mg/l (range 0.00-25.0 mg/l). Cases in which death was attributed solely to MDMA toxicity had a higher median MDMA concentration than multiple drug toxicity deaths (1.7 vs. 0.30 mg/l). Psychoactive drugs other than MDMA were detected in 199 cases (91.7%), most commonly other psychostimulants (147, 67.7%) and opioids (98, 45.2%). Cardiomegaly was diagnosed in 33 cases (16.6%) in which the heart was examined, and severe coronary artery disease in 27 (13.6%). There were no statistically significant differences across time periods in age, sex, substance use issues, injecting drug use, intentionality, MDMA concentrations or diagnoses of cardiomegaly. While death rates in Australia from methylenedioxymethamphetamine-related poisoning have declined from 2019, case characteristics have remained relatively stable.",
       "date": "2026-09-21",
       "authors": [
         "Darke Shane",
@@ -247,19 +260,6 @@
         "Bradley Ellen R"
       ],
       "doi": "10.4088/JCP.25m16227"
-    },
-    {
-      "title": "A circuit dissection of perception-action decoupling in S-ketamine-induced hallucination-like states.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42763341/",
-      "source": "PubMed",
-      "abstract": "Hallucinations are a core feature of several psychiatric disorders, but the circuit mechanisms that separate perception from behavioral output remain poorly defined. Here, we combined an auditory discrimination task with AI-based pose analysis to quantify S-ketamine-induced false auditory threat responses and behavioral disorganization in mice. Control assays, including sucrose preference, loss of righting reflex, and prepulse inhibition, indicated that these effects were not explained by anhedonia, anesthesia, or basic auditory deficits. Using in vivo fiber photometry, single-cell miniscope calcium imaging, and pathway-specific chemogenetic and optogenetic manipulations, we identified dissociable circuit contributions within convergent striatal pathways. The basolateral amygdala to caudal striatum pathway (BLA→TS) supported salience-weighted perceptual decisions and, when aberrantly recruited by S-ketamine, promoted auditory false alarms. In contrast, the medial prefrontal cortex to caudal striatum pathway (mPFC→TS) primarily shaped behavioral expression and, when dysregulated, generated disorganized action patterns. At the network level, S-ketamine shifted TS activity from a sparse, high-contrast state to a high-frequency, low-amplitude, diffusely coupled state, consistent with reduced integrative precision. Auditory cortex to TS inputs were not broadly suppressed, supporting pathway specificity. Bidirectional chemogenetic manipulation of BLA→TS and mPFC→TS pathways in drug-naive mice further supported the TS as an integrative node linking perceptual evaluation to behavioral output. Dexmedetomidine co-administration restored pathway-level temporal dynamics and reorganized TS network coupling without simply suppressing activity. Together, these findings define a circuit framework for NMDAR-antagonist-induced hallucination-like states and provide a mechanistic rationale for dexmedetomidine-mediated mitigation of S-ketamine-associated perceptual and behavioral disruption.",
-      "date": "2026-09-19",
-      "authors": [
-        "Wang Dijia",
-        "Xu Junnan",
-        "Wang Zhaoran"
-      ],
-      "doi": "10.1038/s41380-026-03893-w"
     },
     {
       "title": "Pα+ Psychedelic Bulletin #232: Q2’26 Psychedelic Lobbying Update; DEA Again Moves to Schedule 5 Tryptamines; Oregon Backpedals Psilocybin Fee Hike",
@@ -455,6 +455,32 @@
       "doi": "10.1002/deo2.70402"
     },
     {
+      "title": "A bioactivity-enhanced thermosensitive amnion-derived hydrogel with sustained IGF-1 release: A multitargeted and efficient strategy for corneal injury repair.",
+      "url": "https://doi.org/10.1016/j.bioactmat.2026.09.003",
+      "source": "Europe PMC",
+      "abstract": "Corneal alkali burn (CAB) remains difficult to treat because rapid tear clearance limits topical drug exposure, while the injured cornea develops a complex microenvironment involving inflammation, neovascularization, fibrosis, epithelial barrier loss, and impaired nerve repair. Here, we developed a human amniotic membrane-derived thermosensitive hydrogel (hAMgel) and loaded it with insulin-like growth factor-1 (IGF-1) to create a bioactive sustained-release system (IGF1@hAMgel) for CAB repair. The hAMgel transformed from a flowable precursor into a semi-transparent film on the ocular surface within 1-2 min and IGF1@hAMgel released approximately 90% of loaded IGF-1 over 24 h, with corneal IGF-1 concentration peaking at 2 h post-dose (378.5 pg/mg protein) and remaining detectable over 24 h, supporting sustained topical exposure. In a rat CAB model, IGF1@hAMgel accelerated epithelial healing, reducing the fluorescein-stained area from 31.34 ± 2.83% in controls to 16.78 ± 2.87% at day 1. By day 14, IGF1@hAMgel reduced corneal opacity (0.67 ± 0.52 vs. 4.00 ± 0.00), resolved edema with central corneal thickness approaching baseline (187.7 ± 16.31 μm vs. 178.3 ± 5.89 μm), suppressed neovascularization (CD31-positive area 4.46 ± 1.69% vs. 24.33 ± 2.07%), and promoted corneal nerve regeneration. Proteomic analysis showed that hAMgel retained abundant extracellular matrix(ECM) components, including collagens, Lumican, and fibronectin, together with repair-related and immunomodulatory proteins. These findings identify IGF1@hAMgel as a sutureless, eye-drop-like bioactive ECM platform that integrates growth-factor delivery with amnion-derived reparative cues for multitargeted ocular surface repair.",
+      "date": "2026-09-16",
+      "authors": [
+        "Xie M",
+        "Li A",
+        "Sun X"
+      ],
+      "doi": "10.1016/j.bioactmat.2026.09.003"
+    },
+    {
+      "title": "A self-crosslinkable, adhesive intestine-derived extracellular matrix hydrogel enhances organoid retention and restores intestinal barrier integrity.",
+      "url": "https://doi.org/10.1016/j.bioactmat.2026.09.006",
+      "source": "Europe PMC",
+      "abstract": "Disruption of the intestinal barrier impairs essential functions of the gastrointestinal tract and triggers severe inflammation. Accordingly, transplantation of intestinal organoids restores the integrity of the injured intestinal barrier by promoting regeneration. However, the dynamic mucosal microenvironment of the intestine hinders effective retention of transplanted organoids, thereby limiting their therapeutic efficacy. To address this challenge, this study introduces a pyrogallol (PG)-conjugated intestine-derived extracellular matrix (IEM) (IEM-PG) as a scaffold for effective organoid transplantation. The dual crosslinking of IEM-based fibrillogenesis and oxidative PG coupling enabled IEM-PG to form a robust hydrogel scaffold without crosslinking agents under physiological conditions. Moreover, the IEM-PG hydrogel exhibited enhanced mechanical properties, superior bio-adhesion, and greater resistance to enzymatic degradation than the pristine IEM. The IEM-PG hydrogel was also highly biocompatible and did not adversely affect the viability and development of colonic organoids. The solution-type IEM-PG was readily injected into colonic tissue, thus allowing IEM-PG to initially spread along the intestinal lining. Transplantation of colonic organoids using IEM-PG in a mouse colonic ulcer model demonstrated effective cell retention in the intestinal tract, thereby restoring the structural integrity and function of the intestinal barrier. The study further demonstrated that the patch-type IEM-PG hydrogel was effective for the transplantation of colonic assembloids and the treatment of colonic perforation. Overall, this study presents the IEM engineered with an adhesive motif as a self-crosslinking hydrogel platform for organoid/assembloid transplantation and intestinal tissue repair.",
+      "date": "2026-09-15",
+      "authors": [
+        "Kim YS",
+        "Han SY",
+        "An S"
+      ],
+      "doi": "10.1016/j.bioactmat.2026.09.006"
+    },
+    {
       "title": "Barcoded oligonucleotide system (BOLT) for targeted organ delivery.",
       "url": "https://doi.org/10.1016/j.bioactmat.2026.08.058",
       "source": "Europe PMC",
@@ -520,62 +546,37 @@
       "doi": "10.5812/ijpr-164903"
     },
     {
-      "title": "Modulation of spatial learning and memory by cannabinoid-estrogen interaction in an AD-like cognitive impairment: The role of cannabinoid receptors and BDNF protein.",
-      "url": "https://doi.org/10.1016/j.ibneur.2026.09.002",
+      "title": "Enhanced osteogenic potential of chitosan scaffolds loaded with &lt;i&gt;Lawsonia inermis&lt;/i&gt;, hydroxyapatite particles, and dental pulp stem cells in rats.",
+      "url": "https://doi.org/10.1016/j.reth.2026.101171",
       "source": "Europe PMC",
-      "abstract": "Alzheimer's disease (AD) is an increasingly prevalent neurodegenerative disorder worldwide, with women showing a higher risk of developing the disease. The decline in steroid hormones after menopause may contribute to the increased susceptibility of women to neurodegenerative conditions. In parallel, cannabis-derived compounds have been reported to alleviate certain symptoms associated with neurological disorders. The present study was designed to investigate the effects of marijuana extract on cognitive impairment and hippocampal molecular markers in an ovariectomized AD-like rat model, and to evaluate whether co-administration with estradiol modifies these effects. The marijuana extract used in this study was characterized by HPLC and was found to contain 8.5% Δ9-THC. AD-like cognitive impairment pathology was induced by intra-hippocampal administration of Aβ25-35 in OVX rats. Animals were treated with marijuana extract (60 mg/kg/day, corresponding to approximately 5.1 mg/kg/day Δ9-THC) either alone or in combination with 17β-estradiol (1 mg/kg every 4 days) for 28 days. Cognitive performance was evaluated using the Morris water maze (MWM). In addition, hippocampal CB1/CB2 receptor expression and BDNF protein levels were measured to examine potential molecular associations. Our findings showed that chronic administration of the marijuana extract improved Aβ25-35-induced deficits in spatial learning and memory. Alterations in CB1 receptor expression and BDNF levels accompanied these behavioral effects. Notably, co-treatment with estradiol did not produce a synergistic effect, suggesting a complex interaction between cannabinoid-related and estrogen-related signaling pathways. These preclinical findings suggest that a THC-standardized marijuana extract may exert neuroprotective-like effects in an AD-like cognitive impairment model. However, because the extract was not fully phytochemically characterized and the mechanistic analyses were correlational, the results should be interpreted cautiously. Further studies are needed to clarify the underlying mechanisms and translational relevance of these findings.",
-      "date": "2026-09-09",
-      "authors": [
-        "Mirshekar MA",
-        "Nadi F",
-        "Fanaei H"
-      ],
-      "doi": "10.1016/j.ibneur.2026.09.002"
-    },
-    {
-      "title": "The hidden curriculum of endurance: how students' psychosocial stress becomes normalised in arts higher education.",
-      "url": "https://doi.org/10.1080/17482631.2026.2727777",
-      "source": "Europe PMC",
-      "abstract": "<h4>Purpose</h4>The deterioration of university students' mental health has become a global public health concern. However, students' well-being in arts higher education remains underexamined, despite evidence that arts students may be especially vulnerable to psychosocial distress. This study explored how students in artistic disciplines experienced psychosocial stressors related to their studies in Czech arts higher education.<h4>Methods</h4>Thirtysemi-structured interviews with students enrolled in visual, audiovisual, and performing arts programmes were analysed using reflexive thematic analysis.<h4>Results</h4>Three categories of major psychosocial stressors were identified: institutional, organisational, and interpersonal. Institutional stressors included norms of total commitment, meritocratic constructions of success, and pressure to accumulate social capital. Organisational stressors involved intensive time demands, ambiguous and subjective evaluation practices, and emotionally demanding Final Critiques. Interpersonal stressors involved blurred student-teacher boundaries, intergenerational tensions, and competitive peer dynamics. Across these stressors, a hidden curriculum of endurance emerged through which exhaustion, uncertainty, and self-sacrifice became normalised as part of becoming an artist.<h4>Conclusions</h4>The findings show that psychosocial stressors in arts higher education are socially and institutionally produced and embedded in the everyday conditions of artistic training. Effective responses should address the organisational cultures, pedagogical practices, and relational dynamics through which psychosocial stress is produced and normalised.",
-      "date": "2026-09-17",
-      "authors": [
-        "Procházková B",
-        "Zábrodská K."
-      ],
-      "doi": "10.1080/17482631.2026.2727777"
-    },
-    {
-      "title": "Opioid-free analgesia with esketamine-dexmedetomidine versus opioid-based analgesia after gynaecological laparoscopic surgery: a double-blind, randomized, controlled trial.",
-      "url": "https://doi.org/10.1080/07853890.2026.2732292",
-      "source": "Europe PMC",
-      "abstract": "<h4>Background</h4>Postoperative opioid-based analgesia after gynecological laparoscopic surgery often causes dizziness, nausea and vomiting, with limited benefit for mood and sleep. We tested whether opioid-free analgesia combining dexmedetomidine and esketamine was non-inferior to sufentanil-based opioid analgesia for pain control and superior for postoperative recovery quality.<h4>Methods</h4>Adult ASA I-III patients undergoing elective gynecological laparoscopic surgery were randomized 1:1. The opioid-free group received patient-controlled intravenous analgesia (PCIA) with esketamine 1 mg kg<sup>-1</sup> plus dexmedetomidine 3 μg kg<sup>-1</sup>; the opioid group received sufentanil 2 μg kg<sup>-1</sup>. The primary non-inferiority endpoint was the area under the curve (AUC) of numerical rating scale (NRS) pain scores during coughing within 48 h postoperatively; the primary superiority endpoint was the mean quality of recovery (QoR)-15 score on postoperative days 1 and 2.<h4>Results</h4>Of 134 randomized patients, 132 were analyzed per intention-to-treat. Pain control was non-inferior in the opioid-free group (AUC 175 [47] vs 169 [37]; mean difference 6, 95%CI -8 to 20; non-inferiority margin 24, <i>p</i> = 0.008). The mean QoR-15 score was significantly higher in the opioid-free group (116 [10] vs 108 [12]; mean difference 8, 95%CI 4-12; <i>p</i> < 0.001), driven by better physical comfort and emotional state domain scores, with comparable pain domain scores. No serious adverse events occurred.<h4>Conclusions</h4>Postoperative opioid-free analgesia with dexmedetomidine and esketamine provides analgesia non-inferior to sufentanil-based opioid analgesia and significantly improves postoperative quality of recovery, and may serve as a promising alternative strategy for postoperative analgesia in this population.Trial registration: This trial was registered at the Chinese Clinical Trial Registry (identifier: ChiCTR2300078569) on 12 December 2023 before patient recruitment.",
+      "abstract": "<h4>Introduction</h4>Maxillary/alveolar bone reconstruction is vital for cleft and pre-prosthetic patients. Autogenous bone (iliac crest) is the gold standard for clefts due to its bone-forming ability. For large defects (trauma/tumor), the vascularized fibula flap is preferred for its strength and blood supply.<h4>Methods</h4>This study investigates the physicochemical and biological properties of chitosan (Cs)-based scaffolds. Three scaffold formulations were prepared for in vitro characterization: pure Cs, Cs enriched with 8% <i>Lawsonia inermis</i> extract (Cs-LI), and Cs combined with LI and nanohydroxyapatite (Cs-LI-HAPs). For the in vivo study, five experimental groups were evaluated in a rat mandibular defect model: sham (empty defect), control (Cs scaffold alone), Cs-LI, Cs-LI-HAPs, and Cs-LI-HAPs seeded with 1 × 10<sup>6</sup> dental pulp stem cells (DPSCs).<h4>Results</h4>The synthesized HAPs showed a biomimetic apatite structure confirmed by FTIR and XRD, with a particle size of 730.2 ± 38.45 nm. Scaffold characterization demonstrated that Cs-LI-HAP had superior structural integrity, featuring interconnected porosity, improved mechanical strength (17.57 ± 1.49 MPa compressive strength), and a lower degradation rate (65.48 ± 10.35% at 4 weeks) compared to Cs and Cs-LI scaffolds. In vitro tests showed that Cs-LI-HAPs had good hemocompatibility and supported DPSC growth. In vivo, CBCT and histopathological analyses revealed that the Cs-LI-HAPs-DPSCs group exhibited significantly less fibrous tissue formation and greater bone regeneration compared to other groups.<h4>Conclusions</h4>The Cs-LI-HAPs scaffold showed strong bone regeneration potential, with HAPs improving strength and stability, LI enhancing cell support, and DPSCs promoting new bone formation, making it a promising platform for maxillofacial defect repair.",
       "date": "2026-09-16",
       "authors": [
-        "Ren Y",
-        "Li YT",
-        "Yin QL"
+        "Karandish M",
+        "Ziaei G",
+        "Akbarizadeh F"
       ],
-      "doi": "10.1080/07853890.2026.2732292"
+      "doi": "10.1016/j.reth.2026.101171"
     },
     {
-      "title": "The Nova Protocol: a comprehensive multimodal longitudinal study among civilian survivors of a mass trauma event.",
-      "url": "https://doi.org/10.1080/20008066.2026.2721729",
+      "title": "RAF1 scaffold integrity shapes chemogenetic degradation outcomes in KRAS-driven lung cancer models.",
+      "url": "https://doi.org/10.26508/lsa.202603839",
       "source": "Europe PMC",
-      "abstract": "<b>Background:</b> The 7 October 2023 attack in southern Israel was one of the deadliest terror attacks in modern history, with 1,182 fatalities, more than 4,000 wounded individuals, and 251 hostages. The Nova music festival, an all-night outdoor rave near the Gaza border, suffered the highest number of civilian casualties, with more than 370 festival attendees killed. Survivors were exposed to prolonged life-threatening trauma with similar characteristics and within a narrow time window. Many survivors also reported being under the acute influence of psychoactive substances during the attack and the following hours. This tragic combination of civilian mass trauma and naturalistic pharmacological exposure provided a rare opportunity to study trauma processing prospectively.<b>Objective:</b> This paper describes the rationale, design, and methodology of the Nova Protocol, a multimodal longitudinal observational study of survivors of the 7 October 2023 Nova festival attack and a sociocultural comparison group.<b>Methods:</b> The protocol spans from the first weeks to approximately 24 months post-trauma and includes three major assessment time points. It integrates repeated online clinical assessments, prolonged wearable-sensor monitoring, ecological assessments, saliva-based endocrine and inflammatory markers, structural and functional MRI, cardiac interoception paradigms, online and in-scanner reinforcement-learning tasks, and semi-structured qualitative interviews. Primary outcomes are PTSD symptom severity (PCL-5) and general psychological distress (K6), supplemented by a rich battery of secondary measures.<b>Conclusion:</b> The Nova Protocol provides an unusually rich longitudinal framework for characterizing psychological, behavioural, physiological, inflammatory, neural, interoceptive, and subjective mechanisms that shape clinical trajectories after civilian mass trauma. Because psychoactive substance exposure was naturalistic and self-selected, findings will be interpreted as mechanistic and prognostic associations rather than causal effects. The protocol is expected to inform early risk detection and scalable post-disaster monitoring and intervention strategies, while also providing unique insights into how psychoactive substances impact trauma processing.",
-      "date": "2026-09-14",
+      "abstract": "Scaffold integrity is essential for the activity of proteins that function through protein-protein interactions rather than catalytic output. RAF1 exemplifies this duality: although it is a bona fide kinase and a core component of the MAPK cascade, its tumor-promoting role is largely kinase-independent, relying instead on scaffold-mediated suppression of apoptosis. Genetic <i>Raf1</i> ablation in KRAS-driven lung adenocarcinoma mouse models induces tumor regression without systemic toxicity, making it an attractive candidate for targeted protein degradation. Chemogenetic systems like the dTAG platform are widely used for preclinical target validation. Here, we generated a dTAG-RAF1 mouse model and showed that pharmacological degradation is efficient and systemically well tolerated but fails to reproduce the tumor regression observed upon genetic <i>Raf1</i> ablation. Mechanistically, the N-terminal FKBP12<sup>F36V</sup> tag (dTAG) perturbs the RAF1 interactome, including scaffold associations with apoptotic regulators, thereby blunting the phenotypic consequences of its degradation. These results establish scaffold integrity as a determinant of chemogenetic system fidelity and argue that degradation tools must be validated at the functional level, not only for target elimination, before assessing their therapeutic relevance.",
+      "date": "2026-09-22",
       "authors": [
-        "Admon R",
-        "Netzer O",
-        "Magal N"
+        "de-la-Puente-Ovejero L",
+        "Domostegui A",
+        "García-Pérez IM"
       ],
-      "doi": "10.1080/20008066.2026.2721729"
+      "doi": "10.26508/lsa.202603839"
     },
     {
       "title": "CZ",
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2018-004480-31/CZ",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-09-27",
+      "date": "2026-09-28",
       "authors": [],
       "doi": ""
     },
@@ -584,7 +585,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2020-005037-32/CZ",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-09-27",
+      "date": "2026-09-28",
       "authors": [],
       "doi": ""
     },
@@ -593,7 +594,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2021-002909-10/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-09-27",
+      "date": "2026-09-28",
       "authors": [],
       "doi": ""
     },
@@ -602,7 +603,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2015-000550-37/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-09-27",
+      "date": "2026-09-28",
       "authors": [],
       "doi": ""
     },
@@ -611,7 +612,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2021-000041-40/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-09-27",
+      "date": "2026-09-28",
       "authors": [],
       "doi": ""
     },
@@ -620,7 +621,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2020-000829-55/DK",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-09-27",
+      "date": "2026-09-28",
       "authors": [],
       "doi": ""
     },
@@ -629,7 +630,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2020-002790-94/SE",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-09-27",
+      "date": "2026-09-28",
       "authors": [],
       "doi": ""
     },
@@ -638,7 +639,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2021-006200-33/FI",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-09-27",
+      "date": "2026-09-28",
       "authors": [],
       "doi": ""
     },
@@ -647,7 +648,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2019-004812-73/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-09-27",
+      "date": "2026-09-28",
       "authors": [],
       "doi": ""
     },
@@ -656,7 +657,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2022-002369-14/BE",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-09-27",
+      "date": "2026-09-28",
       "authors": [],
       "doi": ""
     }

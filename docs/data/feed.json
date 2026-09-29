@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-28T14:16:43.869405+00:00",
+  "generated_at": "2026-09-29T13:12:56.658536+00:00",
   "items": [
     {
       "title": "Blinding integrity in psychedelic research: Evidence from a comparative randomized controlled trial of psilocybin, MDMA, and methylphenidate in healthy volunteers",
@@ -32,6 +32,122 @@
         "mdma"
       ],
       "added_at": "2026-07-09T10:03:12.956794+00:00"
+    },
+    {
+      "title": "Are psychedelics anti-inflammatory? A systematic review and meta-analysis of studies examining the immunomodulatory effects of serotonergic psychedelics.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42805420/",
+      "source": "PubMed",
+      "date": "2026-09-28",
+      "authors": [
+        "Lerche Anna Skovgaard",
+        "Kelley D Parker",
+        "Benros Michael E"
+      ],
+      "doi": "10.1016/j.bbi.2026.107033",
+      "summaries": {
+        "en": "Are psychedelics anti-inflammatory? A systematic review and meta-analysis of studies examining the immunomodulatory effects of serotonergic psychedelics.",
+        "sv": "Are psychedelics anti-inflammatory? A systematic review and meta-analysis of studies examining the immunomodulatory effects of serotonergic psychedelics.",
+        "no": "Are psychedelics anti-inflammatory? A systematic review and meta-analysis of studies examining the immunomodulatory effects of serotonergic psychedelics.",
+        "da": "Are psychedelics anti-inflammatory? A systematic review and meta-analysis of studies examining the immunomodulatory effects of serotonergic psychedelics.",
+        "fi": "Are psychedelics anti-inflammatory? A systematic review and meta-analysis of studies examining the immunomodulatory effects of serotonergic psychedelics.",
+        "is": "Are psychedelics anti-inflammatory? A systematic review and meta-analysis of studies examining the immunomodulatory effects of serotonergic psychedelics.",
+        "et": "Are psychedelics anti-inflammatory? A systematic review and meta-analysis of studies examining the immunomodulatory effects of serotonergic psychedelics.",
+        "lv": "Are psychedelics anti-inflammatory? A systematic review and meta-analysis of studies examining the immunomodulatory effects of serotonergic psychedelics.",
+        "lt": "Are psychedelics anti-inflammatory? A systematic review and meta-analysis of studies examining the immunomodulatory effects of serotonergic psychedelics."
+      },
+      "notable": true,
+      "notable_reasons": {
+        "en": "Systematic review and meta-analysis spanning 61 studies (24 in vitro, 30 in vivo, 7 human trials) examining immunomodulatory effects across multiple serotonergic psychedelics.",
+        "sv": "Systematic review and meta-analysis spanning 61 studies (24 in vitro, 30 in vivo, 7 human trials) examining immunomodulatory effects across multiple serotonergic psychedelics.",
+        "no": "Systematic review and meta-analysis spanning 61 studies (24 in vitro, 30 in vivo, 7 human trials) examining immunomodulatory effects across multiple serotonergic psychedelics.",
+        "da": "Systematic review and meta-analysis spanning 61 studies (24 in vitro, 30 in vivo, 7 human trials) examining immunomodulatory effects across multiple serotonergic psychedelics.",
+        "fi": "Systematic review and meta-analysis spanning 61 studies (24 in vitro, 30 in vivo, 7 human trials) examining immunomodulatory effects across multiple serotonergic psychedelics.",
+        "is": "Systematic review and meta-analysis spanning 61 studies (24 in vitro, 30 in vivo, 7 human trials) examining immunomodulatory effects across multiple serotonergic psychedelics.",
+        "et": "Systematic review and meta-analysis spanning 61 studies (24 in vitro, 30 in vivo, 7 human trials) examining immunomodulatory effects across multiple serotonergic psychedelics.",
+        "lv": "Systematic review and meta-analysis spanning 61 studies (24 in vitro, 30 in vivo, 7 human trials) examining immunomodulatory effects across multiple serotonergic psychedelics.",
+        "lt": "Systematic review and meta-analysis spanning 61 studies (24 in vitro, 30 in vivo, 7 human trials) examining immunomodulatory effects across multiple serotonergic psychedelics."
+      },
+      "relevance_score": 5,
+      "study_type": "review",
+      "substances": [
+        "psilocybin",
+        "lsd",
+        "mescaline",
+        "other"
+      ],
+      "added_at": "2026-09-29T13:11:14.640597+00:00"
+    },
+    {
+      "title": "Ketamine Alters Tuning of Neural and Behavioral Spatial Working Memory Precision.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42805468/",
+      "source": "PubMed",
+      "date": "2026-09-28",
+      "authors": [
+        "Rahmati Masih",
+        "Moujaes Flora",
+        "Suljic Nina Purg"
+      ],
+      "doi": "10.1016/j.biopsych.2026.09.016",
+      "summaries": {
+        "en": "A 40-participant fMRI study using computational modeling examined ketamine's effects on spatial working memory. Ketamine, an NMDAR antagonist, broadened neural spatial tuning in visual and working memory networks, correlating with reduced task performance. These findings support the hypothesis that NMDAR blockade impairs spatial working memory precision by decreasing neuronal response specificity, offering insights for treating working memory deficits in psychiatric disorders.",
+        "sv": "En fMRI-studie med 40 deltagare undersökte ketamins effekter på rumsligt arbetsminne genom beräkningsmässig modellering. Ketamin, en NMDAR-antagonist, bredde ut den neurala rumsliga inställningen i visuella nätverk och arbetsminnesregioner, vilket korrelerade med sämre prestanda. Resultaten stöder hypotesen att NMDAR-blockad försämrar arbetsminnesprécision genom att minska neuronalers specificititet, vilket ger insikter för behandling av arbetsminnesdeficiter.",
+        "no": "En fMRI-studie med 40 deltakere undersøkte ketamins effekter på romlig arbeidsminne gjennom beregningsmodellering. Ketamin, en NMDAR-antagonist, utvidet den nevralt romlige innstillingen i visuelle nettverk og arbeidsminneregioner, noe som korrelerte med dårligere ytelse. Funnene støtter hypotesen om at NMDAR-blokkade forverrer arbeidsminnenøyaktighet ved å redusere nevronspesifisitet, og gir innsikt for behandling av arbeidsminnedefisitter.",
+        "da": "En fMRI-undersøgelse med 40 deltagere undersøgte ketamins effekter på rumligt arbejdshukommelse gennem beregningsmæssig modellering. Ketamin, en NMDAR-antagonist, udvidede den neurale rumlige indstilling i visuelle netværk og arbejdshukommelsesregioner, hvilket korrelerede med ringere præstation. Resultaterne understøtter hypotesen om, at NMDAR-blokade forringer arbejdshukommelsespræcision ved at reducere neuronalers specificitet og giver indsigt til behandling af arbejdshukommelsesmangler.",
+        "fi": "40 osallistujan fMRI-tutkimus tutki ketamiinin vaikutuksia spatiaalisen työmuistin toimintaan laskennallisen mallinnuksen avulla. Ketamiini, NMDAR-antagonisti, laajensi neuronaalia spatiaalisen virityksistä visuaalisissa verkoissa ja työmuistin alueilla, mikä korreloi heikompaan suoritukseen. Tulokset tukevat hypoteesia, että NMDAR-esto heikentää työmuistin tarkkuutta vähentämällä neuronien spesifisyyttä ja tarjoaa näkemyksiä työmuistin häiriöiden hoitoon.",
+        "is": "fMRI-rannsókn með 40 þátttakendum kannaði áhrif ketamíns á staðbundið vinnsluminni með reiknilíkani. Ketamín, NMDAR-andstæðingur, breikkaði taugakerfisleg staðbundin stillingarflokka í sjónrænni og vinnsluminnisnetum, sem fylgdist með lakari afköstum. Niðurstöðurnar styðja tilgátuna um að NMDAR-stöðvun rýri nákvæmni vinnsluminnis með því að minnka sérhæfingu taugafrumna og veita innsýn til meðferðar vinnsluminnisbrika.",
+        "et": "40 osalejaga fMRI-uuring uuris ketamiini mõju ruumilistele tööjõule arvutusmodelleerimise abil. Ketamiin, NMDAR-antagonist, laiendas neuronaalset ruumilist häälestust visuaalses ja tööjõu võrkudes, mis korreleerus halvemate tulemustega. Tulemused toetavad hüpoteesi, et NMDAR-blokaad halvendab tööjõu täpsust neuroonide spetsiifilisuse vähendamise kaudu ja annab ülevaate tööjõu puudujääkide ravimiseks.",
+        "lv": "40 dalībnieku fMRI pētījums ar skaitļošanas modelēšanu pārbaudīja ketamīna ietekmi uz telpiskā darba atmiņu. Ketamīns, NMDAR antagonists, paplašināja neironu telpiskās настройки redzējuma un darba atmiņas tīklos, kas korelēja ar sliktāku veiktspēju. Rezultāti atbalsta hipotēzi, ka NMDAR blokāde pasliktina darba atmiņas precizitāti, samazinot neironu specifiskumu un sniedz ieskatus darba atmiņas deficīta ārstēšanai.",
+        "lt": "40 dalyvių fMRI tyrime naudojant skaičiavimo modeliavimą buvo nagrinėjami ketamino poveikiai erdvės darbinei atmintiai. Ketaminas, NMDAR antagonistas, išplėtė neuronų erdvinį derinti vizualiniuose ir darbo atminties tinkluose, o tai koreliavo su prastesniu atlikimu. Rezultatai paremti hipoteze, kad NMDAR blokada pablogina darbo atminties tikslumą, sumažinant neuronų specifišką ir suteikia įžvalgų dėl darbo atminties trūkumų gydymo."
+      },
+      "notable": false,
+      "notable_reasons": null,
+      "relevance_score": 4,
+      "study_type": "observational",
+      "substances": [
+        "ketamine"
+      ],
+      "added_at": "2026-09-29T13:11:14.640597+00:00"
+    },
+    {
+      "title": "Multimodal predictors of response to intravenous ketamine in treatment-resistant depression: toward personalized treatment in major depressive and bipolar disorders.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42803524/",
+      "source": "PubMed",
+      "date": "2026-09-28",
+      "authors": [
+        "Malewska-Kasprzak Magda",
+        "Rybakowski Filip",
+        "Dmitrzak-Weglarz Monika"
+      ],
+      "doi": "10.1017/S1092852926101187",
+      "summaries": {
+        "en": "Systematic review of 150 studies examining predictors of intravenous ketamine response in treatment-resistant depression. Key predictors include baseline depression severity, anxiety, sleep disturbances, inflammatory markers (monocyte count, BDNF), metabolic factors (BMI, vitamin B12), genetic variants, and neurophysiological signatures (EEG, fMRI). Early symptomatic improvement was also predictive. Findings suggest glutamatergic, circadian, and inflammatory mechanisms interact to determine individual treatment response, supporting personalized therapy approaches.",
+        "sv": "Systematisk granskning av 150 studier om prediktorer för ketaminrespons vid behandlingsresistent depression. Viktiga prediktorer inkluderar baslinjens depressionssvårt, ångest, sömnstörningar, inflammatoriska markörer (monocytantal, BDNF), metaboliska faktorer (BMI, B12-vitamin) och neurrofysiologiska signaturer (EEG, fMRI). Tidig symptombättring var också prediktiv. Resultaten tyder på att glutamaterga, cirkadiana och inflammatoriska mekanismer interagerar för att bestämma individuell behandlingsrespons, vilket stöder personaliserad terapi.",
+        "no": "Systematisk gjennomgang av 150 studier om prediktorer for ketaminrespons ved behandlingsresistent depresjon. Viktige prediktorer inkluderer utgangsdepresjonsseveritet, angst, søvnforstyrrelser, inflammatoriske markører (monocyttall, BDNF), metabolske faktorer (BMI, B12-vitamin) og neurofisiologiske signaturer (EEG, fMRI). Tidlig symptomforbedring var også prediktiv. Funnene tyder på at glutamaterg, sirkadianske og inflammatoriske mekanismer samspiller for å bestemme individuell behandlingsrespons, som støtter personalisert terapi.",
+        "da": "Systematisk gennemgang af 150 studier om prediktorer for ketaminrespons ved behandlingsresistent depression. Vigtige prediktorer omfatter udgangsdepressionsværdi, angst, søvnforstyrrelser, inflammatoriske markører (monocyttal, BDNF), metabolske faktorer (BMI, B12-vitamin) og neurofysiologiske signaturer (EEG, fMRI). Tidlig symptombedring var også prædiktiv. Resultaterne tyder på, at glutamaterge, circadiane og inflammatoriske mekanismer interagerer for at bestemme individuel behandlingsrespons, hvilket understøtter personaliseret terapi.",
+        "fi": "Järjestelmällinen katsaus 150 tutkimukseen ketamiinivasteesta hoitoon vastustuskykyisessä masennuksessa. Tärkeät ennustavat tekijät sisältävät lähtötason masennuksen vakavuuden, ahdistuneisuuden, unisumuuden, tulehdusvälittäjät (monokyytin määrä, BDNF), metaboliset tekijät (BMI, B12-vitamiini) ja neurofysiologiset merkit (EEG, fMRI). Varhainen oireiden paraneminen oli myös ennustava. Tulokset viittaavat siihen, että glutamaatergisia, sirkadiaanisia ja tulehduksellisia mekanismeja vuorovaikutus määrää yksilöllisen hoitovasteen, tukien yksilöllistettyä hoitoa.",
+        "is": "Kerfræðileg endurskoðun á 150 rannsóknum um spá fyrir ketamínsvörun við depurð sem þolir meðferð. Lykilspáendur fela í sér grunnstig þunglyndis, kvíða, svefntruflanir, bólgumarköra (einfrumukjarna, BDNF), efnaskiptiþætti (BMI, B12-vítamín) og taugafræðileg einkenni (EEG, fMRI). Snemmbúin bæting einkenna var einnig spákerfanleg. Niðurstöðurnar benda til þess að glútamatvirk, sólarhringsmótandi og bóluaflsviðtök hafi samspil um einstaka meðferðarviðleitni, sem styður einstaklingsbundna meðferð.",
+        "et": "Süstemaatiline ülevaade 150 uuringust ketamiini reaktsioonist ravile vastupidavale depressioonile. Peamised ennustajad hõlmavad lähteaseme depressiooni raskusastet, ärevust, unehäireid, põletikumarkereid (monotsüütide arv, BDNF), ainevahetuse tegureid (BMI, B12-vitamiin) ja neurofüsioloogilisi tunnuseid (EEG, fMRI). Varajane sümptomite paraneminen oli samuti ennustav. Tulemused viitavad sellele, et glutamaatergilised, tsirkaadilised ja põletikuga seotud mehhanismid on omavahel seotud individuaalse ravivastusel, mis toetab personaliseeritud ravi.",
+        "lv": "Sistematisks pārskats par 150 pētījumiem par ketamīna atbildes prognoziem pie pret ārstēšanu izturīgas depresijas. Galvenie prognozes rādītāji ietver sākotnējās depresijas smagumu, trauksmi, miega traucējumus, iekaisuma marķierus (monocītu skaits, BDNF), metaboliskos faktorus (BMI, B12 vitamīns) un neirofizioloģiskas pazīmes (EEG, fMRI). Agrīna simptomu uzlabošanās bija arī prognozējama. Rezultāti liecina, ka glutamātergā, cirkādiānā un iekaisuma mehānismi savstarpēji ietekmē individuālo ārstēšanas atbildi, atbalstot personalizētu terapiju.",
+        "lt": "Sistemingas 150 studijų peržiūra apie ketamino atsakymo prognozavimą gydymui rezistentinei depresijai. Pagrindiniai prognozavimo veiksniai apima pradinį depresijos sunkumą, nerimą, miego sutrikimus, uždegalinius žymenis (monocitų skaičius, BDNF), metabolinius veiksnius (KMI, B12 vitaminas) ir neurofiziologinius požymius (EEG, fMRI). Ankstus simptomų pagerinimas taip pat buvo prognozuojamas. Rezultatai rodo, kad glutamatiniai, susietos paros ritmo ir uždegaliniai mechanizmai sąveikauja formuodami individualų gydymo atsaką, palaikydami personalizuotą terapiją."
+      },
+      "notable": true,
+      "notable_reasons": {
+        "en": "Comprehensive systematic review of 150 studies integrating multimodal biomarkers, neurophysiology, and clinical predictors to guide precision medicine in ketamine treatment for TRD—substantial synthesis of emerging evidence base.",
+        "sv": "Comprehensive systematic review of 150 studies integrating multimodal biomarkers, neurophysiology, and clinical predictors to guide precision medicine in ketamine treatment for TRD—substantial synthesis of emerging evidence base.",
+        "no": "Comprehensive systematic review of 150 studies integrating multimodal biomarkers, neurophysiology, and clinical predictors to guide precision medicine in ketamine treatment for TRD—substantial synthesis of emerging evidence base.",
+        "da": "Comprehensive systematic review of 150 studies integrating multimodal biomarkers, neurophysiology, and clinical predictors to guide precision medicine in ketamine treatment for TRD—substantial synthesis of emerging evidence base.",
+        "fi": "Comprehensive systematic review of 150 studies integrating multimodal biomarkers, neurophysiology, and clinical predictors to guide precision medicine in ketamine treatment for TRD—substantial synthesis of emerging evidence base.",
+        "is": "Comprehensive systematic review of 150 studies integrating multimodal biomarkers, neurophysiology, and clinical predictors to guide precision medicine in ketamine treatment for TRD—substantial synthesis of emerging evidence base.",
+        "et": "Comprehensive systematic review of 150 studies integrating multimodal biomarkers, neurophysiology, and clinical predictors to guide precision medicine in ketamine treatment for TRD—substantial synthesis of emerging evidence base.",
+        "lv": "Comprehensive systematic review of 150 studies integrating multimodal biomarkers, neurophysiology, and clinical predictors to guide precision medicine in ketamine treatment for TRD—substantial synthesis of emerging evidence base.",
+        "lt": "Comprehensive systematic review of 150 studies integrating multimodal biomarkers, neurophysiology, and clinical predictors to guide precision medicine in ketamine treatment for TRD—substantial synthesis of emerging evidence base."
+      },
+      "relevance_score": 4,
+      "study_type": "review",
+      "substances": [
+        "ketamine"
+      ],
+      "added_at": "2026-09-29T13:11:14.640597+00:00"
     },
     {
       "title": "Symptom-level and network analyses of ketamine treatment in treatment-resistant depression: A pooled analysis of two randomized controlled trials.",
@@ -1122,6 +1238,35 @@
       "added_at": "2026-09-18T11:33:47.001208+00:00"
     },
     {
+      "title": "[Psychedelics and the unconscious: What are their clinical implications?].",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42805745/",
+      "source": "PubMed",
+      "date": "2026-09-11",
+      "authors": [
+        "Di Lodovico Laura"
+      ],
+      "doi": "10.1016/j.spsy.2026.07.006",
+      "summaries": {
+        "en": "Renewed psychiatric interest in psychedelics prompts reconsideration of unconscious mind concepts. These substances alter consciousness profoundly, facilitating access to typically inaccessible psychological content. Therapeutic efficacy depends critically on treatment setting and integration processes.",
+        "sv": "Förnyat psykiatriskt intresse för psykedelika kräver omprövning av omedveten sinne-begrepp. Dessa substanser förändrar medvetandet djupt och underlättar tillgång till vanligtvis svåråtkomlig psykologisk innehåll. Terapeutisk effekt beror kritiskt på behandlingsmiljö och integreringsprocesser.",
+        "no": "Fornyet psykiatrisk interesse for psykedelika krever revurdering av ubevisst sinn-konsepter. Disse stoffene endrer bevisstheten dypt og letter tilgang til normalt vanskelig tilgjengelig psykologisk innhold. Terapeutisk effekt avhenger kritisk av behandlingsmiljø og integreringsprosesser.",
+        "da": "Fornyet psykiatrisk interesse for psykedelika kræver revurdering af ubevidst sind-begreber. Disse stoffer ændrer bevidstheden dybt og letter adgang til normalt svært tilgængeligt psykologisk indhold. Terapeutisk effekt afhænger kritisk af behandlingsmiljø og integreringsprocesser.",
+        "fi": "Psykedeliikkojen uusiutunut psykiatrinen kiinnostus edellyttää tiedostamattoman mielen käsitteiden uudelleenarviointa. Nämä aineet muuttavat tietoisuutta syvällisesti ja helpottavat tavallisesti vaikeasti saavutettavan psykologisen sisällön saantia. Terapeuttinen teho riippuu kriittisesti hoitoympäristöstä ja integraatioprosesseista.",
+        "is": "Endurnýjuð sálfræðilegur áhugi á sálfræðilegum lyfjum kallar á endurmat á hugtökum um það sem er meðvitundlaust. Þessi efni breyta meðvitund djúpt og auðvelda aðgang að sálrænni efni sem venjulega erfitt er að ná til. Meðferðaráhrif ráðast skipulega af meðferðarumhverfi og samþættingarferlum.",
+        "et": "Psühhedelikumide taastunud psühhiaatriline huvi nõuab alateadlikkuse kontseptsioonide ümberhindamist. Need ained muudavad teadvust sügavalt ja hõlbustavad juurdepääsu tavaliselt raskesti ligipääsetavale psühholoogilisele sisule. Ravi tõhusus sõltub kriitiliselt ravi keskkonnast ja integreerimisprotokollist.",
+        "lv": "Atjaunotā psihiātriskā interese par psihodelikām vielas prasa apzinātas prāta koncepciju pārvērtēšanu. Šīs vielas padziļi maina apziņas stāvokli un atvieglo parasti grūti pieejama psihologiskā satura piekļūšanu. Terapeitiskā efektivitāte ir kritiski atkarīga no ārstēšanas vides un integrācijas procesa.",
+        "lt": "Atnaujęs psichiatrinis susidomėjimas psichedelikais reikalauja nesamonės koncepcijų peržiūros. Šios medžiagos giliai keičia sąmonės būseną ir palengvina paprastai sunkiai prieinamą psichologinį turinį. Terapinis efektyvumas kritiškai priklauso nuo gydymo aplinkos ir integracijos proceso."
+      },
+      "notable": false,
+      "notable_reasons": null,
+      "relevance_score": 3,
+      "study_type": "other",
+      "substances": [
+        "other"
+      ],
+      "added_at": "2026-09-29T13:11:14.640597+00:00"
+    },
+    {
       "title": "Characterizing Psychedelic-Evoked Familiarity: A Comparative Study with Autobiographical and Déjà Vu Experiences.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42725633/",
       "source": "PubMed",
@@ -1836,132 +1981,6 @@
         "psilocybin"
       ],
       "added_at": "2026-09-06T11:10:06.581018+00:00"
-    },
-    {
-      "title": "Healing together: Results from a pilot trial of 3,4-Methylenedioxymethamphetamine-enhanced cognitive-behavioral conjoint therapy for posttraumatic stress disorder.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42693902/",
-      "source": "PubMed",
-      "date": "2026-09-04",
-      "authors": [
-        "Morland Leslie A",
-        "Khalifian Chandra E",
-        "Perivoliotis Dimitri"
-      ],
-      "doi": "10.1002/jts.70126",
-      "summaries": {
-        "en": "Pilot study (N=16) evaluated MDMA-assisted brief cognitive-behavioral conjoint therapy for PTSD in military veteran couples. Eight-session protocol with two MDMA sessions showed large reductions in PTSD symptoms (d=1.25) and substantial improvements in relationship functioning for both veterans (d=1.83) and partners (d=1.29). Results suggest psychedelic-assisted couples therapy may enhance relational outcomes beyond standard treatment.",
-        "sv": "Pilotstudie (N=16) utvärderade MDMA-assisterad kort kognitiv-beteendeterapi för PTSD hos militära veteranpar. Åttasessionsprotokollet med två MDMA-sessioner visade stora minskningar av PTSD-symtom (d=1,25) och väsentliga förbättringar i relationsfunktionering för både veteraner (d=1,83) och partners (d=1,29). Resultaten tyder på att psykedelika-assisterad parterapi kan förbättra relationella utfall bortom standardbehandling.",
-        "no": "Pilotstudie (N=16) evaluerte MDMA-assistert kort kognitiv-atferdsterapi for PTSD hos militære veteranpar. Åtte-sesjonprotokoll med to MDMA-sesjoner viste store reduksjoner i PTSD-symptomer (d=1,25) og betydelige forbedringer i relasjonsfunksjonering for både veteraner (d=1,83) og partnere (d=1,29). Resultatene tyder på at psykedelika-assistert parterapi kan forbedre relasjonelle utfall utover standardbehandling.",
-        "da": "Pilotstudie (N=16) evaluerede MDMA-assisteret kort kognitiv-adfærdsterapi for PTSD hos militære veteranpar. Otte-sessionsprotokollet med to MDMA-sessioner viste store reduktioner i PTSD-symptomer (d=1,25) og væsentlige forbedringer i relationsfunktion for både veteraner (d=1,83) og partnere (d=1,29). Resultaterne tyder på, at psykedelika-assisteret parrterapi kan forbedre relationelle resultater ud over standardbehandling.",
-        "fi": "Pilottitutkimus (N=16) arvioi MDMA-avusteista lyhyttä kognitiivista käyttäytymisterapiaa PTSD:n hoitamiseksi sotilasveteraaniparien osalta. Kahdeksan istunnon protokolla kahdella MDMA-istunnolla osoitti suuret PTSD-oireiden vähentymiset (d=1,25) ja merkittävät parannukset parisuhteen toiminnassa sekä veteraaneille (d=1,83) että kumppaneille (d=1,29). Tulokset viittaavat siihen, että psykedeliikka-avusteiset pariterapiat voivat parantaa suhteita standardihoidon yli.",
-        "is": "Tilraunarstuðla (N=16) mat MDMA-aðstoðað stutta hugrænna atferlismeðferð fyrir PTSD hjá herjum og eiginföt þeirra. Átta-lotuforrit með tveimur MDMA-lotum sýndi stóra lækkun PTSD-einkenni (d=1,25) og umtalsverðar bætingar á sambandaaðgerðum fyrir bæði herja (d=1,83) og tengdamenn (d=1,29). Niðurstöður benda til að sálfræðivirkir stuðnir parameðferðir gætu bætt samskipti umfram staðlaða meðferð.",
-        "et": "Pilootuuring (N=16) hinnatas MDMA-assisteeritud lühikest kognitiivsete käitumisterapiat PTSD-ravi jaoks sõjaväe veterani paaridele. Kaheksa-sessioonilise protokolli kahe MDMA-sessiooniga näitati suuri PTSD-sümptomite vähenemisi (d=1,25) ja märgatavaid parandusi suhte toimimises nii veteranide (d=1,83) kui kaaslaste (d=1,29) puhul. Tulemused viitavad, et psühhedeelikumid-assisteeritud paarisuhteet võivad parandada suhteid standardravi ületamisel.",
-        "lv": "Pētījums (N=16) novērtēja MDMA-palīdzinātu īsu kognitīvi-uzvedības terapiju PTSD ārstēšanai karavīru veterānu pārim. Astoņu sesiju protokols ar divām MDMA seansēm parādīja lielas PTSD simptomu samazināšanos (d=1,25) un būtiskas attiecību funkcijas uzlabošanos gan veterāniem (d=1,83), gan partneriem (d=1,29). Rezultāti liecina, ka psihodeliski-palīdzināta pāru terapija var uzlabot attiecības pāri standarta ārstēšanai.",
-        "lt": "Bandomasis tyrimas (N=16) vertino MDMA-pagalbą turinčią trumpą kognityviai-elgesio terapiją PTSD gydymui karių veteranų poroms. Aštuonių sesijų protokolas su dviem MDMA seansais parodė didelius PTSD simptomų sumažėjimus (d=1,25) ir žymius ryšio funkcijos pagerinimus tiek veteranams (d=1,83), tiek partneriams (d=1,29). Rezultatai rodo, jog psichedelikais-pagalbą turinčios poros terapija gali pagerinti santykius, viršijant standartinį gydymą."
-      },
-      "notable": false,
-      "notable_reasons": null,
-      "relevance_score": 4,
-      "study_type": "rct",
-      "substances": [
-        "mdma"
-      ],
-      "added_at": "2026-09-04T11:32:40.517675+00:00"
-    },
-    {
-      "title": "Implementing psychedelic-assisted therapy in Ireland: perspectives from a national stakeholder survey.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42693921/",
-      "source": "PubMed",
-      "date": "2026-09-04",
-      "authors": [
-        "Harrington Colm",
-        "Mallon Orla",
-        "Gribben Andrew David"
-      ],
-      "doi": "10.1017/ipm.2026.10224",
-      "summaries": {
-        "en": "Irish stakeholder survey examines implementation perspectives for psychedelic-assisted therapy. Study gathers views from key national actors on clinical, regulatory, and practical considerations for integrating these treatments into healthcare systems.",
-        "sv": "Irlandsk intressentenkät undersöker implementeringsperspektiv för psykedelika-assisterad terapi. Studien samlar synpunkter från nationella aktörer om kliniska, regulatoriska och praktiska hänsyn vid integrering av dessa behandlingar.",
-        "no": "Irsk interessentkartlegging undersøker implementeringsperspektiver for psykedelika-assistert terapi. Studien samler synspunkter fra nasjonale aktører om kliniske, regulatoriske og praktiske hensyn ved integrering av disse behandlingene.",
-        "da": "Irsk interessentundersøgelse undersøger implementeringsperspektiver for psykedelika-assisteret terapi. Studien indsamler synspunkter fra nationale aktører om kliniske, lovgivnings- og praktiske overvejelser ved integration af disse behandlinger.",
-        "fi": "Irlantilainen sidosryhmäkysely tutkii psykedeelejä käyttävän terapian täytäntöönpanon näkökulmia. Tutkimuksessa kerätään kansallisten toimijoiden näkemyksiä näiden hoitojen kliinisistä, sääntelyllisistä ja käytännöllisistä näkökohdista.",
-        "is": "Íslenska hagsmunaaðilakannski rannsakar framkvæmdarsjónarmið fyrir psykedelík-aðstoðað meðferð. Rannsóknin safnar skoðunum frá helstu aðilum um klíníska, reglugerðar- og hagnýta sjónarmið við feileitun meðferða.",
-        "et": "Iirimaa huvitatud osapoolte küsitlus uurib psühhedeelium-toetatud teraapia rakendamise vaatenurki. Uuring kogub riiklike sidusrühmade seisukohti kliiniliste, regulatiivsete ja praktiliste aspektide kohta nende ravi integreerimisel.",
-        "lv": "Īrijas ieinteresēto pušu aptauja pēta psihedeliku-palīdzības terapijas ieviešanas perspektīvas. Pētījumā apkopoti nacionālo dalībnieku viedokļi par klīniskiem, normatīviem un praktiskiem apsvērumiem šo ārstēšanas metožu integrēšanai.",
-        "lt": "Airijos suinteresuotų šalių apklausa nagrinėja psichodeliko-pagalbinės terapijos diegimo perspektyvas. Tyrime surinktos nacionalinių dalyvių nuomonės apie klininius, normatyvinius ir praktinius šiųjų gydymo metodų integracijai svarbius aspektus."
-      },
-      "notable": false,
-      "notable_reasons": null,
-      "relevance_score": 3,
-      "study_type": "qualitative",
-      "substances": [
-        "other"
-      ],
-      "added_at": "2026-09-04T11:32:40.517675+00:00"
-    },
-    {
-      "title": "Short-term ketamine interventions for depressive disorders: practical best-practice recommendations for psychiatrists using oral, subcutaneous, and nasal formulations.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42756688/",
-      "source": "PubMed",
-      "date": "2026-09-03",
-      "authors": [
-        "Słupska Anita",
-        "Cubała Wiesław Jerzy",
-        "Swieczkowski Damian"
-      ],
-      "doi": "10.3389/fpsyt.2026.1931248",
-      "summaries": {
-        "en": "Narrative review synthesizing evidence on ketamine and esketamine for treatment-resistant depression. Intranasal esketamine has regulatory approval in several jurisdictions; most racemic ketamine formulations remain off-label. Review prioritizes evidence by study design across oral, subcutaneous, and nasal routes. Strongest evidence supports labeled intranasal esketamine and intravenous ketamine; subcutaneous racemic ketamine shows randomized evidence for flexible-dose short-term treatment.",
-        "sv": "Narrativ översikt av evidens för ketamin och esketamin vid behandlingsresistent depression. Intranasal esketamin har regulatoriskt godkännande i flera jurisdiktioner; mest racemisk ketamin förblir off-label. Granskningen prioriterar evidens efter studidesign för oralt, subkutant och nasalt. Starkast evidens stöder märkt intranasal esketamin och intravenös ketamin; subkutan racemisk ketamin visar randomiserad evidens för flexibel korttidsbehandling.",
-        "no": "Narrativ oversikt av evidens for ketamin og esketamin ved behandlingsresistent depresjon. Intranasal esketamin har regulatorisk godkjenning i flere jurisdiksjoner; mest racemisk ketamin forblir off-label. Oversikten prioriterer evidens etter studidesign for oralt, subkutant og nasalt. Sterkest evidens støtter godkjent intranasal esketamin og intravenøs ketamin; subkutan racemisk ketamin viser randomisert evidens for fleksibel korttidsbehandling.",
-        "da": "Narrativ oversigt over evidens for ketamin og esketamin ved behandlingsresistent depression. Intranasal esketamin har regulatorisk godkendelse i flere jurisdiktioner; mest racemisk ketamin forbliver off-label. Oversigten prioriterer evidens efter studidesign for oralt, subkutant og nasalt. Stærkest evidens understøtter godkendt intranasal esketamin og intravenøs ketamin; subkutan racemisk ketamin viser randomiseret evidens for fleksibel korttidsbehandling.",
-        "fi": "Narratiivinen katsaus ketamiinin ja esketamiinin näytöstä hoitoon vastustuskykyisessä masennuksessa. Intranaasaalinen esketamiini on sääntelyn mukainen useissa lainkäyttöalueissa; useimmat raseemiset ketamiini-muodot jäävät off-label-käytöksi. Katsaus priorisoi näytöt tutkimussuunnittelun perusteella suun, subkutaanisen ja nenän kautta. Vahvinta näyttöä tukee merkitty intranaasaalinen esketamiini ja intravenoosi ketamiini; subkutaaninen raseeminen ketamiini osoittaa satunnaistettua näyttöä joustavan lyhytaikaisen hoidon tueksi.",
-        "is": "Frásöguleg yfirlit yfir sönnun fyrir ketamíni og esketamíni við meðferðaróhörklegri þunglyndi. Berkjuð esketamín hefur eftirlitssamþykki í nokkrum lögsagnarumdæmum; flestar racemískar ketamínsnið eru off-label. Yfirlitið forgangsraðar sönnun eftir rannsóknarhönnun fyrir munnlegri, undirhuðlegri og nefslögu. Sterkasta sönnun styður merkt berkjuð esketamín og intravenously ketamín; undirhuðleg racemísk ketamín sýnir slembiraðað sönnun fyrir sveigjanlegri skammtímaðferð.",
-        "et": "Narratiivne ülevaade ketamiini ja esketamiini tõendusdest raviresistentses depressioonis. Intranaasaalsel esketamiinul on regulatoorse heakskiidu mitmetes jurisdiktsioonides; enamik rasemilist ketamiini jääb off-label-kasutusele. Ülevaade prioriseerib tõendeid uuringu kujunduse järgi suulisele, subkutaansele ja ninaesimsele viisile. Tugevaimat tõendit toetab märgitud intranaasaalne esketamiin ja intravenoosne ketamiin; subkutaanne rasemiline ketamiin näitab randomiseeritud tõenust paindliku lühiajaline ravi toetuseks.",
-        "lv": "Naratīvs pārskats par pierādījumiem ketamīnam un esketamīnam nopietnā depresijas ārstēšanā. Intranazeālam esketamīnam ir normatīvais apstiprinājums vairākās jurisdikcijās; lielākā daļa racēmiskā ketamīna paliek off-label. Pārskats prioritāri ņem pierādījumus pēc pētījuma dizaina mutāļiem, subkutāniem un nazāliem ceļiem. Spēcīgākos pierādījumus atbalsta atzītais intranazeālais esketamīns un intravenozais ketamīns; subkutānais racēmiskais ketamīns parāda randomizētus pierādījumus elastīgai īstermiņa ārstēšanai.",
-        "lt": "Naratyvinė apžvalga dėl ketamino ir esketamino įrodymų gydant depresijos pokyčius. Intranasiniam esketaminui yra reguliavimo patvirtinimas keliose jurisdikcijose; daugumoje raceminės ketamino formos lieka be ženklo. Apžvalga prioritizuoja įrodymus pagal tyrimo modelį per burnos, subkutaninės ir nosies formas. Stipriausią įrodymą remia pažymėtas intranasininis esketaminas ir intravenininas ketaminas; subkutaninis racemininis ketaminas parodo atsitiktinį įrodymą dėl lanksčios trumpalaikės gydymo."
-      },
-      "notable": false,
-      "notable_reasons": null,
-      "relevance_score": 4,
-      "study_type": "review",
-      "substances": [
-        "ketamine"
-      ],
-      "added_at": "2026-09-19T11:17:08.037177+00:00"
-    },
-    {
-      "title": "Novel pharmacotherapies for opioid use disorder and opioid withdrawal.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42755825/",
-      "source": "PubMed",
-      "date": "2026-09-03",
-      "authors": [
-        "Shen Mary R",
-        "Owusu-Boaitey Kwadwo",
-        "Murphy Zackari D"
-      ],
-      "doi": "10.3389/fpsyt.2026.1909149",
-      "summaries": {
-        "en": "A narrative review examined emerging pharmacotherapies for opioid use disorder beyond standard treatments (methadone, buprenorphine, naltrexone). Ketamine shows preliminary randomized evidence for reducing withdrawal and craving; cannabidiol may decrease cue-induced craving; ibogaine shows observational signals for abstinence but lacks controlled data; GLP-1 agonists demonstrate strong observational links to reduced overdose risk. These approaches target reward circuitry and neurobiological systems beyond mu-opioid receptors, addressing treatment limitations including poor retention and incomplete response.",
-        "sv": "En narrativ review undersökte nya läkemedelsterapi för opioidberoende bortom standardbehandlingar (metadon, buprenorfin, naltrexon). Ketamin visar preliminär randomiserad evidens för minskad abstinens och törstande; kannabidiol kan minska signalassocierad böjelse; ibogain visar observationella signaler för långvarig nykterhet men saknar kontrollerad data; GLP-1-agonister visar starkt observationell koppling till minskat överdödsrisk. Dessa metoder påverkar belöningssystem och neurobiologiska system bortom mu-opioidreceptorer.",
-        "no": "En narrativ oversikt undersøkte nye legemiddelbehandlinger for opioidavhengighet utover standardbehandlinger (metadon, buprenorfin, naltrexon). Ketamin viser preliminær randomisert evidens for redusert abstinens og trang; cannabidiol kan redusere signalutløst trang; ibogain viser observasjonsdata for langvarig abstinens men mangler kontrollert forskning; GLP-1-agonister viser sterk observasjonell sammenheng med redusert overdosedødelighet. Disse tilnærmingene påvirker belønningssystemer og neurobiologiske systemer utover mu-opioidreseptorer.",
-        "da": "En narrativ review undersøgte nye lægemiddelbehandlinger for opioidafhængighed ud over standardbehandlinger (metadon, buprenorfin, naltrexon). Ketamin viser foreløbig randomiseret evidens for reduceret abstinens og trang; cannabidiol kan reducere signaludløst trang; ibogain viser observationsdata for vedvarende abstinens men mangler kontrolleret forskning; GLP-1-agonister viser stærk observationel sammenhæng med reduceret overdosisdødelighed. Disse tilgange påvirker belønningssystemer og neurobiologiske systemer ud over mu-opioidreceptorer.",
-        "fi": "Narratiivinen katsaus tutki uusia lääkehoitoja opioidiriippuvuuteen tavanomaisten hoitojen (metadoni, buprenorfiini, naltreksoni) lisäksi. Ketamiinilla on alustava satunnaistettu näyttö vetäytymisen ja himon vähentämisestä; kannabiidioli voi vähentää ärsykkeestä johtuvaa himoa; ibokaini osoittaa havaintoaineistoa pitkäaikaisesta raittiudesta mutta vaatii kontrolloitua tutkimusta; GLP-1-agonistit osoittavat vahvaa yhteyttä liikaannoksen kuolleisuuden vähenemiseen. Nämä lähestymistavat vaikuttavat palkkiojärjestelmiin mu-opioidireceptoreiden lisäksi.",
-        "is": "Hugleiðing skoðaði ný lyfjameðferðir fyrir ópioidfíkn umfram staðlaða meðferðir (metadon, búprenorfín, naltrekson). Ketamín sýnir bersýnilega tilviljunarkennda sönnun fyrir minni afturköllunareinkennum og löngun; kannabídíól getur minnkað vísbendingu-framkallaða löngun; ibogaín sýnir athugunarmerki fyrir langvarandi stöðvun en skortar eftirlit. GLP-1-agonistar sýna sterka athugunarsamband við minni ofsadosis dánartíðni. Þessar aðferðir hafa áhrif á umbun og taugakerfi umfram mu-ópioidviðtaka.",
-        "et": "Narratiivne ülevaade uuris uusi ravimeid opioidisõltuvusele tavapärase ravi (metadoon, buprenorfiin, naltreksoon) kõrval. Ketamiinil on esialgne randomiseeritud tõend abstinensi ja himu vähendamise kohta; kannabidiooli võib vähendada signaaliga kutsutud iha; ibogain näitab vaatlusandmeid püsiva paastumisvõime kohta, kuid vajalike kontrollitud uuringute puudumisest; GLP-1-agonistid näitavad tugevat seost üliannoosiga seotud suremuse vähenemisega. Need lähenemisviisid mõjutavad auhinnastamis- ja neurobiioloogilisi süsteeme mu-opioidretseptorite kõrval.",
-        "lv": "Naratīvais pārskats pārbaudīja jaunas medikamentu terapijas opiātu atkarībai pēc noklusējuma ārstēšanas (metadons, buprenorfīns, naltreksons). Ketamīns parāda provizorisku randomizētu pierādījumu par abstinences un tieksmes samazināšanu; kanabidols var samazināt signāla izraisītu tieksmi; ibogaīns parāda novērošanas signālus par ilgstošu abstinenci, taču trūkst kontrolētu datu; GLP-1 agonisti parāda spēcīgu saistību ar pārdozējuma mirstības samazināšanu. Šīs pieejas ietekmē balvas sistēmas un neirobiologiskos sistēmus aiz mu-opiātu receptoriem.",
-        "lt": "Naratyvinė apžvalga nagrinėjo naujas vaistų terapijas opioido priklausomybei, peržengiant standartinį gydymą (metadoną, buprenorfiną, naltreksona). Ketaminas rodo preliminarų atsitiktinį įrodymą savęs apsukinėjimo ir troškimo mažinimui; kanabidiol gali sumažinti signalo sukeliamą troškimą; ibokainas rodo stebėjimo ženklus dėl ilgalaikio susilaikymo, tačiau trūksta kontroliuotų duomenų; GLP-1 agonistai rodo stiprią asociaciją su mažesne narkotikų perdozavimo mirtimi. Šie požiūriai veikia atlygintino ir neurobiologinius sistemas, peržengdami mu-opioido receptorius."
-      },
-      "notable": false,
-      "notable_reasons": null,
-      "relevance_score": 4,
-      "study_type": "review",
-      "substances": [
-        "ketamine",
-        "ibogaine",
-        "other"
-      ],
-      "added_at": "2026-09-19T11:17:08.037177+00:00"
     }
   ]
 }

@@ -1,6 +1,87 @@
 {
   "items": [
     {
+      "title": "Are psychedelics anti-inflammatory? A systematic review and meta-analysis of studies examining the immunomodulatory effects of serotonergic psychedelics.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42805420/",
+      "source": "PubMed",
+      "date": "2026-09-28",
+      "authors": [
+        "Lerche Anna Skovgaard",
+        "Kelley D Parker",
+        "Benros Michael E"
+      ],
+      "doi": "10.1016/j.bbi.2026.107033",
+      "summary_en": "Are psychedelics anti-inflammatory? A systematic review and meta-analysis of studies examining the immunomodulatory effects of serotonergic psychedelics.",
+      "notable": true,
+      "notable_reason": "Systematic review and meta-analysis spanning 61 studies (24 in vitro, 30 in vivo, 7 human trials) examining immunomodulatory effects across multiple serotonergic psychedelics.",
+      "study_type": "review",
+      "substances": [
+        "psilocybin",
+        "lsd",
+        "mescaline",
+        "other"
+      ],
+      "added_at": "2026-09-29T13:11:14.640597+00:00"
+    },
+    {
+      "title": "Ketamine Alters Tuning of Neural and Behavioral Spatial Working Memory Precision.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42805468/",
+      "source": "PubMed",
+      "date": "2026-09-28",
+      "authors": [
+        "Rahmati Masih",
+        "Moujaes Flora",
+        "Suljic Nina Purg"
+      ],
+      "doi": "10.1016/j.biopsych.2026.09.016",
+      "summary_en": "A 40-participant fMRI study using computational modeling examined ketamine's effects on spatial working memory. Ketamine, an NMDAR antagonist, broadened neural spatial tuning in visual and working memory networks, correlating with reduced task performance. These findings support the hypothesis that NMDAR blockade impairs spatial working memory precision by decreasing neuronal response specificity, offering insights for treating working memory deficits in psychiatric disorders.",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "observational",
+      "substances": [
+        "ketamine"
+      ],
+      "added_at": "2026-09-29T13:11:14.640597+00:00"
+    },
+    {
+      "title": "Multimodal predictors of response to intravenous ketamine in treatment-resistant depression: toward personalized treatment in major depressive and bipolar disorders.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42803524/",
+      "source": "PubMed",
+      "date": "2026-09-28",
+      "authors": [
+        "Malewska-Kasprzak Magda",
+        "Rybakowski Filip",
+        "Dmitrzak-Weglarz Monika"
+      ],
+      "doi": "10.1017/S1092852926101187",
+      "summary_en": "Systematic review of 150 studies examining predictors of intravenous ketamine response in treatment-resistant depression. Key predictors include baseline depression severity, anxiety, sleep disturbances, inflammatory markers (monocyte count, BDNF), metabolic factors (BMI, vitamin B12), genetic variants, and neurophysiological signatures (EEG, fMRI). Early symptomatic improvement was also predictive. Findings suggest glutamatergic, circadian, and inflammatory mechanisms interact to determine individual treatment response, supporting personalized therapy approaches.",
+      "notable": true,
+      "notable_reason": "Comprehensive systematic review of 150 studies integrating multimodal biomarkers, neurophysiology, and clinical predictors to guide precision medicine in ketamine treatment for TRD—substantial synthesis of emerging evidence base.",
+      "study_type": "review",
+      "substances": [
+        "ketamine"
+      ],
+      "added_at": "2026-09-29T13:11:14.640597+00:00"
+    },
+    {
+      "title": "[Psychedelics and the unconscious: What are their clinical implications?].",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42805745/",
+      "source": "PubMed",
+      "date": "2026-09-11",
+      "authors": [
+        "Di Lodovico Laura"
+      ],
+      "doi": "10.1016/j.spsy.2026.07.006",
+      "summary_en": "Renewed psychiatric interest in psychedelics prompts reconsideration of unconscious mind concepts. These substances alter consciousness profoundly, facilitating access to typically inaccessible psychological content. Therapeutic efficacy depends critically on treatment setting and integration processes.",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "other",
+      "substances": [
+        "other"
+      ],
+      "added_at": "2026-09-29T13:11:14.640597+00:00"
+    },
+    {
       "title": "Symptom-level and network analyses of ketamine treatment in treatment-resistant depression: A pooled analysis of two randomized controlled trials.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42800500/",
       "source": "PubMed",

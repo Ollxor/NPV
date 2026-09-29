@@ -1,7 +1,83 @@
 {
-  "date": "2026-09-28",
-  "cached_at": "2026-09-28T12:52:43.292077+00:00",
+  "date": "2026-09-29",
+  "cached_at": "2026-09-29T12:05:54.942263+00:00",
   "articles": [
+    {
+      "title": "[Psychedelics and the unconscious: What are their clinical implications?].",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42805745/",
+      "source": "PubMed",
+      "abstract": "The renewed interest in psychedelics in psychiatry calls for a reexamination of the concept of the unconscious. By profoundly altering states of consciousness, these substances appear to facilitate access to psychological content that is usually difficult to access. Their therapeutic value depends heavily on the therapeutic setting and the process of integration.",
+      "date": "2026-09-11",
+      "authors": [
+        "Di Lodovico Laura"
+      ],
+      "doi": "10.1016/j.spsy.2026.07.006"
+    },
+    {
+      "title": "Ketamine Alters Tuning of Neural and Behavioral Spatial Working Memory Precision.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42805468/",
+      "source": "PubMed",
+      "abstract": "Working memory (WM) is a key element of cognition that depends on accurate internal representation of stimuli and often impaired in psychiatric disorders, including schizophrenia. Prior human neuropharmacological studies with ketamine suggest that glutamate N-methyl-D-aspartate receptors (NMDARs) are critical for spatial WM (sWM), with NMDAR antagonism attenuating task-evoked neural activation and reducing WM accuracy. Animal studies, at the cellular level, and cortical microcircuit models hypothesize that NMDAR antagonism impairs sWM by decreasing the specificity of neuronal responses to spatial locations through broadened spatial tuning. Testing the relevance of this mechanism in humans remains a vital gap in our understanding of sWM and is critical for designing better treatments for WM impairments. To overcome the challenges of measuring neuronal responses invasively in humans, we combined pharmacological manipulation and computational fMRI to show that ketamine broadens neural spatial tuning in healthy adults (N=40). Specifically, we modeled population neuron-level representations, rather than traditionally examined changes in blood oxygen level dependent (BOLD) activation. Broader neural tuning across visual perception and WM networks was linked to poorer sWM performance under ketamine, implicating tuning changes in sWM deficits. Furthermore, ketamine-induced changes in tuning, compared to the overall magnitude of BOLD activation, were more consistent across individuals and brain regions, suggesting a collective effect of ketamine on neural tuning across spatially-selective regions. These findings provide the first empirical evidence linking altered neuronal tuning to NMDAR antagonism and sWM impairments in humans, advancing a mechanistic understanding of glutamatergic mechanisms underlying sWM and related deficits in neuropsychiatric disorders.",
+      "date": "2026-09-28",
+      "authors": [
+        "Rahmati Masih",
+        "Moujaes Flora",
+        "Suljic Nina Purg"
+      ],
+      "doi": "10.1016/j.biopsych.2026.09.016"
+    },
+    {
+      "title": "Are psychedelics anti-inflammatory? A systematic review and meta-analysis of studies examining the immunomodulatory effects of serotonergic psychedelics.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42805420/",
+      "source": "PubMed",
+      "abstract": "Serotonergic psychedelics are promising treatments for neuropsychiatric disorders, and their immunomodulatory effects may contribute to their clinical efficacy. However, we lack a systematic review and meta-analysis of these effects across in vitro, in vivo non-human, and human studies. We systematically searched PubMed, EMBASE, Web of Science, PsycINFO, LILACS and ClinicalTrials.gov for all studies, published from database inception through February 9th, 2026, examining changes in immune markers after serotonergic psychedelic exposure, and meta-analyzed eligible studies. Of 9,195 studies screened, 61 studies met eligibility criteria for systematic review including 24 in vitro studies, 30 non-human in vivo studies, and seven human studies including data from 10 separate human trials. Results of the systematic review indicated that most in vitro (19/24) and non-human in vivo (25/30) studies reported anti-inflammatory effects of psychedelics. Human results were mixed with anti-inflammatory effects observed in 3/10 trials. Results of the meta-analysis of 18 eligible in vivo murine studies showed a significant decrease in proinflammatory cytokines in inflammatory models (standardized mean difference (SMD = -1.23, 95% CI [-1.54, -0.92]), but no significant effects in healthy murines (SMD = -0.06, 95% CI [-0.54, 0.43]), following treatment with a serotonergic psychedelic. Four human studies were eligible for meta-analysis; however, the small number of studies resulted in imprecise estimates and limited interpretability. Thus, while serotonergic psychedelics reduce proinflammatory cytokines in preclinical models of increased baseline inflammation, limited human evidence precludes conclusions about their translational potential.",
+      "date": "2026-09-28",
+      "authors": [
+        "Lerche Anna Skovgaard",
+        "Kelley D Parker",
+        "Benros Michael E"
+      ],
+      "doi": "10.1016/j.bbi.2026.107033"
+    },
+    {
+      "title": "U.S. Authorizing Clinicians and Medical Cannabis Caregivers: 2020-2024.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42804773/",
+      "source": "PubMed",
+      "abstract": "",
+      "date": "2026-09-29",
+      "authors": [
+        "Boehnke Kevin F",
+        "Whitcomb Madeline",
+        "Gordon Felicia"
+      ],
+      "doi": "10.7326/ANNALS-26-03446"
+    },
+    {
+      "title": "Trends in U.S. Medical Cannabis Registrations and Reasons for Use, 2016 to 2024.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42804772/",
+      "source": "PubMed",
+      "abstract": "",
+      "date": "2026-09-29",
+      "authors": [
+        "Boehnke Kevin F",
+        "Whitcomb Madeline",
+        "Gordon Felicia"
+      ],
+      "doi": "10.7326/ANNALS-26-01527"
+    },
+    {
+      "title": "Multimodal predictors of response to intravenous ketamine in treatment-resistant depression: toward personalized treatment in major depressive and bipolar disorders.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42803524/",
+      "source": "PubMed",
+      "abstract": "Intravenous ketamine is a rapid-acting intervention for treatment-resistant depression (TRD) in adults with major depressive disorder and bipolar disorder (BD). While efficacy is established, a comprehensive integration of clinical, neurophysiological, biomarker, metabolic, and cognitive predictors remains lacking, limiting precision CNS-targeted therapy. To synthesize recent evidence on multimodal predictors of intravenous ketamine response in TRD and propose a preliminary clinical framework to guide personalized treatment. Following PRISMA guidelines, Scopus, PubMed, EMBASE, and MEDLINE were searched for English-language, peer-reviewed studies published within the last 5 years. Eligible studies included adults receiving intravenous ketamine for depressive disorders. Data were descriptively synthesized to identify consistent predictors, evidence clusters, and research gaps. The review included 150 studies. Key predictors of ketamine response included baseline depressive severity, comorbid anxiety, atypical depression and sleep phenotypes, inflammatory and neuroplastic biomarkers (eg, monocyte count, BDNF), metabolic factors (BMI, vitamin B12), genetic/epigenetic variants, neurophysiological signatures (EEG, TMS, fMRI connectivity), cognitive performance, and early symptomatic improvement. Integrative analysis suggests that glutamatergic, circadian, and inflammatory mechanisms interact to shape interindividual variability. Limitations include methodological heterogeneity and scarce long-term outcome data. Intravenous ketamine response in TRD is multifactorial, reflecting clinical phenotype, CNS biomarkers, neurophysiology, metabolism, and genetics. This review proposes a preliminary research framework and pilot clinical questionnaire intended to facilitate future investigation of individualized treatment approaches. However, most proposed predictors remain exploratory and require prospective validation before clinical implementation.",
+      "date": "2026-09-28",
+      "authors": [
+        "Malewska-Kasprzak Magda",
+        "Rybakowski Filip",
+        "Dmitrzak-Weglarz Monika"
+      ],
+      "doi": "10.1017/S1092852926101187"
+    },
     {
       "title": "Repetitive Transcranial Magnetic Stimulation for Refractory, Widespread Complex Regional Pain Syndrome Type II: A Case Report.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42802844/",
@@ -32,7 +108,7 @@
       "title": "Symptom-level and network analyses of ketamine treatment in treatment-resistant depression: A pooled analysis of two randomized controlled trials.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42800500/",
       "source": "PubMed",
-      "abstract": "We examined symptom-level treatment effects and exploratory symptom networks after ketamine in treatment-resistant depression. This post hoc analysis pooled 132 participants assigned to ketamine 0.5 mg/kg or protocol-specific control (66 each) from saline-controlled 2017 and midazolam-controlled 2023 trials. Baseline- and trial-adjusted models assessed Montgomery-Åsberg Depression Rating Scale (MADRS) items and four literature-derived domains with false discovery rate (FDR) correction. Sensitivity analyses included trial-specific models and mixed models for repeated measures. Ketamine-arm Gaussian graphical models compared baseline with day 2. Treatment-node Network Intervention Analysis (NIA) estimated conditional associations; item-edge reporting required full-sample selection and at least 50% bootstrap selection. At 240 min, 9/10 items met the FDR criterion. Adjusted control-minus-ketamine differences were 1.09 (95% confidence interval 0.65-1.54) for apparent sadness, 1.09 (0.64-1.54) for pessimistic thoughts, and 1.10 (0.68-1.52) for suicidal thoughts. All four domains met the criterion at 240 min and day 2. Global strength increased from 3.38 to 4.47 (median permutation p = 0.024), with no detected structure difference (p = 0.433); baseline edge stability was limited. NIA retained nine edges at 50%, four at 60%, and two at 75%, the latter involving apparent sadness at days 3 and 7. Ketamine showed broad early symptom improvement. Exploratory network associations were sensitive to reporting thresholds and did not establish symptom-specific mechanisms. UMIN000016985, UMIN000033916 and UMIN000033760.",
+      "abstract": "We examined symptom-level treatment effects and exploratory symptom networks after ketamine in treatment-resistant depression. This post hoc analysis pooled 132 participants assigned to ketamine 0.5 mg/kg or protocol-specific control (66 each) from saline-controlled 2017 and midazolam-controlled 2023 trials. Baseline- and trial-adjusted models assessed Montgomery-Åsberg Depression Rating Scale (MADRS) items and four literature-derived domains with false discovery rate (FDR) correction. Sensitivity analyses included trial-specific models and mixed models for repeated measures. Ketamine-arm Gaussian graphical models compared baseline with day 2. Treatment-node Network Intervention Analysis (NIA) estimated conditional associations; item-edge reporting required full-sample selection and at least 50% bootstrap selection. At 240 min, 9/10 items met the FDR criterion. Adjusted control-minus-ketamine differences were 1.09 (95% confidence interval 0.65-1.54) for apparent sadness, 1.09 (0.64-1.54) for pessimistic thoughts, and 1.10 (0.68-1.52) for suicidal thoughts. All four domains met the criterion at 240 min and day 2. Global strength increased from 3.38 to 4.47 (median permutation p = 0.024), with no detected structure difference (p = 0.433); baseline edge stability was limited. NIA retained nine edges at 50%, four at 60%, and two at 75%, the latter involving apparent sadness at days 3 and 7. Ketamine showed broad early symptom improvement. Exploratory network associations were sensitive to reporting thresholds and did not establish symptom-specific mechanisms. UMIN000016985, UMIN000033916 and UMIN000033760.",
       "date": "2026-09-26",
       "authors": [
         "Liu Kuan-I",
@@ -182,84 +258,6 @@
         "Lenggenhager Bigna"
       ],
       "doi": "10.1177/02698811261481062"
-    },
-    {
-      "title": "Modulation of GABA and glutamate by ketamine in depression: A systematic review and meta-analysis of magnetic resonance spectroscopy studies.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42768091/",
-      "source": "PubMed",
-      "abstract": "Disrupted excitation-inhibition (E/I) balance involving GABA and glutamate (Glu) is implicated in the pathophysiology of depression. Ketamine, an NMDA receptor antagonist with rapid antidepressant properties, may modulate this balance, yet proton magnetic resonance spectroscopy (¹H-MRS) studies report inconsistent findings regarding the direction, magnitude, and timing of neurochemical effects. Static ¹H-MRS metabolite concentrations, however, do not directly index neuronal excitation or inhibition; the E=Glx/Glu and I = GABA framework adopted here, as used commonly in the field, is an assumed convention rather than a validated physiological equivalence. We conducted a systematic review and meta-analysis evaluating ketamine's influence on GABA, Glu, and Glx levels and their relationship to clinical outcomes in adults with depression. Multiple databases were searched from inception through October 16, 2025; of 1046 identified studies, 11 met inclusion criteria. Included studies demonstrated significant methodological variability across infusion protocols, metabolite selection, MRS acquisition timing, and brain region of interest. Meta-analyses from limited evidence base did not demonstrate statistically significant treatment-related alterations in any metabolite. The anterior cingulate and prefrontal cortices were most frequently examined regions. The quality of included studies was generally good, despite methodological heterogeneity. One RCT found percent reduction in Glx/GABA ratio positively correlated with symptom improvement. Only a few studies examined ketamine blood levels relative to metabolite changes. Current ¹H-MRS evidence does not confirm significant ketamine-related neurochemical alterations, likely reflecting methodological heterogeneity in timing, acquisition techniques, and brain regions examined rather than a true absence of effect. E/I balance shows promise as a treatment response predictor. Rigorous RCTs with standardized protocols, larger sample sizes, uniform dosing, and systematic biomarker investigations are needed to clarify ketamine's neurochemical mechanism and optimize ketamine's clinical application in treatment-resistant depression.",
-      "date": "2026-09-21",
-      "authors": [
-        "Singh Balwinder",
-        "Ali Hossam M",
-        "Miola Alessandro"
-      ],
-      "doi": "10.1038/s41386-026-02562-4"
-    },
-    {
-      "title": "Implementation and Preliminary Evaluation of an Intravenous Ketamine Protocol for Psychiatric Conditions in Medical and Surgical Units: A One-Year Pilot Study.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42767564/",
-      "source": "PubMed",
-      "abstract": "Ketamine is an emerging therapy in psychiatry, but its implementation in the general hospital setting remains limited due to monitoring requirements, personnel allocation, and safety concerns in medically complex patients. Consultation-liaison (C-L) psychiatry services are well-positioned to deliver such interventions, yet practical models for doing so are lacking. To describe the implementation and feasibility of an intravenous ketamine protocol for depression and other psychiatric indications on general medical and surgical units at a quaternary academic medical center. A psychiatry-specific IV ketamine protocol was developed and approved through institutional pharmacy and nursing committees. The infusion rate was capped at 5 mcg/kg/min, with doses ranging from 0.5 to 1.0 mg/kg. Patients were maintained at routine floor-level care with continuous pulse oximetry during infusion. Feasibility was assessed through operational integration into existing hospital workflows, including the need for additional staffing, aborted procedures, care escalations, and the sustained use of the protocol. Tolerability outcomes included side effects, PRN medication use, and infusion rate adjustments or discontinuations. When applicable, depression and anxiety were assessed using the Montgomery-Åsberg Depression Rating Scale, Patient Health Questionnaire-9, and Generalized Anxiety Disorder-7 at baseline and after each infusion. The protocol was implemented hospital-wide beginning February 2025, with data collection concluding February 2026. Sixteen patients received a total of 51 infusions across medical and surgical units. Primary indications included major depressive episodes, bipolar depression, catatonia, and anxiety. The protocol was sustained over a one-year observation period without additional staffing, modifications to existing unit workflows, or aborted procedures. No infusions required rate adjustment or discontinuation, and no patients required escalation to higher-acuity monitoring or transfer to the ICU or PACU. Eight patients reported transient side effects; no serious adverse events occurred, and one instance of a PRN medication (ondansetron) was administered across all infusions. Among 14 patients treated for depression, 12 showed improvement from baseline to last recorded score, while five met thresholds for response and three for remission. The protocol remains in active use. A capped-rate IV ketamine protocol tailored for psychiatry was feasibly delivered on general medical and surgical floors. The protocol integrated into existing C-L workflows and may serve as a scalable model for expanding access to rapid-acting psychiatric intervention in medically ill populations.",
-      "date": "2026-09-21",
-      "authors": [
-        "Hu Bo",
-        "Ortiz-Cruz Alfonso",
-        "Sachidanandan Ridhaa"
-      ],
-      "doi": "10.1016/j.jaclp.2026.09.005"
-    },
-    {
-      "title": "Pharmacokinetics and safety of a modified-release psilocybin formulation: A SAD Phase I trial in normal-weight and overweight/obese participants.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42767271/",
-      "source": "PubMed",
-      "abstract": "This study aimed to evaluate the safety, tolerability and pharmacokinetics of a novel oral modified-release psilocybin formulation (REL-P11) in normal-weight and overweight/obese healthy adults and to assess its suitability for controlled, subperceptual exposure, in light of emerging evidence supporting serotonergic modulation in metabolic disorders. Simulation-based modelling compared predicted psilocin exposure with immediate-release formulations. Then, a randomized, double-blind, placebo-controlled, single ascending dose Phase I study was conducted in eight normal-weight and 32 overweight/obese adults. Single oral doses of 0.5, 1.0, 1.5 and 2.0 mg of REL-P11 were administered. Plasma psilocin concentrations were measured using liquid chromatography-mass spectrometry, and pharmacokinetic parameters were derived using non-compartmental analysis. Simulations indicated lower peak concentrations and prolonged absorption with the modified-release formulation compared with immediate-release psilocybin. No serious adverse events or adverse events of special interest (AESIs) occurred among REL-P11-treated participants, and no clinically meaningful treatment-related changes were detected in the prespecified psychometric and safety assessments. Psilocin exposure increased proportionally with dose, with low interindividual variability. At the 2-mg dose, pharmacokinetic parameters were broadly comparable between normal-weight and overweight/obese participants, and median time to peak concentration was approximately 2 h. Low-dose modified-release psilocybin provides predictable systemic exposure without measurable psychoactive effects across body weight categories. While these properties, together with preclinical evidence, are of potential interest in the context of metabolic regulation, the present findings remain preliminary. Further clinical studies are warranted to determine whether the favourable pharmacokinetic profile observed with controlled subperceptual psilocybin dosing translates into clinically relevant pharmacological and therapeutic effects in metabolic and liver-related disorders.",
-      "date": "2026-09-21",
-      "authors": [
-        "Signor Anna",
-        "Comai Stefano",
-        "Pasut Gianfranco"
-      ],
-      "doi": "10.1002/bcp.70839"
-    },
-    {
-      "title": "Methylenedioxymethamphetamine (MDMA)-related fatal poisoning in Australia, 2016 to 2025: Trends, characteristics and toxicology.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42767268/",
-      "source": "PubMed",
-      "abstract": "To determine: (1) Population rates of fatal methylenedioxymethamphetamine (MDMA)-related poisoning over the period 2016-2023, years with high closure rates in the National Coronial Information System (NDIS); (2) the case characteristics of known cases of fatal MDMA-related poisoning, 2016-2025; and (3) whether there have been changes in case characteristics of known fatal cases in the period pre-COVID (2016-2019), COVID (2020-2022) and post-COVID (2023-2025). Retrospective study of fatal MDMA-related poisonings in Australia retrieved from the NCIS, 2016-2025 [Correction added on 28 September 2026, after first online publication: In the previous sentence, \"NDIS\" has been changed to \"NCIS\".]. Australia-wide. 217 cases of fatal MDMA-related poisoning. Population rates, case characteristics, circumstances of death, toxicology, major autopsy findings. There was a statistically significant increasing trend in the population rate over 2016-2019 [annual percentage change (APC) = 61.52], and a statistically significant decreasing trend over 2019-2023 (APC = -26.72). The mean age was 33.5 years, and males comprised 170 cases (78.3%). In 179 cases (82.5%) the cause of death was attributed to multiple drug toxicity. The fatal incident occurred in a private setting in 171 cases (78.8%), with 16 (7.4%) occurring at a music festival. The median MDMA blood concentration was 0.41 mg/l (range 0.00-25.0 mg/l). Cases in which death was attributed solely to MDMA toxicity had a higher median MDMA concentration than multiple drug toxicity deaths (1.7 vs. 0.30 mg/l). Psychoactive drugs other than MDMA were detected in 199 cases (91.7%), most commonly other psychostimulants (147, 67.7%) and opioids (98, 45.2%). Cardiomegaly was diagnosed in 33 cases (16.6%) in which the heart was examined, and severe coronary artery disease in 27 (13.6%). There were no statistically significant differences across time periods in age, sex, substance use issues, injecting drug use, intentionality, MDMA concentrations or diagnoses of cardiomegaly. While death rates in Australia from methylenedioxymethamphetamine-related poisoning have declined from 2019, case characteristics have remained relatively stable.",
-      "date": "2026-09-21",
-      "authors": [
-        "Darke Shane",
-        "Duflou Johan",
-        "Chrzanowska Agata"
-      ],
-      "doi": "10.1111/add.70613"
-    },
-    {
-      "title": "Default mode network functional connectivity following treatment with conventional antidepressants and (es)ketamine in major depressive disorder: A systematic review.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42767040/",
-      "source": "PubMed",
-      "abstract": "Antidepressant treatments, including conventional antidepressants and (es)ketamine, may reverse default mode network (DMN) resting-state functional connectivity (rsFC) alterations related to major depressive disorder (MDD). Despite these agents having distinct initial action mechanisms, both likely share downstream effects that lead to structural and functional adaptations in MDD-related neural circuits. Examining the effects of these agents on DMN rsFC can provide insights into network-level effects, advance understanding of network-level mechanisms of treatment response, and generate hypotheses regarding potential neurobiological differences between MDD and treatment-resistant depression populations. A systematic search was performed to retrieve studies investigating changes in DMN rsFC following treatment with conventional antidepressants and (es)ketamine in MDD, including the association with clinical outcomes. Nineteen studies were included, 13 administered conventional antidepressants (N = 546), and six intravenous ketamine (N = 247). Conventional antidepressants were associated with heterogeneous changes in DMN rsFC, some of which related to clinical improvements. Conversely, ketamine mostly related with reductions in DMN rsFC, particularly in DMN-limbic connectivity. While interpretations of current findings are limited by heterogeneity in study populations, treatment regimens, and timing assessments, findings suggest that these agents exhibit mostly distinct patterns of DMN modulation, and that differential effects on DMN rsFC associate with clinical improvements.",
-      "date": "2026-09-17",
-      "authors": [
-        "Lima Constantino Juliana",
-        "de Jager Jesca E",
-        "Nuninga Jasper O"
-      ],
-      "doi": "10.1016/j.pscychresns.2026.112333"
-    },
-    {
-      "title": "An Open-Label, Dose-Escalation Trial of Psilocybin-Assisted Therapy for Bipolar II Depression.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42765891/",
-      "source": "PubMed",
-      "abstract": "",
-      "date": "2026-09-21",
-      "authors": [
-        "Downey Amanda E",
-        "Szigeti Balázs",
-        "Bradley Ellen R"
-      ],
-      "doi": "10.4088/JCP.25m16227"
     },
     {
       "title": "Pα+ Psychedelic Bulletin #232: Q2’26 Psychedelic Lobbying Update; DEA Again Moves to Schedule 5 Tryptamines; Oregon Backpedals Psilocybin Fee Hike",
@@ -576,7 +574,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2018-004480-31/CZ",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-09-28",
+      "date": "2026-09-29",
       "authors": [],
       "doi": ""
     },
@@ -585,7 +583,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2020-005037-32/CZ",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-09-28",
+      "date": "2026-09-29",
       "authors": [],
       "doi": ""
     },
@@ -594,7 +592,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2021-002909-10/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-09-28",
+      "date": "2026-09-29",
       "authors": [],
       "doi": ""
     },
@@ -603,7 +601,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2015-000550-37/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-09-28",
+      "date": "2026-09-29",
       "authors": [],
       "doi": ""
     },
@@ -612,7 +610,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2021-000041-40/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-09-28",
+      "date": "2026-09-29",
       "authors": [],
       "doi": ""
     },
@@ -621,7 +619,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2020-000829-55/DK",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-09-28",
+      "date": "2026-09-29",
       "authors": [],
       "doi": ""
     },
@@ -630,7 +628,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2020-002790-94/SE",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-09-28",
+      "date": "2026-09-29",
       "authors": [],
       "doi": ""
     },
@@ -639,7 +637,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2021-006200-33/FI",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-09-28",
+      "date": "2026-09-29",
       "authors": [],
       "doi": ""
     },
@@ -648,7 +646,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2019-004812-73/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-09-28",
+      "date": "2026-09-29",
       "authors": [],
       "doi": ""
     },
@@ -657,9 +655,132 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2022-002369-14/BE",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-09-28",
+      "date": "2026-09-29",
       "authors": [],
       "doi": ""
+    },
+    {
+      "title": "Blinding integrity in psychedelic research: Evidence from a comparative randomized controlled trial of psilocybin, MDMA, and methylphenidate in healthy volunteers",
+      "url": "https://doi.org/10.1016/j.euroneuro.2026.112879",
+      "source": "OpenAIRE",
+      "abstract": "Maintaining effective blinding is a major methodological challenge in psychedelic research. This study provides a comprehensive evaluation of blinding integrity in 120 healthy volunteers who received either psilocybin, MDMA, or methylphenidate (active placebo) in a double-blind, randomized controlled trial. Using a multi-level assessment incorporating forced-choice substance guesses, certainty ratings, decision factors, and subjective substance effects, the analyses characterize blinding integrity and its relation to the substance experience. Results indicate that overall blinding was insufficient, with psilocybin showing the highest rates of functional unblinding, MDMA moderate levels, and methylphenidate the lowest. As an active placebo, methylphenidate provided more effective blinding for MDMA than for psilocybin. Incorporating certainty levels of substance guesses revealed a more differentiated pattern, with lower functional unblinding rates. Decision factors and subjective substance experiences were associated with phenomenological substance effects. Prior substance experiences did not influence accuracy of forced-choice substance guesses. These findings provide empirical guidance for the design and reporting of blinding procedures in psychedelic trials and underscore the value of systematic, multi-level assessment of blinding integrity.",
+      "date": "2026-10-01",
+      "authors": [
+        "L. Belinger",
+        "N.M. Rieser",
+        "E.J.E. Engeli"
+      ],
+      "doi": "10.1016/j.euroneuro.2026.112879"
+    },
+    {
+      "title": "Evaluating psilocybin for the management of depression: a literature review",
+      "url": "https://doi.org/10.12968/bjmh.2025.0020",
+      "source": "OpenAIRE",
+      "abstract": "<jats:sec>                     <jats:title>Background/Aims</jats:title>                     <jats:p>Depression remains a significant public health concern worldwide and many individuals do not achieve adequate symptom relief from conventional treatments such as antidepressants and psychological therapies. Interest has therefore increased in alternative interventions, including psilocybin microdosing. This article aimed to critically review the current evidence regarding the use of psilocybin for managing symptoms of depression and consider the implications for mental health nursing practice.</jats:p>                   </jats:sec>                   <jats:sec>                     <jats:title>Methods</jats:title>                     <jats:p>A narrative literature review was undertaken. Search terms included ‘microdosing’, ‘psilocybin’, ‘psychedelics’, ‘mental health’ and ‘depression’. Studies published in the last 10 years involving human participants were considered. Following screening and application of inclusion and exclusion criteria, five articles with a total of six empirical studies were included in the review.</jats:p>                   </jats:sec>                   <jats:sec>                     <jats:title>Results</jats:title>                     <jats:p>Three themes emerged, including ethical risks and limitations of microdosing, demographic and participant characteristics and the impact of microdosing on mental health. Some studies reported improvements in mood, anx",
+      "date": "2026-08-02",
+      "authors": [
+        "Rachel Sinclair"
+      ],
+      "doi": "10.12968/bjmh.2025.0020"
+    },
+    {
+      "title": "Psychedelic and Medicinal Mushrooms: Potent Source of Active Metabolites and Medicines",
+      "url": "https://doi.org/10.2174/0115734072383313250602052217",
+      "source": "OpenAIRE",
+      "abstract": "<jats:sec>                     <jats:title>Background:</jats:title>                     <jats:p>Mushrooms, usually used for their nutritional and culinary properties, have recently gained attention for their medicinal effects, so that they are not only used as dietary foods but also as mycotherapeutics, nutraceuticals, and food supplements.</jats:p>                   </jats:sec>                   <jats:sec>                     <jats:title>Objective:</jats:title>                     <jats:p>The aim of this study is therefore to educate readers about various mushrooms with medicinal benefits. Methodology: A large number of English-language publications from different databases were analysed for this purpose.</jats:p>                   </jats:sec>                   <jats:sec>                     <jats:title>Results and Discussion:</jats:title>                     <jats:p>Medicinal mushrooms have been attributed various biological properties, e.g. prebiotic, antihyperlipidaemic, anti-allergic, antioxidant, anticancer, hepatoprotective, antioxidant, cytotoxic, antidiabetic, immunomodulatory, anti-inflammatory, and antimicrobial. These properties are due to the presence of various bioactive compounds presentin the mycelium and fruiting bodies. The biological effects of these bioactive compounds vary according to their chemical nature, and their distribution varies according to the type of mushroom. Psilocybin-containing mushrooms have been consumed in different parts of the world f",
+      "date": "2026-08-01",
+      "authors": [
+        "Priya Chaudhary",
+        "Pracheta Janmeda"
+      ],
+      "doi": "10.2174/0115734072383313250602052217"
+    },
+    {
+      "title": "The role of therapeutic alliance in psilocybin treatment for treatment-resistant depression: A post hoc path analysis",
+      "url": "https://doi.org/10.1016/j.jad.2026.121662",
+      "source": "OpenAIRE",
+      "abstract": "<p>Introduction The contribution of patient support to psilocybin's antidepressant effects remains uncertain. Methods Relationships between therapeutic alliance (Scale to Assess Therapeutic Relationship-Patient version; STAR-P), psychedelic experience (Five-Dimensional Altered States of Consciousness Questionnaire and Emotional Breakthrough Inventory; 5D-ASC and EBI) and clinical outcomes (Montgomery-Åsberg Depression Rating Scale; MADRS) were explored using correlation and path analysis for individuals with treatment-resistant depression receiving 25 mg psilocybin with monitoring and support ( N = 79). Results Change from Baseline to Week 3 MADRS scores showed weaker correlations with pre-dosing therapeutic alliance (−0.178) than with measures of the psychedelic experience: EBI (−0.637), Oceanic Boundlessness (−0.508), and Visual Restructuralization (−0.516). Path analysis showed no nominally significant direct effects of therapeutic alliance on Week 3 MADRS scores, but there were nominally significant effects of therapeutic alliance on psychedelic experience (Oceanic Boundlessness ( β = 0.28), Visual Restructuralization ( β = 0.27), and Auditory Alterations ( β = 0.25)). Only one indirect effect of therapeutic alliance on clinical outcome reached nominal significance (via Visual Restructuralization; β = −0.15). Stronger effects were seen on clinical outcomes for psychedelic experience (EBI ( β = −0.59), Oceanic Boundlessness ( β = −0.53), Visual Restructuralization ( β = −0",
+      "date": "2026-08-01",
+      "authors": [
+        "Goodwin, Guy M.",
+        "Aaronson, Scott T.",
+        "Alvarez, Oscar"
+      ],
+      "doi": "10.1016/j.jad.2026.121662"
+    },
+    {
+      "title": "A cross-national comparison of nonmedical and medical use of psychedelic drugs in the international cannabis policy study",
+      "url": "https://doi.org/10.1016/j.drugpo.2026.105348",
+      "source": "OpenAIRE",
+      "abstract": "Background We know little about the extent psychedelic substances are consumed therapeutically and/or discussed with medical professionals despite renewed global interest in these substances. Methods We examined self-reported responses from the 2023 International Cannabis Policy Study (ICPS) in repeated cross-sectional surveys in Canada, the United States, Australia, and New Zealand. The survey included questions on lifetime, past year, and past month use of psilocybin, LSD, MDMA, and ketamine. It inquired about respondents’ discussions with medical professionals, their self-reported medical use, and related adverse events. We estimate the mean proportion rate for each of these using logistic regression methods that adjust for demographics, country, and sampling weights. Findings Estimated results suggest nineteen per cent of all ICPS respondents reported lifetime use of one of the four substances. Psilocybin was the most commonly estimated to be used in one’s lifetime and in the past year, followed by LSD and MDMA. Estimated prevalences of ever using psilocybin were higher among respondents from Canada (16.3%, CI: 15.6–16.9%) than the USA (13.0%, CI: 12.3–13.6%) and New Zealand (12.1%, CI: 10.4–13.8%). Estimated rates of psilocybin ever use in Australia were significantly lower (7.8%, CI: 6.8–8.8%). An estimated 10–20% of respondents who report ever-use of a psychedelic asked their medical provider about medical use, and over a third who had used in the past year reported ex",
+      "date": "2026-08-01",
+      "authors": [
+        "Myfanwy Graham",
+        "Yimin Ge",
+        "Rosalie Liccardo Pacula"
+      ],
+      "doi": "10.1016/j.drugpo.2026.105348"
+    },
+    {
+      "title": "The Experience-Trajectory Framework: Substance-Specific Risk Stratification for Psychedelic Preparation and Aftercare Beyond Set and Setting",
+      "url": "https://doi.org/10.36948/ijfmr.2026.v08i04.84804",
+      "source": "OpenAIRE",
+      "abstract": "<jats:p>Set, setting, preparation, and integration are widely recognized as important dimensions of psychedelic experiences. However, these concepts often remain too general to specify how preparation, containment, and aftercare should differ across substances, routes of administration, acute duration, residual effects, bodily condition, and interaction exposure. This article proposes the Experience-Trajectory Framework for psychedelic preparation and aftercare. The framework focuses on psilocybin, LSD, mescaline, vaporized N,N-DMT, vaporized 5-MeO-DMT, and ayahuasca or oral DMT combined with monoamine oxidase inhibition. Its central claim is that preparation and aftercare should be stratified by two primary variables: the Experience-Trajectory Profile of the psychedelic state and the participant’s Baseline Risk State before exposure. Experience-Trajectory Profile refers to onset, peak phase, acute duration, residual effects, recovery window, and the earliest appropriate timing for interpretation or integration. Baseline Risk State refers to the participant’s acute physiological and pharmacological condition, including sleep, hydration, cardiovascular stability, gastrointestinal status, glucose stability, psychological stability, and interaction load. This article is a conceptual framework paper, not a clinical protocol or medication-discontinuation guide. It provides a stratification model that links substance-specific experience trajectories with baseline physiological and ",
+      "date": "2026-07-31",
+      "authors": [
+        "Elias Rubenstein"
+      ],
+      "doi": "10.36948/ijfmr.2026.v08i04.84804"
+    },
+    {
+      "title": "Childhood trauma and psychological outcomes following psychedelic use: a scoping review",
+      "url": "https://doi.org/10.1038/s44184-026-00233-2",
+      "source": "OpenAIRE",
+      "abstract": "<jats:title>Abstract</jats:title>                   <jats:p>Research examining psychological outcomes following psychedelic use has grown substantially, yet the role of childhood trauma in shaping these responses remains insufficiently understood. This scoping review mapped the literature examining childhood trauma in relation to post-psychedelic psychological outcomes. Thirty-four sources met inclusion criteria and investigated substances including psilocybin, ayahuasca, and MDMA across clinical, ceremonial, naturalistic, and guided non-clinical contexts. The evidence primarily relied on retrospective self-report, exhibited considerable heterogeneity in study design and trauma operationalisation, and included minimal representation from non-Western or Indigenous contexts. Findings were heterogeneous: some sources reported reductions in trauma-related symptoms in maltreated populations, others found no association between childhood trauma exposure and psychological outcomes, and some identified increased vulnerability to post-acute psychedelic difficulties. Qualitative accounts frequently described resurfacing trauma-related memories accompanied by both psychological growth and distress. Prospective, trauma-informed, and culturally-inclusive research is needed to clarify risks and therapeutic potential for childhood trauma-exposed populations.</jats:p>",
+      "date": "2026-07-30",
+      "authors": [
+        "Lorraine Li",
+        "Paige Seath",
+        "Nadav Liam Modlin"
+      ],
+      "doi": "10.1038/s44184-026-00233-2"
+    },
+    {
+      "title": "Identifying factors that contribute to the behavioral effects of psilocybin in preclinical mouse models",
+      "url": "https://doi.org/10.64898/2026.07.24.740586",
+      "source": "OpenAIRE",
+      "abstract": "<jats:title>ABSTRACT</jats:title>                 <jats:p>Psychedelic drugs offer a potentially promising avenue for novel therapeutics for the treatment of psychiatric conditions, including for mood and anxiety disorders. Emerging clinical studies have prompted increased preclinical research into mechanisms of action. However, post-acute behavioral outcomes in rodents remain inconsistent and difficult to reproduce across laboratories. To address this, we collected a large dataset of behavioral responses to psilocybin in mice (N=693) and used data-driven analyses to identify biological and experimental factors that modulated behavioral readouts. We examined the effects of sex, age, strain, stress protocol, and 5-HT1B signaling on the response to a single high dose of psilocybin measured in acute (head twitch responding and locomotion) or post-acute (sucrose preference, elevated plus maze, novelty-suppressed feeding) behavioral outcomes. We found that psilocybin displays a robust acute behavioral response and a more variable post-acute behavioral profile with a most robust response in sucrose preference. Sex, stress model, and 5-HT1BR activation emerged as key modulators of post-acute antidepressant-like and anxiolytic effects. Random forest classification was narrowly able to predict drug treatment based on post-acute behavioral outcomes and biological and experimental factors. These findings suggest that the heterogeneity seen in the response to psilocybin in mice reflects m",
+      "date": "2026-07-28",
+      "authors": [
+        "Sixtine Fleury",
+        "Luke J. Chang",
+        "Katherine M. Nautiyal"
+      ],
+      "doi": "10.64898/2026.07.24.740586"
+    },
+    {
+      "title": "The “dark magic mushroom” co-produces amatoxins and psilocybin",
+      "url": "https://doi.org/10.64898/2026.07.17.739257",
+      "source": "OpenAIRE",
+      "abstract": "<jats:title>Abstract</jats:title>                 <jats:p>                   The most famous chemicals produced by mushrooms are the psychedelic compound psilocybin from “magic mushrooms” and amatoxins from deadly poisonous mushrooms. These compounds are known to occur in multiple phylogenetically disjunct fungal lineages but have never been shown to co-occur within a single species. Here we show that the “dark magic mushroom”                   <jats:italic>Galerina indica</jats:italic>                   produces both psilocybin and amatoxins. Mass spectrometry revealed psilocybin and amatoxins in mushroom tissues, and genomic analyses identified corresponding biosynthetic genes. Phylogenetic analyses suggest that                   <jats:italic>G. indica</jats:italic>                   acquired psilocybin biosynthesis via horizontal gene transfer after amatoxin biosynthesis was already established, and that psilocybin biosynthesis was acquired twice independently within                   <jats:italic>Galerina</jats:italic>                   . Intriguingly, acquisition of psilocybin biosynthesis in                   <jats:italic>G. indica</jats:italic>                   may have coincided with reduced amatoxin potency. These findings reveal how horizontal gene transfer can combine powerful bioactive systems in a single species, potentially altering the ecological roles of both compound classes and the evolutionary fitness of the species.                 </jats:p>",
+      "date": "2026-07-22",
+      "authors": [
+        "Andrew R. Kunik",
+        "Michael W. Christopher",
+        "Benjamin Lemmond"
+      ],
+      "doi": "10.64898/2026.07.17.739257"
+    },
+    {
+      "title": "Predictive Processing, Psychedelic Spirituality, and Neurophenomenology",
+      "url": "https://doi.org/10.1093/oxfordhb/9780192844064.013.41",
+      "source": "OpenAIRE",
+      "abstract": "<jats:title>Abstract</jats:title>                   <jats:p>Psychedelic substances such as psilocybin, LSD, ayahuasca, DMT, or mescaline, when employed with knowledge and skill, can sometimes lead to profoundly meaningful and transformative subjective experiences. This chapter discusses how the predictive processing theory can further our understanding of these deeply meaningful spiritual psychedelic experience. It makes a more specific proposal that the predictive processing theory of psychedelics can contribute to the neurophenomenology research program. The chapter proposes that phenomenological reflection on the psychedelic experience can be used as a method by subjects for providing first-person descriptions of how the different phenomenological structures of their experience are altered during, and after, their acute psychedelic experience. What predictive processing adds is a further mathematical way of knowing consciousness that can serve as a neutral vocabulary for creating generative passages between neurobiology and phenomenology that allows neuroscientists to make sense of how psychedelics perturb the structures of first-person experience in ways that can lead to profoundly meaningful spiritual experiences.</jats:p>",
+      "date": "2026-07-22",
+      "authors": [
+        "Julian Kiverstein"
+      ],
+      "doi": "10.1093/oxfordhb/9780192844064.013.41"
     }
   ]
 }

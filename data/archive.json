@@ -1,6 +1,77 @@
 {
   "items": [
     {
+      "title": "Adverse Health Outcomes of Psilocybin, LSD, MDMA, Ibogaine, and 5-MeO-DMT.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42809289/",
+      "source": "PubMed",
+      "date": "2026-09-01",
+      "authors": [
+        "Simonsson Otto",
+        "Bradley Melissa",
+        "Black Joshua C"
+      ],
+      "doi": "10.1001/jamanetworkopen.2026.36756",
+      "summary_en": "Cross-sectional study examining adverse health outcomes associated with recent use of psilocybin, LSD, MDMA, ibogaine, and 5-MeO-DMT using a nationally representative sample of US adults.",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "observational",
+      "substances": [
+        "psilocybin",
+        "lsd",
+        "mdma",
+        "ibogaine",
+        "other"
+      ],
+      "added_at": "2026-09-30T12:51:39.849882+00:00"
+    },
+    {
+      "title": "Moving beyond 5-HT",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42809102/",
+      "source": "PubMed",
+      "date": "2026-09-29",
+      "authors": [
+        "Suresh Praneet",
+        "Kins Josie",
+        "Levkovskyy Lex"
+      ],
+      "doi": "10.1007/s00213-026-07170-0",
+      "summary_en": "Study analyzed binding profiles of 21 psychedelics across 19 neurotransmitter receptors using semantic analysis of 4,496 experience reports to identify receptor-effect associations beyond serotonin (5-HT). Machine learning approach aims to clarify mechanisms underlying therapeutic effects and diverse psychoactive properties, supporting clinical development.",
+      "notable": true,
+      "notable_reason": "Novel computational approach integrating semantic analysis of 4,496 experience reports with receptor binding data across 21 psychedelic drugs to identify non-serotonin mechanisms—methodologically innovative neuroscience contribution.",
+      "study_type": "preclinical",
+      "substances": [
+        "psilocybin",
+        "lsd",
+        "mdma",
+        "ketamine",
+        "ayahuasca",
+        "ibogaine",
+        "mescaline",
+        "other"
+      ],
+      "added_at": "2026-09-30T12:51:39.849882+00:00"
+    },
+    {
+      "title": "Treatments for Individuals with Suicidal Thoughts: Use, Indications, and Helpfulness.",
+      "url": "https://doi.org/10.1016/j.jadr.2026.101165",
+      "source": "Europe PMC",
+      "date": "2026-09-07",
+      "authors": [
+        "Ballard ED",
+        "Hafermann H",
+        "Hurst K"
+      ],
+      "doi": "10.1016/j.jadr.2026.101165",
+      "summary_en": "Follow-up study of 211 mood disorder patients previously enrolled in NIH research (1-20 years post-participation). Participants with suicidal ideation at follow-up showed similar clinical outcomes to those without, but more frequently used psychiatric medications or ketamine. History of suicide attempt predicted higher rates of subsequent attempts and hospitalization. Few differences in perceived treatment helpfulness between groups.",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "observational",
+      "substances": [
+        "ketamine"
+      ],
+      "added_at": "2026-09-30T12:51:39.849882+00:00"
+    },
+    {
       "title": "Are psychedelics anti-inflammatory? A systematic review and meta-analysis of studies examining the immunomodulatory effects of serotonergic psychedelics.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42805420/",
       "source": "PubMed",

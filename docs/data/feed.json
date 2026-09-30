@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-29T13:12:56.658536+00:00",
+  "generated_at": "2026-09-30T12:52:31.699127+00:00",
   "items": [
     {
       "title": "Blinding integrity in psychedelic research: Evidence from a comparative randomized controlled trial of psilocybin, MDMA, and methylphenidate in healthy volunteers",
@@ -32,6 +32,54 @@
         "mdma"
       ],
       "added_at": "2026-07-09T10:03:12.956794+00:00"
+    },
+    {
+      "title": "Moving beyond 5-HT",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42809102/",
+      "source": "PubMed",
+      "date": "2026-09-29",
+      "authors": [
+        "Suresh Praneet",
+        "Kins Josie",
+        "Levkovskyy Lex"
+      ],
+      "doi": "10.1007/s00213-026-07170-0",
+      "summaries": {
+        "en": "Study analyzed binding profiles of 21 psychedelics across 19 neurotransmitter receptors using semantic analysis of 4,496 experience reports to identify receptor-effect associations beyond serotonin (5-HT). Machine learning approach aims to clarify mechanisms underlying therapeutic effects and diverse psychoactive properties, supporting clinical development.",
+        "sv": "Studie analyserade bindningsprofiler för 21 psykedelika över 19 neurotransmittorreceptorer med semantisk analys av 4 496 erfarenhetsrapporter för att identifiera receptor-effektsamband bortom serotonin (5-HT). Maskininlärningsmetod syftar till att klargöra mekanismer bakom terapeutiska effekter och psykoaktiva egenskaper.",
+        "no": "Studie analyserte bindingsprofiler for 21 psykedelika over 19 neurosmittereceptorer ved hjelp av semantisk analyse av 4 496 erfaringsrapporter for å identifisere receptor-effektsamband utover serotonin (5-HT). Maskinlæringsmetoden har til formål å avklare mekanismer bak terapeutiske effekter og psykoaktive egenskaper.",
+        "da": "Studie analyserede bindingsprofiler for 21 psykedelika på tværs af 19 neurotransmitterreceptorer ved hjælp af semantisk analyse af 4 496 erfaringsrapporter for at identificere receptor-effektforbindelser ud over serotonin (5-HT). Maskinlæringsmetoden sigter mod at præcisere mekanismer bag terapeutiske effekter.",
+        "fi": "Tutkimus analysoi 21 psykedeelisen aineen sitoutumisprofiileja 19 neurotransmitterireceptorille semanttisen analyysin avulla, käyttäen 4 496 kokemuskertomusta, tavoitteenaan tunnistaa reseptori-vaikutusyhteyksiä serotoniinin (5-HT) lisäksi. Koneoppimismenetelmä pyrkii selventämään terapeuttisten vaikutusten ja psykoaktiivisten ominaisuuksien mekanismeja.",
+        "is": "Rannsóknin greindi bindipróf 21 psýkedelíska efna á 19 taugaflutningsstöðvum með merkingargreiningu á 4 496 reynsluskýrslum til að bera kennsl á samböndum milli receptora og áhrifa umfram serotonín (5-HT). Vélanámsaðferðin miðar að því að skýra mekanisma meðferðaráhrifa.",
+        "et": "Uuringus analüüsiti 21 psühhedeelikumi seondumisprofiile 19 neurotransmitterireceptorile semantilise analüüsi abil, kasutades 4 496 kogemlusaruannet, et tuvastada retseptori-efekti seosed serotoniin (5-HT) ületamisel. Masinõppe meetod eesmärgib selgitada terapeutiliste efektide mehhanisme.",
+        "lv": "Pētījumā analizēti 21 psihedēlika saistīšanās profili uz 19 neirotransmiteru receptoriem, izmantojot semantisku analīzi 4 496 pieredzes ziņojumos, lai identificētu receptora-efekta saistības ārpus serotonīna (5-HT). Mašīnmācības metode ir paredzēta terapeitisko efektu mekanismu noskaidrošanai.",
+        "lt": "Tyrime analizuoti 21 psichedelinio vaisto rišimosi profiliai prie 19 neurotransmiterio receptorių, naudojant semantinę analizę iš 4 496 patirties ataskaitų, siekiant nustatyti receptorių ir efekto sąryšius, peržengiant serotoninį (5-HT). Mašininio mokymosi metodas skirtas terapeuitinio poveikio mechanizmams aiškinti."
+      },
+      "notable": true,
+      "notable_reasons": {
+        "en": "Novel computational approach integrating semantic analysis of 4,496 experience reports with receptor binding data across 21 psychedelic drugs to identify non-serotonin mechanisms—methodologically innovative neuroscience contribution.",
+        "sv": "Novel computational approach integrating semantic analysis of 4,496 experience reports with receptor binding data across 21 psychedelic drugs to identify non-serotonin mechanisms—methodologically innovative neuroscience contribution.",
+        "no": "Novel computational approach integrating semantic analysis of 4,496 experience reports with receptor binding data across 21 psychedelic drugs to identify non-serotonin mechanisms—methodologically innovative neuroscience contribution.",
+        "da": "Novel computational approach integrating semantic analysis of 4,496 experience reports with receptor binding data across 21 psychedelic drugs to identify non-serotonin mechanisms—methodologically innovative neuroscience contribution.",
+        "fi": "Novel computational approach integrating semantic analysis of 4,496 experience reports with receptor binding data across 21 psychedelic drugs to identify non-serotonin mechanisms—methodologically innovative neuroscience contribution.",
+        "is": "Novel computational approach integrating semantic analysis of 4,496 experience reports with receptor binding data across 21 psychedelic drugs to identify non-serotonin mechanisms—methodologically innovative neuroscience contribution.",
+        "et": "Novel computational approach integrating semantic analysis of 4,496 experience reports with receptor binding data across 21 psychedelic drugs to identify non-serotonin mechanisms—methodologically innovative neuroscience contribution.",
+        "lv": "Novel computational approach integrating semantic analysis of 4,496 experience reports with receptor binding data across 21 psychedelic drugs to identify non-serotonin mechanisms—methodologically innovative neuroscience contribution.",
+        "lt": "Novel computational approach integrating semantic analysis of 4,496 experience reports with receptor binding data across 21 psychedelic drugs to identify non-serotonin mechanisms—methodologically innovative neuroscience contribution."
+      },
+      "relevance_score": 4,
+      "study_type": "preclinical",
+      "substances": [
+        "psilocybin",
+        "lsd",
+        "mdma",
+        "ketamine",
+        "ayahuasca",
+        "ibogaine",
+        "mescaline",
+        "other"
+      ],
+      "added_at": "2026-09-30T12:51:39.849882+00:00"
     },
     {
       "title": "Are psychedelics anti-inflammatory? A systematic review and meta-analysis of studies examining the immunomodulatory effects of serotonergic psychedelics.",
@@ -1659,6 +1707,37 @@
       "added_at": "2026-09-24T12:02:14.493884+00:00"
     },
     {
+      "title": "Treatments for Individuals with Suicidal Thoughts: Use, Indications, and Helpfulness.",
+      "url": "https://doi.org/10.1016/j.jadr.2026.101165",
+      "source": "Europe PMC",
+      "date": "2026-09-07",
+      "authors": [
+        "Ballard ED",
+        "Hafermann H",
+        "Hurst K"
+      ],
+      "doi": "10.1016/j.jadr.2026.101165",
+      "summaries": {
+        "en": "Follow-up study of 211 mood disorder patients previously enrolled in NIH research (1-20 years post-participation). Participants with suicidal ideation at follow-up showed similar clinical outcomes to those without, but more frequently used psychiatric medications or ketamine. History of suicide attempt predicted higher rates of subsequent attempts and hospitalization. Few differences in perceived treatment helpfulness between groups.",
+        "sv": "Uppföljningsstudie av 211 patienter med stämningsrubbningar från tidigare NIH-forskning (1-20 år efter deltagande). Deltagare med suicidal ideation vid uppföljning visade liknande kliniska resultat som de utan, men använde oftare psykiatriska läkemedel eller ketamin. Historia av självmordsförsök förutsade högre frekvens av senare försök och sjukhusvistelse.",
+        "no": "Oppfølgingsstudie av 211 pasienter med stemningslidelser fra tidligere NIH-forskning (1-20 år etter deltakelse). Deltakere med suicidal ideasjon ved oppfølging viste lignende kliniske utfall som de uten, men brukte oftere psykiatriske legemidler eller ketamin. Tidligere selvmordsforsøk forutsa høyere forekomst av senere forsøk og sykehusinnleggelse.",
+        "da": "Opfølgningsstudie af 211 patienter med humørsygdomme fra tidligere NIH-forskning (1-20 år efter deltagelse). Deltagere med suicidal ideation ved opfølgning viste lignende kliniske resultater som dem uden, men brugte oftere psykiatriske lægemidler eller ketamin. Historie med selvmordsforsøg forudsagde højere hyppighed af senere forsøg og hospitalsindlæggelse.",
+        "fi": "Seurantastudie 211 mielialahäiriöisen potilaan kanssa, jotka osallistuivat aiempaan NIH-tutkimukseen (1-20 vuotta osallistumisen jälkeen). Osallistujilla, joilla oli itsemurhaa koskevia ajatuksia seurannassa, oli vastaavat kliiniset tulokset kuin ilman sitä, mutta he käyttivät useammin psykiatrisia lääkkeitä tai ketamiinia. Edelliset itsemurhayritykset ennustivat myöhempien yritysten ja sairaalahoitoon joutumisen korkeampaa esiintyvyyttä.",
+        "is": "Eftirfylgirannsókn á 211 sjúklingum með tilfinningalegum truflunum frá fyrri rannsóknum hjá National Institutes of Health (1-20 ár eftir þátttöku). Þátttakendur með sjálfsmorðshugsanir við eftirfylgni sýndu svipaðar klínískar niðurstöður og þeir án hennar, en notuðu oftar geðlyf eða ketamín. Saga um sjálfsmorðstilraun spáði fyrir um meiri tíðni síðari tilrauna og sjúkrahúsinnlögn.",
+        "et": "Järeltuudestudy 211 meeleoluhäiretega patsiendiga, kes osalesid varem NIH uuringutes (1-20 aastat pärast osalemist). Osalejad, kellel oli järelkontrollis enesetapuideeid, näitasid sarnaseid kliinilisi tulemusi kui ilma nendeta, kuid kasutasid sagedamini psühhiaatriaalseid ravimeid või ketamiini. Eelmised enesetapukatked ennustasid hilisemate katsete ja haiglasse paigutamise kõrgemat esinemissagedust.",
+        "lv": "Izsekošanas pētījums ar 211 pacienti ar noskaņojuma traucējumiem, kuri iepriekš piedalījās NIH pētniecībā (1-20 gadus pēc dalības). Dalībnieki ar pašnāvnieciskiem doumām izsekošanas laikā parādīja līdzīgus klīniskos rezultātus salīdzinājumā ar tiem bez tām, bet biežāk lietoja psihiatriskos zāļus vai ketamīnu. Iepriekšēji pašnāvniecības mēģinājumi prognozēja augstāku vēlāku mēģinājumu un hospitalizācijas līmeni.",
+        "lt": "Stebėjimo tyrimas su 211 pacientų, turinčių nuotaikos sutrikimai, kurie anksčiau dalyvavo NIH tyrimuose (1-20 metų po dalyvavimo). Dalyviai su savižudybės idėjomis stebėjimo metu parode panašius klininius rezultatus nei be jų, bet dažniau vartojo psichiatrines vaistus arba ketaminą. Ankstesni savižudybės bandymai numatė aukštesnį vėlesnių bandymų ir hospitalizacijos dažnį."
+      },
+      "notable": false,
+      "notable_reasons": null,
+      "relevance_score": 3,
+      "study_type": "observational",
+      "substances": [
+        "ketamine"
+      ],
+      "added_at": "2026-09-30T12:51:39.849882+00:00"
+    },
+    {
       "title": "Beyond symptom reduction: Intranasal esketamine is associated with improved quality of life in treatment-resistant depression.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42731235/",
       "source": "PubMed",
@@ -1920,67 +1999,6 @@
         "other"
       ],
       "added_at": "2026-09-07T12:51:11.192589+00:00"
-    },
-    {
-      "title": "Metabolomic correlates of intravenous racemic ketamine in treatment-resistant major depressive disorder: the Bio-K/NNDC multicenter trial.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42702010/",
-      "source": "PubMed",
-      "date": "2026-09-06",
-      "authors": [
-        "Singh Balwinder",
-        "MahmoudianDehkordi Siamak",
-        "Vande Voort Jennifer L"
-      ],
-      "doi": "10.1080/15622975.2026.2724510",
-      "summaries": {
-        "en": "Bio-K trial (n=69, open-label, multisite) investigated metabolomic changes following intravenous racemic ketamine in treatment-resistant depression. Patients received three 0.5 mg/kg infusions; MADRS scores improved from 27.8 to 11.1 post-treatment. Metabolomic profiling identified broad alterations in mitochondrial function, neurotransmitter pathways, and neuroendocrine signalling correlated with ketamine exposure. Findings represent metabolic correlates rather than validated predictors of antidepressant response.",
-        "sv": "Bio-K-studien (n=69, öppen design, flerscenters) undersökte metabolomiska förändringar efter intravenös racemisk ketamin vid behandlingsresistent depression. Patienter fick tre infusioner à 0,5 mg/kg; MADRS-poäng förbättrades från 27,8 till 11,1 efter behandling. Metabolomisk profilering identifierade breda förändringar i mitokondriefunktion, neurotransmittörvägarna och neuroendokrin signalering korrelerad med ketaminexponering. Resultaten representerar metaboliska korrelater snarare än validerade prediktorer för antidepressiv effekt.",
-        "no": "Bio-K-studien (n=69, åpen design, flersenter) undersøkte metabolomiske endringer etter intravenøs racemisk ketamin ved behandlingsresistent depresjon. Pasienter mottok tre infusjoner à 0,5 mg/kg; MADRS-skårer forbedret seg fra 27,8 til 11,1 etter behandling. Metabolomisk profilering identifiserte brede endringer i mitokondriefunksjon, nevrotransmitterveger og neuroendokrin signalering korrelert med ketamineksponering. Funnene representerer metabolske korrelatorer snarere enn validerte prediktorer for antidepressiv respons.",
-        "da": "Bio-K-studien (n=69, åben design, multisite) undersøgte metabolomiske ændringer efter intravenøs racemisk ketamin ved behandlingsresistent depression. Patienter modtog tre infusioner à 0,5 mg/kg; MADRS-score blev forbedret fra 27,8 til 11,1 efter behandling. Metabolomisk profilering identificerede brede ændringer i mitokondriefunktion, neurotransmittersignalering og neuroendokrin signalering korreleret med ketamineksponering. Resultaterne repræsenterer metabolske korrelater snarere end validerede prediktorer for antidepressiv respons.",
-        "fi": "Bio-K-tutkimus (n=69, avoin monipaikkaistutkimus) tutki metaboloomisia muutoksia rasemisen ketamiinin intravenöösisen annostelun jälkeen hoitoresistenteissa masennuksissa. Potilaat saivat kolme infuusiota (0,5 mg/kg); MADRS-pisteet paranivat 27,8:sta 11,1:een hoidon jälkeen. Metaboloomisen profiloinnin avulla tunnistettiin laajat muutokset mitokondrioiden toiminnassa, neurotransmitteritavoissa ja neuroendokriinisessa signaloinnissa, jotka korreloivat ketamiinin altistumisen kanssa. Tulokset edustavat metabolisia korrelaatteja eikä validoituja antidepressiivisen vasteen ennustajia.",
-        "is": "Bio-K-rannsóknin (n=69, opinn hönnun, marglóð) kannaði metabolómískar breytingar eftir intravenösa racemíska ketamín í meðhöndlun-ónæmri þunglyndi. Sjúklingar fengu þrjú innkoma (0,5 mg/kg); MADRS-stig batnaðu úr 27,8 í 11,1 eftir meðferð. Metabolómísk prófun auðkenndi víðtækar breytingar í starfsemi mítókondría, taugaboðefnaefnavegum og neuroendókrinri merkingarflutningi sem tengdust ketamínútsetningi. Niðurstöðurnar tákna metabolískar tengingar frekar en staðfestar spár fyrir andslægðarsvörun.",
-        "et": "Bio-K uuring (n=69, avatud disain, mitmelinnuline) uuris metaboloomilisi muutusi intraveenooselt racemilise ketamiini manustamise järel ravile resistentse depressiooni korral. Patsiendid said kolm infusiiooni (0,5 mg/kg); MADRS-skoor paranes 27,8-lt 11,1-le pärast ravi. Metaboloomiline profiileerimine tuvastas ulatuslikud muutused mitokondrite funktsioonis, neurotransmitterite radades ja neuroendokriinses signaliseerimises, mis korreleerusid ketamiini ekspositsiooniga. Tulemused esindavad metaboloomilisi korrelaate pigem kui valideeritud antiдепressiivsete vastuste ennustajaid.",
-        "lv": "Bio-K pētījums (n=69, atvērta dizaina, vairāku vietu) pēta metabolomiskās izmaiņas pēc intravenozas racemiskās ketamīna ievadīšanas ar ārstēšanu rezistentā depresijā. Pacienti saņēma trīs infūzijas (0,5 mg/kg); MADRS rādītāji uzlabojās no 27,8 līdz 11,1 pēc ārstēšanas. Metabolomiskā profilēšana identificēja plašas izmaiņas mitohondriju funkcijā, neirotransmiteru ceļos un neuroendokrīnajā signalizācijā, kas korelē ar ketamīna ekspozīciju. Rezultāti attēlo metaboliskos korelātus, nevis validētus antidepresīvās atbildes prognozētājus.",
-        "lt": "Bio-K tyrimas (n=69, atviras dizainas, daugiacentris) ištyrė metabolominius pokyčius po intraveninio raceminio ketamino, naudoto gydant atspariąją depresijoje. Pacientai gavo tris infuzijas (0,5 mg/kg); MADRS balas pagerėjo nuo 27,8 iki 11,1 po gydymo. Metabolominis profiliavimai nustatė plačius mitochondrijų funkcijos, neurotransmiterių takų ir neuroendokrininės signalizacijos pokyčius, koreliuojančius su ketamino ekspozicija. Rezultatai atspindi metabolinius koreliatus, o ne patvirtintus antidepresacinio atsako prognostikatorius."
-      },
-      "notable": false,
-      "notable_reasons": null,
-      "relevance_score": 4,
-      "study_type": "observational",
-      "substances": [
-        "ketamine"
-      ],
-      "added_at": "2026-09-07T12:51:11.192589+00:00"
-    },
-    {
-      "title": "Psilocybin as an emerging anxiolytic: mechanisms, evidence, and open questions.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42701111/",
-      "source": "PubMed",
-      "date": "2026-09-06",
-      "authors": [
-        "Konstantinou Gerasimos N",
-        "Kloiber Stefan"
-      ],
-      "doi": "10.1038/s41386-026-02551-7",
-      "summaries": {
-        "en": "Review examining psilocybin's potential as an anxiolytic agent. The article explores the underlying mechanisms of action, synthesizes current evidence from clinical and preclinical studies, and identifies key gaps in our understanding. Psilocybin shows promise in anxiety treatment, though questions remain regarding optimal dosing, long-term effects, and mechanisms of anxiolytic action.",
-        "sv": "Översikt av psilocybins potential som ängstsänkande medel. Artikeln granskar verkningsmekanism, sammanfattar befintliga kliniska och prekliniska studier, och identifierar kunskapsluckor. Psilocybin visar lovande resultat för ängstsymtom, men viktiga frågor återstår om optimal dosering, långtidseffekter och verkningsmekanismer.",
-        "no": "Oversikt av psilocybins potensial som angstdempende stoff. Artikkelen undersøker virkningsmekanismer, oppsummerer eksisterende kliniske og prekliniske studier, og identifiserer kunnskapshull. Psilocybin viser lovende resultater for angstlidelser, men spørsmål gjenstår om optimal dosering, langtidseffekter og virkningsmekanismer.",
-        "da": "Oversigt over psilocybins potentiale som angstdæmpende middel. Artiklen udforsker virkningsmekanismer, opsummerer nuværende kliniske og prækliniske studier og identificerer vidensgab. Psilocybin viser lovende resultater for angstforstyrrelser, men spørgsmål forbliver om optimal dosering, langsigtede effekter og virkningsmekanismer.",
-        "fi": "Katsaus psilosybiinin potentiaalista ahdistusta lievittävänä aineena. Artikkeli tarkastelee vaikutusmekanismeja, yhteenveto nykyisistä kliinisistä ja prekliinisistä tutkimuksista sekä tunnistaa tietoaukot. Psilosybiini osoittaa lupaavia tuloksia ahdistuneisuushäiriöissä, mutta optimaalisesta annostuksesta, pitkäaikaisvaikutuksista ja vaikutusmekanismeista jää avoimia kysymyksiä.",
-        "is": "Yfirlit um möguleika psilósýbíns sem kvíðadrífandi efnis. Greinin kannar verkunarkerfi, tekur saman núverandi klínísk og forklinís rannsóknir og greinir þekkingarhlé. Psilósýbín sýnir loforðandi árangur við kvíðaraskanir, en spurningar standa yfir um bestu skammta, langtímaáhrif og verkunarkerfi.",
-        "et": "Ülevaade psilotsibiini potentsiaalist ärevuse leevendajana. Artikkel uurib toimemehhanisme, kokkuvõtted olemasolevatest kliiniliste ja prekliiniliste uuringute ning tuvastab teadmistevahed. Psilotsibiini näitab lubavaid tulemusi ärevushäirete puhul, kuid avatud on küsimused optimaalse annustamise, pikaajalistel mõjude ja toimemehhanismide kohta.",
-        "lv": "Pārskats par psilocībina potenciālu kā trauksmes mazinošam vielas. Raksts pēta darbības mehānismus, apkopo pašreizējos klīniskos un preklīniskos pētījumus un identificē zināšanu nepilnības. Psilocībins rāda solīgus rezultātus trauksmes traucējumos, taču paliek atklāti jautājumi par optimālo devu, ilgtermiņa efektiem un darbības mehānismiem.",
-        "lt": "Apžvalga apie psilocibino potencialą kaip nerimo slopinančios medžiagos. Straipsnis nagrinėja veikimo mechanizmus, apibendrina esamus klinikinių ir preklinkinių tyrimų rezultatus ir identifikuoja žinių spragas. Psilocibinas rodo žadančius rezultatus nerimo sutrikimuose, tačiau išlieka atidaryti klausimai dėl optimalios dozes, ilgalaikių efektų ir veikimo mechanizmų."
-      },
-      "notable": false,
-      "notable_reasons": null,
-      "relevance_score": 4,
-      "study_type": "review",
-      "substances": [
-        "psilocybin"
-      ],
-      "added_at": "2026-09-06T11:10:06.581018+00:00"
     }
   ]
 }

@@ -1,7 +1,45 @@
 {
-  "date": "2026-09-29",
-  "cached_at": "2026-09-29T12:05:54.942263+00:00",
+  "date": "2026-09-30",
+  "cached_at": "2026-09-30T11:53:56.598524+00:00",
   "articles": [
+    {
+      "title": "Focused Ultrasound for Prolonged Grief Disorder: A Novel Approach to Targeting Reward Circuitry Underlying Persistent Yearning and Related Clinical Features.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42810899/",
+      "source": "PubMed",
+      "abstract": "Prolonged Grief Disorder (PGD) is a recently recognized psychiatric disorder in ICD-11 and DSM-5-TR, characterized by persistent yearning and/or preoccupation with the deceased, alongside other grief-related symptoms. PGD affects 5%-16% of bereaved individuals and is associated with mental and physical morbidity, functional impairment, elevated suicidality, and premature death, underscoring its importance as a public health priority, with particular relevance to older adults given their increasing and often cumulative exposure to bereavement. Current treatment for PGD relies primarily on grief-focused psychotherapy, which is associated with substantial dropout, and does not lead to full remission for many patients. Despite growing interest in pharmacological, psychedelic, and neuromodulatory approaches, no biologically-based intervention has yet demonstrated efficacy for the core symptoms of PGD. At the same time, emerging neurobiological evidence implicates alterations across multiple interacting neural systems in PGD, with reward-related circuitry showing particular relevance to persistent yearning. Low-intensity Focused Ultrasound (LIFUS) enables noninvasive, reversible, high-precision modulation of deep brain structures. This addresses several key limitations of conventional neuromodulation approaches (e.g., rTMS and DBS) while maintaining a promising safety and tolerability profile. Recent studies have investigated LIFUS across a range of neurological and psychiatric disorders, including opioid use disorder, with early findings suggesting therapeutic potential. Taken together, these observations suggest that LIFUS may offer a promising and theoretically grounded direction for future research in PGD. In this paper, we outline the scientific rationale for investigating LIFUS neuromodulation as a novel intervention for PGD, discuss its potential implications for research and clinical translation, and conclude that an initial clinical trial is warranted to evaluate the feasibility, safety, tolerability, and preliminary efficacy of LIFUS for PGD.",
+      "date": "2026-09-03",
+      "authors": [
+        "Manevich Alexander",
+        "Prigerson Holly G"
+      ],
+      "doi": "10.1016/j.jagp.2026.08.021"
+    },
+    {
+      "title": "Adverse Health Outcomes of Psilocybin, LSD, MDMA, Ibogaine, and 5-MeO-DMT.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42809289/",
+      "source": "PubMed",
+      "abstract": "This cross-sectional study describes health outcomes attributed to recent use of psilocybin, lysergic acid diethylamide (LSD), 3,4-methylenedioxymethamphetamine (MDMA), ibogaine, and 5-methoxy-N,N-dimethyltryptamine (5-MeO-DMT) in a nationally representative survey of US adults.",
+      "date": "2026-09-01",
+      "authors": [
+        "Simonsson Otto",
+        "Bradley Melissa",
+        "Black Joshua C"
+      ],
+      "doi": "10.1001/jamanetworkopen.2026.36756"
+    },
+    {
+      "title": "Moving beyond 5-HT",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42809102/",
+      "source": "PubMed",
+      "abstract": "Psychedelics exhibit rapid, durable therapeutic effects across diverse psychiatric conditions, yet their broad-spectrum psychoactivity poses challenges for clinical translation. As a proof-of-concept, we aimed to quantify associations between 19 neurotransmitter receptors and the subjective effects of 21 psychedelic drugs with broadly assayed binding profiles. We used a custom Global Vectors for Word Representation (GloVe)-based semantic embedding model trained on 4,496 firsthand experience reports and integrated it with receptor affinities to identify candidate receptor-linked semantic patterns related to distinct psychoactive effects without imposing predefined categorization systems. While 5-HT",
+      "date": "2026-09-29",
+      "authors": [
+        "Suresh Praneet",
+        "Kins Josie",
+        "Levkovskyy Lex"
+      ],
+      "doi": "10.1007/s00213-026-07170-0"
+    },
     {
       "title": "[Psychedelics and the unconscious: What are their clinical implications?].",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42805745/",
@@ -30,7 +68,7 @@
       "title": "Are psychedelics anti-inflammatory? A systematic review and meta-analysis of studies examining the immunomodulatory effects of serotonergic psychedelics.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42805420/",
       "source": "PubMed",
-      "abstract": "Serotonergic psychedelics are promising treatments for neuropsychiatric disorders, and their immunomodulatory effects may contribute to their clinical efficacy. However, we lack a systematic review and meta-analysis of these effects across in vitro, in vivo non-human, and human studies. We systematically searched PubMed, EMBASE, Web of Science, PsycINFO, LILACS and ClinicalTrials.gov for all studies, published from database inception through February 9th, 2026, examining changes in immune markers after serotonergic psychedelic exposure, and meta-analyzed eligible studies. Of 9,195 studies screened, 61 studies met eligibility criteria for systematic review including 24 in vitro studies, 30 non-human in vivo studies, and seven human studies including data from 10 separate human trials. Results of the systematic review indicated that most in vitro (19/24) and non-human in vivo (25/30) studies reported anti-inflammatory effects of psychedelics. Human results were mixed with anti-inflammatory effects observed in 3/10 trials. Results of the meta-analysis of 18 eligible in vivo murine studies showed a significant decrease in proinflammatory cytokines in inflammatory models (standardized mean difference (SMD = -1.23, 95% CI [-1.54, -0.92]), but no significant effects in healthy murines (SMD = -0.06, 95% CI [-0.54, 0.43]), following treatment with a serotonergic psychedelic. Four human studies were eligible for meta-analysis; however, the small number of studies resulted in imprecise estimates and limited interpretability. Thus, while serotonergic psychedelics reduce proinflammatory cytokines in preclinical models of increased baseline inflammation, limited human evidence precludes conclusions about their translational potential.",
+      "abstract": "Serotonergic psychedelics are promising treatments for neuropsychiatric disorders, and their immunomodulatory effects may contribute to their clinical efficacy. However, we lack a systematic review and meta-analysis of these effects across in vitro, in vivo non-human, and human studies. We systematically searched PubMed, EMBASE, Web of Science, PsycINFO, LILACS and ClinicalTrials.gov for all studies, published from database inception through February 9th, 2026, examining changes in immune markers after serotonergic psychedelic exposure, and meta-analyzed eligible studies. Of 9,195 studies screened, 61 studies met eligibility criteria for systematic review including 24 in vitro studies, 30 non-human in vivo studies, and seven human studies including data from 10 separate human trials. Results of the systematic review indicated that most in vitro (19/24) and non-human in vivo (25/30) studies reported anti-inflammatory effects of psychedelics. Human results were mixed with anti-inflammatory effects observed in 3/10 trials. Results of the meta-analysis of 18 eligible in vivo murine studies showed a significant decrease in proinflammatory cytokines in inflammatory models (standardized mean difference (SMD = -1.23, 95% CI [-1.54, -0.92]), but no significant effects in healthy murines (SMD = -0.06, 95% CI [-0.54, 0.43]), following treatment with a serotonergic psychedelic. Four human studies were eligible for meta-analysis; however, the small number of studies resulted in imprecise estimates and limited interpretability. Thus, while serotonergic psychedelics reduce proinflammatory cytokines in preclinical models of increased baseline inflammation, limited human evidence precludes conclusions about their translational potential.",
       "date": "2026-09-28",
       "authors": [
         "Lerche Anna Skovgaard",
@@ -219,45 +257,6 @@
         "Nestor Sean M"
       ],
       "doi": "10.1080/02791072.2026.2730550"
-    },
-    {
-      "title": "Mystical but not challenging experiences predict symptom improvement after psilocybin for treatment-resistant OCD.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42775190/",
-      "source": "PubMed",
-      "abstract": "Psilocybin treatment has shown promise across a range of psychiatric conditions. Mystical-type experiences during dosing sessions have been shown to predict the clinical effects of psilocybin treatment in depression, anxiety, and addiction. However, no studies have examined whether acute subjective experiences predict treatment response in obsessive-compulsive disorder (OCD). Exploratory analyses were conducted using data from participants with treatment-resistant OCD who received psilocybin as part of a randomized, double-blind, placebo-controlled trial and subsequent open-label phase. Twenty-seven participants who received psilocybin (0.25 mg/kg) completed the Mystical Experience Questionnaire (MEQ-30) and Challenging Experience Questionnaire (CEQ) the day following their session. OCD severity was assessed using the Yale-Brown Obsessive Compulsive Scale (Y-BOCS) at baseline and at 1- and 12-week follow-up. Greater mystical-type experiences during psilocybin were associated with lower OCD symptom severity at 1- and 12-week follow-up, even after controlling for baseline OCD symptom severity and treatment condition. The Mystical subscale demonstrated the strongest and most consistent associations at both time points, while the Space-Time subscale was only associated with lower Y-BOCS at 12 weeks. The Positive Mood and Ineffability subscales were not significantly associated with post-treatment OCD symptom severity after correction for multiple comparisons. Challenging experiences were not significantly associated with post-treatment OCD severity. Mystical experiences - particularly experiences of unity, sacredness, and transcendence - during psilocybin sessions are associated with greater OCD symptom reduction. These findings support attention to experiential quality in psilocybin-assisted therapy and have implications for optimizing treatment through dosing, set, setting, and integration practices.",
-      "date": "2026-09-08",
-      "authors": [
-        "Shnayder Sarah",
-        "Agin-Liebes Gabrielle",
-        "Hubert Troy J"
-      ],
-      "doi": "10.3389/fpsyt.2026.1799543"
-    },
-    {
-      "title": "Reply to 'Methodological concerns and interpretative limitations of assessing subjective effects of ketamine'.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42773206/",
-      "source": "PubMed",
-      "abstract": "This response addresses methodological concerns raised regarding our meta-analysis of subjective effects and therapeutic outcomes following ketamine and psilocybin treatment. We discuss the potential influence of psychotherapy and differences in subjective-effect questionnaires across studies, acknowledging these as important limitations. We argue that these factors may partly explain observed treatment differences and highlight the need for future studies using standardized, multidimensional measures of subjective experience.",
-      "date": "2026-09-22",
-      "authors": [
-        "Dahan Jack D C",
-        "Dadiomov David",
-        "Bostoen Tijmen"
-      ],
-      "doi": "10.1038/s44184-026-00241-2"
-    },
-    {
-      "title": "N,N-Dimethyltryptamine and harmine formulation alters transient EEG topography sequences near the peak of the psychedelic state.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42768932/",
-      "source": "PubMed",
-      "abstract": "Psychoactive serotonin 5-HT2A receptor agonists are potent modulators of awareness. Influential theories propose that psychedelics alter whole-brain dynamics by increasing neural signal diversity and dynamic flexibility. Beyond temporal variability, it is an open question whether psychedelics impact the characteristics of transient neural state sequences themselves. Our goal was to assess how an ayahuasca-inspired formulation (intranasal N,N-Dimethyltryptamine (DMT) and buccal harmine) modulates parameters of neural state sequences close to the peak of the psychedelic state. In a double-blind, randomised, placebo-controlled Electroencephalography (EEG) study, participants ( Compared to harmine and placebo, DMT/harmine was linked to reduced microstate duration but increased microstate occurrence and complexity. Higher first-order Markov statistics revealed that transition sequences became less random when DMT/harmine was administered. Our finding that DMT/harmine is associated with more complex and predictable neural state sequences as well as accelerated state transitions is consistent with models of increased metastability and signal diversity. By revealing a more diverse repertoire of neural state sequences under DMT/harmine, our findings improve our understanding of neural dynamics in psychedelic states. Neurodynamics of prosocial emotional processing following serotonergic stimulation with N,N-DMT and harmine in healthy subjects. https://clinicaltrials.gov/ct2/show/NCT04716335.",
-      "date": "2026-09-22",
-      "authors": [
-        "Niedernhuber Maria",
-        "Suay Dila",
-        "Lenggenhager Bigna"
-      ],
-      "doi": "10.1177/02698811261481062"
     },
     {
       "title": "Pα+ Psychedelic Bulletin #232: Q2’26 Psychedelic Lobbying Update; DEA Again Moves to Schedule 5 Tryptamines; Oregon Backpedals Psilocybin Fee Hike",
@@ -544,37 +543,37 @@
       "doi": "10.5812/ijpr-164903"
     },
     {
-      "title": "Enhanced osteogenic potential of chitosan scaffolds loaded with &lt;i&gt;Lawsonia inermis&lt;/i&gt;, hydroxyapatite particles, and dental pulp stem cells in rats.",
-      "url": "https://doi.org/10.1016/j.reth.2026.101171",
+      "title": "Treatments for Individuals with Suicidal Thoughts: Use, Indications, and Helpfulness.",
+      "url": "https://doi.org/10.1016/j.jadr.2026.101165",
       "source": "Europe PMC",
-      "abstract": "<h4>Introduction</h4>Maxillary/alveolar bone reconstruction is vital for cleft and pre-prosthetic patients. Autogenous bone (iliac crest) is the gold standard for clefts due to its bone-forming ability. For large defects (trauma/tumor), the vascularized fibula flap is preferred for its strength and blood supply.<h4>Methods</h4>This study investigates the physicochemical and biological properties of chitosan (Cs)-based scaffolds. Three scaffold formulations were prepared for in vitro characterization: pure Cs, Cs enriched with 8% <i>Lawsonia inermis</i> extract (Cs-LI), and Cs combined with LI and nanohydroxyapatite (Cs-LI-HAPs). For the in vivo study, five experimental groups were evaluated in a rat mandibular defect model: sham (empty defect), control (Cs scaffold alone), Cs-LI, Cs-LI-HAPs, and Cs-LI-HAPs seeded with 1 × 10<sup>6</sup> dental pulp stem cells (DPSCs).<h4>Results</h4>The synthesized HAPs showed a biomimetic apatite structure confirmed by FTIR and XRD, with a particle size of 730.2 ± 38.45 nm. Scaffold characterization demonstrated that Cs-LI-HAP had superior structural integrity, featuring interconnected porosity, improved mechanical strength (17.57 ± 1.49 MPa compressive strength), and a lower degradation rate (65.48 ± 10.35% at 4 weeks) compared to Cs and Cs-LI scaffolds. In vitro tests showed that Cs-LI-HAPs had good hemocompatibility and supported DPSC growth. In vivo, CBCT and histopathological analyses revealed that the Cs-LI-HAPs-DPSCs group exhibited significantly less fibrous tissue formation and greater bone regeneration compared to other groups.<h4>Conclusions</h4>The Cs-LI-HAPs scaffold showed strong bone regeneration potential, with HAPs improving strength and stability, LI enhancing cell support, and DPSCs promoting new bone formation, making it a promising platform for maxillofacial defect repair.",
-      "date": "2026-09-16",
+      "abstract": "<h4>Background</h4>Although millions of adults seriously consider suicide each year, clinical trials often exclude individuals experiencing suicidal ideation (SI). This analysis sought to describe the use of a range of psychiatric treatment modalities in individuals with mood disorders with and without a history of suicide attempt or SI.<h4>Methods</h4>Individuals with mood disorders (n=211; M=93/F=118) who had previously participated in psychiatric research at the National Institutes of Health Clinical Center completed a follow-up clinical assessment (range=1-20 years since study participation). In addition to clinical outcomes, participants were asked about psychiatric treatment use since discharge, treatment indication, and perceived helpfulness of the intervention. Differences between participants who did and did not report SI and/or history of suicide attempt at index visit were analyzed using general linear models.<h4>Results</h4>Individuals with SI on index visit had generally similar clinical outcomes as those who did not report SI on index visit, but they were more likely to report use of psychiatric medications or ketamine at follow-up. Few group differences were noted with regard to perceived helpfulness or use of treatments for suicide-related indications. Individuals with a history of suicide attempt on index visit were more likely to report suicide attempts and psychiatric hospitalization at follow-up.<h4>Conclusion</h4>Individuals with SI or with a history of suicide attempts frequently use psychiatric services, particularly psychiatric medications and hospitalizations. The results underscore the need for effective, suicide-focused treatments for individuals with suicidal thoughts and behaviors.<h4>Clinical trials identifier</h4>www.clinicaltrials.gov (NCT02543983).",
+      "date": "2026-09-07",
       "authors": [
-        "Karandish M",
-        "Ziaei G",
-        "Akbarizadeh F"
+        "Ballard ED",
+        "Hafermann H",
+        "Hurst K"
       ],
-      "doi": "10.1016/j.reth.2026.101171"
+      "doi": "10.1016/j.jadr.2026.101165"
     },
     {
-      "title": "RAF1 scaffold integrity shapes chemogenetic degradation outcomes in KRAS-driven lung cancer models.",
-      "url": "https://doi.org/10.26508/lsa.202603839",
+      "title": "Bispectral index during remimazolam versus propofol sedation at matched depths: a randomized, double-blind crossover trial in healthy volunteers.",
+      "url": "https://doi.org/10.1080/07853890.2026.2735790",
       "source": "Europe PMC",
-      "abstract": "Scaffold integrity is essential for the activity of proteins that function through protein-protein interactions rather than catalytic output. RAF1 exemplifies this duality: although it is a bona fide kinase and a core component of the MAPK cascade, its tumor-promoting role is largely kinase-independent, relying instead on scaffold-mediated suppression of apoptosis. Genetic <i>Raf1</i> ablation in KRAS-driven lung adenocarcinoma mouse models induces tumor regression without systemic toxicity, making it an attractive candidate for targeted protein degradation. Chemogenetic systems like the dTAG platform are widely used for preclinical target validation. Here, we generated a dTAG-RAF1 mouse model and showed that pharmacological degradation is efficient and systemically well tolerated but fails to reproduce the tumor regression observed upon genetic <i>Raf1</i> ablation. Mechanistically, the N-terminal FKBP12<sup>F36V</sup> tag (dTAG) perturbs the RAF1 interactome, including scaffold associations with apoptotic regulators, thereby blunting the phenotypic consequences of its degradation. These results establish scaffold integrity as a determinant of chemogenetic system fidelity and argue that degradation tools must be validated at the functional level, not only for target elimination, before assessing their therapeutic relevance.",
-      "date": "2026-09-22",
+      "abstract": "<h4>Background</h4>The bispectral index (BIS) was derived primarily from propofol data, and whether its thresholds apply to remimazolam is uncertain. We compared BIS between the two agents at matched sedation depths and examined early cognitive recovery.<h4>Methods</h4>In this prospective, randomized, double-blind, two-period crossover trial, 16 healthy volunteers (American Society of Anesthesiologists physical status I) received remimazolam and propofol in random order, ≥ 7 days apart. Each agent was titrated to moderate (Modified Observer's Assessment of Alertness/Sedation [MOAA/S] 3) and deep (MOAA/S 1) sedation. The confirmatory outcome was mean BIS at deep sedation. All other outcomes were exploratory: BIS at moderate sedation and at loss of the eyelash reflex, emergence time, and cognitive recovery at 30 and 120 min.<h4>Results</h4>At deep sedation, mean BIS was higher with remimazolam (57.6 ± 7.5) than with propofol (46.5 ± 7.9; adjusted difference 11.1 units; 95% CI, 7.3 to 14.8; <i>p</i> < 0.001). In exploratory analyses, BIS was also higher at moderate sedation and at loss of the eyelash reflex (both <i>p</i> < 0.001), and emergence time did not differ (<i>p</i> = 0.606). At 30 min, processing speedand  executive function recovered faster after remimazolam (p = 0.012 and p < 0.001), whereas verbal memory did not differ between agents. All domains converged by 120 min. Adverse events were uncommon, and the trial was not powered to compare them.<h4>Conclusion</h4>At clinically matched sedation depths, remimazolam produced higher BIS values than propofol. Spectral data were not recorded, so the basis of this offset is undetermined, and the cognitive findings were exploratory. Whether this offset warrants agent-specific reference values requires validation in clinical populations.",
+      "date": "2026-09-25",
       "authors": [
-        "de-la-Puente-Ovejero L",
-        "Domostegui A",
-        "García-Pérez IM"
+        "Cai S",
+        "Hu X",
+        "Wei Y"
       ],
-      "doi": "10.26508/lsa.202603839"
+      "doi": "10.1080/07853890.2026.2735790"
     },
     {
       "title": "CZ",
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2018-004480-31/CZ",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-09-29",
+      "date": "2026-09-30",
       "authors": [],
       "doi": ""
     },
@@ -583,7 +582,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2020-005037-32/CZ",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-09-29",
+      "date": "2026-09-30",
       "authors": [],
       "doi": ""
     },
@@ -592,7 +591,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2021-002909-10/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-09-29",
+      "date": "2026-09-30",
       "authors": [],
       "doi": ""
     },
@@ -601,7 +600,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2015-000550-37/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-09-29",
+      "date": "2026-09-30",
       "authors": [],
       "doi": ""
     },
@@ -610,7 +609,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2021-000041-40/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-09-29",
+      "date": "2026-09-30",
       "authors": [],
       "doi": ""
     },
@@ -619,7 +618,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2020-000829-55/DK",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-09-29",
+      "date": "2026-09-30",
       "authors": [],
       "doi": ""
     },
@@ -628,7 +627,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2020-002790-94/SE",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-09-29",
+      "date": "2026-09-30",
       "authors": [],
       "doi": ""
     },
@@ -637,7 +636,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2021-006200-33/FI",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-09-29",
+      "date": "2026-09-30",
       "authors": [],
       "doi": ""
     },
@@ -646,7 +645,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2019-004812-73/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-09-29",
+      "date": "2026-09-30",
       "authors": [],
       "doi": ""
     },
@@ -655,7 +654,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2022-002369-14/BE",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-09-29",
+      "date": "2026-09-30",
       "authors": [],
       "doi": ""
     },

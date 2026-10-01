@@ -1,6 +1,85 @@
 {
   "items": [
     {
+      "title": "Multi-center, randomized controlled efficacy and comparative-effectiveness study evaluating ketamine, stellate ganglion blocks, combination treatment, and sham treatments for posttraumatic stress disorder and traumatic brain injury-associated headache: a study protocol.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42817839/",
+      "source": "PubMed",
+      "date": "2026-10-01",
+      "authors": [
+        "Cohen Steven P",
+        "Smolynets Roman",
+        "Wood Jordan"
+      ],
+      "doi": "10.1080/17581869.2026.2738419",
+      "summary_en": "Multicenter RCT comparing ketamine infusions, stellate ganglion blocks (SGB), combination treatment, and sham controls for PTSD and TBI-associated headache. 210 patients across 3 US and Ukrainian sites will be randomized 2:2:2:1. Primary outcomes measure headache impact and PTSD symptoms at 4 weeks, with follow-up to 6 months. Study aims to provide real-world evidence on efficacy and comparative effectiveness of these minimally invasive treatments.",
+      "notable": true,
+      "notable_reason": "Multi-center RCT (n=210) with sham control comparing ketamine to stellate ganglion blocks and combination treatment for PTSD and TBI-associated headache, addressing an important clinical gap.",
+      "study_type": "rct",
+      "substances": [
+        "ketamine"
+      ],
+      "added_at": "2026-10-01T13:39:29.652706+00:00"
+    },
+    {
+      "title": "Psilocybin and ayahuasca in treatment-resistant depression: clinical evidence, methodological constraints and ethical challenges: a narrative review.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42812990/",
+      "source": "PubMed",
+      "date": "2026-09-15",
+      "authors": [
+        "Civardi Serena Chiara",
+        "Besana Filippo",
+        "Durbano Federico"
+      ],
+      "doi": "10.3389/fpsyt.2026.1858319",
+      "summary_en": "A narrative review examines psilocybin and ayahuasca for treatment-resistant depression. Both show rapid symptom reduction, with psilocybin demonstrating more sustained effects. However, trials are limited by strict inclusion criteria excluding comorbidities and high-risk patients, small sample sizes, blinding challenges, and reliance on adjunct psychotherapy. Ethical concerns regarding informed consent and real-world applicability require careful consideration.",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "review",
+      "substances": [
+        "psilocybin",
+        "ayahuasca"
+      ],
+      "added_at": "2026-10-01T13:39:29.652706+00:00"
+    },
+    {
+      "title": "Add-on intravenous ketamine eliminates treatment lag period in severe non-treatment-resistant major depression: Rapid antidepressant and anti-suicidal effects - A randomized controlled trial.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42812942/",
+      "source": "PubMed",
+      "date": "2026-09-17",
+      "authors": [
+        "Prakash Anand",
+        "Mahapatra Pranab",
+        "Pattnaik Jigyansa I"
+      ],
+      "doi": "10.4103/indianjpsychiatry_845_25",
+      "summary_en": "Randomized controlled trial (n=40) found add-on IV ketamine as add-on therapy produced rapid antidepressant effects in severe major depression, eliminating the 4-12 week lag of conventional antidepressants. Primary response (≥50% HAM-D reduction at day 12): 58% ketamine vs 29% placebo. Anti-suicidal effects also observed. Four infusions administered over 8 days. Findings preliminary; larger trial needed.",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "rct",
+      "substances": [
+        "ketamine"
+      ],
+      "added_at": "2026-10-01T13:39:29.652706+00:00"
+    },
+    {
+      "title": "Worsening of Depression and Anxiety With Psilocybin: A Case Report in Cyclothymia.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42814595/",
+      "source": "PubMed",
+      "date": "2026-09-30",
+      "authors": [
+        "Ghaemi S Nassir"
+      ],
+      "doi": "10.4088/JCP.26cr16608",
+      "summary_en": "Case report documenting worsening of depressive and anxiety symptoms following psilocybin administration in a patient with cyclothymia. The report highlights potential risks of classical hallucinogens in individuals with mood cycling disorders and emphasizes the importance of careful patient screening in psychedelic-assisted therapy.",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "case_report",
+      "substances": [
+        "psilocybin"
+      ],
+      "added_at": "2026-10-01T13:39:29.652706+00:00"
+    },
+    {
       "title": "Adverse Health Outcomes of Psilocybin, LSD, MDMA, Ibogaine, and 5-MeO-DMT.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42809289/",
       "source": "PubMed",

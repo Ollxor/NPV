@@ -1,6 +1,47 @@
 {
-  "generated_at": "2026-09-30T12:52:31.699127+00:00",
+  "generated_at": "2026-10-01T13:40:51.480953+00:00",
   "items": [
+    {
+      "title": "Multi-center, randomized controlled efficacy and comparative-effectiveness study evaluating ketamine, stellate ganglion blocks, combination treatment, and sham treatments for posttraumatic stress disorder and traumatic brain injury-associated headache: a study protocol.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42817839/",
+      "source": "PubMed",
+      "date": "2026-10-01",
+      "authors": [
+        "Cohen Steven P",
+        "Smolynets Roman",
+        "Wood Jordan"
+      ],
+      "doi": "10.1080/17581869.2026.2738419",
+      "summaries": {
+        "en": "Multicenter RCT comparing ketamine infusions, stellate ganglion blocks (SGB), combination treatment, and sham controls for PTSD and TBI-associated headache. 210 patients across 3 US and Ukrainian sites will be randomized 2:2:2:1. Primary outcomes measure headache impact and PTSD symptoms at 4 weeks, with follow-up to 6 months. Study aims to provide real-world evidence on efficacy and comparative effectiveness of these minimally invasive treatments.",
+        "sv": "Multicenterstudien jämför ketamininfusioner, stellata ganglieblock (SGB), kombinationsbehandling och sham-kontroll för PTSD och TBI-relaterad huvudvärk. 210 patienter på 3 webbplatser i USA och Ukraina randomiseras 2:2:2:1. Primära utfall mäter huvudvärkspåverkan och PTSD-symtom vid 4 veckor, med uppföljning till 6 månader. Studien syftar till att ge verklig evidens för effektivitet och jämförande effektivitet.",
+        "no": "Multisenterstudie sammenligner ketamininfusjoner, stellate ganglieblokader (SGB), kombinasjonsbehandling og sham-kontroll for PTSD og TBI-assosiert hodepine. 210 pasienter på 3 steder i USA og Ukraina randomiseres 2:2:2:1. Primære utfall måler hodepinepåvirkning og PTSD-symptomer ved 4 uker, med oppfølging til 6 måneder. Studien søker å gi evidens fra praksis om effektivitet og komparativ effektivitet.",
+        "da": "Multicenterstudie sammenligner ketamininfusioner, stellate ganglieblokader (SGB), kombinationsbehandling og sham-kontrol for PTSD og TBI-associeret hovedpine. 210 patienter på 3 steder i USA og Ukraine randomiseres 2:2:2:1. Primære endepunkter måler hovedpinepåvirkning og PTSD-symptomer ved 4 uger med opfølgning til 6 måneder. Studien tilsigter at give evidens fra virkeligheden om effektivitet og komparativ effekt.",
+        "fi": "Monikeskuksinen tutkimus vertailee ketamiini-infuusioita, stellaaristen ganglioiden blokkeja (SGB), yhdistelmähoitoa ja näennäiskontrollia PTSD:n ja TBI-liittyvän päänsäryn hoitoon. 210 potilasta 3:lla USA:n ja Ukrainan kohteella satunnaistetaan suhteessa 2:2:2:1. Ensisijaiset tulokset mittaavat päänsäryn vaikutusta ja PTSD-oireita 4 viikolla, seurantaa jatketaan 6 kuukautta. Tutkimus tarjoaa todellisen näytön hoitojen tehokkuudesta ja suhteellisesta tehokkuudesta.",
+        "is": "Fjöleggaðá rannsókn sem ber saman ketamín-innsteypingar, stella-ganglíasteypingar (SGB), samsetningarmeðferð og falsaðan stjórn fyrir PTSD og TBI-tengda höfuðverki. 210 sjúklingar á 3 stöðum í Bandaríkjunum og Úkraínu eru skipaðir af handahófi í hlutfallinu 2:2:2:1. Aðalútkoma mælir áhrif höfuðverks og PTSD-einkenni við 4 vikur með eftirfylgni til 6 mánaða. Rannsóknin miðar að veita sannanir úr raunverulegum notkunum um verkun og hlutfallslega verkun.",
+        "et": "Mitmekoldelise uuringuga võrreldakse ketamiini-infusioonide, stellaarsete ganglioni blokaaside (SGB), kombineeritud ravi ja näiteravi kasutamist PTSD ja TBI-ga seotud peavalust. 210 patsienti 3-l USA ja Ukraina kohal randomiseeritakse suhtega 2:2:2:1. Esmased tulemused mõõdavad peavalu mõju ja PTSD-sümptomeid 4 nädala möödudes, jälgimine jätkub 6 kuud. Uurimus annab reaalsusest tõendid ravide tõhususe ja võrdleva tõhususe kohta.",
+        "lv": "Daudzcentriskais pētījums salīdzina ketamīna infūzijas, stellāro gangliju blokādes (SGB), kombinēto ārstēšanu un fiktīvu kontroli PTSD un TBI saistītām galvassāpēm. 210 pacienti 3 ASV un Ukrainas vietās tiek randomizēti 2:2:2:1 attiecībā. Primārie rezultāti mēra galvassāpju ietekmi un PTSD simptomus pēc 4 nedēļām, sekošana turpinās līdz 6 mēnešiem. Pētījums sniedz reālās pasaules pierādījumus par ārstēšanas efektivitāti un salīdzinošo efektivitāti.",
+        "lt": "Daugiacentrinė studija lyginant ketamino infūzijas, stella ganglijų blokadas (SGB), kombinuotą gydymą ir fiktyvią kontrolę PTSD ir TBI susijusioms galvos skausmoms. 210 pacientų 3 JAV ir Ukrainos vietose randomizuojama 2:2:2:1 santykiu. Pirminiai rezultatai matuoja galvos skausmo poveikį ir PTSD simptomus po 4 savaičių, stebėjimas tęsiasi 6 mėnesius. Studija pateikia realaus pasaulio įrodymus apie gydymo veiksmingumą ir lyginamąjį veiksmingumą."
+      },
+      "notable": true,
+      "notable_reasons": {
+        "en": "Multi-center RCT (n=210) with sham control comparing ketamine to stellate ganglion blocks and combination treatment for PTSD and TBI-associated headache, addressing an important clinical gap.",
+        "sv": "Multicenter RCT (n=210) med sham-kontroll som jämför ketamine med stellate ganglion blocks och kombinationsbehandling för PTSD och TBI-associerad huvudvärk, vilket åtgärdar ett viktigt kliniskt behov.",
+        "no": "Flersenter RCT (n=210) med sham-kontroll som sammenligner ketamine med stellate ganglion blocks og kombinasjonsbehandling for PTSD og TBI-assosiert hodepine, som adresserer et viktig klinisk gap.",
+        "da": "Multicenter RCT (n=210) med sham-kontrol, der sammenlignes ketamine med stellate ganglion blocks og kombinationsbehandling for PTSD og TBI-associeret hovedpine, hvilket adresserer et vigtigt klinisk behov.",
+        "fi": "Monikeskuksinen RCT (n=210) sham-kontrollin kanssa, jossa verrataan ketamiinia stellate ganglion blocks -hoitoon ja yhdistelmähoitoon PTSD:n ja TBI-liittyvän päänsäryn hoitoon, mikä vastaa tärkeään kliiniseen tarpeeseen.",
+        "is": "Fjölmiðstöð RCT (n=210) með sham-stjórn sem ber saman ketamine við stellate ganglion blocks og sameiningarmeðferð fyrir PTSD og TBI-tengdan höfuðverk, sem tekur á mikilvægri klínískri eyggá.",
+        "et": "Mitmeharuline RCT (n=210) näivkontrolli ja ketamiini võrdlusega stellate ganglion blocks'i ja kombineeritud raviga PTSD ja TBI-seotud peavalule, lahendades olulist kliinilist puudust.",
+        "lv": "Daudzcentru RCT (n=210) ar sham kontroli, salīdzinot ketamīnu ar stellate ganglion blocks un kombinētu ārstēšanu PTSD un TBI saistītiem galvassāpēm, risinot svarīgu klīnisko nepietiekamību.",
+        "lt": "Daugiacentrinis RCT (n=210) su sham kontrole, lyginant ketaminą su stellate ganglion blocks ir kombinuotu gydymu PTSD ir TBI susijusią galvos skausmą, sprendžiant svarbų klinikinį spragą."
+      },
+      "relevance_score": 4,
+      "study_type": "rct",
+      "substances": [
+        "ketamine"
+      ],
+      "added_at": "2026-10-01T13:39:29.652706+00:00"
+    },
     {
       "title": "Blinding integrity in psychedelic research: Evidence from a comparative randomized controlled trial of psilocybin, MDMA, and methylphenidate in healthy volunteers",
       "url": "https://doi.org/10.1016/j.euroneuro.2026.112879",
@@ -32,6 +73,35 @@
         "mdma"
       ],
       "added_at": "2026-07-09T10:03:12.956794+00:00"
+    },
+    {
+      "title": "Worsening of Depression and Anxiety With Psilocybin: A Case Report in Cyclothymia.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42814595/",
+      "source": "PubMed",
+      "date": "2026-09-30",
+      "authors": [
+        "Ghaemi S Nassir"
+      ],
+      "doi": "10.4088/JCP.26cr16608",
+      "summaries": {
+        "en": "Case report documenting worsening of depressive and anxiety symptoms following psilocybin administration in a patient with cyclothymia. The report highlights potential risks of classical hallucinogens in individuals with mood cycling disorders and emphasizes the importance of careful patient screening in psychedelic-assisted therapy.",
+        "sv": "Fallrapport som dokumenterar försämring av depressiva och ångestsymtom efter psilocybinbehandling hos en patient med cyklotymi. Rapporten belyser potentiella risker med klassiska hallucinogener hos individer med bipolär spektrumstörningar och betonar vikten av noggrann patientscreening i psykedelika-assisterad terapi.",
+        "no": "Pasientrapport som dokumenterer forverring av depressive og angstplager etter psilocybinbehandling hos pasient med syklotyymi. Rapporten fremhever potensielle risker ved klassiske hallusinogener hos personer med sykliske stemningsforstyrelser og understreker betydningen av grundig pasientscreening i psykedelika-assistert terapi.",
+        "da": "Patientrapport, der dokumenteres forværring af depressive og angstymptomer efter psilocinbehandling hos patient med cyklotymi. Rapporten fremhæver potentielle risici ved klassiske hallucinogener hos personer med cykliske humørforstyrrelser og understreger vigtigheden af omhyggelig patientscreening i psykedelika-assisteret terapi.",
+        "fi": "Potilastapaus, joka dokumentoi psilosiinin aiheuttamaa masennuksen ja ahdistuksen pahenemista syklotyymiapotilaan kohdalla. Raportti tuo esiin klassisten hallusinogeenien mahdolliset riskit henkilöillä, joilla on syklisiä mielialahäiriöitä, ja korostaa huolellisen potilasvalinnan merkitystä psykedeeli-avusteisessa terapiassa.",
+        "is": "Sjúkratilfelli sem skjalfesti versnun á þunglyndi og kvíða eftir psílosýbínaðferð hjá sjúklingi með syklunum þunglyndi. Skýrslan leggur áherslu á hugsanlega hættu klassískra hallósinógena hjá einstaklingum með hringlaga þunglyndisröskun og leggur áherslu á mikilvægi gæta við valkosningu sjúklinga í psýkedelíka-aðstoðaðri meðferð.",
+        "et": "Patsientijuhtum, mis dokumenteerib psülotsübiini kasutamisel esinenenud depressiooni ja ärevuse halvenemist tsüklotüümia patsiendil. Aruanne toob esile klassikaliste hallutsinogeenide võimalikud riskid tsüklilist meeleoluhäiret põdevatel inimestel ja rõhutab hoolikate patsiendi sõelumise tähtsust psühhedeelika-abil ravimeetodites.",
+        "lv": "Pacienta slimības gadījuma apraksts, kurā dokumentēts depresijas un trauksmes simptoma pasliktināšanās psilocibīna lietošanas rezultātā pacientam ar ciklotīmiju. Atskaite uzsver klasisko hallucināģenu potenciālos riskus cilvēkiem ar cikliskiem garastāvokļa traucējumiem un uzsver aprūpju pacienta atlases nozīmīgumu psihedēliku-palīdzības terapijā.",
+        "lt": "Paciento sveikatos atveju aprašymas, kuriame dokumentuojamas depresijos ir nerimo simptomų pablogėjimas psilocibino panaudojimo metu ciklotimijos pacientui. Ataskaita atkreipia dėmesį į klasikinių haliumcinogenų potencialius rizikus asmenims, turintiems ciklinių nuotaikos sutrikimų, ir pabrėžia kruopščios paciento atrankos svarbą psichedeliniais medžiagomis padedamoje terapijoje."
+      },
+      "notable": false,
+      "notable_reasons": null,
+      "relevance_score": 3,
+      "study_type": "case_report",
+      "substances": [
+        "psilocybin"
+      ],
+      "added_at": "2026-10-01T13:39:29.652706+00:00"
     },
     {
       "title": "Moving beyond 5-HT",
@@ -745,6 +815,37 @@
       "added_at": "2026-09-18T11:33:47.001208+00:00"
     },
     {
+      "title": "Add-on intravenous ketamine eliminates treatment lag period in severe non-treatment-resistant major depression: Rapid antidepressant and anti-suicidal effects - A randomized controlled trial.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42812942/",
+      "source": "PubMed",
+      "date": "2026-09-17",
+      "authors": [
+        "Prakash Anand",
+        "Mahapatra Pranab",
+        "Pattnaik Jigyansa I"
+      ],
+      "doi": "10.4103/indianjpsychiatry_845_25",
+      "summaries": {
+        "en": "Randomized controlled trial (n=40) found add-on IV ketamine as add-on therapy produced rapid antidepressant effects in severe major depression, eliminating the 4-12 week lag of conventional antidepressants. Primary response (≥50% HAM-D reduction at day 12): 58% ketamine vs 29% placebo. Anti-suicidal effects also observed. Four infusions administered over 8 days. Findings preliminary; larger trial needed.",
+        "sv": "En randomiserad, placebo-kontrollerad studie (n=40) visade att tilläggsbehandling med IV-ketamin producerade snabba antidepressiva effekter vid svår depression och eliminerade fördröjningen på 4-12 veckor från konventionella antidepressiva. Primärt svar (≥50% HAM-D-reduktion dag 12): 58% ketamin vs 29% placebo. Anti-suicidala effekter observerades också. Fyra infusioner under 8 dagar. Resultaten är preliminära; större studie krävs.",
+        "no": "Randomisert, placebokontrollert studie (n=40) viste at tilleggbehandling med IV-ketamin gav raske antidepressive effekter ved alvorlig depresjon og eliminerte forsinkelsen på 4-12 uker fra vanlige antidepressiva. Primær respons (≥50% HAM-D-reduksjon dag 12): 58% ketamin vs 29% placebo. Anti-suisidal effekt observert. Fire infusjoner over 8 dager. Funnene er foreløpige; større studie er nødvendig.",
+        "da": "Randomiseret, placebokontrolleret studie (n=40) viste, at tilsætning af IV-ketamin gav hurtige antidepressive effekter ved alvorlig depression og eliminerede forsinkelsen på 4-12 uger fra konventionelle antidepressiva. Primær respons (≥50% HAM-D-reduktion dag 12): 58% ketamin vs 29% placebo. Anti-selvmordsfremkaldende effekt observeret. Fire infusioner over 8 dage. Resultaterne er foreløbige; større studie påkrævet.",
+        "fi": "Satunnaistettu, plasebo-kontrolloitu tutkimus (n=40) osoitti, että IV-ketimiinin lisähoito tuotti nopeita masennuksen lievityksen vaikutuksia vakavassa masennuksessa ja eliminoi tavanomaisten masennuslääkkeiden 4-12 viikon viiveen. Ensisijainen vastausprosentti (≥50% HAM-D-väheneminen päivällä 12): 58% ketimiin vs 29% placebo. Itsemurhaa estävä vaikutus havaittiin. Neljä infuusiota 8 päivän aikana. Tulokset ovat alustavat; suurempi tutkimus tarvitaan.",
+        "is": "Slembiun, lyfjaleysi-stjórnað rannsókn (n=40) sýndi að viðbótarmeðferð með IV-ketamíni skilaði hraðri andstöðu við þunglyndi og útrýmdu 4-12 vikna seinkun hefðbundinna þunglyndislyfja. Aðalsvörun (≥50% HAM-D lækkun á degi 12): 58% ketamín á móti 29% lyfjaleys. Áhrif gegn sjálfsmorðshugleiðingum sáð. Fjórir innflæðir á 8 dögum. Niðurstöður eru bráðabirgðar; þörf á stærri rannsókn.",
+        "et": "Randomiseeritud, platseebo-kontrolliga uuring (n=40) näitas, et IV-ketamiini lisaraviga saavutati kiired antidepressiivsed efektid raskes depressioonis ja kõrvaldati tavapäraste antidepressantide 4-12 nädalane viivitus. Esmane vastus (≥50% HAM-D vähenemine 12. päeval): 58% ketamiin vs 29% platseebo. Enesetapuvastaline toime täheldatud. Neli infusiooni 8 päeva jooksul. Tulemused on esialgsed; suurem uuring on vajalik.",
+        "lv": "Randomizēts, placebo kontrolēts pētījums (n=40) parādīja, ka IV ketamīna papildu terapija nodrošināja ātru antidepresīvo iedarbību smagā depresijā un novērsa 4-12 nedēļu kavēšanos, ko rada parastie antidepresanti. Primārā atbilde (≥50% HAM-D samazināšana 12. dienā): 58% ketamīns vs 29% placebo. Novērota pašnāvniecības pretestošā iedarbība. Četras infūzijas 8 dienu laikā. Rezultāti ir sākotnēji; nepieciešams lielāks pētījums.",
+        "lt": "Randomizuotas, placebo kontroliuojamas tyrimas (n=40) parodė, kad IV ketamino papildoma terapija suteikė greitą antidepresantą efektą sunkioje depresijoje ir pašalino 4-12 savaičių delsą, kurio sukelia įprasti antidepresantai. Pirminis atsakas (≥50% HAM-D sumažėjimas 12 dieną): 58% ketaminas vs 29% placebo. Pastebėta savižudybės prevencijos veiksmė. Keturios infuzijos per 8 dienas. Rezultatai yra preliminarūs; reikalingas didesnis tyrimas."
+      },
+      "notable": false,
+      "notable_reasons": null,
+      "relevance_score": 4,
+      "study_type": "rct",
+      "substances": [
+        "ketamine"
+      ],
+      "added_at": "2026-10-01T13:39:29.652706+00:00"
+    },
+    {
       "title": "Default mode network functional connectivity following treatment with conventional antidepressants and (es)ketamine in major depressive disorder: A systematic review.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42767040/",
       "source": "PubMed",
@@ -1003,6 +1104,38 @@
         "ketamine"
       ],
       "added_at": "2026-09-17T11:56:15.164798+00:00"
+    },
+    {
+      "title": "Psilocybin and ayahuasca in treatment-resistant depression: clinical evidence, methodological constraints and ethical challenges: a narrative review.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42812990/",
+      "source": "PubMed",
+      "date": "2026-09-15",
+      "authors": [
+        "Civardi Serena Chiara",
+        "Besana Filippo",
+        "Durbano Federico"
+      ],
+      "doi": "10.3389/fpsyt.2026.1858319",
+      "summaries": {
+        "en": "A narrative review examines psilocybin and ayahuasca for treatment-resistant depression. Both show rapid symptom reduction, with psilocybin demonstrating more sustained effects. However, trials are limited by strict inclusion criteria excluding comorbidities and high-risk patients, small sample sizes, blinding challenges, and reliance on adjunct psychotherapy. Ethical concerns regarding informed consent and real-world applicability require careful consideration.",
+        "sv": "En narrativ granskning undersöker psykedelika som psilo­cybin och ayahuasca för behandlingsresistent depression. Båda visar snabb symptomreducering, där psilocybin visar mer varaktiga effekter. Studierna begränsas dock av strikta inklusionskriterier som exkluderar komorbiditeter och högriskpatienter, små urvalsstorlekar, blindningsproblem och beroende av biström psykoterapi. Etiska överväganden kring informerat samtycke kräver försiktig bedömning.",
+        "no": "En narrativ gjennomgang undersøker psilocybin og ayahuasca for behandlingsresistent depresjon. Begge viser rask symptomreduksjon, med psilocybin som viser mer vedvarende effekter. Studiene er imidlertid begrenset av strenge inklusjonskriterier som utelukker komorbiditet og høyrisikopasiente, små utvalg, blindingsproblemer og avhengighet av tilleggspsykoterapii. Etiske hensyn om informert samtykke krever nøye vurdering.",
+        "da": "En narrativ oversigt undersøger psilocybin og ayahuasca til behandlingsresistent depression. Begge viser hurtig symptomreduktion, hvor psilocybin viser mere vedvarende effekter. Studierne begrænses dog af strenge inklusions­kriterier, der udelukker komorbiditeter og høj-risko-patienter, små stikprøver, blindingsproblemer og afhængighed af supplerende psykoterapi. Etiske overvejelser om informeret samtykke kræver omhyggelig vurdering.",
+        "fi": "Narratiivinen katsaus tutkii psilosyybiä ja ayahuascaa hoitoresistenttiin masennukseen. Molemmat osoittavat nopeaa oireen vähenemistä, psilosyybin osoittaen pidempiaikaisia vaikutuksia. Tutkimuksia rajoittavat kuitenkin tiukat sisäänottokriteerit, jotka sulkevat pois sairauden yhteiesiintymät ja korkean riskin potilaat, pienet otoskoot, sokoutuneisuus­ongelmat ja lisäpsykoterapiasta riippuvaisuus. Tietoisen suostumuksen eettiset näkökohdat vaativat huolellista arviointia.",
+        "is": "Hugleiðandi yfirlitið skoðar psílosbín og ayahuasca við meðferðarþolna þunglyndi. Báðir sýna skjóta einkennasamdrátt, þar sem psílosbín sýnir viðvarandi áhrif. Rannsóknirnar takmarkast þó af strangum inntökuskilyrðum sem útiloka fylgikvilla og háa áhættusjúklinga, lítil úrtak, blindunarvandamál og háð viðbótarsálgreinum. Siðferðileg sjónarmið um upplýst samþykki krefjast vandlægrar skoðunar.",
+        "et": "Narratiivne ülevaade uurib psilotsiinsi ja ayahuascad raviresistentse depressiooni jaoks. Mõlemad näitavad kiiret sümptomite vähenemist, kusjuures psilotsiinul on tugevamad kestvad mõjud. Uuringuid piiravad aga ranged sissetulemise kriteeriumid, mis välistavad kaasulevat haigestumust ja kõrge riskiga patsiendid, väikesed valimid, maskeerimisprobleemid ja abigpsühhoterapiale sõltuvus. Teadliku nõusoleku eetilised kaalutlused nõuavad hoolikat hindamist.",
+        "lv": "Naratīvs pārskats pēta psilo­ciīnu un ajahvaskas lietotas izturīgai depresijā. Abas vielas parāda ātru simptoms mazināšanu, psilo­ciīnam rāda ilgstošākus efektus. Tomēr pētījumus ierobežo stingrā iekļaušanas kritēriji, kas izslēdz komorbiditātes un augsta riska pacientus, mazus izlases lielumus, maskēšanas problēmas un atkarību no papildu psihoterapijas. Informēta piekrišana prasa rūpīgu ētisku novērtējumu.",
+        "lt": "Naratyvus apžvalga tiria psilocibino ir ajahvaskos panaudojimą gydymui atsparioje depresijoje. Abi medžiagos rodo greitą simptomų sumažėjimą, psilocibinas rodo ilgalaikius efektus. Tačiau tyrimai ribojami griežtais įtraukimo kriterijais, kurie neįtraukia komorbidumo ir didelio rizikos ligonių, mažų imčių, aklosios procedūros problemų ir priklausomybės nuo papildomos psichologinės terapijos. Informuota sutiktis reikalauja kruopščios etinės vertės."
+      },
+      "notable": false,
+      "notable_reasons": null,
+      "relevance_score": 4,
+      "study_type": "review",
+      "substances": [
+        "psilocybin",
+        "ayahuasca"
+      ],
+      "added_at": "2026-10-01T13:39:29.652706+00:00"
     },
     {
       "title": "Ketamine attenuates habenula activity in response to aversive outcomes during Pavlovian learning.",
@@ -1859,146 +1992,6 @@
         "ketamine"
       ],
       "added_at": "2026-09-08T11:32:38.587024+00:00"
-    },
-    {
-      "title": "Exploratory Insights into 5-MeO-DMT Experiences on Reddit: A Thematic Analysis.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42704210/",
-      "source": "PubMed",
-      "date": "2026-09-07",
-      "authors": [
-        "Swieczkowski Damian",
-        "Kwaśny Aleksander",
-        "Cubała Wiesław Jerzy"
-      ],
-      "doi": "10.1080/02791072.2026.2727030",
-      "summaries": {
-        "en": "Qualitative analysis of 120 Reddit posts examined self-reported 5-MeO-DMT experiences. Users reported individualized dosing, distinct tolerance patterns, and introspective, emotionally transformative effects. Preparation, supportive environment, and integration practices were emphasized as essential. Users demonstrated awareness of pharmacological interactions and harm-reduction practices. Socio-cultural narratives about origins and ethics influenced perceptions.",
-        "sv": "Kvalitativ analys av 120 Reddit-inlägg undersökte självrapporterade erfarenheter med 5-MeO-DMT. Användare rapporterade individualiserad dosering, särskilda toleransmönster och introspektiva, känslomässigt omvandlande effekter. Förberedelse, stödjande miljö och integrationspraxis framhölls som väsentliga. Användarna visade medvetenhet om farmakologiska interaktioner och skadereducerande praktiker.",
-        "no": "Kvalitativ analyse av 120 Reddit-innlegg undersøkte selvrapporterte erfaringer med 5-MeO-DMT. Brukere rapporterte individualisert dosering, særegne toleransmonster og introspektive, følelsesmessig transformative effekter. Forberedelse, støttende miljø og integrasjonspraksiser ble vektlagt som essensielle. Brukerne viste bevissthet om farmakologiske interaksjoner og skadereduseringspraksiser.",
-        "da": "Kvalitativ analyse af 120 Reddit-indlæg undersøgte selvrapporterede erfaringer med 5-MeO-DMT. Brugere rapporterede individualiseret dosering, særskilte tolerancemønstre og introspektive, følelsesmæssigt transformative effekter. Forberedelse, støttende miljø og integrationspraksis blev fremhævet som væsentlige. Brugerne viste bevidsthed om farmakologiske interaktioner og skadereduceringspraksis.",
-        "fi": "Laadullinen analyysi 120 Reddit-viestistä tutki itseraportoituja kokemuksia 5-MeO-DMT:n kanssa. Käyttäjät ilmoittivat yksilöllisestä annoksista, erillisistä toleranssikuvioista ja introspektiivisista, tunneperäisesti muuttavista vaikutuksista. Valmistelu, tukeva ympäristö ja integraatiokäytännöt korostettiin välttämättöminä. Käyttäjät osoittivat tietoisuutta farmakologisista vuorovaikutuksista ja vahinkojen vähentämiskäytännöistä.",
-        "is": "Eigindlæg greining á 120 Reddit-færslum rannsakaði sjálfskilgreind reynslu með 5-MeO-DMT. Notendur tilkyntu um einstaklingsmiðaða skammta, sérkennilega þolnæmismynstur og hugleiðandi, tilfinningalega umbreytandi áhrif. Undirbúningur, stuðningsríkt umhverfi og samþættingaraðferðir voru álitin nauðsynleg. Notendur sýndu meðvitund um lyfjafræðilega samspil og tjónsleysandi aðferðir.",
-        "et": "Kvalitatiivne analüüs 120 Reddit-postitusest uuris ise teatavat kogemust 5-MeO-DMT-ga. Kasutajad teatasid individualiseeritud doseerimisest, erinevast taluvusest ja introspektiivsetest, emotsionaalselt transformatiivsetest mõjudest. Ettevalmistus, toetav keskkond ja integreerimise praktikad olid olulised. Kasutajad näitasid teadlikkust farmakoloogilisest koostoimes ja kahjude vähendamise praktikatest.",
-        "lv": "Kvalitatīvā analīze no 120 Reddit ierakstiem pārbaudīja pašpārskatītas pieredzes ar 5-MeO-DMT. Lietotāji ziņoja par individualizētu devu, atšķirīgu tolerances modelēm un introspektīvām, emocionāli transformējošām iedarbībām. Gatavošanās, atbalstošā vide un integrācijas prakses tika uzskatītas par būtiskām. Lietotāji parādīja izpratni par farmakoloģisko mijiedarbību un kaitējuma samazināšanas praksi.",
-        "lt": "Kokybinė 120 Reddit įrašų analizė nagrinėjo saviraporte atliktą patirtį su 5-MeO-DMT. Vartotojai pranešė apie individualizuotą dozavimą, skirtingą tolerancijos profilį ir introspektyvius, emocionaliai transformuojančius efektus. Pasiruošimas, palaikantis aplinka ir integracijos praktikos buvo laikomi būtinais. Vartotojai parodė suvokimą apie farmakologines sąveikas ir žalos mažinimo praktikas."
-      },
-      "notable": false,
-      "notable_reasons": null,
-      "relevance_score": 4,
-      "study_type": "qualitative",
-      "substances": [
-        "other"
-      ],
-      "added_at": "2026-09-08T11:32:38.587024+00:00"
-    },
-    {
-      "title": "The effect of ketamine on mitochondrial bioenergetics, viability, and function: A systematic review.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42704076/",
-      "source": "PubMed",
-      "date": "2026-09-07",
-      "authors": [
-        "Wong Sabrina",
-        "Le Gia Han",
-        "Selby Simryn"
-      ],
-      "doi": "10.1177/02698811261481085",
-      "summaries": {
-        "en": "Systematic review of 13 preclinical studies examining ketamine and esketamine effects on mitochondrial function. Low therapeutic doses showed minimal adverse effects on membrane potential and energy production, while higher concentrations induced dysfunction. Human safety data remain limited; further research needed to clarify mitochondrial effects at antidepressant dosages.",
-        "sv": "Systematisk översikt av 13 prekliniska studier om ketamins och esketamins effekter på mitokondriefunktion. Låga terapeutiska doser visade minimal skada på membranpotential och energiproduktion, medan högre koncentrationer orsakade dysfunktion. Säkerhetsdata från människor är begränsade; ytterligare forskning krävs.",
-        "no": "Systematisk gjennomgang av 13 prekliniske studier om ketamins og esketamins effekter på mitokondriefunksjon. Lave terapeutiske doser viste minimal skade på membranpotensial og energiproduksjon, mens høyere konsentrasjoner forårsaket dysfunksjon. Menneskedata mangler; videre forskning nødvendig for å avklare mitokondrieffekter.",
-        "da": "Systematisk gennemgang af 13 præklin­iske studier om ketamins og esketamins effekter på mitokondriefunktion. Lave terapeutiske doser viste minimal skade på membranpotentiale og energiproduktion, mens højere koncentrationer inducerede dysfunktion. Menneskedata er begrænsede; yderligere forskning nødvendig.",
-        "fi": "Järjestelmällinen katsaus 13 prekliiniseen tutkimukseen ketamiinin ja esketamiinin vaikutuksista mitokondrioiden toimintaan. Alhaiset terapeutttiset annokset eivät aiheuttaneet merkittävää vahinkoa kalvopotentiaaliin ja energiantuotantoon, kun taas korkeammat pitoisuudet indusoivat toimintahäiriöitä. Ihmisaineisto on rajoittunut; lisätutkimus tarpeen.",
-        "is": "Kerfræðileg endurskoðun 13 forrannsókna á áhrifum ketamíns og esketamíns á virkni mitkókondría. Lágar meðferðarskammtar sýndu lágmarks skaða á himininn og orkuframleiðslu, en hærri styrkleikar framkölluðu biun. Manneskjugögn eru takmörkuð; frekari rannsóknir nauðsynlegar.",
-        "et": "13 prekliinilise uuringu süstemaatiline ülevaade ketamiini ja esketamiini toimest mitokondrite funktsioonile. Madalad teraapiaviigilised doosid ei põhjustanud märkimisväärset kahjustust membranipotentiaalile ja energiatootmisele, kuid kõrgemad kontsentratsioonid põhjustasid disfunktsiooni. Inimeste ohutusandmed on piiratud; täiendavad uuringud vajalikud.",
-        "lv": "13 preklinisko pētījumu sistēmiska pārskatīšana par ketamīna un esketamīna ietekmi uz mitohondriju funkciju. Zemās terapeitiskās devas izrādīja minimālu kaitējumu membrānas potenciālam un enerģijas ražošanai, bet augstākas koncentrācijas izraisīja disfunkciju. Cilvēku drošuma dati ir ierobežoti; nepieciešami papildu pētījumi.",
-        "lt": "13 preklinikinio tyrimų sisteminė apžvalga apie ketamino ir esketamino poveikį mitochondrijų funkcijoms. Žemos terapinius dozius nesudarė reikšmingo pavojaus membranų potencialui ir energijos gamybai, tačiau aukštesnės koncentracijos sukelė disfunkciją. Žmonių saugumo duomenys yra ribotas; reikalingi tolimesni tyrimai."
-      },
-      "notable": false,
-      "notable_reasons": null,
-      "relevance_score": 4,
-      "study_type": "review",
-      "substances": [
-        "ketamine"
-      ],
-      "added_at": "2026-09-08T11:32:38.587024+00:00"
-    },
-    {
-      "title": "Two New Zealand Psychiatrists Approved to Prescribe MDMA for PTSD",
-      "url": "https://psychedelicalpha.com/news/two-new-zealand-psychiatrists-approved-to-prescribe-mdma-for-ptsd/",
-      "source": "Psychedelic Alpha",
-      "date": "2026-09-07",
-      "authors": [],
-      "doi": "",
-      "summaries": {
-        "en": "Two psychiatrists in New Zealand have received regulatory approval to prescribe MDMA for post-traumatic stress disorder (PTSD) treatment. This marks a significant development in clinical access to psychedelics within the country's mental healthcare framework.",
-        "sv": "Två psykiatrer i Nya Zeeland har fått myndighetsgodkännande att ordinera MDMA för behandling av posttraumatisk stress. Detta utgör ett betydande steg för klinisk tillgång till psykedelika inom landets mentalvårdsystem.",
-        "no": "To psykiatere i New Zealand har fått regulatorisk godkjenning til å forskrive MDMA for behandling av posttraumatisk stresslidelse. Dette markerer en betydelig utvikling for klinisk tilgang til psykedelika innenfor landets psykiske helsevesen.",
-        "da": "To psykiatere i New Zealand har fået myndighedsgodkendelse til at ordinere MDMA til behandling af posttraumatisk belastningstilstand. Dette markerer en betydelig udvikling for klinisk adgang til psykedelika inden for landets psykiske sundhedssystem.",
-        "fi": "Kaksi psykiatria Uudessa-Seelannissa on saanut sääntelyviranomaisten hyväksynnän MDMA:n määräämiseen posttraumaattisen stressihäiriön hoitoon. Tämä merkitsee merkittävää kehitystä psykedeelejä koskevalle kliiniselle saatavuudelle maan mielenterveyspalveluissa.",
-        "is": "Tveir geðlæknar á Nýju-Sjálandi hafa fengið samþykki eftirlitsaðila til að ávísa MDMA fyrir meðferð sálkrafameinunar. Þetta táknar umtalsverða þróun varðandi klíníska aðgengi að geðhrif innan heilbrigðiskerfis landsins.",
-        "et": "Kaks psühhiaatrit Uus-Meremaal on saanud reguleerivate asutuste heakskiidu MDMA määramiseks posttraumaatilise stressihäire raviks. See märgib arengut psühhedeelikumide kliinilisele kättesaadavusele riigi psüühika-abiliste teenuste raamistikus.",
-        "lv": "Divi Jaunās Zēlandes psihiatri ir saņēmuši regulējošo iestāžu atļauju MDMA nozīmēšanai pēctraumatisku stresu traucējuma ārstēšanai. Tas atzīmē nozīmīgu attīstību psihedēliku klīniskajai pieejamībai valsts garīgās veselības aprūpes sistēmā.",
-        "lt": "Du Naujosios Zelandijos psichiatrai gavo reguliacinių institucijų leidimą skirti MDMA kompleksiniam stresui po traumos gydyti. Tai žymi reikšmingą pažangą psichedelikams prieinamas klinikas prieigai šalies psichikos sveikatos sistemoje."
-      },
-      "notable": true,
-      "notable_reasons": {
-        "en": "First regulatory approval of prescribers for MDMA-assisted PTSD treatment in New Zealand—a national policy milestone",
-        "sv": "Första regulatoriska godkännandet av förskrivare för MDMA-assisterad PTSD-behandling i Nya Zeeland—en nationell policymilepål",
-        "no": "Første regulatoriske godkjenning av foreskrivere for MDMA-assistert PTSD-behandling i New Zealand—en nasjonal politisk milepæl",
-        "da": "Første regulatoriske godkendelse af receptudstedere for MDMA-assisteret PTSD-behandling i New Zealand—en national politisk milepæl",
-        "fi": "Ensimmäinen sääntelyviranomaisen hyväksyntä MDMA-avusteiselle PTSD-hoidolle määrääville lääkäreille Uudessa-Seelannissa—kansallinen poliittinen virstanpylväs",
-        "is": "Fyrsti eftirlitssamþykkti fyrir MDMA-aðstoðað PTSD-meðferð fyrir lyfjaávörðun á Nýju-Sjálandi—innlend stefnumótun tímamót",
-        "et": "Esimene regulatiivsus heakskiit MDMA-abistatud PTSD ravi määramiseks Uus-Meremaal—rahvuslik poliitika verstapost",
-        "lv": "Pirmais normatīvais apstiprinājums MDMA-palīdzētai PTSD ārstēšanai Jaunajā Zēlandē—nacionāls politikas etaps",
-        "lt": "Pirmas reguliacinis patvirtinimas MDMA-pagalbai skirtai PTSD gydymui Naujojoje Zelandijoje—nacionalinis politikos šaltinis"
-      },
-      "relevance_score": 4,
-      "study_type": "other",
-      "substances": [
-        "mdma"
-      ],
-      "added_at": "2026-09-08T11:32:38.587024+00:00"
-    },
-    {
-      "title": "The Effect of Psychedelics on Associative Learning: a Systematic Review.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42702287/",
-      "source": "PubMed",
-      "date": "2026-09-06",
-      "authors": [
-        "Caulfield Alice",
-        "Li Lorraine",
-        "Belessiotis-Richards Clara"
-      ],
-      "doi": "10.1016/j.neubiorev.2026.106951",
-      "summaries": {
-        "en": "Systematic review of 62 studies (2 human) examining psychedelic effects on associative learning. Classical and operant conditioning paradigms showed enhanced learning in animals across fear extinction, conditioned avoidance, and reversal learning tasks. Effects varied by dose, timing, training intensity, and sex. Proposed mechanisms include altered prediction error sensitivity, serotonin receptor agonism, and structural plasticity. Enhancements persisted post-acutely, suggesting potential relevance to sustained therapeutic outcomes.",
-        "sv": "Systematisk granskning av 62 studier (2 på människor) om psykedelikas effekter på associativ inlärning. Klassisk och operant betingning visade förbättrad inlärning hos djur inom rädslutsläckning, betingad undvikelse och reversionsuppgifter. Effekterna varierade beroende på dos, tidpunkt, träningsintensitet och kön. Föreslagna mekanismer innefattar förändrad prediktionsfelkänslighet, serotoninreceptoragonism och strukturell plasticitet. Förbättringarna kvarstod post-akut.",
-        "no": "Systematisk gjennomgang av 62 studier (2 på mennesker) om psykedelikas effekter på assosiativ læring. Klassisk og operant betinging viste forbedret læring hos dyr innenfor fryktslukkking, betinget unngåelse og reverseringslæring. Effektene varierte etter dose, timing, treningsintensitet og kjønn. Foreslåtte mekanismer inkluderer endret prediksjonsfeilvarsling, serotonin-reseptor-agonisme og strukturell plastisitet. Forbedringene fortsatte post-akutt.",
-        "da": "Systematisk review af 62 studier (2 på mennesker) om psykedelikas effekter på associativ læring. Klassisk og operant betingelse viste forbedret læring hos dyr inden for fryktslukking, betinget undvigelse og reverserings-læring. Effekterne varierede efter dosis, timing, træningsintensitet og køn. Foreslåede mekanismer omfatter ændret prædiktion-fejl-sensitivitet, serotoninreceptor-agonisme og strukturel plastisitet. Forbedringerne fortsatte post-akut.",
-        "fi": "Systemaattinen katsaus 62 tutkimukseen (2 ihmisillä) psykedeliikkien vaikutuksista assosiatiiviseen oppimiseen. Klassinen ja operantti-ehdollistaminen osoittivat parantuneita oppimistuloksia eläimillä pelon sammutuksessa, ehdollisessa välttämisessä ja käänteisen oppimisen tehtävissä. Vaikutukset vaihtelivat annoksen, ajoituksen, harjoitusintensiteetin ja sukupuolen mukaan. Ehdotetut mekanismit sisältävät muuttuneen ennustevirheen herkkyyttä, serotoniinireseptori-agonismia ja rakenteellista plastisuutta.",
-        "is": "Kerfræðileg endurskoðun á 62 rannsóknum (2 á mönnum) um áhrif sáleinflugamíkla á hlutfellslærdóm. Klassísk og starfræn skilyrt hafði bætti námsárangur hjá dýrum í óttabrotum, skilyrtu forðun og umsnúningi náms. Áhrifin voru mismunandi eftir skammti, tímasetningu, þjálfunarintensiteti og kyni. Tillögðir virkjanir innihalda breytta spávillutilfinningu, serótóníníviðtaka agonisma og byggingarlega plasticitet.",
-        "et": "Süstemaatiline ülevaade 62 uuringust (2 inimestel) psühhedeelikumide mõjust assotsiatiivsele õppimisele. Klassikaline ja operantne tingitus näitas paremat õppimist loomadel hirmu kustutamises, tingimustes hoidumises ja pöördõppimise ülesannetes. Efektid varieerusid doosi, ajastuse, treeningintensiivsuse ja soo järgi. Pakutud mehhanismid hõlmavad muutunud ennustusviga tundlikkust, serotooniinretseptori agonismi ja struktuaalset plastisuust.",
-        "lv": "Sistemātisks pārskats par 62 pētījumiem (2 ar cilvēkiem) par psihedeliku ietekmi uz asociatīvo mācīšanos. Klasiskā un operanta kondicionēšana parādīja uzlabotu mācīšanos dzīvniekiem baiļu dzēšanā, nosacītā izvairīšanās un atpakaļgaitības mācībās. Efekti mainījās atkarībā no devas, laika, apmācības intensitātes un dzimuma. Ierosinātie mehānismi ietver mainītu prognozes kļūdu jutību, serotonīna receptoru agonismu un strukturālu plasticitāti.",
-        "lt": "Sistemingas 62 tyrimų (2 su žmonėmis) apžvalga apie psichedelinių medžiagų poveikį asociaciniam mokymuisi. Klasikinis ir operantinis sąlyginimas parodė pagerintą mokymą gyvūnuose baimės gesinime, sąlyginėje vengime ir reversinio mokymosi užduotyse. Efektai skyrėsi priklausomai nuo dozes, laiko, mokymo intensyvumo ir lyties. Siūlyti mechanizmai apima pakeistą prognozės klaidos jautrumą, seratonino receptorių agonizmą ir struktūrinį plasticiškumą."
-      },
-      "notable": true,
-      "notable_reasons": {
-        "en": "Systematic review synthesizing 62 studies on psychedelic effects on learning mechanisms, addressing mechanistic understanding relevant to clinical efficacy.",
-        "sv": "Systematisk översikt som syntetiserar 62 studier om psykedeliskas effekter på inlärningsmekanismer och behandlar mekanistisk förståelse relevant för klinisk effektivitet.",
-        "no": "Systematisk gjennomgang som syntetiserer 62 studier om psykedeliskas effekter på læringmekanismer, og tar opp mekanistisk forståelse relevant for klinisk effektivitet.",
-        "da": "Systematisk oversigt, der syntetiserer 62 studier om psykedelikas effekter på læringmekanismer og behandler mekanistisk forståelse relevant for klinisk effektivitet.",
-        "fi": "Järjestelmällinen katsaus, joka syntetisoi 62 tutkimusta psykedeelistä vaikutuksista oppimisen mekanismeihin ja käsittelee mekanistista ymmärrystä, joka on relevantti kliiniselle tehokkuudelle.",
-        "is": "Kerfisbundin yfirlit sem fléttar saman 62 rannsóknir um áhrif geðrofaralyfja á námmekanisma og fjallar um virknileg skilningur sem skiptir máli fyrir klíníska virkni.",
-        "et": "Süstemaatiline ülevaade, mis koondab 62 uuringut psühhedeelikute mõjust õpimehhanismidele ja käsitleb mehhanistilikku mõistmist, mis on asjakohane kliinilisele tõhususele.",
-        "lv": "Sistematisks pārskats, kas sintezē 62 pētījumus par psihedeliku ietekmi uz mācīšanās mehānismiem, ņemot vērā mehānistisko izpratni, kas ir svarīga klīniskajai efektivitātei.",
-        "lt": "Sisteminė peržvalga, apibendrinanti 62 tyrimų apie psichedelinių medžiagų poveikį mokymo mechanizmams, skirta mechanistiniam supratimui, aktualiam klininei veiksmingumui."
-      },
-      "relevance_score": 4,
-      "study_type": "review",
-      "substances": [
-        "other"
-      ],
-      "added_at": "2026-09-07T12:51:11.192589+00:00"
     }
   ]
 }

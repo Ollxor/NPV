@@ -1,6 +1,26 @@
 {
   "items": [
     {
+      "title": "Level of preparedness to use psilocybin among individuals seeking psychedelic risk reduction: a retrospective study of a pilot psychiatric consultation service.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42818591/",
+      "source": "PubMed",
+      "date": "2026-09-16",
+      "authors": [
+        "Harrison Harland V",
+        "Gaillard Mizan",
+        "Cook Ryan R"
+      ],
+      "doi": "10.3389/fpubh.2026.1921031",
+      "summary_en": "Retrospective chart review of 197 patients at an Oregon psilocybin consultation service (Nov 2023–Sep 2025). Using the Psychedelic Preparedness Scale, researchers assessed clinical characteristics, use motivations, and preparedness levels. Patients showed high trauma prevalence and prior psilocybin experience. Findings suggest healthcare systems can support evidence-based education and risk reduction as psychedelic interest grows.",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "observational",
+      "substances": [
+        "psilocybin"
+      ],
+      "added_at": "2026-10-02T12:56:58.011393+00:00"
+    },
+    {
       "title": "Multi-center, randomized controlled efficacy and comparative-effectiveness study evaluating ketamine, stellate ganglion blocks, combination treatment, and sham treatments for posttraumatic stress disorder and traumatic brain injury-associated headache: a study protocol.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42817839/",
       "source": "PubMed",

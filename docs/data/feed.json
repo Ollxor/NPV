@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T13:40:51.480953+00:00",
+  "generated_at": "2026-10-02T12:57:16.878093+00:00",
   "items": [
     {
       "title": "Multi-center, randomized controlled efficacy and comparative-effectiveness study evaluating ketamine, stellate ganglion blocks, combination treatment, and sham treatments for posttraumatic stress disorder and traumatic brain injury-associated headache: a study protocol.",
@@ -974,6 +974,37 @@
         "ketamine"
       ],
       "added_at": "2026-09-18T11:33:47.001208+00:00"
+    },
+    {
+      "title": "Level of preparedness to use psilocybin among individuals seeking psychedelic risk reduction: a retrospective study of a pilot psychiatric consultation service.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42818591/",
+      "source": "PubMed",
+      "date": "2026-09-16",
+      "authors": [
+        "Harrison Harland V",
+        "Gaillard Mizan",
+        "Cook Ryan R"
+      ],
+      "doi": "10.3389/fpubh.2026.1921031",
+      "summaries": {
+        "en": "Retrospective chart review of 197 patients at an Oregon psilocybin consultation service (Nov 2023–Sep 2025). Using the Psychedelic Preparedness Scale, researchers assessed clinical characteristics, use motivations, and preparedness levels. Patients showed high trauma prevalence and prior psilocybin experience. Findings suggest healthcare systems can support evidence-based education and risk reduction as psychedelic interest grows.",
+        "sv": "Retrospektiv journalgranskning av 197 patienter vid en Oregon-baserad psilo­cybin­konsultationstjänst (nov 2023–sep 2025). Med Psychedelic Preparedness Scale mättes kliniska karakteristika, användningsmotiv och beredskapsni­våer. Patienterna visade högt förekomst av trauma och tidigare psilociybnanvändning. Resultaten tyder på att sjukvården kan stödja evidensbaserad utbildning och skaderiskminimering.",
+        "no": "Retrospektiv journalgjennomgang av 197 pasientar ved ein Oregon-basert psilo­sybin­konsulasjons­teneste (nov 2023–sep 2025). Med Psychedelic Preparedness Scale blei kliniske karakteristika, bruks­motivasjon og beredskaps­nivå målt. Pasientane viste høg førekomst av traume og tidlegare psilosy­bin­bruk. Funna tyder på at helse­systemet kan støtta evidens­basert utdanning og skade­reduksjon.",
+        "da": "Retrospektiv journalgennemgang af 197 patienter ved en Oregon-baseret psilo­cybin­konsultations­tjeneste (nov 2023–sep 2025). Med Psychedelic Preparedness Scale blev kliniske karakteristika, brugs­motivationer og beredskabs­niveauer målt. Patienterne viste høj forekomst af traume og tidligere psilocybin­forbrug. Resultater tyder på, at sundhedssystemet kan understøtte evidensbaseret undervisning og skadereduktion.",
+        "fi": "Retrospektiivinen potilasasiakirjojen tarkastelu 197 potilasta Oregonin psilosybiini­konsultaatio­palvelussa (marras 2023–syys 2025). Psychedelic Preparedness Scale -mittarilla mitattiin kliinisiä piirteitä, käyttöön liittyviä motivaatioita ja valmiuden tasoja. Potilaat osoittivat korkeaa traumaesiintyvyyttä ja aikaisempaa psilosyiininkäyttöä. Tulokset viittaavat, että terveydenhuoltojärjestelmä voi tukea näyttöön perustuvaa koulutusta ja haitan vähentämistä.",
+        "is": "Afturlituð endurskoðun sjúkraskráa 197 sjúklinga við psíló­sýbín­ráðgjafar­þjónustu í Oregon (nóv 2023–sept 2025). Með Psychedelic Preparedness Scale var mælt klínískar einkenni, hvatir fyrir notkun og undirbúnings­stig. Sjúklingar sýndu mikla tíðni sálræns áfalls og fyrri notkun psíló­sýbíns. Niðurstöður benda til að heilbrigðis­kerfi geti stutt sönnunar­miðaða menntun og tjóna­minni­kun.",
+        "et": "Retrospektiivne haiguste­dokumentide ülevaatus 197 patsiendist Oregon psilo­tsübiini­konsultatsiooni­teenustes (nov 2023–sept 2025). Psychedelic Preparedness Scale'i abil mõõdeti kliinilisi tunnuseid, kasutamise motivatsioone ja valmiduse tasemeid. Patsiendid näitasid kõrget traumade esinemissagedust ja eelmist psilo­tsübiini­kasutust. Tulemused näitavad, et tervishoiusüsteem võib toetada tõendus­põhist haridust ja kahju­vähendamist.",
+        "lv": "Retrospektīvs pacientu medicīnisko dokumentu pārskats 197 pacientiem Oregonas psilotsibīna konsultāciju pakalpojumā (nov 2023–sept 2025). Izmantojot Psychedelic Preparedness Scale, tika mērītas klīniskās pazīmes, lietošanas motīvi un gatavības līmeņi. Pacienti uzrādīja augstu traumatisku pieredžu un iepriekšējas psilotsibīna lietošanas izplatību. Rezultāti norāda, ka veselības aprūpes sistēma var atbalstīt pierādījumiem pamatotu izglītību un kaitējuma mazināšanu.",
+        "lt": "Retrospektyvi pacientų medicininių dokumentų peržiūra 197 pacientams Oregono psilo­cibino konsultacijos paslaugoje (2023 lapkr.–2025 rugs.). Naudojant Psychedelic Preparedness Scale, buvo išmatuoti klininiai požymiai, vartojimo motyvai ir parengties lygiai. Pacientai parodė didelę traumų dažnį ir ankstesnį psilocibino vartojimą. Rezultatai rodo, kad sveikatą sauganti sistema gali remti pagrįstas mokslu švietimą ir žalą mažinančias priemones."
+      },
+      "notable": false,
+      "notable_reasons": null,
+      "relevance_score": 4,
+      "study_type": "observational",
+      "substances": [
+        "psilocybin"
+      ],
+      "added_at": "2026-10-02T12:56:58.011393+00:00"
     },
     {
       "title": "[Intravenous ketamine in suicidal crisis : indications and patient referral].",
@@ -1959,37 +1990,6 @@
       "study_type": "rct",
       "substances": [
         "other"
-      ],
-      "added_at": "2026-09-08T11:32:38.587024+00:00"
-    },
-    {
-      "title": "The Antidepressant Effects of the mGlu2/3 Receptor Antagonist TS-161 in Treatment-Resistant Depression: A Phase IIa Proof-of-Concept Clinical Trial.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42704784/",
-      "source": "PubMed",
-      "date": "2026-09-07",
-      "authors": [
-        "Kvarta Mark D",
-        "Watanabe Mai",
-        "Ozaki Satoshi"
-      ],
-      "doi": "10.1097/JCP.0000000000002246",
-      "summaries": {
-        "en": "The Antidepressant Effects of the mGlu2/3 Receptor Antagonist TS-161 in Treatment-Resistant Depression: A Phase IIa Proof-of-Concept Clinical Trial.",
-        "sv": "The Antidepressant Effects of the mGlu2/3 Receptor Antagonist TS-161 in Treatment-Resistant Depression: A Phase IIa Proof-of-Concept Clinical Trial.",
-        "no": "The Antidepressant Effects of the mGlu2/3 Receptor Antagonist TS-161 in Treatment-Resistant Depression: A Phase IIa Proof-of-Concept Clinical Trial.",
-        "da": "The Antidepressant Effects of the mGlu2/3 Receptor Antagonist TS-161 in Treatment-Resistant Depression: A Phase IIa Proof-of-Concept Clinical Trial.",
-        "fi": "The Antidepressant Effects of the mGlu2/3 Receptor Antagonist TS-161 in Treatment-Resistant Depression: A Phase IIa Proof-of-Concept Clinical Trial.",
-        "is": "The Antidepressant Effects of the mGlu2/3 Receptor Antagonist TS-161 in Treatment-Resistant Depression: A Phase IIa Proof-of-Concept Clinical Trial.",
-        "et": "The Antidepressant Effects of the mGlu2/3 Receptor Antagonist TS-161 in Treatment-Resistant Depression: A Phase IIa Proof-of-Concept Clinical Trial.",
-        "lv": "The Antidepressant Effects of the mGlu2/3 Receptor Antagonist TS-161 in Treatment-Resistant Depression: A Phase IIa Proof-of-Concept Clinical Trial.",
-        "lt": "The Antidepressant Effects of the mGlu2/3 Receptor Antagonist TS-161 in Treatment-Resistant Depression: A Phase IIa Proof-of-Concept Clinical Trial."
-      },
-      "notable": false,
-      "notable_reasons": null,
-      "relevance_score": 4,
-      "study_type": "rct",
-      "substances": [
-        "ketamine"
       ],
       "added_at": "2026-09-08T11:32:38.587024+00:00"
     }

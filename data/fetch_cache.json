@@ -1,7 +1,33 @@
 {
-  "date": "2026-10-01",
-  "cached_at": "2026-10-01T12:24:50.389497+00:00",
+  "date": "2026-10-02",
+  "cached_at": "2026-10-02T11:51:34.574324+00:00",
   "articles": [
+    {
+      "title": "Delta-9-tetrahydrocannabinol alleviates inflammation by modulating immune responses in LPS-induced murine inflammation model.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42818626/",
+      "source": "PubMed",
+      "abstract": "Δ We integrated transcriptomic, cellular, and  THC induced a stress-adaptive transcriptional program in THP-1 cells, characterized by upregulation of genes associated with the UPR and autophagy pathways. In contrast, THC markedly suppressed LPS-induced type I interferon-stimulated genes (ISGs) and pro-inflammatory cytokines, including IL-1β and TNF-α. In primary human monocytes, THC significantly reduced the expression of activation markers CD80, CD83, and CD209. Consistent with these findings, chronic THC exposure attenuated the activation of splenic myeloid and T cells in mice subjected to systemic inflammation. Brain transcriptomic analysis further demonstrated reduced expression of neuroinflammatory pathways following THC exposure, accompanied by enrichment of pathways associated with neurogenesis and synaptic plasticity. Our findings demonstrate that THC exerts broad immunomodulatory effects characterized by suppression of inflammatory and type I interferon responses while promoting cellular stress-adaptation pathways. These effects were observed across human monocytic cells, primary monocytes, and peripheral immune populations",
+      "date": "2026-09-16",
+      "authors": [
+        "Tomer Shallu",
+        "Harding Jeffrey",
+        "Wang Li"
+      ],
+      "doi": "10.3389/fimmu.2026.1856131"
+    },
+    {
+      "title": "Level of preparedness to use psilocybin among individuals seeking psychedelic risk reduction: a retrospective study of a pilot psychiatric consultation service.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42818591/",
+      "source": "PubMed",
+      "abstract": "In 2020, Oregon became the first US state to legalize state-regulated psilocybin services. This study aims to examine: (1) the clinical and demographic characteristics, (2) psilocybin use motivations, and (3) differences in preparedness among patients seeking care in an Oregon-based pilot consult service specializing in psilocybin risk reduction. This exploratory retrospective chart review abstracted sociodemographics, trauma history, and medical and psychiatric risks of patients (November 2023-September 2025). The Psychedelic Preparedness Scale (PPS), a validated self-report questionnaire, measured preparedness. Two sample  Patients ( Patients utilizing a novel consultation service demonstrate a high prevalence of trauma, prior psilocybin use, and baseline preparedness. While preliminary, this study is among the first describing patients seeking medical and psychiatric consultation when considering psilocybin and highlights potential roles of healthcare systems in providing evidence-based patient education and risk reduction as interest in psychedelics grows.",
+      "date": "2026-09-16",
+      "authors": [
+        "Harrison Harland V",
+        "Gaillard Mizan",
+        "Cook Ryan R"
+      ],
+      "doi": "10.3389/fpubh.2026.1921031"
+    },
     {
       "title": "Multi-center, randomized controlled efficacy and comparative-effectiveness study evaluating ketamine, stellate ganglion blocks, combination treatment, and sham treatments for posttraumatic stress disorder and traumatic brain injury-associated headache: a study protocol.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42817839/",
@@ -230,31 +256,6 @@
         "Luyt Karen"
       ],
       "doi": "10.1186/s12916-026-05170-7"
-    },
-    {
-      "title": "Ketamine-enhanced psychotherapy for smoking cessation: A pilot study of feasibility, safety, and clinical outcomes.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42788697/",
-      "source": "PubMed",
-      "abstract": "Tobacco use remains a leading preventable cause of morbidity and mortality. Although several pharmacotherapies and behavioral treatments for tobacco use disorder (TUD) exist, their overall efficacy is modest, underscoring the need for innovative treatment approaches. Ketamine, a rapid-acting glutamate receptor antagonist with neuroplasticity-enhancing properties, has shown promise in the treatment of other substance use disorders. Combining ketamine with motivational enhancement therapy (MET) may complement behavioral treatment in TUD by facilitating cognitive and psychological flexibility while strengthening individuals' ability to quit smoking. The primary aim of this open-label pilot study was to evaluate the feasibility and preliminary clinical outcomes of ketamine treatments delivered in conjunction with MET for smoking cessation in individuals with TUD. Seven cigarette smokers (ages 29-64) with a history of unsuccessful quit attempts underwent three weekly intramuscular ketamine sessions (0.71 mg/kg) combined with MET. Feasibility, the primary outcome, was assessed by study completion rates. Secondary outcomes included changes in smoking patterns, craving, nicotine dependence, withdrawal, and motivation to quit. All participants completed the interventional sessions. Ketamine sessions were well-tolerated, and no adverse events other than the expected transient psychoactive effects were observed. Cigarette consumption decreased, accompanied by reductions in nicotine craving. Withdrawal symptoms, nicotine dependence severity, and motivation to quit remained stable. Ketamine-enhanced psychotherapy for TUD was feasible and was associated with reductions in smoking and craving. These preliminary findings support further trials investigating ketamine's potential to enhance behavioral interventions for addiction.",
-      "date": "2026-09-25",
-      "authors": [
-        "Jones Jennifer",
-        "Redding Joseph",
-        "Amador Emily"
-      ],
-      "doi": "10.1177/02698811261488486"
-    },
-    {
-      "title": "Integrated approaches to geriatric mental disorders: pathophysiology, interventions, and precision medicine horizons.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42787720/",
-      "source": "PubMed",
-      "abstract": "The global aging demographic has precipitated a surge in late-life mental disorders (LMDs)-including late-life depression (LLD), anxiety, and behavioral and psychological symptoms of dementia (BPSD)-posing critical public health challenges. This review synthesizes current evidence on the unique pathophysiology, clinical management, and emerging frontiers of geriatric mental health, emphasizing the interplay of neurobiological aging, multimorbidity, and psychosocial stressors. Key pathophysiological mechanisms include \"inflammaging\" (microglial overactivation), cerebral small vessel disease (CSVD), and senescence of monoaminergic systems, which collectively reduce neural resilience and complicate diagnosis. Clinical challenges-such as atypical symptom presentation (e.g., somatic masking of depression), polypharmacy risks, and diagnostic ambiguity between LLD and pseudodementia-necessitate tailored interventions. Notably, caregiver burden represents an independent predictor of patient institutionalization. Multiple systematic reviews and meta-analyses have consistently identified caregiver burden and distress as significant predictors of nursing home admission, with carer stress sometimes serving as the single determining factor for this transition. This underscores the critical need to integrate caregiver well-being into routine clinical assessment. Pharmacological strategies prioritize SSRIs/SNRIs but require cautious dosing due to age-related pharmacokinetic alterations (e.g., reduced renal clearance) and cardiovascular/metabolic risks. Emerging targets (e.g., ketamine for treatment-resistant LLD, anti-inflammatory agents guided by biomarker profiling) highlight a shift toward precision. Psychotherapeutic adaptations-including modified cognitive behavioral therapy (CBT), problem-solving therapy (PST), and life review therapy-address cognitive and psychosocial needs, while integrated care models (e.g., Collaborative Care Model [CoCM]) demonstrate superior outcomes over fragmented care. Lifestyle interventions (exercise) and neuromodulation (rTMS) further expand treatment options. Critical gaps remain, including underrepresentation of older adults in clinical trials and pervasive polypharmacy. Future directions emphasize pharmacogenomics, AI-driven early detection, and culturally equitable care to advance precision psychiatry for LMDs. This synthesis provides clinicians and researchers with a roadmap to navigate the complexities of geriatric mental health, advocating for multidisciplinary, patient-centered approaches to improve outcomes in aging populations.",
-      "date": "2026-09-04",
-      "authors": [
-        "Wang Jin",
-        "Li Anqi"
-      ],
-      "doi": "10.3389/fpsyt.2026.1946385"
     },
     {
       "title": "Pα+ Psychedelic Bulletin #232: Q2’26 Psychedelic Lobbying Update; DEA Again Moves to Schedule 5 Tryptamines; Oregon Backpedals Psilocybin Fee Hike",
@@ -541,37 +542,37 @@
       "doi": "10.5812/ijpr-164903"
     },
     {
-      "title": "Enhanced osteogenic potential of chitosan scaffolds loaded with &lt;i&gt;Lawsonia inermis&lt;/i&gt;, hydroxyapatite particles, and dental pulp stem cells in rats.",
-      "url": "https://doi.org/10.1016/j.reth.2026.101171",
+      "title": "Treatments for Individuals with Suicidal Thoughts: Use, Indications, and Helpfulness.",
+      "url": "https://doi.org/10.1016/j.jadr.2026.101165",
       "source": "Europe PMC",
-      "abstract": "<h4>Introduction</h4>Maxillary/alveolar bone reconstruction is vital for cleft and pre-prosthetic patients. Autogenous bone (iliac crest) is the gold standard for clefts due to its bone-forming ability. For large defects (trauma/tumor), the vascularized fibula flap is preferred for its strength and blood supply.<h4>Methods</h4>This study investigates the physicochemical and biological properties of chitosan (Cs)-based scaffolds. Three scaffold formulations were prepared for in vitro characterization: pure Cs, Cs enriched with 8% <i>Lawsonia inermis</i> extract (Cs-LI), and Cs combined with LI and nanohydroxyapatite (Cs-LI-HAPs). For the in vivo study, five experimental groups were evaluated in a rat mandibular defect model: sham (empty defect), control (Cs scaffold alone), Cs-LI, Cs-LI-HAPs, and Cs-LI-HAPs seeded with 1 × 10<sup>6</sup> dental pulp stem cells (DPSCs).<h4>Results</h4>The synthesized HAPs showed a biomimetic apatite structure confirmed by FTIR and XRD, with a particle size of 730.2 ± 38.45 nm. Scaffold characterization demonstrated that Cs-LI-HAP had superior structural integrity, featuring interconnected porosity, improved mechanical strength (17.57 ± 1.49 MPa compressive strength), and a lower degradation rate (65.48 ± 10.35% at 4 weeks) compared to Cs and Cs-LI scaffolds. In vitro tests showed that Cs-LI-HAPs had good hemocompatibility and supported DPSC growth. In vivo, CBCT and histopathological analyses revealed that the Cs-LI-HAPs-DPSCs group exhibited significantly less fibrous tissue formation and greater bone regeneration compared to other groups.<h4>Conclusions</h4>The Cs-LI-HAPs scaffold showed strong bone regeneration potential, with HAPs improving strength and stability, LI enhancing cell support, and DPSCs promoting new bone formation, making it a promising platform for maxillofacial defect repair.",
-      "date": "2026-09-16",
+      "abstract": "<h4>Background</h4>Although millions of adults seriously consider suicide each year, clinical trials often exclude individuals experiencing suicidal ideation (SI). This analysis sought to describe the use of a range of psychiatric treatment modalities in individuals with mood disorders with and without a history of suicide attempt or SI.<h4>Methods</h4>Individuals with mood disorders (n=211; M=93/F=118) who had previously participated in psychiatric research at the National Institutes of Health Clinical Center completed a follow-up clinical assessment (range=1-20 years since study participation). In addition to clinical outcomes, participants were asked about psychiatric treatment use since discharge, treatment indication, and perceived helpfulness of the intervention. Differences between participants who did and did not report SI and/or history of suicide attempt at index visit were analyzed using general linear models.<h4>Results</h4>Individuals with SI on index visit had generally similar clinical outcomes as those who did not report SI on index visit, but they were more likely to report use of psychiatric medications or ketamine at follow-up. Few group differences were noted with regard to perceived helpfulness or use of treatments for suicide-related indications. Individuals with a history of suicide attempt on index visit were more likely to report suicide attempts and psychiatric hospitalization at follow-up.<h4>Conclusion</h4>Individuals with SI or with a history of suicide attempts frequently use psychiatric services, particularly psychiatric medications and hospitalizations. The results underscore the need for effective, suicide-focused treatments for individuals with suicidal thoughts and behaviors.<h4>Clinical trials identifier</h4>www.clinicaltrials.gov (NCT02543983).",
+      "date": "2026-09-07",
       "authors": [
-        "Karandish M",
-        "Ziaei G",
-        "Akbarizadeh F"
+        "Ballard ED",
+        "Hafermann H",
+        "Hurst K"
       ],
-      "doi": "10.1016/j.reth.2026.101171"
+      "doi": "10.1016/j.jadr.2026.101165"
     },
     {
-      "title": "RAF1 scaffold integrity shapes chemogenetic degradation outcomes in KRAS-driven lung cancer models.",
-      "url": "https://doi.org/10.26508/lsa.202603839",
+      "title": "Bispectral index during remimazolam versus propofol sedation at matched depths: a randomized, double-blind crossover trial in healthy volunteers.",
+      "url": "https://doi.org/10.1080/07853890.2026.2735790",
       "source": "Europe PMC",
-      "abstract": "Scaffold integrity is essential for the activity of proteins that function through protein-protein interactions rather than catalytic output. RAF1 exemplifies this duality: although it is a bona fide kinase and a core component of the MAPK cascade, its tumor-promoting role is largely kinase-independent, relying instead on scaffold-mediated suppression of apoptosis. Genetic <i>Raf1</i> ablation in KRAS-driven lung adenocarcinoma mouse models induces tumor regression without systemic toxicity, making it an attractive candidate for targeted protein degradation. Chemogenetic systems like the dTAG platform are widely used for preclinical target validation. Here, we generated a dTAG-RAF1 mouse model and showed that pharmacological degradation is efficient and systemically well tolerated but fails to reproduce the tumor regression observed upon genetic <i>Raf1</i> ablation. Mechanistically, the N-terminal FKBP12<sup>F36V</sup> tag (dTAG) perturbs the RAF1 interactome, including scaffold associations with apoptotic regulators, thereby blunting the phenotypic consequences of its degradation. These results establish scaffold integrity as a determinant of chemogenetic system fidelity and argue that degradation tools must be validated at the functional level, not only for target elimination, before assessing their therapeutic relevance.",
-      "date": "2026-09-22",
+      "abstract": "<h4>Background</h4>The bispectral index (BIS) was derived primarily from propofol data, and whether its thresholds apply to remimazolam is uncertain. We compared BIS between the two agents at matched sedation depths and examined early cognitive recovery.<h4>Methods</h4>In this prospective, randomized, double-blind, two-period crossover trial, 16 healthy volunteers (American Society of Anesthesiologists physical status I) received remimazolam and propofol in random order, ≥ 7 days apart. Each agent was titrated to moderate (Modified Observer's Assessment of Alertness/Sedation [MOAA/S] 3) and deep (MOAA/S 1) sedation. The confirmatory outcome was mean BIS at deep sedation. All other outcomes were exploratory: BIS at moderate sedation and at loss of the eyelash reflex, emergence time, and cognitive recovery at 30 and 120 min.<h4>Results</h4>At deep sedation, mean BIS was higher with remimazolam (57.6 ± 7.5) than with propofol (46.5 ± 7.9; adjusted difference 11.1 units; 95% CI, 7.3 to 14.8; <i>p</i> < 0.001). In exploratory analyses, BIS was also higher at moderate sedation and at loss of the eyelash reflex (both <i>p</i> < 0.001), and emergence time did not differ (<i>p</i> = 0.606). At 30 min, processing speedand  executive function recovered faster after remimazolam (p = 0.012 and p < 0.001), whereas verbal memory did not differ between agents. All domains converged by 120 min. Adverse events were uncommon, and the trial was not powered to compare them.<h4>Conclusion</h4>At clinically matched sedation depths, remimazolam produced higher BIS values than propofol. Spectral data were not recorded, so the basis of this offset is undetermined, and the cognitive findings were exploratory. Whether this offset warrants agent-specific reference values requires validation in clinical populations.",
+      "date": "2026-09-25",
       "authors": [
-        "de-la-Puente-Ovejero L",
-        "Domostegui A",
-        "García-Pérez IM"
+        "Cai S",
+        "Hu X",
+        "Wei Y"
       ],
-      "doi": "10.26508/lsa.202603839"
+      "doi": "10.1080/07853890.2026.2735790"
     },
     {
       "title": "CZ",
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2018-004480-31/CZ",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-10-01",
+      "date": "2026-10-02",
       "authors": [],
       "doi": ""
     },
@@ -580,7 +581,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2020-005037-32/CZ",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-10-01",
+      "date": "2026-10-02",
       "authors": [],
       "doi": ""
     },
@@ -589,7 +590,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2021-002909-10/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-10-01",
+      "date": "2026-10-02",
       "authors": [],
       "doi": ""
     },
@@ -598,7 +599,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2015-000550-37/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-10-01",
+      "date": "2026-10-02",
       "authors": [],
       "doi": ""
     },
@@ -607,7 +608,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2021-000041-40/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-10-01",
+      "date": "2026-10-02",
       "authors": [],
       "doi": ""
     },
@@ -616,7 +617,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2020-000829-55/DK",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-10-01",
+      "date": "2026-10-02",
       "authors": [],
       "doi": ""
     },
@@ -625,7 +626,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2020-002790-94/SE",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-10-01",
+      "date": "2026-10-02",
       "authors": [],
       "doi": ""
     },
@@ -634,7 +635,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2021-006200-33/FI",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-10-01",
+      "date": "2026-10-02",
       "authors": [],
       "doi": ""
     },
@@ -643,7 +644,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2019-004812-73/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-10-01",
+      "date": "2026-10-02",
       "authors": [],
       "doi": ""
     },
@@ -652,7 +653,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2022-002369-14/BE",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-10-01",
+      "date": "2026-10-02",
       "authors": [],
       "doi": ""
     },

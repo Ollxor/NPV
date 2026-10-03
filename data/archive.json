@@ -1,6 +1,42 @@
 {
   "items": [
     {
+      "title": "Effects of Repeated Ketamine Infusions on Suicidal Ideation in Treatment-Resistant Depression and Associated Changes in Selected Plasma Biomarkers.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42826739/",
+      "source": "PubMed",
+      "date": "2026-10-02",
+      "authors": [
+        "Murao Masami",
+        "Setoyama Daiki",
+        "Matsumoto Yasuyuki"
+      ],
+      "doi": "10.1055/a-2959-4626",
+      "summary_en": "Open-label trial examining four intravenous ketamine infusions (0.5 mg/kg over 2 weeks) in treatment-resistant depression patients. Suicidal ideation showed modest reductions on multiple rating scales. Eleven plasma biomarkers were analyzed; nominal associations emerged but no definitive biomarkers survived statistical correction. Results are hypothesis-generating and require larger validation studies.",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "observational",
+      "substances": [
+        "ketamine"
+      ],
+      "added_at": "2026-10-03T11:52:21.372395+00:00"
+    },
+    {
+      "title": "Quarterly Psychedelics Briefing: Q3 2026",
+      "url": "https://psychedelicalpha.com/news/quarterly-psychedelics-briefing-q3-2026/",
+      "source": "Psychedelic Alpha",
+      "date": "2026-10-02",
+      "authors": [],
+      "doi": "",
+      "summary_en": "Quarterly overview of Q3 2026 developments in psychedelic science and industry. This briefing covers advances in drug development, policy and regulatory changes, and academic research. Editor Josh Hardman synthesizes major trends and provides outlook for the following quarter.",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "other",
+      "substances": [
+        "other"
+      ],
+      "added_at": "2026-10-03T11:52:21.372395+00:00"
+    },
+    {
       "title": "Level of preparedness to use psilocybin among individuals seeking psychedelic risk reduction: a retrospective study of a pilot psychiatric consultation service.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42818591/",
       "source": "PubMed",

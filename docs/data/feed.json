@@ -1,6 +1,39 @@
 {
-  "generated_at": "2026-10-03T11:52:51.113684+00:00",
+  "generated_at": "2026-10-04T12:40:32.182398+00:00",
   "items": [
+    {
+      "title": "Psychedelics and disorders of consciousness: a new frontier in neurotherapeutics.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42829371/",
+      "source": "PubMed",
+      "date": "2026-10-03",
+      "authors": [
+        "Du Xiubo",
+        "Peng Feiyuan",
+        "Wang Xiaohui"
+      ],
+      "doi": "10.1038/s41380-026-03918-4",
+      "summaries": {
+        "en": "Disorders of consciousness (DoC) from severe brain injury have limited treatments. Recent neuroimaging detects residual activity in DoC patients, but interventions remain scarce. Psychedelics like psilocybin, LSD, and DMT modulate brain networks and enhance neural plasticity, emerging as candidate therapeutics for DoC through serotonin 5-HT2A receptor mechanisms.",
+        "sv": "Medvetandestörningar från svår hjärnskada har begränsade behandlingar. Ny neuroimaging upptäcker kvarstående hjärnaktivitet hos dessa patienter, men effektiva interventioner saknas. Psykedelika som psilocybin, LSD och DMT modulerar hjärnetnätverk och förbättrar neuroplasticitet, och framstår som kandidatbehandlingar genom 5-HT2A-receptormekanismer.",
+        "no": "Bevissthetsforstyrrelser fra alvorlig hjerneskade har begrenset behandling. Ny nevroimaging oppdager resterende hjernaktivitet hos disse pasientene, men effektive intervensjoner mangler. Psykedelika som psilocybin, LSD og DMT modulerer hjernenettverk og forbedrer neuroplastisitet, og oppstår som kandidatbehandlinger gjennom 5-HT2A-reseptormekanismer.",
+        "da": "Bevidsthedsforstyrrelser fra alvorlig hjerneskade har begrænset behandling. Ny neuroimaging opdager resterende hjernaktivitet hos disse patienter, men effektive interventioner mangler. Psykedelika som psilocybin, LSD og DMT modulerer hjernenetværk og forbedrer neuroplasticitet, og opstår som kandidatbehandlinger gennem 5-HT2A-receptormekanismer.",
+        "fi": "Tajunnan häiriöistä vakavan aivovamman seurauksena on rajallinen hoito. Uusi neuroimagingiin havaitsee jäljellä olevaa aivotoimintaa näillä potilailla, mutta tehokkaita interventioita puuttuu. Psykedeelisaineista psilosybiini, LSD ja DMT moduloivat aivoverkkojen toimintaa ja parantavat neurooplastisuutta, ja niistä kehittyy kandidaattihoitoja 5-HT2A-reseptorin mekanismien kautta.",
+        "is": "Meðvitundarraskanir vegna alvarlegra heilakjarnanna hafa takmarkað meðferð. Ný heilamyndun greinir eftirstöðva heilavirkni hjá þessum sjúklingum, en árangursríkar inngrip skorta. Sáleinkennalyf eins og psílosýbín, LSD og DMT breyta starfsemi heilanets og bæta taugaumskiptingu, og virðast sem framboðslausir meðferðarflokkar gegnum 5-HT2A-viðtakakerfi.",
+        "et": "Teadvuse häired rasketest ajukahjustustest on piiratud ravi. Uus neurokaardistus tuvastab nende patsientide ülejäänud ajutegevust, kuid tõhusad sekkumised puuduvad. Psihhedeliikumid nagu psilosybiini, LSD ja DMT moduleerivad aju võrkude dünaamikat ja parandavad neurooplastilisust ning on 5-HT2A-retseptorite mehhanismide kaudu kandidaatravid.",
+        "lv": "Apziņas traucējumi no smagas smadzeņu traumas ir ierobežota ārstēšana. Jaunā neiroimaging atklāj atlikušo smadzeņu aktivitāti šiem pacientiem, taču efektīvas intervences trūkst. Psihedeliki, piemēram, psilocibin, LSD un DMT, modulē smadzeņu tīklu dinamiku un uzlabo neiroplasticitāti, kļūstot par kandidātu terapijām caur 5-HT2A receptoru mehānismiem.",
+        "lt": "Sąmonės sutrikimai dėl sunkaus smegenų pažeidimo turi ribotą gydymą. Nauji neurovaizdinimo metodai nustato likutinę smegenų veiklą šiems pacientams, tačiau trūksta veiksmingų intervencijų. Psichedelikai, tokie kaip psilocibinas, LSD ir DMT, moduliuoja smegenų tinklo dinamiką ir pagerina neuro-plastišumą, tampa kandidatūomis terapijomis per 5-HT2A receptorių mechanizmus."
+      },
+      "notable": false,
+      "notable_reasons": null,
+      "relevance_score": 4,
+      "study_type": "review",
+      "substances": [
+        "psilocybin",
+        "lsd",
+        "other"
+      ],
+      "added_at": "2026-10-04T12:40:15.586129+00:00"
+    },
     {
       "title": "Effects of Repeated Ketamine Infusions on Suicidal Ideation in Treatment-Resistant Depression and Associated Changes in Selected Plasma Biomarkers.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42826739/",
@@ -1958,37 +1991,6 @@
         "ketamine"
       ],
       "added_at": "2026-09-30T12:51:39.849882+00:00"
-    },
-    {
-      "title": "Beyond symptom reduction: Intranasal esketamine is associated with improved quality of life in treatment-resistant depression.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42731235/",
-      "source": "PubMed",
-      "date": "2026-09-07",
-      "authors": [
-        "Pompili Maurizio",
-        "Sarubbi Salvatore",
-        "Di Biase Giulia"
-      ],
-      "doi": "10.1016/j.jpsychires.2026.09.005",
-      "summaries": {
-        "en": "A 6-month study of 35 treatment-resistant depression patients receiving intranasal esketamine plus oral antidepressants showed significant improvements in depressive symptoms, hopelessness, and quality of life (all p<0.001), with suicidal ideation also decreasing (p=0.025). Quality-of-life gains exceeded clinical significance thresholds, with no differences between SSRI and SNRI combinations.",
-        "sv": "En 6-månaders studie med 35 patienter med behandlingsresistent depression som fick intranasalt esketamin tillsammans med muntlig antidepressiva visade signifikanta förbättringar i depressiva symtom, hopplöshet och livskvalitet (alla p<0,001), med minskad suicidal ideation (p=0,025). Förbättringar i livskvalitet överskred klinisk betydelse, utan skillnader mellan SSRI och SNRI.",
-        "no": "En 6-månaders studie med 35 pasienter med behandlingsresistent depresjon som fikk intranasalt esketamin sammen med oral antidepressiva viste signifikante forbedringer i depressive symptomer, håpløshet og livskvalitet (alle p<0,001), med redusert suicidal ideasjon (p=0,025). Forbedringer i livskvalitet oversteg klinisk betydning, uten forskjeller mellom SSRI og SNRI.",
-        "da": "Et 6-måneders studie med 35 patienter med behandlingsresistent depression, der intranasalt esketamin blev kombineret med oral antidepressiva, viste betydelige forbedringer i depressive symptomer, håbløshed og livskvalitet (alle p<0,001), med reduceret selvmordstanker (p=0,025). Forbedringer i livskvalitet oversteg klinisk signifikans, uden forskelle mellem SSRI og SNRI.",
-        "fi": "6 kuukauden tutkimuksessa 35 hoitoresistentin masennuksen potilasta, jotka saivat intranaasaalista esketamiinia suullisen masennuslääkkeen kanssa, osoitettiin merkittäviä parannuksia masennusoireissa, toivottomuudessa ja elämänlaadun laadussa (kaikki p<0,001), sekä itsemurhapitäisyyden väheneminen (p=0,025). Elämänlaadun paraneminen ylitti kliinisen merkitsevyyden kynnyksen ilman SSRI- ja SNRI-ryhmien välisiä eroja.",
-        "is": "6 mánaða rannsókn með 35 sjúklingum með meðferðarþolna þunglyndi sem fengu intnasalt esketamín ásamt munnlegum þunglyndislyfjaum sýndi marktæk framförningu í þunglyndiseinkennum, einbeitni og lífsgæðum (öll p<0,001), með minnkun sjálfsmorðshugsana (p=0,025). Framförnun í lífsgæðum fór yfir klíníska mikilvægi án munar milli SSRI og SNRI hópa.",
-        "et": "6-kuulise uuringu käigus saadi 35 ravi-resistentse depressiooni patsiendil, kes said intranaasaalset esketamiini suulise antidepressandi kõrvale, märkimisväärne paranemine depressioonisümptomites, aussituses ja elukvaliteedis (kõik p<0,001), lisaks vähenes enesetapumõtted (p=0,025). Elukvaliteedi paranemine ületas kliinilist tähtsust ilma erinevuseta SSRI ja SNRI vahel.",
-        "lv": "6 mēnešu pētījumā ar 35 ārstēšanai rezistentās depresijas pacientiem, kuri saņēma intranazālo esketamīnu kopā ar mutvārdu antidepresantiem, tika novēroti nozīmīgi uzlabojumi depresijas simptomiem, bezjēdzības jūtai un dzīves kvalitātei (visi p<0,001), kā arī samazinājās pašnāvnieciskas ideācijas (p=0,025). Dzīves kvalitātes uzlabojumi pārsniedza klīnisku nozīmīgumu bez atšķirībām starp SSRI un SNRI grupām.",
-        "lt": "6 mėnesių tyrime, kuriame dalyvavo 35 gydymui atsparūs depresija sergantys pacientai, gavę intranasinį esketaminą su peroraliniu antidepresantu, buvo pastebėti reikšmingi pagerinimas depresijos simptomais, beprotybės jausmais ir gyvenimo kokybe (visi p<0,001), taip pat sumažėjo savižudybės ideacija (p=0,025). Gyvenimo kokybės pagerinimas viršijo klininę reikšmę be skirtumų tarp SSRI ir SNRI grupių."
-      },
-      "notable": false,
-      "notable_reasons": null,
-      "relevance_score": 4,
-      "study_type": "observational",
-      "substances": [
-        "ketamine"
-      ],
-      "added_at": "2026-09-13T12:10:38.227698+00:00"
     }
   ]
 }

@@ -1,6 +1,28 @@
 {
   "items": [
     {
+      "title": "Psychedelics and disorders of consciousness: a new frontier in neurotherapeutics.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42829371/",
+      "source": "PubMed",
+      "date": "2026-10-03",
+      "authors": [
+        "Du Xiubo",
+        "Peng Feiyuan",
+        "Wang Xiaohui"
+      ],
+      "doi": "10.1038/s41380-026-03918-4",
+      "summary_en": "Disorders of consciousness (DoC) from severe brain injury have limited treatments. Recent neuroimaging detects residual activity in DoC patients, but interventions remain scarce. Psychedelics like psilocybin, LSD, and DMT modulate brain networks and enhance neural plasticity, emerging as candidate therapeutics for DoC through serotonin 5-HT2A receptor mechanisms.",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "review",
+      "substances": [
+        "psilocybin",
+        "lsd",
+        "other"
+      ],
+      "added_at": "2026-10-04T12:40:15.586129+00:00"
+    },
+    {
       "title": "Effects of Repeated Ketamine Infusions on Suicidal Ideation in Treatment-Resistant Depression and Associated Changes in Selected Plasma Biomarkers.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42826739/",
       "source": "PubMed",

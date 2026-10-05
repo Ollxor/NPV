@@ -1,6 +1,22 @@
 {
   "items": [
     {
+      "title": "Podcast: Oregon Backtracks on Fee Hike, California Funds Psychedelic Research, DEA Moves to Schedule 5 Tryptamines",
+      "url": "https://psychedelicalpha.com/news/oregon-backtracks-on-fee-hike-california-funds-psychedelic-research-dea-moves-to-schedule-5-tryptamines/",
+      "source": "Psychedelic Alpha",
+      "date": "2026-10-05",
+      "authors": [],
+      "doi": "",
+      "summary_en": "Recent policy developments across North America: Oregon has reversed proposed fee increases for psilocybin service providers, California has allocated new funding for psychedelic research, and the US DEA is moving to schedule certain tryptamines under Schedule 5 classifications. These regulatory shifts reflect evolving approaches to psychedelic substances governance.",
+      "notable": true,
+      "notable_reason": "Includes national-level policy development (DEA scheduling decision on tryptamines) and state-level research funding initiative (California).",
+      "study_type": "other",
+      "substances": [
+        "other"
+      ],
+      "added_at": "2026-10-05T15:04:39.616541+00:00"
+    },
+    {
       "title": "Psychedelics and disorders of consciousness: a new frontier in neurotherapeutics.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42829371/",
       "source": "PubMed",

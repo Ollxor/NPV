@@ -1,6 +1,43 @@
 {
-  "generated_at": "2026-10-04T12:40:32.182398+00:00",
+  "generated_at": "2026-10-05T15:04:56.834868+00:00",
   "items": [
+    {
+      "title": "Podcast: Oregon Backtracks on Fee Hike, California Funds Psychedelic Research, DEA Moves to Schedule 5 Tryptamines",
+      "url": "https://psychedelicalpha.com/news/oregon-backtracks-on-fee-hike-california-funds-psychedelic-research-dea-moves-to-schedule-5-tryptamines/",
+      "source": "Psychedelic Alpha",
+      "date": "2026-10-05",
+      "authors": [],
+      "doi": "",
+      "summaries": {
+        "en": "Recent policy developments across North America: Oregon has reversed proposed fee increases for psilocybin service providers, California has allocated new funding for psychedelic research, and the US DEA is moving to schedule certain tryptamines under Schedule 5 classifications. These regulatory shifts reflect evolving approaches to psychedelic substances governance.",
+        "sv": "Nya regeländringar i Nordamerika: Oregon återkallar föreslagna avgiftshöjningar för psilocybintjänster, Kalifornien avsätter medel för psykedelisk forskning, och DEA planerar att klassificera vissa tryptaminer under Schedule 5. Dessa förändringar speglar utvecklingen inom regleringen av psykedeliska ämnen.",
+        "no": "Nylige politiske endringer i Nord-Amerika: Oregon trekker tilbake foreslåtte gebyrøkninger for psylocibin-tjenester, California avsetter midler til psykedelisk forskning, og DEA planlegger å klassifisere visse tryptaminer under Schedule 5. Disse regelendringene gjenspeiler utviklingen innenfor regulering av psykedelika.",
+        "da": "Seneste politiske udvikling i Nordamerika: Oregon trækker gebyrforhøjelser for psilocybin-tjenester tilbage, Californien bevillinger til psykedelisk forskning, og DEA planlægger klassificering af visse tryptaminer under Schedule 5. Disse reguleringsændringer afspejler udviklingen indenfor psykedelika-regulering.",
+        "fi": "Viimeaikaiset politiikan muutokset Pohjois-Amerikassa: Oregon vetää takaisin psilosybiinipalvelujen maksukorotukset, Kalifornia rahoittaa psykedeelistä tutkimusta, ja DEA suunnittelee tiettyjen tryptamiinien luokittelua Schedule 5 -kategoriaan. Nämä sääntelymuutokset heijastavat psykedeelikkeistä säätelyn kehitystä.",
+        "is": "Nýlegar stefnubreytingar í Norður-Ameríku: Oregon dregur til baka fyrirhuguðar gjaldahækkanir fyrir psýlósýbín-þjónustu, Kalifornía fjármagnar psýkedélíska rannsóknir, og DEA ætlar að flokka ákveðin tryptamín undir Schedule 5. Þessar reglubreytingar endurspegla þróun í stjórn psýkedélíkra efna.",
+        "et": "Hiljutised poliitilised muutused Põhja-Ameerikas: Oregon tühistab psilotsibiini-teenuste tasutõusud, Kalifornia rahastab psühhedeelikate uurimist ja USA DEA plaanib teatud tryptamiinide klassifitseerimist Schedule 5 kategooriasse. Need regulatsioonmuutused peegeldavad psühhedeelikate reguleerimise arengut.",
+        "lv": "Nesen notikušas politiskas izmaiņas Ziemeļamerikā: Oregona atceļ ierosinātos maksas paaugstinājumus psīlocibīna pakalpojumiem, Kalifornija finansē psihedelisko vielu pētniecību, un ASV DEA plāno noteiktu triptamīnu klasificēšanu Schedule 5 kategorijā. Šīs regulatīvās izmaiņas atspoguļo psihedelisko vielu regulējuma attīstību.",
+        "lt": "Paseniai įvykę politiniai pokyčiai Šiaurės Amerikoje: Oregonas atšaukia siūlomus psilocibino paslaugų mokesčių padidėjimus, Kalifornija finansuoja psichedelinių medžiagų tyrimą, ir JAV DEA planuoja tam tikrų triptaminų klasifikavimą pagal Schedule 5 kategoriją. Šie reguliacijos pokyčiai atspindi psichedelinių medžiagų reguliavimo raidą."
+      },
+      "notable": true,
+      "notable_reasons": {
+        "en": "Includes national-level policy development (DEA scheduling decision on tryptamines) and state-level research funding initiative (California).",
+        "sv": "Inkluderar utveckling av nationell politik (DEA:s beslut om klassificering av tryptaminer) och initiativ för forskningsfinansiering på statlig nivå (Kalifornien).",
+        "no": "Inkluderer utvikling av nasjonale retningslinjer (DEA-klassifiseringsbeslutning på tryptaminer) og statlig forskningsfinansieringsintiativ (California).",
+        "da": "Omfatter udvikling af national politik (DEA's klassificeringsbeslutning om tryptaminer) og statlig forskningsfinansieringsindsats (Californien).",
+        "fi": "Sisältää kansallisen politiikan kehittämisen (DEA:n tryptamiinien luokittelupäätös) ja osavaltiotason tutkimusrahoitusaloitteen (Kalifornia).",
+        "is": "Inniheldur þróun landsbundinnar stefnu (DEA flokkun ákvörðun á tryptömonum) og ríkisstig rannsóknarfjármögnunaraðgerð (Kalifornía).",
+        "et": "Sisaldab riikliku tasandi poliitika arendamist (DEA tryptamiinide klassifitseerimise otsus) ja osariigi tasandi teadusuuringute rahastamise algatust (California).",
+        "lv": "Ietver nacionāla līmeņa politikas izstrādi (DEA triptamīnu klasificēšanas lēmums) un valsts līmeņa pētniecības finansēšanas iniciatīvu (Kalifornija).",
+        "lt": "Apima nacionalinio lygio politikos plėtrą (DEA triptaminų klasifikavimo sprendimas) ir valstijos lygio mokslinių tyrimų finansavimo iniciatyvą (Kalifornija)."
+      },
+      "relevance_score": 3,
+      "study_type": "other",
+      "substances": [
+        "other"
+      ],
+      "added_at": "2026-10-05T15:04:39.616541+00:00"
+    },
     {
       "title": "Psychedelics and disorders of consciousness: a new frontier in neurotherapeutics.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42829371/",
@@ -1960,37 +1997,6 @@
         "psilocybin"
       ],
       "added_at": "2026-09-24T12:02:14.493884+00:00"
-    },
-    {
-      "title": "Treatments for Individuals with Suicidal Thoughts: Use, Indications, and Helpfulness.",
-      "url": "https://doi.org/10.1016/j.jadr.2026.101165",
-      "source": "Europe PMC",
-      "date": "2026-09-07",
-      "authors": [
-        "Ballard ED",
-        "Hafermann H",
-        "Hurst K"
-      ],
-      "doi": "10.1016/j.jadr.2026.101165",
-      "summaries": {
-        "en": "Follow-up study of 211 mood disorder patients previously enrolled in NIH research (1-20 years post-participation). Participants with suicidal ideation at follow-up showed similar clinical outcomes to those without, but more frequently used psychiatric medications or ketamine. History of suicide attempt predicted higher rates of subsequent attempts and hospitalization. Few differences in perceived treatment helpfulness between groups.",
-        "sv": "Uppföljningsstudie av 211 patienter med stämningsrubbningar från tidigare NIH-forskning (1-20 år efter deltagande). Deltagare med suicidal ideation vid uppföljning visade liknande kliniska resultat som de utan, men använde oftare psykiatriska läkemedel eller ketamin. Historia av självmordsförsök förutsade högre frekvens av senare försök och sjukhusvistelse.",
-        "no": "Oppfølgingsstudie av 211 pasienter med stemningslidelser fra tidligere NIH-forskning (1-20 år etter deltakelse). Deltakere med suicidal ideasjon ved oppfølging viste lignende kliniske utfall som de uten, men brukte oftere psykiatriske legemidler eller ketamin. Tidligere selvmordsforsøk forutsa høyere forekomst av senere forsøk og sykehusinnleggelse.",
-        "da": "Opfølgningsstudie af 211 patienter med humørsygdomme fra tidligere NIH-forskning (1-20 år efter deltagelse). Deltagere med suicidal ideation ved opfølgning viste lignende kliniske resultater som dem uden, men brugte oftere psykiatriske lægemidler eller ketamin. Historie med selvmordsforsøg forudsagde højere hyppighed af senere forsøg og hospitalsindlæggelse.",
-        "fi": "Seurantastudie 211 mielialahäiriöisen potilaan kanssa, jotka osallistuivat aiempaan NIH-tutkimukseen (1-20 vuotta osallistumisen jälkeen). Osallistujilla, joilla oli itsemurhaa koskevia ajatuksia seurannassa, oli vastaavat kliiniset tulokset kuin ilman sitä, mutta he käyttivät useammin psykiatrisia lääkkeitä tai ketamiinia. Edelliset itsemurhayritykset ennustivat myöhempien yritysten ja sairaalahoitoon joutumisen korkeampaa esiintyvyyttä.",
-        "is": "Eftirfylgirannsókn á 211 sjúklingum með tilfinningalegum truflunum frá fyrri rannsóknum hjá National Institutes of Health (1-20 ár eftir þátttöku). Þátttakendur með sjálfsmorðshugsanir við eftirfylgni sýndu svipaðar klínískar niðurstöður og þeir án hennar, en notuðu oftar geðlyf eða ketamín. Saga um sjálfsmorðstilraun spáði fyrir um meiri tíðni síðari tilrauna og sjúkrahúsinnlögn.",
-        "et": "Järeltuudestudy 211 meeleoluhäiretega patsiendiga, kes osalesid varem NIH uuringutes (1-20 aastat pärast osalemist). Osalejad, kellel oli järelkontrollis enesetapuideeid, näitasid sarnaseid kliinilisi tulemusi kui ilma nendeta, kuid kasutasid sagedamini psühhiaatriaalseid ravimeid või ketamiini. Eelmised enesetapukatked ennustasid hilisemate katsete ja haiglasse paigutamise kõrgemat esinemissagedust.",
-        "lv": "Izsekošanas pētījums ar 211 pacienti ar noskaņojuma traucējumiem, kuri iepriekš piedalījās NIH pētniecībā (1-20 gadus pēc dalības). Dalībnieki ar pašnāvnieciskiem doumām izsekošanas laikā parādīja līdzīgus klīniskos rezultātus salīdzinājumā ar tiem bez tām, bet biežāk lietoja psihiatriskos zāļus vai ketamīnu. Iepriekšēji pašnāvniecības mēģinājumi prognozēja augstāku vēlāku mēģinājumu un hospitalizācijas līmeni.",
-        "lt": "Stebėjimo tyrimas su 211 pacientų, turinčių nuotaikos sutrikimai, kurie anksčiau dalyvavo NIH tyrimuose (1-20 metų po dalyvavimo). Dalyviai su savižudybės idėjomis stebėjimo metu parode panašius klininius rezultatus nei be jų, bet dažniau vartojo psichiatrines vaistus arba ketaminą. Ankstesni savižudybės bandymai numatė aukštesnį vėlesnių bandymų ir hospitalizacijos dažnį."
-      },
-      "notable": false,
-      "notable_reasons": null,
-      "relevance_score": 3,
-      "study_type": "observational",
-      "substances": [
-        "ketamine"
-      ],
-      "added_at": "2026-09-30T12:51:39.849882+00:00"
     }
   ]
 }

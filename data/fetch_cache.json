@@ -1,7 +1,59 @@
 {
-  "date": "2026-10-05",
-  "cached_at": "2026-10-05T13:33:39.671633+00:00",
+  "date": "2026-10-06",
+  "cached_at": "2026-10-06T12:44:05.296074+00:00",
   "articles": [
+    {
+      "title": "Psilocybin use, mental health treatment utilization, and unmet treatment need among US individuals with depression.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42834832/",
+      "source": "PubMed",
+      "abstract": "Psilocybin use has increased in the US alongside promising therapeutic potential for depression, raising concerns that individuals may forgo conventional mental health treatment for unsupervised psilocybin use. However, no nationally representative studies have examined whether psilocybin use is associated with differential treatment utilization or perceived unmet need for mental health care among individuals with depression. We analyzed data from 6,793 individuals aged ≥ 12 years with a past-year major depressive episode (MDE) from the 2024 National Survey on Drug Use and Health, a nationally representative survey of the noninstitutionalized US population. Sociodemographic and substance use characteristics were first compared by past-year psilocybin use. We then examined associations between past-year psilocybin use and eight past-year mental health treatment outcomes using Poisson regression, adjusting for sociodemographic characteristics, other past-year substance use, psychotherapeutic prescription misuse, and alcohol use disorder. Among individuals with past-year MDE, an estimated 7.3% (95% CI: 6.4-8.3) used psilocybin in the past year. In multivariable models, psilocybin use was not associated with any mental health treatment utilization, including outpatient, inpatient, or telehealth treatment; prescription medication use for mental health; seeing a doctor for depressive feelings; or prescription medication use for depressive feelings. However, psilocybin use was associated with greater perceived unmet treatment need (52.0% vs. 33.9%; aPR = 1.44; 95% CI: 1.04-2.01). Findings suggest that psilocybin use among individuals with depression co-occurs with perceived unmet need for conventional mental health care but is not associated with lower utilization of any conventional mental health treatments.",
+      "date": "2026-10-06",
+      "authors": [
+        "Eun Avery Chan",
+        "Yang Kevin H",
+        "Palamar Joseph J"
+      ],
+      "doi": "10.1017/S0033291726106163"
+    },
+    {
+      "title": "Subacute effects of ketamine on neural correlates of reward processing.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42834034/",
+      "source": "PubMed",
+      "abstract": "Ketamine induces a sequence of temporally distinct effects on brain function, yet its impact on reward processing beyond the acute post-administration phase remains unclear. In this single-blind, placebo-controlled, crossover study, 28 healthy participants received 0.5 mg/kg racemic ketamine or placebo via a 40 min intravenous infusion. Functional magnetic resonance imaging was acquired approximately 5 h post-infusion during the Monetary Incentive Delay (MID) task, targeting the subacute phase after resolution of acute dissociative effects. Plasma concentrations of ketamine and norketamine were obtained for pharmacokinetic modeling and area under the curve estimation. At 5 h post-administration, ketamine did not significantly modulate brain activation during the MID task in either ROI-based or whole-brain analyses, despite measurable subjective drug effects. Pharmacokinetic modeling yielded ketamine and norketamine concentration-time profiles consistent with expected pharmacokinetic patterns, however, neither individual drug exposure nor psychometric measures showed robust associations with MID task-related neural activation. These findings suggest an absence of detectable task-evoked effects under the present methodological conditions. When considered alongside prior work, they are consistent with the possibility that ketamine's effects on reward circuitry are time-sensitive and may be more prominent during the acute post-administration phase or in clinical populations with pre-existing reward dysfunction.",
+      "date": "2026-09-25",
+      "authors": [
+        "Briem Elisa",
+        "Stöhrmann Peter",
+        "Dörl Gregor"
+      ],
+      "doi": "10.1038/s41398-026-04485-6"
+    },
+    {
+      "title": "Serotonin biology as a basis for explaining psychedelic drug action.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42833201/",
+      "source": "PubMed",
+      "abstract": "Psychedelics exert their effects primarily through the serotonergic system. Like the endogenous neuromodulator, the drugs bind to many serotonin receptor subtypes. However, their receptor selectivity profiles and spatiotemporal patterns of action differ from those of serotonin and vary across compounds. In this review, we summarize studies that have established roles for serotonin in three domains: reward learning, visual processing, and cerebrovascular function. We contrast the neurophysiological and behavioral consequences of endogenous serotonin release with those produced by exogenous psychedelic administration. We propose that several major effects of psychedelics can be understood as perturbations to serotonergic signaling, while also noting some drug actions that remain difficult to explain by existing serotonin biology. Viewing psychedelic drug action through the lens of serotonin provides a mechanistic framework for linking molecular pharmacology to circuit dynamics and behavior.",
+      "date": "2026-Oct-05",
+      "authors": [
+        "Knox Cory A",
+        "Li-Wu Athena",
+        "Kwan Alex C"
+      ],
+      "doi": "10.1016/j.cub.2026.08.045"
+    },
+    {
+      "title": "Pharmacological interventions for alcohol use disorder on quality of life: a meta-analysis of randomized controlled trials.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42831801/",
+      "source": "PubMed",
+      "abstract": "Quality of life (QoL), a critical factor for sustaining recovery from alcohol use disorder (AUD), has been examined as an AUD-related outcome in randomized controlled trials (RCTs) that evaluated pharmacotherapy for AUD. This review evaluates the efficacy of this therapy in improving mental and physical health-related QoL. RCTs were identified across seven databases. Study quality was evaluated using the Cochrane risk-of-bias tool for randomized trials version 2. A systematic review with meta-analysis was conducted. The review adhered to Preferred Reporting Items for Systematic Reviews and Meta-Analysis guidelines and was registered with PROSPERO (CRD420261277890). Eighteen RCTs with 4376 participants were evaluated. Naltrexone was linked to improvements in both mental QoL (d = 0.30, 95% CI: 0.08-0.52) and physical QoL (d = 0.16, 95% CI: 0.01-0.31). Nalmefene improved physical QoL (d = 0.13, 95% CI: 0.02-0.25) but not mental QoL (d = 0.18, 95% CI: -0.004 to 0.354). Topiramate showed no improvement in either domain. However, further analysis indicated that topiramate was associated with a small improvement in physical QoL, which could correlate with a reduced percentage of heavy drinking days. Interpret these findings with caution. Acamprosate, sertraline, and psilocybin were associated with improved mental or physical QoL, whereas ketamine, varenicline, levetiracetam XR, and quetiapine were not. Interpretation is limited to single trials-no eligible RCTs reporting the specified QoL outcomes for disulfiram. Certain medications for AUD are linked with improved mental and physical QoL, but evidence remains limited. Future RCTs should assess QoL and establish whether improvements are clinically meaningful.",
+      "date": "2026-Sep-20",
+      "authors": [
+        "Fluyau Dimy",
+        "Revadigar Neelambika",
+        "Kim Paul"
+      ],
+      "doi": "10.1093/alcalc/agag067"
+    },
     {
       "title": "Psychedelics and disorders of consciousness: a new frontier in neurotherapeutics.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42829371/",
@@ -204,58 +256,6 @@
         "Gordon Felicia"
       ],
       "doi": "10.7326/ANNALS-26-03446"
-    },
-    {
-      "title": "Trends in U.S. Medical Cannabis Registrations and Reasons for Use, 2016 to 2024.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42804772/",
-      "source": "PubMed",
-      "abstract": "",
-      "date": "2026-09-29",
-      "authors": [
-        "Boehnke Kevin F",
-        "Whitcomb Madeline",
-        "Gordon Felicia"
-      ],
-      "doi": "10.7326/ANNALS-26-01527"
-    },
-    {
-      "title": "Multimodal predictors of response to intravenous ketamine in treatment-resistant depression: toward personalized treatment in major depressive and bipolar disorders.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42803524/",
-      "source": "PubMed",
-      "abstract": "Intravenous ketamine is a rapid-acting intervention for treatment-resistant depression (TRD) in adults with major depressive disorder and bipolar disorder (BD). While efficacy is established, a comprehensive integration of clinical, neurophysiological, biomarker, metabolic, and cognitive predictors remains lacking, limiting precision CNS-targeted therapy. To synthesize recent evidence on multimodal predictors of intravenous ketamine response in TRD and propose a preliminary clinical framework to guide personalized treatment. Following PRISMA guidelines, Scopus, PubMed, EMBASE, and MEDLINE were searched for English-language, peer-reviewed studies published within the last 5 years. Eligible studies included adults receiving intravenous ketamine for depressive disorders. Data were descriptively synthesized to identify consistent predictors, evidence clusters, and research gaps. The review included 150 studies. Key predictors of ketamine response included baseline depressive severity, comorbid anxiety, atypical depression and sleep phenotypes, inflammatory and neuroplastic biomarkers (eg, monocyte count, BDNF), metabolic factors (BMI, vitamin B12), genetic/epigenetic variants, neurophysiological signatures (EEG, TMS, fMRI connectivity), cognitive performance, and early symptomatic improvement. Integrative analysis suggests that glutamatergic, circadian, and inflammatory mechanisms interact to shape interindividual variability. Limitations include methodological heterogeneity and scarce long-term outcome data. Intravenous ketamine response in TRD is multifactorial, reflecting clinical phenotype, CNS biomarkers, neurophysiology, metabolism, and genetics. This review proposes a preliminary research framework and pilot clinical questionnaire intended to facilitate future investigation of individualized treatment approaches. However, most proposed predictors remain exploratory and require prospective validation before clinical implementation.",
-      "date": "2026-09-28",
-      "authors": [
-        "Malewska-Kasprzak Magda",
-        "Rybakowski Filip",
-        "Dmitrzak-Weglarz Monika"
-      ],
-      "doi": "10.1017/S1092852926101187"
-    },
-    {
-      "title": "Repetitive Transcranial Magnetic Stimulation for Refractory, Widespread Complex Regional Pain Syndrome Type II: A Case Report.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42802844/",
-      "source": "PubMed",
-      "abstract": "Complex regional pain syndrome (CRPS) is a poorly understood pain disorder often resistant to conventional therapies. Although typically localized, CRPS can spread to other regions. Repetitive transcranial magnetic stimulation (rTMS) is a non-invasive treatment showing promise for neuropathic pain associated with CRPS. A 33-year-old active-duty service member developed widespread, refractory CRPS following a severe ankle sprain, with persistent pain and functional limitations despite medications, ketamine infusions, and sympathetic nerve blocks. The patient received 21 rTMS sessions over four weeks, targeting the left primary motor cortex. Pain scores decreased from 5.9 to 3.8 (legs) and 5.3 to 3.3 (hands) following treatment sessions. A 10% pain reduction was sustained at one-month post-treatment. No significant adverse effects were observed. rTMS was safe, well-tolerated, and associated with clinically meaningful pain reduction in this case of refractory, widespread CRPS, supporting further investigation of rTMS for severe CRPS.",
-      "date": "2026-08-28",
-      "authors": [
-        "Garland Jared S",
-        "Kim Christopher J",
-        "La Croix Christina"
-      ],
-      "doi": "10.7759/cureus.115352"
-    },
-    {
-      "title": "Incidence, Clinical Outcomes, and Factors Associated With Post-intubation Hypotension Among Critically Ill Patients Undergoing Emergency Endotracheal Intubation: A Retrospective Observational Study.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42801266/",
-      "source": "PubMed",
-      "abstract": "Background Post-intubation hypotension (PIH) is a common and clinically significant complication of emergency airway management in critically ill patients and is associated with adverse short-term outcomes. Objective The objective of this study was to determine the incidence, clinical outcomes, and factors associated with post-intubation hypotension among critically ill adults undergoing emergency endotracheal intubation. Methodology This retrospective observational study was conducted at Mayo Hospital, Lahore, Pakistan. Medical records of 234 adult patients who underwent emergency endotracheal intubation between March 2023 to March 2026 were reviewed. PIH was defined as systolic blood pressure <90 mmHg, mean arterial pressure <65 mmHg, or a ≥20% reduction in systolic blood pressure from the pre-intubation baseline within 30 minutes after successful intubation. Multivariable logistic regression was performed to identify factors independently associated with PIH. Results PIH occurred in 68 of 234 patients (29.1%). Patients with PIH were significantly older and had higher Acute Physiology and Chronic Health Evaluation II (APACHE II), Sequential Organ Failure Assessment (SOFA) score, and Shock Index values than those without PIH. On multivariable analysis, increasing age (adjusted OR (AOR) 1.03, 95% CI 1.01-1.06; p = 0.011), chronic kidney disease (AOR 2.08, 95% CI 1.01-4.29; p = 0.047), sepsis (AOR 2.64, 95% CI 1.38-5.05; p = 0.003), higher APACHE II score (AOR 1.11, 95% CI 1.04-1.18; p = 0.001), elevated Shock Index (AOR 3.42, 95% CI 1.74-6.74; p < 0.001), ketamine use compared with etomidate (AOR 1.89, 95% CI 1.01-3.53; p = 0.045), and difficult airway (AOR 2.27, 95% CI 1.07-4.83; p = 0.033) were independently associated with PIH. PIH was also associated with higher vasopressor requirement, longer mechanical ventilation and ICU and hospital stays, increased AKI, and higher ICU and in-hospital mortality. Conclusion PIH occurred in nearly one-third of critically ill adults undergoing emergency endotracheal intubation and was associated with worse short-term clinical outcomes. Older age, sepsis, chronic kidney disease, higher APACHE II score, elevated Shock Index, ketamine use, and difficult airway were independently associated with PIH. These findings support early recognition of patients at increased risk and warrant prospective multicentre studies to determine whether standardized peri-intubation strategies can reduce PIH and improve outcomes.",
-      "date": "2026-08-27",
-      "authors": [
-        "Noreen Fatima Hafiza Amber",
-        "Shaukat Shahryar",
-        "Qureshi Rohma"
-      ],
-      "doi": "10.7759/cureus.115316"
     },
     {
       "title": "Podcast: Oregon Backtracks on Fee Hike, California Funds Psychedelic Research, DEA Moves to Schedule 5 Tryptamines",
@@ -542,37 +542,37 @@
       "doi": "10.5812/ijpr-164903"
     },
     {
-      "title": "&lt;i&gt;Chaenomeles speciosa&lt;/i&gt;-derived extracellular vesicles accelerate fracture healing via orchestrating immuno-angiogenic coupling.",
-      "url": "https://doi.org/10.1016/j.bonr.2026.101951",
+      "title": "Percutaneous brachial plexus peripheral nerve stimulation for cancer-related upper extremity pain: a novel technical approach.",
+      "url": "https://doi.org/10.1016/j.inpm.2026.100824",
       "source": "Europe PMC",
-      "abstract": "<h4>Purpose</h4>Fracture nonunion remains a major orthopaedic challenge, and dysregulation of the bone immune microenvironment is increasingly recognized as a key pathological driver. <i>Chaenomeles speciosa</i> is a medicinal plant with documented anti-inflammatory properties, making it a promising candidate for immune-modulatory therapy. This study investigated whether extracellular vesicles derived from <i>Chaenomeles speciosa</i> could reshape the immune microenvironment to promote fracture healing.<h4>Methods</h4>Single-cell RNA sequencing was performed on human nonunion tissues to characterize cellular heterogeneity. Network pharmacology and molecular docking analyses were used to identify potential therapeutic targets of <i>Chaenomeles speciosa</i>. Extracellular vesicles were isolated by ultracentrifugation and characterized by transmission electron microscopy. Macrophage polarization, angiogenesis, and inflammatory signaling were assessed in vitro using RAW 264.7 macrophages and human umbilical vein endothelial cells. Bone regeneration was evaluated in a rat femoral fracture model using micro-computed tomography and histology.<h4>Results</h4>Single-cell RNA sequencing revealed M1 macrophage dominance and enhanced M1-mediated communication with osteoblasts and endothelial cells in nonunion tissues. The IL-17 signaling pathway and matrix metalloproteinase-3 were identified as key therapeutic targets. Isolated extracellular vesicles exhibited excellent biocompatibility, promoted M2 macrophage polarization, attenuated inflammation, and enhanced angiogenesis in vitro. In the rat fracture model, treatment with these extracellular vesicles significantly accelerated bone regeneration, as evidenced by increased bone bridging and callus formation.<h4>Conclusion</h4>These findings establish a macrophage-centric pathological network in nonunion and demonstrate that <i>Chaenomeles speciosa</i>-derived extracellular vesicles promote bone repair through immuno-angiogenic coupling, supporting their potential as a multi-targeted therapeutic strategy for fracture healing.",
-      "date": "2026-09-09",
+      "abstract": "<h4>Background</h4>Peripheral nerve stimulation (PNS) is a well-established therapy for neuropathic pain syndromes. Emerging literature suggests that PNS is effective for treating oncologic pain.<h4>Objective</h4>This case report presents a novel ultrasound-guided, dual-lead PNS neuromodulation of the brachial plexus for upper-extremity cancer pain, with a focus on technical considerations.<h4>Methods</h4>Temporary, percutaneous, brachial plexus PNS was implanted in a patient with metastatic lung adenocarcinoma who was hospitalized for refractory pain from a pathologic humeral fracture. A novel approach is presented via the DAVIS (Dual-Lead Approach with Vectoring in the Subclavicular Plane) technique. This technique uses a parallel, subclavicular trajectory to optimize parallel lead positioning and minimize migration. Nerve localization, procedural technique, and patient-specific considerations are discussed.<h4>Results</h4>Following PNS implantation, the patient achieved complete cessation of opioid use with substantial and sustained pain relief, highlighting the clinical potential of the DAVIS technique.<h4>Conclusion</h4>Brachial plexus PNS presents a promising strategy for extremity oncologic pain. Novel approaches focusing on dual-lead placement with a parallel trajectory may expand the efficacy of PNS in anatomically complex or opioid-refractory cases.",
+      "date": "2026-09-21",
       "authors": [
-        "Chen J",
-        "Zhuang K",
-        "Wang Y"
+        "Nguyen L",
+        "Singh N",
+        "Sanghvi C"
       ],
-      "doi": "10.1016/j.bonr.2026.101951"
+      "doi": "10.1016/j.inpm.2026.100824"
     },
     {
-      "title": "Ferroptosis in major depressive disorder: Molecular mechanisms, cellular vulnerability, and therapeutic opportunities.",
-      "url": "https://doi.org/10.1016/j.bbrep.2026.102798",
+      "title": "Transient functional preservation precedes retinal ganglion cell degeneration following optic nerve crush.",
+      "url": "https://doi.org/10.1016/j.ibneur.2026.09.005",
       "source": "Europe PMC",
-      "abstract": "Major depressive disorder (MDD) is a heterogeneous psychiatric disorder involving oxidative stress, neuroinflammation, mitochondrial dysfunction, impaired neuroplasticity, and metabolic dysregulation. Ferroptosis, an iron-dependent form of regulated cell death driven by phospholipid peroxidation and antioxidant defense failure, has recently attracted attention as a potential mechanism linking these pathological processes. This review summarizes the molecular basis of ferroptosis in MDD, focusing on iron dyshomeostasis, lipid peroxidation, and disruption of the System Xc<sup>-</sup>/glutathione (GSH)/glutathione peroxidase 4 (GPX4) axis. We further discuss ferroptosis-related alterations in depression-associated models and vulnerable brain regions, with attention to neurons, neural progenitor cells, microglia, astrocytes, and emerging systemic contributors. Importantly, these ferroptosis-related molecular alterations are currently best interpreted as candidate contributors to MDD-associated pathological networks, rather than as an established disease mechanism. Current evidence suggests that ferroptosis in MDD is unlikely to represent an isolated neuronal death process. Instead, it may function as a stress-responsive and multicellular pathological framework that intersects with neuroinflammation, glutamatergic disturbance, mitochondrial injury, and brain-periphery communication. Therapeutically, natural products, traditional medicine formulas, chemical agents, ferroptosis inhibitors, nutrients, microbial metabolites, and non-pharmacological interventions have shown antidepressant-like effects mainly in preclinical MDD models by modulating ferroptosis-related pathways. These interventions commonly converge on restoration of the System Xc<sup>-</sup>/GSH/GPX4 axis, activation of nuclear factor erythroid 2-related factor 2 (Nrf2)-centered antioxidant signaling, regulation of iron metabolism, suppression of lipid peroxidation, and inhibition of inflammatory pathways. However, current evidence remains largely preclinical, and future studies should strengthen cell-specific validation, causal mechanistic analysis, and clinical translation.",
-      "date": "2026-09-18",
+      "abstract": "<h4>Aims</h4>Optic nerve crush (ONC) induces progressive retinal ganglion cell (RGC) degeneration; however, the temporal relationship between functional impairment and structural loss remains incompletely understood. This study investigated early changes in retinal function and subtype-specific RGC responses following ONC to determine whether retinal activity is preserved before substantial RGC degeneration.<h4>Methods</h4>Adult Sprague-Dawley rats underwent ONC and were examined at 1, 3, 7, and 14 days after injury. Retinal function was assessed using electroretinography (ERG), photopic negative response (PhNR), and multi-electrode array (MEA) recordings. RGC survival was quantified by Fluoro-Gold labeling, while microglial activation and oxidative stress-related markers were evaluated by immunofluorescence.<h4>Results</h4>RGC survival remained largely preserved during the first 3 days following ONC but declined markedly at days 7 and 14. MEA recordings showed relative preservation of light-evoked responses at day 3, followed by progressive reductions in responsiveness and spontaneous firing at later stages. PhNR amplitudes showed a similar trend, although the changes did not reach statistical significance. Subtype analysis revealed differential vulnerability, with ONOFF-RGCs exhibiting greater reductions in proportion and functional responses, whereas ON-RGCs accounted for an increasing proportion of surviving cells over time. Microglial activation increased during the degenerative phase, while the oxidative damage marker 8-OHG immunoreactivity appeared elevated early after injury. No obvious changes were detected in NQO-1 or SOD-2 expression.<h4>Conclusions</h4>Retinal function remained relatively preserved during the first 3 days following ONC despite ongoing injury and before substantial RGC loss occurred. ONOFF-RGCs exhibited greater vulnerability than other functional subtypes. These findings identify an early post-injury period preceding substantial RGC degeneration and provide insight into the temporal dynamics of RGC dysfunction following optic nerve injury.",
+      "date": "2026-09-15",
       "authors": [
-        "Kong D",
-        "Duan R",
-        "Wang X"
+        "Yu S",
+        "Liu F",
+        "Zhao Y"
       ],
-      "doi": "10.1016/j.bbrep.2026.102798"
+      "doi": "10.1016/j.ibneur.2026.09.005"
     },
     {
       "title": "CZ",
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2018-004480-31/CZ",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-10-05",
+      "date": "2026-10-06",
       "authors": [],
       "doi": ""
     },
@@ -581,7 +581,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2020-005037-32/CZ",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-10-05",
+      "date": "2026-10-06",
       "authors": [],
       "doi": ""
     },
@@ -590,7 +590,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2021-002909-10/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-10-05",
+      "date": "2026-10-06",
       "authors": [],
       "doi": ""
     },
@@ -599,7 +599,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2015-000550-37/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-10-05",
+      "date": "2026-10-06",
       "authors": [],
       "doi": ""
     },
@@ -608,7 +608,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2021-000041-40/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-10-05",
+      "date": "2026-10-06",
       "authors": [],
       "doi": ""
     },
@@ -617,7 +617,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2020-000829-55/DK",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-10-05",
+      "date": "2026-10-06",
       "authors": [],
       "doi": ""
     },
@@ -626,7 +626,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2020-002790-94/SE",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-10-05",
+      "date": "2026-10-06",
       "authors": [],
       "doi": ""
     },
@@ -635,7 +635,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2021-006200-33/FI",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-10-05",
+      "date": "2026-10-06",
       "authors": [],
       "doi": ""
     },
@@ -644,7 +644,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2019-004812-73/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-10-05",
+      "date": "2026-10-06",
       "authors": [],
       "doi": ""
     },
@@ -653,132 +653,9 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2022-002369-14/BE",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-10-05",
+      "date": "2026-10-06",
       "authors": [],
       "doi": ""
-    },
-    {
-      "title": "Blinding integrity in psychedelic research: Evidence from a comparative randomized controlled trial of psilocybin, MDMA, and methylphenidate in healthy volunteers",
-      "url": "https://doi.org/10.1016/j.euroneuro.2026.112879",
-      "source": "OpenAIRE",
-      "abstract": "Maintaining effective blinding is a major methodological challenge in psychedelic research. This study provides a comprehensive evaluation of blinding integrity in 120 healthy volunteers who received either psilocybin, MDMA, or methylphenidate (active placebo) in a double-blind, randomized controlled trial. Using a multi-level assessment incorporating forced-choice substance guesses, certainty ratings, decision factors, and subjective substance effects, the analyses characterize blinding integrity and its relation to the substance experience. Results indicate that overall blinding was insufficient, with psilocybin showing the highest rates of functional unblinding, MDMA moderate levels, and methylphenidate the lowest. As an active placebo, methylphenidate provided more effective blinding for MDMA than for psilocybin. Incorporating certainty levels of substance guesses revealed a more differentiated pattern, with lower functional unblinding rates. Decision factors and subjective substance experiences were associated with phenomenological substance effects. Prior substance experiences did not influence accuracy of forced-choice substance guesses. These findings provide empirical guidance for the design and reporting of blinding procedures in psychedelic trials and underscore the value of systematic, multi-level assessment of blinding integrity.",
-      "date": "2026-10-01",
-      "authors": [
-        "L. Belinger",
-        "N.M. Rieser",
-        "E.J.E. Engeli"
-      ],
-      "doi": "10.1016/j.euroneuro.2026.112879"
-    },
-    {
-      "title": "Evaluating psilocybin for the management of depression: a literature review",
-      "url": "https://doi.org/10.12968/bjmh.2025.0020",
-      "source": "OpenAIRE",
-      "abstract": "<jats:sec>                     <jats:title>Background/Aims</jats:title>                     <jats:p>Depression remains a significant public health concern worldwide and many individuals do not achieve adequate symptom relief from conventional treatments such as antidepressants and psychological therapies. Interest has therefore increased in alternative interventions, including psilocybin microdosing. This article aimed to critically review the current evidence regarding the use of psilocybin for managing symptoms of depression and consider the implications for mental health nursing practice.</jats:p>                   </jats:sec>                   <jats:sec>                     <jats:title>Methods</jats:title>                     <jats:p>A narrative literature review was undertaken. Search terms included ‘microdosing’, ‘psilocybin’, ‘psychedelics’, ‘mental health’ and ‘depression’. Studies published in the last 10 years involving human participants were considered. Following screening and application of inclusion and exclusion criteria, five articles with a total of six empirical studies were included in the review.</jats:p>                   </jats:sec>                   <jats:sec>                     <jats:title>Results</jats:title>                     <jats:p>Three themes emerged, including ethical risks and limitations of microdosing, demographic and participant characteristics and the impact of microdosing on mental health. Some studies reported improvements in mood, anx",
-      "date": "2026-08-02",
-      "authors": [
-        "Rachel Sinclair"
-      ],
-      "doi": "10.12968/bjmh.2025.0020"
-    },
-    {
-      "title": "Psychedelic and Medicinal Mushrooms: Potent Source of Active Metabolites and Medicines",
-      "url": "https://doi.org/10.2174/0115734072383313250602052217",
-      "source": "OpenAIRE",
-      "abstract": "<jats:sec>                     <jats:title>Background:</jats:title>                     <jats:p>Mushrooms, usually used for their nutritional and culinary properties, have recently gained attention for their medicinal effects, so that they are not only used as dietary foods but also as mycotherapeutics, nutraceuticals, and food supplements.</jats:p>                   </jats:sec>                   <jats:sec>                     <jats:title>Objective:</jats:title>                     <jats:p>The aim of this study is therefore to educate readers about various mushrooms with medicinal benefits. Methodology: A large number of English-language publications from different databases were analysed for this purpose.</jats:p>                   </jats:sec>                   <jats:sec>                     <jats:title>Results and Discussion:</jats:title>                     <jats:p>Medicinal mushrooms have been attributed various biological properties, e.g. prebiotic, antihyperlipidaemic, anti-allergic, antioxidant, anticancer, hepatoprotective, antioxidant, cytotoxic, antidiabetic, immunomodulatory, anti-inflammatory, and antimicrobial. These properties are due to the presence of various bioactive compounds presentin the mycelium and fruiting bodies. The biological effects of these bioactive compounds vary according to their chemical nature, and their distribution varies according to the type of mushroom. Psilocybin-containing mushrooms have been consumed in different parts of the world f",
-      "date": "2026-08-01",
-      "authors": [
-        "Priya Chaudhary",
-        "Pracheta Janmeda"
-      ],
-      "doi": "10.2174/0115734072383313250602052217"
-    },
-    {
-      "title": "The role of therapeutic alliance in psilocybin treatment for treatment-resistant depression: A post hoc path analysis",
-      "url": "https://doi.org/10.1016/j.jad.2026.121662",
-      "source": "OpenAIRE",
-      "abstract": "<p>Introduction The contribution of patient support to psilocybin's antidepressant effects remains uncertain. Methods Relationships between therapeutic alliance (Scale to Assess Therapeutic Relationship-Patient version; STAR-P), psychedelic experience (Five-Dimensional Altered States of Consciousness Questionnaire and Emotional Breakthrough Inventory; 5D-ASC and EBI) and clinical outcomes (Montgomery-Åsberg Depression Rating Scale; MADRS) were explored using correlation and path analysis for individuals with treatment-resistant depression receiving 25 mg psilocybin with monitoring and support ( N = 79). Results Change from Baseline to Week 3 MADRS scores showed weaker correlations with pre-dosing therapeutic alliance (−0.178) than with measures of the psychedelic experience: EBI (−0.637), Oceanic Boundlessness (−0.508), and Visual Restructuralization (−0.516). Path analysis showed no nominally significant direct effects of therapeutic alliance on Week 3 MADRS scores, but there were nominally significant effects of therapeutic alliance on psychedelic experience (Oceanic Boundlessness ( β = 0.28), Visual Restructuralization ( β = 0.27), and Auditory Alterations ( β = 0.25)). Only one indirect effect of therapeutic alliance on clinical outcome reached nominal significance (via Visual Restructuralization; β = −0.15). Stronger effects were seen on clinical outcomes for psychedelic experience (EBI ( β = −0.59), Oceanic Boundlessness ( β = −0.53), Visual Restructuralization ( β = −0",
-      "date": "2026-08-01",
-      "authors": [
-        "Goodwin, Guy M.",
-        "Aaronson, Scott T.",
-        "Alvarez, Oscar"
-      ],
-      "doi": "10.1016/j.jad.2026.121662"
-    },
-    {
-      "title": "A cross-national comparison of nonmedical and medical use of psychedelic drugs in the international cannabis policy study",
-      "url": "https://doi.org/10.1016/j.drugpo.2026.105348",
-      "source": "OpenAIRE",
-      "abstract": "Background We know little about the extent psychedelic substances are consumed therapeutically and/or discussed with medical professionals despite renewed global interest in these substances. Methods We examined self-reported responses from the 2023 International Cannabis Policy Study (ICPS) in repeated cross-sectional surveys in Canada, the United States, Australia, and New Zealand. The survey included questions on lifetime, past year, and past month use of psilocybin, LSD, MDMA, and ketamine. It inquired about respondents’ discussions with medical professionals, their self-reported medical use, and related adverse events. We estimate the mean proportion rate for each of these using logistic regression methods that adjust for demographics, country, and sampling weights. Findings Estimated results suggest nineteen per cent of all ICPS respondents reported lifetime use of one of the four substances. Psilocybin was the most commonly estimated to be used in one’s lifetime and in the past year, followed by LSD and MDMA. Estimated prevalences of ever using psilocybin were higher among respondents from Canada (16.3%, CI: 15.6–16.9%) than the USA (13.0%, CI: 12.3–13.6%) and New Zealand (12.1%, CI: 10.4–13.8%). Estimated rates of psilocybin ever use in Australia were significantly lower (7.8%, CI: 6.8–8.8%). An estimated 10–20% of respondents who report ever-use of a psychedelic asked their medical provider about medical use, and over a third who had used in the past year reported ex",
-      "date": "2026-08-01",
-      "authors": [
-        "Myfanwy Graham",
-        "Yimin Ge",
-        "Rosalie Liccardo Pacula"
-      ],
-      "doi": "10.1016/j.drugpo.2026.105348"
-    },
-    {
-      "title": "The Experience-Trajectory Framework: Substance-Specific Risk Stratification for Psychedelic Preparation and Aftercare Beyond Set and Setting",
-      "url": "https://doi.org/10.36948/ijfmr.2026.v08i04.84804",
-      "source": "OpenAIRE",
-      "abstract": "<jats:p>Set, setting, preparation, and integration are widely recognized as important dimensions of psychedelic experiences. However, these concepts often remain too general to specify how preparation, containment, and aftercare should differ across substances, routes of administration, acute duration, residual effects, bodily condition, and interaction exposure. This article proposes the Experience-Trajectory Framework for psychedelic preparation and aftercare. The framework focuses on psilocybin, LSD, mescaline, vaporized N,N-DMT, vaporized 5-MeO-DMT, and ayahuasca or oral DMT combined with monoamine oxidase inhibition. Its central claim is that preparation and aftercare should be stratified by two primary variables: the Experience-Trajectory Profile of the psychedelic state and the participant’s Baseline Risk State before exposure. Experience-Trajectory Profile refers to onset, peak phase, acute duration, residual effects, recovery window, and the earliest appropriate timing for interpretation or integration. Baseline Risk State refers to the participant’s acute physiological and pharmacological condition, including sleep, hydration, cardiovascular stability, gastrointestinal status, glucose stability, psychological stability, and interaction load. This article is a conceptual framework paper, not a clinical protocol or medication-discontinuation guide. It provides a stratification model that links substance-specific experience trajectories with baseline physiological and ",
-      "date": "2026-07-31",
-      "authors": [
-        "Elias Rubenstein"
-      ],
-      "doi": "10.36948/ijfmr.2026.v08i04.84804"
-    },
-    {
-      "title": "Childhood trauma and psychological outcomes following psychedelic use: a scoping review",
-      "url": "https://doi.org/10.1038/s44184-026-00233-2",
-      "source": "OpenAIRE",
-      "abstract": "<jats:title>Abstract</jats:title>                   <jats:p>Research examining psychological outcomes following psychedelic use has grown substantially, yet the role of childhood trauma in shaping these responses remains insufficiently understood. This scoping review mapped the literature examining childhood trauma in relation to post-psychedelic psychological outcomes. Thirty-four sources met inclusion criteria and investigated substances including psilocybin, ayahuasca, and MDMA across clinical, ceremonial, naturalistic, and guided non-clinical contexts. The evidence primarily relied on retrospective self-report, exhibited considerable heterogeneity in study design and trauma operationalisation, and included minimal representation from non-Western or Indigenous contexts. Findings were heterogeneous: some sources reported reductions in trauma-related symptoms in maltreated populations, others found no association between childhood trauma exposure and psychological outcomes, and some identified increased vulnerability to post-acute psychedelic difficulties. Qualitative accounts frequently described resurfacing trauma-related memories accompanied by both psychological growth and distress. Prospective, trauma-informed, and culturally-inclusive research is needed to clarify risks and therapeutic potential for childhood trauma-exposed populations.</jats:p>",
-      "date": "2026-07-30",
-      "authors": [
-        "Lorraine Li",
-        "Paige Seath",
-        "Nadav Liam Modlin"
-      ],
-      "doi": "10.1038/s44184-026-00233-2"
-    },
-    {
-      "title": "Identifying factors that contribute to the behavioral effects of psilocybin in preclinical mouse models",
-      "url": "https://doi.org/10.64898/2026.07.24.740586",
-      "source": "OpenAIRE",
-      "abstract": "<jats:title>ABSTRACT</jats:title>                 <jats:p>Psychedelic drugs offer a potentially promising avenue for novel therapeutics for the treatment of psychiatric conditions, including for mood and anxiety disorders. Emerging clinical studies have prompted increased preclinical research into mechanisms of action. However, post-acute behavioral outcomes in rodents remain inconsistent and difficult to reproduce across laboratories. To address this, we collected a large dataset of behavioral responses to psilocybin in mice (N=693) and used data-driven analyses to identify biological and experimental factors that modulated behavioral readouts. We examined the effects of sex, age, strain, stress protocol, and 5-HT1B signaling on the response to a single high dose of psilocybin measured in acute (head twitch responding and locomotion) or post-acute (sucrose preference, elevated plus maze, novelty-suppressed feeding) behavioral outcomes. We found that psilocybin displays a robust acute behavioral response and a more variable post-acute behavioral profile with a most robust response in sucrose preference. Sex, stress model, and 5-HT1BR activation emerged as key modulators of post-acute antidepressant-like and anxiolytic effects. Random forest classification was narrowly able to predict drug treatment based on post-acute behavioral outcomes and biological and experimental factors. These findings suggest that the heterogeneity seen in the response to psilocybin in mice reflects m",
-      "date": "2026-07-28",
-      "authors": [
-        "Sixtine Fleury",
-        "Luke J. Chang",
-        "Katherine M. Nautiyal"
-      ],
-      "doi": "10.64898/2026.07.24.740586"
-    },
-    {
-      "title": "The “dark magic mushroom” co-produces amatoxins and psilocybin",
-      "url": "https://doi.org/10.64898/2026.07.17.739257",
-      "source": "OpenAIRE",
-      "abstract": "<jats:title>Abstract</jats:title>                 <jats:p>                   The most famous chemicals produced by mushrooms are the psychedelic compound psilocybin from “magic mushrooms” and amatoxins from deadly poisonous mushrooms. These compounds are known to occur in multiple phylogenetically disjunct fungal lineages but have never been shown to co-occur within a single species. Here we show that the “dark magic mushroom”                   <jats:italic>Galerina indica</jats:italic>                   produces both psilocybin and amatoxins. Mass spectrometry revealed psilocybin and amatoxins in mushroom tissues, and genomic analyses identified corresponding biosynthetic genes. Phylogenetic analyses suggest that                   <jats:italic>G. indica</jats:italic>                   acquired psilocybin biosynthesis via horizontal gene transfer after amatoxin biosynthesis was already established, and that psilocybin biosynthesis was acquired twice independently within                   <jats:italic>Galerina</jats:italic>                   . Intriguingly, acquisition of psilocybin biosynthesis in                   <jats:italic>G. indica</jats:italic>                   may have coincided with reduced amatoxin potency. These findings reveal how horizontal gene transfer can combine powerful bioactive systems in a single species, potentially altering the ecological roles of both compound classes and the evolutionary fitness of the species.                 </jats:p>",
-      "date": "2026-07-22",
-      "authors": [
-        "Andrew R. Kunik",
-        "Michael W. Christopher",
-        "Benjamin Lemmond"
-      ],
-      "doi": "10.64898/2026.07.17.739257"
-    },
-    {
-      "title": "Predictive Processing, Psychedelic Spirituality, and Neurophenomenology",
-      "url": "https://doi.org/10.1093/oxfordhb/9780192844064.013.41",
-      "source": "OpenAIRE",
-      "abstract": "<jats:title>Abstract</jats:title>                   <jats:p>Psychedelic substances such as psilocybin, LSD, ayahuasca, DMT, or mescaline, when employed with knowledge and skill, can sometimes lead to profoundly meaningful and transformative subjective experiences. This chapter discusses how the predictive processing theory can further our understanding of these deeply meaningful spiritual psychedelic experience. It makes a more specific proposal that the predictive processing theory of psychedelics can contribute to the neurophenomenology research program. The chapter proposes that phenomenological reflection on the psychedelic experience can be used as a method by subjects for providing first-person descriptions of how the different phenomenological structures of their experience are altered during, and after, their acute psychedelic experience. What predictive processing adds is a further mathematical way of knowing consciousness that can serve as a neutral vocabulary for creating generative passages between neurobiology and phenomenology that allows neuroscientists to make sense of how psychedelics perturb the structures of first-person experience in ways that can lead to profoundly meaningful spiritual experiences.</jats:p>",
-      "date": "2026-07-22",
-      "authors": [
-        "Julian Kiverstein"
-      ],
-      "doi": "10.1093/oxfordhb/9780192844064.013.41"
     }
   ]
 }

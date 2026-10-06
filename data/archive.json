@@ -1,6 +1,90 @@
 {
   "items": [
     {
+      "title": "Psilocybin use, mental health treatment utilization, and unmet treatment need among US individuals with depression.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42834832/",
+      "source": "PubMed",
+      "date": "2026-10-06",
+      "authors": [
+        "Eun Avery Chan",
+        "Yang Kevin H",
+        "Palamar Joseph J"
+      ],
+      "doi": "10.1017/S0033291726106163",
+      "summary_en": "US study of 6,793 individuals with depression found 7.3% used psilocybin in the past year. Psilocybin use was not associated with reduced conventional mental health treatment utilization, medication use, or doctor visits for depression. Data from the 2024 National Survey on Drug Use and Health, analyzed via Poisson regression.",
+      "notable": true,
+      "notable_reason": "Large nationally representative sample (n=6,793 with past-year MDE) examining real-world treatment patterns and health outcomes associated with psilocybin use in depression.",
+      "study_type": "observational",
+      "substances": [
+        "psilocybin"
+      ],
+      "added_at": "2026-10-06T13:29:10.190107+00:00"
+    },
+    {
+      "title": "Serotonin biology as a basis for explaining psychedelic drug action.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42833201/",
+      "source": "PubMed",
+      "date": "2026-Oct-05",
+      "authors": [
+        "Knox Cory A",
+        "Li-Wu Athena",
+        "Kwan Alex C"
+      ],
+      "doi": "10.1016/j.cub.2026.08.045",
+      "summary_en": "This review examines how classical psychedelics act through the serotonergic system. While these compounds bind multiple serotonin receptors like endogenous serotonin, their receptor profiles and spatiotemporal patterns differ. The authors synthesize evidence on serotonin's roles in reward learning, visual processing, and cerebrovascular function, contrasting effects of endogenous serotonin with exogenous psychedelic administration. Many psychedelic effects can be understood as perturbations to serotonergic signaling, though some actions remain mechanistically unclear.",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "review",
+      "substances": [
+        "psilocybin",
+        "lsd",
+        "mdma",
+        "other"
+      ],
+      "added_at": "2026-10-06T13:29:10.190107+00:00"
+    },
+    {
+      "title": "Subacute effects of ketamine on neural correlates of reward processing.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42834034/",
+      "source": "PubMed",
+      "date": "2026-09-25",
+      "authors": [
+        "Briem Elisa",
+        "Stöhrmann Peter",
+        "Dörl Gregor"
+      ],
+      "doi": "10.1038/s41398-026-04485-6",
+      "summary_en": "Single-blind crossover study (n=28) examining ketamine's subacute effects on reward processing. Participants received 0.5 mg/kg ketamine or placebo intravenously, with fMRI acquired 5 hours post-infusion during the Monetary Incentive Delay task. Despite measurable subjective effects and expected pharmacokinetics, ketamine did not significantly modulate brain activation in reward-related regions. Findings suggest dissociative's effects on reward circuits may be time-dependent, potentially more prominent acutely or in clinical populations.",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "rct",
+      "substances": [
+        "ketamine"
+      ],
+      "added_at": "2026-10-06T13:29:10.190107+00:00"
+    },
+    {
+      "title": "Pharmacological interventions for alcohol use disorder on quality of life: a meta-analysis of randomized controlled trials.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42831801/",
+      "source": "PubMed",
+      "date": "2026-Sep-20",
+      "authors": [
+        "Fluyau Dimy",
+        "Revadigar Neelambika",
+        "Kim Paul"
+      ],
+      "doi": "10.1093/alcalc/agag067",
+      "summary_en": "Meta-analysis of 18 RCTs (n=4376) examining pharmacotherapy for alcohol use disorder. Naltrexone improved both mental (d=0.30) and physical quality of life (d=0.16). Nalmefene improved physical QoL only. Acamprosate, sertraline, and psilocybin showed QoL benefits in limited trials, while topiramate, ketamine, varenicline, and quetiapine showed no clear improvements. Results suggest selective efficacy across medications.",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "review",
+      "substances": [
+        "psilocybin",
+        "ketamine"
+      ],
+      "added_at": "2026-10-06T13:29:10.190107+00:00"
+    },
+    {
       "title": "Podcast: Oregon Backtracks on Fee Hike, California Funds Psychedelic Research, DEA Moves to Schedule 5 Tryptamines",
       "url": "https://psychedelicalpha.com/news/oregon-backtracks-on-fee-hike-california-funds-psychedelic-research-dea-moves-to-schedule-5-tryptamines/",
       "source": "Psychedelic Alpha",

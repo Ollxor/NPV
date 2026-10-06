@@ -1,6 +1,81 @@
 {
-  "generated_at": "2026-10-05T15:04:56.834868+00:00",
+  "generated_at": "2026-10-06T13:30:25.409181+00:00",
   "items": [
+    {
+      "title": "Psilocybin use, mental health treatment utilization, and unmet treatment need among US individuals with depression.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42834832/",
+      "source": "PubMed",
+      "date": "2026-10-06",
+      "authors": [
+        "Eun Avery Chan",
+        "Yang Kevin H",
+        "Palamar Joseph J"
+      ],
+      "doi": "10.1017/S0033291726106163",
+      "summaries": {
+        "en": "US study of 6,793 individuals with depression found 7.3% used psilocybin in the past year. Psilocybin use was not associated with reduced conventional mental health treatment utilization, medication use, or doctor visits for depression. Data from the 2024 National Survey on Drug Use and Health, analyzed via Poisson regression.",
+        "sv": "Amerikansk studie av 6 793 personer med depression visade att 7,3% använt psykedeliska svampar det senaste året. Användning av psykedelika var inte associerat med minskad användning av konventionell psykiatrisk behandling, läkemedel eller läkarbesök för depression. Data från 2024 National Survey on Drug Use and Health, analyserad via Poisson-regression.",
+        "no": "Amerikansk studie av 6 793 personer med depresjon fant at 7,3% brukte psykedeliske sopper siste år. Bruk av psykedelika var ikke assosiert med redusert konvensjonell psykisk helsebehandling, legemiddelbruk eller legerbesøk for depresjon. Data fra 2024 National Survey on Drug Use and Health, analysert med Poisson-regresjon.",
+        "da": "Amerikansk studie af 6.793 personer med depression viste, at 7,3% brugte psykedeliske svampe det seneste år. Brug af psykedelika var ikke associeret med reduceret konventionel psykisk behandling, medicinbrug eller lægebesøg for depression. Data fra 2024 National Survey on Drug Use and Health, analyseret via Poisson-regression.",
+        "fi": "Amerikkalaisessa tutkimuksessa 6 793 masennusta sairastavasta henkilöstä 7,3% käytti psykedeelisiä sieniä viimeisen vuoden aikana. Psykedeelien käyttö ei ollut yhteydessä vähentyneeseen tavanomaisen mielenterveyshoidon käyttöön, lääkitykseen tai lääkärikäynteihin masennuksen vuoksi. Tiedot 2024 National Survey on Drug Use and Health -tutkimuksesta, analysoidut Poisson-regressiolla.",
+        "is": "Bandarískri rannsókn á 6.793 einstaklingum með þunglyndi leiddi í ljós að 7,3% notuðu sálfræðileg sveppi undanfarna ári. Notkun sálfræðilega sveppa var ekki tengd minni notkun hefðbundinnar geðheilbrigðisþjónustu, lyfja eða læknisheimsókna vegna þunglyndis. Gögn frá 2024 National Survey on Drug Use and Health, greind með Poisson-aðhvarfi.",
+        "et": "USA uuringus 6 793 depressiooniga inimesest 7,3% kasutas psühhedeelikuid seenta möödunud aastal. Psühhedeelikute kasutamine ei seostunud taandunud tavapärase psüühika abiga, ravimitega või arstivisiitidega depressiooni pärast. Andmed 2024. aasta rahvuslikust uimastite kasutamise uuringust, analüüsitud Poisson-regressiooniga.",
+        "lv": "ASV pētījumā par 6 793 depresiju slimstošiem cilvēkiem 79,3% pagājušā gada laikā lietoja psihodelikas sēnes. Psihodelikas lietošana nebija saistīta ar samazinātu konvencionālās garīgās veselības aprūpes izmantošanu, medikamentiem vai ārsta vizītēm depresijas dēļ. Dati no 2024. gada Nacionālās zāļu lietošanas pētījuma, analizēti, izmantojot Puasona regresiju.",
+        "lt": "JAV tyrime, kuriame dalyvavo 6 793 depresija sergantys žmonės, 7,3% praeitais metais vartojo psichedelinius grybius. Psichedelinių grybių vartojimas nebuvo susijęs su sumažėjusia konvencine psichikos sveikatos priežiūra, vaistais ar gydytojo vizitais dėl depresijos. Duomenys iš 2024 metų Nacionalinio narkotikų vartojimo tyrimo, analizuoti Puasono regresija."
+      },
+      "notable": true,
+      "notable_reasons": {
+        "en": "Large nationally representative sample (n=6,793 with past-year MDE) examining real-world treatment patterns and health outcomes associated with psilocybin use in depression.",
+        "sv": "Stort nationellt representativt urval (n=6,793 med MDE under det senaste året) som undersöker behandlingsmönster i verklig världen och hälsoutfall associerade med psilocybinbruk vid depression.",
+        "no": "Stort nasjonalt representativt utvalg (n=6,793 med MDE i det siste året) som undersøker virkelighetstider behandlingsmønstre og helseutfall forbundet med psilocybinbruk ved depresjon.",
+        "da": "Stort nationalt repræsentativt stikprøve (n=6,793 med MDE i det seneste år) der undersøger virkelige behandlingsmønstre og sundhedsmæssige resultater forbundet med psilocybinforbrug ved depression.",
+        "fi": "Suuri kansallisesti edustava otos (n=6,793 MDE:n kanssa viimeisen vuoden aikana) tutkimalla todellisen maailman hoitokäytäntöjä ja terveystuloksia, jotka liittyvät psilocybiinin käyttöön masennuksessa.",
+        "is": "Stórt þjóðkynslegt dæmigert úrtak (n=6,793 með MDE á síðasta ári) sem skoðar meðferðarmynstur í raunveruleikanum og heilsufarsafleiðingar sem tengjast psilocybin notkun við þunglyndi.",
+        "et": "Suur rahvuslikult esinduslik valim (n=6,793 MDE-ga viimase aasta jooksul) uurides tegelikke ravi mustreid ja tervisealaseid tulemusi, mis on seotud psülotsibiini kasutamisega depressiooni puhul.",
+        "lv": "Liels nacionāli reprezentatīvs paraugs (n=6,793 ar MDE pēdējā gada laikā), kurš pēta reālas ārstēšanas shēmas un veselības rezultātus, kas saistīti ar psilocibīna lietošanu depresijā.",
+        "lt": "Didelė nacionalinė reprezentatyvi imtis (n=6,793 su MDE per praėjusius metus) nagrinėjanti tikrąsias gydymo schemas ir sveikatos rezultatus, susijusius su psilocibino vartojimo liga."
+      },
+      "relevance_score": 4,
+      "study_type": "observational",
+      "substances": [
+        "psilocybin"
+      ],
+      "added_at": "2026-10-06T13:29:10.190107+00:00"
+    },
+    {
+      "title": "Serotonin biology as a basis for explaining psychedelic drug action.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42833201/",
+      "source": "PubMed",
+      "date": "2026-Oct-05",
+      "authors": [
+        "Knox Cory A",
+        "Li-Wu Athena",
+        "Kwan Alex C"
+      ],
+      "doi": "10.1016/j.cub.2026.08.045",
+      "summaries": {
+        "en": "This review examines how classical psychedelics act through the serotonergic system. While these compounds bind multiple serotonin receptors like endogenous serotonin, their receptor profiles and spatiotemporal patterns differ. The authors synthesize evidence on serotonin's roles in reward learning, visual processing, and cerebrovascular function, contrasting effects of endogenous serotonin with exogenous psychedelic administration. Many psychedelic effects can be understood as perturbations to serotonergic signaling, though some actions remain mechanistically unclear.",
+        "sv": "Denna översikt undersöker hur klassiska psykedelika verkar genom det serotonerga systemet. Även om dessa substanser binder flera serotoninreceptorer liksom endogent serotonin, skiljer sig deras receptorprofiler och spatiotemporala mönster. Författarna sammanfattar evidens för serotonins roller i belöningsinlärning, visuell bearbetning och cerebrovaskulär funktion, och kontrasterar effekterna av endogent serotonin med exogena psykedelika. Många psykedeliska effekter kan förstås som störningar i serotonerga signaler, dock återstår vissa effekter mekanistiskt oklara.",
+        "no": "Denne oversikten undersøker hvordan klassiske psykedelika virker gjennom det serotonerge systemet. Selv om disse stoffene binder flere serotoninreseptorer som endogent serotonin, skiller deres reseptorprofiler og spatiotemporale mønster seg ut. Forfatterne oppsummerer evidens for serotonins roller i belønningslæring, visuell prosessering og cerebrovaskulær funksjon, og kontrasterer effekter av endogent serotonin med eksogene psykedelika. Mange psykedeliske effekter kan forstås som forstyrrelser i serotonerge signaler, selv om noen effekter gjenstår mekanistisk uklare.",
+        "da": "Denne oversigt undersøger, hvordan klassiske psykedelika virker gennem det serotonerge system. Selvom disse stoffer binder flere serotoninreceptorer som endogent serotonin, adskiller deres receptorprofiler og spatiotemporale mønstre sig. Forfatterne opsummerer evidens for serotonins roller i belønningslæring, visuel behandling og cerebrovaskulær funktion og kontrasterer effekterne af endogent serotonin med eksogene psykedelika. Mange psykedeliske effekter kan forstås som forstyrrelser i serotonerge signaler, selvom nogle effekter forbliver mekanistisk uklare.",
+        "fi": "Tämä katsaus tarkastelee, kuinka klassiset psykedeelit vaikuttavat serotoninijärjestelmän kautta. Vaikka nämä yhdisteet sitoutuvat useisiin serotoninreseptoreihin kuten endogeeninen serotoniini, niiden reseptoriprofilit ja spatiotemporaaliset kuviot eroavat. Kirjoittajat tiivistävät näyttöä serotoniiinin rooleista palkintooppimisessa, visuaalisessa käsittelyssä ja serebrovaskulaarisessa funktiossa sekä vertailevat endogeenisen serotoniiinin vaikutuksia eksogeeniksi psykedeiilien vaikutuksiin. Monia psykededeilien vaikutuksia voidaan ymmärtää serotoninergisen signaloinnin häiriöinä, vaikka jotkut vaikutukset pysyvät mekanistisesti epäselviksi.",
+        "is": "Þessi yfirlit kannar hvernig klassísk sálfræðilyf virka í gegnum serótónínakerfi. Þó að þessi efni bindi marga serótónínaviðtaka eins og innfædda serótónína, eru þeirra viðtakasniðmát og staðbundin–tímabundin mynstur ólík. Höfundar draga saman sannanir fyrir hlutverki serótónína í verðlaunakennslu, sjónrænum vinnslu og blóðæðastarfsemi heilans og bera saman áhrif innfæddrar serótónína og ytri sálfræðilyfja. Margar áhrif sálfræðilyfja má skilja sem truflanir á serótónínaboðun, þó að sum áhrif feli í sér óljósa virkni.",
+        "et": "See ülevaade uurib, kuidas klassikalised psühhedeelikumid toimivad serotoniinergilise süsteemi kaudu. Ehkki need ühendid seotuvad paljude serotoniini retseptoritega nagu endogeenne serotoniini, erinevad nende retseptoriprofiilid ja spatiotemporaalsed mustrid. Autorid teevad kokkuvõtte tõenditest serotoniini rollist auhinnaga seotud õppimisel, visuaalsete protsesside töötlemisel ja ajuveresoonide funktsioonil ning võrdlevad endogeense serotoniini mõjusid eksogeensete psühhedeelikumide mõjudega. Paljusid psühhedeelikumide mõjusid saab mõista serotoniini signaalimise häiretena, kuigi osa mõjud jäävad mehhaaniliselt selgustamatuks.",
+        "lv": "Šis pārskats pēta, kā klasiskie psihedeliki darbojas serotonīna sistēmas caur. Lai arī šie savienojumi saistās ar vairākajiem serotonīna receptoriem, tāpat kā endoģens serotonīns, to receptoru profili un spatiotemporālie modeļi atšķiras. Autori apkopo pierādījumus par serotonīna lomu atlīdzības mācībās, vizuālajā apstrādē un cerebrovaskulārā funkcijā, un salīdzina endoģenā serotonīna efektus ar eksogēnajiem psihedelikiem. Daudzus psihedeliku efektus var saprast kā traucējumus serotonīna signalizācijā, lai arī daži efekti paliek mehāniski neskaidri.",
+        "lt": "Šis apžvalga nagrinėja, kaip klasikiniai psichedelikai veikia per serotonino sistemą. Nors šie junginiai rišasi prie daugelio serotonino receptorių, kaip ir endogeninis serotoninas, jų receptorių profiliai ir erdvinio-laiko šablonai skiriasi. Autoriai apibendrina įrodymų dėl serotonino vaidmens atlyginio mokymesi, vizualinėje apdorojoje ir cerebrovaskuliarioje funkcijoje bei palygina endogeninio serotonino efektus su egzogeniniais psichedelikais. Daugelis psichedelikų efektų gali būti suprantami kaip trikdžiai serotonino signalizacijoje, nors kai kurie efektai lieka mehanistiškai neaiškūs."
+      },
+      "notable": false,
+      "notable_reasons": null,
+      "relevance_score": 4,
+      "study_type": "review",
+      "substances": [
+        "psilocybin",
+        "lsd",
+        "mdma",
+        "other"
+      ],
+      "added_at": "2026-10-06T13:29:10.190107+00:00"
+    },
     {
       "title": "Podcast: Oregon Backtracks on Fee Hike, California Funds Psychedelic Research, DEA Moves to Schedule 5 Tryptamines",
       "url": "https://psychedelicalpha.com/news/oregon-backtracks-on-fee-hike-california-funds-psychedelic-research-dea-moves-to-schedule-5-tryptamines/",
@@ -437,6 +512,37 @@
       "added_at": "2026-09-27T12:16:02.453474+00:00"
     },
     {
+      "title": "Subacute effects of ketamine on neural correlates of reward processing.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42834034/",
+      "source": "PubMed",
+      "date": "2026-09-25",
+      "authors": [
+        "Briem Elisa",
+        "Stöhrmann Peter",
+        "Dörl Gregor"
+      ],
+      "doi": "10.1038/s41398-026-04485-6",
+      "summaries": {
+        "en": "Single-blind crossover study (n=28) examining ketamine's subacute effects on reward processing. Participants received 0.5 mg/kg ketamine or placebo intravenously, with fMRI acquired 5 hours post-infusion during the Monetary Incentive Delay task. Despite measurable subjective effects and expected pharmacokinetics, ketamine did not significantly modulate brain activation in reward-related regions. Findings suggest dissociative's effects on reward circuits may be time-dependent, potentially more prominent acutely or in clinical populations.",
+        "sv": "Enkelblindat crossover-försök (n=28) undersökte keramins subakuta effekter på belöningsbearbetning. Deltagare fick 0,5 mg/kg ketamin eller placebo intravenöst, med fMRI genomförd 5 timmar efter infusion under Monetary Incentive Delay-uppgiften. Trots mätbara subjektiva effekter och förväntad farmakokenetik modulerade ketamin inte signifikant hjärnaktivering i belöningsrelaterade regioner. Resultaten tyder på att dissociativens effekter på belöningskretsar kan vara tidskänsliga, eventuellt mer framträdande akut eller i kliniska populationer.",
+        "no": "Enkeltblindet crossover-studie (n=28) som undersøkte ketamins subakutte effekter på belønningsbehandling. Deltakere mottok 0,5 mg/kg ketamin eller placebo intravenøst, med fMRI gjennomført 5 timer etter infusjon under Monetary Incentive Delay-oppgaven. Til tross for målbare subjektive effekter og forventet farmakokenetikk, modulerte ketamin ikke signifikant hjerneaktivering i belønningsrelaterte områder. Resultatene tyder på at dissociativets effekter på belønningskretser kan være tidssensitive, potensielt mer fremtredende akutt eller i kliniske populasjoner.",
+        "da": "Enkeltblindet crossover-studie (n=28) der ketamins subakutte effekter på belønningsprocessing blev undersøgt. Deltagere modtog 0,5 mg/kg ketamin eller placebo intravenøst, med fMRI optaget 5 timer efter infusion under Monetary Incentive Delay-opgaven. Trods målbare subjektive effekter og forventet farmakokinetik modulerede ketamin ikke signifikant hjernens aktivering i belønningsrelaterede områder. Resultaterne tyder på, at dissociativets effekter på belønningskredsløb kan være tidsfølsomme, potentielt mere fremtrædende akut eller i kliniske populationer.",
+        "fi": "Yksittäin sokoutettu crossover-tutkimus (n=28) ketamiinin subakuuttien vaikutusten tutkimiseksi palkkiokäsittelyyn. Osallistujat saivat 0,5 mg/kg ketamiinia tai plaseboa laskimonsisäisesti, ja fMRI kuvattiin 5 tuntia infuusion jälkeen Monetary Incentive Delay -tehtävän aikana. Huolimatta mitattavista subjektiivisista vaikutuksista ja odotetusta farmakokinetiikasta ketamiini ei merkitsevästi muuttanut aivojen aktivaatiota palkkiosiihen liittyvillä alueilla. Tulokset viittaavat siihen, että dissosiatiivin vaikutukset palkkiopiireihin voivat olla aikaherkät, mahdollisesti näkyvämmät akuutissa vaiheessa tai kliinisissa populaatioissa.",
+        "is": "Einsblinda crossover-rannsókn (n=28) sem skoðaði skammtímaáhrif ketamíns á verðlaunavinnslu. Þátttakendur fengu 0,5 mg/kg ketamín eða plasebo með beinum æðavökva og fMRI var tekið 5 klst. eftir að innrennsli var lokið á meðan Monetary Incentive Delay verkefni var framkvæmt. Þrátt fyrir mælanleg huglæg áhrif og væntanleg lyfjahreyfingu var ketamín ekki með marktæk áhrif á heilastarfsemi á verðlaunatengdum svæðum. Niðurstöður benda til að áhrif dissosiatífa á verðlaunakerfið gætu verið tímaháð, hugsanlega áberandi á bráðum stigum eða í klínískum hópum.",
+        "et": "Üheblindne crossover-uuring (n=28) uuris ketamiini subakuutseid mõjusid tasustamisprotsessile. Osalejad said 0,5 mg/kg ketamiini või platseebot intravenoosselt, fMRI registreeriti 5 tundi pärast infusiooni Monetary Incentive Delay ülesande ajal. Vaatamata mõõdetavatele subjektiivsetele mõjudele ja oodatavale farmakokineetikale ei moduleerinud ketamiin märkimisväärselt ajutoimet tasustamisega seotud piirkondades. Tulemused viitavad, et dissosiatiivsete ainete mõjud tasustamisahelale võivad olla ajahelikud, potentsiaalselt rohkem väljendunud akuutsel faasil või kliinilistes populatsioonides.",
+        "lv": "Vienslepi aklā crossover pētījums (n=28) pētīja ketamīna subakūtos efektus uz atlases apstrādi. Dalībnieki saņēma 0,5 mg/kg ketamīnu vai placebu intravenozi, fMRI tika uzņemta 5 stundas pēc infūzijas Monetary Incentive Delay uzdevuma laikā. Neskatoties uz mērāmiem subjektīviem efektiem un paredzamo farmakokinētiku, ketamīns neparādīja nozīmīgu smadzeņu aktivizācijas modulāciju atlases saistītajos reģionos. Rezultāti liecina, ka disociatīvo vielu ietekme uz atlases sistēmu var būt laika jutīga, potenciāli izteiktāka akūtā fāzē vai klīniskajās populācijās.",
+        "lt": "Viengubai aklai kontroliuota kryžminė studija (n=28) tirinėjo ketamino subakučius efektus atlygio apdorojimui. Dalyviai gavo 0,5 mg/kg ketamino arba placebu intravenine infuzija, fMRI buvo atlikta 5 valandas po infuzijos atliekant Monetary Incentive Delay užduotį. Nepaisant išmatuojamų subjektyvių efektų ir tikėtinos farmakokinetikos, ketaminas nepaveikė reikšmingai smegenų aktyvacijos atlygiu susijusiose srityse. Rezultatai rodo, kad disociatyvių medžiagų poveikis atlygių grandinėms gali būti laiko jautrus, potencialiai labiau išreikštas ūmioje fazėje arba kliniškai medikamentiškai šeimose."
+      },
+      "notable": false,
+      "notable_reasons": null,
+      "relevance_score": 3,
+      "study_type": "rct",
+      "substances": [
+        "ketamine"
+      ],
+      "added_at": "2026-10-06T13:29:10.190107+00:00"
+    },
+    {
       "title": "Ketamine-enhanced psychotherapy for smoking cessation: A pilot study of feasibility, safety, and clinical outcomes.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42788697/",
       "source": "PubMed",
@@ -784,6 +890,38 @@
         "ketamine"
       ],
       "added_at": "2026-09-22T11:55:10.210502+00:00"
+    },
+    {
+      "title": "Pharmacological interventions for alcohol use disorder on quality of life: a meta-analysis of randomized controlled trials.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42831801/",
+      "source": "PubMed",
+      "date": "2026-Sep-20",
+      "authors": [
+        "Fluyau Dimy",
+        "Revadigar Neelambika",
+        "Kim Paul"
+      ],
+      "doi": "10.1093/alcalc/agag067",
+      "summaries": {
+        "en": "Meta-analysis of 18 RCTs (n=4376) examining pharmacotherapy for alcohol use disorder. Naltrexone improved both mental (d=0.30) and physical quality of life (d=0.16). Nalmefene improved physical QoL only. Acamprosate, sertraline, and psilocybin showed QoL benefits in limited trials, while topiramate, ketamine, varenicline, and quetiapine showed no clear improvements. Results suggest selective efficacy across medications.",
+        "sv": "Metaanalys av 18 RCT:er (n=4376) som undersökte farmakologisk behandling för alkoholanvändningsstörning. Naltrexon förbättrade både psykisk (d=0,30) och fysisk livskvalitet (d=0,16). Nalmefene förbättrade endast fysisk livskvalitet. Akamprosat, sertralin och psykedeliska substanser visade begränsade fördelar, medan topiramat, ketamin, varenikelin och quetiapin inte visade tydliga effekter. Resultaten tyder på selektiv effektivitet mellan mediciner.",
+        "no": "Metaanalyse av 18 RCT-er (n=4376) som undersøkte farmakologisk behandling for alkoholvanskeligheter. Naltrexon forbedret både psykisk (d=0,30) og fysisk livskvalitet (d=0,16). Nalmefene forbedret kun fysisk livskvalitet. Akamprosat, sertralin og psykedelika viste begrenset nytte, mens topiramat, ketamin, varenikolin og quetiapin ikke viste klare effekter. Resultatene tyder på selektiv effektivitet mellom medisinene.",
+        "da": "Metaanalyse af 18 RCT'er (n=4376) som undersøgte farmakologisk behandling for alkoholforbrug. Naltrexon forbedrede både mental (d=0,30) og fysisk livskvalitet (d=0,16). Nalmefene forbedrede kun fysisk livskvalitet. Akamprosat, sertralin og psykedelika viste begrænsede fordele, mens topiramat, ketamin, varenikolin og quetiapin ikke viste klare forbedringer. Resultaterne tyder på selektiv effektivitet blandt medicinerne.",
+        "fi": "18 satunnaistetun kontrolloitua tutkimusta (n=4376) farmakologisesta alkoholiongelmien hoidosta. Naltreksoni paransi sekä psyykkistä (d=0,30) että fyysistä elämänlaatua (d=0,16). Nalmefeni paransi vain fyysistä elämänlaatua. Akamprostaatti, sertraliini ja psykedeelien vaikutukset olivat rajalliset, kun taas topiramaatti, ketamiini, varenikliini ja kvetiapiini eivät osoittaneet selvää hyötyä. Tulokset viittaavat vaihtelevaan lääkkeiden tehokkuuteen.",
+        "is": "Samantekt á 18 handahófs stýrðum rannsóknum (n=4376) um lyfjameðferð við áfengisnotkun. Naltrexón bætði bæði andlega (d=0,30) og líkamlega lífsgæði (d=0,16). Nalmefén bætði eingöngu líkamlega lífsgæði. Akamprostat, sertralin og sálfræðileg víkindi sýndu takmarkaða ávinning, en topiramat, ketamín, varenikín og kvetíapín sýndu engar skýrar bætingar. Niðurstöður benda til mismunandi verkun lyfja.",
+        "et": "18 juhuslikustatud kontrollitud uuringu metaanalüüs (n=4376) alkoholiseisundi farmakoterapiast. Naltreksoon parandas nii vaimset (d=0,30) kui füüsilist elukvaliteeti (d=0,16). Nalmefeen parandas ainult füüsilist elukvaliteeti. Akamprostaadil, sertraliinил ja psühhoaktiivseil ainetel oli piiratud kasu, kuigi topiraamaat, ketamiin, vareniklin ja kvetiapin ei näidanud selgeid parandusi. Tulemused viitavad erinevale ravimite tõhususele.",
+        "lv": "18 randomizētu kontrolētu pētījumu metaanalīze (n=4376) par farmakoterapiju alkohola lietošanas traucējumiem. Naltreksons uzlaboja gan garīgo (d=0,30), gan fizisko dzīves kvalitāti (d=0,16). Nalmefens uzlaboja tikai fizisko dzīves kvalitāti. Akamprostatam, sertralīnam un psihodeliski vielas parādīja ierobežotu ieguvumu, savukārt topiramatam, ketamīnam, vareniklinam un kvetapīnam nebija skaidra efekta. Rezultāti liecina par atšķirīgu zāļu efektivitāti.",
+        "lt": "18 atsitiktinių kontroliuojamų tyrimų metaanalizė (n=4376) dėl vaistinės terapijos alkoholio vartojimo sutrikimams. Naltreksonis pagerino tiek psichikos (d=0,30), tiek fizinę gyvenimo kokybę (d=0,16). Nalmefenas pagerino tik fizinę gyvenimo kokybę. Akamprostaatui, sertralinui ir psichedelinėms medžiagoms buvo ribota nauda, o topiramatui, ketaminui, varenilinui ir kvetianinui nebuvo jokio aiškaus efekto. Rezultatai rodo skirtingą vaistų veiksmingumą."
+      },
+      "notable": false,
+      "notable_reasons": null,
+      "relevance_score": 3,
+      "study_type": "review",
+      "substances": [
+        "psilocybin",
+        "ketamine"
+      ],
+      "added_at": "2026-10-06T13:29:10.190107+00:00"
     },
     {
       "title": "A circuit dissection of perception-action decoupling in S-ketamine-induced hallucination-like states.",
@@ -1864,139 +2002,6 @@
         "psilocybin"
       ],
       "added_at": "2026-09-10T11:37:11.956703+00:00"
-    },
-    {
-      "title": "Toward an interdisciplinary mind science of advanced meditation.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42716834/",
-      "source": "PubMed",
-      "date": "2026-09-09",
-      "authors": [
-        "Lieberman Jonathan M",
-        "Sacchet Matthew D"
-      ],
-      "doi": "10.1016/j.tics.2026.07.009",
-      "summaries": {
-        "en": "This review outlines an emerging interdisciplinary field studying advanced meditation beyond mindfulness, examining progressive states and stages through meditative development. Using computational phenomenology, cognitive neuroscience, and epidemiological methods, researchers investigate philosophical foundations, clinical outcomes, and connections to psychedelic experiences, advancing systematic understanding of meditation's effects on mind and well-being.",
-        "sv": "En ny forskningsgren undersöker avancerad meditation bortom mindfulness genom interdisciplinär metodik. Studierna kartlägger progressiva stadier i meditativ utveckling med hjälp av beräkningsbaserad fenomenologi, kognitiv neurovetenskap och epidemiologi. Forskarna utforskar filosofiska grunder, kliniska effekter och kopplingar till psykedeliska erfarenheter för att förstå meditationens påverkan på sinnet.",
-        "no": "Et nytt forskningsfelt undersøker avansert meditasjon beyond mindfulness ved hjelp av tverrfaglige metoder. Studiene kartlegger progressive stadier i meditativ utvikling gjennom beregningsmessig fenomenologi, kognitiv neurovitenskap og epidemiologi. Forskere utreder filosofiske grunnlag, kliniske effekter og sammenhenger med psykedeliske erfaringer for å forstå meditasjons påvirkning på sinnet.",
-        "da": "Et nyt forskningsfelt undersøger avanceret meditation uden for mindfulness gennem tværfaglige metoder. Studierne kortlægger progressive stadier i meditativ udvikling ved hjælp af beregningsbaseret fænomenologi, kognitiv neurovidenskab og epidemiologi. Forskere udforsker filosofiske grundlag, kliniske effekter og forbindelser til psykedeliske erfaringer for at forstå meditationens indvirkning på sindet.",
-        "fi": "Uusi tutkimusala tutkii edistynyttä meditaatiota mindfulnessin ulkopuolella monitieteisen lähestymistavan avulla. Tutkimukset kartoittavat meditatiivisen kehityksen progressiivisia vaiheita laskennallisen fenomenologian, kognitiivisen neurotieteen ja epidemiologian keinoin. Tutkijat tutkivat filosofisia perusteita, kliinisiä vaikutuksia ja yhteyksiä psykedeelisiin kokemuksiin mielen ymmärtämiseksi.",
-        "is": "Ný rannsóknargrein rannsakar háþróaða hugleiðslu umfram tilberi með þverfaglegri aðferð. Rannsóknirnar kortleggja þróunarskref hugleiðslu með beinni fenómenólógíu, vitrænni taugavísindum og faraldsfræði. Vísindamenn rannsaka heimspekileg grundvöll, klíníska áhrif og tengsl við sálfræðilegar reynslu til að skilja áhrif hugleiðslu á huga.",
-        "et": "Uus uurimisala uurib arenenud meditatsiooni achtsamuse väljaspool multidistsiplinaarsel meetodil. Uuringud kaardistavad meditatiivse arengu progressiivseid stadiumeid arvutuslikul fenomenoloogial, kognitiivsel neuroteotsial ja epidemioloogial. Teadlased uurivad filosoofilisi aluseid, kliinilisi tulemusi ja seoseid psühhedeelidega kogemustega, et mõista meditatsiooni mõju meelele.",
-        "lv": "Jauna pētniecības nozare pēta paaugstinātu meditāciju ārpus apzinātības ar starpdisciplināru pieeju. Pētījumi kartē meditācijas attīstības progresīvos posmus, izmantojot aprēķinātu fenomenoloģiju, kognitīvo neirozinatni un epidemioloģiju. Zinātnieki pēta filozofiskus pamatus, klīniskos rezultātus un savienojumus ar psihedēliju pieredzēm, lai saprastu meditācijas ietekmi uz apziņu.",
-        "lt": "Nauja mokslo sritis tiria pažangią meditaciją už sąmoningumo ribų, naudodama tarpdisciplininį metodą. Tyrimai nustato meditacinės raidos progresyvius etapus, taikydami skaičiavimo fenomenologiją, kognityvinę neuroziną ir epidemiologiją. Mokslininkai tiria filosofinius pagrindus, klininius rezultatus ir ryšius su psichedelinėmis patirtimis, siekdami suprasti meditacijos poveikį protui."
-      },
-      "notable": false,
-      "notable_reasons": null,
-      "relevance_score": 3,
-      "study_type": "review",
-      "substances": [
-        "other"
-      ],
-      "added_at": "2026-09-10T11:37:11.956703+00:00"
-    },
-    {
-      "title": "Psilocybin selectively suppresses novelty-induced grooming via 5-HT2B receptors: A microstructure analysis in Wistar rats.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42716333/",
-      "source": "PubMed",
-      "date": "2026-09-09",
-      "authors": [
-        "Seillier Alexandre",
-        "El Dannan Ghinwa Ibrahim",
-        "Seillier Lenka"
-      ],
-      "doi": "10.1016/j.pnpbp.2026.111924",
-      "summaries": {
-        "en": "Psilocybin reduced novelty-induced grooming in Wistar rats through 5-HT2B receptor activation, selectively suppressing abnormal grooming microstructure while leaving comfort grooming intact. Using the Grooming Analysis Algorithm, researchers found this effect was reversed by the 5-HT2B antagonist RS-127445, demonstrating psilocybin's receptor-specific behavioral profile independent of its 5-HT2A-mediated psychedelic effects.",
-        "sv": "Psilocybin minskade növeltetsinducerad bortskaffning hos Wistar-råttor genom aktivering av 5-HT2B-receptorer, selektivt undertryckande av abnorm bortskaffningsmikrostruktur medan komfortbortskaffning lämnades intakt. Med hjälp av Grooming Analysis Algorithm visade forskare att denna effekt reverserades av 5-HT2B-antagonisten RS-127445, vilket demonstrerar psilocybins receptorspecifika beteendeprofil oberoende av dess 5-HT2A-medierade psykedeliska effekter.",
-        "no": "Psilocybin reduserte novelitetsinducert stell hos Wistar-rotter gjennom aktivering av 5-HT2B-reseptorer, selektivt undertrykkende av abnormalt stellmikrostruktur mens komfortstell forble intakt. Ved bruk av Grooming Analysis Algorithm viste forskere at denne effekten ble reversert av 5-HT2B-antagonisten RS-127445, som demonstrerer psilocybins reseptorspesifikke atferdsprofil uavhengig av dets 5-HT2A-formidlede psykedeliske effekter.",
-        "da": "Psilocybin reducerede noveltetsinduceret grooming hos Wistar-rotter gennem aktivering af 5-HT2B-receptorer, selektivt undertrykkkende af abnorm grooming-mikrostruktur mens komfort-grooming forblev intakt. Ved brug af Grooming Analysis Algorithm viste forskere, at denne effekt blev reverseret af 5-HT2B-antagonisten RS-127445, hvilket demonstrerer psilocybins receptorspecifikke adfærdsprofil uafhængig af dets 5-HT2A-formidlede psykedeliske effekter.",
-        "fi": "Psilosybiini vähensi novelteetti-indusoitua silittämistä Wistar-rotilla aktivoimalla 5-HT2B-reseptoreita, selektiivisesti tukahduttaen epänormaalin silittämisen mikrorakenteen samalla kun mukavuussilittäminen säilyi. Grooming Analysis Algorithm -algoritmia käyttäen tutkijat osoittivat, että tämä vaikutus palautui 5-HT2B-antagonistin RS-127445 avulla, mikä osoittaa psilosybiinin reseptorikohtaisen käyttäytymisprofiilin riippumatta sen 5-HT2A-välitteisistä psykedeelistä vaikutuksista.",
-        "is": "Psilosýbín minnkaði nýjungarfræðinni framkallaða hreinlætissvip hjá Wistar-rottum með virkjun 5-HT2B-geisla, markvisst bælandi óeðlilega hreinlætismikruskipan á meðan þægindahreinlæti hélst óbreytt. Með Grooming Analysis Algorithm-reikniriti sýndu vísindamenn að þessi áhrif væru snúin við 5-HT2B-mótefnum RS-127445, sem sannar sértæka aðgerðarsnið psilosýbíns óháð 5-HT2A-miðluðum psýkedelískum áhrifum.",
-        "et": "Psilotsibiin vähendasid novelteedi-indutseeritud hegistavaid käitumisi Wistar rotil 5-HT2B retseptorite aktiveerimise kaudu, selektiivselt summutades abnormaalset hegistavat mikrostruktuuri, samal ajal kui mugavushegistamine jäi puutumatuks. Grooming Analysis Algorithm-algoritmit kasutades näitasid teadlased, et seda efekti pöörditi 5-HT2B-antagonisti RS-127445 abil, mis demonstreerib psilotsibiin-spetsiifilist käitumisprofiili sõltumata selle 5-HT2A-vahendatud psühhedeelikust mõjust.",
-        "lv": "Psilocibīns samazināja novitāti-inducētu groominingu Wistar žurkās, aktivējot 5-HT2B receptorus, selektīvi nomācoties anomālo groomininga mikrostruktūru, bet komforta grooming palika neskartas. Izmantojot Grooming Analysis Algorithm, pētnieki parādīja, ka šo efektu apgriezā 5-HT2B antagonists RS-127445, kas pierāda psilocibīna receptoru-specifisko uzvedības profilu neatkarīgi no tā 5-HT2A-starpniecības psihedeliskiem efektiem.",
-        "lt": "Psilocibinas sumažino novelę sukeliamą graudimą Wistar žiurkėse, aktyvindamas 5-HT2B receptorius ir selektyviai slopindamas anomalią graudymo mikrostruktūrą, tuo metu paliekant patogumo graudimą nepažeistą. Naudodami Grooming Analysis Algorithm algoritmą, mokslininkai parodė, kad šis efektas buvo neutralizuotas 5-HT2B antagonisto RS-127445, patvirtindami psilocibino receptorui specifinį elgesio profilį, nepriklausomai nuo jo 5-HT2A-tarpininkauto psichedelinio poveikio."
-      },
-      "notable": false,
-      "notable_reasons": null,
-      "relevance_score": 3,
-      "study_type": "preclinical",
-      "substances": [
-        "psilocybin"
-      ],
-      "added_at": "2026-09-10T11:37:11.956703+00:00"
-    },
-    {
-      "title": "MDMA-Assisted Therapy May Decrease PTSD Symptoms, Dissociation, Depression, and Functional Disability: A Systematic Review and Meta-Analysis.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42708350/",
-      "source": "PubMed",
-      "date": "2026-09-09",
-      "authors": [
-        "Green Warwick M",
-        "Raut Sanket B",
-        "James Fionnghuala L J"
-      ],
-      "doi": "10.1097/HRP.0000000000000478",
-      "summaries": {
-        "en": "A systematic review and meta-analysis of seven randomized controlled trials examined MDMA-assisted psychotherapy for PTSD treatment. Compared to control groups, MDMA-assisted therapy showed significant improvements in PTSD symptoms, dissociation, depression, and functional impairment, but not sleep quality. However, evidence is limited by small sample sizes, blinding challenges, non-standardized therapeutic protocols, and single trial sponsor.",
-        "sv": "En systematisk översikt och metaanalys av sju randomiserade kontrollerade studier undersökte MDMA-assisterad psykoterapi för PTSD-behandling. Jämfört med kontrollgrupper visade MDMA-assisterad terapi signifikanta förbättringar inom PTSD-symtom, dissociation, depression och funktionell svikt, men inte sömnkvalitet. Dock är evidensen begränsad av små urvalsstorlekar, blindningsutmaningar och gemensam studiefinansiär.",
-        "no": "En systematisk oversikt og metaanalyse av sju randomiserte kontrollerte studier undersøkte MDMA-assistert psykoterapi for PTSD-behandling. Sammenlignet med kontrollgrupper viste MDMA-assistert terapi betydelige forbedringer i PTSD-symptomer, dissosiasjon, depresjon og funksjonssvikt, men ikke søvnkvalitet. Bevisene er imidlertid begrenset av små utvalgsstørrelser, blindingsproblemer og felles studiefinansiør.",
-        "da": "En systematisk oversigt og metaanalyse af syv randomiserede kontrollerede studier undersøgte MDMA-assisteret psykoterapi til PTSD-behandling. Sammenlignet med kontrolgrupper viste MDMA-assisteret terapi signifikante forbedringer i PTSD-symptomer, dissociation, depression og funktionel invaliditet, men ikke søvnkvalitet. Evidensen er dog begrænset af små stikprøvestørrelser, blindingsudfordringer og fælles studiesponsor.",
-        "fi": "Seitsemän satunnaistetun kontrolloitujen tutkimuksen järjestelmällinen katsaus ja meta-analyysi tutkivat MDMA-avusteista psykoterapiaa PTSD-hoidossa. Verratuna kontrolliryhmiin MDMA-avusteinen terapia osoitti merkitseviä parannuksia PTSD-oireissa, dissosiaatiossa, masennuksessa ja toimintakyvyn heikentymisessä, mutta ei unen laadussa. Näyttö on kuitenkin rajoitettu pienillä otoskooilla, sokkouttamisen haasteilla ja yhteisellä tutkimuksen rahoittajalla.",
-        "is": "Kerfbundin yfirlit og meðalgreining á sjö tilviljunarkenndum samanburðarrannsóknum skoðaði MDMA-aðstoðaða sálfræðiþerapíu við meðferð á áfallastreituröskun. Miðað við samanburðarhópa sýndi MDMA-aðstoðuð meðferð marktæka bætingu á einkennum áfallastreitaröskunar, skotningu, þunglyndi og hæfislegri skerðingu, en ekki svefngæði. Þó eru sönnunargögn takmörkuð með litlum sýnishornum, áskorunum við blindun og sameiginlegum styrktaraðila rannsóknarinnar.",
-        "et": "Seitseme juhuslikult määratud kontrollitud uuringu süstemaatiline ülevaade ja metaanalüüs uurisid MDMA-abistatud psühhoteraapiat PTSD-ravi jaoks. Võrreldes kontrollrühmadega näitas MDMA-abistatud teraapia olulist paranemist PTSD-sümptomites, dissotsiatsioonias, depressioonis ja funktsionaalsete puudete puhul, kuid mitte und kvaliteedi osas. Tõend on siiski piiratud väikeste valimiga, pimestamise probleemidega ja ühise uuringu rahastajaga.",
-        "lv": "Septiņu randomizēto kontrolēto pētījumu sistemātisks pārskats un metaanalīze pārbaudīja MDMA-palīdzētās psihoterapijas efektivitāti PTSB ārstēšanā. Salīdzinājumā ar kontroles grupām MDMA-palīdzētā terapija parādīja nozīmīgus uzlabojumus PTSB simptomos, disociācijā, depresijā un funkcionālā traucējumā, bet ne miega kvalitātē. Tomēr pierādījumi ir ierobežoti ar maziem izlases lielumiem, aklošanas problēmām un vienotu pētījuma sponsoru.",
-        "lt": "Septyniu atsitiktinių kontroliuojamų bandymų sisteminė apžvalga ir metaanalizė tyrė MDMA pagalba asistavusią psichoterapiją PTSR gydymui. Lyginant su kontrolės grupėmis MDMA pagalba asistavusi terapija parodė reikšmingą pagerinimą PTSR simptomuose, disociacijos, depresijos ir funkcinės negalios atžvilgiu, bet ne miego kokybės. Tačiau įrodymai yra riboti dėl mažų imčių dydžių, aklės kaupos iššūkių ir bendro tyrimo finansatoriaus."
-      },
-      "notable": true,
-      "notable_reasons": {
-        "en": "Large meta-analysis synthesizing seven RCTs on MDMA-assisted therapy for PTSD, directly relevant to emerging clinical evidence in psychedelic medicine.",
-        "sv": "Stor metaanalys som syntetiserar sju RCT:er om MDMA-assisterad terapi för PTSD, direkt relevant för växande kliniska bevis inom psykedelisk medicin.",
-        "no": "Stor metaanalyse som syntetiserer syv RCT-er om MDMA-assistert terapi for PTSD, direkte relevant for voksende klinisk evidens innen psykedelisk medisin.",
-        "da": "Stor metaanalyse, der syntetiserer syv RCT'er om MDMA-assisteret terapi for PTSD, direkte relevant for voksende klinisk evidens inden for psykedelisk medicin.",
-        "fi": "Suuri metaanalyysi, joka syntetisoi seitsemän RCT:tä MDMA-avusteisesta PTSD-terapiasta, suoraan relevantti nousevan kliinisen evidenssin kannalta psykedelisessä lääketieteessä.",
-        "is": "Stór gagnasöfnun sem fléttar saman sjö RCT-um um MDMA-aðstoðað meðferð fyrir PTSD, beint viðeigandi fyrir vaxandi klíníska sönnun innan sálfræðilegra lyfja.",
-        "et": "Suur metaanalüüs, mis ühendab seitse RCT-d MDMA-abil antava PTSD-ravi kohta, otseselt asjakohane psühhedeeliumi meditsiini kasvava kliinilise tõendusega.",
-        "lv": "Liela metaanalīze, kas sintezē septiņas RCT par MDMA-palīdzību PTSD terapijai, tieši attiecīga psihedelisko vielu medicīnas augošajiem klīniskajiem pierādījumiem.",
-        "lt": "Didelė metaanalizė, kurioje sintetinamos septyni RCT dėl MDMA-pagalbinės PTSD terapijos, tiesiogiai svarbi psichedelinės medicinos besivystantiems klinikiniais įrodymais."
-      },
-      "relevance_score": 5,
-      "study_type": "review",
-      "substances": [
-        "mdma"
-      ],
-      "added_at": "2026-09-09T11:38:42.550210+00:00"
-    },
-    {
-      "title": "Mystical but not challenging experiences predict symptom improvement after psilocybin for treatment-resistant OCD.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42775190/",
-      "source": "PubMed",
-      "date": "2026-09-08",
-      "authors": [
-        "Shnayder Sarah",
-        "Agin-Liebes Gabrielle",
-        "Hubert Troy J"
-      ],
-      "doi": "10.3389/fpsyt.2026.1799543",
-      "summaries": {
-        "en": "A randomized controlled trial found that mystical experiences during psilocybin sessions predicted symptom improvement in treatment-resistant OCD. In 27 participants receiving psilocybin (0.25 mg/kg), greater mystical-type experiences on the Mystical Experience Questionnaire correlated with lower Yale-Brown Obsessive Compulsive Scale scores at 1 and 12 weeks post-treatment, independent of baseline severity. Challenging experiences showed no significant association with outcomes.",
-        "sv": "En randomiserad kontrollerad studie visade att mystiska upplevelser under psilocybinsessioner förutspådde symtomförbättring vid behandlingsresistent OCD. Hos 27 deltagare som fick psilocybin (0,25 mg/kg) korrelerade större mystiska upplevelser på Mystical Experience Questionnaire med lägre Yale-Brown Obsessive Compulsive Scale-värden vid 1 och 12 veckor efter behandling, oberoende av utgångsseveritet. Utmanande upplevelser visade ingen signifikant association med resultaten.",
-        "no": "En randomisert kontrollert studie fant at mystiske opplevelser under psiloxybin-sesjoner forutsa symptomforbedring ved behandlingsresistent OCD. Hos 27 deltakere som fikk psiloxybin (0,25 mg/kg), korrelerte større mystiske opplevelser på Mystical Experience Questionnaire med lavere Yale-Brown Obsessive Compulsive Scale-verdier ved 1 og 12 uker etter behandling, uavhengig av utgangsseveritet. Utfordrende opplevelser viste ingen signifikant assosiasjon med resultatene.",
-        "da": "Et randomiseret kontrolleret forsøg fandt, at mystiske oplevelser under psilocybin-sessioner forudsagde symptomforbedring ved behandlingsresistent OCD. Hos 27 deltagere, der fik psilocybin (0,25 mg/kg), korrelerede større mystiske oplevelser på Mystical Experience Questionnaire med lavere Yale-Brown Obsessive Compulsive Scale-værdier ved 1 og 12 uger efter behandling, uafhængigt af udgangsseveritet. Udfordrende oplevelser viste ingen signifikant association med resultaterne.",
-        "fi": "Satunnaistettu kontrolloitu tutkimus osoitti, että mystisiä kokemuksia psilosybiini-istuntojen aikana oli mahdollista ennustaa oireisen paranemisen käsittelemielessä OCD:ssä. 27 psilosybiinin saaneella osallistujalla (0,25 mg/kg) suuremmat myystiset kokemukset Mystical Experience Questionnairell korreloivat alhaisempien Yale-Brown Obsessive Compulsive Scale -arvojen kanssa 1 ja 12 viikon kuluttua, lähtötason vakavuudesta riippumatta. Haastavilla kokemuksilla ei ollut merkitsevää yhteyttä tuloksiin.",
-        "is": "Handahóf, tvíblind rannsókn leiddi í ljós að dularlegir reynsluatburðir meðan á psilosýbín-lotum stóð spáðu fyrir um bætingu einkennis við meðhöndlun-ónæma OCD. Meðal 27 þátttakenda sem fengu psilosýbín (0,25 mg/kg) tengdust meiri dularlegir reynsluatburðir í Mystical Experience Questionnaire við lægri Yale-Brown Obsessive Compulsive Scale gildi 1 og 12 vikum eftir meðhöndlun, óháð upphaflegum alvarleika. Áskorunarfullir atburðir sýndu engan marktæka tengingu við niðurstöður.",
-        "et": "Randomiseeritud kontrollitud uuringus leiti, et müstilised kogemused psilosübiini-seansside ajal ennustasid ravi-resistentse OCD-ga seotud sümptomite paranemist. 27 psilosübiini saanud osalejal (0,25 mg/kg) korreleerusid suuremad müstilised kogemused Mystical Experience Questionnaire'is madalama Yale-Brown Obsessive Compulsive Scale'i väärtustega 1 ja 12 nädalat pärast ravi, sõltumata algse raskusastmest. Väljakutsuvatel kogemustel ei olnud olulist seost tulemustega.",
-        "lv": "Randomizēts kontrolēts pētījums konstatēja, ka mistiskas pieredzes psilotsibīna sesiju laikā prognozēja simptomatiskas uzlabošanos pie ārstēšanu necensitīvā OCD. 27 dalībniekus, kuri saņēma psilotsibīnu (0,25 mg/kg), lielākas mistiskas pieredzes Mystical Experience Questionnaire korelēja ar zemākām Yale-Brown Obsessive Compulsive Scale vērtībām 1 un 12 nedēļas pēc ārstēšanas, neatkarīgi no sākotnējā smaguma. Izaicinošai pieredzei nebija nozīmīgas asociācijas ar rezultātiem.",
-        "lt": "Atsitiktinėje kontroliuojamoje studijoje nustatyta, kad mistiškos patirtys psilocibin seansų metu numatė simptomų pagerinimą gydymui atspariai OCD. 27 dalyvių, gavusių psilocibin (0,25 mg/kg), didesnės mistiškos patirtys Mystical Experience Questionnaire sutapo su žemesnėmis Yale-Brown Obsessive Compulsive Scale reikšmėmis 1 ir 12 savaičių po gydymo, nepaisant pradinės sunkumo. Iššūkiu patirtys nebuvo reikšmingai susietos su rezultatais."
-      },
-      "notable": false,
-      "notable_reasons": null,
-      "relevance_score": 4,
-      "study_type": "rct",
-      "substances": [
-        "psilocybin"
-      ],
-      "added_at": "2026-09-24T12:02:14.493884+00:00"
     }
   ]
 }

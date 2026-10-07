@@ -1,7 +1,32 @@
 {
-  "date": "2026-10-06",
-  "cached_at": "2026-10-06T12:44:05.296074+00:00",
+  "date": "2026-10-07",
+  "cached_at": "2026-10-07T12:37:44.581947+00:00",
   "articles": [
+    {
+      "title": "Pharmacological, clinical, and translational evidence for N,N-dimethyltryptamine, 5-methoxy-N,N-dimethyltryptamine, and zalsupindole: a systematic review.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42838215/",
+      "source": "PubMed",
+      "abstract": "Short-acting tryptamine psychedelics are emerging as candidate psychiatric therapeutics with pharmacological profiles that may offer practical advantages over longer-acting psychedelics. N,N-dimethyltryptamine (N,N-DMT) and 5-methoxy-N,N-dimethyltryptamine (5-MeO-DMT) differ in pharmacokinetic, receptor, and phenomenological properties, while zalsupindole is a putatively non-hallucinogenic analogue. This systematic review aimed to synthesize pharmacological, clinical, safety, and preclinical behavioural evidence for these compounds. Ovid databases and PubMed were searched from inception to December 22, 2025, with an updated search on July 7, 2026. Two reviewers independently conducted screening, data extraction, and risk-of-bias assessment. Fifty-one publications met eligibility criteria. Intravenous N,N-DMT exhibited rapid pharmacokinetics, with acute effects resolving within 20-30 min, while sublingual 5-MeO-DMT had an elimination half-life of approximately 28 min. Clinical evidence was most developed for depression, with both compounds associated with rapid reductions in depressive symptoms. GH001, an inhalable 5-MeO-DMT formulation, met its primary endpoint in a Phase 2b treatment-resistant depression trial. Evidence for substance use disorders, post-traumatic stress disorder, and eating disorders remained preliminary. Zalsupindole evidence was limited to one preclinical study reporting antidepressant-like behavioural and neuroplasticity-related effects without a head-twitch response; however, human efficacy and hallucinogenic potential remain unknown. Common adverse events included nausea, headache, and transient cardiovascular increases. DMT-related compounds represent a pharmacologically heterogeneous group with emerging clinical relevance, particularly for depression. Further studies integrating dose-exposure relationships, receptor pharmacology, neurobiological markers, subjective effects, and clinical outcomes are needed to clarify mechanisms of response and whether neuroplasticity-promoting effects can be dissociated from overt hallucinogenic effects.",
+      "date": "2026-10-06",
+      "authors": [
+        "Collyer Chad",
+        "Le Gia Han",
+        "Hassan Maryam"
+      ],
+      "doi": "10.1016/j.pnpbp.2026.111966"
+    },
+    {
+      "title": "A longitudinal analysis of the clinical practice of ketamine assisted psychotherapy with adolescents and young adults.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42835728/",
+      "source": "PubMed",
+      "abstract": "Ketamine Assisted Psychotherapy (KAP) is a developing modality with broad impact on humans suffering with a variety of emotional and relationship difficulties that encompass many diagnostic entities. Our application of KAP has extended to and included the treatment of adolescents and young adults in a family therapy format. Given the increasing scope and complexity of the adolescent mental health crisis and the frequent failures to respond to conventional treatment, the promise of KAP deserves thorough investigation. We previously described the process of KAP in our adolescent population that included four case reports exemplifying our approach. Here we report on the longitudinal clinical experience of 19 adolescents and young adults (ages 14-24; mean age 19.3 ± 3.1 years; 11 female, 7 male, 1 non-binary) who completed three or more KAP sessions at a single community outpatient clinic. BDI-II scores declined by an estimated 0.65 points per visit (95% CI: -0.90, -0.40) and HAM-A scores by 0.21 points per visit (95% CI: -0.44, +0.01), based on linear mixed-effects models. Approximately 63.2% of patients (12/19) achieved medium or large individual treatment effects on BDI; 47.4% (9/19) on HAM-A. Physician and patient reports indicated overall benefit in 68.4% of cases (13/19), including marked reductions in suicidality in at-risk patients. Ketamine was well tolerated across 167 documented sessions; nausea was the only notable adverse event, occurring in 5.4% of sessions and largely manageable with standard antiemetics. No hospitalizations, substance misuse, or evidence of neurological harm occurred over a median individual follow-up of 5.6 months (mean 10.1, range 0.9-36.4 months). These findings suggest that KAP is feasible and well tolerated in a diagnostically complex adolescent population, with clinically meaningful reductions in depression and a similar trend for anxiety associated with continued treatment. To our knowledge, this is the first report to provide longitudinal quantitative data for office-based KAP in adolescents and young adults, and it establishes a foundation for and supports the design of future controlled trials in this population.",
+      "date": "2026-09-21",
+      "authors": [
+        "Wolfson Phil",
+        "Carroll Cody"
+      ],
+      "doi": "10.3389/fpsyt.2026.1886833"
+    },
     {
       "title": "Psilocybin use, mental health treatment utilization, and unmet treatment need among US individuals with depression.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42834832/",
@@ -230,32 +255,6 @@
         "Suljic Nina Purg"
       ],
       "doi": "10.1016/j.biopsych.2026.09.016"
-    },
-    {
-      "title": "Are psychedelics anti-inflammatory? A systematic review and meta-analysis of studies examining the immunomodulatory effects of serotonergic psychedelics.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42805420/",
-      "source": "PubMed",
-      "abstract": "Serotonergic psychedelics are promising treatments for neuropsychiatric disorders, and their immunomodulatory effects may contribute to their clinical efficacy. However, we lack a systematic review and meta-analysis of these effects across in vitro, in vivo non-human, and human studies. We systematically searched PubMed, EMBASE, Web of Science, PsycINFO, LILACS and ClinicalTrials.gov for all studies, published from database inception through February 9th, 2026, examining changes in immune markers after serotonergic psychedelic exposure, and meta-analyzed eligible studies. Of 9,195 studies screened, 61 studies met eligibility criteria for systematic review including 24 in vitro studies, 30 non-human in vivo studies, and seven human studies including data from 10 separate human trials. Results of the systematic review indicated that most in vitro (19/24) and non-human in vivo (25/30) studies reported anti-inflammatory effects of psychedelics. Human results were mixed with anti-inflammatory effects observed in 3/10 trials. Results of the meta-analysis of 18 eligible in vivo murine studies showed a significant decrease in proinflammatory cytokines in inflammatory models (standardized mean difference (SMD = -1.23, 95% CI [-1.54, -0.92]), but no significant effects in healthy murines (SMD = -0.06, 95% CI [-0.54, 0.43]), following treatment with a serotonergic psychedelic. Four human studies were eligible for meta-analysis; however, the small number of studies resulted in imprecise estimates and limited interpretability. Thus, while serotonergic psychedelics reduce proinflammatory cytokines in preclinical models of increased baseline inflammation, limited human evidence precludes conclusions about their translational potential.",
-      "date": "2026-09-28",
-      "authors": [
-        "Lerche Anna Skovgaard",
-        "Kelley D Parker",
-        "Benros Michael E"
-      ],
-      "doi": "10.1016/j.bbi.2026.107033"
-    },
-    {
-      "title": "U.S. Authorizing Clinicians and Medical Cannabis Caregivers: 2020-2024.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42804773/",
-      "source": "PubMed",
-      "abstract": "",
-      "date": "2026-09-29",
-      "authors": [
-        "Boehnke Kevin F",
-        "Whitcomb Madeline",
-        "Gordon Felicia"
-      ],
-      "doi": "10.7326/ANNALS-26-03446"
     },
     {
       "title": "Podcast: Oregon Backtracks on Fee Hike, California Funds Psychedelic Research, DEA Moves to Schedule 5 Tryptamines",
@@ -572,7 +571,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2018-004480-31/CZ",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-10-06",
+      "date": "2026-10-07",
       "authors": [],
       "doi": ""
     },
@@ -581,7 +580,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2020-005037-32/CZ",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-10-06",
+      "date": "2026-10-07",
       "authors": [],
       "doi": ""
     },
@@ -590,7 +589,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2021-002909-10/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-10-06",
+      "date": "2026-10-07",
       "authors": [],
       "doi": ""
     },
@@ -599,7 +598,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2015-000550-37/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-10-06",
+      "date": "2026-10-07",
       "authors": [],
       "doi": ""
     },
@@ -608,7 +607,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2021-000041-40/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-10-06",
+      "date": "2026-10-07",
       "authors": [],
       "doi": ""
     },
@@ -617,7 +616,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2020-000829-55/DK",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-10-06",
+      "date": "2026-10-07",
       "authors": [],
       "doi": ""
     },
@@ -626,7 +625,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2020-002790-94/SE",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-10-06",
+      "date": "2026-10-07",
       "authors": [],
       "doi": ""
     },
@@ -635,7 +634,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2021-006200-33/FI",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-10-06",
+      "date": "2026-10-07",
       "authors": [],
       "doi": ""
     },
@@ -644,7 +643,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2019-004812-73/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-10-06",
+      "date": "2026-10-07",
       "authors": [],
       "doi": ""
     },
@@ -653,7 +652,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2022-002369-14/BE",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-10-06",
+      "date": "2026-10-07",
       "authors": [],
       "doi": ""
     }

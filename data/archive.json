@@ -1,6 +1,45 @@
 {
   "items": [
     {
+      "title": "Pharmacological, clinical, and translational evidence for N,N-dimethyltryptamine, 5-methoxy-N,N-dimethyltryptamine, and zalsupindole: a systematic review.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42838215/",
+      "source": "PubMed",
+      "date": "2026-10-06",
+      "authors": [
+        "Collyer Chad",
+        "Le Gia Han",
+        "Hassan Maryam"
+      ],
+      "doi": "10.1016/j.pnpbp.2026.111966",
+      "summary_en": "Systematic review of 51 studies on short-acting tryptamine psychedelics: N,N-DMT, 5-MeO-DMT, and zalsupindole. Intravenous N,N-DMT and sublingual 5-MeO-DMT show rapid pharmacokinetics (effects resolve within 20-30 min and 28 min half-life respectively). Evidence strongest for depression treatment; GH001 (inhalable 5-MeO-DMT) met primary endpoint in Phase 2b trial for treatment-resistant depression. Preliminary evidence exists for PTSD, substance use disorders, and eating disorders. Zalsupindole data limited to one preclinical study showing antidepressant-like effects.",
+      "notable": true,
+      "notable_reason": "Systematic review including Phase 2b trial results (GH001, inhalable 5-MeO-DMT for treatment-resistant depression) and comprehensive synthesis across pharmacology, clinical outcomes, and safety across multiple psychiatric indications.",
+      "study_type": "review",
+      "substances": [
+        "other"
+      ],
+      "added_at": "2026-10-07T13:40:51.780298+00:00"
+    },
+    {
+      "title": "A longitudinal analysis of the clinical practice of ketamine assisted psychotherapy with adolescents and young adults.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42835728/",
+      "source": "PubMed",
+      "date": "2026-09-21",
+      "authors": [
+        "Wolfson Phil",
+        "Carroll Cody"
+      ],
+      "doi": "10.3389/fpsyt.2026.1886833",
+      "summary_en": "A longitudinal analysis of the clinical practice of ketamine assisted psychotherapy with adolescents and young adults.",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "observational",
+      "substances": [
+        "ketamine"
+      ],
+      "added_at": "2026-10-07T13:40:51.780298+00:00"
+    },
+    {
       "title": "Psilocybin use, mental health treatment utilization, and unmet treatment need among US individuals with depression.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42834832/",
       "source": "PubMed",

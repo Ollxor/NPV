@@ -1,12 +1,25 @@
 {
-  "date": "2026-10-07",
-  "cached_at": "2026-10-07T12:37:44.581947+00:00",
+  "date": "2026-10-08",
+  "cached_at": "2026-10-08T12:47:03.706786+00:00",
   "articles": [
+    {
+      "title": "Acute psilocybin or ethocybin leads to a sustained increase in Pavlovian aversion memory in male mice.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42840861/",
+      "source": "PubMed",
+      "abstract": "There is considerable interest in the concept that psychedelic compounds might facilitate reorganization of emotional processing with therapeutic benefit; in particular, amelioration of excessive focus on past, current and potential-future aversive events, a dominant emotional-cognitive state in stress-related affective disorders. Translational animal models can advance understanding of specific aspects of this concept, namely, those relating to subconscious emotional memories and their neurobiology. In male mice, chronic social stress (CSS) leads to excessive tone/context-foot shock Pavlovian aversion learning (PAL) and memory (PAM), measured as time spent in freezing behavior, and provides a model for generalized excessive focus on aversion. Sub-chronic administration of SSRI antidepressant between PAL and PAM reverses the excessive PAM of CSS mice. Here we applied the model to investigate acute and sustained behavioral and neurobiological effects of psilocybin (PSY) and ethocybin (ETH). In control male mice, both psychedelics at 3 mg/kg per os resulted in 1-2 h of blood-brain exposure to the respective major metabolites psilocin and ethocin, and to head twitch responses. In the main experiment, mice underwent either 15-day CSS or control handling (CON), followed 2 days later by PAL, 1 day later by PSY, ETH or vehicle (VEH), and 3 days later by PAM testing and then brain collection. Relative to VEH, PSY and ETH led to increased PAM expression as more time spent in freezing behavior during tone/context presentation. In a subset of these same mice, there was no psychedelic effect on densities of the two glutamatergic synaptic proteins investigated, vGluT1 or Homer1 in prelimbic cortex or amygdala. This study demonstrates that PSY and ETH lead to a sustained increase in aversive emotional memory expression in male mice. A similar effect in humans with stress- and trauma-related affective disorders might increase the psychotherapeutic accessibility of such memories.",
+      "date": "2026-09-22",
+      "authors": [
+        "Hogg David Ernst",
+        "Romanos Jennifer",
+        "Albiez Jamie"
+      ],
+      "doi": "10.3389/fphar.2026.1918182"
+    },
     {
       "title": "Pharmacological, clinical, and translational evidence for N,N-dimethyltryptamine, 5-methoxy-N,N-dimethyltryptamine, and zalsupindole: a systematic review.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42838215/",
       "source": "PubMed",
-      "abstract": "Short-acting tryptamine psychedelics are emerging as candidate psychiatric therapeutics with pharmacological profiles that may offer practical advantages over longer-acting psychedelics. N,N-dimethyltryptamine (N,N-DMT) and 5-methoxy-N,N-dimethyltryptamine (5-MeO-DMT) differ in pharmacokinetic, receptor, and phenomenological properties, while zalsupindole is a putatively non-hallucinogenic analogue. This systematic review aimed to synthesize pharmacological, clinical, safety, and preclinical behavioural evidence for these compounds. Ovid databases and PubMed were searched from inception to December 22, 2025, with an updated search on July 7, 2026. Two reviewers independently conducted screening, data extraction, and risk-of-bias assessment. Fifty-one publications met eligibility criteria. Intravenous N,N-DMT exhibited rapid pharmacokinetics, with acute effects resolving within 20-30 min, while sublingual 5-MeO-DMT had an elimination half-life of approximately 28 min. Clinical evidence was most developed for depression, with both compounds associated with rapid reductions in depressive symptoms. GH001, an inhalable 5-MeO-DMT formulation, met its primary endpoint in a Phase 2b treatment-resistant depression trial. Evidence for substance use disorders, post-traumatic stress disorder, and eating disorders remained preliminary. Zalsupindole evidence was limited to one preclinical study reporting antidepressant-like behavioural and neuroplasticity-related effects without a head-twitch response; however, human efficacy and hallucinogenic potential remain unknown. Common adverse events included nausea, headache, and transient cardiovascular increases. DMT-related compounds represent a pharmacologically heterogeneous group with emerging clinical relevance, particularly for depression. Further studies integrating dose-exposure relationships, receptor pharmacology, neurobiological markers, subjective effects, and clinical outcomes are needed to clarify mechanisms of response and whether neuroplasticity-promoting effects can be dissociated from overt hallucinogenic effects.",
+      "abstract": "Short-acting tryptamine psychedelics are emerging as candidate psychiatric therapeutics with pharmacological profiles that may offer practical advantages over longer-acting psychedelics. N,N-dimethyltryptamine (N,N-DMT) and 5-methoxy-N,N-dimethyltryptamine (5-MeO-DMT) differ in pharmacokinetic, receptor, and phenomenological properties, while zalsupindole is a putatively non-hallucinogenic analogue. This systematic review aimed to synthesize pharmacological, clinical, safety, and preclinical behavioural evidence for these compounds. Ovid databases and PubMed were searched from inception to December 22, 2025, with an updated search on July 7, 2026. Two reviewers independently conducted screening, data extraction, and risk-of-bias assessment. Fifty-one publications met eligibility criteria. Intravenous N,N-DMT exhibited rapid pharmacokinetics, with acute effects resolving within 20-30 min, while sublingual 5-MeO-DMT had an elimination half-life of approximately 28 min. Clinical evidence was most developed for depression, with both compounds associated with rapid reductions in depressive symptoms. GH001, an inhalable 5-MeO-DMT formulation, met its primary endpoint in a Phase 2b treatment-resistant depression trial. Evidence for substance use disorders, post-traumatic stress disorder, and eating disorders remained preliminary. Zalsupindole evidence was limited to one preclinical study reporting antidepressant-like behavioural and neuroplasticity-related effects without a head-twitch response; however, human efficacy and hallucinogenic potential remain unknown. Common adverse events included nausea, headache, and transient cardiovascular increases. DMT-related compounds represent a pharmacologically heterogeneous group with emerging clinical relevance, particularly for depression. Further studies integrating dose-exposure relationships, receptor pharmacology, neurobiological markers, subjective effects, and clinical outcomes are needed to clarify mechanisms of response and whether neuroplasticity-promoting effects can be dissociated from overt hallucinogenic effects.",
       "date": "2026-10-06",
       "authors": [
         "Collyer Chad",
@@ -242,19 +255,6 @@
         "Di Lodovico Laura"
       ],
       "doi": "10.1016/j.spsy.2026.07.006"
-    },
-    {
-      "title": "Ketamine Alters Tuning of Neural and Behavioral Spatial Working Memory Precision.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42805468/",
-      "source": "PubMed",
-      "abstract": "Working memory (WM) is a key element of cognition that depends on accurate internal representation of stimuli and often impaired in psychiatric disorders, including schizophrenia. Prior human neuropharmacological studies with ketamine suggest that glutamate N-methyl-D-aspartate receptors (NMDARs) are critical for spatial WM (sWM), with NMDAR antagonism attenuating task-evoked neural activation and reducing WM accuracy. Animal studies, at the cellular level, and cortical microcircuit models hypothesize that NMDAR antagonism impairs sWM by decreasing the specificity of neuronal responses to spatial locations through broadened spatial tuning. Testing the relevance of this mechanism in humans remains a vital gap in our understanding of sWM and is critical for designing better treatments for WM impairments. To overcome the challenges of measuring neuronal responses invasively in humans, we combined pharmacological manipulation and computational fMRI to show that ketamine broadens neural spatial tuning in healthy adults (N=40). Specifically, we modeled population neuron-level representations, rather than traditionally examined changes in blood oxygen level dependent (BOLD) activation. Broader neural tuning across visual perception and WM networks was linked to poorer sWM performance under ketamine, implicating tuning changes in sWM deficits. Furthermore, ketamine-induced changes in tuning, compared to the overall magnitude of BOLD activation, were more consistent across individuals and brain regions, suggesting a collective effect of ketamine on neural tuning across spatially-selective regions. These findings provide the first empirical evidence linking altered neuronal tuning to NMDAR antagonism and sWM impairments in humans, advancing a mechanistic understanding of glutamatergic mechanisms underlying sWM and related deficits in neuropsychiatric disorders.",
-      "date": "2026-09-28",
-      "authors": [
-        "Rahmati Masih",
-        "Moujaes Flora",
-        "Suljic Nina Purg"
-      ],
-      "doi": "10.1016/j.biopsych.2026.09.016"
     },
     {
       "title": "Podcast: Oregon Backtracks on Fee Hike, California Funds Psychedelic Research, DEA Moves to Schedule 5 Tryptamines",
@@ -541,6 +541,19 @@
       "doi": "10.5812/ijpr-164903"
     },
     {
+      "title": "Oral delivery of recombinant &lt;i&gt;Lactococcus lactis&lt;/i&gt; expressing an IL-23 inhibitor as a potential therapeutic strategy for experimental colitis.",
+      "url": "https://doi.org/10.1080/10717544.2026.2726654",
+      "source": "Europe PMC",
+      "abstract": "Interleukin 23 (IL-23) is a key mediator of immune-mediated intestinal inflammation and plays an important role in the pathogenesis of inflammatory bowel disease. Inhibition of IL-23 signaling has therefore been validated as a therapeutic target in IBD. Here, we tested small binding proteins of non-immunoglobulin origin targeting either the IL-23 cytokine p19 subunit or the IL-23 receptor subunit IL-23R, designated ILP and REX binders, respectively. ILP317 and REX115 variants of formerly identified protein collections were tested in murine experimental colitis. <i>Lactococcus lactis</i> bacteria engineered for ILP317 or REX115 expression were administered to experimental mice via yogurt-coated food pellets before and during dextran sulfate sodium (DSS) and trinitrobenzenesulfonic acid (TNBS)-induced colitis. To compare both protein blockers, ILP317 and REX115 binders were administered intraperitoneally as soluble recombinant proteins. General health status, colon macroscopic and histological changes, mucosal tissue cell infiltration, local and systemic inflammatory cytokines were analyzed. In DSS- and TNBS-induced colitis, intraperitoneal administration of soluble ILP317 or REX115 reduced disease severity, including disease activity index, colon shortening, and mucosal inflammatory cell infiltration. Oral administration of recombinant <i>L. lactis</i> expressing ILP317 also showed consistent protective effects, whereas oral <i>L. lactis</i> expressing REX115 produced less pronounced effects in several experimental settings. Overall, ILP317 appeared more effective than REX115 when delivered orally by recombinant <i>L. lactis</i>. Oral administration of non-colonizing <i>L. lactis</i> expressing an IL-23p19 inhibitor may represent a promising preclinical strategy for the development of novel, non-invasive approaches to modulate intestinal inflammation.",
+      "date": "2026-10-03",
+      "authors": [
+        "Kopecna E",
+        "Raskova Kafkova L",
+        "Kosztyu P"
+      ],
+      "doi": "10.1080/10717544.2026.2726654"
+    },
+    {
       "title": "Percutaneous brachial plexus peripheral nerve stimulation for cancer-related upper extremity pain: a novel technical approach.",
       "url": "https://doi.org/10.1016/j.inpm.2026.100824",
       "source": "Europe PMC",
@@ -554,24 +567,11 @@
       "doi": "10.1016/j.inpm.2026.100824"
     },
     {
-      "title": "Transient functional preservation precedes retinal ganglion cell degeneration following optic nerve crush.",
-      "url": "https://doi.org/10.1016/j.ibneur.2026.09.005",
-      "source": "Europe PMC",
-      "abstract": "<h4>Aims</h4>Optic nerve crush (ONC) induces progressive retinal ganglion cell (RGC) degeneration; however, the temporal relationship between functional impairment and structural loss remains incompletely understood. This study investigated early changes in retinal function and subtype-specific RGC responses following ONC to determine whether retinal activity is preserved before substantial RGC degeneration.<h4>Methods</h4>Adult Sprague-Dawley rats underwent ONC and were examined at 1, 3, 7, and 14 days after injury. Retinal function was assessed using electroretinography (ERG), photopic negative response (PhNR), and multi-electrode array (MEA) recordings. RGC survival was quantified by Fluoro-Gold labeling, while microglial activation and oxidative stress-related markers were evaluated by immunofluorescence.<h4>Results</h4>RGC survival remained largely preserved during the first 3 days following ONC but declined markedly at days 7 and 14. MEA recordings showed relative preservation of light-evoked responses at day 3, followed by progressive reductions in responsiveness and spontaneous firing at later stages. PhNR amplitudes showed a similar trend, although the changes did not reach statistical significance. Subtype analysis revealed differential vulnerability, with ONOFF-RGCs exhibiting greater reductions in proportion and functional responses, whereas ON-RGCs accounted for an increasing proportion of surviving cells over time. Microglial activation increased during the degenerative phase, while the oxidative damage marker 8-OHG immunoreactivity appeared elevated early after injury. No obvious changes were detected in NQO-1 or SOD-2 expression.<h4>Conclusions</h4>Retinal function remained relatively preserved during the first 3 days following ONC despite ongoing injury and before substantial RGC loss occurred. ONOFF-RGCs exhibited greater vulnerability than other functional subtypes. These findings identify an early post-injury period preceding substantial RGC degeneration and provide insight into the temporal dynamics of RGC dysfunction following optic nerve injury.",
-      "date": "2026-09-15",
-      "authors": [
-        "Yu S",
-        "Liu F",
-        "Zhao Y"
-      ],
-      "doi": "10.1016/j.ibneur.2026.09.005"
-    },
-    {
       "title": "CZ",
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2018-004480-31/CZ",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-10-07",
+      "date": "2026-10-08",
       "authors": [],
       "doi": ""
     },
@@ -580,7 +580,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2020-005037-32/CZ",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-10-07",
+      "date": "2026-10-08",
       "authors": [],
       "doi": ""
     },
@@ -589,7 +589,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2021-002909-10/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-10-07",
+      "date": "2026-10-08",
       "authors": [],
       "doi": ""
     },
@@ -598,7 +598,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2015-000550-37/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-10-07",
+      "date": "2026-10-08",
       "authors": [],
       "doi": ""
     },
@@ -607,7 +607,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2021-000041-40/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-10-07",
+      "date": "2026-10-08",
       "authors": [],
       "doi": ""
     },
@@ -616,7 +616,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2020-000829-55/DK",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-10-07",
+      "date": "2026-10-08",
       "authors": [],
       "doi": ""
     },
@@ -625,7 +625,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2020-002790-94/SE",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-10-07",
+      "date": "2026-10-08",
       "authors": [],
       "doi": ""
     },
@@ -634,7 +634,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2021-006200-33/FI",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-10-07",
+      "date": "2026-10-08",
       "authors": [],
       "doi": ""
     },
@@ -643,7 +643,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2019-004812-73/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-10-07",
+      "date": "2026-10-08",
       "authors": [],
       "doi": ""
     },
@@ -652,9 +652,132 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2022-002369-14/BE",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-10-07",
+      "date": "2026-10-08",
       "authors": [],
       "doi": ""
+    },
+    {
+      "title": "Blinding integrity in psychedelic research: Evidence from a comparative randomized controlled trial of psilocybin, MDMA, and methylphenidate in healthy volunteers",
+      "url": "https://doi.org/10.1016/j.euroneuro.2026.112879",
+      "source": "OpenAIRE",
+      "abstract": "Maintaining effective blinding is a major methodological challenge in psychedelic research. This study provides a comprehensive evaluation of blinding integrity in 120 healthy volunteers who received either psilocybin, MDMA, or methylphenidate (active placebo) in a double-blind, randomized controlled trial. Using a multi-level assessment incorporating forced-choice substance guesses, certainty ratings, decision factors, and subjective substance effects, the analyses characterize blinding integrity and its relation to the substance experience. Results indicate that overall blinding was insufficient, with psilocybin showing the highest rates of functional unblinding, MDMA moderate levels, and methylphenidate the lowest. As an active placebo, methylphenidate provided more effective blinding for MDMA than for psilocybin. Incorporating certainty levels of substance guesses revealed a more differentiated pattern, with lower functional unblinding rates. Decision factors and subjective substance experiences were associated with phenomenological substance effects. Prior substance experiences did not influence accuracy of forced-choice substance guesses. These findings provide empirical guidance for the design and reporting of blinding procedures in psychedelic trials and underscore the value of systematic, multi-level assessment of blinding integrity.",
+      "date": "2026-10-01",
+      "authors": [
+        "L. Belinger",
+        "N.M. Rieser",
+        "E.J.E. Engeli"
+      ],
+      "doi": "10.1016/j.euroneuro.2026.112879"
+    },
+    {
+      "title": "Evaluating psilocybin for the management of depression: a literature review",
+      "url": "https://doi.org/10.12968/bjmh.2025.0020",
+      "source": "OpenAIRE",
+      "abstract": "<jats:sec>                     <jats:title>Background/Aims</jats:title>                     <jats:p>Depression remains a significant public health concern worldwide and many individuals do not achieve adequate symptom relief from conventional treatments such as antidepressants and psychological therapies. Interest has therefore increased in alternative interventions, including psilocybin microdosing. This article aimed to critically review the current evidence regarding the use of psilocybin for managing symptoms of depression and consider the implications for mental health nursing practice.</jats:p>                   </jats:sec>                   <jats:sec>                     <jats:title>Methods</jats:title>                     <jats:p>A narrative literature review was undertaken. Search terms included ‘microdosing’, ‘psilocybin’, ‘psychedelics’, ‘mental health’ and ‘depression’. Studies published in the last 10 years involving human participants were considered. Following screening and application of inclusion and exclusion criteria, five articles with a total of six empirical studies were included in the review.</jats:p>                   </jats:sec>                   <jats:sec>                     <jats:title>Results</jats:title>                     <jats:p>Three themes emerged, including ethical risks and limitations of microdosing, demographic and participant characteristics and the impact of microdosing on mental health. Some studies reported improvements in mood, anx",
+      "date": "2026-08-02",
+      "authors": [
+        "Rachel Sinclair"
+      ],
+      "doi": "10.12968/bjmh.2025.0020"
+    },
+    {
+      "title": "Psychedelic and Medicinal Mushrooms: Potent Source of Active Metabolites and Medicines",
+      "url": "https://doi.org/10.2174/0115734072383313250602052217",
+      "source": "OpenAIRE",
+      "abstract": "<jats:sec>                     <jats:title>Background:</jats:title>                     <jats:p>Mushrooms, usually used for their nutritional and culinary properties, have recently gained attention for their medicinal effects, so that they are not only used as dietary foods but also as mycotherapeutics, nutraceuticals, and food supplements.</jats:p>                   </jats:sec>                   <jats:sec>                     <jats:title>Objective:</jats:title>                     <jats:p>The aim of this study is therefore to educate readers about various mushrooms with medicinal benefits. Methodology: A large number of English-language publications from different databases were analysed for this purpose.</jats:p>                   </jats:sec>                   <jats:sec>                     <jats:title>Results and Discussion:</jats:title>                     <jats:p>Medicinal mushrooms have been attributed various biological properties, e.g. prebiotic, antihyperlipidaemic, anti-allergic, antioxidant, anticancer, hepatoprotective, antioxidant, cytotoxic, antidiabetic, immunomodulatory, anti-inflammatory, and antimicrobial. These properties are due to the presence of various bioactive compounds presentin the mycelium and fruiting bodies. The biological effects of these bioactive compounds vary according to their chemical nature, and their distribution varies according to the type of mushroom. Psilocybin-containing mushrooms have been consumed in different parts of the world f",
+      "date": "2026-08-01",
+      "authors": [
+        "Priya Chaudhary",
+        "Pracheta Janmeda"
+      ],
+      "doi": "10.2174/0115734072383313250602052217"
+    },
+    {
+      "title": "The role of therapeutic alliance in psilocybin treatment for treatment-resistant depression: A post hoc path analysis",
+      "url": "https://doi.org/10.1016/j.jad.2026.121662",
+      "source": "OpenAIRE",
+      "abstract": "<p>Introduction The contribution of patient support to psilocybin's antidepressant effects remains uncertain. Methods Relationships between therapeutic alliance (Scale to Assess Therapeutic Relationship-Patient version; STAR-P), psychedelic experience (Five-Dimensional Altered States of Consciousness Questionnaire and Emotional Breakthrough Inventory; 5D-ASC and EBI) and clinical outcomes (Montgomery-Åsberg Depression Rating Scale; MADRS) were explored using correlation and path analysis for individuals with treatment-resistant depression receiving 25 mg psilocybin with monitoring and support ( N = 79). Results Change from Baseline to Week 3 MADRS scores showed weaker correlations with pre-dosing therapeutic alliance (−0.178) than with measures of the psychedelic experience: EBI (−0.637), Oceanic Boundlessness (−0.508), and Visual Restructuralization (−0.516). Path analysis showed no nominally significant direct effects of therapeutic alliance on Week 3 MADRS scores, but there were nominally significant effects of therapeutic alliance on psychedelic experience (Oceanic Boundlessness ( β = 0.28), Visual Restructuralization ( β = 0.27), and Auditory Alterations ( β = 0.25)). Only one indirect effect of therapeutic alliance on clinical outcome reached nominal significance (via Visual Restructuralization; β = −0.15). Stronger effects were seen on clinical outcomes for psychedelic experience (EBI ( β = −0.59), Oceanic Boundlessness ( β = −0.53), Visual Restructuralization ( β = −0",
+      "date": "2026-08-01",
+      "authors": [
+        "Goodwin, Guy M.",
+        "Aaronson, Scott T.",
+        "Alvarez, Oscar"
+      ],
+      "doi": "10.1016/j.jad.2026.121662"
+    },
+    {
+      "title": "A cross-national comparison of nonmedical and medical use of psychedelic drugs in the international cannabis policy study",
+      "url": "https://doi.org/10.1016/j.drugpo.2026.105348",
+      "source": "OpenAIRE",
+      "abstract": "Background We know little about the extent psychedelic substances are consumed therapeutically and/or discussed with medical professionals despite renewed global interest in these substances. Methods We examined self-reported responses from the 2023 International Cannabis Policy Study (ICPS) in repeated cross-sectional surveys in Canada, the United States, Australia, and New Zealand. The survey included questions on lifetime, past year, and past month use of psilocybin, LSD, MDMA, and ketamine. It inquired about respondents’ discussions with medical professionals, their self-reported medical use, and related adverse events. We estimate the mean proportion rate for each of these using logistic regression methods that adjust for demographics, country, and sampling weights. Findings Estimated results suggest nineteen per cent of all ICPS respondents reported lifetime use of one of the four substances. Psilocybin was the most commonly estimated to be used in one’s lifetime and in the past year, followed by LSD and MDMA. Estimated prevalences of ever using psilocybin were higher among respondents from Canada (16.3%, CI: 15.6–16.9%) than the USA (13.0%, CI: 12.3–13.6%) and New Zealand (12.1%, CI: 10.4–13.8%). Estimated rates of psilocybin ever use in Australia were significantly lower (7.8%, CI: 6.8–8.8%). An estimated 10–20% of respondents who report ever-use of a psychedelic asked their medical provider about medical use, and over a third who had used in the past year reported ex",
+      "date": "2026-08-01",
+      "authors": [
+        "Myfanwy Graham",
+        "Yimin Ge",
+        "Rosalie Liccardo Pacula"
+      ],
+      "doi": "10.1016/j.drugpo.2026.105348"
+    },
+    {
+      "title": "The Experience-Trajectory Framework: Substance-Specific Risk Stratification for Psychedelic Preparation and Aftercare Beyond Set and Setting",
+      "url": "https://doi.org/10.36948/ijfmr.2026.v08i04.84804",
+      "source": "OpenAIRE",
+      "abstract": "<jats:p>Set, setting, preparation, and integration are widely recognized as important dimensions of psychedelic experiences. However, these concepts often remain too general to specify how preparation, containment, and aftercare should differ across substances, routes of administration, acute duration, residual effects, bodily condition, and interaction exposure. This article proposes the Experience-Trajectory Framework for psychedelic preparation and aftercare. The framework focuses on psilocybin, LSD, mescaline, vaporized N,N-DMT, vaporized 5-MeO-DMT, and ayahuasca or oral DMT combined with monoamine oxidase inhibition. Its central claim is that preparation and aftercare should be stratified by two primary variables: the Experience-Trajectory Profile of the psychedelic state and the participant’s Baseline Risk State before exposure. Experience-Trajectory Profile refers to onset, peak phase, acute duration, residual effects, recovery window, and the earliest appropriate timing for interpretation or integration. Baseline Risk State refers to the participant’s acute physiological and pharmacological condition, including sleep, hydration, cardiovascular stability, gastrointestinal status, glucose stability, psychological stability, and interaction load. This article is a conceptual framework paper, not a clinical protocol or medication-discontinuation guide. It provides a stratification model that links substance-specific experience trajectories with baseline physiological and ",
+      "date": "2026-07-31",
+      "authors": [
+        "Elias Rubenstein"
+      ],
+      "doi": "10.36948/ijfmr.2026.v08i04.84804"
+    },
+    {
+      "title": "Childhood trauma and psychological outcomes following psychedelic use: a scoping review",
+      "url": "https://doi.org/10.1038/s44184-026-00233-2",
+      "source": "OpenAIRE",
+      "abstract": "<jats:title>Abstract</jats:title>                   <jats:p>Research examining psychological outcomes following psychedelic use has grown substantially, yet the role of childhood trauma in shaping these responses remains insufficiently understood. This scoping review mapped the literature examining childhood trauma in relation to post-psychedelic psychological outcomes. Thirty-four sources met inclusion criteria and investigated substances including psilocybin, ayahuasca, and MDMA across clinical, ceremonial, naturalistic, and guided non-clinical contexts. The evidence primarily relied on retrospective self-report, exhibited considerable heterogeneity in study design and trauma operationalisation, and included minimal representation from non-Western or Indigenous contexts. Findings were heterogeneous: some sources reported reductions in trauma-related symptoms in maltreated populations, others found no association between childhood trauma exposure and psychological outcomes, and some identified increased vulnerability to post-acute psychedelic difficulties. Qualitative accounts frequently described resurfacing trauma-related memories accompanied by both psychological growth and distress. Prospective, trauma-informed, and culturally-inclusive research is needed to clarify risks and therapeutic potential for childhood trauma-exposed populations.</jats:p>",
+      "date": "2026-07-30",
+      "authors": [
+        "Lorraine Li",
+        "Paige Seath",
+        "Nadav Liam Modlin"
+      ],
+      "doi": "10.1038/s44184-026-00233-2"
+    },
+    {
+      "title": "Identifying factors that contribute to the behavioral effects of psilocybin in preclinical mouse models",
+      "url": "https://doi.org/10.64898/2026.07.24.740586",
+      "source": "OpenAIRE",
+      "abstract": "<jats:title>ABSTRACT</jats:title>                 <jats:p>Psychedelic drugs offer a potentially promising avenue for novel therapeutics for the treatment of psychiatric conditions, including for mood and anxiety disorders. Emerging clinical studies have prompted increased preclinical research into mechanisms of action. However, post-acute behavioral outcomes in rodents remain inconsistent and difficult to reproduce across laboratories. To address this, we collected a large dataset of behavioral responses to psilocybin in mice (N=693) and used data-driven analyses to identify biological and experimental factors that modulated behavioral readouts. We examined the effects of sex, age, strain, stress protocol, and 5-HT1B signaling on the response to a single high dose of psilocybin measured in acute (head twitch responding and locomotion) or post-acute (sucrose preference, elevated plus maze, novelty-suppressed feeding) behavioral outcomes. We found that psilocybin displays a robust acute behavioral response and a more variable post-acute behavioral profile with a most robust response in sucrose preference. Sex, stress model, and 5-HT1BR activation emerged as key modulators of post-acute antidepressant-like and anxiolytic effects. Random forest classification was narrowly able to predict drug treatment based on post-acute behavioral outcomes and biological and experimental factors. These findings suggest that the heterogeneity seen in the response to psilocybin in mice reflects m",
+      "date": "2026-07-28",
+      "authors": [
+        "Sixtine Fleury",
+        "Luke J. Chang",
+        "Katherine M. Nautiyal"
+      ],
+      "doi": "10.64898/2026.07.24.740586"
+    },
+    {
+      "title": "The “dark magic mushroom” co-produces amatoxins and psilocybin",
+      "url": "https://doi.org/10.64898/2026.07.17.739257",
+      "source": "OpenAIRE",
+      "abstract": "<jats:title>Abstract</jats:title>                 <jats:p>                   The most famous chemicals produced by mushrooms are the psychedelic compound psilocybin from “magic mushrooms” and amatoxins from deadly poisonous mushrooms. These compounds are known to occur in multiple phylogenetically disjunct fungal lineages but have never been shown to co-occur within a single species. Here we show that the “dark magic mushroom”                   <jats:italic>Galerina indica</jats:italic>                   produces both psilocybin and amatoxins. Mass spectrometry revealed psilocybin and amatoxins in mushroom tissues, and genomic analyses identified corresponding biosynthetic genes. Phylogenetic analyses suggest that                   <jats:italic>G. indica</jats:italic>                   acquired psilocybin biosynthesis via horizontal gene transfer after amatoxin biosynthesis was already established, and that psilocybin biosynthesis was acquired twice independently within                   <jats:italic>Galerina</jats:italic>                   . Intriguingly, acquisition of psilocybin biosynthesis in                   <jats:italic>G. indica</jats:italic>                   may have coincided with reduced amatoxin potency. These findings reveal how horizontal gene transfer can combine powerful bioactive systems in a single species, potentially altering the ecological roles of both compound classes and the evolutionary fitness of the species.                 </jats:p>",
+      "date": "2026-07-22",
+      "authors": [
+        "Andrew R. Kunik",
+        "Michael W. Christopher",
+        "Benjamin Lemmond"
+      ],
+      "doi": "10.64898/2026.07.17.739257"
+    },
+    {
+      "title": "Predictive Processing, Psychedelic Spirituality, and Neurophenomenology",
+      "url": "https://doi.org/10.1093/oxfordhb/9780192844064.013.41",
+      "source": "OpenAIRE",
+      "abstract": "<jats:title>Abstract</jats:title>                   <jats:p>Psychedelic substances such as psilocybin, LSD, ayahuasca, DMT, or mescaline, when employed with knowledge and skill, can sometimes lead to profoundly meaningful and transformative subjective experiences. This chapter discusses how the predictive processing theory can further our understanding of these deeply meaningful spiritual psychedelic experience. It makes a more specific proposal that the predictive processing theory of psychedelics can contribute to the neurophenomenology research program. The chapter proposes that phenomenological reflection on the psychedelic experience can be used as a method by subjects for providing first-person descriptions of how the different phenomenological structures of their experience are altered during, and after, their acute psychedelic experience. What predictive processing adds is a further mathematical way of knowing consciousness that can serve as a neutral vocabulary for creating generative passages between neurobiology and phenomenology that allows neuroscientists to make sense of how psychedelics perturb the structures of first-person experience in ways that can lead to profoundly meaningful spiritual experiences.</jats:p>",
+      "date": "2026-07-22",
+      "authors": [
+        "Julian Kiverstein"
+      ],
+      "doi": "10.1093/oxfordhb/9780192844064.013.41"
     }
   ]
 }

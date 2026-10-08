@@ -1,6 +1,27 @@
 {
   "items": [
     {
+      "title": "Acute psilocybin or ethocybin leads to a sustained increase in Pavlovian aversion memory in male mice.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42840861/",
+      "source": "PubMed",
+      "date": "2026-09-22",
+      "authors": [
+        "Hogg David Ernst",
+        "Romanos Jennifer",
+        "Albiez Jamie"
+      ],
+      "doi": "10.3389/fphar.2026.1918182",
+      "summary_en": "Male mice exposed to chronic social stress show excessive Pavlovian aversion memory. Acute psilocybin or ethocybin (3 mg/kg) unexpectedly increased aversion memory expression, contrary to the hypothesis that psychedelics might reduce excessive focus on aversive events. This translational model suggests psychedelics may not uniformly ameliorate stress-related emotional processing.",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "preclinical",
+      "substances": [
+        "psilocybin",
+        "other"
+      ],
+      "added_at": "2026-10-08T13:48:58.129739+00:00"
+    },
+    {
       "title": "Pharmacological, clinical, and translational evidence for N,N-dimethyltryptamine, 5-methoxy-N,N-dimethyltryptamine, and zalsupindole: a systematic review.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42838215/",
       "source": "PubMed",

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T13:41:38.512052+00:00",
+  "generated_at": "2026-10-08T13:49:12.149784+00:00",
   "items": [
     {
       "title": "Pharmacological, clinical, and translational evidence for N,N-dimethyltryptamine, 5-methoxy-N,N-dimethyltryptamine, and zalsupindole: a systematic review.",
@@ -733,6 +733,38 @@
         "ketamine"
       ],
       "added_at": "2026-09-24T12:02:14.493884+00:00"
+    },
+    {
+      "title": "Acute psilocybin or ethocybin leads to a sustained increase in Pavlovian aversion memory in male mice.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42840861/",
+      "source": "PubMed",
+      "date": "2026-09-22",
+      "authors": [
+        "Hogg David Ernst",
+        "Romanos Jennifer",
+        "Albiez Jamie"
+      ],
+      "doi": "10.3389/fphar.2026.1918182",
+      "summaries": {
+        "en": "Male mice exposed to chronic social stress show excessive Pavlovian aversion memory. Acute psilocybin or ethocybin (3 mg/kg) unexpectedly increased aversion memory expression, contrary to the hypothesis that psychedelics might reduce excessive focus on aversive events. This translational model suggests psychedelics may not uniformly ameliorate stress-related emotional processing.",
+        "sv": "Möss utsatta för kronisk social stress utvecklar överdriven Pavlovsk aversionminne. Akut psilocybin eller ethocybin (3 mg/kg) ökade överraskande aversionminnet, motsatt hypotesen att psykedelika minskar överdriven fokus på negativa händelser. Modellen antyder att psykedelika inte enhetligt kan minska stressrelaterad emotionell bearbetning.",
+        "no": "Mus utsatt for kronisk sosial stress utvikler overdreven Pavlovsk aversionminne. Akutt psilocybin eller ethocybin (3 mg/kg) økte overraskende aversionminnet, motsatt hypotesen om at psykedelika reduserer overdreven fokus på negative hendelser. Modellen tyder på at psykedelika ikke ensartet kan redusere stressrelatert emosjonell bearbeiding.",
+        "da": "Mus udsat for kronisk social stress udvikler overdreven Pavlovsk aversionhukommelse. Akut psilocybin eller ethocybin (3 mg/kg) øgede overraskende aversionhukommelsen, modsat hypotesen om at psykedelika reducerer overdreven fokus på negative begivenheder. Modellen antyder at psykedelika ikke ensartet kan reducere stressrelateret følelsesmæssig bearbejdning.",
+        "fi": "Krooniselle sosiaaliselle stressille altistuvat hiiret kehittävät liiallisen Pavlovilaisen aversionmuistin. Akuutti psilosybiini tai ethosybiini (3 mg/kg) lisäsi yllättäen aversionmuistia, vastoin hypoteesia että psykedeelit vähentäisivät liiallista keskittymistä negatiivisiin tapahtumiin. Malli viittaa siihen, että psykedeelit eivät tasaisesti voi vähentää stressiin liittyvää tunneprosessointia.",
+        "is": "Krummulir sem verða fyrir langvarandi félagslegum streitu þróa óhóflega Pavlovska andstæðuflögð. Bráð psilósýbín eða ethósýbín (3 mg/kg) jók óvænt andstæðuflögðina, öfugt við tilgátu um að psýkedelelíur myndu minnka óhóflega fókus á neikvæða atburði. Líkanið bendir til þess að psýkedelelíur kunni ekki að jafna rýmka streitutengt tilfinningavinnslu.",
+        "et": "Kroonilisele sotsiaalsele stressile eksponeertud hiired arendavad liialdatud Pavlovi aversioonmälu. Ägeda psilotsibiini või etotsibiini manustamine (3 mg/kg) suurendas üllatuslikult aversioonmälu, vastupidiselt hüpoteesile, et psühhedeelikumid vähendaksid liialdatud fokuseerimist negatiivsele. Mudel viitab, et psühhedeelikumid ei pruugi ühtlaselt vähendada stressist tingitud emotsionaalse töötlemise häireid.",
+        "lv": "Pelēm, kas pakļautas hronikam sociālam stresam, attīstās pārmērīga Pavlova aversiijas atmiņa. Akūta psilocibiīna vai etocibiīna deva (3 mg/kg) negaidīti palielināja aversiijas atmiņu, pretēji hipotēzei, ka psihedeliki samazinātu pārmērīgu fokusēšanos uz negatīviem notikumiem. Modelis norāda, ka psihedeliki vienmēr var nesmāģēt samazināt stresa izraisītu emocionālo apstrādi.",
+        "lt": "Pelės, paklustos chroniniam socialiniam stresui, sukuria padidėtą Pavlovo aversinę atmintį. Aštrūs psilocibinas arba etocibinas (3 mg/kg) nežmoniškai padidino aversinę atmintį, priešingai hipotezei, kad psichedelikai sumažintų pernelyg didelį dėmesį neigiemiems įvykiams. Modelis rodo, kad psichedelikai gali ne visada sumažinti su stresu susijusią emocinę apstraidą."
+      },
+      "notable": false,
+      "notable_reasons": null,
+      "relevance_score": 4,
+      "study_type": "preclinical",
+      "substances": [
+        "psilocybin",
+        "other"
+      ],
+      "added_at": "2026-10-08T13:48:58.129739+00:00"
     },
     {
       "title": "Reply to 'Methodological concerns and interpretative limitations of assessing subjective effects of ketamine'.",
@@ -1978,37 +2010,6 @@
         "ketamine"
       ],
       "added_at": "2026-09-20T11:39:55.846587+00:00"
-    },
-    {
-      "title": "Ketamine-Induced Dissociation as an Ethical Signal, Not a Side Effect: Context as the Determinant of Clinical Duties Under Beneficence and Non-maleficence.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42717138/",
-      "source": "PubMed",
-      "date": "2026-09-09",
-      "authors": [
-        "Moon Gun",
-        "Noto Jack",
-        "Shuler Zachary"
-      ],
-      "doi": "10.1007/s10730-026-09611-x",
-      "summaries": {
-        "en": "A new ethical framework proposes that ketamine-induced dissociation should be understood as a context-dependent signal rather than a mere side effect. The model distinguishes between dysphoric and integrative dissociative trajectories, arguing that clinical outcomes depend on patient vulnerability, dosing, preparation, support, and integration. Rather than categorical exclusion, the authors recommend proportionate safeguards aligned with beneficence and non-maleficence principles.",
-        "sv": "En ny etisk analys föreslår att ketamininducerad dissociation bör förstås som en kontextberoende signal snarare än en biverkning. Modellen skiljer mellan dysforisk och integrativ dissociativ utveckling, där kliniska utfall beror på patientens sårbarhet, dosering, förberedelse, stöd och efterintegrering. Istället för kategorisk uteslutning rekommenderas proportionerade skyddsåtgärder i enlighet med välfärds- och icke-skadeprincipen.",
-        "no": "En ny etisk ramme foreslår at ketamininducert dissociation bør forstås som et kontekstavhengig signal snarere enn en bivirkning. Modellen skiller mellom dysforisk og integrativ dissociativ bane, der kliniske utfall avhenger av pasientens sårbarhet, dosering, forberedelse, støtte og etterintegrasjon. I stedet for kategorisk utelukkelse anbefales proporsjonale sikkerhetstiltak i samsvar med velgjørenhet og ikke-skadprinsippet.",
-        "da": "En ny etisk ramme foreslår, at ketamininduceret dissociation bør forstås som et kontekstafhængigt signal snarere end en bivirkning. Modellen skelner mellem dysforisk og integrativ dissociativ udvikling, hvor kliniske resultater afhænger af patientens sårbarhed, dosering, forberedelse, støtte og efterintegrering. I stedet for kategorisk udelukkelse anbefales proportionale sikkerhedsforanstaltninger i overensstemmelse med velgørende og ikke-skadens-princippet.",
-        "fi": "Uusi eettinen viitekehys ehdottaa, että ketamiinin aiheuttama dissosiaatio tulisi ymmärtää kontekstiriippuvaiseksi signaaliksi sivuvaikutuksen sijaan. Malli erottaa dysforisen ja integroivan dissosiatiiivisen kehityskulun, joissa kliiniset tulokset riippuvat potilaan haavoittuvuudesta, annostelusta, valmistautumisesta, tuesta ja jälkiintegraatiosta. Kategorisen poissulkemisen sijaan suositellaan oikeassa suhteessa olevia suojaavia toimenpiteitä hyvinvoinnin ja vahingon välttämisen periaatteiden mukaisesti.",
-        "is": "Ný siðferðileg rammi leggur til að ketamín-framkallaður aðskilnaður ætti að skiljas sem samhengsbundin merki fremur en aukaverkun. Líkanið greinir á milli sorglegrar og samþættrar aðskiljandi þróunar, þar sem klínísk árangur veltur á veikleika sjúklings, skammti, undirbúningi, stuðningi og endursamþættingu. Í stað algengrar útilokunar er mælt með hlutfallslegum öryggisráðstöfunum í samræmi við góðgjarnlyndi og skaðlausa meginreglur.",
-        "et": "Uus eetiline raamistik pakub, et ketamiinil-põhjustatud dissotsiatsiooni tuleks mõista kontekstist sõltuva märksignaalina, mitte kõrvaltoimena. Mudel eristab düsfoorilist ja integratiivsete dissotsiatiivset trajektoori, kus kliinilised tulemused sõltuvad patsiendi haavatavusest, annusest, ettevalmistusest, toetusest ja päraspordist. Kategoorilise välistamise asemel soovitatakse proportsionaalseid kaitsemeetmeid vastavalt heaolu ja kahju mittetegimise põhimõtetele.",
-        "lv": "Jauns ētisks ietvars ierosina, ka ketamīna-izraisītu disociāciju jāsaprot kā kontekstatkarīgu signālu, nevis blakusparādību. Modelis izšķir disforiju un integratīvu disociatīvās trajektorijas, kurās klīniskie rezultāti ir atkarīgi no pacienta neaizsargātības, devas, sagatavošanas, atbalsta un pēcintegrācijas. Kategoriskās izslēgšanas vietā ieteiktie proporcionālie drošības pasākumi atbilst labvēlības un kaitējuma novēršanas principiem.",
-        "lt": "Naujas etinis karkasas siūlo, kad ketamino sukeltas disociacijas turėtų būti suprastos kaip konteksto priklausomas signalas, o ne šalutinis poveikis. Modelis atskiria disforišką ir integracinę disociacinę trajektoriją, kurioje klinikiniai rezultatai priklauso nuo paciento pažeidžiamumo, dozės, paruošos, paramos ir po seanso integracijos. Vietoj kategorinio neįtraukimo rekomenduojamos proporcinės apsaugos priemonės, atitinkančios šalpa ir žalos nedarymą principus."
-      },
-      "notable": false,
-      "notable_reasons": null,
-      "relevance_score": 4,
-      "study_type": "other",
-      "substances": [
-        "ketamine"
-      ],
-      "added_at": "2026-09-10T11:37:11.956703+00:00"
     }
   ]
 }

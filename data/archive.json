@@ -1,6 +1,124 @@
 {
   "items": [
     {
+      "title": "Efficacy and safety of psilocybin-assisted therapy for alcohol use disorder: A systematic review and meta-analysis.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42850948/",
+      "source": "PubMed",
+      "date": "2026-10-08",
+      "authors": [
+        "Florineth Gianluca A",
+        "Boeker Anna L",
+        "Bracht Tobias"
+      ],
+      "doi": "10.1177/02698811261490221",
+      "summary_en": "Systematic review and meta-analysis of six RCTs examined psilocybin-assisted therapy (PAT) for alcohol use disorder. Results show mixed but promising evidence: PAT reduced alcohol consumption and improved long-term abstinence rates compared to controls. The intervention demonstrated favorable tolerability and safety profiles, supporting PAT as a potential novel treatment for alcohol use disorder.",
+      "notable": true,
+      "notable_reason": "Landmark meta-analysis synthesizing efficacy and safety across multiple RCTs for a priority indication (AUD), with mixed but promising signals supporting clinical utility.",
+      "study_type": "review",
+      "substances": [
+        "psilocybin"
+      ],
+      "added_at": "2026-10-09T13:33:41.577089+00:00"
+    },
+    {
+      "title": "Effects of psychedelic drug use on neurocognitive function and the psychological and social domains of quality of life: an international online study.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42851356/",
+      "source": "PubMed",
+      "date": "2026-09-24",
+      "authors": [
+        "Stadler Franziska",
+        "Saelens Johan",
+        "Henter Ioline D"
+      ],
+      "doi": "10.3389/fpsyt.2026.1843186",
+      "summary_en": "Effects of psychedelic drug use on neurocognitive function and the psychological and social domains of quality of life: an international online study.",
+      "notable": true,
+      "notable_reason": "Large international study (N=759) with systematic cognitive assessment across acute, subacute, and long-term timeframes addressing safety concerns relevant to clinical development.",
+      "study_type": "observational",
+      "substances": [
+        "psilocybin",
+        "lsd",
+        "other"
+      ],
+      "added_at": "2026-10-09T13:33:41.577089+00:00"
+    },
+    {
+      "title": "Ketamine and esketamine during breastfeeding: a systematic review of human pharmacokinetic, infant and lactation outcomes.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42850468/",
+      "source": "PubMed",
+      "date": "2026-10-09",
+      "authors": [
+        "Olivola Miriam",
+        "Martiadis Vassilis",
+        "Prodi Tiziano"
+      ],
+      "doi": "10.1007/s00228-026-04197-2",
+      "summary_en": "Systematic review of ketamine and esketamine use during breastfeeding. Analysis of 16 studies found limited data on milk transfer: racemic ketamine relative infant doses ranged 0.34–0.77%, norketamine 0.29–0.95%. No studies measured infant plasma concentrations or long-term neurodevelopment. Perioperative studies showed no consistent adverse breastfeeding effects, but data on repeated intranasal esketamine exposure remain absent. Evidence certainty low.",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "review",
+      "substances": [
+        "ketamine"
+      ],
+      "added_at": "2026-10-09T13:33:41.577089+00:00"
+    },
+    {
+      "title": "Randomized controlled trial of acute ketamine versus midazolam for recurrence of suicidality in adolescents (TASK): Rationale, design, and baseline characteristics.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42849709/",
+      "source": "PubMed",
+      "date": "2026-10-08",
+      "authors": [
+        "Trivedi Madhukar H",
+        "Chin Fatt Cherise R",
+        "Ayvaci Emine Rabia"
+      ],
+      "doi": "10.1016/j.cct.2026.108498",
+      "summary_en": "TASK is a double-blind RCT comparing intravenous ketamine (0.5 mg/kg) to midazolam in 50 adolescents (ages 13-18) with recent suicidal events. Four infusions were given over two weeks, with weekly follow-up through week 12. The study examines ketamine's efficacy in reducing repeat suicidal events, depression, and suicidal ideation. Baseline cohort was 82% female, 64% White, mean age 15.4 years, with severe depression (74%) and anxiety (54%).",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "other",
+      "substances": [
+        "ketamine"
+      ],
+      "added_at": "2026-10-09T13:33:41.577089+00:00"
+    },
+    {
+      "title": "DT120 (MM120): a single-dose orally disintegrating formulation of lysergide tartrate for generalized anxiety disorder.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42848417/",
+      "source": "PubMed",
+      "date": "2026-10-08",
+      "authors": [
+        "Cubała Wiesław J"
+      ],
+      "doi": "10.1080/14737175.2026.2744754",
+      "summary_en": "DT120 is an orally disintegrating tablet containing 100 micrograms of lysergide being investigated as a single-dose treatment for generalized anxiety disorder. Phase 2b data show rapid and durable anxiolytic effects without mandated psychotherapy, though the dose produces perceptible psychedelic effects. Ongoing phase 3 trials (Voyage, Panorama) will determine clinical viability and regulatory approval prospects.",
+      "notable": true,
+      "notable_reason": "Phase 2b efficacy data for novel single-dose LSD formulation (DT120/MM120) in GAD with ongoing Phase 3 pivotal trials (Voyage and Panorama); addresses regulatory and clinical implementation considerations.",
+      "study_type": "other",
+      "substances": [
+        "lsd"
+      ],
+      "added_at": "2026-10-09T13:33:41.577089+00:00"
+    },
+    {
+      "title": "Pα+ Psychedelic Bulletin #233: FDA Floats Ibogaine Trial Design; Compass Talks Pricing; Potential LSD, Psilocybin Brand Names",
+      "url": "https://psychedelicalpha.com/news/p%ce%b1-psychedelic-bulletin-233-fda-floats-ibogaine-trial-design-compass-talks-pricing-potential-lsd-psilocybin-brand-names/",
+      "source": "Psychedelic Alpha",
+      "date": "2026-10-08",
+      "authors": [],
+      "doi": "",
+      "summary_en": "The FDA has released a request for information on ibogaine clinical trial designs, soliciting input from the scientific community. This follows the closure of the public comment period on FDA guidance for potential therapeutic uses of psychedelics. The notice outlines preliminary considerations for early-stage ibogaine trials.",
+      "notable": true,
+      "notable_reason": "FDA Request for Information on ibogaine trial design represents a national-level regulatory development with direct implications for future clinical studies.",
+      "study_type": "other",
+      "substances": [
+        "ibogaine",
+        "lsd",
+        "psilocybin"
+      ],
+      "added_at": "2026-10-09T13:33:41.577089+00:00"
+    },
+    {
       "title": "Acute psilocybin or ethocybin leads to a sustained increase in Pavlovian aversion memory in male mice.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42840861/",
       "source": "PubMed",

@@ -1,7 +1,20 @@
 {
-  "date": "2026-10-09",
-  "cached_at": "2026-10-09T12:33:24.971385+00:00",
+  "date": "2026-10-10",
+  "cached_at": "2026-10-10T11:53:43.872426+00:00",
   "articles": [
+    {
+      "title": "Subcutaneous Esketamine in Adolescents with Severe Depressive Episodes: A Five-Case Series.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42855888/",
+      "source": "PubMed",
+      "abstract": "To describe the feasibility, acute tolerability, and short-term symptom trajectories of adjunctive subcutaneous esketamine in adolescents with severe depressive episodes treated in specialized outpatient care. This observational case series included five adolescents aged 15-17 years with severe depressive symptoms, suicidal ideation and/or behavior, and insufficient response to previous treatments. Patients received eight once-weekly subcutaneous esketamine sessions, starting at 0.5 mg/kg and titrated up to 1.0 mg/kg based on clinical response and tolerability. Depressive symptoms were assessed using the Montgomery-Åsberg Depression Rating Scale (MADRS). MADRS-rated suicidal ideation and anhedonia-related symptoms were examined descriptively using MADRS Items 10 and 8, respectively; Item 8 was considered an indirect indicator of anhedonia-related symptoms. All patients completed the eight-session treatment course. Overall, MADRS trajectories were heterogeneous: one patient achieved remission, three presented varying degrees of partial improvement, and one showed no sustained benefit. MADRS Item 10 scores decreased from baseline to endpoint in four patients, and MADRS Item 8 scores decreased in four patients. Acute adverse effects included transient dissociative symptoms with mild agitation in one patient and mild transient elevations in blood pressure in some cases. No severe acute adverse events, emergency interventions, psychiatric hospitalizations, suicide attempts, or clear manic switches were documented during the 8-week protocol. In this small uncontrolled case series, adjunctive subcutaneous esketamine was feasible under close monitoring and was associated with heterogeneous short-term depressive symptom trajectories. Decreases in MADRS-rated suicidal ideation and MADRS Item 8 scores should be considered hypothesis-generating and do not establish antidepressant efficacy, domain-specific effects, or reduced suicide risk. Controlled pediatric studies with standardized dosing, suicide-specific assessments, systematic safety monitoring, and longer follow-up are needed.",
+      "date": "2026-10-09",
+      "authors": [
+        "Magalhães Iury P A",
+        "Lopes Daniel N",
+        "Amato Isabel A"
+      ],
+      "doi": "10.1177/10445463261497130"
+    },
     {
       "title": "Effects of psychedelic drug use on neurocognitive function and the psychological and social domains of quality of life: an international online study.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42851356/",
@@ -45,7 +58,7 @@
       "title": "Randomized controlled trial of acute ketamine versus midazolam for recurrence of suicidality in adolescents (TASK): Rationale, design, and baseline characteristics.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42849709/",
       "source": "PubMed",
-      "abstract": "Suicide is one of the leading causes of death among adolescents in the United States. The 'Acute Course of Ketamine Versus Midazolam for Recurrence of Suicidality in Adolescents' (TASK), a double-blind, randomized, controlled trial, was designed to examine the signal for efficacy of ketamine, compared to midazolam (active control), reduces 1) repeat suicidal events, 2) implicit cognition, and 3) depression symptoms and suicidal thoughts and behaviors in adolescents (ages 13-18 years) with recent suicidal events. The report describes the study rationale and design, and the baseline cohort characteristics. Participants were randomized (1:1) to receive either intravenous ketamine (0.5 mg/kg) or midazolam (0.02 mg/kg) for four infusions during the first two weeks (days 0, 3, 7, 10). Participants completed follow-up assessment visits weekly through week 12 (twice weekly during the first two weeks) to monitor outcomes. Of the 70 participants who consented/assented to screening, 55 were deemed eligible, and 50 were randomized to ketamine or midazolam. The participants were 82% female and 64% White, with a mean age of 15.4 years (SD = 1.6). On average, the adolescents had three lifetime suicide attempts (SD = 2), two inpatient hospitalizations for lifetime suicidal ideation (SD = 2), and one lifetime emergency evaluation for suicidal ideation (SD = 1). Approximately three out of four youth (74%) reported moderate to severe depression, and 54% reported moderate to severe anxiety. TASK study findings may inform the use of ketamine to reduce suicidal events in youths with recent suicidal events. Clinical Trial Registration: The trial is registered with ClinicalTrials.gov (NCT04592809; date of registration - 10.19.2020).",
+      "abstract": "Suicide is one of the leading causes of death among adolescents in the United States. The 'Acute Course of Ketamine Versus Midazolam for Recurrence of Suicidality in Adolescents' (TASK), a double-blind, randomized, controlled trial, was designed to examine the signal for efficacy of ketamine, compared to midazolam (active control), in reducing 1) repeat suicidal events, 2) implicit cognition, and 3) depression symptoms and suicidal thoughts and behaviors in adolescents (ages 13-18 years) with recent suicidal events. The report describes the study rationale and design, and the baseline cohort characteristics. Participants were randomized (1:1) to receive either intravenous ketamine (0.5 mg/kg) or midazolam (0.02 mg/kg) for four infusions during the first two weeks (days 0, 3, 7, 10). Participants completed follow-up assessment visits weekly through week 12 (twice weekly during the first two weeks) to monitor outcomes. Of the 70 participants who consented/assented to screening, 55 were deemed eligible, and 50 were randomized to ketamine or midazolam. The participants were 82% female and 64% White, with a mean age of 15.4 years (SD = 1.6). On average, the adolescents had three lifetime suicide attempts (SD = 2), two inpatient hospitalizations for lifetime suicidal ideation (SD = 2), and one lifetime emergency evaluation for suicidal ideation (SD = 1). Approximately three out of four youth (74%) reported moderate to severe depression, and 54% reported moderate to severe anxiety. TASK study findings may inform the use of ketamine to reduce suicidal events in youths with recent suicidal events. Clinical Trial Registration: The trial is registered with ClinicalTrials.gov (NCT04592809; date of registration - 10.19.2020).",
       "date": "2026-10-08",
       "authors": [
         "Trivedi Madhukar H",
@@ -243,19 +256,6 @@
         "Barbosa Raquel"
       ],
       "doi": "10.1093/braincomms/fcag346"
-    },
-    {
-      "title": "Psilocybin and ayahuasca in treatment-resistant depression: clinical evidence, methodological constraints and ethical challenges: a narrative review.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42812990/",
-      "source": "PubMed",
-      "abstract": "Treatment-resistant depression (TRD) is a major clinical challenge, with many patients failing to respond to conventional antidepressants. Psychedelic compounds such as psilocybin and ayahuasca have recently gained attention as potential rapid-acting therapies. Beyond their neurobiological effects, methodological, ethical, and real-world applicability concerns are critical for understanding their clinical utility. We conducted a narrative review of literature on psilocybin and ayahuasca in adult patients with TRD, focusing on safety, efficacy, and study design characteristics. PubMed and PsycINFO databases were searched from inception to August 2025. Studies were assessed for clinical outcomes, side effect profiles, and methodological and ethical limitations, including participant selection, blinding, and informed consent procedures. Both psilocybin and ayahuasca demonstrate rapid reductions in depressive symptoms, with psilocybin showing more robust evidence for sustained effects. However, clinical trials are predominantly conducted in highly controlled environments with stringent inclusion and exclusion criteria, systematically excluding patients with comorbidities, high suicide risk, or polypharmacy. Challenges in maintaining blinding, high participant expectations, small sample sizes, and reliance on adjunct psychotherapy further limit the interpretation and generalizability of findings. Ethical considerations, including informed consent for intense psychedelic experiences and the potential for enduring personality or cognitive changes, remain under-addressed. Consequently, current evidence primarily reflects outcomes in clinically stable and selected subpopulations, rather than real-world TRD patients. Psychedelic-assisted therapies hold significant potential for TRD, but their current evidence base is constrained by methodological and ethical limitations. Future research should prioritize large, representative trials, standardized protocols, and robust safeguards to ensure both scientific validity and patient safety. Unlike previous reviews that primarily synthesized efficacy outcomes across different psychedelic compounds, the present narrative review specifically compares psilocybin and ayahuasca within the framework of treatment-resistant depression while integrating methodological, ethical and real-world implementation issues. This perspective aims at complementing the existing evidence by highlighting factors that may influence future clinical translation.",
-      "date": "2026-09-15",
-      "authors": [
-        "Civardi Serena Chiara",
-        "Besana Filippo",
-        "Durbano Federico"
-      ],
-      "doi": "10.3389/fpsyt.2026.1858319"
     },
     {
       "title": "Pα+ Psychedelic Bulletin #233: FDA Floats Ibogaine Trial Design; Compass Talks Pricing; Potential LSD, Psilocybin Brand Names",
@@ -572,7 +572,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2018-004480-31/CZ",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-10-09",
+      "date": "2026-10-10",
       "authors": [],
       "doi": ""
     },
@@ -581,7 +581,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2020-005037-32/CZ",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-10-09",
+      "date": "2026-10-10",
       "authors": [],
       "doi": ""
     },
@@ -590,7 +590,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2021-002909-10/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-10-09",
+      "date": "2026-10-10",
       "authors": [],
       "doi": ""
     },
@@ -599,7 +599,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2015-000550-37/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-10-09",
+      "date": "2026-10-10",
       "authors": [],
       "doi": ""
     },
@@ -608,7 +608,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2021-000041-40/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-10-09",
+      "date": "2026-10-10",
       "authors": [],
       "doi": ""
     },
@@ -617,7 +617,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2020-000829-55/DK",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-10-09",
+      "date": "2026-10-10",
       "authors": [],
       "doi": ""
     },
@@ -626,7 +626,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2020-002790-94/SE",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-10-09",
+      "date": "2026-10-10",
       "authors": [],
       "doi": ""
     },
@@ -635,7 +635,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2021-006200-33/FI",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-10-09",
+      "date": "2026-10-10",
       "authors": [],
       "doi": ""
     },
@@ -644,7 +644,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2019-004812-73/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-10-09",
+      "date": "2026-10-10",
       "authors": [],
       "doi": ""
     },
@@ -653,7 +653,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2022-002369-14/BE",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-10-09",
+      "date": "2026-10-10",
       "authors": [],
       "doi": ""
     }

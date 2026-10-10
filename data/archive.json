@@ -1,6 +1,26 @@
 {
   "items": [
     {
+      "title": "Subcutaneous Esketamine in Adolescents with Severe Depressive Episodes: A Five-Case Series.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42855888/",
+      "source": "PubMed",
+      "date": "2026-10-09",
+      "authors": [
+        "Magalhães Iury P A",
+        "Lopes Daniel N",
+        "Amato Isabel A"
+      ],
+      "doi": "10.1177/10445463261497130",
+      "summary_en": "Five-case observational study of subcutaneous esketamine as adjunctive treatment in adolescents (15-17 years) with severe depression, suicidal ideation/behavior, and treatment resistance. Patients received eight weekly sessions (0.5-1.0 mg/kg). MADRS scores showed heterogeneous responses: one remission, three partial improvements, one no benefit. Suicidal ideation decreased in four patients. Adverse effects were mild and transient (dissociation, blood pressure elevation). No serious events or hospitalizations occurred.",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "case_report",
+      "substances": [
+        "ketamine"
+      ],
+      "added_at": "2026-10-10T12:48:46.140732+00:00"
+    },
+    {
       "title": "Efficacy and safety of psilocybin-assisted therapy for alcohol use disorder: A systematic review and meta-analysis.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42850948/",
       "source": "PubMed",

@@ -1,6 +1,29 @@
 {
   "items": [
     {
+      "title": "Adverse reactions to psychedelics in naturalistic settings are associated with current psychopathology and well-being: A correlational study.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42858725/",
+      "source": "PubMed",
+      "date": "2026-10-08",
+      "authors": [
+        "Rojas-Hernández Jaime",
+        "Borkel Lucas F",
+        "Santana Del Pino Ángelo"
+      ],
+      "doi": "10.1016/j.psychres.2026.117516",
+      "summary_en": "Cross-sectional survey (N=1022) of naturalistic hallucinogen use found acute adverse reactions were associated with similar delayed reactions, higher current psychopathology, and lower well-being. Exceptions included vomiting, which showed inverse associations. MDMA use correlated with poorer psychological indicators. Younger age and frequent use increased adverse reaction risk. Setting, companionship, and motivation also influenced outcomes.",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "observational",
+      "substances": [
+        "psilocybin",
+        "lsd",
+        "mdma",
+        "other"
+      ],
+      "added_at": "2026-10-11T13:12:32.685870+00:00"
+    },
+    {
       "title": "Subcutaneous Esketamine in Adolescents with Severe Depressive Episodes: A Five-Case Series.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42855888/",
       "source": "PubMed",

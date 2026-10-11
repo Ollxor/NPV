@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-10T12:49:06.172892+00:00",
+  "generated_at": "2026-10-11T13:12:47.687328+00:00",
   "items": [
     {
       "title": "Subcutaneous Esketamine in Adolescents with Severe Depressive Episodes: A Five-Case Series.",
@@ -62,6 +62,40 @@
         "ketamine"
       ],
       "added_at": "2026-10-09T13:33:41.577089+00:00"
+    },
+    {
+      "title": "Adverse reactions to psychedelics in naturalistic settings are associated with current psychopathology and well-being: A correlational study.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42858725/",
+      "source": "PubMed",
+      "date": "2026-10-08",
+      "authors": [
+        "Rojas-Hernández Jaime",
+        "Borkel Lucas F",
+        "Santana Del Pino Ángelo"
+      ],
+      "doi": "10.1016/j.psychres.2026.117516",
+      "summaries": {
+        "en": "Cross-sectional survey (N=1022) of naturalistic hallucinogen use found acute adverse reactions were associated with similar delayed reactions, higher current psychopathology, and lower well-being. Exceptions included vomiting, which showed inverse associations. MDMA use correlated with poorer psychological indicators. Younger age and frequent use increased adverse reaction risk. Setting, companionship, and motivation also influenced outcomes.",
+        "sv": "Tvärsnittsstudie (N=1022) av naturalistisk hallucinogenanvändning visade att akuta biverkningar associerades med liknande fördröjda reaktioner, högre aktuell psykopatologi och lägre välbefinnande. MDMA-användning korrelerade med sämre psykologiska indikatorer. Yngre ålder och frekvent användning ökade risken för biverkningar. Miljö, sällskap och motivation påverkade även resultaten.",
+        "no": "Tverrsnittstudie (N=1022) av naturalistisk hallusinogenbruk viste at akutte bivirkninger var assosiert med lignende forsinket reaksjoner, høyere aktuell psykopatologi og lavere velvære. MDMA-bruk korrelerte med dårligere psykologiske indikatorer. Yngre alder og hyppig bruk økte risikoen for bivirkninger. Miljø, selskap og motivasjon påvirket også resultatene.",
+        "da": "Tværsnitsundersøgelse (N=1022) af naturalistisk hallucinogenanvendelse viste, at akutte bivirninger var forbundet med lignende forsinket reaktioner, højere aktuel psykopatologi og lavere velbefindende. MDMA-brug korrelerede med dårligere psykologiske indikatorer. Yngre alder og hyppig brug øgede risikoen for bivirninger. Miljø, selskab og motivation påvirkede også resultaterne.",
+        "fi": "Poikkileikkaustutkimus (N=1022) luonnollisesta hallusinogeenien käytöstä osoitti, että akuutit haittavaikutukset liittyivät samankaltaisiin viivästyneisiin reaktioihin, korkeampaan nykyiseen psykopatologiaan ja alhaisempaan hyvinvointiin. MDMA-käyttö korreloi huonompiin psykologisiin indikaattoreihin. Nuorempi ikä ja usein toistuvaksi käyttö lisäsivät haittavaikutusten riskiä. Ympäristö, seurustelu ja motivaatio vaikuttivat myös tuloksiin.",
+        "is": "Þversniðsrannsókn (N=1022) á náttúrulegri notkun hallucinógena sýndi að bráð aukaverkanir tengjast svipaðri seinkuðri viðbrögðum, meiri núverandi sálkerfissjúkdómum og minni vellíðan. MDMA-notkun tengdist verra sálrænni vísbendingum. Yngri aldur og tíð notkun juku áhættu aukaverkana. Umhverfi, félagsskapur og hvöt höfðu einnig áhrif á niðurstöður.",
+        "et": "Ristlõikeuuring (N=1022) looduslikust hallutsinogeenide kasutamisest näitas, et teravad kõrvaltoimed seostusid sarnaste hilineb reaktsioonidega, kõrgema praeguse psüühikahaigusega ja madalamate heaoluarvutustega. MDMA kasutamine korreleerus halvema psühholoogiliste näitajatega. Nooremad inimesed ja sagedane kasutamine suurendasid kõrvaltoimete riski. Keskkond, seltskond ja motivatsioon mõjutasid ka tulemusi.",
+        "lv": "Šķērsgriezuma pētījums (N=1022) par psihodēliju dabisko lietošanu parādīja, ka akūtas blakusparādības bija saistītas ar līdzīgām aizkavētām reakcijām, augstāku pašreizējo psihopatoloģiju un zemāku labklājību. MDMA lietošana korelēja ar sliktākiem psiholog iskajiem rādītājiem. Jaunāks vecums un biežāka lietošana palielināja blakusparādību risku. Vide, sabiedrība un motivācija ietekmēja arī rezultātus.",
+        "lt": "Skerspjūvio tyrimas (N=1022) apie natūralų psichedelikų vartojimą parodė, kad ūmūs nepageidaujami reiškiniai buvo susiję su panašiais atidėlintais atsakais, didesniu dabartiniu psichopatoloģiju ir mažesne gerovė. MDMA vartojimas koreliavo su prastesniais psichologiniais rodikliais. Jaunesnis amžius ir dažnas vartojimas padidino nepageidautinų reiškinių riziką. Aplinka, bendravimas ir motyvacija taip pat turėjo įtakos rezultatams."
+      },
+      "notable": false,
+      "notable_reasons": null,
+      "relevance_score": 4,
+      "study_type": "observational",
+      "substances": [
+        "psilocybin",
+        "lsd",
+        "mdma",
+        "other"
+      ],
+      "added_at": "2026-10-11T13:12:32.685870+00:00"
     },
     {
       "title": "Efficacy and safety of psilocybin-assisted therapy for alcohol use disorder: A systematic review and meta-analysis.",
@@ -1999,48 +2033,6 @@
         "lsd"
       ],
       "added_at": "2026-09-15T11:57:34.349034+00:00"
-    },
-    {
-      "title": "[The use of psychedelics in psychiatry].",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42732542/",
-      "source": "PubMed",
-      "date": "2026-09-13",
-      "authors": [
-        "Kéri Szabolcs"
-      ],
-      "doi": "10.1556/650.2026.33665",
-      "summaries": {
-        "en": "[The use of psychedelics in psychiatry].",
-        "sv": "[The use of psychedelics in psychiatry].",
-        "no": "[The use of psychedelics in psychiatry].",
-        "da": "[The use of psychedelics in psychiatry].",
-        "fi": "[The use of psychedelics in psychiatry].",
-        "is": "[The use of psychedelics in psychiatry].",
-        "et": "[The use of psychedelics in psychiatry].",
-        "lv": "[The use of psychedelics in psychiatry].",
-        "lt": "[The use of psychedelics in psychiatry]."
-      },
-      "notable": true,
-      "notable_reasons": {
-        "en": "Discusses Phase 3 trial outcomes for COMP360 (synthetic psilocybin) meeting primary endpoints and FDA's 2024 MDMA-PTSD approval decline—major regulatory developments in the field.",
-        "sv": "Discusses Phase 3 trial outcomes for COMP360 (synthetic psilocybin) meeting primary endpoints and FDA's 2024 MDMA-PTSD approval decline—major regulatory developments in the field.",
-        "no": "Discusses Phase 3 trial outcomes for COMP360 (synthetic psilocybin) meeting primary endpoints and FDA's 2024 MDMA-PTSD approval decline—major regulatory developments in the field.",
-        "da": "Discusses Phase 3 trial outcomes for COMP360 (synthetic psilocybin) meeting primary endpoints and FDA's 2024 MDMA-PTSD approval decline—major regulatory developments in the field.",
-        "fi": "Discusses Phase 3 trial outcomes for COMP360 (synthetic psilocybin) meeting primary endpoints and FDA's 2024 MDMA-PTSD approval decline—major regulatory developments in the field.",
-        "is": "Discusses Phase 3 trial outcomes for COMP360 (synthetic psilocybin) meeting primary endpoints and FDA's 2024 MDMA-PTSD approval decline—major regulatory developments in the field.",
-        "et": "Discusses Phase 3 trial outcomes for COMP360 (synthetic psilocybin) meeting primary endpoints and FDA's 2024 MDMA-PTSD approval decline—major regulatory developments in the field.",
-        "lv": "Discusses Phase 3 trial outcomes for COMP360 (synthetic psilocybin) meeting primary endpoints and FDA's 2024 MDMA-PTSD approval decline—major regulatory developments in the field.",
-        "lt": "Discusses Phase 3 trial outcomes for COMP360 (synthetic psilocybin) meeting primary endpoints and FDA's 2024 MDMA-PTSD approval decline—major regulatory developments in the field."
-      },
-      "relevance_score": 5,
-      "study_type": "review",
-      "substances": [
-        "psilocybin",
-        "mdma",
-        "lsd",
-        "ayahuasca"
-      ],
-      "added_at": "2026-09-14T13:07:38.604183+00:00"
     }
   ]
 }

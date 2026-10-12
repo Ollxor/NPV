@@ -1,6 +1,47 @@
 {
-  "generated_at": "2026-10-11T13:12:47.687328+00:00",
+  "generated_at": "2026-10-12T15:50:51.233262+00:00",
   "items": [
+    {
+      "title": "A living systematic review, meta-analysis, and open data resource of trials of MDMA-assisted therapy for PTSD.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42860436/",
+      "source": "PubMed",
+      "date": "2026-10-11",
+      "authors": [
+        "Sevchik Brooke L",
+        "Singleton S Parker",
+        "Lahey Analiese"
+      ],
+      "doi": "10.1038/s41386-026-02575-z",
+      "summaries": {
+        "en": "A living systematic review and meta-analysis of 6 randomized controlled trials (286 participants) examined MDMA-assisted therapy for PTSD. Compared to control conditions, MDMA-assisted therapy showed greater symptom reduction (Hedges' g = -0.71), with higher response (RR = 1.35) and remission rates (RR = 2.25). Most studies had low bias risk, though expectancy and unblinding remain challenges. Overall certainty was rated low using GRADE criteria.",
+        "sv": "En levande systematisk översikt och meta-analys av 6 randomiserade kontrollerade studier (286 deltagare) undersökte MDMA-assisterad terapi för PTSD. Jämfört med kontrollgrupper visade MDMA-assisterad terapi större symtomreduktion (Hedges' g = -0,71), med högre respons- (RR = 1,35) och remissionsfrekvenser (RR = 2,25). De flesta studier hade låg riskkvalitet, men förväntningseffekter och unblinding förblir utmaningar. Övergripande certitude bedömdes som låg enligt GRADE.",
+        "no": "En levende systematisk oversikt og meta-analyse av 6 randomiserte kontrollerte studier (286 deltakere) undersøkte MDMA-assistert terapi for PTSD. Sammenlignet med kontrollgrupper viste MDMA-assistert terapi større symptomreduksjon (Hedges' g = -0,71), med høyere respons- (RR = 1,35) og remisjonshyppigheter (RR = 2,25). De fleste studier hadde lav risiko for skjevhet, men forventningseffekter og deblinding gjenstår som utfordringer. Samlet evidenssikkerhet ble vurdert som lav etter GRADE.",
+        "da": "En levende systematisk oversigt og meta-analyse af 6 randomiserede kontrollerede studier (286 deltagere) undersøgte MDMA-assisteret terapi til PTSD. Sammenlignet med kontrolgrupper viste MDMA-assisteret terapi større symptomreduktion (Hedges' g = -0,71), med højere respons- (RR = 1,35) og remissionsrater (RR = 2,25). De fleste studier havde lav risiko for bias, men forventningseffekter og udblindings forbliver udfordringer. Samlet evidensgrad blev vurderet som lav ifølge GRADE.",
+        "fi": "Kuuden satunnaistetun kontrolloitujen tutkimuksen (286 osallistujaa) elävä järjestelmällinen katsaus ja meta-analyysi tutkivat MDMA-avusteista terapiaa PTSD:n hoitoon. Verrattuna kontrolliryhmiin MDMA-avusteinen terapia osoitti suuremman oireiston vähenemisen (Hedges' g = -0,71), korkeampien vastaus- (RR = 1,35) ja remissioiden ilmaantuvuuksien (RR = 2,25) kanssa. Useimmissa tutkimuksissa oli matala harhan riski, mutta odotuseffektit ja sokeutumisen pettäminen säilyvät haasteina. Kokonaisvarmuus arvioitiin matalaksi GRADE-menetelmällä.",
+        "is": "Lifandi kerfisbundin endurskoðun og stærðfræðilega greiningu sex slembuðra samanburðarrannsókna (286 þátttakendur) á MDMA-aðstoðuðri meðferð við PTSD var gerð. Í samanburði við viðmiðunarhópa sýndi MDMA-aðstoðuð meðferð meiri minnkun á einkennum (Hedges' g = -0,71), með hærri svörunar- (RR = 1,35) og endalokum hlutfallum (RR = 2,25). Flestar rannsóknir höfðu litla hlutdrægniáhættu, en væntingaráhrif og sundrun hugleiðingarinnar eru áskoranir sem standa yfir. Heildarvissu var gefið lágt einkunn eftir GRADE.",
+        "et": "Kuue randomiseeritud kontrollitud uuringu (286 osalejat) elusat süstemaatiline ülevaade ja metaanalüüs uurisid MDMA-toega teraapiaid PTSD-i ravis. Võrreldes kontrollrühmadega näitas MDMA-toe teraapia suuremaid sümptomite vähenemist (Hedges' g = -0,71), kõrgemate reaktsiooni- (RR = 1,35) ja remissiooni määradega (RR = 2,25). Enamikul uuringutest oli madal kõrvalekaldeid oht, kuid ootuste efektid ja uuringu tegemise raskused jäävad väljakutseteks. Üldine tõendusbaasi kindlus hinnati GRADE järgi madalaks.",
+        "lv": "Sešu randomizētu kontrolētu pētījumu (286 dalībnieki) dzīva sistemātiska pārskats un metaanalīze pārbaudīja MDMA-palīdzētu terapiju PTSD ārstēšanai. Salīdzinājumā ar kontroles grupām MDMA-palīdzētā terapija parādīja lielāku PTSD simptomu samazinājumu (Hedges' g = -0,71), ar augstāku atbildes (RR = 1,35) un remisijas ātrumu (RR = 2,25). Lielākajā daļā pētījumu bija zems neobjektivitātes risks, taču gaidu efekti un apslēpšanas pārraukumi paliek izaicinājumiem. Kopējā pierādījumu pārliecības pakāpe tika novērtēta kā zema pēc GRADE.",
+        "lt": "Šešių randomizuotų kontroliuotų tyrimų (286 dalyviai) gyva sisteminė apžvalga ir metaanalizė nagrinėjo MDMA-pagalbą teikiančią terapiją PTSD gydymui. Palyginti su kontrolės grupėmis MDMA-pagalbą teikianti terapija parodė didesnį PTSD simptomų sumažėjimą (Hedges' g = -0,71), su aukštesniais atsakymo (RR = 1,35) ir remisijos dažniais (RR = 2,25). Daugumoje tyrimų buvo žema šališkumo rizika, tačiau lūkesčių efektai ir neatitikimas išlieka iššūkiais. Bendroji įrodymų tikrumo pakopa pagal GRADE buvo įvertinta kaip žema."
+      },
+      "notable": true,
+      "notable_reasons": {
+        "en": "Meta-analysis of 6 RCTs (n=286) on MDMA-assisted therapy for PTSD with standardized outcomes and GRADE certainty assessment; living review resource in fast-moving field.",
+        "sv": "Meta-analys av 6 RCTs (n=286) om MDMA-assisterad terapi för PTSD med standardiserade utfall och GRADE-säkerhetsbedömning; levande granskningsresurs inom snabbrörligt område.",
+        "no": "Meta-analyse av 6 RCTs (n=286) om MDMA-assistert terapi for PTSD med standardiserte utfall og GRADE-sikkerhetsvurdering; levende oversiktsressurs innen raskt utviklende felt.",
+        "da": "Meta-analyse af 6 RCTs (n=286) om MDMA-assisteret terapi for PTSD med standardiserede udfald og GRADE-sikkerhedsvurdering; living review-ressource inden for hurtigt udviklet område.",
+        "fi": "Meta-analyysi 6:sta RCT:stä (n=286) MDMA-avusteisesta terapiasta PTSD:lle standardoiduilla tulosmittareilla ja GRADE-varmuusarvioinnilla; elävä katsausresurssi nopeasti kehittyvällä alalla.",
+        "is": "Meta-greining 6 RCTs (n=286) um MDMA-aðstoðað meðferð fyrir PTSD með stöðluðum niðurstöðum og GRADE öryggismati; lifandi yfirlit auðlind á hratt þróunarsvæði.",
+        "et": "Meta-analüüs 6 RCT-st (n=286) MDMA-abistatud teraapiast PTSD-ks standardiseeritud tulemuste ja GRADE kindluse hindamisega; eluv ülevaade ressurss kiiresti areneval alal.",
+        "lv": "Meta-analīze no 6 RCT (n=286) par MDMA-atbalstītu terapiju PTSD ar standartizētiem rezultātiem un GRADE pārliecības novērtējumu; dzīva pārskata resurss ātri attīstošajā jomā.",
+        "lt": "6 RCT meta-analizė (n=286) apie MDMA-pagalbinę terapiją PTSD su standartizuotais rezultatais ir GRADE patikimumo vertinimu; gyva apžvalgos išteklis greitai besivystančioje srityje."
+      },
+      "relevance_score": 5,
+      "study_type": "review",
+      "substances": [
+        "mdma"
+      ],
+      "added_at": "2026-10-12T15:50:25.977684+00:00"
+    },
     {
       "title": "Subcutaneous Esketamine in Adolescents with Severe Depressive Episodes: A Five-Case Series.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42855888/",
@@ -1996,43 +2037,6 @@
         "other"
       ],
       "added_at": "2026-09-20T11:39:55.846587+00:00"
-    },
-    {
-      "title": "Definium Notches Second Positive Phase 3 in Generalised Anxiety Disorder",
-      "url": "https://psychedelicalpha.com/news/definium-notches-second-positive-phase-3-in-generalised-anxiety-disorder/",
-      "source": "Psychedelic Alpha",
-      "date": "2026-09-14",
-      "authors": [],
-      "doi": "",
-      "summaries": {
-        "en": "Definium Therapeutics reported positive Phase 3 results for DT120, an LSD-based treatment for generalised anxiety disorder. The Panorama trial enrolled 245 participants across ~32 US and international sites. This is Definium's second positive Phase 3 readout in GAD and third overall since June.",
-        "sv": "Definium Therapeutics rapporterade positiva resultat från fas 3-studie av DT120, en LSD-baserad behandling för generaliserad ångeststörning. Studien Panorama omfattade 245 deltagare på cirka 32 platser i USA och internationellt. Detta är Definiums andra positiva fas 3-resultat för GAD och tredje totalt sedan juni.",
-        "no": "Definium Therapeutics rapporterte positive fase 3-resultater for DT120, en LSD-basert behandling for generalisert angststilstand. Panorama-studien omfattet 245 deltakere på cirka 32 steder i USA og internasjonalt. Dette er Definiums andre positive fase 3-resultat for GAD og tredje totalt siden juni.",
-        "da": "Definium Therapeutics rapporterede positive fase 3-resultater for DT120, en LSD-baseret behandling for generaliseret angststilstand. Panorama-studien omfattede 245 deltagere på omkring 32 steder i USA og internationalt. Dette er Definiums andet positive fase 3-resultat for GAD og tredje i alt siden juni.",
-        "fi": "Definium Therapeutics julkaisi positiiviset vaihe 3 -tulokset LSD-pohjaisesta lääkkeestä DT120 yleistyneen ahdistuneisuushäiriön hoitoon. Panorama-tutkimukseen osallistui 245 henkilöä noin 32 tutkimuspaikalla USA:ssa ja kansainvälisesti. Tämä on Definiumin toinen positiivinen vaihe 3 -tulos GAD:lle ja kolmas yhteensä kesäkuusta lähtien.",
-        "is": "Definium Therapeutics tilkynnti jákvæð niðurstöður úr 3. stigi rannsóknar á DT120, LSD-byggðri meðferð fyrir almenna kvíða. Panorama rannsóknin innihélt 245 þátttakendur á um 32 stöðvum í Bandaríkjunum og á alþjóðavettvangi. Þetta er önnur jákvæð 3. stigs niðurstaða Definium fyrir GAD og þriðja heildstætt frá júní.",
-        "et": "Definium Therapeutics avaldas positiivsed III faasi tulemused LSD-põhisele ravimile DT120 üldistunud ärevushäire raviks. Panorama uuringus osales 245 osalejat umbes 32 uuringukohast USA-s ja rahvusvahelisel tasandil. See on Definiumi teine positiivne III faasi tulemus GAD-le ja kolmas kokku alates juunist.",
-        "lv": "Definium Therapeutics paziņoja par pozitīviem III fāzes pētījuma rezultātiem LSD-bāzētam preparātam DT120 vispārinātas trauksmes traucējuma ārstēšanai. Panorama pētījumā piedalījās 245 dalībnieki aptuveni 32 vietās ASV un starptautiski. Šis ir Definium otrais pozitīvs III fāzes rezultāts GAD un trešais kopumā kopš jūnija.",
-        "lt": "Definium Therapeutics paskelbė teigiamus III fazės tyrimo rezultatus LSD pagrindu veikliam vaistui DT120, skirtam bendrinės nerimo sutrikdymui gydyti. Panorama tyrime dalyvavo 245 dalyviai iš maždaug 32 vietų JAV ir tarptautiniu lygiu. Tai antrasis Definium teigiamas III fazės rezultatas GAD ir trečias iš viso nuo birželio."
-      },
-      "notable": true,
-      "notable_reasons": {
-        "en": "Phase 3 RCT (n=245) with positive topline data for LSD in generalized anxiety disorder, meeting primary endpoint.",
-        "sv": "Phase 3 RCT (n=245) med positiva toplinedata för LSD vid generaliserad ångestsyndrom, uppfyllande primär slutpunkt.",
-        "no": "Phase 3 RCT (n=245) med positive toplinedata for LSD ved generalisert angststørrelse, møter primært endepunkt.",
-        "da": "Phase 3 RCT (n=245) med positive toplinedata for LSD ved generaliseret angststørrelse, opfylder primært endepunkt.",
-        "fi": "Phase 3 RCT (n=245) positiivisilla topline-tuloksilla LSD:lle yleistetyssä ahdistuneisuushäiriössä, täyttää ensisijaisen päätetavoitteen.",
-        "is": "Phase 3 RCT (n=245) með jákvæðum topline gögnum fyrir LSD við almennri kvíðaflirki, uppfyllir aðalmarkmið.",
-        "et": "Phase 3 RCT (n=245) positiivsete topline andmetega LSD-le üldistatud ärevushäires, vastab esmatasandi lõpp-punktile.",
-        "lv": "Phase 3 RCT (n=245) ar pozitīviem topline datiem LSD vispārinātam trauksmes traucējumam, sasniedz primāro galapunktu.",
-        "lt": "Phase 3 RCT (n=245) su teigiamais topline duomenimis LSD bendrinei nerimo sutrikiui, atitinka pirminį galutinį tašką."
-      },
-      "relevance_score": 4,
-      "study_type": "rct",
-      "substances": [
-        "lsd"
-      ],
-      "added_at": "2026-09-15T11:57:34.349034+00:00"
     }
   ]
 }

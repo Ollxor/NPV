@@ -1,6 +1,26 @@
 {
   "items": [
     {
+      "title": "A living systematic review, meta-analysis, and open data resource of trials of MDMA-assisted therapy for PTSD.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42860436/",
+      "source": "PubMed",
+      "date": "2026-10-11",
+      "authors": [
+        "Sevchik Brooke L",
+        "Singleton S Parker",
+        "Lahey Analiese"
+      ],
+      "doi": "10.1038/s41386-026-02575-z",
+      "summary_en": "A living systematic review and meta-analysis of 6 randomized controlled trials (286 participants) examined MDMA-assisted therapy for PTSD. Compared to control conditions, MDMA-assisted therapy showed greater symptom reduction (Hedges' g = -0.71), with higher response (RR = 1.35) and remission rates (RR = 2.25). Most studies had low bias risk, though expectancy and unblinding remain challenges. Overall certainty was rated low using GRADE criteria.",
+      "notable": true,
+      "notable_reason": "Meta-analysis of 6 RCTs (n=286) on MDMA-assisted therapy for PTSD with standardized outcomes and GRADE certainty assessment; living review resource in fast-moving field.",
+      "study_type": "review",
+      "substances": [
+        "mdma"
+      ],
+      "added_at": "2026-10-12T15:50:25.977684+00:00"
+    },
+    {
       "title": "Adverse reactions to psychedelics in naturalistic settings are associated with current psychopathology and well-being: A correlational study.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42858725/",
       "source": "PubMed",

@@ -1,7 +1,20 @@
 {
-  "date": "2026-10-11",
-  "cached_at": "2026-10-11T12:04:51.805685+00:00",
+  "date": "2026-10-12",
+  "cached_at": "2026-10-12T14:22:54.872064+00:00",
   "articles": [
+    {
+      "title": "A living systematic review, meta-analysis, and open data resource of trials of MDMA-assisted therapy for PTSD.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42860436/",
+      "source": "PubMed",
+      "abstract": "3,4-Methylenedioxymethamphetamine (MDMA) has emerged as a potential treatment for post-traumatic stress disorder (PTSD). However, rapidly changing evidence in a fast-moving field can be challenging to integrate. Here, we present a living systematic review and open-data meta-analytic resource on MDMA treatment for PTSD. In this initial release, 6 randomized controlled trials comprising 286 participants are included in the database. All six studies included in the review to date are sponsored by the Multidisciplinary Association for Psychedelic Studies (MAPS). Our primary model uses inverse-variance random-effects meta-analysis of standardized mean differences on primary outcomes of PTSD. Compared to control conditions, MDMA-assisted therapy (MDMA-AT) showed a greater reduction in PTSD symptoms (Hedges' g = -0.71). Meta-regressions on dosing variables were explored. Treatment with MDMA-AT as compared to placebo also resulted in higher response (risk ratio [RR] = 1.35) and remission (RR = 2.25) rates. Most studies included in the database had a low risk of bias according to Cochrane guidelines, though these fail to capture pertinent challenges in the field such as expectancy, functional unblinding, potential issues with study conduct, and safety. The current findings were assigned an overall low certainty rating using the GRADE approach. Together, this systematic review and meta-analysis suggests that MDMA-AT results in short-term decreases in PTSD symptoms across studies to date. This living systematic review, meta-analysis, database, and online dashboard ( sypres.io ) will continue to be updated as evidence emerges, providing a valuable, open, and transparent resource for researchers in a rapidly evolving field.",
+      "date": "2026-10-11",
+      "authors": [
+        "Sevchik Brooke L",
+        "Singleton S Parker",
+        "Lahey Analiese"
+      ],
+      "doi": "10.1038/s41386-026-02575-z"
+    },
     {
       "title": "Adverse reactions to psychedelics in naturalistic settings are associated with current psychopathology and well-being: A correlational study.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42858725/",
@@ -245,17 +258,6 @@
         "Wood Jordan"
       ],
       "doi": "10.1080/17581869.2026.2738419"
-    },
-    {
-      "title": "Worsening of Depression and Anxiety With Psilocybin: A Case Report in Cyclothymia.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42814595/",
-      "source": "PubMed",
-      "abstract": "",
-      "date": "2026-09-30",
-      "authors": [
-        "Ghaemi S Nassir"
-      ],
-      "doi": "10.4088/JCP.26cr16608"
     },
     {
       "title": "Pα+ Psychedelic Bulletin #233: FDA Floats Ibogaine Trial Design; Compass Talks Pricing; Potential LSD, Psilocybin Brand Names",
@@ -572,7 +574,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2018-004480-31/CZ",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-10-11",
+      "date": "2026-10-12",
       "authors": [],
       "doi": ""
     },
@@ -581,7 +583,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2020-005037-32/CZ",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-10-11",
+      "date": "2026-10-12",
       "authors": [],
       "doi": ""
     },
@@ -590,7 +592,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2021-002909-10/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-10-11",
+      "date": "2026-10-12",
       "authors": [],
       "doi": ""
     },
@@ -599,7 +601,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2015-000550-37/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-10-11",
+      "date": "2026-10-12",
       "authors": [],
       "doi": ""
     },
@@ -608,7 +610,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2021-000041-40/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-10-11",
+      "date": "2026-10-12",
       "authors": [],
       "doi": ""
     },
@@ -617,7 +619,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2020-000829-55/DK",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-10-11",
+      "date": "2026-10-12",
       "authors": [],
       "doi": ""
     },
@@ -626,7 +628,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2020-002790-94/SE",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-10-11",
+      "date": "2026-10-12",
       "authors": [],
       "doi": ""
     },
@@ -635,7 +637,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2021-006200-33/FI",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-10-11",
+      "date": "2026-10-12",
       "authors": [],
       "doi": ""
     },
@@ -644,7 +646,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2019-004812-73/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-10-11",
+      "date": "2026-10-12",
       "authors": [],
       "doi": ""
     },
@@ -653,7 +655,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2022-002369-14/BE",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-10-11",
+      "date": "2026-10-12",
       "authors": [],
       "doi": ""
     },

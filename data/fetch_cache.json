@@ -1,7 +1,58 @@
 {
-  "date": "2026-10-12",
-  "cached_at": "2026-10-12T14:22:54.872064+00:00",
+  "date": "2026-10-13",
+  "cached_at": "2026-10-13T13:31:56.534923+00:00",
   "articles": [
+    {
+      "title": "Ketamine administered biomedically or as psychedelic-assisted therapy in treatment-resistant depression: Differing efficacy based on depressive subtype or presence of childhood trauma?",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42865326/",
+      "source": "PubMed",
+      "abstract": "ObjectiveThe ideas presented in this paper are based on a presentation at a festschrift event marking the retirement of Professor Gordon Parker from UNSW, Sydney. Drawing on Gordon's depressive subtyping approach and his critiques of a unitary view of major depressive disorder and treatment-resistant depression (TRD), we aim to (i) explore differing models of ketamine for TRD - biomedical versus 'psychedelic-assisted' therapy, and (ii) whether there may be differential efficacy in each approach based on subtype and/or childhood trauma.ConclusionPreliminary results from our study indicate in an open-label (but not randomised controlled) setting, biomedical ketamine may be superior in melancholic versus non-melancholic depression subtyped using Sydney Melancholia Prototypic Index. Studies of ketamine as a psychedelic agent combined with psychotherapy are lacking. We outline an empirical approach to determine whether ketamine with integrated psychotherapy has differential efficacy based on depressive subtype or past childhood trauma.",
+      "date": "2026-10-13",
+      "authors": [
+        "Bayes Adam",
+        "Loo Colleen"
+      ],
+      "doi": "10.1177/10398562261494440"
+    },
+    {
+      "title": "Investigating molecular and hemodynamic effects of LSD in the human brain.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42864445/",
+      "source": "PubMed",
+      "abstract": "Lysergic acid diethylamide (LSD) is a potent psychedelic with increasing therapeutic interest, yet qualification of target engagement using in vivo neuroimaging has not yet been performed. Using simultaneous positron emission tomography-magnetic resonance imaging technology, we describe multiple brain actions of LSD in seven healthy volunteers blinded to LSD dose received. Here we show that LSD occupies 5-HT2AR with a high affinity and increases both global cerebral blood flow (CBF) and internal carotid artery flow. LSD also decreases global connectivity, which was negatively associated with changes in CBF. We observe an anticlockwise hysteresis loop between plasma drug levels and subjective effects, suggesting atypical pharmacodynamic mechanisms. We contrast our CBF and global connectivity findings and their relation in a separate cohort of 25 participants administered psilocybin, highlighting key consistencies and differences. By establishing the dose-occupancy relation of LSD in humans, our findings provide insights for the clinical development of psychedelic compounds and demonstrate unique neurophysiological effects that distinguish LSD from psilocybin.",
+      "date": "2026-10-12",
+      "authors": [
+        "McCulloch Drummond E-Wen",
+        "Larsen Kristian",
+        "Johansen Annette"
+      ],
+      "doi": "10.1038/s41593-026-02462-2"
+    },
+    {
+      "title": "Enhancing cGMP signaling with psilocybin reduces head twitch and restructures the synaptic proteome while maintaining antidepressant response.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42864385/",
+      "source": "PubMed",
+      "abstract": "Psilocybin produces antidepressant effects, but perceptual effects limit tolerability. We hypothesized that enhancing cGMP signaling with a phosphodiesterase-9 inhibitor (PDE9i) would diminish a rodent behavioral readout of 5-HT₂AR activation, while preserving antidepressant-like effects. PDE9i attenuated psilocybin-induced head-twitch while maintaining the antidepressant-like response. PDE9i-psilocybin reduced 5-HT₂AR-related pathways while enhancing synaptogenesis signaling.",
+      "date": "2026-10-12",
+      "authors": [
+        "Floris Gabriele",
+        "Jefferson Sarah J",
+        "Rondeau Jocelyne"
+      ],
+      "doi": "10.1038/s41386-026-02569-x"
+    },
+    {
+      "title": "Augmentation strategies for intravenous ketamine in treatment-resistant depression: A systematic review and meta-analysis.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42863798/",
+      "source": "PubMed",
+      "abstract": "Treatment-resistant depression (TRD) affects 30-60% of individuals with major depressive disorder and carries substantial morbidity and healthcare costs. Intravenous (IV) ketamine (KET) is a rapid-acting antidepressant, but benefits are often transient, prompting augmentation to sustain efficacy or improve tolerability. We conducted a systematic review and meta-analysis of randomized controlled trials (RCTs) of IV KET augmentation in adults with TRD. MEDLINE, Embase, and PsycINFO were searched through October 29, 2025. Eligible studies compared KET plus augmentation with KET plus placebo/sham or active control. Seven RCTs (N = 346) met inclusion criteria. Strategies included glutathione, riluzole, lamotrigine, lithium, D-cycloserine, cognitive behavioral therapy (CBT), and automated self-association training (ASAT). Across the included trials, IV KET was associated with antidepressant improvement, although augmentation strategies generally did not demonstrate additional benefit over their respective control conditions. Pharmacological augmentation strategies did not demonstrate additional benefit at primary endpoints. KCP approaches using CBT and ASAT yielded preliminary signals of improved maintenance of antidepressant effects, although each was evaluated in a single study. An exploratory random-effects meta-analysis of seven heterogeneous comparisons found no statistically significant overall difference in depressive symptoms between augmentation and control conditions (SMD = -0.12; 95% CI, -0.37 to 0.12; p = 0.323; I",
+      "date": "2026-10-12",
+      "authors": [
+        "Janssen-Aguilar Reinhard",
+        "Joseph Jithin",
+        "Al-Shamali Huda F"
+      ],
+      "doi": "10.1016/j.jad.2026.122619"
+    },
     {
       "title": "A living systematic review, meta-analysis, and open data resource of trials of MDMA-assisted therapy for PTSD.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42860436/",
@@ -206,58 +257,6 @@
         "Wang Xiaohui"
       ],
       "doi": "10.1038/s41380-026-03918-4"
-    },
-    {
-      "title": "Effects of Repeated Ketamine Infusions on Suicidal Ideation in Treatment-Resistant Depression and Associated Changes in Selected Plasma Biomarkers.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42826739/",
-      "source": "PubMed",
-      "abstract": "This study investigated the antisuicidal effects of repeated intravenous ketamine in patients with treatment-resistant depression and explored associations between suicidal ideation and temporal changes in selected plasma biomarkers to identify potential biomarkers. This secondary analysis of an open-label trial included outpatients with treatment-resistant depression who received four intravenous ketamine infusions (0.5 mg/kg) over 2 weeks. Suicidal ideation was assessed at baseline and post-intervention using the Montgomery-Åsberg Depression Rating Scale (item 10), Quick Inventory of Depressive Symptomatology-Self Report (item 12), and Columbia Suicide Severity Rating Scale. Eleven targeted plasma biomarkers were quantified via liquid chromatography-mass spectrometry. Associations between suicidal ideation scores and biomarker changes were evaluated using Pearson's and Spearman's correlation coefficients, with  Repeated ketamine infusions were associated with modest reductions in suicide-related item scores on the Montgomery-Åsberg Depression Rating Scale item 10 (1.5±1.5 to 1.0±1.3,  Repeated ketamine infusions were associated with modest reductions in suicide-related item scores on the Montgomery-Åsberg Depression Rating Scale and Quick Inventory of Depressive Symptomatology-Self Report. While no definitive biomarkers were identified after false discovery rate correction, these nominal associations are purely hypothesis-generating and require larger validation trials.",
-      "date": "2026-10-02",
-      "authors": [
-        "Murao Masami",
-        "Setoyama Daiki",
-        "Matsumoto Yasuyuki"
-      ],
-      "doi": "10.1055/a-2959-4626"
-    },
-    {
-      "title": "Delta-9-tetrahydrocannabinol alleviates inflammation by modulating immune responses in LPS-induced murine inflammation model.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42818626/",
-      "source": "PubMed",
-      "abstract": "Δ We integrated transcriptomic, cellular, and  THC induced a stress-adaptive transcriptional program in THP-1 cells, characterized by upregulation of genes associated with the UPR and autophagy pathways. In contrast, THC markedly suppressed LPS-induced type I interferon-stimulated genes (ISGs) and pro-inflammatory cytokines, including IL-1β and TNF-α. In primary human monocytes, THC significantly reduced the expression of activation markers CD80, CD83, and CD209. Consistent with these findings, chronic THC exposure attenuated the activation of splenic myeloid and T cells in mice subjected to systemic inflammation. Brain transcriptomic analysis further demonstrated reduced expression of neuroinflammatory pathways following THC exposure, accompanied by enrichment of pathways associated with neurogenesis and synaptic plasticity. Our findings demonstrate that THC exerts broad immunomodulatory effects characterized by suppression of inflammatory and type I interferon responses while promoting cellular stress-adaptation pathways. These effects were observed across human monocytic cells, primary monocytes, and peripheral immune populations",
-      "date": "2026-09-16",
-      "authors": [
-        "Tomer Shallu",
-        "Harding Jeffrey",
-        "Wang Li"
-      ],
-      "doi": "10.3389/fimmu.2026.1856131"
-    },
-    {
-      "title": "Level of preparedness to use psilocybin among individuals seeking psychedelic risk reduction: a retrospective study of a pilot psychiatric consultation service.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42818591/",
-      "source": "PubMed",
-      "abstract": "In 2020, Oregon became the first US state to legalize state-regulated psilocybin services. This study aims to examine: (1) the clinical and demographic characteristics, (2) psilocybin use motivations, and (3) differences in preparedness among patients seeking care in an Oregon-based pilot consult service specializing in psilocybin risk reduction. This exploratory retrospective chart review abstracted sociodemographics, trauma history, and medical and psychiatric risks of patients (November 2023-September 2025). The Psychedelic Preparedness Scale (PPS), a validated self-report questionnaire, measured preparedness. Two sample  Patients ( Patients utilizing a novel consultation service demonstrate a high prevalence of trauma, prior psilocybin use, and baseline preparedness. While preliminary, this study is among the first describing patients seeking medical and psychiatric consultation when considering psilocybin and highlights potential roles of healthcare systems in providing evidence-based patient education and risk reduction as interest in psychedelics grows.",
-      "date": "2026-09-16",
-      "authors": [
-        "Harrison Harland V",
-        "Gaillard Mizan",
-        "Cook Ryan R"
-      ],
-      "doi": "10.3389/fpubh.2026.1921031"
-    },
-    {
-      "title": "Multi-center, randomized controlled efficacy and comparative-effectiveness study evaluating ketamine, stellate ganglion blocks, combination treatment, and sham treatments for posttraumatic stress disorder and traumatic brain injury-associated headache: a study protocol.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42817839/",
-      "source": "PubMed",
-      "abstract": "Posttraumatic stress disorder (PTSD) and traumatic brain injury (TBI) are conditions that share common mechanisms and are highly co-prevalent with each other and chronic pain. This pragmatic study will compare ketamine infusions to stellate ganglion blocks (SGB), their combination, and a placebo-sham-controlled arm. A double-blind study conducted at 3 U.S. and Ukrainian sites will be performed. Two hundred ten patients with PTSD and/or TBI-associated headache will be allocated in a 2:2:2:1 ratio to receive SGB/placebo ketamine, ketamine/sham SGB, ketamine/SGB, and placebo/sham. The bivariate co-primary outcome will evaluate change in Headache Impact Test and PTSD Checklist depending on diagnosis, at 4 weeks. Participants who experience a positive binary outcome will remain in the study through 6 months or until their outcome becomes negative. Because PTSD and TBI have no discrete pathophysiological mechanisms and are co-prevalent with pain and psychopathology, they are associated with poor outcomes, polypharmacy, and high non-adherence rates, indicating a need for minimally invasive treatments that obviate these barriers. Whereas both therapies have evidence underpinning efficacy, results in clinical trials are conflicting. This study will provide real-world evidence in generalizable populations on the efficacy and comparative-effectiveness of ketamine and SGB, alone and in combination, with the possibility of changing clinical guidelines. www.clinicaltrials.gov identifier is NCT06608277. This protocol paper, whose source of funding from the U.S. Department of Defense stemmed from Congressional requests outlined in all National Defense Authorization Acts this decade, describes a multi-center study being conducted at civilian and military treatment facilities in the U.S. and Ukraine comparing stellate ganglion blocks to ketamine, alone and in combination, for posttraumatic stress disorder (PTSD) and traumatic brain injury (TBI). One in 7 people will receive placebo ketamine (saline) and a sham stellate ganglion block and 2 in 7 will receive both treatments. The main outcome measures are PTSD symptoms and TBI-related headache measured 4 weeks after treatment, with individuals who experience benefit continuing in the study for up to 6 months. Additional studies will seek to determine whether testing pain responses to stimuli and certain markers in the blood can help identify who is likely to respond to treatment.",
-      "date": "2026-10-01",
-      "authors": [
-        "Cohen Steven P",
-        "Smolynets Roman",
-        "Wood Jordan"
-      ],
-      "doi": "10.1080/17581869.2026.2738419"
     },
     {
       "title": "Pα+ Psychedelic Bulletin #233: FDA Floats Ibogaine Trial Design; Compass Talks Pricing; Potential LSD, Psilocybin Brand Names",
@@ -574,7 +573,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2018-004480-31/CZ",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-10-12",
+      "date": "2026-10-13",
       "authors": [],
       "doi": ""
     },
@@ -583,7 +582,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2020-005037-32/CZ",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-10-12",
+      "date": "2026-10-13",
       "authors": [],
       "doi": ""
     },
@@ -592,7 +591,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2021-002909-10/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-10-12",
+      "date": "2026-10-13",
       "authors": [],
       "doi": ""
     },
@@ -601,7 +600,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2015-000550-37/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-10-12",
+      "date": "2026-10-13",
       "authors": [],
       "doi": ""
     },
@@ -610,7 +609,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2021-000041-40/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-10-12",
+      "date": "2026-10-13",
       "authors": [],
       "doi": ""
     },
@@ -619,7 +618,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2020-000829-55/DK",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-10-12",
+      "date": "2026-10-13",
       "authors": [],
       "doi": ""
     },
@@ -628,7 +627,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2020-002790-94/SE",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-10-12",
+      "date": "2026-10-13",
       "authors": [],
       "doi": ""
     },
@@ -637,7 +636,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2021-006200-33/FI",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-10-12",
+      "date": "2026-10-13",
       "authors": [],
       "doi": ""
     },
@@ -646,7 +645,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2019-004812-73/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-10-12",
+      "date": "2026-10-13",
       "authors": [],
       "doi": ""
     },
@@ -655,7 +654,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2022-002369-14/BE",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-10-12",
+      "date": "2026-10-13",
       "authors": [],
       "doi": ""
     },

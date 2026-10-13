@@ -1,6 +1,86 @@
 {
   "items": [
     {
+      "title": "Investigating molecular and hemodynamic effects of LSD in the human brain.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42864445/",
+      "source": "PubMed",
+      "date": "2026-10-12",
+      "authors": [
+        "McCulloch Drummond E-Wen",
+        "Larsen Kristian",
+        "Johansen Annette"
+      ],
+      "doi": "10.1038/s41593-026-02462-2",
+      "summary_en": "A PET-MRI study in 7 healthy volunteers characterized LSD's brain effects. LSD showed high affinity for 5-HT2A receptors and increased global cerebral blood flow and carotid artery flow, while decreasing global connectivity—negatively associated with blood flow changes. Plasma levels and subjective effects showed atypical hysteresis patterns. Comparison with psilocybin (n=25) revealed both consistencies and neurophysiological differences, providing dose-occupancy data for psychedelic drug development.",
+      "notable": true,
+      "notable_reason": "First-in-human in vivo target engagement study for LSD using simultaneous PET-MRI technology with direct comparative mechanistic data against psilocybin.",
+      "study_type": "observational",
+      "substances": [
+        "lsd",
+        "psilocybin"
+      ],
+      "added_at": "2026-10-13T14:26:46.565842+00:00"
+    },
+    {
+      "title": "Enhancing cGMP signaling with psilocybin reduces head twitch and restructures the synaptic proteome while maintaining antidepressant response.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42864385/",
+      "source": "PubMed",
+      "date": "2026-10-12",
+      "authors": [
+        "Floris Gabriele",
+        "Jefferson Sarah J",
+        "Rondeau Jocelyne"
+      ],
+      "doi": "10.1038/s41386-026-02569-x",
+      "summary_en": "Rodent study combining psilocybin with a PDE9 inhibitor to enhance cGMP signaling. The inhibitor reduced psilocybin-induced head-twitch behavior (a marker of perceptual effects) while preserving antidepressant-like responses. Proteomics showed reduced 5-HT₂A receptor signaling alongside enhanced synaptogenesis pathways, suggesting a strategy to dissociate therapeutic from perceptual effects.",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "preclinical",
+      "substances": [
+        "psilocybin"
+      ],
+      "added_at": "2026-10-13T14:26:46.565842+00:00"
+    },
+    {
+      "title": "Augmentation strategies for intravenous ketamine in treatment-resistant depression: A systematic review and meta-analysis.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42863798/",
+      "source": "PubMed",
+      "date": "2026-10-12",
+      "authors": [
+        "Janssen-Aguilar Reinhard",
+        "Joseph Jithin",
+        "Al-Shamali Huda F"
+      ],
+      "doi": "10.1016/j.jad.2026.122619",
+      "summary_en": "Systematic review and meta-analysis of 7 RCTs (N=346) examining augmentation strategies for IV ketamine in treatment-resistant depression. While IV ketamine showed antidepressant effects, pharmacological augmentations (glutathione, riluzole, lamotrigine, lithium, D-cycloserine) provided no additional benefit. Psychological approaches (CBT, automated self-association training) showed preliminary signals of improved effect maintenance, though each was studied only once.",
+      "notable": true,
+      "notable_reason": "Meta-analysis of 7 RCTs (N=346) examining evidence-based augmentation approaches for ketamine in TRD, with potential clinical implications for psychedelic-assisted psychiatry.",
+      "study_type": "review",
+      "substances": [
+        "ketamine"
+      ],
+      "added_at": "2026-10-13T14:26:46.565842+00:00"
+    },
+    {
+      "title": "Ketamine administered biomedically or as psychedelic-assisted therapy in treatment-resistant depression: Differing efficacy based on depressive subtype or presence of childhood trauma?",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42865326/",
+      "source": "PubMed",
+      "date": "2026-10-13",
+      "authors": [
+        "Bayes Adam",
+        "Loo Colleen"
+      ],
+      "doi": "10.1177/10398562261494440",
+      "summary_en": "Open-label study examining ketamine efficacy in treatment-resistant depression (TRD), comparing biomedical administration with psychedelic-assisted therapy. Preliminary findings suggest biomedical ketamine may be more effective for melancholic versus non-melancholic depression subtypes. Authors propose future randomized trials to determine whether ketamine combined with psychotherapy shows differential efficacy based on depressive subtype or childhood trauma history.",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "other",
+      "substances": [
+        "ketamine"
+      ],
+      "added_at": "2026-10-13T14:26:46.565842+00:00"
+    },
+    {
       "title": "A living systematic review, meta-analysis, and open data resource of trials of MDMA-assisted therapy for PTSD.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42860436/",
       "source": "PubMed",

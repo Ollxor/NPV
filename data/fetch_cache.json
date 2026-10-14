@@ -1,7 +1,46 @@
 {
-  "date": "2026-10-13",
-  "cached_at": "2026-10-13T13:31:56.534923+00:00",
+  "date": "2026-10-14",
+  "cached_at": "2026-10-14T11:08:52.274445+00:00",
   "articles": [
+    {
+      "title": "Feeling safe: an empirical-ethical analysis of vulnerability in (es)ketamine treatment.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42870247/",
+      "source": "PubMed",
+      "abstract": "Treatments with acute consciousness-altering effects, such as (es)ketamine, place patients in a state of heightened vulnerability with reduced capacity for self-advocacy and self-regulation. Since feeling safe is a precondition for consenting to begin, and remaining in, treatment, this raises distinct ethical demands on care. Which features of the setting enable patients to feel safe, and how patients' and clinicians' understandings of the treatment relate to these requirements, remains unclear. This study identifies patient-, clinician- and setting-related factors shaping the experience of safety during (es)ketamine treatment and derives ethically grounded recommendations, distinguishing clinical safety, felt safety and ethical protection and analyzing their relations through a framework of induced, layered vulnerability. Semi-structured interviews were conducted with 14 patients who had received intranasal esketamine (Spravato®) or IV ketamine infusion treatment and 10 clinicians administering these treatments in German psychiatric settings, and analyzed using structuring qualitative content analysis complemented by type-building analysis. Pre-treatment concerns and the experience of safety were analyzed from the patient interviews; clinician interviews informed the broad coding and the comparison of patients' and clinicians' models of ketamine's mechanism of action. Three types of pre-treatment concern, three overlapping modes of experiencing safety, and three models of ketamine's mechanism of action were identified, each associated with distinct treatment requirements. Therapeutic presence, active physical grounding, and structured post-acute transitional support (\"landing aid\") were described by participants as central to feeling safe. Clinicians more often conceived of ketamine as a catalyst of transformation, patients as temporary relief or symptom management, indicating potential misalignment regarding preparation and integration. Safety in (es)ketamine treatment is relationally created and individually differentiated rather than uniform, supporting an ethical case for flexible, patient-centered care above a non-negotiable floor of clinical safety. Because patients in altered states depend acutely on those who induced that state, minor clinician behaviors and the post-acute transition carry moral weight bearing on informed consent and the duty of care, yet are modifiable with few resources. Recommendations are graded by strength; one is restricted against our own empirical finding where the vulnerability analysis requires it. As an exploratory study, the findings require confirmation in larger, more diverse samples.",
+      "date": "2026-10-08",
+      "authors": [
+        "Kind Adrian",
+        "Görke Josephine",
+        "Smirr Hannah"
+      ],
+      "doi": "10.1186/s12910-026-01637-7"
+    },
+    {
+      "title": "Antidepressants and Cognitive Function in Major Depressive Disorder: Mechanisms, Clinical Evidence, and Implications for Precision Treatment.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42869167/",
+      "source": "PubMed",
+      "abstract": "Cognitive impairment is a core feature of major depressive disorder (MDD) and significantly impairs functional recovery. This review summarizes current evidence on the effects of antidepressants on cognitive function and discusses the underlying mechanisms. Antidepressants may exert their effects through multiple mechanisms, including modulation of monoaminergic neurotransmission, enhancement of neuroplasticity, and regulation of stress and inflammatory pathways. Available studies indicate that antidepressants differ in their cognitive benefits, with vortioxetine showing the most consistent procognitive evidence. Duloxetine, bupropion, and some augmentation strategies may also improve specific cognitive domains, though the evidence is limited. Importantly, cognitive improvement may result from direct drug effects on cognition or indirectly via alleviation of depressive symptoms, highlighting the need for mediation analyses in future research. In patients with late-life depression, vortioxetine and duloxetine have shown relatively clear benefits, and augmentation with cognitive enhancers has demonstrated some potential. The long-term cognitive protective effects of antidepressants remain unconfirmed. Immuno-metabolic depression subtypes, high-dose-related adverse effects, and comorbidity with anxiety and sleep disorders may constitute important sources of residual cognitive deficits. Emerging treatments such as ketamine, psychedelic compounds, and interventions targeting the gut-brain axis may offer new opportunities for addressing cognitive dysfunction in MDD. Current evidence is limited by small sample sizes and heterogeneous cognitive assessments. Future research should prioritize large, randomized controlled trials with cognition as the primary endpoint, using standardized assessment tools. A better understanding of the cognitive profiles and mechanisms of antidepressants may support precision medicine strategies and promote functional recovery in patients with MDD.",
+      "date": "2026-10-13",
+      "authors": [
+        "Liu Yao",
+        "Tan Yunfei",
+        "Hashimoto Kenji"
+      ],
+      "doi": "10.1016/j.ejphar.2026.179414"
+    },
+    {
+      "title": "Probable alcohol use disorder in the U.S. Veteran population: Results from the 2025-2026 National Health and Resilience in Veterans study.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42868803/",
+      "source": "PubMed",
+      "abstract": "Alcohol use disorder (AUD) is a pervasive public health problem in the United States, and military veterans are at elevated risk. A prior wave of the National Health and Resilience in Veterans Study (NHRVS) estimated the prevalence of past-year probable AUD at 10.5 % in 2019-2020. Updated national surveillance data are needed given demographic shifts in the veteran population and evolving drinking patterns in the post-pandemic era. Using data from the 2025-2026 NHRVS (N = 2,620), we estimated the weighted prevalence of probable AUD and compared it to that of the prior NHRVS wave. Multivariable analyses examined sociodemographic, military, trauma and mental health characteristics associated with probable AUD. The weighted prevalence of probable AUD in 2025-2026 was 12.1 %, compared with 10.5 % in 2019-2020 (difference, 1.6 percentage points; 95 % CI, -0.6 to 3.8), a difference that was not statistically significant. Independent correlates of probable AUD included younger age, unpartnered status, homelessness history, higher household income, and more adverse childhood experiences. When all lifetime psychiatric diagnoses were examined simultaneously, self-reported provider-diagnosed attention-deficit/hyperactivity disorder (ADHD) remained significantly associated with probable AUD (OR = 2.40). Veterans with probable AUD also had significantly greater odds of past-year suicidal ideation (OR = 2.02; 31.6 % vs. 11.7 %) and lifetime suicide attempt (OR = 1.67; 11.8 % vs. 4.0 %). The prevalence of probable AUD among U.S. veterans remains elevated and is characterized by early adversity, co-occurring psychiatric conditions, and elevated suicide risk. Enhanced screening for social determinants of health and psychiatric concerns, including routine ADHD assessment in AUD treatment settings, alongside targeted outreach and integrated approaches are essential to address this complex and important problem.",
+      "date": "2026-10-11",
+      "authors": [
+        "Goodwin Shelby R",
+        "Meshberg-Cohen Sarah",
+        "Fischer Ian C"
+      ],
+      "doi": "10.1016/j.addbeh.2026.108880"
+    },
     {
       "title": "Ketamine administered biomedically or as psychedelic-assisted therapy in treatment-resistant depression: Differing efficacy based on depressive subtype or presence of childhood trauma?",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42865326/",
@@ -218,45 +257,6 @@
         "Dörl Gregor"
       ],
       "doi": "10.1038/s41398-026-04485-6"
-    },
-    {
-      "title": "Serotonin biology as a basis for explaining psychedelic drug action.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42833201/",
-      "source": "PubMed",
-      "abstract": "Psychedelics exert their effects primarily through the serotonergic system. Like the endogenous neuromodulator, the drugs bind to many serotonin receptor subtypes. However, their receptor selectivity profiles and spatiotemporal patterns of action differ from those of serotonin and vary across compounds. In this review, we summarize studies that have established roles for serotonin in three domains: reward learning, visual processing, and cerebrovascular function. We contrast the neurophysiological and behavioral consequences of endogenous serotonin release with those produced by exogenous psychedelic administration. We propose that several major effects of psychedelics can be understood as perturbations to serotonergic signaling, while also noting some drug actions that remain difficult to explain by existing serotonin biology. Viewing psychedelic drug action through the lens of serotonin provides a mechanistic framework for linking molecular pharmacology to circuit dynamics and behavior.",
-      "date": "2026-Oct-05",
-      "authors": [
-        "Knox Cory A",
-        "Li-Wu Athena",
-        "Kwan Alex C"
-      ],
-      "doi": "10.1016/j.cub.2026.08.045"
-    },
-    {
-      "title": "Pharmacological interventions for alcohol use disorder on quality of life: a meta-analysis of randomized controlled trials.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42831801/",
-      "source": "PubMed",
-      "abstract": "Quality of life (QoL), a critical factor for sustaining recovery from alcohol use disorder (AUD), has been examined as an AUD-related outcome in randomized controlled trials (RCTs) that evaluated pharmacotherapy for AUD. This review evaluates the efficacy of this therapy in improving mental and physical health-related QoL. RCTs were identified across seven databases. Study quality was evaluated using the Cochrane risk-of-bias tool for randomized trials version 2. A systematic review with meta-analysis was conducted. The review adhered to Preferred Reporting Items for Systematic Reviews and Meta-Analysis guidelines and was registered with PROSPERO (CRD420261277890). Eighteen RCTs with 4376 participants were evaluated. Naltrexone was linked to improvements in both mental QoL (d = 0.30, 95% CI: 0.08-0.52) and physical QoL (d = 0.16, 95% CI: 0.01-0.31). Nalmefene improved physical QoL (d = 0.13, 95% CI: 0.02-0.25) but not mental QoL (d = 0.18, 95% CI: -0.004 to 0.354). Topiramate showed no improvement in either domain. However, further analysis indicated that topiramate was associated with a small improvement in physical QoL, which could correlate with a reduced percentage of heavy drinking days. Interpret these findings with caution. Acamprosate, sertraline, and psilocybin were associated with improved mental or physical QoL, whereas ketamine, varenicline, levetiracetam XR, and quetiapine were not. Interpretation is limited to single trials-no eligible RCTs reporting the specified QoL outcomes for disulfiram. Certain medications for AUD are linked with improved mental and physical QoL, but evidence remains limited. Future RCTs should assess QoL and establish whether improvements are clinically meaningful.",
-      "date": "2026-Sep-20",
-      "authors": [
-        "Fluyau Dimy",
-        "Revadigar Neelambika",
-        "Kim Paul"
-      ],
-      "doi": "10.1093/alcalc/agag067"
-    },
-    {
-      "title": "Psychedelics and disorders of consciousness: a new frontier in neurotherapeutics.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42829371/",
-      "source": "PubMed",
-      "abstract": "Disorders of consciousness (DoC), including coma, unresponsive wakefulness syndrome (also known as vegetative state), and minimally conscious state, represent profound disruptions in awareness and responsiveness due to severe brain injury, with limited therapeutic options available. Recent advancements in neuroimaging have improved our ability to detect residual brain activity in DoC patients, but effective interventions remain elusive. Psychedelics like psilocybin, lysergic acid diethylamide (LSD), and N,N-dimethyltryptamine (DMT), which modulate brain network dynamics and enhance neural plasticity, have emerged as candidate pharmacological probes and potential therapeutic strategies for DoC. These substances primarily exert their effects through serotonin 2 A (5-HT",
-      "date": "2026-10-03",
-      "authors": [
-        "Du Xiubo",
-        "Peng Feiyuan",
-        "Wang Xiaohui"
-      ],
-      "doi": "10.1038/s41380-026-03918-4"
     },
     {
       "title": "Pα+ Psychedelic Bulletin #233: FDA Floats Ibogaine Trial Design; Compass Talks Pricing; Potential LSD, Psilocybin Brand Names",
@@ -573,7 +573,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2018-004480-31/CZ",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-10-13",
+      "date": "2026-10-14",
       "authors": [],
       "doi": ""
     },
@@ -582,7 +582,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2020-005037-32/CZ",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-10-13",
+      "date": "2026-10-14",
       "authors": [],
       "doi": ""
     },
@@ -591,7 +591,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2021-002909-10/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-10-13",
+      "date": "2026-10-14",
       "authors": [],
       "doi": ""
     },
@@ -600,7 +600,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2015-000550-37/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-10-13",
+      "date": "2026-10-14",
       "authors": [],
       "doi": ""
     },
@@ -609,7 +609,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2021-000041-40/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-10-13",
+      "date": "2026-10-14",
       "authors": [],
       "doi": ""
     },
@@ -618,7 +618,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2020-000829-55/DK",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-10-13",
+      "date": "2026-10-14",
       "authors": [],
       "doi": ""
     },
@@ -627,7 +627,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2020-002790-94/SE",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-10-13",
+      "date": "2026-10-14",
       "authors": [],
       "doi": ""
     },
@@ -636,7 +636,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2021-006200-33/FI",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-10-13",
+      "date": "2026-10-14",
       "authors": [],
       "doi": ""
     },
@@ -645,7 +645,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2019-004812-73/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-10-13",
+      "date": "2026-10-14",
       "authors": [],
       "doi": ""
     },
@@ -654,7 +654,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2022-002369-14/BE",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-10-13",
+      "date": "2026-10-14",
       "authors": [],
       "doi": ""
     },

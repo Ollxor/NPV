@@ -1,6 +1,38 @@
 {
-  "generated_at": "2026-10-13T14:28:10.009513+00:00",
+  "generated_at": "2026-10-14T12:12:46.003838+00:00",
   "items": [
+    {
+      "title": "Antidepressants and Cognitive Function in Major Depressive Disorder: Mechanisms, Clinical Evidence, and Implications for Precision Treatment.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42869167/",
+      "source": "PubMed",
+      "date": "2026-10-13",
+      "authors": [
+        "Liu Yao",
+        "Tan Yunfei",
+        "Hashimoto Kenji"
+      ],
+      "doi": "10.1016/j.ejphar.2026.179414",
+      "summaries": {
+        "en": "Antidepressants and Cognitive Function in Major Depressive Disorder: Mechanisms, Clinical Evidence, and Implications for Precision Treatment.",
+        "sv": "Antidepressants and Cognitive Function in Major Depressive Disorder: Mechanisms, Clinical Evidence, and Implications for Precision Treatment.",
+        "no": "Antidepressants and Cognitive Function in Major Depressive Disorder: Mechanisms, Clinical Evidence, and Implications for Precision Treatment.",
+        "da": "Antidepressants and Cognitive Function in Major Depressive Disorder: Mechanisms, Clinical Evidence, and Implications for Precision Treatment.",
+        "fi": "Antidepressants and Cognitive Function in Major Depressive Disorder: Mechanisms, Clinical Evidence, and Implications for Precision Treatment.",
+        "is": "Antidepressants and Cognitive Function in Major Depressive Disorder: Mechanisms, Clinical Evidence, and Implications for Precision Treatment.",
+        "et": "Antidepressants and Cognitive Function in Major Depressive Disorder: Mechanisms, Clinical Evidence, and Implications for Precision Treatment.",
+        "lv": "Antidepressants and Cognitive Function in Major Depressive Disorder: Mechanisms, Clinical Evidence, and Implications for Precision Treatment.",
+        "lt": "Antidepressants and Cognitive Function in Major Depressive Disorder: Mechanisms, Clinical Evidence, and Implications for Precision Treatment."
+      },
+      "notable": false,
+      "notable_reasons": null,
+      "relevance_score": 3,
+      "study_type": "review",
+      "substances": [
+        "ketamine",
+        "other"
+      ],
+      "added_at": "2026-10-14T12:12:12.218586+00:00"
+    },
     {
       "title": "Ketamine administered biomedically or as psychedelic-assisted therapy in treatment-resistant depression: Differing efficacy based on depressive subtype or presence of childhood trauma?",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42865326/",
@@ -247,6 +279,37 @@
         "ketamine"
       ],
       "added_at": "2026-10-09T13:33:41.577089+00:00"
+    },
+    {
+      "title": "Feeling safe: an empirical-ethical analysis of vulnerability in (es)ketamine treatment.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42870247/",
+      "source": "PubMed",
+      "date": "2026-10-08",
+      "authors": [
+        "Kind Adrian",
+        "Görke Josephine",
+        "Smirr Hannah"
+      ],
+      "doi": "10.1186/s12910-026-01637-7",
+      "summaries": {
+        "en": "Qualitative study examining safety in ketamine/esketamine treatment. Semi-structured interviews with 14 patients and 10 clinicians in German psychiatric settings identified patient, clinician, and setting factors affecting felt safety during acute consciousness-altering effects. Analysis distinguished clinical safety, felt safety, and ethical protection, revealing gaps between patient and clinician understanding of ketamine's mechanisms and safety needs.",
+        "sv": "Kvalitativ studie om säkerhetskänsla vid ketamin-/esketaminbehandling. Semistrukturerade intervjuer med 14 patienter och 10 kliniker vid tyska psykiatriska kliniker identifierade faktorer hos patient, kliniker och miljö som påverkar upplevd säkerhet under behandling med medvetandepåverkande effekter. Analys särskiljer klinisk säkerhet, upplevd säkerhet och etiskt skydd.",
+        "no": "Kvalitativ studie om trygghetsfølelse under ketamin-/esketaminbehandling. Semistrukturerte intervjuer med 14 pasienter og 10 klinikere ved tyske psykiatriske institusjoner identifiserte pasient-, kliniker- og miljørelaterte faktorer som påvirker opplevd trygghet under behandling med bevissthetspåvirkende effekter. Analysen skiller mellom klinisk trygghet, opplevd trygghet og etisk beskyttelse.",
+        "da": "Kvalitativ undersøgelse af sikkerhedsfølelse under ketamin-/esketaminbehandling. Semistrukturerede interviews med 14 patienter og 10 klinikere på tyske psykiatriske institutioner identificerede patient-, kliniker- og miljørelaterede faktorer, der påvirker oplevet sikkerhed under behandling med bevidsthedspåvirkende effekter. Analysen skelner mellem klinisk sikkerhed, oplevet sikkerhed og etisk beskyttelse.",
+        "fi": "Kvalitatiivinen tutkimus turvallisuuden tunteen kokemuksesta ketamiini-/esketamiinihoitojen aikana. Puolistrukturoidut haastattelut 14 potilaan ja 10 klinikon kanssa Saksan psykiatristen laitosten parissa tunnistivat potilaa, klinikkoa ja hoitoympäristöä koskevia tekijöitä, jotka vaikuttavat turvallisuuden kokemukseen. Analyysi erottaa kliinisen turvallisuuden, koetun turvallisuuden ja eettiset suojaavat tekijät.",
+        "is": "Eigindlæg rannsókn á tilfinningunni fyrir öryggi meðan á ketamín-/esketamínmeðferð stendur. Hálfskipulagðir viðtölir við 14 sjúklinga og 10 klíniska starfsmenn við þýska geðheilsustofnun greindu þætti sem tengdust sjúklingum, klíniskum starfsmönnum og umhverfi og höfðu áhrif á tilfinninguna fyrir öryggi. Greining aðgreindi klíníska öryggi, tilfinninguna fyrir öryggi og siðfræðilega vernd.",
+        "et": "Kvalitatiivne uurimus ketamiini/esketamiini ravi ajal turvalisuse tunnetuse kohta. Poolstruktureeritud intervjuud 14 patsiendiga ja 10 kliinilise töötajaga Saksamaa psühhiaatrialiselistes asutustes tuvastasid patsiendi-, kliinilise töötaja- ja keskkonnaga seotud tegureid, mis mõjutavad turvalisuse tunnetust. Analüüs eristab kliinilist turvalisust, tunnetatud turvalisust ja eetiliste kaitse tegureid.",
+        "lv": "Kvalitatīvs pētījums par drošības sajūtu ketamīna/esketamīna ārstēšanas laikā. Daļēji strukturētas intervijas ar 14 pacientiem un 10 klīniciemiem Vācijas psihiatriskajās iestādēs identificēja pacientu, klīniciešu un vides faktorus, kas ietekmē drošības sajūtu. Analīze atšķir klīnisko drošību, izjusto drošību un ētisku aizsardzību.",
+        "lt": "Kokybinis tyrimas apie saugumo jausmą ketamino/esketamino gydymo metu. Pusstiprintinti interviu su 14 pacientų ir 10 kliniko Vokietijos psichiatrijos įstaigose nustatė paciento, kliniko ir aplinkos veiksnius, turinčius įtakos saugumo pojūčiui. Analizė skiria klinikinius saugumą, pajautą saugumą ir etinę apsaugą."
+      },
+      "notable": false,
+      "notable_reasons": null,
+      "relevance_score": 4,
+      "study_type": "qualitative",
+      "substances": [
+        "ketamine"
+      ],
+      "added_at": "2026-10-14T12:12:12.218586+00:00"
     },
     {
       "title": "Adverse reactions to psychedelics in naturalistic settings are associated with current psychopathology and well-being: A correlational study.",
@@ -1978,79 +2041,6 @@
         "ketamine"
       ],
       "added_at": "2026-09-17T11:56:15.164798+00:00"
-    },
-    {
-      "title": "Psilocybin and ayahuasca in treatment-resistant depression: clinical evidence, methodological constraints and ethical challenges: a narrative review.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42812990/",
-      "source": "PubMed",
-      "date": "2026-09-15",
-      "authors": [
-        "Civardi Serena Chiara",
-        "Besana Filippo",
-        "Durbano Federico"
-      ],
-      "doi": "10.3389/fpsyt.2026.1858319",
-      "summaries": {
-        "en": "A narrative review examines psilocybin and ayahuasca for treatment-resistant depression. Both show rapid symptom reduction, with psilocybin demonstrating more sustained effects. However, trials are limited by strict inclusion criteria excluding comorbidities and high-risk patients, small sample sizes, blinding challenges, and reliance on adjunct psychotherapy. Ethical concerns regarding informed consent and real-world applicability require careful consideration.",
-        "sv": "En narrativ granskning undersöker psykedelika som psilo­cybin och ayahuasca för behandlingsresistent depression. Båda visar snabb symptomreducering, där psilocybin visar mer varaktiga effekter. Studierna begränsas dock av strikta inklusionskriterier som exkluderar komorbiditeter och högriskpatienter, små urvalsstorlekar, blindningsproblem och beroende av biström psykoterapi. Etiska överväganden kring informerat samtycke kräver försiktig bedömning.",
-        "no": "En narrativ gjennomgang undersøker psilocybin og ayahuasca for behandlingsresistent depresjon. Begge viser rask symptomreduksjon, med psilocybin som viser mer vedvarende effekter. Studiene er imidlertid begrenset av strenge inklusjonskriterier som utelukker komorbiditet og høyrisikopasiente, små utvalg, blindingsproblemer og avhengighet av tilleggspsykoterapii. Etiske hensyn om informert samtykke krever nøye vurdering.",
-        "da": "En narrativ oversigt undersøger psilocybin og ayahuasca til behandlingsresistent depression. Begge viser hurtig symptomreduktion, hvor psilocybin viser mere vedvarende effekter. Studierne begrænses dog af strenge inklusions­kriterier, der udelukker komorbiditeter og høj-risko-patienter, små stikprøver, blindingsproblemer og afhængighed af supplerende psykoterapi. Etiske overvejelser om informeret samtykke kræver omhyggelig vurdering.",
-        "fi": "Narratiivinen katsaus tutkii psilosyybiä ja ayahuascaa hoitoresistenttiin masennukseen. Molemmat osoittavat nopeaa oireen vähenemistä, psilosyybin osoittaen pidempiaikaisia vaikutuksia. Tutkimuksia rajoittavat kuitenkin tiukat sisäänottokriteerit, jotka sulkevat pois sairauden yhteiesiintymät ja korkean riskin potilaat, pienet otoskoot, sokoutuneisuus­ongelmat ja lisäpsykoterapiasta riippuvaisuus. Tietoisen suostumuksen eettiset näkökohdat vaativat huolellista arviointia.",
-        "is": "Hugleiðandi yfirlitið skoðar psílosbín og ayahuasca við meðferðarþolna þunglyndi. Báðir sýna skjóta einkennasamdrátt, þar sem psílosbín sýnir viðvarandi áhrif. Rannsóknirnar takmarkast þó af strangum inntökuskilyrðum sem útiloka fylgikvilla og háa áhættusjúklinga, lítil úrtak, blindunarvandamál og háð viðbótarsálgreinum. Siðferðileg sjónarmið um upplýst samþykki krefjast vandlægrar skoðunar.",
-        "et": "Narratiivne ülevaade uurib psilotsiinsi ja ayahuascad raviresistentse depressiooni jaoks. Mõlemad näitavad kiiret sümptomite vähenemist, kusjuures psilotsiinul on tugevamad kestvad mõjud. Uuringuid piiravad aga ranged sissetulemise kriteeriumid, mis välistavad kaasulevat haigestumust ja kõrge riskiga patsiendid, väikesed valimid, maskeerimisprobleemid ja abigpsühhoterapiale sõltuvus. Teadliku nõusoleku eetilised kaalutlused nõuavad hoolikat hindamist.",
-        "lv": "Naratīvs pārskats pēta psilo­ciīnu un ajahvaskas lietotas izturīgai depresijā. Abas vielas parāda ātru simptoms mazināšanu, psilo­ciīnam rāda ilgstošākus efektus. Tomēr pētījumus ierobežo stingrā iekļaušanas kritēriji, kas izslēdz komorbiditātes un augsta riska pacientus, mazus izlases lielumus, maskēšanas problēmas un atkarību no papildu psihoterapijas. Informēta piekrišana prasa rūpīgu ētisku novērtējumu.",
-        "lt": "Naratyvus apžvalga tiria psilocibino ir ajahvaskos panaudojimą gydymui atsparioje depresijoje. Abi medžiagos rodo greitą simptomų sumažėjimą, psilocibinas rodo ilgalaikius efektus. Tačiau tyrimai ribojami griežtais įtraukimo kriterijais, kurie neįtraukia komorbidumo ir didelio rizikos ligonių, mažų imčių, aklosios procedūros problemų ir priklausomybės nuo papildomos psichologinės terapijos. Informuota sutiktis reikalauja kruopščios etinės vertės."
-      },
-      "notable": false,
-      "notable_reasons": null,
-      "relevance_score": 4,
-      "study_type": "review",
-      "substances": [
-        "psilocybin",
-        "ayahuasca"
-      ],
-      "added_at": "2026-10-01T13:39:29.652706+00:00"
-    },
-    {
-      "title": "Ketamine attenuates habenula activity in response to aversive outcomes during Pavlovian learning.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42743922/",
-      "source": "PubMed",
-      "date": "2026-09-15",
-      "authors": [
-        "Pulcu Erdem",
-        "Costi Sara",
-        "Artiach-Hortelano Pilar"
-      ],
-      "doi": "10.1016/j.cub.2026.08.044",
-      "summaries": {
-        "en": "Randomized controlled study (n=70) using 7-tesla fMRI examined ketamine's effects on habenula function during aversive Pavlovian learning. A single ketamine dose (0.5 mg/kg) attenuated habenula activity in response to aversive stimuli 24 hours post-infusion compared to placebo. Reduced habenula engagement during aversive learning may diminish negative memory impact, supporting ketamine's rapid antidepressant mechanism.",
-        "sv": "Randomiserad studie (n=70) med 7-tesla fMRI undersökte kelamins effekter på habenulas funktion vid aversiv pavlovsk inlärning. En enda kelamindos (0,5 mg/kg) dämpade habenulas aktivitet som svar på aversiva stimuli 24 timmar efter infusion jämfört med placebo. Minskad habenulaktivitet under aversiv inlärning kan minska negativ minnespåverkan, vilket stödjer kelamins snabba antidepressiva mekanism.",
-        "no": "Randomisert studie (n=70) med 7-tesla fMRI undersøkte ketamins effekter på habenulas funksjon under aversiv pavlovsk læring. En enkelt ketamindose (0,5 mg/kg) reduserte habenulas aktivitet som respons på aversive stimuli 24 timer etter infusjon sammenlignet med placebo. Redusert habenulaktivitet under aversiv læring kan svekke negativ minnepåvirkning, noe som støtter ketamins raske antidepressiv mekanisme.",
-        "da": "Randomiseret studie (n=70) med 7-tesla fMRI undersøgte ketamins effekter på habenulaaktivitet under aversiv pavlovsk læring. En enkelt ketamindosis (0,5 mg/kg) mindskede habenulaens reaktion på aversive stimuli 24 timer efter infusion sammenlignet med placebo. Reduceret habenulaaktivitet under aversiv læring kan svække påvirkningen af negative erindringer, hvilket understøtter ketamins hurtige antidepressive virkning.",
-        "fi": "Satunnaistettu tutkimus (n=70) 7-teslalla fMRI:llä tutki ketamiinin vaikutusta habenulaan aversiivisen pavlovilaisen oppimisen aikana. Yksittäinen ketamiinitannos (0,5 mg/kg) vähensi habenulan reaktiota aversiivisiin ärsykkeisiin 24 tuntia infuusion jälkeen placeboon verrattuna. Heikentynyt habenulan aktiivisuus aversiivisen oppimisen aikana voi heikentää negatiivisten muistojen vaikutusta, mikä tukee ketamiinin nopeaa masennuslääkkeiden vaikutusmekanismia.",
-        "is": "Handahóf rannsókn (n=70) með 7-tesla fMRI kannaði áhrif ketamíns á starfsemi habenulu meðan á óhagstæðri pavljóvskri námi stóð. Ein skammtir ketamíns (0,5 mg/kg) minnkaði viðbrögð habenulu við óhagstæðum áreitum 24 klukkustundum eftir innsprautun samanborið við lyfleysu. Minnkuð starfsemi habenulu meðan á óhagstæðri námi stendur getur dregið úr áhrifum neikvæðra minningareffekta, sem styður hraða andþunglindaráhrif ketamíns.",
-        "et": "Randomiseeritud uuring (n=70) kasutades 7-tesla fMRI uuris ketamiini mõju habenulale aversiivsete pavlovi õppimise ajal. Üks ketamiini annus (0,5 mg/kg) vähendasid habenula reaktsiooni aversiivsete stiimulitele 24 tundi pärast infusiooni võrreldes platseeboga. Vähenenud habenula aktiivsus aversiivsete õppimise ajal võib nõrgendada negatiivsete mälestuste mõju, mis toetab ketamiini kiiret antidepressandse mehhanismi.",
-        "lv": "Randomizēts pētījums (n=70) ar 7-tesla fMRI pārbaudīja ketamīna ietekmi uz habenulu atversīvas Pavlova mācīšanās laikā. Viena ketamīna doza (0,5 mg/kg) samazināja habenulas aktivitāti, reagējot uz atversīviem stimuliem 24 stundas pēc infūzijas salīdzinājumā ar placebо. Samazināta habenulas aktivitāte atversīvās mācīšanās laikā var mazināt negatīvu afektīvu atmiņu ietekmi, atbalstot ketamīna ātro antidepresīvo mehānismu.",
-        "lt": "Randomizuotas tyrimas (n=70) su 7-tesla fMRI nagrinėjo ketamino poveikį habenulai per aversyvinį Pavlovo mokymąsi. Viena ketamino dozė (0,5 mg/kg) sumažino habenulos aktyvumą reaguojant į aversyvius dirgiklius 24 valandas po infuzijos, palyginti su placebu. Sumažėjęs habenulos aktyvumas aversyvaus mokymosi metu gali sumažinti neigiamų afektyvių atminčių poveikį, remiant ketamino greitą antidepresantinį mechanizmą."
-      },
-      "notable": true,
-      "notable_reasons": {
-        "en": "RCT (n=70) with 7-tesla fMRI and translational computational neuroscience approach elucidating ketamine's mechanism via habenula modulation during aversive learning.",
-        "sv": "RCT (n=70) med 7-tesla fMRI och translationell beräkningsneuroveteskap som klargör ketamins mekanism via habenula-modulering under aversiv inlärning.",
-        "no": "RCT (n=70) med 7-tesla fMRI og translasjonell beregningsneurobiologi som oppklarer ketamins mekanisme via habenula-modulering under aversiv læring.",
-        "da": "RCT (n=70) med 7-tesla fMRI og translationel beregnende neurobiologi, som præciserer ketamins mekanisme via habenula-modulering under aversiv læring.",
-        "fi": "RCT (n=70) 7-tesla fMRI:llä ja translationaalisella laskennallisella neurotiedeellä, joka selventää ketamiinin mekanismia habenula-modulaation kautta aversiivin oppimisen aikana.",
-        "is": "RCT (n=70) með 7-tesla fMRI og þýðandi reikningsneuruvísindum sem skýra kerfi ketamíns með habenula-breytingu við slæma nám.",
-        "et": "RCT (n=70) koos 7-tesla fMRI-ga ja translatsionaalse arvutusneuroteadusega, mis selgitab ketamiini mehhanismi habenula modulatsiooni kaudu vastumeelse õppimise ajal.",
-        "lv": "RCT (n=70) ar 7-tesla fMRI un translācijas skaitļošanas neirozinātnēm, kas skaidro ketamīna mehānismu caur habenula modulāciju neatvērtās mācīšanās laikā.",
-        "lt": "RCT (n=70) su 7-tesla fMRI ir transliacijine skaičiavimų neurausuomis, kurios paaiškina ketamino mechanizmą per habenula moduliavimą neigiamo mokymosi metu."
-      },
-      "relevance_score": 4,
-      "study_type": "rct",
-      "substances": [
-        "ketamine"
-      ],
-      "added_at": "2026-09-16T11:52:56.874622+00:00"
     }
   ]
 }

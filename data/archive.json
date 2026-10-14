@@ -1,6 +1,47 @@
 {
   "items": [
     {
+      "title": "Feeling safe: an empirical-ethical analysis of vulnerability in (es)ketamine treatment.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42870247/",
+      "source": "PubMed",
+      "date": "2026-10-08",
+      "authors": [
+        "Kind Adrian",
+        "Görke Josephine",
+        "Smirr Hannah"
+      ],
+      "doi": "10.1186/s12910-026-01637-7",
+      "summary_en": "Qualitative study examining safety in ketamine/esketamine treatment. Semi-structured interviews with 14 patients and 10 clinicians in German psychiatric settings identified patient, clinician, and setting factors affecting felt safety during acute consciousness-altering effects. Analysis distinguished clinical safety, felt safety, and ethical protection, revealing gaps between patient and clinician understanding of ketamine's mechanisms and safety needs.",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "qualitative",
+      "substances": [
+        "ketamine"
+      ],
+      "added_at": "2026-10-14T12:12:12.218586+00:00"
+    },
+    {
+      "title": "Antidepressants and Cognitive Function in Major Depressive Disorder: Mechanisms, Clinical Evidence, and Implications for Precision Treatment.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42869167/",
+      "source": "PubMed",
+      "date": "2026-10-13",
+      "authors": [
+        "Liu Yao",
+        "Tan Yunfei",
+        "Hashimoto Kenji"
+      ],
+      "doi": "10.1016/j.ejphar.2026.179414",
+      "summary_en": "Antidepressants and Cognitive Function in Major Depressive Disorder: Mechanisms, Clinical Evidence, and Implications for Precision Treatment.",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "review",
+      "substances": [
+        "ketamine",
+        "other"
+      ],
+      "added_at": "2026-10-14T12:12:12.218586+00:00"
+    },
+    {
       "title": "Investigating molecular and hemodynamic effects of LSD in the human brain.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42864445/",
       "source": "PubMed",

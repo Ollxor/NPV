@@ -1,7 +1,20 @@
 {
-  "date": "2026-10-14",
-  "cached_at": "2026-10-14T11:08:52.274445+00:00",
+  "date": "2026-10-15",
+  "cached_at": "2026-10-15T10:50:19.368659+00:00",
   "articles": [
+    {
+      "title": "\"Am I a candidate for magic mushrooms?\" A mystery shopper study of Oregon psilocybin service centers.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42871231/",
+      "source": "PubMed",
+      "abstract": "Oregon is the first US state to permit supervised psilocybin services through a nonmedical, wellness-based model. We examined what prospective clients with psychiatric histories encounter when contacting service centers, including how staff communicate about safety, eligibility, and cost. We conducted a mystery shopper study of 26 licensed service centers in Oregon (7/2025-9/2025), 4 of which closed before calls began, leaving 22 in the sample. We reviewed websites and conducted 2 waves of scripted phone calls portraying adults with depression. Website and call data were combined at the center level, counting an item as disclosed if it appeared online or during a call. Themes from call field notes were contextualized through structured debriefing interviews with service center staff. Callers reached 15/22 centers, none of which permitted unsupervised consumption or immediate dosing without psychiatric assessment. Staff asked detailed questions about psychiatric comorbidities, addressing information gaps from websites, and none recommended discontinuing antidepressants. The median cost was $1900. Debriefing interviews described financial strain for service centers, with viability constrained by licensing fees and potential misalignment with cannabis-derived business models. Oregon's regulated model appears clinically cautious, while facing high costs for clients, facilitators, and service centers that limit scalability.",
+      "date": "2026-08-27",
+      "authors": [
+        "Adams Danielle R",
+        "Hartman Morgan",
+        "Gong Lisa"
+      ],
+      "doi": "10.1093/haschl/qxag231"
+    },
     {
       "title": "Feeling safe: an empirical-ethical analysis of vulnerability in (es)ketamine treatment.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42870247/",
@@ -119,6 +132,19 @@
       "doi": "10.1016/j.psychres.2026.117516"
     },
     {
+      "title": "[Connectome and Depression: Towards Precision Psychiatry Based on Brain Networks].",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42858129/",
+      "source": "PubMed",
+      "abstract": "In recent decades, the study of the human connectome —the comprehensive map of the brain's neural connections— has redefined our understanding of Major Depressive Disorder (MDD) as a spectrum of functional and structural alterations in specific brain networks. This review explores evidence on functional connectivity patterns in MDD, highlighting the involvement of networks such as the default mode network (DMN), frontoparietal network (FPN), salience network (SN), and reward circuits. We analyze patterns detected using functional magnetic resonance imaging (fMRI) and their potential as biomarkers to predict treatment response to interventions currently included in clinical guidelines and widely used in practice, such as psychotherapy, first-line antidepressants (SSRIs), transcranial magnetic stimulation (TMS), electroconvulsive therapy (ECT), and sub-anesthetic doses of ketamine. For this purpose, we conducted an integrative narrative review of the scientific literature, selecting articles based on clinical relevance and methodological quality (GRADE), including meta-analyses, systematic reviews, and randomized controlled trials. These findings may contribute to a paradigm shift toward precision psychiatry, increasingly centered on the individual. Although methodological challenges persist that limit their clinical application, understanding the connectome and its relationship with MDD pathogenesis is a fundamental step toward truly personalized mental healthcare. En las últimas décadas, el estudio del conectoma humano -mapa integral de las conexiones neuronales del cerebro- ha redefinido la comprensión del trastorno depresivo mayor (TDM) como un espectro de alteraciones funcionales y estructurales en redes cerebrales específicas. Esta revisión explora evidencia sobre patrones de conectividad funcional en el TDM, destacando la implicancia de redes como la red neuronal por defecto (RND), la red frontoparietal (RFP), la red de saliencia (RS) y los circuitos de recompensa. Se analizan patrones detectados mediante resonancia magnética funcional (RMf) y su potencial como biomarcadores para predecir respuesta a las intervenciones que hoy forman parte de las guías clínicas y constituyen el arsenal habitual en la práctica, como la psicoterapia, los antidepresivos de primera línea (ISRS), la estimulación magnética transcraneal (EMT), la terapia electroconvulsiva (TEC) y la ketamina a dosis subanestésicas. Para ello, realizamos una revisión narrativa integrativa de la literatura científica, seleccionando artículos por relevancia clínica y calidad metodológica (GRADE), incluyendo metaanálisis, revisiones sistemáticas y ensayos clínicos aleatorizados. Estos hallazgos podrían generar un cambio de paradigma hacia una psiquiatría de precisión, cada vez más centrada en la persona. Aunque persisten desafíos metodológicos que limitan su aplicación clínica, comprender el conectoma y su relación con la patogénesis del TDM es un paso fundamental hacia una verdadera atención personalizada en salud mental.",
+      "date": "2026-10-10",
+      "authors": [
+        "Majul Conte Grand María Victoria",
+        "Dines Micaela",
+        "Bulacia Adriana V"
+      ],
+      "doi": "10.53680/vertex.v37i173.1067"
+    },
+    {
       "title": "Subcutaneous Esketamine in Adolescents with Severe Depressive Episodes: A Five-Case Series.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42855888/",
       "source": "PubMed",
@@ -233,30 +259,13 @@
       "doi": "10.3389/fpsyt.2026.1886833"
     },
     {
-      "title": "Psilocybin use, mental health treatment utilization, and unmet treatment need among US individuals with depression.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42834832/",
-      "source": "PubMed",
-      "abstract": "Psilocybin use has increased in the US alongside promising therapeutic potential for depression, raising concerns that individuals may forgo conventional mental health treatment for unsupervised psilocybin use. However, no nationally representative studies have examined whether psilocybin use is associated with differential treatment utilization or perceived unmet need for mental health care among individuals with depression. We analyzed data from 6,793 individuals aged ≥ 12 years with a past-year major depressive episode (MDE) from the 2024 National Survey on Drug Use and Health, a nationally representative survey of the noninstitutionalized US population. Sociodemographic and substance use characteristics were first compared by past-year psilocybin use. We then examined associations between past-year psilocybin use and eight past-year mental health treatment outcomes using Poisson regression, adjusting for sociodemographic characteristics, other past-year substance use, psychotherapeutic prescription misuse, and alcohol use disorder. Among individuals with past-year MDE, an estimated 7.3% (95% CI: 6.4-8.3) used psilocybin in the past year. In multivariable models, psilocybin use was not associated with any mental health treatment utilization, including outpatient, inpatient, or telehealth treatment; prescription medication use for mental health; seeing a doctor for depressive feelings; or prescription medication use for depressive feelings. However, psilocybin use was associated with greater perceived unmet treatment need (52.0% vs. 33.9%; aPR = 1.44; 95% CI: 1.04-2.01). Findings suggest that psilocybin use among individuals with depression co-occurs with perceived unmet need for conventional mental health care but is not associated with lower utilization of any conventional mental health treatments.",
-      "date": "2026-10-06",
-      "authors": [
-        "Eun Avery Chan",
-        "Yang Kevin H",
-        "Palamar Joseph J"
-      ],
-      "doi": "10.1017/S0033291726106163"
-    },
-    {
-      "title": "Subacute effects of ketamine on neural correlates of reward processing.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42834034/",
-      "source": "PubMed",
-      "abstract": "Ketamine induces a sequence of temporally distinct effects on brain function, yet its impact on reward processing beyond the acute post-administration phase remains unclear. In this single-blind, placebo-controlled, crossover study, 28 healthy participants received 0.5 mg/kg racemic ketamine or placebo via a 40 min intravenous infusion. Functional magnetic resonance imaging was acquired approximately 5 h post-infusion during the Monetary Incentive Delay (MID) task, targeting the subacute phase after resolution of acute dissociative effects. Plasma concentrations of ketamine and norketamine were obtained for pharmacokinetic modeling and area under the curve estimation. At 5 h post-administration, ketamine did not significantly modulate brain activation during the MID task in either ROI-based or whole-brain analyses, despite measurable subjective drug effects. Pharmacokinetic modeling yielded ketamine and norketamine concentration-time profiles consistent with expected pharmacokinetic patterns, however, neither individual drug exposure nor psychometric measures showed robust associations with MID task-related neural activation. These findings suggest an absence of detectable task-evoked effects under the present methodological conditions. When considered alongside prior work, they are consistent with the possibility that ketamine's effects on reward circuitry are time-sensitive and may be more prominent during the acute post-administration phase or in clinical populations with pre-existing reward dysfunction.",
-      "date": "2026-09-25",
-      "authors": [
-        "Briem Elisa",
-        "Stöhrmann Peter",
-        "Dörl Gregor"
-      ],
-      "doi": "10.1038/s41398-026-04485-6"
+      "title": "The Psychedelic Practitioner Issue 7: Preparedness (Systems)",
+      "url": "https://psychedelicalpha.com/news/the-psychedelic-practitioner-issue-7-preparedness-systems/",
+      "source": "Psychedelic Alpha",
+      "abstract": "",
+      "date": "2026-10-14",
+      "authors": [],
+      "doi": ""
     },
     {
       "title": "Pα+ Psychedelic Bulletin #233: FDA Floats Ibogaine Trial Design; Compass Talks Pricing; Potential LSD, Psilocybin Brand Names",
@@ -336,15 +345,6 @@
       "source": "Psychedelic Alpha",
       "abstract": "Compass Shares 52-Week Follow-Up and Five Training Grant Recipients Earlier this month, Compass Pathways shared topline data from Part C of its smaller, placebo-controlled Phase 3 trial, COMP005. As a reminder, COMP005 enrolled 258 patients with treatment-resistant depression (TRD) to receive either a 25 mg dose of the company’s psilocybin candidate (COMP360) or inert placebo. […]",
       "date": "2026-09-16",
-      "authors": [],
-      "doi": ""
-    },
-    {
-      "title": "No Questions Asked: FDA’s Psychedelics Public Hearing",
-      "url": "https://psychedelicalpha.com/news/no-questions-asked-fdas-psychedelics-public-hearing/",
-      "source": "Psychedelic Alpha",
-      "abstract": "",
-      "date": "2026-09-15",
       "authors": [],
       "doi": ""
     },
@@ -573,7 +573,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2018-004480-31/CZ",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-10-14",
+      "date": "2026-10-15",
       "authors": [],
       "doi": ""
     },
@@ -582,7 +582,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2020-005037-32/CZ",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-10-14",
+      "date": "2026-10-15",
       "authors": [],
       "doi": ""
     },
@@ -591,7 +591,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2021-002909-10/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-10-14",
+      "date": "2026-10-15",
       "authors": [],
       "doi": ""
     },
@@ -600,7 +600,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2015-000550-37/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-10-14",
+      "date": "2026-10-15",
       "authors": [],
       "doi": ""
     },
@@ -609,7 +609,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2021-000041-40/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-10-14",
+      "date": "2026-10-15",
       "authors": [],
       "doi": ""
     },
@@ -618,7 +618,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2020-000829-55/DK",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-10-14",
+      "date": "2026-10-15",
       "authors": [],
       "doi": ""
     },
@@ -627,7 +627,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2020-002790-94/SE",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-10-14",
+      "date": "2026-10-15",
       "authors": [],
       "doi": ""
     },
@@ -636,7 +636,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2021-006200-33/FI",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-10-14",
+      "date": "2026-10-15",
       "authors": [],
       "doi": ""
     },
@@ -645,7 +645,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2019-004812-73/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-10-14",
+      "date": "2026-10-15",
       "authors": [],
       "doi": ""
     },
@@ -654,7 +654,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2022-002369-14/BE",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-10-14",
+      "date": "2026-10-15",
       "authors": [],
       "doi": ""
     },

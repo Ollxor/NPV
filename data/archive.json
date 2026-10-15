@@ -1,6 +1,46 @@
 {
   "items": [
     {
+      "title": "\"Am I a candidate for magic mushrooms?\" A mystery shopper study of Oregon psilocybin service centers.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42871231/",
+      "source": "PubMed",
+      "date": "2026-08-27",
+      "authors": [
+        "Adams Danielle R",
+        "Hartman Morgan",
+        "Gong Lisa"
+      ],
+      "doi": "10.1093/haschl/qxag231",
+      "summary_en": "Mystery shopper study of 22 Oregon psilocybin service centers (2025) examined client screening practices. Callers portraying adults with depression reached 15 centers. All required psychiatric assessment before dosing and none recommended stopping antidepressants. Median cost was $1900. Websites lacked safety information, but staff addressed gaps through detailed questioning. Oregon's regulated wellness model prioritizes clinical caution but faces sustainability challenges from high licensing fees and scalability constraints.",
+      "notable": true,
+      "notable_reason": "First empirical evaluation of Oregon's pioneering regulated psilocybin service centers, informing real-world implementation of psychedelic policy in the US.",
+      "study_type": "qualitative",
+      "substances": [
+        "psilocybin"
+      ],
+      "added_at": "2026-10-15T11:50:48.369724+00:00"
+    },
+    {
+      "title": "[Connectome and Depression: Towards Precision Psychiatry Based on Brain Networks].",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42858129/",
+      "source": "PubMed",
+      "date": "2026-10-10",
+      "authors": [
+        "Majul Conte Grand María Victoria",
+        "Dines Micaela",
+        "Bulacia Adriana V"
+      ],
+      "doi": "10.53680/vertex.v37i173.1067",
+      "summary_en": "A narrative review examining brain connectome alterations in Major Depressive Disorder (MDD) using fMRI data. The study analyzes functional connectivity patterns in default mode, frontoparietal, salience networks and reward circuits as potential biomarkers for predicting treatment response to psychotherapy, SSRIs, TMS, ECT, and ketamine. Despite methodological limitations, connectome mapping may advance precision psychiatry and personalized treatment approaches.",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "review",
+      "substances": [
+        "ketamine"
+      ],
+      "added_at": "2026-10-15T11:50:48.369724+00:00"
+    },
+    {
       "title": "Feeling safe: an empirical-ethical analysis of vulnerability in (es)ketamine treatment.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42870247/",
       "source": "PubMed",

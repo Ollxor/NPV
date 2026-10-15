@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T12:12:46.003838+00:00",
+  "generated_at": "2026-10-15T11:51:33.119494+00:00",
   "items": [
     {
       "title": "Antidepressants and Cognitive Function in Major Depressive Disorder: Mechanisms, Clinical Evidence, and Implications for Precision Treatment.",
@@ -217,6 +217,37 @@
         "mdma"
       ],
       "added_at": "2026-10-12T15:50:25.977684+00:00"
+    },
+    {
+      "title": "[Connectome and Depression: Towards Precision Psychiatry Based on Brain Networks].",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42858129/",
+      "source": "PubMed",
+      "date": "2026-10-10",
+      "authors": [
+        "Majul Conte Grand María Victoria",
+        "Dines Micaela",
+        "Bulacia Adriana V"
+      ],
+      "doi": "10.53680/vertex.v37i173.1067",
+      "summaries": {
+        "en": "A narrative review examining brain connectome alterations in Major Depressive Disorder (MDD) using fMRI data. The study analyzes functional connectivity patterns in default mode, frontoparietal, salience networks and reward circuits as potential biomarkers for predicting treatment response to psychotherapy, SSRIs, TMS, ECT, and ketamine. Despite methodological limitations, connectome mapping may advance precision psychiatry and personalized treatment approaches.",
+        "sv": "En narrativ översikt som undersöker connectome-förändringar vid större depressiv störning (MDD) med fMRI-data. Studien analyserar funktionell konnektivitet i default mode, frontoparietal och saliensnätverk samt belöningskretsar som potentiella biomarkörer för att förutsäga behandlingssvar på psykoterapeutika, SSRI:er, TMS, ECT och psykedelika. Trots metodologiska begränsningar kan connectome-kartläggning främja precisionpsykiatri och personaliserad behandling.",
+        "no": "En narrativ gjennomgang som undersøker connectome-endringer ved større depressiv lidelse (MDD) ved bruk av fMRI-data. Studien analyserer funksjonell konnektivitet i default mode, frontoparietal og saliensnettverk samt belønningskretser som potensielle biomarkører for å forutsi behandlingsrespons på psykoterapeutika, SSRI-er, TMS, ECT og psykedelika. Til tross for metodologiske begrensninger kan connectome-kartlegging fremme presisjonpsykiatri og personalisert behandling.",
+        "da": "En narrativ oversigt, der undersøger connectome-ændringer ved større depressiv lidelse (MDD) ved hjælp af fMRI-data. Studien analyserer funktionel konnektivitet i default mode, frontoparietal og salientnetværk samt belønningskredsløb som potentielle biomarkører for at forudsige behandlingsrespons på psykoterapi, SSRI'er, TMS, ECT og psykedelika. På trods af metodologiske begrænsninger kan connectome-kortlægning fremme præcisionpsykiatri og personaliseret behandling.",
+        "fi": "Narratiivinen katsaus, joka tutkii connectome-muutoksia vakavassa masennushäiriössä (MDD) käyttäen fMRI-tietoja. Tutkimus analysoi toiminnallista yhteysverkkojen kytkeytymistä default mode-, frontoparietal- ja salienssiverkoissa sekä palkintokehässä mahdollisina biomarkkereina ennustamaan psykoterapeuttisen hoidon, SSRI-lääkkeiden, TMS:n, ECT:n ja psykedeeleien vastetta. Metodologisista rajoituksista huolimatta connectome-kartoitus voi edistää tarkkuuspsykiatriaa ja yksilöllistä hoitoa.",
+        "is": "Yfirlitsstuðning sem kannar connectome-breytingar við alvarlegri þunglyndi (MDD) með fMRI-gögnum. Rannsóknin greinir virka tengingu í default mode, frontoparietal og saliency-netum ásamt verðlaunarásum sem hugsanleg líffræðileg merki til að spá fyrir um meðferðarsvörun við sálfélagsfræðilegri meðferð, SSRI-lyfjum, TMS, ECT og sálkindum efnum. Þrátt fyrir aðferðafræðilegar takmarkanir getur connectome-kortlagning stuðlað að nákvæmri geðlækningum og sérsniðinni meðferð.",
+        "et": "Narratiivne ülevaade, mis uurib connectome-muutusi suuremas depressiivsetes häires (MDD), kasutades fMRI-andmeid. Uurimus analüüsib funktsionaalset ühendatavust vaikimisi režiimi, frontoparieetaalse ja salientsusvõrgus ning palkitsemisahelates kui potentsiaalseid biomerkereid ravi reaktsioonide ennustamiseks psühhoteraapia, SSRI-ide, TMS, ECT ja psühhodeelikumide suhtes. Vaatamata metodoloogilistele piirangutele võib connectome-kaardistamine edendada täpsuspsühhiatriat ja individualiseeritud ravi.",
+        "lv": "Naratīvs pārskats, kas pēta connectome izmaiņas galvenajā depresijas traucējumā (MDD), izmantojot fMRI datus. Pētījums analizē funkcionālu savienojamību noklusējuma režīma, frontoparietal un saliency tīklos un atlīdzības ķēdēs kā iespējamos biožīmekļus ārstēšanas atbildes paredzēšanai psihoterapijai, SSRI preparātiem, TMS, ECT un psihodelikajiem vielu. Neskatoties uz metodikas ierobežojumiem, connectome kartēšana var veicināt precizitātes psihiatriju un individualizētu ārstēšanu.",
+        "lt": "Naratyvus apžvalga, nagrinėjanti connectome pokyčius esminėje depresijoje (MDD), naudojant fMRI duomenis. Tyrimas analizuoja funkcinį sujungimą numatytojo režimo, frontoparietaliniame ir saliencijos tinkluose bei atlygos grandinėse kaip galimus biožymeklius gydymo atsako prognozavimui psichoterapijai, SSRI vaistams, TMS, ECT ir psichodeliniams medžiagoms. Nepaisant metodologinių apribojimų, connectome kartografija gali skatinti tikslią psichiatriją ir individualizuotą gydymą."
+      },
+      "notable": false,
+      "notable_reasons": null,
+      "relevance_score": 4,
+      "study_type": "review",
+      "substances": [
+        "ketamine"
+      ],
+      "added_at": "2026-10-15T11:50:48.369724+00:00"
     },
     {
       "title": "Subcutaneous Esketamine in Adolescents with Severe Depressive Episodes: A Five-Case Series.",
@@ -2008,37 +2039,6 @@
       "study_type": "rct",
       "substances": [
         "psilocybin"
-      ],
-      "added_at": "2026-09-17T11:56:15.164798+00:00"
-    },
-    {
-      "title": "Opioid-free analgesia with esketamine-dexmedetomidine versus opioid-based analgesia after gynaecological laparoscopic surgery: a double-blind, randomized, controlled trial.",
-      "url": "https://doi.org/10.1080/07853890.2026.2732292",
-      "source": "Europe PMC",
-      "date": "2026-09-16",
-      "authors": [
-        "Ren Y",
-        "Li YT",
-        "Yin QL"
-      ],
-      "doi": "10.1080/07853890.2026.2732292",
-      "summaries": {
-        "en": "Double-blind RCT (n=132) comparing opioid-free analgesia (esketamine + dexmedetomidine) versus sufentanil after gynecological laparoscopic surgery. Opioid-free group achieved non-inferior pain control (AUC 175 vs 169, p=0.008) and superior recovery quality (QoR-15: 116 vs 108, p<0.001), with better physical comfort and emotional wellbeing.",
-        "sv": "Dubbelblind RCT (n=132) som jämförde opioidfri analges (esketamin + dexmedetomidin) mot sufentanil efter gynekologisk laparoskopisk kirurgi. Opioidfri grupp uppnådde icke-underlägsen smärtlindring (AUC 175 vs 169, p=0,008) och överlägsna återhämtningsresultat (QoR-15: 116 vs 108, p<0,001) med bättre fysisk komfort och emotionellt välbefinnande.",
-        "no": "Dobbeltblind RCT (n=132) som sammenliknet opioidfri analgetika (esketamin + deksmedetomidin) mot sufentanil etter gynekologisk laparoskopisk kirurgi. Opioidfri gruppe oppnådde ikke-mindreverdig smertelindring (AUC 175 vs 169, p=0,008) og overlegen utvinningsresultat (QoR-15: 116 vs 108, p<0,001) med bedre fysisk komfort og emosjonelt velvære.",
-        "da": "Dobbeltblind RCT (n=132) der opioidfri analgesi (esketamin + dexmedetomidin) blev sammenlignet med sufentanil efter gynækologisk laparoskopisk kirurgi. Opioidfri gruppe opnåede ikke-underlegne smertelindring (AUC 175 vs 169, p=0,008) og overlegen bedring (QoR-15: 116 vs 108, p<0,001) med bedre fysisk komfort og emotionel tilstand.",
-        "fi": "Kaksoissokkoutettu RCT (n=132) vertaili opioiditonta analgesiaa (esketamiini + deksmedetomidiini) versus sufentaali gynekologisen laparoskooppisen leikkauksen jälkeen. Opioiditon ryhmä saavutti ei-huonomman kivunlievityksen (AUC 175 vs 169, p=0,008) ja paremman toipumisen (QoR-15: 116 vs 108, p<0,001) paremmalla fyysisellä mukavuudella ja emotionaalisella hyvinvoinnilla.",
-        "is": "Tvíblinda tilviljunað prófun (n=132) sem bór saman opioidfríar sályfjaðir (esketamín + dexmedetomídín) og sufentanil eftir kvensjúkdómaeitrun með títlum. Opioidfría hópurinn náði jafngildum verkjastillingu (AUC 175 vs 169, p=0,008) og betri endalausn (QoR-15: 116 vs 108, p<0,001) með betri líkamlegu þægindum og tilfinningalegum ástandi.",
-        "et": "Topeltpimestatud RCT (n=132) võrdles opioidivaba analgeesiat (esketamiin + deksmedetomidiin) sufentaaniga günekoloogilise laparoskoopilise operatsiooni järel. Opioidivaba rühm saavutas mittealamäärase valuleevendamise (AUC 175 vs 169, p=0,008) ja paremad taastumistulemused (QoR-15: 116 vs 108, p<0,001) parema füüsilise mugavuse ja emotsionaalse seisundiga.",
-        "lv": "Dubultslēpts randomizēts kontrolēts pētījums (n=132) salīdzināja opioidbrīvu analgēziju (esketamīns + deksmēdetomidīns) pret sufentaņilu ģinekoloģiskas laparoskopijas operācijas pēc. Opioidbrīvā grupa sasniedza nepieciešamās sāpju mazināšanas (AUC 175 vs 169, p=0,008) un labākus atveseļošanās rezultātus (QoR-15: 116 vs 108, p<0,001) ar labāku fizisko komfortu.",
-        "lt": "Dvigubai aklai atliektas atsitiktinis kontroliuojamas tyrimas (n=132) lyginęs opioidą neturinčią analgesiją (esketaminas + deksmedetomidinas) su sufentaniliu po ginekologinės laparoskopinės operacijos. Opioidą neturinčioj grupėj pasiekta neinferiorinė skausmų kontrolė (AUC 175 vs 169, p=0,008) ir geresnė atsigavimo kokybė (QoR-15: 116 vs 108, p<0,001) su geresniais fizinio komforto ir emocinio būvio rodikliais."
-      },
-      "notable": false,
-      "notable_reasons": null,
-      "relevance_score": 4,
-      "study_type": "rct",
-      "substances": [
-        "ketamine"
       ],
       "added_at": "2026-09-17T11:56:15.164798+00:00"
     }

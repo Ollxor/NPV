@@ -1,6 +1,106 @@
 {
   "items": [
     {
+      "title": "Aspirational Autonomy and Psychedelic-Assisted Therapy in Advanced Cancer: Ethical Lessons from Clinical Cases.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42879734/",
+      "source": "PubMed",
+      "date": "2026-10-15",
+      "authors": [
+        "Davis Keenan Wills",
+        "Bach Michelle C",
+        "Schimmels JoEllen"
+      ],
+      "doi": "10.1093/oncolo/oyag402",
+      "summary_en": "Clinical case study examining psilocybin-assisted therapy (PAT) for advanced cancer patients. Rather than evaluating PAT solely by symptom reduction, the authors propose assessing outcomes through 'aspirational autonomy'—whether it supports patient self-understanding, connection, and acceptance. They argue meaningful consent need not require full foreknowledge of unpredictable experiences. Key ethical challenges identified include expectation management, therapeutic ambiguity, somatic effects, integration time, and family dynamics. The paper offers candidate-selection criteria for oncologists.",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "qualitative",
+      "substances": [
+        "psilocybin"
+      ],
+      "added_at": "2026-10-16T11:42:59.299861+00:00"
+    },
+    {
+      "title": "Ketamine and Esketamine in Acute Suicidal Presentations: Evidence, Limits, and a Conceptual Recovery-Enabling Downstaging Framework.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42877783/",
+      "source": "PubMed",
+      "date": "2026-10-10",
+      "authors": [
+        "Słupska Anita",
+        "Cubała Wiesław Jerzy",
+        "Świeczkowski Damian"
+      ],
+      "doi": "10.2147/NDT.S641718",
+      "summary_en": "Narrative review examining intravenous ketamine and intranasal esketamine for acute suicidal presentations. Racemic ketamine shows randomized evidence for rapid short-term reduction of suicidal ideation in selected populations, though evidence does not establish prevention of suicide attempts or deaths. Esketamine (ASPIRE I/II) accelerated depressive symptom improvement when combined with hospitalization and antidepressants, but suicidality improvements did not consistently differ from placebo plus standard care. Rapid interventions must be integrated within comprehensive emergency suicide-care pathways.",
+      "notable": true,
+      "notable_reason": "Comprehensive review of pivotal ASPIRE I/II trials (esketamine regulatory pathway) and meta-analytic evidence for ketamine in suicidal presentations, published in peer-reviewed literature.",
+      "study_type": "review",
+      "substances": [
+        "ketamine"
+      ],
+      "added_at": "2026-10-16T11:42:59.299861+00:00"
+    },
+    {
+      "title": "Correction: Sustained abstinence in severe ketamine use disorder following ibogaine treatment case report.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42877759/",
+      "source": "PubMed",
+      "date": "2026-09-30",
+      "authors": [
+        "Pérez Rosal Sergio R",
+        "Faber Sonya C",
+        "Backmund Markus"
+      ],
+      "doi": "10.3389/fpsyt.2026.2007932",
+      "summary_en": "Correction notice for a case report examining ibogaine treatment in severe ketamine use disorder. The original article documented sustained abstinence following ibogaine intervention, highlighting a potential therapeutic application of this entheogenic compound in addiction treatment.",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "case_report",
+      "substances": [
+        "ketamine",
+        "ibogaine"
+      ],
+      "added_at": "2026-10-16T11:42:59.299861+00:00"
+    },
+    {
+      "title": "Self-medication of attention-deficit/hyperactivity disorder symptoms with psychoactive substances in adults: a scoping review of how symptom-relief motives are framed and operationalised across substances.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42877221/",
+      "source": "PubMed",
+      "date": "2026-09-30",
+      "authors": [
+        "Adamou Marios",
+        "Petrou Christos"
+      ],
+      "doi": "10.3389/fpsyt.2026.1966206",
+      "summary_en": "Scoping review examining how self-medication of ADHD symptoms with psychoactive substances is framed across tobacco, cannabis, alcohol, cocaine, and non-prescribed stimulants in adults. The review maps literature invoking the self-medication hypothesis—that people with ADHD use substances to relieve core symptoms rather than recreationally—characterizing how different sources frame this concept relative to misuse and addiction vulnerability accounts.",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "review",
+      "substances": [
+        "other"
+      ],
+      "added_at": "2026-10-16T11:42:59.299861+00:00"
+    },
+    {
+      "title": "Use of Electroconvulsive Therapy and Ketamine in a POLG-Related Disorder.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42879681/",
+      "source": "PubMed",
+      "date": "2026-10-13",
+      "authors": [
+        "Hafizi Sina",
+        "Kaushik Vishal",
+        "Ramkissoon Reece"
+      ],
+      "doi": "10.4088/PCC.26cr04238",
+      "summary_en": "Case report examining electroconvulsive therapy and ketamine use in a patient with POLG-related mitochondrial disorder. The study documents clinical outcomes and treatment responses in this rare genetic condition, contributing to evidence on alternative therapeutic approaches for severe neuropsychiatric symptoms in mitochondrial disease.",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "case_report",
+      "substances": [
+        "ketamine"
+      ],
+      "added_at": "2026-10-16T11:42:59.299861+00:00"
+    },
+    {
       "title": "\"Am I a candidate for magic mushrooms?\" A mystery shopper study of Oregon psilocybin service centers.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42871231/",
       "source": "PubMed",

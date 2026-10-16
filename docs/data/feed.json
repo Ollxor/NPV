@@ -1,6 +1,68 @@
 {
-  "generated_at": "2026-10-15T11:51:33.119494+00:00",
+  "generated_at": "2026-10-16T11:44:27.455739+00:00",
   "items": [
+    {
+      "title": "Aspirational Autonomy and Psychedelic-Assisted Therapy in Advanced Cancer: Ethical Lessons from Clinical Cases.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42879734/",
+      "source": "PubMed",
+      "date": "2026-10-15",
+      "authors": [
+        "Davis Keenan Wills",
+        "Bach Michelle C",
+        "Schimmels JoEllen"
+      ],
+      "doi": "10.1093/oncolo/oyag402",
+      "summaries": {
+        "en": "Clinical case study examining psilocybin-assisted therapy (PAT) for advanced cancer patients. Rather than evaluating PAT solely by symptom reduction, the authors propose assessing outcomes through 'aspirational autonomy'—whether it supports patient self-understanding, connection, and acceptance. They argue meaningful consent need not require full foreknowledge of unpredictable experiences. Key ethical challenges identified include expectation management, therapeutic ambiguity, somatic effects, integration time, and family dynamics. The paper offers candidate-selection criteria for oncologists.",
+        "sv": "Fallstudie om pslocybin-assisterad terapi (PAT) för patienter med avancerad cancer. Författarna föreslår att PAT bör utvärderas inte bara genom symtomreducering utan också genom begreppet 'aspirativ autonomi'—huruvida det stöder patienters självförståelse, anslutning och acceptans. Informerat samtycke behöver inte kräva fullständig förkunskap om oförutsägbara upplevelser. Identifierade etiska utmaningar inkluderar förväntningsstyrning, terapeutisk tvetydighet, somatiska effekter, integrationstid och familjdynamik. Artikeln erbjuder urvalskriterier för onkologer.",
+        "no": "Klinisk casestudie av psilocybin-assistert terapi (PAT) for pasienter med avansert kreft. Forfatterne foreslår at PAT evalueres ikke bare gjennom symptomreduksjon, men også gjennom 'aspirerende autonomi'—hvorvidt det støtter pasientenes selvforståelse, tilknytning og akseptans. Informert samtykke trenger ikke fullstendig forkunskap om uforutsigbare opplevelser. Identifiserte etiske utfordringer inkluderer forventningsstyring, terapeutisk tvetydighet, somatiske effekter, integrasjonstid og familiedynamikk. Artikelen gir utvalgskriterier for onkologer.",
+        "da": "Klinisk casestudie af psilocybin-assisteret terapi (PAT) for patienter med avanceret kræft. Forfatterne foreslår, at PAT evalueres ikke blot gennem symptomreduktion, men også gennem begrebet 'aspirativ autonomi'—hvorvidt det støtter patienternes selvforståelse, forbindelse og accept. Informeret samtykke behøver ikke fuld forhåndsviden om uforudsigelige oplevelser. Identificerede etiske udfordringer omfatter forventningsstyring, terapeutisk tvetydighed, somatiske effekter, integrationstid og familiedynamik. Artiklen tilbyder udvælgelseskriterier for onkologer.",
+        "fi": "Kliininen tapaustutkimus psilosybiini-avusteisesta terapiasta (PAT) pitkälle edenneen syövän potilailla. Kirjoittajat ehdottavat, että PAT:ta tulisi arvioida paitsi oireiden vähentymisen myös 'aspiraatiivisen autonomian' kautta—tukeeko se potilaan itsetuntemusta, yhteyttä ja hyväksymistä. Tietoinen suostumus ei vaadi täydellistä ennakkotietoa arvaamattomista kokemuksista. Tunnistetut eettiset haasteet sisältävät odotuksien hallintaa, terapeuttista epäselvyyttä, somatisia vaikutuksia, integraatioaikaa ja perheen dynamiikkaa. Artikkelissa esitetään valintakriteerit onkologeille.",
+        "is": "Klínísk tilfellarannsókn á psýlosýbín-aðstoðuðri meðferð (PAT) fyrir sjúklinga með háþróaðan krabbamein. Höfundar benda á að PAT ætti ekki að meta eingöngu með minnkun einkenna heldur einnig með hugmyndinni um 'áspirasíóna sjálfstæði'—hvort hún styðji skilning, tengsl og samþykki sjúklings. Upplýst samþykki þarf ekki fullkomna fyrirfram þekkingu á ófyrirsjáanlegum reynslu. Auðkenndar siðferðilegar áskoranir fela í sér væntingastjórnun, þerapeutíska tvíræðni, somatísk áhrif, samofnunartíma og fjölskyldudynamík. Greinin gefur viðmiðun fyrir val sjúklinga fyrir krabbameinslækna.",
+        "et": "Kliiniline juhtumiuuringu psülotsübiin-toega ravi (PAT) kohta edasijõudnud vähiga patsientide jaoks. Autorid soovitavad PAT-t hinnata mitte ainult sümptomite vähenemise, vaid ka 'aspiraatsioonilise autonoomia' kaudu—kas see toetab patsiendi enesekohasust, ühendust ja aktsepteerimist. Teadlik nõusolek ei nõua täielikku ette ette teadmisi ettearvamatust kogemusest. Tuvastatud eetilised väljakutsed hõlmavad ootuste juhtimist, terapeeutilist mitmetimõistetavust, somatilist mõju, integreerimisaega ja perekonna dünaamikat. Artikkel pakub onkologidele valiku kriteeriumeid.",
+        "lv": "Klīnisks gadījuma pētījums par psīlocibīna-palīdzu terapiju (PAT) pacientiem ar progresējošu vēzi. Autori ierosina novērtēt PAT ne tikai pēc simptomatterapijas, bet arī caur 'aspiriešanās autonomijas' koncepciju—vai tā atbalsta pacienta pašizpratni, savienojumu un pieņemšanu. Apzinātai piekrišanai nav jāprasa pilna iepriekšēja zināšana par neparedzamām pieredzēm. Identificēti ētiskie izaicinājumi ietver cerību pārvaldību, terapeitisko neskaidrību, somatiskus efektus, integrācijas laiku un ģimenes dinamiku. Rakstā piedāvāti atlases kritēriji onkologiem.",
+        "lt": "Klinikinė atvejo analizė apie psilocibino pagalbą gaunama terapija (PAT) pažengusios vėžio ligoniams. Autoriai siūlo vertinti PAT ne tik pagal simptomų sumažėjimą, bet ir per 'aspiracinio savivaldos' koncepciją—ar ji palaikytų ligonio savęs supratimą, ryšį ir priėmimą. Informuotas sutikimas nereikalauja pilnos išankstinės žinios apie nenuspėjamas patirtis. Nustatyti etiniai iššūkiai apima lūkesčių valdymą, terapinį dviprasmybę, somatinius efektus, integracijos laiką ir šeimos dinamiką. Straipsnyje pasiūlyti pacientų atranko kriterijai onkologams."
+      },
+      "notable": false,
+      "notable_reasons": null,
+      "relevance_score": 4,
+      "study_type": "qualitative",
+      "substances": [
+        "psilocybin"
+      ],
+      "added_at": "2026-10-16T11:42:59.299861+00:00"
+    },
+    {
+      "title": "Use of Electroconvulsive Therapy and Ketamine in a POLG-Related Disorder.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42879681/",
+      "source": "PubMed",
+      "date": "2026-10-13",
+      "authors": [
+        "Hafizi Sina",
+        "Kaushik Vishal",
+        "Ramkissoon Reece"
+      ],
+      "doi": "10.4088/PCC.26cr04238",
+      "summaries": {
+        "en": "Case report examining electroconvulsive therapy and ketamine use in a patient with POLG-related mitochondrial disorder. The study documents clinical outcomes and treatment responses in this rare genetic condition, contributing to evidence on alternative therapeutic approaches for severe neuropsychiatric symptoms in mitochondrial disease.",
+        "sv": "Fallrapport som undersöker elektrokrampbehandling och ketamin hos patient med POLG-relaterad mitokondriell sjukdom. Studien dokumenterar kliniska utfall och behandlingsrespons vid detta sällsynta genetiska tillstånd och bidrar till kunskapen om alternativa terapeutiska metoder för allvarliga neuropsykiatriska symtom.",
+        "no": "Caserapport som undersøker elektrokonvulsiv terapi og ketamin hos pasient med POLG-relatert mitokondriell sykdom. Studien dokumenterer kliniske resultater og behandlingsrespons ved denne sjeldne genetiske tilstanden og bidrar til evidens om alternative terapeutiske tilnærminger.",
+        "da": "Caserapport der undersøger elektrokonvulsiv terapi og ketamin hos patient med POLG-relateret mitokondriell sygdom. Studien dokumenterer kliniske resultater og behandlingsrespons ved denne sjældne genetiske tilstand og bidrager til evidens for alternative terapeutiske tilgange.",
+        "fi": "Tapausraportti elektrokonvulsiiviterapiasta ja ketamiinista POLG-suhteisessa mitokondriosairaudessa. Tutkimus dokumentoi kliinisiä tuloksia ja hoitovasteita tässä harvinaisessa perimällisessä tilassa ja lisää tietoa vaihtoehtoisista terapeuttisista lähestymistavoista.",
+        "is": "Tilfellsskýrsla um rafhlýðunameðferð og ketamín hjá sjúklingi með POLG-tengda mitkóndríusjúkdóm. Rannsóknin skjalfestir klíníska niðurstöðu og meðferðarsvörun við þessum sjaldgæfa erfðasjúkdómi og stuðlar að vitni um aðra meðferðaraðferð.",
+        "et": "Juhtumiaruanne elektrokonvulsiivteraapias ja ketamiinis POLG-seotud mitokondriaalse haigusega patsientil. Uuringus dokumenteeritakse kliinilisi tulemusi ja ravi vastust selle harva geneetilise seisundiga ning aidatakse välja tuua alternatiivset teraapilist lähenemist.",
+        "lv": "Gadījuma ziņojums par elektrokonvulsīvo terapiju un ketamīnu pacientam ar POLG-saistītu mitohrondriālo slimību. Pētījumā dokumentēti kliniskie rezultāti un ārstēšanas atbilde šajā retajā ģenētiskajā stāvoklī, sniegdams pierādījumus par alternatīvām terapeitiskām pieejām.",
+        "lt": "Klinikinis atvejis, tiriantis elektrokrampinę terapiją ir ketaminą pacientui su POLG-susijusia mitochondrine liga. Tyrime dokumentuojami klinikiniai rezultatai ir gydymo atsakas šioje retoje genetinėje ligoje, įnešant indėlį į žinias apie alternatyvius terapinius metodus."
+      },
+      "notable": false,
+      "notable_reasons": null,
+      "relevance_score": 2,
+      "study_type": "case_report",
+      "substances": [
+        "ketamine"
+      ],
+      "added_at": "2026-10-16T11:42:59.299861+00:00"
+    },
     {
       "title": "Antidepressants and Cognitive Function in Major Depressive Disorder: Mechanisms, Clinical Evidence, and Implications for Precision Treatment.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42869167/",
@@ -217,6 +279,47 @@
         "mdma"
       ],
       "added_at": "2026-10-12T15:50:25.977684+00:00"
+    },
+    {
+      "title": "Ketamine and Esketamine in Acute Suicidal Presentations: Evidence, Limits, and a Conceptual Recovery-Enabling Downstaging Framework.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42877783/",
+      "source": "PubMed",
+      "date": "2026-10-10",
+      "authors": [
+        "Słupska Anita",
+        "Cubała Wiesław Jerzy",
+        "Świeczkowski Damian"
+      ],
+      "doi": "10.2147/NDT.S641718",
+      "summaries": {
+        "en": "Narrative review examining intravenous ketamine and intranasal esketamine for acute suicidal presentations. Racemic ketamine shows randomized evidence for rapid short-term reduction of suicidal ideation in selected populations, though evidence does not establish prevention of suicide attempts or deaths. Esketamine (ASPIRE I/II) accelerated depressive symptom improvement when combined with hospitalization and antidepressants, but suicidality improvements did not consistently differ from placebo plus standard care. Rapid interventions must be integrated within comprehensive emergency suicide-care pathways.",
+        "sv": "Narrativ systematisk översikt av intravenös ketamin och intranasal esketamin vid akuta suicidala presentationer. Racemisk ketamin har randomiserad evidens för snabb kortvarig minskning av suicidtankar hos utvalda populationer, men evidensen etablerar inte förebyggande av suicidförsök eller dödsfall. Esketamin (ASPIRE I/II) accelererade förbättring av depressiva symptom tillsammans med sjukhusvård och antidepressiva, men förbättring av suicidalitet skiljde sig inte konsekvent från placebo plus standardvård. Snabba interventioner måste integreras i omfattande nödvårdsvägar.",
+        "no": "Narrativ oversikt av intravenøs ketamin og intranasal esketamin ved akutte suicidale presentasjoner. Rasemisk ketamin har randomisert evidens for rask korttidsreduksjon av suicidtanker hos utvalgte populasjoner, men evidensen etablerer ikke forebygging av suicidatferd eller dødsfall. Esketamin (ASPIRE I/II) akselererte forbedring av depressive symptomer sammen med sykehusinnleggelse og antidepressiva, men forbedring av suicidalitet skilte seg ikke konsekvent fra placebo plus standardbehandling. Raske intervensjoner må integreres i omfattende akutt suicidomsorg.",
+        "da": "Narrativ oversigt over intravenøs ketamin og intranasal esketamin ved akutte suicidale præsentationer. Racemisk ketamin har randomiseret evidens for hurtig korttidsreduktion af suicidaltanker hos udvalgte populationer, men evidensen etablerer ikke forebyggelse af suicidatforsøg eller dødsfald. Esketamin (ASPIRE I/II) accelererede forbedring af depressive symptomer kombineret med hospitalisering og antidepressiva, men forbedring af suicidalitet sonderede sig ikke konsekvent fra placebo plus standardbehandling. Hurtige interventioner må integreres i omfattende akut suicidbehandlingsveje.",
+        "fi": "Narratiivinen katsaus intravenööseen ketamiiniin ja intranaasaaliseen esketamiiniin akuuteissa itsemurhapresentaatioissa. Raseemisella ketamiinilla on satunnaistettu näyttö itsemurhapenseiden nopeasta lyhytaikaisesta vähentämisestä valituissa väestöissä, mutta näyttö ei vahvista itsemurhayrityksen tai kuoleman ehkäisemistä. Esketamiini (ASPIRE I/II) kiihdytti masennusoireiden paranemista yhdessä sairaalahoitoon ja masennuslääkkeisiin, mutta itsemurhaisuuden paraneminen ei johdonmukaisesti eroa lumelääkkeestä plus vakiohoito. Nopeat interventiot on integroitava kattaviksi hätäpsykiatrisiksi hoitopoluiksi.",
+        "is": "Yfirlitskyn á intravenaskri ketamíni og innhiflandi esketamíni við bráð sjálfsmorðsviðleitni. Racemísk ketamín hefur slembun sönnunargögn um hraða skammtíma minnkun sjálfsmorðshugsana hjá völdum hópum, en sönnunargögn staðfesta ekki fyrirbyggingu sjálfsmorðstilrauna eða dauða. Esketamín (ASPIRE I/II) flýtti fyrir bættingu á þungalynd einkennum ásamt innlögn og andþunglyndislyfum, en bætting á sjálfsmorðshættu var ekki í samræmi við lyfleysu auk staðlaðrar umönnunar. Flótt inngrip verða að vera samþætt umfangsmiklum neyðarhjálparleiðum.",
+        "et": "Narratiivne ülevaade intravenöösest ketamiiinst ja intranaasaalsest esketamiiinist ägeda enesetapu esitlemisega juhtumites. Raseemselt ketamiinil on randomiseeritud tõendid enesetapuideede kiireks lühiajaliseks vähendamiseks valitud populatsioonides, kuid tõendid ei kinnita enesetapukatset ega surmu ennetamist. Esketamiin (ASPIRE I/II) kiirendas depressiooni sümptomite paranemist koos hospitaliseerimise ja antidepressantidega, kuid enesetapusuuna paranemine ei eristunud järjepidevalt platseebost pluss standardne ravi. Kiired sekkumised tuleb integreerida ulatuslike ägeda enesetapu hoolduse teekondadesse.",
+        "lv": "Naratīvs pārskats par intravenozi ketamīnu un intranaziālu esketamīnu akūtas pašnāvniecības izpausmju gadījumā. Racemiskajai ketamīnai ir randomizēti pierādījumi par ātru īstermiņa pašnāvniecības ideju samazināšanu atlasītās populācijās, bet pierādījumi nenosaka pašnāvniecības mēģinājumu vai nāves profilaksi. Esketamīns (ASPIRE I/II) paātrināja depresijas simptomu uzlabošanos kopā ar hospitalizāciju un antidepresantiem, bet pašnāvniecības uzlabošanās konsekventi neatšķīrās no placebo plus standarta aprūpes. Ātras intervences ir jāintegrē visaptverošos neatliekamās pašnāvniecības aprūpes ceļos.",
+        "lt": "Naratyvūs apžvalga apie intraveninio ketamino ir intranazinio esketamino naudojimą ūmioje savižudybės rizikoje. Raceminiam ketaminui yra randomizuoti įrodymai, kad jis greitai trumpoje perspektyvoje sumažina savižudybės mintis atrinktose populiacijose, tačiau įrodymai nepatvirtina savižudybės bandymų ar mirčių prevencijos. Esketaminas (ASPIRE I/II) pagreitino depresijos simptomų gerinimą kartu su hospitalizacija ir antidepresantais, tačiau savižudybės gerinimas nuosekliai nesiskyrė nuo placebo ir standartinės priežiūros. Greiti įsipareigojimai turi būti integruoti į visumines ūmios savižudybės priežiūros kelias."
+      },
+      "notable": true,
+      "notable_reasons": {
+        "en": "Comprehensive review of pivotal ASPIRE I/II trials (esketamine regulatory pathway) and meta-analytic evidence for ketamine in suicidal presentations, published in peer-reviewed literature.",
+        "sv": "Omfattande granskning av pivotala ASPIRE I/II-studier (esketamins regulatoriska väg) och metaanalytiska bevis för ketamin vid suicidala presentationer, publicerad i peer-reviewed-litteratur.",
+        "no": "Omfattende gjennomgang av sentrale ASPIRE I/II-studier (esketamins regulatoriske vei) og metaanalytiske bevis for ketamin ved suisidale presentasjoner, publisert i fagfellevurdert litteratur.",
+        "da": "Omfattende gennemgang af centrale ASPIRE I/II-studier (esketamins regulatoriske vej) og metaanalytisk evidens for ketamin ved selvmordstruede præsentationer, udgivet i fagfællebedømt litteratur.",
+        "fi": "Kattava katsaus keskeisiin ASPIRE I/II-tutkimuksiin (esketamiinin sääntelyllinen polku) ja metaanalyyttisiin todisteisiin ketamiinista itsemurhaa käyttäytymisen esityksissä, julkaistu vertaisarvioitussa kirjallisuudessa.",
+        "is": "Yfirlit yfir lykilrannsóknir ASPIRE I/II (eftirlitsleið esketamíns) og meta-greiningarheimildir fyrir ketamín við sjálfsmorðsáhættu, birt í fagflokkuðum ritum.",
+        "et": "Ülevaade peamiste ASPIRE I/II uuringute (esketamiini regulatoorset teed) ja ketamiini metaanalüütilisest tõendusest enesetapuohu esitustes, avaldatud kolleegide poolt läbivaadatud kirjanduses.",
+        "lv": "Visaptverošs ASPIRE I/II galveno pētījumu (esketamīna normatīvā joma) un ketamīna metaanalītisko pierādījumu pārskats pašnāvnieciskas uzvedības gadījumiem, publicēts kolēģu recenzētā literatūrā.",
+        "lt": "Išsamūs ASPIRE I/II pagrindinių bandymų (esketamino reguliavimo kelias) ir ketamino metaanalitinių įrodymų savižudybės rizikos atvejais apžvalga, paskelbtą recenzuotoje literatūroje."
+      },
+      "relevance_score": 4,
+      "study_type": "review",
+      "substances": [
+        "ketamine"
+      ],
+      "added_at": "2026-10-16T11:42:59.299861+00:00"
     },
     {
       "title": "[Connectome and Depression: Towards Precision Psychiatry Based on Brain Networks].",
@@ -842,6 +945,68 @@
         "mdma"
       ],
       "added_at": "2026-07-09T10:03:12.956794+00:00"
+    },
+    {
+      "title": "Correction: Sustained abstinence in severe ketamine use disorder following ibogaine treatment case report.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42877759/",
+      "source": "PubMed",
+      "date": "2026-09-30",
+      "authors": [
+        "Pérez Rosal Sergio R",
+        "Faber Sonya C",
+        "Backmund Markus"
+      ],
+      "doi": "10.3389/fpsyt.2026.2007932",
+      "summaries": {
+        "en": "Correction notice for a case report examining ibogaine treatment in severe ketamine use disorder. The original article documented sustained abstinence following ibogaine intervention, highlighting a potential therapeutic application of this entheogenic compound in addiction treatment.",
+        "sv": "Rättelse till en fallrapport som undersökte ibogain-behandling vid svår ketaminberoende. Den ursprungliga artikeln dokumenterade bibehållen abstinens efter ibogain-intervention, vilket belyser potentiella terapeutiska tillämpningar av denna naturliga psykedelika vid missbruksbehandling.",
+        "no": "Rettelse til en caserapport som undersøkte ibogain-behandling ved alvorlig ketaminavhengighet. Originalartikkelen dokumenterte vedvarende abstinens etter ibogain-intervensjon, noe som fremhever potensiell terapeutisk bruk av denne entheogenen i behandling av avhengighet.",
+        "da": "Rettelse til en caseberetning, der ibogain-behandling ved alvorlig ketaminafhængighed blev undersøgt. Originalartiklen dokumenterede vedvarende abstinens efter ibogain-intervention og fremhæver det terapeutiske potentiale ved denne psykedalika i behandlingen af misbrug.",
+        "fi": "Korjaus tapausraporttiin, joka tutki ibogaiini-hoitoa vakavassa ketamiiniriippuvuudessa. Alkuperäinen artikkeli dokumentoi jatkuvaa abstinenssia ibogaiini-intervention jälkeen, mikä korostaa tämän psykedeelisen yhdisteen mahdollisia terapeuttisia soveltamisia riippuvuuden hoidossa.",
+        "is": "Leiðrétting á tilfellaskýrslu um ibogaín-meðferð við alvarlegri ketamínfíkn. Upprunalega greinin skjalfesti viðvarandi sóhleysu eftir ibogaín-inngrip og leggur áherslu á hugsanleg jákvæð áhrif þessa geðrofa efnis í meðferð á fíknum.",
+        "et": "Parandus artiklist, mis uuris ibogaiini kasutamist raskete ketamiinitarvituse puhul. Algne artikkel dokumenteeris püsivat abstinentsi pärast ibogaiini sekkumist, rõhutades selle psühhedeelikumi võimalikku teraapilist rakendamist sõltuvuse ravis.",
+        "lv": "Labojums pētījumam par ibogaīna ārstēšanu smagai ketamīna lietošanas traucējumiem. Sākotnējais raksts dokumentēja pastāvīgu atturību pēc ibogaīna iejaukšanās, uzsverot šīs psihedelikas iespējamo terapeitisko pielietojumu atkarības ārstēšanā.",
+        "lt": "Pataisymas straipsnio, kuriame tirtas ibogaino gydymas esant sunkiai ketamino vartojimo sutrikdymui. Originalus straipsnis dokumentavo nuolatinę susilaikymą po ibogaino intervencijos, paryškinant šio psichedeliko potencialią terapinę naudą priklausomybės gydymui."
+      },
+      "notable": false,
+      "notable_reasons": null,
+      "relevance_score": 3,
+      "study_type": "case_report",
+      "substances": [
+        "ketamine",
+        "ibogaine"
+      ],
+      "added_at": "2026-10-16T11:42:59.299861+00:00"
+    },
+    {
+      "title": "Self-medication of attention-deficit/hyperactivity disorder symptoms with psychoactive substances in adults: a scoping review of how symptom-relief motives are framed and operationalised across substances.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42877221/",
+      "source": "PubMed",
+      "date": "2026-09-30",
+      "authors": [
+        "Adamou Marios",
+        "Petrou Christos"
+      ],
+      "doi": "10.3389/fpsyt.2026.1966206",
+      "summaries": {
+        "en": "Scoping review examining how self-medication of ADHD symptoms with psychoactive substances is framed across tobacco, cannabis, alcohol, cocaine, and non-prescribed stimulants in adults. The review maps literature invoking the self-medication hypothesis—that people with ADHD use substances to relieve core symptoms rather than recreationally—characterizing how different sources frame this concept relative to misuse and addiction vulnerability accounts.",
+        "sv": "Översiktsöversikt som undersöker hur självmedicinering av ADHD-symtom med psykoaktiva substanser formuleras för tobak, cannabis, alkohol, kokain och receptfria stimulantia hos vuxna. Granskningen kartlägger litteratur som åberopar självmedicineringshypotesen—att personer med ADHD använder substanser för att lindra kärnasymtom snarare än rekreativt—och karakteriserar hur olika källor formulerar detta koncept i relation till missbruk och delad beroendebenägenhet.",
+        "no": "Scoping review som undersøker hvordan selvmedisinering av ADHD-symptomer med psykoaktive stoffer blir fremstilt på tvers av tobakk, cannabis, alkohol, kokain og reseptfrie stimulansia hos voksne. Gjennomgangen kartlegger litteratur som påberoper selvmedisinerings-hypotesen—at mennesker med ADHD bruker stoffer for å lindre kjernestomptomer snarere enn rekreativt—og karakteriserer hvordan ulike kilder framstiller dette konseptet relativt til misbruk og delt avhengighetstendens.",
+        "da": "Scoping review, der undersøges hvordan selvmedicinering af ADHD-symptomer med psykoaktive stoffer præsenteres på tværs af tobak, cannabis, alkohol, kokain og receptpligtig stimulansia hos voksne. Oversigten kortlægger litteratur, der påberåber selvmedicineringstesen—at personer med ADHD bruger stoffer for at lindre kernesymptomer snarere end rekreativt—og karakteriserer hvordan forskellige kilder præsenterer dette koncept i forhold til misbrug og delt afhængighedstilbøjelighed.",
+        "fi": "Katsaus, jossa tutkitaan, kuinka ADHD-oireiden itselääkitys psykoaktiivisilla aineilla esitetään tupakan, kannabiksen, alkoholin, kokaiinin ja reseptivapaan stimulanttien osalta aikuisilla. Katsaus kartoittaa kirjallisuutta, joka vedotaan itselääkityshypoteesiin—että ADHD:n omaavat henkilöt käyttävät aineita ydinympäristöjen lievittämiseen pikemmin kuin vapaa-ajan käyttöön—ja luonnehtii, kuinka eri lähteet esittävät tämän käsitteen väärinkäyttö- ja jaetun riippuvuusalttiuden suhteen.",
+        "is": "Umfangsmatskoðun sem skoðar hvernig sjálflækningarhefð fyrir einkenni ADHD með sálkrafa efnum er sett fram á milli tóbaks, kannabís, áfengis, kokains og óávísaðra stimulanda hjá fullorðnum. Endurskođunin kortleggur bókmenntir sem vitna til sjálflækningarhypótesunnar—að fólk með ADHD notar efni til að draga úr kjarnaeinkenndum frekar en til afþreyingar—og einkennir hvernig mismunandi heimildir setja þetta hugtak fram miðað við misnotkun og sameiginlega fíkniefnaviðkvæmni.",
+        "et": "Ülevaade, mis uurib, kuidas ADHD sümptomite omamajandamist psühhotiivse ainetega esitatakse tubaka, kannabise, alkoholi, kokaiini ja retseptivaba stimulatsi osas täiskasvanutel. Ülevaade kaardistab kirjandust, mis tuginevad omamajandamise hüpoteesile—et ADHD-ga inimesed kasutavad aineid peamiste sümptomite leevendamiseks pigem kui vaba aja jooksul—ja iseloomustab, kuidas erinevad allikad esitavad seda kontseptsiooni kuritarvitamise ja jagatud sõltuvusastme suhtes.",
+        "lv": "Apjoma pārskats, kas pēta, kā ADHD simptomu pašārstēšana ar psihoaktīvām vielām tiek uzrādīta dūmakošanas, kannabisa, alkohola, kokaīna un bez receptes pieejamiem stimulatoriem pieaugušo vidū. Pārskats kartē literatūru, kas atsaucas uz pašārstēšanas hipotēzi—ka cilvēki ar ADHD lieto vielas, lai mazinātu pamatnes simptomus, nevis brīvā laika nolūkos—un raksturo, kā dažādi avoti attēlo šo jēdzienu attiecībā pret ļaunprātīgu lietošanu un kopīgu atkarības vainagojumu.",
+        "lt": "Apžvalgos studija, kurioje tiriama, kaip ADHD simptomų savarankiška gydymas psichoaktyviosiomis medžiagomis pateikiamas dėl tabako, konopelių, alkoholio, kokaino ir be recepto gautų stimulantų suaugusiųjų tarpe. Apžvalga sudarė žemėlapį literatūros, nurodančios į savarankiško gydymo hipotezę—kad ADHD turintys žmonės naudoja medžiagas pagrindiniams simptomams palengvinti, o ne laisvalaikiu—ir apibūdina, kaip skirtiniai šaltiniai pateikia šią sąvoką dėl piktnaudžiavimo ir bendro priklausomybės polinkio."
+      },
+      "notable": false,
+      "notable_reasons": null,
+      "relevance_score": 3,
+      "study_type": "review",
+      "substances": [
+        "other"
+      ],
+      "added_at": "2026-10-16T11:42:59.299861+00:00"
     },
     {
       "title": "Worsening of Depression and Anxiety With Psilocybin: A Case Report in Cyclothymia.",
@@ -1880,167 +2045,6 @@
         "ibogaine"
       ],
       "added_at": "2026-09-18T11:33:47.001208+00:00"
-    },
-    {
-      "title": "Esketamine for treatment of depression in Huntington's disease: A case report.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42752279/",
-      "source": "PubMed",
-      "date": "2026-09-17",
-      "authors": [
-        "Saft Carsten",
-        "Jessen Julia",
-        "Kiefner David"
-      ],
-      "doi": "10.1177/18796397261489245",
-      "summaries": {
-        "en": "Case report of a 60-year-old male with Huntington's disease treated with nasal esketamine for treatment-resistant depression and suicidal ideation lasting 20 years. Beck Depression Inventory score improved from 29 to 5 within three days, though symptoms partially returned at three-month follow-up (BDI: 20). First reported esketamine use in HD, suggesting potential for treating resistant psychiatric symptoms.",
-        "sv": "Fallrapport om en 60-årig man med Huntingtons sjukdom behandlad med näsespray esketamin för behandlingsresistent depression och suicidale tankar under 20 år. Beck Depression Inventory-poäng förbättrades från 29 till 5 inom tre dagar, men symptomen återkom delvis vid tremånaders uppföljning (BDI: 20). Första rapporterade esketaminanvändningen vid HD, vilket tyder på potential för behandling av resistenta psykiatriska symptom.",
-        "no": "Pasientrapport om en 60-årig mann med Huntingtons sykdom behandlet med neseSpray esketamin for behandlingsresistent depresjon og suisidale tanker i 20 år. Beck Depression Inventory-poeng forbedret seg fra 29 til 5 innen tre dager, men symptomene returnerte delvis ved tre måneder oppfølging (BDI: 20). Første rapporterte esketaminbruk ved HD, noe som antyder potensial for behandling av resistente psykiatriske symptomer.",
-        "da": "Patientrapport om en 60-årig mand med Huntingtons sygdom behandlet med næsespray esketamin for behandlingsresistent depression og selvmordstanker gennem 20 år. Beck Depression Inventory-score forbedret sig fra 29 til 5 inden for tre dage, men symptomerne vendte delvis tilbage ved tre måneders opfølgning (BDI: 20). Første rapporterede esketaminbrug ved HD, hvilket tyder på potentiale for behandling af resistente psykiatriske symptomer.",
-        "fi": "Tapausraportti 60-vuotiaasta miehestä, jolla oli Huntingtonin tauti ja jota hoidettiin nenäsuihkulla annetulla esketamiinilla hoitoon vastustuskykoiseen masennukseen ja itsemurhaajatusten kanssa 20 vuoden ajan. Beck Depression Inventory -pisteet paranivat 29:stä 5:een kolmen päivän sisällä, mutta oireet palasivat osittain kolmen kuukauden seurannassa (BDI: 20). Ensimmäinen raportoitu esketamiinin käyttö HD-potilaalla, mikä viittaa potentiaaliin hoitaa resistenttejä psyykkisiä oireita.",
-        "is": "Tilfelliskýrsla um 60 ára gömul með Huntington-sjúkdómi sem meðhöndluð var með nasal esketamíni fyrir meðferðarþolin þunglyndi og sjálfsmorðshugleiðingar í 20 ár. Beck Depression Inventory stig batnaði úr 29 í 5 innan þriggja daga, en einkennin komu að hluta til aftur við þriggja mánaða endurskoðun (BDI: 20). Fyrsti skráði notkun esketamíns við Huntington, sem bendir til möguleika á meðhöndlun treggra geðrænna einkennis.",
-        "et": "Juhtumiaruanne 60-aastasest mehest Huntingtoni taudiga, keda raviti nenasprei esketamiiniga ravile vastupanuvõimeliseks depressiooniks ja enesetapumõteteks 20 aasta jooksul. Beck Depression Inventory skoor paranes 29-lt 5-le kolme päeva jooksul, kuid sümptomid taastusid osaliselt kolme kuu jälgimises (BDI: 20). Esimene teatatud esketamiini kasutus Huntingtoni taudis, mis viitab potentsiaalile ravi-vastupanuvõimeliste psühhiaatriliste sümptomite ravimiseks.",
-        "lv": "Klīniska gadījuma pārskats par 60 gadus vecu vīrieti ar Huntingtona slimību, kas tika ārstēts ar nazālu esketamīnu pret ārstēšanai rezistentām depresiju un pašnāvniecīgām domām 20 gadu laikā. Beka depresijas inventāra rādītājs uzlabojās no 29 uz 5 trīs dienu laikā, taču simptomi daļēji atgriezās trīs mēnešu kontroles laikā (BDI: 20). Pirmais ziņotais esketamīna lietojums Huntingtona slimības gadījumā, kas liecina par potenciālu ārstēt rezistentus psihiski traucējumus.",
-        "lt": "Klinikinė ataskaitа apie 60 metų amžiaus vyrą su Huntingtono liga, kuris buvo gydomas nazaliniais psichedelikais (esketaminu) dėl terapijai atsparaus depresijo ir savižudybės minčių, trukusių 20 metų. Beko depresijos inventoriaus balas pagerintas nuo 29 iki 5 per tris dienas, tačiau simptomų dalinė pasikartojimas pastebėtas per trijų mėnesių stebėjimą (BDI: 20). Pirmasis praneštas esketamino naudojimas Huntingtono ligoje, siūlantis potencialą psichiatrinių simptomų, atspariųjų gydymui, gydyti."
-      },
-      "notable": false,
-      "notable_reasons": null,
-      "relevance_score": 2,
-      "study_type": "case_report",
-      "substances": [
-        "ketamine"
-      ],
-      "added_at": "2026-09-18T11:33:47.001208+00:00"
-    },
-    {
-      "title": "Level of preparedness to use psilocybin among individuals seeking psychedelic risk reduction: a retrospective study of a pilot psychiatric consultation service.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42818591/",
-      "source": "PubMed",
-      "date": "2026-09-16",
-      "authors": [
-        "Harrison Harland V",
-        "Gaillard Mizan",
-        "Cook Ryan R"
-      ],
-      "doi": "10.3389/fpubh.2026.1921031",
-      "summaries": {
-        "en": "Retrospective chart review of 197 patients at an Oregon psilocybin consultation service (Nov 2023–Sep 2025). Using the Psychedelic Preparedness Scale, researchers assessed clinical characteristics, use motivations, and preparedness levels. Patients showed high trauma prevalence and prior psilocybin experience. Findings suggest healthcare systems can support evidence-based education and risk reduction as psychedelic interest grows.",
-        "sv": "Retrospektiv journalgranskning av 197 patienter vid en Oregon-baserad psilo­cybin­konsultationstjänst (nov 2023–sep 2025). Med Psychedelic Preparedness Scale mättes kliniska karakteristika, användningsmotiv och beredskapsni­våer. Patienterna visade högt förekomst av trauma och tidigare psilociybnanvändning. Resultaten tyder på att sjukvården kan stödja evidensbaserad utbildning och skaderiskminimering.",
-        "no": "Retrospektiv journalgjennomgang av 197 pasientar ved ein Oregon-basert psilo­sybin­konsulasjons­teneste (nov 2023–sep 2025). Med Psychedelic Preparedness Scale blei kliniske karakteristika, bruks­motivasjon og beredskaps­nivå målt. Pasientane viste høg førekomst av traume og tidlegare psilosy­bin­bruk. Funna tyder på at helse­systemet kan støtta evidens­basert utdanning og skade­reduksjon.",
-        "da": "Retrospektiv journalgennemgang af 197 patienter ved en Oregon-baseret psilo­cybin­konsultations­tjeneste (nov 2023–sep 2025). Med Psychedelic Preparedness Scale blev kliniske karakteristika, brugs­motivationer og beredskabs­niveauer målt. Patienterne viste høj forekomst af traume og tidligere psilocybin­forbrug. Resultater tyder på, at sundhedssystemet kan understøtte evidensbaseret undervisning og skadereduktion.",
-        "fi": "Retrospektiivinen potilasasiakirjojen tarkastelu 197 potilasta Oregonin psilosybiini­konsultaatio­palvelussa (marras 2023–syys 2025). Psychedelic Preparedness Scale -mittarilla mitattiin kliinisiä piirteitä, käyttöön liittyviä motivaatioita ja valmiuden tasoja. Potilaat osoittivat korkeaa traumaesiintyvyyttä ja aikaisempaa psilosyiininkäyttöä. Tulokset viittaavat, että terveydenhuoltojärjestelmä voi tukea näyttöön perustuvaa koulutusta ja haitan vähentämistä.",
-        "is": "Afturlituð endurskoðun sjúkraskráa 197 sjúklinga við psíló­sýbín­ráðgjafar­þjónustu í Oregon (nóv 2023–sept 2025). Með Psychedelic Preparedness Scale var mælt klínískar einkenni, hvatir fyrir notkun og undirbúnings­stig. Sjúklingar sýndu mikla tíðni sálræns áfalls og fyrri notkun psíló­sýbíns. Niðurstöður benda til að heilbrigðis­kerfi geti stutt sönnunar­miðaða menntun og tjóna­minni­kun.",
-        "et": "Retrospektiivne haiguste­dokumentide ülevaatus 197 patsiendist Oregon psilo­tsübiini­konsultatsiooni­teenustes (nov 2023–sept 2025). Psychedelic Preparedness Scale'i abil mõõdeti kliinilisi tunnuseid, kasutamise motivatsioone ja valmiduse tasemeid. Patsiendid näitasid kõrget traumade esinemissagedust ja eelmist psilo­tsübiini­kasutust. Tulemused näitavad, et tervishoiusüsteem võib toetada tõendus­põhist haridust ja kahju­vähendamist.",
-        "lv": "Retrospektīvs pacientu medicīnisko dokumentu pārskats 197 pacientiem Oregonas psilotsibīna konsultāciju pakalpojumā (nov 2023–sept 2025). Izmantojot Psychedelic Preparedness Scale, tika mērītas klīniskās pazīmes, lietošanas motīvi un gatavības līmeņi. Pacienti uzrādīja augstu traumatisku pieredžu un iepriekšējas psilotsibīna lietošanas izplatību. Rezultāti norāda, ka veselības aprūpes sistēma var atbalstīt pierādījumiem pamatotu izglītību un kaitējuma mazināšanu.",
-        "lt": "Retrospektyvi pacientų medicininių dokumentų peržiūra 197 pacientams Oregono psilo­cibino konsultacijos paslaugoje (2023 lapkr.–2025 rugs.). Naudojant Psychedelic Preparedness Scale, buvo išmatuoti klininiai požymiai, vartojimo motyvai ir parengties lygiai. Pacientai parodė didelę traumų dažnį ir ankstesnį psilocibino vartojimą. Rezultatai rodo, kad sveikatą sauganti sistema gali remti pagrįstas mokslu švietimą ir žalą mažinančias priemones."
-      },
-      "notable": false,
-      "notable_reasons": null,
-      "relevance_score": 4,
-      "study_type": "observational",
-      "substances": [
-        "psilocybin"
-      ],
-      "added_at": "2026-10-02T12:56:58.011393+00:00"
-    },
-    {
-      "title": "[Intravenous ketamine in suicidal crisis : indications and patient referral].",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42750580/",
-      "source": "PubMed",
-      "date": "2026-Sep-16",
-      "authors": [
-        "Nasserdine Rayan",
-        "Xhymshiti Laura",
-        "Paporé Anne-Charlotte"
-      ],
-      "doi": "10.53738/REVMED.2026.22.975.49121",
-      "summaries": {
-        "en": "IV ketamine offers rapid relief for treatment-resistant depression and acute suicidal crisis, with effects emerging within hours compared to conventional antidepressants. This review outlines clinical indications, referral criteria, and ketamine's role in specialized hospital-based care with medical monitoring and psychiatric assessment for primary care physicians.",
-        "sv": "IV-ketamin erbjuder snabb lindring vid behandlingsresistent depression och akut suicidal kris, med effekter inom timmar jämfört med konventionella antidepressiva. Denna artikel beskriver kliniska indikationer, remisskriterier och ketamins roll i specialiserad sjukhusbaserad vård med medicinsk övervakning för primärvårdsläkare.",
-        "no": "IV-ketamin tilbyr rask lindring ved behandlingsresistent depresjon og akutt suicidal krise, med effekter innen timer sammenlignet med konvensjonelle antidepressiva. Artikkelen beskriver kliniske indikasjoner, henvisningskriterier og ketamins rolle i spesialisert sykehusbasert behandling med medisinsk overvåking for fastleger.",
-        "da": "IV-ketamin giver hurtig lindring ved behandlingsresistent depression og akut selvmordskrise, med effekter inden for timer sammenlignet med konventionelle antidepressiva. Artiklen beskriver kliniske indikatorer, henvisningskriterier og ketamins rolle i specialiseret hospitalsbaseret behandling med medicinsk overvågning for praktiserende læger.",
-        "fi": "IV-ketamiini tarjoaa nopeaa helpotusta hoitoresistenttiin masennukseen ja akuuttiin itsemurhausaan liittyvään kriisiin, vaikutukset ilmaantuvat tunteissa verrattuna tavanomaisten masennuslääkkeiden. Artikkeli käsittelee kliinisiä indikaatioita, lähettämiskriteereita ja ketamiinin roolia erikoistuneessa sairaalapohjaisessa hoidossa lääketieteellisellä valvonnalla.",
-        "is": "IV-ketamín veitir hraða lékningu við meðferðarþolni þunglyndi og berskjaldri sjálfsmorðskrisu, með áhrifum innan klukkustunda samanborið við hefðbundin þunglyndislyf. Greinin fjallar um klínísk vísbendingar, tilvísunarviðmið og hlutverk ketamíns í sérhæfðri spítalaðri meðferð með læknilegri eftirliti.",
-        "et": "IV-ketamiin pakub kiiret leevendamist ravile vastupidavale depressioonile ja ägedale enesetapukriisile, mõjud tekivad tundide jooksul võrreldes tavapäraste antidepressantidega. Artikkel kirjeldab kliinilisi näidustusi, edastamise kriteeriume ja ketamiini rolli spetsialiseeritud haiglal baseeruvas ravi järelvalvega.",
-        "lv": "IV-ketamīns nodrošina ātru atvieglojumu pret ārstēšanai nereaģējošu depresiju un akūtu pašnāvības krīzi, efekti parādās stundās, salīdzinot ar parastajiem antidepresantiem. Raksts apraksta klīniskos rādītājus, remitēšanas kritērijus un ketamīna lomu specializētā slimnīcas bāzētā ārstēšanā ar medicīnisko uzraudzību.",
-        "lt": "IV-ketaminas suteikia greitą pagalbą gydymui atsparioje depresijoje ir ūmaus savižudybės krizėje, efektai atsiranda per valandas, palyginti su įprastais antidepresantais. Straipsnis aprašo klininius rodiklius, nukreipimo kriterijus ir ketamino vaidmenį specializuotoje ligonine grindžiamoje gydymoje su medicinine priežiūra."
-      },
-      "notable": false,
-      "notable_reasons": null,
-      "relevance_score": 4,
-      "study_type": "other",
-      "substances": [
-        "ketamine"
-      ],
-      "added_at": "2026-09-17T11:56:15.164798+00:00"
-    },
-    {
-      "title": "The Case for More Aggressive Masking in Psychedelic Trials.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42747812/",
-      "source": "PubMed",
-      "date": "2026-09-16",
-      "authors": [
-        "Yang Kevin H",
-        "Heifets Boris D",
-        "Krystal Andrew"
-      ],
-      "doi": "10.1001/jamapsychiatry.2026.2858",
-      "summaries": {
-        "en": "A Viewpoint on UMBRAA (unidentifiable multidrug blinding with reduced, authorized awareness), a strategy to strengthen blinding in psychedelic research trials. This approach addresses the methodological challenge of masking in studies where psychedelics' pronounced effects can compromise participant blinding, potentially biasing trial outcomes.",
-        "sv": "En diskussion om UMBRAA-strategin (okänlig multidrogs blindning med reducerad, auktoriserad medvetenhet) för att förbättra maskering i psykedeliska forskningsstudier. Metoden adresserar utmaningen att bibehålla blindning när psykedelikas tydliga effekter kan kompromissa deltagarnas blindering.",
-        "no": "En drøfting av UMBRAA-strategien (uidentifiserbar multidrug-blindering med redusert, autorisert bevissthet) for å styrke blindering i psykedelisk forskning. Metoden adresserer utfordringen med å opprettholde maskering når psykedelikas tydelige effekter kan kompromittere deltakernes blindering.",
-        "da": "En diskussion af UMBRAA-strategien (uidentificerbar multi-stof-blindering med reduceret, autoriseret bevidsthed) til at styrke maskering i psykedelisk forskning. Metoden adresserer udfordringen med at opretholde blindering, når psykedelikas tydelige effekter kan kompromittere deltagernes blindering.",
-        "fi": "Keskustelu UMBRAA-strategiasta (tunnistamaton monilääkkeiden sokkouttaminen ja rajoitettu valtuutettu tietoisuus) psykedeelisten tutkimusten sokkouttamisen parantamiseksi. Menetelmä käsittelee haastetta ylläpitää sokkouttamista, kun psykedeelien selkeät vaikutukset voivat heikentää osallistujien sokkouttamista.",
-        "is": "Umfjöllun um UMBRAA-aðferðina (óauðkenjanleg fjöllyfjablinding með minni, leyfilegri vitundarfullri útvistun) til að styrkja blindun í sáleinræktunarrannsóknum. Aðferðin tekur á áskorun þess að halda blindun þegar ljós áhrif sáleinræktunar geta skaðað blindun þátttakenda.",
-        "et": "UMBRAA-strateegia (tuvastamatute mitmeainete sõelumised vähendatud, lubatud teadlikkusega) käsitamine psühhedeelikate uuringutes sokeerimise tugevdamiseks. Meetod käsitleb sokeerimise säilitamise väljakutset, kui psühhedeelikate selged mõjud võivad kahjustada osalejate sokeerimist.",
-        "lv": "Diskusija par UMBRAA stratēģiju (identificējams daudzfarmakālu maskēšanu ar samazinātu, autorizētu informētību) psihedeliku pētniecības maskēšanas stiprināšanai. Metode risina izaicinājumu uzturēt maskēšanu, kad psihedeliku skaidras ietekmes var apdraudēt dalībnieku maskēšanu.",
-        "lt": "Diskusija apie UMBRAA strategiją (neidentifikuojamą daugiafarmakų aklinumą su sumažinta, autorizuota sąmone) psichodeelinių tyrimų aklinumo stiprinimui. Metodas skirtas spręsti aklinumo išlaikymo iššūkį, kai psichodeelinės medžiagos aiškūs poveikiai gali sutrumpinti dalyvių aklinumą."
-      },
-      "notable": false,
-      "notable_reasons": null,
-      "relevance_score": 4,
-      "study_type": "other",
-      "substances": [
-        "other"
-      ],
-      "added_at": "2026-09-17T11:56:15.164798+00:00"
-    },
-    {
-      "title": "Pα+ Psychedelic Bulletin #231: Compass Shares 52 Week Follow-Up, Training Grant Recipients; Xylo Enters the Clinic; RFK Jr. Hosts Hubbard",
-      "url": "https://psychedelicalpha.com/news/p%ce%b1-psychedelic-bulletin-231-compass-shares-52-week-follow-up-training-grant-recipients-xylo-enters-the-clinic-rfk-jr-hosts-hubbard/",
-      "source": "Psychedelic Alpha",
-      "date": "2026-09-16",
-      "authors": [],
-      "doi": "",
-      "summaries": {
-        "en": "Compass Pathways released 52-week follow-up data from COMP005, a placebo-controlled Phase 3 trial of psilocybin (COMP360) in 258 treatment-resistant depression patients. The company also announced five training grant recipients. Separately, Xylo Therapeutics advanced into clinical trials, while policy discussions continued involving RFK Jr.",
-        "sv": "Compass Pathways presenterade uppföljningsdata från 52 veckor från COMP005, en placebokontrollerad fas 3-studie av psylocybin (COMP360) hos 258 patienter med behandlingsresistent depression. Företaget tillkännagav också fem mottagare av utbildningsstipendier. Parallellt framskred Xylo Therapeutics till kliniska prövningar.",
-        "no": "Compass Pathways presenterte 52-ukers oppfølgingsdata fra COMP005, en placebokontrollert fase 3-studie av psilocybin (COMP360) hos 258 pasienter med behandlingsresistent depresjon. Selskapet kunngjorde også fem mottakere av utdanningsstipend. Xylo Therapeutics gikk samtidig inn i kliniske studier.",
-        "da": "Compass Pathways offentliggjorde 52-ugers opfølgningsdata fra COMP005, en placebokontrolleret fase 3-studie af psilocybin (COMP360) hos 258 patienter med behandlingsresistent depression. Virksomheden annoncerede også fem modtagere af uddannelsesstipendier. Xylo Therapeutics gik samtidig ind i kliniske forsøg.",
-        "fi": "Compass Pathways julkaisi 52 viikon seurantatiedot COMP005-tutkimuksesta, joka oli psilosybiinin (COMP360) plasebokontrolloitu vaihe 3 -tutkimus 258 hoitoresistentin masennuksen potilaalla. Yritys ilmoitti myös viidestä koulutusapurahan saajasta. Xylo Therapeutics edistyi samalla kliinisiin tutkimuksiin.",
-        "is": "Compass Pathways birt 52 vikna eftirfylgnigögnun frá COMP005, slembihópi-stýrðri 3. stigs rannsókn á psílosíbíni (COMP360) hjá 258 sjúklingum með þrautgöngum þunglyndi. Fyrirtækið tilkynnti einnig fimm styrkþega fyrir þjálfunarstyrki. Xylo Therapeutics komst á sama tíma inn í klínísk tilraun.",
-        "et": "Compass Pathways avaldas 52 nädalase järelkontrolli andmed COMP005-st, mis oli platseeboa kontrollivat faasi 3 uuringut psülotsübiini (COMP360) kohta 358 ravile resistentse depressiooni patsiendiga. Ettevõte teatas ka viiest koolitustoetuse saajast. Xylo Therapeutics edenes samal ajal kliinilistesse uuringutesse.",
-        "lv": "Compass Pathways publicēja 52 nedēļu uzraudzības datus no COMP005, placebo kontrolēta 3. fāzes psilotsibīna (COMP360) pētījuma 258 pacientiem ar ārstēšanai rezistentāmu depresiju. Uzņēmums paziņoja arī par pieciem apmācības granta saņēmējiem. Xylo Therapeutics tajā pašā laikā sāka klīniskos pētījumus.",
-        "lt": "Compass Pathways paskelbė 52 savaičių stebėsenos duomenis iš COMP005, placebo kontroliuoto 3 fazės psilotsibino (COMP360) tyrimo 258 gydymui rezistentinės depresijos pacientams. Bendrovė taip pat paskelbė penkis mokymo dotacijos gavėjus. Xylo Therapeutics tuo pačiu metu pradėjo klinikinių tyrimų."
-      },
-      "notable": true,
-      "notable_reasons": {
-        "en": "Phase 3 RCT (n=258) 52-week follow-up data from Compass Pathways' COMP005 trial for psilocybin in treatment-resistant depression.",
-        "sv": "Phase 3 RCT (n=258) 52-veckors uppföljningsdata från Compass Pathways COMP005-studie för psilocybin vid behandlingsresistent depression.",
-        "no": "Phase 3 RCT (n=258) 52-ukers oppfølgingsdata fra Compass Pathways COMP005-studie for psilocybin ved behandlingsresistent depresjon.",
-        "da": "Phase 3 RCT (n=258) 52-ugers opfølgningsdata fra Compass Pathways COMP005-forsøg for psilocybin ved behandlingsresistent depression.",
-        "fi": "Phase 3 RCT (n=258) 52 viikon seurantatiedot Compass Pathwaysin COMP005-tutkimuksesta psilo­sybiinin käytöstä hoitoresistentissa masennuksessa.",
-        "is": "Phase 3 RCT (n=258) 52 vikna eftirfylgni gögn frá COMP005 rannsókn Compass Pathways fyrir psilocybin við meðferðarþolna þunglyndi.",
-        "et": "Phase 3 RCT (n=258) 52 nädala järelkontrolli andmed Compass Pathways COMP005 uuringust psülotsübiini kohta ravi­vastupidaval depressioonil.",
-        "lv": "Phase 3 RCT (n=258) 52 nedēļu sekošanas dati no Compass Pathways COMP005 pētījuma par psilocybīnu ar ārstēšanu rezistentu depresiju.",
-        "lt": "Phase 3 RCT (n=258) 52 savaičių stebėjimo duomenys iš Compass Pathways COMP005 tyrimo apie psilocybinį gydymui atsparias depresiją."
-      },
-      "relevance_score": 4,
-      "study_type": "rct",
-      "substances": [
-        "psilocybin"
-      ],
-      "added_at": "2026-09-17T11:56:15.164798+00:00"
     }
   ]
 }

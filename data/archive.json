@@ -1,6 +1,68 @@
 {
   "items": [
     {
+      "title": "Efficacy and safety of ketamine for post-traumatic stress disorder: A systematic review with narrative synthesis and consideration of military and veteran populations.",
+      "url": "https://doi.org/10.1002/pcn5.70425",
+      "source": "Europe PMC",
+      "date": "2026-10-07",
+      "authors": [
+        "Ivasyutyn M",
+        "Bhakta S."
+      ],
+      "doi": "10.1002/pcn5.70425",
+      "summary_en": "Systematic review of 8 studies (N=383) examining ketamine for PTSD treatment, particularly in military/veteran populations. Five RCTs and three observational studies showed PTSD symptom reductions following ketamine administration. Largest effect observed in small uncontrolled study (80% remission), requiring cautious interpretation. Dissociative and hemodynamic adverse effects during infusion typically resolved post-treatment. No cognitive decline reported with repeated dosing.",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "review",
+      "substances": [
+        "ketamine"
+      ],
+      "added_at": "2026-10-17T11:01:23.206355+00:00"
+    },
+    {
+      "title": "French psychiatric caregivers' perceptions of psychedelics: A national survey.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42888158/",
+      "source": "PubMed",
+      "date": "2026-10-16",
+      "authors": [
+        "Buot Anne",
+        "Burdairon Jean-Del",
+        "Mallet Luc"
+      ],
+      "doi": "10.1016/j.encep.2026.06.015",
+      "summary_en": "French survey of 298 psychiatry professionals (Dec 2023–Jan 2024) assessed knowledge and attitudes toward hallucinogens for clinical use. Most respondents had heard of medical research; 88% knew of psilocybin/ketamine for treatment-resistant depression. However, awareness of other therapeutic applications was limited. 53% viewed the therapeutic benefit-risk ratio favorably, while 61% considered recreational use dangerous. Male gender and personal experience predicted positive therapeutic perceptions.",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "observational",
+      "substances": [
+        "psilocybin",
+        "lsd",
+        "ketamine",
+        "other"
+      ],
+      "added_at": "2026-10-17T11:01:23.206355+00:00"
+    },
+    {
+      "title": "After the Trip: A Qualitative Study of Healthy Individuals' Motor Experiences Following Different Doses of Psilocybin.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42886634/",
+      "source": "PubMed",
+      "date": "2026-Oct-16",
+      "authors": [
+        "Luo Ruiqi Rachel",
+        "Berlowitz David J",
+        "Bryson Alexander"
+      ],
+      "doi": "10.1002/brb3.71807",
+      "summary_en": "Qualitative study of 12 healthy participants examining subjective motor experiences following psilocybin at different doses. Semi-structured interviews revealed four major themes: altered motor coordination and control (dose-dependent), transcendent consciousness, and mystical experiences. Findings suggest low-to-moderate doses produce individualized motor effects relevant to safety and quality of psychedelic experiences.",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "qualitative",
+      "substances": [
+        "psilocybin"
+      ],
+      "added_at": "2026-10-17T11:01:23.206355+00:00"
+    },
+    {
       "title": "Aspirational Autonomy and Psychedelic-Assisted Therapy in Advanced Cancer: Ethical Lessons from Clinical Cases.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42879734/",
       "source": "PubMed",

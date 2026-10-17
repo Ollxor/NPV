@@ -1,6 +1,71 @@
 {
-  "generated_at": "2026-10-16T11:44:27.455739+00:00",
+  "generated_at": "2026-10-17T11:02:14.026890+00:00",
   "items": [
+    {
+      "title": "French psychiatric caregivers' perceptions of psychedelics: A national survey.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42888158/",
+      "source": "PubMed",
+      "date": "2026-10-16",
+      "authors": [
+        "Buot Anne",
+        "Burdairon Jean-Del",
+        "Mallet Luc"
+      ],
+      "doi": "10.1016/j.encep.2026.06.015",
+      "summaries": {
+        "en": "French survey of 298 psychiatry professionals (Dec 2023–Jan 2024) assessed knowledge and attitudes toward hallucinogens for clinical use. Most respondents had heard of medical research; 88% knew of psilocybin/ketamine for treatment-resistant depression. However, awareness of other therapeutic applications was limited. 53% viewed the therapeutic benefit-risk ratio favorably, while 61% considered recreational use dangerous. Male gender and personal experience predicted positive therapeutic perceptions.",
+        "sv": "Fransk enkät bland 298 psykiatriker (dec 2023–jan 2024) undersökte kunskap och attityder till hallucingener för klinisk användning. De flesta kände till medicinsk forskning; 88% var medvetna om psilocybin/ketamin för behandlingsresistent depression. Medvetenheten om andra terapeutiska tillämpningar var dock begränsad. 53% bedömde den terapeutiska nytta-risk-kvoten som gynnsam, medan 61% ansåg rekreativ användning farlig. Manligt kön och personlig erfarenhet förutsäg positiva kliniska uppfattningar.",
+        "no": "Norsk undersøkelse av 298 psykiatrere (des 2023–jan 2024) vurderte kunnskap og holdninger til hallusinogener for klinisk bruk. De fleste var kjent med medisinsk forskning; 88% var klar over psilocybin/ketamin for behandlingsresistent depresjon. Kendskapen til andre terapeutiske indikasjoner var imidlertid begrenset. 53% vurderte den terapeutiske nytte-risiko-forholdet som gunstig, mens 61% anså rekreativ bruk som farlig. Mannlig kjønn og personlig erfaring predikerte positive kliniske oppfatninger.",
+        "da": "Dansk survey af 298 psykiatere (dec 2023–jan 2024) undersøgte viden og holdninger til hallucingener til klinisk brug. De fleste var kendt med medicinsk forskning; 88% var opmærksomme på psilocybin/ketamin til behandlingsresistent depression. Kendskabet til andre terapeutiske indicationer var dog begrænset. 53% vurderede det terapeutiske nytte-risiko-forhold som gunstigt, mens 61% anså rekreativ brug for farlig. Mandligt køn og personlig erfaring forudsagde positive kliniske opfattelser.",
+        "fi": "Ranskalainen kysely 298 psykiaterin parissa (joulukuu 2023–tammikuu 2024) arvioi tietoa ja asenteita hallusinogeeneihin kliinisessä käytössä. Useimmat olivat tietoisia lääketieteellisestä tutkimuksesta; 88% tiesi psylosibiinista/ketamiinista hoitoresistentin masennuksen hoitoon. Tietoisuus muista terapeuttisista käyttöindikaatioista oli kuitenkin rajallinen. 53% arvioi hallusinogeenien terapeuttisen hyöty-riskisuhteen myönteiseksi, kun taas 61% piti rekreatiivista käyttöä vaarallisena. Miespuoli ja henkilökohtainen kokemus ennustivat myönteisiä kliinisiä näkemyksiä.",
+        "is": "Frönsk könnun á meðal 298 geðlækna (des 2023–jan 2024) kannaðist um þekkingu og viðhorf til draumablikra efna fyrir klíníska notkun. Flestir voru meðvitaðir um læknisfræðilega rannsóknir; 88% þekktu til psýlósíbíns/ketamíns við meðferðarþolin þunglyndi. Þekking á öðrum heilsumeginlegum beitingum var þó takmörkuð. 53% töldu ábatahlutfall þunglyndilyfjanna hagkvæmt, en 61% töldu ófélagslega notkun hættusamlega. Karllegir og persónuleg reynsla spáðu fyrir jákvæðum klínískum skoðunum.",
+        "et": "Prantsuse uuring 298 psühhiaatri seas (dets 2023–jaan 2024) hindas teadmisi ja suhtumist hallutsinogeenidesse kliiniliseks kasutamiseks. Enamik teadis meditsiinilisest uurimistööst; 88% teadis psilotsibiinist/ketamiinist ravi-resistentse depressiooni raviks. Teadlikkus muudest terapeutilistest näidustustest oli siiski piiratud. 53% hindas hallutsinogeenide terapeutilise kasu-riski suhet soodsaks, 61% pidas rekreatiivset kasutamist ohtlikuks. Meessugu ja isiklik kogemus ennustasid positiivseid kliinilisi seisukohti.",
+        "lv": "Francijas aptauja starp 298 psihiatriem (2023. gada dec.–2024. gada jan.) novērtēja zināšanas un attieksmi pret halucināgēniem klīniskai lietošanai. Lielākā daļa bija informēta par medicīniskiem pētījumiem; 88% bija informēti par psilotsibīnu/ketamīnu ārstēšanas-rezistentā depresijas ārstēšanai. Informētība par citām terapeitiskām indikācijām bija tomēr ierobežota. 53% novērtēja halucināgēnu terapeitiskā ieguvuma-riska attiecību par labvēlīgu, bet 61% uzskatīja rekreatīvo lietošanu par bīstamu. Vīriešu dzimte un personīgā pieredze paredzēja pozitīvus klīniskus uzskatus.",
+        "lt": "Prancūzų apklausa tarp 298 psichiatrų (2023 m. gruod.–2024 m. saus.) vertino žinias ir požiūrį į halucino­genus klinikiniam naudojimui. Dauguma buvo susipažinę su medicininiais tyrimais; 88% žinojo apie psilocibino/ketamino naudojimą terapijai atsparioje depresijoje. Tačiau žinios apie kitas terapines indikacijas buvo ribotos. 53% vertino halucino­genų terapinio naudos-rizikos santykį kaip palankų, o 61% rekreacinio naudojimo laikė pavojingu. Vyriški lytis ir asmeninė patirtis numatė teigiamus klininius požiūrius."
+      },
+      "notable": false,
+      "notable_reasons": null,
+      "relevance_score": 3,
+      "study_type": "observational",
+      "substances": [
+        "psilocybin",
+        "lsd",
+        "ketamine",
+        "other"
+      ],
+      "added_at": "2026-10-17T11:01:23.206355+00:00"
+    },
+    {
+      "title": "After the Trip: A Qualitative Study of Healthy Individuals' Motor Experiences Following Different Doses of Psilocybin.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42886634/",
+      "source": "PubMed",
+      "date": "2026-Oct-16",
+      "authors": [
+        "Luo Ruiqi Rachel",
+        "Berlowitz David J",
+        "Bryson Alexander"
+      ],
+      "doi": "10.1002/brb3.71807",
+      "summaries": {
+        "en": "Qualitative study of 12 healthy participants examining subjective motor experiences following psilocybin at different doses. Semi-structured interviews revealed four major themes: altered motor coordination and control (dose-dependent), transcendent consciousness, and mystical experiences. Findings suggest low-to-moderate doses produce individualized motor effects relevant to safety and quality of psychedelic experiences.",
+        "sv": "Kvalitativ studie med 12 friska deltagare som undersökte subjektiva motoriska erfarenheter efter psilocybin i olika doser. Semistrukturerade intervjuer avslöjade fyra huvudteman: förändrad motorisk koordination och kontroll (dosberoendet), transcendent medvetande och mystiska upplevelser. Resultaten tyder på att låga till måttliga doser ger individualiserade motoriska effekter relevanta för säkerhet och kvalitet.",
+        "no": "Kvalitativ studie med 12 friske deltakere som undersøkte subjektive motoriske erfaringer etter psilocybin i ulike doser. Semistrukturerte intervjuer avslørte fire hovedtema: endret motorisk koordinasjon og kontroll (doseavhengig), transcendent bevissthet og mystiske opplevelser. Funn tyder på at lave til moderate doser gir individualiserte motoriske effekter relevant for sikkerhet og kvalitet.",
+        "da": "Kvalitativ studie med 12 raske deltagere, der subjektive motoriske erfaringer efter psilocybin ved forskellige doser blev undersøgt. Semistrukturerede interviews afslørede fire hovedtemaer: ændret motorisk koordination og kontrol (dosisafhængig), transcendent bevidsthed og mystiske oplevelser. Resultater antyder, at lave til moderate doser producerer individualiserede motoriske effekter relevant for sikkerhed og kvalitet.",
+        "fi": "Kvalitatiivinen tutkimus 12 terveellä osallistujalla, joissa tutkittiin subjektiivisia motoriikan kokemuksia psilo­sybiinin eri annoksilla. Puolistrukturoiduilla haastatte­luilla paljastettiin neljä pääteemaa: muuttunut motorinen koordinaatio ja hallinta (annoksesta riippuvainen), transsendentti tietoisuus ja mystiset kokemukset. Tulokset viittaavat siihen, että matala tai kohtalainen annos aiheuttaa yksilöllisiä motoriikan vaikutuksia turvallisuuteen ja kokemuksen laatuun.",
+        "is": "Eigindlegur rannsókn með 12 heilbrigðum þátttakendum sem kannaði huglæga hreyfivirkni reynslu eftir psíló­kybin við ýmsar skammta. Hálfskipulögð viðtöl leituðu fjórum meginþemum: breyttri hreyfistýringu og stjórn (skammta­háð), yfirjörðlegri meðvitund og dularlegum reynslum. Niðurstöður benda til þess að litlir til miðlungs skammtar framleiði einstaklingsmiðaða hreyfivirkni áhrif á öryggi og gæði.",
+        "et": "Kvalitatiivne uurimus 12 terve osavõtjaga, uurides subjektiivset mootorika kogemust psilotsübiini erinevatel doseeringutel. Poolstruktureeritud intervjuud avaldasid neli põhiteemat: muutunud motoorika koordinatsioon ja kontroll (doseeringust sõltuv), transtsendentne teadvus ja müstilised kogemused. Tulemused viitavad sellele, et madal kuni mõõdukas doseeringud tekitavad individuaalseid mootorika mõjusid, mis on asjakohased ohutu­sele ja kogemuse kvaliteedile.",
+        "lv": "Kvalitatīvs pētījums ar 12 veseliem dalībniekiem, pārbaudot subjektīvu motoro pieredzi pēc psilocibīna dažādās devās. Daļēji strukturētas intervijas atklāja četras galvenās tēmas: mainīta motoro koordinācija un kontrole (devu atkarīga), transcendentā apziņa un mistiskas pieredzes. Rezultāti liecina, ka zemas līdz vidējas devas izraisa individualizētas motoro ietekmes, kas ir būtiskas drošībai un pieredzes kvalitātei.",
+        "lt": "Kokybinis tyrimas su 12 sveikų dalyvių, tiriančiais subjektyvias variklinės sistemos patirtis po psilocibino skirtingomis dozėmis. Pusiau struktūruoti pokalbiai atskleidė keturias pagrindines temas: pakitusią variklinę koordinaciją ir kontrolę (dozės priklausomybė), transcendentinę sąmonę ir mistines patirtis. Rezultatai rodo, kad žemos ir vidutinės dozės sukelia individualizuotus variklinės sistemos efektus, svarbius saugumui ir patirties kokybei."
+      },
+      "notable": false,
+      "notable_reasons": null,
+      "relevance_score": 3,
+      "study_type": "qualitative",
+      "substances": [
+        "psilocybin"
+      ],
+      "added_at": "2026-10-17T11:01:23.206355+00:00"
+    },
     {
       "title": "Aspirational Autonomy and Psychedelic-Assisted Therapy in Advanced Cancer: Ethical Lessons from Clinical Cases.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42879734/",
@@ -628,6 +693,36 @@
         "psilocybin"
       ],
       "added_at": "2026-10-09T13:33:41.577089+00:00"
+    },
+    {
+      "title": "Efficacy and safety of ketamine for post-traumatic stress disorder: A systematic review with narrative synthesis and consideration of military and veteran populations.",
+      "url": "https://doi.org/10.1002/pcn5.70425",
+      "source": "Europe PMC",
+      "date": "2026-10-07",
+      "authors": [
+        "Ivasyutyn M",
+        "Bhakta S."
+      ],
+      "doi": "10.1002/pcn5.70425",
+      "summaries": {
+        "en": "Systematic review of 8 studies (N=383) examining ketamine for PTSD treatment, particularly in military/veteran populations. Five RCTs and three observational studies showed PTSD symptom reductions following ketamine administration. Largest effect observed in small uncontrolled study (80% remission), requiring cautious interpretation. Dissociative and hemodynamic adverse effects during infusion typically resolved post-treatment. No cognitive decline reported with repeated dosing.",
+        "sv": "Systematisk granskning av 8 studier (N=383) om ketamin för PTSD-behandling, särskilt hos militär- och veteranpopulationer. Fem RCT:er och tre observationsstudier visade reduktion av PTSD-symtom efter ketaminadministration. Största effektstorlek i liten okontrollerad studie (80% remission), vilket kräver försiktig tolkning. Dissociativa och hemodynamiska biverkningar under infusion försvann vanligtvis efteråt. Ingen kognitiv försämring rapporterades vid upprepad dosering.",
+        "no": "Systematisk gjennomgang av 8 studier (N=383) om ketamin for PTSD-behandling, spesielt hos militær- og veteranpopulasjoner. Fem RCT-er og tre observasjonsstudier viste reduksjon i PTSD-symptomer etter ketaminadministrasjon. Største effektstørrelse i liten ukontrollert studie (80% remisjon), som krever forsiktig tolkning. Dissociative og hemodynamiske bivirkninger under infusjon løste seg vanligvis opp etterpå. Ingen kognitiv nedgang rapportert ved gjentatt dosering.",
+        "da": "Systematisk gennemgang af 8 studier (N=383) om ketamin til PTSD-behandling, især hos militær- og veteranpopulationer. Fem RCT'er og tre observationsstudier viste reduktion af PTSD-symptomer efter ketamintilførsel. Størst effektstørrelse i lille ukontrolleret studie (80% remission), som kræver forsigtighed. Dissociative og hemodynamiske bivirkninger under infusion forsvandt typisk efter. Ingen kognitiv tilbagegang rapporteret ved gentagen dosering.",
+        "fi": "Systemaattinen katsaus 8 tutkimukseen (N=383) ketamiinin käytöstä PTSD:n hoitoon erityisesti sotilaille ja veteraaneille. Viisi satunnaistutkimusta ja kolme havainnollista tutkimusta osoittivat PTSD-oireiden vähenemisen ketamiinierityksen jälkeen. Suurin vaikutuskoko pienuudessaan kontrolloimattomassa tutkimuksessa (80% remissio), joka vaatii varovaista tulkintaa. Dissosiatiiviset ja hemodynaamiset haittavaikutukset infuusion aikana vähentyivät tyypillisesti jälkikäteen. Toistuvasta annostelusta ei raportoitu kognitiivista heikkenemistä.",
+        "is": "Kerfræðileg yfirfarin á 8 rannsóknum (N=383) um ketamín við meðferð á PTSD, sérstaklega hjá her- og vopnahlésdögum. Fimm tilraun með tilviljunarúthlugun og þrjár athugunarrannsóknir sýndu minnkun PTSD-einkennis eftir ketamíngjöf. Stærsti áhrifastærðin í lítilli stjórnlausri rannsókn (80% endalok), sem kallar á varúð. Aðskilnaðar- og hraðslágæðir meðan á innflutningi stóð leysust venjulega upp síðar. Engin bólustig-einkenni tilkynnt við endurtekinni skammta.",
+        "et": "Süstemaatiline ülevaade 8 uuringust (N=383) ketamiini kasutamise kohta PTSD ravil, eriti sõjaväe- ja veteranipopulatsioonis. Viis randomiseeritud kontrolluuringut ja kolm vaatlusuuringut näitasid PTSD sümptomite vähenemist ketamiini manustamise järel. Suurim efekti väikses juhituta uuringus (80% remissoon), mis nõuab ettevaatlikkust. Dissotsiatiivsed ja hemodynamilised kõrvaltoimed infusiooni ajal tavaliselt möödusid. Korduvast annustamisest kognitiivset halvenemist ei teatatud.",
+        "lv": "Sistematisks pārskats par 8 pētījumiem (N=383) par ketamīna efektivitāti PTSD ārstēšanā, īpaši militārpersonu un veterānu vidū. Pieci randomizēti kontrolpētījumi un trīs novērojumu pētījumi parādīja PTSD simptomu samazināšanos pēc ketamīna ievadīšanas. Lielākais efekts mazajā nekontrolētajā pētījumā (80% remisija), kas prasa piesardzību. Disociatīvie un hemodinamiskās blaknes iedarbības laikā parasti pazuda pēc tam. Nav ziņots par kognitīvo pasliktināšanos atkārtotās dozēšanas laikā.",
+        "lt": "Sisteminė apžvalga iš 8 tyrimų (N=383) apie ketamino veiksmingumą PTSD gydymui, ypač karininkų ir veteranų populiacijoje. Penki randomizuoti kontroliniai tyrimai ir trys stebėjimo tyrimai parodė PTSD simptomų sumažėjimą po ketamino suskiepijimo. Didžiausias efektas mažame nekontroliuojamame tyrime (80% remisija), reikalingame atsargumo. Disociaciniai ir hemodinaminiai šalutiniai poveikiai per infuziją paprastai pranyko vėliau. Nebuvo pranešta apie kognityvinės funkcijos blogėjimą dėl kartotinio dozavimo."
+      },
+      "notable": false,
+      "notable_reasons": null,
+      "relevance_score": 4,
+      "study_type": "review",
+      "substances": [
+        "ketamine"
+      ],
+      "added_at": "2026-10-17T11:01:23.206355+00:00"
     },
     {
       "title": "Pharmacological, clinical, and translational evidence for N,N-dimethyltryptamine, 5-methoxy-N,N-dimethyltryptamine, and zalsupindole: a systematic review.",
@@ -1946,105 +2041,6 @@
         "ketamine"
       ],
       "added_at": "2026-10-01T13:39:29.652706+00:00"
-    },
-    {
-      "title": "Default mode network functional connectivity following treatment with conventional antidepressants and (es)ketamine in major depressive disorder: A systematic review.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42767040/",
-      "source": "PubMed",
-      "date": "2026-09-17",
-      "authors": [
-        "Lima Constantino Juliana",
-        "de Jager Jesca E",
-        "Nuninga Jasper O"
-      ],
-      "doi": "10.1016/j.pscychresns.2026.112333",
-      "summaries": {
-        "en": "Systematic review of 19 studies (13 on conventional antidepressants, N=546; 6 on ketamine, N=247) examining default mode network changes in major depressive disorder. Conventional antidepressants showed heterogeneous connectivity changes, some correlating with clinical improvement. Ketamine predominantly reduced default mode network connectivity, especially limbic connections. Despite distinct initial mechanisms, both treatments may share downstream neural adaptations, though study heterogeneity limits definitive conclusions about treatment-resistant depression.",
-        "sv": "Systematisk granskning av 19 studier (13 om konventionella antidepressiva, N=546; 6 om ketamin, N=247) som undersökte förändring i default mode network vid svår depression. Konventionella antidepressiva visade varierande kopplingsförändringar, delvis korrelerade med klinisk förbättring. Ketamin reducerade främst default mode network-konnektivitet, särskilt limbiska förbindelser. Trots olika startmekanismer kan båda behandlingarna dela nedströmsampassningar, även om studieheterogenitet begränsar slutsatser om behandlingsresistent depression.",
-        "no": "Systematisk oversikt av 19 studier (13 om konvensjonelle antidepressiva, N=546; 6 om ketamin, N=247) som undersøkte endringer i default mode network ved alvorlig depresjon. Konvensjonelle antidepressiva viste heterogene tilkoblingendringer, delvis korrelert med klinisk forbedring. Ketamin reduserte hovedsakelig default mode network-tilkobling, særlig limbiske forbindelser. Til tross for distinkte initialsmekanismer kan begge behandlinger dele nedstrømsadaptasjoner, selv om studieheterogenitet begrenser konklusjoner om behandlingsresistent depresjon.",
-        "da": "Systematisk gennemgang af 19 studier (13 om konventionelle antidepressiva, N=546; 6 om ketamin, N=247) som undersøgte default mode network-ændringer ved svær depression. Konventionelle antidepressiva viste heterogene konnektivitetsændringer, nogle korreleret med klinisk forbedring. Ketamin reducerede primært default mode network-forbindelser, især limbiske forbindelser. På trods af forskellige initialsmekanismer kan begge behandlinger dele nedstrømsadaptationer, selvom studieheterogenitet begrænser konklusioner om behandlingsresistent depression.",
-        "fi": "Systemaattinen katsaus 19 tutkimukseen (13 tavanomaisista masennuslääkkeistä, N=546; 6 ketamiinista, N=247) jotka tutkivat default mode network -muutoksia vakavassa masennuksessa. Tavanomaiset masennuslääkkeet osoittivat heterogeenisia yhteysmuutoksia, joista osa korreloi kliinisen paranemisen kanssa. Ketamiini vähensi pääasiassa default mode network -yhteyksiä, etenkin limbisia yhteyksiä. Huolimatta erilaisista alkumekanismeista molemmat hoitavat voivat jakaa laskevat neuraaliadaptaatiot, vaikka tutkimusten heterogeenisuus rajoittaa johtopäätöksiä hoitoresistenttista masennuksesta.",
-        "is": "Kerfræðileg yfirlit yfir 19 rannsóknir (13 um hefðbundin þunglyndislyf, N=546; 6 um ketamín, N=247) sem rannsökuðu breytingar á default mode network við alvarleg þunglyndi. Hefðbundin þunglyndislyf sýndu ósamræmi tengslbreytingar, sumar í tengslum við klíníska bata. Ketamín minnkaði fyrst og fremst default mode network-tengsl, sérstaklega limbisk tengsöl. Þrátt fyrir ólík upphafsbindi geta báðar meðferðir deilt niðurstreymisaðlögun, þó að ósamræmi rannsókna takmarkar ályktanir um þunglyndi sem þolir ekki meðferð.",
-        "et": "Süstemaatiline ülevaade 19 uuringust (13 tavapärastest antidepressantidest, N=546; 6 ketamiinist, N=247), mis uurisid default mode network muutusi rasketes depressioonis. Tavapärased antidepressandid näitasid heterogeenseid ühendavuse muutusi, millest osa oli seotud kliinilise paranemisega. Ketamiin vähendas peamiselt default mode network ühendavust, eriti limbilisi ühendusi. Hoolimata erinevatest algmehanismidest võivad mõlemad ravid jagada allavoo neuraalseid kohanemisi, kuigi uuringute heterogeensus piirab järeldusi raviresistentse depressiooni kohta.",
-        "lv": "Sistematisks pārskats par 19 pētījumiem (13 par parastu antidepresantiem, N=546; 6 par ketamīnu, N=247), kuros pētniecības default mode network izmaiņas smagā depresijā. Parasti antidepresivu radīja heterogēnas savienojamības izmaiņas, no kurām dažas bija saistītas ar kliniskajiem uzlabojumiem. Ketamīns galvenokārt samazināja default mode network savienojamību, īpaši limbiskos savienojumus. Neskatoties uz dažādiem sākotnējiem mehānismiem, abas terapijas var dalīties lejupplūdē esošajos neiroloģiskajos pielāgojumos, lai gan pētījumu dažādība ierobežo secinājumus par ārstēšanai rezistentajām depresijām.",
-        "lt": "Sisteminė 19 tyrimų (13 apie įprastus antidepresantus, N=546; 6 apie ketaminą, N=247) apžvalga, tirianti default mode network pokyčius sunkioje depresijoje. Įprasti antidepresantai parodė heterogeninius ryšio pokyčius, kai kurie susiję su klinikiniu pagerintu. Ketaminas daugiausia sumažino default mode network ryšį, ypač limbinį ryšį. Nepaisant skirtingų pradinių mechanizmų, abi gydymo formos gali dalintiesi žemutinės srovės neuroniniais prisitaikymais, nors tyrimų heterogeniškumas riboja išvadas apie vaistams neatsparią depresiją."
-      },
-      "notable": false,
-      "notable_reasons": null,
-      "relevance_score": 4,
-      "study_type": "review",
-      "substances": [
-        "ketamine"
-      ],
-      "added_at": "2026-09-22T11:55:10.210502+00:00"
-    },
-    {
-      "title": "Psilocybin restores social novelty investigation in male SAPAP3 knockout mice and engages prefrontal-hippocampal circuitry.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42754621/",
-      "source": "PubMed",
-      "date": "2026-09-17",
-      "authors": [
-        "Gattuso James J",
-        "Bezcioglu Bilgenur",
-        "Hendey Jenna"
-      ],
-      "doi": "10.1038/s41380-026-03879-8",
-      "summaries": {
-        "en": "Male SAPAP3 knockout mice, a model of compulsive behavior, showed restored social novelty investigation following a single 1 mg/kg psilocybin injection. The behavioral improvement correlated with increased neural activation in the infralimbic prefrontal cortex and hippocampus. This preclinical study suggests psilocybalin may address social dysfunction in obsessive-compulsive disorder through specific prefrontal-hippocampal circuitry.",
-        "sv": "Manliga SAPAP3-knockout-möss, en modell för tvångsbeteende, visade återställd social nyhetsundersökning efter en enda injektionsdos psilocybin (1 mg/kg). Beteendebätringen korrelerade med ökad neural aktivering i infralimbisk prefrontalkortex och hippocampus. Denna preklinisk studie tyder på att psykedelika kan motverka social dysfunktion vid tvångsstörning genom specifik prefrontalt-hippocampal krets.",
-        "no": "Hannlige SAPAP3-knockout-mus, en modell for tvangsforstyrrelser, viste gjenopprettet sosial nyhetsutforsking etter en enkelt injeksjon med psilocybin (1 mg/kg). Forbedringen i atferd var korrelert med økt neural aktivering i infralimbisk prefrontalkorteks og hippocampus. Denne prekliniske studien antyder at psykedelika kan dempe sosial dysfunksjon ved tvangslidelser gjennom spesifikk prefrontalt-hippocampal krets.",
-        "da": "Mandlige SAPAP3-knockout-mus, en model for tvangsforstyrrelser, viste gendannet social nyhedersforskning efter en enkelt psilocybin-injektion (1 mg/kg). Adfærdsforbedringen var korreleret med øget neural aktivering i infralimbisk præfrontal cortex og hippocampus. Dette prækliniske studie antyder, at psykedelika kan afhjælpe social dysfunktion ved tvangslidelser gennem specifik præfrontalt-hippocampal kredsløb.",
-        "fi": "Urospuoliset SAPAP3-knockout-hiirit, pakko-oireisen häiriön malli, osoittivat palautuneen sosiaalisen uutuuden tutkimisen yksittäisen psilosybiini-injektioannoksen (1 mg/kg) jälkeen. Käyttäytymisen paraneminen korreloi lisääntyneen hermotoiminnan kanssa infralimbisessa prefrontaalikaihimessa ja hippocampuksessa. Tämä prekliininen tutkimus viittaa pskedeelien mahdollisuuksiin lievittää sosiaalista toimintahäiriötä pakko-oireisissa häiriöissä tietyn prefrontaalisen-hippocampaalisen piirin kautta.",
-        "is": "Karlkyns SAPAP3-slettir mýs, líkan fyrir þvingunarhegðun, sýndu endurkjapts rannsókn á félagslegum nýjungum eftir staka insúlínasprautugift af psilósýbíni (1 mg/kg). Hegðunarframbotin tengdust aukinni taugastarfsemi í infralimbísku formálhiminakjarna og hippokampi. Þessi undirklinískt rannsókn bendir til þess að geislastig-efni geti letið félagslega virkni við þvingunarhegðunarásj með sérstakri formálhimina-hippokampa hringrás.",
-        "et": "Isased SAPAP3-katkestatud hiired, sundmuste-obsessiivse häire mudel, näitasid taastunud sotsiaalse uudsuse uurimist ühe psilotsibiini süstimise (1 mg/kg) järel. Käitumise parendus korreleerus suurenenud neuronaalse aktiivsusega infralimbiilses prefrontaalkooris ja hippokampuses. See prekliiniline uuring viitab, et psühhedeelikud võivad leevendada sotsiaalset düsfunktsiooni obsessiivse-sundmuste häires konkreetse prefrontaal-hippokampaalse vooluahela kaudu.",
-        "lv": "Tēviņi SAPAP3 nokautu peles, obsesīvi kompulsīvo traucējumu modelis, parādīja atjaunotu sociālo jaunuma izpēti pēc vienas psilocibiīna injekcijas (1 mg/kg). Uzvedības uzlabošanās korelēja ar palielinātu neirālo aktivitāti infralimbiskajā prefrontālajā garozā un hipokampā. Šis prekliniskais pētījums liecina, ka psihodēliskas vielas var mazināt sociālo disfunkciju obsesīvi kompulsīvos traucējumos caur noteiktu prefrontāli-hipokampu ķēdi.",
-        "lt": "Patinai SAPAP3 genetiškai modifikuoti pelės, privalomųjų klausimų sutrikimo modelis, parodė atkurtą socialinio naujatvės tyrinėjimą po vienos psilocibiino injekcijos (1 mg/kg). Elgesio pagerinimas buvo susijęs su padidėjusia neuroninių aktyvumu infralimbiškoje prefrontale žievėje ir hipokampe. Šis preklininis tyrimas rodo, kad psichedeliai gali sumažinti socialinę disfunkciją obsesacinio-kompulsyvaus sutrikimo atveju per specifinę prefrontoriai-hipokampiną grandinę."
-      },
-      "notable": false,
-      "notable_reasons": null,
-      "relevance_score": 4,
-      "study_type": "preclinical",
-      "substances": [
-        "psilocybin"
-      ],
-      "added_at": "2026-09-18T11:33:47.001208+00:00"
-    },
-    {
-      "title": "‘Move Fast, with Precision’: Notes from ARPA-H’s Ibogaine Workshop",
-      "url": "https://psychedelicalpha.com/news/move-fast-with-precision-notes-from-arpa-hs-ibogaine-workshop/",
-      "source": "Psychedelic Alpha",
-      "date": "2026-09-17",
-      "authors": [],
-      "doi": "",
-      "summaries": {
-        "en": "ARPA-H convened a workshop on its ibogaine funding initiative (ASCENT-IBO), aimed at accelerating safe clinical evaluation of ibogaine for opioid use disorder treatment. The program emphasizes rapid yet rigorous research development, with proposals addressing novel therapeutic approaches.",
-        "sv": "ARPA-H genomförde en workshop för sitt ibogoainprogram (ASCENT-IBO), som syftar till att påskynda säker klinisk värdering av ibogain vid opioidberoende. Initiativet betonar snabb men noggrann forskningsutveckling med fokus på nya terapeutiska metoder.",
-        "no": "ARPA-H gjennomførte en workshop for sitt ibogoainprogram (ASCENT-IBO), som skal akselerere sikker klinisk evaluering av ibogain for opioidavhengighet. Initiativet legger vekt på rask men grundig forskningstilnærming med nye terapeutiske metoder.",
-        "da": "ARPA-H afholdt en workshop for sit ibogaeinprogram (ASCENT-IBO), som skal fremskynde sikker klinisk evaluering af ibogain ved opioidafhængighed. Initiativet understreger hurtig men grundig forskningstilgang med fokus på nye terapeutiske metoder.",
-        "fi": "ARPA-H järjesti työpajan ibogaiiniu-ohjelmastaan (ASCENT-IBO), jonka tavoitteena on nopeuttaa ibogaiinin turvallista kliinistä arviointia opioidiriippuvuuden hoidossa. Ohjelma painottaa nopeaa mutta tiukkaa tutkimuskehitystä uusilla terapeuttisilla lähestymistavoilla.",
-        "is": "ARPA-H hélt vinnustofnu um ibogaín-verkefnið sitt (ASCENT-IBO), sem miðar að því að flýta fyrir örugri klínískri mat á ibogaíni við opioidfíkn. Verkefnið leggur áherslu á hraða en ítarlega rannsóknir með nýjum meðferðaraðferðum.",
-        "et": "ARPA-H korraldas töötoa oma ibogoaiini rahastamisprogrammi (ASCENT-IBO) jaoks, mille eesmärk on kiirendada ibogoaiini ohutut kliinilist hindamist opioidisõltuvuse ravil. Programm rõhutab kiiret kuid hoolikat teadusliku arengu lähenemist uute terapeeutiliste meetodite abil.",
-        "lv": "ARPA-H organizēja darbnīcu par savu ibogoaīna finansēšanas iniciatīvu (ASCENT-IBO), kas vērsta uz ibogoaīna draudzīgas klīniskās novērtēšanas paātrināšanu opioīdu atkarības ārstēšanā. Iniciatīva uzsver ātru, bet precīzu pētniecības attīstību ar jaunām terapeitiskām metodēm.",
-        "lt": "ARPA-H surengė seminarą dėl savo ibogaino finansavimo programos (ASCENT-IBO), kuri skirta paspartinti ibogaino saugų klinikinį vertinimą opioidų priklausomybės gydymui. Programa pabrėžia greitą, bet atsakingą mokslinės plėtros požiūrį su naujais terapiniais metodais."
-      },
-      "notable": true,
-      "notable_reasons": {
-        "en": "ARPA-H (Advanced Research Projects Agency for Health) announces dedicated funding program (ASCENT-IBO) for ibogaine clinical trials in opioid use disorder, representing a major national-level research investment and policy signal.",
-        "sv": "ARPA-H (Advanced Research Projects Agency for Health) tillkännager ett dedikerat finansieringsprogram (ASCENT-IBO) för ibogaine-kliniska studier vid opioidberoende, vilket representerar en betydande nationell forskningsmässig investering och politisk signal.",
-        "no": "ARPA-H (Advanced Research Projects Agency for Health) annonserer et dedikert finansieringsprogram (ASCENT-IBO) for ibogaine kliniske studier ved opioidbruksstørrelse, som representerer en større nasjonalt nivå forskningsmessig investering og politisk signal.",
-        "da": "ARPA-H (Advanced Research Projects Agency for Health) annoncerer et dedikeret finansieringsprogram (ASCENT-IBO) for ibogaine kliniske forsøg ved opioidmisbrug, hvilket repræsenterer en større nationalt niveau forskningsmæssig investering og politisk signal.",
-        "fi": "ARPA-H (Advanced Research Projects Agency for Health) ilmoittaa omistetusta rahoitusohjelmasta (ASCENT-IBO) ibogaine-kliinisille tutkimuksille opioidiriippuvuudessa, mikä edustaa merkittävää kansallisen tason tutkimussijoitusta ja politiikkasignaalia.",
-        "is": "ARPA-H (Advanced Research Projects Agency for Health) tilkynnir sérstakt fjármögnunaráætlun (ASCENT-IBO) fyrir ibogaine klínísk rannsóknir við ópioid-misnotkun, sem táknar meiri rannsóknir- og stefnumörkun á landsvísu.",
-        "et": "ARPA-H (Advanced Research Projects Agency for Health) teatab eraldatud rahastamisprogrammist (ASCENT-IBO) ibogaine kliinilisteks uuringuteks opioidiulatusega seotud häirete puhul, mis esindab olulist rahvusliku tasandi uurimusinvesteeringut ja poliitilise signaali.",
-        "lv": "ARPA-H (Advanced Research Projects Agency for Health) paziņo par īpašu finansējuma programmu (ASCENT-IBO) ibogaine klīniskiem pētījumiem opioīdu lietošanas traucējumos, kas atspoguļo nozīmīgu valsts līmeņa pētniecības ieguldījumu un politikas signālu.",
-        "lt": "ARPA-H (Advanced Research Projects Agency for Health) paskelbė apie dedikuotą finansavimo programą (ASCENT-IBO) ibogaine klinikinius tyrimus opioidsukirtoje, kuri reiškia svarbų nacionalinio lygio mokslinių tyrimų investavimą ir politinį signalą."
-      },
-      "relevance_score": 4,
-      "study_type": "other",
-      "substances": [
-        "ibogaine"
-      ],
-      "added_at": "2026-09-18T11:33:47.001208+00:00"
     }
   ]
 }

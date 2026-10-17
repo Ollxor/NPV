@@ -1,7 +1,33 @@
 {
-  "date": "2026-10-16",
-  "cached_at": "2026-10-16T10:39:56.009098+00:00",
+  "date": "2026-10-17",
+  "cached_at": "2026-10-17T10:07:26.950607+00:00",
   "articles": [
+    {
+      "title": "French psychiatric caregivers' perceptions of psychedelics: A national survey.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42888158/",
+      "source": "PubMed",
+      "abstract": "The use of psychedelic substances such as LSD, psilocybin, and dimethyltryptamine is currently being re-evaluated for their therapeutic potential in psychiatry. While international clinical research had started in the 2010s, France only initiated its first psychedelic trials in 2024. This study aimed to explore the knowledge, perceptions, and attitudes of French mental health professionals regarding the use of psychedelics in clinical and recreational settings. An anonymous online survey was conducted between December 2023 and January 2024 among psychiatry caregivers in France. The questionnaire included 19 items across five sections: demographic information, knowledge of psychedelics, perception of their therapeutic and recreational use, and personal experimentation with psychoactive substances. Data was analyzed using linear and ordinal regressions, controlling for age, gender, profession and experience with ketamine. A total of 298 respondents participated, primarily from public hospitals. Most were psychiatrists (41.4%) or psychologists (20.4%). About 88% had heard of medical studies on psychedelics, with high awareness of psilocybin and ketamine use in treatment-resistant depression. However, awareness of other therapeutic indications was limited. Fifty-three percent rated the therapeutic benefit-risk ratio of psychedelics as favorable, whereas 61% rated recreational use as dangerous. Favorable perception of therapeutic use was associated with male gender, personal experience with psychedelics, and clinical practice with ketamine. However, in a subgroup of clinicians (psychiatrists, residents, nurses) only clinical practice with ketamine remained significantly associated with favorable opinions. Personal experimentation was the only predictor of more positive attitudes toward recreational use. The results indicated a moderate but cautious openness among French psychiatry caregivers towards therapeutic psychedelics, less enthusiastic than in other international surveys. Their opinions were strongly influenced by personal and clinical experience. A notable finding was the clear separation caregivers made between therapeutic and recreational contexts. French psychiatry caregivers are aware of the growing interest in psychedelics and express moderate support for their medical use. Clinical practice with ketamine appears to play a pivotal role in shaping favorable attitudes. As France embarks on clinical trials with psychedelics, caregiver perspectives are likely to evolve, warranting further surveys in the coming years.",
+      "date": "2026-10-16",
+      "authors": [
+        "Buot Anne",
+        "Burdairon Jean-Del",
+        "Mallet Luc"
+      ],
+      "doi": "10.1016/j.encep.2026.06.015"
+    },
+    {
+      "title": "After the Trip: A Qualitative Study of Healthy Individuals' Motor Experiences Following Different Doses of Psilocybin.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42886634/",
+      "source": "PubMed",
+      "abstract": "Psilocybin is a naturally occurring classic psychedelic associated with widespread changes in brain function and promising therapeutic outcomes in several neuropsychiatric disorders. Complementing these findings, qualitative studies following psilocybin administration have revealed diverse and highly individual effects across multiple domains of subjective experience. However, little is known about its impacts on individuals' subjective motor experiences. With the tendency of individuals to stay stationary during psilocybin's effects, investigating qualitative motor experiences following low-to-moderate doses of psilocybin may offer novel considerations regarding safety and quality of individuals' psychedelic experiences. We aimed to explore healthy individuals' subjective experiences after receiving three different doses of psilocybin and conducting motor activity. Following the study procedure previously published, semi-structured interviews were conducted with 12 participants who had completed sessions of motor tasks at different doses of psilocybin, which were then transcribed and thematically analyzed. Four major themes were developed, each containing sub-themes: two motor themes, (1) mixed motor messages, including altered motor coordination, control, speed, and reaction time; (2) interacting influences on motor performance, including dose-dependent effects; and two non-motor themes, (3) transcendence, altered consciousness, and transformative \"mysticism\"; and (4) dynamic and enhanced psychological and sensory experiences. This work contributes to a more comprehensive understanding of psilocybin's multifaceted effects and their relevance to safety, therapeutic potential and future research in motor disorders. The findings will inform a broader dose-finding study and the design of proposed research on psilocybin-assisted physiotherapy for refractory motor functional neurological disorder. ANZCTR number: ACTRN12621000560897.",
+      "date": "2026-Oct-16",
+      "authors": [
+        "Luo Ruiqi Rachel",
+        "Berlowitz David J",
+        "Bryson Alexander"
+      ],
+      "doi": "10.1002/brb3.71807"
+    },
     {
       "title": "Aspirational Autonomy and Psychedelic-Assisted Therapy in Advanced Cancer: Ethical Lessons from Clinical Cases.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42879734/",
@@ -106,7 +132,7 @@
       "doi": "10.1186/s12910-026-01637-7"
     },
     {
-      "title": "Antidepressants and Cognitive Function in Major Depressive Disorder: Mechanisms, Clinical Evidence, and Implications for Precision Treatment.",
+      "title": "Antidepressants and cognitive function in major depressive disorder: Mechanisms, clinical evidence, and implications for precision treatment.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42869167/",
       "source": "PubMed",
       "abstract": "Cognitive impairment is a core feature of major depressive disorder (MDD) and significantly impairs functional recovery. This review summarizes current evidence on the effects of antidepressants on cognitive function and discusses the underlying mechanisms. Antidepressants may exert their effects through multiple mechanisms, including modulation of monoaminergic neurotransmission, enhancement of neuroplasticity, and regulation of stress and inflammatory pathways. Available studies indicate that antidepressants differ in their cognitive benefits, with vortioxetine showing the most consistent procognitive evidence. Duloxetine, bupropion, and some augmentation strategies may also improve specific cognitive domains, though the evidence is limited. Importantly, cognitive improvement may result from direct drug effects on cognition or indirectly via alleviation of depressive symptoms, highlighting the need for mediation analyses in future research. In patients with late-life depression, vortioxetine and duloxetine have shown relatively clear benefits, and augmentation with cognitive enhancers has demonstrated some potential. The long-term cognitive protective effects of antidepressants remain unconfirmed. Immuno-metabolic depression subtypes, high-dose-related adverse effects, and comorbidity with anxiety and sleep disorders may constitute important sources of residual cognitive deficits. Emerging treatments such as ketamine, psychedelic compounds, and interventions targeting the gut-brain axis may offer new opportunities for addressing cognitive dysfunction in MDD. Current evidence is limited by small sample sizes and heterogeneous cognitive assessments. Future research should prioritize large, randomized controlled trials with cognition as the primary endpoint, using standardized assessment tools. A better understanding of the cognitive profiles and mechanisms of antidepressants may support precision medicine strategies and promote functional recovery in patients with MDD.",
@@ -233,32 +259,6 @@
         "Amato Isabel A"
       ],
       "doi": "10.1177/10445463261497130"
-    },
-    {
-      "title": "Effects of psychedelic drug use on neurocognitive function and the psychological and social domains of quality of life: an international online study.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42851356/",
-      "source": "PubMed",
-      "abstract": "The past few decades have seen a revived interest in psychedelic-assisted and ketamine-assisted therapy for mental health disorders, but data concerning the acute, subacute, and long-term effects of serotonergic psychedelics on cognitive functioning are scarce. This international, online study (N = 759) sought to investigate the potential acute, subacute, and long-term effects of psychedelic drug use on cognition through cognitive task assessment. Questionnaires assessing mental health and quality of life were also administered. Participants completed cognitive tasks assessing working memory, selective attention, and visual/spatial perception, as well as questionnaires assessing mental health outcomes and quality of life. Based on self-reported substance use, participants were classified as non-users, lifetime users, and recent users. Recent users had significantly lower accuracy across all cognitive tasks, and lifetime users had the highest task accuracy without corresponding reaction time deficits, with the exception of the 2D mental rotation task. Lifetime use was not associated with long-term cognitive decline. Recent users reported more depressive and dissociative symptoms, whereas lifetime users reported lower scores. Lifetime users scored lower on psychological and social quality of life domains, indicating possible long-term psychosocial effects. These findings highlight the need to differentiate between the acute and long-term effects of psychedelics; lab-controlled, longitudinal studies are needed to enable safe clinical application.",
-      "date": "2026-09-24",
-      "authors": [
-        "Stadler Franziska",
-        "Saelens Johan",
-        "Henter Ioline D"
-      ],
-      "doi": "10.3389/fpsyt.2026.1843186"
-    },
-    {
-      "title": "Efficacy and safety of psilocybin-assisted therapy for alcohol use disorder: A systematic review and meta-analysis.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42850948/",
-      "source": "PubMed",
-      "abstract": "Psilocybin-assisted therapy (PAT) has emerged as a promising intervention for alcohol use disorder (AUD), yet contemporary clinical evidence has not been systematically synthesized to validate its clinical utility and safety profile. Contemporary clinical trials of PAT for AUD were identified systematically from PubMed, PsycINFO, and Scopus by two independent reviewers. Random-effects meta-analyses were conducted to synthesize within-group pre-post changes and between-group differences from randomized controlled trials (RCTs). Primary outcomes included continuous drinking measures and abstinence rates; secondary outcomes included adverse events (AEs). Six trials ( Current evidence for PAT in AUD is mixed but suggests preliminary signals of efficacy for reducing alcohol consumption and increasing the odds of maintaining long-term abstinence. The intervention was well-tolerated with a favorable safety profile, supporting its potential as a novel treatment option.",
-      "date": "2026-10-08",
-      "authors": [
-        "Florineth Gianluca A",
-        "Boeker Anna L",
-        "Bracht Tobias"
-      ],
-      "doi": "10.1177/02698811261490221"
     },
     {
       "title": "The Psychedelic Practitioner Issue 7: Preparedness (Systems)",
@@ -545,37 +545,36 @@
       "doi": "10.5812/ijpr-164903"
     },
     {
-      "title": "Oral delivery of recombinant &lt;i&gt;Lactococcus lactis&lt;/i&gt; expressing an IL-23 inhibitor as a potential therapeutic strategy for experimental colitis.",
-      "url": "https://doi.org/10.1080/10717544.2026.2726654",
+      "title": "Institutional betrayal and posttraumatic adaptation among Nova festival survivors following the 7 October 2023 attack.",
+      "url": "https://doi.org/10.1080/20008066.2026.2737601",
       "source": "Europe PMC",
-      "abstract": "Interleukin 23 (IL-23) is a key mediator of immune-mediated intestinal inflammation and plays an important role in the pathogenesis of inflammatory bowel disease. Inhibition of IL-23 signaling has therefore been validated as a therapeutic target in IBD. Here, we tested small binding proteins of non-immunoglobulin origin targeting either the IL-23 cytokine p19 subunit or the IL-23 receptor subunit IL-23R, designated ILP and REX binders, respectively. ILP317 and REX115 variants of formerly identified protein collections were tested in murine experimental colitis. <i>Lactococcus lactis</i> bacteria engineered for ILP317 or REX115 expression were administered to experimental mice via yogurt-coated food pellets before and during dextran sulfate sodium (DSS) and trinitrobenzenesulfonic acid (TNBS)-induced colitis. To compare both protein blockers, ILP317 and REX115 binders were administered intraperitoneally as soluble recombinant proteins. General health status, colon macroscopic and histological changes, mucosal tissue cell infiltration, local and systemic inflammatory cytokines were analyzed. In DSS- and TNBS-induced colitis, intraperitoneal administration of soluble ILP317 or REX115 reduced disease severity, including disease activity index, colon shortening, and mucosal inflammatory cell infiltration. Oral administration of recombinant <i>L. lactis</i> expressing ILP317 also showed consistent protective effects, whereas oral <i>L. lactis</i> expressing REX115 produced less pronounced effects in several experimental settings. Overall, ILP317 appeared more effective than REX115 when delivered orally by recombinant <i>L. lactis</i>. Oral administration of non-colonizing <i>L. lactis</i> expressing an IL-23p19 inhibitor may represent a promising preclinical strategy for the development of novel, non-invasive approaches to modulate intestinal inflammation.",
-      "date": "2026-10-03",
+      "abstract": "<b>Background:</b> On 7 October 2023, Hamas launched a large-scale surprise attack on Israel that included a mass-casualty assault on the Nova music festival, in which hundreds of attendees were murdered or abducted. While emerging research has documented survivors' early responses, less is known about their longer-term adaptation.<b>Objective:</b> This study examined Nova festival survivors' retrospective accounts of posttraumatic adaptation approximately 18 months after the attack, focusing on institutional responses, recovery resources, and perceived positive change under conditions of ongoing threat.<b>Method:</b> This phenomenologically informed study included 15 adult Nova survivors. Semi-structured, in-depth interviews were analysed using reflexive thematic analysis. Initial coding was primarily inductive and semantic, while continuous traumatic stress, institutional betrayal, recovery capital, and posttraumatic growth were used as interpretive lenses during later analysis.<b>Results:</b> Three interrelated themes emerged: multidimensional vulnerability, recovery resources, and perceived positive changes. Across all themes, personal agency was reflected in survivors' efforts to mobilise resources and actively shape their adaptation.<b>Conclusions:</b> Institutional betrayal emerged as an ongoing secondary injury, whereas survivor-led peer communities served as a key source of recovery capital. The findings underscore the importance of institutional trust and community-based support following collective trauma.",
+      "date": "2026-10-08",
       "authors": [
-        "Kopecna E",
-        "Raskova Kafkova L",
-        "Kosztyu P"
+        "Elisha E",
+        "Peled-Laskov R",
+        "Or O."
       ],
-      "doi": "10.1080/10717544.2026.2726654"
+      "doi": "10.1080/20008066.2026.2737601"
     },
     {
-      "title": "Percutaneous brachial plexus peripheral nerve stimulation for cancer-related upper extremity pain: a novel technical approach.",
-      "url": "https://doi.org/10.1016/j.inpm.2026.100824",
+      "title": "Efficacy and safety of ketamine for post-traumatic stress disorder: A systematic review with narrative synthesis and consideration of military and veteran populations.",
+      "url": "https://doi.org/10.1002/pcn5.70425",
       "source": "Europe PMC",
-      "abstract": "<h4>Background</h4>Peripheral nerve stimulation (PNS) is a well-established therapy for neuropathic pain syndromes. Emerging literature suggests that PNS is effective for treating oncologic pain.<h4>Objective</h4>This case report presents a novel ultrasound-guided, dual-lead PNS neuromodulation of the brachial plexus for upper-extremity cancer pain, with a focus on technical considerations.<h4>Methods</h4>Temporary, percutaneous, brachial plexus PNS was implanted in a patient with metastatic lung adenocarcinoma who was hospitalized for refractory pain from a pathologic humeral fracture. A novel approach is presented via the DAVIS (Dual-Lead Approach with Vectoring in the Subclavicular Plane) technique. This technique uses a parallel, subclavicular trajectory to optimize parallel lead positioning and minimize migration. Nerve localization, procedural technique, and patient-specific considerations are discussed.<h4>Results</h4>Following PNS implantation, the patient achieved complete cessation of opioid use with substantial and sustained pain relief, highlighting the clinical potential of the DAVIS technique.<h4>Conclusion</h4>Brachial plexus PNS presents a promising strategy for extremity oncologic pain. Novel approaches focusing on dual-lead placement with a parallel trajectory may expand the efficacy of PNS in anatomically complex or opioid-refractory cases.",
-      "date": "2026-09-21",
+      "abstract": "Post-traumatic stress disorder (PTSD) is a debilitating disorder with limited pharmaceutical treatment options. Ketamine, a noncompetitive <i>N</i>-methyl-d-aspartate (NMDA) receptor antagonist with rapid-onset effects, has emerged as a potential treatment, particularly for patients who do not respond to first-line therapies. This systematic review synthesizes the current evidence on the effectiveness and safety of ketamine for PTSD, with a focus on military and veteran populations. Eligible studies included adults with PTSD, who evaluated ketamine or esketamine, and reported efficacy and safety outcomes. Due to substantial clinical and methodological heterogeneity, a meta-analysis was not performed. Eight studies (<i>N</i> = 383) were included, comprising five randomized-controlled trials and three uncontrolled or observational studies. Most studies reported reductions in PTSD symptoms following ketamine administration. The largest effect size (<i>d</i>' = 2.17; representing a sample size-adjusted Cohen's <i>d</i>) was reported in a small uncontrolled open-label study of 15 veterans, in which six ketamine infusions were associated with an 80% PTSD remission rate. This finding warrants caution, given the small sample and the absence of a control group. Dissociative and hemodynamic adverse effects were frequently observed during infusion, but typically resolved afterward. No study reported cognitive decline associated with repeated ketamine administration. Current evidence suggests that ketamine may be associated with short-term reductions in PTSD symptoms in some populations; however, findings remain preliminary due to small samples, heterogeneous designs, brief follow-up, and inconsistent safety reporting.",
+      "date": "2026-10-07",
       "authors": [
-        "Nguyen L",
-        "Singh N",
-        "Sanghvi C"
+        "Ivasyutyn M",
+        "Bhakta S."
       ],
-      "doi": "10.1016/j.inpm.2026.100824"
+      "doi": "10.1002/pcn5.70425"
     },
     {
       "title": "CZ",
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2018-004480-31/CZ",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-10-16",
+      "date": "2026-10-17",
       "authors": [],
       "doi": ""
     },
@@ -584,7 +583,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2020-005037-32/CZ",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-10-16",
+      "date": "2026-10-17",
       "authors": [],
       "doi": ""
     },
@@ -593,7 +592,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2021-002909-10/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-10-16",
+      "date": "2026-10-17",
       "authors": [],
       "doi": ""
     },
@@ -602,7 +601,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2015-000550-37/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-10-16",
+      "date": "2026-10-17",
       "authors": [],
       "doi": ""
     },
@@ -611,7 +610,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2021-000041-40/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-10-16",
+      "date": "2026-10-17",
       "authors": [],
       "doi": ""
     },
@@ -620,7 +619,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2020-000829-55/DK",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-10-16",
+      "date": "2026-10-17",
       "authors": [],
       "doi": ""
     },
@@ -629,7 +628,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2020-002790-94/SE",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-10-16",
+      "date": "2026-10-17",
       "authors": [],
       "doi": ""
     },
@@ -638,7 +637,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2021-006200-33/FI",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-10-16",
+      "date": "2026-10-17",
       "authors": [],
       "doi": ""
     },
@@ -647,7 +646,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2019-004812-73/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-10-16",
+      "date": "2026-10-17",
       "authors": [],
       "doi": ""
     },
@@ -656,7 +655,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2022-002369-14/BE",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-10-16",
+      "date": "2026-10-17",
       "authors": [],
       "doi": ""
     },

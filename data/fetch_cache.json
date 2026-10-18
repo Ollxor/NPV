@@ -1,7 +1,58 @@
 {
-  "date": "2026-10-17",
-  "cached_at": "2026-10-17T10:07:26.950607+00:00",
+  "date": "2026-10-18",
+  "cached_at": "2026-10-18T10:21:50.808030+00:00",
   "articles": [
+    {
+      "title": "Acute Psychosis and Dissociative Syndrome Following Binge Recreational Nitrous Oxide Use: A Case Report.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42892949/",
+      "source": "PubMed",
+      "abstract": "Recreational nitrous oxide (N2O) inhalation is increasingly prevalent among young adults, but acute psychiatric presentations following short-term binge exposure remain poorly characterized. We report a case of a female in her early 20s with no prior history of psychotic illness who developed an acute psychotic and dissociative syndrome over three days at an outdoor music festival. Her presentation followed heavy recreational N2O and 3,4-methylenedioxymethamphetamine (MDMA) exposure combined with sleep deprivation. On admission, she exhibited profound disorientation, inability to recognize close family members, polymorphic delusions, passivity phenomena, and auditory and olfactory hallucinations, requiring involuntary psychiatric hospitalization. Diagnostic workup revealed normal brain and cervical spine magnetic resonance imaging (MRI) and a normal electroencephalogram (EEG) without epileptiform activity or slowing. Serum homocysteine was moderately elevated (25.2 µmol/L) alongside a low-normal vitamin B12 concentration (270 pg/mL), consistent with N2O-induced functional cobalamin deficiency; both markers normalized following parenteral vitamin B12 and oral folic acid supplementation. During inpatient stay, treatment with risperidone was followed by progressive neutropenia, which fully resolved after cross-titration to aripiprazole. She gradually regained full insight, was discharged on day 12, and remained free of psychotic symptoms at her three-week outpatient review. This case suggests that short-term binge N2O exposure, together with MDMA and sleep deprivation, may contribute to severe neuropsychiatric presentations without chronic use; it illustrates the value of measuring homocysteine rather than relying solely on serum B12 levels; and highlights potential hematological adverse effects during antipsychotic initiation.",
+      "date": "2026-09-17",
+      "authors": [
+        "Agostinho Francisco",
+        "Moutinho Adriana",
+        "Câmara Catarina K"
+      ],
+      "doi": "10.7759/cureus.116414"
+    },
+    {
+      "title": "Ketamine administration reduced conditioned defensive behaviour and upregulated protein expression associated with neuroplasticity in a planarian model of aversive memory reactivation.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42892539/",
+      "source": "PubMed",
+      "abstract": "Traumatic memories that are resistant to modification or extinction are a characteristic feature of post-traumatic stress disorder (PTSD). The process of fear memory reconsolidation has been identified as a potential therapeutic target for the treatment of PTSD. Ketamine, an NMDA receptor antagonist with dissociative properties, has been identified as a drug with high therapeutic potential for this target, as it destabilises traumatic memory while enabling rapid modification and update of the memory to no longer be threatening. However, its exact mechanisms of action on reducing the impact of aversive memory remains poorly understood. To better understand these mechanisms, a conditioned aversive memory reactivation model using ketamine was carried out in brown planaria (Girardia dorotocephala), an invertebrate model that shows a high degree of conservation in neural anatomy, receptors, neurotransmitters, and learning behaviours, while being comparatively simpler than standard mammalian models. In this study, 15 planaria were randomly assigned to three treatment groups (10 μM ketamine, 1 μM ketamine, vehicle control) and underwent a classical aversive memory reactivation paradigm. Whole planaria were processed for an exploratory proteomic analysis to analyse changes in protein expression associated with the effects of ketamine on the aversive memory reactivation process. Behavioural data showed a significant reduction in defensive behaviours, including scrunching movements F(2,12) = 11.85, p = 0.0014, ƞ",
+      "date": "2026-10-17",
+      "authors": [
+        "James Fionnghuala L J",
+        "Ahamed Sayed K",
+        "Yang Cheng"
+      ],
+      "doi": "10.1016/j.pnpbp.2026.111979"
+    },
+    {
+      "title": "What goes up must comedown: prevalence rates, characteristics, and coping strategies concerning MDMA aftereffects.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42891831/",
+      "source": "PubMed",
+      "abstract": "MDMA is increasingly being studied for therapeutic applications, yet the prevalence and characteristics of post-acute negative effects remain debated. We aimed to characterize MDMA's post-acute negative effects, including prevalence and symptom profile among recreational users. Given preclinical work and limited human evidence suggesting that certain supplements and antidepressants may mitigate MDMA's negative effects, we also assessed the use of these substances as coping strategies. We conducted a cross-sectional online survey of 497 MDMA-experienced participants recruited from Prolific. The survey assessed post-acute negative effects prevalence, timing, and duration; post-acute side effects; emotional changes, suicidal ideation; and intentional use of supplements or antidepressants to manage symptoms. We compared characteristics of post-acute side effects between MDMA users who self-reported ever experiencing a negative post-acute MDMA experience (colloquially known as a 'comedown') and those who did not. 74.5% of participants reported experiencing a period of post-acute negative effects at least once, with onset occurring approximately 24 hours post-ingestion and lasting an average of 40 hours. The most common symptoms were fatigue (88.1%), difficulty concentrating (85.7%), restlessness (82.9%), and headache (79.7%). 14.6% of post-acute negative effects experiencers endorsed passive suicidal ideation and 6.2% endorsed active suicidal ideation. Regarding coping strategies, 30.3% reported using supplements (most commonly N-acetyl-cysteine, acetyl-L-carnitine, and magnesium) and 5.1% reported using antidepressants, with moderate perceived helpfulness. Post-acute negative effects of MDMA appear prevalent among recreational users in a cross-sectional sample, characterized by fatigue, negative affect, and elevated suicidal ideation. These findings highlight post-acute risks that warrant further investigation.",
+      "date": "2026-10-17",
+      "authors": [
+        "Goldy Sean P",
+        "Klein Kelcy A",
+        "Yaden David B"
+      ],
+      "doi": "10.1007/s00213-026-07187-5"
+    },
+    {
+      "title": "Ketamine in psychiatry: a systematic review of clinical applications, safety considerations, and emerging challenges.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42889292/",
+      "source": "PubMed",
+      "abstract": "Ketamine has progressed from solely being an anesthetic agent to a drug of rising clinical and research interest due to its distinctive pharmacological properties. Its dissociative properties and rapid-acting antidepressant effects have made it a prominent area of investigation across many medical and psychiatric applications. This systematic review examines ketamine's history, mechanisms of action, clinical uses, and significant challenges. A systematic search of PubMed, SCOPUS, PsycINFO, and other sources, generated peer-reviewed publications that addressed the history of ketamine, its pharmacology, clinical applications, recreational use, safety considerations, and societal consequences. Overall, 106 articles were identified for inclusion in this study. At the receptor level, ketamine is an antagonist of NMDA receptors that triggers a number of downstream effects ranging from heightened glutamate transmission, AMPA receptor activation, increased BDNF expression, synaptogenesis, and mTOR pathway signaling. At the network level, it alters activity within large-scale brain circuits including the default mode network, affecting cognition, mood, and perception. Clinically, ketamine is used for anesthesia, treatment-resistant depression, and pain, with off-label uses for PTSD, anxiety disorders, and bipolar disorder. The review also examines current challenges related to ketamine's recreational use, associated risks, sociocultural factors, and key clinical and ethical considerations, including safety, monitoring, and telehealth prescribing of oral and sublingual formulations. It integrates previously fragmented research from anesthesiology, neuroscience, pharmacology, psychiatry, and public health, consolidates clinical and ethical guidance, identifies critical gaps in current knowledge, and proposes directions for future research.",
+      "date": "2026-10-01",
+      "authors": [
+        "Kinney Matthew M",
+        "Bowers Zackary L"
+      ],
+      "doi": "10.3389/fpsyt.2026.1949261"
+    },
     {
       "title": "French psychiatric caregivers' perceptions of psychedelics: A national survey.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42888158/",
@@ -207,58 +258,6 @@
         "Al-Shamali Huda F"
       ],
       "doi": "10.1016/j.jad.2026.122619"
-    },
-    {
-      "title": "A living systematic review, meta-analysis, and open data resource of trials of MDMA-assisted therapy for PTSD.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42860436/",
-      "source": "PubMed",
-      "abstract": "3,4-Methylenedioxymethamphetamine (MDMA) has emerged as a potential treatment for post-traumatic stress disorder (PTSD). However, rapidly changing evidence in a fast-moving field can be challenging to integrate. Here, we present a living systematic review and open-data meta-analytic resource on MDMA treatment for PTSD. In this initial release, 6 randomized controlled trials comprising 286 participants are included in the database. All six studies included in the review to date are sponsored by the Multidisciplinary Association for Psychedelic Studies (MAPS). Our primary model uses inverse-variance random-effects meta-analysis of standardized mean differences on primary outcomes of PTSD. Compared to control conditions, MDMA-assisted therapy (MDMA-AT) showed a greater reduction in PTSD symptoms (Hedges' g = -0.71). Meta-regressions on dosing variables were explored. Treatment with MDMA-AT as compared to placebo also resulted in higher response (risk ratio [RR] = 1.35) and remission (RR = 2.25) rates. Most studies included in the database had a low risk of bias according to Cochrane guidelines, though these fail to capture pertinent challenges in the field such as expectancy, functional unblinding, potential issues with study conduct, and safety. The current findings were assigned an overall low certainty rating using the GRADE approach. Together, this systematic review and meta-analysis suggests that MDMA-AT results in short-term decreases in PTSD symptoms across studies to date. This living systematic review, meta-analysis, database, and online dashboard ( sypres.io ) will continue to be updated as evidence emerges, providing a valuable, open, and transparent resource for researchers in a rapidly evolving field.",
-      "date": "2026-10-11",
-      "authors": [
-        "Sevchik Brooke L",
-        "Singleton S Parker",
-        "Lahey Analiese"
-      ],
-      "doi": "10.1038/s41386-026-02575-z"
-    },
-    {
-      "title": "Adverse reactions to psychedelics in naturalistic settings are associated with current psychopathology and well-being: A correlational study.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42858725/",
-      "source": "PubMed",
-      "abstract": "This study examines acute and delayed adverse reactions reported in naturalistic psychedelic use, focusing on their associations with substance-use patterns, contextual variables, and user motivations. Using an online survey incorporating the Psychedelic Use Scale, data were collected from a large naturalistic sample (N = 1022) to analyze patterns of self-reported adverse reactions. Acute adverse reactions were consistently associated with similar delayed adverse reactions, suggesting continuity between immediate and subsequent self-reported adverse experiences. Furthermore, most acute adverse reactions, with the exception of vomiting, which showed an opposite pattern, were associated with higher current psychopathology and lower well-being. Self-reported lifetime use of individual psychedelics (e.g., DMT, MDMA, and LSD) and combined substances (e.g., alcohol, caffeine, and cannabis) showed participant-level associations with specific self-reported adverse-reaction categories, while MDMA use was also associated with poorer current psychological indicators. Adverse reactions were also associated with contextual variables, including setting, type of companionship, and user motivations. Younger age and higher current frequency of psychedelic consumption were associated with higher odds of reporting adverse reactions. Because the study is cross-sectional and retrospective, and adverse reactions were not linked to specific substances or psychedelic episodes, the findings should be interpreted as correlational, hypothesis-generating co-reporting patterns rather than as substance-specific attribution. Nevertheless, they provide an empirical basis for future prospective, longitudinal, and clinical studies aimed at clarifying temporal relationships and informing harm reduction strategies.",
-      "date": "2026-10-08",
-      "authors": [
-        "Rojas-Hernández Jaime",
-        "Borkel Lucas F",
-        "Santana Del Pino Ángelo"
-      ],
-      "doi": "10.1016/j.psychres.2026.117516"
-    },
-    {
-      "title": "[Connectome and Depression: Towards Precision Psychiatry Based on Brain Networks].",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42858129/",
-      "source": "PubMed",
-      "abstract": "In recent decades, the study of the human connectome —the comprehensive map of the brain's neural connections— has redefined our understanding of Major Depressive Disorder (MDD) as a spectrum of functional and structural alterations in specific brain networks. This review explores evidence on functional connectivity patterns in MDD, highlighting the involvement of networks such as the default mode network (DMN), frontoparietal network (FPN), salience network (SN), and reward circuits. We analyze patterns detected using functional magnetic resonance imaging (fMRI) and their potential as biomarkers to predict treatment response to interventions currently included in clinical guidelines and widely used in practice, such as psychotherapy, first-line antidepressants (SSRIs), transcranial magnetic stimulation (TMS), electroconvulsive therapy (ECT), and sub-anesthetic doses of ketamine. For this purpose, we conducted an integrative narrative review of the scientific literature, selecting articles based on clinical relevance and methodological quality (GRADE), including meta-analyses, systematic reviews, and randomized controlled trials. These findings may contribute to a paradigm shift toward precision psychiatry, increasingly centered on the individual. Although methodological challenges persist that limit their clinical application, understanding the connectome and its relationship with MDD pathogenesis is a fundamental step toward truly personalized mental healthcare. En las últimas décadas, el estudio del conectoma humano -mapa integral de las conexiones neuronales del cerebro- ha redefinido la comprensión del trastorno depresivo mayor (TDM) como un espectro de alteraciones funcionales y estructurales en redes cerebrales específicas. Esta revisión explora evidencia sobre patrones de conectividad funcional en el TDM, destacando la implicancia de redes como la red neuronal por defecto (RND), la red frontoparietal (RFP), la red de saliencia (RS) y los circuitos de recompensa. Se analizan patrones detectados mediante resonancia magnética funcional (RMf) y su potencial como biomarcadores para predecir respuesta a las intervenciones que hoy forman parte de las guías clínicas y constituyen el arsenal habitual en la práctica, como la psicoterapia, los antidepresivos de primera línea (ISRS), la estimulación magnética transcraneal (EMT), la terapia electroconvulsiva (TEC) y la ketamina a dosis subanestésicas. Para ello, realizamos una revisión narrativa integrativa de la literatura científica, seleccionando artículos por relevancia clínica y calidad metodológica (GRADE), incluyendo metaanálisis, revisiones sistemáticas y ensayos clínicos aleatorizados. Estos hallazgos podrían generar un cambio de paradigma hacia una psiquiatría de precisión, cada vez más centrada en la persona. Aunque persisten desafíos metodológicos que limitan su aplicación clínica, comprender el conectoma y su relación con la patogénesis del TDM es un paso fundamental hacia una verdadera atención personalizada en salud mental.",
-      "date": "2026-10-10",
-      "authors": [
-        "Majul Conte Grand María Victoria",
-        "Dines Micaela",
-        "Bulacia Adriana V"
-      ],
-      "doi": "10.53680/vertex.v37i173.1067"
-    },
-    {
-      "title": "Subcutaneous Esketamine in Adolescents with Severe Depressive Episodes: A Five-Case Series.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42855888/",
-      "source": "PubMed",
-      "abstract": "To describe the feasibility, acute tolerability, and short-term symptom trajectories of adjunctive subcutaneous esketamine in adolescents with severe depressive episodes treated in specialized outpatient care. This observational case series included five adolescents aged 15-17 years with severe depressive symptoms, suicidal ideation and/or behavior, and insufficient response to previous treatments. Patients received eight once-weekly subcutaneous esketamine sessions, starting at 0.5 mg/kg and titrated up to 1.0 mg/kg based on clinical response and tolerability. Depressive symptoms were assessed using the Montgomery-Åsberg Depression Rating Scale (MADRS). MADRS-rated suicidal ideation and anhedonia-related symptoms were examined descriptively using MADRS Items 10 and 8, respectively; Item 8 was considered an indirect indicator of anhedonia-related symptoms. All patients completed the eight-session treatment course. Overall, MADRS trajectories were heterogeneous: one patient achieved remission, three presented varying degrees of partial improvement, and one showed no sustained benefit. MADRS Item 10 scores decreased from baseline to endpoint in four patients, and MADRS Item 8 scores decreased in four patients. Acute adverse effects included transient dissociative symptoms with mild agitation in one patient and mild transient elevations in blood pressure in some cases. No severe acute adverse events, emergency interventions, psychiatric hospitalizations, suicide attempts, or clear manic switches were documented during the 8-week protocol. In this small uncontrolled case series, adjunctive subcutaneous esketamine was feasible under close monitoring and was associated with heterogeneous short-term depressive symptom trajectories. Decreases in MADRS-rated suicidal ideation and MADRS Item 8 scores should be considered hypothesis-generating and do not establish antidepressant efficacy, domain-specific effects, or reduced suicide risk. Controlled pediatric studies with standardized dosing, suicide-specific assessments, systematic safety monitoring, and longer follow-up are needed.",
-      "date": "2026-10-09",
-      "authors": [
-        "Magalhães Iury P A",
-        "Lopes Daniel N",
-        "Amato Isabel A"
-      ],
-      "doi": "10.1177/10445463261497130"
     },
     {
       "title": "The Psychedelic Practitioner Issue 7: Preparedness (Systems)",
@@ -574,7 +573,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2018-004480-31/CZ",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-10-17",
+      "date": "2026-10-18",
       "authors": [],
       "doi": ""
     },
@@ -583,7 +582,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2020-005037-32/CZ",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-10-17",
+      "date": "2026-10-18",
       "authors": [],
       "doi": ""
     },
@@ -592,7 +591,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2021-002909-10/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-10-17",
+      "date": "2026-10-18",
       "authors": [],
       "doi": ""
     },
@@ -601,7 +600,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2015-000550-37/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-10-17",
+      "date": "2026-10-18",
       "authors": [],
       "doi": ""
     },
@@ -610,7 +609,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2021-000041-40/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-10-17",
+      "date": "2026-10-18",
       "authors": [],
       "doi": ""
     },
@@ -619,7 +618,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2020-000829-55/DK",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-10-17",
+      "date": "2026-10-18",
       "authors": [],
       "doi": ""
     },
@@ -628,7 +627,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2020-002790-94/SE",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-10-17",
+      "date": "2026-10-18",
       "authors": [],
       "doi": ""
     },
@@ -637,7 +636,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2021-006200-33/FI",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-10-17",
+      "date": "2026-10-18",
       "authors": [],
       "doi": ""
     },
@@ -646,7 +645,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2019-004812-73/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-10-17",
+      "date": "2026-10-18",
       "authors": [],
       "doi": ""
     },
@@ -655,7 +654,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2022-002369-14/BE",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-10-17",
+      "date": "2026-10-18",
       "authors": [],
       "doi": ""
     },

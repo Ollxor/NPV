@@ -1,6 +1,65 @@
 {
   "items": [
     {
+      "title": "Ketamine administration reduced conditioned defensive behaviour and upregulated protein expression associated with neuroplasticity in a planarian model of aversive memory reactivation.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42892539/",
+      "source": "PubMed",
+      "date": "2026-10-17",
+      "authors": [
+        "James Fionnghuala L J",
+        "Ahamed Sayed K",
+        "Yang Cheng"
+      ],
+      "doi": "10.1016/j.pnpbp.2026.111979",
+      "summary_en": "Study in planaria examined ketamine's mechanism in treating traumatic memories. Fifteen organisms received 10 μM ketamine, 1 μM ketamine, or vehicle control during aversive memory reactivation. Ketamine significantly reduced defensive behaviors and upregulated neuroplasticity-associated proteins. Findings suggest ketamine destabilizes aversive memories, enabling modification—relevant for PTSD treatment mechanisms.",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "preclinical",
+      "substances": [
+        "ketamine"
+      ],
+      "added_at": "2026-10-18T11:30:06.557379+00:00"
+    },
+    {
+      "title": "What goes up must comedown: prevalence rates, characteristics, and coping strategies concerning MDMA aftereffects.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42891831/",
+      "source": "PubMed",
+      "date": "2026-10-17",
+      "authors": [
+        "Goldy Sean P",
+        "Klein Kelcy A",
+        "Yaden David B"
+      ],
+      "doi": "10.1007/s00213-026-07187-5",
+      "summary_en": "Cross-sectional survey of 497 MDMA users examined post-acute negative effects prevalence and characteristics. 74.5% reported comedown symptoms starting ~24 hours post-ingestion, lasting ~40 hours. Most common symptoms: fatigue (88.1%), concentration difficulties (85.7%), restlessness (82.9%), headache (79.7%). 14.6% experienced passive suicidal ideation, 6.2% active ideation. Study also assessed supplements and antidepressants as coping strategies.",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "observational",
+      "substances": [
+        "mdma"
+      ],
+      "added_at": "2026-10-18T11:30:06.557379+00:00"
+    },
+    {
+      "title": "Ketamine in psychiatry: a systematic review of clinical applications, safety considerations, and emerging challenges.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42889292/",
+      "source": "PubMed",
+      "date": "2026-10-01",
+      "authors": [
+        "Kinney Matthew M",
+        "Bowers Zackary L"
+      ],
+      "doi": "10.3389/fpsyt.2026.1949261",
+      "summary_en": "Systematic review of 106 peer-reviewed studies examining ketamine's evolution from anesthetic to psychiatric agent. NMDA receptor antagonism triggers downstream effects including glutamate transmission and BDNF expression, altering default mode network activity. Clinical applications span anesthesia, treatment-resistant depression, and pain management, with emerging off-label use in PTSD, anxiety, and bipolar disorder. Review addresses safety, recreational use risks, and ethical considerations.",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "review",
+      "substances": [
+        "ketamine"
+      ],
+      "added_at": "2026-10-18T11:30:06.557379+00:00"
+    },
+    {
       "title": "Efficacy and safety of ketamine for post-traumatic stress disorder: A systematic review with narrative synthesis and consideration of military and veteran populations.",
       "url": "https://doi.org/10.1002/pcn5.70425",
       "source": "Europe PMC",

@@ -1,6 +1,68 @@
 {
-  "generated_at": "2026-10-17T11:02:14.026890+00:00",
+  "generated_at": "2026-10-18T11:30:57.189735+00:00",
   "items": [
+    {
+      "title": "Ketamine administration reduced conditioned defensive behaviour and upregulated protein expression associated with neuroplasticity in a planarian model of aversive memory reactivation.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42892539/",
+      "source": "PubMed",
+      "date": "2026-10-17",
+      "authors": [
+        "James Fionnghuala L J",
+        "Ahamed Sayed K",
+        "Yang Cheng"
+      ],
+      "doi": "10.1016/j.pnpbp.2026.111979",
+      "summaries": {
+        "en": "Study in planaria examined ketamine's mechanism in treating traumatic memories. Fifteen organisms received 10 μM ketamine, 1 μM ketamine, or vehicle control during aversive memory reactivation. Ketamine significantly reduced defensive behaviors and upregulated neuroplasticity-associated proteins. Findings suggest ketamine destabilizes aversive memories, enabling modification—relevant for PTSD treatment mechanisms.",
+        "sv": "Studie i planarier undersökte ketamins mekanism vid behandling av traumatiska minnen. Femton organismer erhöll 10 μM ketamin, 1 μM ketamin eller kontrolljämförelse under minnesreaktivering. Ketamin minskade försvarsbeteenden signifikant och uppregulerade neuroplasticitetsproteiner. Resultaten tyder på att ketamin destabiliserar aversiva minnen, vilket möjliggör modifiering—relevant för PTSD-behandling.",
+        "no": "Studie i planarier undersøkte ketamins mekanisme ved behandling av traumatiske minner. Femten organismer mottok 10 μM ketamin, 1 μM ketamin eller kontrollbehandling under minnereaktivering. Ketamin reduserte forsvarsatferd signifikant og oppregulerte nevropastisitetsassosierte proteiner. Resultatene tyder på at ketamin destabiliserer aversive minner, muligens relevant for PTSD-behandling.",
+        "da": "Undersøgelse i planarier undersøgte ketamins mekanisme ved behandling af traumatiske minder. Femten organismer modtog 10 μM ketamin, 1 μM ketamin eller kontrolbehandling under minnereaktivering. Ketamin reducerede defensiv adfærd signifikant og ophøjede nevroplasticitet-associerede proteiner. Resultaterne tyder på, at ketamin destabiliserer aversive minder, potentielt relevant for PTSD-behandling.",
+        "fi": "Tutkimus planaarioissa tutki ketamiinin mekanismia traumaattisten muistojen hoidossa. Viisitoista organismia sai 10 μM ketamiinia, 1 μM ketamiinia tai kontrollikäsittelyä muistin uudelleenaktivoinnin aikana. Ketamiini vähensi puolustuskäyttäytymistä merkitsevästi ja lisäsi neuroplastisuuteen liittyviä proteiineja. Tulokset viittaavat, että ketamiini epävakauttaa aversiivia muistoja, mahdollisesti merkityksellisiä PTSD-hoitoon.",
+        "is": "Rannsókn á plönum rannsakaði kerfi ketamíns við meðferð á átroðnum minningum. Fimmtán lífverur fengu 10 μM ketamín, 1 μM ketamín eða stjórnunarmeðferð við endurkveikingu minnis. Ketamín minnkaði varnarathöfn verulega og jók prótein sem tengdir eru taugavirkni. Niðurstöður benda til að ketamín óstöðugli óbærileg minni, hugsanlega mikilvægt fyrir PTSD-meðferð.",
+        "et": "Uuringus planaariumidel uuriti ketamiini mehhanismi traumaatiliste mälestuste ravil. Viisteist organismile manustrati 10 μM ketamiini, 1 μM ketamiini või kontrollravi mälu reaktiveerimise käigus. Ketamiin vähendas signifikantset kaitsekäitumist ja suurendas neuroplastisuusega seotud valke. Tulemused viitavad, et ketamiin destabiliseerib aversiivseid mälestusi, PTSD-ravi jaoks potentsiaalselt oluline.",
+        "lv": "Pētījums planārijās pārbaudīja ketamīna mehānismu traumatisku atmiņu ārstēšanā. Piecpadsmit organismi saņēma 10 μM ketamīnu, 1 μM ketamīnu vai kontroles ārstēšanu atmiņas reaktivācijas laikā. Ketamīns ievērojami samazināja aizsardzības uzvedību un palielināja neuroplastitātes saistītus olbaltumvielas. Rezultāti norāda, ka ketamīns destabilizē aversīvas atmiņas, potenciāli svarīgas PTSD ārstēšanai.",
+        "lt": "Tyrimą planariose buvo tiriamas ketamino mechanizmas gydant trauminius prisiminimai. Penkiolika organizmų gavo 10 μM ketamino, 1 μM ketamino arba kontrolę atmintį reaktyvavimo metu. Ketaminas reikšmingai sumažino apsaugos elgesį ir padidino neuroplastitumui susijusias baltymus. Rezultatai rodo, kad ketaminas destabilizuoja aversyvius prisiminimai, potencialiai svarbius PTSD gydymui."
+      },
+      "notable": false,
+      "notable_reasons": null,
+      "relevance_score": 4,
+      "study_type": "preclinical",
+      "substances": [
+        "ketamine"
+      ],
+      "added_at": "2026-10-18T11:30:06.557379+00:00"
+    },
+    {
+      "title": "What goes up must comedown: prevalence rates, characteristics, and coping strategies concerning MDMA aftereffects.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42891831/",
+      "source": "PubMed",
+      "date": "2026-10-17",
+      "authors": [
+        "Goldy Sean P",
+        "Klein Kelcy A",
+        "Yaden David B"
+      ],
+      "doi": "10.1007/s00213-026-07187-5",
+      "summaries": {
+        "en": "Cross-sectional survey of 497 MDMA users examined post-acute negative effects prevalence and characteristics. 74.5% reported comedown symptoms starting ~24 hours post-ingestion, lasting ~40 hours. Most common symptoms: fatigue (88.1%), concentration difficulties (85.7%), restlessness (82.9%), headache (79.7%). 14.6% experienced passive suicidal ideation, 6.2% active ideation. Study also assessed supplements and antidepressants as coping strategies.",
+        "sv": "Tvärsnittsstudie med 497 MDMA-användare undersökte prevalens och karakteristiska drag av eftereffekter. 74,5% rapporterade nedkomstsymptom som började ~24 timmar efter intag och varade ~40 timmar. Vanligaste symtomen: trötthet (88,1%), koncentrationssvårigheter (85,7%), rastlöshet (82,9%), huvudvärk (79,7%). 14,6% upplevde passiv suicidalitet, 6,2% aktiv. Studien bedömde även kosttillskott och antidepressiva som copingstrategier.",
+        "no": "Tverrsnittstudie med 497 MDMA-brukere undersøkte prevalens og karakteristikker ved ettervirkninger. 74,5% rapporterte nedkomstsymptomer som startet ~24 timer etter inntak og varte ~40 timer. Vanligste symptomer: tretthet (88,1%), konsentrasjonsvansker (85,7%), rastløshet (82,9%), hodepine (79,7%). 14,6% opplevde passiv suisidalitet, 6,2% aktiv. Studien vurderte også kosttilskudd og antidepressiva som mestringsstrategier.",
+        "da": "Tværsnittsundersøgelse med 497 MDMA-brugere undersøgte prævalens og karakteristika ved eftereffekter. 74,5% rapporterede nedkomstsymptomer, der begyndte ~24 timer efter indtagelse og varede ~40 timer. Mest almindelige symptomer: træthed (88,1%), koncentrationsvanskeligheder (85,7%), rastløshed (82,9%), hovedpine (79,7%). 14,6% oplevede passiv selvmordstanker, 6,2% aktiv. Studien vurderede også kosttilskud og antidepressiva som mestringsstrategier.",
+        "fi": "Poikkileikkaustutkimus 497 MDMA-käyttäjällä tutki jälkivaikutuksien esiintyvyyttä ja piirteitä. 74,5% raportoi väsymysvaiheen oireita, jotka alkoivat ~24 tuntia nauttimisen jälkeen ja kestivät ~40 tuntia. Yleisimmät oireet: väsymys (88,1%), keskittymisvaikeudet (85,7%), levottomuus (82,9%), päänsärky (79,7%). 14,6% koki passiivisia itsemurhapensauksia, 6,2% aktiivisia. Tutkimus arvioi myös ravintolisät ja masennuslääkkeet selviytymisstrategioina.",
+        "is": "Þverskurðarrannsókn með 497 MDMA-notendum kannaði tíðni og einkenni eftir áhrifa. 74,5% greindu frá þreytu-einkennnum sem komu fram ~24 tímum eftir neyslu og stóðu ~40 tíma. Algengstu einkenni: þreyta (88,1%), einbeitingarerfiðleikar (85,7%), sveiflugleiki (82,9%), höfuðverkur (79,7%). 14,6% upplifðu óbeina sjálfsvígshugmyndir, 6,2% beina. Rannsóknin mat einnig fæðubótarefni og þunglyndarlyf sem aðferðir til að takast á við einkenni.",
+        "et": "Ristlõikeuuring 497 MDMA-kasutajaga uuris järelhõjude esinemissagedust ja tunnuseid. 74,5% teatasid väsimuse sümptomeid, mis algasid ~24 tundi pärast võtmist ja kestsid ~40 tundi. Levinuimad sümptomid: väsimus (88,1%), keskendumisraskused (85,7%), rahutus (82,9%), peavalu (79,7%). 14,6% kogesid passiivset enesetapu ideatsiooni, 6,2% aktiivset. Uuring hinnatas ka toidulisandeid ja antidepressante strateegiatena sümptomite leevendamiseks.",
+        "lv": "Šķērsgriezuma pētījums ar 497 MDMA lietotājiem pārbaudīja pēcefektu izplatību un pazīmes. 74,5% ziņoja par noguruma simptomus, kas sākās ~24 stundas pēc lietošanas un ilga ~40 stundas. Visizplatītākie simptomi: nogurums (88,1%), koncentrācijas grūtības (85,7%), nemierība (82,9%), galvassāpes (79,7%). 14,6% piedzīvoja pasīvu pašnāvniecības ideāciju, 6,2% aktīvu. Pētījumā novērtēja arī uztura bagātinātājus un antidepresantus kā simptomātu mazināšanas stratēģijas.",
+        "lt": "Skerspjūvio tyrimas su 497 MDMA vartotojais tiesiog tyrinėjo paskutinių efektų dažnumą ir charakteristikas. 74,5% pranešė apie nuovargio simptomus, prasidėjusius ~24 valandas po vartojimo ir trukusius ~40 valandų. Dažniausiai pasitaikantys simptomai: nuovargis (88,1%), koncentracijos sunkumai (85,7%), neramumas (82,9%), galvos skausmas (79,7%). 14,6% patyrė pasyvias savižudybės idejas, 6,2% aktyvias. Tyrime taip pat vertinti maisto papildai ir antidepresantai kaip simptomų mažinimo strategijos."
+      },
+      "notable": false,
+      "notable_reasons": null,
+      "relevance_score": 4,
+      "study_type": "observational",
+      "substances": [
+        "mdma"
+      ],
+      "added_at": "2026-10-18T11:30:06.557379+00:00"
+    },
     {
       "title": "French psychiatric caregivers' perceptions of psychedelics: A national survey.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42888158/",
@@ -967,6 +1029,36 @@
         "other"
       ],
       "added_at": "2026-10-03T11:52:21.372395+00:00"
+    },
+    {
+      "title": "Ketamine in psychiatry: a systematic review of clinical applications, safety considerations, and emerging challenges.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42889292/",
+      "source": "PubMed",
+      "date": "2026-10-01",
+      "authors": [
+        "Kinney Matthew M",
+        "Bowers Zackary L"
+      ],
+      "doi": "10.3389/fpsyt.2026.1949261",
+      "summaries": {
+        "en": "Systematic review of 106 peer-reviewed studies examining ketamine's evolution from anesthetic to psychiatric agent. NMDA receptor antagonism triggers downstream effects including glutamate transmission and BDNF expression, altering default mode network activity. Clinical applications span anesthesia, treatment-resistant depression, and pain management, with emerging off-label use in PTSD, anxiety, and bipolar disorder. Review addresses safety, recreational use risks, and ethical considerations.",
+        "sv": "Systematisk granskning av 106 vetenskapliga studier om ketamins utveckling från anestetikum till psykiatrisk läkemedel. NMDA-receptorantagonism utlöser nedströmeffekter inklusive glutamatöverföring och BDNF-uttryck, vilket förändrar aktiviteten i standardnätverket. Kliniska tillämpningar omfattar anestesi, behandlingsresistent depression och smärtbehandling, med växande off-label-användning vid PTSD, ångestsyndrom och bipolär sjukdom. Granskningen adresserar säkerhet, missbruksrisker och etiska överväganden.",
+        "no": "Systematisk gjennomgang av 106 fagfelle-vurderte studier om ketamins utvikling fra anestetikum til psykiatrisk middel. NMDA-reseptorantagonisme utløser nedstrømseffekter inkludert glutamatoverføring og BDNF-uttrykk, som endrer aktivitet i standardmodusnettverk. Kliniske anvendelser omfatter anestesi, behandlingsresistent depresjon og smertebehandling, med økende off-label bruk ved PTSD, angstlidelser og bipolar lidelse. Gjennomgangen adresserer sikkerhet, misbruksrisiko og etiske hensyn.",
+        "da": "Systematisk gennemgang af 106 fagfællebedømte studier om ketamins udvikling fra anæstetikum til psykiatrisk lægemiddel. NMDA-receptorantagonisme udløser downstreameffekter inklusive glutamattransmission og BDNF-udtryk, som ændrer aktiviteten i default mode network. Kliniske anvendelser omfatter anæstesi, behandlingsresistent depression og smertebehandling, med stigende off-label brug ved PTSD, angstlidelser og bipolar lidelse. Gennemgangen behandler sikkerhed, misbrug risici og etiske overvejelser.",
+        "fi": "Systemaattinen katsaus 106 vertaisarvioidusta tutkimuksesta ketamiinin kehityksestä anesteettisesta aineesta psykiatrisen lääkkeen käyttöön. NMDA-reseptoriantagonismi laukaisee alavirtavaikutuksia mukaan lukien glutamaatin siirto ja BDNF-ilmaisu, jotka muuttavat oletustilaverkon toimintaa. Kliiniset sovellukset kattavat anestesian, hoitoon vastustavan depression ja kivunhoidon sekä kasvavat off-label käytöt PTSD:ssa, ahdistuneisuushäiriöissä ja kaksisuuntaisessa mielialahäiriössä. Katsaus käsittelee turvallisuutta, väärinkäyttöriskit ja eettiset näkökohdat.",
+        "is": "Kerfisbundin yfirlit yfir 106 faglegum rannsóknum um þróun ketamíns frá svefnlyfi til sálkrabbaleyfis. NMDA-viðtaka andstæðingur kallar fram niðurstreymisáhrif sem fela í sér glutamatsendingu og BDNF-tjáningu, sem breyta virkningu sjálfgefins netverkskerfis. Klínísk not spannar svefngjöf, þunglynd sem hnignar meðferð og verkjalindringu, með vaxandi not utan leyfis við PTSD, kvíðaraskanir og tvíhliða geðraskanir. Yfirlitið fjallar um öryggi, misnotkunaráhættu og siðferðileg atriði.",
+        "et": "Süstemaatiline ülevaade 106 kaasamõtlejate poolt arvustatud uuringust ketamiini arengust anesteetikumist psühhiaatriliseks ravimiks. NMDA-retseptori antagonism käivitab allavoolu efekte, sealhulgas glutamaadi edastamist ja BDNF-väljendust, mis muudavad vaikimisi võrgustiku tegevust. Kliinilised rakendused hõlmavad anestesiat, ravi vastupidavat depressiooni ja valuhaldust, kasvavas kasutuses PTSD-s, ärevushäiretesse ja kahesuunalisse meeleoluhäiresse. Ülevaade käsitleb ohutust, kuritarvitamise riski ja eetilisi kaalutlusi.",
+        "lv": "Sistemātisks pārskats par 106 recenzētiem pētījumiem par ketamīna evolūciju no anestētikas līdzekļa uz psihiatrijas zāli. NMDA receptora antagonisms izraisa lejupstraumes efektus, ieskaitant glutamāta pārnesi un BDNF ekspresiju, kas maina noklusējuma tīkla darbību. Klīniskie pielietojumi ietver anestēziju, ārstēšanai rezistentu depresiju un sāpju vadību, ar pieaugošu off-label lietojumu PTSP, trauksmes traucējumos un divpolāro traucējumā. Pārskats apsver drošību, ļaunprātīgas izmantošanas riskus un ētiskus apsvērumus.",
+        "lt": "Sisteminis 106 recenzuotų tyrimų apžvalga apie ketamino evoliuciją iš anestezijos priemonės į psichiatrijos vaistą. NMDA receptoriaus antagonizmas suaktyvina tolesnius efektus, įskaitant glutamato perdavą ir BDNF ekspresija, kurie keičia numatyto režimo tinklo veiklą. Klininis taikymas apima anestezija, gydymui atsparias depresiją ir skausmo gydymą, su augančiu panaudojimu ne pagal paskirtį PTSP, nerimo sutrikimuose ir bipolinėje sutrikimuose. Apžvalga nagrinėja saugumą, piktnaudžiavimo rizika ir etinius aspektus."
+      },
+      "notable": false,
+      "notable_reasons": null,
+      "relevance_score": 4,
+      "study_type": "review",
+      "substances": [
+        "ketamine"
+      ],
+      "added_at": "2026-10-18T11:30:06.557379+00:00"
     },
     {
       "title": "Multi-center, randomized controlled efficacy and comparative-effectiveness study evaluating ketamine, stellate ganglion blocks, combination treatment, and sham treatments for posttraumatic stress disorder and traumatic brain injury-associated headache: a study protocol.",
@@ -1947,100 +2039,6 @@
         "ayahuasca"
       ],
       "added_at": "2026-09-20T11:39:55.846587+00:00"
-    },
-    {
-      "title": "Serotonergic psychedelics and amphetamine shift male rat ultrasonic vocalizations toward call patterns associated with positively valenced states.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42759593/",
-      "source": "PubMed",
-      "date": "2026-09-18",
-      "authors": [
-        "Cyrano Ewelina",
-        "Gołębiowska Joanna",
-        "Popik Piotr"
-      ],
-      "doi": "10.1016/j.pnpbp.2026.111940",
-      "summaries": {
-        "en": "Study using AI-based analysis of rat ultrasonic vocalizations found that serotonergic psychedelics (DOI, LSD) and amphetamine altered vocal patterns toward those associated with positive affective states. DOI and LSD reduced 'flat' calls linked to non-rewarding states, while LSD, lisuride, and amphetamine increased reward-associated call types. Results suggest these compounds modulate affective vocalization independent of overall call volume.",
-        "sv": "Studie med AI-baserad analys av råttors ultraljudsljud visade att serotonerga psykedelika (DOI, LSD) och amfetamin förändrade vokala mönster mot sådana associerade med positiva affektiva tillstånd. DOI och LSD minskade 'platta' ljud kopplade till icke-belönande tillstånd, medan LSD, lisurid och amfetamin ökade belöningsrelaterade ljudtyper. Resultaten tyder på att dessa substanser modulerar affektiv vokalisering oberoende av total ljudvolym.",
-        "no": "Studie med AI-basert analyse av rotters ultralydslyder viste at serotonerge psykedelika (DOI, LSD) og amfetamin endret vokale mønster mot de som er forbundet med positive affektive tilstander. DOI og LSD reduserte 'flate' lyder knyttet til ikke-belønningstilstander, mens LSD, lisurid og amfetamin økte belønningsrelaterte lydtyper. Resultatene antyder at disse stoffene modulerer affektiv vokalisering uavhengig av total lydvolum.",
-        "da": "Studie med AI-baseret analyse af rotters ultralydslyden viste, at serotonerge psykedelika (DOI, LSD) og amfetamin ændrede vokale mønstre mod dem forbundet med positive affektive tilstande. DOI og LSD reducerede 'flade' lyde knyttet til ikke-belønningsstilstande, mens LSD, lisurid og amfetamin øgede belønningsrelaterede lydtyper. Resultaterne antyder, at disse stoffer modulerer affektiv vokalisering uafhængigt af samlet lydvolumen.",
-        "fi": "AI-pohjaisen analyysin käyttävä tutkimus rotien ultraäänihuudoista osoitti, että serotoniergit psykedeellit (DOI, LSD) ja amfetamiini muuttivat vokaalisia malleja positiivisiin affektiivisiin tiloihin liittyviksi. DOI ja LSD vähensi 'litteitä' ääniä, jotka liittyvät ei-palkkio-tiloihin, kun taas LSD, lisuriidi ja amfetamiini lisäsivät palkkio-suhteisia äänityppejä. Tulokset viittaavat, että nämä aineet moduloivat affektiivista vokalisaatiota riippumatta äänien kokonaismäärästä.",
-        "is": "Rannsókn með gervigreind-byggðri greiningu á hljóðum rotna sýndi að serótónerga sifreldiefni (DOI, LSD) og amfetamín breyttu raddmynstrum í stefnu jákvæðra tilfinningalegra tilstanda. DOI og LSD minnkuðu 'flöt' hljóð tengd ekki-verðlaunstilstöndum, en LSD, lisuríð og amfetamín jukust í verðlaunatengdum hljóðtegundum. Niðurstöður benda til að þessi efni stýri tilfinningalegri raddgefinni óháð heildarhljóðmagni.",
-        "et": "Tehisintellekti-põhise analüüsiga uuringu, mis uuris rotite ultraheli hääli, leiti, et serotoniergid psühhedooniakud (DOI, LSD) ja amfetamiin muutsid helimustreid positiivsete afektiivsete seisunditega seotuteks. DOI ja LSD vähendasid mittepalkitavate seisunditega seotud 'lamedad' helisid, samas kui LSD, lisuriid ja amfetamiin suurendasid palkitavate heliliikidega seotud helisid. Tulemused viitavad sellele, et need ained moduleerivad afektiivset vokalisatsiooni helide koguarvust sõltumatult.",
-        "lv": "Pētījums, kurā izmantota mākslīgā intelekta balstīta žurku ultrazvanisku vokalizāciju analīze, parādīja, ka serotonerģiskie psihodēliki (DOI, LSD) un amfetamīns izmainīja vokalus modeļus uz tiem, kas saistīti ar pozitīviem afektīviem stāvokļiem. DOI un LSD samazināja 'plaknus' izsaukumus, kas saistīti ar ne-uguņuotas stāvokļiem, kamēr LSD, lisuríds un amfetamīns palielināja atlīdzības saistītus zvanu tipus. Rezultāti norāda, ka šie vielas modulē afektīvu vokalizāciju neatkarīgi no kopējā izsaukumu skaita.",
-        "lt": "Tyrimas naudojant dirbtinio intelekto pagrįstą žiurkių ultragarsinių balsų analizę parodė, kad serotoniergiai psichedelikai (DOI, LSD) ir amfetaminas pakeitė vokalines šablonų link tų, susijetų su teigiamais afektyviais būviais. DOI ir LSD sumažino 'plokščius' balsus, susijetūs su nemotyvuotais būviais, o LSD, lisuridinas ir amfetaminas padidino atlygintų balsų tipus. Rezultatai rodo, kad šios medžiagos moduliuoja afektyvią vokalizaciją nepriklausomai nuo bendro balsų skaičiaus."
-      },
-      "notable": false,
-      "notable_reasons": null,
-      "relevance_score": 3,
-      "study_type": "preclinical",
-      "substances": [
-        "lsd",
-        "other"
-      ],
-      "added_at": "2026-09-19T11:17:08.037177+00:00"
-    },
-    {
-      "title": "Validating and creating a short-form of the persisting effects questionnaire: A measure of positive and negative outcomes from psychedelic experiences.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42755297/",
-      "source": "PubMed",
-      "date": "2026-09-18",
-      "authors": [
-        "Ehrenkranz Rebecca",
-        "Sepeda Nathan D",
-        "Goldy Sean P"
-      ],
-      "doi": "10.1177/02698811261473405",
-      "summaries": {
-        "en": "Researchers validated and created a short form of the Persisting Effects Questionnaire (PEQ), a self-report measure of positive and negative outcomes from psychedelic experiences. The original 140+ item scale was reduced to 14 items plus three single items using exploratory and confirmatory factor analysis across clinical and non-clinical samples. The validated PEQ-SF maintains a two-factor structure (positive and negative valence) with strong psychometric properties and reduced participant burden.",
-        "sv": "Forskare validerade och skapade en kortform av Persisting Effects Questionnaire (PEQ), ett självrapporteringsmått för positiva och negativa effekter från psykedeliska erfarenheter. Den ursprungliga skalan med över 140 frågor reducerades till 14 frågor plus tre enskilda items genom faktoranalys i kliniska och icke-kliniska grupper. Den validerade PEQ-SF bibehåller en tvåfaktorsstruktur (positiv och negativ valens) med starka psykometriska egenskaper och minskad belastning för deltagarna.",
-        "no": "Forskere validerte og utviklet en kortversjon av Persisting Effects Questionnaire (PEQ), et selvrapporteringsmål for positive og negative utfall fra psykedeliske erfaringer. Den originale skalaen med over 140 spørsmål ble redusert til 14 spørsmål pluss tre enkeltitems gjennom faktoranalyse i kliniske og ikke-kliniske prøver. Den validerte PEQ-SF opprettholder en tofaktorstruktur (positiv og negativ valens) med sterke psykometriske egenskaper og redusert belastning for deltakerne.",
-        "da": "Forskere validerede og udviklede en kortform af Persisting Effects Questionnaire (PEQ), et selvrapporteringsmål for positive og negative resultater fra psykedeliske oplevelser. Den oprindelige skala med over 140 spørgsmål blev reduceret til 14 spørgsmål plus tre enkeltitems gennem faktoranalyse i kliniske og ikke-kliniske stikprøver. Den validerede PEQ-SF opretholder en tofaktorstruktur (positiv og negativ valens) med stærke psykometriske egenskaber og reduceret belastning for deltagerne.",
-        "fi": "Tutkijat validoivat ja kehittivät lyhennetyn version Persisting Effects Questionnairesta (PEQ), itseraportointimittarista psykedeelistä kokemuksista aiheutuvista positiivisista ja negatiivisista seurauksista. Yli 140 kysymystä sisältävä alkuperäinen mittari supistettiin 14 kysymykseen ja kolmeen yksittäiseen osioon faktorianalyysin avulla kliinisissa ja ei-kliinisissä otoksissa. Validoitu PEQ-SF säilyttää kaksifaktorisen rakenteen (positiivinen ja negatiivinen valenssi) vahvojen psykometristen ominaisuuksien ja osallistujien kuormituksen vähenemisen kanssa.",
-        "is": "Rannsakendur staðfesttu og búu til stutta útgáfu af Persisting Effects Questionnaire (PEQ), sjálfskilgreiningarkvörðun fyrir jákvæðar og neikvæðar afleiðingar sykdelíkaðra reynslu. Upprunalegi kvarðinn með yfir 140 spurningum var minnkaður í 14 spurningar auk þriggja einstakra atriða með því að nota þáttagreiningu í klínískum og ekki-klínískum úrtökum. Staðfest PEQ-SF heldur tveggja þátta byggingu (jákvæð og neikvæð gildisgrein) með sterkum sálorkumælingum og minni álagi á þátttakendur.",
-        "et": "Teadlased valideerisid ja lõid Persisting Effects Questionnaire (PEQ) lühivormingu, enesekohta käivat skaalat psühhedeelikate kogemustest tulenevate positiivsete ja negatiivsete tagajärgede mõõtmiseks. Üle 140 küsimusega algne skaala vähendati 14 küsimusele ja kolmele üksikule küsimusele faktorianalüüsi abil kliiniliste ja mittekliiniliste valimites. Valideeritud PEQ-SF säilitab kahetegurilist struktuuri (positiivne ja negatiivne valents) tugevate psühhomeetriliste omadustega ja vähenenud koormuse korral osalejatele.",
-        "lv": "Pētnieki validēja un izveidoja Persisting Effects Questionnaire (PEQ) īso formu, pašu ziņojumus vērtējošu mērījumu par pozitīvām un negatīvām psihedēliku pieredzes sekām. Oriģinālā skala ar vairāk nekā 140 jautājumiem tika samazināta līdz 14 jautājumiem un trim atsevišķiem vienumiem, izmantojot faktoru analīzi klīniskos un neklīniskos paraugos. Validētā PEQ-SF saglabā divu faktoru struktūru (pozitīvā un negatīvā valence) ar spēcīgām psihometriskām īpašībām un samazinātu dalībnieku noslodzi.",
-        "lt": "Tyrėjai validavo ir sukūrė sutrumpintą Persisting Effects Questionnaire (PEQ) formą - savivokos matą teigiamam ir neigiamam psichedelinių patirčių poveikiui matuoti. Originali skalė su daugiau nei 140 klausimų buvo sumažinta iki 14 klausimų ir trijų atskirų elementų naudojant faktorinę analizę klinikinėse ir neklinikinėse imtyse. Pavaliduota PEQ-SF išlaiko dvifaktorinę struktūrą (teigiamas ir neigiamas valentingumas) su stipriomis psichometrinio patvirtinimo savybėmis ir sumažinta dalyvių apkrova."
-      },
-      "notable": false,
-      "notable_reasons": null,
-      "relevance_score": 4,
-      "study_type": "other",
-      "substances": [
-        "psilocybin"
-      ],
-      "added_at": "2026-09-18T11:33:47.001208+00:00"
-    },
-    {
-      "title": "Add-on intravenous ketamine eliminates treatment lag period in severe non-treatment-resistant major depression: Rapid antidepressant and anti-suicidal effects - A randomized controlled trial.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42812942/",
-      "source": "PubMed",
-      "date": "2026-09-17",
-      "authors": [
-        "Prakash Anand",
-        "Mahapatra Pranab",
-        "Pattnaik Jigyansa I"
-      ],
-      "doi": "10.4103/indianjpsychiatry_845_25",
-      "summaries": {
-        "en": "Randomized controlled trial (n=40) found add-on IV ketamine as add-on therapy produced rapid antidepressant effects in severe major depression, eliminating the 4-12 week lag of conventional antidepressants. Primary response (≥50% HAM-D reduction at day 12): 58% ketamine vs 29% placebo. Anti-suicidal effects also observed. Four infusions administered over 8 days. Findings preliminary; larger trial needed.",
-        "sv": "En randomiserad, placebo-kontrollerad studie (n=40) visade att tilläggsbehandling med IV-ketamin producerade snabba antidepressiva effekter vid svår depression och eliminerade fördröjningen på 4-12 veckor från konventionella antidepressiva. Primärt svar (≥50% HAM-D-reduktion dag 12): 58% ketamin vs 29% placebo. Anti-suicidala effekter observerades också. Fyra infusioner under 8 dagar. Resultaten är preliminära; större studie krävs.",
-        "no": "Randomisert, placebokontrollert studie (n=40) viste at tilleggbehandling med IV-ketamin gav raske antidepressive effekter ved alvorlig depresjon og eliminerte forsinkelsen på 4-12 uker fra vanlige antidepressiva. Primær respons (≥50% HAM-D-reduksjon dag 12): 58% ketamin vs 29% placebo. Anti-suisidal effekt observert. Fire infusjoner over 8 dager. Funnene er foreløpige; større studie er nødvendig.",
-        "da": "Randomiseret, placebokontrolleret studie (n=40) viste, at tilsætning af IV-ketamin gav hurtige antidepressive effekter ved alvorlig depression og eliminerede forsinkelsen på 4-12 uger fra konventionelle antidepressiva. Primær respons (≥50% HAM-D-reduktion dag 12): 58% ketamin vs 29% placebo. Anti-selvmordsfremkaldende effekt observeret. Fire infusioner over 8 dage. Resultaterne er foreløbige; større studie påkrævet.",
-        "fi": "Satunnaistettu, plasebo-kontrolloitu tutkimus (n=40) osoitti, että IV-ketimiinin lisähoito tuotti nopeita masennuksen lievityksen vaikutuksia vakavassa masennuksessa ja eliminoi tavanomaisten masennuslääkkeiden 4-12 viikon viiveen. Ensisijainen vastausprosentti (≥50% HAM-D-väheneminen päivällä 12): 58% ketimiin vs 29% placebo. Itsemurhaa estävä vaikutus havaittiin. Neljä infuusiota 8 päivän aikana. Tulokset ovat alustavat; suurempi tutkimus tarvitaan.",
-        "is": "Slembiun, lyfjaleysi-stjórnað rannsókn (n=40) sýndi að viðbótarmeðferð með IV-ketamíni skilaði hraðri andstöðu við þunglyndi og útrýmdu 4-12 vikna seinkun hefðbundinna þunglyndislyfja. Aðalsvörun (≥50% HAM-D lækkun á degi 12): 58% ketamín á móti 29% lyfjaleys. Áhrif gegn sjálfsmorðshugleiðingum sáð. Fjórir innflæðir á 8 dögum. Niðurstöður eru bráðabirgðar; þörf á stærri rannsókn.",
-        "et": "Randomiseeritud, platseebo-kontrolliga uuring (n=40) näitas, et IV-ketamiini lisaraviga saavutati kiired antidepressiivsed efektid raskes depressioonis ja kõrvaldati tavapäraste antidepressantide 4-12 nädalane viivitus. Esmane vastus (≥50% HAM-D vähenemine 12. päeval): 58% ketamiin vs 29% platseebo. Enesetapuvastaline toime täheldatud. Neli infusiooni 8 päeva jooksul. Tulemused on esialgsed; suurem uuring on vajalik.",
-        "lv": "Randomizēts, placebo kontrolēts pētījums (n=40) parādīja, ka IV ketamīna papildu terapija nodrošināja ātru antidepresīvo iedarbību smagā depresijā un novērsa 4-12 nedēļu kavēšanos, ko rada parastie antidepresanti. Primārā atbilde (≥50% HAM-D samazināšana 12. dienā): 58% ketamīns vs 29% placebo. Novērota pašnāvniecības pretestošā iedarbība. Četras infūzijas 8 dienu laikā. Rezultāti ir sākotnēji; nepieciešams lielāks pētījums.",
-        "lt": "Randomizuotas, placebo kontroliuojamas tyrimas (n=40) parodė, kad IV ketamino papildoma terapija suteikė greitą antidepresantą efektą sunkioje depresijoje ir pašalino 4-12 savaičių delsą, kurio sukelia įprasti antidepresantai. Pirminis atsakas (≥50% HAM-D sumažėjimas 12 dieną): 58% ketaminas vs 29% placebo. Pastebėta savižudybės prevencijos veiksmė. Keturios infuzijos per 8 dienas. Rezultatai yra preliminarūs; reikalingas didesnis tyrimas."
-      },
-      "notable": false,
-      "notable_reasons": null,
-      "relevance_score": 4,
-      "study_type": "rct",
-      "substances": [
-        "ketamine"
-      ],
-      "added_at": "2026-10-01T13:39:29.652706+00:00"
     }
   ]
 }

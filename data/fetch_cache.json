@@ -1,7 +1,97 @@
 {
-  "date": "2026-10-18",
-  "cached_at": "2026-10-18T10:21:50.808030+00:00",
+  "date": "2026-10-19",
+  "cached_at": "2026-10-19T12:04:43.429840+00:00",
   "articles": [
+    {
+      "title": "Buprenorphine Following Ketamine for Suicidal Ideation: A Bridge to Care from the Emergency Department.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42894304/",
+      "source": "PubMed",
+      "abstract": "",
+      "date": "2026-10-19",
+      "authors": [
+        "Thomas Ynhi T",
+        "Maguire Lindsay",
+        "Warrick Brandon J"
+      ],
+      "doi": "10.1176/appi.ajp.20260540"
+    },
+    {
+      "title": "Ketamine Extension or Buprenorphine Maintenance?",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42894303/",
+      "source": "PubMed",
+      "abstract": "",
+      "date": "2026-10-19",
+      "authors": [
+        "Yin Yi",
+        "Jiang Li",
+        "Liu Zhican"
+      ],
+      "doi": "10.1176/appi.ajp.20260563"
+    },
+    {
+      "title": "Buprenorphine After Ketamine for Suicidal Ideation: Durability, Specificity, and Confounding.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42894302/",
+      "source": "PubMed",
+      "abstract": "",
+      "date": "2026-10-19",
+      "authors": [
+        "Lengvenytė Aistė",
+        "Olié Emilie",
+        "Courtet Philippe"
+      ],
+      "doi": "10.1176/appi.ajp.20260564"
+    },
+    {
+      "title": "Low-Dose Buprenorphine Significantly Prolonging the Antisuicidal Effects of Ketamine Infusion in Major Depressive Disorder: Relationship Between Antidepressant and Antisuicidal Effects.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42894301/",
+      "source": "PubMed",
+      "abstract": "",
+      "date": "2026-10-19",
+      "authors": [
+        "Hao Wei",
+        "Tan Luying"
+      ],
+      "doi": "10.1176/appi.ajp.20260656"
+    },
+    {
+      "title": "Low-Dose Buprenorphine Following Ketamine Treatment for Suicidal Ideation in Major Depressive Disorder: Response to Letters.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42894300/",
+      "source": "PubMed",
+      "abstract": "",
+      "date": "2026-10-19",
+      "authors": [
+        "Tucciarone Jason M",
+        "Bandeira Igor D",
+        "Schatzberg Alan F"
+      ],
+      "doi": "10.1176/appi.ajp.20260834"
+    },
+    {
+      "title": "Investigation of the pharmacological and circuit basis for psychedelic drug effects on interval timing in mice.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42894023/",
+      "source": "PubMed",
+      "abstract": "Classical psychedelic drugs such as the tryptamine psilocybin can alter temporal perception. Previously, the phenylethylamine psychedelic 2,5-dimethoxy-4-iodoamphetamine (DOI), a 5-HT Although DOI alters TDT performance, it is unclear whether timing is altered by tryptamine psychedelics, which are less selective for 5-HT To address this knowledge gap, we tested psilocin (the active metabolite of psilocybin) in male C57BL/6J mice performing the TDT and assessed the involvement of 5-HT Psilocin (0.8 mg/kg SC) altered timing accuracy and precision in mice performing the TDT, similarly to DOI. Psilocin effects were blocked by the 5-HT The mPFC appears to play a role in TDT performance and may mediate the effects of psychedelic drugs on interval timing.",
+      "date": "2026-10-19",
+      "authors": [
+        "Klein Landon M",
+        "Kopelman Jared",
+        "Sharp Richard F"
+      ],
+      "doi": "10.1007/s00213-026-07181-x"
+    },
+    {
+      "title": "Dual benefit of esketamine-based opioid-free anesthesia on postoperative pain and mental health outcomes in patients undergoing bariatric surgery: a randomized controlled trial.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42893989/",
+      "source": "PubMed",
+      "abstract": "Patients with morbid obesity are at a high risk of comorbid depressive and anxiety symptoms. While bariatric surgery is an effective treatment, conventional opioid-based anesthesia carries significant perioperative risks. Opioid-free anesthesia (OFA) presents a safer alternative. Esketamine, known for its dual analgesic and rapid antidepressant effects, is a promising component of OFA. However, clinical evidence supporting its simultaneous benefits for both physical and psychological recovery in bariatric patients remains limited. In this double-blind, randomized clinical trial, patients scheduled for laparoscopic sleeve gastrectomy were randomly assigned (1:1) to receive either esketamine-based anaesthesia or opioid-based anaesthesia with remifentanil during surgery. The co-primary outcomes were postoperative pain intensity within the first 24 h and mental health status at three months after surgery. Secondary outcomes included pharmacokinetics of esketamine and adverse events. A total of 84 patients were randomized, with 42 allocated to each group. Seventy-four participants (88.1%) completed the 3-month follow-up. Patients in the esketamine group experienced significantly lower postoperative pain intensity (P < 0.01) and a reduced incidence of moderate-to-severe pain (P < 0.05) within 24 h after surgery. Mental health outcomes at 3 months were also significantly better in the esketamine group, and adverse events rate did not differ significantly. Pharmacokinetic analysis showed that plasma esketamine concentrations increased rapidly during infusion, with early formation of the active metabolite (S)-norketamine. Compared to opioid-based anaesthesia, esketamine-based opioid-free anaesthesia was associated with improved postoperative analgesia and better mental health outcomes in morbidly obese patients undergoing bariatric surgery, without increasing adverse events.",
+      "date": "2026-07-23",
+      "authors": [
+        "Huang Chunxia",
+        "Guan Zichun",
+        "Wang Sheng"
+      ],
+      "doi": "10.1038/s41398-026-04241-w"
+    },
     {
       "title": "Acute Psychosis and Dissociative Syndrome Following Binge Recreational Nitrous Oxide Use: A Case Report.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42892949/",
@@ -168,96 +258,6 @@
         "Gong Lisa"
       ],
       "doi": "10.1093/haschl/qxag231"
-    },
-    {
-      "title": "Feeling safe: an empirical-ethical analysis of vulnerability in (es)ketamine treatment.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42870247/",
-      "source": "PubMed",
-      "abstract": "Treatments with acute consciousness-altering effects, such as (es)ketamine, place patients in a state of heightened vulnerability with reduced capacity for self-advocacy and self-regulation. Since feeling safe is a precondition for consenting to begin, and remaining in, treatment, this raises distinct ethical demands on care. Which features of the setting enable patients to feel safe, and how patients' and clinicians' understandings of the treatment relate to these requirements, remains unclear. This study identifies patient-, clinician- and setting-related factors shaping the experience of safety during (es)ketamine treatment and derives ethically grounded recommendations, distinguishing clinical safety, felt safety and ethical protection and analyzing their relations through a framework of induced, layered vulnerability. Semi-structured interviews were conducted with 14 patients who had received intranasal esketamine (Spravato®) or IV ketamine infusion treatment and 10 clinicians administering these treatments in German psychiatric settings, and analyzed using structuring qualitative content analysis complemented by type-building analysis. Pre-treatment concerns and the experience of safety were analyzed from the patient interviews; clinician interviews informed the broad coding and the comparison of patients' and clinicians' models of ketamine's mechanism of action. Three types of pre-treatment concern, three overlapping modes of experiencing safety, and three models of ketamine's mechanism of action were identified, each associated with distinct treatment requirements. Therapeutic presence, active physical grounding, and structured post-acute transitional support (\"landing aid\") were described by participants as central to feeling safe. Clinicians more often conceived of ketamine as a catalyst of transformation, patients as temporary relief or symptom management, indicating potential misalignment regarding preparation and integration. Safety in (es)ketamine treatment is relationally created and individually differentiated rather than uniform, supporting an ethical case for flexible, patient-centered care above a non-negotiable floor of clinical safety. Because patients in altered states depend acutely on those who induced that state, minor clinician behaviors and the post-acute transition carry moral weight bearing on informed consent and the duty of care, yet are modifiable with few resources. Recommendations are graded by strength; one is restricted against our own empirical finding where the vulnerability analysis requires it. As an exploratory study, the findings require confirmation in larger, more diverse samples.",
-      "date": "2026-10-08",
-      "authors": [
-        "Kind Adrian",
-        "Görke Josephine",
-        "Smirr Hannah"
-      ],
-      "doi": "10.1186/s12910-026-01637-7"
-    },
-    {
-      "title": "Antidepressants and cognitive function in major depressive disorder: Mechanisms, clinical evidence, and implications for precision treatment.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42869167/",
-      "source": "PubMed",
-      "abstract": "Cognitive impairment is a core feature of major depressive disorder (MDD) and significantly impairs functional recovery. This review summarizes current evidence on the effects of antidepressants on cognitive function and discusses the underlying mechanisms. Antidepressants may exert their effects through multiple mechanisms, including modulation of monoaminergic neurotransmission, enhancement of neuroplasticity, and regulation of stress and inflammatory pathways. Available studies indicate that antidepressants differ in their cognitive benefits, with vortioxetine showing the most consistent procognitive evidence. Duloxetine, bupropion, and some augmentation strategies may also improve specific cognitive domains, though the evidence is limited. Importantly, cognitive improvement may result from direct drug effects on cognition or indirectly via alleviation of depressive symptoms, highlighting the need for mediation analyses in future research. In patients with late-life depression, vortioxetine and duloxetine have shown relatively clear benefits, and augmentation with cognitive enhancers has demonstrated some potential. The long-term cognitive protective effects of antidepressants remain unconfirmed. Immuno-metabolic depression subtypes, high-dose-related adverse effects, and comorbidity with anxiety and sleep disorders may constitute important sources of residual cognitive deficits. Emerging treatments such as ketamine, psychedelic compounds, and interventions targeting the gut-brain axis may offer new opportunities for addressing cognitive dysfunction in MDD. Current evidence is limited by small sample sizes and heterogeneous cognitive assessments. Future research should prioritize large, randomized controlled trials with cognition as the primary endpoint, using standardized assessment tools. A better understanding of the cognitive profiles and mechanisms of antidepressants may support precision medicine strategies and promote functional recovery in patients with MDD.",
-      "date": "2026-10-13",
-      "authors": [
-        "Liu Yao",
-        "Tan Yunfei",
-        "Hashimoto Kenji"
-      ],
-      "doi": "10.1016/j.ejphar.2026.179414"
-    },
-    {
-      "title": "Probable alcohol use disorder in the U.S. Veteran population: Results from the 2025-2026 National Health and Resilience in Veterans study.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42868803/",
-      "source": "PubMed",
-      "abstract": "Alcohol use disorder (AUD) is a pervasive public health problem in the United States, and military veterans are at elevated risk. A prior wave of the National Health and Resilience in Veterans Study (NHRVS) estimated the prevalence of past-year probable AUD at 10.5 % in 2019-2020. Updated national surveillance data are needed given demographic shifts in the veteran population and evolving drinking patterns in the post-pandemic era. Using data from the 2025-2026 NHRVS (N = 2,620), we estimated the weighted prevalence of probable AUD and compared it to that of the prior NHRVS wave. Multivariable analyses examined sociodemographic, military, trauma and mental health characteristics associated with probable AUD. The weighted prevalence of probable AUD in 2025-2026 was 12.1 %, compared with 10.5 % in 2019-2020 (difference, 1.6 percentage points; 95 % CI, -0.6 to 3.8), a difference that was not statistically significant. Independent correlates of probable AUD included younger age, unpartnered status, homelessness history, higher household income, and more adverse childhood experiences. When all lifetime psychiatric diagnoses were examined simultaneously, self-reported provider-diagnosed attention-deficit/hyperactivity disorder (ADHD) remained significantly associated with probable AUD (OR = 2.40). Veterans with probable AUD also had significantly greater odds of past-year suicidal ideation (OR = 2.02; 31.6 % vs. 11.7 %) and lifetime suicide attempt (OR = 1.67; 11.8 % vs. 4.0 %). The prevalence of probable AUD among U.S. veterans remains elevated and is characterized by early adversity, co-occurring psychiatric conditions, and elevated suicide risk. Enhanced screening for social determinants of health and psychiatric concerns, including routine ADHD assessment in AUD treatment settings, alongside targeted outreach and integrated approaches are essential to address this complex and important problem.",
-      "date": "2026-10-11",
-      "authors": [
-        "Goodwin Shelby R",
-        "Meshberg-Cohen Sarah",
-        "Fischer Ian C"
-      ],
-      "doi": "10.1016/j.addbeh.2026.108880"
-    },
-    {
-      "title": "Ketamine administered biomedically or as psychedelic-assisted therapy in treatment-resistant depression: Differing efficacy based on depressive subtype or presence of childhood trauma?",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42865326/",
-      "source": "PubMed",
-      "abstract": "ObjectiveThe ideas presented in this paper are based on a presentation at a festschrift event marking the retirement of Professor Gordon Parker from UNSW, Sydney. Drawing on Gordon's depressive subtyping approach and his critiques of a unitary view of major depressive disorder and treatment-resistant depression (TRD), we aim to (i) explore differing models of ketamine for TRD - biomedical versus 'psychedelic-assisted' therapy, and (ii) whether there may be differential efficacy in each approach based on subtype and/or childhood trauma.ConclusionPreliminary results from our study indicate in an open-label (but not randomised controlled) setting, biomedical ketamine may be superior in melancholic versus non-melancholic depression subtyped using Sydney Melancholia Prototypic Index. Studies of ketamine as a psychedelic agent combined with psychotherapy are lacking. We outline an empirical approach to determine whether ketamine with integrated psychotherapy has differential efficacy based on depressive subtype or past childhood trauma.",
-      "date": "2026-10-13",
-      "authors": [
-        "Bayes Adam",
-        "Loo Colleen"
-      ],
-      "doi": "10.1177/10398562261494440"
-    },
-    {
-      "title": "Investigating molecular and hemodynamic effects of LSD in the human brain.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42864445/",
-      "source": "PubMed",
-      "abstract": "Lysergic acid diethylamide (LSD) is a potent psychedelic with increasing therapeutic interest, yet qualification of target engagement using in vivo neuroimaging has not yet been performed. Using simultaneous positron emission tomography-magnetic resonance imaging technology, we describe multiple brain actions of LSD in seven healthy volunteers blinded to LSD dose received. Here we show that LSD occupies 5-HT2AR with a high affinity and increases both global cerebral blood flow (CBF) and internal carotid artery flow. LSD also decreases global connectivity, which was negatively associated with changes in CBF. We observe an anticlockwise hysteresis loop between plasma drug levels and subjective effects, suggesting atypical pharmacodynamic mechanisms. We contrast our CBF and global connectivity findings and their relation in a separate cohort of 25 participants administered psilocybin, highlighting key consistencies and differences. By establishing the dose-occupancy relation of LSD in humans, our findings provide insights for the clinical development of psychedelic compounds and demonstrate unique neurophysiological effects that distinguish LSD from psilocybin.",
-      "date": "2026-10-12",
-      "authors": [
-        "McCulloch Drummond E-Wen",
-        "Larsen Kristian",
-        "Johansen Annette"
-      ],
-      "doi": "10.1038/s41593-026-02462-2"
-    },
-    {
-      "title": "Enhancing cGMP signaling with psilocybin reduces head twitch and restructures the synaptic proteome while maintaining antidepressant response.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42864385/",
-      "source": "PubMed",
-      "abstract": "Psilocybin produces antidepressant effects, but perceptual effects limit tolerability. We hypothesized that enhancing cGMP signaling with a phosphodiesterase-9 inhibitor (PDE9i) would diminish a rodent behavioral readout of 5-HT₂AR activation, while preserving antidepressant-like effects. PDE9i attenuated psilocybin-induced head-twitch while maintaining the antidepressant-like response. PDE9i-psilocybin reduced 5-HT₂AR-related pathways while enhancing synaptogenesis signaling.",
-      "date": "2026-10-12",
-      "authors": [
-        "Floris Gabriele",
-        "Jefferson Sarah J",
-        "Rondeau Jocelyne"
-      ],
-      "doi": "10.1038/s41386-026-02569-x"
-    },
-    {
-      "title": "Augmentation strategies for intravenous ketamine in treatment-resistant depression: A systematic review and meta-analysis.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42863798/",
-      "source": "PubMed",
-      "abstract": "Treatment-resistant depression (TRD) affects 30-60% of individuals with major depressive disorder and carries substantial morbidity and healthcare costs. Intravenous (IV) ketamine (KET) is a rapid-acting antidepressant, but benefits are often transient, prompting augmentation to sustain efficacy or improve tolerability. We conducted a systematic review and meta-analysis of randomized controlled trials (RCTs) of IV KET augmentation in adults with TRD. MEDLINE, Embase, and PsycINFO were searched through October 29, 2025. Eligible studies compared KET plus augmentation with KET plus placebo/sham or active control. Seven RCTs (N = 346) met inclusion criteria. Strategies included glutathione, riluzole, lamotrigine, lithium, D-cycloserine and ketamine combined with psychotherapy (KCP) approaches involving cognitive behavioral therapy (CBT) and automated self-association training (ASAT). Across the included trials, IV KET was associated with antidepressant improvement, although augmentation strategies generally did not demonstrate additional benefit over their respective control conditions. Pharmacological augmentation strategies did not demonstrate additional benefit at primary endpoints. KCP approaches using CBT and ASAT yielded preliminary signals of improved maintenance of antidepressant effects, although each was evaluated in a single study. An exploratory random-effects meta-analysis of seven heterogeneous comparisons found no statistically significant overall difference in depressive symptoms between augmentation and control conditions (SMD = -0.12; 95% CI, -0.37 to 0.12; p = 0.323; I",
-      "date": "2026-10-12",
-      "authors": [
-        "Janssen-Aguilar Reinhard",
-        "Joseph Jithin",
-        "Al-Shamali Huda F"
-      ],
-      "doi": "10.1016/j.jad.2026.122619"
     },
     {
       "title": "The Psychedelic Practitioner Issue 7: Preparedness (Systems)",
@@ -573,7 +573,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2018-004480-31/CZ",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-10-18",
+      "date": "2026-10-19",
       "authors": [],
       "doi": ""
     },
@@ -582,7 +582,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2020-005037-32/CZ",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-10-18",
+      "date": "2026-10-19",
       "authors": [],
       "doi": ""
     },
@@ -591,7 +591,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2021-002909-10/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-10-18",
+      "date": "2026-10-19",
       "authors": [],
       "doi": ""
     },
@@ -600,7 +600,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2015-000550-37/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-10-18",
+      "date": "2026-10-19",
       "authors": [],
       "doi": ""
     },
@@ -609,7 +609,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2021-000041-40/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-10-18",
+      "date": "2026-10-19",
       "authors": [],
       "doi": ""
     },
@@ -618,7 +618,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2020-000829-55/DK",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-10-18",
+      "date": "2026-10-19",
       "authors": [],
       "doi": ""
     },
@@ -627,7 +627,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2020-002790-94/SE",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-10-18",
+      "date": "2026-10-19",
       "authors": [],
       "doi": ""
     },
@@ -636,7 +636,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2021-006200-33/FI",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-10-18",
+      "date": "2026-10-19",
       "authors": [],
       "doi": ""
     },
@@ -645,7 +645,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2019-004812-73/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-10-18",
+      "date": "2026-10-19",
       "authors": [],
       "doi": ""
     },
@@ -654,7 +654,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2022-002369-14/BE",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-10-18",
+      "date": "2026-10-19",
       "authors": [],
       "doi": ""
     },

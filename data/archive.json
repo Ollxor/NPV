@@ -1,6 +1,125 @@
 {
   "items": [
     {
+      "title": "Buprenorphine After Ketamine for Suicidal Ideation: Durability, Specificity, and Confounding.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42894302/",
+      "source": "PubMed",
+      "date": "2026-10-19",
+      "authors": [
+        "Lengvenytė Aistė",
+        "Olié Emilie",
+        "Courtet Philippe"
+      ],
+      "doi": "10.1176/appi.ajp.20260564",
+      "summary_en": "Study examines the durability and specificity of suicidal ideation reduction following ketamine treatment, and investigates potential confounding effects when buprenorphine is administered subsequently. Research design and quantitative outcomes not detailed in available abstract.",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "other",
+      "substances": [
+        "ketamine"
+      ],
+      "added_at": "2026-10-19T13:45:26.493638+00:00"
+    },
+    {
+      "title": "Low-Dose Buprenorphine Significantly Prolonging the Antisuicidal Effects of Ketamine Infusion in Major Depressive Disorder: Relationship Between Antidepressant and Antisuicidal Effects.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42894301/",
+      "source": "PubMed",
+      "date": "2026-10-19",
+      "authors": [
+        "Hao Wei",
+        "Tan Luying"
+      ],
+      "doi": "10.1176/appi.ajp.20260656",
+      "summary_en": "A study examines how low-dose buprenorphine extends ketamine's antisuicidal effects in major depressive disorder. The research investigates the relationship between antidepressant and antisuicidal mechanisms, suggesting combination treatment may provide sustained benefit beyond ketamine infusion alone.",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "other",
+      "substances": [
+        "ketamine"
+      ],
+      "added_at": "2026-10-19T13:45:26.493638+00:00"
+    },
+    {
+      "title": "Investigation of the pharmacological and circuit basis for psychedelic drug effects on interval timing in mice.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42894023/",
+      "source": "PubMed",
+      "date": "2026-10-19",
+      "authors": [
+        "Klein Landon M",
+        "Kopelman Jared",
+        "Sharp Richard F"
+      ],
+      "doi": "10.1007/s00213-026-07181-x",
+      "summary_en": "Mouse study examined how psilocin alters interval timing using temporal discrimination tasks. At 0.8 mg/kg, psilocin reduced timing accuracy and precision similarly to DOI, effects blocked by 5-HT2A antagonism. Medial prefrontal cortex involvement suggests this region mediates psychedelic-induced temporal perception changes.",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "preclinical",
+      "substances": [
+        "psilocybin"
+      ],
+      "added_at": "2026-10-19T13:45:26.493638+00:00"
+    },
+    {
+      "title": "Dual benefit of esketamine-based opioid-free anesthesia on postoperative pain and mental health outcomes in patients undergoing bariatric surgery: a randomized controlled trial.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42893989/",
+      "source": "PubMed",
+      "date": "2026-07-23",
+      "authors": [
+        "Huang Chunxia",
+        "Guan Zichun",
+        "Wang Sheng"
+      ],
+      "doi": "10.1038/s41398-026-04241-w",
+      "summary_en": "Double-blind RCT (n=84) comparing esketamine-based vs opioid-based anesthesia in bariatric surgery patients. Esketamine group showed significantly lower postoperative pain intensity at 24h (P<0.01) and reduced moderate-to-severe pain incidence (P<0.05). Mental health outcomes at 3-month follow-up were also significantly improved with esketamine, with comparable adverse event rates. Results support dissociatives' dual analgesic and antidepressant benefits in perioperative settings.",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "rct",
+      "substances": [
+        "ketamine"
+      ],
+      "added_at": "2026-10-19T13:45:26.493638+00:00"
+    },
+    {
+      "title": "Buprenorphine Following Ketamine for Suicidal Ideation: A Bridge to Care from the Emergency Department.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42894304/",
+      "source": "PubMed",
+      "date": "2026-10-19",
+      "authors": [
+        "Thomas Ynhi T",
+        "Maguire Lindsay",
+        "Warrick Brandon J"
+      ],
+      "doi": "10.1176/appi.ajp.20260540",
+      "summary_en": "Study examines sequential use of ketamine followed by buprenorphine for acute suicidal ideation in emergency department settings. This approach aims to bridge immediate crisis intervention with sustained opioid-based treatment in vulnerable populations.",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "other",
+      "substances": [
+        "ketamine"
+      ],
+      "added_at": "2026-10-19T13:45:26.493638+00:00"
+    },
+    {
+      "title": "Low-Dose Buprenorphine Following Ketamine Treatment for Suicidal Ideation in Major Depressive Disorder: Response to Letters.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42894300/",
+      "source": "PubMed",
+      "date": "2026-10-19",
+      "authors": [
+        "Tucciarone Jason M",
+        "Bandeira Igor D",
+        "Schatzberg Alan F"
+      ],
+      "doi": "10.1176/appi.ajp.20260834",
+      "summary_en": "Correspondence discussing the combination of low-dose buprenorphine following ketamine treatment for suicidal ideation in major depressive disorder. The letter addresses clinical considerations and responses to previous commentary on this treatment approach.",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "other",
+      "substances": [
+        "ketamine"
+      ],
+      "added_at": "2026-10-19T13:45:26.493638+00:00"
+    },
+    {
       "title": "Ketamine administration reduced conditioned defensive behaviour and upregulated protein expression associated with neuroplasticity in a planarian model of aversive memory reactivation.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42892539/",
       "source": "PubMed",

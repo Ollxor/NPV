@@ -1,6 +1,160 @@
 {
-  "generated_at": "2026-10-18T11:30:57.189735+00:00",
+  "generated_at": "2026-10-19T13:46:40.949029+00:00",
   "items": [
+    {
+      "title": "Buprenorphine After Ketamine for Suicidal Ideation: Durability, Specificity, and Confounding.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42894302/",
+      "source": "PubMed",
+      "date": "2026-10-19",
+      "authors": [
+        "Lengvenytė Aistė",
+        "Olié Emilie",
+        "Courtet Philippe"
+      ],
+      "doi": "10.1176/appi.ajp.20260564",
+      "summaries": {
+        "en": "Study examines the durability and specificity of suicidal ideation reduction following ketamine treatment, and investigates potential confounding effects when buprenorphine is administered subsequently. Research design and quantitative outcomes not detailed in available abstract.",
+        "sv": "Studien undersöker hur långvarigt ketamins effekt på suicidal ideation är, samt om denna effekt är specifik för ketamin. Forskarna analyserar också potentiell förvirring från efterföljande buprenorphinbehandling. Studiedesign och resultat framgår inte från sammanfattningen.",
+        "no": "Studien undersøker hvor lenge effekten av ketamin på suicidal ideation varer, og om denne effekten er spesifikk for ketamin. Forsker analyserer også potensielle konfunderende effekter fra påfølgende buprenorphinbehandling. Studiedesign og resultater er ikke tilgjengelig i sammendraget.",
+        "da": "Studien undersøger varigheden og specificitet af ketamins effekt på suicidal ideation samt potentielle forvirrende effekter fra efterfølgende buprenorphinbehandling. Studiedesign og kvantitative resultater er ikke tilgængelige i det offentliggjorte resumé.",
+        "fi": "Tutkimus selvittää ketamiinin vaikutuksen kestävyyttä itsemurhaajatusten lievityksessä ja sitä, onko vaikutus spesifinen ketamiinille. Tutkijat analysoivat myös mahdollisia sekoittavia tekijöitä, joita aiheutuu seuraavasta buprenorfiinihoidosta. Tutkimusasetelma ja tulokset eivät selviä saatavilla olevasta tiivistelmästä.",
+        "is": "Rannsóknin kannar endingu og sértækni áhrifa ketamíns á sjálfsmorðshugsanir og hugsanleg truflandi áhrif þess að setja buprenorphin á eftir. Rannsóknarhönnun og megindleg gögn eru ekki tilgreind í fáanlegri útdrætti.",
+        "et": "Uuring uurib ketamiini mõju isemorvasoovide vähendamisele selle kestlikkuse ja spetsiifilisuse osas ning analüüsib hilisemat buprenorfiini mõju potentsiaalsete segavate teguritena. Uuringu disain ja kvantitatiivset andmeid ei ole saadaolevas kokkuvõttes.",
+        "lv": "Pētījums analizē ketamīna iedarbības ilgums uz pašnāvnieciskas ideācijas mazināšanu un potenciālos traucējošos faktorus, kas saistīti ar turpmāku bupreneorfīna lietošanu. Pētījuma dizains un kvantitatīvie dati nav pieejami pieejamajā kopsavilkumā.",
+        "lt": "Tyrimas nagrinėja ketamino poveikio savižudybės ideacijai nuolatumą ir specifišką poveikį, taip pat analizuoja potencialiai sumaišančius veiksnius iš tolesnio buprenorfino skaičiavimo. Tyrimo dizainas ir kiekybiniai duomenys nėra prieinami esamame santraukoje."
+      },
+      "notable": false,
+      "notable_reasons": null,
+      "relevance_score": 4,
+      "study_type": "other",
+      "substances": [
+        "ketamine"
+      ],
+      "added_at": "2026-10-19T13:45:26.493638+00:00"
+    },
+    {
+      "title": "Low-Dose Buprenorphine Significantly Prolonging the Antisuicidal Effects of Ketamine Infusion in Major Depressive Disorder: Relationship Between Antidepressant and Antisuicidal Effects.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42894301/",
+      "source": "PubMed",
+      "date": "2026-10-19",
+      "authors": [
+        "Hao Wei",
+        "Tan Luying"
+      ],
+      "doi": "10.1176/appi.ajp.20260656",
+      "summaries": {
+        "en": "A study examines how low-dose buprenorphine extends ketamine's antisuicidal effects in major depressive disorder. The research investigates the relationship between antidepressant and antisuicidal mechanisms, suggesting combination treatment may provide sustained benefit beyond ketamine infusion alone.",
+        "sv": "En studie undersöker hur låg dos buprenorfin förlänger ketamins antisuicidala effekter vid svår depression. Forskningen utforskar sambandet mellan antidepressiva och antisuicidala mekanismer, vilket tyder på att kombinationsbehandling kan ge varaktiga effekter även efter ketamininfusion.",
+        "no": "En studie undersøker hvordan lav dose buprenorfin forlenger ketamins antisuidale effekter ved alvorlig depresjon. Forskningen utforsker sammenhengen mellom antidepressive og antisuidale mekanismer, noe som antyder at kombinasjonsbehandling kan gi vedvarende effekt utover ketamininfusjon alene.",
+        "da": "Et studie undersøger, hvordan lav dosis buprenorphin forlænger ketamins antisuicidalt effekt ved alvorlig depression. Forskningen udforsker forholdet mellem antidepressive og antisuicidalt mekanismer, hvilket tyder på, at kombinationsbehandling kan give varig effekt ud over ketamininfusion alene.",
+        "fi": "Tutkimuksessa tarkastellaan, kuinka matala annos buprenorfiinia pidentää ketamiinin itsetuhoisia vaikutuksia syvälle masennukselle. Tutkimus tutkii antidepressiivisten ja itsetuhoisia vaikutuksista, mikä viittaa siihen, että yhdistelmähoito voi tarjota kestäviä vaikutuksia pelkän ketamiiniinfuusion jälkeen.",
+        "is": "Rannsókn kannar hvernig lág skammtar af buprenorfíni framlengja andóðkir áhrif ketamíns við alvarlega þunglyndi. Rannsóknin könnun sambandið milli andóðkra og andóðkra virkni, sem bendir til þess að sambindingarmeðferð gæti veitt langvarandi áhrif umfram ketamínísoðun einni sér.",
+        "et": "Uuringus vaadeldakse, kuidas madal buprenorfiini annus pikendab ketamiini enesetapu vastaseid mõjusid raskel depressioonil. Uurimistöö uurib antidepressiivsete ja enesetapu vastaste mehhanismide vahelist seost, mis viitab sellele, et kombineeritud ravi võib anda pikaajalisi mõjusid ainuüksi ketamiiniinfusioonist kauemale.",
+        "lv": "Pētījumā tiek pētīts, kā zema buprenorfīna doza pagarina ketamīna pašnāvības pretiedarbību vidējā depresijā. Pētniecība pēta antidepresīvo un pašnāvības pretiedarbības mehānismu saistību, kas liecina, ka kombinētā ārstēšana var nodrošināt ilgstošu ietekmi pāri vienīgajam ketamīna infūzijam.",
+        "lt": "Tyrime nagrinėjama, kaip žema buprenorfino dozė pratęsia ketamino savižudybės prevencijos poveikį esant sunkiai depresijai. Tyrime tiriamas antidepresyvaus ir savižudybės prevencijos mechanizmų ryšys, kuris rodo, kad kombinuotasis gydymas gali suteikti ilgalaikį poveikį, viršijantį vien ketamino infūziją."
+      },
+      "notable": false,
+      "notable_reasons": null,
+      "relevance_score": 4,
+      "study_type": "other",
+      "substances": [
+        "ketamine"
+      ],
+      "added_at": "2026-10-19T13:45:26.493638+00:00"
+    },
+    {
+      "title": "Investigation of the pharmacological and circuit basis for psychedelic drug effects on interval timing in mice.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42894023/",
+      "source": "PubMed",
+      "date": "2026-10-19",
+      "authors": [
+        "Klein Landon M",
+        "Kopelman Jared",
+        "Sharp Richard F"
+      ],
+      "doi": "10.1007/s00213-026-07181-x",
+      "summaries": {
+        "en": "Mouse study examined how psilocin alters interval timing using temporal discrimination tasks. At 0.8 mg/kg, psilocin reduced timing accuracy and precision similarly to DOI, effects blocked by 5-HT2A antagonism. Medial prefrontal cortex involvement suggests this region mediates psychedelic-induced temporal perception changes.",
+        "sv": "Möss exponerades för psilocin i en tidsdiskriminationsuppgift. Vid 0,8 mg/kg försämrade psilocin tidsnoggrannhet och precision på samma sätt som DOI, effekter som blockerades av 5-HT2A-antagonism. Resultaten tyder på att medianal prefrontal cortex förmedlar psykedelikas påverkan på tidsuppfattning.",
+        "no": "Museundersøkelse av hvordan psilocin endrer tidsintervalloppfattelse. Ved 0,8 mg/kg reduserte psilocin tidsnøyaktighet og presisjon tilsvarende DOI, effekter blokkert av 5-HT2A-antagonisme. Medial prefrontal cortex ser ut til å formidle psykedelikas virkning på tidsperepsjon.",
+        "da": "Musetudie undersøgte, hvordan psilocin ændrer tidsintervalperception. Ved 0,8 mg/kg reducerede psilocin tidsnøjagtighed og præcision som DOI, effekter blokeret af 5-HT2A-antagonisme. Medial præfrontal cortex formidler tilsyneladende psykedelikaers påvirkning af tidsperception.",
+        "fi": "Hiiritutkimus selvitti, kuinka psilosiini muuttaa aikavälin havaitsemista. Annoksella 0,8 mg/kg psilosiini vähensi aika-akuiteettia ja tarkkuutta vastaavasti kuin DOI, vaikutukset estettiin 5-HT2A-antagonismilla. Mediaali prefrontaaliset aivokuori näyttää välittävän psykedeliikan vaikutuksia ajankulun hahmottamiseen.",
+        "is": "Rannsókn á hvernig psilósín breytir tíðskila hjá mishöldum. Við 0,8 mg/kg minnkaði psilósín tíðnæmi og nákvæmni svipað og DOI, áhrif sem voru stöðvuð með 5-HT2A-mótefni. Miðlægur beinarstirni virðist miðla áhrifum geðhreyfingjamanna á tíðskila.",
+        "et": "Hiirte uuringus uuriti, kuidas psilotsiiin muudab ajaintervalide tajumist. Annusel 0,8 mg/kg vähendasid psilotsiiin ajaline täpsus ja presitsion sarnaselt DOI-le, mida takistasid 5-HT2A-antagonistid. Mediaalne prefrontaalne korteks näib olevat psühhedeelikumide mõju ajapertseptsioonile vahendavaks.",
+        "lv": "Peles pētījums pārbaudīja, kā psilocīns maina intervāla laika uztveri. Pie 0,8 mg/kg psilocīns samazināja laika precizitāti un precizitāti līdzīgi kā DOI, efektus bloķēja 5-HT2A antagonisti. Mediālā prefrontālā garozā varētu būt nozīme psihedeliku ietekmes uz laika uztveri starpniecībai.",
+        "lt": "Pelių tyrimas ištyrė, kaip psilocinas keičia intervalų laiko suvokimą. Esant 0,8 mg/kg, psilocinas sumažino laiko tikslumą ir tiesumą panašiai kaip DOI, efektai buvo užblokuoti 5-HT2A antagonistais. Mediaalinė prefrontalinė žievė tikriausiai tarpininkauja psichedelikų poveikiui laiko suvokimui."
+      },
+      "notable": false,
+      "notable_reasons": null,
+      "relevance_score": 4,
+      "study_type": "preclinical",
+      "substances": [
+        "psilocybin"
+      ],
+      "added_at": "2026-10-19T13:45:26.493638+00:00"
+    },
+    {
+      "title": "Buprenorphine Following Ketamine for Suicidal Ideation: A Bridge to Care from the Emergency Department.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42894304/",
+      "source": "PubMed",
+      "date": "2026-10-19",
+      "authors": [
+        "Thomas Ynhi T",
+        "Maguire Lindsay",
+        "Warrick Brandon J"
+      ],
+      "doi": "10.1176/appi.ajp.20260540",
+      "summaries": {
+        "en": "Study examines sequential use of ketamine followed by buprenorphine for acute suicidal ideation in emergency department settings. This approach aims to bridge immediate crisis intervention with sustained opioid-based treatment in vulnerable populations.",
+        "sv": "Studien undersöker sekventiell användning av ketamin följt av buprenorfin för akut suicidal ideation på akutmottagningar. Metoden syftar till att överbrygga omedelbar krisstöd med långsiktig opioidbaserad behandling.",
+        "no": "Studien undersøker sekvensiell bruk av ketamin etterfulgt av buprenorfin for akutt suicidal ideation på legevakten. Tilnærmingen søker å bygge bro mellom umiddelbar kriseintersaksjon og vedvarende opioidbasert behandling.",
+        "da": "Studien undersøger sekventiel anvendelse af ketamin efterfulgt af buprenorphin til akut suicidal ideation på skadestuen. Metoden sigter mod at forbinde umiddelbar kriseindsats med vedvarende opioidbaseret behandling.",
+        "fi": "Tutkimuksessa tarkastellaan ketamiinin ja buprenorfiinin peräkkäistä käyttöä akuutin itsemurhaisuuden hallintaan päivystyksessä. Lähestymistapa pyrkii yhdistämään välittömän kriisin hoidon pitkäaikaiseen opioidipohjaisen hoitoon.",
+        "is": "Rannsóknin skoðar röð notkun ketamíns og buprenorfíns við bráða sjálfsmorðshættu á bráðamóttöku. Þessi aðferð miðar að því að tengja tafarlausa kreppumeðferð við viðvarandi opioid-undirstaða meðferð.",
+        "et": "Uuring uurib ketamiini ja buprenorfiini järjestikust kasutamist itsemõrvahimu akuutsel juhtudel erakorralise abi osakondades. Lähenemisviis eesmärgiks on ühendada kohene kriisisekkumine jätkusuutliku opioidipõhise raviga.",
+        "lv": "Pētījumā pārbaudīta ketamīna un buprenorfīna secīga lietošana akūtas pašnāvniecības ideju gadījumos neatliekamās palīdzības nodaļās. Pieeja mērķē savienot tūlītēju krīzes iejaukšanos ar ilgstošu opioidiem balstītu ārstēšanu.",
+        "lt": "Tyrime tiriama ketamino ir buprenorfino nuosekli vartosena dėl akutaus savižudybės pageidavimo skubios pagalbos skyriuose. Šis metodas siekia sujungti tiesioginę krizės intervenciją su tęstine opioidais paremta gydymo."
+      },
+      "notable": false,
+      "notable_reasons": null,
+      "relevance_score": 3,
+      "study_type": "other",
+      "substances": [
+        "ketamine"
+      ],
+      "added_at": "2026-10-19T13:45:26.493638+00:00"
+    },
+    {
+      "title": "Low-Dose Buprenorphine Following Ketamine Treatment for Suicidal Ideation in Major Depressive Disorder: Response to Letters.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42894300/",
+      "source": "PubMed",
+      "date": "2026-10-19",
+      "authors": [
+        "Tucciarone Jason M",
+        "Bandeira Igor D",
+        "Schatzberg Alan F"
+      ],
+      "doi": "10.1176/appi.ajp.20260834",
+      "summaries": {
+        "en": "Correspondence discussing the combination of low-dose buprenorphine following ketamine treatment for suicidal ideation in major depressive disorder. The letter addresses clinical considerations and responses to previous commentary on this treatment approach.",
+        "sv": "Korrespondens som diskuterar kombination av låg dos buprenorfin efter ketaminbehandling för suicidal ideation vid svår depression. Brevet tar upp kliniska överväganden och svar på tidigare kommentarer om detta behandlingsförfarande.",
+        "no": "Korrespondanse som diskuterer kombinasjonen av lav-dose buprenorfin etter ketaminbehandling for suicidal ideation ved alvorlig depresjon. Brevet tar opp kliniske hensyn og svar på tidligere kommentarer om denne behandlingsmetoden.",
+        "da": "Korrespondance der diskuteres kombinationen af lavdosis buprenorfin efter ketaminbehandling for suicidal ideation ved alvorlig depression. Brevet behandler kliniske overvejelser og svar på tidligere kommentarer om denne behandlingstilgang.",
+        "fi": "Kirjeenvaihto, joka käsittelee matalan annoksen buprenorfiinin ja ketamiinin yhdistelmää itsemurhaideoinnin hoitoon vakavassa masennuksessa. Kirjeessä käsitellään kliinisiä näkökohtia ja vastauksia aiemmista kommenteista tästä hoitomenetelmästä.",
+        "is": "Bréfaskipti sem fjallar um samsetningu lágs skammta buprenorfíns eftir ketamínmeðferð fyrir sjálfsvígshugmyndir við alvarlegri þunglyndi. Bréfið fjallar um klíníska atriði og svör við fyrri athugasemdum um þessa meðferðaraðferð.",
+        "et": "Kirjavahetus, mis käsitleb madala annusega buprenorfiini kasutamist ketamiini järel rasva depressiooni ja enesetapu ideatsiooni ravis. Kiri käsitleb kliinilisi kaalutlusi ja vastuseid varasemate kommentaaride kohta selle ravimeetodi osas.",
+        "lv": "Korespondence, kas apspriež zemās devas buprenorfīna kombinēšanu ar ketamīna ārstēšanu pašnāvniecīgo ideju gadījumā smagai depresijai. Vēstule aplūko klīniskus apsvērumus un atbildes uz iepriekšējiem komentāriem par šo ārstēšanas pieeju.",
+        "lt": "Korespondencija, kurioje aptariamas žema bupreno fino doze po ketamino gydymo savižudybės idėjoms esant sunkiai depresijai. Laiške aptariami klinikiniai aspektai ir atsakymai į ankstesnius komentarus apie šį gydymo būdą."
+      },
+      "notable": false,
+      "notable_reasons": null,
+      "relevance_score": 3,
+      "study_type": "other",
+      "substances": [
+        "ketamine"
+      ],
+      "added_at": "2026-10-19T13:45:26.493638+00:00"
+    },
     {
       "title": "Ketamine administration reduced conditioned defensive behaviour and upregulated protein expression associated with neuroplasticity in a planarian model of aversive memory reactivation.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42892539/",
@@ -1882,163 +2036,6 @@
         "psilocybin"
       ],
       "added_at": "2026-09-22T11:55:10.210502+00:00"
-    },
-    {
-      "title": "Implementation and Preliminary Evaluation of an Intravenous Ketamine Protocol for Psychiatric Conditions in Medical and Surgical Units: A One-Year Pilot Study.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42767564/",
-      "source": "PubMed",
-      "date": "2026-09-21",
-      "authors": [
-        "Hu Bo",
-        "Ortiz-Cruz Alfonso",
-        "Sachidanandan Ridhaa"
-      ],
-      "doi": "10.1016/j.jaclp.2026.09.005",
-      "summaries": {
-        "en": "One-year pilot study evaluating IV ketamine implementation in general hospital units for depression and psychiatric conditions. A psychiatry-specific protocol (0.5-1.0 mg/kg) was developed for consultation-liaison services, enabling treatment on standard floors with continuous pulse oximetry monitoring. Feasibility assessed through workflow integration, staffing needs, and safety outcomes; depression and anxiety measured via MADRS, PHQ-9, and GAD-7.",
-        "sv": "Ettårigt pilotprojekt som utvärderar implementering av intravenös ketamin på allmänna sjukhusavdelningar för depression och psykiatriska tillstånd. Ett psykiatrispecifikt protokoll (0,5-1,0 mg/kg) utvecklades för konsultationspsykiatri, vilket möjliggjorde behandling på standardavdelningar med kontinuerlig pulsoximetri. Genomförbarhet bedömdes genom arbetsflödesintegrering, personalresurser och säkerhet; depression och ångest mättes med MADRS, PHQ-9 och GAD-7.",
-        "no": "Ettårig pilotstudie som evaluerer implementering av intravenøs ketamin på alminnelige sykehusavdelinger for depresjon og psykiatriske tilstander. Et psykiatri-spesifikkt protokoll (0,5-1,0 mg/kg) ble utviklet for konsultasjonspsykiatri, som muliggjorde behandling på standardavdelinger med kontinuerlig pulsoksymetri-overvåking. Gjennomførbarhet vurdert gjennom arbeidsflytintegrasjon, bemanningsbehov og sikkerhet; depresjon og angst målt med MADRS, PHQ-9 og GAD-7.",
-        "da": "Etårigt pilotstudie, der implementering af intravenøs ketamin på almindelige hospitalsafdelinger for depression og psykiatriske tilstande evalueres. En psykiatri-specifik protokol (0,5-1,0 mg/kg) blev udviklet til konsultationspsykiatri, hvilket muliggjorde behandling på standardafdelinger med kontinuerlig pulsoxymetri-overvågning. Gennemførlighed vurderet gennem arbejdsgangintegration, bemandingsbehov og sikkerhed; depression og angst målt med MADRS, PHQ-9 og GAD-7.",
-        "fi": "Vuoden mittainen pilotitutkimus, joka arvioi ketamiinin intravenöösä antamista yleisillä sairaala-osastoilla masennuksen ja psyykkisten häiriöiden hoidossa. Psykiatriaan erityisesti suunniteltu protokolla (0,5-1,0 mg/kg) kehitettiin konsultaatiopalkiaksiiatriaan, mikä mahdollisti hoidon tavallisilla osastoilla jatkuvan pulssioxymetrian valvonnan kanssa. Toteuttamiskelpoisuus arvioitiin työnkulun integroinnin, henkilöstöresurssien ja turvallisuuden kautta; masennusta ja ahdistusta mitattiin MADRS-, PHQ-9- ja GAD-7-asteikoilla.",
-        "is": "Eins árs tilraunarannsókn sem metur innleiðingu á intravenösri ketamíni á almennum sjúkrahúsdeild fyrir þunglyndi og geðrækileg ástand. Sérstaklega utformuð ketamín-samskipti fyrir geðlækningar (0,5-1,0 mg/kg) voru þróuð fyrir ráðgjöf geðlækna, sem gerðu kleift að meðhöndla sjúklinga á venjulegum deild með stöðugri púlsoxymetrí-eftirliti. Framkvæmdarleiki metinn með samþættingu verkflæðis, starfsmannaþörf og öryggi; þunglyndi og kvíði mæld með MADRS, PHQ-9 og GAD-7.",
-        "et": "Aastase pilootuuringu raames hinnati intravenoosne ketamiini rakendamist üldistel haiglaosakondadel depressiooni ja psühhiaatriliste seisundite raviks. Psühhiaatriaks spetsiaalselt välja töötatud protokoll (0,5-1,0 mg/kg) loodi konsultatsiooniabi jaoks, mis võimaldas raviprotsessi läbiviimine tavalistel osakondadel pidevate pulsoksümeetria jälgimisega. Teostatavus hinnati tööprotsessi integreerimise, personalitarbe ja ohutuse kaudu; depressiooni ja ärevust mõõdeti MADRS, PHQ-9 ja GAD-7 abil.",
-        "lv": "Viena gada pētījums, kurā novērtēts intravenozā ketamīna ieviešanas iespējamība vispārīgajos slimnīcas nodalījumos depresijas un psihiatrisku stāvokļu ārstēšanai. Psihiatrijai specifisks protokols (0,5-1,0 mg/kg) tika izstrādāts konsultējošajai psihiatrijai, kas iespējoja pacienta ārstēšanu standarta palātās ar nepārtrauktu pulsa oksimetrijas monitorēšanu. Iespējamība novērtēta, pārbaudot darbplūsmas integrāciju, personāla nepieciešamību un drošību; depresija un trauksme mērīta, izmantojot MADRS, PHQ-9 un GAD-7.",
-        "lt": "Vienerių metų pagalbinio tyrimo metu buvo vertinama intraveninės ketamino naudojimo galimybė bendrose ligoninės skyriuose depresijos ir psichiatrinių sutrikimų gydymui. Psichiatrijai skirtas protokolas (0,5-1,0 mg/kg) buvo sukurtas konsultacinei psichiatrijai ir leido gydyti pacientus standartiniuose skyriuose su nuolatine pulso oksimetrijos kontrole. Įgyvendinimo realumas vertintas pagal darbo eigos integravimą, personalą ir saugumą; depresija ir nerimas matuoti naudojant MADRS, PHQ-9 ir GAD-7 skalę."
-      },
-      "notable": false,
-      "notable_reasons": null,
-      "relevance_score": 3,
-      "study_type": "observational",
-      "substances": [
-        "ketamine"
-      ],
-      "added_at": "2026-09-22T11:55:10.210502+00:00"
-    },
-    {
-      "title": "Pharmacological interventions for alcohol use disorder on quality of life: a meta-analysis of randomized controlled trials.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42831801/",
-      "source": "PubMed",
-      "date": "2026-Sep-20",
-      "authors": [
-        "Fluyau Dimy",
-        "Revadigar Neelambika",
-        "Kim Paul"
-      ],
-      "doi": "10.1093/alcalc/agag067",
-      "summaries": {
-        "en": "Meta-analysis of 18 RCTs (n=4376) examining pharmacotherapy for alcohol use disorder. Naltrexone improved both mental (d=0.30) and physical quality of life (d=0.16). Nalmefene improved physical QoL only. Acamprosate, sertraline, and psilocybin showed QoL benefits in limited trials, while topiramate, ketamine, varenicline, and quetiapine showed no clear improvements. Results suggest selective efficacy across medications.",
-        "sv": "Metaanalys av 18 RCT:er (n=4376) som undersökte farmakologisk behandling för alkoholanvändningsstörning. Naltrexon förbättrade både psykisk (d=0,30) och fysisk livskvalitet (d=0,16). Nalmefene förbättrade endast fysisk livskvalitet. Akamprosat, sertralin och psykedeliska substanser visade begränsade fördelar, medan topiramat, ketamin, varenikelin och quetiapin inte visade tydliga effekter. Resultaten tyder på selektiv effektivitet mellan mediciner.",
-        "no": "Metaanalyse av 18 RCT-er (n=4376) som undersøkte farmakologisk behandling for alkoholvanskeligheter. Naltrexon forbedret både psykisk (d=0,30) og fysisk livskvalitet (d=0,16). Nalmefene forbedret kun fysisk livskvalitet. Akamprosat, sertralin og psykedelika viste begrenset nytte, mens topiramat, ketamin, varenikolin og quetiapin ikke viste klare effekter. Resultatene tyder på selektiv effektivitet mellom medisinene.",
-        "da": "Metaanalyse af 18 RCT'er (n=4376) som undersøgte farmakologisk behandling for alkoholforbrug. Naltrexon forbedrede både mental (d=0,30) og fysisk livskvalitet (d=0,16). Nalmefene forbedrede kun fysisk livskvalitet. Akamprosat, sertralin og psykedelika viste begrænsede fordele, mens topiramat, ketamin, varenikolin og quetiapin ikke viste klare forbedringer. Resultaterne tyder på selektiv effektivitet blandt medicinerne.",
-        "fi": "18 satunnaistetun kontrolloitua tutkimusta (n=4376) farmakologisesta alkoholiongelmien hoidosta. Naltreksoni paransi sekä psyykkistä (d=0,30) että fyysistä elämänlaatua (d=0,16). Nalmefeni paransi vain fyysistä elämänlaatua. Akamprostaatti, sertraliini ja psykedeelien vaikutukset olivat rajalliset, kun taas topiramaatti, ketamiini, varenikliini ja kvetiapiini eivät osoittaneet selvää hyötyä. Tulokset viittaavat vaihtelevaan lääkkeiden tehokkuuteen.",
-        "is": "Samantekt á 18 handahófs stýrðum rannsóknum (n=4376) um lyfjameðferð við áfengisnotkun. Naltrexón bætði bæði andlega (d=0,30) og líkamlega lífsgæði (d=0,16). Nalmefén bætði eingöngu líkamlega lífsgæði. Akamprostat, sertralin og sálfræðileg víkindi sýndu takmarkaða ávinning, en topiramat, ketamín, varenikín og kvetíapín sýndu engar skýrar bætingar. Niðurstöður benda til mismunandi verkun lyfja.",
-        "et": "18 juhuslikustatud kontrollitud uuringu metaanalüüs (n=4376) alkoholiseisundi farmakoterapiast. Naltreksoon parandas nii vaimset (d=0,30) kui füüsilist elukvaliteeti (d=0,16). Nalmefeen parandas ainult füüsilist elukvaliteeti. Akamprostaadil, sertraliinил ja psühhoaktiivseil ainetel oli piiratud kasu, kuigi topiraamaat, ketamiin, vareniklin ja kvetiapin ei näidanud selgeid parandusi. Tulemused viitavad erinevale ravimite tõhususele.",
-        "lv": "18 randomizētu kontrolētu pētījumu metaanalīze (n=4376) par farmakoterapiju alkohola lietošanas traucējumiem. Naltreksons uzlaboja gan garīgo (d=0,30), gan fizisko dzīves kvalitāti (d=0,16). Nalmefens uzlaboja tikai fizisko dzīves kvalitāti. Akamprostatam, sertralīnam un psihodeliski vielas parādīja ierobežotu ieguvumu, savukārt topiramatam, ketamīnam, vareniklinam un kvetapīnam nebija skaidra efekta. Rezultāti liecina par atšķirīgu zāļu efektivitāti.",
-        "lt": "18 atsitiktinių kontroliuojamų tyrimų metaanalizė (n=4376) dėl vaistinės terapijos alkoholio vartojimo sutrikimams. Naltreksonis pagerino tiek psichikos (d=0,30), tiek fizinę gyvenimo kokybę (d=0,16). Nalmefenas pagerino tik fizinę gyvenimo kokybę. Akamprostaatui, sertralinui ir psichedelinėms medžiagoms buvo ribota nauda, o topiramatui, ketaminui, varenilinui ir kvetianinui nebuvo jokio aiškaus efekto. Rezultatai rodo skirtingą vaistų veiksmingumą."
-      },
-      "notable": false,
-      "notable_reasons": null,
-      "relevance_score": 3,
-      "study_type": "review",
-      "substances": [
-        "psilocybin",
-        "ketamine"
-      ],
-      "added_at": "2026-10-06T13:29:10.190107+00:00"
-    },
-    {
-      "title": "A circuit dissection of perception-action decoupling in S-ketamine-induced hallucination-like states.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42763341/",
-      "source": "PubMed",
-      "date": "2026-09-19",
-      "authors": [
-        "Wang Dijia",
-        "Xu Junnan",
-        "Wang Zhaoran"
-      ],
-      "doi": "10.1038/s41380-026-03893-w",
-      "summaries": {
-        "en": "Mouse study combining behavioral tasks with neural imaging to investigate S-ketamine-induced hallucinations. Researchers identified two distinct striatal circuits: basolateral amygdala→striatum pathway drove false perceptual responses, while prefrontal cortex→striatum pathway controlled behavioral output. S-ketamine shifted striatal activity patterns, reducing neural integration precision. Results clarify circuit mechanisms underlying perception-action decoupling in hallucinatory states.",
-        "sv": "Möss-studie som kombinerade beteendeprov med neural avbildning för att undersöka S-ketamin-inducerade hallucinationer. Forskare identifierade två distinkta striata-kretsar: basolateral amygdala→striatum-vägen drev falska perceptuella svar, medan prefrontal cortex→striatum-vägen kontrollerade beteendeutgång. S-ketamin skiftade striata aktivitetsmönster och minskade neural integrationsprecision. Resultaten klarläggde kretsmekanismer bakom perception-handling-avkoppling.",
-        "no": "Musestudi som kombinerte atferdstester med nevralt avbildning for å undersøke S-ketamin-induserte hallusinasjoner. Forskere identifiserte to distinkte striata-kretser: basolateral amygdala→striatum-banen drev falske perseptuelle svar, mens prefrontal cortex→striatum-banen kontrollerte atferdsuttrykk. S-ketamin endret striata aktivitetsmønstre og reduserte nevralt integreringspresisjons. Resultatene presiserte kretsmekanismer bakom persepsjon-handling-frakopling.",
-        "da": "Musestudie kombineret adfærdstests med neural afbildning for at undersøge S-ketamin-inducerede hallucinationer. Forskere identificerede to adskilte striata-kredsløb: basolateral amygdala→striatum-banen fremkaldte falske perceptuelle reaktioner, mens præfrontal cortex→striatum-banen kontrollerede adfærdsudtryk. S-ketamin skiftede striata aktivitetsmønstre og reducerede neural integrationspræcision. Resultaterne præciserede kredsløbsmekanismer bag perseption-handling-frakoblingen.",
-        "fi": "Hiirillä suoritettu tutkimus, jossa yhdistettiin käyttäytymistestejä hermosignaalin kuvantamiseen S-ketamiinin aiheuttamien hallusinaatioiden tutkimiseksi. Tutkijat tunnistivat kaksi erillistä striata-piiriä: basolateral amygdala→striatum-rata aiheutti väärät havainnot, kun taas prefrontaalinen cortex→striatum-rata kontrolloi käyttäytymisen ilmaisua. S-ketamiini muutti striata-aktiviteetin kuvioita ja vähensi hermoston integroinnin tarkkuutta. Tulokset selventävät piirien mekanismeja.",
-        "is": "Músstúdi sem sameinaði hegðunarpróf með taugamyndun til að rannsaka S-ketamín-framkallaðar hallúsínasir. Vísindamenn skilgreindu tvær aðskildar striata-hringrásir: basolateral amygdala→striatum-leið kom af stað röngum skynjunarviðbrögðum, en prefrontal cortex→striatum-leið stjórnaði hegðunarútfærslum. S-ketamín breytti striata-starfsemi og minnkaði nákvæmni taugasamþættingar. Niðurstöður skýra hringrásamekanisma skynjunar-hegðunarfrátengslu.",
-        "et": "Hiirtega tehtud uuringus kombineeriti käitumisteste neuraalsete kuvamismeetoditega S-ketamiini põhjustatud hallutsinatsiooni uurimiseks. Teadlased määratlesid kaks erinevat striata-ahelat: basolateraalne amügdaal→striatum-tee põhjustas valesid tajutusvastuseid, samas kui prefrontaalne ajukoor→striatum-tee kontrollis käitumise väljendamist. S-ketamiin muutis striata-aktiivsuse mustreid ja vähendas neuraalsete süsteemide integratsioon täpsust.",
-        "lv": "Peles pētījums, kurā apvienoti uzvedības testi ar neirālo attēlošanu, lai izpētītu S-ketamīna izraisītās halucinācijas. Pētnieki identificēja divas atšķirīgas striata ķēdes: bazolaterālā amigdala→striatum ceļš izraisīja nepareizas uztves atbildes, savukārt prefrontālā garozā→striatum ceļš kontrolēja uzvedības izpausmi. S-ketamīns mainīja striata aktivitātes modeļus un samazināja neirālo integrācijas precizitāti. Rezultāti skaidro ķēžu mehānismus.",
-        "lt": "Pelių tyrimas, kuriame buvo sujungti elgesio testai su neuraliniu vaizdu siekiant ištirti S-ketamino sukeltas halucinacijas. Mokslininkai nustatė dvi skirtingas striata grandines: basolateralinė amigdala→striatum takais sukeliami klaidingi suvokimo atsakai, o prefrontalioji žievė→striatum takas kontroliavo elgesio išraišką. S-ketaminas pasikeitė striata veiklos šablonus ir sumažino neurinio integravimo tikslumą. Rezultatai paaiškina grandinių mechanizmus."
-      },
-      "notable": false,
-      "notable_reasons": null,
-      "relevance_score": 4,
-      "study_type": "preclinical",
-      "substances": [
-        "ketamine"
-      ],
-      "added_at": "2026-09-20T11:39:55.846587+00:00"
-    },
-    {
-      "title": "Psychedelics and suicidality: A double-edged sword - risks, mechanisms, and moving forward.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42762543/",
-      "source": "PubMed",
-      "date": "2026-09-19",
-      "authors": [
-        "Mallevays Maia",
-        "Berkovitch Lucie"
-      ],
-      "doi": "10.1016/j.euroneuro.2026.113878",
-      "summaries": {
-        "en": "Psychedelics and suicidality: A double-edged sword - risks, mechanisms, and moving forward.",
-        "sv": "Psychedelics and suicidality: A double-edged sword - risks, mechanisms, and moving forward.",
-        "no": "Psychedelics and suicidality: A double-edged sword - risks, mechanisms, and moving forward.",
-        "da": "Psychedelics and suicidality: A double-edged sword - risks, mechanisms, and moving forward.",
-        "fi": "Psychedelics and suicidality: A double-edged sword - risks, mechanisms, and moving forward.",
-        "is": "Psychedelics and suicidality: A double-edged sword - risks, mechanisms, and moving forward.",
-        "et": "Psychedelics and suicidality: A double-edged sword - risks, mechanisms, and moving forward.",
-        "lv": "Psychedelics and suicidality: A double-edged sword - risks, mechanisms, and moving forward.",
-        "lt": "Psychedelics and suicidality: A double-edged sword - risks, mechanisms, and moving forward."
-      },
-      "notable": false,
-      "notable_reasons": null,
-      "relevance_score": 4,
-      "study_type": "review",
-      "substances": [
-        "lsd",
-        "psilocybin",
-        "other"
-      ],
-      "added_at": "2026-09-20T11:39:55.846587+00:00"
-    },
-    {
-      "title": "Single ayahuasca administration mitigates long-term behavioral and neurochemical effects of early-life stress in rats.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42762335/",
-      "source": "PubMed",
-      "date": "2026-09-19",
-      "authors": [
-        "Lodetti Guilherme",
-        "Redivo Henrique",
-        "Teixeira Amanda Gomes"
-      ],
-      "doi": "10.1007/s00702-026-03287-w",
-      "summaries": {
-        "en": "Rat study examining ayahuasca's effects on depression induced by early maternal deprivation. Single ayahuasca dose reversed anxiety and depressive-like behaviors and normalized neurochemical markers (serotonin, dopamine, BDNF, antioxidant enzymes) in frontal cortex, hippocampus, and striatum. Results suggest classical psychedelics may offer rapid therapeutic potential for depression resistant to conventional treatments.",
-        "sv": "Råttstudie som undersökte ayahuascas effekter på depression framkallad av tidig modersseparation. En enda ayahuascados reverserade ängstnivåer och depressionsliknande beteenden samt normaliserade neurokemsiska markörer (serotonin, dopamin, BDNF, antioxidantenzym) i prefrontal cortex, hippocampus och striatum. Resultaten tyder på att klassiska psykedelika kan erbjuda snabb terapeutisk potential för depressioner resistenta mot konventionell behandling.",
-        "no": "Rottestudie som undersøkte ayahuascas effekter på depresjon indusert av tidlig moderseparasjon. En enkelt ayahuascadose reverserte angst- og depresjonslignende atferd og normaliserte nevrokjemiske markører (serotonin, dopamin, BDNF, antioksidantenzym) i prefrontal cortex, hippocampus og striatum. Resultatene tyder på at klassiske psykedelika kan tilby rask terapeutisk potensial for depresjon resistent mot konvensjonell behandling.",
-        "da": "Rotteforsøg, der undersøgte ayahuascas effekter på depression induceret af tidlig moderadskillelse. En enkelt ayahuascadosis omvendte angst- og depressionsrelateret adfærd og normaliserede neurokediske markører (serotonin, dopamin, BDNF, antioksidantenzyme) i præfrontal cortex, hippocampus og striatum. Resultaterne tyder på, at klassiske psykedelika kan give hurtig terapeutisk potentiale for depression modstandsdygtig over for konventionel behandling.",
-        "fi": "Rottatutkimus, jossa tutkittiin ayahuascan vaikutuksia varhaisen äitien erottelun aiheuttamaan masennukseen. Yksittäinen ayahuascaannos vähensi ahdistus- ja masennuskaltaista käyttäytymistä ja normalisoi neurokemiallisia merkkiaineita (serotoniini, dopamiini, BDNF, antioksidanttientzyymiit) prefrontaalisessa kuoressa, hippocampuksessa ja striatumissa. Tulokset viittaavat siihen, että klassiset psykedeelit voivat tarjota nopeaa terapeuttista potentiaalia perinteisille hoitoille vastustuskykyiseen masennukseen.",
-        "is": "Rotnarannsókn sem kannaði áhrif ayahuasca á þunglyndi sem framkallað var með snemma aðskilnaði frá móður. Stakur skammtur ayahuasca sneri við kvíða- og þunglyndissvipuðum hegðun og eðlæði efnafræðilega merki (serótóníni, dópamín, BDNF, antíoxidantsensor) í forhluta heilans, hippocampus og striatum. Niðurstöðurnar gefa til kynna að klassísk sálfræðiefni geti boðið upp á hraðan þerapeutískan möguleika fyrir þunglyndi sem þolir ekki hefðbundna meðferð.",
-        "et": "Rottide uuring, mis uuris ayahuasca mõjusid varajasel emast eraldamisel põhjustatud depressioonile. Üksik ayahuasca annus pöördis ümber ärevus- ja depressiooniga sarnast käitumist ning normaliseeris neurokemilisi markereid (serotoniini, dopamiin, BDNF, antioksüdantsed ensüümid) prefrontaalses koores, hippocampuses ja striatumis. Tulemused viitavad sellele, et klassikalised psühhedeelikad võivad pakkuda kiiret teraapilist potentsiaali depressiooni jaoks, mis on resistentne tavapärasele ravile.",
-        "lv": "Žurķu pētījums, kurā pētīja ayahuaskas ietekmi uz depresiju, ko izraisīja agrīna mātes atdalīšana. Viena ayahuaskas doza apgriezā trauksmes un depresijas līdzīgu uzvedību un normalizēja neirokīmiskos marķierus (serotonīnu, dopamīnu, BDNF, antioksidantu enzīmus) prefrontālā garozā, hipokampā un striātumā. Rezultāti liecina, ka klasiskie psihedeliki var piedāvāt ātru terapeitisko potenciālu depresijā, kas ir rezistenta pret konvencionālo ārstēšanu.",
-        "lt": "Žiurkių tyrimas, kuriame buvo tiriami ayahuascos poveikiai depresijai, sukeltai ankstyvam motinos atskyrimo modeliui. Viena ayahuascos doza neutralizavo nerimą ir depresijos panašų elgesį bei normalizavo neurochemines žymeklius (serotonį, dopaminą, BDNF, antioksidacinius fermentus) prefrontalinėje žievėje, hipokampe ir striatume. Rezultatai rodo, kad klasinės psichedelinės medžiagos gali suteikti greitą terapinį potencialą depresijai, atspiriai prieš įprastą gydymą."
-      },
-      "notable": false,
-      "notable_reasons": null,
-      "relevance_score": 4,
-      "study_type": "preclinical",
-      "substances": [
-        "ayahuasca"
-      ],
-      "added_at": "2026-09-20T11:39:55.846587+00:00"
     }
   ]
 }

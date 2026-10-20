@@ -1,7 +1,31 @@
 {
-  "date": "2026-10-19",
-  "cached_at": "2026-10-19T12:04:43.429840+00:00",
+  "date": "2026-10-20",
+  "cached_at": "2026-10-20T10:54:42.850901+00:00",
   "articles": [
+    {
+      "title": "Depression: Ketamine quiets an unruly habenula.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42896518/",
+      "source": "PubMed",
+      "abstract": "Ketamine's robust antidepressant effects often appear twenty-four hours after a single dose. A new study now provides evidence suggesting that this timepoint coincides with a quieting of habenula activation and reductions in aversive learning in healthy subjects.",
+      "date": "2026-Oct-19",
+      "authors": [
+        "Krystal John H"
+      ],
+      "doi": "10.1016/j.cub.2026.09.027"
+    },
+    {
+      "title": "Ketamine's mechanisms of action in major depressive disorder and treatment-resistant depression: Is brain topological change a candidate convergent systems-level pathway?",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42896406/",
+      "source": "PubMed",
+      "abstract": "Ketamine is a rapid-acting antidepressant with demonstrated efficacy in major depressive disorder and treatment-resistant depression, yet the mechanisms by which its molecular actions translate into sustained clinical improvement remain incompletely understood. Prevailing models have emphasized N-methyl-D-aspartate receptor antagonism and downstream glutamatergic signaling; however, convergent evidence indicates that ketamine engages a broader hierarchy of biological processes spanning synaptic plasticity, circuit dynamics, and large-scale brain network organization. This narrative review integrates molecular, cellular, circuit-level, neuroimaging, and electrophysiological findings to evaluate whether normalization of pathological brain topology represents a convergent systems-level pathway mediating ketamine's antidepressant effects. Across modalities, depressive disorders are characterized by disrupted network integration and segregation, stability of maladaptive configurations, and impaired flexibility of large-scale neural systems. Evidence from functional magnetic resonance imaging and electroencephalography indicates that ketamine rapidly modulates these abnormalities, increasing global connectivity, reducing rigid network organization, and enhancing neural signal diversity and network dynamics. These effects emerge within hours, are associated with clinical improvement, and show temporal and mechanistic distinctions from those observed with monoaminergic antidepressants, neuromodulation, psychotherapy, and serotonergic psychedelics. Integrating these findings, this review proposes that ketamine's molecular and circuit-level actions are necessary but not sufficient, with antidepressant efficacy shaped by how these processes are instantiated within large-scale network topology. Conceptualizing brain topology as an integrative systems-level framework may help reconcile diverse mechanistic observations, clarify sources of treatment resistance, and inform testable hypotheses for topology-based biomarkers and novel rapid-acting antidepressant strategies.",
+      "date": "2026-10-12",
+      "authors": [
+        "Le Gia Han",
+        "Wong Sabrina",
+        "Selby Simryn"
+      ],
+      "doi": "10.1016/j.ajp.2026.105178"
+    },
     {
       "title": "Buprenorphine Following Ketamine for Suicidal Ideation: A Bridge to Care from the Emergency Department.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42894304/",
@@ -233,31 +257,6 @@
         "Backmund Markus"
       ],
       "doi": "10.3389/fpsyt.2026.2007932"
-    },
-    {
-      "title": "Self-medication of attention-deficit/hyperactivity disorder symptoms with psychoactive substances in adults: a scoping review of how symptom-relief motives are framed and operationalised across substances.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42877221/",
-      "source": "PubMed",
-      "abstract": "Adults with attention-deficit/hyperactivity disorder (ADHD) use tobacco, cannabis, alcohol, cocaine and non-prescribed stimulants far more than the general population. The self-medication hypothesis holds that people with ADHD, including those undiagnosed, use substances to relieve core symptoms rather than for recreation or shared vulnerability to addiction, and is widely invoked to reframe illicit substance use as undiagnosed ADHD. How this claim is framed and tested has not been mapped across substances. To map the literature invoking self-medication of ADHD symptoms in adults, substance by substance, and to characterise how each source frames the concept relative to misuse, recreational or shared-liability accounts. Empirical studies, reviews, commentaries, preprints and trial-register records on self-medication of ADHD symptoms with a psychoactive substance in adults or predominantly adult samples; English; inception to 21 July 2026. PubMed, OpenAlex and Consensus, with ClinicalTrials.gov and a preprint search. Searches were conditioned on self-medication and motive terminology, so the corpus maps the self-medication literature and does not sample the misuse or shared-liability literature independently. Sources were charted for substance, design, population, operationalisation of self-medication, and a framing category (self-medication-framed; mixed; misuse- or shared-liability-framed; neutral/descriptive). A descriptive map was built by substance. No critical appraisal or evidence-strength ranking was made. Of 937 records identified and 820 screened, 109 sources (1986-2026) met the criteria. Coverage was heaviest for non-prescribed stimulants (n=35), cannabis (n=29), nicotine (n=25) and alcohol (n=17); no eligible ketamine source was identified. Self-medication framing was most prevalent, and uniquely accompanied by experimental data, for nicotine; prevalent but observational for cannabis; coexisted with academic and recreational motives for stimulants; and alcohol was mostly framed as comorbidity or shared liability. Self-medication was overwhelmingly inferred from association or motive report rather than tested against symptom change. Self-medication framing is substance-specific in prevalence and accompanying evidence. Because the search was conditioned on self-medication terminology, the map describes how the literature frames the claim and does not adjudicate between competing accounts. Applying self-medication as a blanket explanation for substance use in people with ADHD symptoms is not warranted by how the claim has been tested.",
-      "date": "2026-09-30",
-      "authors": [
-        "Adamou Marios",
-        "Petrou Christos"
-      ],
-      "doi": "10.3389/fpsyt.2026.1966206"
-    },
-    {
-      "title": "\"Am I a candidate for magic mushrooms?\" A mystery shopper study of Oregon psilocybin service centers.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42871231/",
-      "source": "PubMed",
-      "abstract": "Oregon is the first US state to permit supervised psilocybin services through a nonmedical, wellness-based model. We examined what prospective clients with psychiatric histories encounter when contacting service centers, including how staff communicate about safety, eligibility, and cost. We conducted a mystery shopper study of 26 licensed service centers in Oregon (7/2025-9/2025), 4 of which closed before calls began, leaving 22 in the sample. We reviewed websites and conducted 2 waves of scripted phone calls portraying adults with depression. Website and call data were combined at the center level, counting an item as disclosed if it appeared online or during a call. Themes from call field notes were contextualized through structured debriefing interviews with service center staff. Callers reached 15/22 centers, none of which permitted unsupervised consumption or immediate dosing without psychiatric assessment. Staff asked detailed questions about psychiatric comorbidities, addressing information gaps from websites, and none recommended discontinuing antidepressants. The median cost was $1900. Debriefing interviews described financial strain for service centers, with viability constrained by licensing fees and potential misalignment with cannabis-derived business models. Oregon's regulated model appears clinically cautious, while facing high costs for clients, facilitators, and service centers that limit scalability.",
-      "date": "2026-08-27",
-      "authors": [
-        "Adams Danielle R",
-        "Hartman Morgan",
-        "Gong Lisa"
-      ],
-      "doi": "10.1093/haschl/qxag231"
     },
     {
       "title": "The Psychedelic Practitioner Issue 7: Preparedness (Systems)",
@@ -505,6 +504,32 @@
       "doi": "10.1016/j.bioactmat.2026.08.053"
     },
     {
+      "title": "Feasibility and tolerability of virtual reality during esketamine treatment: A pilot study.",
+      "url": "https://doi.org/10.1016/j.jad.2026.122554",
+      "source": "Europe PMC",
+      "abstract": "<h4>Objective</h4>Ketamine/esketamine produce rapid antidepressant effects, with growing interest in how acute subjective experiences and the surrounding set and setting shape clinical outcomes. Little is known about how audiovisual adjustments during ketamine/esketamine treatment influence comfort, tolerability, or patient experience, despite their common use in clinical practice. Virtual reality (VR) is one immersive approach being explored in this context. This study examines the feasibility and tolerability of integrating VR into maintenance ketamine/esketamine sessions.<h4>Methods</h4>Study 1 surveyed patients receiving ketamine/esketamine regarding their dissociative experience and openness to integrating virtual reality into treatment. In study 2, patients receiving esketamine integrated VR into clinical treatment. Participants were trained in the use of a VR headset and completed one esketamine session with VR. The primary objective was to assess safety, tolerability, and feasibility.<h4>Results</h4>Participants from Study 1 highlighted auditory (33%, 7/21) and visual (52%, 11/21) discomfort as common challenges during ketamine treatment; the majority (71%, 15/21) expressed openness to integrating VR into clinical treatment. In Study 2, five patients integrated VR into a single treatment session, with one using it throughout the session. Participants who wore glasses had difficulty integrating VR and reported nausea. All participants showed decreased altered experience as measured by the 5-Dimensional Altered States of Consciousness scale.<h4>Conclusions/relevance</h4>This pilot study examines factors affecting the feasibility and tolerability of VR during ketamine treatment and highlights considerations for future research. The observed reduction in 5D-ASC scores raises questions about whether VR dampens dissociative intensity, with potential clinical implications warranting further exploration.",
+      "date": "2026-09-23",
+      "authors": [
+        "Curran E",
+        "Kumpf KT",
+        "Ansari M"
+      ],
+      "doi": "10.1016/j.jad.2026.122554"
+    },
+    {
+      "title": "Experimental evidence for the beneficial effects of low-concentration ozone.",
+      "url": "https://doi.org/10.4103/mgr.medgasres-d-25-00198",
+      "source": "Europe PMC",
+      "abstract": "Ozone (O3), a molecule consisting of three oxygen atoms, is an unstable compound whose clinical application as a complementary therapy continues to expand. Although numerous clinical studies support its therapeutic potential, the molecular basis of its effects has remained poorly understood. This review summarizes the current knowledge on the cellular and molecular mechanisms activated by low-concentration O3. Central to its action is the induction of mild oxidative stress by low concentrations of O3, which triggers an antioxidant response mediated through nuclear factor erythroid 2-related factor 2, enhancing cell survival. Additionally, low-concentration O3 exhibits antiinflammatory properties by modulating cytokine expression, inhibiting metalloproteinases, and activating macrophages. The regenerative potential of low-concentration O3 may be attributed to the stimulation of fibroblasts, chondrocytes, and osteoblasts. Moreover, the antitumor effects of low-concentration O3 in cancer cell lines and animal models appear to be linked to the inhibition of cell proliferation and migration, as well as proapoptotic activity. More research is needed to determine the best treatment methods, long-term effectiveness, and standardized clinical procedures for ozone therapy in specific diseases. This review provides a detailed reference for understanding how O3 therapy works.",
+      "date": "2026-09-12",
+      "authors": [
+        "Carton F",
+        "Pellicciari C",
+        "Tabaracci G"
+      ],
+      "doi": "10.4103/mgr.medgasres-d-25-00198"
+    },
+    {
       "title": "Preclinical evaluation of PSMA-targeted ultrasound contrast agents in an orthotopic model of prostate cancer in rabbits.",
       "url": "https://doi.org/10.1016/j.bioactmat.2026.07.040",
       "source": "Europe PMC",
@@ -544,36 +569,11 @@
       "doi": "10.5812/ijpr-164903"
     },
     {
-      "title": "Institutional betrayal and posttraumatic adaptation among Nova festival survivors following the 7 October 2023 attack.",
-      "url": "https://doi.org/10.1080/20008066.2026.2737601",
-      "source": "Europe PMC",
-      "abstract": "<b>Background:</b> On 7 October 2023, Hamas launched a large-scale surprise attack on Israel that included a mass-casualty assault on the Nova music festival, in which hundreds of attendees were murdered or abducted. While emerging research has documented survivors' early responses, less is known about their longer-term adaptation.<b>Objective:</b> This study examined Nova festival survivors' retrospective accounts of posttraumatic adaptation approximately 18 months after the attack, focusing on institutional responses, recovery resources, and perceived positive change under conditions of ongoing threat.<b>Method:</b> This phenomenologically informed study included 15 adult Nova survivors. Semi-structured, in-depth interviews were analysed using reflexive thematic analysis. Initial coding was primarily inductive and semantic, while continuous traumatic stress, institutional betrayal, recovery capital, and posttraumatic growth were used as interpretive lenses during later analysis.<b>Results:</b> Three interrelated themes emerged: multidimensional vulnerability, recovery resources, and perceived positive changes. Across all themes, personal agency was reflected in survivors' efforts to mobilise resources and actively shape their adaptation.<b>Conclusions:</b> Institutional betrayal emerged as an ongoing secondary injury, whereas survivor-led peer communities served as a key source of recovery capital. The findings underscore the importance of institutional trust and community-based support following collective trauma.",
-      "date": "2026-10-08",
-      "authors": [
-        "Elisha E",
-        "Peled-Laskov R",
-        "Or O."
-      ],
-      "doi": "10.1080/20008066.2026.2737601"
-    },
-    {
-      "title": "Efficacy and safety of ketamine for post-traumatic stress disorder: A systematic review with narrative synthesis and consideration of military and veteran populations.",
-      "url": "https://doi.org/10.1002/pcn5.70425",
-      "source": "Europe PMC",
-      "abstract": "Post-traumatic stress disorder (PTSD) is a debilitating disorder with limited pharmaceutical treatment options. Ketamine, a noncompetitive <i>N</i>-methyl-d-aspartate (NMDA) receptor antagonist with rapid-onset effects, has emerged as a potential treatment, particularly for patients who do not respond to first-line therapies. This systematic review synthesizes the current evidence on the effectiveness and safety of ketamine for PTSD, with a focus on military and veteran populations. Eligible studies included adults with PTSD, who evaluated ketamine or esketamine, and reported efficacy and safety outcomes. Due to substantial clinical and methodological heterogeneity, a meta-analysis was not performed. Eight studies (<i>N</i> = 383) were included, comprising five randomized-controlled trials and three uncontrolled or observational studies. Most studies reported reductions in PTSD symptoms following ketamine administration. The largest effect size (<i>d</i>' = 2.17; representing a sample size-adjusted Cohen's <i>d</i>) was reported in a small uncontrolled open-label study of 15 veterans, in which six ketamine infusions were associated with an 80% PTSD remission rate. This finding warrants caution, given the small sample and the absence of a control group. Dissociative and hemodynamic adverse effects were frequently observed during infusion, but typically resolved afterward. No study reported cognitive decline associated with repeated ketamine administration. Current evidence suggests that ketamine may be associated with short-term reductions in PTSD symptoms in some populations; however, findings remain preliminary due to small samples, heterogeneous designs, brief follow-up, and inconsistent safety reporting.",
-      "date": "2026-10-07",
-      "authors": [
-        "Ivasyutyn M",
-        "Bhakta S."
-      ],
-      "doi": "10.1002/pcn5.70425"
-    },
-    {
       "title": "CZ",
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2018-004480-31/CZ",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-10-19",
+      "date": "2026-10-20",
       "authors": [],
       "doi": ""
     },
@@ -582,7 +582,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2020-005037-32/CZ",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-10-19",
+      "date": "2026-10-20",
       "authors": [],
       "doi": ""
     },
@@ -591,7 +591,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2021-002909-10/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-10-19",
+      "date": "2026-10-20",
       "authors": [],
       "doi": ""
     },
@@ -600,7 +600,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2015-000550-37/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-10-19",
+      "date": "2026-10-20",
       "authors": [],
       "doi": ""
     },
@@ -609,7 +609,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2021-000041-40/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-10-19",
+      "date": "2026-10-20",
       "authors": [],
       "doi": ""
     },
@@ -618,7 +618,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2020-000829-55/DK",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-10-19",
+      "date": "2026-10-20",
       "authors": [],
       "doi": ""
     },
@@ -627,7 +627,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2020-002790-94/SE",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-10-19",
+      "date": "2026-10-20",
       "authors": [],
       "doi": ""
     },
@@ -636,7 +636,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2021-006200-33/FI",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-10-19",
+      "date": "2026-10-20",
       "authors": [],
       "doi": ""
     },
@@ -645,7 +645,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2019-004812-73/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-10-19",
+      "date": "2026-10-20",
       "authors": [],
       "doi": ""
     },
@@ -654,7 +654,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2022-002369-14/BE",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-10-19",
+      "date": "2026-10-20",
       "authors": [],
       "doi": ""
     },

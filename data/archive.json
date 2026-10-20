@@ -1,6 +1,64 @@
 {
   "items": [
     {
+      "title": "Depression: Ketamine quiets an unruly habenula.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42896518/",
+      "source": "PubMed",
+      "date": "2026-Oct-19",
+      "authors": [
+        "Krystal John H"
+      ],
+      "doi": "10.1016/j.cub.2026.09.027",
+      "summary_en": "A study examining ketamine's antidepressant mechanism found that 24 hours after a single dose, the habenula—a brain region involved in negative reward processing—shows reduced activation in healthy subjects, accompanied by decreased aversive learning. This timing aligns with ketamine's rapid antidepressant effects.",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "preclinical",
+      "substances": [
+        "ketamine"
+      ],
+      "added_at": "2026-10-20T11:54:54.617576+00:00"
+    },
+    {
+      "title": "Ketamine's mechanisms of action in major depressive disorder and treatment-resistant depression: Is brain topological change a candidate convergent systems-level pathway?",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42896406/",
+      "source": "PubMed",
+      "date": "2026-10-12",
+      "authors": [
+        "Le Gia Han",
+        "Wong Sabrina",
+        "Selby Simryn"
+      ],
+      "doi": "10.1016/j.ajp.2026.105178",
+      "summary_en": "Narrative review examining ketamine's antidepressant mechanisms in major depressive and treatment-resistant depression. Beyond NMDA receptor antagonism, evidence from fMRI and EEG studies suggests ketamine normalizes disrupted brain network topology within hours—increasing connectivity, reducing rigid organization, and enhancing neural flexibility. This systems-level pathway may represent a convergent mechanism distinct from monoaminergic antidepressants.",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "review",
+      "substances": [
+        "ketamine"
+      ],
+      "added_at": "2026-10-20T11:54:54.617576+00:00"
+    },
+    {
+      "title": "Feasibility and tolerability of virtual reality during esketamine treatment: A pilot study.",
+      "url": "https://doi.org/10.1016/j.jad.2026.122554",
+      "source": "Europe PMC",
+      "date": "2026-09-23",
+      "authors": [
+        "Curran E",
+        "Kumpf KT",
+        "Ansari M"
+      ],
+      "doi": "10.1016/j.jad.2026.122554",
+      "summary_en": "Pilot study examining virtual reality (VR) integration during esketamine treatment for depression. Study 1 surveyed 21 patients on dissociative experiences and VR interest; 52% reported visual discomfort and 71% were open to VR. Study 2 involved 5 patients using VR in one esketamine session. Results showed feasibility but tolerability issues, particularly nausea in glasses-wearing participants. VR shows potential but requires optimization for clinical integration.",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "other",
+      "substances": [
+        "ketamine"
+      ],
+      "added_at": "2026-10-20T11:54:54.617576+00:00"
+    },
+    {
       "title": "Buprenorphine After Ketamine for Suicidal Ideation: Durability, Specificity, and Confounding.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42894302/",
       "source": "PubMed",

@@ -1,7 +1,46 @@
 {
-  "date": "2026-10-20",
-  "cached_at": "2026-10-20T10:54:42.850901+00:00",
+  "date": "2026-10-21",
+  "cached_at": "2026-10-21T11:08:07.830758+00:00",
   "articles": [
+    {
+      "title": "Intravenous Ketamine for Depressed and Suicidal Adolescents in the Emergency Department: A Randomized Double-Blind Trial.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42900929/",
+      "source": "PubMed",
+      "abstract": "Adolescents frequently seek care in the emergency department (ED) for behavioral health emergencies. Due to national shortages in staffing, limited opportunities to begin treatment on site in most centers and, thus, the frequent default to elusive inpatient psychiatric beds as a means of stabilization, adolescents may spend prolonged amounts of time boarding in the ED, often without treatment. Ketamine is a rapid-acting antidepressant with emerging evidence in adults, but data are limited on its effectiveness in suicidal youth. We aimed to evaluate the effectiveness of a single dose of intravenous (IV) ketamine on depression and suicidality scores compared to placebo in adolescents with treatment-resistant depression presenting to the ED with suicidal ideation. We conducted a two-arm randomized double-blind placebo controlled trial on a convenience sample of adolescents 12-17 years of age with treatment-resistant depression (trialed at least two antidepressants for at least four weeks each) who presented to the ED with suicidal ideation requiring psychiatric admission. Exclusion criteria included psychosis, substance abuse disorder, intoxication, developmental delay, aggressive behavior, and medical contraindications to ketamine. Subjects were randomized to receive a single dose of ketamine (0.2 mg/kg IV, maximum 35 mg) or saline placebo over two minutes. They completed the Beck Youth Inventory (BYI) and Suicidal Ideation Questionnaire (SIQ) at baseline and at 1 hour, 3 hours, 1 day, 3 days, and 7 days post-treatment. We compared groups with the Fisher exact and two-sided rank-sum tests. Our primary outcome measure was the proportion of subjects with a reduction of ≥ 50% on the BYI and SIQ within 3 hours after treatment. The 29 subjects (14 placebo, 15 ketamine) did not differ significantly in demographic and clinical characteristics. Despite reductions in BYI and SIQ in both groups, the proportions achieving ≥ 50% reductions did not differ significantly at 1 hour (SIQ: placebo, 0% vs ketamine 14.3 % [P = .48]; BYI Anxiety Inventory: placebo, 0% vs ketamine 21.4% [P = .22]; BYI Depression Inventory: placebo, 0% vs ketamine 15.4% [P = .22]). Differences at 3 hours were less pronounced. Adverse effects were more frequent in the ketamine group, most notably signs of dissociation (7% vs 60%, P = .004), with none after the 1-hour observation period. The ED offers an opportunity to deliver rapid-acting antidepressant treatment for suicidal adolescents. Although low-dose ketamine was not associated with greater reductions in depression or suicidality than placebo, this study demonstrated feasibility and highlights the need for larger studies to determine optimal ketamine dosing, route of administration, and implementation strategies in the ED setting.",
+      "date": "2026-07-28",
+      "authors": [
+        "Vayngortin Tatyana",
+        "Patel Ekta",
+        "Seneviratne Shamilka"
+      ],
+      "doi": "10.5811/westjem.53968"
+    },
+    {
+      "title": "Clinical Evidence on Psilocybin and Its Representation in Media Reporting: A Systematic Review.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42900476/",
+      "source": "PubMed",
+      "abstract": "Psilocybin has received increased attention as a potential therapeutic intervention, but it is unclear whether news media reporting reflects the strengths and limitations of the clinical trial evidence. To describe the annual counts of published clinical trials of therapeutic psilocybin and contemporaneous media articles and compare tone, efficacy, and safety messaging. This systematic review included English-language randomized and nonrandomized trials of psilocybin for clinical indications published from January 1, 2014, to October 10, 2024, and media articles describing its clinical use published from January 1, 2014, to April 22, 2025. Trials were found by searching Medline, Embase, PsycInfo, and the Cochrane Central Register of Controlled Trials (CENTRAL) and were characterized by design, indication, use of psychotherapy, and reporting of efficacy and safety. Media articles were found through the Factiva database and were characterized by audience, tone, indication, efficacy claim, and safety content. Data were extracted by 2 reviewers. Risk of bias for randomized clinical trials was assessed descriptively using the Cochrane Risk of Bias tool. Annual counts of both published clinical trials (n = 70) and media reports (n = 172) increased from 2018 onward. Depression was the most common clinical indication in trials (47 [67%]) and media articles (138 [80%]), while media articles frequently referenced posttraumatic stress disorder (PTSD) (74 [43%]) and anxiety (72 [42%]) as clinical indications despite absent and limited trial evidence, respectively, for these conditions. Overall, 49 trials (70%) reported benefit for the primary indication; 125 media articles (73%) made at least 1 positive efficacy claim, and 122 (71%) adopted a favorable tone. Trials typically described small sample sizes of less than 100 participants (65 trials [93%]) and methodologic limitations. Overall, 31 trials (44%) reported safety outcomes, with some (24 [34%]) documenting short-term adverse events, such as transient anxiety, nausea, or headache; long-term safety was rarely assessed (4 trials [6%]). Only 51 media articles (30%) mentioned safety; when harms were discussed, potential long-term psychological risks were sometimes noted (12 articles [7%]). In this systematic review of clinical trials and media articles, both reported positive effects of therapeutic psilocybin with similar frequency. Academic publications were more cautious and explicit about methodologic limitations, whereas media reports often presented benefits as established, extrapolated them to indications with little or no trial evidence, and provided less safety information. Clarifying these differences in emphasis may support more transparent public communication of indication-specific evidence and uncertainty as interest in psilocybin-assisted treatments grows.",
+      "date": "2026-10-01",
+      "authors": [
+        "Madden Kim",
+        "Flood Breanne",
+        "Kashir Imad"
+      ],
+      "doi": "10.1001/jamanetworkopen.2026.38843"
+    },
+    {
+      "title": "Caution before canonisation: a clinical and implementation science perspective on psychedelics.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42898320/",
+      "source": "PubMed",
+      "abstract": "Recent advances in psychedelic research have renewed interest in the potential therapeutic role of psychedelic-assisted interventions in psychiatry. Early clinical trials suggest that compounds such as psilocybin and MDMA, administered within structured therapeutic frameworks, may produce rapid symptom improvements for conditions including depression, post-traumatic stress disorder, and substance use disorders. While these findings are scientifically promising, the current evidence base remains characterized by methodological and translational limitations. Many studies involve small samples, short follow-up periods, functional unblinding, and heterogeneous safety reporting, which complicate causal interpretation and generalizability. In the present paper, we examine psychedelic therapies through clinical, methodological, ethical, and implementation science lenses. We argue that current trials primarily demonstrate proof-of-concept efficacy under controlled conditions rather than readiness for large-scale clinical adoption. Responsible translation therefore requires stronger evidence regarding durability, safety monitoring, comparative effectiveness, and real-world implementation. Psychedelic therapies represent an important emerging research direction, but continued rigorous evaluation and improved implementation of established evidence-based interventions remain central to addressing mental disorders.",
+      "date": "2026-10-05",
+      "authors": [
+        "Paris Andreas",
+        "Thoma Foteini",
+        "Velentza Aikaterini"
+      ],
+      "doi": "10.3389/fpsyt.2026.1922928"
+    },
     {
       "title": "Depression: Ketamine quiets an unruly habenula.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42896518/",
@@ -194,11 +233,11 @@
       "doi": "10.1002/brb3.71807"
     },
     {
-      "title": "Aspirational Autonomy and Psychedelic-Assisted Therapy in Advanced Cancer: Ethical Lessons from Clinical Cases.",
+      "title": "Aspirational autonomy and psychedelic-assisted therapy in advanced cancer: ethical lessons from clinical cases.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42879734/",
       "source": "PubMed",
-      "abstract": "Psychedelic-assisted therapy (PAT) is increasingly discussed as a potential intervention for anxiety, depression, and existential distress among patients with advanced cancer. Yet the ethical challenges of PAT for patients approaching the end of life remain underdeveloped, particularly for oncologists who may be asked to counsel patients or consider referral to clinical trials. This article uses three deidentified clinical vignettes from a clinical trial of psilocybin-assisted therapy in a palliative oncology context to examine what it means for PAT to \"work.\" We argue that PAT should not be evaluated only by symptom reduction or the production of mystical experiences, but also by whether it helps patients move toward valued forms of self-understanding, connection, courage, acceptance, or reconciliation. Drawing on the concept of \"aspirational autonomy,\" we propose that meaningful consent to PAT need not depend on full foreknowledge of an unpredictable experience. Rather, consent may be understood as a patient's endorsement of a supported process of moral and existential aspiration. We then identify practical ethical challenges for oncology, including expectation management, therapeutic ambiguity, somatic amplification, limited time for integration, and family dynamics. We conclude by offering candidate-selection considerations for oncologists, emphasizing aspirational clarity, cognitive and psychological stability, temporal feasibility, relational support, and realistic expectations.",
-      "date": "2026-10-15",
+      "abstract": "Psychedelic-assisted therapy (PAT) is increasingly discussed as a potential intervention for anxiety, depression, and existential distress among patients with advanced cancer. Yet the ethical challenges of PAT for patients approaching the end of life remain underdeveloped, particularly for oncologists who may be asked to counsel patients or consider referral to clinical trials. This article uses 3 deidentified clinical vignettes from a clinical trial of psilocybin-assisted therapy in a palliative oncology context to examine what it means for PAT to \"work.\" We argue that PAT should not be evaluated only by symptom reduction or the production of mystical experiences, but also by whether it helps patients move toward valued forms of self-understanding, connection, courage, acceptance, or reconciliation. Drawing on the concept of \"aspirational autonomy,\" we propose that meaningful consent to PAT need not depend on full foreknowledge of an unpredictable experience. Rather, consent may be understood as a patient's endorsement of a supported process of moral and existential aspiration. We then identify practical ethical challenges for oncology, including expectation management, therapeutic ambiguity, somatic amplification, limited time for integration, and family dynamics. We conclude by offering candidate-selection considerations for oncologists, emphasizing aspirational clarity, cognitive and psychological stability, temporal feasibility, relational support, and realistic expectations.",
+      "date": "2026-Oct-07",
       "authors": [
         "Davis Keenan Wills",
         "Bach Michelle C",
@@ -220,43 +259,13 @@
       "doi": "10.4088/PCC.26cr04238"
     },
     {
-      "title": "Pharmacological Interventions for Acute Stress Disorder and for the Prevention and Treatment of Post-traumatic Stress Disorder in Children and Adolescents: A Narrative Review.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42879122/",
-      "source": "PubMed",
-      "abstract": "Traumatic events are common during childhood and adolescence and may lead to acute stress disorder (ASD) or post-traumatic stress disorder (PTSD), both associated with developmental, cognitive and functional impairment. Although trauma-focused psychotherapies are recommended as first-line treatments, pharmacological interventions are frequently used in clinical practice despite limited evidence in paediatric populations. To review the evidence on pharmacological interventions for the prevention and treatment of paediatric ASD and PTSD, we reviewed the literature published up to December 2025. Eligible studies included participants aged younger than 18 years and evaluated pharmacological interventions targeting ASD, PTSD prevention or PTSD treatment. After screening and a full-text review, 75 publications were included. Given the methodological heterogeneity, findings were synthesised narratively. Evidence for pharmacological interventions in paediatric trauma-related disorders remains limited and heterogeneous. For PTSD prevention, only limited data support sertraline and, in the context of ASD, imipramine. Limited data also suggest that opioids used for pain management after trauma may reduce subsequent PTSD risk. Early opioid (morphine) exposure for pain management was also associated with lower subsequent severity symptoms in observational paediatric burn studies. Evidence for PTSD treatment is weaker. Anticonvulsants (sodium valproate, carbamazepine, oxcarbazepine, lamotrigine), antipsychotics (clozapine, quetiapine, aripiprazole), glutamatergics (D-cycloserine, ketamine, ifenprodil), propranolol and cannabidiol do not appear to provide sufficient benefit for routine use. Alpha-adrenergic agents (prazosin, clonidine, guanfacine) have shown preliminary signals of benefit, particularly for hyperarousal and trauma-related sleep disturbances. However, these findings are based on non-randomised and uncontrolled studies. Antidepressants (sertraline, citalopram) show mixed results; among them, citalopram was associated with symptomatic improvement in one small open-label study and one case series. These findings should be considered preliminary and hypothesis generating. No pharmacological treatment has sufficient evidence to warrant routine recommendation for paediatric PTSD and ASD. Pharmacotherapy should therefore be considered only as an adjunct to trauma-focused psychotherapy in selected clinical situations. Further randomised controlled trials are needed.",
-      "date": "2026-10-15",
-      "authors": [
-        "Tesnières Charles",
-        "Kerbage Hala",
-        "Bui Eric"
-      ],
-      "doi": "10.1007/s40272-026-00777-y"
-    },
-    {
-      "title": "Ketamine and Esketamine in Acute Suicidal Presentations: Evidence, Limits, and a Conceptual Recovery-Enabling Downstaging Framework.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42877783/",
-      "source": "PubMed",
-      "abstract": "To synthesize evidence for intravenous racemic ketamine and regulated intranasal esketamine in adults with acute suicidal presentations; distinguish the outcomes these interventions have and have not been shown to change; and place any rapid response within a complete emergency suicide-care pathway. A narrative review of PubMed/MEDLINE-indexed literature was updated through July 16, 2026. Searches and study selection were performed by Wiesław Jerzy Cubała and Anita Słupska. Priority was given to randomized trials, systematic reviews and meta-analyses, pivotal ASPIRE publications, current US and European product information, and studies of emergency-department safety planning, lethal-means counseling, and post-discharge care. No formal risk-of-bias assessment or pooled reanalysis was undertaken. Intravenous racemic ketamine has randomized and meta-analytic evidence for rapid, short-term reduction of suicidal ideation in selected adults, with important variation by population, comparator, measure, and follow-up. The evidence does not establish prevention of suicide attempts or deaths. In ASPIRE I and II, regulated intranasal esketamine added to hospitalization, a newly initiated or optimized oral antidepressant, and comprehensive standard care accelerated improvement in depressive symptoms; clinician-rated suicidality improved markedly in both groups and did not consistently separate from placebo plus standard care. Across both evidence streams, a post-dose score cannot substitute for dynamic risk formulation, level-of-care decisions, safety planning, lethal-means restriction, or a confirmed transition of care. Intravenous racemic ketamine may produce a rapid, short-term reduction in suicidal ideation in selected adults, whereas regulated intranasal esketamine has demonstrated accelerated improvement in depressive symptoms in hospitalized patients with major depressive disorder and acute suicidal ideation with intent, without a consistent treatment-specific effect on suicidality. Neither intervention has been shown to prevent suicide attempts or deaths. We propose a conceptual, non-validated recovery-enabling downstaging framework to describe a time-limited movement from high acuity toward a state in which collaboration and definitive treatment become more feasible. The framework is intended to complement, not replace, dynamic risk formulation, safety planning, and disposition assessment.",
-      "date": "2026-10-10",
-      "authors": [
-        "Słupska Anita",
-        "Cubała Wiesław Jerzy",
-        "Świeczkowski Damian"
-      ],
-      "doi": "10.2147/NDT.S641718"
-    },
-    {
-      "title": "Correction: Sustained abstinence in severe ketamine use disorder following ibogaine treatment case report.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42877759/",
-      "source": "PubMed",
-      "abstract": "[This corrects the article DOI: 10.3389/fpsyt.2026.1846320.].",
-      "date": "2026-09-30",
-      "authors": [
-        "Pérez Rosal Sergio R",
-        "Faber Sonya C",
-        "Backmund Markus"
-      ],
-      "doi": "10.3389/fpsyt.2026.2007932"
+      "title": "Podcast: Early Healthcare Forum Takeaways, FDA’s Ibogaine Blueprint, and Compass Talks Pricing",
+      "url": "https://psychedelicalpha.com/news/podcast-early-healthcare-forum-takeaways-fdas-ibogaine-blueprint-and-compass-talks-pricing/",
+      "source": "Psychedelic Alpha",
+      "abstract": "",
+      "date": "2026-10-20",
+      "authors": [],
+      "doi": ""
     },
     {
       "title": "The Psychedelic Practitioner Issue 7: Preparedness (Systems)",
@@ -336,15 +345,6 @@
       "source": "Psychedelic Alpha",
       "abstract": "On Tuesday, the Advanced Research Projects Agency for Health (ARPA-H) held a day-long gathering related to its ibogaine funding opportunity, dubbed Accelerating Safe Clinical Evaluation of Novel Treatments: Ibogaine for Better Outcomes in Opioid Use Disorder (ASCENT-IBO, for short). That opportunity is outlined in a Special Notice issued by the agency, with proposals due October […]",
       "date": "2026-09-17",
-      "authors": [],
-      "doi": ""
-    },
-    {
-      "title": "Pα+ Psychedelic Bulletin #231: Compass Shares 52 Week Follow-Up, Training Grant Recipients; Xylo Enters the Clinic; RFK Jr. Hosts Hubbard",
-      "url": "https://psychedelicalpha.com/news/p%ce%b1-psychedelic-bulletin-231-compass-shares-52-week-follow-up-training-grant-recipients-xylo-enters-the-clinic-rfk-jr-hosts-hubbard/",
-      "source": "Psychedelic Alpha",
-      "abstract": "Compass Shares 52-Week Follow-Up and Five Training Grant Recipients Earlier this month, Compass Pathways shared topline data from Part C of its smaller, placebo-controlled Phase 3 trial, COMP005. As a reminder, COMP005 enrolled 258 patients with treatment-resistant depression (TRD) to receive either a 25 mg dose of the company’s psilocybin candidate (COMP360) or inert placebo. […]",
-      "date": "2026-09-16",
       "authors": [],
       "doi": ""
     },
@@ -573,7 +573,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2018-004480-31/CZ",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-10-20",
+      "date": "2026-10-21",
       "authors": [],
       "doi": ""
     },
@@ -582,7 +582,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2020-005037-32/CZ",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-10-20",
+      "date": "2026-10-21",
       "authors": [],
       "doi": ""
     },
@@ -591,7 +591,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2021-002909-10/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-10-20",
+      "date": "2026-10-21",
       "authors": [],
       "doi": ""
     },
@@ -600,7 +600,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2015-000550-37/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-10-20",
+      "date": "2026-10-21",
       "authors": [],
       "doi": ""
     },
@@ -609,7 +609,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2021-000041-40/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-10-20",
+      "date": "2026-10-21",
       "authors": [],
       "doi": ""
     },
@@ -618,7 +618,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2020-000829-55/DK",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-10-20",
+      "date": "2026-10-21",
       "authors": [],
       "doi": ""
     },
@@ -627,7 +627,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2020-002790-94/SE",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-10-20",
+      "date": "2026-10-21",
       "authors": [],
       "doi": ""
     },
@@ -636,7 +636,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2021-006200-33/FI",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-10-20",
+      "date": "2026-10-21",
       "authors": [],
       "doi": ""
     },
@@ -645,7 +645,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2019-004812-73/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-10-20",
+      "date": "2026-10-21",
       "authors": [],
       "doi": ""
     },
@@ -654,7 +654,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2022-002369-14/BE",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-10-20",
+      "date": "2026-10-21",
       "authors": [],
       "doi": ""
     },

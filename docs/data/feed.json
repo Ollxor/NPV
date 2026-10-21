@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T11:55:43.642103+00:00",
+  "generated_at": "2026-10-21T12:09:38.164144+00:00",
   "items": [
     {
       "title": "Depression: Ketamine quiets an unruly habenula.",
@@ -1083,6 +1083,38 @@
       "added_at": "2026-10-06T13:29:10.190107+00:00"
     },
     {
+      "title": "Caution before canonisation: a clinical and implementation science perspective on psychedelics.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42898320/",
+      "source": "PubMed",
+      "date": "2026-10-05",
+      "authors": [
+        "Paris Andreas",
+        "Thoma Foteini",
+        "Velentza Aikaterini"
+      ],
+      "doi": "10.3389/fpsyt.2026.1922928",
+      "summaries": {
+        "en": "Early clinical trials show psilocybin and MDMA-assisted therapy may rapidly improve depression, PTSD, and substance use disorders. However, current evidence relies on small samples, short follow-ups, and inconsistent safety reporting. While scientifically promising, these studies demonstrate proof-of-concept under controlled conditions rather than readiness for widespread clinical adoption. Rigorous evaluation of durability, safety, comparative effectiveness, and real-world implementation is needed before large-scale deployment.",
+        "sv": "Tidiga kliniska studier visar att psilocybin- och MDMA-assisterad terapi kan snabbt förbättra depression, PTSD och missbrukssjukdomar. Det nuvarande forskningsunderlaget bygger dock på små urval, korta uppföljningsperioder och inkonsekvent säkerhetrapportering. Även om resultaten är lovande, visar dessa studier endast effekt under kontrollerade förhållanden, inte beredskap för storskalig klinisk tillämpning. Rigorös utvärdering av långsiktig effekt, säkerhet, jämförelseeffektivitet och verklig tillämpning krävs före utbredning.",
+        "no": "Tidlige kliniske studier viser at psilocybin- og MDMA-assistert terapi kan raskt forbedre depresjon, PTSD og rusmiddellidelser. Dagens forskningsgrunnlag bygger imidlertid på små utvalg, korte oppfølgingsperioder og inkonsekvent sikkerhetsrapportering. Selv om resultatene er lovende, viser disse studiene kun effekt under kontrollerte forhold, ikke beredskap for storskala klinisk bruk. Grundig evaluering av varig effekt, sikkerhet, komparativ effektivitet og praktisk implementering kreves før utbredelse.",
+        "da": "Tidlige kliniske forsøg viser, at psilocybin- og MDMA-assisteret terapi kan hurtigt forbedre depression, PTSD og misbrug. Det nuværende vidensgrundlag bygger dog på små stikprøver, korte opfølgningsperioder og ukonsekvente sikkerhedsrapporter. Selvom resultaterne er lovende, demonstrerer disse studier kun effektivitet under kontrollerede forhold, ikke parathed til storskalaklinisk anvendelse. Grundig evaluering af varighed, sikkerhed, komparativ effektivitet og virkelige implementering er påkrævet før udbredelse.",
+        "fi": "Varhaiset kliiniset tutkimukset osoittavat, että psylosybiini- ja MDMA-avusteinen terapia voi nopeasti parantaa masennusta, PTSD:tä ja riippuvuussairauksia. Nykyinen tutkimusnäyttö perustuu kuitenkin pieniin otoksiin, lyhyisiin seurantaaikoihin ja epäjohdonmukaiseen turvallisuusraportointiin. Vaikka tulokset ovat lupaavia, nämä tutkimukset osoittavat vain tehokkuuden kontrolloiduissa olosuhteissa, ei valmiutta laajamittaiseen kliiniseen käyttöön. Vaikutuksen kestävyyden, turvallisuuden, vertailevan tehokkuuden ja käytännön toteutuksen perusteellinen arviointi on välttämätön ennen laajentamista.",
+        "is": "Snemmar klínísk rannsóknir sýna að psýlósýbín- og MDMA-aðstoðuð meðferð gæti fljótt bætt þunglyndi, þrálæti eftir átök og vímuefnamisnotkun. Núverandi rannsóknargrunnar byggir þó á litlum úrtökum, stuttum eftirfylgni og ósamkvæmum öryggisfjölritun. Þótt niðurstöður séu fyrirheitandi, sýna þessar rannsóknir aðeins verkun undir stýrðum aðstæðum, ekki tilbúnni fyrir stærri klíníska notkun. Ítarleg mat á endingu, öryggi, samanburðaráhrifum og raunverulegri innleiðingu er nauðsynlegt fyrir útbreiðslu.",
+        "et": "Varajased kliinilised uuringud näitavad, et psilosübiini- ja MDMA-abil tehtav teraapia võib kiiresti parandada depressiooni, PTSD-d ja uimastisõltuvust. Praegune uuringute alus tugineb aga väikestele valimitele, lühikestele jälgimisperioodidele ja ebajärjepidevale ohutusaruandlusele. Kuigi tulemused on lubavad, näitavad need uuringud tõhusust vaid kontrollitud tingimustes, mitte valmisolekut laiaulatuslikuks kliiniliseks kasutamiseks. Enne levikut on vajalik rangete hindamise tulemusena kestlikkus, ohutus, võrdlev tõhusus ja tegelik rakendamine.",
+        "lv": "Agrīnie klīniskie pētījumi parāda, ka psilotsibīna un MDMA atbalstīta terapija var ātri uzlabot depresiju, PTSP un vielas uzbūvēšanas traucējumus. Tomēr pašreizējais pētniecības pamats balstās uz maziem paraugiem, īsiem novērošanas periodiem un nekonsekventi sniegtajiem drošības ziņojumiem. Lai arī rezultāti ir daudzsološi, šie pētījumi demonstrē efektivitāti tikai kontrolētus apstākļos, nevis gatavību plašam klīniskam lietojumam. Pirms paplašināšanas nepieciešams stingrs ilgtspējas, drošības, salīdzinošās efektivitātes un faktiskās ieviešanas novērtējums.",
+        "lt": "Ankstyvieji klininiai tyrimai rodo, kad psilotsibino ir MDMA pagalbą teikiantis terapijos gali greitai pagerinti depresiją, PTSD ir medžiagų vartojimo sutrikimus. Tačiau dabartiniai tyrimai remiasi mažais imtimis, trumpais stebėjimo periodais ir nesuderintais saugumo pranešimais. Nors rezultatai žada daug, šie tyrimai parodo veiksmingumą tik kontroliuojamomis sąlygomis, o ne paruošą plačiam klinikai naudoti. Prieš išplatinimą reikalingas griežtas trukmės, saugumo, lyginamojo efektyvumo ir praktinio įgyvendinimo vertinimas."
+      },
+      "notable": false,
+      "notable_reasons": null,
+      "relevance_score": 4,
+      "study_type": "other",
+      "substances": [
+        "psilocybin",
+        "mdma"
+      ],
+      "added_at": "2026-10-21T12:08:41.127713+00:00"
+    },
+    {
       "title": "Serotonin biology as a basis for explaining psychedelic drug action.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42833201/",
       "source": "PubMed",
@@ -1243,6 +1275,47 @@
         "other"
       ],
       "added_at": "2026-10-03T11:52:21.372395+00:00"
+    },
+    {
+      "title": "Clinical Evidence on Psilocybin and Its Representation in Media Reporting: A Systematic Review.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42900476/",
+      "source": "PubMed",
+      "date": "2026-10-01",
+      "authors": [
+        "Madden Kim",
+        "Flood Breanne",
+        "Kashir Imad"
+      ],
+      "doi": "10.1001/jamanetworkopen.2026.38843",
+      "summaries": {
+        "en": "Systematic review comparing 70 clinical psilocybin trials (2014-2024) with 172 media articles. Depression was the primary indication in trials (67%) but media emphasized PTSD (43%) and anxiety (42%) more frequently. Study found discrepancies between trial evidence and media reporting regarding efficacy and safety messaging, suggesting media coverage may not accurately reflect clinical evidence limitations.",
+        "sv": "Systematisk översikt jämförde 70 kliniska psilocybinstudier (2014-2024) med 172 medieartiklarx. Depression var den vanligaste indikationen i studier (67%), men media betonade PTSD (43%) och ångest (42%) oftare. Granskningen påvisade skillnader mellan studiebevis och medierapportering angående effektivitet och säkerhetsinformation, vilket tyder på att mediabevakningen kanske inte återspeglar kliniska evidensbegränsningar.",
+        "no": "Systematisk gjennomgang sammenlignet 70 kliniske psilocybinforsøk (2014-2024) med 172 medieartiklarx. Depresjon var den vanligste indikasjonen i forsøkene (67%), men media fremhevet PTSD (43%) og angst (42%) hyppigere. Studien fant avvik mellom forsøksbevis og mediarapportering av effektivitet og sikkerhetsinformasjon, noe som tyder på at mediedekningen kanskje ikke gjenspeiler begrensninger i klinisk evidens.",
+        "da": "Systematisk review sammenlignede 70 kliniske psilocybinundersøgelser (2014-2024) med 172 medieartiklarx. Depression var den hyppigste indikation i undersøgelserne (67%), mens medier oftere fremhævede PTSD (43%) og angst (42%). Gennemgangen påviste uoverensstemmelser mellem forsøgsbevis og medierapportering af effektivitet og sikkerhedsbeskeder, hvilket tyder på, at mediebeskæftigelsen muligvis ikke afspejler kliniske evidensbegrænsninger.",
+        "fi": "Systemaattinen katsaus vertaili 70 kliinistä psilosybiinikoetta (2014-2024) ja 172 mediajuttua. Masennus oli tutkimuksissa yleisin indikaatio (67%), mutta media korosti PTSD:tä (43%) ja ahdistusta (42%) useammin. Tutkimus osoitti eroja tutkimustodisteiden ja median raportoinnin välillä tehosta ja turvallisuusviestinnästä, mikä viittaa siihen että mediakattavuus ei välttämättä heijasta klinisen evidenssin rajoituksia.",
+        "is": "Kerfbundin yfirlit bar saman 70 klínísk prófanir með psýlósýbíni (2014-2024) og 172 fjölmiðlafréttir. Þunglyndi var algengasta sía í rannsóknum (67%), en fjölmiðlar lögðu meiri áherslu á slys (43%) og kvíða (42%). Rannsóknin leiddi í ljós misræmi á milli rannsóknarheimilda og fjölmiðlaskýrslugerðar varðandi verkun og öryggisboðskip.",
+        "et": "Süstemaatiline ülevaade võrdles 70 kliinilist psülotsübiiniu katset (2014-2024) ja 172 meediaartiklit. Depressioon oli katsetes kõige levinum näidustus (67%), kuid meedia rõhutas PTSD-d (43%) ja ärevust (42%) sagedamini. Uuringus leiti lahknevusi kliiniliste tõendite ja meediateadustamise vahel toimekirjelduses ja ohutusinfo osas, mis näitab, et meediakaetus ei pruugi adekvaatselt kajastada kliniliste tõendite piiranguid.",
+        "lv": "Sistemātiskajā pārskatā salīdzināti 70 klīniskie psilo­tsībīna pētījumi (2014-2024) un 172 mediju raksti. Depresija bija visizplatītākā indikācija pētījumos (67%), taču mediji biežāk uzsvēra PTSD (43%) un trauksmi (42%). Pētniecība atklāja neatbilstības starp klīniskajiem pierādījumiem un mediju sniegto ziņojumu par efektivitāti un drošības paziņojumiem.",
+        "lt": "Sisteminėje apžvalgoje lygintos 70 klinikiniu psilocibin­o bandymų (2014-2024) ir 172 žiniasklaidos straipsniai. Depresija buvo dažniausia indikacija bandymuose (67%), tačiau žiniasklaida dažniau akcentavo PTSD (43%) ir nerimą (42%). Tyrime nustatyti neatitikimai tarp klinikinių įrodymų ir žiniasklaidos pranešimų apie veiksmingumą ir saugos informaciją."
+      },
+      "notable": true,
+      "notable_reasons": {
+        "en": "Systematic review synthesizing 70 clinical trials and 172 media articles on psilocybin, addressing the gap between clinical evidence and public communication in psychedelic science.",
+        "sv": "Systematisk review som syntetiserar 70 kliniska försök och 172 medieartikar om psilocybin, och behandlar gapet mellan kliniska bevis och offentlig kommunikation inom psykedelisk vetenskap.",
+        "no": "Systematisk gjennomgang som syntetiserer 70 kliniske studier og 172 medieartipler om psilocybin, og tar opp gapet mellom klinisk evidens og offentlig kommunikasjon innen psykedelisk vitenskap.",
+        "da": "Systematisk review, der syntetiserer 70 kliniske forsøg og 172 medieartikel om psilocybin, og adresserer gabet mellem klinisk evidens og offentlig kommunikation inden for psykedelisk videnskab.",
+        "fi": "Järjestelmällinen katsaus, joka syntetisoi 70 kliinistä tutkimusta ja 172 mediaartikkelia psilosybiinista, ja käsittelee kliinisen näytön ja julkisen viestinnän välistä kuilua psykedeelistä tieteessä.",
+        "is": "Kerfbundin endurskoðun sem samþætir 70 klíníska rannsóknir og 172 fjölmiðlagreinar um psilocybin, og fjallar um bilið milli klínískra gagna og almennrar miðlunar í psykedélískri vísindum.",
+        "et": "Süstemaatiline ülevaade, mis teeb kokkuvõtte 70 kliinilisest uuringust ja 172 meediaartiklistest psilotsübiini kohta, ning käsitleb kliinilise tõenduse ja avaliku teabevahetuse vahelist lõhet psühhedeelilistel teadustel.",
+        "lv": "Sistemātisks pārskats, kas sintezē 70 klīniskos pētījumus un 172 mediju rakstus par psilocībīnu, un risina atšķirību starp klīniskajiem pierādījumiem un publisko komunikāciju psihedēliskajā zinātnē.",
+        "lt": "Sistemingas apžvalga, kurioje sintetinamos 70 klinikiniu bandymu ir 172 žiniasklaidos straipsniai apie psilocibiną, bei sprendžiama spraga tarp klinikiniu irodymu ir viešo komunikacijos psichodelikos moksle."
+      },
+      "relevance_score": 5,
+      "study_type": "review",
+      "substances": [
+        "psilocybin"
+      ],
+      "added_at": "2026-10-21T12:08:41.127713+00:00"
     },
     {
       "title": "Ketamine in psychiatry: a systematic review of clinical applications, safety considerations, and emerging challenges.",
@@ -1962,68 +2035,6 @@
         "psilocybin"
       ],
       "added_at": "2026-09-23T11:54:29.199059+00:00"
-    },
-    {
-      "title": "N,N-Dimethyltryptamine and harmine formulation alters transient EEG topography sequences near the peak of the psychedelic state.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42768932/",
-      "source": "PubMed",
-      "date": "2026-09-22",
-      "authors": [
-        "Niedernhuber Maria",
-        "Suay Dila",
-        "Lenggenhager Bigna"
-      ],
-      "doi": "10.1177/02698811261481062",
-      "summaries": {
-        "en": "Double-blind EEG study examined how intranasal DMT combined with buccal harmine affects brain electrical activity near peak psychedelic effects. Compared to placebo and harmine alone, DMT/harmine reduced microstate duration while increasing occurrence and complexity. Neural state transitions became less random and more predictable. Findings support theories that psychedelics enhance neural signal diversity and metastability.",
-        "sv": "Dubbelblind EEG-studie undersökte hur intranasal DMT kombinerat med bukkal harmin påverkar hjärnans elektriska aktivitet nära toppen av psykedelisk effekt. Jämfört med placebo och harmin enbart minskade DMT/harmin mikrotillståndens varaktighet medan förekomst och komplexitet ökade. Neurala tillståndsövergångar blev mindre slumpmässiga och mer förutsägbara. Resultaten stödjer teorier om att psykedelika ökar neural signaldiversitet och metastabilitet.",
-        "no": "Dobbelblindet EEG-studie undersøkte hvordan intranasal DMT kombinert med bukkal harmin påvirker hjernens elektriske aktivitet nær toppen av psykedelisk effekt. Sammenlignet med placebo og harmin alene reduserte DMT/harmin varighet av mikrotilstander, mens forekomst og kompleksitet økte. Nevralt tilstandsoverganger ble mindre tilfeldige og mer forutsigbare. Funnene støtter teorier om at psykedelika øker neural signaldiversitet og metastabilitet.",
-        "da": "Dobbeltblindet EEG-studie undersøgte, hvordan intranasal DMT kombineret med bukkal harmin påvirker hjernens elektriske aktivitet nær toppen af psykedelisk effekt. Sammenlignet med placebo og harmin alene reducerede DMT/harmin varigheden af mikrotilstande, mens hyppighed og kompleksitet steg. Neurale tilstandsovergange blev mindre tilfældige og mere forudsigelige. Resultaterne understøtter teorier om, at psykedelika øger neural signaldiversitet og metastabilitet.",
-        "fi": "Kaksoissokkoutettu EEG-tutkimus tutki, miten intranaasaalinen DMT yhdessä bukkaaliharmonin kanssa vaikuttaa aivojen sähköiseen toimintaan psykedelisen vaikutuksen huipulla. Verrattuna plaseboon ja pelkkään harmiiniin DMT/harmiin vähensi mikrotilan kestoa, kun taas esiintyminen ja monimutkaisuus lisääntyivät. Neuraalien tilojen siirtymät tulivat vähemmän satunnaisiksi ja ennustettavammiksi. Tulokset tukevat teorioita siitä, että psykedeliikka lisäävät neuraalista signaalin monimuotoisuutta ja metastabiilisuutta.",
-        "is": "Tvíblindað EEG-rannsókn skoðaði hvernig innsná DMT ásamt buccal harmíni hefur áhrif á rafrænni starfsemi heila nálægt hámarki sálkennilífs áhrifa. Samanborið við lyfleysu og harmín eingöngu, minnkaði DMT/harmín tíðni örsmára ástanda en aukin kom fram í tíðni og flóknum. Breyting taugaástanda varð óhappalegri og fyrirsjáanlegri. Niðurstöður styðja kenningar um að sálkenni auka fjölbreytileika og metastöðugleika taugakerfis.",
-        "et": "Kahekordse pimeda EEG-uuringu käigus uuriti, kuidas intranaasaalne DMT koos bukkaalsete harmiiniga mõjutab aju elektrilist aktiivsust psühhedeelse efekti tipus. Võrreldes platseeboga ja ainult harmiinega vähendasid DMT/harmiin mikrotingimuse kestust, samas kui esinemise sagedus ja keerukus suurenesid. Neurotingimuse üleminekud muutusid vähem juhuslikeks ja ennustatavamaks. Tulemused toetavad teooriaid, et psühhedeelid suurendavad neuraalset signaali mitmekesisust ja metastabiilsust.",
-        "lv": "Dubulti-akls EEG pētījums pārbaudīja, kā intranazeāls DMT kopā ar bukālo harmīnu ietekmē smadzeņu elektrisko aktivitāti psihedeliskā stāvokļa virsotnē. Salīdzinājumā ar placebu un tikai harmīnu, DMT/harmīns samazināja mikrostāvokļa ilgumu, palielinoties to parādīšanās biežumam un sarežģītībai. Neirālo stāvokļu pārejas kļuva mazāk nejaušas un prognozējamas. Atklājumi atbalsta teorijas, ka psihedeliki palielina neirālā signāla daudzveidību un metastabilitāti.",
-        "lt": "Dvigubai aklas EEG tyrimas nagrinėjo, kaip intranaozinis DMT kartu su bukaliniu harminu veikia smegenų elektrinę veiklą psichodelinio efekto viršūnėje. Lyginant su placebu ir tik harminu, DMT/harminas sumažino mikrostatės trukmę, tačiau padidėjo jų dažnis ir sudėtingumas. Neuro būsenų perėjimai tapo mažiau atsitiktini ir labiau nuspėjami. Rezultatai parempia teorijas, kad psichodelikai padidina neurinio signalo įvairovę ir metastabilumą."
-      },
-      "notable": false,
-      "notable_reasons": null,
-      "relevance_score": 4,
-      "study_type": "rct",
-      "substances": [
-        "ayahuasca",
-        "other"
-      ],
-      "added_at": "2026-09-22T11:55:10.210502+00:00"
-    },
-    {
-      "title": "A longitudinal analysis of the clinical practice of ketamine assisted psychotherapy with adolescents and young adults.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42835728/",
-      "source": "PubMed",
-      "date": "2026-09-21",
-      "authors": [
-        "Wolfson Phil",
-        "Carroll Cody"
-      ],
-      "doi": "10.3389/fpsyt.2026.1886833",
-      "summaries": {
-        "en": "A longitudinal analysis of the clinical practice of ketamine assisted psychotherapy with adolescents and young adults.",
-        "sv": "A longitudinal analysis of the clinical practice of ketamine assisted psychotherapy with adolescents and young adults.",
-        "no": "A longitudinal analysis of the clinical practice of ketamine assisted psychotherapy with adolescents and young adults.",
-        "da": "A longitudinal analysis of the clinical practice of ketamine assisted psychotherapy with adolescents and young adults.",
-        "fi": "A longitudinal analysis of the clinical practice of ketamine assisted psychotherapy with adolescents and young adults.",
-        "is": "A longitudinal analysis of the clinical practice of ketamine assisted psychotherapy with adolescents and young adults.",
-        "et": "A longitudinal analysis of the clinical practice of ketamine assisted psychotherapy with adolescents and young adults.",
-        "lv": "A longitudinal analysis of the clinical practice of ketamine assisted psychotherapy with adolescents and young adults.",
-        "lt": "A longitudinal analysis of the clinical practice of ketamine assisted psychotherapy with adolescents and young adults."
-      },
-      "notable": false,
-      "notable_reasons": null,
-      "relevance_score": 4,
-      "study_type": "observational",
-      "substances": [
-        "ketamine"
-      ],
-      "added_at": "2026-10-07T13:40:51.780298+00:00"
     }
   ]
 }

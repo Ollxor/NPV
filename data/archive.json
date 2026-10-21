@@ -1,6 +1,67 @@
 {
   "items": [
     {
+      "title": "Clinical Evidence on Psilocybin and Its Representation in Media Reporting: A Systematic Review.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42900476/",
+      "source": "PubMed",
+      "date": "2026-10-01",
+      "authors": [
+        "Madden Kim",
+        "Flood Breanne",
+        "Kashir Imad"
+      ],
+      "doi": "10.1001/jamanetworkopen.2026.38843",
+      "summary_en": "Systematic review comparing 70 clinical psilocybin trials (2014-2024) with 172 media articles. Depression was the primary indication in trials (67%) but media emphasized PTSD (43%) and anxiety (42%) more frequently. Study found discrepancies between trial evidence and media reporting regarding efficacy and safety messaging, suggesting media coverage may not accurately reflect clinical evidence limitations.",
+      "notable": true,
+      "notable_reason": "Systematic review synthesizing 70 clinical trials and 172 media articles on psilocybin, addressing the gap between clinical evidence and public communication in psychedelic science.",
+      "study_type": "review",
+      "substances": [
+        "psilocybin"
+      ],
+      "added_at": "2026-10-21T12:08:41.127713+00:00"
+    },
+    {
+      "title": "Intravenous Ketamine for Depressed and Suicidal Adolescents in the Emergency Department: A Randomized Double-Blind Trial.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42900929/",
+      "source": "PubMed",
+      "date": "2026-07-28",
+      "authors": [
+        "Vayngortin Tatyana",
+        "Patel Ekta",
+        "Seneviratne Shamilka"
+      ],
+      "doi": "10.5811/westjem.53968",
+      "summary_en": "Randomized double-blind trial examining single-dose intravenous ketamine versus placebo in adolescents (12-17 years) with treatment-resistant depression presenting to emergency departments with suicidal ideation. Participants required prior failed trials of ≥2 antidepressants. Primary outcomes measured depression and suicidality using Beck Youth Inventory and Suicidal Ideation Questionnaire at baseline and follow-up intervals.",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "rct",
+      "substances": [
+        "ketamine"
+      ],
+      "added_at": "2026-10-21T12:08:41.127713+00:00"
+    },
+    {
+      "title": "Caution before canonisation: a clinical and implementation science perspective on psychedelics.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42898320/",
+      "source": "PubMed",
+      "date": "2026-10-05",
+      "authors": [
+        "Paris Andreas",
+        "Thoma Foteini",
+        "Velentza Aikaterini"
+      ],
+      "doi": "10.3389/fpsyt.2026.1922928",
+      "summary_en": "Early clinical trials show psilocybin and MDMA-assisted therapy may rapidly improve depression, PTSD, and substance use disorders. However, current evidence relies on small samples, short follow-ups, and inconsistent safety reporting. While scientifically promising, these studies demonstrate proof-of-concept under controlled conditions rather than readiness for widespread clinical adoption. Rigorous evaluation of durability, safety, comparative effectiveness, and real-world implementation is needed before large-scale deployment.",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "other",
+      "substances": [
+        "psilocybin",
+        "mdma"
+      ],
+      "added_at": "2026-10-21T12:08:41.127713+00:00"
+    },
+    {
       "title": "Depression: Ketamine quiets an unruly habenula.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42896518/",
       "source": "PubMed",

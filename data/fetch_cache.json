@@ -1,6 +1,6 @@
 {
-  "date": "2026-10-21",
-  "cached_at": "2026-10-21T11:08:07.830758+00:00",
+  "date": "2026-10-22",
+  "cached_at": "2026-10-22T11:07:57.965267+00:00",
   "articles": [
     {
       "title": "Intravenous Ketamine for Depressed and Suicidal Adolescents in the Emergency Department: A Randomized Double-Blind Trial.",
@@ -259,6 +259,15 @@
       "doi": "10.4088/PCC.26cr04238"
     },
     {
+      "title": "Poacher Turned Gamekeeper: HHS’ Matt Zorn on Ibogaine, Right to Try and the Psychedelics Executive Order",
+      "url": "https://psychedelicalpha.com/news/poacher-turned-gamekeeper-hhs-matt-zorn-on-ibogaine-right-to-try-and-the-psychedelics-executive-order/",
+      "source": "Psychedelic Alpha",
+      "abstract": "At The Psychedelic Healthcare Forum that we co-hosted last Thursday in New York, our Editor Josh Hardman sat down with Matt Zorn, Deputy General Counsel at the U.S. Department of Health and Human Services, for a wide-ranging discussion. It was the first in-depth one-to-one interview that Zorn has participated in since taking the role. (His […]",
+      "date": "2026-10-21",
+      "authors": [],
+      "doi": ""
+    },
+    {
       "title": "Podcast: Early Healthcare Forum Takeaways, FDA’s Ibogaine Blueprint, and Compass Talks Pricing",
       "url": "https://psychedelicalpha.com/news/podcast-early-healthcare-forum-takeaways-fdas-ibogaine-blueprint-and-compass-talks-pricing/",
       "source": "Psychedelic Alpha",
@@ -336,15 +345,6 @@
       "source": "Psychedelic Alpha",
       "abstract": "Welcome to our fifth Field Note. As a reminder, Field Notes are timely, candid voice notes from our Founder and Editor, Josh Hardman, that give our Pα+ readers a pulse on recent developments in psychedelic drug development, policy, and access. In this Field Note, Josh shared his notes from a busy week in Washington, D.C., […]",
       "date": "2026-09-18",
-      "authors": [],
-      "doi": ""
-    },
-    {
-      "title": "‘Move Fast, with Precision’: Notes from ARPA-H’s Ibogaine Workshop",
-      "url": "https://psychedelicalpha.com/news/move-fast-with-precision-notes-from-arpa-hs-ibogaine-workshop/",
-      "source": "Psychedelic Alpha",
-      "abstract": "On Tuesday, the Advanced Research Projects Agency for Health (ARPA-H) held a day-long gathering related to its ibogaine funding opportunity, dubbed Accelerating Safe Clinical Evaluation of Novel Treatments: Ibogaine for Better Outcomes in Opioid Use Disorder (ASCENT-IBO, for short). That opportunity is outlined in a Special Notice issued by the agency, with proposals due October […]",
-      "date": "2026-09-17",
       "authors": [],
       "doi": ""
     },
@@ -452,6 +452,19 @@
       "doi": "10.1002/deo2.70402"
     },
     {
+      "title": "Glis1 regulates metabolic programming by promoting H3K18 lactylation to alleviate neuronal senescence following spinal cord injury.",
+      "url": "https://doi.org/10.1016/j.gendis.2026.102382",
+      "source": "Europe PMC",
+      "abstract": "Neuronal senescence is a significant factor impeding spinal cord injury (SCI) repair. Research indicates that Glis1, a Kruppel-like zinc finger transcription factor, is pivotal in reprogramming senescent cells and enhancing genomic stability via lactylation. Histone lactylation, an epigenetic modification using lactate as a substrate, becomes prominent post-SCI due to increased neuronal lactate levels. However, the mechanisms linking neuronal senescence and histone lactylation following SCI remain poorly understood. This study elucidates the roles of Glis1, H3K18 lactylation, and neuronal senescence through comprehensive <i>in vivo</i> and <i>in vitro</i> investigations. The findings reveal a post-SCI rise in neuronal lactate levels, accompanied by cellular senescence. Furthermore, upregulation of Glis1 attenuates senescence and promotes histone lactylation. The downstream target secretogranin II (SCG2), identified via ChIP-seq and RNA-seq, was found to exert negative feedback on glycolytic metabolism and lactylation, thereby suppressing neuronal senescence. These results unveil a novel regulatory mechanism of Glis1 in neuronal senescence following SCI through the p300/H3K18la/SCG2 axis, offering a new therapeutic target for spinal cord repair.",
+      "date": "2026-07-23",
+      "authors": [
+        "Li D",
+        "Lu X",
+        "Gong Z"
+      ],
+      "doi": "10.1016/j.gendis.2026.102382"
+    },
+    {
       "title": "A bioactivity-enhanced thermosensitive amnion-derived hydrogel with sustained IGF-1 release: A multitargeted and efficient strategy for corneal injury repair.",
       "url": "https://doi.org/10.1016/j.bioactmat.2026.09.003",
       "source": "Europe PMC",
@@ -504,6 +517,30 @@
       "doi": "10.1016/j.bioactmat.2026.08.053"
     },
     {
+      "title": "Human-Derived Motor Neuron Progenitor Cell Implantation Rescues Motor Endplates Following Peripheral Nerve Injury.",
+      "url": "https://doi.org/10.1016/j.jhsg.2026.101161",
+      "source": "Europe PMC",
+      "abstract": "<h4>Purpose</h4>Degradation of motor endplates (MEPs) following peripheral nerve injury (PNI) is a major determinant of functional recovery, as prolonged denervation renders target muscles progressively unreceptive to reinnervation. While prior studies have demonstrated that stem cell-based therapies may provide neurotrophic support following PNI, their potential effects on MEP preservation have not been well studied. We hypothesized that transplantation of human-induced pluripotent stem cell (hiPSC)-derived motor neuron progenitors (MNPs) into chronically denervated muscle would be associated with preservation of MEP architecture.<h4>Methods</h4>With Institutional Animal Care and Use Committee approval, chronic denervation injuries were created in mice via sciatic nerve transection. After 4 months of denervation, when MEPs have consistently degraded in this animal model, the denervated tibialis anterior (TA) was injected with low-dose MNPs (10,000 cells), high-dose MNPs (500,000 cells), or phosphate-buffered saline (negative control). Using a previously established method, hiPSCs were differentiated into functional MNPs prior to injection. At selected time points post-injection, the TA was harvested and immunostained to confirm MNP viability and detect the presence of MEPs.<h4>Results</h4>Transplanted MNPs remained viable within host muscle at both evaluated time points. No identifiable MEPs were detected in phosphate-buffered saline-treated chronically denervated muscle. In contrast, MNP-treated muscles demonstrated the presence of MEP-like structures following prolonged denervation. Qualitative differences in MEP density and morphologic complexity were observed between treatment groups, with greater preservation seen in the higher-dose cohort. Contralateral uninjured muscles demonstrated intact native MEP architecture.<h4>Conclusions</h4>Intramuscular transplantation of hiPSC-derived MNPs into chronically denervated muscle was associated with preservation of MEP morphology in this preclinical proof-of-concept model. These preliminary findings suggest that cellular therapies may represent a potential adjunctive strategy to preserve end-organ receptivity following delayed peripheral nerve injury.<h4>Type of study/level of evidence</h4>Preclinical controlled animal study, Level V.",
+      "date": "2026-10-12",
+      "authors": [
+        "Gonzales LP",
+        "Lee C",
+        "Gupta AT"
+      ],
+      "doi": "10.1016/j.jhsg.2026.101161"
+    },
+    {
+      "title": "From data to wisdom: A new era of scientific inquiry.",
+      "url": "https://doi.org/10.26508/lsa.202603865",
+      "source": "Europe PMC",
+      "abstract": "Rapid advances in high-throughput technologies and computational tools have ushered in a transformative era for scientific discovery. However, the acceleration of data generation has outpaced our conceptual frameworks for interpreting it. By examining current challenges in drug discovery, phenotypic screening, and model transferability, I argue that the future of scientific integrity depends on our ability to balance technical proficiency with the classical principles of hypothesis negation. Because the scientists who interpret data are themselves prone to bias and error, these safeguards must apply to human judgment as rigorously as to computational tools. I also confront a central tension: the mechanistic understanding I advocate may not scale to systems of cellular complexity. Finally, I propose a collaborative training approach that sustains both experimental excellence and theoretical depth. Each challenge maps onto the Data-Information-Knowledge-Wisdom (DIKW) hierarchy: failures at the D→I transition (underdetermined models), at I→K (undefined null hypotheses and black-box modeling), at K→W (non-transferable animal models and cross-domain blindness), or in the collapse of the entire chain when paradigm inertia forecloses the revision that wisdom demands.",
+      "date": "2026-10-19",
+      "authors": [
+        "Dokholyan NV."
+      ],
+      "doi": "10.26508/lsa.202603865"
+    },
+    {
       "title": "Feasibility and tolerability of virtual reality during esketamine treatment: A pilot study.",
       "url": "https://doi.org/10.1016/j.jad.2026.122554",
       "source": "Europe PMC",
@@ -530,50 +567,11 @@
       "doi": "10.4103/mgr.medgasres-d-25-00198"
     },
     {
-      "title": "Preclinical evaluation of PSMA-targeted ultrasound contrast agents in an orthotopic model of prostate cancer in rabbits.",
-      "url": "https://doi.org/10.1016/j.bioactmat.2026.07.040",
-      "source": "Europe PMC",
-      "abstract": "The localization of prostate cancer by ultrasound remains limited by the lack of B-mode conspicuity and the confinement of clinically approved microbubbles (MBs) to the vasculature. This precludes differentiating viable tumor, necrotic tissue, and margin-associated disease. We investigated prostate-specific membrane antigen (PSMA)-targeted lipid-shelled perfluorocarbon nanobubbles (PSMA-NBs) in an orthotopic rabbit model using a clinical contrast-enhanced ultrasound (CEUS) system. We implanted PSMA-positive PC3pip-GFP tumors into the prostates of immunosuppressed New Zealand White rabbits and performed transabdominal imaging with PSMA-NBs, MBs, and Plain-NBs using identical protocols. To address tumor heterogeneity and ultrasound boundary ambiguity, regions of interest were defined from baseline B-mode images and segmented into the tumor core, rim, and a peritumoral area. Pixel-wise parametric and decorrelation time (DT) maps were generated and compared with whole-slide histology (H&E) and, in an exploratory and non-specific analysis, with PSMA IHC. Compared to MBs at the doses used, PSMA-NBs exhibited higher peak intensities in the tumor core and rim (1.60-fold and 1.50-fold, respectively) and improved retention (mean transit time [MTT]: 4.20 to 5.40-fold higher) for up to 10 min in the tumor and peritumoral areas. In an exploratory analysis constrained by cohort size, PSMA-NB kinetics, notably MTT, tracked histology-defined tumor viability, and DT mapping showed spatially heterogeneous retention at the tumor periphery. Compared to Plain-NBs, PSMA-NBs also exhibited improved retention (MTT +21% overall) in the rim and peritumoral areas. This study demonstrates the potential of PSMA-NBs to characterize prostate cancer by molecularly targeted CEUS beyond that achieved with MBs at the doses used.",
-      "date": "2026-08-11",
-      "authors": [
-        "Berg FM",
-        "Abenojar EC",
-        "Nittayacharn P"
-      ],
-      "doi": "10.1016/j.bioactmat.2026.07.040"
-    },
-    {
-      "title": "Long-term exploratory evaluation of an acellular biomimetic polyfascicular nerve guidance conduit for peripheral nerve repair in a rhesus macaque model.",
-      "url": "https://doi.org/10.1016/j.bioactmat.2026.07.035",
-      "source": "Europe PMC",
-      "abstract": "Peripheral nerve injury (PNI) affects millions worldwide, yet currently approved nerve guidance conduits (NGCs) have limited ability to recapitulate the native fascicular architecture that supports organized axonal regeneration. Here, we present an acellular biomimetic multi-fascicle NGC (MFNGC) constructed by integrating electrospun poly(L-lactide-co-ε-caprolactone) (PLCL) membranes with visible-light-crosslinked gelatin hydrogel guide structures, without cells or exogenous growth factors. The MFNGC incorporates three inner conduits mimicking perineurial fascicles enclosed within an epineurium-like outer conduit, approximating key architectural features of the native median nerve in rhesus macaques. In a 12-month exploratory follow-up study using a 15-mm median nerve defect model in three rhesus macaques (<i>Macaca mulatta</i>), the MFNGC showed evidence of functional and histological nerve regeneration, as assessed by compound muscle action potential (CMAP), hand dexterity using pellet clearance test, motor dysfunction scoring, thenar muscle preservation, and axonal remyelination. Nerves regenerated within the MFNGC exhibited organized multi-fascicular tissue formation resembling native nerve architecture, and the conduit showed substantial <i>in vivo</i> degradation, as indicated by a 94% reduction in PLCL molecular weight without obvious chronic inflammatory response at the 12-month endpoint. Although limited by the small number of NHP, this study provides exploratory preclinical evidence supporting further evaluation of an acellular polyfascicular NGC for peripheral nerve regeneration.",
-      "date": "2026-08-04",
-      "authors": [
-        "Kim YJ",
-        "Choi IC",
-        "Cho J"
-      ],
-      "doi": "10.1016/j.bioactmat.2026.07.035"
-    },
-    {
-      "title": "Impact of Mild Traumatic Brain Injury (mTBI) on CYP2D6 Activity and the Restorative Effects of Melatonin and Vitamin C Supplementation.",
-      "url": "https://doi.org/10.5812/ijpr-164903",
-      "source": "Europe PMC",
-      "abstract": "<h4>Background</h4>Mild traumatic brain injury (mTBI) may disrupt hepatic cytochrome P-450 enzyme activity, potentially altering drug pharmacokinetics.<h4>Objectives</h4>This study investigated the impact of mTBI on CYP2D6 activity and the restorative effects of melatonin and vitamin C supplementation.<h4>Methods</h4>Mild traumatic brain injury was induced in rats using a modified weight-drop model, which were then assigned to treatment or control groups. CYP2D6 activity was assessed at multiple time points post-injury using metabolic ratios of tramadol and mirtazapine through isolated liver perfusion. All experimental procedures were conducted with the investigator blinded to group assignments.<h4>Results</h4>Mild traumatic brain injury significantly suppressed CYP2D6 activity on day 3, with partial recovery by day 7. While tramadol metabolism normalized by day 28, mirtazapine metabolism remained impaired in non-supplemented groups. Supplementation accelerated CYP2D6 recovery, showing statistically significant change by day 7. By day 28, supplemented groups exhibited metabolic ratios surpassing baseline levels.<h4>Conclusions</h4>Mild traumatic brain injury induces transient suppression of CYP2D6 activity, which was attenuated in antioxidant-treated groups in this preclinical model. Further studies are needed to explore the clinical relevance of these findings.",
-      "date": "2026-02-08",
-      "authors": [
-        "Berenjian K",
-        "Gholipour Z",
-        "Khoshayand M"
-      ],
-      "doi": "10.5812/ijpr-164903"
-    },
-    {
       "title": "CZ",
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2018-004480-31/CZ",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-10-21",
+      "date": "2026-10-22",
       "authors": [],
       "doi": ""
     },
@@ -582,7 +580,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2020-005037-32/CZ",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-10-21",
+      "date": "2026-10-22",
       "authors": [],
       "doi": ""
     },
@@ -591,7 +589,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2021-002909-10/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-10-21",
+      "date": "2026-10-22",
       "authors": [],
       "doi": ""
     },
@@ -600,7 +598,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2015-000550-37/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-10-21",
+      "date": "2026-10-22",
       "authors": [],
       "doi": ""
     },
@@ -609,7 +607,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2021-000041-40/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-10-21",
+      "date": "2026-10-22",
       "authors": [],
       "doi": ""
     },
@@ -618,7 +616,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2020-000829-55/DK",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-10-21",
+      "date": "2026-10-22",
       "authors": [],
       "doi": ""
     },
@@ -627,7 +625,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2020-002790-94/SE",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-10-21",
+      "date": "2026-10-22",
       "authors": [],
       "doi": ""
     },
@@ -636,7 +634,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2021-006200-33/FI",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-10-21",
+      "date": "2026-10-22",
       "authors": [],
       "doi": ""
     },
@@ -645,7 +643,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2019-004812-73/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-10-21",
+      "date": "2026-10-22",
       "authors": [],
       "doi": ""
     },
@@ -654,7 +652,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2022-002369-14/BE",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-10-21",
+      "date": "2026-10-22",
       "authors": [],
       "doi": ""
     },

@@ -1,7 +1,134 @@
 {
-  "date": "2026-10-22",
-  "cached_at": "2026-10-22T11:07:57.965267+00:00",
+  "date": "2026-10-23",
+  "cached_at": "2026-10-23T10:59:00.497958+00:00",
   "articles": [
+    {
+      "title": "Ketamine Versus Electroconvulsive Therapy for Nonpsychotic Treatment-Resistant Depression: A Cost-Effectiveness Analysis.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42908073/",
+      "source": "PubMed",
+      "abstract": "Electroconvulsive therapy (ECT) is a highly effective intervention for treatment-resistant depression; however, its use has been limited partly because of concerns about cognitive side effects. Evidence for the sustained (>1 month) efficacy of ketamine versus ECT for treatment-resistant depression has only recently been demonstrated. This study aimed to examine the cost-effectiveness-that is, the costs and benefits measured as quality-adjusted life-years (QALYs)-of racemic ketamine versus that of ECT for treatment-resistant depression. Using a decision tree model, the authors examined the incremental QALYs and costs of ketamine in comparison to ECT over 29 weeks from both health care and societal perspectives in Canada. Deterministic and probabilistic sensitivity analyses were used to account for uncertainty. Compared with ECT, ketamine resulted in higher health-related quality of life (incremental QALY=0.024) and lower costs from both a health care (CA$-1,663) and a societal (incremental cost=-$3,413) perspective. In nearly all one-way sensitivity analyses, ketamine was found to be cost-effective relative to ECT. Ketamine provided additional QALYs while saving costs relative to ECT for treatment-resistant depression. Health insurance plans that cover all costs of ECT should also cover all costs of ketamine treatment for treatment-resistant depression.",
+      "date": "2026-10-22",
+      "authors": [
+        "Lebenbaum Michael",
+        "Mulsant Benoit",
+        "Parikh Sagar V"
+      ],
+      "doi": "10.1176/appi.ps.20240407"
+    },
+    {
+      "title": "Suicidality during intranasal (es)ketamine treatment: A retrospective cohort study.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42906707/",
+      "source": "PubMed",
+      "abstract": "Intranasal (es)ketamine has shown efficacy in therapy of treatment-resistant depression (TRD). However, its effects on suicidality have not been fully elucidated. We conducted a retrospective longitudinal cohort study of 80 patients affected by TRD, treated with intranasal (es)ketamine. Suicidality was assessed using item 10 of the clinician-rated Montgomery-Åsberg Depression Rating Scale (MADRS) and item 9 of the Beck-Depression-Inventory-II (BDI-II). We measured patient- and transition-level fluctuations of suicidality, tested temporal clustering using mixed-effects logistic regression, examined associations between non-suicidal depressive symptom change and suicidality worsening, and explored baseline predictors. Mean suicidality ratings decreased modestly. Upward and downward category transitions occurred at similar frequencies across treatment (MADRS: 57 increases and 50 decreases across 767 valid transitions, 7.4% vs. 6.5%; BDI-II: 22 and 23 across 741 transitions, 3.0% vs. 3.1%). At least one upward transition occurred in 38.8% on MADRS and 21.3% on BDI-II. Transient elevations were more frequent than sustained elevations. Sustained elevation occurred at 15.0% on MADRS and 7.5% on BDI-II. Increases did not cluster by treatment phase. MADRS, but not BDI-II, upward transitions were associated with concurrent and lagged worsening in non-suicidal depressive symptoms. Higher baseline suicidality showed the most consistent association with later worsening across both measures. Two serious adverse events occurred, including one suicide. In this routine-care cohort, suicidality decreased on average, with no evidence of treatment-phase-specific worsening. Nonetheless a minority of patients showed transient or, less often, sustained increases in suicidality, supporting necessity of continuous suicidality monitoring throughout (es)ketamine treatment.",
+      "date": "2026-10-21",
+      "authors": [
+        "Ehrt-Schäfer Yamina",
+        "Schoretsanitis Georgios",
+        "Seifritz Erich"
+      ],
+      "doi": "10.1016/j.jad.2026.122647"
+    },
+    {
+      "title": "Psilocybin and Inflammatory and Mitochondrial Stress Markers in Parkinson Disease: A Nonrandomized Clinical Trial.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42905733/",
+      "source": "PubMed",
+      "abstract": "This nonrandomized clinical trial assesses associations between psilocybin therapy and changes in systemic markers of inflammation and mitochondrial stress in people with Parkinson disease and mood dysfunction.",
+      "date": "2026-10-21",
+      "authors": [
+        "Bradley Ellen R",
+        "Kelley Parker",
+        "Szigeti Balázs"
+      ],
+      "doi": "10.1001/jamapsychiatry.2026.2733"
+    },
+    {
+      "title": "Psychedelics and Reward Processing: Before and After the 1970 Controlled Substances Act.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42903363/",
+      "source": "PubMed",
+      "abstract": "This narrative review traces how the scientific understanding of psychedelics has intersected with \"reward processing\" from before the Controlled Substances Act (CSA) era to the present, emphasizing how cultural and regulatory climates shaped what was viewed as an acceptable research question. Reward processing is treated as a family of partially overlapping phenomena: (1) reward-linked behavior (e.g., self-administration, conditioned place preference, reinstatement), (2) reward-circuit signals (e.g., mesolimbic dopamine dynamics, electrophysiology, human electroencephalography potentials), and (3) clinically relevant outcomes in substance use disorder (SUD) (e.g., withdrawal severity, consumption, relapse). Across these measures, the literature repeatedly adopts two framing logics: \"liability framing,\" which prioritizes misuse potential and dependence risk, and \"therapeutic framing,\" which treats psychedelics as tools for probing and potentially reconfiguring reward circuitry and learning. Organized by decade, the review shows that the 1960s already contained both motifs, with adjunctive therapeutic hopes alongside early reinforcement assays, while the CSA era increasingly systematized a hazard-first posture that defined the late 1970s through the 2000s, referred to as the \"psychedelic dark age.\" Within those constraints, monoamine and receptor pharmacology (including serotonin-dopamine interactions) became a dominant tool for investigating reward, and ibogaine programs loudly reintroduced a therapeutically oriented anti-addiction narrative. In the 2000s, serotonergic control of dopaminergic reward systems and entactogen models, including social reward, broadened the mechanistic frame. In the 2010s and 2020s, the field's momentum shifted toward therapeutic models, circuit plasticity, computationally interpretable reward signals, and renewed clinical work in SUD. The review argues that a central bottleneck is not a lack of provocative acute findings but rather a lack of experimental programs that bridge behavior, circuit signals, and longitudinal clinical endpoints. We therefore propose that revisiting important concepts and findings discussed herein with recently developed technology and approaches (e.g., cue-evoked signals, learning parameters, photometry) across dose, time, and sex would advance the field. We highlight practical study shifts to move toward an integrated account of how psychedelics modulate reward-relevant brain activity and behavior.",
+      "date": "2026-07-24",
+      "authors": [
+        "Company Matthew C",
+        "Lifshitz Dylan J",
+        "Sawaya M Farris"
+      ],
+      "doi": "10.1177/28314425261472614"
+    },
+    {
+      "title": "Dorsal Raphe Revisited: A Systems Neuroscience Lens on Psychedelic Drug Action.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42903319/",
+      "source": "PubMed",
+      "abstract": "Psychedelics rose to prominence in the 1960s, around the same time when neurobiologists identified the midbrain raphe as the brain's primary source of serotonin. It is therefore no surprise that early studies on classical psychedelics like",
+      "date": "2026-04-09",
+      "authors": [
+        "Kwan Alex C"
+      ],
+      "doi": "10.1177/28314425261429232"
+    },
+    {
+      "title": "Correlation of Ketamine and Classic Psychedelics with Pain-Related Neural Connectivity: A Scoping Review of Clinical Experiments on a Potential Therapeutic Target Concerning Ketamine and Classical Psychedelics Administration for Pain Relief.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42903228/",
+      "source": "PubMed",
+      "abstract": "Ketamine and classic psychedelics have recently gained increased scientific interest regarding their role in pain management, while there is evidence that pain induces neural connectivity changes. We performed a scoping review to investigate the correlation of ketamine and classic psychedelics with pain-related neural connectivity, aiming to find potential therapeutic targets for these medications administration for pain relief. We searched PubMed and Scopus databases for articles with the purpose to explore the correlation between ketamine and classic psychedelics administration with pain-related neural connectivity. From each included article we extracted the following data: authors, medication under investigation, number of participants, pain-related brain regions whose connectivity was involved, and correlation of the medication with this connectivity. Six articles were included. Four of them concerned ketamine, one concerned lysergic acid diethylamide (LSD), and one was about psilocybin. The three medications notably altered connectivity between brain regions related to cognitive and emotional aspects of pain. Ketamine mainly correlated with connectivity involving large-scale neural networks (default mode and salience network). Baseline connectivity, especially regarding medial prefrontal cortex-precuneus and default mode network-antinociceptive pathways, may predict ketamine treatment response. There is a remarkable correlation of ketamine and classic psychedelics (LSD and psilocybin) with pain-related neural connectivity. Further research will shed more light on the promising role of neural connectivity as a therapeutic target concerning ketamine and classic psychedelics for pain management.",
+      "date": "2026-09-14",
+      "authors": [
+        "Chytas Vasileios",
+        "Tsimploulis Georgios",
+        "Chytas Dimitrios"
+      ],
+      "doi": "10.1177/28314425261489067"
+    },
+    {
+      "title": "Past-Year Lysergic Acid Diethylamide Use in United States Sexual Minorities from 2015 to 2019.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42903218/",
+      "source": "PubMed",
+      "abstract": "This study aimed to characterize changes in estimated past-year lysergic acid diethylamide (LSD) use among sexual minorities in the United States using nationally representative data and to compare correlates of LSD use between lesbian, gay, and bisexual individuals (LGB) and heterosexual individuals. Using National Survey on Drug Use and Health data on adults from 2015 to 2019, we investigated correlates of past-year LSD use among LGB individuals compared with heterosexual individuals and changes in the prevalence of past-year LSD use during that period. Correlates were identified with weighted logistic regression. LGB individuals constituted approximately 5% of the sample. From 2015 to 2019 estimated prevalence of past-year LSD use rose 43% in heterosexual individuals, 58% in bisexual individuals, and 106% in lesbian/gay individuals. The relative risk for LSD use ranged from 3.3 to 4.4 times higher for LGB individuals compared with heterosexual individuals during the study period, depending on the year. Interaction analysis found that living in poverty, being divorced versus married, living in a small metropolitan area versus a non-metropolitan area, and past-year suicide attempt were unique correlates of past-year LSD use for heterosexual individuals compared with LGB individuals. Sexual minorities are at increased risk of past-year LSD use compared with heterosexual individuals. There were notable increases in past-year LSD use from 2015 to 2019 among heterosexual, bisexual, and lesbian/gay individuals, with a marked increase in the latter group. These findings highlight the possible need for targeted LSD harm reduction strategies based on sexual identity and more inclusive research on psychedelic use.",
+      "date": "2025-12-26",
+      "authors": [
+        "Barnett Brian S",
+        "Anand Akhil",
+        "Falcone Tatiana"
+      ],
+      "doi": "10.1177/28314425251410086"
+    },
+    {
+      "title": "What About Psycholytic Therapy? A Historical Revisiting of Psychedelics Assisting Psychotherapy.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42903216/",
+      "source": "PubMed",
+      "abstract": "The renewed clinical interest in psychedelics is often framed in ways that blur the distinction between psychotherapy and the psychedelic drug experience itself. Revisiting early research and clinical observations from the first wave of psychedelic science may help clarify how these processes were originally conceptualized. In the mid-20th century, LSD and other serotonergic psychedelics were understood as facilitators of psychotherapy rather than stand-alone treatments. Psycholytic therapy emphasized gradual therapeutic exploration over multiple sessions, whereas psychedelic therapy emphasized discrete, potentially transformative experiences. In both approaches, psychedelic administration was embedded within established psychotherapeutic frameworks, underscoring the importance of the therapeutic alliance, as well as set and setting. Re-examining this history helps reassert psychotherapy as the primary therapeutic mechanism, with psychedelics functioning as catalysts that enhance emotional access, meaning-making, and the therapeutic relationship. This historical review synthesizes research on psycholytic therapy conducted between 1950 and 1970. It provides an overview of treatment protocols, procedures, and reported outcomes. It also translates therapeutic concepts from the historical literature into contemporary psychological constructs that can be operationalized and examined using modern research methods. The historical literature on psycholytic therapy represents a substantial and underutilized clinical resource. Renewed investigation using contemporary clinical trial designs may help clarify its therapeutic potential and inform the development of evidence-based psychedelic-assisted psychotherapies.",
+      "date": "2026-07-22",
+      "authors": [
+        "Zaher Idir",
+        "Richard Jérémie K"
+      ],
+      "doi": "10.1177/28314425261455416"
+    },
+    {
+      "title": "Strong Alliance, Weak Conclusions: Comment on Goodwin et al. (2026) \"The Role of Therapeutic Alliance in Psilocybin Treatment for Treatment-Resistant Depression\".",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42903188/",
+      "source": "PubMed",
+      "abstract": "This commentary critically examines the interpretation and analytic choices in Goodwin and colleagues' recent analysis of therapeutic alliance in psilocybin treatment for treatment-resistant depression. While the authors conclude that alliance did not meaningfully contribute to treatment efficacy, we argue that this interpretation is not supported by the reported results, which are, in addition, shaped by methodological decisions that obscure relevant effects. By contextualizing the observed associations, clarifying the logic of mediation analysis, and pointing out methodological weaknesses, we show that the available evidence is more consistent with a meaningful role of therapeutic alliance in shaping both the psychedelic experience and clinical outcomes. Furthermore, we highlight unexplained deviations from the study protocol that warrant scrutiny. These concerns underscore the importance of accurately characterizing psychological and contextual factors in psychedelic treatment research and call for more comprehensive and transparent analyses of psychotherapeutic processes.",
+      "date": "2026-06-16",
+      "authors": [
+        "Wolff Max",
+        "Kangaslampi Samuli",
+        "Zeifman Richard J"
+      ],
+      "doi": "10.1177/28314425261461057"
+    },
+    {
+      "title": "Group psychedelic-assisted therapy for mental health conditions: a mixed-methods systematic review.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42903078/",
+      "source": "PubMed",
+      "abstract": "The group therapy model has been recently favored as a means of conducting psychedelic assisted therapies for mental health disorders. However, there is a paucity of literature showing strengths or drawbacks of this approach and comparisons of safety and efficacy to individual therapy. This systematic review aims to address this gap in literature. We included original research of group psychedelic therapy programs that were peer reviewed and published in English or where a translation was available or possible. Participants must be 18 or older and have a psychiatric diagnosis. We searched for MEDLINE, Scopus, and APA PsychInfo until January 1 2026. Screening, data extraction, and appraisal using the Mixed Methods Appraisal Tool (MMAT) were conducted by two independent researchers. A parallel-results convergent synthesis design was employed consisting of independent syntheses of qualitative and quantitative evidence and an interpretation of the results in the discussion. We included 30 papers representing 22 unique group therapy protocols. Demographics were inconsistently reported: sex or gender was reported in 18 papers, race/ethnicity in eight papers. Fifteen papers reported pre-post outcomes using validated screening tools for mental health, functioning, substance use, or wellbeing. Using a segregated methodologies approach, quantitative and qualitative findings were broadly complementary. Quantitative results showed overall decreases in validated scale outcomes reflecting improvement in depression, anxiety, trauma symptoms, functioning, and other psychiatric outcomes. Qualitative results described improvements in mindfulness, emotional processing, psychological flexibility, meaning-making, and social connectedness supported by the group format. Despite emerging mechanistic evidence for direct effects of psychedelic molecules on the brain, only a minority of studies used comparison groups, and only one was a modern randomized controlled trial. Group PaT may not only be pragmatically beneficial for feasibility and cost-effectiveness, but may also contribute to therapeutic outcomes through peer support, normalization, belonging, and integration. Limitations of this systematic review include substantial heterogeneity in molecules, populations, protocols, outcome measures, and follow-up duration, as well as overlapping cohorts and few studies with group components throughout the entire course of treatment. PROSPERO: https://www.crd.york.ac.uk/PROSPERO/view/CRD42024491478, identifier: CRD42024492648.",
+      "date": "2026-10-06",
+      "authors": [
+        "Tsang Vivian W L",
+        "Bhatia Faizan",
+        "Ferrey Anne"
+      ],
+      "doi": "10.3389/fpubh.2026.1788352"
+    },
     {
       "title": "Intravenous Ketamine for Depressed and Suicidal Adolescents in the Emergency Department: A Randomized Double-Blind Trial.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42900929/",
@@ -130,133 +257,22 @@
       "doi": "10.1176/appi.ajp.20260834"
     },
     {
-      "title": "Investigation of the pharmacological and circuit basis for psychedelic drug effects on interval timing in mice.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42894023/",
-      "source": "PubMed",
-      "abstract": "Classical psychedelic drugs such as the tryptamine psilocybin can alter temporal perception. Previously, the phenylethylamine psychedelic 2,5-dimethoxy-4-iodoamphetamine (DOI), a 5-HT Although DOI alters TDT performance, it is unclear whether timing is altered by tryptamine psychedelics, which are less selective for 5-HT To address this knowledge gap, we tested psilocin (the active metabolite of psilocybin) in male C57BL/6J mice performing the TDT and assessed the involvement of 5-HT Psilocin (0.8 mg/kg SC) altered timing accuracy and precision in mice performing the TDT, similarly to DOI. Psilocin effects were blocked by the 5-HT The mPFC appears to play a role in TDT performance and may mediate the effects of psychedelic drugs on interval timing.",
-      "date": "2026-10-19",
-      "authors": [
-        "Klein Landon M",
-        "Kopelman Jared",
-        "Sharp Richard F"
-      ],
-      "doi": "10.1007/s00213-026-07181-x"
-    },
-    {
-      "title": "Dual benefit of esketamine-based opioid-free anesthesia on postoperative pain and mental health outcomes in patients undergoing bariatric surgery: a randomized controlled trial.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42893989/",
-      "source": "PubMed",
-      "abstract": "Patients with morbid obesity are at a high risk of comorbid depressive and anxiety symptoms. While bariatric surgery is an effective treatment, conventional opioid-based anesthesia carries significant perioperative risks. Opioid-free anesthesia (OFA) presents a safer alternative. Esketamine, known for its dual analgesic and rapid antidepressant effects, is a promising component of OFA. However, clinical evidence supporting its simultaneous benefits for both physical and psychological recovery in bariatric patients remains limited. In this double-blind, randomized clinical trial, patients scheduled for laparoscopic sleeve gastrectomy were randomly assigned (1:1) to receive either esketamine-based anaesthesia or opioid-based anaesthesia with remifentanil during surgery. The co-primary outcomes were postoperative pain intensity within the first 24 h and mental health status at three months after surgery. Secondary outcomes included pharmacokinetics of esketamine and adverse events. A total of 84 patients were randomized, with 42 allocated to each group. Seventy-four participants (88.1%) completed the 3-month follow-up. Patients in the esketamine group experienced significantly lower postoperative pain intensity (P < 0.01) and a reduced incidence of moderate-to-severe pain (P < 0.05) within 24 h after surgery. Mental health outcomes at 3 months were also significantly better in the esketamine group, and adverse events rate did not differ significantly. Pharmacokinetic analysis showed that plasma esketamine concentrations increased rapidly during infusion, with early formation of the active metabolite (S)-norketamine. Compared to opioid-based anaesthesia, esketamine-based opioid-free anaesthesia was associated with improved postoperative analgesia and better mental health outcomes in morbidly obese patients undergoing bariatric surgery, without increasing adverse events.",
-      "date": "2026-07-23",
-      "authors": [
-        "Huang Chunxia",
-        "Guan Zichun",
-        "Wang Sheng"
-      ],
-      "doi": "10.1038/s41398-026-04241-w"
-    },
-    {
-      "title": "Acute Psychosis and Dissociative Syndrome Following Binge Recreational Nitrous Oxide Use: A Case Report.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42892949/",
-      "source": "PubMed",
-      "abstract": "Recreational nitrous oxide (N2O) inhalation is increasingly prevalent among young adults, but acute psychiatric presentations following short-term binge exposure remain poorly characterized. We report a case of a female in her early 20s with no prior history of psychotic illness who developed an acute psychotic and dissociative syndrome over three days at an outdoor music festival. Her presentation followed heavy recreational N2O and 3,4-methylenedioxymethamphetamine (MDMA) exposure combined with sleep deprivation. On admission, she exhibited profound disorientation, inability to recognize close family members, polymorphic delusions, passivity phenomena, and auditory and olfactory hallucinations, requiring involuntary psychiatric hospitalization. Diagnostic workup revealed normal brain and cervical spine magnetic resonance imaging (MRI) and a normal electroencephalogram (EEG) without epileptiform activity or slowing. Serum homocysteine was moderately elevated (25.2 µmol/L) alongside a low-normal vitamin B12 concentration (270 pg/mL), consistent with N2O-induced functional cobalamin deficiency; both markers normalized following parenteral vitamin B12 and oral folic acid supplementation. During inpatient stay, treatment with risperidone was followed by progressive neutropenia, which fully resolved after cross-titration to aripiprazole. She gradually regained full insight, was discharged on day 12, and remained free of psychotic symptoms at her three-week outpatient review. This case suggests that short-term binge N2O exposure, together with MDMA and sleep deprivation, may contribute to severe neuropsychiatric presentations without chronic use; it illustrates the value of measuring homocysteine rather than relying solely on serum B12 levels; and highlights potential hematological adverse effects during antipsychotic initiation.",
-      "date": "2026-09-17",
-      "authors": [
-        "Agostinho Francisco",
-        "Moutinho Adriana",
-        "Câmara Catarina K"
-      ],
-      "doi": "10.7759/cureus.116414"
-    },
-    {
-      "title": "Ketamine administration reduced conditioned defensive behaviour and upregulated protein expression associated with neuroplasticity in a planarian model of aversive memory reactivation.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42892539/",
-      "source": "PubMed",
-      "abstract": "Traumatic memories that are resistant to modification or extinction are a characteristic feature of post-traumatic stress disorder (PTSD). The process of fear memory reconsolidation has been identified as a potential therapeutic target for the treatment of PTSD. Ketamine, an NMDA receptor antagonist with dissociative properties, has been identified as a drug with high therapeutic potential for this target, as it destabilises traumatic memory while enabling rapid modification and update of the memory to no longer be threatening. However, its exact mechanisms of action on reducing the impact of aversive memory remains poorly understood. To better understand these mechanisms, a conditioned aversive memory reactivation model using ketamine was carried out in brown planaria (Girardia dorotocephala), an invertebrate model that shows a high degree of conservation in neural anatomy, receptors, neurotransmitters, and learning behaviours, while being comparatively simpler than standard mammalian models. In this study, 15 planaria were randomly assigned to three treatment groups (10 μM ketamine, 1 μM ketamine, vehicle control) and underwent a classical aversive memory reactivation paradigm. Whole planaria were processed for an exploratory proteomic analysis to analyse changes in protein expression associated with the effects of ketamine on the aversive memory reactivation process. Behavioural data showed a significant reduction in defensive behaviours, including scrunching movements F(2,12) = 11.85, p = 0.0014, ƞ",
-      "date": "2026-10-17",
-      "authors": [
-        "James Fionnghuala L J",
-        "Ahamed Sayed K",
-        "Yang Cheng"
-      ],
-      "doi": "10.1016/j.pnpbp.2026.111979"
-    },
-    {
-      "title": "What goes up must comedown: prevalence rates, characteristics, and coping strategies concerning MDMA aftereffects.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42891831/",
-      "source": "PubMed",
-      "abstract": "MDMA is increasingly being studied for therapeutic applications, yet the prevalence and characteristics of post-acute negative effects remain debated. We aimed to characterize MDMA's post-acute negative effects, including prevalence and symptom profile among recreational users. Given preclinical work and limited human evidence suggesting that certain supplements and antidepressants may mitigate MDMA's negative effects, we also assessed the use of these substances as coping strategies. We conducted a cross-sectional online survey of 497 MDMA-experienced participants recruited from Prolific. The survey assessed post-acute negative effects prevalence, timing, and duration; post-acute side effects; emotional changes, suicidal ideation; and intentional use of supplements or antidepressants to manage symptoms. We compared characteristics of post-acute side effects between MDMA users who self-reported ever experiencing a negative post-acute MDMA experience (colloquially known as a 'comedown') and those who did not. 74.5% of participants reported experiencing a period of post-acute negative effects at least once, with onset occurring approximately 24 hours post-ingestion and lasting an average of 40 hours. The most common symptoms were fatigue (88.1%), difficulty concentrating (85.7%), restlessness (82.9%), and headache (79.7%). 14.6% of post-acute negative effects experiencers endorsed passive suicidal ideation and 6.2% endorsed active suicidal ideation. Regarding coping strategies, 30.3% reported using supplements (most commonly N-acetyl-cysteine, acetyl-L-carnitine, and magnesium) and 5.1% reported using antidepressants, with moderate perceived helpfulness. Post-acute negative effects of MDMA appear prevalent among recreational users in a cross-sectional sample, characterized by fatigue, negative affect, and elevated suicidal ideation. These findings highlight post-acute risks that warrant further investigation.",
-      "date": "2026-10-17",
-      "authors": [
-        "Goldy Sean P",
-        "Klein Kelcy A",
-        "Yaden David B"
-      ],
-      "doi": "10.1007/s00213-026-07187-5"
-    },
-    {
-      "title": "Ketamine in psychiatry: a systematic review of clinical applications, safety considerations, and emerging challenges.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42889292/",
-      "source": "PubMed",
-      "abstract": "Ketamine has progressed from solely being an anesthetic agent to a drug of rising clinical and research interest due to its distinctive pharmacological properties. Its dissociative properties and rapid-acting antidepressant effects have made it a prominent area of investigation across many medical and psychiatric applications. This systematic review examines ketamine's history, mechanisms of action, clinical uses, and significant challenges. A systematic search of PubMed, SCOPUS, PsycINFO, and other sources, generated peer-reviewed publications that addressed the history of ketamine, its pharmacology, clinical applications, recreational use, safety considerations, and societal consequences. Overall, 106 articles were identified for inclusion in this study. At the receptor level, ketamine is an antagonist of NMDA receptors that triggers a number of downstream effects ranging from heightened glutamate transmission, AMPA receptor activation, increased BDNF expression, synaptogenesis, and mTOR pathway signaling. At the network level, it alters activity within large-scale brain circuits including the default mode network, affecting cognition, mood, and perception. Clinically, ketamine is used for anesthesia, treatment-resistant depression, and pain, with off-label uses for PTSD, anxiety disorders, and bipolar disorder. The review also examines current challenges related to ketamine's recreational use, associated risks, sociocultural factors, and key clinical and ethical considerations, including safety, monitoring, and telehealth prescribing of oral and sublingual formulations. It integrates previously fragmented research from anesthesiology, neuroscience, pharmacology, psychiatry, and public health, consolidates clinical and ethical guidance, identifies critical gaps in current knowledge, and proposes directions for future research.",
-      "date": "2026-10-01",
-      "authors": [
-        "Kinney Matthew M",
-        "Bowers Zackary L"
-      ],
-      "doi": "10.3389/fpsyt.2026.1949261"
-    },
-    {
-      "title": "French psychiatric caregivers' perceptions of psychedelics: A national survey.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42888158/",
-      "source": "PubMed",
-      "abstract": "The use of psychedelic substances such as LSD, psilocybin, and dimethyltryptamine is currently being re-evaluated for their therapeutic potential in psychiatry. While international clinical research had started in the 2010s, France only initiated its first psychedelic trials in 2024. This study aimed to explore the knowledge, perceptions, and attitudes of French mental health professionals regarding the use of psychedelics in clinical and recreational settings. An anonymous online survey was conducted between December 2023 and January 2024 among psychiatry caregivers in France. The questionnaire included 19 items across five sections: demographic information, knowledge of psychedelics, perception of their therapeutic and recreational use, and personal experimentation with psychoactive substances. Data was analyzed using linear and ordinal regressions, controlling for age, gender, profession and experience with ketamine. A total of 298 respondents participated, primarily from public hospitals. Most were psychiatrists (41.4%) or psychologists (20.4%). About 88% had heard of medical studies on psychedelics, with high awareness of psilocybin and ketamine use in treatment-resistant depression. However, awareness of other therapeutic indications was limited. Fifty-three percent rated the therapeutic benefit-risk ratio of psychedelics as favorable, whereas 61% rated recreational use as dangerous. Favorable perception of therapeutic use was associated with male gender, personal experience with psychedelics, and clinical practice with ketamine. However, in a subgroup of clinicians (psychiatrists, residents, nurses) only clinical practice with ketamine remained significantly associated with favorable opinions. Personal experimentation was the only predictor of more positive attitudes toward recreational use. The results indicated a moderate but cautious openness among French psychiatry caregivers towards therapeutic psychedelics, less enthusiastic than in other international surveys. Their opinions were strongly influenced by personal and clinical experience. A notable finding was the clear separation caregivers made between therapeutic and recreational contexts. French psychiatry caregivers are aware of the growing interest in psychedelics and express moderate support for their medical use. Clinical practice with ketamine appears to play a pivotal role in shaping favorable attitudes. As France embarks on clinical trials with psychedelics, caregiver perspectives are likely to evolve, warranting further surveys in the coming years.",
-      "date": "2026-10-16",
-      "authors": [
-        "Buot Anne",
-        "Burdairon Jean-Del",
-        "Mallet Luc"
-      ],
-      "doi": "10.1016/j.encep.2026.06.015"
-    },
-    {
-      "title": "After the Trip: A Qualitative Study of Healthy Individuals' Motor Experiences Following Different Doses of Psilocybin.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42886634/",
-      "source": "PubMed",
-      "abstract": "Psilocybin is a naturally occurring classic psychedelic associated with widespread changes in brain function and promising therapeutic outcomes in several neuropsychiatric disorders. Complementing these findings, qualitative studies following psilocybin administration have revealed diverse and highly individual effects across multiple domains of subjective experience. However, little is known about its impacts on individuals' subjective motor experiences. With the tendency of individuals to stay stationary during psilocybin's effects, investigating qualitative motor experiences following low-to-moderate doses of psilocybin may offer novel considerations regarding safety and quality of individuals' psychedelic experiences. We aimed to explore healthy individuals' subjective experiences after receiving three different doses of psilocybin and conducting motor activity. Following the study procedure previously published, semi-structured interviews were conducted with 12 participants who had completed sessions of motor tasks at different doses of psilocybin, which were then transcribed and thematically analyzed. Four major themes were developed, each containing sub-themes: two motor themes, (1) mixed motor messages, including altered motor coordination, control, speed, and reaction time; (2) interacting influences on motor performance, including dose-dependent effects; and two non-motor themes, (3) transcendence, altered consciousness, and transformative \"mysticism\"; and (4) dynamic and enhanced psychological and sensory experiences. This work contributes to a more comprehensive understanding of psilocybin's multifaceted effects and their relevance to safety, therapeutic potential and future research in motor disorders. The findings will inform a broader dose-finding study and the design of proposed research on psilocybin-assisted physiotherapy for refractory motor functional neurological disorder. ANZCTR number: ACTRN12621000560897.",
-      "date": "2026-Oct-16",
-      "authors": [
-        "Luo Ruiqi Rachel",
-        "Berlowitz David J",
-        "Bryson Alexander"
-      ],
-      "doi": "10.1002/brb3.71807"
-    },
-    {
-      "title": "Aspirational autonomy and psychedelic-assisted therapy in advanced cancer: ethical lessons from clinical cases.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42879734/",
-      "source": "PubMed",
-      "abstract": "Psychedelic-assisted therapy (PAT) is increasingly discussed as a potential intervention for anxiety, depression, and existential distress among patients with advanced cancer. Yet the ethical challenges of PAT for patients approaching the end of life remain underdeveloped, particularly for oncologists who may be asked to counsel patients or consider referral to clinical trials. This article uses 3 deidentified clinical vignettes from a clinical trial of psilocybin-assisted therapy in a palliative oncology context to examine what it means for PAT to \"work.\" We argue that PAT should not be evaluated only by symptom reduction or the production of mystical experiences, but also by whether it helps patients move toward valued forms of self-understanding, connection, courage, acceptance, or reconciliation. Drawing on the concept of \"aspirational autonomy,\" we propose that meaningful consent to PAT need not depend on full foreknowledge of an unpredictable experience. Rather, consent may be understood as a patient's endorsement of a supported process of moral and existential aspiration. We then identify practical ethical challenges for oncology, including expectation management, therapeutic ambiguity, somatic amplification, limited time for integration, and family dynamics. We conclude by offering candidate-selection considerations for oncologists, emphasizing aspirational clarity, cognitive and psychological stability, temporal feasibility, relational support, and realistic expectations.",
-      "date": "2026-Oct-07",
-      "authors": [
-        "Davis Keenan Wills",
-        "Bach Michelle C",
-        "Schimmels JoEllen"
-      ],
-      "doi": "10.1093/oncolo/oyag402"
-    },
-    {
-      "title": "Use of Electroconvulsive Therapy and Ketamine in a POLG-Related Disorder.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42879681/",
-      "source": "PubMed",
+      "title": "Before the Approvals Arrive: Norway, Germany, Switzerland, the UK and Estonia at TAIP Conference 2026",
+      "url": "https://psychedelicalpha.com/news/before-the-approvals-arrive-norway-germany-switzerland-the-uk-and-estonia-at-taip-conference-2026/",
+      "source": "Psychedelic Alpha",
       "abstract": "",
-      "date": "2026-10-13",
-      "authors": [
-        "Hafizi Sina",
-        "Kaushik Vishal",
-        "Ramkissoon Reece"
-      ],
-      "doi": "10.4088/PCC.26cr04238"
+      "date": "2026-10-23",
+      "authors": [],
+      "doi": ""
+    },
+    {
+      "title": "Ten VA Sites, REMS and Ibogaine’s “Uphill Battle”: Feds Weigh In on Psychedelic Access",
+      "url": "https://psychedelicalpha.com/news/ten-va-sites-rems-and-ibogaines-uphill-battle-feds-weigh-in-on-psychedelic-access/",
+      "source": "Psychedelic Alpha",
+      "abstract": "At the Psychedelic Healthcare Forum, which took place in New York City last Thursday and was co-hosted by Psychedelic Alpha, a panel of federal officials participated in a discussion moderated by POLITICO Deputy Health Care Editor Erin Schumaker. Here, we share some of the key takeaways from that session, which featured the following: Valentina Mantua, […]",
+      "date": "2026-10-22",
+      "authors": [],
+      "doi": ""
     },
     {
       "title": "Poacher Turned Gamekeeper: HHS’ Matt Zorn on Ibogaine, Right to Try and the Psychedelics Executive Order",
@@ -327,24 +343,6 @@
       "source": "Psychedelic Alpha",
       "abstract": "",
       "date": "2026-09-21",
-      "authors": [],
-      "doi": ""
-    },
-    {
-      "title": "Introducing The Psychedelic News Feed Podcast",
-      "url": "https://psychedelicalpha.com/news/introducing-the-psychedelic-news-feed-podcast/",
-      "source": "Psychedelic Alpha",
-      "abstract": "",
-      "date": "2026-09-21",
-      "authors": [],
-      "doi": ""
-    },
-    {
-      "title": "Field Notes #5: ‘Psychedelics Week’ in Washington D.C.",
-      "url": "https://psychedelicalpha.com/news/field-notes-5-psychedelics-week-in-washington-d-c/",
-      "source": "Psychedelic Alpha",
-      "abstract": "Welcome to our fifth Field Note. As a reminder, Field Notes are timely, candid voice notes from our Founder and Editor, Josh Hardman, that give our Pα+ readers a pulse on recent developments in psychedelic drug development, policy, and access. In this Field Note, Josh shared his notes from a busy week in Washington, D.C., […]",
-      "date": "2026-09-18",
       "authors": [],
       "doi": ""
     },
@@ -571,7 +569,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2018-004480-31/CZ",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-10-22",
+      "date": "2026-10-23",
       "authors": [],
       "doi": ""
     },
@@ -580,7 +578,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2020-005037-32/CZ",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-10-22",
+      "date": "2026-10-23",
       "authors": [],
       "doi": ""
     },
@@ -589,7 +587,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2021-002909-10/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-10-22",
+      "date": "2026-10-23",
       "authors": [],
       "doi": ""
     },
@@ -598,7 +596,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2015-000550-37/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-10-22",
+      "date": "2026-10-23",
       "authors": [],
       "doi": ""
     },
@@ -607,7 +605,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2021-000041-40/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-10-22",
+      "date": "2026-10-23",
       "authors": [],
       "doi": ""
     },
@@ -616,7 +614,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2020-000829-55/DK",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-10-22",
+      "date": "2026-10-23",
       "authors": [],
       "doi": ""
     },
@@ -625,7 +623,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2020-002790-94/SE",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-10-22",
+      "date": "2026-10-23",
       "authors": [],
       "doi": ""
     },
@@ -634,7 +632,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2021-006200-33/FI",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-10-22",
+      "date": "2026-10-23",
       "authors": [],
       "doi": ""
     },
@@ -643,7 +641,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2019-004812-73/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-10-22",
+      "date": "2026-10-23",
       "authors": [],
       "doi": ""
     },
@@ -652,7 +650,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2022-002369-14/BE",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-10-22",
+      "date": "2026-10-23",
       "authors": [],
       "doi": ""
     },

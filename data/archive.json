@@ -1,6 +1,171 @@
 {
   "items": [
     {
+      "title": "Ketamine Versus Electroconvulsive Therapy for Nonpsychotic Treatment-Resistant Depression: A Cost-Effectiveness Analysis.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42908073/",
+      "source": "PubMed",
+      "date": "2026-10-22",
+      "authors": [
+        "Lebenbaum Michael",
+        "Mulsant Benoit",
+        "Parikh Sagar V"
+      ],
+      "doi": "10.1176/appi.ps.20240407",
+      "summary_en": "Canadian cost-effectiveness analysis comparing ketamine and electroconvulsive therapy (ECT) for treatment-resistant depression. Over 29 weeks, ketamine provided higher quality-adjusted life-years (0.024 QALY gain) while reducing costs by CA$1,663 (healthcare) to CA$3,413 (societal perspective). Decision tree modelling with sensitivity analyses showed ketamine cost-effective in nearly all scenarios, suggesting insurance coverage parity with ECT.",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "other",
+      "substances": [
+        "ketamine"
+      ],
+      "added_at": "2026-10-23T11:53:34.702057+00:00"
+    },
+    {
+      "title": "Suicidality during intranasal (es)ketamine treatment: A retrospective cohort study.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42906707/",
+      "source": "PubMed",
+      "date": "2026-10-21",
+      "authors": [
+        "Ehrt-Schäfer Yamina",
+        "Schoretsanitis Georgios",
+        "Seifritz Erich"
+      ],
+      "doi": "10.1016/j.jad.2026.122647",
+      "summary_en": "Retrospective cohort study (n=80) examining suicidality in treatment-resistant depression patients receiving intranasal (es)ketamine. Suicidality decreased modestly overall, with similar rates of worsening (7.4%) and improvement (6.5%) on MADRS. Sustained elevation occurred in 15% on MADRS, 7.5% on BDI-II. Higher baseline suicidality predicted later worsening. Results suggest intranasal (es)ketamine does not substantially increase suicidality risk during treatment.",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "observational",
+      "substances": [
+        "ketamine"
+      ],
+      "added_at": "2026-10-23T11:53:34.702057+00:00"
+    },
+    {
+      "title": "Psilocybin and Inflammatory and Mitochondrial Stress Markers in Parkinson Disease: A Nonrandomized Clinical Trial.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42905733/",
+      "source": "PubMed",
+      "date": "2026-10-21",
+      "authors": [
+        "Bradley Ellen R",
+        "Kelley Parker",
+        "Szigeti Balázs"
+      ],
+      "doi": "10.1001/jamapsychiatry.2026.2733",
+      "summary_en": "Nonrandomized clinical trial examining associations between psilocybin therapy and systemic inflammatory and mitochondrial stress markers in Parkinson disease patients with mood dysfunction. Study investigates potential biological mechanisms underlying therapeutic effects.",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "observational",
+      "substances": [
+        "psilocybin"
+      ],
+      "added_at": "2026-10-23T11:53:34.702057+00:00"
+    },
+    {
+      "title": "Psychedelics and Reward Processing: Before and After the 1970 Controlled Substances Act.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42903363/",
+      "source": "PubMed",
+      "date": "2026-07-24",
+      "authors": [
+        "Company Matthew C",
+        "Lifshitz Dylan J",
+        "Sawaya M Farris"
+      ],
+      "doi": "10.1177/28314425261472614",
+      "summary_en": "Narrative review examining how scientific understanding of psychedelics and reward processing evolved before and after the 1970 Controlled Substances Act. Reviews three reward-related measures: behavioral responses, neural circuit signals, and clinical outcomes in substance use disorder. Identifies two research framings: 'liability framing' (misuse risk) and 'therapeutic framing' (circuit reconfiguration). Shows 1960s research contained both approaches, while CSA era systematized hazard-focused research through the 2000s, with monoamine pharmacology becoming dominant investigative tool.",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "review",
+      "substances": [
+        "psilocybin",
+        "lsd",
+        "ibogaine",
+        "other"
+      ],
+      "added_at": "2026-10-23T11:53:34.702057+00:00"
+    },
+    {
+      "title": "Dorsal Raphe Revisited: A Systems Neuroscience Lens on Psychedelic Drug Action.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42903319/",
+      "source": "PubMed",
+      "date": "2026-04-09",
+      "authors": [
+        "Kwan Alex C"
+      ],
+      "doi": "10.1177/28314425261429232",
+      "summary_en": "Review examining how classical psychedelics act on the dorsal raphe nucleus, the brain's primary serotonin source. Early research focused on this midbrain region coincided with psychedelics' prominence in the 1960s. Systems neuroscience approach provides updated perspective on psychedelic mechanisms of action.",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "review",
+      "substances": [
+        "psilocybin",
+        "lsd",
+        "other"
+      ],
+      "added_at": "2026-10-23T11:53:34.702057+00:00"
+    },
+    {
+      "title": "Correlation of Ketamine and Classic Psychedelics with Pain-Related Neural Connectivity: A Scoping Review of Clinical Experiments on a Potential Therapeutic Target Concerning Ketamine and Classical Psychedelics Administration for Pain Relief.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42903228/",
+      "source": "PubMed",
+      "date": "2026-09-14",
+      "authors": [
+        "Chytas Vasileios",
+        "Tsimploulis Georgios",
+        "Chytas Dimitrios"
+      ],
+      "doi": "10.1177/28314425261489067",
+      "summary_en": "Scoping review of 6 clinical studies examining how ketamine and classical hallucinogens affect pain-related brain connectivity. Four studies involved ketamine, one LSD, one psilocybin. All three substances altered connectivity in brain regions processing cognitive and emotional pain aspects. Ketamine primarily affected large-scale networks (default mode, salience); baseline medial prefrontal cortex-precuneus connectivity may predict treatment response.",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "review",
+      "substances": [
+        "ketamine",
+        "lsd",
+        "psilocybin"
+      ],
+      "added_at": "2026-10-23T11:53:34.702057+00:00"
+    },
+    {
+      "title": "What About Psycholytic Therapy? A Historical Revisiting of Psychedelics Assisting Psychotherapy.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42903216/",
+      "source": "PubMed",
+      "date": "2026-07-22",
+      "authors": [
+        "Zaher Idir",
+        "Richard Jérémie K"
+      ],
+      "doi": "10.1177/28314425261455416",
+      "summary_en": "What About Psycholytic Therapy? A Historical Revisiting of Psychedelics Assisting Psychotherapy.",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "review",
+      "substances": [
+        "lsd",
+        "psilocybin"
+      ],
+      "added_at": "2026-10-23T11:53:34.702057+00:00"
+    },
+    {
+      "title": "Strong Alliance, Weak Conclusions: Comment on Goodwin et al. (2026) \"The Role of Therapeutic Alliance in Psilocybin Treatment for Treatment-Resistant Depression\".",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42903188/",
+      "source": "PubMed",
+      "date": "2026-06-16",
+      "authors": [
+        "Wolff Max",
+        "Kangaslampi Samuli",
+        "Zeifman Richard J"
+      ],
+      "doi": "10.1177/28314425261461057",
+      "summary_en": "Commentary on Goodwin et al.'s study questioning their conclusion that therapeutic alliance lacks meaningful impact on psilocybin treatment for treatment-resistant depression. Authors argue reported results actually support alliance's role in shaping psychedelic experiences and outcomes, highlighting methodological limitations and protocol deviations that obscured relevant effects.",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "other",
+      "substances": [
+        "psilocybin"
+      ],
+      "added_at": "2026-10-23T11:53:34.702057+00:00"
+    },
+    {
       "title": "Poacher Turned Gamekeeper: HHS’ Matt Zorn on Ibogaine, Right to Try and the Psychedelics Executive Order",
       "url": "https://psychedelicalpha.com/news/poacher-turned-gamekeeper-hhs-matt-zorn-on-ibogaine-right-to-try-and-the-psychedelics-executive-order/",
       "source": "Psychedelic Alpha",

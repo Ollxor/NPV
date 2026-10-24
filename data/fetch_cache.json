@@ -1,7 +1,33 @@
 {
-  "date": "2026-10-23",
-  "cached_at": "2026-10-23T10:59:00.497958+00:00",
+  "date": "2026-10-24",
+  "cached_at": "2026-10-24T10:15:52.151277+00:00",
   "articles": [
+    {
+      "title": "Design, reporting, and research focus of neurology and psychiatry drug trials (2020-2023): a registry-based meta-epidemiological study using ClinicalTrials.gov and NLP.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42919398/",
+      "source": "PubMed",
+      "abstract": "Clinical trial registries document trial design, funding, and results reporting, but heterogeneous and unstructured entries limit cross-trial comparison. Consequently, it is unclear how neurology and psychiatry drug trials are designed and reported in practice, hampering comparison of studies, understanding of the available evidence, and planning of future trials. The aim of this study was to quantify trial design features, results reporting practices, and research focus in neurology and psychiatry drug trials using harmonized registry data. This is a registry-based observational study of interventional neurology and psychiatry drug trials registered on ClinicalTrials.gov between 2000 and 2023. Using natural language processing (NLP) with manual validation, we extracted and harmonized trial information on phase, randomization, masking, sample size, funding source, results reporting, and target diseases and drugs. We also performed content-based clustering and visualization to explore patterns across trials by drug and disease category. We analyzed temporal trends and differences across trial characteristics. We included 18,609 trials. Most were early phase, single-center, and small, typically enrolling 11-50 participants; 60% were completed. Industry funded 36% of trials, with a declining share over time and a corresponding increase in university sponsorship. Ten percent of trials were non-randomized and 38% were open label. Among trials completed after 2007, 50% reported results, with a mean delay of 12 months. The most frequently studied conditions were pain (10%), schizophrenia (8%), depression (8%), and Alzheimer's disease (7%). Drug testing was widely distributed, with atypical antipsychotics, levodopa, and ketamine each accounting for 1-2% of trials. Content-based clustering identified disease-specific groupings of trials. Harmonized data are available through an interactive dashboard. Registered neurology and psychiatry drug trials show persistent limitations in design and results reporting despite two decades of registry requirements. Registry-based analyses using computational harmonization can support empirical evaluation of trial practices and inform future trial design and reporting.",
+      "date": "2026-07-28",
+      "authors": [
+        "Doneva Simona Emilova",
+        "Sick Beate",
+        "Ellendorff Tilia R"
+      ],
+      "doi": "10.1186/s13063-026-09909-8"
+    },
+    {
+      "title": "Safety and efficacy of psilocybin-assisted therapy for alcohol use disorder: Open-label extension of a phase II randomized controlled trial.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42913354/",
+      "source": "PubMed",
+      "abstract": "Psilocybin-assisted therapy (PAT) has shown promise for alcohol use disorder (AUD) in randomized controlled trials (RCTs). It remains unknown, however, whether patients derive additional benefit when psilocybin is administered open-label after completion of blinded treatment. Here, we report safety and efficacy outcomes from an open-label extension of a Phase II RCT of PAT for AUD (NCT02061293). Fifty-nine adults with AUD received a single open-label administration of psilocybin (25-40mg/70kg) accompanied by four hours of manualized therapy. During the preceding double-blind phase, 29 of these participants had received psilocybin (psilocybin-psilocybin group; PP) and 30 had received the active placebo diphenhydramine (diphenhydramine-psilocybin group; DP). Mixed-effects models for repeated measures evaluated alcohol consumption (percent heavy drinking days [PHDD], drinks per day [DpD], and percent drinking days [PDD]), alcohol craving, abstinence self-efficacy, and treatment readiness across a four-month follow-up. Psilocybin was well tolerated, and no serious adverse events occurred. Among participants with higher drinking intensity at extension entry, decreases in PHDD, DpD, and PDD were observed at Month 1 but returned to entry levels thereafter. Craving, abstinence self-efficacy, and treatment readiness improved in both PP and DP groups one week after administration, with variable trajectories thereafter. After completion of the double-blind trial, a single open-label psilocybin administration was associated with maintained remission among most participants who entered abstinent and with acute but largely transient reductions among those who were still drinking heavily. Whether the limited durability reflects the lower intensity of extension treatment, the relative treatment resistance of residual drinking, differences in motivation, or other design-related factors cannot be determined from these data. NCT02061293, A Double-Blind Trial of Psilocybin-Assisted Treatment of Alcohol Dependence, https://clinicaltrials.gov/study/NCT02061293.",
+      "date": "2026-10-15",
+      "authors": [
+        "Pagni Broc A",
+        "Ross Stephen",
+        "Mennenga Sarah"
+      ],
+      "doi": "10.1016/j.drugalcdep.2026.113387"
+    },
     {
       "title": "Ketamine Versus Electroconvulsive Therapy for Nonpsychotic Treatment-Resistant Depression: A Cost-Effectiveness Analysis.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42908073/",
@@ -232,31 +258,6 @@
       "doi": "10.1176/appi.ajp.20260564"
     },
     {
-      "title": "Low-Dose Buprenorphine Significantly Prolonging the Antisuicidal Effects of Ketamine Infusion in Major Depressive Disorder: Relationship Between Antidepressant and Antisuicidal Effects.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42894301/",
-      "source": "PubMed",
-      "abstract": "",
-      "date": "2026-10-19",
-      "authors": [
-        "Hao Wei",
-        "Tan Luying"
-      ],
-      "doi": "10.1176/appi.ajp.20260656"
-    },
-    {
-      "title": "Low-Dose Buprenorphine Following Ketamine Treatment for Suicidal Ideation in Major Depressive Disorder: Response to Letters.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42894300/",
-      "source": "PubMed",
-      "abstract": "",
-      "date": "2026-10-19",
-      "authors": [
-        "Tucciarone Jason M",
-        "Bandeira Igor D",
-        "Schatzberg Alan F"
-      ],
-      "doi": "10.1176/appi.ajp.20260834"
-    },
-    {
       "title": "Before the Approvals Arrive: Norway, Germany, Switzerland, the UK and Estonia at TAIP Conference 2026",
       "url": "https://psychedelicalpha.com/news/before-the-approvals-arrive-norway-germany-switzerland-the-uk-and-estonia-at-taip-conference-2026/",
       "source": "Psychedelic Alpha",
@@ -347,229 +348,11 @@
       "doi": ""
     },
     {
-      "title": "A dose of therapy with psilocybin - A meta-analysis of the relationship between the amount of therapy hours and treatment outcomes in psychedelic-assisted therapy",
-      "url": "http://urn.kb.se/resolve?urn=urn:nbn:se:su:diva-246664",
-      "source": "DiVA",
-      "abstract": "Background: Psilocybin-assisted therapy (PAT) has shown promising effects in treating depressive symptoms, but the role of the therapeutic component remains unclear. While most research has focused on the pharmacological effects of psilocybin, the contribution of therapy has been largely overlooked.ObjectiveThis meta-analysis investigated whether the amount of therapy hours provided is associated with treatment outcomes in psilocybin-assisted therapy for depression.Methods: A systematic search o",
-      "date": "2025-09-09",
-      "authors": [],
-      "doi": ""
-    },
-    {
-      "title": "A double-edged sword : Insights from practitioners on the short and long-term negative effects of psilocybin-assisted psychological interventions",
-      "url": "http://urn.kb.se/resolve?urn=urn:nbn:se:su:diva-233947",
-      "source": "DiVA",
-      "abstract": "Background and aims: Interest in psychedelic research has grown significantly in recent years and the naturally derived substance psilocybin, in combination with therapy, has shown promising results as a treatment for a range of psychiatric conditions. However, the negative effects and risks of psilocybin-assisted treatment are not well-established. The purpose of this study was to investigate the potential negative effects of psilocybin-assisted psychological interventions in both the short and",
-      "date": "2024-10-01",
-      "authors": [],
-      "doi": ""
-    },
-    {
-      "title": "A psilocybin haven : the use of comparison to legitimate transgression at a psychedelic retreat",
-      "url": "http://urn.kb.se/resolve?urn=urn:nbn:se:su:diva-238927",
-      "source": "DiVA",
-      "abstract": "Background: Currently, there are great hopes for psychedelic substances in treating psychiatric conditions and improving well-being. These substances are illegal in many countries, and we lack knowledge of how conflicting discourses shape psychedelic use in naturalistic settings. This study explores how psilocybin use is made meaningful by participants and staff at a retreat including psychedelic ceremonies aimed at personal growth. Methods: Ethnographic fieldwork was conducted at a psychedelic ",
-      "date": "2025-02-06",
-      "authors": [],
-      "doi": ""
-    },
-    {
-      "title": "A Relationally Informed Psychedelic Science : Conceptual framework and empirical studies",
-      "url": "http://urn.kb.se/resolve?urn=urn:nbn:se:su:diva-248522",
-      "source": "DiVA",
-      "abstract": "Recent years have seen a revival of neurobiological, psychiatric, and psychological research into psychedelics (i.e., 5-HT 2A receptor agonists), their effects on sensory perception, mood, and thought, their associated risks, and their therapeutic potential. However, evidence-based explanatory models are still nascent, and there is a need for comprehensive, widely agreed-upon theoretical frameworks to explain the underlying processes and mechanisms of change. This dissertation describes a relati",
-      "date": "2025-11-18",
-      "authors": [],
-      "doi": ""
-    },
-    {
-      "title": "Altered states of leadership : mindfulness meditation, psychedelic use, and leadership development",
-      "url": "http://urn.kb.se/resolve?urn=urn:nbn:se:su:diva-238959",
-      "source": "DiVA",
-      "abstract": "Background: Previous research suggests that mindfulness meditation and psychedelic substances show promise as mental health interventions, but relatively little remains known about their potential impact on leadership outcomes.Aims: This study aimed to investigate if and how mindfulness meditation and psychedelic use may impact leadership among respondents with a management position as their primary role at work.Methods: Using samples representative of the US and UK adult populations with regard",
-      "date": "2025-02-03",
-      "authors": [],
-      "doi": ""
-    },
-    {
-      "title": "Alternativa behandlingsmetoder för behandlingsresistent bipolär depression: en litteraturstudie",
-      "url": "http://urn.kb.se/resolve?urn=urn:nbn:se:lnu:diva-135665",
-      "source": "DiVA",
-      "abstract": "Introduktion: Bipolär sjukdom (BD) är en kronisk psykisk störning med återkommande episoder av mani, hypomani och depression. Sjukdomen delas in i två typer: BD-I och BD-II, där maniska och hypomaniska episoder är centrala. Personer med BD har hög självmordsrisk, och behandlingen består ofta av stämningsstabiliserande medel som litium och valproat samt antidepressiva läkemedel. Patienter med bipolär sjukdom kan utveckla behandlingsresistens. Alternativa behandlingar inkluderar psilocybin, ketami",
-      "date": "2025-01-31",
-      "authors": [],
-      "doi": ""
-    },
-    {
-      "title": "Assessing the risk of symptom worsening in psilocybin-assisted therapy for depression : A systematic review and individual participant data meta-analysis",
-      "url": "http://urn.kb.se/resolve?urn=urn:nbn:se:su:diva-219843",
-      "source": "DiVA",
-      "abstract": "We conducted a meta-analysis using individual participant data from three, two-dose psilocybin trials for depression (N = 102) with the aim of assessing the risk of symptom worsening. Clinically significant symptom worsening occurred for a minority of participants in the psilocybin and escitalopram conditions (∼10%) and for a majority of participants in the waitlist condition (63.6%). Using data from the two trials with control arms, the psilocybin arm showed a lower likelihood of symptom worsen",
-      "date": "2023-08-03",
-      "authors": [],
-      "doi": ""
-    },
-    {
-      "title": "Association between Lifetime Classic Psychedelic Use and Sick Leave in a Population-Based Sample",
-      "url": "http://urn.kb.se/resolve?urn=urn:nbn:se:su:diva-210355",
-      "source": "DiVA",
-      "abstract": "Objectives: Absenteeism from work due to illness, and related costs, has increased steadily during the past decades. In recent years, there has been a reemergence of research on the therapeutic effects of classic psychedelics showing associations with both physical and mental health. However, the association between classic psychedelics and sick leave remains unknown. The aim of this study is to investigate the association between lifetime classic psychedelic use and sick leave in the past 30 da",
-      "date": "2022-10-12",
-      "authors": [],
-      "doi": ""
-    },
-    {
-      "title": "Att möta Gud genom psykedeliska substanser : En innehållsanalytisk rapport av psykedeliska substansers effekt på människors livsåskådning och upplevelser av gudsmöten ur ett religionsvetenskapligt perspektiv",
-      "url": "http://urn.kb.se/resolve?urn=urn:nbn:se:kau:diva-74736",
-      "source": "DiVA",
-      "abstract": "Ändamålet med föreliggande rapport har varit att undersöka åtta personliga skildringar för att ta reda på hur deras livsåskådning ser ut efter att ha brukat psykedeliska substanser, samt undersöka huruvida något möte med Gud eller någon annan ”högre makt”, förekom under rusningstiden. För att besvara ändamålet har rapporten brutits ner till två frågeställningar, där den första hanterar vad som händer med livsåskådningen och det andra gudsmötet. För att besvara frågeställningarna har en kvalitati",
-      "date": "2019-09-18",
-      "authors": [],
-      "doi": ""
-    },
-    {
-      "title": "Att negera verkligheten - En utforskning av ontologisk chock och psykedeliska erfarenheter : En översiktsstudie",
-      "url": "http://urn.kb.se/resolve?urn=urn:nbn:se:kau:diva-99980",
-      "source": "DiVA",
-      "abstract": "Background: Psychedelics are currently undergoing a renaissance both within and outside healthcare contexts. There is general agreement that these substances have potential in healthcare, but the risks are still not fully understood. The concept of ontological shock is used sparingly and unclearly, especially for therapeutic purposes. Therefore, we believe there is a knowledge gap to illuminate, which this paper aims to do. Purpose: The purpose of the study is to explore and understand the pheno",
-      "date": "2024-07-01",
-      "authors": [],
-      "doi": ""
-    },
-    {
-      "title": "Update on Sedation for Upper Gastrointestinal Endoscopy in Japan: Current Evidence on Remimazolam.",
-      "url": "https://doi.org/10.1002/deo2.70402",
-      "source": "Europe PMC",
-      "abstract": "Sedation is an essential component of upper gastrointestinal endoscopy because it reduces patient discomfort and anxiety while improving patient acceptance and procedural quality. In Japan, benzodiazepines such as midazolam and opioid analgesics have long been widely used in routine clinical practice; however, many of these agents historically lacked formal insurance approval for sedation during gastrointestinal endoscopy. Propofol is also a useful sedative because of its rapid onset and recovery, but its use in Japan has been limited because of concerns regarding respiratory and cardiovascular depression and the need for management by anesthesia-trained personnel. Against this background, the approval of remimazolam for sedation during gastrointestinal endoscopy in June 2025 represented a major turning point in Japanese endoscopic sedation practice. Remimazolam is an ultra-short-acting benzodiazepine rapidly metabolized by carboxylesterases and reversible with flumazenil. Japanese phase III trials demonstrated high sedation success rates and rapid recovery during upper gastrointestinal endoscopy, including in elderly patients. Compared with midazolam, remimazolam shortened awakening and ambulation times, whereas compared with propofol, it may cause fewer respiratory and cardiovascular adverse events. This review summarizes the current status of upper gastrointestinal endoscopic sedation in Japan, focusing on the clinical evidence and positioning of the newly approved ultra-short-acting benzodiazepine, remimazolam.",
-      "date": "2026-08-12",
-      "authors": [
-        "Ichijima R",
-        "Toyama M",
-        "Shishido T"
-      ],
-      "doi": "10.1002/deo2.70402"
-    },
-    {
-      "title": "Glis1 regulates metabolic programming by promoting H3K18 lactylation to alleviate neuronal senescence following spinal cord injury.",
-      "url": "https://doi.org/10.1016/j.gendis.2026.102382",
-      "source": "Europe PMC",
-      "abstract": "Neuronal senescence is a significant factor impeding spinal cord injury (SCI) repair. Research indicates that Glis1, a Kruppel-like zinc finger transcription factor, is pivotal in reprogramming senescent cells and enhancing genomic stability via lactylation. Histone lactylation, an epigenetic modification using lactate as a substrate, becomes prominent post-SCI due to increased neuronal lactate levels. However, the mechanisms linking neuronal senescence and histone lactylation following SCI remain poorly understood. This study elucidates the roles of Glis1, H3K18 lactylation, and neuronal senescence through comprehensive <i>in vivo</i> and <i>in vitro</i> investigations. The findings reveal a post-SCI rise in neuronal lactate levels, accompanied by cellular senescence. Furthermore, upregulation of Glis1 attenuates senescence and promotes histone lactylation. The downstream target secretogranin II (SCG2), identified via ChIP-seq and RNA-seq, was found to exert negative feedback on glycolytic metabolism and lactylation, thereby suppressing neuronal senescence. These results unveil a novel regulatory mechanism of Glis1 in neuronal senescence following SCI through the p300/H3K18la/SCG2 axis, offering a new therapeutic target for spinal cord repair.",
-      "date": "2026-07-23",
-      "authors": [
-        "Li D",
-        "Lu X",
-        "Gong Z"
-      ],
-      "doi": "10.1016/j.gendis.2026.102382"
-    },
-    {
-      "title": "A bioactivity-enhanced thermosensitive amnion-derived hydrogel with sustained IGF-1 release: A multitargeted and efficient strategy for corneal injury repair.",
-      "url": "https://doi.org/10.1016/j.bioactmat.2026.09.003",
-      "source": "Europe PMC",
-      "abstract": "Corneal alkali burn (CAB) remains difficult to treat because rapid tear clearance limits topical drug exposure, while the injured cornea develops a complex microenvironment involving inflammation, neovascularization, fibrosis, epithelial barrier loss, and impaired nerve repair. Here, we developed a human amniotic membrane-derived thermosensitive hydrogel (hAMgel) and loaded it with insulin-like growth factor-1 (IGF-1) to create a bioactive sustained-release system (IGF1@hAMgel) for CAB repair. The hAMgel transformed from a flowable precursor into a semi-transparent film on the ocular surface within 1-2 min and IGF1@hAMgel released approximately 90% of loaded IGF-1 over 24 h, with corneal IGF-1 concentration peaking at 2 h post-dose (378.5 pg/mg protein) and remaining detectable over 24 h, supporting sustained topical exposure. In a rat CAB model, IGF1@hAMgel accelerated epithelial healing, reducing the fluorescein-stained area from 31.34 ± 2.83% in controls to 16.78 ± 2.87% at day 1. By day 14, IGF1@hAMgel reduced corneal opacity (0.67 ± 0.52 vs. 4.00 ± 0.00), resolved edema with central corneal thickness approaching baseline (187.7 ± 16.31 μm vs. 178.3 ± 5.89 μm), suppressed neovascularization (CD31-positive area 4.46 ± 1.69% vs. 24.33 ± 2.07%), and promoted corneal nerve regeneration. Proteomic analysis showed that hAMgel retained abundant extracellular matrix(ECM) components, including collagens, Lumican, and fibronectin, together with repair-related and immunomodulatory proteins. These findings identify IGF1@hAMgel as a sutureless, eye-drop-like bioactive ECM platform that integrates growth-factor delivery with amnion-derived reparative cues for multitargeted ocular surface repair.",
-      "date": "2026-09-16",
-      "authors": [
-        "Xie M",
-        "Li A",
-        "Sun X"
-      ],
-      "doi": "10.1016/j.bioactmat.2026.09.003"
-    },
-    {
-      "title": "A self-crosslinkable, adhesive intestine-derived extracellular matrix hydrogel enhances organoid retention and restores intestinal barrier integrity.",
-      "url": "https://doi.org/10.1016/j.bioactmat.2026.09.006",
-      "source": "Europe PMC",
-      "abstract": "Disruption of the intestinal barrier impairs essential functions of the gastrointestinal tract and triggers severe inflammation. Accordingly, transplantation of intestinal organoids restores the integrity of the injured intestinal barrier by promoting regeneration. However, the dynamic mucosal microenvironment of the intestine hinders effective retention of transplanted organoids, thereby limiting their therapeutic efficacy. To address this challenge, this study introduces a pyrogallol (PG)-conjugated intestine-derived extracellular matrix (IEM) (IEM-PG) as a scaffold for effective organoid transplantation. The dual crosslinking of IEM-based fibrillogenesis and oxidative PG coupling enabled IEM-PG to form a robust hydrogel scaffold without crosslinking agents under physiological conditions. Moreover, the IEM-PG hydrogel exhibited enhanced mechanical properties, superior bio-adhesion, and greater resistance to enzymatic degradation than the pristine IEM. The IEM-PG hydrogel was also highly biocompatible and did not adversely affect the viability and development of colonic organoids. The solution-type IEM-PG was readily injected into colonic tissue, thus allowing IEM-PG to initially spread along the intestinal lining. Transplantation of colonic organoids using IEM-PG in a mouse colonic ulcer model demonstrated effective cell retention in the intestinal tract, thereby restoring the structural integrity and function of the intestinal barrier. The study further demonstrated that the patch-type IEM-PG hydrogel was effective for the transplantation of colonic assembloids and the treatment of colonic perforation. Overall, this study presents the IEM engineered with an adhesive motif as a self-crosslinking hydrogel platform for organoid/assembloid transplantation and intestinal tissue repair.",
-      "date": "2026-09-15",
-      "authors": [
-        "Kim YS",
-        "Han SY",
-        "An S"
-      ],
-      "doi": "10.1016/j.bioactmat.2026.09.006"
-    },
-    {
-      "title": "Barcoded oligonucleotide system (BOLT) for targeted organ delivery.",
-      "url": "https://doi.org/10.1016/j.bioactmat.2026.08.058",
-      "source": "Europe PMC",
-      "abstract": "The therapeutic potential of oligonucleotides (oligos) is limited by insufficient delivery to extrahepatic tissues. In vitro assays often fail to accurately predict in vivo behavior, while testing each oligo candidate in animals remains inherently low throughput. Here, we conceive a barcoded oligonucleotide system (BOLT), a platform that enables high-throughput in vivo evaluations of small-molecule ligands and identifies tissue-specific oligo delivery. BOLT integrates rational design of oligo barcodes, modular conjugation chemistry, and next-generation sequencing (NGS)-based quantification, allowing simultaneous evaluation of many chemically diverse ligand-oligo conjugates within a single animal. Notably, this platform is applicable in both mice and nonhuman primates (NHPs). Using BOLT, we discovered ligands with tropism for tissues such as the brain, lung, and muscle. Collectively, these results indicate that the BOLT platform can accelerate the discovery of tissue-targeting ligands for broad oligo therapeutics.",
-      "date": "2026-09-03",
-      "authors": [
-        "Hou X",
-        "Yu C",
-        "Xue Y"
-      ],
-      "doi": "10.1016/j.bioactmat.2026.08.058"
-    },
-    {
-      "title": "Ultrasound-activated piezoelectric muscle constructs for tissue-engineered regenerative peripheral nerve interfaces.",
-      "url": "https://doi.org/10.1016/j.bioactmat.2026.08.053",
-      "source": "Europe PMC",
-      "abstract": "Regenerative peripheral nerve interfaces (RPNIs) are emerging platforms capable to translate neural activity into controllable myoelectric signals. However, current clinical RPNIs rely on muscle autografts, limiting their scalability and extensive adoption. Here, we report a bioactive, ultrasound-responsive piezoelectric muscle biomaterial designed as a fully tissue-engineered alternative to autologous grafts. The construct consists of fibrinogen-based muscle tissues enriched with barium titanate nanoparticles (BTNPs, diameter∼60 nm) and supported by a biodegradable surgical membrane that promotes the formation of aligned, multinucleated myotubes. The incorporation of BTNPs imparts intrinsic piezoelectric activity to the construct, and the nanoparticles are taken up by developing myotubes, enabling remote mechanoelectrical tissue stimulation under low-intensity pulsed ultrasound (LIPUS). In vivo, piezoelectric constructs implanted around the rat peroneal nerve for two months undergo LIPUS-driven activation of internalized BTNPs, which enhances muscle maturation, and electromechanical responsiveness, yielding myoelectrical signals up to 3.2 mV upon nerve activation. Histological analyses confirm improved structural organization, increased desmin expression, and evidence of neovascularization and axonal regeneration within the engineered interface. These findings suggest that the piezoelectric constructs form stable, functional biointerfaces with peripheral nerves, and that LIPUS-driven activation of embedded BTNPs provides a non-invasive strategy to potentiate muscle development and signal transduction. This study positions LIPUS-responsive, engineered piezoelectric muscle constructs as a donor-free, bioactive platform alternative to traditional autografts for next-generation human-machine interfaces and regenerative bioelectronics.",
-      "date": "2026-09-01",
-      "authors": [
-        "Vannozzi L",
-        "Redondo J",
-        "Trucco D"
-      ],
-      "doi": "10.1016/j.bioactmat.2026.08.053"
-    },
-    {
-      "title": "Human-Derived Motor Neuron Progenitor Cell Implantation Rescues Motor Endplates Following Peripheral Nerve Injury.",
-      "url": "https://doi.org/10.1016/j.jhsg.2026.101161",
-      "source": "Europe PMC",
-      "abstract": "<h4>Purpose</h4>Degradation of motor endplates (MEPs) following peripheral nerve injury (PNI) is a major determinant of functional recovery, as prolonged denervation renders target muscles progressively unreceptive to reinnervation. While prior studies have demonstrated that stem cell-based therapies may provide neurotrophic support following PNI, their potential effects on MEP preservation have not been well studied. We hypothesized that transplantation of human-induced pluripotent stem cell (hiPSC)-derived motor neuron progenitors (MNPs) into chronically denervated muscle would be associated with preservation of MEP architecture.<h4>Methods</h4>With Institutional Animal Care and Use Committee approval, chronic denervation injuries were created in mice via sciatic nerve transection. After 4 months of denervation, when MEPs have consistently degraded in this animal model, the denervated tibialis anterior (TA) was injected with low-dose MNPs (10,000 cells), high-dose MNPs (500,000 cells), or phosphate-buffered saline (negative control). Using a previously established method, hiPSCs were differentiated into functional MNPs prior to injection. At selected time points post-injection, the TA was harvested and immunostained to confirm MNP viability and detect the presence of MEPs.<h4>Results</h4>Transplanted MNPs remained viable within host muscle at both evaluated time points. No identifiable MEPs were detected in phosphate-buffered saline-treated chronically denervated muscle. In contrast, MNP-treated muscles demonstrated the presence of MEP-like structures following prolonged denervation. Qualitative differences in MEP density and morphologic complexity were observed between treatment groups, with greater preservation seen in the higher-dose cohort. Contralateral uninjured muscles demonstrated intact native MEP architecture.<h4>Conclusions</h4>Intramuscular transplantation of hiPSC-derived MNPs into chronically denervated muscle was associated with preservation of MEP morphology in this preclinical proof-of-concept model. These preliminary findings suggest that cellular therapies may represent a potential adjunctive strategy to preserve end-organ receptivity following delayed peripheral nerve injury.<h4>Type of study/level of evidence</h4>Preclinical controlled animal study, Level V.",
-      "date": "2026-10-12",
-      "authors": [
-        "Gonzales LP",
-        "Lee C",
-        "Gupta AT"
-      ],
-      "doi": "10.1016/j.jhsg.2026.101161"
-    },
-    {
-      "title": "From data to wisdom: A new era of scientific inquiry.",
-      "url": "https://doi.org/10.26508/lsa.202603865",
-      "source": "Europe PMC",
-      "abstract": "Rapid advances in high-throughput technologies and computational tools have ushered in a transformative era for scientific discovery. However, the acceleration of data generation has outpaced our conceptual frameworks for interpreting it. By examining current challenges in drug discovery, phenotypic screening, and model transferability, I argue that the future of scientific integrity depends on our ability to balance technical proficiency with the classical principles of hypothesis negation. Because the scientists who interpret data are themselves prone to bias and error, these safeguards must apply to human judgment as rigorously as to computational tools. I also confront a central tension: the mechanistic understanding I advocate may not scale to systems of cellular complexity. Finally, I propose a collaborative training approach that sustains both experimental excellence and theoretical depth. Each challenge maps onto the Data-Information-Knowledge-Wisdom (DIKW) hierarchy: failures at the D→I transition (underdetermined models), at I→K (undefined null hypotheses and black-box modeling), at K→W (non-transferable animal models and cross-domain blindness), or in the collapse of the entire chain when paradigm inertia forecloses the revision that wisdom demands.",
-      "date": "2026-10-19",
-      "authors": [
-        "Dokholyan NV."
-      ],
-      "doi": "10.26508/lsa.202603865"
-    },
-    {
-      "title": "Feasibility and tolerability of virtual reality during esketamine treatment: A pilot study.",
-      "url": "https://doi.org/10.1016/j.jad.2026.122554",
-      "source": "Europe PMC",
-      "abstract": "<h4>Objective</h4>Ketamine/esketamine produce rapid antidepressant effects, with growing interest in how acute subjective experiences and the surrounding set and setting shape clinical outcomes. Little is known about how audiovisual adjustments during ketamine/esketamine treatment influence comfort, tolerability, or patient experience, despite their common use in clinical practice. Virtual reality (VR) is one immersive approach being explored in this context. This study examines the feasibility and tolerability of integrating VR into maintenance ketamine/esketamine sessions.<h4>Methods</h4>Study 1 surveyed patients receiving ketamine/esketamine regarding their dissociative experience and openness to integrating virtual reality into treatment. In study 2, patients receiving esketamine integrated VR into clinical treatment. Participants were trained in the use of a VR headset and completed one esketamine session with VR. The primary objective was to assess safety, tolerability, and feasibility.<h4>Results</h4>Participants from Study 1 highlighted auditory (33%, 7/21) and visual (52%, 11/21) discomfort as common challenges during ketamine treatment; the majority (71%, 15/21) expressed openness to integrating VR into clinical treatment. In Study 2, five patients integrated VR into a single treatment session, with one using it throughout the session. Participants who wore glasses had difficulty integrating VR and reported nausea. All participants showed decreased altered experience as measured by the 5-Dimensional Altered States of Consciousness scale.<h4>Conclusions/relevance</h4>This pilot study examines factors affecting the feasibility and tolerability of VR during ketamine treatment and highlights considerations for future research. The observed reduction in 5D-ASC scores raises questions about whether VR dampens dissociative intensity, with potential clinical implications warranting further exploration.",
-      "date": "2026-09-23",
-      "authors": [
-        "Curran E",
-        "Kumpf KT",
-        "Ansari M"
-      ],
-      "doi": "10.1016/j.jad.2026.122554"
-    },
-    {
-      "title": "Experimental evidence for the beneficial effects of low-concentration ozone.",
-      "url": "https://doi.org/10.4103/mgr.medgasres-d-25-00198",
-      "source": "Europe PMC",
-      "abstract": "Ozone (O3), a molecule consisting of three oxygen atoms, is an unstable compound whose clinical application as a complementary therapy continues to expand. Although numerous clinical studies support its therapeutic potential, the molecular basis of its effects has remained poorly understood. This review summarizes the current knowledge on the cellular and molecular mechanisms activated by low-concentration O3. Central to its action is the induction of mild oxidative stress by low concentrations of O3, which triggers an antioxidant response mediated through nuclear factor erythroid 2-related factor 2, enhancing cell survival. Additionally, low-concentration O3 exhibits antiinflammatory properties by modulating cytokine expression, inhibiting metalloproteinases, and activating macrophages. The regenerative potential of low-concentration O3 may be attributed to the stimulation of fibroblasts, chondrocytes, and osteoblasts. Moreover, the antitumor effects of low-concentration O3 in cancer cell lines and animal models appear to be linked to the inhibition of cell proliferation and migration, as well as proapoptotic activity. More research is needed to determine the best treatment methods, long-term effectiveness, and standardized clinical procedures for ozone therapy in specific diseases. This review provides a detailed reference for understanding how O3 therapy works.",
-      "date": "2026-09-12",
-      "authors": [
-        "Carton F",
-        "Pellicciari C",
-        "Tabaracci G"
-      ],
-      "doi": "10.4103/mgr.medgasres-d-25-00198"
-    },
-    {
       "title": "CZ",
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2018-004480-31/CZ",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-10-23",
+      "date": "2026-10-24",
       "authors": [],
       "doi": ""
     },
@@ -578,7 +361,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2020-005037-32/CZ",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-10-23",
+      "date": "2026-10-24",
       "authors": [],
       "doi": ""
     },
@@ -587,7 +370,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2021-002909-10/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-10-23",
+      "date": "2026-10-24",
       "authors": [],
       "doi": ""
     },
@@ -596,7 +379,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2015-000550-37/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-10-23",
+      "date": "2026-10-24",
       "authors": [],
       "doi": ""
     },
@@ -605,7 +388,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2021-000041-40/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-10-23",
+      "date": "2026-10-24",
       "authors": [],
       "doi": ""
     },
@@ -614,7 +397,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2020-000829-55/DK",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-10-23",
+      "date": "2026-10-24",
       "authors": [],
       "doi": ""
     },
@@ -623,7 +406,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2020-002790-94/SE",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-10-23",
+      "date": "2026-10-24",
       "authors": [],
       "doi": ""
     },
@@ -632,7 +415,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2021-006200-33/FI",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-10-23",
+      "date": "2026-10-24",
       "authors": [],
       "doi": ""
     },
@@ -641,7 +424,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2019-004812-73/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-10-23",
+      "date": "2026-10-24",
       "authors": [],
       "doi": ""
     },
@@ -650,7 +433,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2022-002369-14/BE",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-10-23",
+      "date": "2026-10-24",
       "authors": [],
       "doi": ""
     },

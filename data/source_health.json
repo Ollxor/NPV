@@ -3,13 +3,13 @@
     "PubMed": {
       "error_streak": 0,
       "zero_streak": 0,
-      "last_ok": "2026-10-23",
+      "last_ok": "2026-10-24",
       "alerted": false,
       "last_error": ""
     },
     "Semantic Scholar": {
       "error_streak": 0,
-      "zero_streak": 112,
+      "zero_streak": 113,
       "last_ok": "",
       "alerted": false,
       "last_error": ""
@@ -17,38 +17,38 @@
     "Psychedelic Alpha": {
       "error_streak": 0,
       "zero_streak": 0,
-      "last_ok": "2026-10-23",
+      "last_ok": "2026-10-24",
       "alerted": false,
       "last_error": ""
     },
     "DiVA": {
-      "error_streak": 0,
-      "zero_streak": 0,
+      "error_streak": 1,
+      "zero_streak": 1,
       "last_ok": "2026-10-23",
       "alerted": false,
-      "last_error": ""
+      "last_error": "HTTPSConnectionPool(host='www.diva-portal.org', port=443): Read timed out. (read timeout=20)"
     },
     "Europe PMC": {
-      "error_streak": 0,
-      "zero_streak": 0,
+      "error_streak": 1,
+      "zero_streak": 1,
       "last_ok": "2026-10-23",
       "alerted": false,
-      "last_error": ""
+      "last_error": "503 Server Error:  for url: https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=psilocybin+OR+psychedelic+OR+MDMA+OR+ayahuasca+OR+ketamine&resultType=core&pageSize=10&format=json&sort=P_PDATE_D%20desc"
     },
     "EU Clinical Trials Register": {
       "error_streak": 0,
       "zero_streak": 0,
-      "last_ok": "2026-10-23",
+      "last_ok": "2026-10-24",
       "alerted": false,
       "last_error": ""
     },
     "OpenAIRE": {
       "error_streak": 0,
       "zero_streak": 0,
-      "last_ok": "2026-10-23",
+      "last_ok": "2026-10-24",
       "alerted": false,
       "last_error": ""
     }
   },
-  "last_updated": "2026-10-23T10:59:00.497658+00:00"
+  "last_updated": "2026-10-24T10:15:52.150835+00:00"
 }

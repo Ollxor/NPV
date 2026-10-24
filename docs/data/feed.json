@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T11:55:39.562426+00:00",
+  "generated_at": "2026-10-24T11:22:18.764807+00:00",
   "items": [
     {
       "title": "Ketamine Versus Electroconvulsive Therapy for Nonpsychotic Treatment-Resistant Depression: A Cost-Effectiveness Analysis.",
@@ -430,6 +430,37 @@
         "psilocybin"
       ],
       "added_at": "2026-10-17T11:01:23.206355+00:00"
+    },
+    {
+      "title": "Safety and efficacy of psilocybin-assisted therapy for alcohol use disorder: Open-label extension of a phase II randomized controlled trial.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42913354/",
+      "source": "PubMed",
+      "date": "2026-10-15",
+      "authors": [
+        "Pagni Broc A",
+        "Ross Stephen",
+        "Mennenga Sarah"
+      ],
+      "doi": "10.1016/j.drugalcdep.2026.113387",
+      "summaries": {
+        "en": "Safety and efficacy of psilocybin-assisted therapy for alcohol use disorder: Open-label extension of a phase II randomized controlled trial.",
+        "sv": "Safety and efficacy of psilocybin-assisted therapy for alcohol use disorder: Open-label extension of a phase II randomized controlled trial.",
+        "no": "Safety and efficacy of psilocybin-assisted therapy for alcohol use disorder: Open-label extension of a phase II randomized controlled trial.",
+        "da": "Safety and efficacy of psilocybin-assisted therapy for alcohol use disorder: Open-label extension of a phase II randomized controlled trial.",
+        "fi": "Safety and efficacy of psilocybin-assisted therapy for alcohol use disorder: Open-label extension of a phase II randomized controlled trial.",
+        "is": "Safety and efficacy of psilocybin-assisted therapy for alcohol use disorder: Open-label extension of a phase II randomized controlled trial.",
+        "et": "Safety and efficacy of psilocybin-assisted therapy for alcohol use disorder: Open-label extension of a phase II randomized controlled trial.",
+        "lv": "Safety and efficacy of psilocybin-assisted therapy for alcohol use disorder: Open-label extension of a phase II randomized controlled trial.",
+        "lt": "Safety and efficacy of psilocybin-assisted therapy for alcohol use disorder: Open-label extension of a phase II randomized controlled trial."
+      },
+      "notable": false,
+      "notable_reasons": null,
+      "relevance_score": 4,
+      "study_type": "rct",
+      "substances": [
+        "psilocybin"
+      ],
+      "added_at": "2026-10-24T11:21:56.749293+00:00"
     },
     {
       "title": "Aspirational Autonomy and Psychedelic-Assisted Therapy in Advanced Cancer: Ethical Lessons from Clinical Cases.",
@@ -1998,37 +2029,6 @@
         "ketamine"
       ],
       "added_at": "2026-10-20T11:54:54.617576+00:00"
-    },
-    {
-      "title": "Real-World Therapeutic Use of Ketamine in Clinical and Non-Clinical Settings: A Cross-Sectional Survey.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42776060/",
-      "source": "PubMed",
-      "date": "2026-09-23",
-      "authors": [
-        "Syed Omer A",
-        "Petranker Rotem",
-        "Nestor Sean M"
-      ],
-      "doi": "10.1080/02791072.2026.2730550",
-      "summaries": {
-        "en": "Cross-sectional survey comparing ketamine use in clinical vs. non-clinical settings using 2023 Global Psychedelic Survey data. Study examines demographic characteristics, clinical profiles, self-reported effectiveness, and hallucination side effects between medically supervised and unsupervised ketamine users treating mood disorders.",
-        "sv": "Tvärsnittsstudie som jämför ketaminanvändning i kliniska kontra icke-kliniska miljöer med data från Global Psychedelic Survey 2023. Studien undersöker demografiska egenskaper, kliniska profiler, självrappporterad effektivitet och hallucinogena biverkningar mellan medicinsk övervakad och övervaknig ketaminanvändning för stämningsrubbningar.",
-        "no": "Tverrsnittsstudie som sammenligner ketaminbruk i kliniske versus ikke-kliniske omgivelser ved hjelp av Global Psychedelic Survey 2023. Studien undersøker demografiske karakteristikker, kliniske profiler, selvrapportert effektivitet og hallusinogene bivirkninger mellom medisinsk overvåket og ikke-overvåket ketaminbruk for stemmingslidelser.",
-        "da": "Tværsnitsundersøgelse, der sammenligner ketaminbrug i kliniske versus ikke-kliniske omgivelser ved hjælp af Global Psychedelic Survey 2023. Studien undersøger demografiske karakteristika, kliniske profiler, selvrapporteret effektivitet og hallucinogene bivirkninger mellem medicinsk overvåget og ikke-overvåget ketaminbrug til stemningsforstyrrelser.",
-        "fi": "Poikkileikkaustutkimus, joka vertaa ketamiinin käyttöä kliinisissa ja ei-kliinisissä ympäristöissä Global Psychedelic Survey 2023 -aineistolla. Tutkimus tarkastelee demografisia ominaisuuksia, klinisia profiileja, itseraportoitua tehokkuutta ja hallusinaatiosidonnaiset haittavaikutukset lääketieteellisesti valvotussa ja valvomattomassa ketamiinin käytössä mielialahäiriöiden hoitoon.",
-        "is": "Þversniðsrannsókn sem ber saman notkun ketamíns í klínískum og ekki-klínískum aðstæðum með gögnum frá Global Psychedelic Survey 2023. Rannsóknin skoðar lýðfræðileg einkenni, klínísk prófíl, sjálfskýrða verkun og hállusynata aukaverkanir meðal þeirra sem nota ketamín með og án lækniseftirlits fyrir sveiflur í skap.",
-        "et": "Ristlõikeline uurimus, mis võrdleb ketamiini kasutamist kliinilistes ja mittekliinilistes keskkondades Global Psychedelic Survey 2023 andmete alusel. Uurimus uurib demograafilisi tunnuseid, kliinilisi profiile, enesepalju teadlikult märgitud tõhusust ja hallutsinatsioone puudutavaid kõrvaltoimeid arsti järelevalve all ja ilma ravimi kasutamisel meeleolu häirete raviks.",
-        "lv": "Šķērsgriezuma pētījums, kas salīdzina ketamīna lietošanu klīniskos un neklīniskos apstākļos, izmantojot Global Psychedelic Survey 2023 datus. Pētījums pēta demogrāfiskās īpašības, klīniskos profilus, pašu ziņoto efektivitāti un halucināciju izraisītās blakusparādības starp ketamīna lietotājiem ar un bez medicīniskā uzraudzības garastāvokļa traucējumu ārstēšanai.",
-        "lt": "Skerspjūvio tyrimas, kuriame lyginamos psichodelikai ketamino naudojimas klinikinėse ir neklinikinėse aplinkose, naudojant Global Psychedelic Survey 2023 duomenis. Tyrimas nagrinėja demografines charakteristikas, klinikinius profilius, savarankiškai pranešamą veiksmingumą ir halucinacijas susijusius šalutinius efektus tarp ketamino vartotojų su ir be medicininės priežiūros nuotaikos sutrikdymams gydyti."
-      },
-      "notable": false,
-      "notable_reasons": null,
-      "relevance_score": 4,
-      "study_type": "observational",
-      "substances": [
-        "ketamine"
-      ],
-      "added_at": "2026-09-24T12:02:14.493884+00:00"
     }
   ]
 }

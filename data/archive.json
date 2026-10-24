@@ -1,6 +1,26 @@
 {
   "items": [
     {
+      "title": "Safety and efficacy of psilocybin-assisted therapy for alcohol use disorder: Open-label extension of a phase II randomized controlled trial.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42913354/",
+      "source": "PubMed",
+      "date": "2026-10-15",
+      "authors": [
+        "Pagni Broc A",
+        "Ross Stephen",
+        "Mennenga Sarah"
+      ],
+      "doi": "10.1016/j.drugalcdep.2026.113387",
+      "summary_en": "Safety and efficacy of psilocybin-assisted therapy for alcohol use disorder: Open-label extension of a phase II randomized controlled trial.",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "rct",
+      "substances": [
+        "psilocybin"
+      ],
+      "added_at": "2026-10-24T11:21:56.749293+00:00"
+    },
+    {
       "title": "Ketamine Versus Electroconvulsive Therapy for Nonpsychotic Treatment-Resistant Depression: A Cost-Effectiveness Analysis.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42908073/",
       "source": "PubMed",

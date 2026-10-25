@@ -1,6 +1,46 @@
 {
   "items": [
     {
+      "title": "Preparing the body for psilocybin therapy: receptive and generative interoception in cancer patients.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42922907/",
+      "source": "PubMed",
+      "date": "2026-10-08",
+      "authors": [
+        "Back Anthony L",
+        "Price Cynthia J",
+        "McGregor Bonnie A"
+      ],
+      "doi": "10.3389/fpsyt.2026.1890966",
+      "summary_en": "Study proposes somatic preparation framework for psilocybin-assisted therapy in cancer patients. Researchers distinguish interoception (bodily perception) from interoceptive engagement (linking perception to posture and affect), arguing current protocols neglect direct body work. They present a six-category taxonomy of somatic experiences during psilocybin therapy and map receptive and generative practices to enhance body awareness, grounded in predictive-coding neuroscience.",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "other",
+      "substances": [
+        "psilocybin"
+      ],
+      "added_at": "2026-10-25T11:52:55.575878+00:00"
+    },
+    {
+      "title": "Bridging Suicidal Crisis to Outpatient Care: Could Ketamine Plus Buprenorphine Shift the Paradigm?",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42925111/",
+      "source": "PubMed",
+      "date": "2026-10-19",
+      "authors": [
+        "Maguire Lindsay A",
+        "Jha Manish K",
+        "Murphy Nicholas"
+      ],
+      "doi": "10.4088/JCP.26ac16639",
+      "summary_en": "This article explores whether combining ketamine with buprenorphine could improve transitions from acute suicidal crises to outpatient treatment. The review examines potential synergistic effects of these pharmacological interventions in crisis management and ongoing care continuity.",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "other",
+      "substances": [
+        "ketamine"
+      ],
+      "added_at": "2026-10-25T11:52:55.575878+00:00"
+    },
+    {
       "title": "Safety and efficacy of psilocybin-assisted therapy for alcohol use disorder: Open-label extension of a phase II randomized controlled trial.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42913354/",
       "source": "PubMed",

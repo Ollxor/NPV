@@ -1,6 +1,102 @@
 {
   "items": [
     {
+      "title": "Single Intranasal Administration of the Psychedelic Mebufotenin for Treatment-Resistant Depression: A Randomized Clinical Trial.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42931733/",
+      "source": "PubMed",
+      "date": "2026-10-26",
+      "authors": [
+        "Feifel David",
+        "Seynaeve Mathieu",
+        "Cubala Wieslaw Jerzy"
+      ],
+      "doi": "10.1001/jama.2026.18380",
+      "summary_en": "Phase 2b randomized trial (n=193) evaluated single intranasal mebufotenin doses (8mg, 12mg, or 0.3mg control) for treatment-resistant depression across 38 sites. Primary endpoint: MADRS score change at day 29 in 12mg vs control groups. The 5-HT1A/2A agonist offers shorter psychedelic experiences than psilocybin/LSD, potentially reducing monitoring burdens. Eight-week blinded follow-up completed April 2025.",
+      "notable": true,
+      "notable_reason": "Phase 2b pivotal trial of first-in-human intranasal psychedelic route of administration for TRD, multicenter (38 sites across US, Europe, Australia), n=193, recently completed (April 2025).",
+      "study_type": "rct",
+      "substances": [
+        "other"
+      ],
+      "added_at": "2026-10-27T12:30:53.417560+00:00"
+    },
+    {
+      "title": "Low-dose ketamine modulates brain entropy in treatment-resistant depression: Results from two neuroimaging clinical trials.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42933579/",
+      "source": "PubMed",
+      "date": "2026-10-26",
+      "authors": [
+        "Liou Ying-Jay",
+        "Cheng Li-Kai",
+        "Lin Wei-Chen"
+      ],
+      "doi": "10.1016/j.jad.2026.122673",
+      "summary_en": "Two randomized controlled trials examined how low-dose ketamine affects brain entropy in treatment-resistant depression. Patients received single infusions of ketamine (0.2–0.5 mg/kg) or control agents. Resting-state fMRI at baseline and day 3 showed ketamine increased entropy in frontolimbic, cerebellar, and neuromodulatory brain regions including the gyrus rectus, amygdala, and locus coeruleus. These rapid changes may underlie ketamine's antidepressant effects.",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "rct",
+      "substances": [
+        "ketamine"
+      ],
+      "added_at": "2026-10-27T12:30:53.417560+00:00"
+    },
+    {
+      "title": "Sex-related differences in outcomes following psilocybin or escitalopram: a Bayesian secondary analysis.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42931904/",
+      "source": "PubMed",
+      "date": "2026-10-26",
+      "authors": [
+        "Frick Aline",
+        "Blest-Hopley Grace",
+        "Girn Manesh"
+      ],
+      "doi": "10.1007/s00213-026-07177-7",
+      "summary_en": "Secondary Bayesian analysis of a double-blind RCT (N=59) comparing psilocybin and escitalopram for major depression found limited sex differences. Females receiving psilocybin showed lower anxiety than males, though this varied across statistical priors. No significant sex differences emerged in depression or anhedonia outcomes. Results suggest comparable efficacy across sexes for both treatments.",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "rct",
+      "substances": [
+        "psilocybin"
+      ],
+      "added_at": "2026-10-27T12:30:53.417560+00:00"
+    },
+    {
+      "title": "Peripheral Biomarkers of Response to Ketamine and Esketamine Treatment in Unipolar Depressive Disorder-A Scoping Review.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42930763/",
+      "source": "PubMed",
+      "date": "2026-09-23",
+      "authors": [
+        "Metelska Aleksandra",
+        "Ziemichód Wojciech",
+        "Karakuła-Juchnowicz Hanna"
+      ],
+      "doi": "10.3390/jpm16100488",
+      "summary_en": "A scoping review examining peripheral biomarkers that could predict treatment response to ketamine and esketamine in unipolar depression. The review synthesizes existing evidence on measurable biological indicators from blood or other accessible sources that may help identify which patients benefit from these treatments.",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "review",
+      "substances": [
+        "ketamine"
+      ],
+      "added_at": "2026-10-27T12:30:53.417560+00:00"
+    },
+    {
+      "title": "Mostly Supportive, Somewhat Divided: Stakeholders Respond to FDA’s Psychedelics Docket",
+      "url": "https://psychedelicalpha.com/news/mostly-supportive-somewhat-divided-stakeholders-respond-to-fdas-psychedelics-docket/",
+      "source": "Psychedelic Alpha",
+      "date": "2026-10-26",
+      "authors": [],
+      "doi": "",
+      "summary_en": "The FDA held a public hearing in July on hallucinogens and opened a docket for stakeholder comments through October 5th. Analysis of submitted comments reveals mostly supportive views toward psychedelic research and development, though with notable divisions among stakeholders regarding regulatory pathways and implementation details.",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "other",
+      "substances": [
+        "other"
+      ],
+      "added_at": "2026-10-27T12:30:53.417560+00:00"
+    },
+    {
       "title": "Preparing the body for psilocybin therapy: receptive and generative interoception in cancer patients.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42922907/",
       "source": "PubMed",

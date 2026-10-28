@@ -1,7 +1,43 @@
 {
-  "date": "2026-10-27",
-  "cached_at": "2026-10-27T11:34:51.871547+00:00",
+  "date": "2026-10-28",
+  "cached_at": "2026-10-28T12:05:32.530834+00:00",
   "articles": [
+    {
+      "title": "Psychedelics in Psychiatry: A Wakeup Call for Clinicians in the Age of Policy Reform.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42945450/",
+      "source": "PubMed",
+      "abstract": "",
+      "date": "2026-10-20",
+      "authors": [
+        "Garg Shobit",
+        "Pattojoshi Amrit"
+      ],
+      "doi": "10.4088/PCC.26lr04256"
+    },
+    {
+      "title": "Quality of Life in Patients with Treatment-Resistant Depression Treated with Intranasal Esketamine as Add-On Therapy to an SSRI-A Prospective, Comparative Study in Real-World Clinical Practice.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42943341/",
+      "source": "PubMed",
+      "abstract": "Treatment-resistant depression (TRD) remains one of the most clinically challenging forms of depressive disorders. In many patients, reduction in symptom severity does not translate into full functional recovery; therefore, assessment of treatment effectiveness should also include health-related quality of life (HRQoL).",
+      "date": "2026-10-19",
+      "authors": [
+        "Szawarnoga Daniel",
+        "Fojcik Joanna",
+        "Górski Michał"
+      ],
+      "doi": "10.3390/ph19101644"
+    },
+    {
+      "title": "Gut consciousness: a perspective on visceral phenomenal awareness.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42936312/",
+      "source": "PubMed",
+      "abstract": "The proposition that the enteric nervous system sustains a form of consciousness is seldom entertained in mainstream neuroscience, yet it follows from a disciplined reading of contemporary theories of mind. We argue that the 400-600 million neurons embedded in the mammalian gastrointestinal wall, taken together with the vast interoceptive surface they supervise, the enteroendocrine-immune interface, and the microbial community they co-regulate, constitute a substrate that satisfies, on several of the leading theories of consciousness, the criteria those theories use to attribute experience elsewhere. We synthesize evidence on enteric autonomy, chemo- and mechanosensory resolution, vagal and humoral signalling, self/non-self-discrimination at the epithelial-immune boundary, comparative data from invertebrates whose nervous systems are dominated by gut-like plexuses, and convergent clinical signatures (irritable bowel syndrome, food intolerances, psychedelic nausea, glucagon-like peptide-1 signalling) that are difficult to accommodate under a purely sensorimotor account. Throughout we distinguish two claims that are easily conflated: that the gut makes a large and underappreciated contribution to the single consciousness of the whole animal, and that enteric processing constitutes a second, much simpler locus of experience of its own. Most of the available evidence bears on the first, and we set out five lines of investigation that would discriminate between them. We conclude that gut consciousness is a testable hypothesis, likely corresponding to an 'animal' mode of consciousness dominated by interoceptive feel, drive and affect, and we propose empirical directions for its further investigation.",
+      "date": "2026-10-26",
+      "authors": [
+        "Hasler Gregor"
+      ],
+      "doi": "10.1093/nc/niag070"
+    },
     {
       "title": "Neurophysiological and Behavioural Effects of Combined Cannabis Concentrates and Alcohol Among People Who Regularly Use Alcohol and Cannabis.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42935284/",
@@ -136,7 +172,7 @@
       "title": "Suicidality during intranasal (es)ketamine treatment: A retrospective cohort study.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42906707/",
       "source": "PubMed",
-      "abstract": "Intranasal (es)ketamine has shown efficacy in therapy of treatment-resistant depression (TRD). However, its effects on suicidality have not been fully elucidated. We conducted a retrospective longitudinal cohort study of 80 patients affected by TRD, treated with intranasal (es)ketamine. Suicidality was assessed using item 10 of the clinician-rated Montgomery-Åsberg Depression Rating Scale (MADRS) and item 9 of the Beck-Depression-Inventory-II (BDI-II). We measured patient- and transition-level fluctuations of suicidality, tested temporal clustering using mixed-effects logistic regression, examined associations between non-suicidal depressive symptom change and suicidality worsening, and explored baseline predictors. Mean suicidality ratings decreased modestly. Upward and downward category transitions occurred at similar frequencies across treatment (MADRS: 57 increases and 50 decreases across 767 valid transitions, 7.4% vs. 6.5%; BDI-II: 22 and 23 across 741 transitions, 3.0% vs. 3.1%). At least one upward transition occurred in 38.8% on MADRS and 21.3% on BDI-II. Transient elevations were more frequent than sustained elevations. Sustained elevation occurred at 15.0% on MADRS and 7.5% on BDI-II. Increases did not cluster by treatment phase. MADRS, but not BDI-II, upward transitions were associated with concurrent and lagged worsening in non-suicidal depressive symptoms. Higher baseline suicidality showed the most consistent association with later worsening across both measures. Two serious adverse events occurred, including one suicide. In this routine-care cohort, suicidality decreased on average, with no evidence of treatment-phase-specific worsening. Nonetheless a minority of patients showed transient or, less often, sustained increases in suicidality, supporting necessity of continuous suicidality monitoring throughout (es)ketamine treatment.",
+      "abstract": "Intranasal (es)ketamine has shown efficacy in therapy of treatment-resistant depression (TRD). However, its effects on suicidality have not been fully elucidated. We conducted a retrospective longitudinal cohort study of 80 patients affected by TRD and treated with intranasal (es)ketamine. Suicidality was assessed using item 10 of the clinician-rated Montgomery-Åsberg Depression Rating Scale (MADRS) and item 9 of the Beck-Depression-Inventory-II (BDI-II). We measured patient- and transition-level fluctuations of suicidality, tested temporal clustering using mixed-effects logistic regression, examined associations between non-suicidal depressive symptom change and suicidality worsening, and explored baseline predictors. Mean suicidality ratings decreased modestly. Upward and downward category transitions occurred at similar frequencies across treatment (MADRS: 57 increases and 50 decreases across 767 valid transitions, 7.4% vs. 6.5%; BDI-II: 22 increases and 23 decreases across 741 transitions, 3.0% vs. 3.1%). At least one upward transition occurred in 38.8% on MADRS and 21.3% on BDI-II. Transient elevations were more frequent than sustained elevations. Sustained elevation occurred at 15.0% on MADRS and 7.5% on BDI-II. Increases did not cluster by treatment phase. MADRS, but not BDI-II, upward transitions were associated with concurrent and lagged worsening in non-suicidal depressive symptoms. Higher baseline suicidality showed the most consistent association with later worsening across both measures. Two serious adverse events occurred, including one suicide. In this routine-care cohort, suicidality decreased on average, with no evidence of treatment-phase-specific worsening. Nonetheless, a minority of patients showed transient or, less often, sustained increases in suicidality, supporting necessity of continuous suicidality monitoring throughout (es)ketamine treatment.",
       "date": "2026-10-21",
       "authors": [
         "Ehrt-Schäfer Yamina",
@@ -219,45 +255,6 @@
         "Richard Jérémie K"
       ],
       "doi": "10.1177/28314425261455416"
-    },
-    {
-      "title": "Strong Alliance, Weak Conclusions: Comment on Goodwin et al. (2026) \"The Role of Therapeutic Alliance in Psilocybin Treatment for Treatment-Resistant Depression\".",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42903188/",
-      "source": "PubMed",
-      "abstract": "This commentary critically examines the interpretation and analytic choices in Goodwin and colleagues' recent analysis of therapeutic alliance in psilocybin treatment for treatment-resistant depression. While the authors conclude that alliance did not meaningfully contribute to treatment efficacy, we argue that this interpretation is not supported by the reported results, which are, in addition, shaped by methodological decisions that obscure relevant effects. By contextualizing the observed associations, clarifying the logic of mediation analysis, and pointing out methodological weaknesses, we show that the available evidence is more consistent with a meaningful role of therapeutic alliance in shaping both the psychedelic experience and clinical outcomes. Furthermore, we highlight unexplained deviations from the study protocol that warrant scrutiny. These concerns underscore the importance of accurately characterizing psychological and contextual factors in psychedelic treatment research and call for more comprehensive and transparent analyses of psychotherapeutic processes.",
-      "date": "2026-06-16",
-      "authors": [
-        "Wolff Max",
-        "Kangaslampi Samuli",
-        "Zeifman Richard J"
-      ],
-      "doi": "10.1177/28314425261461057"
-    },
-    {
-      "title": "Group psychedelic-assisted therapy for mental health conditions: a mixed-methods systematic review.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42903078/",
-      "source": "PubMed",
-      "abstract": "The group therapy model has been recently favored as a means of conducting psychedelic assisted therapies for mental health disorders. However, there is a paucity of literature showing strengths or drawbacks of this approach and comparisons of safety and efficacy to individual therapy. This systematic review aims to address this gap in literature. We included original research of group psychedelic therapy programs that were peer reviewed and published in English or where a translation was available or possible. Participants must be 18 or older and have a psychiatric diagnosis. We searched for MEDLINE, Scopus, and APA PsychInfo until January 1 2026. Screening, data extraction, and appraisal using the Mixed Methods Appraisal Tool (MMAT) were conducted by two independent researchers. A parallel-results convergent synthesis design was employed consisting of independent syntheses of qualitative and quantitative evidence and an interpretation of the results in the discussion. We included 30 papers representing 22 unique group therapy protocols. Demographics were inconsistently reported: sex or gender was reported in 18 papers, race/ethnicity in eight papers. Fifteen papers reported pre-post outcomes using validated screening tools for mental health, functioning, substance use, or wellbeing. Using a segregated methodologies approach, quantitative and qualitative findings were broadly complementary. Quantitative results showed overall decreases in validated scale outcomes reflecting improvement in depression, anxiety, trauma symptoms, functioning, and other psychiatric outcomes. Qualitative results described improvements in mindfulness, emotional processing, psychological flexibility, meaning-making, and social connectedness supported by the group format. Despite emerging mechanistic evidence for direct effects of psychedelic molecules on the brain, only a minority of studies used comparison groups, and only one was a modern randomized controlled trial. Group PaT may not only be pragmatically beneficial for feasibility and cost-effectiveness, but may also contribute to therapeutic outcomes through peer support, normalization, belonging, and integration. Limitations of this systematic review include substantial heterogeneity in molecules, populations, protocols, outcome measures, and follow-up duration, as well as overlapping cohorts and few studies with group components throughout the entire course of treatment. PROSPERO: https://www.crd.york.ac.uk/PROSPERO/view/CRD42024491478, identifier: CRD42024492648.",
-      "date": "2026-10-06",
-      "authors": [
-        "Tsang Vivian W L",
-        "Bhatia Faizan",
-        "Ferrey Anne"
-      ],
-      "doi": "10.3389/fpubh.2026.1788352"
-    },
-    {
-      "title": "Intravenous Ketamine for Depressed and Suicidal Adolescents in the Emergency Department: A Randomized Double-Blind Trial.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42900929/",
-      "source": "PubMed",
-      "abstract": "Adolescents frequently seek care in the emergency department (ED) for behavioral health emergencies. Due to national shortages in staffing, limited opportunities to begin treatment on site in most centers and, thus, the frequent default to elusive inpatient psychiatric beds as a means of stabilization, adolescents may spend prolonged amounts of time boarding in the ED, often without treatment. Ketamine is a rapid-acting antidepressant with emerging evidence in adults, but data are limited on its effectiveness in suicidal youth. We aimed to evaluate the effectiveness of a single dose of intravenous (IV) ketamine on depression and suicidality scores compared to placebo in adolescents with treatment-resistant depression presenting to the ED with suicidal ideation. We conducted a two-arm randomized double-blind placebo controlled trial on a convenience sample of adolescents 12-17 years of age with treatment-resistant depression (trialed at least two antidepressants for at least four weeks each) who presented to the ED with suicidal ideation requiring psychiatric admission. Exclusion criteria included psychosis, substance abuse disorder, intoxication, developmental delay, aggressive behavior, and medical contraindications to ketamine. Subjects were randomized to receive a single dose of ketamine (0.2 mg/kg IV, maximum 35 mg) or saline placebo over two minutes. They completed the Beck Youth Inventory (BYI) and Suicidal Ideation Questionnaire (SIQ) at baseline and at 1 hour, 3 hours, 1 day, 3 days, and 7 days post-treatment. We compared groups with the Fisher exact and two-sided rank-sum tests. Our primary outcome measure was the proportion of subjects with a reduction of ≥ 50% on the BYI and SIQ within 3 hours after treatment. The 29 subjects (14 placebo, 15 ketamine) did not differ significantly in demographic and clinical characteristics. Despite reductions in BYI and SIQ in both groups, the proportions achieving ≥ 50% reductions did not differ significantly at 1 hour (SIQ: placebo, 0% vs ketamine 14.3 % [P = .48]; BYI Anxiety Inventory: placebo, 0% vs ketamine 21.4% [P = .22]; BYI Depression Inventory: placebo, 0% vs ketamine 15.4% [P = .22]). Differences at 3 hours were less pronounced. Adverse effects were more frequent in the ketamine group, most notably signs of dissociation (7% vs 60%, P = .004), with none after the 1-hour observation period. The ED offers an opportunity to deliver rapid-acting antidepressant treatment for suicidal adolescents. Although low-dose ketamine was not associated with greater reductions in depression or suicidality than placebo, this study demonstrated feasibility and highlights the need for larger studies to determine optimal ketamine dosing, route of administration, and implementation strategies in the ED setting.",
-      "date": "2026-07-28",
-      "authors": [
-        "Vayngortin Tatyana",
-        "Patel Ekta",
-        "Seneviratne Shamilka"
-      ],
-      "doi": "10.5811/westjem.53968"
     },
     {
       "title": "Mostly Supportive, Somewhat Divided: Stakeholders Respond to FDA’s Psychedelics Docket",
@@ -572,7 +569,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2018-004480-31/CZ",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-10-27",
+      "date": "2026-10-28",
       "authors": [],
       "doi": ""
     },
@@ -581,7 +578,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2020-005037-32/CZ",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-10-27",
+      "date": "2026-10-28",
       "authors": [],
       "doi": ""
     },
@@ -590,7 +587,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2021-002909-10/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-10-27",
+      "date": "2026-10-28",
       "authors": [],
       "doi": ""
     },
@@ -599,7 +596,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2015-000550-37/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-10-27",
+      "date": "2026-10-28",
       "authors": [],
       "doi": ""
     },
@@ -608,7 +605,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2021-000041-40/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-10-27",
+      "date": "2026-10-28",
       "authors": [],
       "doi": ""
     },
@@ -617,7 +614,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2020-000829-55/DK",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-10-27",
+      "date": "2026-10-28",
       "authors": [],
       "doi": ""
     },
@@ -626,7 +623,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2020-002790-94/SE",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-10-27",
+      "date": "2026-10-28",
       "authors": [],
       "doi": ""
     },
@@ -635,7 +632,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2021-006200-33/FI",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-10-27",
+      "date": "2026-10-28",
       "authors": [],
       "doi": ""
     },
@@ -644,7 +641,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2019-004812-73/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-10-27",
+      "date": "2026-10-28",
       "authors": [],
       "doi": ""
     },
@@ -653,7 +650,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2022-002369-14/BE",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-10-27",
+      "date": "2026-10-28",
       "authors": [],
       "doi": ""
     },

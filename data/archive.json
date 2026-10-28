@@ -1,6 +1,63 @@
 {
   "items": [
     {
+      "title": "Quality of Life in Patients with Treatment-Resistant Depression Treated with Intranasal Esketamine as Add-On Therapy to an SSRI-A Prospective, Comparative Study in Real-World Clinical Practice.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42943341/",
+      "source": "PubMed",
+      "date": "2026-10-19",
+      "authors": [
+        "Szawarnoga Daniel",
+        "Fojcik Joanna",
+        "Górski Michał"
+      ],
+      "doi": "10.3390/ph19101644",
+      "summary_en": "Prospective comparative study examining quality of life outcomes in treatment-resistant depression patients receiving intranasal esketamine as add-on therapy to SSRIs in real-world clinical settings. The research highlights that symptom reduction alone may not ensure functional recovery, emphasizing the importance of assessing health-related quality of life alongside symptom severity.",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "observational",
+      "substances": [
+        "ketamine"
+      ],
+      "added_at": "2026-10-28T13:18:57.276933+00:00"
+    },
+    {
+      "title": "Psychedelics in Psychiatry: A Wakeup Call for Clinicians in the Age of Policy Reform.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42945450/",
+      "source": "PubMed",
+      "date": "2026-10-20",
+      "authors": [
+        "Garg Shobit",
+        "Pattojoshi Amrit"
+      ],
+      "doi": "10.4088/PCC.26lr04256",
+      "summary_en": "Opinion piece discussing the clinical implications of policy reforms enabling psychedelic research and therapeutic applications in psychiatry. Addresses the need for clinician preparedness as psychedelics transition from research to potential clinical practice.",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "other",
+      "substances": [
+        "other"
+      ],
+      "added_at": "2026-10-28T13:18:57.276933+00:00"
+    },
+    {
+      "title": "Gut consciousness: a perspective on visceral phenomenal awareness.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42936312/",
+      "source": "PubMed",
+      "date": "2026-10-26",
+      "authors": [
+        "Hasler Gregor"
+      ],
+      "doi": "10.1093/nc/niag070",
+      "summary_en": "This theoretical paper argues that the enteric nervous system—400-600 million neurons in the gut—may sustain a form of consciousness. The authors synthesize evidence from neuroscience theories, interoception, immune signaling, and comparative biology to suggest the gut's neural substrate meets criteria for consciousness attribution. They distinguish between the gut contributing to whole-body consciousness versus constituting independent experience, and propose five investigative approaches to test these hypotheses.",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "review",
+      "substances": [
+        "psilocybin"
+      ],
+      "added_at": "2026-10-28T13:18:57.276933+00:00"
+    },
+    {
       "title": "Single Intranasal Administration of the Psychedelic Mebufotenin for Treatment-Resistant Depression: A Randomized Clinical Trial.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42931733/",
       "source": "PubMed",

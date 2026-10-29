@@ -1,7 +1,28 @@
 {
-  "date": "2026-10-28",
-  "cached_at": "2026-10-28T12:05:32.530834+00:00",
+  "date": "2026-10-29",
+  "cached_at": "2026-10-29T12:15:21.830602+00:00",
   "articles": [
+    {
+      "title": "How personalization and psychedelics are revitalizing psychiatry.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42951954/",
+      "source": "PubMed",
+      "abstract": "",
+      "date": "2026-Oct-29",
+      "authors": [],
+      "doi": "10.1038/d41586-026-03402-7"
+    },
+    {
+      "title": "Concept to Clinic: Considerations in Developing an Interventional Psychiatry Clinic.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42951931/",
+      "source": "PubMed",
+      "abstract": "",
+      "date": "2026-10-29",
+      "authors": [
+        "Hrabok Marianne",
+        "Song Wei-Yi"
+      ],
+      "doi": "10.1176/appi.ps.20250459"
+    },
     {
       "title": "Psychedelics in Psychiatry: A Wakeup Call for Clinicians in the Age of Policy Reform.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42945450/",
@@ -130,6 +151,17 @@
       "doi": "10.3389/fpsyt.2026.1890966"
     },
     {
+      "title": "Dynamic Functional Connectivity of Amygdala and Hippocampus in Posttraumatic Stress Disorder: A Multi-Site Study of the ENIGMA PTSD Consortium.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42922652/",
+      "source": "PubMed",
+      "abstract": "The amygdala and hippocampus are central to neural models of posttraumatic stress disorder (PTSD), yet their dynamic functional interactions with distributed brain networks remain poorly characterized, particularly in large, diverse samples. We analyzed resting-state functional MRI data from the ENIGMA PTSD Working Group, comprising 2,721 participants from 32 international sites: 1,017 individuals with PTSD (38.6±15.2 years; 52.0% female) and 1,704 controls (38.4±17.1 years; 45.8% female; 78.6% trauma-exposed). After standardized preprocessing with",
+      "date": "2026-09-03",
+      "authors": [
+        "Sun Delin"
+      ],
+      "doi": "10.21203/rs.3.rs-10704000/v1"
+    },
+    {
       "title": "Design, reporting, and research focus of neurology and psychiatry drug trials (2020-2023): a registry-based meta-epidemiological study using ClinicalTrials.gov and NLP.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42919398/",
       "source": "PubMed",
@@ -219,42 +251,13 @@
       "doi": "10.1177/28314425261429232"
     },
     {
-      "title": "Correlation of Ketamine and Classic Psychedelics with Pain-Related Neural Connectivity: A Scoping Review of Clinical Experiments on a Potential Therapeutic Target Concerning Ketamine and Classical Psychedelics Administration for Pain Relief.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42903228/",
-      "source": "PubMed",
-      "abstract": "Ketamine and classic psychedelics have recently gained increased scientific interest regarding their role in pain management, while there is evidence that pain induces neural connectivity changes. We performed a scoping review to investigate the correlation of ketamine and classic psychedelics with pain-related neural connectivity, aiming to find potential therapeutic targets for these medications administration for pain relief. We searched PubMed and Scopus databases for articles with the purpose to explore the correlation between ketamine and classic psychedelics administration with pain-related neural connectivity. From each included article we extracted the following data: authors, medication under investigation, number of participants, pain-related brain regions whose connectivity was involved, and correlation of the medication with this connectivity. Six articles were included. Four of them concerned ketamine, one concerned lysergic acid diethylamide (LSD), and one was about psilocybin. The three medications notably altered connectivity between brain regions related to cognitive and emotional aspects of pain. Ketamine mainly correlated with connectivity involving large-scale neural networks (default mode and salience network). Baseline connectivity, especially regarding medial prefrontal cortex-precuneus and default mode network-antinociceptive pathways, may predict ketamine treatment response. There is a remarkable correlation of ketamine and classic psychedelics (LSD and psilocybin) with pain-related neural connectivity. Further research will shed more light on the promising role of neural connectivity as a therapeutic target concerning ketamine and classic psychedelics for pain management.",
-      "date": "2026-09-14",
-      "authors": [
-        "Chytas Vasileios",
-        "Tsimploulis Georgios",
-        "Chytas Dimitrios"
-      ],
-      "doi": "10.1177/28314425261489067"
-    },
-    {
-      "title": "Past-Year Lysergic Acid Diethylamide Use in United States Sexual Minorities from 2015 to 2019.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42903218/",
-      "source": "PubMed",
-      "abstract": "This study aimed to characterize changes in estimated past-year lysergic acid diethylamide (LSD) use among sexual minorities in the United States using nationally representative data and to compare correlates of LSD use between lesbian, gay, and bisexual individuals (LGB) and heterosexual individuals. Using National Survey on Drug Use and Health data on adults from 2015 to 2019, we investigated correlates of past-year LSD use among LGB individuals compared with heterosexual individuals and changes in the prevalence of past-year LSD use during that period. Correlates were identified with weighted logistic regression. LGB individuals constituted approximately 5% of the sample. From 2015 to 2019 estimated prevalence of past-year LSD use rose 43% in heterosexual individuals, 58% in bisexual individuals, and 106% in lesbian/gay individuals. The relative risk for LSD use ranged from 3.3 to 4.4 times higher for LGB individuals compared with heterosexual individuals during the study period, depending on the year. Interaction analysis found that living in poverty, being divorced versus married, living in a small metropolitan area versus a non-metropolitan area, and past-year suicide attempt were unique correlates of past-year LSD use for heterosexual individuals compared with LGB individuals. Sexual minorities are at increased risk of past-year LSD use compared with heterosexual individuals. There were notable increases in past-year LSD use from 2015 to 2019 among heterosexual, bisexual, and lesbian/gay individuals, with a marked increase in the latter group. These findings highlight the possible need for targeted LSD harm reduction strategies based on sexual identity and more inclusive research on psychedelic use.",
-      "date": "2025-12-26",
-      "authors": [
-        "Barnett Brian S",
-        "Anand Akhil",
-        "Falcone Tatiana"
-      ],
-      "doi": "10.1177/28314425251410086"
-    },
-    {
-      "title": "What About Psycholytic Therapy? A Historical Revisiting of Psychedelics Assisting Psychotherapy.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42903216/",
-      "source": "PubMed",
-      "abstract": "The renewed clinical interest in psychedelics is often framed in ways that blur the distinction between psychotherapy and the psychedelic drug experience itself. Revisiting early research and clinical observations from the first wave of psychedelic science may help clarify how these processes were originally conceptualized. In the mid-20th century, LSD and other serotonergic psychedelics were understood as facilitators of psychotherapy rather than stand-alone treatments. Psycholytic therapy emphasized gradual therapeutic exploration over multiple sessions, whereas psychedelic therapy emphasized discrete, potentially transformative experiences. In both approaches, psychedelic administration was embedded within established psychotherapeutic frameworks, underscoring the importance of the therapeutic alliance, as well as set and setting. Re-examining this history helps reassert psychotherapy as the primary therapeutic mechanism, with psychedelics functioning as catalysts that enhance emotional access, meaning-making, and the therapeutic relationship. This historical review synthesizes research on psycholytic therapy conducted between 1950 and 1970. It provides an overview of treatment protocols, procedures, and reported outcomes. It also translates therapeutic concepts from the historical literature into contemporary psychological constructs that can be operationalized and examined using modern research methods. The historical literature on psycholytic therapy represents a substantial and underutilized clinical resource. Renewed investigation using contemporary clinical trial designs may help clarify its therapeutic potential and inform the development of evidence-based psychedelic-assisted psychotherapies.",
-      "date": "2026-07-22",
-      "authors": [
-        "Zaher Idir",
-        "Richard Jérémie K"
-      ],
-      "doi": "10.1177/28314425261455416"
+      "title": "Pharma Moves In: Investors, Developers and Lilly’s Carole Ho at the Psychedelic Healthcare Forum",
+      "url": "https://psychedelicalpha.com/news/pharma-moves-in-investors-developers-and-lillys-carole-ho-at-the-psychedelic-healthcare-forum/",
+      "source": "Psychedelic Alpha",
+      "abstract": "Earlier this month, we co-hosted the Psychedelic Healthcare Forum in New York City. There, several sessions featured conversations related to psychedelic drug development, which we recap here. The three sessions covered in this article were: Courting Capital for Psychedelic Medicine The New Era of Psychedelic Drug R&D A Conversation with Carole Ho Investors: Efficacy Risk […]",
+      "date": "2026-10-28",
+      "authors": [],
+      "doi": ""
     },
     {
       "title": "Mostly Supportive, Somewhat Divided: Stakeholders Respond to FDA’s Psychedelics Docket",
@@ -334,15 +337,6 @@
       "source": "Psychedelic Alpha",
       "abstract": "Welcome to our Q3 2026 Quarterly Briefing. Every three months, our Founder & Editor Josh Hardman walks you through major developments from the prior quarter across drug development, policy and regulation, science and academia, and much more. He closes with a look ahead to the next quarter, so you know what to look out for.",
       "date": "2026-10-02",
-      "authors": [],
-      "doi": ""
-    },
-    {
-      "title": "Pα+ Psychedelic Bulletin #232: Q2’26 Psychedelic Lobbying Update; DEA Again Moves to Schedule 5 Tryptamines; Oregon Backpedals Psilocybin Fee Hike",
-      "url": "https://psychedelicalpha.com/news/p%ce%b1-psychedelic-bulletin-232-q226-psychedelic-lobbying-update-dea-again-moves-to-schedule-5-tryptamines-oregon-backpedals-psilocybin-fee-hike/",
-      "source": "Psychedelic Alpha",
-      "abstract": "Q2 2026 Federal Psychedelic Lobbying Update Now that federal lobbying data from the second quarter of the year is available to retrieve, we present our regular update on the state of activity across psychedelic drug developers and nonprofits. Psychedelics companies’ spending on lobbying firms at the federal level reached new heights in Q2 2026, though […]",
-      "date": "2026-09-25",
       "authors": [],
       "doi": ""
     },
@@ -569,7 +563,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2018-004480-31/CZ",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-10-28",
+      "date": "2026-10-29",
       "authors": [],
       "doi": ""
     },
@@ -578,7 +572,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2020-005037-32/CZ",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-10-28",
+      "date": "2026-10-29",
       "authors": [],
       "doi": ""
     },
@@ -587,7 +581,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2021-002909-10/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-10-28",
+      "date": "2026-10-29",
       "authors": [],
       "doi": ""
     },
@@ -596,7 +590,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2015-000550-37/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-10-28",
+      "date": "2026-10-29",
       "authors": [],
       "doi": ""
     },
@@ -605,7 +599,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2021-000041-40/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-10-28",
+      "date": "2026-10-29",
       "authors": [],
       "doi": ""
     },
@@ -614,7 +608,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2020-000829-55/DK",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-10-28",
+      "date": "2026-10-29",
       "authors": [],
       "doi": ""
     },
@@ -623,7 +617,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2020-002790-94/SE",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-10-28",
+      "date": "2026-10-29",
       "authors": [],
       "doi": ""
     },
@@ -632,7 +626,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2021-006200-33/FI",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-10-28",
+      "date": "2026-10-29",
       "authors": [],
       "doi": ""
     },
@@ -641,7 +635,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2019-004812-73/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-10-28",
+      "date": "2026-10-29",
       "authors": [],
       "doi": ""
     },
@@ -650,7 +644,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2022-002369-14/BE",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-10-28",
+      "date": "2026-10-29",
       "authors": [],
       "doi": ""
     },

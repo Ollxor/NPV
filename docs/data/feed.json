@@ -1,6 +1,33 @@
 {
-  "generated_at": "2026-10-28T13:19:35.260599+00:00",
+  "generated_at": "2026-10-29T13:27:23.770964+00:00",
   "items": [
+    {
+      "title": "How personalization and psychedelics are revitalizing psychiatry.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42951954/",
+      "source": "PubMed",
+      "date": "2026-Oct-29",
+      "authors": [],
+      "doi": "10.1038/d41586-026-03402-7",
+      "summaries": {
+        "en": "This article examines how personalized approaches combined with hallucinogens are transforming psychiatric treatment. The piece discusses integration of tailored interventions with psychedelic-assisted therapy to improve patient outcomes in mental health care.",
+        "sv": "Artikeln undersöker hur personaliserade behandlingsmetoder tillsammans med psykedelika förändrar psykiatrin. Texten diskuterar hur skräddarsydda interventioner integreras med psykedelika-assisterad terapi för att förbättra resultat inom mentalvården.",
+        "no": "Artikkelen undersøker hvordan personaliserte tilnærminger kombinert med psykedelika transformerer psykiatrisk behandling. Teksten diskuterer integrasjonen av tilpassede intervensjoner med psykedelika-assistert terapi for å forbedre pasientresultater innen psykisk helse.",
+        "da": "Artiklen undersøger, hvordan personaliserede tilgange kombineret med psykedelika transformerer psykiatrisk behandling. Teksten diskuterer integration af skræddersyede interventioner med psykedelika-assisteret terapi for at forbedre patientresultater inden for mental sundhed.",
+        "fi": "Artikkelissa tutkitaan, kuinka personoidut lähestymistavat yhdessä psykedeelisten aineiden kanssa muuttavat psykiatrian hoitoa. Tekstissä käsitellään räätälöityjen interventioiden ja psykedeliini-avusteisen terapian integroimista potilastulosten parantamiseksi mielenterveyshoidossa.",
+        "is": "Greinin skoðar hvernig persónuleg nálgun ásamt geðflöktum umbreyta geðlækningum. Textinn fjallar um samþættingu sérsniðinna inngripa með geðflöktastu-studdri meðferð til að bæta heilabiluðir sjúklinga á sviði geðheilsu.",
+        "et": "Artikkel uurib, kuidas personaliseeritud lähenemised koos psühhedeelikumidega muudavad psühhiaatrilist ravi. Tekstis arutatakse kohandatud sekkumiste integreerimist psühhedeliikum-abistatud terapiaga patsientide tulemuste parandamiseks vaimse tervise valdkonnas.",
+        "lv": "Raksts pēta, kā personalizētas pieejas kopā ar psihedelikiem pārveidojot psihiatrijas ārstēšanu. Tekstā tiek apspriesta pielāgotu intervenciju integrēšana ar psihedeliku-palīdzinātu terapiju, lai uzlabotu pacientu rezultātus psihiskās veselības aprūpē.",
+        "lt": "Straipsnyje nagrinėjama, kaip personalizuoti metodai kartu su psichedelikais transformuoja psichiatrijos gydymą. Tekste aptariama pritaikytos intervencijos integravimas su psichedelikų-palaikytu terapija, siekiant pagerinti ligonių rezultatus psichikos sveikatos priežiūroje."
+      },
+      "notable": false,
+      "notable_reasons": null,
+      "relevance_score": 3,
+      "study_type": "other",
+      "substances": [
+        "other"
+      ],
+      "added_at": "2026-10-29T13:27:14.687339+00:00"
+    },
     {
       "title": "Gut consciousness: a perspective on visceral phenomenal awareness.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42936312/",
@@ -1943,54 +1970,6 @@
         "psilocybin"
       ],
       "added_at": "2026-10-01T13:39:29.652706+00:00"
-    },
-    {
-      "title": "Moving beyond 5-HT",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42809102/",
-      "source": "PubMed",
-      "date": "2026-09-29",
-      "authors": [
-        "Suresh Praneet",
-        "Kins Josie",
-        "Levkovskyy Lex"
-      ],
-      "doi": "10.1007/s00213-026-07170-0",
-      "summaries": {
-        "en": "Study analyzed binding profiles of 21 psychedelics across 19 neurotransmitter receptors using semantic analysis of 4,496 experience reports to identify receptor-effect associations beyond serotonin (5-HT). Machine learning approach aims to clarify mechanisms underlying therapeutic effects and diverse psychoactive properties, supporting clinical development.",
-        "sv": "Studie analyserade bindningsprofiler för 21 psykedelika över 19 neurotransmittorreceptorer med semantisk analys av 4 496 erfarenhetsrapporter för att identifiera receptor-effektsamband bortom serotonin (5-HT). Maskininlärningsmetod syftar till att klargöra mekanismer bakom terapeutiska effekter och psykoaktiva egenskaper.",
-        "no": "Studie analyserte bindingsprofiler for 21 psykedelika over 19 neurosmittereceptorer ved hjelp av semantisk analyse av 4 496 erfaringsrapporter for å identifisere receptor-effektsamband utover serotonin (5-HT). Maskinlæringsmetoden har til formål å avklare mekanismer bak terapeutiske effekter og psykoaktive egenskaper.",
-        "da": "Studie analyserede bindingsprofiler for 21 psykedelika på tværs af 19 neurotransmitterreceptorer ved hjælp af semantisk analyse af 4 496 erfaringsrapporter for at identificere receptor-effektforbindelser ud over serotonin (5-HT). Maskinlæringsmetoden sigter mod at præcisere mekanismer bag terapeutiske effekter.",
-        "fi": "Tutkimus analysoi 21 psykedeelisen aineen sitoutumisprofiileja 19 neurotransmitterireceptorille semanttisen analyysin avulla, käyttäen 4 496 kokemuskertomusta, tavoitteenaan tunnistaa reseptori-vaikutusyhteyksiä serotoniinin (5-HT) lisäksi. Koneoppimismenetelmä pyrkii selventämään terapeuttisten vaikutusten ja psykoaktiivisten ominaisuuksien mekanismeja.",
-        "is": "Rannsóknin greindi bindipróf 21 psýkedelíska efna á 19 taugaflutningsstöðvum með merkingargreiningu á 4 496 reynsluskýrslum til að bera kennsl á samböndum milli receptora og áhrifa umfram serotonín (5-HT). Vélanámsaðferðin miðar að því að skýra mekanisma meðferðaráhrifa.",
-        "et": "Uuringus analüüsiti 21 psühhedeelikumi seondumisprofiile 19 neurotransmitterireceptorile semantilise analüüsi abil, kasutades 4 496 kogemlusaruannet, et tuvastada retseptori-efekti seosed serotoniin (5-HT) ületamisel. Masinõppe meetod eesmärgib selgitada terapeutiliste efektide mehhanisme.",
-        "lv": "Pētījumā analizēti 21 psihedēlika saistīšanās profili uz 19 neirotransmiteru receptoriem, izmantojot semantisku analīzi 4 496 pieredzes ziņojumos, lai identificētu receptora-efekta saistības ārpus serotonīna (5-HT). Mašīnmācības metode ir paredzēta terapeitisko efektu mekanismu noskaidrošanai.",
-        "lt": "Tyrime analizuoti 21 psichedelinio vaisto rišimosi profiliai prie 19 neurotransmiterio receptorių, naudojant semantinę analizę iš 4 496 patirties ataskaitų, siekiant nustatyti receptorių ir efekto sąryšius, peržengiant serotoninį (5-HT). Mašininio mokymosi metodas skirtas terapeuitinio poveikio mechanizmams aiškinti."
-      },
-      "notable": true,
-      "notable_reasons": {
-        "en": "Novel computational approach integrating semantic analysis of 4,496 experience reports with receptor binding data across 21 psychedelic drugs to identify non-serotonin mechanisms—methodologically innovative neuroscience contribution.",
-        "sv": "Novel computational approach integrating semantic analysis of 4,496 experience reports with receptor binding data across 21 psychedelic drugs to identify non-serotonin mechanisms—methodologically innovative neuroscience contribution.",
-        "no": "Novel computational approach integrating semantic analysis of 4,496 experience reports with receptor binding data across 21 psychedelic drugs to identify non-serotonin mechanisms—methodologically innovative neuroscience contribution.",
-        "da": "Novel computational approach integrating semantic analysis of 4,496 experience reports with receptor binding data across 21 psychedelic drugs to identify non-serotonin mechanisms—methodologically innovative neuroscience contribution.",
-        "fi": "Novel computational approach integrating semantic analysis of 4,496 experience reports with receptor binding data across 21 psychedelic drugs to identify non-serotonin mechanisms—methodologically innovative neuroscience contribution.",
-        "is": "Novel computational approach integrating semantic analysis of 4,496 experience reports with receptor binding data across 21 psychedelic drugs to identify non-serotonin mechanisms—methodologically innovative neuroscience contribution.",
-        "et": "Novel computational approach integrating semantic analysis of 4,496 experience reports with receptor binding data across 21 psychedelic drugs to identify non-serotonin mechanisms—methodologically innovative neuroscience contribution.",
-        "lv": "Novel computational approach integrating semantic analysis of 4,496 experience reports with receptor binding data across 21 psychedelic drugs to identify non-serotonin mechanisms—methodologically innovative neuroscience contribution.",
-        "lt": "Novel computational approach integrating semantic analysis of 4,496 experience reports with receptor binding data across 21 psychedelic drugs to identify non-serotonin mechanisms—methodologically innovative neuroscience contribution."
-      },
-      "relevance_score": 4,
-      "study_type": "preclinical",
-      "substances": [
-        "psilocybin",
-        "lsd",
-        "mdma",
-        "ketamine",
-        "ayahuasca",
-        "ibogaine",
-        "mescaline",
-        "other"
-      ],
-      "added_at": "2026-09-30T12:51:39.849882+00:00"
     }
   ]
 }

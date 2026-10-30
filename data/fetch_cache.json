@@ -1,7 +1,72 @@
 {
-  "date": "2026-10-29",
-  "cached_at": "2026-10-29T12:15:21.830602+00:00",
+  "date": "2026-10-30",
+  "cached_at": "2026-10-30T12:06:06.898586+00:00",
   "articles": [
+    {
+      "title": "Evolutionary neuropharmacology of serotonergic psychedelics: a cross-species perspective on mechanisms, consciousness, and therapeutic potential.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42957826/",
+      "source": "PubMed",
+      "abstract": "Serotonergic psychedelics have revitalized psychiatric research by producing rapid and potentially sustained clinical benefits in selected neuropsychiatric conditions. However, the mechanisms linking receptor activation to neural plasticity, altered conscious experience, and clinical improvement remain incompletely understood, while the evolutionary origins of psychedelic signaling and the translational value of animal models continue to be actively debated. In this review, we integrate evolutionary biology, molecular pharmacology, comparative neuroscience, and computational psychiatry into a unified framework for understanding psychedelic action across biological scales. Building upon predictive processing and the Relaxed Beliefs Under Psychedelics (REBUS) framework, we discuss how serotonergic psychedelics transiently reshape hierarchical inference, providing computational principles that can be experimentally investigated across species despite profound differences in neural architecture and subjective experience. Comparative analyses from invertebrates to non-human primates further suggest that conserved receptor pharmacology coexists with species-specific circuit organization, highlighting that animal models should be interpreted as complementary platforms for investigating molecular, cellular, and computational mechanisms rather than direct proxies for human hallucinatory experiences. We further discuss preclinical and emerging translational evidence suggesting that biased receptor signaling and non-hallucinogenic psychoplastogens may partially dissociate plasticity-related therapeutic actions from hallucinogenic effects, providing new opportunities for mechanism-based drug development. By integrating evolutionary biology with molecular psychiatry, this review provides a mechanistic framework linking receptor pharmacology, neural plasticity, circuit computation, and therapeutic outcomes, thereby offering new conceptual and experimental strategies for developing next-generation psychedelic therapeutics.",
+      "date": "2026-10-28",
+      "authors": [
+        "Zhai Haojiang",
+        "Wang Hongshuang",
+        "Wang Yibo"
+      ],
+      "doi": "10.1038/s41380-026-03939-z"
+    },
+    {
+      "title": "Cross-species mapping of acute psychedelic-responsive genes links HTR2A cortical expression, cell-type enrichment, and human cortical expression modules.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42957634/",
+      "source": "PubMed",
+      "abstract": "Psychedelic drugs exert rapid and profound effects on human consciousness [1-7] and are increasingly being investigated for their therapeutic potential [8-14]. Yet the transcriptional programs through which they may reshape brain function and structure remain incompletely understood, in part because the available evidence is heterogeneous and largely preclinical [15, 16]. In a structured scoping review of transcriptomic studies in animal models and neural cell cultures, we identified genes reported in the source literature to change within 3 h of classical psychedelic administration and intersected them with the Allen Human Brain Atlas to define an acute expression set. This retained set showed cortex-centered enrichment, a marker-based deep-layer projection-neuron component, and ontology enrichment for neuron projection and related synaptic terms. A smaller subset overlapped with human accelerated region-associated genes and showed greater-than-random spatial alignment with a human cortical-expansion map. The retained cortical-expression maps showed serotonergic spatial alignment in the human cortex, most prominently with HTR2A expression. Clustering identified three cortical spatial-expression modules, including an association/limbic-weighted module enriched for plasticity and synaptic-organization terms. Together, these findings provide a human cortical framework linking acute psychedelic-responsive transcription to cortical cell-type enrichment, HTR2A spatial expression, cortical spatial-expression modules, and cortical-expansion, while leaving receptor-specific, causal, translational, and cell-type-resolved mechanisms for future work.",
+      "date": "2026-08-01",
+      "authors": [
+        "McConnell Patrick A",
+        "Raffety Jackson",
+        "Li Andrew"
+      ],
+      "doi": "10.1038/s41398-026-04349-z"
+    },
+    {
+      "title": "Locus coeruleus noradrenergic neurons have diverse activity patterns across species and biological context.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42955946/",
+      "source": "PubMed",
+      "abstract": "The locus coeruleus (LC) brainstem cell group is evolutionarily conserved across vertebrates and influences both mind (cognition) and body (cardiorespiratory, metabolic, and immune functions) via two-putatively distinct-spontaneous activity patterns. Yet, the degree to which spontaneous LC firing rates and patterns are homogeneous across species has never been assessed due to inherently limited sample sizes. To remedy this, we pooled cross-species data from 20 laboratories to show that firing rates differ across species and are modulated by sex, age, and type of in vitro or in vivo preparation. Contrary to the prevailing dual-mode firing pattern schema, we observed patterns spread across a low-dimensional manifold, with subregions enriched for specific biological factors and neurodegenerative disease models. Our findings show considerable diversity in an ancestral vertebrate neuromodulatory system.",
+      "date": "2026-10-29",
+      "authors": [
+        "Kelberman Michael A",
+        "Rodberg Ellen",
+        "Munn Brandon R"
+      ],
+      "doi": "10.1016/j.celrep.2026.118210"
+    },
+    {
+      "title": "Participant experiences and recommendations for psychedelic clinical trials and future treatment delivery: a qualitative study with experts by experience from the Psychedelic Participant Advocacy Network.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42952701/",
+      "source": "PubMed",
+      "abstract": "While psychedelic treatments for difficult-to-treat mental health conditions are advancing, participant perspectives remain under-explored. This study examined former participants' experiences across recruitment, preparation, dosing, integration and study ending, and generated recommendations for future trials and treatment delivery. This qualitative descriptive study, informed by reflexive thematic analysis, included four Psychedelic Participant Advocacy Network (PsyPAN) members who were former psychedelic-trial participants. They completed three remote focus groups on recruitment and screening, preparation and dosing, and post-dose integration and the post-study period. Three had joined treatment-resistant depression studies involving psilocybin or N,N-dimethyltryptamine; one had joined a psilocybin study for an eating disorder. A one-day workshop reviewed the analysis and developed recommendations, refined with wider PsyPAN input. Five themes were developed. First, participants entered trials seeking potentially effective treatment but encountered procedures shaped by eligibility criteria, equipoise, randomization, blinding, standardization, fixed schedules and endpoint-driven evidence generation. Second, participants' accounts extended \"set and setting\" to the clinical-trial context by showing how research-specific conditions, including treatment-allocation uncertainty, communication, staff conduct, time-limited support, study ending and the wider support matrix, shaped experience and could mitigate tensions between treatment-seeking and research requirements. Third, facilitators mediated between protocol requirements and participants' embodied, relational and psychological needs, particularly during dosing. Fourth, dosing was experienced as the beginning of an ongoing process of meaning-making, change and integration. Fifth, experiences after study ending varied; some participants described loss, grief or frustration, while all reported that further structured support would have been beneficial. They highlighted limited access to psychedelically informed care and advocated independent, trial-specific peer support. Recommendations emphasized clear communication, expectation management, distinction between research and treatment frames, reduced avoidable burden, staff continuity, participant agency, boundaries around touch and movement, involvement of support networks, and planning for integration and study ending. Relational, contextual and systemic factors shaped participants' experiences across recruitment, preparation, dosing, integration and study ending. Participant-informed practices should be considered when designing and delivering psychedelic studies, while recognizing scientific, regulatory and resource constraints. Structured post-study peer support may address continuing support needs after trial completion.",
+      "date": "2026-10-14",
+      "authors": [
+        "Seynaeve Mathieu",
+        "Schneider Leonie",
+        "Roullier Ian"
+      ],
+      "doi": "10.3389/fpsyt.2026.1682810"
+    },
+    {
+      "title": "Association between peripheral hsa-miR-4456 expression and plasma oxytocin in men with hypersexual disorder and healthy controls: a secondary cross-sectional analysis.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42952647/",
+      "source": "PubMed",
+      "abstract": "MicroRNAs are candidate regulators and biomarkers of molecular processes relevant to behavior, but their relationships with neuroendocrine signaling in humans remain poorly characterized. Earlier studies in overlapping cohorts identified hypermethylation-associated downregulation of peripheral blood-derived hsa-miR-4456 in men with hypersexual disorder and implicated oxytocin-related pathways through  We performed a secondary cross-sectional analysis of baseline, pretreatment measurements from clinically characterized men with hypersexual disorder and healthy male controls. miR-4456 was measured by RT-qPCR in EDTA blood-derived material and plasma oxytocin by radioimmunoassay. The submitted pooled robust regression included 74 paired measurements; revised group-adjusted and interaction models included 73 complete cases (51 hypersexual disorder and 22 controls). miR-4456, but not oxytocin, was rank-based inverse-normal transformed using Blom's method. In the submitted pooled model, higher miR-4456 was associated with lower plasma oxytocin (β = -4.039 pmol/L, 95% CI -6.149 to -1.930;  To our knowledge, this is the first human study to directly examine paired peripheral miR-4456 and plasma oxytocin measurements. Although diagnostic-group differences explained part of the pooled association, the paired observation connects previously separate epigenetic, expression, pathway-prediction, and neuroendocrine findings and identifies a focused hypothesis for independent replication. The cross-sectional peripheral measurements do not establish directionality, causation, or central nervous system regulation. Experimental studies are needed to determine whether miR-4456 has any functional influence on oxytocin-related biology.",
+      "date": "2026-10-14",
+      "authors": [
+        "Desai Boström Adrian E",
+        "Chatzittofis Andreas",
+        "Andersson Peter"
+      ],
+      "doi": "10.3389/fnins.2026.1946302"
+    },
     {
       "title": "How personalization and psychedelics are revitalizing psychiatry.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42951954/",
@@ -186,69 +251,6 @@
         "Mennenga Sarah"
       ],
       "doi": "10.1016/j.drugalcdep.2026.113387"
-    },
-    {
-      "title": "Ketamine Versus Electroconvulsive Therapy for Nonpsychotic Treatment-Resistant Depression: A Cost-Effectiveness Analysis.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42908073/",
-      "source": "PubMed",
-      "abstract": "Electroconvulsive therapy (ECT) is a highly effective intervention for treatment-resistant depression; however, its use has been limited partly because of concerns about cognitive side effects. Evidence for the sustained (>1 month) efficacy of ketamine versus ECT for treatment-resistant depression has only recently been demonstrated. This study aimed to examine the cost-effectiveness-that is, the costs and benefits measured as quality-adjusted life-years (QALYs)-of racemic ketamine versus that of ECT for treatment-resistant depression. Using a decision tree model, the authors examined the incremental QALYs and costs of ketamine in comparison to ECT over 29 weeks from both health care and societal perspectives in Canada. Deterministic and probabilistic sensitivity analyses were used to account for uncertainty. Compared with ECT, ketamine resulted in higher health-related quality of life (incremental QALY=0.024) and lower costs from both a health care (CA$-1,663) and a societal (incremental cost=-$3,413) perspective. In nearly all one-way sensitivity analyses, ketamine was found to be cost-effective relative to ECT. Ketamine provided additional QALYs while saving costs relative to ECT for treatment-resistant depression. Health insurance plans that cover all costs of ECT should also cover all costs of ketamine treatment for treatment-resistant depression.",
-      "date": "2026-10-22",
-      "authors": [
-        "Lebenbaum Michael",
-        "Mulsant Benoit",
-        "Parikh Sagar V"
-      ],
-      "doi": "10.1176/appi.ps.20240407"
-    },
-    {
-      "title": "Suicidality during intranasal (es)ketamine treatment: A retrospective cohort study.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42906707/",
-      "source": "PubMed",
-      "abstract": "Intranasal (es)ketamine has shown efficacy in therapy of treatment-resistant depression (TRD). However, its effects on suicidality have not been fully elucidated. We conducted a retrospective longitudinal cohort study of 80 patients affected by TRD and treated with intranasal (es)ketamine. Suicidality was assessed using item 10 of the clinician-rated Montgomery-Åsberg Depression Rating Scale (MADRS) and item 9 of the Beck-Depression-Inventory-II (BDI-II). We measured patient- and transition-level fluctuations of suicidality, tested temporal clustering using mixed-effects logistic regression, examined associations between non-suicidal depressive symptom change and suicidality worsening, and explored baseline predictors. Mean suicidality ratings decreased modestly. Upward and downward category transitions occurred at similar frequencies across treatment (MADRS: 57 increases and 50 decreases across 767 valid transitions, 7.4% vs. 6.5%; BDI-II: 22 increases and 23 decreases across 741 transitions, 3.0% vs. 3.1%). At least one upward transition occurred in 38.8% on MADRS and 21.3% on BDI-II. Transient elevations were more frequent than sustained elevations. Sustained elevation occurred at 15.0% on MADRS and 7.5% on BDI-II. Increases did not cluster by treatment phase. MADRS, but not BDI-II, upward transitions were associated with concurrent and lagged worsening in non-suicidal depressive symptoms. Higher baseline suicidality showed the most consistent association with later worsening across both measures. Two serious adverse events occurred, including one suicide. In this routine-care cohort, suicidality decreased on average, with no evidence of treatment-phase-specific worsening. Nonetheless, a minority of patients showed transient or, less often, sustained increases in suicidality, supporting necessity of continuous suicidality monitoring throughout (es)ketamine treatment.",
-      "date": "2026-10-21",
-      "authors": [
-        "Ehrt-Schäfer Yamina",
-        "Schoretsanitis Georgios",
-        "Seifritz Erich"
-      ],
-      "doi": "10.1016/j.jad.2026.122647"
-    },
-    {
-      "title": "Psilocybin and Inflammatory and Mitochondrial Stress Markers in Parkinson Disease: A Nonrandomized Clinical Trial.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42905733/",
-      "source": "PubMed",
-      "abstract": "This nonrandomized clinical trial assesses associations between psilocybin therapy and changes in systemic markers of inflammation and mitochondrial stress in people with Parkinson disease and mood dysfunction.",
-      "date": "2026-10-21",
-      "authors": [
-        "Bradley Ellen R",
-        "Kelley Parker",
-        "Szigeti Balázs"
-      ],
-      "doi": "10.1001/jamapsychiatry.2026.2733"
-    },
-    {
-      "title": "Psychedelics and Reward Processing: Before and After the 1970 Controlled Substances Act.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42903363/",
-      "source": "PubMed",
-      "abstract": "This narrative review traces how the scientific understanding of psychedelics has intersected with \"reward processing\" from before the Controlled Substances Act (CSA) era to the present, emphasizing how cultural and regulatory climates shaped what was viewed as an acceptable research question. Reward processing is treated as a family of partially overlapping phenomena: (1) reward-linked behavior (e.g., self-administration, conditioned place preference, reinstatement), (2) reward-circuit signals (e.g., mesolimbic dopamine dynamics, electrophysiology, human electroencephalography potentials), and (3) clinically relevant outcomes in substance use disorder (SUD) (e.g., withdrawal severity, consumption, relapse). Across these measures, the literature repeatedly adopts two framing logics: \"liability framing,\" which prioritizes misuse potential and dependence risk, and \"therapeutic framing,\" which treats psychedelics as tools for probing and potentially reconfiguring reward circuitry and learning. Organized by decade, the review shows that the 1960s already contained both motifs, with adjunctive therapeutic hopes alongside early reinforcement assays, while the CSA era increasingly systematized a hazard-first posture that defined the late 1970s through the 2000s, referred to as the \"psychedelic dark age.\" Within those constraints, monoamine and receptor pharmacology (including serotonin-dopamine interactions) became a dominant tool for investigating reward, and ibogaine programs loudly reintroduced a therapeutically oriented anti-addiction narrative. In the 2000s, serotonergic control of dopaminergic reward systems and entactogen models, including social reward, broadened the mechanistic frame. In the 2010s and 2020s, the field's momentum shifted toward therapeutic models, circuit plasticity, computationally interpretable reward signals, and renewed clinical work in SUD. The review argues that a central bottleneck is not a lack of provocative acute findings but rather a lack of experimental programs that bridge behavior, circuit signals, and longitudinal clinical endpoints. We therefore propose that revisiting important concepts and findings discussed herein with recently developed technology and approaches (e.g., cue-evoked signals, learning parameters, photometry) across dose, time, and sex would advance the field. We highlight practical study shifts to move toward an integrated account of how psychedelics modulate reward-relevant brain activity and behavior.",
-      "date": "2026-07-24",
-      "authors": [
-        "Company Matthew C",
-        "Lifshitz Dylan J",
-        "Sawaya M Farris"
-      ],
-      "doi": "10.1177/28314425261472614"
-    },
-    {
-      "title": "Dorsal Raphe Revisited: A Systems Neuroscience Lens on Psychedelic Drug Action.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42903319/",
-      "source": "PubMed",
-      "abstract": "Psychedelics rose to prominence in the 1960s, around the same time when neurobiologists identified the midbrain raphe as the brain's primary source of serotonin. It is therefore no surprise that early studies on classical psychedelics like",
-      "date": "2026-04-09",
-      "authors": [
-        "Kwan Alex C"
-      ],
-      "doi": "10.1177/28314425261429232"
     },
     {
       "title": "Pharma Moves In: Investors, Developers and Lilly’s Carole Ho at the Psychedelic Healthcare Forum",
@@ -563,7 +565,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2018-004480-31/CZ",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-10-29",
+      "date": "2026-10-30",
       "authors": [],
       "doi": ""
     },
@@ -572,7 +574,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2020-005037-32/CZ",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-10-29",
+      "date": "2026-10-30",
       "authors": [],
       "doi": ""
     },
@@ -581,7 +583,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2021-002909-10/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-10-29",
+      "date": "2026-10-30",
       "authors": [],
       "doi": ""
     },
@@ -590,7 +592,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2015-000550-37/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-10-29",
+      "date": "2026-10-30",
       "authors": [],
       "doi": ""
     },
@@ -599,7 +601,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2021-000041-40/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-10-29",
+      "date": "2026-10-30",
       "authors": [],
       "doi": ""
     },
@@ -608,7 +610,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2020-000829-55/DK",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-10-29",
+      "date": "2026-10-30",
       "authors": [],
       "doi": ""
     },
@@ -617,7 +619,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2020-002790-94/SE",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-10-29",
+      "date": "2026-10-30",
       "authors": [],
       "doi": ""
     },
@@ -626,7 +628,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2021-006200-33/FI",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-10-29",
+      "date": "2026-10-30",
       "authors": [],
       "doi": ""
     },
@@ -635,7 +637,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2019-004812-73/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-10-29",
+      "date": "2026-10-30",
       "authors": [],
       "doi": ""
     },
@@ -644,7 +646,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2022-002369-14/BE",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-10-29",
+      "date": "2026-10-30",
       "authors": [],
       "doi": ""
     },

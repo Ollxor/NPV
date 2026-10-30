@@ -1,6 +1,71 @@
 {
   "items": [
     {
+      "title": "Evolutionary neuropharmacology of serotonergic psychedelics: a cross-species perspective on mechanisms, consciousness, and therapeutic potential.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42957826/",
+      "source": "PubMed",
+      "date": "2026-10-28",
+      "authors": [
+        "Zhai Haojiang",
+        "Wang Hongshuang",
+        "Wang Yibo"
+      ],
+      "doi": "10.1038/s41380-026-03939-z",
+      "summary_en": "This review integrates evolutionary biology and neuroscience to examine serotonergic psychedelics across species. Using computational frameworks like predictive processing and REBUS, the authors explain how these substances reshape hierarchical inference and neural plasticity. While conserved receptor pharmacology exists across species, animal models reveal species-specific circuits rather than direct proxies for human experience, offering complementary platforms for investigating molecular and computational mechanisms underlying therapeutic potential.",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "review",
+      "substances": [
+        "psilocybin",
+        "lsd",
+        "other"
+      ],
+      "added_at": "2026-10-30T13:16:01.486794+00:00"
+    },
+    {
+      "title": "Cross-species mapping of acute psychedelic-responsive genes links HTR2A cortical expression, cell-type enrichment, and human cortical expression modules.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42957634/",
+      "source": "PubMed",
+      "date": "2026-08-01",
+      "authors": [
+        "McConnell Patrick A",
+        "Raffety Jackson",
+        "Li Andrew"
+      ],
+      "doi": "10.1038/s41398-026-04349-z",
+      "summary_en": "Cross-species transcriptomic analysis identifies genes rapidly activated by classical psychedelics within 3 hours of administration. Integration with human brain atlas data reveals cortex-centered enrichment, particularly in deep-layer projection neurons. Key findings link acute psychedelic response to HTR2A serotonin receptor expression and identify three cortical modules associated with synaptic plasticity and neural organization.",
+      "notable": true,
+      "notable_reason": "First cross-species transcriptomic mapping linking acute psychedelic-responsive genes to human cortical expression modules and HTR2A spatial distribution; mechanistic framework bridging preclinical and human neurobiology.",
+      "study_type": "review",
+      "substances": [
+        "psilocybin",
+        "lsd",
+        "other"
+      ],
+      "added_at": "2026-10-30T13:16:01.486794+00:00"
+    },
+    {
+      "title": "Participant experiences and recommendations for psychedelic clinical trials and future treatment delivery: a qualitative study with experts by experience from the Psychedelic Participant Advocacy Network.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42952701/",
+      "source": "PubMed",
+      "date": "2026-10-14",
+      "authors": [
+        "Seynaeve Mathieu",
+        "Schneider Leonie",
+        "Roullier Ian"
+      ],
+      "doi": "10.3389/fpsyt.2026.1682810",
+      "summary_en": "Qualitative study of four former psychedelic-trial participants examining experiences across recruitment, preparation, dosing, integration, and study closure. Thematic analysis identified how clinical-trial procedures, research conditions, and support structures shaped participant experiences beyond traditional 'set and setting' concepts. Study generated recommendations for improving future trial design and treatment delivery.",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "qualitative",
+      "substances": [
+        "psilocybin",
+        "other"
+      ],
+      "added_at": "2026-10-30T13:16:01.486794+00:00"
+    },
+    {
       "title": "How personalization and psychedelics are revitalizing psychiatry.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42951954/",
       "source": "PubMed",

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-29T13:27:23.770964+00:00",
+  "generated_at": "2026-10-30T13:17:00.018738+00:00",
   "items": [
     {
       "title": "How personalization and psychedelics are revitalizing psychiatry.",
@@ -27,6 +27,39 @@
         "other"
       ],
       "added_at": "2026-10-29T13:27:14.687339+00:00"
+    },
+    {
+      "title": "Evolutionary neuropharmacology of serotonergic psychedelics: a cross-species perspective on mechanisms, consciousness, and therapeutic potential.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42957826/",
+      "source": "PubMed",
+      "date": "2026-10-28",
+      "authors": [
+        "Zhai Haojiang",
+        "Wang Hongshuang",
+        "Wang Yibo"
+      ],
+      "doi": "10.1038/s41380-026-03939-z",
+      "summaries": {
+        "en": "This review integrates evolutionary biology and neuroscience to examine serotonergic psychedelics across species. Using computational frameworks like predictive processing and REBUS, the authors explain how these substances reshape hierarchical inference and neural plasticity. While conserved receptor pharmacology exists across species, animal models reveal species-specific circuits rather than direct proxies for human experience, offering complementary platforms for investigating molecular and computational mechanisms underlying therapeutic potential.",
+        "sv": "Denna översikt integrerar evolutionär biologi och neurovetenskap för att undersöka serotonerg psykedelika på tvärs av arter. Med hjälp av beräkningsramar som prediktiv bearbetning och REBUS förklarar författarna hur dessa ämnen omformar hierarkisk inferens och neuroplasticitet. Även om konserverad receptorfarmakologi finns på tvärs av arter visar djurmodeller artspecifika kretsar snarare än direkta motsvarigheter till mänsklig erfarenhet, och erbjuder kompletterande plattformar för att undersöka molekylära och beräkningsmässiga mekanismer.",
+        "no": "Denne oversikten integrerer evolusjonær biologi og neurovitenskap for å undersøke serotonerge psykedelika på tvers av arter. Ved å bruke beregningsrammer som prediktiv prosessering og REBUS forklarer forfatterne hvordan disse stoffene omformer hierarkisk inferens og neuroplastisitet. Selv om konservert reseptorfarmakologi finnes på tvers av arter, viser dyremodeller artsspesifikke kretser snarere enn direkte paralleller til menneskelig erfaring, og tilbyr komplementære plattformer for å undersøke molekylære og beregningsbiolologiske mekanismer.",
+        "da": "Denne oversigt integrerer evolutionær biologi og neurovidenskab for at undersøge serotonerge psykedelika på tværs af arter. Ved hjælp af beregningsrammer som prædiktiv processing og REBUS forklarer forfatterne, hvordan disse stoffer omformer hierarkisk inferens og neuroplasticitet. Selvom konserveret receptorfarmakologi findes på tværs af arter, viser dyremodeller artspecifikke kredsløb snarere end direkte paralleller til menneskelig erfaring og tilbyder komplementære platforme til at undersøge molekylære og beregningstekniske mekanismer.",
+        "fi": "Tämä katsaus yhdistää evoluutiobiologian ja neurotieteen tutkiakseen serotonergisia psykedeleijä eri lajien välillä. Laskennallisia kehyksiä, kuten ennustava prosessointi ja REBUS-malli, käyttäen kirjoittajat selittävät, kuinka nämä aineet muokkaavat hierarkkista päättelyä ja neuroplastisuutta. Vaikka konservoitunut reseptorifarmakologia on olemassa eri lajien välillä, eläinmallit paljastavat lajispesifisiä piirejä ihmisen kokemuksen suoraan vastineena olevan sijasta ja tarjoavat täydentäviä alustoja molekyylimekanismien tutkimukselle.",
+        "is": "Þessi yfirlitið samþættir þróunarfræði og taugavísindir til að rannsaka serotonín-tengda geðlyfj í þvert um tegundir. Með því að nota reiknilegar ramma eins og fyrirspár úrvinnslu og REBUS-líkanið útskýra höfundar hvernig þessi efni endurskipulagða stigskipuð ályktunarferli og taugaplasticitet. Þótt varðveitt reseptorfarmakólógía sé til staðar á milli tegunda sýna dýraliðir tegundabundna hringrása frekar en beina hliðstæðu mannlegrar reynslu og bjóða upp á viðbótarvettvanga til rannsóknar.",
+        "et": "See ülevaade ühendab evolutsioonibioloogia ja neuroteedustega, et uurida serotonergilisi psühhedeelilisi aine liiki vahel. Arvutuslike raamistike, nagu ennustav töötlemine ja REBUS-mudel, kasutades selgitavad autorid, kuidas need ained muudavad hierarhilist järeldamist ja neuroplastilisust. Ehkki konserveeritud retseptorifarmakooloogia eksisteerib liigiti, näitavad loomamudelid liigispetsiifilisi vooluahelaid pigem kui inimese kogemuse otsese vastasena ja pakuvad täiendavaid platvorme molekulaarsete mehhanismide uurimiseks.",
+        "lv": "Šis pārskats integrē evolūcijas bioloģiju un neurozinatni, lai pētītu serotonerģiskos psihedelikus dažādu sugu starpā. Izmantojot skaitļošanas ietvarus, piemēram, paredzošu apstrādi un REBUS-modeli, autori izskaidro, kā šīs vielas pārveidē hierarhiskus secinājumus un neuropastu. Lai gan konservēta receptoru farmakoloģija pastāv starp sugām, dzīvnieku modeļi atklāj sugas specifiskos ķēdes drīzāk nekā tiešus cilvēka pieredzes ekvivalentus un piedāvā papildu platformas molekulāro mehānismu pētīšanai.",
+        "lt": "Šis apžvalga integruoja evoliucijos biologiją ir neuroanfarmakologiją, siekdama tirti serotoninergines psichedelines medžiagas skirtingose rūšyse. Naudodami skaičiavimo sistemas, tokias kaip numatytas apdorojimas ir REBUS modelis, autoriai paaiškina, kaip šios medžiagos perraukia hierarchinę išvadą ir neuroplastiškumą. Nors išsaugota receptorių farmakoligija egzistuoja skirtingose rūšyse, gyvūnų modeliai atskleidžia rūšies specifines schemas, o ne žmogaus patirties tiesiogius ekvivalentus, ir siūlo papildomus plotus molekuliniams mechanizmams tirti."
+      },
+      "notable": false,
+      "notable_reasons": null,
+      "relevance_score": 4,
+      "study_type": "review",
+      "substances": [
+        "psilocybin",
+        "lsd",
+        "other"
+      ],
+      "added_at": "2026-10-30T13:16:01.486794+00:00"
     },
     {
       "title": "Gut consciousness: a perspective on visceral phenomenal awareness.",
@@ -770,6 +803,38 @@
         "psilocybin"
       ],
       "added_at": "2026-10-16T11:42:59.299861+00:00"
+    },
+    {
+      "title": "Participant experiences and recommendations for psychedelic clinical trials and future treatment delivery: a qualitative study with experts by experience from the Psychedelic Participant Advocacy Network.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42952701/",
+      "source": "PubMed",
+      "date": "2026-10-14",
+      "authors": [
+        "Seynaeve Mathieu",
+        "Schneider Leonie",
+        "Roullier Ian"
+      ],
+      "doi": "10.3389/fpsyt.2026.1682810",
+      "summaries": {
+        "en": "Qualitative study of four former psychedelic-trial participants examining experiences across recruitment, preparation, dosing, integration, and study closure. Thematic analysis identified how clinical-trial procedures, research conditions, and support structures shaped participant experiences beyond traditional 'set and setting' concepts. Study generated recommendations for improving future trial design and treatment delivery.",
+        "sv": "Kvalitativ studie med fyra tidigare försöksdeltagare som undersökte erfarenheter från rekrytering, förberedelse, dosering, integrering och avslutning. Tematisk analys visade hur kliniska försöksprotokoll, forskningsspecifika villkor och stödstrukturer påverkade upplevelserna bortom traditionella 'set och setting'-koncept. Studien genererade rekommendationer för framtida försök och behandlingsöverföring.",
+        "no": "Kvalitativ studie av fire tidligere psykedelika-forsøksdeltakere som undersøkte erfaringer fra rekruttering, forberedelse, dosering, integrering og avslutning. Tematisk analyse viste hvordan kliniske forsøksprosedyrer, forskningsspesifikke forhold og støttestrukturer formet opplevelsene utover tradisjonelle 'set og setting'-konsepter. Studien ga anbefalinger for fremtidige forsøk og behandlingslevering.",
+        "da": "Kvalitativ studie af fire tidligere psykedelika-forsøgsdeltager der undersøgte erfaringer fra rekruttering, forberedelse, dosering, integration og afslutning. Tematisk analyse viste, hvordan kliniske forsøgsprocedurer, forskningsspecifikke forhold og støttestrukturer formede oplevelserne ud over traditionelle 'set og setting'-koncepter. Studien gav anbefalinger til fremtidige forsøg og behandlingslevering.",
+        "fi": "Kvalitatiivinen tutkimus neljän entisen psykedeeli-tutkimuksen osallistujan kokemuksista rekrytoinnista, valmistautumisesta, annostuksesta, integroinnista ja tutkimuksen päättymisestä. Temaattinen analyysi osoitti, kuinka kliiniset tutkimusprotokollat, tutkimuskohtaiset olosuhteet ja tukirakenteet muovasivat kokemuksia perinteisten 'set ja setting' -käsitteiden ulkopuolella. Tutkimus tuotti suosituksia tulevien tutkimusten ja hoitojen järjestämiseen.",
+        "is": "Eigindleikin rannsókn á reynslu fjórir fyrri þátttakenda í tilraunum með sálfræðilegum efnasamböndum frá ráðningu til heilabrigðri lokunar. Þemaskipting greining sýndi hvernig klínískar tilraunaaðferðir, rannsóknarsérstakar aðstæður og stuðningskerfi mótuðu reynslu fyrir utan hefðbundin 'set og setting' hugtök. Rannsóknin framleiddi tillögur til framtíðartilrauna og meðferðarflutnings.",
+        "et": "Kvalitatiivne uuring nelja endise psühhedeelikumide katsekokku osaleja kogemustest värbamisest, ettevalmistusest, doseerimisest, integreerimisest ja uuringu lõppemiseni. Temaatiline analüüs näitas, kuidas kliinilised uuringuprotokollid, uuringuspetsiifilised tingimused ja tugisüsteemid kujundasid kogemusi väljaspool traditsioonilist 'seatud ja keskkonda'. Uuring tegi soovitusi tulevaste uuringute ja ravi andmise parendamiseks.",
+        "lv": "Kvalitatīvs pētījums ar četriem bijušajiem psihedēlisko vielu klīnisko pārbaužu dalībniekiem, kurā pārbaudīti pieredzes no komplektēšanas, sagatavošanas, dozēšanas, integrācijas un pārbaudes beigām. Tematiskā analīze parādīja, kā klīniskās pārbaudes procedūras, pētniecībai specifiski apstākļi un atbalsta struktūras ietekmēja pieredzes ārpus tradicionālajiem 'setting' jēdzieniem. Pētījums sniedza ieteikumus nākotnes pārbaudēm un ārstēšanas nodrošināšanai.",
+        "lt": "Kokybinis tyrimas su keturiais buvusiais psichedelinių medžiagų klinikinių bandymų dalyviais, kuriame nagrinėtos patirtys nuo verbavimo, pasiruošimo, dozavimo, integracijos ir bandymo pabaigos. Teminė analizė parodė, kaip klinikinės bandymų procedūros, tyrimui būdingos sąlygos ir paramos struktūros formavo patirtį už tradicinių 'aplinkos ir sąlygų' koncepcijų ribų. Tyrimas davė rekomendacijas ateities bandymams ir gydymo teikimui."
+      },
+      "notable": false,
+      "notable_reasons": null,
+      "relevance_score": 4,
+      "study_type": "qualitative",
+      "substances": [
+        "psilocybin",
+        "other"
+      ],
+      "added_at": "2026-10-30T13:16:01.486794+00:00"
     },
     {
       "title": "Use of Electroconvulsive Therapy and Ketamine in a POLG-Related Disorder.",
@@ -1911,65 +1976,6 @@
         "ibogaine"
       ],
       "added_at": "2026-10-16T11:42:59.299861+00:00"
-    },
-    {
-      "title": "Self-medication of attention-deficit/hyperactivity disorder symptoms with psychoactive substances in adults: a scoping review of how symptom-relief motives are framed and operationalised across substances.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42877221/",
-      "source": "PubMed",
-      "date": "2026-09-30",
-      "authors": [
-        "Adamou Marios",
-        "Petrou Christos"
-      ],
-      "doi": "10.3389/fpsyt.2026.1966206",
-      "summaries": {
-        "en": "Scoping review examining how self-medication of ADHD symptoms with psychoactive substances is framed across tobacco, cannabis, alcohol, cocaine, and non-prescribed stimulants in adults. The review maps literature invoking the self-medication hypothesis—that people with ADHD use substances to relieve core symptoms rather than recreationally—characterizing how different sources frame this concept relative to misuse and addiction vulnerability accounts.",
-        "sv": "Översiktsöversikt som undersöker hur självmedicinering av ADHD-symtom med psykoaktiva substanser formuleras för tobak, cannabis, alkohol, kokain och receptfria stimulantia hos vuxna. Granskningen kartlägger litteratur som åberopar självmedicineringshypotesen—att personer med ADHD använder substanser för att lindra kärnasymtom snarare än rekreativt—och karakteriserar hur olika källor formulerar detta koncept i relation till missbruk och delad beroendebenägenhet.",
-        "no": "Scoping review som undersøker hvordan selvmedisinering av ADHD-symptomer med psykoaktive stoffer blir fremstilt på tvers av tobakk, cannabis, alkohol, kokain og reseptfrie stimulansia hos voksne. Gjennomgangen kartlegger litteratur som påberoper selvmedisinerings-hypotesen—at mennesker med ADHD bruker stoffer for å lindre kjernestomptomer snarere enn rekreativt—og karakteriserer hvordan ulike kilder framstiller dette konseptet relativt til misbruk og delt avhengighetstendens.",
-        "da": "Scoping review, der undersøges hvordan selvmedicinering af ADHD-symptomer med psykoaktive stoffer præsenteres på tværs af tobak, cannabis, alkohol, kokain og receptpligtig stimulansia hos voksne. Oversigten kortlægger litteratur, der påberåber selvmedicineringstesen—at personer med ADHD bruger stoffer for at lindre kernesymptomer snarere end rekreativt—og karakteriserer hvordan forskellige kilder præsenterer dette koncept i forhold til misbrug og delt afhængighedstilbøjelighed.",
-        "fi": "Katsaus, jossa tutkitaan, kuinka ADHD-oireiden itselääkitys psykoaktiivisilla aineilla esitetään tupakan, kannabiksen, alkoholin, kokaiinin ja reseptivapaan stimulanttien osalta aikuisilla. Katsaus kartoittaa kirjallisuutta, joka vedotaan itselääkityshypoteesiin—että ADHD:n omaavat henkilöt käyttävät aineita ydinympäristöjen lievittämiseen pikemmin kuin vapaa-ajan käyttöön—ja luonnehtii, kuinka eri lähteet esittävät tämän käsitteen väärinkäyttö- ja jaetun riippuvuusalttiuden suhteen.",
-        "is": "Umfangsmatskoðun sem skoðar hvernig sjálflækningarhefð fyrir einkenni ADHD með sálkrafa efnum er sett fram á milli tóbaks, kannabís, áfengis, kokains og óávísaðra stimulanda hjá fullorðnum. Endurskođunin kortleggur bókmenntir sem vitna til sjálflækningarhypótesunnar—að fólk með ADHD notar efni til að draga úr kjarnaeinkenndum frekar en til afþreyingar—og einkennir hvernig mismunandi heimildir setja þetta hugtak fram miðað við misnotkun og sameiginlega fíkniefnaviðkvæmni.",
-        "et": "Ülevaade, mis uurib, kuidas ADHD sümptomite omamajandamist psühhotiivse ainetega esitatakse tubaka, kannabise, alkoholi, kokaiini ja retseptivaba stimulatsi osas täiskasvanutel. Ülevaade kaardistab kirjandust, mis tuginevad omamajandamise hüpoteesile—et ADHD-ga inimesed kasutavad aineid peamiste sümptomite leevendamiseks pigem kui vaba aja jooksul—ja iseloomustab, kuidas erinevad allikad esitavad seda kontseptsiooni kuritarvitamise ja jagatud sõltuvusastme suhtes.",
-        "lv": "Apjoma pārskats, kas pēta, kā ADHD simptomu pašārstēšana ar psihoaktīvām vielām tiek uzrādīta dūmakošanas, kannabisa, alkohola, kokaīna un bez receptes pieejamiem stimulatoriem pieaugušo vidū. Pārskats kartē literatūru, kas atsaucas uz pašārstēšanas hipotēzi—ka cilvēki ar ADHD lieto vielas, lai mazinātu pamatnes simptomus, nevis brīvā laika nolūkos—un raksturo, kā dažādi avoti attēlo šo jēdzienu attiecībā pret ļaunprātīgu lietošanu un kopīgu atkarības vainagojumu.",
-        "lt": "Apžvalgos studija, kurioje tiriama, kaip ADHD simptomų savarankiška gydymas psichoaktyviosiomis medžiagomis pateikiamas dėl tabako, konopelių, alkoholio, kokaino ir be recepto gautų stimulantų suaugusiųjų tarpe. Apžvalga sudarė žemėlapį literatūros, nurodančios į savarankiško gydymo hipotezę—kad ADHD turintys žmonės naudoja medžiagas pagrindiniams simptomams palengvinti, o ne laisvalaikiu—ir apibūdina, kaip skirtiniai šaltiniai pateikia šią sąvoką dėl piktnaudžiavimo ir bendro priklausomybės polinkio."
-      },
-      "notable": false,
-      "notable_reasons": null,
-      "relevance_score": 3,
-      "study_type": "review",
-      "substances": [
-        "other"
-      ],
-      "added_at": "2026-10-16T11:42:59.299861+00:00"
-    },
-    {
-      "title": "Worsening of Depression and Anxiety With Psilocybin: A Case Report in Cyclothymia.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42814595/",
-      "source": "PubMed",
-      "date": "2026-09-30",
-      "authors": [
-        "Ghaemi S Nassir"
-      ],
-      "doi": "10.4088/JCP.26cr16608",
-      "summaries": {
-        "en": "Case report documenting worsening of depressive and anxiety symptoms following psilocybin administration in a patient with cyclothymia. The report highlights potential risks of classical hallucinogens in individuals with mood cycling disorders and emphasizes the importance of careful patient screening in psychedelic-assisted therapy.",
-        "sv": "Fallrapport som dokumenterar försämring av depressiva och ångestsymtom efter psilocybinbehandling hos en patient med cyklotymi. Rapporten belyser potentiella risker med klassiska hallucinogener hos individer med bipolär spektrumstörningar och betonar vikten av noggrann patientscreening i psykedelika-assisterad terapi.",
-        "no": "Pasientrapport som dokumenterer forverring av depressive og angstplager etter psilocybinbehandling hos pasient med syklotyymi. Rapporten fremhever potensielle risker ved klassiske hallusinogener hos personer med sykliske stemningsforstyrelser og understreker betydningen av grundig pasientscreening i psykedelika-assistert terapi.",
-        "da": "Patientrapport, der dokumenteres forværring af depressive og angstymptomer efter psilocinbehandling hos patient med cyklotymi. Rapporten fremhæver potentielle risici ved klassiske hallucinogener hos personer med cykliske humørforstyrrelser og understreger vigtigheden af omhyggelig patientscreening i psykedelika-assisteret terapi.",
-        "fi": "Potilastapaus, joka dokumentoi psilosiinin aiheuttamaa masennuksen ja ahdistuksen pahenemista syklotyymiapotilaan kohdalla. Raportti tuo esiin klassisten hallusinogeenien mahdolliset riskit henkilöillä, joilla on syklisiä mielialahäiriöitä, ja korostaa huolellisen potilasvalinnan merkitystä psykedeeli-avusteisessa terapiassa.",
-        "is": "Sjúkratilfelli sem skjalfesti versnun á þunglyndi og kvíða eftir psílosýbínaðferð hjá sjúklingi með syklunum þunglyndi. Skýrslan leggur áherslu á hugsanlega hættu klassískra hallósinógena hjá einstaklingum með hringlaga þunglyndisröskun og leggur áherslu á mikilvægi gæta við valkosningu sjúklinga í psýkedelíka-aðstoðaðri meðferð.",
-        "et": "Patsientijuhtum, mis dokumenteerib psülotsübiini kasutamisel esinenenud depressiooni ja ärevuse halvenemist tsüklotüümia patsiendil. Aruanne toob esile klassikaliste hallutsinogeenide võimalikud riskid tsüklilist meeleoluhäiret põdevatel inimestel ja rõhutab hoolikate patsiendi sõelumise tähtsust psühhedeelika-abil ravimeetodites.",
-        "lv": "Pacienta slimības gadījuma apraksts, kurā dokumentēts depresijas un trauksmes simptoma pasliktināšanās psilocibīna lietošanas rezultātā pacientam ar ciklotīmiju. Atskaite uzsver klasisko hallucināģenu potenciālos riskus cilvēkiem ar cikliskiem garastāvokļa traucējumiem un uzsver aprūpju pacienta atlases nozīmīgumu psihedēliku-palīdzības terapijā.",
-        "lt": "Paciento sveikatos atveju aprašymas, kuriame dokumentuojamas depresijos ir nerimo simptomų pablogėjimas psilocibino panaudojimo metu ciklotimijos pacientui. Ataskaita atkreipia dėmesį į klasikinių haliumcinogenų potencialius rizikus asmenims, turintiems ciklinių nuotaikos sutrikimų, ir pabrėžia kruopščios paciento atrankos svarbą psichedeliniais medžiagomis padedamoje terapijoje."
-      },
-      "notable": false,
-      "notable_reasons": null,
-      "relevance_score": 3,
-      "study_type": "case_report",
-      "substances": [
-        "psilocybin"
-      ],
-      "added_at": "2026-10-01T13:39:29.652706+00:00"
     }
   ]
 }

@@ -1,6 +1,168 @@
 {
   "items": [
     {
+      "title": "Real-world clinical outcomes under intravenous and subcutaneous esketamine protocols for treatment-resistant depression: a multicenter, retrospective study.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42964351/",
+      "source": "PubMed",
+      "date": "2026-10-16",
+      "authors": [
+        "Alves Gilberto Sousa",
+        "Dos Santos Humberto M M",
+        "Damasceno Samira D"
+      ],
+      "doi": "10.3389/fpsyt.2026.1963841",
+      "summary_en": "Multicenter retrospective study (2023-2025) comparing IV and SC esketamine for treatment-resistant depression in 72 Brazilian patients (IV: n=26, 6 sessions; SC: n=46, 12 sessions). At 6 sessions, IV showed numerically higher BDI-II response rates but difference was not statistically significant (p=0.059). Both routes demonstrated clinical efficacy with comparable tolerability profiles.",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "observational",
+      "substances": [
+        "ketamine"
+      ],
+      "added_at": "2026-10-31T12:54:21.169913+00:00"
+    },
+    {
+      "title": "Oral Esketamine Maintenance Treatment for Treatment-Resistant Depression: Clinical Outcomes During an Off-Label Treatment Program.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42964271/",
+      "source": "PubMed",
+      "date": "2026-10-29",
+      "authors": [
+        "Smith-Apeldoorn Sanne Y",
+        "Veraart Jolien K E",
+        "Spijker Jan"
+      ],
+      "doi": "10.1155/da/8320239",
+      "summary_en": "Observational study (n=93) examining oral esketamine maintenance for treatment-resistant depression. Patients received individually titrated doses (max 3.0 mg/kg twice weekly) at home following 6-week clinic-based induction. Primary outcome: depression severity change measured by HDRS-17. Study enrolled 221 patients June 2017–March 2024, with 93 continuing to maintenance phase. Results support feasibility of long-term esketamine treatment, though optimization of outcomes requires further investigation.",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "observational",
+      "substances": [
+        "ketamine"
+      ],
+      "added_at": "2026-10-31T12:54:21.169913+00:00"
+    },
+    {
+      "title": "MDMA-Assisted Therapy for Veterans with Comorbid Posttraumatic Stress Disorder and Alcohol Use Disorder: Clinical Outcomes from the First Open-Label Pilot Trial.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42962981/",
+      "source": "PubMed",
+      "date": "2026-10-30",
+      "authors": [
+        "Eaton Erica",
+        "Capone Christy",
+        "Gully Brian J"
+      ],
+      "doi": "10.1016/j.alcohol.2026.107464",
+      "summary_en": "Open-label pilot trial (N=10) examined MDMA-assisted therapy for U.S. Veterans with comorbid PTSD and alcohol use disorder. Intervention included 11 therapy sessions with two MDMA-assisted sessions. PTSD symptoms significantly improved (p=0.006, d=1.241), with 90% completion rate. Descriptive reductions observed: 31% fewer drinks per drinking day, 54% fewer heavy drinking days. Safety and tolerability were favorable.",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "case_report",
+      "substances": [
+        "mdma"
+      ],
+      "added_at": "2026-10-31T12:54:21.169913+00:00"
+    },
+    {
+      "title": "Effects of psilocybin with psychological support on anhedonia in treatment-resistant depression: A randomized controlled pilot trial.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42962721/",
+      "source": "PubMed",
+      "date": "2026-10-30",
+      "authors": [
+        "Novick Andrew M",
+        "Love Tiffany M",
+        "Johnson Rachel L"
+      ],
+      "doi": "10.1016/j.jad.2026.122676",
+      "summary_en": "Randomized controlled pilot trial (n=20) examining psilocybin with psychological support for anhedonia in treatment-resistant depression. Primary outcome (DARS at week 1) showed no significant difference between 25 mg and placebo (p=0.073). Secondary outcomes at week 8 favored 25 mg psilocybin: greater anhedonia improvement on DARS (p=0.018) and MADRS depression scores at weeks 1 and 8 (p=0.002). Results suggest potential benefit for anhedonia at later timepoints.",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "rct",
+      "substances": [
+        "psilocybin"
+      ],
+      "added_at": "2026-10-31T12:54:21.169913+00:00"
+    },
+    {
+      "title": "Rapid antidepressant effects of ketamine combined with selective serotonin reuptake inhibitors: Mechanisms and outlook.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42962408/",
+      "source": "PubMed",
+      "date": "2026-10-21",
+      "authors": [
+        "Xiao Chunfeng",
+        "Xu Xinpeng",
+        "Yao Wentao"
+      ],
+      "doi": "10.1016/j.jpsychires.2026.10.038",
+      "summary_en": "This review examines ketamine combined with SSRIs for major depressive disorder. A single subanesthetic ketamine dose accelerates SSRI response in treatment-resistant patients. The authors propose the GLIMPSE model explaining synergistic mechanisms via dorsal raphe-prefrontal cortex circuits and synaptic plasticity. Safety monitoring for serotonin syndrome and future research directions are outlined.",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "review",
+      "substances": [
+        "ketamine"
+      ],
+      "added_at": "2026-10-31T12:54:21.169913+00:00"
+    },
+    {
+      "title": "The Fireside Database: Large-scale evidence from 25,419 psychedelic support interactions.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42962007/",
+      "source": "PubMed",
+      "date": "2026-10-30",
+      "authors": [
+        "Schoeller Felix",
+        "Santolini Marc",
+        "Xiadani Dana"
+      ],
+      "doi": "10.1126/sciadv.aeg4737",
+      "summary_en": "The Fireside Database comprises 25,419 peer support interactions from a US helpline (2021-2026), documenting nonclinical psychedelic use. Psilocybin was most commonly reported (59.9%), while cannabis showed highest distress rates (47.2%). Data from 220 trained volunteers and 2,777 satisfaction surveys enable research on psychedelic epidemiology, support effectiveness, and training optimization.",
+      "notable": true,
+      "notable_reason": "Large dataset (n=25,419 interactions) with structured outcome data across multiple dimensions, directly informing evidence-based harm reduction and support frameworks as clinical policy expands.",
+      "study_type": "observational",
+      "substances": [
+        "psilocybin",
+        "cannabis",
+        "other"
+      ],
+      "added_at": "2026-10-31T12:54:21.169913+00:00"
+    },
+    {
+      "title": "Efficacy, safety, and tolerability of lysergic acid diethylamide for the treatment of depressive symptoms: A meta-analysis and systematic review.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42960975/",
+      "source": "PubMed",
+      "date": "2026-10-30",
+      "authors": [
+        "Chiorean Andreea",
+        "Kim Helena K",
+        "Lustig Andrew"
+      ],
+      "doi": "10.1177/02698811261488460",
+      "summary_en": "Meta-analysis of 5 RCTs examined LSD's efficacy for depression in adults with mental disorders. Results indicate LSD, with or without psychological support, reduces depression scores in clinical populations. However, small sample sizes limit conclusions. Well-designed trials are needed to establish safety and efficacy for depression treatment.",
+      "notable": true,
+      "notable_reason": "Systematic review and meta-analysis synthesizing RCT evidence on LSD for depression; mentions FDA breakthrough designation for anxiety; addresses clinical efficacy and safety in regulated mental health context.",
+      "study_type": "review",
+      "substances": [
+        "lsd"
+      ],
+      "added_at": "2026-10-31T12:54:21.169913+00:00"
+    },
+    {
+      "title": "Predictive value of EEG/ECG biomarkers for treatment response in depression.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42962321/",
+      "source": "PubMed",
+      "date": "2026-10-26",
+      "authors": [
+        "Provaznikova Barbora",
+        "de Bardeci Mateo",
+        "Altamiranda Enzo"
+      ],
+      "doi": "10.1016/j.clinph.2026.2112444",
+      "summary_en": "Retrospective study (n=153) examined whether EEG/ECG biomarker-guided treatment selection improved depression outcomes. Patients received ECT, rTMS, esketamine, or SSRIs (2022–2024). Concordant treatments showed higher response rates: ECT 70% vs 50%, rTMS 30% vs 13%, esketamine 31% vs 10%, SSRIs 100% vs 11%. Overall, 46% concordant vs 26% non-concordant patients responded (NNT≈5). EEG/ECG decision support warrants prospective confirmation.",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "observational",
+      "substances": [
+        "ketamine"
+      ],
+      "added_at": "2026-10-31T12:54:21.169913+00:00"
+    },
+    {
       "title": "Evolutionary neuropharmacology of serotonergic psychedelics: a cross-species perspective on mechanisms, consciousness, and therapeutic potential.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42957826/",
       "source": "PubMed",

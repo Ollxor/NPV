@@ -1,6 +1,65 @@
 {
   "items": [
     {
+      "title": "Therapeutic Potential of Classical Psychedelics and Non-Hallucinogenic Psychoplastogens in Psychiatric Disorders.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42964905/",
+      "source": "PubMed",
+      "date": "2026-03-10",
+      "authors": [
+        "Hashimoto Kenji",
+        "Arıcıoğlu Feyza",
+        "Çetin Mesut"
+      ],
+      "doi": "10.65801/pcp.3512",
+      "summary_en": "Review of classical psychedelics (psilocybin, DMT, LSD) and non-hallucinogenic psychoplastogens for treating depression and related psychiatric disorders. Evidence shows rapid, sometimes sustained mood improvements under supervised conditions, addressing limitations of conventional antidepressants. Discussion includes methodological challenges in RCTs: small samples, expectancy effects, and blinding difficulties, plus mechanistic frameworks beyond serotonin pathways.",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "review",
+      "substances": [
+        "psilocybin",
+        "lsd",
+        "ketamine",
+        "other"
+      ],
+      "added_at": "2026-11-01T13:40:07.157104+00:00"
+    },
+    {
+      "title": "Psilocybin Use in Psychiatry: Clinical Practice and Public Health Implications.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42966740/",
+      "source": "PubMed",
+      "date": "2026-11-01",
+      "authors": [
+        "Olfson Mark"
+      ],
+      "doi": "10.1176/appi.ajp.20260628",
+      "summary_en": "This article examines psilocybin's clinical applications in psychiatry and its broader public health implications. The review discusses current evidence for therapeutic use, treatment protocols, and considerations for integrating psilocybin-assisted therapies into clinical practice, alongside relevant regulatory and societal factors.",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "other",
+      "substances": [
+        "psilocybin"
+      ],
+      "added_at": "2026-11-01T13:40:07.157104+00:00"
+    },
+    {
+      "title": "Furthering the Understanding of Psilocybin Use and Molecules Relevant to Depression and Schizophrenia.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42966738/",
+      "source": "PubMed",
+      "date": "2026-11-01",
+      "authors": [
+        "Kalin Ned H"
+      ],
+      "doi": "10.1176/appi.ajp.20260960",
+      "summary_en": "Research examines psilocybin and related molecules to understand their mechanisms in treating depression and schizophrenia. The study investigates molecular pathways and therapeutic potential of these compounds in psychiatric conditions.",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "other",
+      "substances": [
+        "psilocybin"
+      ],
+      "added_at": "2026-11-01T13:40:07.157104+00:00"
+    },
+    {
       "title": "Real-world clinical outcomes under intravenous and subcutaneous esketamine protocols for treatment-resistant depression: a multicenter, retrospective study.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42964351/",
       "source": "PubMed",

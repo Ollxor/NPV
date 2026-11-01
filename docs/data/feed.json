@@ -1,6 +1,64 @@
 {
-  "generated_at": "2026-10-31T12:56:43.838576+00:00",
+  "generated_at": "2026-11-01T13:40:44.914837+00:00",
   "items": [
+    {
+      "title": "Psilocybin Use in Psychiatry: Clinical Practice and Public Health Implications.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42966740/",
+      "source": "PubMed",
+      "date": "2026-11-01",
+      "authors": [
+        "Olfson Mark"
+      ],
+      "doi": "10.1176/appi.ajp.20260628",
+      "summaries": {
+        "en": "This article examines psilocybin's clinical applications in psychiatry and its broader public health implications. The review discusses current evidence for therapeutic use, treatment protocols, and considerations for integrating psilocybin-assisted therapies into clinical practice, alongside relevant regulatory and societal factors.",
+        "sv": "Artikeln undersöker psyklocybins kliniska tillämpningar inom psykiatrin och bredare folkhälsoperspektiv. Översikten diskuterar aktuell evidens för terapeutisk användning, behandlingsprotokoll och överväganden för att integrera psykodelika-assisterad terapi i klinisk praktik, tillsammans med relevanta regulatoriska och samhälleliga faktorer.",
+        "no": "Artikkelen gjennomgår psylocybins kliniske anvendelser innen psykiatri og bredere folkehelseperspektiver. Oversikten diskuterer dagens evidens for terapeutisk bruk, behandlingsprotokoller og hensyn ved integrering av psykedelika-assistert terapi i klinisk praksis, sammen med relevante regulatoriske og samfunnsmessige faktorer.",
+        "da": "Artiklen undersøger psilocybins kliniske anvendelser inden for psykiatri og bredere sundhedspolitiske perspektiver. Oversigten diskuterer nuværende evidens for terapeutisk brug, behandlingsprotokoller og overvejelser omkring integrering af psykedelika-assisteret terapi i klinisk praksis samt relevante regulatoriske og samfundsmæssige faktorer.",
+        "fi": "Artikkeli käsittelee psylosybiinin kliinisiä soveltamiskohteita psykiatriassa ja laajempia kansanterveysvaikutuksia. Katsaus esittelee nykyistä näyttöä terapeuttisesta käytöstä, hoitoprotokollia ja huomioita psykedeliikka-avusteisen terapian integroimisesta kliiniseen käytäntöön sekä asiaankuuluvia sääntelyyn ja yhteiskuntaan liittyviä tekijöitä.",
+        "is": "Greinin fjallar um klíníska notkun psýlósýbíns í geðlækningum og víðtækari heilbrigðispolitískum áhrifum. Yfirlitið fjallar um núverandi sönnunargögn fyrir meðferðanotkun, meðferðarsamskipti og sjónarmið um að fella psýkedelíka-aðstoðaða meðferð inn í klíníska æfingu ásamt viðeigandi reglugerðum og samfélagslegum þáttum.",
+        "et": "Artikkel käsitleb psülotsibiini kliinikalist rakendamist psühhiaaatrias ja laiemaid rahvatervisealaseid mõjusid. Ülevaade arutleb praegust tõenduspõhist seisukohta teraapilistest kasutustest, ravi protokollidest ja kaalutlustest psühhedeelikate-abiliste teraapiavõtete integreerimiseks kliinilisse praktikaasse ning asjakohastest regulatoorsetest ja ühiskondlikest teguritest.",
+        "lv": "Raksts aplūko psīlocibiīna klīniskos pielietojumus psihiatrijā un plašākus sabiedrības veselības aspektus. Pārskats apspriež pašreizējos pierādījumus terapeitiskai lietošanai, ārstēšanas protokolus un apsvērumus psihedeliku-palīdzības terapijas integrēšanai klīniskajos protokolos, kā arī atbilstošus normatīvos un sabiedrības faktorus.",
+        "lt": "Straipsnis nagrinėja psilocibiną psichiatrijoje ir platesnius visuomenės sveikatos aspektus. Apžvalga aptaria dabartinį psichodeliku-pagalbinės terapijos terapinės naudos įrodymą, gydymo protokolus ir svarbius aspektus, integruojant šią terapiją į klinikinę praktiką, bei atitinkamus reguliacinius ir visuomenės veiksnius."
+      },
+      "notable": false,
+      "notable_reasons": null,
+      "relevance_score": 3,
+      "study_type": "other",
+      "substances": [
+        "psilocybin"
+      ],
+      "added_at": "2026-11-01T13:40:07.157104+00:00"
+    },
+    {
+      "title": "Furthering the Understanding of Psilocybin Use and Molecules Relevant to Depression and Schizophrenia.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42966738/",
+      "source": "PubMed",
+      "date": "2026-11-01",
+      "authors": [
+        "Kalin Ned H"
+      ],
+      "doi": "10.1176/appi.ajp.20260960",
+      "summaries": {
+        "en": "Research examines psilocybin and related molecules to understand their mechanisms in treating depression and schizophrenia. The study investigates molecular pathways and therapeutic potential of these compounds in psychiatric conditions.",
+        "sv": "Forskningen undersöker psilocybin och relaterade molekyler för att förstå deras verkningsmönster vid behandling av depression och schizofreni. Studien analyserar molekylära vägar och terapeutisk potential hos dessa substanser.",
+        "no": "Forskningen undersøker psilocybin og relaterte molekyler for å forstå deres virkningsmekanismer ved behandling av depresjon og schizofreni. Studien analyserer molekylære signalveier og terapeutisk potensial.",
+        "da": "Forskningen undersøger psilocybin og relaterede molekyler for at forstå deres virkningsmekanismer ved behandling af depression og skizofreni. Studien analyserer molekylære signalveje og terapeutisk potentiale.",
+        "fi": "Tutkimus selvittää psilosybiinin ja siihen liittyvien molekyylien vaikutusmekanismeja masennuksen ja skitsofrenian hoidossa. Tutkimuksessa analysoidaan molekulaarisia signaalireittejä ja hoitopotentiaalia.",
+        "is": "Rannsóknin skoðar psíló­sýbín og tengdar sameindir til að skilja virknikerfi þeirra við meðferð á þunglyndi og sýkósum truflunum. Rannsóknin greinir sameindakerfi og meðferðarmöguleika.",
+        "et": "Uurimus uurib psilo­tsübiini ja seotud molekule, et mõista nende toimemehhanisme depressiooni ja skisofreenia ravil. Uuritakse molekulaarseid signaaliteid ja ravi potentsiaali.",
+        "lv": "Pētījums pēta psilo­cibīnu un saistītās molekulas, lai izprastu to darbības mehānismus depresijas un šizofrēnijas ārstēšanā. Tiek analizēti molekulārie signālu ceļi un terapeitiskais potenciāls.",
+        "lt": "Tyrime tiriami psilo­cibi­nai ir susijusios molekulės, siekiant suprasti jų veikimo mechanizmą depresijos ir šizofreni­jos gydyme. Analizuojami molekuliniai signalo keliai ir terapinis potencialas."
+      },
+      "notable": false,
+      "notable_reasons": null,
+      "relevance_score": 3,
+      "study_type": "other",
+      "substances": [
+        "psilocybin"
+      ],
+      "added_at": "2026-11-01T13:40:07.157104+00:00"
+    },
     {
       "title": "MDMA-Assisted Therapy for Veterans with Comorbid Posttraumatic Stress Disorder and Alcohol Use Disorder: Clinical Outcomes from the First Open-Label Pilot Trial.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42962981/",
@@ -1908,77 +1966,6 @@
         "mdma"
       ],
       "added_at": "2026-10-21T12:08:41.127713+00:00"
-    },
-    {
-      "title": "Serotonin biology as a basis for explaining psychedelic drug action.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42833201/",
-      "source": "PubMed",
-      "date": "2026-Oct-05",
-      "authors": [
-        "Knox Cory A",
-        "Li-Wu Athena",
-        "Kwan Alex C"
-      ],
-      "doi": "10.1016/j.cub.2026.08.045",
-      "summaries": {
-        "en": "This review examines how classical psychedelics act through the serotonergic system. While these compounds bind multiple serotonin receptors like endogenous serotonin, their receptor profiles and spatiotemporal patterns differ. The authors synthesize evidence on serotonin's roles in reward learning, visual processing, and cerebrovascular function, contrasting effects of endogenous serotonin with exogenous psychedelic administration. Many psychedelic effects can be understood as perturbations to serotonergic signaling, though some actions remain mechanistically unclear.",
-        "sv": "Denna översikt undersöker hur klassiska psykedelika verkar genom det serotonerga systemet. Även om dessa substanser binder flera serotoninreceptorer liksom endogent serotonin, skiljer sig deras receptorprofiler och spatiotemporala mönster. Författarna sammanfattar evidens för serotonins roller i belöningsinlärning, visuell bearbetning och cerebrovaskulär funktion, och kontrasterar effekterna av endogent serotonin med exogena psykedelika. Många psykedeliska effekter kan förstås som störningar i serotonerga signaler, dock återstår vissa effekter mekanistiskt oklara.",
-        "no": "Denne oversikten undersøker hvordan klassiske psykedelika virker gjennom det serotonerge systemet. Selv om disse stoffene binder flere serotoninreseptorer som endogent serotonin, skiller deres reseptorprofiler og spatiotemporale mønster seg ut. Forfatterne oppsummerer evidens for serotonins roller i belønningslæring, visuell prosessering og cerebrovaskulær funksjon, og kontrasterer effekter av endogent serotonin med eksogene psykedelika. Mange psykedeliske effekter kan forstås som forstyrrelser i serotonerge signaler, selv om noen effekter gjenstår mekanistisk uklare.",
-        "da": "Denne oversigt undersøger, hvordan klassiske psykedelika virker gennem det serotonerge system. Selvom disse stoffer binder flere serotoninreceptorer som endogent serotonin, adskiller deres receptorprofiler og spatiotemporale mønstre sig. Forfatterne opsummerer evidens for serotonins roller i belønningslæring, visuel behandling og cerebrovaskulær funktion og kontrasterer effekterne af endogent serotonin med eksogene psykedelika. Mange psykedeliske effekter kan forstås som forstyrrelser i serotonerge signaler, selvom nogle effekter forbliver mekanistisk uklare.",
-        "fi": "Tämä katsaus tarkastelee, kuinka klassiset psykedeelit vaikuttavat serotoninijärjestelmän kautta. Vaikka nämä yhdisteet sitoutuvat useisiin serotoninreseptoreihin kuten endogeeninen serotoniini, niiden reseptoriprofilit ja spatiotemporaaliset kuviot eroavat. Kirjoittajat tiivistävät näyttöä serotoniiinin rooleista palkintooppimisessa, visuaalisessa käsittelyssä ja serebrovaskulaarisessa funktiossa sekä vertailevat endogeenisen serotoniiinin vaikutuksia eksogeeniksi psykedeiilien vaikutuksiin. Monia psykededeilien vaikutuksia voidaan ymmärtää serotoninergisen signaloinnin häiriöinä, vaikka jotkut vaikutukset pysyvät mekanistisesti epäselviksi.",
-        "is": "Þessi yfirlit kannar hvernig klassísk sálfræðilyf virka í gegnum serótónínakerfi. Þó að þessi efni bindi marga serótónínaviðtaka eins og innfædda serótónína, eru þeirra viðtakasniðmát og staðbundin–tímabundin mynstur ólík. Höfundar draga saman sannanir fyrir hlutverki serótónína í verðlaunakennslu, sjónrænum vinnslu og blóðæðastarfsemi heilans og bera saman áhrif innfæddrar serótónína og ytri sálfræðilyfja. Margar áhrif sálfræðilyfja má skilja sem truflanir á serótónínaboðun, þó að sum áhrif feli í sér óljósa virkni.",
-        "et": "See ülevaade uurib, kuidas klassikalised psühhedeelikumid toimivad serotoniinergilise süsteemi kaudu. Ehkki need ühendid seotuvad paljude serotoniini retseptoritega nagu endogeenne serotoniini, erinevad nende retseptoriprofiilid ja spatiotemporaalsed mustrid. Autorid teevad kokkuvõtte tõenditest serotoniini rollist auhinnaga seotud õppimisel, visuaalsete protsesside töötlemisel ja ajuveresoonide funktsioonil ning võrdlevad endogeense serotoniini mõjusid eksogeensete psühhedeelikumide mõjudega. Paljusid psühhedeelikumide mõjusid saab mõista serotoniini signaalimise häiretena, kuigi osa mõjud jäävad mehhaaniliselt selgustamatuks.",
-        "lv": "Šis pārskats pēta, kā klasiskie psihedeliki darbojas serotonīna sistēmas caur. Lai arī šie savienojumi saistās ar vairākajiem serotonīna receptoriem, tāpat kā endoģens serotonīns, to receptoru profili un spatiotemporālie modeļi atšķiras. Autori apkopo pierādījumus par serotonīna lomu atlīdzības mācībās, vizuālajā apstrādē un cerebrovaskulārā funkcijā, un salīdzina endoģenā serotonīna efektus ar eksogēnajiem psihedelikiem. Daudzus psihedeliku efektus var saprast kā traucējumus serotonīna signalizācijā, lai arī daži efekti paliek mehāniski neskaidri.",
-        "lt": "Šis apžvalga nagrinėja, kaip klasikiniai psichedelikai veikia per serotonino sistemą. Nors šie junginiai rišasi prie daugelio serotonino receptorių, kaip ir endogeninis serotoninas, jų receptorių profiliai ir erdvinio-laiko šablonai skiriasi. Autoriai apibendrina įrodymų dėl serotonino vaidmens atlyginio mokymesi, vizualinėje apdorojoje ir cerebrovaskuliarioje funkcijoje bei palygina endogeninio serotonino efektus su egzogeniniais psichedelikais. Daugelis psichedelikų efektų gali būti suprantami kaip trikdžiai serotonino signalizacijoje, nors kai kurie efektai lieka mehanistiškai neaiškūs."
-      },
-      "notable": false,
-      "notable_reasons": null,
-      "relevance_score": 4,
-      "study_type": "review",
-      "substances": [
-        "psilocybin",
-        "lsd",
-        "mdma",
-        "other"
-      ],
-      "added_at": "2026-10-06T13:29:10.190107+00:00"
-    },
-    {
-      "title": "Podcast: Oregon Backtracks on Fee Hike, California Funds Psychedelic Research, DEA Moves to Schedule 5 Tryptamines",
-      "url": "https://psychedelicalpha.com/news/oregon-backtracks-on-fee-hike-california-funds-psychedelic-research-dea-moves-to-schedule-5-tryptamines/",
-      "source": "Psychedelic Alpha",
-      "date": "2026-10-05",
-      "authors": [],
-      "doi": "",
-      "summaries": {
-        "en": "Recent policy developments across North America: Oregon has reversed proposed fee increases for psilocybin service providers, California has allocated new funding for psychedelic research, and the US DEA is moving to schedule certain tryptamines under Schedule 5 classifications. These regulatory shifts reflect evolving approaches to psychedelic substances governance.",
-        "sv": "Nya regeländringar i Nordamerika: Oregon återkallar föreslagna avgiftshöjningar för psilocybintjänster, Kalifornien avsätter medel för psykedelisk forskning, och DEA planerar att klassificera vissa tryptaminer under Schedule 5. Dessa förändringar speglar utvecklingen inom regleringen av psykedeliska ämnen.",
-        "no": "Nylige politiske endringer i Nord-Amerika: Oregon trekker tilbake foreslåtte gebyrøkninger for psylocibin-tjenester, California avsetter midler til psykedelisk forskning, og DEA planlegger å klassifisere visse tryptaminer under Schedule 5. Disse regelendringene gjenspeiler utviklingen innenfor regulering av psykedelika.",
-        "da": "Seneste politiske udvikling i Nordamerika: Oregon trækker gebyrforhøjelser for psilocybin-tjenester tilbage, Californien bevillinger til psykedelisk forskning, og DEA planlægger klassificering af visse tryptaminer under Schedule 5. Disse reguleringsændringer afspejler udviklingen indenfor psykedelika-regulering.",
-        "fi": "Viimeaikaiset politiikan muutokset Pohjois-Amerikassa: Oregon vetää takaisin psilosybiinipalvelujen maksukorotukset, Kalifornia rahoittaa psykedeelistä tutkimusta, ja DEA suunnittelee tiettyjen tryptamiinien luokittelua Schedule 5 -kategoriaan. Nämä sääntelymuutokset heijastavat psykedeelikkeistä säätelyn kehitystä.",
-        "is": "Nýlegar stefnubreytingar í Norður-Ameríku: Oregon dregur til baka fyrirhuguðar gjaldahækkanir fyrir psýlósýbín-þjónustu, Kalifornía fjármagnar psýkedélíska rannsóknir, og DEA ætlar að flokka ákveðin tryptamín undir Schedule 5. Þessar reglubreytingar endurspegla þróun í stjórn psýkedélíkra efna.",
-        "et": "Hiljutised poliitilised muutused Põhja-Ameerikas: Oregon tühistab psilotsibiini-teenuste tasutõusud, Kalifornia rahastab psühhedeelikate uurimist ja USA DEA plaanib teatud tryptamiinide klassifitseerimist Schedule 5 kategooriasse. Need regulatsioonmuutused peegeldavad psühhedeelikate reguleerimise arengut.",
-        "lv": "Nesen notikušas politiskas izmaiņas Ziemeļamerikā: Oregona atceļ ierosinātos maksas paaugstinājumus psīlocibīna pakalpojumiem, Kalifornija finansē psihedelisko vielu pētniecību, un ASV DEA plāno noteiktu triptamīnu klasificēšanu Schedule 5 kategorijā. Šīs regulatīvās izmaiņas atspoguļo psihedelisko vielu regulējuma attīstību.",
-        "lt": "Paseniai įvykę politiniai pokyčiai Šiaurės Amerikoje: Oregonas atšaukia siūlomus psilocibino paslaugų mokesčių padidėjimus, Kalifornija finansuoja psichedelinių medžiagų tyrimą, ir JAV DEA planuoja tam tikrų triptaminų klasifikavimą pagal Schedule 5 kategoriją. Šie reguliacijos pokyčiai atspindi psichedelinių medžiagų reguliavimo raidą."
-      },
-      "notable": true,
-      "notable_reasons": {
-        "en": "Includes national-level policy development (DEA scheduling decision on tryptamines) and state-level research funding initiative (California).",
-        "sv": "Inkluderar utveckling av nationell politik (DEA:s beslut om klassificering av tryptaminer) och initiativ för forskningsfinansiering på statlig nivå (Kalifornien).",
-        "no": "Inkluderer utvikling av nasjonale retningslinjer (DEA-klassifiseringsbeslutning på tryptaminer) og statlig forskningsfinansieringsintiativ (California).",
-        "da": "Omfatter udvikling af national politik (DEA's klassificeringsbeslutning om tryptaminer) og statlig forskningsfinansieringsindsats (Californien).",
-        "fi": "Sisältää kansallisen politiikan kehittämisen (DEA:n tryptamiinien luokittelupäätös) ja osavaltiotason tutkimusrahoitusaloitteen (Kalifornia).",
-        "is": "Inniheldur þróun landsbundinnar stefnu (DEA flokkun ákvörðun á tryptömonum) og ríkisstig rannsóknarfjármögnunaraðgerð (Kalifornía).",
-        "et": "Sisaldab riikliku tasandi poliitika arendamist (DEA tryptamiinide klassifitseerimise otsus) ja osariigi tasandi teadusuuringute rahastamise algatust (California).",
-        "lv": "Ietver nacionāla līmeņa politikas izstrādi (DEA triptamīnu klasificēšanas lēmums) un valsts līmeņa pētniecības finansēšanas iniciatīvu (Kalifornija).",
-        "lt": "Apima nacionalinio lygio politikos plėtrą (DEA triptaminų klasifikavimo sprendimas) ir valstijos lygio mokslinių tyrimų finansavimo iniciatyvą (Kalifornija)."
-      },
-      "relevance_score": 3,
-      "study_type": "other",
-      "substances": [
-        "other"
-      ],
-      "added_at": "2026-10-05T15:04:39.616541+00:00"
     }
   ]
 }

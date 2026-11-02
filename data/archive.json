@@ -1,6 +1,84 @@
 {
   "items": [
     {
+      "title": "Persisting psychological complications following the use of classic psychedelics: A qualitative study of help-seeking experiences.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42968473/",
+      "source": "PubMed",
+      "date": "2026-11-01",
+      "authors": [
+        "Jöbstl Lisa Maria",
+        "Lubahn Bente",
+        "Kaya Ebru"
+      ],
+      "doi": "10.1177/02698811261493120",
+      "summary_en": "Qualitative study (n=13) examining help-seeking experiences of individuals with persisting psychological complications from classic psychedelics, including HPPD, depersonalization/derealization, anxiety, and depression. Key findings: idealized media portrayals delayed harm recognition; stigma and shame inhibited help-seeking; clinical unpreparedness and epistemic dismissal were common, leading participants to rely on online peer support and self-management strategies. Non-judgmental clinical expertise proved beneficial.",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "qualitative",
+      "substances": [
+        "psilocybin",
+        "lsd"
+      ],
+      "added_at": "2026-11-02T16:23:16.533919+00:00"
+    },
+    {
+      "title": "Transcriptional profiling of antidepressant ketamine and electroconvulsive therapy treatment.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42967909/",
+      "source": "PubMed",
+      "date": "2026-08-05",
+      "authors": [
+        "Zavaliangos-Petropulu Artemis",
+        "Ghang Ginny",
+        "Boltz Toni"
+      ],
+      "doi": "10.1038/s41398-026-04196-y",
+      "summary_en": "Transcriptome analysis of peripheral blood from 37 ECT and 60 ketamine-treated patients with treatment-resistant depression identified baseline immune-related gene expression differences between remitters and non-remitters in the ketamine group, with one significantly differentially expressed gene (IGKV1-9). No consistent longitudinal transcriptional changes were detected for either treatment, though gene network analysis revealed significant diagnosis-time interactions in ECT samples.",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "observational",
+      "substances": [
+        "ketamine"
+      ],
+      "added_at": "2026-11-02T16:23:16.533919+00:00"
+    },
+    {
+      "title": "Usona Files Psilocybin for Depression NDA as Race With Compass Tightens",
+      "url": "https://psychedelicalpha.com/news/usona-files-psilocybin-for-depression-nda-as-race-with-compass-tightens/",
+      "source": "Psychedelic Alpha",
+      "date": "2026-11-02",
+      "authors": [],
+      "doi": "",
+      "summary_en": "Usona Institute, a nonprofit psychedelic research organization, has submitted a new drug application (NDA) to the FDA for its psilocybin candidate treating major depressive disorder. This marks the second psychedelic NDA under FDA review, intensifying the competitive landscape with other developers like Compass Pathways.",
+      "notable": true,
+      "notable_reason": "FDA NDA submission for psilocybin in major depressive disorder represents a significant regulatory milestone in psychedelic drug development.",
+      "study_type": "other",
+      "substances": [
+        "psilocybin"
+      ],
+      "added_at": "2026-11-02T16:23:16.533919+00:00"
+    },
+    {
+      "title": "Determination of Tryptamines in Biological Specimens.",
+      "url": "https://doi.org/10.1007/978-1-0716-5651-8_14",
+      "source": "Europe PMC",
+      "date": "2027-01-01",
+      "authors": [
+        "Varì MR",
+        "Aquilina V",
+        "Di Trana A"
+      ],
+      "doi": "10.1007/978-1-0716-5651-8_14",
+      "summary_en": "Researchers developed a rapid LC-MS/MS method for detecting and quantifying 37 tryptamines in human urine and plasma. The technique uses UHPLC with gradient elution and positive ESI ionization, demonstrating high selectivity and sensitivity. This analytical approach enables identification of both endogenous tryptamines like serotonin and melatonin, and psychoactive compounds including psilocybin and DMT.",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "other",
+      "substances": [
+        "psilocybin",
+        "other"
+      ],
+      "added_at": "2026-11-02T16:23:16.533919+00:00"
+    },
+    {
       "title": "Therapeutic Potential of Classical Psychedelics and Non-Hallucinogenic Psychoplastogens in Psychiatric Disorders.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42964905/",
       "source": "PubMed",

@@ -1,6 +1,46 @@
 {
   "items": [
     {
+      "title": "The molecular and neurochemical basis of altered intrinsic neural timescales in major depressive disorder: a multimodal imaging-transcriptomic investigation of esketamine and sertraline treatment.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42972310/",
+      "source": "PubMed",
+      "date": "2026-08-05",
+      "authors": [
+        "Liu Xiang",
+        "He Yuanzhi",
+        "Li Lifeng"
+      ],
+      "doi": "10.1186/s12888-026-08477-0",
+      "summary_en": "Multimodal imaging-transcriptomic study (n=41 MDD patients, n=57 controls) investigating intrinsic neural timescales (INT)—measures of localized brain information processing—following esketamine infusions and sertraline treatment. MDD patients showed elevated INT in specific cortical regions versus controls. Spatial transcriptomic correlations did not reach statistical significance (r=0.484, p=0.068), limiting definitive molecular conclusions. Results provide preliminary exploratory findings for hypothesis generation regarding dissociatives and antidepressant mechanisms.",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "observational",
+      "substances": [
+        "ketamine"
+      ],
+      "added_at": "2026-11-03T14:30:15.249951+00:00"
+    },
+    {
+      "title": "A multi-institutional investigation of psilocybin's effects on mouse behavior.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42972049/",
+      "source": "PubMed",
+      "date": "2026-11-02",
+      "authors": [
+        "Lu Odilia D",
+        "White Katrina",
+        "Raymond Kendall B"
+      ],
+      "doi": "10.1038/s41593-026-02500-z",
+      "summary_en": "Multi-institutional study examining psilocybin's effects on mouse behavior. Five independent laboratories replicated the same experiments to assess acute and persistent effects of psilocybin (2 mg/kg), addressing reproducibility concerns in psychedelic neuroscience research.",
+      "notable": true,
+      "notable_reason": "Multi-institutional collaborative study addressing reproducibility crisis in preclinical psychedelic research, establishing reliability of behavioral effects across five independent laboratories.",
+      "study_type": "preclinical",
+      "substances": [
+        "psilocybin"
+      ],
+      "added_at": "2026-11-03T14:30:15.249951+00:00"
+    },
+    {
       "title": "Persisting psychological complications following the use of classic psychedelics: A qualitative study of help-seeking experiences.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42968473/",
       "source": "PubMed",

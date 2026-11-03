@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-02T16:24:27.407178+00:00",
+  "generated_at": "2026-11-03T14:30:53.435176+00:00",
   "items": [
     {
       "title": "Determination of Tryptamines in Biological Specimens.",
@@ -32,6 +32,47 @@
         "other"
       ],
       "added_at": "2026-11-02T16:23:16.533919+00:00"
+    },
+    {
+      "title": "A multi-institutional investigation of psilocybin's effects on mouse behavior.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42972049/",
+      "source": "PubMed",
+      "date": "2026-11-02",
+      "authors": [
+        "Lu Odilia D",
+        "White Katrina",
+        "Raymond Kendall B"
+      ],
+      "doi": "10.1038/s41593-026-02500-z",
+      "summaries": {
+        "en": "Multi-institutional study examining psilocybin's effects on mouse behavior. Five independent laboratories replicated the same experiments to assess acute and persistent effects of psilocybin (2 mg/kg), addressing reproducibility concerns in psychedelic neuroscience research.",
+        "sv": "Multiinstitutionell studie som undersökte psillocibin-ämnenas effekter på musors beteende. Fem oberoende laboratorier replikerade samma experiment för att bedöma akuta och långvariga effekter av psillocybin (2 mg/kg), och adresserade reproducerbarhetsbekymmer inom psykedelisk neurovetenskap.",
+        "no": "Multiinstitusjonell studie som undersøkte psilocybin-stoffers effekter på museadferd. Fem uavhengige laboratorier replikerte de samme eksperimentene for å vurdere akutte og vedvarende effekter av psilocybin (2 mg/kg), og adresserte reproduserbarhetsproblemer innen psykedelisk nevrovetenskap.",
+        "da": "Multiinstitutionel undersøgelse af psilocibin-stoffers virkninger på musenes adfærd. Fem uafhængige laboratorier replikerede de samme eksperimenter for at vurdere akutte og vedvarende effekter af psilocibin (2 mg/kg) og addresserede reproducerbarheds-bekymringer inden for psykedelisk neurovidenskab.",
+        "fi": "Monilaitoksellinen tutkimus psilo­sybiini-aineiden vaikutuksista hiiren käyttäytymiseen. Viisi itsenäistä laboratorioita toistivat samoja kokeita arvioidakseen psilosybiinin (2 mg/kg) akuutteja ja pitkäkestoisia vaikutuksia ja käsittelivät toistettavuusongelmia psykedeelistä neurotiedettä.",
+        "is": "Rannsókn á mörgum stofnunum sem skoðaði áhrif psílósýbín-efna á hegðun mýsa. Fimm óháðir rannsóknarstofu endurgerðu sömu tilraunir til að meta bráðar og viðvarandi áhrif psílósýbíns (2 mg/kg) og taka á endurframleiðanleika málum í psýkedelískri taugavísindum.",
+        "et": "Mitmeinstitutsiooniline uurimus, mis uuris psülotsibiini-ainete mõjusid hiire käitumisele. Viis sõltumatut laboratoriumit kordas samu katseid, et hinnata psülotsibiini (2 mg/kg) ägeda ja püsiva toimega ning käsitleda reprodutseeritavuse probleeme psühhedeelikute neuroteaduses.",
+        "lv": "Daudzinstitūciju pētījums, kas pētīja psilocibiīna vielu ietekmi uz peles uzvedību. Pieci neatkarīgi laboratoriji atkārtoja identiskus eksperimentus, lai novērtētu psilocibiīna (2 mg/kg) akūtās un ilgstošās ietekmes un risinātu reproducējamības problēmas psihedeliku neuroziņātnē.",
+        "lt": "Daugiainstitucinė studija, kurioje buvo tiriamas psilocibino medžiagos poveikis pelės elgsenai. Penkios nepriklausomos laboratorijos pakartojo tuos pačius eksperimentus, siekdamos įvertinti psilocibino (2 mg/kg) ūmius ir ilgalaikius efektus bei spręsti reprodukcinio pagrindo problemas psichedelinių medžiagų neurobiologijoje."
+      },
+      "notable": true,
+      "notable_reasons": {
+        "en": "Multi-institutional collaborative study addressing reproducibility crisis in preclinical psychedelic research, establishing reliability of behavioral effects across five independent laboratories.",
+        "sv": "Fleminstitutionell samarbetsstudie som hanterar reproducerbarhetskrisen inom preklinisk psykedelisk forskning och etablerar tillförlitligheten för beteendepåverkan över fem oberoende laboratorier.",
+        "no": "Multi-institusjonell samarbeidsstudie som adresserer reproducerbarhetsskrisen i preklinisk psykedelisk forskning, og etablerer pålitelighet av atferdsmessige effekter på tvers av fem uavhengige laboratorier.",
+        "da": "Multi-institutionel samarbejdsstudie, der behandler reproducerbarheds-krisen inden for preklinisk psykedelisk forskning og etablerer pålidelighed af adfærdsmæssige effekter på tværs af fem uafhængige laboratorier.",
+        "fi": "Moninstitutionaalinen yhteistutkimus, joka käsittelee toistettavuuskriisiä prekliinisessä psykedeelisen tutkimuksessa ja vahvistaa käyttäytymisen vaikutusten luotettavuuden viidessä riippumattomassa laboratoriossa.",
+        "is": "Fjörinstitúsjonleg samstarfsrannsókn sem fjallar um endurkoma krísið í forklínískum sykadelískum rannsóknum og staðfestir áreiðanleika hegðunaráhrifa yfir fimm óháðum rannsóknastofum.",
+        "et": "Mitme asutuse koostöö uuringus, mis käsitleb paljundamiskriisi prekliinilises psühhedeelilises uuringus ja kinnitab käitumismõjude usaldusväärsust viies sõltumatus laboris.",
+        "lv": "Vairāku iestāžu sadarbības pētījums, kurā risināta reproducējamības krīze prekliniskajos psihedēliskajos pētījumos un konstatēta uzvedības efektu ticamība piecās neatkarīgās laboratorijās.",
+        "lt": "Daugiainstitucinis bendradarbiavimo tyrimas, kuriame sprendžiama reproduktyvumo krizė preklininiuose psichedelinių medžiagų tyrimuose, nustatant elgesio efektų patikimumą penkiose nepriklausomose laboratorijose."
+      },
+      "relevance_score": 4,
+      "study_type": "preclinical",
+      "substances": [
+        "psilocybin"
+      ],
+      "added_at": "2026-11-03T14:30:15.249951+00:00"
     },
     {
       "title": "Usona Files Psilocybin for Depression NDA as Race With Compass Tightens",
@@ -1923,36 +1964,6 @@
         "psilocybin"
       ],
       "added_at": "2026-10-09T13:33:41.577089+00:00"
-    },
-    {
-      "title": "Efficacy and safety of ketamine for post-traumatic stress disorder: A systematic review with narrative synthesis and consideration of military and veteran populations.",
-      "url": "https://doi.org/10.1002/pcn5.70425",
-      "source": "Europe PMC",
-      "date": "2026-10-07",
-      "authors": [
-        "Ivasyutyn M",
-        "Bhakta S."
-      ],
-      "doi": "10.1002/pcn5.70425",
-      "summaries": {
-        "en": "Systematic review of 8 studies (N=383) examining ketamine for PTSD treatment, particularly in military/veteran populations. Five RCTs and three observational studies showed PTSD symptom reductions following ketamine administration. Largest effect observed in small uncontrolled study (80% remission), requiring cautious interpretation. Dissociative and hemodynamic adverse effects during infusion typically resolved post-treatment. No cognitive decline reported with repeated dosing.",
-        "sv": "Systematisk granskning av 8 studier (N=383) om ketamin för PTSD-behandling, särskilt hos militär- och veteranpopulationer. Fem RCT:er och tre observationsstudier visade reduktion av PTSD-symtom efter ketaminadministration. Största effektstorlek i liten okontrollerad studie (80% remission), vilket kräver försiktig tolkning. Dissociativa och hemodynamiska biverkningar under infusion försvann vanligtvis efteråt. Ingen kognitiv försämring rapporterades vid upprepad dosering.",
-        "no": "Systematisk gjennomgang av 8 studier (N=383) om ketamin for PTSD-behandling, spesielt hos militær- og veteranpopulasjoner. Fem RCT-er og tre observasjonsstudier viste reduksjon i PTSD-symptomer etter ketaminadministrasjon. Største effektstørrelse i liten ukontrollert studie (80% remisjon), som krever forsiktig tolkning. Dissociative og hemodynamiske bivirkninger under infusjon løste seg vanligvis opp etterpå. Ingen kognitiv nedgang rapportert ved gjentatt dosering.",
-        "da": "Systematisk gennemgang af 8 studier (N=383) om ketamin til PTSD-behandling, især hos militær- og veteranpopulationer. Fem RCT'er og tre observationsstudier viste reduktion af PTSD-symptomer efter ketamintilførsel. Størst effektstørrelse i lille ukontrolleret studie (80% remission), som kræver forsigtighed. Dissociative og hemodynamiske bivirkninger under infusion forsvandt typisk efter. Ingen kognitiv tilbagegang rapporteret ved gentagen dosering.",
-        "fi": "Systemaattinen katsaus 8 tutkimukseen (N=383) ketamiinin käytöstä PTSD:n hoitoon erityisesti sotilaille ja veteraaneille. Viisi satunnaistutkimusta ja kolme havainnollista tutkimusta osoittivat PTSD-oireiden vähenemisen ketamiinierityksen jälkeen. Suurin vaikutuskoko pienuudessaan kontrolloimattomassa tutkimuksessa (80% remissio), joka vaatii varovaista tulkintaa. Dissosiatiiviset ja hemodynaamiset haittavaikutukset infuusion aikana vähentyivät tyypillisesti jälkikäteen. Toistuvasta annostelusta ei raportoitu kognitiivista heikkenemistä.",
-        "is": "Kerfræðileg yfirfarin á 8 rannsóknum (N=383) um ketamín við meðferð á PTSD, sérstaklega hjá her- og vopnahlésdögum. Fimm tilraun með tilviljunarúthlugun og þrjár athugunarrannsóknir sýndu minnkun PTSD-einkennis eftir ketamíngjöf. Stærsti áhrifastærðin í lítilli stjórnlausri rannsókn (80% endalok), sem kallar á varúð. Aðskilnaðar- og hraðslágæðir meðan á innflutningi stóð leysust venjulega upp síðar. Engin bólustig-einkenni tilkynnt við endurtekinni skammta.",
-        "et": "Süstemaatiline ülevaade 8 uuringust (N=383) ketamiini kasutamise kohta PTSD ravil, eriti sõjaväe- ja veteranipopulatsioonis. Viis randomiseeritud kontrolluuringut ja kolm vaatlusuuringut näitasid PTSD sümptomite vähenemist ketamiini manustamise järel. Suurim efekti väikses juhituta uuringus (80% remissoon), mis nõuab ettevaatlikkust. Dissotsiatiivsed ja hemodynamilised kõrvaltoimed infusiooni ajal tavaliselt möödusid. Korduvast annustamisest kognitiivset halvenemist ei teatatud.",
-        "lv": "Sistematisks pārskats par 8 pētījumiem (N=383) par ketamīna efektivitāti PTSD ārstēšanā, īpaši militārpersonu un veterānu vidū. Pieci randomizēti kontrolpētījumi un trīs novērojumu pētījumi parādīja PTSD simptomu samazināšanos pēc ketamīna ievadīšanas. Lielākais efekts mazajā nekontrolētajā pētījumā (80% remisija), kas prasa piesardzību. Disociatīvie un hemodinamiskās blaknes iedarbības laikā parasti pazuda pēc tam. Nav ziņots par kognitīvo pasliktināšanos atkārtotās dozēšanas laikā.",
-        "lt": "Sisteminė apžvalga iš 8 tyrimų (N=383) apie ketamino veiksmingumą PTSD gydymui, ypač karininkų ir veteranų populiacijoje. Penki randomizuoti kontroliniai tyrimai ir trys stebėjimo tyrimai parodė PTSD simptomų sumažėjimą po ketamino suskiepijimo. Didžiausias efektas mažame nekontroliuojamame tyrime (80% remisija), reikalingame atsargumo. Disociaciniai ir hemodinaminiai šalutiniai poveikiai per infuziją paprastai pranyko vėliau. Nebuvo pranešta apie kognityvinės funkcijos blogėjimą dėl kartotinio dozavimo."
-      },
-      "notable": false,
-      "notable_reasons": null,
-      "relevance_score": 4,
-      "study_type": "review",
-      "substances": [
-        "ketamine"
-      ],
-      "added_at": "2026-10-17T11:01:23.206355+00:00"
     }
   ]
 }

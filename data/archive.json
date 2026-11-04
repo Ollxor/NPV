@@ -1,6 +1,65 @@
 {
   "items": [
     {
+      "title": "Psilocybin-Assisted Therapy for Cancer-Related Psychological and Existential Distress in Adults with Cancer: An Integrative Systematic Review.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42975895/",
+      "source": "PubMed",
+      "date": "2026-11-03",
+      "authors": [
+        "Pitis Athanasios",
+        "Nikoloudi Maria",
+        "Stefanis Nikos"
+      ],
+      "doi": "10.1080/15360288.2026.2756950",
+      "summary_en": "Psilocybin-Assisted Therapy for Cancer-Related Psychological and Existential Distress in Adults with Cancer: An Integrative Systematic Review.",
+      "notable": true,
+      "notable_reason": "Systematic review synthesizing evidence across six independent clinical cohorts with long-term follow-up data (up to 4.5 years) and safety profile in a high-need clinical population.",
+      "study_type": "review",
+      "substances": [
+        "psilocybin"
+      ],
+      "added_at": "2026-11-04T14:45:13.045685+00:00"
+    },
+    {
+      "title": "From Evidence to Practice: A Systematic Review of Implementation of Psychedelic-Assisted Psychotherapy.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42978762/",
+      "source": "PubMed",
+      "date": "2026-11-02",
+      "authors": [
+        "Gault John D",
+        "Almklov Erin",
+        "Tang Shirley"
+      ],
+      "doi": "10.1177/28314425261500673",
+      "summary_en": "Systematic review of 2+ studies examining implementation of psychedelic-assisted psychotherapy (PAP) for PTSD, depression, and treatment-resistant conditions. Using PRISMA 2020 guidelines across six databases, researchers synthesized findings on implementing PAP interventions guided by the PRISM framework. Review identifies current implementation knowledge to support clinical integration as public and government interest in PAP access grows.",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "review",
+      "substances": [
+        "mdma",
+        "psilocybin",
+        "lsd",
+        "ketamine"
+      ],
+      "added_at": "2026-11-04T14:45:13.045685+00:00"
+    },
+    {
+      "title": "Compass Says NDA Will Be Filed Within Two Weeks, Declines to Comment on Usona",
+      "url": "https://psychedelicalpha.com/news/compass-says-nda-will-be-filed-within-two-weeks-declines-to-comment-on-usona/",
+      "source": "Psychedelic Alpha",
+      "date": "2026-11-03",
+      "authors": [],
+      "doi": "",
+      "summary_en": "Compass Pathways announced in its Q3 2026 results that it will submit its New Drug Application (NDA) for COMP360 psilocybin within two weeks. The compound is being developed for treatment-resistant depression (TRD). The company stated that final NDA submission is nearing completion.",
+      "notable": true,
+      "notable_reason": "NDA submission for COMP360 psilocybin represents a pivotal regulatory advancement toward potential FDA approval for a psychedelic therapeutic.",
+      "study_type": "other",
+      "substances": [
+        "psilocybin"
+      ],
+      "added_at": "2026-11-04T14:45:13.045685+00:00"
+    },
+    {
       "title": "The molecular and neurochemical basis of altered intrinsic neural timescales in major depressive disorder: a multimodal imaging-transcriptomic investigation of esketamine and sertraline treatment.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42972310/",
       "source": "PubMed",

@@ -1,6 +1,174 @@
 {
   "items": [
     {
+      "title": "Subacute and long-term changes in cognitive functioning after administration of classic psychedelics, MDMA and ketamine: A systematic review of clinical and preclinical evidence",
+      "url": "https://doi.org/10.1016/j.neubiorev.2026.106911",
+      "source": "OpenAIRE",
+      "date": "2026-11-01",
+      "authors": [
+        "Catherine Kelly",
+        "Bart J. Cooley",
+        "Lilith Zeng"
+      ],
+      "doi": "10.1016/j.neubiorev.2026.106911",
+      "summary_en": "Systematic review of 67 studies (47 clinical, 20 preclinical) examining subacute and long-term cognitive effects of classic psychedelics, MDMA, and ketamine. Psilocybin showed most consistent evidence of improved cognitive flexibility and attention. Ketamine demonstrated broader cognitive enhancement with heterogeneous findings. LSD, DMT showed no consistent changes; MDMA caused transient impairments resolving within days. Improvements more prominent in psychiatric populations. Methodological limitations restrict confidence in current evidence.",
+      "notable": true,
+      "notable_reason": "Systematic review across 67 studies (47 clinical, 20 preclinical) integrating evidence on neuroplasticity and cognition across multiple psychedelic compounds with direct psychiatric implications.",
+      "study_type": "review",
+      "substances": [
+        "psilocybin",
+        "lsd",
+        "mdma",
+        "ketamine",
+        "other"
+      ],
+      "added_at": "2026-11-05T14:51:05.264252+00:00"
+    },
+    {
+      "title": "Exploring the durability of esketamine and ketamine's antidepressant effects in the maintenance phase of treatment: A systematic review.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42981896/",
+      "source": "PubMed",
+      "date": "2026-10-29",
+      "authors": [
+        "Vasudeva Shreya",
+        "Orsini Diana K",
+        "Lovell Gabrielle F M"
+      ],
+      "doi": "10.1016/j.psychres.2026.117556",
+      "summary_en": "Systematic review of 43 studies examining ketamine and esketamine maintenance treatment for mood disorders. Both substances showed sustained antidepressant effects during ongoing treatment, with reduced relapse rates in randomized trials. However, relapse commonly occurred after discontinuation, and observational studies showed variable long-term outcomes. Findings suggest continued treatment may preserve benefits, though durability varies.",
+      "notable": true,
+      "notable_reason": "Systematic review synthesizing 43 studies (including 8 RCTs) on maintenance-phase outcomes for FDA-approved esketamine and rapid-acting ketamine in treatment-resistant depression.",
+      "study_type": "review",
+      "substances": [
+        "ketamine"
+      ],
+      "added_at": "2026-11-05T14:51:05.264252+00:00"
+    },
+    {
+      "title": "Ketamine/Esketamine in Clinical Practice: Areas of Consensus and Nonconsensus from an American Society of Clinical Psychopharmacology (ASCP) Delphi Panel Task Force.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42981371/",
+      "source": "PubMed",
+      "date": "2026-11-02",
+      "authors": [
+        "Sanacora Gerard",
+        "Goldberg Joseph F",
+        "McIntyre Roger S"
+      ],
+      "doi": "10.4088/JCP.26cs16585",
+      "summary_en": "An ASCP Delphi panel task force examined clinical consensus on ketamine and esketamine use in psychopharmacology. The study identified areas of agreement and disagreement among experts regarding therapeutic applications, dosing, patient selection, and safety monitoring in clinical practice.",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "other",
+      "substances": [
+        "ketamine"
+      ],
+      "added_at": "2026-11-05T14:51:05.264252+00:00"
+    },
+    {
+      "title": "Next-Generation Psychedelic Drug Development.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42980080/",
+      "source": "PubMed",
+      "date": "2026-Nov-04",
+      "authors": [
+        "Cameron Lindsay P",
+        "Johnson Matthew W",
+        "Murnane Kevin S"
+      ],
+      "doi": "10.1021/acschemneuro.6c00492",
+      "summary_en": "Review of emerging psychedelic therapies for neuropsychiatric disorders including depression, anxiety, and PTSD. The article examines novel psychedelic analogues and treatment protocols, evaluating current assay and model strengths and limitations. Provides guidance for developing next-generation psychedelic medicines.",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "review",
+      "substances": [
+        "other"
+      ],
+      "added_at": "2026-11-05T14:51:05.264252+00:00"
+    },
+    {
+      "title": "Psychedelics and autism spectrum disorder: Mechanistic insights, translational evidence and ethical challenges",
+      "url": "https://doi.org/10.1016/j.jpsychires.2026.06.035",
+      "source": "OpenAIRE",
+      "date": "2026-10-01",
+      "authors": [
+        "Júlio César Claudino dos Santos",
+        "Sofia Januário Bolan",
+        "Guilherme Lodetti"
+      ],
+      "doi": "10.1016/j.jpsychires.2026.06.035",
+      "summary_en": "Narrative review examining psychedelics in autism spectrum disorder (ASD). While mechanisms like serotonergic modulation, neuroplasticity enhancement, and altered brain connectivity offer theoretical rationale, current clinical and preclinical evidence does not support treating core social communication deficits or repetitive behaviors. Psychedelics may address comorbid anxiety and emotional dysregulation, though ethical considerations remain.",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "review",
+      "substances": [
+        "psilocybin",
+        "lsd",
+        "mdma",
+        "ketamine"
+      ],
+      "added_at": "2026-11-05T14:51:05.264252+00:00"
+    },
+    {
+      "title": "Prevalence and Reasons for Microdosing Cannabis, Psilocybin, LSD, and MDMA Among U.S. Adults",
+      "url": "https://doi.org/10.1016/j.amepre.2026.108381",
+      "source": "OpenAIRE",
+      "date": "2026-10-01",
+      "authors": [
+        "Kevin H. Yang",
+        "Nora Satybaldiyeva",
+        "Wayne Kepner"
+      ],
+      "doi": "10.1016/j.amepre.2026.108381",
+      "summary_en": "A 2023 cross-sectional survey of 1,525 US adults assessed lifetime microdosing (sub-recreational doses) of cannabis, psilocybin, LSD, and MDMA. Cannabis was most prevalent (9.4%), followed by psilocybin (5.3%), LSD (4.8%), and MDMA (2.2%). Cannabis microdosing was primarily for medical purposes, while psilocybin, LSD, and MDMA were predominantly used recreationally, representing an estimated 56 million US adults.",
+      "notable": true,
+      "notable_reason": "Large nationally representative cross-sectional survey (n=1,525) providing first comprehensive epidemiological data on microdosing prevalence across multiple psychedelics in US adults, with policy implications.",
+      "study_type": "observational",
+      "substances": [
+        "cannabis",
+        "psilocybin",
+        "lsd",
+        "mdma"
+      ],
+      "added_at": "2026-11-05T14:51:05.264252+00:00"
+    },
+    {
+      "title": "Considerations for Scaling Psychedelics: Context, Reimbursement, and the Role of the Pharmacy Benefit Manager",
+      "url": "https://doi.org/10.5281/zenodo.23025979",
+      "source": "OpenAIRE",
+      "date": "2026-09-29",
+      "authors": [
+        "Lukacsko, Derek"
+      ],
+      "doi": "10.5281/zenodo.23025979",
+      "summary_en": "Considerations for Scaling Psychedelics: Context, Reimbursement, and the Role of the Pharmacy Benefit Manager",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "other",
+      "substances": [
+        "psilocybin"
+      ],
+      "added_at": "2026-11-05T14:51:05.264252+00:00"
+    },
+    {
+      "title": "Acute psilocybin or ethocybin leads to a sustained increase in Pavlovian aversion memory in male mice",
+      "url": "https://doi.org/10.3389/fphar.2026.1918182",
+      "source": "OpenAIRE",
+      "date": "2026-09-22",
+      "authors": [
+        "David Ernst Hogg",
+        "Jennifer Romanos",
+        "Jamie Albiez"
+      ],
+      "doi": "10.3389/fphar.2026.1918182",
+      "summary_en": "Acute psilocybin or ethocybin administration increased Pavlovian aversion memory in male mice, contrary to therapeutic expectations. In a controlled study, stressed mice receiving either compound showed enhanced freezing behavior 3 days post-treatment, suggesting psychedelics may paradoxically strengthen aversive memories rather than facilitate emotional reorganization.",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "preclinical",
+      "substances": [
+        "psilocybin"
+      ],
+      "added_at": "2026-11-05T14:51:05.264252+00:00"
+    },
+    {
       "title": "Psilocybin-Assisted Therapy for Cancer-Related Psychological and Existential Distress in Adults with Cancer: An Integrative Systematic Review.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42975895/",
       "source": "PubMed",

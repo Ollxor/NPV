@@ -1,6 +1,120 @@
 {
   "items": [
     {
+      "title": "Ketamine, an interoceptive associative agent? Evidence from ketamine-assisted Mindfulness-Oriented Recovery Enhancement for opioid use disorder.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42989695/",
+      "source": "PubMed",
+      "date": "2026-11-05",
+      "authors": [
+        "Lewis Benjamin R",
+        "Garland Eric L"
+      ],
+      "doi": "10.1177/02698811261495546",
+      "summary_en": "A randomized controlled trial examined ketamine-assisted psychotherapy (KAP) combined with Mindfulness-Oriented Recovery Enhancement (MORE) in 68 adults with opioid use disorder on buprenorphine. Participants receiving MORE + KAP showed greater increases in body awareness salience during the first 35 treatment days compared to MORE alone, measured via ecological momentary assessment. Improved interoceptive regulatory capacity mediated reduced opioid craving, suggesting ketamine may facilitate interoceptive learning and support addiction recovery.",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "rct",
+      "substances": [
+        "ketamine"
+      ],
+      "added_at": "2026-11-06T14:28:41.212579+00:00"
+    },
+    {
+      "title": "Intravenous Ketamine or Esketamine in Adolescents With Major Depressive Disorder: A Systematic Review.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42985314/",
+      "source": "PubMed",
+      "date": "2026-08-27",
+      "authors": [
+        "Qin Zhen-Juan",
+        "Li Xiao-Ming",
+        "Li Jia-Bao"
+      ],
+      "doi": "10.31083/AP48866",
+      "summary_en": "Systematic review of 3 RCTs (n=134) examining IV ketamine/esketamine for adolescent depression. IV esketamine showed superiority over midazolam for depression and suicidality, while IV ketamine results were inconsistent. Both agents increased dissociative symptoms; esketamine also increased other psychopathological symptoms. Poor adverse event reporting across trials limits conclusions.",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "review",
+      "substances": [
+        "ketamine"
+      ],
+      "added_at": "2026-11-06T14:28:41.212579+00:00"
+    },
+    {
+      "title": "Integrating multi-receptor and neuron-glia mechanisms of ketamine's antidepressant action: a convergence framework for understanding efficacy.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42985291/",
+      "source": "PubMed",
+      "date": "2026-10-21",
+      "authors": [
+        "Sulej Zuzanna",
+        "Zielińska Magdalena"
+      ],
+      "doi": "10.3389/fnmol.2026.1950244",
+      "summary_en": "Integrative review examining ketamine's antidepressant mechanisms beyond NMDAR antagonism. Proposes multi-receptor convergence model involving disinhibition cascade, AMPA receptor activation, TrkB signaling, and glial cell contributions (astrocytes, microglia, oligodendrocytes). Discusses sigma-1 receptor's role in neuroplasticity. Suggests ketamine's rapid efficacy arises from coordinated actions across multiple receptor systems and neuron-glia interactions rather than single mechanism.",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "review",
+      "substances": [
+        "ketamine"
+      ],
+      "added_at": "2026-11-06T14:28:41.212579+00:00"
+    },
+    {
+      "title": "Intermittent theta burst stimulation to extend early ketamine response in treatment-resistant depression: A preliminary enriched randomized, double-blind, sham-controlled trial.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42983941/",
+      "source": "PubMed",
+      "date": "2026-11-04",
+      "authors": [
+        "Su Tung-Ping",
+        "Huang Mao-Hsuan",
+        "Chang Wan-Chen"
+      ],
+      "doi": "10.1111/pcn.70165",
+      "summary_en": "Intermittent theta burst stimulation to extend early ketamine response in treatment-resistant depression: A preliminary enriched randomized, double-blind, sham-controlled trial.",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "rct",
+      "substances": [
+        "ketamine"
+      ],
+      "added_at": "2026-11-06T14:28:41.212579+00:00"
+    },
+    {
+      "title": "From Toad Venom to Drug Development: The Clinical Pharmacology of Mebufotenin (5-MeO-DMT) in Treatment-Resistant Depression.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42983054/",
+      "source": "PubMed",
+      "date": "2026-11-04",
+      "authors": [
+        "Likić Robert",
+        "Radanović Igor",
+        "Rkman Deni"
+      ],
+      "doi": "10.1007/s40263-026-01346-0",
+      "summary_en": "A narrative review examines mebufotenin (5-MeO-DMT), a serotonergic psychedelic in clinical development for treatment-resistant depression, which affects one-third of major depressive disorder patients. The review analyzes its clinical pharmacology through structured PubMed/MEDLINE, EMBASE, and Scopus searches through August 2026, supplemented by regulatory disclosures. Mebufotenin acts as a non-selective serotonin agonist with high affinity for 5-HT1A receptors.",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "review",
+      "substances": [
+        "other"
+      ],
+      "added_at": "2026-11-06T14:28:41.212579+00:00"
+    },
+    {
+      "title": "Pα+ Psychedelic Bulletin #234: Psychedelics After the Midterms; FDA Answers House Psychedelics Caucus; ICER to Review Compass’ Psilocybin; Terran v. Compass Gets Trial Date",
+      "url": "https://psychedelicalpha.com/news/p%ce%b1-psychedelic-bulletin-234-psychedelics-after-the-midterms-fda-answers-house-psychedelics-caucus-icer-to-review-compass-psilocybin-terran-v-compass-gets-trial-date/",
+      "source": "Psychedelic Alpha",
+      "date": "2026-11-06",
+      "authors": [],
+      "doi": "",
+      "summary_en": "Policy bulletin covering post-midterm implications for psychedelics research and regulation, FDA responses to Congressional interest, ICER's planned review of Compass' psilocybin therapy, and litigation developments between Terran and Compass Pathways.",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "other",
+      "substances": [
+        "psilocybin"
+      ],
+      "added_at": "2026-11-06T14:28:41.212579+00:00"
+    },
+    {
       "title": "Subacute and long-term changes in cognitive functioning after administration of classic psychedelics, MDMA and ketamine: A systematic review of clinical and preclinical evidence",
       "url": "https://doi.org/10.1016/j.neubiorev.2026.106911",
       "source": "OpenAIRE",

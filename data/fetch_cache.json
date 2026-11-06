@@ -1,7 +1,70 @@
 {
-  "date": "2026-11-05",
-  "cached_at": "2026-11-05T13:57:56.227532+00:00",
+  "date": "2026-11-06",
+  "cached_at": "2026-11-06T13:43:06.408722+00:00",
   "articles": [
+    {
+      "title": "Ketamine, an interoceptive associative agent? Evidence from ketamine-assisted Mindfulness-Oriented Recovery Enhancement for opioid use disorder.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42989695/",
+      "source": "PubMed",
+      "abstract": "Relapse in opioid use disorder (OUD) remains common despite pharmacotherapy. Altered interoceptive processing may contribute to addiction, and ketamine-induced changes in salience and insula-related networks may facilitate mindfulness-based interoceptive learning. This secondary analysis examined whether ketamine-assisted psychotherapy (KAP) added to Mindfulness-Oriented Recovery Enhancement (MORE) improved interoceptive awareness and whether these changes mediated reductions in opioid craving. Sixty-eight adults with OUD receiving buprenorphine were randomized to 8 weeks of MORE with or without KAP. Assignment was unblinded, and outcomes were self-reported. Interoception was assessed using ecological momentary assessment (EMA) of body awareness and Multidimensional Assessment of Interoceptive Awareness (MAIA) subscales. Posttreatment EMA data were available for 18 MORE + KAP and 15 MORE participants. Mixed-effects models and path analysis were conducted. Piecewise modeling showed a greater increase in EMA-assessed body awareness salience in MORE + KAP during days 1-35, spanning the pre-dosing and first-ketamine-dose period ( Adjunctive ketamine was associated with rapid, sustained increases in body awareness salience. Improvements in interoceptive regulatory capacity mediated reduced opioid craving, supporting interoception as a potential mechanism and treatment target in ketamine-augmented mindfulness interventions for OUD. gov:NCT04892251.",
+      "date": "2026-11-05",
+      "authors": [
+        "Lewis Benjamin R",
+        "Garland Eric L"
+      ],
+      "doi": "10.1177/02698811261495546"
+    },
+    {
+      "title": "Intravenous Ketamine or Esketamine in Adolescents With Major Depressive Disorder: A Systematic Review.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42985314/",
+      "source": "PubMed",
+      "abstract": "The therapeutic efficacy and safety of intravenous ketamine or esketamine in adolescents with major depressive disorder (MDD) remain insufficiently defined. This systematic review of randomized controlled trials (RCTs) aimed to evaluate the efficacy, safety, and tolerability of intravenous ketamine or esketamine in this population. A comprehensive search of four international databases (PubMed, EMBASE, PsycINFO, and the Cochrane Library) was conducted to identify RCTs comparing intravenous ketamine or esketamine with intravenous midazolam in adolescents with MDD. Three RCTs involving a total of 134 adolescents with MDD were included. Two trials assessed the antidepressant effects of intravenous ketamine compared with intravenous midazolam, with inconsistent findings. No significant advantage of intravenous ketamine over intravenous midazolam was observed in reducing anxiety symptoms (1 RCT). One trial compared intravenous esketamine with intravenous midazolam and evaluated antidepressant, anti-suicidal, and neurocognitive outcomes, demonstrating the superiority of intravenous esketamine. Both intravenous ketamine and intravenous esketamine were associated with significantly higher rates of dissociative symptoms (1 RCT each), and intravenous esketamine was also linked to a higher incidence of psychopathological symptoms (1 RCT). Systematic reporting of adverse events was provided in only one of the three included RCTs. Given the limited number of studies, small sample sizes, and methodological heterogeneity of the available RCTs, the current evidence base remains preliminary and insufficient to support definitive conclusions regarding the efficacy and safety of intravenous ketamine/esketamine in adolescents with MDD. These findings highlight the need for further adequately powered RCTs to establish robust and clinically meaningful evidence.",
+      "date": "2026-08-27",
+      "authors": [
+        "Qin Zhen-Juan",
+        "Li Xiao-Ming",
+        "Li Jia-Bao"
+      ],
+      "doi": "10.31083/AP48866"
+    },
+    {
+      "title": "Integrating multi-receptor and neuron-glia mechanisms of ketamine's antidepressant action: a convergence framework for understanding efficacy.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42985291/",
+      "source": "PubMed",
+      "abstract": "Ketamine has revolutionized psych iatric treatment, challenging monoamine-based paradigms through its capacity for rapid antidepressant action. While N-methyl-D-aspartate receptor (NMDAR) antagonism remains the canonical mechanism, this integrative review proposes a multi-receptor, neuron-glia convergence model to help account for ketamine's therapeutic efficacy. We outline the well-established disinhibition cascade, whereby preferential NMDAR blockade on GABAergic interneurons induces cortical disinhibition, triggering a transient glutamate surge and subsequent α-amino-3-hydroxy-5-methyl-4-isoxazolepropionic acid (AMPA) receptor activation. Furthermore, we discuss emerging, albeit indirect reports suggesting that ketamine and its metabolites may interact with the tropomyosin receptor kinase B (TrkB) transmembrane domain and modulate TrkB-related signaling. Beyond neurons, we consider the contributions of glial cells, particularly astrocytes, microglia, and oligodendrocyte lineage cells, as players in ketamine response in antidepressant effects. We further discuss evidence for opioid context-dependent effects that, at present, are insufficient to account for ketamine's broader antidepressant effects. Finally, we highlighted the sigma-1 receptor (S1R) as a chaperone modulator of ketamine-induced sustained neuroplasticity and intercellular neuron-glia communication. Collectively, the available data suggest that ketamine's efficacy likely arises from convergent actions across multiple molecular targets and both neuronal and glial cell types. Importantly, many components of this model remain hypothetical and require rigorous",
+      "date": "2026-10-21",
+      "authors": [
+        "Sulej Zuzanna",
+        "Zielińska Magdalena"
+      ],
+      "doi": "10.3389/fnmol.2026.1950244"
+    },
+    {
+      "title": "Intermittent theta burst stimulation to extend early ketamine response in treatment-resistant depression: A preliminary enriched randomized, double-blind, sham-controlled trial.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42983941/",
+      "source": "PubMed",
+      "abstract": "Ketamine produces rapid antidepressant effects in treatment-resistant depression (TRD), but these benefits diminish within days. Whether intermittent theta-burst stimulation (iTBS) can sustain ketamine response and whether such effects are associated with changes in large-scale brain networks are unclear. Adults with TRD who exhibited an antidepressant response to two low-dose ketamine infusions (0.5 mg/kg) were randomized to 5 days of accelerated iTBS or sham stimulation. The primary outcome was the change in Montgomery-Åsberg Depression Rating Scale (MADRS) scores across the Phase 2 period through Day 49. Resting-state functional MRI was obtained at baseline and after the stimulation course to examine thalamocortical and corticostriatal connectivity. Among 45 enrolled participants, 5 did not complete ketamine induction and 2 withdrew before randomization. Thirty-eight were randomized to active iTBS (n = 19) or sham iTBS (n = 19), and 37 completed follow-up through Day 49 (non-completion rate, 17.8%). In the intention-to-treat analysis, the Phase 2 mixed-effects model showed a significant overall group effect favoring active iTBS (P = 0.020), without a significant group × time interaction. Exploratory remission rates were higher with active iTBS at Days 15 and 29. Response maintenance favored active iTBS but did not reach statistical significance (log-rank P = 0.063). Exploratory fMRI analyses in 15 participants suggested differential group-by-time changes in thalamocortical and corticostriatal connectivity. In this enriched trial, ketamine infusion followed by iTBS was associated with lower overall depressive symptom severity during the randomized follow-up period through Day 49 among early ketamine responders. Exploratory fMRI analyses suggested treatment-related network changes.",
+      "date": "2026-11-04",
+      "authors": [
+        "Su Tung-Ping",
+        "Huang Mao-Hsuan",
+        "Chang Wan-Chen"
+      ],
+      "doi": "10.1111/pcn.70165"
+    },
+    {
+      "title": "From Toad Venom to Drug Development: The Clinical Pharmacology of Mebufotenin (5-MeO-DMT) in Treatment-Resistant Depression.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42983054/",
+      "source": "PubMed",
+      "abstract": "Treatment-resistant depression affects about one-third of patients with major depressive disorder and remains a major unmet need. Mebufotenin (5-methoxy-N,N-dimethyltryptamine; 5-MeO-DMT), the principal psychoactive constituent of Incilius alvarius parotoid secretion and of several Amazonian plants, is a pharmacologically atypical serotonergic psychedelic in clinical development for this indication. This narrative review analyses its clinical pharmacology, drawing on a structured search of PubMed/MEDLINE, EMBASE, Scopus, ClinicalTrials.gov and grey literature through 15 August 2026, supplemented by regulatory and sponsor disclosures. Mebufotenin is a non-selective serotonin agonist with high affinity at 5-hydroxytryptamine receptor 1A (5-HT",
+      "date": "2026-11-04",
+      "authors": [
+        "Likić Robert",
+        "Radanović Igor",
+        "Rkman Deni"
+      ],
+      "doi": "10.1007/s40263-026-01346-0"
+    },
     {
       "title": "Exploring the durability of esketamine and ketamine's antidepressant effects in the maintenance phase of treatment: A systematic review.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42981896/",
@@ -193,67 +256,13 @@
       "doi": "10.1176/appi.ajp.20260960"
     },
     {
-      "title": "Are Incretin Receptor Agonists Psychiatric Drugs: Near-term Opportunity or Creative Superlative?",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42964925/",
-      "source": "PubMed",
-      "abstract": "Incretin receptor agonists (IRAs), including glucagon-like peptide-1 receptor agonists (GLP-1 RAs) and dual/triple receptor co-agonists, have transformed the treatment of obesity, type 2 diabetes mellitus, and cardiovascular disease. Given the extraordinary burden of cardiometabolic comorbidity and excess premature mortality in persons living with psychiatric disorders, IRAs represent a highly relevant and potentially transformative pharmacologic class for this population. Beyond their established metabolic indications, a triangulation of preclinical, neuroimaging, observational, and emerging controlled trial evidence suggests that IRAs may exert direct central nervous system effects-augmenting neurogenesis, neuroplasticity, and functional brain connectivity-that underpin putative psychiatric benefits. Replicated evidence supports effects on alcohol and substance use disorders, and preliminary data indicate benefits in mood and neurocognitive disorders. However, controlled trial evidence remains limited and mixed, and several clinical considerations specific to psychiatric populations-including suicidality surveillance, sarcopenia, constipation risk, drug-drug interactions, and aspiration risk with ketamine-require careful attention. Whether IRAs ultimately meet the evidentiary threshold to be classified as psychiatric drugs remains to be determined by ongoing phase III trials. In the interim, their use for cardiometabolic indications in psychiatric populations is well-justified and may confer meaningful mortality reduction.",
-      "date": "2026-04-18",
-      "authors": [
-        "McIntyre Roger S"
-      ],
-      "doi": "10.65801/pcp.3528"
-    },
-    {
-      "title": "Therapeutic Potential of Classical Psychedelics and Non-Hallucinogenic Psychoplastogens in Psychiatric Disorders.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42964905/",
-      "source": "PubMed",
-      "abstract": "Major depressive disorder remains a leading cause of disability worldwide, and current antidepressants are limited by delayed onset and incomplete response. Building on advances driven by ketamine research, renewed interest has focused on classical serotonergic psychedelics-particularly psilocybin, N,N-dimethyltryptamine (DMT), 5-methoxy-DMT, and lysergic acid diethylamide (LSD)-which, under supervised conditions, can produce rapid and sometimes durable improvements in mood. This review synthesizes contemporary clinical evidence for classical psychedelics in depression and related disorders and evaluates key translational challenges, including small sample sizes, expectancy effects, and limitations in maintaining blinding in randomized controlled trials. We further evaluate mechanistic frameworks that move beyond an exclusively 5-HT",
-      "date": "2026-03-10",
-      "authors": [
-        "Hashimoto Kenji",
-        "Arıcıoğlu Feyza",
-        "Çetin Mesut"
-      ],
-      "doi": "10.65801/pcp.3512"
-    },
-    {
-      "title": "Real-world clinical outcomes under intravenous and subcutaneous esketamine protocols for treatment-resistant depression: a multicenter, retrospective study.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42964351/",
-      "source": "PubMed",
-      "abstract": "Esketamine is a promising therapeutic option for treatment-resistant depression (TRD). Intravenous (IV) administration is the most extensively studied parenteral route. However, subcutaneous (SC) administration may offer simpler, more scalable delivery. Multicenter real-world evidence comparing IV and SC routes of administration remains limited. To report clinical outcomes and tolerability of parenteral esketamine protocols for TRD at three Brazilian advanced-care centers. This multicenter retrospective chart review study (2023-2025) included 72 outpatients aged 18-65 years who received esketamine 2 to 3 times weekly via IV (n = 26; 6 sessions) or SC (n = 46; 12 sessions) administration. Data were analyzed in RStudio 2026.01.0 Build 392 using R 4.5.2. The primary outcome was categorical response on the Beck Depression Inventory-II (BDI-II) at the shared 6-session milestone and at each protocol-specific endpoint. Secondary outcomes included continuous changes in BDI-II and Beck Anxiety Inventory (BAI) scores in the full sample, tolerability and documented adverse events, and exploratory factor analysis of baseline symptom dimensions. After six sessions, BDI-II response distribution favored the IV protocol, although the between-group difference was not statistically significant (Pearson's chi-square = 5.661; p = 0.059; odds ratio, 3.06; 95% CI, 1.22-8.00). At the protocol-specific endpoints, categorical BDI-II response did not differ significantly between groups (Pearson's chi-square = 1.227; p = 0.541; odds ratio, 1.44; 95% CI, 0.57-3.73). No serious adverse events or adverse-event-related discontinuations were reported; dissociation was more frequent with IV than with SC treatment (53.8% vs. 13.0%; p = 0.001), whereas nausea and mild transient blood pressure increases did not differ significantly. BDI-II factor analysis identified cognitive-affective and somatic-neurovegetative dimensions. The IV protocol showed a more favorable BDI-II response distribution at the shared 6-session milestone, whereas SC esketamine achieved statistically comparable categorical outcomes at its 12-session protocol-specific endpoint. Route selection should consider speed of response, tolerability, dosing, operational complexity, and access. SC esketamine may be a feasible option where simplicity, tolerability, and access are priorities. Results should be interpreted with caution because of the retrospective, observational study design.",
-      "date": "2026-10-16",
-      "authors": [
-        "Alves Gilberto Sousa",
-        "Dos Santos Humberto M M",
-        "Damasceno Samira D"
-      ],
-      "doi": "10.3389/fpsyt.2026.1963841"
-    },
-    {
-      "title": "Oral Esketamine Maintenance Treatment for Treatment-Resistant Depression: Clinical Outcomes During an Off-Label Treatment Program.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42964271/",
-      "source": "PubMed",
-      "abstract": "Ketamine and esketamine maintenance treatment show promise in maintaining initial antidepressant effects, yet further research is needed to optimize long-term outcomes. This observational study aimed to assess long-term depression symptom severity, safety, and tolerability in a cohort of patients receiving at-home oral esketamine maintenance treatment. Between June 2017 and March 2024, 221 patients with severe treatment-resistant unipolar depression were enrolled directly or trial-transferred into an off-label induction treatment program. After 6 weeks of individually titrated oral esketamine (twice a week, max 3.0 mg/kg) administered in the clinic, 93 patients continued to maintenance treatment at home (max 3.0 mg/kg twice a week). Our primary outcome was change in depression symptom severity during maintenance treatment, measured by the 17-item Hamilton Depression Rating Scale (HDRS",
-      "date": "2026-10-29",
-      "authors": [
-        "Smith-Apeldoorn Sanne Y",
-        "Veraart Jolien K E",
-        "Spijker Jan"
-      ],
-      "doi": "10.1155/da/8320239"
-    },
-    {
-      "title": "MDMA-Assisted Therapy for Veterans with Comorbid Posttraumatic Stress Disorder and Alcohol Use Disorder: Clinical Outcomes from the First Open-Label Pilot Trial.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42962981/",
-      "source": "PubMed",
-      "abstract": "Co-occurring posttraumatic stress disorder and alcohol use disorder (PTSD-AUD) are highly prevalent among U.S. Veterans and associated with greater symptom severity, functional impairment, and poorer outcomes than either disorder alone. Existing treatments demonstrate modest effectiveness, with persistent challenges in engagement, retention, and sustained improvement. To evaluate the feasibility, safety, tolerability, and preliminary clinical outcomes of investigational 3,4-methylenedioxymethamphetamine (MDMA)-assisted therapy for Veterans with comorbid PTSD-AUD. We conducted the first open-label trial of MDMA-assisted therapy in Veterans (N = 10) with PTSD-AUD. The intervention included 11 therapy sessions (three preparatory, two MDMA assisted therapy sessions, and six integration), followed by a 4-week follow-up. Primary outcomes were PTSD symptom severity and alcohol consumption, measured by the Clinician-Administered PTSD Scale for DSM-5 (CAPS-5) and Timeline Follow-Back (TLFB). Secondary outcomes assessed safety and tolerability. Exploratory outcomes included alcohol craving and substance misuse. Recruitment and retention were strong with 90% of enrolled participants completing treatment. MDMA-assisted therapy was associated with significant reductions in PTSD symptoms (p = 0.006, d = 1.241). Descriptive reductions were observed in alcohol consumption, including a 31% reduction in drinks per drinking day and a 54% reduction in heavy drinking days, although these changes did not reach clinical significance. No serious adverse events were reported. Treatment-emergent adverse events were non-serious and consistent with expected acute MDMA effects under protocol monitoring. Substance-use measures did not indicate systematic increases in alcohol or other substance use; one participant reported an isolated recurrence of cocaine use. Findings support the safety, feasibility, and tolerability of MDMA-assisted therapy and provide preliminary descriptive evidence of improvement in PTSD symptoms and alcohol-related outcomes. Larger randomized controlled trials are needed to evaluate efficacy, durability, and benefit-risk profile in this population.",
-      "date": "2026-10-30",
-      "authors": [
-        "Eaton Erica",
-        "Capone Christy",
-        "Gully Brian J"
-      ],
-      "doi": "10.1016/j.alcohol.2026.107464"
+      "title": "Pα+ Psychedelic Bulletin #234: Psychedelics After the Midterms; FDA Answers House Psychedelics Caucus; ICER to Review Compass’ Psilocybin; Terran v. Compass Gets Trial Date",
+      "url": "https://psychedelicalpha.com/news/p%ce%b1-psychedelic-bulletin-234-psychedelics-after-the-midterms-fda-answers-house-psychedelics-caucus-icer-to-review-compass-psilocybin-terran-v-compass-gets-trial-date/",
+      "source": "Psychedelic Alpha",
+      "abstract": "Psychedelics Beyond MAHA? Following the Democrats’ sweeping success in Tuesday’s elections, some in the field may wonder what the elections might mean for psychedelics and the support they appear to have found within the current administration. The Make America Healthy Again (MAHA) movement, which has championed psychedelics as one of its interest areas, also suffered […]",
+      "date": "2026-11-06",
+      "authors": [],
+      "doi": ""
     },
     {
       "title": "Compass Says NDA Will Be Filed Within Two Weeks, Declines to Comment on Usona",
@@ -333,15 +342,6 @@
       "source": "Psychedelic Alpha",
       "abstract": "At The Psychedelic Healthcare Forum that we co-hosted last Thursday in New York, our Editor Josh Hardman sat down with Matt Zorn, Deputy General Counsel at the U.S. Department of Health and Human Services, for a wide-ranging discussion. It was the first in-depth one-to-one interview that Zorn has participated in since taking the role. (His […]",
       "date": "2026-10-21",
-      "authors": [],
-      "doi": ""
-    },
-    {
-      "title": "Podcast: Early Healthcare Forum Takeaways, FDA’s Ibogaine Blueprint, and Compass Talks Pricing",
-      "url": "https://psychedelicalpha.com/news/podcast-early-healthcare-forum-takeaways-fdas-ibogaine-blueprint-and-compass-talks-pricing/",
-      "source": "Psychedelic Alpha",
-      "abstract": "",
-      "date": "2026-10-20",
       "authors": [],
       "doi": ""
     },
@@ -569,7 +569,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2018-004480-31/CZ",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-11-05",
+      "date": "2026-11-06",
       "authors": [],
       "doi": ""
     },
@@ -578,7 +578,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2020-005037-32/CZ",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-11-05",
+      "date": "2026-11-06",
       "authors": [],
       "doi": ""
     },
@@ -587,7 +587,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2021-002909-10/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-11-05",
+      "date": "2026-11-06",
       "authors": [],
       "doi": ""
     },
@@ -596,7 +596,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2015-000550-37/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-11-05",
+      "date": "2026-11-06",
       "authors": [],
       "doi": ""
     },
@@ -605,7 +605,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2021-000041-40/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-11-05",
+      "date": "2026-11-06",
       "authors": [],
       "doi": ""
     },
@@ -614,7 +614,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2020-000829-55/DK",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-11-05",
+      "date": "2026-11-06",
       "authors": [],
       "doi": ""
     },
@@ -623,7 +623,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2020-002790-94/SE",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-11-05",
+      "date": "2026-11-06",
       "authors": [],
       "doi": ""
     },
@@ -632,7 +632,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2021-006200-33/FI",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-11-05",
+      "date": "2026-11-06",
       "authors": [],
       "doi": ""
     },
@@ -641,7 +641,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2019-004812-73/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-11-05",
+      "date": "2026-11-06",
       "authors": [],
       "doi": ""
     },
@@ -650,7 +650,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2022-002369-14/BE",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-11-05",
+      "date": "2026-11-06",
       "authors": [],
       "doi": ""
     },

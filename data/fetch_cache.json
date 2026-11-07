@@ -1,7 +1,45 @@
 {
-  "date": "2026-11-06",
-  "cached_at": "2026-11-06T13:43:06.408722+00:00",
+  "date": "2026-11-07",
+  "cached_at": "2026-11-07T12:25:12.130147+00:00",
   "articles": [
+    {
+      "title": "Researchers' Experiences with IRB Oversight of Psychedelic Research.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42995154/",
+      "source": "PubMed",
+      "abstract": "Previous research raises concern that conservative institutional review board (IRB) approaches regarding stigmatized issues and vulnerable groups could similarly arise as an impediment to research with psychedelic drugs. We interviewed 20 US researchers who had been a principal investigator on at least one research protocol involving psychedelics about their experiences with IRB oversight and perspectives regarding what IRBs need to know. Respondents reported that their IRBs raised concern and asked questions about participant safety, consent, legal issues, and data security and confidentiality, typical domains for IRB consideration. They also mentioned several IRB knowledge gaps or misunderstandings about psychedelics, primarily about risks and safety, while emphasizing the importance of IRBs' understanding of psychedelic drug effects. Despite IRB concerns and misunderstandings, all study respondents ultimately reported positive or neutral current experiences with IRBs reviewing their protocols for research with psychedelics, which they often attributed to cultivating strong IRB relationships and helping IRBs achieve adequate knowledge about these types of studies. Although investigators in our study did not perceive their IRBs to be a significant barrier to research with psychedelics, less experienced investigators and IRBs may face different outcomes. As research with psychedelics continues to increase, both researchers and IRBs should be responsive to continued scientific developments and emergent best practices.",
+      "date": "2026",
+      "authors": [
+        "Neitzke-Spruill Logan",
+        "Robinson Jill Oliver",
+        "Purcell Alison"
+      ],
+      "doi": "10.1002/eahr.70033"
+    },
+    {
+      "title": "MDMA-assisted therapy for social anxiety disorder: A randomized, open-label, wait-list controlled trial.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42994762/",
+      "source": "PubMed",
+      "abstract": "±3, 4-methylenedioxymethamphetamine (MDMA) has positive effects on socio-emotional processing and MDMA-Assisted Therapy (MDMA-AT) showed promise for treating Social Anxiety Disorder (SAD) in a previous placebo-controlled trial. Develop a preliminary estimate of clinical response and safety for MDMA-AT versus waitlist in adults with SAD. Secondary aims included refinement of a standardized psychotherapy manual and assessment of candidate therapeutic processes. This randomized, open-label, wait-list controlled clinical trial recruited and enrolled 20 participants diagnosed with SAD from April 2022 to March 2024. They were randomly assigned to either immediate treatment with MDMA-AT or a 16-week waitlist condition followed by MDMA-AT equivalent to the immediate treatment arm. MDMA-AT consisted of three 90-min preparation sessions, two MDMA sessions, and six 90-min integration sessions. The preregistered primary outcome was the Liebowitz Social Anxiety Scale; secondary outcomes were functioning, shame, acceptance, belongingness, self-concealment, and self-compassion. Across 20 participants (45% women, 40% men, 15% transgender; 85% White; mean age 38) we observed a mean difference on the Liebowitz Social Anxiety Scale at 16-week primary outcome of -43.3 (SD = 14.7; 95% CI, -29.5 to -57.1; p < .0001; Hedges' g = 2.8) indicating greater improvement in the MDMA-AT condition. No serious adverse events occurred; adverse events were mild to moderate and transient. MDMA-AT resulted in a significant reduction in social anxiety symptoms and improvement in functioning compared to waitlist. There were no serious adverse events. Findings provide preliminary data for clinical response, safety, and feasibility of MDMA-AT for SAD, supporting the need for further investigation. Trial Registration https://clinicaltrials.gov/study/NCT05138068.",
+      "date": "2026-11-06",
+      "authors": [
+        "Luoma Jason B",
+        "Lear M Kati",
+        "Pilecki Brian"
+      ],
+      "doi": "10.1016/j.jad.2026.122710"
+    },
+    {
+      "title": "Shared clinical and neural features of PTSD, dissociative disorders, and limbic epilepsy: a narrative review.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42990611/",
+      "source": "PubMed",
+      "abstract": "The phenomenological closeness of post-traumatic stress disorder (PTSD) and dissociative disorders has been re-emphasized in recent diagnostic nomenclature, but their common neural pathogenesis is not yet clarified. Moreover, conventional neuroimaging studies have been observational, making it fundamentally difficult to establish causal relationships between abnormalities in specific brain regions and clinical symptoms. Here, we reviewed psychiatric symptoms in human limbic epilepsy, PTSD and dissociative disorders, together with findings from animal studies of limbic circuits, in order to explore causal links between limbic dysfunction and symptoms resembling those of PTSD and dissociative disorders. In human limbic epilepsy, epileptogenic activity arises within limbic-centered networks involving regions such as the hippocampus, amygdala and cingulate cortices, providing a clinical condition in which psychiatric symptoms can be linked to relatively identifiable neural disturbances. These symptoms overlap with key clinical domains of PTSD and dissociative disorders, including intrusive or altered memories, affective dysregulation, depersonalization/derealization, disturbances of consciousness and functional motor phenomena. This overlap raises the possibility that abnormal limbic activity may contribute to similar symptoms in PTSD and dissociative disorders. Animal studies further suggest that experimental manipulation of limbic structures and related circuits can produce PTSD-like and dissociation-like phenomena. Therefore, human limbic epilepsy and animal studies of limbic circuits complement observational neuroimaging studies by offering a framework for examining possible causal links between limbic dysfunction and PTSD- and dissociation-like symptoms.",
+      "date": "2026-10-23",
+      "authors": [
+        "Yokoyama Tatsushi",
+        "Kim Yoshiharu"
+      ],
+      "doi": "10.1016/j.ynstr.2026.100860"
+    },
     {
       "title": "Ketamine, an interoceptive associative agent? Evidence from ketamine-assisted Mindfulness-Oriented Recovery Enhancement for opioid use disorder.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42989695/",
@@ -206,54 +244,6 @@
         "Kaya Ebru"
       ],
       "doi": "10.1177/02698811261493120"
-    },
-    {
-      "title": "Transcriptional profiling of antidepressant ketamine and electroconvulsive therapy treatment.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42967909/",
-      "source": "PubMed",
-      "abstract": "Treatment-resistant depression (TRD) affects 30-50% of patients with major depressive disorder (MDD). Electroconvulsive therapy (ECT) and sub-anesthetic ketamine treatment can relieve TRD, yet their antidepressant mechanisms remain unclear. We hypothesized that peripheral blood gene expression might offer a non-invasive proxy of potential treatment-response biomarkers. We conducted a transcriptome analysis on peripheral blood samples from individuals with TRD undergoing ECT (N = 37) or serial ketamine infusions (N = 60), and non-depressed controls (N = 35). Samples were collected at baseline and at multiple follow-up time points. Differential gene expression (DGE) at the single gene and network level identified transcriptional changes and co-regulated gene modules associated with diagnosis, treatment, and response/remission status using Weighted Gene Co-Expression Network Analysis (WGCNA), correcting for multiple comparisons. Longitudinal transcriptional changes were not detected for either treatment for individual genes or networks (FDR corrected or |logFC| >0.05). When comparing remitters and non-remitters at baseline in the ketamine group, we observed evidence of enrichment for immune-related functions overall with one gene significantly differentially expressed (i.e., IGKV1-9) (p = 2.5E-05, logFC = -0.51). In the ECT sample, when considering gene networks, we observed significant interaction effects between time and diagnosis. At least six co-regulated gene modules yielded significant differences at baseline between ECT patients and controls. Despite the robust clinical improvements associated with ECT and ketamine, peripheral blood RNA-seq revealed only limited longitudinal gene expression changes. However, pre-treatment differences in gene expression profiles suggest some potential predictive value. Larger samples may be warranted to detect possible peripheral molecular signatures of rapid-acting antidepressant response.",
-      "date": "2026-08-05",
-      "authors": [
-        "Zavaliangos-Petropulu Artemis",
-        "Ghang Ginny",
-        "Boltz Toni"
-      ],
-      "doi": "10.1038/s41398-026-04196-y"
-    },
-    {
-      "title": "Cannabinoid receptor type 1 availability in individuals with a history of childhood trauma: a positron emission tomography study.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42966749/",
-      "source": "PubMed",
-      "abstract": "Early life adversity has a lasting impact on the endocannabinoid (eCB) system based on animal models. However, the impact of early life adversity, such as childhood trauma (CT), on the eCB system has not been thoroughly studied. We assessed the availability of cannabinoid receptor type 1 (CB1R) in individuals with CT compared to healthy controls without CT (HCs). Cannabinoid receptor type 1 (CB1R) availability was compared in adults with CT (N = 22) and age- and sex-matched HCs (n = 22), using positron emission tomography (PET) imaging with the CB1R-specific radiotracer [",
-      "date": "2026-10-31",
-      "authors": [
-        "Mohammad Aghaei Ardavan",
-        "Pittman Brian",
-        "Korem Nachshon"
-      ],
-      "doi": "10.1038/s41380-026-03931-7"
-    },
-    {
-      "title": "Psilocybin Use in Psychiatry: Clinical Practice and Public Health Implications.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42966740/",
-      "source": "PubMed",
-      "abstract": "",
-      "date": "2026-11-01",
-      "authors": [
-        "Olfson Mark"
-      ],
-      "doi": "10.1176/appi.ajp.20260628"
-    },
-    {
-      "title": "Furthering the Understanding of Psilocybin Use and Molecules Relevant to Depression and Schizophrenia.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42966738/",
-      "source": "PubMed",
-      "abstract": "",
-      "date": "2026-11-01",
-      "authors": [
-        "Kalin Ned H"
-      ],
-      "doi": "10.1176/appi.ajp.20260960"
     },
     {
       "title": "Pα+ Psychedelic Bulletin #234: Psychedelics After the Midterms; FDA Answers House Psychedelics Caucus; ICER to Review Compass’ Psilocybin; Terran v. Compass Gets Trial Date",
@@ -569,7 +559,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2018-004480-31/CZ",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-11-06",
+      "date": "2026-11-07",
       "authors": [],
       "doi": ""
     },
@@ -578,7 +568,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2020-005037-32/CZ",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-11-06",
+      "date": "2026-11-07",
       "authors": [],
       "doi": ""
     },
@@ -587,7 +577,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2021-002909-10/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-11-06",
+      "date": "2026-11-07",
       "authors": [],
       "doi": ""
     },
@@ -596,7 +586,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2015-000550-37/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-11-06",
+      "date": "2026-11-07",
       "authors": [],
       "doi": ""
     },
@@ -605,7 +595,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2021-000041-40/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-11-06",
+      "date": "2026-11-07",
       "authors": [],
       "doi": ""
     },
@@ -614,7 +604,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2020-000829-55/DK",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-11-06",
+      "date": "2026-11-07",
       "authors": [],
       "doi": ""
     },
@@ -623,7 +613,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2020-002790-94/SE",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-11-06",
+      "date": "2026-11-07",
       "authors": [],
       "doi": ""
     },
@@ -632,7 +622,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2021-006200-33/FI",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-11-06",
+      "date": "2026-11-07",
       "authors": [],
       "doi": ""
     },
@@ -641,7 +631,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2019-004812-73/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-11-06",
+      "date": "2026-11-07",
       "authors": [],
       "doi": ""
     },
@@ -650,7 +640,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2022-002369-14/BE",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-11-06",
+      "date": "2026-11-07",
       "authors": [],
       "doi": ""
     },

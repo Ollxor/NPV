@@ -1,6 +1,46 @@
 {
   "items": [
     {
+      "title": "Researchers' Experiences with IRB Oversight of Psychedelic Research.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42995154/",
+      "source": "PubMed",
+      "date": "2026",
+      "authors": [
+        "Neitzke-Spruill Logan",
+        "Robinson Jill Oliver",
+        "Purcell Alison"
+      ],
+      "doi": "10.1002/eahr.70033",
+      "summary_en": "Qualitative study of 20 US psychedelic researchers examining IRB oversight experiences. Respondents reported IRBs raised standard safety and consent concerns, but identified knowledge gaps about psychedelic risks. Despite initial concerns, all investigators reported positive or neutral experiences, attributed to strong IRB relationships and education. Findings suggest experienced researchers manage IRB processes effectively, though less experienced investigators may face different outcomes.",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "qualitative",
+      "substances": [
+        "other"
+      ],
+      "added_at": "2026-11-07T13:22:55.847214+00:00"
+    },
+    {
+      "title": "MDMA-assisted therapy for social anxiety disorder: A randomized, open-label, wait-list controlled trial.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42994762/",
+      "source": "PubMed",
+      "date": "2026-11-06",
+      "authors": [
+        "Luoma Jason B",
+        "Lear M Kati",
+        "Pilecki Brian"
+      ],
+      "doi": "10.1016/j.jad.2026.122710",
+      "summary_en": "Randomized controlled trial (n=20) comparing MDMA-assisted therapy (MDMA-AT) to waitlist for social anxiety disorder. MDMA-AT consisted of preparation, two MDMA sessions, and integration therapy. At 16 weeks, MDMA-AT showed significantly greater improvement on the Liebowitz Social Anxiety Scale (mean difference -43.3, g=2.8, p<.0001). No serious adverse events occurred. Results support further investigation of entactogens as adjuncts to psychotherapy for anxiety disorders.",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "rct",
+      "substances": [
+        "mdma"
+      ],
+      "added_at": "2026-11-07T13:22:55.847214+00:00"
+    },
+    {
       "title": "Ketamine, an interoceptive associative agent? Evidence from ketamine-assisted Mindfulness-Oriented Recovery Enhancement for opioid use disorder.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42989695/",
       "source": "PubMed",

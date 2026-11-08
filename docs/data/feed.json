@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-07T13:23:31.312878+00:00",
+  "generated_at": "2026-11-08T13:43:34.036160+00:00",
   "items": [
     {
       "title": "Determination of Tryptamines in Biological Specimens.",
@@ -213,6 +213,37 @@
         "other"
       ],
       "added_at": "2026-11-05T14:51:05.264252+00:00"
+    },
+    {
+      "title": "Working memory neural correlates after ketamine in treatment-resistant depression: a randomized placebo-controlled functional magnetic resonance imaging study.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42998544/",
+      "source": "PubMed",
+      "date": "2026-11-03",
+      "authors": [
+        "Fijtman Adam",
+        "Lally Níall",
+        "Evans Jennifer"
+      ],
+      "doi": "10.1016/j.pscychresns.2026.112367",
+      "summaries": {
+        "en": "Working memory neural correlates after ketamine in treatment-resistant depression: a randomized placebo-controlled functional magnetic resonance imaging study.",
+        "sv": "Working memory neural correlates after ketamine in treatment-resistant depression: a randomized placebo-controlled functional magnetic resonance imaging study.",
+        "no": "Working memory neural correlates after ketamine in treatment-resistant depression: a randomized placebo-controlled functional magnetic resonance imaging study.",
+        "da": "Working memory neural correlates after ketamine in treatment-resistant depression: a randomized placebo-controlled functional magnetic resonance imaging study.",
+        "fi": "Working memory neural correlates after ketamine in treatment-resistant depression: a randomized placebo-controlled functional magnetic resonance imaging study.",
+        "is": "Working memory neural correlates after ketamine in treatment-resistant depression: a randomized placebo-controlled functional magnetic resonance imaging study.",
+        "et": "Working memory neural correlates after ketamine in treatment-resistant depression: a randomized placebo-controlled functional magnetic resonance imaging study.",
+        "lv": "Working memory neural correlates after ketamine in treatment-resistant depression: a randomized placebo-controlled functional magnetic resonance imaging study.",
+        "lt": "Working memory neural correlates after ketamine in treatment-resistant depression: a randomized placebo-controlled functional magnetic resonance imaging study."
+      },
+      "notable": false,
+      "notable_reasons": null,
+      "relevance_score": 4,
+      "study_type": "rct",
+      "substances": [
+        "ketamine"
+      ],
+      "added_at": "2026-11-08T13:43:12.862528+00:00"
     },
     {
       "title": "Psilocybin-Assisted Therapy for Cancer-Related Psychological and Existential Distress in Adults with Cancer: An Integrative Systematic Review.",
@@ -1908,37 +1939,6 @@
       "study_type": "observational",
       "substances": [
         "lsd",
-        "psilocybin"
-      ],
-      "added_at": "2026-10-13T14:26:46.565842+00:00"
-    },
-    {
-      "title": "Enhancing cGMP signaling with psilocybin reduces head twitch and restructures the synaptic proteome while maintaining antidepressant response.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42864385/",
-      "source": "PubMed",
-      "date": "2026-10-12",
-      "authors": [
-        "Floris Gabriele",
-        "Jefferson Sarah J",
-        "Rondeau Jocelyne"
-      ],
-      "doi": "10.1038/s41386-026-02569-x",
-      "summaries": {
-        "en": "Rodent study combining psilocybin with a PDE9 inhibitor to enhance cGMP signaling. The inhibitor reduced psilocybin-induced head-twitch behavior (a marker of perceptual effects) while preserving antidepressant-like responses. Proteomics showed reduced 5-HT₂A receptor signaling alongside enhanced synaptogenesis pathways, suggesting a strategy to dissociate therapeutic from perceptual effects.",
-        "sv": "Gnagarstudie som kombinerade psylocybin med en PDE9-inhibitor för att öka cGMP-signalering. Inhibitorn minskade psylocybin-inducerad huvudvridning (markör för perceptionella effekter) samtidigt som antidepressiva effekter bevarades. Proteomanalys visade reducerad 5-HT₂A-receptorsignalering tillsammans med ökad synaptogenes, vilket tyder på en strategi att skilja terapeutiska från perceptionella effekter.",
-        "no": "Gnagerstu­die som kombinerte psilocybin med en PDE9-inhibitor for å øke cGMP-signalering. Inhibitoren reduserte psilocybin-indusert hodebevegelse (markør for perseptuell effekt) samtidig som antidepressiv effekt ble bevart. Proteomikk viste redusert 5-HT₂A-reseptorsignalering sammen med økt synaptogenese, noe som tyder på en strategi for å skille terapeutiske fra perseptuelle effekter.",
-        "da": "Gnagerstudie, der psilocybin blev kombineret med en PDE9-inhibitor for at øge cGMP-signalering. Inhibitoren reducerede psilocybin-induceret hovedrysten (markør for perceptuelle effekter) samtidig med at antidepressiv virkning bevaredes. Proteomik viste reduceret 5-HT₂A-receptorsignalering sammen med øget synaptogenese, hvilket tyder på en strategi til at adskille terapeutiske fra perceptuelle effekter.",
-        "fi": "Jyrsijätutkimus, jossa psyloksibiinia yhdistettiin PDE9-inhibiittoriin cGMP-signaloinnin vahvistamiseksi. Inhibiittori vähensi psylokysibi-indusoidun pään värinän (merkki aistinvaraisista vaikutuksista) samalla kun masennuslääkkeen vaikutus säilyi. Proteomiikka osoitti vähentyneet 5-HT₂A-reseptorisignalointi ja lisääntynyt synaptogeneesi, mikä viittaa strategiaan terapeuttisten ja aistinvaraisten vaikutusten erottamiseksi.",
-        "is": "Tilraun á nagdýrum þar sem psýlósýbín var sameinað PDE9-hemlingu til að auka cGMP-merking. Hemlingin minnkaði psýlósýbín-framkallaða höfuðhristi (merki um skynjunaráhrif) á meðan bólgastöðvandi áhrif héldu sér. Próteóm sýndi minni 5-HT₂A-móttakamerking ásamt aukinni synaptogenesismerking, sem bendir til aðferðar til að greina meðferðaráhrif frá skynjunaráhrifum.",
-        "et": "Jääsurite uuring, kus psülotsibiini kombineeriti PDE9-inhibiitoriga cGMP-signaliseerimise tugevdamiseks. Inhibiitor vähendasid psülotsibiini-indutseeritud pea-liigutusi (märk aistingulisest efektist), samal ajal kui antidepressiivne toime säilis. Proteoomika näitas vähendatud 5-HT₂A-retseptori signaliseerimist koos tugevdatud sinaptogeneesiga, mis viitab strateegiale terapeutiliste ja aistinguliste efektide eristamiseks.",
-        "lv": "Grauzēļu pētījums, kurā psilocibīnu kombinēja ar PDE9 inhibitoru cGMP signalizācijas pastiprināšanai. Inhibitors samazināja psilocibīna izraisītas galvas kustības (perceptuālo efektu marķieris), vienlaikus saglabājot antidepresīvu efektu. Proteomika parādīja samazinātu 5-HT₂A receptoru signalizāciju kopā ar palielinātu sinaptogēnēzi, kas liecina par stratēģiju terapeitisko efektu atšķiršanai no perceptuālajiem efektiem.",
-        "lt": "Graužikų tyrimas, kuriame psilocibinas buvo derintas su PDE9 inhibitoriumi cGMP signalizavimui stiprinti. Inhibitorius sumažino psilocibino sukeliamus galvos judesius (sensorinių efektų žymeklis), išsaugodamas antidepresantinį veikimą. Proteomika parodė sumažėjusią 5-HT₂A receptoriaus signalizaciją kartu su padidėjusia sinaptogeneze, sugeriant strategiją terapeutiniams efektams nuo sensorinių efektų atskirti."
-      },
-      "notable": false,
-      "notable_reasons": null,
-      "relevance_score": 4,
-      "study_type": "preclinical",
-      "substances": [
         "psilocybin"
       ],
       "added_at": "2026-10-13T14:26:46.565842+00:00"

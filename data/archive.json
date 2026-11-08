@@ -1,6 +1,26 @@
 {
   "items": [
     {
+      "title": "Working memory neural correlates after ketamine in treatment-resistant depression: a randomized placebo-controlled functional magnetic resonance imaging study.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42998544/",
+      "source": "PubMed",
+      "date": "2026-11-03",
+      "authors": [
+        "Fijtman Adam",
+        "Lally Níall",
+        "Evans Jennifer"
+      ],
+      "doi": "10.1016/j.pscychresns.2026.112367",
+      "summary_en": "Working memory neural correlates after ketamine in treatment-resistant depression: a randomized placebo-controlled functional magnetic resonance imaging study.",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "rct",
+      "substances": [
+        "ketamine"
+      ],
+      "added_at": "2026-11-08T13:43:12.862528+00:00"
+    },
+    {
       "title": "Researchers' Experiences with IRB Oversight of Psychedelic Research.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42995154/",
       "source": "PubMed",

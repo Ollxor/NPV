@@ -1,7 +1,20 @@
 {
-  "date": "2026-11-07",
-  "cached_at": "2026-11-07T12:25:12.130147+00:00",
+  "date": "2026-11-08",
+  "cached_at": "2026-11-08T12:43:47.847727+00:00",
   "articles": [
+    {
+      "title": "Working memory neural correlates after ketamine in treatment-resistant depression: a randomized placebo-controlled functional magnetic resonance imaging study.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42998544/",
+      "source": "PubMed",
+      "abstract": "Ketamine exerts rapid antidepressant effects in treatment-resistant depression (TRD), but its impact on working memory and neural circuitry remains unclear. This secondary analysis investigated behavioral and neural changes during a working memory task post-ketamine infusion in TRD participants versus healthy volunteers (HVs). Data were previously collected from a randomized, double-blind, placebo-controlled, crossover trial of 22 unmedicated TRD participants (14F/8 M) and 19 matched HVs (12F/7 M). Participants received ketamine (0.5mg/kg) and placebo two weeks apart. 3T fMRI was acquired during an N-back task at baseline and two days post-ketamine. Accuracy, reaction time, and differential neural activation during 3-back versus 1-back contrasts were analyzed. Ketamine significantly reduced Montgomery-Asberg Depression Rating Scale scores compared to placebo (p < 0.01). N-back task performance did not significantly differ between drug conditions. In region of interest (ROI) analyses, TRD participants showed reduced activation in the superior temporal gyrus versus HVs (p < 0.01) after both infusions, and both groups demonstrated decreased parieto-occipital junction activation post-ketamine versus post-placebo (p = 0.01). Baseline dorsolateral prefrontal cortex activity significantly predicted post-infusion activity (p < 0.01). Ketamine's antidepressant effects occurred without significant changes in working memory performance, though region-specific task-related brain changes were observed. Interpretation is limited by modest sample size and the exploratory nature of the ROI analyses. CLINICAL TRIAL REGISTRATION: www.clinicaltrials.gov, NCT00088699.",
+      "date": "2026-11-03",
+      "authors": [
+        "Fijtman Adam",
+        "Lally Níall",
+        "Evans Jennifer"
+      ],
+      "doi": "10.1016/j.pscychresns.2026.112367"
+    },
     {
       "title": "Researchers' Experiences with IRB Oversight of Psychedelic Research.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42995154/",
@@ -231,19 +244,6 @@
         "Raymond Kendall B"
       ],
       "doi": "10.1038/s41593-026-02500-z"
-    },
-    {
-      "title": "Persisting psychological complications following the use of classic psychedelics: A qualitative study of help-seeking experiences.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42968473/",
-      "source": "PubMed",
-      "abstract": "While growing enthusiasm for the therapeutic potential of classic psychedelics has led to a rise in non-clinical use, attention to persisting adverse effects has emerged with delay. A subset of individuals report persisting complications such as hallucinogen persisting perception disorder (HPPD), depersonalization/derealization disorder (DDD), anxiety and depression. Yet few medical services are equipped to address these complications. This qualitative study examines how societal, medical, and media discourses shape the experiences of individuals with persisting psychedelic-related complications, focusing on help-seeking trajectories. Thirteen semi-structured interviews with adults experiencing persisting psychedelic-related psychological symptoms (four women, nine men, age 19-49 years; HPPD ( Three interrelated themes emerged: (1) The dissonance between expectation and harm-idealized media and scientific portrayals of psychedelics shaped initial use and complicated recognition of adverse outcomes; (2) stigma, silence, and self-blame-prohibitionist discourse and internalized shame significantly inhibited help-seeking; and (3) between systemic absence and self-organized support-participants encountered clinical unpreparedness and epistemic dismissal, which often led them to rely on online peer communities and self-management strategies. Positive clinical encounters, characterized by professional expertise and non-judgemental engagement, were experienced as helpful. Adequate clinical and conceptual frameworks for persisting psychedelic-related complications are lacking. An interdisciplinary, experience-informed approach integrating realistic risk communication, clinician training, and destigmatization is required to support affected individuals.",
-      "date": "2026-11-01",
-      "authors": [
-        "Jöbstl Lisa Maria",
-        "Lubahn Bente",
-        "Kaya Ebru"
-      ],
-      "doi": "10.1177/02698811261493120"
     },
     {
       "title": "Pα+ Psychedelic Bulletin #234: Psychedelics After the Midterms; FDA Answers House Psychedelics Caucus; ICER to Review Compass’ Psilocybin; Terran v. Compass Gets Trial Date",
@@ -559,7 +559,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2018-004480-31/CZ",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-11-07",
+      "date": "2026-11-08",
       "authors": [],
       "doi": ""
     },
@@ -568,7 +568,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2020-005037-32/CZ",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-11-07",
+      "date": "2026-11-08",
       "authors": [],
       "doi": ""
     },
@@ -577,7 +577,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2021-002909-10/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-11-07",
+      "date": "2026-11-08",
       "authors": [],
       "doi": ""
     },
@@ -586,7 +586,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2015-000550-37/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-11-07",
+      "date": "2026-11-08",
       "authors": [],
       "doi": ""
     },
@@ -595,7 +595,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2021-000041-40/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-11-07",
+      "date": "2026-11-08",
       "authors": [],
       "doi": ""
     },
@@ -604,7 +604,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2020-000829-55/DK",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-11-07",
+      "date": "2026-11-08",
       "authors": [],
       "doi": ""
     },
@@ -613,7 +613,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2020-002790-94/SE",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-11-07",
+      "date": "2026-11-08",
       "authors": [],
       "doi": ""
     },
@@ -622,7 +622,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2021-006200-33/FI",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-11-07",
+      "date": "2026-11-08",
       "authors": [],
       "doi": ""
     },
@@ -631,7 +631,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2019-004812-73/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-11-07",
+      "date": "2026-11-08",
       "authors": [],
       "doi": ""
     },
@@ -640,7 +640,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2022-002369-14/BE",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-11-07",
+      "date": "2026-11-08",
       "authors": [],
       "doi": ""
     },

@@ -1,7 +1,20 @@
 {
-  "date": "2026-11-08",
-  "cached_at": "2026-11-08T12:43:47.847727+00:00",
+  "date": "2026-11-09",
+  "cached_at": "2026-11-09T15:07:30.431345+00:00",
   "articles": [
+    {
+      "title": "Adapted Massed Exposure Therapy Enhanced with MDMA for PTSD (aMETEMP): A randomized, double-masked protocol adapted for Veterans Affairs healthcare system.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42999641/",
+      "source": "PubMed",
+      "abstract": "Posttraumatic stress disorder (PTSD) remains prevalent and disabling, especially among veterans, with a substantial proportion failing to achieve remission following first-line evidence-based trauma-focused psychotherapies. 3,4-Methylenedioxymethamphetamine (MDMA) is hypothesized to enhance psychotherapy outcomes through effects on fear extinction, cognitive flexibility, and emotional engagement, and is being studied as a promising augmentation strategy for PTSD psychotherapy. There is limited research combining MDMA with evidence-based PTSD treatment. MDMA-assisted psychotherapy trials to date have also been limited by lack of an active comparator and functional unmasking. We describe the methodology of an ongoing randomized, double-masked, pilot trial evaluating massed prolonged exposure (PE) therapy enhanced with MDMA for PTSD (aMETEMP), adapted for a U.S. Veterans Affairs outpatient setting. Up to 20 veterans with PTSD in the VA will receive a 6-8hr in-person MDMA dosing session (randomized dose 35 mg - 125 mg) integrated with a 3-week massed exposure protocol. The remaining visits are virtual and include PE sessions and sessions to prepare for and process the MDMA session (28-30hrs total over 11 visits), with the use of telehealth intended to improve access and ease patient burden. After treating the first 4 participants, who were fully informed of the trial design, we switched to using an incomplete disclosure strategy (not disclosing the number of treatment arms or specific possible doses) to further improve masking. Primary outcomes include PTSD severity using the Clinician-Administered PTSD Scale for DSM-5, safety, feasibility, and masking success. Findings are intended to provide preliminary descriptive information regarding feasibility, safety/tolerability, masking integrity, and symptom-change signals for aMETEMP with incomplete disclosure in a large outpatient healthcare system. NCT06117306.",
+      "date": "2026-10-27",
+      "authors": [
+        "Morland L A",
+        "Chargin B",
+        "Rothbaum B"
+      ],
+      "doi": "10.1016/j.conctc.2026.101705"
+    },
     {
       "title": "Working memory neural correlates after ketamine in treatment-resistant depression: a randomized placebo-controlled functional magnetic resonance imaging study.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42998544/",
@@ -233,17 +246,13 @@
       "doi": "10.1186/s12888-026-08477-0"
     },
     {
-      "title": "A multi-institutional investigation of psilocybin's effects on mouse behavior.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42972049/",
-      "source": "PubMed",
-      "abstract": "Studies reporting the effects of psychedelic drugs on mouse behavior are rapidly emerging. However, the reproducibility and reliability of these effects remain uncertain. Here we implemented a multi-institutional collaborative approach to assess which effects of psilocybin on mouse behavior are robust and replicable. Five independent laboratories performed the same experiments to test the acute and persistent effects of psilocybin (2 mg kg",
-      "date": "2026-11-02",
-      "authors": [
-        "Lu Odilia D",
-        "White Katrina",
-        "Raymond Kendall B"
-      ],
-      "doi": "10.1038/s41593-026-02500-z"
+      "title": "Breaking: Compass Files Psilocybin for TRD New Drug Application with FDA",
+      "url": "https://psychedelicalpha.com/news/breaking-compass-files-psilocybin-for-trd-new-drug-application-with-fda/",
+      "source": "Psychedelic Alpha",
+      "abstract": "",
+      "date": "2026-11-09",
+      "authors": [],
+      "doi": ""
     },
     {
       "title": "Pα+ Psychedelic Bulletin #234: Psychedelics After the Midterms; FDA Answers House Psychedelics Caucus; ICER to Review Compass’ Psilocybin; Terran v. Compass Gets Trial Date",
@@ -323,15 +332,6 @@
       "source": "Psychedelic Alpha",
       "abstract": "At the Psychedelic Healthcare Forum, which took place in New York City last Thursday and was co-hosted by Psychedelic Alpha, a panel of federal officials participated in a discussion moderated by POLITICO Deputy Health Care Editor Erin Schumaker. Here, we share some of the key takeaways from that session, which featured the following: Valentina Mantua, […]",
       "date": "2026-10-22",
-      "authors": [],
-      "doi": ""
-    },
-    {
-      "title": "Poacher Turned Gamekeeper: HHS’ Matt Zorn on Ibogaine, Right to Try and the Psychedelics Executive Order",
-      "url": "https://psychedelicalpha.com/news/poacher-turned-gamekeeper-hhs-matt-zorn-on-ibogaine-right-to-try-and-the-psychedelics-executive-order/",
-      "source": "Psychedelic Alpha",
-      "abstract": "At The Psychedelic Healthcare Forum that we co-hosted last Thursday in New York, our Editor Josh Hardman sat down with Matt Zorn, Deputy General Counsel at the U.S. Department of Health and Human Services, for a wide-ranging discussion. It was the first in-depth one-to-one interview that Zorn has participated in since taking the role. (His […]",
-      "date": "2026-10-21",
       "authors": [],
       "doi": ""
     },
@@ -426,6 +426,19 @@
       "doi": ""
     },
     {
+      "title": "A let-7a-5p-engineered extracellular vesicle-laden bioactive scaffold promotes immunomodulation and regeneration of segmental tracheal defects.",
+      "url": "https://doi.org/10.1016/j.bioactmat.2026.10.008",
+      "source": "Europe PMC",
+      "abstract": "Segmental tracheal defects resulting from trauma, tumor resection, or congenital malformations pose significant challenges for reconstruction. Persistent post-injury inflammation, inadequate neovascularization, and delayed epithelial restoration contribute to the formation of granulation tissue and subsequent graft failure. In this study, we developed a bioactive tracheal scaffold for sustained local delivery of let-7a-5p-engineered extracellular vesicles (let-7a-5p-EVs) to modulate the regenerative microenvironment during tracheal repair. The scaffold was constructed by integrating a mechanically optimized polycaprolactone (PCL) framework with a 20% Pluronic F127 hydrogel, which served as a local reservoir for EV retention and sustained release. Let-7a-5p-EVs were generated from lentivirally engineered human gingiva-derived mesenchymal stem cells and showed typical EV morphology, representative EV marker expression, and efficient uptake by airway epithelial cells. In vitro, let-7a-5p-EVs enhanced airway epithelial cell migration and shifted lipopolysaccharide (LPS)-induced macrophages from a pro-inflammatory M1-like phenotype toward a reparative M2-like phenotype, accompanied by reduced inflammatory cytokine expression. In a rabbit segmental tracheal defect model, the let-7a-5p-EV-laden scaffold enhanced neovascularization, mitigated local inflammatory responses, promoted mucociliary epithelial reconstruction, and maintained airway patency. The let-7a-5p-EV scaffold improved biomechanical recovery, and increased survival rates. Transcriptomic profiling and molecular validation indicated that these effects were associated with the attenuation of nuclear factor kappa B (NF-κB)-associated inflammatory activation, as evidenced by reduced p65 phosphorylation and nuclear localization. These findings demonstrate that sustained local delivery of engineered EVs from a mechanically competent bioactive scaffold provides an effective immunomodulatory strategy for the regenerative repair of segmental tracheal defects and offers translational potential for functional airway reconstruction.",
+      "date": "2026-10-30",
+      "authors": [
+        "Liu B",
+        "Wei N",
+        "Liang L"
+      ],
+      "doi": "10.1016/j.bioactmat.2026.10.008"
+    },
+    {
       "title": "Update on Sedation for Upper Gastrointestinal Endoscopy in Japan: Current Evidence on Remimazolam.",
       "url": "https://doi.org/10.1002/deo2.70402",
       "source": "Europe PMC",
@@ -517,49 +530,37 @@
       "doi": "10.1016/j.bioactmat.2026.08.053"
     },
     {
-      "title": "Targeted Screening of Traditional and Novel Stimulants in Dried Blood Spots Using LC-MS/MS.",
-      "url": "https://doi.org/10.1007/978-1-0716-5651-8_16",
+      "title": "A modular lentiviral system for multiplexed gene perturbation and functional analysis suggests interdependence of hormone receptors in breast cancer growth in vivo.",
+      "url": "https://doi.org/10.26508/lsa.202603911",
       "source": "Europe PMC",
-      "abstract": "Novel psychoactive substances, such as synthetic cathinones, are constantly evolving. Examples of recently reported substances within this class include eutylone, N,N-dimethylpentylone, N-propyl butylone, and pentylone. Given their occurrence in forensic casework, methods for toxicological analysis of these compounds are needed. The application of dried blood spots (DBS) to the analysis of traditional and novel stimulants provides multiple benefits such as low volume needed for sampling and facilitated transportation and storage. This chapter describes a fast and simple procedure for the simultaneous screening of traditional stimulants (amphetamine, methamphetamine, MDMA, MDA and cocaine) and synthetic cathinones (eutylone, N,N-dimethylpentylone, N-propyl butylone and pentylone) in DBS using liquid chromatography-tandem mass spectrometry (LC-MS/MS).",
-      "date": "2027-01-01",
+      "abstract": "Precise and flexible control of gene expression is essential for dissecting gene function in complex biological systems. Although recent developments in genetic engineering and CRISPR/Cas9 technology have expanded tools for gene activation, suppression, and editing, their application in physiologically relevant models remains challenging, time-consuming, and expensive. Here, we present a modular, doxycycline-inducible vector system that integrates gene overexpression, shRNA-mediated knockdown, and CRISPR/Cas9-mediated regulation within a single, lentivirus-compatible system. The modular design allows rapid exchange of selection markers, epitope tags, and reporters via Gateway cloning, providing broad adaptability across experimental settings. In addition to standard fluorescent and luminescent reporters, the system includes advanced sensors, such as Fucci cell cycle reporters, to enable monitoring of cellular processes. By combining fluorescence barcoding with combinatorial genetic perturbations, the platform supports multiplexed analysis of gene function and genetic interactions through phenotypic characterization by fluorescence imaging or flow cytometry. We demonstrate its utility in vivo with breast cancer intraductal xenografts, which suggest that ER+ breast cancer cells (MCF7) rely on androgen, estrogen, and progesterone receptors for in vivo growth. This versatile gene perturbation system provides tight temporal control, streamlined implementation, and high-content phenotyping capacity facilitating efficient in vitro and in vivo studies while reducing the use of animals in in vivo validation experiments. It thus expands the experimental repertoire for dynamic, multigene interrogation in complex systems.",
+      "date": "2026-11-05",
       "authors": [
-        "Hintermeister J",
-        "Geraldo de Campos E."
+        "Alam S",
+        "Matvienko D",
+        "Boström J"
       ],
-      "doi": "10.1007/978-1-0716-5651-8_16"
+      "doi": "10.26508/lsa.202603911"
     },
     {
-      "title": "Determination of Tryptamines in Biological Specimens.",
-      "url": "https://doi.org/10.1007/978-1-0716-5651-8_14",
+      "title": "ATM inhibition attenuates ferroptosis-associated injury and reduces infarct volume in experimental stroke.",
+      "url": "https://doi.org/10.70401/fos.2026.0046",
       "source": "Europe PMC",
-      "abstract": "Tryptamines constitute a class of organic compounds structurally derived from tryptamine, a natural alkaloid found in plants, fungi, and the human body. This group encompasses biologically significant molecules such as serotonin and melatonin, as well as psychoactive compounds like DMT and psilocybin. Tryptamines are typically classified into simple tryptamines and ergolines, with further subclassifications based on structural modifications on the indole ring system. Their primary mechanism of action involves modulation of serotonergic receptors, especially the 5-HT2A, often resulting in psychedelic effects. While some tryptamines are naturally occurring, others are synthetically produced and increasingly encountered as new psychoactive substances. The study presents a rapid and robust LC-MS/MS method for the simultaneous detection and quantification of 37 tryptamines in human urine and plasma. The method employs a ThermoFisher UHPLC-LC-MS/MS system using a Hypersil GOLD C18 column and gradient elution, with MS^n acquisition in positive ESI mode. Analytical validation demonstrated high selectivity, sensitivity, and reproducibility. Sample preparation was performed through a combination of liquid-liquid and protein precipitation extraction procedures. The method successfully identified tryptamines using product ion spectra compared to a reference spectral library, with detection limits, recovery, and matrix effects systematically evaluated. This analytical approach provides a reliable tool for forensic and clinical toxicology, particularly in the context of the increasing interest in tryptamines for both recreational and therapeutic purposes.",
-      "date": "2027-01-01",
+      "abstract": "<h4>Aims</h4>Ferroptosis, an iron-dependent form of regulated cell death, contributes to neuronal injury after ischemic stroke. Because our previous cancer-cell screens identified ataxia-telangiectasia mutated (ATM) kinase, as a ferroptosis regulator, we investigated whether ATM inhibition protects neural tissue after ischemic stroke and examined determinants of therapeutic response.<h4>Methods</h4>ATM inhibitors, including the brain-penetrant clinical compound AZD1390, were evaluated in cultured cancer and neuronal cells, oxygen-glucose-deprived rat and mouse brain slices, and permanent middle cerebral artery occlusion models using multiple inbred and Rabep2-genotype mouse strains. Cell viability, cytotoxicity, lipid peroxidation, ferroptosis-associated markers, infarct volume, and collateral vessel density were assessed. Topical AZD1390 was also tested in mice with impaired collateral networks.<h4>Results</h4>ATM inhibition reduced ferroptosis-associated lipid oxidative injury and protected neurons in multiple preclinical stroke models. AZD1390 decreased lipid peroxidation and neuronal death, and reduced infarct volume in B6/J and B6/NJ mice, but not in BALB mice. Treatment efficacy varied among strains and was correlated with collateral vascular density. Systemic AZD1390 was likewise ineffective in Rabep2-knockout mice with deficient collateral networks. Early topical administration also reduced infarct volume in mice with limited collateral networks; however, differences in treatment timing and route preclude direct attribution to improved local drug delivery.<h4>Conclusion</h4>ATM inhibition may attenuate ferroptosis-associated neuronal injury after ischemic stroke, while collateral vascular anatomy may influence therapeutic response. These findings support further mechanistic and translational evaluation of ferroptosis-targeting strategies in stroke.",
+      "date": "2026-09-22",
       "authors": [
-        "Varì MR",
-        "Aquilina V",
-        "Di Trana A"
+        "Lee HK",
+        "Lin CC",
+        "Dunn DE"
       ],
-      "doi": "10.1007/978-1-0716-5651-8_14"
-    },
-    {
-      "title": "µ-QuEChERS as a Clean-Up Strategy for Determination of Ketamine, Cocaine, and Metabolites in Hair Samples.",
-      "url": "https://doi.org/10.1007/978-1-0716-5651-8_11",
-      "source": "Europe PMC",
-      "abstract": "The Quick, Easy, Cheap, Effective, Rugged, and Safe (QuEChERS) method is the established approach for pesticide residue analysis in Europe and possesses the qualities required for routine application across diverse analytical fields. In forensic toxicology, the analysis often involves limited sample amounts while demanding high sensitivity to support legal proceedings. Therefore, miniaturizing a versatile and rapid method such as QuEChERS can offer a greener and more efficient alternative for routine forensic laboratories. This chapter presents two µ-QuEChERS methodologies as clean-up procedures for the determination of ketamine and norketamine, and cocaine and its metabolites, in hair samples, followed by analysis using gas chromatography coupled to tandem mass spectrometry (GC-MS/MS). Both methods achieved the cut-off values recommended by the Society of Hair Testing (SoHT).",
-      "date": "2027-01-01",
-      "authors": [
-        "Pelixo R",
-        "Brito H",
-        "Barroso M"
-      ],
-      "doi": "10.1007/978-1-0716-5651-8_11"
+      "doi": "10.70401/fos.2026.0046"
     },
     {
       "title": "CZ",
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2018-004480-31/CZ",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-11-08",
+      "date": "2026-11-09",
       "authors": [],
       "doi": ""
     },
@@ -568,7 +569,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2020-005037-32/CZ",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-11-08",
+      "date": "2026-11-09",
       "authors": [],
       "doi": ""
     },
@@ -577,7 +578,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2021-002909-10/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-11-08",
+      "date": "2026-11-09",
       "authors": [],
       "doi": ""
     },
@@ -586,7 +587,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2015-000550-37/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-11-08",
+      "date": "2026-11-09",
       "authors": [],
       "doi": ""
     },
@@ -595,7 +596,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2021-000041-40/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-11-08",
+      "date": "2026-11-09",
       "authors": [],
       "doi": ""
     },
@@ -604,7 +605,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2020-000829-55/DK",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-11-08",
+      "date": "2026-11-09",
       "authors": [],
       "doi": ""
     },
@@ -613,7 +614,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2020-002790-94/SE",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-11-08",
+      "date": "2026-11-09",
       "authors": [],
       "doi": ""
     },
@@ -622,7 +623,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2021-006200-33/FI",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-11-08",
+      "date": "2026-11-09",
       "authors": [],
       "doi": ""
     },
@@ -631,7 +632,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2019-004812-73/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-11-08",
+      "date": "2026-11-09",
       "authors": [],
       "doi": ""
     },
@@ -640,7 +641,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2022-002369-14/BE",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-11-08",
+      "date": "2026-11-09",
       "authors": [],
       "doi": ""
     },

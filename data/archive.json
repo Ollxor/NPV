@@ -1,6 +1,42 @@
 {
   "items": [
     {
+      "title": "Adapted Massed Exposure Therapy Enhanced with MDMA for PTSD (aMETEMP): A randomized, double-masked protocol adapted for Veterans Affairs healthcare system.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42999641/",
+      "source": "PubMed",
+      "date": "2026-10-27",
+      "authors": [
+        "Morland L A",
+        "Chargin B",
+        "Rothbaum B"
+      ],
+      "doi": "10.1016/j.conctc.2026.101705",
+      "summary_en": "Randomized, double-masked pilot trial evaluating massed prolonged exposure therapy combined with MDMA for PTSD in US Veterans Affairs patients. Up to 20 veterans receive a 6-8 hour MDMA session (35-125 mg) integrated with 3-week massed exposure protocol, with additional virtual sessions. Total 28-30 hours over 11 visits. Study uses incomplete disclosure strategy and telehealth to improve access.",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "rct",
+      "substances": [
+        "mdma"
+      ],
+      "added_at": "2026-11-09T16:42:33.336933+00:00"
+    },
+    {
+      "title": "Breaking: Compass Files Psilocybin for TRD New Drug Application with FDA",
+      "url": "https://psychedelicalpha.com/news/breaking-compass-files-psilocybin-for-trd-new-drug-application-with-fda/",
+      "source": "Psychedelic Alpha",
+      "date": "2026-11-09",
+      "authors": [],
+      "doi": "",
+      "summary_en": "Compass Pathways has submitted a New Drug Application to the FDA for psilocybin as a treatment for treatment-resistant depression (TRD). This regulatory milestone represents a significant step toward potential clinical approval of psilocybin-assisted therapy in the United States.",
+      "notable": true,
+      "notable_reason": "FDA New Drug Application (NDA) filing represents a pivotal regulatory milestone following successful Phase 2b/3 trials and is a major policy/legal development.",
+      "study_type": "other",
+      "substances": [
+        "psilocybin"
+      ],
+      "added_at": "2026-11-09T16:42:33.336933+00:00"
+    },
+    {
       "title": "Working memory neural correlates after ketamine in treatment-resistant depression: a randomized placebo-controlled functional magnetic resonance imaging study.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42998544/",
       "source": "PubMed",

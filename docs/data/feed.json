@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-08T13:43:34.036160+00:00",
+  "generated_at": "2026-11-09T16:43:05.270504+00:00",
   "items": [
     {
       "title": "Determination of Tryptamines in Biological Specimens.",
@@ -32,6 +32,43 @@
         "other"
       ],
       "added_at": "2026-11-02T16:23:16.533919+00:00"
+    },
+    {
+      "title": "Breaking: Compass Files Psilocybin for TRD New Drug Application with FDA",
+      "url": "https://psychedelicalpha.com/news/breaking-compass-files-psilocybin-for-trd-new-drug-application-with-fda/",
+      "source": "Psychedelic Alpha",
+      "date": "2026-11-09",
+      "authors": [],
+      "doi": "",
+      "summaries": {
+        "en": "Compass Pathways has submitted a New Drug Application to the FDA for psilocybin as a treatment for treatment-resistant depression (TRD). This regulatory milestone represents a significant step toward potential clinical approval of psilocybin-assisted therapy in the United States.",
+        "sv": "Compass Pathways har lämnat en New Drug Application till FDA för pslocybin som behandling av behandlingsresistent depression (TRD). Denna regulatoriska milstolpe representerar ett viktigt steg mot potentiell klinisk godkännande av pslocybin-assisterad terapi i USA.",
+        "no": "Compass Pathways har levert inn en New Drug Application til FDA for psilocybin som behandling av behandlingsresistent depresjon (TRD). Denne regulatoriske milepælen representerer et betydelig skritt mot potensiell klinisk godkjenning av psilocybin-assistert terapi i USA.",
+        "da": "Compass Pathways har indgivet en New Drug Application til FDA for psilocybin som behandling af behandlingsresistent depression (TRD). Dette regulatoriske milepæl repræsenterer et væsentligt skridt mod potentiel klinisk godkendelse af psilocybin-assisteret terapi i USA.",
+        "fi": "Compass Pathways on jättänyt uuden lääkkeen hakemuksen FDA:lle psilosybiinin käyttöä varten hoitoresistentin masennuksen (TRD) hoitoon. Tämä sääntelyyn liittyvä merkkipaalu edustaa merkittävää askelta psilosybiini-avusteisen terapian mahdollista kliinistä hyväksyntää kohti Yhdysvalloissa.",
+        "is": "Compass Pathways hefur lagt fram umsókn um nýtt lyf til FDA fyrir psýlósýbín sem meðferð við meðferðarþolnu þunglyndi (TRD). Þessi eftirlitsáfangi táknar mikilvægt skref í átt að hugsanlegri klínískri samþykkt psýlósýbín-aðstoðaðrar meðferðar í Bandaríkjunum.",
+        "et": "Compass Pathways esitas FDA-le uue ravimi taotluse psülosübiini kasutamiseks ravi-resistentse depressiooni (TRD) raviks. See regulatiivne verstapost on oluline samm psülosübiini-abilise terapia võimaliku kliinilise heakskiidu poole Ameerika Ühendriikides.",
+        "lv": "Compass Pathways ir iesniegusi jauna zāļu pieteikumu FDA psilotsibīnam kā psihoaktīvajam savienojumam ārstēšanai rezistentai depresijai (TRD). Šis normatīvais posms ir nozīmīgs solis virzienā uz iespējamo psilotsibīna-palīdzības terapijas klīnisko apstiprināšanu Amerikas Savienotajās Valstīs.",
+        "lt": "Compass Pathways pateikė naujų vaistų paraišką FDA psilotsibinui kaip psichaktyviam jungiui naudoti atviral depresijos (TRD) gydymui. Šis reguliacinis etapas yra svarbus žingsnis link galimo psilotsibino terapijos klininio patvirtinimo Jungtinėse Valstijose."
+      },
+      "notable": true,
+      "notable_reasons": {
+        "en": "FDA New Drug Application (NDA) filing represents a pivotal regulatory milestone following successful Phase 2b/3 trials and is a major policy/legal development.",
+        "sv": "FDA:s New Drug Application (NDA)-inlämning representerar en central regulatorisk milstolpe efter lyckade Phase 2b/3-studier och är en betydande policy-/rättslig utveckling.",
+        "no": "FDA New Drug Application (NDA)-innlevering representerer en viktig regulatorisk milepæl etter vellykkede Phase 2b/3-studier og er en stor policy-/juridisk utvikling.",
+        "da": "FDA New Drug Application (NDA)-ansøgning repræsenterer en central regulatorisk milepæl efter vellykkede Phase 2b/3-forsøg og er en vigtig policy-/juridisk udvikling.",
+        "fi": "FDA New Drug Application (NDA) -hakemuksen toimittaminen edustaa keskeistä sääntelytavoitetta onnistuneiden Phase 2b/3-tutkimusten jälkeen ja on merkittävä politiikka-/oikeudellinen kehitysaskel.",
+        "is": "FDA New Drug Application (NDA) skráning táknar mikilvæga reglugerðarsteinn eftir farsæl Phase 2b/3 rannsóknir og er mikil stefnu-/lögfræðileg þróun.",
+        "et": "FDA New Drug Application (NDA) taotluse esitamine tähistab olulist regulatiivset verstapostit edukate Phase 2b/3 uuringute järel ja on oluline poliitika-/õigusuudised areng.",
+        "lv": "FDA New Drug Application (NDA) iesniegšana ir svarīgs normatīvais posms pēc veiksmīgiem Phase 2b/3 pētījumiem un ir nozīmīgs politikas/juridisks attīstības solis.",
+        "lt": "FDA New Drug Application (NDA) pateikimas yra svarbus reguliacinis žingsnis po sėkmingų Phase 2b/3 bandymų ir yra svarbus politikos/teisinės politikos vystymasis."
+      },
+      "relevance_score": 4,
+      "study_type": "other",
+      "substances": [
+        "psilocybin"
+      ],
+      "added_at": "2026-11-09T16:42:33.336933+00:00"
     },
     {
       "title": "MDMA-assisted therapy for social anxiety disorder: A randomized, open-label, wait-list controlled trial.",
@@ -878,6 +915,37 @@
         "other"
       ],
       "added_at": "2026-10-30T13:16:01.486794+00:00"
+    },
+    {
+      "title": "Adapted Massed Exposure Therapy Enhanced with MDMA for PTSD (aMETEMP): A randomized, double-masked protocol adapted for Veterans Affairs healthcare system.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42999641/",
+      "source": "PubMed",
+      "date": "2026-10-27",
+      "authors": [
+        "Morland L A",
+        "Chargin B",
+        "Rothbaum B"
+      ],
+      "doi": "10.1016/j.conctc.2026.101705",
+      "summaries": {
+        "en": "Randomized, double-masked pilot trial evaluating massed prolonged exposure therapy combined with MDMA for PTSD in US Veterans Affairs patients. Up to 20 veterans receive a 6-8 hour MDMA session (35-125 mg) integrated with 3-week massed exposure protocol, with additional virtual sessions. Total 28-30 hours over 11 visits. Study uses incomplete disclosure strategy and telehealth to improve access.",
+        "sv": "Randomiserad, dubbelblindad pilotstudie som utvärderar massiv exponeringsterapeuterapeutisk behandling kombinerad med MDMA för PTSD hos amerikanska veteraner. Upp till 20 veteraner får en 6-8 timmars MDMA-session (35-125 mg) integrerad med treväckors massiv exponeringsprotokoll och virtuella uppföljningssessioner. Totalt 28-30 timmar över 11 besök. Studien använder ofullständig upplysning och telehealth för att förbättra tillgängligheten.",
+        "no": "Randomisert, dobbeltblindet pilotstudie som evaluerer massiv eksponeringsbehandling kombinert med MDMA for PTSD hos amerikanske veteraner. Opptil 20 veteraner mottar en 6-8 timers MDMA-sesjon (35-125 mg) integrert med tre-ukers massiv eksponeringsprotokoll og virtuelle oppfølgingssesjoner. Totalt 28-30 timer over 11 besøk. Studien bruker ufullstendig informert samtykke og telehealth for å forbedre tilgjengelighet.",
+        "da": "Randomiseret, dobbeltblindet pilotstudie, der massiv eksponeringsbehandling kombineres med MDMA til behandling af PTSD hos amerikanske veteraner. Op til 20 veteraner modtager en 6-8 timers MDMA-session (35-125 mg) integreret med tre-ugers massiv eksponeringsprotokol samt virtuelle opfølgningssessioner. I alt 28-30 timer over 11 besøg. Studien anvender ufuldstændig oplysning og telehealth for at forbedre tilgængelighed.",
+        "fi": "Satunnaistettu, kaksoissokkoutettu pilotutkimus, jossa arvioidaan intensiivistä ekspositioterapiaa yhdistettynä MDMA:han veteraanien PTSD-oireiden hoitoon. Enintään 20 veteraania saa 6-8 tunnin MDMA-istunnon (35-125 mg) integroituna kolmen viikon intensiivieksposiitioprotokollaan sekä virtuaalisia seurantaistuntoja. Yhteensä 28-30 tuntia 11 käynnillä. Tutkimuksessa käytetään epätäydellistä tiedonantoa ja etäterveyspalveluja saavutettavuuden parantamiseksi.",
+        "is": "Handahóf, tvöfalt hulið tilraunarannsókn sem skoðar þétta útsetningu samtengt MDMA-meðferð fyrir PTSD hjá bandarískum vopnahljóðum. Allt að 20 vopnahljóðir fá 6-8 klst. MDMA-fundi (35-125 mg) samtengt þriggja vikna þéttri útsetningu ásamt sýndarfundum. Alls 28-30 klst. yfir 11 heimsóknir. Rannsóknin notar ótakmarkaða birtingu og fjarheilbrigðisþjónustu til að bæta aðgengi.",
+        "et": "Randomiseeritud, topelt-pimestu pilootuuringu, kus intensiivset ekspositsioonteraapiag kombineeritakse MDMA-ga veteranide PTSD-ga võitlemiseks. Kuni 20 veterani saavad 6-8 tunnise MDMA-seansi (35-125 mg), mis on integreeritud kolmenädalase intensiivsete ekspositsioonieprotokollga ja virtuaalse jälgimisega. Kokku 28-30 tundi 11 külastuse jooksul. Uuringus kasutatakse mittetäielikku teavitamist ja kaugmeditsiini teenuseid juurdepääsu parandamiseks.",
+        "lv": "Randomizēts, dubultaklots pilotpêtījums, kurā tiek novērtēta intensīva ekspozīcijas terapija kombinēta ar MDMA amerikāņu veterānu PTSD ārstēšanai. Līdz 20 veterāni saņem 6-8 stundu MDMA sesiju (35-125 mg), kas integrēta trīs nedēļu intensīvas ekspozīcijas protokolā ar virtuālām seansiem. Kopā 28-30 stundas 11 apmeklējumu laikā. Pêtījumā tiek izmantota nepilnīga informācija un tālmedicīna pakalpojumi pieejamības uzlabošanai.",
+        "lt": "Randomizuotas, dvigubai aklas pilotinis tyrimas, kuriame vertinamas intensyvus ekspozicijos terapijos metodas, sujungtas su MDMA, amerikiečių veteranų PTSD gydymui. Iki 20 veteranų gauna 6-8 valandų MDMA seansą (35-125 mg), integruotą į trijų savaičių intensyvaus ekspozicijos protokolą su virtualiais seansais. Iš viso 28-30 valandų per 11 vizitų. Tyrime naudojama nepilna informuota sutiktis ir nuotolinės sveikatos paslaugos prieinamumui pagerinti."
+      },
+      "notable": false,
+      "notable_reasons": null,
+      "relevance_score": 4,
+      "study_type": "rct",
+      "substances": [
+        "mdma"
+      ],
+      "added_at": "2026-11-09T16:42:33.336933+00:00"
     },
     {
       "title": "Predictive value of EEG/ECG biomarkers for treatment response in depression.",
@@ -1867,79 +1935,6 @@
       "study_type": "other",
       "substances": [
         "ketamine"
-      ],
-      "added_at": "2026-10-13T14:26:46.565842+00:00"
-    },
-    {
-      "title": "Ketamine's mechanisms of action in major depressive disorder and treatment-resistant depression: Is brain topological change a candidate convergent systems-level pathway?",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42896406/",
-      "source": "PubMed",
-      "date": "2026-10-12",
-      "authors": [
-        "Le Gia Han",
-        "Wong Sabrina",
-        "Selby Simryn"
-      ],
-      "doi": "10.1016/j.ajp.2026.105178",
-      "summaries": {
-        "en": "Narrative review examining ketamine's antidepressant mechanisms in major depressive and treatment-resistant depression. Beyond NMDA receptor antagonism, evidence from fMRI and EEG studies suggests ketamine normalizes disrupted brain network topology within hours—increasing connectivity, reducing rigid organization, and enhancing neural flexibility. This systems-level pathway may represent a convergent mechanism distinct from monoaminergic antidepressants.",
-        "sv": "Narrativ översikt av ketamins antidepressiva mekanismer vid svår depression och behandlingsresistent depression. Bortom NMDA-receptorantagonism visar fMRI- och EEG-studier att ketamin normaliserar störd hjärnans nätverkstopologi inom timmar—ökar konnektivitet, minskar stel organisation och förbättrar neuronal flexibilitet. Denna systemisk väg kan representera en konvergent mekanism skild från monoaminerga antidepressiva.",
-        "no": "Narrativ gjennomgang av ketamins antidepressive mekanismer ved alvorlig depresjon og behandlingsresistent depresjon. Utover NMDA-reseptorantagonisme viser fMRI- og EEG-studier at ketamin normaliserer forstyrret hjernenettverk innen timer—øker konnektivitet, reduserer stiv organisering og forbedrer neuronal fleksibilitet. Denne systemiske mekanismen kan representere en konvergent vei ulik monoaminerge antidepressiva.",
-        "da": "Narrativ oversigt over ketamins antidepressive mekanismer ved alvorlig depression og behandlingsresistent depression. Ud over NMDA-receptorantagonisme viser fMRI- og EEG-studier, at ketamin normaliserer forstyrret hjernenetværk inden for timer—øger konnektivitet, reducerer stiv organisering og forbedrer neural fleksibilitet. Denne systemiske vej kan repræsentere en konvergent mekanisme forskellig fra monoaminerge antidepressiva.",
-        "fi": "Narratiivinen katsaus ketamiinin masennuslääkkeellistä vaikutuksesta vakavassa masennuksessa ja hoitoresistentissa masennuksessa. NMDA-reseptorin antagonismin lisäksi fMRI- ja EEG-tutkimukset osoittavat ketamiinin normalisaation häiriintyneen aivoverkon topologiaa tunneissa—lisää yhteyttä, vähentää jäykkää organisaatiota ja parantaa hermoston joustavuutta. Tämä järjestelmätason mekanismi voi edustaa monoamiiniset antidepressanteista poikkeavaa konvergentin reittiä.",
-        "is": "Hugleiðandi yfirlit yfir virkni ketamíns við mikla þunglyndi og meðferðarónæma þunglyndi. Fyrir utan NMDA-viðtakaanæmni sýna fMRI- og EEG-rannsóknir að ketamín bætir truflað taugnakerfi heilans innan klukkustunda—eykur tengingu, minnkar stífa skipan og bætir taugaflexibilitet. Þessi kerfistig leið gæti táknað samleitni kerfi frábrugðin monoamín lyfjum.",
-        "et": "Narratiivne ülevaade ketamiini antidepressiivsest mehhanismist raske depressiooni ja ravile resistentse depressiooni korral. NMDA-retseptori antagonismi kaudu näitavad fMRI ja EEG uuringud, et ketamiin normaliseerib häiritud ajuvõrgu topoloogiat tundide jooksul—suurendab ühendust, vähendab jäika organisatsiooni ja parandab neuronaalset paindlikkust. See süsteemitasandi tee võib esindada monoamiini antidepressantidest erinevat konvergentset mehhanismi.",
-        "lv": "Naratīvs pārskats par ketamīna antidepresanta mehānismiem smagā depresijā un ārstēšanai rezistentā depresijā. Pāri NMDA receptoru antagonismam fMRI un EEG pētījumi parāda, ka ketamīns normalizē traucētu smadzeņu tīkla topoloģiju stundu laikā—palielina savienojamību, samazina stingru organizāciju un uzlabo neirālo elastību. Šis sistēmas līmeņa ceļš var pārstāvēt monoamīnu antidepresantiem atšķirīgu konverģentu mehānismu.",
-        "lt": "Naratyvus ketamino antidepresinio veikimo peržvalga esant sunkiai depresijai ir atspariems depresijos atvejams. Peržengus NMDA receptoriaus antagonizmą fMRI ir EEG tyrimai rodo, kad ketaminas normalizuoja sutrikdytą smegenų tinklo topologiją per valandas—didina ryšį, mažina standžią organizaciją ir pagerina neuronų lankstumą. Šis sisteminės lygio kelias gali reprezentuoti monoaminų antidepresantais besiskiriančius konvergentinius mechanizmus."
-      },
-      "notable": false,
-      "notable_reasons": null,
-      "relevance_score": 4,
-      "study_type": "review",
-      "substances": [
-        "ketamine"
-      ],
-      "added_at": "2026-10-20T11:54:54.617576+00:00"
-    },
-    {
-      "title": "Investigating molecular and hemodynamic effects of LSD in the human brain.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42864445/",
-      "source": "PubMed",
-      "date": "2026-10-12",
-      "authors": [
-        "McCulloch Drummond E-Wen",
-        "Larsen Kristian",
-        "Johansen Annette"
-      ],
-      "doi": "10.1038/s41593-026-02462-2",
-      "summaries": {
-        "en": "A PET-MRI study in 7 healthy volunteers characterized LSD's brain effects. LSD showed high affinity for 5-HT2A receptors and increased global cerebral blood flow and carotid artery flow, while decreasing global connectivity—negatively associated with blood flow changes. Plasma levels and subjective effects showed atypical hysteresis patterns. Comparison with psilocybin (n=25) revealed both consistencies and neurophysiological differences, providing dose-occupancy data for psychedelic drug development.",
-        "sv": "En PET-MRI-studie med 7 friska försökspersoner karakteriserade LSD:s effekter på hjärnan. LSD visade hög affinitet för 5-HT2A-receptorer och ökade globalt cerebralt blodflöde och karotisartärflöde, medan den minskade global konnektivitet—negativt associerad med blodflödesförändringar. Plasma- och subjektiva effekter uppvisade atypisk hysteresis. Jämförelse med psilocybin (n=25) avslöjade både likheter och neurrofysiologiska skillnader, vilket ger dosbelägg-data för psykedelisk läkemedelsutveckling.",
-        "no": "En PET-MRI-studie med 7 friske forsøkspersoner karakteriserte LSD sine effekter på hjernen. LSD viste høy affinitet for 5-HT2A-reseptorer og økte globalt cerebralt blodstrøm og karotisartærstrøm, mens den reduserte global konnektivitet—negativt assosiert med blodstrømendringer. Plasma- og subjektive effekter viste atypisk hysterese. Sammenligning med psilocybin (n=25) avslørte både likheter og nevrofysiologiske forskjeller, som gir dosebinding-data for psykedelisk medisinutviklning.",
-        "da": "En PET-MRI-undersøgelse med 7 raske forsøgspersoner karakteriserede LSD's effekter på hjernen. LSD viste høj affinitet for 5-HT2A-receptorer og øgede globalt cerebralt blodflow og karotisartærflow, mens det mindskede global konnektivitet—negativt associeret med blodflowændringer. Plasma- og subjektive effekter viste atypisk hysterese. Sammenligning med psilocybin (n=25) afslørede både konsistenser og neurofysiologiske forskelle, hvilket giver dosebindingsdata for psykedelisk medicinudvikling.",
-        "fi": "PET-MRI-tutkimus 7 terveellä vapaaehtoisella karakterisoi LSD:n vaikutuksia aivoihin. LSD osoitti korkeaa affiniteettia 5-HT2A-reseptoreille ja lisäsi globaalia serebaalista verenvirtausta sekä sisempiä kaulavaltimon virtausta, samalla kun se vähensi globaalia verkkoyhteyttä—negatiivisesti yhteydessä verenvirtausmuutoksiin. Plasma- ja subjektiiviset vaikutukset osoittivat atyyppistä hystereesia. Vertailu psilosibiiniin (n=25) paljasti sekä yhdenmukaisuuksia että neurofysiologisia eroja, mikä tarjoaa annos-sitoutumistietoja psykedeelisen lääkekehityksen tueksi.",
-        "is": "PET-MRI-rannsókn með 7 heilbrigðum þátttakendum greindi áhrif LSD á heili. LSD sýndi mikla affinitet fyrir 5-HT2A-viðtaka og jók alheimstæka heilablóðflæði og innri hálsblóðflæði, en minnkaði alheimstæka tengileika—neikvætt tengda breytingum á blóðflæði. Plasma- og huglæg áhrif sýndu óvenjulega hysterese. Samanburður við psílosíbín (n=25) leiddi í ljós bæði samhæfi og taugafeilaleifar, og veitti skammtun-þekju gögn fyrir þekkingu-vímuefnalyfjaþróun.",
-        "et": "PET-MRI uuring 7 tervete vabatahtlikuga iseloomustas LSD toimet ajule. LSD näitas kõrget afiinsust 5-HT2A retseptoreid ja suurendas ülemaailmset tserebraalset verevoolu ja sisemist kaelarteri voogu, kusjuures vähendas ülemaailmset ühenduvust—negatiivselt seotud vereringluse muutustega. Plasma ja subjektiivsed mõjud näitasid atüüpilisest hüsterees. Võrdlus psülosibiiniga (n=25) paljastas nii järjepidevusi kui neurrofüsioloogilisi erinevusi, mis andis doosside sidumise andmeid psühhedeelidse ravimiarendusele.",
-        "lv": "PET-MRI pētījums ar 7 veseliem brīvprātīgajiem raksturoja LSD ietekmi uz smedzenu. LSD parādīja augstu afinitāti pret 5-HT2A receptoriem un palielināja globālo cerebrālo asinsplūsmu un iekšējās karotīdes plūsmu, vienlaikus samazinot globālo savienojamību—negatīvi saistītu ar asinsplūsmas izmaiņām. Plazmas un subjektīvie efekti parādīja atipiska histerēzi. Salīdzinājums ar psilocibīnu (n=25) atklāja gan konsekvences, gan neirofiziologiskas atšķirības, nodrošinot devu saistības datus psihedelisko vielu līdzekļu izstrādei.",
-        "lt": "PET-MRI tyrimas su 7 sveikais savanoriu apibūdino LSD poveikį smegenims. LSD parodė aukštą afinitą 5-HT2A receptoriams ir padidino globalų cerebralinį kraujo srautą bei vidinės karotidės srautą, tuo tarpu sumažėjo globali ryšingumas—neigiamai susijusi su kraujo srauto pokyčiais. Plazmos ir subjektyvūs efektai parodė netipiškąherezę. Palyginimas su psilocibinu (n=25) atskleido tiek nuoseklumus, tiek neurofiziologinius skirtumus, suteikdami dozės surišimo duomenis psichedelinių medžiagų plėtrai."
-      },
-      "notable": true,
-      "notable_reasons": {
-        "en": "First-in-human in vivo target engagement study for LSD using simultaneous PET-MRI technology with direct comparative mechanistic data against psilocybin.",
-        "sv": "Första försöket på människor för in vivo target engagement-studie för LSD med samtidig PET-MRI-teknik med direkt jämförande mekanistisk data mot psilocybin.",
-        "no": "Første menneskesforsøk på in vivo target engagement-studie for LSD ved bruk av samtidig PET-MRI-teknologi med direkte komparativ mekanistisk data mot psilocybin.",
-        "da": "Første menneske in vivo target engagement-studie for LSD ved hjælp af samtidig PET-MRI-teknologi med direkte sammenlignende mekanistisk data mod psilocybin.",
-        "fi": "Ensimmäinen ihmisillä suoritettu in vivo target engagement-tutkimus LSD:lle käyttäen samanaikaista PET-MRI-teknologiaa suoralla vertailevalla mekanistisella datalla psilosybiinia vastaan.",
-        "is": "Fyrsti tilraun á mönnum fyrir in vivo target engagement-rannsókn fyrir LSD með samtímis PET-MRI-tækni með beinum samanburðargögnum um virknikerfi gegn psilocybin.",
-        "et": "Esimene inimestel läbiviidud in vivo target engagement-uuring LSD-le, kasutades samaaegset PET-MRI-tehnoloogiat otsese võrdleva mehhanistilise andmega psilotsibiini vastu.",
-        "lv": "Pirmais cilvēkos veiktais in vivo target engagement pētījums LSD, izmantojot vienlaicīgu PET-MRI tehnoloģiju ar tiešiem salīdzinošiem mehānisma datiem pret psilocybīnu.",
-        "lt": "Pirmasis in vivo target engagement tyrimas žmogaus organizmui su LSD, naudojant vienalaiki PET-MRI technologiją su tiesiogiais lyginamaisiais mechanistiniais duomenimis prieš psilotsibina."
-      },
-      "relevance_score": 5,
-      "study_type": "observational",
-      "substances": [
-        "lsd",
-        "psilocybin"
       ],
       "added_at": "2026-10-13T14:26:46.565842+00:00"
     }

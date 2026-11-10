@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-09T16:43:05.270504+00:00",
+  "generated_at": "2026-11-10T15:06:15.514127+00:00",
   "items": [
     {
       "title": "Determination of Tryptamines in Biological Specimens.",
@@ -32,6 +32,70 @@
         "other"
       ],
       "added_at": "2026-11-02T16:23:16.533919+00:00"
+    },
+    {
+      "title": "Ketamine for Co-occurring Chronic Pain and Depression: A Scoping Review fing the Dual-Outcome Evidence Gap and Its Treatment and Research Implications.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43003322/",
+      "source": "PubMed",
+      "date": "2026-11-09",
+      "authors": [
+        "Asnes Simon",
+        "Nunes Julio C",
+        "Suh Rebecca"
+      ],
+      "doi": "10.1016/j.jpain.2026.106491",
+      "summaries": {
+        "en": "Scoping review of 12 studies (2007-2025) examining ketamine's effects on co-occurring chronic pain and depression. Most studies reported concurrent symptom improvement, but heterogeneity in study design, patient populations, and ketamine regimens limited conclusions about dual-outcome efficacy. Evidence gap highlights need for rigorous trials with standardized diagnostic criteria and longitudinal assessment of both conditions.",
+        "sv": "Omfattande granskning av 12 studier (2007-2025) om ketamins effekt på samförekommande kronisk smärta och depression. De flesta studier rapporterade samtidig förbättring av symtom, men variationen i studiedesign, patientgrupper och ketaminregimer begränsade slutsatserna om dual-outcome-effektivitet. Bevisgapet visar behov av rigorösa prövningar.",
+        "no": "Scoping review av 12 studier (2007-2025) som undersøkte ketamins effekt på samtidig kronisk smerte og depresjon. De fleste studier rapporterte samtidiig forbedring av symptomer, men heterogenitet i studiedesign, pasientpopulasjoner og ketamin-regimer begrenset konklusjoner om dual-outcome-effektivitet. Bevisgjapet indikerer behov for rigide studier.",
+        "da": "Scoping review af 12 studier (2007-2025) om ketamins virkning på sameksisterende kronisk smerte og depression. De fleste studier rapporterede samtidig forbedring af symptomer, men heterogenitet i studiedesign, patientpopulationer og ketamin-regimer begrænsede konklusioner om dual-outcome-effektivitet. Bevisgabet peger på behov for stringente forsøg.",
+        "fi": "12 tutkimuksen laajuus arvio (2007-2025) ketamiinin vaikutuksesta samanaikaisesti esiintyviin kroonisiin kipuihin ja masennukseen. Useimmat tutkimukset raportoivat oireiden samanaikaista paranemista, mutta heterogeenisuus tutkimussuunnitteluissa, potilasryhmissä ja ketamiinin annosteluregiimeissa rajoitti johtopäätöksiä. Näyttöjen puute osoittaa tarvetta tiukille tutkimuksille.",
+        "is": "Yfirlitskannun á 12 rannsóknum (2007-2025) um áhrif ketamíns á samtímis langvarandi verkina og þunglyndi. Flestar rannsóknir greindi frá samtímis bætingu einkenna, en ósamræmi í rannsóknarhönnun, sjúklingahópum og ketamín-skammtum takmarkaði niðurstöður um tvöfalda áhrif. Þörf á ströngum klínískum tilraunum.",
+        "et": "12 uuringu ülevaade (2007-2025) ketamiini mõjust samaaegselt esineval kroonilistel valu ja depressioonil. Enamik uuringuid teatavad oirte samaaegset paranemist, kuid heterogeneelsus uuringu kujunduses, patsientide populatsioonides ja ketamiini manustamisrežiimides piiras järeldusi. Tõendite lüng näitab vajadust rangemate uuringute järele.",
+        "lv": "12 pētījumu apskats (2007-2025) par ketamīna ietekmi uz vienlaicīgu hroniskiem sāpēm un depresiju. Lielākā daļa pētījumu ziņoja par vienlaicīgu simptomu uzlabošanos, bet heterogenitāte pētījuma dizainā, pacientu populācijās un ketamīna režīmos ierobežoja secinājumus. Pierādījumu plaisa norāda uz nepieciešamību pēc stingriem pētījumiem.",
+        "lt": "12 tyrimų apžvalga (2007-2025) apie ketamino poveikį bendrai egzistuojantiems nuo skausmo ir depresijos sutrikimams. Dauguma tyrimų pranešė apie lygiagrečius simptomu pagerinimus, tačiau tyrimų projektavimo, pacientų populiacijų ir ketamino režimų nevienalytiškumas apribojo išvadas. Pakaitalų trūkumas rodo poreikį griežtiems tyrimams."
+      },
+      "notable": false,
+      "notable_reasons": null,
+      "relevance_score": 4,
+      "study_type": "review",
+      "substances": [
+        "ketamine"
+      ],
+      "added_at": "2026-11-10T15:05:39.256610+00:00"
+    },
+    {
+      "title": "Current perspectives in the pharmacological treatment of gambling disorder: psychedelics and beyond.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43002438/",
+      "source": "PubMed",
+      "date": "2026-11-09",
+      "authors": [
+        "Chiappini Stefania",
+        "Maremmani Angelo Giovanni Icro",
+        "Cavallotto Clara"
+      ],
+      "doi": "10.1080/14656566.2026.2761183",
+      "summaries": {
+        "en": "Current perspectives in the pharmacological treatment of gambling disorder: psychedelics and beyond.",
+        "sv": "Current perspectives in the pharmacological treatment of gambling disorder: psychedelics and beyond.",
+        "no": "Current perspectives in the pharmacological treatment of gambling disorder: psychedelics and beyond.",
+        "da": "Current perspectives in the pharmacological treatment of gambling disorder: psychedelics and beyond.",
+        "fi": "Current perspectives in the pharmacological treatment of gambling disorder: psychedelics and beyond.",
+        "is": "Current perspectives in the pharmacological treatment of gambling disorder: psychedelics and beyond.",
+        "et": "Current perspectives in the pharmacological treatment of gambling disorder: psychedelics and beyond.",
+        "lv": "Current perspectives in the pharmacological treatment of gambling disorder: psychedelics and beyond.",
+        "lt": "Current perspectives in the pharmacological treatment of gambling disorder: psychedelics and beyond."
+      },
+      "notable": false,
+      "notable_reasons": null,
+      "relevance_score": 4,
+      "study_type": "review",
+      "substances": [
+        "psilocybin",
+        "ketamine",
+        "mdma"
+      ],
+      "added_at": "2026-11-10T15:05:39.256610+00:00"
     },
     {
       "title": "Breaking: Compass Files Psilocybin for TRD New Drug Application with FDA",
@@ -1875,68 +1939,6 @@
         "ketamine"
       ],
       "added_at": "2026-10-16T11:42:59.299861+00:00"
-    },
-    {
-      "title": "Antidepressants and Cognitive Function in Major Depressive Disorder: Mechanisms, Clinical Evidence, and Implications for Precision Treatment.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42869167/",
-      "source": "PubMed",
-      "date": "2026-10-13",
-      "authors": [
-        "Liu Yao",
-        "Tan Yunfei",
-        "Hashimoto Kenji"
-      ],
-      "doi": "10.1016/j.ejphar.2026.179414",
-      "summaries": {
-        "en": "Antidepressants and Cognitive Function in Major Depressive Disorder: Mechanisms, Clinical Evidence, and Implications for Precision Treatment.",
-        "sv": "Antidepressants and Cognitive Function in Major Depressive Disorder: Mechanisms, Clinical Evidence, and Implications for Precision Treatment.",
-        "no": "Antidepressants and Cognitive Function in Major Depressive Disorder: Mechanisms, Clinical Evidence, and Implications for Precision Treatment.",
-        "da": "Antidepressants and Cognitive Function in Major Depressive Disorder: Mechanisms, Clinical Evidence, and Implications for Precision Treatment.",
-        "fi": "Antidepressants and Cognitive Function in Major Depressive Disorder: Mechanisms, Clinical Evidence, and Implications for Precision Treatment.",
-        "is": "Antidepressants and Cognitive Function in Major Depressive Disorder: Mechanisms, Clinical Evidence, and Implications for Precision Treatment.",
-        "et": "Antidepressants and Cognitive Function in Major Depressive Disorder: Mechanisms, Clinical Evidence, and Implications for Precision Treatment.",
-        "lv": "Antidepressants and Cognitive Function in Major Depressive Disorder: Mechanisms, Clinical Evidence, and Implications for Precision Treatment.",
-        "lt": "Antidepressants and Cognitive Function in Major Depressive Disorder: Mechanisms, Clinical Evidence, and Implications for Precision Treatment."
-      },
-      "notable": false,
-      "notable_reasons": null,
-      "relevance_score": 3,
-      "study_type": "review",
-      "substances": [
-        "ketamine",
-        "other"
-      ],
-      "added_at": "2026-10-14T12:12:12.218586+00:00"
-    },
-    {
-      "title": "Ketamine administered biomedically or as psychedelic-assisted therapy in treatment-resistant depression: Differing efficacy based on depressive subtype or presence of childhood trauma?",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42865326/",
-      "source": "PubMed",
-      "date": "2026-10-13",
-      "authors": [
-        "Bayes Adam",
-        "Loo Colleen"
-      ],
-      "doi": "10.1177/10398562261494440",
-      "summaries": {
-        "en": "Open-label study examining ketamine efficacy in treatment-resistant depression (TRD), comparing biomedical administration with psychedelic-assisted therapy. Preliminary findings suggest biomedical ketamine may be more effective for melancholic versus non-melancholic depression subtypes. Authors propose future randomized trials to determine whether ketamine combined with psychotherapy shows differential efficacy based on depressive subtype or childhood trauma history.",
-        "sv": "Öppen studie som undersöker kelamins effektivitet vid behandlingsresistent depression (TRD), jämförande biomedicinskadministration med psykedelika-assisterad terapi. Preliminära resultat tyder på att biomedicinsk ketamin kan vara mer effektiv för melankolisk versus icke-melankolisk depressionssubtyp. Författarna föreslår framtida randomiserade studier för att avgöra om ketamin kombinerat med psykoterapi visar differentiell effektivitet baserat på depressionssubtyp eller barndomstrauma.",
-        "no": "Åpen studie som undersøker kelamins effektivitet ved behandlingsresistent depresjon (TRD), sammenligner biomedisinsk administrasjon med psykedelia-assistert terapi. Foreløpige funn tyder på at biomedisinsk ketamin kan være mer effektivt for melankolsk versus ikke-melankolsk depresjon. Forfatterne foreslår fremtidige randomiserte studier for å bestemme om ketamin kombinert med psykoterapi viser ulik effektivitet basert på depresjonsubtype eller barnedomstraumer.",
-        "da": "Åben undersøgelse af kelamins effektivitet ved behandlingsresistent depression (TRD), sammenligner biomedicinsk administration med psykedelika-assisteret terapi. Foreløbige resultater indikerer, at biomedicinsk ketamin kan være mere effektivt for melankolsk versus ikke-melankolsk depression. Forfatterne foreslår fremtidige randomiserede forsøg for at undersøge, om ketamin kombineret med psykoterapi viser forskellig effektivitet baseret på depressionssubtype eller barndomstraumer.",
-        "fi": "Avoin tutkimus, jossa vertaillaan ketimiinin tehokkuutta hoitoresistenttiin masennukseen (TRD) biomedikaalisen antamisen ja psykedeli-avusteisen terapian välillä. Alustuvat tulokset viittaavat siihen, että biomedikaali ketamiini saattaa olla tehokkaampi melankoliseen kuin ei-melankoliseen masennukseen. Kirjoittajat ehdottavat tulevaisuudessa randomoituja tutkimuksia selvittääkseen, onko ketamiini psykoterapian kanssa yhdistettynä erilaisen tehokas riippuen masennuksen alatyypistä tai lapsuuden traumoista.",
-        "is": "Opin rannsókn um verkun ketamíns við meðferðarþolinna þunglyndi (TRD), bornar biolæknisfræðilegri og sálfræðilegri inngripum með sálfræðilegum efnum. Bráðabirgðarniðurstöður benda til að ketamín geti verið skilvirkari við melankólískt þunglyndi en ekki-melankólískt þunglyndi. Höfundar leggja til framtíðarrannsóknir til að ákvarða hvort ketamín með sálfélagameðferð sýni mismunandi verkun eftir þunglynnisundirlýfingu eða barnaheitum.",
-        "et": "Avatud uuringu ketamiini tõhususest ravi-resistentse depressiooni (TRD) korral, võrreldakse biomeditsiinilise manustamisega psühhedeeliga toetatud teraapiaga. Esialgsetest tulemustest nähtub, et biomeditsiiniline ketamiin võib olla efektiivsem melankoolia depressiooni kui mitte-melankoolia depressiooni korral. Autorid soovitavad tulevikus randomiseeritud uuringuid, et määrata, kas ketamiin psühhoteraapiaga kombineerides näitab erinevat efektiivsust depressiooni alamtüübi või lapsepõlve traumakogemuste alusel.",
-        "lv": "Atvērts pētījums par ketamīna efektivitāti ārstēšanai rezistentā depresijā (TRD), salīdzinot biomedicīnisku ievadīšanu ar psihedēlisku terapiju. Sākotnējie rezultāti liecina, ka biomedicīnisks ketamīns var būt efektīvāks melanholiskajā depresijā salīdzinājumā ar nemelanhoslisko depresiju. Autori ierosina nākotnē veikt randomizētus pētījumus, lai noskaidrotu, vai ketamīns kombinācijā ar psihoterapiju uzrāda atšķirīgu efektivitāti atkarībā no depresijas apakštipa vai bērnības traumas.",
-        "lt": "Atvira studija, kurioje tiriama ketamino veiksmingumas gydant depresija, nesensityvią į gydymą (TRD), lyginant biomedicininį ir psichedelikais paremtą terapiją. Preliminarūs rezultatai rodo, kad biomedicininis ketaminas gali būti efektyvesnis melancholiškai nei nemelancholiškai depresiai. Autoriai siūlo atlikti būsimų randomizuotų tyrimų, siekiant nustatyti, ar ketaminas, sujungtas su psichoterapija, yra skirtingai veiksmingu, priklausomai nuo depresijos potipo ar vaikystės traumos."
-      },
-      "notable": false,
-      "notable_reasons": null,
-      "relevance_score": 3,
-      "study_type": "other",
-      "substances": [
-        "ketamine"
-      ],
-      "added_at": "2026-10-13T14:26:46.565842+00:00"
     }
   ]
 }

@@ -1,6 +1,48 @@
 {
   "items": [
     {
+      "title": "Ketamine for Co-occurring Chronic Pain and Depression: A Scoping Review fing the Dual-Outcome Evidence Gap and Its Treatment and Research Implications.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43003322/",
+      "source": "PubMed",
+      "date": "2026-11-09",
+      "authors": [
+        "Asnes Simon",
+        "Nunes Julio C",
+        "Suh Rebecca"
+      ],
+      "doi": "10.1016/j.jpain.2026.106491",
+      "summary_en": "Scoping review of 12 studies (2007-2025) examining ketamine's effects on co-occurring chronic pain and depression. Most studies reported concurrent symptom improvement, but heterogeneity in study design, patient populations, and ketamine regimens limited conclusions about dual-outcome efficacy. Evidence gap highlights need for rigorous trials with standardized diagnostic criteria and longitudinal assessment of both conditions.",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "review",
+      "substances": [
+        "ketamine"
+      ],
+      "added_at": "2026-11-10T15:05:39.256610+00:00"
+    },
+    {
+      "title": "Current perspectives in the pharmacological treatment of gambling disorder: psychedelics and beyond.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43002438/",
+      "source": "PubMed",
+      "date": "2026-11-09",
+      "authors": [
+        "Chiappini Stefania",
+        "Maremmani Angelo Giovanni Icro",
+        "Cavallotto Clara"
+      ],
+      "doi": "10.1080/14656566.2026.2761183",
+      "summary_en": "Current perspectives in the pharmacological treatment of gambling disorder: psychedelics and beyond.",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "review",
+      "substances": [
+        "psilocybin",
+        "ketamine",
+        "mdma"
+      ],
+      "added_at": "2026-11-10T15:05:39.256610+00:00"
+    },
+    {
       "title": "Adapted Massed Exposure Therapy Enhanced with MDMA for PTSD (aMETEMP): A randomized, double-masked protocol adapted for Veterans Affairs healthcare system.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42999641/",
       "source": "PubMed",

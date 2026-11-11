@@ -1,6 +1,65 @@
 {
   "items": [
     {
+      "title": "Psychedelic ego-dissolution: a philosophical and qualitative critique.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43007826/",
+      "source": "PubMed",
+      "date": "2026-Nov-10",
+      "authors": [
+        "Day Jason K",
+        "Zahavi Dan"
+      ],
+      "doi": "10.1098/rstb.2025.0154",
+      "summary_en": "Philosophical and qualitative critique of ego-dissolution claims in psychedelic research. Analysis of 411 5-MeO-DMT trip reports challenges the assertion that these experiences produce completely selfless conscious states. Authors argue that researchers use inflated definitions of 'self' and 'self-consciousness,' and that trip report language is too ambiguous to support total selflessness claims. Instead, they propose that extreme ego-dissolution involves radically minimal self-consciousness where identity feels unfamiliar and underdetermined.",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "qualitative",
+      "substances": [
+        "other"
+      ],
+      "added_at": "2026-11-11T14:37:09.507954+00:00"
+    },
+    {
+      "title": "Changes in self-related cognitive processes and depressive symptom severity following a single, moderate dose of psilocybin in depressed patients.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43007824/",
+      "source": "PubMed",
+      "date": "2026-Nov-10",
+      "authors": [
+        "Belinger Lydia",
+        "Moujaes Flora",
+        "von Rotz Robin"
+      ],
+      "doi": "10.1098/rstb.2025.0168",
+      "summary_en": "Randomized controlled trial (N=37) examining psilocybin-assisted therapy for major depression. A single moderate dose (0.215 mg/kg) produced significant symptom reduction and improved self-concept compared to placebo two weeks post-administration. fMRI revealed altered caudate activation during attention tasks. Changes in self-perception correlated with symptom improvement, supporting the hypothesis that psychedelics' antidepressant effects involve modifications to self-related cognitive processes.",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "rct",
+      "substances": [
+        "psilocybin"
+      ],
+      "added_at": "2026-11-11T14:37:09.507954+00:00"
+    },
+    {
+      "title": "Is ibogaine treatment durable? 12-month follow-up of magnesium-ibogaine therapy (MISTIC) in special operations veterans with traumatic brain injuries.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43003815/",
+      "source": "PubMed",
+      "date": "2026-08-12",
+      "authors": [
+        "Faerman Afik",
+        "Lissemore Jennifer I",
+        "Geoly Andrew D"
+      ],
+      "doi": "10.1038/s41398-026-04327-5",
+      "summary_en": "A 12-month follow-up study of 25 U.S. Special Operations Veterans with traumatic brain injury examined durability of magnesium-ibogaine treatment. Participants showed sustained reductions in functional disability, PTSD, depression, and anxiety symptoms through 12 months (p < 0.001), with large effect sizes (Cohen's d ≥ 2.18). Results suggest single-dose ibogaine treatment produces durable clinical improvements in TBI-related psychiatric outcomes.",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "observational",
+      "substances": [
+        "ibogaine"
+      ],
+      "added_at": "2026-11-11T14:37:09.507954+00:00"
+    },
+    {
       "title": "Ketamine for Co-occurring Chronic Pain and Depression: A Scoping Review fing the Dual-Outcome Evidence Gap and Its Treatment and Research Implications.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/43003322/",
       "source": "PubMed",

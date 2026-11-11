@@ -1,12 +1,50 @@
 {
-  "date": "2026-11-10",
-  "cached_at": "2026-11-10T14:18:03.951346+00:00",
+  "date": "2026-11-11",
+  "cached_at": "2026-11-11T13:31:45.679401+00:00",
   "articles": [
     {
-      "title": "Ketamine for Co-occurring Chronic Pain and Depression: A Scoping Review fing the Dual-Outcome Evidence Gap and Its Treatment and Research Implications.",
+      "title": "Psychedelic ego-dissolution: a philosophical and qualitative critique.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43007826/",
+      "source": "PubMed",
+      "abstract": "Ego-dissolution is a phenomenon of central interest across interdisciplinary research on psychedelics. In this paper, we present a philosophical and qualitative critique of the claim that ego-dissolution can result in conscious states with no phenomenal sense of self, i.e., states that completely lack any form of self-consciousness. We first turn to recent publications by Chris Letheby and Raphaël Millière, for whom trip reports of experiences induced by 5-MeO-DMT (5-methoxy-N,N-dimethyltryptamine) present clear evidence for the existence of totally selfless experiential states. Their claim is undermined, we argue, by the fact that they operate with overinflated notions of 'self' and 'self-consciousness,' meaning that more minimal forms are available and arguably still present in 5-MeO-DMT experiences. We then perform a qualitative thematic analysis of 411 5-MeO-DMT trip reports. Pointing to the ambiguous language of the trip reports, the self-admitted inadequacy of the descriptions and the affective dimension of the reported experiences, we argue that claims concerning total selflessness are unwarranted and instead offer an alternative interpretation: extreme ego-dissolution during 5-MeO-DMT experiences involves a radically minimal form of self-consciousness, one in which the identity of the subject is experienced as unfamiliar and underdetermined. This article is part of the discussion meeting issue 'From being to identity: analysis and synthesis of the self'.",
+      "date": "2026-Nov-10",
+      "authors": [
+        "Day Jason K",
+        "Zahavi Dan"
+      ],
+      "doi": "10.1098/rstb.2025.0154"
+    },
+    {
+      "title": "Changes in self-related cognitive processes and depressive symptom severity following a single, moderate dose of psilocybin in depressed patients.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43007824/",
+      "source": "PubMed",
+      "abstract": "Psychedelic-assisted therapy, particularly with psilocybin, is increasingly proposed as a treatment for major depressive disorder, yet the neural and psychological mechanisms underlying its effects remain under investigation. In a randomized, double-blind, placebo-controlled clinical trial, individuals diagnosed with major depressive disorder received a single, moderate dose of psilocybin (0.215 mg kg-1) or placebo, with the same psychological support. We analysed N = 37 individuals with major depressive disorder undergoing assessments of depressive symptoms (Beck's depression inventory and Montgomery-Åsberg depression rating scale), self-concept (Frankfurt self-concept scale) and neural markers of self-referential processing using an fMRI-based task. Compared with placebo, the psilocybin group exhibited significant reductions in depressive symptoms and a significant increase in positive self-concept two weeks after substance administration. Changes in self-concept were significantly correlated with decreased depressive scores. Neuroimaging revealed psilocybin-associated modulation of caudate activation during externally oriented attention after two weeks, contrasting with placebo-induced caudate changes during self-referential processing. These findings extend prior evidence linking psychedelics to changes in self-referential processing and self-concept and demonstrate that such changes occur concurrently with reductions in depressive symptoms. Future research should aim to replicate and extend these results and refine therapy protocols targeting self-processing and self-concept in psychedelic-assisted therapy in major depressive disorder. This article is part of the discussion meeting issue 'From being to identity: analysis and synthesis of the self'.",
+      "date": "2026-Nov-10",
+      "authors": [
+        "Belinger Lydia",
+        "Moujaes Flora",
+        "von Rotz Robin"
+      ],
+      "doi": "10.1098/rstb.2025.0168"
+    },
+    {
+      "title": "Is ibogaine treatment durable? 12-month follow-up of magnesium-ibogaine therapy (MISTIC) in special operations veterans with traumatic brain injuries.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43003815/",
+      "source": "PubMed",
+      "abstract": "Traumatic brain injury (TBI) can result in chronic functional disability and is associated with persistent psychiatric symptoms, including posttraumatic stress disorder (PTSD), depression, and anxiety. Ibogaine, an oneirogenic alkaloid with unique pharmacological properties, has shown initial promise as a potential treatment for TBI-related sequelae. We previously observed large improvements in functional and psychiatric outcomes up to one month after a single treatment with magnesium-ibogaine in male U.S. Special Operations Veterans with a history of TBI. However, further evidence on the durability of these effects is needed. In this prospective long-term follow-up study, we evaluated the persistence of these clinical improvements over the subsequent year. Participants underwent comprehensive baseline and post-treatment assessments, with follow-up evaluations conducted at 3, 6, 9, and 12 months. Of 30 participants treated with magnesium-ibogaine, 25 completed the 12-month follow-up assessments. Outcome measures included a self-report measure of functional disability and clinician-administered assessments of psychiatric symptoms. Linear mixed-effects models demonstrated robust and sustained reductions in disability, PTSD, depression, and anxiety symptoms through 12 months post-treatment (all p < 0.001 after correction for multiple comparisons), with large effect sizes (Cohen's d ≥ 2.18 at 12 months). In participants who achieved remission immediately post-treatment, survival analyses estimated the probability of sustained remission at 12 months as 84% for PTSD, 66% for depression, and 61% for anxiety. Notably, most participants reported using other psychedelic substances or pursuing other interventions during the follow-up period, which should be considered when interpreting long-term symptom trajectories. In this naturalistic cohort, durable, clinically meaningful symptom improvements were observed in individuals with TBI up to 12 months after ibogaine treatment. Further investigation through randomized controlled trials is warranted to validate these promising preliminary results and clarify the causal contributions of ibogaine treatment, subsequent interventions, and their combination.",
+      "date": "2026-08-12",
+      "authors": [
+        "Faerman Afik",
+        "Lissemore Jennifer I",
+        "Geoly Andrew D"
+      ],
+      "doi": "10.1038/s41398-026-04327-5"
+    },
+    {
+      "title": "Ketamine for co-occurring chronic pain and depression: A scoping review highlighting the dual-outcome evidence gap and its treatment and research implications.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/43003322/",
       "source": "PubMed",
-      "abstract": "Chronic pain and depression frequently co-occur, share clinical features, and involve shared neurobiological substrates. Ketamine, an NMDA-receptor antagonist, has established antidepressant efficacy, whereas its analgesic efficacy for chronic pain remains uncertain. Given the overlap between chronic pain and depression, ketamine may serve as a potential dual-action treatment. We conducted a scoping review of studies in which pain and depressive outcomes were both assessed longitudinally after ketamine treatment. Following PRISMA-ScR guidelines, we searched MEDLINE, Embase, Web of Science, and Scopus through August 2026. Experimental and observational studies reporting post-treatment pain and depression outcomes were included; acute, perioperative, perinatal, and cancer-related pain were excluded. Of 2,187 records screened, 12 studies met inclusion criteria (2007-2025). Eight enrolled patients with consensus-based chronic pain (≥3 months); among these, only two used clinical diagnoses to characterize depression (one being retrospective chart review), whereas the remainder used symptom scales. Four depression-primary studies enrolled patients with major depressive disorder, treatment-resistant depression, or bipolar depression but did not rigorously establish chronic pain duration. Most studies reported concurrent improvement in pain and depressive symptoms, but heterogeneity in population definitions, ketamine administration regimens, study design, and psychiatric comorbidity precludes inference that depression modifies ketamine's analgesic effect. Prospective randomized studies using standardized chronic pain and depression measures are needed to clarify ketamine's efficacy and real-world applicability. REGISTRATION: This protocol was registered on the Open Science Framework (OSF) (registration: OSF.IO/3ER5W) PERSPECTIVE: This review maps studies that assessed pain and depressive symptoms longitudinally during ketamine treatment. Concurrent improvement was commonly reported, but inconsistent depression ascertainment, pain phenotyping, dosing, and study design prevent conclusions about depression-specific analgesic effects. Prospective trials with clinically defined comorbidity are needed.",
+      "abstract": "Chronic pain and depression frequently co-occur, share clinical features, and involve shared neurobiological substrates. Ketamine, an NMDA-receptor antagonist, has established antidepressant efficacy, whereas its analgesic efficacy for chronic pain remains uncertain. Given the overlap between chronic pain and depression, ketamine may serve as a potential dual-action treatment. We conducted a scoping review of studies in which pain and depressive outcomes were both assessed longitudinally after ketamine treatment. Following PRISMA-ScR guidelines, we searched MEDLINE, Embase, Web of Science, and Scopus through August 2026. Experimental and observational studies reporting post-treatment pain and depression outcomes were included; acute, perioperative, perinatal, and cancer-related pain were excluded. Of 2187 records screened, 12 studies met inclusion criteria (2007-2025). Eight enrolled patients with consensus-based chronic pain (≥3 months); among these, only two used clinical diagnoses to characterize depression (one being retrospective chart review), whereas the remainder used symptom scales. Four depression-primary studies enrolled patients with major depressive disorder, treatment-resistant depression, or bipolar depression but did not rigorously establish chronic pain duration. Most studies reported concurrent improvement in pain and depressive symptoms, but heterogeneity in population definitions, ketamine administration regimens, study design, and psychiatric comorbidity precludes inference that depression modifies ketamine's analgesic effect. Prospective randomized studies using standardized chronic pain and depression measures are needed to clarify ketamine's efficacy and real-world applicability. REGISTRATION: This protocol was registered on the Open Science Framework (OSF) (registration: OSF.IO/3ER5W) PERSPECTIVE: This review maps studies that assessed pain and depressive symptoms longitudinally during ketamine treatment. Concurrent improvement was commonly reported, but inconsistent depression ascertainment, pain phenotyping, dosing, and study design prevent conclusions about depression-specific analgesic effects. Prospective trials with clinically defined comorbidity are needed.",
       "date": "2026-11-09",
       "authors": [
         "Asnes Simon",
@@ -206,44 +244,6 @@
         "Murnane Kevin S"
       ],
       "doi": "10.1021/acschemneuro.6c00492"
-    },
-    {
-      "title": "Bridging Nonconsecutive Esketamine Weeks with Bupropion and Over-the-Counter Dextromethorphan.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42979585/",
-      "source": "PubMed",
-      "abstract": "Frequent clinic visits required for maintenance intranasal (IN) esketamine therapy can limit treatment feasibility. Our case presents a 52-year-old woman with treatment-resistant depression (TRD) and bipolar II disorder (BD-II) who achieved sustained remission with weekly esketamine, but consistently experienced relapse of depressive symptoms when treatment intervals extended beyond 10 days. Her Patient Health Questionnaire-9 (PHQ-9) score decreased from 27 at baseline to 4 (±1) during maintenance treatment; however, with even a single delayed session, her PHQ-9 score could increase by as many as 8 points (from 4 to 12). To prevent relapse when she could not receive esketamine weekly, she began taking over-the-counter (OTC) dextromethorphan (DXM) and continued bupropion extended-release (XL), which she started prior to esketamine treatment. With 45 mg twice daily (BID) DXM and 450 mg daily bupropion XL, she was able to tolerate every-other-week administration of esketamine without depressive relapse. DXM and esketamine are both believed to function via antagonism of N-methyl-D-aspartate (NMDA) receptors. Bupropion is a competitive inhibitor of cytochrome P450 2D6 (CYP2D6), which is involved in the metabolism of DXM and maintenance of serum DXM concentration.",
-      "date": "2026-Oct-30",
-      "authors": [
-        "Colby Richard",
-        "Schwartz Thomas"
-      ],
-      "doi": "10.64719/pb.21636"
-    },
-    {
-      "title": "Brain network-driven predictive neural markers for suicide risk.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42978907/",
-      "source": "PubMed",
-      "abstract": "Suicide is a significant public health challenge, underscoring the need for temporally precise and objective biomarkers to identify acute suicide risk. One potential biomarker is electrophysiological brain connectivity measured by magnetoencephalography (MEG). This study used publicly available atlases to estimate parcel-level within-network connectivity. The multi-omics statistical method was applied to assess whether canonical networks-including the default mode (DMN), executive control (ECN), and salience (SN) networks-could differentiate individuals experiencing a recent suicidal crisis (high risk) from those with a history of suicide attempts but not in the past year (lower risk), clinical controls with depression but no history of suicide risk (clinical controls), and individuals with no personal or family history of either psychiatric disorder or suicidal behavior (minimal risk). The high risk group exhibited significantly weaker functional connectivity within specific regions of these networks ( These findings highlight critical brain regions and network interactions, advancing our understanding of the neural mechanisms underlying suicide risk. Leveraging electrophysiological connectivity and innovative tools may help develop targeted interventions and early identification strategies for those at heightened risk of suicide. www.clinicaltrials.gov, identifier NCT02543983.",
-      "date": "2026-10-20",
-      "authors": [
-        "Lee Yoojin",
-        "Gilbert Jessica R",
-        "Chin Fatt Cherise R"
-      ],
-      "doi": "10.3389/fpsyt.2026.1950068"
-    },
-    {
-      "title": "From Evidence to Practice: A Systematic Review of Implementation of Psychedelic-Assisted Psychotherapy.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42978762/",
-      "source": "PubMed",
-      "abstract": "Evidence supporting psychedelic-assisted psychotherapy (PAP) for treating posttraumatic stress disorder, depression, and other historically difficult to treat mental health disorders is growing rapidly. Interest from the public and within the US government to provide access to these treatments has also grown. Considering the gap between discovery of effective treatments and implementing them in clinical settings, it is important to synthesize current knowledge of implementing these complex treatment modalities to aid efforts for systematic implementation going forward. The specific objectives of this systematic review were to: (1) identify extant literature on implementation of PAP, and (2) synthesize and present findings to understand current implementation knowledge and inform future directions. This systematic review followed the procedures outlined in Preferred Reporting Items for Systematic Reviews and Meta-Analyses 2020. Six databases were searched using a string developed with the keywords \"implementation,\" \"psychedelic (methylenedioxymethamphetamine, psilocybin, lysergic acid diethylamide, ketamine),\" and \"psychotherapy\" along with Elsevier expansions and synonyms. The study only included peer-reviewed research on PAP, which reported on the implementation of the interventions. The implementation science framework, the Practical, Robust, implementation and Sustainability Model, guided the data extraction and synthesis about implementation-relevant factors. A total of 2,406 articles were identified, and 2,074 of these were screened by title and abstract after the initial elimination of duplicates and sources that were not peer-reviewed research articles (e.g., gray literature). Forty-seven were retrieved for full text review, and 20 studies were included in the review. Most studies (15) were cross-sectional surveys and/or qualitative interviews assessing organizational perspective. The remaining (5) presented included aspects of patient perspective (2), infrastructure (2), and patient characteristics (1). There is a noticeable gap in implementation-focused research on best practices for translating PAP from academic settings into accessible clinical programs. Addressing this gap is essential to support the safe and effective implementation of PAP in real-world settings.",
-      "date": "2026-11-02",
-      "authors": [
-        "Gault John D",
-        "Almklov Erin",
-        "Tang Shirley"
-      ],
-      "doi": "10.1177/28314425261500673"
     },
     {
       "title": "Breaking: Compass Files Psilocybin for TRD New Drug Application with FDA",
@@ -560,7 +560,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2018-004480-31/CZ",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-11-10",
+      "date": "2026-11-11",
       "authors": [],
       "doi": ""
     },
@@ -569,7 +569,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2020-005037-32/CZ",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-11-10",
+      "date": "2026-11-11",
       "authors": [],
       "doi": ""
     },
@@ -578,7 +578,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2021-002909-10/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-11-10",
+      "date": "2026-11-11",
       "authors": [],
       "doi": ""
     },
@@ -587,7 +587,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2015-000550-37/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-11-10",
+      "date": "2026-11-11",
       "authors": [],
       "doi": ""
     },
@@ -596,7 +596,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2021-000041-40/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-11-10",
+      "date": "2026-11-11",
       "authors": [],
       "doi": ""
     },
@@ -605,7 +605,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2020-000829-55/DK",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-11-10",
+      "date": "2026-11-11",
       "authors": [],
       "doi": ""
     },
@@ -614,7 +614,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2020-002790-94/SE",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-11-10",
+      "date": "2026-11-11",
       "authors": [],
       "doi": ""
     },
@@ -623,7 +623,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2021-006200-33/FI",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-11-10",
+      "date": "2026-11-11",
       "authors": [],
       "doi": ""
     },
@@ -632,7 +632,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2019-004812-73/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-11-10",
+      "date": "2026-11-11",
       "authors": [],
       "doi": ""
     },
@@ -641,7 +641,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2022-002369-14/BE",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-11-10",
+      "date": "2026-11-11",
       "authors": [],
       "doi": ""
     },

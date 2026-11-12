@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-11T14:38:08.122405+00:00",
+  "generated_at": "2026-11-12T15:29:16.030766+00:00",
   "items": [
     {
       "title": "Determination of Tryptamines in Biological Specimens.",
@@ -32,6 +32,39 @@
         "other"
       ],
       "added_at": "2026-11-02T16:23:16.533919+00:00"
+    },
+    {
+      "title": "From Rapid Synaptic Events to Lasting Antidepressant States: Convergent and Divergent Mechanisms of Ketamine and Psychedelics.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43015122/",
+      "source": "PubMed",
+      "date": "2026-11-11",
+      "authors": [
+        "Kim Jihye",
+        "Fogaca Manoela V",
+        "Munguba Hermany"
+      ],
+      "doi": "10.1523/JNEUROSCI.1198-26.2026",
+      "summaries": {
+        "en": "A 2026 Society for Neuroscience review examines how ketamine and classical psychedelics produce rapid antidepressant effects despite acting on different molecular targets. Both trigger lasting mood improvements through synaptic plasticity mechanisms, including BDNF/TrkB signaling and mGluR5 interactions in the hippocampus, and prefrontal inhibitory circuit changes. The study highlights how brief drug exposure translates into persistent changes in mood-regulating brain networks.",
+        "sv": "En recensionsartikel från Society for Neuroscience 2026 undersöker hur ketamin och klassiska psykedelika ger snabba antidepressiva effekter trots olika molekylära målpunkter. Båda framkallar varaktiga stämningsförbättringar genom synaptisk plasticitetsmekanismer, inklusive BDNF/TrkB-signalering och mGluR5-interaktioner i hippocampus, samt prefrontala inhibitoriska kretsförändringar. Studien visar hur kortvarig läkemedelspåverkan leder till varaktiga förändringar i stämningsreglerade nervsystem.",
+        "no": "En reviewartikkel fra Society for Neuroscience 2026 undersøker hvordan ketamin og klassiske psykedelika gir raske antidepressive effekter til tross for ulike molekylære målpunkter. Begge utløser varige stemningsforbedringer gjennom synaptisk plastisitetsmekanismer, inkludert BDNF/TrkB-signalering og mGluR5-interaksjoner i hippocampus, samt prefrontale inhibitoriske kretsendringer. Studien viser hvordan kort medikamentell påvirkning fører til varige endringer i stemningsregulerende hjernenettverk.",
+        "da": "En reviewartikel fra Society for Neuroscience 2026 undersøger, hvordan ketamin og klassiske psykedelika frembringer hurtige antidepressive effekter på trods af forskellige molekylære målpunkter. Begge udløser varige stemningsforbedringer gennem synaptisk plasticitetsmekanismer, herunder BDNF/TrkB-signalering og mGluR5-interaktioner i hippocampus samt præfrontale inhibitoriske kredsløbsændringer. Studien viser, hvordan kortvarig medicinalpåvirkning fører til varige ændringer i stemningsregulerende hjernenetværk.",
+        "fi": "Society for Neuroscience 2026 -katsaus tutkii, kuinka ketamiini ja klassiset psykedeliikkaaineet tuottavat nopeita masennuksen vastustavia vaikutuksia huolimatta erilaisista molekyylisistä kohteista. Molemmat aikaansaavat pysyviä mielialan parantumisia synaptisen plastisuuden mekanismien kautta, mukaan lukien BDNF/TrkB-signalointi ja mGluR5-vuorovaikutukset hippocampuksessa sekä prefrontaalisissa inhibitoriissa piireissä. Tutkimus osoittaa, kuinka lyhytaikainen lääkkeen vaikutus johtaa pysyviin muutoksiin mielialaa säätelevissä aivojen verkostoissa.",
+        "is": "Endurkönnun frá Society for Neuroscience 2026 kannar hvernig ketamín og klassísk sálfræðiflug framkalla hröð þunglyndislyf þrátt fyrir mismunandi sameindar-markmið. Báðir koma af stað varanlegum bætingum á sveiflum í gegnum synaptískar plasticítetskerfi, þar á meðal BDNF/TrkB-merking og mGluR5-víxlverkanir í hippocampus og forstuðlum hemmandi hringrás-breytingar. Rannsóknin sýnir hvernig stutt lyfjapörvun leiðir til varanlegra breytinga í taugavirkjum sem stjórna sveiflum.",
+        "et": "Society for Neuroscience 2026 ülevaade uurib, kuidas ketamiin ja klassikalised psühhedeeliad tekitavad kiireid depressioonivastaseid mõjusid hoolimata erinevatest molekulaarstest sihtmärkidest. Mõlemad esile kutsuvad püsivaid meeleolu parandusi synaptilise plastsususe mehhanismide kaudu, sealhulgas BDNF/TrkB-signaalimine ja mGluR5-koostoimed hippocampuses ning prefrontaalsete inhibitoorses ahelate muutused. Uurimus näitab, kuidas lühiajaline ravimite toime viib püsivate muutusteni meeleolu reguleerivates ajuvõrkudes.",
+        "lv": "Society for Neuroscience 2026 pārskatījums pēta, kā ketamīns un klasiskie psihodeliki rada ātras antidepresijas iedarbības, neraugoties uz dažādiem molekulārajiem mērķiem. Abi izraisa ilgstošu noskaņojuma uzlabošanos sineples plastikas mehānismu dēļ, ieskaitant BDNF/TrkB signalizāciju un mGluR5 mijiedarbību hipokampā, kā arī prefrontālās inhibitoras ķēdes izmaiņas. Pētījums parāda, kā īslaicīga zāļu iedarbība noved pie ilgstošām izmaiņām noskaņojuma regulējošos smadzeņu tīklos.",
+        "lt": "Society for Neuroscience 2026 apžvalga nagrinėja, kaip ketaminas ir klasikinės psichedelijos sukelia greitą depresijos priešini poveikį, nepaisant skirtingų molekulinių taikinių. Abu sukelia ilgalaikius nuotaikos pagerinimus per sinaptinės plastingumo mechanizmus, įskaitant BDNF/TrkB signalizavimą ir mGluR5 sąveiką hipokampe bei frontalinės žievės inhibitacinių grandinių pokyčius. Tyrimas parodo, kaip trumpalaikis vaistų poveikis sudaro nuolatinių pokyčių nuotaiką reguliuojančiuose smegenų tinkluose."
+      },
+      "notable": false,
+      "notable_reasons": null,
+      "relevance_score": 4,
+      "study_type": "review",
+      "substances": [
+        "ketamine",
+        "psilocybin",
+        "lsd"
+      ],
+      "added_at": "2026-11-12T15:28:57.995538+00:00"
     },
     {
       "title": "Psychedelic ego-dissolution: a philosophical and qualitative critique.",
@@ -1906,37 +1939,6 @@
         "psilocybin"
       ],
       "added_at": "2026-10-24T11:21:56.749293+00:00"
-    },
-    {
-      "title": "Aspirational Autonomy and Psychedelic-Assisted Therapy in Advanced Cancer: Ethical Lessons from Clinical Cases.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42879734/",
-      "source": "PubMed",
-      "date": "2026-10-15",
-      "authors": [
-        "Davis Keenan Wills",
-        "Bach Michelle C",
-        "Schimmels JoEllen"
-      ],
-      "doi": "10.1093/oncolo/oyag402",
-      "summaries": {
-        "en": "Clinical case study examining psilocybin-assisted therapy (PAT) for advanced cancer patients. Rather than evaluating PAT solely by symptom reduction, the authors propose assessing outcomes through 'aspirational autonomy'—whether it supports patient self-understanding, connection, and acceptance. They argue meaningful consent need not require full foreknowledge of unpredictable experiences. Key ethical challenges identified include expectation management, therapeutic ambiguity, somatic effects, integration time, and family dynamics. The paper offers candidate-selection criteria for oncologists.",
-        "sv": "Fallstudie om pslocybin-assisterad terapi (PAT) för patienter med avancerad cancer. Författarna föreslår att PAT bör utvärderas inte bara genom symtomreducering utan också genom begreppet 'aspirativ autonomi'—huruvida det stöder patienters självförståelse, anslutning och acceptans. Informerat samtycke behöver inte kräva fullständig förkunskap om oförutsägbara upplevelser. Identifierade etiska utmaningar inkluderar förväntningsstyrning, terapeutisk tvetydighet, somatiska effekter, integrationstid och familjdynamik. Artikeln erbjuder urvalskriterier för onkologer.",
-        "no": "Klinisk casestudie av psilocybin-assistert terapi (PAT) for pasienter med avansert kreft. Forfatterne foreslår at PAT evalueres ikke bare gjennom symptomreduksjon, men også gjennom 'aspirerende autonomi'—hvorvidt det støtter pasientenes selvforståelse, tilknytning og akseptans. Informert samtykke trenger ikke fullstendig forkunskap om uforutsigbare opplevelser. Identifiserte etiske utfordringer inkluderer forventningsstyring, terapeutisk tvetydighet, somatiske effekter, integrasjonstid og familiedynamikk. Artikelen gir utvalgskriterier for onkologer.",
-        "da": "Klinisk casestudie af psilocybin-assisteret terapi (PAT) for patienter med avanceret kræft. Forfatterne foreslår, at PAT evalueres ikke blot gennem symptomreduktion, men også gennem begrebet 'aspirativ autonomi'—hvorvidt det støtter patienternes selvforståelse, forbindelse og accept. Informeret samtykke behøver ikke fuld forhåndsviden om uforudsigelige oplevelser. Identificerede etiske udfordringer omfatter forventningsstyring, terapeutisk tvetydighed, somatiske effekter, integrationstid og familiedynamik. Artiklen tilbyder udvælgelseskriterier for onkologer.",
-        "fi": "Kliininen tapaustutkimus psilosybiini-avusteisesta terapiasta (PAT) pitkälle edenneen syövän potilailla. Kirjoittajat ehdottavat, että PAT:ta tulisi arvioida paitsi oireiden vähentymisen myös 'aspiraatiivisen autonomian' kautta—tukeeko se potilaan itsetuntemusta, yhteyttä ja hyväksymistä. Tietoinen suostumus ei vaadi täydellistä ennakkotietoa arvaamattomista kokemuksista. Tunnistetut eettiset haasteet sisältävät odotuksien hallintaa, terapeuttista epäselvyyttä, somatisia vaikutuksia, integraatioaikaa ja perheen dynamiikkaa. Artikkelissa esitetään valintakriteerit onkologeille.",
-        "is": "Klínísk tilfellarannsókn á psýlosýbín-aðstoðuðri meðferð (PAT) fyrir sjúklinga með háþróaðan krabbamein. Höfundar benda á að PAT ætti ekki að meta eingöngu með minnkun einkenna heldur einnig með hugmyndinni um 'áspirasíóna sjálfstæði'—hvort hún styðji skilning, tengsl og samþykki sjúklings. Upplýst samþykki þarf ekki fullkomna fyrirfram þekkingu á ófyrirsjáanlegum reynslu. Auðkenndar siðferðilegar áskoranir fela í sér væntingastjórnun, þerapeutíska tvíræðni, somatísk áhrif, samofnunartíma og fjölskyldudynamík. Greinin gefur viðmiðun fyrir val sjúklinga fyrir krabbameinslækna.",
-        "et": "Kliiniline juhtumiuuringu psülotsübiin-toega ravi (PAT) kohta edasijõudnud vähiga patsientide jaoks. Autorid soovitavad PAT-t hinnata mitte ainult sümptomite vähenemise, vaid ka 'aspiraatsioonilise autonoomia' kaudu—kas see toetab patsiendi enesekohasust, ühendust ja aktsepteerimist. Teadlik nõusolek ei nõua täielikku ette ette teadmisi ettearvamatust kogemusest. Tuvastatud eetilised väljakutsed hõlmavad ootuste juhtimist, terapeeutilist mitmetimõistetavust, somatilist mõju, integreerimisaega ja perekonna dünaamikat. Artikkel pakub onkologidele valiku kriteeriumeid.",
-        "lv": "Klīnisks gadījuma pētījums par psīlocibīna-palīdzu terapiju (PAT) pacientiem ar progresējošu vēzi. Autori ierosina novērtēt PAT ne tikai pēc simptomatterapijas, bet arī caur 'aspiriešanās autonomijas' koncepciju—vai tā atbalsta pacienta pašizpratni, savienojumu un pieņemšanu. Apzinātai piekrišanai nav jāprasa pilna iepriekšēja zināšana par neparedzamām pieredzēm. Identificēti ētiskie izaicinājumi ietver cerību pārvaldību, terapeitisko neskaidrību, somatiskus efektus, integrācijas laiku un ģimenes dinamiku. Rakstā piedāvāti atlases kritēriji onkologiem.",
-        "lt": "Klinikinė atvejo analizė apie psilocibino pagalbą gaunama terapija (PAT) pažengusios vėžio ligoniams. Autoriai siūlo vertinti PAT ne tik pagal simptomų sumažėjimą, bet ir per 'aspiracinio savivaldos' koncepciją—ar ji palaikytų ligonio savęs supratimą, ryšį ir priėmimą. Informuotas sutikimas nereikalauja pilnos išankstinės žinios apie nenuspėjamas patirtis. Nustatyti etiniai iššūkiai apima lūkesčių valdymą, terapinį dviprasmybę, somatinius efektus, integracijos laiką ir šeimos dinamiką. Straipsnyje pasiūlyti pacientų atranko kriterijai onkologams."
-      },
-      "notable": false,
-      "notable_reasons": null,
-      "relevance_score": 4,
-      "study_type": "qualitative",
-      "substances": [
-        "psilocybin"
-      ],
-      "added_at": "2026-10-16T11:42:59.299861+00:00"
     }
   ]
 }

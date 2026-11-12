@@ -1,6 +1,28 @@
 {
   "items": [
     {
+      "title": "From Rapid Synaptic Events to Lasting Antidepressant States: Convergent and Divergent Mechanisms of Ketamine and Psychedelics.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43015122/",
+      "source": "PubMed",
+      "date": "2026-11-11",
+      "authors": [
+        "Kim Jihye",
+        "Fogaca Manoela V",
+        "Munguba Hermany"
+      ],
+      "doi": "10.1523/JNEUROSCI.1198-26.2026",
+      "summary_en": "A 2026 Society for Neuroscience review examines how ketamine and classical psychedelics produce rapid antidepressant effects despite acting on different molecular targets. Both trigger lasting mood improvements through synaptic plasticity mechanisms, including BDNF/TrkB signaling and mGluR5 interactions in the hippocampus, and prefrontal inhibitory circuit changes. The study highlights how brief drug exposure translates into persistent changes in mood-regulating brain networks.",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "review",
+      "substances": [
+        "ketamine",
+        "psilocybin",
+        "lsd"
+      ],
+      "added_at": "2026-11-12T15:28:57.995538+00:00"
+    },
+    {
       "title": "Psychedelic ego-dissolution: a philosophical and qualitative critique.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/43007826/",
       "source": "PubMed",

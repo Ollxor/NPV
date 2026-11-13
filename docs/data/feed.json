@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-12T15:29:16.030766+00:00",
+  "generated_at": "2026-11-13T14:46:26.620007+00:00",
   "items": [
     {
       "title": "Determination of Tryptamines in Biological Specimens.",
@@ -1042,6 +1042,37 @@
       "added_at": "2026-10-29T13:27:14.687339+00:00"
     },
     {
+      "title": "Connectedness as a candidate pathway linking psilocybin retreat experiences to sustained wellbeing: a prospective naturalistic study.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43016926/",
+      "source": "PubMed",
+      "date": "2026-10-28",
+      "authors": [
+        "Åkesson Maria",
+        "Granqvist Pehr",
+        "Johansson Robert"
+      ],
+      "doi": "10.3389/fpsyt.2026.1924069",
+      "summaries": {
+        "en": "A 12-month naturalistic study of 173 psilocybin retreat participants found sustained wellbeing improvements. Linear mixed-effects models and mediation analyses identified connectedness as the primary mechanism linking psilocybin experiences to wellbeing gains, followed by reduced anxiety and increased absorption. Mystical experiences predicted these psychological changes. Results suggest that social connection may be a key pathway supporting mental health beyond symptom reduction.",
+        "sv": "En naturalistisk studie med 173 deltagare i psilo­cybin-reträtter visade varaktig välmåe-förbättring över 12 månader. Linjära blandade modeller och mediations­analyser identifierade sammanhang som den primära mekanismen mellan psilo­cybin-erfarenheter och välmåe-vinster, följt av minskad ångest och ökad absorption. Mystiska upplevelser förutsåg dessa psykologiska förändringar. Resultaten tyder på att social kontakt kan vara en nyckelbana för psykisk hälsa bortom symtomreduktion.",
+        "no": "En naturalistisk 12-måneders studie med 173 deltakere i psilocybin-retreater viste vedvarende forbedring av psykisk velvære. Lineære blandede modeller og medierings­analyser identifiserte tilknytning som hovedmekanismen mellom psilocybin-erfaringer og velværeforbedringer, etterfulgt av redusert angst og økt absorpsjon. Mystiske erfaringer forutslo disse psykologiske endringene. Resultatene tyder på at sosial kontakt kan være en nøkkelvei for psykisk helse utover symptomreduksjon.",
+        "da": "Et naturalistisk 12-måneders studie med 173 deltagere i psilocybin-retreater viste vedvarende forbedring af mentalt velvære. Lineære blandede modeller og medierings­analyser identificerede tilknytning som den primære mekanisme mellem psilocybin-oplevelser og velværeforbedringer, fulgt af reduceret angst og øget absorption. Mystiske oplevelser forudsagde disse psykologiske ændringer. Resultaterne tyder på, at social forbindelse kan være en nøglesti for psykisk sundhed ud over symptomreduktion.",
+        "fi": "12 kuukauden mittainen luonnollinen tutkimus 173 psilo­sybiini-retrettiin osallistuneella osoitti kestävää henkisen hyvinvoinnin paranemista. Lineaaristen sekamallien ja välitysanalyysit tunnistivat yhteyden­tunnon päämekanismiksi psilo­sybiini-kokemusten ja hyvinvoinnin paranemisen välillä, joita seurasivat alentunut ahdistus ja lisääntynyt imeyty­minen. Myyttiset kokemukset ennustivat näitä psykologisia muutoksia. Tulokset viittaavat siihen, että sosiaalinen yhteys voi olla avain­polku mielenterveyden edistämiselle oireiden lievityksen lisäksi.",
+        "is": "12 mánaða náttúruleg rannsókn með 173 þátttakendum í psilo­sybin-drekkaöfum sýndi viðvarandi bætingu á andlegri heilsu. Línuleg blönduð líkön og millimiðlunargreining skilgreindu tengsl sem aðal­kerfi psilocybin-reynslu og heilsubóta, fylgt eftir með minni kvíða og auknum samruna. Dularlegir minningar spáðu fyrir þessum sálrænni breyt­ingum. Niðurstöður benda til þess að félagslegt samband geti verið lykilleið fyrir andlega heilsu umfram einkennis­minnkun.",
+        "et": "12-kuuline naturaaluuringu 173 psilo­tsübiini-retretil osalenud näitas jätkusuutlikku vaimsete heaolu paranemist. Lineaarsed segamudelid ja vahe­analüüsid tuvastasid seotuse peamiseks mehhanismiks psilo­tsübiini-kogemuste ja heaolu paranemise vahel, millele järgnes vähenenud ärevus ja suurenenud neelamine. Müstilised kogemused ennustasid neid psühholoogilisi muutusi. Tulemused viitavad, et sotsiaalne ühendus võib olla võtmeteeks vaimsele tervisele sümptomide leevendamise kaudu.",
+        "lv": "12 mēnešu pētījumā ar 173 psilo­cibīna retrity dalībniekiem novēroja ilgtspējīgu gara labklājības uzlabošanos. Lineārie jauktie modeļi un vidēmes analīzes identificēja savienojumu kā galveno mehānismu starp psilo­cibīna pieredzi un labklājības uzlabošanos, kam sekoja samazināta trauksme un palielināta absorpcija. Mistiskas pieredzes paredzēja šīs psiholoģiskās izmaiņas. Rezultāti liecina, ka sociālie kontakti var būt atslēgceļš garīgajai veselībai aiz simptomu mazināšanas.",
+        "lt": "12 mėnesių natūralus tyrimas su 173 psilo­cibino retrity dalyviais parodė ilgalaikį psichinio gerovės pagerinimą. Tiesiniai sumaišyti modeliai ir mediavimo analizės nustatė ryšingumą kaip pagrindinį mechanizmą tarp psilo­cibino patirties ir gerovės pagerinimo, po kurio sekė sumažėjęs nerimas ir padidėjęs sugerimas. Mistiškos patirtys numatė šiuos psichologinius pokyčius. Rezultatai rodo, kad socialinis ryšys gali būti pagrindinė kelias psichikos sveikatai, viršijant simptomų mažinimą."
+      },
+      "notable": false,
+      "notable_reasons": null,
+      "relevance_score": 4,
+      "study_type": "observational",
+      "substances": [
+        "psilocybin"
+      ],
+      "added_at": "2026-11-13T14:45:49.731400+00:00"
+    },
+    {
       "title": "Evolutionary neuropharmacology of serotonergic psychedelics: a cross-species perspective on mechanisms, consciousness, and therapeutic potential.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42957826/",
       "source": "PubMed",
@@ -1908,37 +1939,6 @@
         "psilocybin"
       ],
       "added_at": "2026-10-17T11:01:23.206355+00:00"
-    },
-    {
-      "title": "Safety and efficacy of psilocybin-assisted therapy for alcohol use disorder: Open-label extension of a phase II randomized controlled trial.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42913354/",
-      "source": "PubMed",
-      "date": "2026-10-15",
-      "authors": [
-        "Pagni Broc A",
-        "Ross Stephen",
-        "Mennenga Sarah"
-      ],
-      "doi": "10.1016/j.drugalcdep.2026.113387",
-      "summaries": {
-        "en": "Safety and efficacy of psilocybin-assisted therapy for alcohol use disorder: Open-label extension of a phase II randomized controlled trial.",
-        "sv": "Safety and efficacy of psilocybin-assisted therapy for alcohol use disorder: Open-label extension of a phase II randomized controlled trial.",
-        "no": "Safety and efficacy of psilocybin-assisted therapy for alcohol use disorder: Open-label extension of a phase II randomized controlled trial.",
-        "da": "Safety and efficacy of psilocybin-assisted therapy for alcohol use disorder: Open-label extension of a phase II randomized controlled trial.",
-        "fi": "Safety and efficacy of psilocybin-assisted therapy for alcohol use disorder: Open-label extension of a phase II randomized controlled trial.",
-        "is": "Safety and efficacy of psilocybin-assisted therapy for alcohol use disorder: Open-label extension of a phase II randomized controlled trial.",
-        "et": "Safety and efficacy of psilocybin-assisted therapy for alcohol use disorder: Open-label extension of a phase II randomized controlled trial.",
-        "lv": "Safety and efficacy of psilocybin-assisted therapy for alcohol use disorder: Open-label extension of a phase II randomized controlled trial.",
-        "lt": "Safety and efficacy of psilocybin-assisted therapy for alcohol use disorder: Open-label extension of a phase II randomized controlled trial."
-      },
-      "notable": false,
-      "notable_reasons": null,
-      "relevance_score": 4,
-      "study_type": "rct",
-      "substances": [
-        "psilocybin"
-      ],
-      "added_at": "2026-10-24T11:21:56.749293+00:00"
     }
   ]
 }

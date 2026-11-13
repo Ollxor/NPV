@@ -1,6 +1,46 @@
 {
   "items": [
     {
+      "title": "Connectedness as a candidate pathway linking psilocybin retreat experiences to sustained wellbeing: a prospective naturalistic study.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43016926/",
+      "source": "PubMed",
+      "date": "2026-10-28",
+      "authors": [
+        "Åkesson Maria",
+        "Granqvist Pehr",
+        "Johansson Robert"
+      ],
+      "doi": "10.3389/fpsyt.2026.1924069",
+      "summary_en": "A 12-month naturalistic study of 173 psilocybin retreat participants found sustained wellbeing improvements. Linear mixed-effects models and mediation analyses identified connectedness as the primary mechanism linking psilocybin experiences to wellbeing gains, followed by reduced anxiety and increased absorption. Mystical experiences predicted these psychological changes. Results suggest that social connection may be a key pathway supporting mental health beyond symptom reduction.",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "observational",
+      "substances": [
+        "psilocybin"
+      ],
+      "added_at": "2026-11-13T14:45:49.731400+00:00"
+    },
+    {
+      "title": "PROPOFOL VERSUS WITH PROPOFOL-KETAMINE MIXTURE AS ANAESTHETIC AGENT FOR ELECTROCONVULSIVE THERAPY: A RANDOMIZED CONTROLLED TRIAL.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43017194/",
+      "source": "PubMed",
+      "date": "2026-Aug-31",
+      "authors": [
+        "Koleosho-Ademua O A",
+        "Sanusi A A",
+        "Sonaike M T"
+      ],
+      "doi": "",
+      "summary_en": "Randomized controlled trial (n=70) comparing ketamine-propofol versus propofol alone as anaesthetics during ECT for major depression. Ketamine-propofol showed significantly greater depression symptom reduction post-3rd ECT (HAM-D, p<0.001), but no significant group differences in cognitive outcomes (MMSE) at any timepoint. Results suggest adjunctive ketamine may enhance mood effects without additional cognitive impairment.",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "rct",
+      "substances": [
+        "ketamine"
+      ],
+      "added_at": "2026-11-13T14:45:49.731400+00:00"
+    },
+    {
       "title": "From Rapid Synaptic Events to Lasting Antidepressant States: Convergent and Divergent Mechanisms of Ketamine and Psychedelics.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/43015122/",
       "source": "PubMed",

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-13T14:46:26.620007+00:00",
+  "generated_at": "2026-11-14T13:42:48.873549+00:00",
   "items": [
     {
       "title": "Determination of Tryptamines in Biological Specimens.",
@@ -227,6 +227,37 @@
         "psilocybin"
       ],
       "added_at": "2026-11-09T16:42:33.336933+00:00"
+    },
+    {
+      "title": "Domain-level symptom improvement after ketamine and TMS-based stimulation in treatment-resistant depression: a post hoc pooled analysis.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43025276/",
+      "source": "PubMed",
+      "date": "2026-11-07",
+      "authors": [
+        "Liu Kuan-I",
+        "Su Tung-Ping",
+        "Cheng Chih-Ming"
+      ],
+      "doi": "10.1016/j.psychres.2026.117571",
+      "summaries": {
+        "en": "Post hoc pooled analysis of 159 treatment-resistant depression patients comparing ketamine infusion (n=89) and two-week TMS course (n=70). Depression, anxiety, insomnia, and somatic symptoms were assessed via Hamilton Depression Rating Scale at day 14. Ketamine showed strongest improvement in depression (1.48 SD units), while TMS showed comparable depression improvement (1.71 SD). Both modalities demonstrated domain-specific effects, with depression showing greater improvement than somatic symptoms. Between-group differences were not statistically significant across most domains.",
+        "sv": "Post hoc-analys av 159 patienter med behandlingsresistent depression jämförde ketamininfusion (n=89) och två veckors TMS-behandling (n=70). Depression, ångest, sömnlöshet och somatiska symtom bedömdes via Hamilton Depression Rating Scale dag 14. Ketamin visade starkast förbättring av depression (1,48 SD-enheter), medan TMS visade jämförbar förbättring (1,71 SD). Båda modaliteterna påvisade domänspecifika effekter, med depression som visade större förbättring än somatiska symtom. Skillnader mellan grupperna var inte statistiskt signifikanta för de flesta domäner.",
+        "no": "Post hoc-analyse av 159 pasienter med behandlingsresistent depresjon sammenliknet ketaminininfusjon (n=89) og to ukers TMS-behandling (n=70). Depresjon, angst, søvnløshet og somatiske symptomer ble vurdert via Hamilton Depression Rating Scale dag 14. Ketamin viste sterkest forbedring i depresjon (1,48 SD-enheter), mens TMS viste sammenlignbar forbedring (1,71 SD). Begge modaliteter påviste domenespesifikke effekter, med depresjon som viste større forbedring enn somatiske symptomer. Forskjeller mellom gruppene var ikke statistisk signifikante for de fleste domener.",
+        "da": "Post hoc-analyse af 159 patienter med behandlingsresistent depression sammenlignede ketamininfusion (n=89) og to ugers TMS-behandling (n=70). Depression, angst, søvnløshed og somatiske symptomer blev vurderet via Hamilton Depression Rating Scale dag 14. Ketamin viste stærkest forbedring af depression (1,48 SD-enheder), mens TMS viste sammenlignelig forbedring (1,71 SD). Begge modaliteter påviste domænespecifikke effekter, med depression som viste større forbedring end somatiske symptomer. Forskelle mellem grupperne var ikke statistisk signifikante for de fleste domæner.",
+        "fi": "Post hoc -analyysi 159 hoitoresistentin masennuksen potilaasta vertaili ketamiinin infuusiota (n=89) ja kahden viikon TMS-hoitoa (n=70). Masennusta, ahdistuneisuutta, unettomuutta ja somatisia oireita arvioitiin Hamilton Depression Rating Scale -asteikolla päivällä 14. Ketamiini osoitti vahvinta parannusta masennuksessa (1,48 SD-yksikköä), kun taas TMS osoitti vertailukelpoista parannusta (1,71 SD). Molemmat modaliteetit osoittivat aluekohtaisia vaikutuksia, masennuksella oli suurempi parannus kuin somatisilla oireilla. Ryhmien väliset erot eivät olleet tilastollisesti merkitseviä useimmissa alueissa.",
+        "is": "Post hoc greining á 159 sjúklingum með meðferðaróhæf þunglyndi bar saman ketamín innflæðingu (n=89) og tveggja vikna TMS-meðferð (n=70). Þunglyndi, kvöl, þreyta og somatík einkenni voru metin með Hamilton Depression Rating Scale dag 14. Ketamín sýndi bestu bata við þunglyndi (1,48 SD-einingar), en TMS sýndi sambærilega bata (1,71 SD). Báðar aðferðir sýndu sértæk áhrif innan sviða, þar sem þunglyndi sýndi meiri bata en somatík einkenni. Mismunur milli hópa var ekki tölfræðilega marktækur fyrir flest svið.",
+        "et": "Post hoc analüüs 159 raviresistentse depressiooni patsiendiga võrdles ketamiini infusiooni (n=89) ja kahenädalase TMS-ravi (n=70). Depressiooni, ärevust, unetus ja somatilisi sümptomeid hinnati Hamilton Depression Rating Scale skaalal 14. päeval. Ketamiin näitas tugevamat parandust depressiooni osas (1,48 SD-ühikut), samas kui TMS näitas võrdväärseid parandust (1,71 SD). Mõlemad modaliteedid näitasid domeenikohased efekte, kusjuures depressiooni paranemine oli suurem kui somatilised sümptomid. Rühmade vahelised erinevused ei olnud enamikul domeenidel statistiliselt olulised.",
+        "lv": "Post hoc analīze ar 159 pacientiem, kuriem ir ārstēšanai rezistenta depresija, salīdzināja ketamīna infūziju (n=89) un divu nedēļu TMS ārstēšanu (n=70). Depresiju, trauksmi, bezmieģu un somatiskos simptomus novērtēja, izmantojot Hamiltona depresijas reitinga skalu 14. dienā. Ketamīns parādīja vislielāko uzlabojumu depresijā (1,48 SD vienības), turpretim TMS parādīja salīdzināmu uzlabojumu (1,71 SD). Abas modalitātes parādīja domēnspecifiskas ietekmes, un depresija parādīja lielāku uzlabojumu nekā somatiskajiem simptomiem. Atšķirības starp grupām nebija statistiski nozīmīgas lielākajai depresijas daļai.",
+        "lt": "Post hoc analizė su 159 pacientais, kuriems yra atspari gydymui depresija, palyginusi ketamino infuziją (n=89) ir dviejų savaičių TMS gydymą (n=70). Depresiją, nerimą, besveiką ir somatines simptomus vertino naudojant Hamiltono depresijos skalę 14 dieną. Ketaminas parodė stipriausią pagerinimą depresijoje (1,48 SD vienetai), o TMS parodė palyginimą pagerinimą (1,71 SD). Abi modalybės parodė domenui būdingus efektus, kuriems depresija parodė didesnį pagerinimą nei somatiniu simptomų. Skirtumai tarp grupių nebuvo statistiškai reikšmingi daugumai domenų."
+      },
+      "notable": false,
+      "notable_reasons": null,
+      "relevance_score": 4,
+      "study_type": "observational",
+      "substances": [
+        "ketamine"
+      ],
+      "added_at": "2026-11-14T13:42:08.249888+00:00"
     },
     {
       "title": "MDMA-assisted therapy for social anxiety disorder: A randomized, open-label, wait-list controlled trial.",
@@ -1906,37 +1937,6 @@
         "lsd",
         "ketamine",
         "other"
-      ],
-      "added_at": "2026-10-17T11:01:23.206355+00:00"
-    },
-    {
-      "title": "After the Trip: A Qualitative Study of Healthy Individuals' Motor Experiences Following Different Doses of Psilocybin.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42886634/",
-      "source": "PubMed",
-      "date": "2026-Oct-16",
-      "authors": [
-        "Luo Ruiqi Rachel",
-        "Berlowitz David J",
-        "Bryson Alexander"
-      ],
-      "doi": "10.1002/brb3.71807",
-      "summaries": {
-        "en": "Qualitative study of 12 healthy participants examining subjective motor experiences following psilocybin at different doses. Semi-structured interviews revealed four major themes: altered motor coordination and control (dose-dependent), transcendent consciousness, and mystical experiences. Findings suggest low-to-moderate doses produce individualized motor effects relevant to safety and quality of psychedelic experiences.",
-        "sv": "Kvalitativ studie med 12 friska deltagare som undersökte subjektiva motoriska erfarenheter efter psilocybin i olika doser. Semistrukturerade intervjuer avslöjade fyra huvudteman: förändrad motorisk koordination och kontroll (dosberoendet), transcendent medvetande och mystiska upplevelser. Resultaten tyder på att låga till måttliga doser ger individualiserade motoriska effekter relevanta för säkerhet och kvalitet.",
-        "no": "Kvalitativ studie med 12 friske deltakere som undersøkte subjektive motoriske erfaringer etter psilocybin i ulike doser. Semistrukturerte intervjuer avslørte fire hovedtema: endret motorisk koordinasjon og kontroll (doseavhengig), transcendent bevissthet og mystiske opplevelser. Funn tyder på at lave til moderate doser gir individualiserte motoriske effekter relevant for sikkerhet og kvalitet.",
-        "da": "Kvalitativ studie med 12 raske deltagere, der subjektive motoriske erfaringer efter psilocybin ved forskellige doser blev undersøgt. Semistrukturerede interviews afslørede fire hovedtemaer: ændret motorisk koordination og kontrol (dosisafhængig), transcendent bevidsthed og mystiske oplevelser. Resultater antyder, at lave til moderate doser producerer individualiserede motoriske effekter relevant for sikkerhed og kvalitet.",
-        "fi": "Kvalitatiivinen tutkimus 12 terveellä osallistujalla, joissa tutkittiin subjektiivisia motoriikan kokemuksia psilo­sybiinin eri annoksilla. Puolistrukturoiduilla haastatte­luilla paljastettiin neljä pääteemaa: muuttunut motorinen koordinaatio ja hallinta (annoksesta riippuvainen), transsendentti tietoisuus ja mystiset kokemukset. Tulokset viittaavat siihen, että matala tai kohtalainen annos aiheuttaa yksilöllisiä motoriikan vaikutuksia turvallisuuteen ja kokemuksen laatuun.",
-        "is": "Eigindlegur rannsókn með 12 heilbrigðum þátttakendum sem kannaði huglæga hreyfivirkni reynslu eftir psíló­kybin við ýmsar skammta. Hálfskipulögð viðtöl leituðu fjórum meginþemum: breyttri hreyfistýringu og stjórn (skammta­háð), yfirjörðlegri meðvitund og dularlegum reynslum. Niðurstöður benda til þess að litlir til miðlungs skammtar framleiði einstaklingsmiðaða hreyfivirkni áhrif á öryggi og gæði.",
-        "et": "Kvalitatiivne uurimus 12 terve osavõtjaga, uurides subjektiivset mootorika kogemust psilotsübiini erinevatel doseeringutel. Poolstruktureeritud intervjuud avaldasid neli põhiteemat: muutunud motoorika koordinatsioon ja kontroll (doseeringust sõltuv), transtsendentne teadvus ja müstilised kogemused. Tulemused viitavad sellele, et madal kuni mõõdukas doseeringud tekitavad individuaalseid mootorika mõjusid, mis on asjakohased ohutu­sele ja kogemuse kvaliteedile.",
-        "lv": "Kvalitatīvs pētījums ar 12 veseliem dalībniekiem, pārbaudot subjektīvu motoro pieredzi pēc psilocibīna dažādās devās. Daļēji strukturētas intervijas atklāja četras galvenās tēmas: mainīta motoro koordinācija un kontrole (devu atkarīga), transcendentā apziņa un mistiskas pieredzes. Rezultāti liecina, ka zemas līdz vidējas devas izraisa individualizētas motoro ietekmes, kas ir būtiskas drošībai un pieredzes kvalitātei.",
-        "lt": "Kokybinis tyrimas su 12 sveikų dalyvių, tiriančiais subjektyvias variklinės sistemos patirtis po psilocibino skirtingomis dozėmis. Pusiau struktūruoti pokalbiai atskleidė keturias pagrindines temas: pakitusią variklinę koordinaciją ir kontrolę (dozės priklausomybė), transcendentinę sąmonę ir mistines patirtis. Rezultatai rodo, kad žemos ir vidutinės dozės sukelia individualizuotus variklinės sistemos efektus, svarbius saugumui ir patirties kokybei."
-      },
-      "notable": false,
-      "notable_reasons": null,
-      "relevance_score": 3,
-      "study_type": "qualitative",
-      "substances": [
-        "psilocybin"
       ],
       "added_at": "2026-10-17T11:01:23.206355+00:00"
     }

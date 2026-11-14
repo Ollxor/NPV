@@ -1,6 +1,44 @@
 {
   "items": [
     {
+      "title": "Domain-level symptom improvement after ketamine and TMS-based stimulation in treatment-resistant depression: a post hoc pooled analysis.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43025276/",
+      "source": "PubMed",
+      "date": "2026-11-07",
+      "authors": [
+        "Liu Kuan-I",
+        "Su Tung-Ping",
+        "Cheng Chih-Ming"
+      ],
+      "doi": "10.1016/j.psychres.2026.117571",
+      "summary_en": "Post hoc pooled analysis of 159 treatment-resistant depression patients comparing ketamine infusion (n=89) and two-week TMS course (n=70). Depression, anxiety, insomnia, and somatic symptoms were assessed via Hamilton Depression Rating Scale at day 14. Ketamine showed strongest improvement in depression (1.48 SD units), while TMS showed comparable depression improvement (1.71 SD). Both modalities demonstrated domain-specific effects, with depression showing greater improvement than somatic symptoms. Between-group differences were not statistically significant across most domains.",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "observational",
+      "substances": [
+        "ketamine"
+      ],
+      "added_at": "2026-11-14T13:42:08.249888+00:00"
+    },
+    {
+      "title": "Oral Ketamine-Assisted Psychotherapy Leading to Prolonged Remission in Recurrent Dissociative Neurological Symptom Disorder With Mutism: A Case Report.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43023124/",
+      "source": "PubMed",
+      "date": "2026-10-12",
+      "authors": [
+        "Bakam Anirudh"
+      ],
+      "doi": "10.7759/cureus.117827",
+      "summary_en": "Case report of a 56-year-old woman with dissociative neurological symptom disorder presenting with mutism and loss of consciousness unresponsive to conventional treatments. Oral ketamine-assisted psychotherapy (50–150 mg, six sessions) combined with psychodynamic therapy enabled speech recovery by session four, with sustained improvement linked to resolution of an underlying moral conflict regarding family property.",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "case_report",
+      "substances": [
+        "ketamine"
+      ],
+      "added_at": "2026-11-14T13:42:08.249888+00:00"
+    },
+    {
       "title": "Connectedness as a candidate pathway linking psilocybin retreat experiences to sustained wellbeing: a prospective naturalistic study.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/43016926/",
       "source": "PubMed",

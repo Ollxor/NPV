@@ -1,7 +1,31 @@
 {
-  "date": "2026-11-13",
-  "cached_at": "2026-11-13T13:54:23.103355+00:00",
+  "date": "2026-11-14",
+  "cached_at": "2026-11-14T12:56:55.154228+00:00",
   "articles": [
+    {
+      "title": "Domain-level symptom improvement after ketamine and TMS-based stimulation in treatment-resistant depression: a post hoc pooled analysis.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43025276/",
+      "source": "PubMed",
+      "abstract": "We examined short-term symptom-domain improvement after ketamine and transcranial magnetic stimulation (TMS) in a post hoc pooled analysis of 159 active-treatment participants from three trials. Participants received a single ketamine infusion (n = 89) or a two-week TMS course (n = 70); nine had recorded bipolar diagnoses. Source trials used different treatment-resistance thresholds. We analyzed Depression, Anxiety, Insomnia, and Somatic indices derived from the Hamilton Depression Rating Scale. The primary analysis compared adjusted mean improvements across domains at day 14, with changes scaled by each domain's baseline standard deviation (SD). Models adjusted for baseline domain scores, age, and sex and used participant-cluster inference. Secondary analyses estimated baseline-adjusted correlations between continuous domain improvements. Mean improvement differed across domains within both modalities (both Holm-adjusted p < 0.001). Adjusted improvements for Depression, Anxiety, Insomnia, and Somatic were 1.48, 0.96, 0.46, and 0.45 SD units after ketamine and 1.71, 1.10, 0.72, and 0.78 after TMS. Main-model between-modality mean contrasts did not meet the adjusted threshold (p = 0.063-0.656); the Somatic contrast did so after adjustment for treatment-resistance categories. Direct correlation differences also did not meet the adjusted threshold (all p ≥ 0.085). These findings describe domain-specific improvement under different treatment regimens. Cross-modality comparisons remain exploratory and do not establish equivalence or guide treatment selection. UMIN000016985, UMIN000033916, UMIN000033760, and UMIN000020892.",
+      "date": "2026-11-07",
+      "authors": [
+        "Liu Kuan-I",
+        "Su Tung-Ping",
+        "Cheng Chih-Ming"
+      ],
+      "doi": "10.1016/j.psychres.2026.117571"
+    },
+    {
+      "title": "Oral Ketamine-Assisted Psychotherapy Leading to Prolonged Remission in Recurrent Dissociative Neurological Symptom Disorder With Mutism: A Case Report.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43023124/",
+      "source": "PubMed",
+      "abstract": "Dissociative neurological symptom disorder (DNSD), termed functional neurological symptom disorder in the Diagnostic and Statistical Manual of Mental Disorders, Fifth Edition, Text Revision (DSM-5-TR), presents with neurological symptoms not explained by structural disease. The first line treatment of DNSD is psychotherapy, but when the conflict maintaining the symptoms cannot be put into words, psychotherapy often stalls. This report describes a 56-year-old woman with a four-year history of episodic loss of consciousness and progressive speech loss, with normal neurological investigations. Escitalopram, intravenous ketamine infusions given without psychotherapy, and venlafaxine produced no meaningful benefit. A 30-day inpatient program of psychotherapy, family therapy, and speech therapy restored her speech, but she relapsed into complete mutism four months after discharge, and no stressor could be identified. A lorazepam-assisted interview produced sedation without speech. She then received six alternate-day sessions of oral ketamine-assisted psychotherapy, titrated from 50 mg to 150 mg, within a psychodynamically informed frame; while venlafaxine 225 mg/day was continued and family therapy was delivered alongside. She spoke a few words in the third session (100 mg) and conversed spontaneously in the fourth (150 mg), describing a conflict between a rigid moral self-image of never being greedy and unspoken distress over a family property dispute. Speech has been sustained for more than one year, and all psychotropic medication has since been withdrawn. The report proposes that, this single case is hypothesis-generating. It suggests that ketamine may be a useful and a better abreactive agent in selected patients with treatment-resistant DNSD, and that the therapeutic frame is also essential for the improvement to happen, and further controlled comparison with benzodiazepine-assisted interviews is warranted in the future.",
+      "date": "2026-10-12",
+      "authors": [
+        "Bakam Anirudh"
+      ],
+      "doi": "10.7759/cureus.117827"
+    },
     {
       "title": "A multiple Arc tagging approach for tracking neuronal ensembles across experiences.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/43019055/",
@@ -134,7 +158,7 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/43002438/",
       "source": "PubMed",
       "abstract": "Gambling disorder (GD) is a heterogeneous behavioral addiction associated with dysregulated reward processing, impaired executive control, stress-system dysfunction, and maladaptive neuroplasticity. Despite its considerable clinical, social, and economic burden, no medication is currently approved specifically for GD, and available pharmacological strategies remain off label. This narrative review examines established and emerging pharmacological approaches to GD. PubMed/MEDLINE, Scopus, and Web of Science were searched for English-language literature published between January 2010 and January 2026. Opioid antagonists show the most consistent, although still limited, therapeutic signal with potential benefits in selected patients with prominent gambling urges, whereas evidence for antidepressants, mood stabilizers, antiepileptic drugs, and antipsychotics remains heterogeneous. Glutamatergic, noradrenergic, endocannabinoid, and orexin-related interventions are biologically plausible but largely experimental. Psychedelic and neuroplasticity-oriented treatments, including psilocybin, ketamine/esketamine, and 3,4-Methylenedioxymethamphetamine (MDMA)-assisted interventions, may target cognitive inflexibility, compulsive behavior, and maladaptive reward learning. The available evidence supports a cautious, mechanism-informed approach to pharmacological research, while underscoring the need for adequately powered clinical trials and prospective evaluation of clinically relevant treatment-response indicators. Pharmacotherapy for GD should move toward phenotype-informed, multimodal treatment rather than a one-size-fits-all model. Emerging neuroplasticity-based interventions are promising, but adequately powered, controlled, and longitudinal trials are required before clinical implementation.",
-      "date": "2026-11-09",
+      "date": "2026-11-13",
       "authors": [
         "Chiappini Stefania",
         "Maremmani Angelo Giovanni Icro",
@@ -219,29 +243,13 @@
       "doi": "10.1177/02698811261495546"
     },
     {
-      "title": "Intravenous Ketamine or Esketamine in Adolescents With Major Depressive Disorder: A Systematic Review.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42985314/",
-      "source": "PubMed",
-      "abstract": "The therapeutic efficacy and safety of intravenous ketamine or esketamine in adolescents with major depressive disorder (MDD) remain insufficiently defined. This systematic review of randomized controlled trials (RCTs) aimed to evaluate the efficacy, safety, and tolerability of intravenous ketamine or esketamine in this population. A comprehensive search of four international databases (PubMed, EMBASE, PsycINFO, and the Cochrane Library) was conducted to identify RCTs comparing intravenous ketamine or esketamine with intravenous midazolam in adolescents with MDD. Three RCTs involving a total of 134 adolescents with MDD were included. Two trials assessed the antidepressant effects of intravenous ketamine compared with intravenous midazolam, with inconsistent findings. No significant advantage of intravenous ketamine over intravenous midazolam was observed in reducing anxiety symptoms (1 RCT). One trial compared intravenous esketamine with intravenous midazolam and evaluated antidepressant, anti-suicidal, and neurocognitive outcomes, demonstrating the superiority of intravenous esketamine. Both intravenous ketamine and intravenous esketamine were associated with significantly higher rates of dissociative symptoms (1 RCT each), and intravenous esketamine was also linked to a higher incidence of psychopathological symptoms (1 RCT). Systematic reporting of adverse events was provided in only one of the three included RCTs. Given the limited number of studies, small sample sizes, and methodological heterogeneity of the available RCTs, the current evidence base remains preliminary and insufficient to support definitive conclusions regarding the efficacy and safety of intravenous ketamine/esketamine in adolescents with MDD. These findings highlight the need for further adequately powered RCTs to establish robust and clinically meaningful evidence.",
-      "date": "2026-08-27",
-      "authors": [
-        "Qin Zhen-Juan",
-        "Li Xiao-Ming",
-        "Li Jia-Bao"
-      ],
-      "doi": "10.31083/AP48866"
-    },
-    {
-      "title": "Integrating multi-receptor and neuron-glia mechanisms of ketamine's antidepressant action: a convergence framework for understanding efficacy.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42985291/",
-      "source": "PubMed",
-      "abstract": "Ketamine has revolutionized psych iatric treatment, challenging monoamine-based paradigms through its capacity for rapid antidepressant action. While N-methyl-D-aspartate receptor (NMDAR) antagonism remains the canonical mechanism, this integrative review proposes a multi-receptor, neuron-glia convergence model to help account for ketamine's therapeutic efficacy. We outline the well-established disinhibition cascade, whereby preferential NMDAR blockade on GABAergic interneurons induces cortical disinhibition, triggering a transient glutamate surge and subsequent α-amino-3-hydroxy-5-methyl-4-isoxazolepropionic acid (AMPA) receptor activation. Furthermore, we discuss emerging, albeit indirect reports suggesting that ketamine and its metabolites may interact with the tropomyosin receptor kinase B (TrkB) transmembrane domain and modulate TrkB-related signaling. Beyond neurons, we consider the contributions of glial cells, particularly astrocytes, microglia, and oligodendrocyte lineage cells, as players in ketamine response in antidepressant effects. We further discuss evidence for opioid context-dependent effects that, at present, are insufficient to account for ketamine's broader antidepressant effects. Finally, we highlighted the sigma-1 receptor (S1R) as a chaperone modulator of ketamine-induced sustained neuroplasticity and intercellular neuron-glia communication. Collectively, the available data suggest that ketamine's efficacy likely arises from convergent actions across multiple molecular targets and both neuronal and glial cell types. Importantly, many components of this model remain hypothetical and require rigorous",
-      "date": "2026-10-21",
-      "authors": [
-        "Sulej Zuzanna",
-        "Zielińska Magdalena"
-      ],
-      "doi": "10.3389/fnmol.2026.1950244"
+      "title": "Field Notes #6: Dispatches from D.C. as Three Psychedelics Land at FDA",
+      "url": "https://psychedelicalpha.com/news/field-notes-6-dispatches-from-d-c-as-three-psychedelics-land-at-fda/",
+      "source": "Psychedelic Alpha",
+      "abstract": "Welcome to our sixth Field Note. As a reminder, Field Notes are timely, candid voice notes from our Founder and Editor, Josh Hardman, that give our Pα+ readers a pulse on recent developments in psychedelic drug development, policy, and access. In this Field Note, Josh shares notes from a recent trip to Washington, D.C., where […]",
+      "date": "2026-11-13",
+      "authors": [],
+      "doi": ""
     },
     {
       "title": "Breaking: U.S. Government Taps Mark Cuban’s Company to Develop Ibogaine for PTSD; Commits to Fund $20M Real-World Evidence Network",
@@ -325,11 +333,92 @@
       "doi": ""
     },
     {
-      "title": "Mostly Supportive, Somewhat Divided: Stakeholders Respond to FDA’s Psychedelics Docket",
-      "url": "https://psychedelicalpha.com/news/mostly-supportive-somewhat-divided-stakeholders-respond-to-fdas-psychedelics-docket/",
-      "source": "Psychedelic Alpha",
-      "abstract": "In July, the U.S. Food and Drug Administration (FDA) issued a request for comments associated with a Part 15 public hearing it hosted on the topic of psychedelics. (See No Questions Asked: FDA’s Psychedelics Public Hearing.) That docket was open through October 5th, though it has taken some time for comments to be posted to […]",
-      "date": "2026-10-26",
+      "title": "A dose of therapy with psilocybin - A meta-analysis of the relationship between the amount of therapy hours and treatment outcomes in psychedelic-assisted therapy",
+      "url": "http://urn.kb.se/resolve?urn=urn:nbn:se:su:diva-246664",
+      "source": "DiVA",
+      "abstract": "Background: Psilocybin-assisted therapy (PAT) has shown promising effects in treating depressive symptoms, but the role of the therapeutic component remains unclear. While most research has focused on the pharmacological effects of psilocybin, the contribution of therapy has been largely overlooked.ObjectiveThis meta-analysis investigated whether the amount of therapy hours provided is associated with treatment outcomes in psilocybin-assisted therapy for depression.Methods: A systematic search o",
+      "date": "2025-09-09",
+      "authors": [],
+      "doi": ""
+    },
+    {
+      "title": "A double-edged sword : Insights from practitioners on the short and long-term negative effects of psilocybin-assisted psychological interventions",
+      "url": "http://urn.kb.se/resolve?urn=urn:nbn:se:su:diva-233947",
+      "source": "DiVA",
+      "abstract": "Background and aims: Interest in psychedelic research has grown significantly in recent years and the naturally derived substance psilocybin, in combination with therapy, has shown promising results as a treatment for a range of psychiatric conditions. However, the negative effects and risks of psilocybin-assisted treatment are not well-established. The purpose of this study was to investigate the potential negative effects of psilocybin-assisted psychological interventions in both the short and",
+      "date": "2024-10-01",
+      "authors": [],
+      "doi": ""
+    },
+    {
+      "title": "A psilocybin haven : the use of comparison to legitimate transgression at a psychedelic retreat",
+      "url": "http://urn.kb.se/resolve?urn=urn:nbn:se:su:diva-238927",
+      "source": "DiVA",
+      "abstract": "Background: Currently, there are great hopes for psychedelic substances in treating psychiatric conditions and improving well-being. These substances are illegal in many countries, and we lack knowledge of how conflicting discourses shape psychedelic use in naturalistic settings. This study explores how psilocybin use is made meaningful by participants and staff at a retreat including psychedelic ceremonies aimed at personal growth. Methods: Ethnographic fieldwork was conducted at a psychedelic ",
+      "date": "2025-02-06",
+      "authors": [],
+      "doi": ""
+    },
+    {
+      "title": "A Relationally Informed Psychedelic Science : Conceptual framework and empirical studies",
+      "url": "http://urn.kb.se/resolve?urn=urn:nbn:se:su:diva-248522",
+      "source": "DiVA",
+      "abstract": "Recent years have seen a revival of neurobiological, psychiatric, and psychological research into psychedelics (i.e., 5-HT 2A receptor agonists), their effects on sensory perception, mood, and thought, their associated risks, and their therapeutic potential. However, evidence-based explanatory models are still nascent, and there is a need for comprehensive, widely agreed-upon theoretical frameworks to explain the underlying processes and mechanisms of change. This dissertation describes a relati",
+      "date": "2025-11-18",
+      "authors": [],
+      "doi": ""
+    },
+    {
+      "title": "Altered states of leadership : mindfulness meditation, psychedelic use, and leadership development",
+      "url": "http://urn.kb.se/resolve?urn=urn:nbn:se:su:diva-238959",
+      "source": "DiVA",
+      "abstract": "Background: Previous research suggests that mindfulness meditation and psychedelic substances show promise as mental health interventions, but relatively little remains known about their potential impact on leadership outcomes.Aims: This study aimed to investigate if and how mindfulness meditation and psychedelic use may impact leadership among respondents with a management position as their primary role at work.Methods: Using samples representative of the US and UK adult populations with regard",
+      "date": "2025-02-03",
+      "authors": [],
+      "doi": ""
+    },
+    {
+      "title": "Alternativa behandlingsmetoder för behandlingsresistent bipolär depression: en litteraturstudie",
+      "url": "http://urn.kb.se/resolve?urn=urn:nbn:se:lnu:diva-135665",
+      "source": "DiVA",
+      "abstract": "Introduktion: Bipolär sjukdom (BD) är en kronisk psykisk störning med återkommande episoder av mani, hypomani och depression. Sjukdomen delas in i två typer: BD-I och BD-II, där maniska och hypomaniska episoder är centrala. Personer med BD har hög självmordsrisk, och behandlingen består ofta av stämningsstabiliserande medel som litium och valproat samt antidepressiva läkemedel. Patienter med bipolär sjukdom kan utveckla behandlingsresistens. Alternativa behandlingar inkluderar psilocybin, ketami",
+      "date": "2025-01-31",
+      "authors": [],
+      "doi": ""
+    },
+    {
+      "title": "Assessing the risk of symptom worsening in psilocybin-assisted therapy for depression : A systematic review and individual participant data meta-analysis",
+      "url": "http://urn.kb.se/resolve?urn=urn:nbn:se:su:diva-219843",
+      "source": "DiVA",
+      "abstract": "We conducted a meta-analysis using individual participant data from three, two-dose psilocybin trials for depression (N = 102) with the aim of assessing the risk of symptom worsening. Clinically significant symptom worsening occurred for a minority of participants in the psilocybin and escitalopram conditions (∼10%) and for a majority of participants in the waitlist condition (63.6%). Using data from the two trials with control arms, the psilocybin arm showed a lower likelihood of symptom worsen",
+      "date": "2023-08-03",
+      "authors": [],
+      "doi": ""
+    },
+    {
+      "title": "Association between Lifetime Classic Psychedelic Use and Sick Leave in a Population-Based Sample",
+      "url": "http://urn.kb.se/resolve?urn=urn:nbn:se:su:diva-210355",
+      "source": "DiVA",
+      "abstract": "Objectives: Absenteeism from work due to illness, and related costs, has increased steadily during the past decades. In recent years, there has been a reemergence of research on the therapeutic effects of classic psychedelics showing associations with both physical and mental health. However, the association between classic psychedelics and sick leave remains unknown. The aim of this study is to investigate the association between lifetime classic psychedelic use and sick leave in the past 30 da",
+      "date": "2022-10-12",
+      "authors": [],
+      "doi": ""
+    },
+    {
+      "title": "Att möta Gud genom psykedeliska substanser : En innehållsanalytisk rapport av psykedeliska substansers effekt på människors livsåskådning och upplevelser av gudsmöten ur ett religionsvetenskapligt perspektiv",
+      "url": "http://urn.kb.se/resolve?urn=urn:nbn:se:kau:diva-74736",
+      "source": "DiVA",
+      "abstract": "Ändamålet med föreliggande rapport har varit att undersöka åtta personliga skildringar för att ta reda på hur deras livsåskådning ser ut efter att ha brukat psykedeliska substanser, samt undersöka huruvida något möte med Gud eller någon annan ”högre makt”, förekom under rusningstiden. För att besvara ändamålet har rapporten brutits ner till två frågeställningar, där den första hanterar vad som händer med livsåskådningen och det andra gudsmötet. För att besvara frågeställningarna har en kvalitati",
+      "date": "2019-09-18",
+      "authors": [],
+      "doi": ""
+    },
+    {
+      "title": "Att negera verkligheten - En utforskning av ontologisk chock och psykedeliska erfarenheter : En översiktsstudie",
+      "url": "http://urn.kb.se/resolve?urn=urn:nbn:se:kau:diva-99980",
+      "source": "DiVA",
+      "abstract": "Background: Psychedelics are currently undergoing a renaissance both within and outside healthcare contexts. There is general agreement that these substances have potential in healthcare, but the risks are still not fully understood. The concept of ontological shock is used sparingly and unclearly, especially for therapeutic purposes. Therefore, we believe there is a knowledge gap to illuminate, which this paper aims to do. Purpose: The purpose of the study is to explore and understand the pheno",
+      "date": "2024-07-01",
       "authors": [],
       "doi": ""
     },
@@ -468,7 +557,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2018-004480-31/CZ",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-11-13",
+      "date": "2026-11-14",
       "authors": [],
       "doi": ""
     },
@@ -477,7 +566,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2020-005037-32/CZ",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-11-13",
+      "date": "2026-11-14",
       "authors": [],
       "doi": ""
     },
@@ -486,7 +575,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2021-002909-10/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-11-13",
+      "date": "2026-11-14",
       "authors": [],
       "doi": ""
     },
@@ -495,7 +584,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2015-000550-37/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-11-13",
+      "date": "2026-11-14",
       "authors": [],
       "doi": ""
     },
@@ -504,7 +593,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2021-000041-40/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-11-13",
+      "date": "2026-11-14",
       "authors": [],
       "doi": ""
     },
@@ -513,7 +602,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2020-000829-55/DK",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-11-13",
+      "date": "2026-11-14",
       "authors": [],
       "doi": ""
     },
@@ -522,7 +611,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2020-002790-94/SE",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-11-13",
+      "date": "2026-11-14",
       "authors": [],
       "doi": ""
     },
@@ -531,7 +620,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2021-006200-33/FI",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-11-13",
+      "date": "2026-11-14",
       "authors": [],
       "doi": ""
     },
@@ -540,7 +629,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2019-004812-73/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-11-13",
+      "date": "2026-11-14",
       "authors": [],
       "doi": ""
     },
@@ -549,7 +638,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2022-002369-14/BE",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-11-13",
+      "date": "2026-11-14",
       "authors": [],
       "doi": ""
     },

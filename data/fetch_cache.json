@@ -1,7 +1,72 @@
 {
-  "date": "2026-11-14",
-  "cached_at": "2026-11-14T12:56:55.154228+00:00",
+  "date": "2026-11-15",
+  "cached_at": "2026-11-15T13:25:10.497798+00:00",
   "articles": [
+    {
+      "title": "Roots to Thrive risk and readiness assessment: a practice-based intake and decision-support framework for psychedelic-assisted therapy.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43034062/",
+      "source": "PubMed",
+      "abstract": "",
+      "date": "2026-11-13",
+      "authors": [
+        "Dames Shannon S",
+        "Tsang Vivian W L",
+        "Sheffield Julia"
+      ],
+      "doi": "10.1136/bmjoq-2026-004275"
+    },
+    {
+      "title": "Baseline suicidal thoughts are associated with ECT non-remission and cognitive side effects: A network outcome analysis.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43033988/",
+      "source": "PubMed",
+      "abstract": "Electroconvulsive therapy (ECT) is effective for severe depression, yet remission is not universal and cognitive side effects remain a concern. Individual depressive symptoms may provide prognostic information beyond overall severity scores. In a multicentre cohort from the Dutch ECT Consortium, we applied network outcome analysis to seven symptoms harmonized across the Hamilton Depression Rating Scale and Montgomery-Åsberg Depression Rating Scale (MADRS). Outcomes were remission (N = 792) and in exploratory analysis, cognitive side effects (N = 100). Robustness was assessed through bootstrapping and sensitivity analyses, including established clinical predictors, an alternative remission definition, and multivariable logistic regression. Suicidal thoughts were associated with lower odds of remission (OR 0.77, bootstrapped confidence interval [bCI] 0.68-0.84) and higher odds of cognitive side effects (OR 1.34, bCI 1.15-2.02), with 98-100% and 72-91% bootstrap edge presence across sensitivity analyses, respectively. Reduced appetite was associated with higher remission odds (OR 1.08, bCI 1.03-1.22), with 70-94% bootstrap edge presence across sensitivity analyses, but the association was absent in the MADRS-specific analysis. Tension/anxiety was associated with higher odds of cognitive side effects (OR 1.26, bCI 1.14-1.92), with 77-84% bootstrap edge presence. After simultaneous covariate adjustment, logistic regression supported associations of suicidal thoughts with both outcomes and tension/anxiety with cognitive side effects; the adjusted cognitive model was exploratory. Baseline symptoms showed distinct associations with ECT outcomes. Suicidal thoughts were associated with both lower remission likelihood and higher odds of cognitive side effects, suggesting potential relevance for clinical monitoring and counselling.",
+      "date": "2026-11-14",
+      "authors": [
+        "Zandstra Melissa G",
+        "Somers Metten",
+        "Angevaare Milou"
+      ],
+      "doi": "10.1016/j.jad.2026.122749"
+    },
+    {
+      "title": "Mitochondrial respiratory chain activity in the brain of young male rats subjected to alloxan-induced diabetes and a ketamine-induced schizophrenia-like model.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43033722/",
+      "source": "PubMed",
+      "abstract": "Type 1 diabetes mellitus (T1D) and schizophrenia (SZ) have both been associated with impaired brain energy metabolism. We investigated whether alloxan-induced insulin-deficient diabetes modifies the effects of a ketamine-induced schizophrenia-like model on the activity of brain mitochondrial respiratory chain enzymes. Male Wistar rats (23 days old) were assigned to four groups in a 2 × 2 factorial design: Control, Alloxan, Ketamine, and Ketamine + Alloxan. Diabetes was induced by a single intraperitoneal (i.p.) injection of alloxan (150 mg/kg), and ketamine (25 mg/kg, i.p.) or saline was administered daily from day 4 to day 10. The activities of complexes I, II, II-III and IV were measured in tissue homogenates of the frontal cortex, hippocampus and striatum (n = 4 per group) and analyzed by two-way ANOVA, with correction for multiple testing across all outcomes. No observation was excluded from any analysis. Three effects remained significant after correction for multiple testing: alloxan was associated with lower complex II-III activity in the hippocampus (q = 0.016) and striatum (q = 0.016), and an alloxan × ketamine interaction was observed for complex I in the hippocampus (q = 0.016), where alloxan and ketamine each increased activity compared with controls whereas their combination did not. Before correction, ketamine was also associated with higher complex II activity in the hippocampus (p = 0.006) and interactions were detected for complex II-III (p = 0.046) and complex IV (p = 0.019) in the hippocampus and for complex I in the striatum (p = 0.031); these uncorrected findings should be regarded as exploratory. No significant effect of alloxan, ketamine or their interaction was detected for any enzyme in the frontal cortex. In this exploratory study, alloxan-induced diabetes and ketamine were associated with region- and enzyme-specific differences in respiratory chain enzyme activity in the hippocampus and striatum, with alloxan attenuating some ketamine-associated increases. These findings require replication in adequately powered studies including both sexes and complementary measures of mitochondrial function.",
+      "date": "2026-11-11",
+      "authors": [
+        "Wessler Patricia Gomes",
+        "Mastella Gustavo Antunes",
+        "Gress Katia"
+      ],
+      "doi": "10.1016/j.jpsychires.2026.11.026"
+    },
+    {
+      "title": "Simultaneous EEG-fMRI in major depressive disorder: A systematic review of brain networks, neurovascular coupling, and clinical correlates.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43033641/",
+      "source": "PubMed",
+      "abstract": "Simultaneous electroencephalography-functional magnetic resonance imaging (EEG-fMRI) offers unique potential to characterize brain network dysfunction and neurovascular coupling in major depressive disorder (MDD). However, the field lacks a rigorous synthesis restricted to strictly defined MDD populations with true multimodal integration. Following PRISMA 2020 guidelines (PROSPERO: CRD420261292902), we searched PubMed, Scopus, CENTRAL, and Google Scholar (inception to March 2026) for simultaneous EEG-fMRI studies in adults (≥18 years) with MDD. We excluded subclinical samples, healthy-only populations, and sequential acquisitions to ensure diagnostic specificity. Primary outcomes were network dysfunction, neurovascular coupling, and clinical associations. Narrative synthesis was performed due to data paucity (<3 studies/outcome). Risk of bias was assessed using modified ROB2, ROBINS-I, and JBI tools. Nine studies (eight cohorts; N=377) met strict criteria. Two reports from one cohort investigating anhedonia via neurofeedback (Zotev et al.) showed moderate-to-strong correlations between EEG-fMRI metrics and severity (r = 0.47 and 0.69). Single-study findings reported effect sizes for anxiety (r = 0.74), depression change (r = -0.38 to 0.90), and rumination (r = 0.20). Analytical heterogeneity was substantial. Evidence certainty was low due to bias risk and imprecision. Small sample sizes, methodological fragmentation, and reliance on single cohorts for specific outcomes limit generalizability. Simultaneous EEG-fMRI identifies strong neurophysiological correlates (e.g., anhedonia, treatment response) in active contexts (e.g., neurofeedback, ketamine), but evidence for generalizable resting-state biomarkers remains insufficient. Future efforts must prioritize standardized pipelines and large-scale cohorts to transition this technique to a clinical biomarker.",
+      "date": "2026-11-12",
+      "authors": [
+        "Sahu Vihaan",
+        "Jape Tanmay",
+        "Balakrishnan Mohith"
+      ],
+      "doi": "10.1016/j.psychres.2026.117592"
+    },
+    {
+      "title": "Substance use to DSM-5 substance-specific and any substance use disorder in the U.S., 2021-2024.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43033560/",
+      "source": "PubMed",
+      "abstract": "To estimate the number of U.S. individuals with Diagnostic and Statistical Manual of Mental Disorders, Fifth Edition (DSM-5) substance-specific substance use disorder (SUD) versus any DSM-5 SUD across 12 substances and assess SUD severity by polysubstance use. This cross-sectional study examined nationally representative data from the National Survey on Drug Use and Health collected annually in U.S. households from 2021 to 2024 among noninstitutionalized individuals aged ≥ 12 years (N = 232,441). Outcomes were DSM-5 substance-specific SUD, any SUD, and SUD severity estimates for individuals who reported past-year use of alcohol, cannabis, crack cocaine, other cocaine, hallucinogens, heroin, inhalants, methamphetamine, prescription opioids, sedatives, stimulants, and tranquilizers. Past-year substance-specific DSM-5 SUD prevalence ranged by substance used (5.2 % for prescription tranquilizers to 79.1 % for heroin). Most people who used substances other than alcohol or cannabis, or misused prescription medications met criteria for any SUD (59.7 % for inhalants to 92.1 % for heroin). Over 75 % of people reporting illicit stimulant use met criteria for any SUD. For past-year hallucinogen use, 5.3 % had a hallucinogen use disorder while 68.3 % had any SUD. Among people with SUD, mild severity was most common with 1-3 substances used (70.8 % for one; 52.7 % for three), while severe SUD was most prevalent among those using ≥ 5 substances (44.4 %). SUD prevalence was higher with polysubstance use versus single-substance use (34.3 % [≈37.2 million] versus 10.5 % [≈10.9 million]). DSM-5 SUD profiles vary across substances. Findings suggest the need for comprehensive assessment for DSM-5 SUD across all substances, especially with stimulant or polysubstance use.",
+      "date": "2026-11-09",
+      "authors": [
+        "McCabe Sean Esteban",
+        "McCabe Vita V",
+        "Dickinson Kara"
+      ],
+      "doi": "10.1016/j.addbeh.2026.108907"
+    },
     {
       "title": "Domain-level symptom improvement after ketamine and TMS-based stimulation in treatment-resistant depression: a post hoc pooled analysis.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/43025276/",
@@ -191,56 +256,6 @@
         "Evans Jennifer"
       ],
       "doi": "10.1016/j.pscychresns.2026.112367"
-    },
-    {
-      "title": "Researchers' Experiences with IRB Oversight of Psychedelic Research.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42995154/",
-      "source": "PubMed",
-      "abstract": "Previous research raises concern that conservative institutional review board (IRB) approaches regarding stigmatized issues and vulnerable groups could similarly arise as an impediment to research with psychedelic drugs. We interviewed 20 US researchers who had been a principal investigator on at least one research protocol involving psychedelics about their experiences with IRB oversight and perspectives regarding what IRBs need to know. Respondents reported that their IRBs raised concern and asked questions about participant safety, consent, legal issues, and data security and confidentiality, typical domains for IRB consideration. They also mentioned several IRB knowledge gaps or misunderstandings about psychedelics, primarily about risks and safety, while emphasizing the importance of IRBs' understanding of psychedelic drug effects. Despite IRB concerns and misunderstandings, all study respondents ultimately reported positive or neutral current experiences with IRBs reviewing their protocols for research with psychedelics, which they often attributed to cultivating strong IRB relationships and helping IRBs achieve adequate knowledge about these types of studies. Although investigators in our study did not perceive their IRBs to be a significant barrier to research with psychedelics, less experienced investigators and IRBs may face different outcomes. As research with psychedelics continues to increase, both researchers and IRBs should be responsive to continued scientific developments and emergent best practices.",
-      "date": "2026",
-      "authors": [
-        "Neitzke-Spruill Logan",
-        "Robinson Jill Oliver",
-        "Purcell Alison"
-      ],
-      "doi": "10.1002/eahr.70033"
-    },
-    {
-      "title": "MDMA-assisted therapy for social anxiety disorder: A randomized, open-label, wait-list controlled trial.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42994762/",
-      "source": "PubMed",
-      "abstract": "±3, 4-methylenedioxymethamphetamine (MDMA) has positive effects on socio-emotional processing and MDMA-Assisted Therapy (MDMA-AT) showed promise for treating Social Anxiety Disorder (SAD) in a previous placebo-controlled trial. Develop a preliminary estimate of clinical response and safety for MDMA-AT versus waitlist in adults with SAD. Secondary aims included refinement of a standardized psychotherapy manual and assessment of candidate therapeutic processes. This randomized, open-label, wait-list controlled clinical trial recruited and enrolled 20 participants diagnosed with SAD from April 2022 to March 2024. They were randomly assigned to either immediate treatment with MDMA-AT or a 16-week waitlist condition followed by MDMA-AT equivalent to the immediate treatment arm. MDMA-AT consisted of three 90-min preparation sessions, two MDMA sessions, and six 90-min integration sessions. The preregistered primary outcome was the Liebowitz Social Anxiety Scale; secondary outcomes were functioning, shame, acceptance, belongingness, self-concealment, and self-compassion. Across 20 participants (45% women, 40% men, 15% transgender; 85% White; mean age 38) we observed a mean difference on the Liebowitz Social Anxiety Scale at 16-week primary outcome of -43.3 (SD = 14.7; 95% CI, -29.5 to -57.1; p < .0001; Hedges' g = 2.8) indicating greater improvement in the MDMA-AT condition. No serious adverse events occurred; adverse events were mild to moderate and transient. MDMA-AT resulted in a significant reduction in social anxiety symptoms and improvement in functioning compared to waitlist. There were no serious adverse events. Findings provide preliminary data for clinical response, safety, and feasibility of MDMA-AT for SAD, supporting the need for further investigation. Trial Registration https://clinicaltrials.gov/study/NCT05138068.",
-      "date": "2026-11-06",
-      "authors": [
-        "Luoma Jason B",
-        "Lear M Kati",
-        "Pilecki Brian"
-      ],
-      "doi": "10.1016/j.jad.2026.122710"
-    },
-    {
-      "title": "Shared clinical and neural features of PTSD, dissociative disorders, and limbic epilepsy: a narrative review.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42990611/",
-      "source": "PubMed",
-      "abstract": "The phenomenological closeness of post-traumatic stress disorder (PTSD) and dissociative disorders has been re-emphasized in recent diagnostic nomenclature, but their common neural pathogenesis is not yet clarified. Moreover, conventional neuroimaging studies have been observational, making it fundamentally difficult to establish causal relationships between abnormalities in specific brain regions and clinical symptoms. Here, we reviewed psychiatric symptoms in human limbic epilepsy, PTSD and dissociative disorders, together with findings from animal studies of limbic circuits, in order to explore causal links between limbic dysfunction and symptoms resembling those of PTSD and dissociative disorders. In human limbic epilepsy, epileptogenic activity arises within limbic-centered networks involving regions such as the hippocampus, amygdala and cingulate cortices, providing a clinical condition in which psychiatric symptoms can be linked to relatively identifiable neural disturbances. These symptoms overlap with key clinical domains of PTSD and dissociative disorders, including intrusive or altered memories, affective dysregulation, depersonalization/derealization, disturbances of consciousness and functional motor phenomena. This overlap raises the possibility that abnormal limbic activity may contribute to similar symptoms in PTSD and dissociative disorders. Animal studies further suggest that experimental manipulation of limbic structures and related circuits can produce PTSD-like and dissociation-like phenomena. Therefore, human limbic epilepsy and animal studies of limbic circuits complement observational neuroimaging studies by offering a framework for examining possible causal links between limbic dysfunction and PTSD- and dissociation-like symptoms.",
-      "date": "2026-10-23",
-      "authors": [
-        "Yokoyama Tatsushi",
-        "Kim Yoshiharu"
-      ],
-      "doi": "10.1016/j.ynstr.2026.100860"
-    },
-    {
-      "title": "Ketamine, an interoceptive associative agent? Evidence from ketamine-assisted Mindfulness-Oriented Recovery Enhancement for opioid use disorder.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42989695/",
-      "source": "PubMed",
-      "abstract": "Relapse in opioid use disorder (OUD) remains common despite pharmacotherapy. Altered interoceptive processing may contribute to addiction, and ketamine-induced changes in salience and insula-related networks may facilitate mindfulness-based interoceptive learning. This secondary analysis examined whether ketamine-assisted psychotherapy (KAP) added to Mindfulness-Oriented Recovery Enhancement (MORE) improved interoceptive awareness and whether these changes mediated reductions in opioid craving. Sixty-eight adults with OUD receiving buprenorphine were randomized to 8 weeks of MORE with or without KAP. Assignment was unblinded, and outcomes were self-reported. Interoception was assessed using ecological momentary assessment (EMA) of body awareness and Multidimensional Assessment of Interoceptive Awareness (MAIA) subscales. Posttreatment EMA data were available for 18 MORE + KAP and 15 MORE participants. Mixed-effects models and path analysis were conducted. Piecewise modeling showed a greater increase in EMA-assessed body awareness salience in MORE + KAP during days 1-35, spanning the pre-dosing and first-ketamine-dose period ( Adjunctive ketamine was associated with rapid, sustained increases in body awareness salience. Improvements in interoceptive regulatory capacity mediated reduced opioid craving, supporting interoception as a potential mechanism and treatment target in ketamine-augmented mindfulness interventions for OUD. gov:NCT04892251.",
-      "date": "2026-11-05",
-      "authors": [
-        "Lewis Benjamin R",
-        "Garland Eric L"
-      ],
-      "doi": "10.1177/02698811261495546"
     },
     {
       "title": "Field Notes #6: Dispatches from D.C. as Three Psychedelics Land at FDA",
@@ -557,7 +572,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2018-004480-31/CZ",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-11-14",
+      "date": "2026-11-15",
       "authors": [],
       "doi": ""
     },
@@ -566,7 +581,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2020-005037-32/CZ",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-11-14",
+      "date": "2026-11-15",
       "authors": [],
       "doi": ""
     },
@@ -575,7 +590,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2021-002909-10/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-11-14",
+      "date": "2026-11-15",
       "authors": [],
       "doi": ""
     },
@@ -584,7 +599,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2015-000550-37/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-11-14",
+      "date": "2026-11-15",
       "authors": [],
       "doi": ""
     },
@@ -593,7 +608,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2021-000041-40/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-11-14",
+      "date": "2026-11-15",
       "authors": [],
       "doi": ""
     },
@@ -602,7 +617,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2020-000829-55/DK",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-11-14",
+      "date": "2026-11-15",
       "authors": [],
       "doi": ""
     },
@@ -611,7 +626,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2020-002790-94/SE",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-11-14",
+      "date": "2026-11-15",
       "authors": [],
       "doi": ""
     },
@@ -620,7 +635,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2021-006200-33/FI",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-11-14",
+      "date": "2026-11-15",
       "authors": [],
       "doi": ""
     },
@@ -629,7 +644,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2019-004812-73/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-11-14",
+      "date": "2026-11-15",
       "authors": [],
       "doi": ""
     },
@@ -638,7 +653,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2022-002369-14/BE",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-11-14",
+      "date": "2026-11-15",
       "authors": [],
       "doi": ""
     },

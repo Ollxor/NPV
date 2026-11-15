@@ -3,13 +3,13 @@
     "PubMed": {
       "error_streak": 0,
       "zero_streak": 0,
-      "last_ok": "2026-11-14",
+      "last_ok": "2026-11-15",
       "alerted": false,
       "last_error": ""
     },
     "Semantic Scholar": {
       "error_streak": 0,
-      "zero_streak": 134,
+      "zero_streak": 135,
       "last_ok": "",
       "alerted": false,
       "last_error": ""
@@ -17,38 +17,38 @@
     "Psychedelic Alpha": {
       "error_streak": 0,
       "zero_streak": 0,
-      "last_ok": "2026-11-14",
+      "last_ok": "2026-11-15",
       "alerted": false,
       "last_error": ""
     },
     "DiVA": {
       "error_streak": 0,
       "zero_streak": 0,
-      "last_ok": "2026-11-14",
+      "last_ok": "2026-11-15",
       "alerted": false,
       "last_error": ""
     },
     "Europe PMC": {
       "error_streak": 0,
       "zero_streak": 0,
-      "last_ok": "2026-11-14",
+      "last_ok": "2026-11-15",
       "alerted": false,
       "last_error": ""
     },
     "EU Clinical Trials Register": {
       "error_streak": 0,
       "zero_streak": 0,
-      "last_ok": "2026-11-14",
+      "last_ok": "2026-11-15",
       "alerted": false,
       "last_error": ""
     },
     "OpenAIRE": {
       "error_streak": 0,
       "zero_streak": 0,
-      "last_ok": "2026-11-14",
+      "last_ok": "2026-11-15",
       "alerted": false,
       "last_error": ""
     }
   },
-  "last_updated": "2026-11-14T12:56:55.153752+00:00"
+  "last_updated": "2026-11-15T13:25:10.497527+00:00"
 }

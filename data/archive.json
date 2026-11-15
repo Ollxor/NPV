@@ -1,6 +1,46 @@
 {
   "items": [
     {
+      "title": "Roots to Thrive risk and readiness assessment: a practice-based intake and decision-support framework for psychedelic-assisted therapy.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43034062/",
+      "source": "PubMed",
+      "date": "2026-11-13",
+      "authors": [
+        "Dames Shannon S",
+        "Tsang Vivian W L",
+        "Sheffield Julia"
+      ],
+      "doi": "10.1136/bmjoq-2026-004275",
+      "summary_en": "Roots to Thrive presents a risk and readiness assessment framework for clinical intake in psychedelic-assisted therapy. This practice-based tool aims to support decision-making for patient selection and treatment planning, integrating safety evaluation with preparedness screening.",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "other",
+      "substances": [
+        "other"
+      ],
+      "added_at": "2026-11-15T14:10:37.607882+00:00"
+    },
+    {
+      "title": "Mitochondrial respiratory chain activity in the brain of young male rats subjected to alloxan-induced diabetes and a ketamine-induced schizophrenia-like model.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43033722/",
+      "source": "PubMed",
+      "date": "2026-11-11",
+      "authors": [
+        "Wessler Patricia Gomes",
+        "Mastella Gustavo Antunes",
+        "Gress Katia"
+      ],
+      "doi": "10.1016/j.jpsychires.2026.11.026",
+      "summary_en": "This 2×2 factorial study examined how alloxan-induced diabetes affects ketamine's impact on brain mitochondrial enzyme activity in young male rats. Diabetes reduced complex II-III activity in hippocampus and striatum. Ketamine alone increased complex I activity in hippocampus, but combined with diabetes, this effect disappeared. Results suggest metabolic interactions between diabetes and ketamine-induced schizophrenia-like models.",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "preclinical",
+      "substances": [
+        "ketamine"
+      ],
+      "added_at": "2026-11-15T14:10:37.607882+00:00"
+    },
+    {
       "title": "Domain-level symptom improvement after ketamine and TMS-based stimulation in treatment-resistant depression: a post hoc pooled analysis.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/43025276/",
       "source": "PubMed",

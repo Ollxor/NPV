@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-14T13:42:48.873549+00:00",
+  "generated_at": "2026-11-15T14:11:03.010282+00:00",
   "items": [
     {
       "title": "Determination of Tryptamines in Biological Specimens.",
@@ -32,6 +32,68 @@
         "other"
       ],
       "added_at": "2026-11-02T16:23:16.533919+00:00"
+    },
+    {
+      "title": "Roots to Thrive risk and readiness assessment: a practice-based intake and decision-support framework for psychedelic-assisted therapy.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43034062/",
+      "source": "PubMed",
+      "date": "2026-11-13",
+      "authors": [
+        "Dames Shannon S",
+        "Tsang Vivian W L",
+        "Sheffield Julia"
+      ],
+      "doi": "10.1136/bmjoq-2026-004275",
+      "summaries": {
+        "en": "Roots to Thrive presents a risk and readiness assessment framework for clinical intake in psychedelic-assisted therapy. This practice-based tool aims to support decision-making for patient selection and treatment planning, integrating safety evaluation with preparedness screening.",
+        "sv": "Roots to Thrive är ett ramverk för risk- och beredskapsanalys vid klinisk bedömning inom psykedelika-assisterad terapi. Verktyget är utformat för att stödja kliniska beslut kring patientval och behandlingsplanering genom att kombinera säkerhetsutvärdering med beredskapsscreening.",
+        "no": "Roots to Thrive presenterer et rammeverk for risiko- og beredskapsvurdering ved klinisk kartlegging innen psykedelika-assistert terapi. Verktøyet er designet for å støtte kliniske beslutninger om pasientseleksjon og behandlingsplanlegging gjennom integrert sikkerhetsevaluering og beredskapsscreening.",
+        "da": "Roots to Thrive er et framework til risiko- og beredskabsvurdering ved klinisk optagelse i psykedelika-assisteret terapi. Værktøjet er designet til at støtte kliniske beslutninger om patientudvælgelse og behandlingsplanlægning gennem integreret sikkerhedsevaluering og beredskapsvurdering.",
+        "fi": "Roots to Thrive on riskien ja valmiuden arviointikehys psykedeliini-avustettavan terapian kliinisessä arvioinnissa. Työkalu tukee kliinisiä päätöksiä potilasvalinnan ja hoitosuunnittelun osalta yhdistämällä turvallisuusarvioinnin ja valmiusseulonnan.",
+        "is": "Roots to Thrive er rammi fyrir mat á áhættu og tilbúinni fyrir klíníska innritun í sykedelíka-aðstoðaðri meðferð. Verkfærið er hannað til að styðja klínísk ákvarðanir um val sjúklinga og meðferðaáætlanagerð með því að samþætta öryggismat og tilbuinni-skimun.",
+        "et": "Roots to Thrive on riskide ja valmiduse hindamise raamistik psühhedeelikumidega abistatud teraapia kliinilise vastuvõtu jaoks. Tööriist on loodud kliiniliste otsuste toetamiseks patsiendi valiku ja ravi planeerimise osas, ühendades ohutusevaluatsiooni ja valmiduse sõelumisega.",
+        "lv": "Roots to Thrive ir riska un gatavības novērtējuma sistēma psihedeliku-asistētās terapijas klīniskai uzņemšanai. Šis prakses instruments ir paredzēts klīnisko lēmumu pieņemšanas atbalstam pacientu atlases un ārstēšanas plānošanā, integrējot drošības novērtējumu un gatavības skrīningu.",
+        "lt": "Roots to Thrive yra rizikos ir paruoštumo vertinimo sistema psichedelikų-pagalbinei terapijai atliekant klinikinį priėmimą. Šis praktinis įrankis skirtas klinikinių sprendimų dėl pacientų atrankos ir gydymo planavimo paramos, integruojant saugumo vertinimą ir paruoštumo atranką."
+      },
+      "notable": false,
+      "notable_reasons": null,
+      "relevance_score": 3,
+      "study_type": "other",
+      "substances": [
+        "other"
+      ],
+      "added_at": "2026-11-15T14:10:37.607882+00:00"
+    },
+    {
+      "title": "Mitochondrial respiratory chain activity in the brain of young male rats subjected to alloxan-induced diabetes and a ketamine-induced schizophrenia-like model.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43033722/",
+      "source": "PubMed",
+      "date": "2026-11-11",
+      "authors": [
+        "Wessler Patricia Gomes",
+        "Mastella Gustavo Antunes",
+        "Gress Katia"
+      ],
+      "doi": "10.1016/j.jpsychires.2026.11.026",
+      "summaries": {
+        "en": "This 2×2 factorial study examined how alloxan-induced diabetes affects ketamine's impact on brain mitochondrial enzyme activity in young male rats. Diabetes reduced complex II-III activity in hippocampus and striatum. Ketamine alone increased complex I activity in hippocampus, but combined with diabetes, this effect disappeared. Results suggest metabolic interactions between diabetes and ketamine-induced schizophrenia-like models.",
+        "sv": "En faktoriell 2×2-studie undersökte hur alloxan-inducerad diabetes påverkar ketamins effekt på hjärnans mitokondriella enzymaktivitet hos unga hanråttor. Diabetes minskade komplex II-III-aktiviteten i hippocampus och striatum. Ketamin ensamt ökade komplex I-aktiviteten i hippocampus, men kombinerat med diabetes försvann denna effekt. Resultaten tyder på metaboliska interaktioner mellan diabetes och ketamin-inducerad schizofreniliknande modell.",
+        "no": "En faktoriell 2×2-studie undersøkte hvordan alloksaninducert diabetes påvirker ketamins effekt på hjernens mitokondriell enzymaktivitet hos unge hannrotter. Diabetes reduserte kompleks II-III-aktivitet i hippocampus og striatum. Ketamin alene økte kompleks I-aktivitet i hippocampus, men kombinert med diabetes forsvant denne effekten. Resultatene tyder på metabolske interaksjoner mellom diabetes og ketamininducert schizofrenilik modell.",
+        "da": "Et faktorielt 2×2-studie undersøgte, hvordan alloxan-induceret diabetes påvirker ketamins effekt på hjernens mitokondriefunktion hos unge hannegrise. Diabetes reducerede kompleks II-III-aktivitet i hippocampus og striatum. Ketamin alene øgede kompleks I-aktivitet i hippocampus, men kombineret med diabetes forsvandt denne effekt. Resultaterne tyder på metabolske interaktioner mellem diabetes og ketamin-induceret skizofrenilignendemodel.",
+        "fi": "Faktoriaalinen 2×2-tutkimus tutki, kuinka alloksoani-indusoitu diabetes vaikuttaa ketamiinin vaikutukseen aivojen mitokondrioiden entsyymiaktiivisuuteen nuorilla urospöreillä. Diabetes vähensi kompleksin II-III-aktiivisuutta hippocampuksessa ja striatum-ytimessä. Ketamiini yksinään lisäsi kompleksin I-aktiivisuutta hippocampuksessa, mutta yhdessä diabeteksen kanssa tämä vaikutus katosi. Tulokset viittaavat metabolisiin vuorovaikutuksiin diabeteksen ja ketamiini-indusoitavan skitsofreniakaltaisen mallin välillä.",
+        "is": "Þessari 2×2 þáttuðu rannsókn kannaði hvernig alloxan-framkölluð sykursýki hefur áhrif á áhrif ketamíns á starfsemi heila-mitkóndríuenseima hjá ungum kvendýrum. Sykursýki minnkaði starfsemi flóks II-III í hippocampus og striatum. Ketamín einn og sér jók starfsemi flóks I í hippocampus, en sameinað við sykursýki hvarf þessi áhrif. Niðurstöður benda til efnaskipta-milliverkana milli sykursýki og ketamín-framkölluðs geðklofa.",
+        "et": "Faktoriaal 2×2-uuringus uuriti, kuidas alloksaan-indutseeritud diabeet mõjutab ketamiini mõju noorte isaste rottide ajumitokondriaalsete ensüümide aktiivsusele. Diabeet vähendas kompleksi II-III aktiivsust hipokampuses ja striaatumis. Ketamiin üksi suurendas kompleksi I aktiivsust hipokampuses, kuid diabeedi kombinatsioonis see mõju kadus. Tulemused viitavad metabolilistele interaktsioonidele diabeedi ja ketamiini-indutseeritud skisofreenia-sarnase mudeli vahel.",
+        "lv": "Faktoriāls 2×2 pētījums pārbaudīja, kā alloksānu-inducēts cukura diabēts ietekmē ketamīna ietekmi uz jaunu tēviņu žurkaļu smadzeņu mitohondriālo enzīmu aktivitāti. Diabēts samazināja kompleksa II-III aktivitāti hipokampā un striātumā. Ketamīns viens pats paaugstināja kompleksa I aktivitāti hipokampā, bet kombinācijā ar diabētu šis efekts pazuda. Rezultāti liecina par metaboliskiem mijiedarbības efektiem starp diabētu un ketamīna-inducēto shizofrēnijas-līdzīgo modeli.",
+        "lt": "Faktorialus 2×2 tyrimas nagrinėjo, kaip aloksanu sukeltas cukorinis diabetas veikia ketamino poveikį jaunų patinų žiurkių smegenų mitochondrinių fermentų aktyvumui. Diabetas sumažino komplekso II-III aktyvumą hipokampe ir striatum. Ketaminas vienas padidino komplekso I aktyvumą hipokampe, tačiau derinant su diabetu šis poveikis išnyko. Rezultatai rodo metabolinius sąveikus tarp diabeto ir ketamino sukelto šizofrenijos panašaus modelio."
+      },
+      "notable": false,
+      "notable_reasons": null,
+      "relevance_score": 3,
+      "study_type": "preclinical",
+      "substances": [
+        "ketamine"
+      ],
+      "added_at": "2026-11-15T14:10:37.607882+00:00"
     },
     {
       "title": "From Rapid Synaptic Events to Lasting Antidepressant States: Convergent and Divergent Mechanisms of Ketamine and Psychedelics.",
@@ -1874,71 +1936,6 @@
         "mdma"
       ],
       "added_at": "2026-10-18T11:30:06.557379+00:00"
-    },
-    {
-      "title": "Real-world clinical outcomes under intravenous and subcutaneous esketamine protocols for treatment-resistant depression: a multicenter, retrospective study.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42964351/",
-      "source": "PubMed",
-      "date": "2026-10-16",
-      "authors": [
-        "Alves Gilberto Sousa",
-        "Dos Santos Humberto M M",
-        "Damasceno Samira D"
-      ],
-      "doi": "10.3389/fpsyt.2026.1963841",
-      "summaries": {
-        "en": "Multicenter retrospective study (2023-2025) comparing IV and SC esketamine for treatment-resistant depression in 72 Brazilian patients (IV: n=26, 6 sessions; SC: n=46, 12 sessions). At 6 sessions, IV showed numerically higher BDI-II response rates but difference was not statistically significant (p=0.059). Both routes demonstrated clinical efficacy with comparable tolerability profiles.",
-        "sv": "Multicenterstudie retrospektiv analys (2023-2025) som jämförde IV och subkutan psykedelika-assisted behandling med esketamin för behandlingsresistent depression hos 72 brasilianska patienter (IV: n=26, 6 sessioner; SC: n=46, 12 sessioner). Vid 6 sessioner visade IV högre respons men skillnaden var inte statistiskt signifikant (p=0,059). Båda vägar visade klinisk effekt med jämförbar tolerabilitet.",
-        "no": "Multisenterstudie med retrospektiv analyse (2023-2025) som sammenlignet IV og subkutan psykedelika-assistert behandling med esketamin for behandlingsresistent depresjon hos 72 brasilianske pasienter (IV: n=26, 6 økter; SC: n=46, 12 økter). Ved 6 økter viste IV høyere responsrate, men forskjellen var ikke statistisk signifikant (p=0,059). Begge rutene viste klinisk effekt med sammenlignbar tolerabilitet.",
-        "da": "Multicenterstudie med retrospektiv analyse (2023-2025) sammenlignende IV og subkutan psykedelika-assisteret behandling med esketamin for behandlingsresistent depression hos 72 brasilianske patienter (IV: n=26, 6 sessioner; SC: n=46, 12 sessioner). Ved 6 sessioner viste IV højere respons, men forskellen var ikke statistisk signifikant (p=0,059). Begge metoder viste klinisk effekt med sammenlignelig tolerabilitet.",
-        "fi": "Monikeskuksinen retrospektiivinen tutkimus (2023-2025) vertailemassa IV ja subkutaanista psykedeleijä-avusteista esketamiinin käyttöä hoitoon-resistenttiseen masennukseen 72 brasiliaisella potilaalla (IV: n=26, 6 istuntoa; SC: n=46, 12 istuntoa). Kuuden istunnon jälkeen IV osoitti korkeampia vastausprosentteja, mutta ero ei ollut tilastollisesti merkitsevä (p=0,059). Molemmat menetelmät osoittivat kliinistä tehokkuutta vertailukelpoisella siedettävyydellä.",
-        "is": "Fjölstöð endurfarandi rannsókn (2023-2025) sem bar saman IV og undirfjallareit psýkedelíka-aðstoðuð meðferð með esketamíni fyrir þráa þunglyndi hjá 72 brasilískum sjúklingum (IV: n=26, 6 fundir; SC: n=46, 12 fundir). Eftir sex fundi sýndi IV hærra svörun en munurinn var ekki tölfræðilega marktækur (p=0,059). Báðar leiðir sýndu klíníska verkun með sambærilegri þoli.",
-        "et": "Mitmekaardi retrospektiivne uuring (2023-2025), mis võrdles IV ja subkutaanset psühhedeelikuid kasutavat esketamiini ravi raskesti ravitava depressiooni korral 72 brasiilia patsiendil (IV: n=26, 6 seanssi; SC: n=46, 12 seanssi). Kuue seanssi järel näitas IV kõrgemat reageerimisprotsenti, kuid erinevus ei olnud statistiliselt oluline (p=0,059). Mõlemad meetodid näitasid kliinilist tõhusust võrdluva talutavusega.",
-        "lv": "Daudzcentru retrospektīva pētījuma (2023-2025) analīze, salīdzinot IV un subkutānu psihedeliku palīgteratiju ar esketamīnu hardu depresijas ārstēšanai 72 brazīliešu pacientiem (IV: n=26, 6 sesijas; SC: n=46, 12 sesijas). Pēc sešām serijām IV parādīja augstāku atsaucības likmi, bet atšķirība nebija statistiski nozīmīga (p=0,059). Abas metodes parādīja klīnisku efektivitāti ar salīdzināmu panesību.",
-        "lt": "Daugiacentrinė retrospektyvi studija (2023-2025) lyginusi IV ir subkutaninę psichodeliko-pagalbinę esketamino terapiją gydžius rezistentinei depresijai 72 braziliečių pacientams (IV: n=26, 6 sesijos; SC: n=46, 12 sesijų). Po šešių sesijų IV parodė aukštesnį atsakymo dažnį, bet skirtumas nebuvo statistiškai reikšmingas (p=0,059). Abi metodikos parodė klinikinį efektyvumą su palyginamu tolerancija."
-      },
-      "notable": false,
-      "notable_reasons": null,
-      "relevance_score": 4,
-      "study_type": "observational",
-      "substances": [
-        "ketamine"
-      ],
-      "added_at": "2026-10-31T12:54:21.169913+00:00"
-    },
-    {
-      "title": "French psychiatric caregivers' perceptions of psychedelics: A national survey.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42888158/",
-      "source": "PubMed",
-      "date": "2026-10-16",
-      "authors": [
-        "Buot Anne",
-        "Burdairon Jean-Del",
-        "Mallet Luc"
-      ],
-      "doi": "10.1016/j.encep.2026.06.015",
-      "summaries": {
-        "en": "French survey of 298 psychiatry professionals (Dec 2023–Jan 2024) assessed knowledge and attitudes toward hallucinogens for clinical use. Most respondents had heard of medical research; 88% knew of psilocybin/ketamine for treatment-resistant depression. However, awareness of other therapeutic applications was limited. 53% viewed the therapeutic benefit-risk ratio favorably, while 61% considered recreational use dangerous. Male gender and personal experience predicted positive therapeutic perceptions.",
-        "sv": "Fransk enkät bland 298 psykiatriker (dec 2023–jan 2024) undersökte kunskap och attityder till hallucingener för klinisk användning. De flesta kände till medicinsk forskning; 88% var medvetna om psilocybin/ketamin för behandlingsresistent depression. Medvetenheten om andra terapeutiska tillämpningar var dock begränsad. 53% bedömde den terapeutiska nytta-risk-kvoten som gynnsam, medan 61% ansåg rekreativ användning farlig. Manligt kön och personlig erfarenhet förutsäg positiva kliniska uppfattningar.",
-        "no": "Norsk undersøkelse av 298 psykiatrere (des 2023–jan 2024) vurderte kunnskap og holdninger til hallusinogener for klinisk bruk. De fleste var kjent med medisinsk forskning; 88% var klar over psilocybin/ketamin for behandlingsresistent depresjon. Kendskapen til andre terapeutiske indikasjoner var imidlertid begrenset. 53% vurderte den terapeutiske nytte-risiko-forholdet som gunstig, mens 61% anså rekreativ bruk som farlig. Mannlig kjønn og personlig erfaring predikerte positive kliniske oppfatninger.",
-        "da": "Dansk survey af 298 psykiatere (dec 2023–jan 2024) undersøgte viden og holdninger til hallucingener til klinisk brug. De fleste var kendt med medicinsk forskning; 88% var opmærksomme på psilocybin/ketamin til behandlingsresistent depression. Kendskabet til andre terapeutiske indicationer var dog begrænset. 53% vurderede det terapeutiske nytte-risiko-forhold som gunstigt, mens 61% anså rekreativ brug for farlig. Mandligt køn og personlig erfaring forudsagde positive kliniske opfattelser.",
-        "fi": "Ranskalainen kysely 298 psykiaterin parissa (joulukuu 2023–tammikuu 2024) arvioi tietoa ja asenteita hallusinogeeneihin kliinisessä käytössä. Useimmat olivat tietoisia lääketieteellisestä tutkimuksesta; 88% tiesi psylosibiinista/ketamiinista hoitoresistentin masennuksen hoitoon. Tietoisuus muista terapeuttisista käyttöindikaatioista oli kuitenkin rajallinen. 53% arvioi hallusinogeenien terapeuttisen hyöty-riskisuhteen myönteiseksi, kun taas 61% piti rekreatiivista käyttöä vaarallisena. Miespuoli ja henkilökohtainen kokemus ennustivat myönteisiä kliinisiä näkemyksiä.",
-        "is": "Frönsk könnun á meðal 298 geðlækna (des 2023–jan 2024) kannaðist um þekkingu og viðhorf til draumablikra efna fyrir klíníska notkun. Flestir voru meðvitaðir um læknisfræðilega rannsóknir; 88% þekktu til psýlósíbíns/ketamíns við meðferðarþolin þunglyndi. Þekking á öðrum heilsumeginlegum beitingum var þó takmörkuð. 53% töldu ábatahlutfall þunglyndilyfjanna hagkvæmt, en 61% töldu ófélagslega notkun hættusamlega. Karllegir og persónuleg reynsla spáðu fyrir jákvæðum klínískum skoðunum.",
-        "et": "Prantsuse uuring 298 psühhiaatri seas (dets 2023–jaan 2024) hindas teadmisi ja suhtumist hallutsinogeenidesse kliiniliseks kasutamiseks. Enamik teadis meditsiinilisest uurimistööst; 88% teadis psilotsibiinist/ketamiinist ravi-resistentse depressiooni raviks. Teadlikkus muudest terapeutilistest näidustustest oli siiski piiratud. 53% hindas hallutsinogeenide terapeutilise kasu-riski suhet soodsaks, 61% pidas rekreatiivset kasutamist ohtlikuks. Meessugu ja isiklik kogemus ennustasid positiivseid kliinilisi seisukohti.",
-        "lv": "Francijas aptauja starp 298 psihiatriem (2023. gada dec.–2024. gada jan.) novērtēja zināšanas un attieksmi pret halucināgēniem klīniskai lietošanai. Lielākā daļa bija informēta par medicīniskiem pētījumiem; 88% bija informēti par psilotsibīnu/ketamīnu ārstēšanas-rezistentā depresijas ārstēšanai. Informētība par citām terapeitiskām indikācijām bija tomēr ierobežota. 53% novērtēja halucināgēnu terapeitiskā ieguvuma-riska attiecību par labvēlīgu, bet 61% uzskatīja rekreatīvo lietošanu par bīstamu. Vīriešu dzimte un personīgā pieredze paredzēja pozitīvus klīniskus uzskatus.",
-        "lt": "Prancūzų apklausa tarp 298 psichiatrų (2023 m. gruod.–2024 m. saus.) vertino žinias ir požiūrį į halucino­genus klinikiniam naudojimui. Dauguma buvo susipažinę su medicininiais tyrimais; 88% žinojo apie psilocibino/ketamino naudojimą terapijai atsparioje depresijoje. Tačiau žinios apie kitas terapines indikacijas buvo ribotos. 53% vertino halucino­genų terapinio naudos-rizikos santykį kaip palankų, o 61% rekreacinio naudojimo laikė pavojingu. Vyriški lytis ir asmeninė patirtis numatė teigiamus klininius požiūrius."
-      },
-      "notable": false,
-      "notable_reasons": null,
-      "relevance_score": 3,
-      "study_type": "observational",
-      "substances": [
-        "psilocybin",
-        "lsd",
-        "ketamine",
-        "other"
-      ],
-      "added_at": "2026-10-17T11:01:23.206355+00:00"
     }
   ]
 }

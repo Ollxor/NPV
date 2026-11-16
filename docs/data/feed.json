@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-15T14:11:03.010282+00:00",
+  "generated_at": "2026-11-16T16:12:58.967656+00:00",
   "items": [
     {
       "title": "Determination of Tryptamines in Biological Specimens.",
@@ -32,6 +32,34 @@
         "other"
       ],
       "added_at": "2026-11-02T16:23:16.533919+00:00"
+    },
+    {
+      "title": "Podcast: Compass Files Psilocybin Application with FDA, U.S. Government Taps Mark Cuban to Develop Ibogaine, Psychedelics After the Midterms",
+      "url": "https://psychedelicalpha.com/news/podcast-compass-files-psilocybin-application-with-fda-u-s-government-taps-mark-cuban-to-develop-ibogaine-psychedelics-after-the-midterms/",
+      "source": "Psychedelic Alpha",
+      "date": "2026-11-16",
+      "authors": [],
+      "doi": "",
+      "summaries": {
+        "en": "Compass Pathways has submitted a psilocybin application to the FDA for treatment-resistant depression. The U.S. government has engaged entrepreneur Mark Cuban in ibogaine development initiatives. The podcast discusses recent regulatory progress in psychedelics and policy implications following U.S. midterm elections.",
+        "sv": "Compass Pathways har inlämnat en ansökan till FDA för pslocybin vid behandlingsresistent depression. Den amerikanska regeringen har engagerat entreprenören Mark Cuban för utveckling av ibogain. Podcasten diskuterar nylig regulatorisk framsteg för psykedelika och politiska konsekvenser efter amerikanska midtermsval.",
+        "no": "Compass Pathways har sendt inn en søknad til FDA for psilocybin til behandlingsresistent depresjon. Den amerikanske regjeringen har engasjert gründeren Mark Cuban for ibogoainutvikling. Podkasten diskuterer nylig regulatorisk fremgang innen psykedelika og politiske implikasjoner etter amerikanske mellomvalg.",
+        "da": "Compass Pathways har indgivet en ansøgning til FDA for psilocybin til behandlingsresistent depression. Den amerikanske regering har engageret iværksætteren Mark Cuban til udvikling af ibogain. Podcasten diskuterer nylig regulatorisk fremskridt inden for psykedelika og politiske konsekvenser efter amerikanske mellemvalg.",
+        "fi": "Compass Pathways on jättänyt psilosybiinihakemuksen FDA:lle hoitoresistenttiin masennukseen. Yhdysvaltain hallitus on palkannut yrittäjän Mark Cubanin ibogaiinin kehittämiseen. Podcast käsittelee psykedeliikan sääntelyllista edistystä ja politiikan vaikutuksia Yhdysvaltain välivaalien jälkeen.",
+        "is": "Compass Pathways hefur skilað inn umsókn til FDA fyrir psýlósýbín meðferð við meðferðarþolandi þunglyndi. Bandarísk stjórnvöld hafa falið frumkvöðlanum Mark Cuban þróun ibógaíns. Hlaðvarpsútsendinginn fjallar um nýlega eftirlitsframfarir í sálfræðilyfjaefnum og stefnumótunaráhrifum eftir bandarísk miðtímakosningar.",
+        "et": "Compass Pathways on esitanud FDA-le psilotsibiini taotluse ravi-resistentse depressiooni jaoks. USA valitsus on kaasanud ettevõtjat Mark Cubanit ibogaiini arendamiseks. Podcast käsitleb psühhedeelikumide hiljutist regulatoorset arengut ja poliitilisi tagajärgi USA vahepealvalimiste järel.",
+        "lv": "Compass Pathways ir iesniedzusi psilocibīna pieteikumu FDA ārstēšanai rezistentai depressijai. ASV valdība ir iesaistījusi uzņēmēju Marku Kubanu ibogaīna izstrādē. Podkāsts apspriež nesen panāktos psihedeliku regulatīvos sasniegumus un politiskas sekas ASV starpvēlēšanu rezultātā.",
+        "lt": "Compass Pathways pateikė psilocinbino programą FDA gydymui atspariems depresijos atvejams. JAV vyriausybė pasamdė verslininką Marką Kubaną ibogainui plėtoti. Podkastas aptaria neseniai padarytą psichedelinių medžiagų reguliacinį progresą ir politines pasekmes po JAV tarpinių rinkimų."
+      },
+      "notable": false,
+      "notable_reasons": null,
+      "relevance_score": 3,
+      "study_type": "other",
+      "substances": [
+        "psilocybin",
+        "ibogaine"
+      ],
+      "added_at": "2026-11-16T16:12:45.369376+00:00"
     },
     {
       "title": "Roots to Thrive risk and readiness assessment: a practice-based intake and decision-support framework for psychedelic-assisted therapy.",
@@ -1903,37 +1931,6 @@
       "study_type": "preclinical",
       "substances": [
         "ketamine"
-      ],
-      "added_at": "2026-10-18T11:30:06.557379+00:00"
-    },
-    {
-      "title": "What goes up must comedown: prevalence rates, characteristics, and coping strategies concerning MDMA aftereffects.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42891831/",
-      "source": "PubMed",
-      "date": "2026-10-17",
-      "authors": [
-        "Goldy Sean P",
-        "Klein Kelcy A",
-        "Yaden David B"
-      ],
-      "doi": "10.1007/s00213-026-07187-5",
-      "summaries": {
-        "en": "Cross-sectional survey of 497 MDMA users examined post-acute negative effects prevalence and characteristics. 74.5% reported comedown symptoms starting ~24 hours post-ingestion, lasting ~40 hours. Most common symptoms: fatigue (88.1%), concentration difficulties (85.7%), restlessness (82.9%), headache (79.7%). 14.6% experienced passive suicidal ideation, 6.2% active ideation. Study also assessed supplements and antidepressants as coping strategies.",
-        "sv": "Tvärsnittsstudie med 497 MDMA-användare undersökte prevalens och karakteristiska drag av eftereffekter. 74,5% rapporterade nedkomstsymptom som började ~24 timmar efter intag och varade ~40 timmar. Vanligaste symtomen: trötthet (88,1%), koncentrationssvårigheter (85,7%), rastlöshet (82,9%), huvudvärk (79,7%). 14,6% upplevde passiv suicidalitet, 6,2% aktiv. Studien bedömde även kosttillskott och antidepressiva som copingstrategier.",
-        "no": "Tverrsnittstudie med 497 MDMA-brukere undersøkte prevalens og karakteristikker ved ettervirkninger. 74,5% rapporterte nedkomstsymptomer som startet ~24 timer etter inntak og varte ~40 timer. Vanligste symptomer: tretthet (88,1%), konsentrasjonsvansker (85,7%), rastløshet (82,9%), hodepine (79,7%). 14,6% opplevde passiv suisidalitet, 6,2% aktiv. Studien vurderte også kosttilskudd og antidepressiva som mestringsstrategier.",
-        "da": "Tværsnittsundersøgelse med 497 MDMA-brugere undersøgte prævalens og karakteristika ved eftereffekter. 74,5% rapporterede nedkomstsymptomer, der begyndte ~24 timer efter indtagelse og varede ~40 timer. Mest almindelige symptomer: træthed (88,1%), koncentrationsvanskeligheder (85,7%), rastløshed (82,9%), hovedpine (79,7%). 14,6% oplevede passiv selvmordstanker, 6,2% aktiv. Studien vurderede også kosttilskud og antidepressiva som mestringsstrategier.",
-        "fi": "Poikkileikkaustutkimus 497 MDMA-käyttäjällä tutki jälkivaikutuksien esiintyvyyttä ja piirteitä. 74,5% raportoi väsymysvaiheen oireita, jotka alkoivat ~24 tuntia nauttimisen jälkeen ja kestivät ~40 tuntia. Yleisimmät oireet: väsymys (88,1%), keskittymisvaikeudet (85,7%), levottomuus (82,9%), päänsärky (79,7%). 14,6% koki passiivisia itsemurhapensauksia, 6,2% aktiivisia. Tutkimus arvioi myös ravintolisät ja masennuslääkkeet selviytymisstrategioina.",
-        "is": "Þverskurðarrannsókn með 497 MDMA-notendum kannaði tíðni og einkenni eftir áhrifa. 74,5% greindu frá þreytu-einkennnum sem komu fram ~24 tímum eftir neyslu og stóðu ~40 tíma. Algengstu einkenni: þreyta (88,1%), einbeitingarerfiðleikar (85,7%), sveiflugleiki (82,9%), höfuðverkur (79,7%). 14,6% upplifðu óbeina sjálfsvígshugmyndir, 6,2% beina. Rannsóknin mat einnig fæðubótarefni og þunglyndarlyf sem aðferðir til að takast á við einkenni.",
-        "et": "Ristlõikeuuring 497 MDMA-kasutajaga uuris järelhõjude esinemissagedust ja tunnuseid. 74,5% teatasid väsimuse sümptomeid, mis algasid ~24 tundi pärast võtmist ja kestsid ~40 tundi. Levinuimad sümptomid: väsimus (88,1%), keskendumisraskused (85,7%), rahutus (82,9%), peavalu (79,7%). 14,6% kogesid passiivset enesetapu ideatsiooni, 6,2% aktiivset. Uuring hinnatas ka toidulisandeid ja antidepressante strateegiatena sümptomite leevendamiseks.",
-        "lv": "Šķērsgriezuma pētījums ar 497 MDMA lietotājiem pārbaudīja pēcefektu izplatību un pazīmes. 74,5% ziņoja par noguruma simptomus, kas sākās ~24 stundas pēc lietošanas un ilga ~40 stundas. Visizplatītākie simptomi: nogurums (88,1%), koncentrācijas grūtības (85,7%), nemierība (82,9%), galvassāpes (79,7%). 14,6% piedzīvoja pasīvu pašnāvniecības ideāciju, 6,2% aktīvu. Pētījumā novērtēja arī uztura bagātinātājus un antidepresantus kā simptomātu mazināšanas stratēģijas.",
-        "lt": "Skerspjūvio tyrimas su 497 MDMA vartotojais tiesiog tyrinėjo paskutinių efektų dažnumą ir charakteristikas. 74,5% pranešė apie nuovargio simptomus, prasidėjusius ~24 valandas po vartojimo ir trukusius ~40 valandų. Dažniausiai pasitaikantys simptomai: nuovargis (88,1%), koncentracijos sunkumai (85,7%), neramumas (82,9%), galvos skausmas (79,7%). 14,6% patyrė pasyvias savižudybės idejas, 6,2% aktyvias. Tyrime taip pat vertinti maisto papildai ir antidepresantai kaip simptomų mažinimo strategijos."
-      },
-      "notable": false,
-      "notable_reasons": null,
-      "relevance_score": 4,
-      "study_type": "observational",
-      "substances": [
-        "mdma"
       ],
       "added_at": "2026-10-18T11:30:06.557379+00:00"
     }

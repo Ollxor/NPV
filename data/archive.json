@@ -1,6 +1,40 @@
 {
   "items": [
     {
+      "title": "Breaking: Helus’ Deuterated Psilocin Hits Primary Endpoint in First Phase 3",
+      "url": "https://psychedelicalpha.com/news/breaking-helus-deuterated-psilocin-hits-primary-endpoint-in-first-phase-3/",
+      "source": "Psychedelic Alpha",
+      "date": "2026-11-16",
+      "authors": [],
+      "doi": "",
+      "summary_en": "Helus Pharma announced positive results from its Phase 3 PARADIGM trial of HLP003, a deuterated psilocin analog, as an adjunctive treatment for major depressive disorder. The study met its primary endpoint, marking a significant milestone in clinical development of this psychedelic compound.",
+      "notable": true,
+      "notable_reason": "Phase 3 pivotal trial (PARADIGM) with positive primary endpoint readout for psilocin derivative in MDD.",
+      "study_type": "rct",
+      "substances": [
+        "psilocybin"
+      ],
+      "added_at": "2026-11-17T16:19:14.674891+00:00"
+    },
+    {
+      "title": "Ketamine after the hype: What are we actually treating?",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43040634/",
+      "source": "PubMed",
+      "date": "2026-11-16",
+      "authors": [
+        "Movahed Rad Pouya"
+      ],
+      "doi": "10.1177/10398562261508726",
+      "summary_en": "Ketamine after the hype: What are we actually treating?",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "other",
+      "substances": [
+        "ketamine"
+      ],
+      "added_at": "2026-11-17T16:19:14.674891+00:00"
+    },
+    {
       "title": "Podcast: Compass Files Psilocybin Application with FDA, U.S. Government Taps Mark Cuban to Develop Ibogaine, Psychedelics After the Midterms",
       "url": "https://psychedelicalpha.com/news/podcast-compass-files-psilocybin-application-with-fda-u-s-government-taps-mark-cuban-to-develop-ibogaine-psychedelics-after-the-midterms/",
       "source": "Psychedelic Alpha",

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-16T16:12:58.967656+00:00",
+  "generated_at": "2026-11-17T16:19:52.609639+00:00",
   "items": [
     {
       "title": "Determination of Tryptamines in Biological Specimens.",
@@ -32,6 +32,72 @@
         "other"
       ],
       "added_at": "2026-11-02T16:23:16.533919+00:00"
+    },
+    {
+      "title": "Breaking: Helus’ Deuterated Psilocin Hits Primary Endpoint in First Phase 3",
+      "url": "https://psychedelicalpha.com/news/breaking-helus-deuterated-psilocin-hits-primary-endpoint-in-first-phase-3/",
+      "source": "Psychedelic Alpha",
+      "date": "2026-11-16",
+      "authors": [],
+      "doi": "",
+      "summaries": {
+        "en": "Helus Pharma announced positive results from its Phase 3 PARADIGM trial of HLP003, a deuterated psilocin analog, as an adjunctive treatment for major depressive disorder. The study met its primary endpoint, marking a significant milestone in clinical development of this psychedelic compound.",
+        "sv": "Helus Pharma tillkännagav positiva resultat från sin Phase 3-studie PARADIGM med HLP003, en deutererad psilocinanalog, som adjuvant behandling för svår depression. Studien uppnådde sitt primära slutpunkt och markerar en viktig milstolpe i utvecklingen av denna psykedelika.",
+        "no": "Helus Pharma kunngjorde positive resultater fra sin fase 3-studie PARADIGM av HLP003, en deuterert psilocinanolog, som tilleggsbehandling for alvorlig depresjon. Studien nådde sitt primære endepunkt og markerer en betydelig milepæl i utviklingen av disse psykedelika.",
+        "da": "Helus Pharma annoncerede positive resultater fra sin fase 3-studie PARADIGM af HLP003, et deutereret psilocinanolog, som supplerende behandling for alvorlig depression. Studien nåede sit primære endepunkt og markerer en vigtig milepæl i udviklingen af denne psykedelika.",
+        "fi": "Helus Pharma ilmoitti positiivisista tuloksista PARADIGM-tutkimuksestaan, jossa testattiin HLP003-yhdistettä, deuteroitua psilosiinianalogia, vakavan masennuksen apuhoitona. Tutkimus saavutti ensisijaisen lopputuloksen ja merkitsee merkittävää virstanpylvästä näiden psykedeelikkojen kehityksessä.",
+        "is": "Helus Pharma tilkynnti jákvæðum niðurstöðum úr Phase 3 rannsókn sinni PARADIGM á HLP003, deuteruðu psílosínhliðstæðu, sem viðbótarmeðferð við alvarlegu þunglyndi. Rannsóknin náði aðalmarkmið sínu og markar mikilvæga tímamót í þróun þessara sálfræðilegra efna.",
+        "et": "Helus Pharma kuulutasin välja positiivsed tulemused oma PARADIGM faasi 3 uuringust HLP003-ga, deuteeritud psilotsiinanaloogiga, suure depressiooni lisaravi jaoks. Uuring saavutas oma peamise lõpp-punkti ja tähendab olulist verstapostit nende psühhedelikumide arendamisel.",
+        "lv": "Helus Pharma paziņoja par pozitīviem rezultātiem no PARADIGM 3. fāzes pētījuma ar HLP003, deuterētu psilocīna analogu, kā papildu ārstēšanu smagai depresijom. Pētījums sasniedza savu primāro galapunktu, kas ir nozīmīgs etaps psihedelisko vielu attīstībā.",
+        "lt": "Helus Pharma paskelbė teigiamus PARADIGM 3 fazės tyrimo su HLP003, deuteruota psilocino analogu, kaip papildoma sunkios depresijos gydymo priemonė, rezultatus. Tyrimas pasiekė savo pirminį tikslą ir žymi reikšmingą etapą šių psichedelinių medžiagų plėtroje."
+      },
+      "notable": true,
+      "notable_reasons": {
+        "en": "Phase 3 pivotal trial (PARADIGM) with positive primary endpoint readout for psilocin derivative in MDD.",
+        "sv": "Phase 3 pivotal trial (PARADIGM) med positivt primärt slutpunktsresultat för psilocin-derivat vid MDD.",
+        "no": "Phase 3 pivotal trial (PARADIGM) med positiv primær endepunktresultat for psilocin-derivat ved MDD.",
+        "da": "Phase 3 pivotal trial (PARADIGM) med positivt primært endepunktsresultat for psilocin-derivat ved MDD.",
+        "fi": "Phase 3 pivotal trial (PARADIGM) positiivisella päätepisteellä psilosiini-johdannaiselle MDD:ssä.",
+        "is": "Phase 3 pivotal trial (PARADIGM) með jákvæðum aðal endapunkti fyrir psilocin afleiðu við MDD.",
+        "et": "Phase 3 pivotal trial (PARADIGM) positiivse esmase lõpp-punkti tulemiga psilotsiini derivaadi jaoks MDD-s.",
+        "lv": "Phase 3 pivotal trial (PARADIGM) ar pozitīvu primāro galapunkta rezultātu psilociņa derivātam MDD.",
+        "lt": "Phase 3 pivotal trial (PARADIGM) su teigiamais pirminiais galutiniais rezultatais psilocino derivatui MDD."
+      },
+      "relevance_score": 5,
+      "study_type": "rct",
+      "substances": [
+        "psilocybin"
+      ],
+      "added_at": "2026-11-17T16:19:14.674891+00:00"
+    },
+    {
+      "title": "Ketamine after the hype: What are we actually treating?",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43040634/",
+      "source": "PubMed",
+      "date": "2026-11-16",
+      "authors": [
+        "Movahed Rad Pouya"
+      ],
+      "doi": "10.1177/10398562261508726",
+      "summaries": {
+        "en": "Ketamine after the hype: What are we actually treating?",
+        "sv": "Ketamine after the hype: What are we actually treating?",
+        "no": "Ketamine after the hype: What are we actually treating?",
+        "da": "Ketamine after the hype: What are we actually treating?",
+        "fi": "Ketamine after the hype: What are we actually treating?",
+        "is": "Ketamine after the hype: What are we actually treating?",
+        "et": "Ketamine after the hype: What are we actually treating?",
+        "lv": "Ketamine after the hype: What are we actually treating?",
+        "lt": "Ketamine after the hype: What are we actually treating?"
+      },
+      "notable": false,
+      "notable_reasons": null,
+      "relevance_score": 4,
+      "study_type": "other",
+      "substances": [
+        "ketamine"
+      ],
+      "added_at": "2026-11-17T16:19:14.674891+00:00"
     },
     {
       "title": "Podcast: Compass Files Psilocybin Application with FDA, U.S. Government Taps Mark Cuban to Develop Ibogaine, Psychedelics After the Midterms",
@@ -1871,68 +1937,6 @@
         "ketamine"
       ],
       "added_at": "2026-10-19T13:45:26.493638+00:00"
-    },
-    {
-      "title": "Low-Dose Buprenorphine Following Ketamine Treatment for Suicidal Ideation in Major Depressive Disorder: Response to Letters.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42894300/",
-      "source": "PubMed",
-      "date": "2026-10-19",
-      "authors": [
-        "Tucciarone Jason M",
-        "Bandeira Igor D",
-        "Schatzberg Alan F"
-      ],
-      "doi": "10.1176/appi.ajp.20260834",
-      "summaries": {
-        "en": "Correspondence discussing the combination of low-dose buprenorphine following ketamine treatment for suicidal ideation in major depressive disorder. The letter addresses clinical considerations and responses to previous commentary on this treatment approach.",
-        "sv": "Korrespondens som diskuterar kombination av låg dos buprenorfin efter ketaminbehandling för suicidal ideation vid svår depression. Brevet tar upp kliniska överväganden och svar på tidigare kommentarer om detta behandlingsförfarande.",
-        "no": "Korrespondanse som diskuterer kombinasjonen av lav-dose buprenorfin etter ketaminbehandling for suicidal ideation ved alvorlig depresjon. Brevet tar opp kliniske hensyn og svar på tidligere kommentarer om denne behandlingsmetoden.",
-        "da": "Korrespondance der diskuteres kombinationen af lavdosis buprenorfin efter ketaminbehandling for suicidal ideation ved alvorlig depression. Brevet behandler kliniske overvejelser og svar på tidligere kommentarer om denne behandlingstilgang.",
-        "fi": "Kirjeenvaihto, joka käsittelee matalan annoksen buprenorfiinin ja ketamiinin yhdistelmää itsemurhaideoinnin hoitoon vakavassa masennuksessa. Kirjeessä käsitellään kliinisiä näkökohtia ja vastauksia aiemmista kommenteista tästä hoitomenetelmästä.",
-        "is": "Bréfaskipti sem fjallar um samsetningu lágs skammta buprenorfíns eftir ketamínmeðferð fyrir sjálfsvígshugmyndir við alvarlegri þunglyndi. Bréfið fjallar um klíníska atriði og svör við fyrri athugasemdum um þessa meðferðaraðferð.",
-        "et": "Kirjavahetus, mis käsitleb madala annusega buprenorfiini kasutamist ketamiini järel rasva depressiooni ja enesetapu ideatsiooni ravis. Kiri käsitleb kliinilisi kaalutlusi ja vastuseid varasemate kommentaaride kohta selle ravimeetodi osas.",
-        "lv": "Korespondence, kas apspriež zemās devas buprenorfīna kombinēšanu ar ketamīna ārstēšanu pašnāvniecīgo ideju gadījumā smagai depresijai. Vēstule aplūko klīniskus apsvērumus un atbildes uz iepriekšējiem komentāriem par šo ārstēšanas pieeju.",
-        "lt": "Korespondencija, kurioje aptariamas žema bupreno fino doze po ketamino gydymo savižudybės idėjoms esant sunkiai depresijai. Laiške aptariami klinikiniai aspektai ir atsakymai į ankstesnius komentarus apie šį gydymo būdą."
-      },
-      "notable": false,
-      "notable_reasons": null,
-      "relevance_score": 3,
-      "study_type": "other",
-      "substances": [
-        "ketamine"
-      ],
-      "added_at": "2026-10-19T13:45:26.493638+00:00"
-    },
-    {
-      "title": "Ketamine administration reduced conditioned defensive behaviour and upregulated protein expression associated with neuroplasticity in a planarian model of aversive memory reactivation.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42892539/",
-      "source": "PubMed",
-      "date": "2026-10-17",
-      "authors": [
-        "James Fionnghuala L J",
-        "Ahamed Sayed K",
-        "Yang Cheng"
-      ],
-      "doi": "10.1016/j.pnpbp.2026.111979",
-      "summaries": {
-        "en": "Study in planaria examined ketamine's mechanism in treating traumatic memories. Fifteen organisms received 10 μM ketamine, 1 μM ketamine, or vehicle control during aversive memory reactivation. Ketamine significantly reduced defensive behaviors and upregulated neuroplasticity-associated proteins. Findings suggest ketamine destabilizes aversive memories, enabling modification—relevant for PTSD treatment mechanisms.",
-        "sv": "Studie i planarier undersökte ketamins mekanism vid behandling av traumatiska minnen. Femton organismer erhöll 10 μM ketamin, 1 μM ketamin eller kontrolljämförelse under minnesreaktivering. Ketamin minskade försvarsbeteenden signifikant och uppregulerade neuroplasticitetsproteiner. Resultaten tyder på att ketamin destabiliserar aversiva minnen, vilket möjliggör modifiering—relevant för PTSD-behandling.",
-        "no": "Studie i planarier undersøkte ketamins mekanisme ved behandling av traumatiske minner. Femten organismer mottok 10 μM ketamin, 1 μM ketamin eller kontrollbehandling under minnereaktivering. Ketamin reduserte forsvarsatferd signifikant og oppregulerte nevropastisitetsassosierte proteiner. Resultatene tyder på at ketamin destabiliserer aversive minner, muligens relevant for PTSD-behandling.",
-        "da": "Undersøgelse i planarier undersøgte ketamins mekanisme ved behandling af traumatiske minder. Femten organismer modtog 10 μM ketamin, 1 μM ketamin eller kontrolbehandling under minnereaktivering. Ketamin reducerede defensiv adfærd signifikant og ophøjede nevroplasticitet-associerede proteiner. Resultaterne tyder på, at ketamin destabiliserer aversive minder, potentielt relevant for PTSD-behandling.",
-        "fi": "Tutkimus planaarioissa tutki ketamiinin mekanismia traumaattisten muistojen hoidossa. Viisitoista organismia sai 10 μM ketamiinia, 1 μM ketamiinia tai kontrollikäsittelyä muistin uudelleenaktivoinnin aikana. Ketamiini vähensi puolustuskäyttäytymistä merkitsevästi ja lisäsi neuroplastisuuteen liittyviä proteiineja. Tulokset viittaavat, että ketamiini epävakauttaa aversiivia muistoja, mahdollisesti merkityksellisiä PTSD-hoitoon.",
-        "is": "Rannsókn á plönum rannsakaði kerfi ketamíns við meðferð á átroðnum minningum. Fimmtán lífverur fengu 10 μM ketamín, 1 μM ketamín eða stjórnunarmeðferð við endurkveikingu minnis. Ketamín minnkaði varnarathöfn verulega og jók prótein sem tengdir eru taugavirkni. Niðurstöður benda til að ketamín óstöðugli óbærileg minni, hugsanlega mikilvægt fyrir PTSD-meðferð.",
-        "et": "Uuringus planaariumidel uuriti ketamiini mehhanismi traumaatiliste mälestuste ravil. Viisteist organismile manustrati 10 μM ketamiini, 1 μM ketamiini või kontrollravi mälu reaktiveerimise käigus. Ketamiin vähendas signifikantset kaitsekäitumist ja suurendas neuroplastisuusega seotud valke. Tulemused viitavad, et ketamiin destabiliseerib aversiivseid mälestusi, PTSD-ravi jaoks potentsiaalselt oluline.",
-        "lv": "Pētījums planārijās pārbaudīja ketamīna mehānismu traumatisku atmiņu ārstēšanā. Piecpadsmit organismi saņēma 10 μM ketamīnu, 1 μM ketamīnu vai kontroles ārstēšanu atmiņas reaktivācijas laikā. Ketamīns ievērojami samazināja aizsardzības uzvedību un palielināja neuroplastitātes saistītus olbaltumvielas. Rezultāti norāda, ka ketamīns destabilizē aversīvas atmiņas, potenciāli svarīgas PTSD ārstēšanai.",
-        "lt": "Tyrimą planariose buvo tiriamas ketamino mechanizmas gydant trauminius prisiminimai. Penkiolika organizmų gavo 10 μM ketamino, 1 μM ketamino arba kontrolę atmintį reaktyvavimo metu. Ketaminas reikšmingai sumažino apsaugos elgesį ir padidino neuroplastitumui susijusias baltymus. Rezultatai rodo, kad ketaminas destabilizuoja aversyvius prisiminimai, potencialiai svarbius PTSD gydymui."
-      },
-      "notable": false,
-      "notable_reasons": null,
-      "relevance_score": 4,
-      "study_type": "preclinical",
-      "substances": [
-        "ketamine"
-      ],
-      "added_at": "2026-10-18T11:30:06.557379+00:00"
     }
   ]
 }

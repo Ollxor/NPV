@@ -1,7 +1,18 @@
 {
-  "date": "2026-11-16",
-  "cached_at": "2026-11-16T14:44:52.975113+00:00",
+  "date": "2026-11-17",
+  "cached_at": "2026-11-17T15:29:03.860517+00:00",
   "articles": [
+    {
+      "title": "Ketamine after the hype: What are we actually treating?",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43040634/",
+      "source": "PubMed",
+      "abstract": "ObjectiveKetamine has transformed depression research by demonstrating rapid antidepressant effects through mechanisms beyond monoaminergic neurotransmission. This perspective argues that the ketamine story also provides an opportunity to re-examine broader conceptual and methodological challenges in depression research, including the definition of treatment-resistant depression, patient selection, recruitment strategies, outcome measures and the interpretation of clinical trials.ConclusionsRather than questioning whether ketamine works, this perspective asks whether depression research generates evidence that meaningfully informs clinical decisions. Differences in patient populations, recruitment strategies, expectations and outcome measures may substantially shape treatment estimates. More precise clinical characterisation and greater emphasis on patient-important outcomes may help bridge the gap between efficacy demonstrated in trials and the choice of treatment for individual patients.",
+      "date": "2026-11-16",
+      "authors": [
+        "Movahed Rad Pouya"
+      ],
+      "doi": "10.1177/10398562261508726"
+    },
     {
       "title": "Roots to Thrive risk and readiness assessment: a practice-based intake and decision-support framework for psychedelic-assisted therapy.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/43034062/",
@@ -245,17 +256,13 @@
       "doi": "10.1016/j.conctc.2026.101705"
     },
     {
-      "title": "Working memory neural correlates after ketamine in treatment-resistant depression: a randomized placebo-controlled functional magnetic resonance imaging study.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42998544/",
-      "source": "PubMed",
-      "abstract": "Ketamine exerts rapid antidepressant effects in treatment-resistant depression (TRD), but its impact on working memory and neural circuitry remains unclear. This secondary analysis investigated behavioral and neural changes during a working memory task post-ketamine infusion in TRD participants versus healthy volunteers (HVs). Data were previously collected from a randomized, double-blind, placebo-controlled, crossover trial of 22 unmedicated TRD participants (14F/8 M) and 19 matched HVs (12F/7 M). Participants received ketamine (0.5mg/kg) and placebo two weeks apart. 3T fMRI was acquired during an N-back task at baseline and two days post-ketamine. Accuracy, reaction time, and differential neural activation during 3-back versus 1-back contrasts were analyzed. Ketamine significantly reduced Montgomery-Asberg Depression Rating Scale scores compared to placebo (p < 0.01). N-back task performance did not significantly differ between drug conditions. In region of interest (ROI) analyses, TRD participants showed reduced activation in the superior temporal gyrus versus HVs (p < 0.01) after both infusions, and both groups demonstrated decreased parieto-occipital junction activation post-ketamine versus post-placebo (p = 0.01). Baseline dorsolateral prefrontal cortex activity significantly predicted post-infusion activity (p < 0.01). Ketamine's antidepressant effects occurred without significant changes in working memory performance, though region-specific task-related brain changes were observed. Interpretation is limited by modest sample size and the exploratory nature of the ROI analyses. CLINICAL TRIAL REGISTRATION: www.clinicaltrials.gov, NCT00088699.",
-      "date": "2026-11-03",
-      "authors": [
-        "Fijtman Adam",
-        "Lally Níall",
-        "Evans Jennifer"
-      ],
-      "doi": "10.1016/j.pscychresns.2026.112367"
+      "title": "Breaking: Helus’ Deuterated Psilocin Hits Primary Endpoint in First Phase 3",
+      "url": "https://psychedelicalpha.com/news/breaking-helus-deuterated-psilocin-hits-primary-endpoint-in-first-phase-3/",
+      "source": "Psychedelic Alpha",
+      "abstract": "This morning, Helus Pharma (formerly Cybin) announced a positive topline readout from its first Phase 3 study of HLP003, a deuterated psilocin analog, for the adjunctive treatment of major depressive disorder (MDD). Here, we provide breaking coverage and rapid analysis. Trial Design Helus’ Phase 3 program, PARADIGM, trials HLP003 as an adjunctive treatment for MDD […]",
+      "date": "2026-11-16",
+      "authors": [],
+      "doi": ""
     },
     {
       "title": "Podcast: Compass Files Psilocybin Application with FDA, U.S. Government Taps Mark Cuban to Develop Ibogaine, Psychedelics After the Midterms",
@@ -339,105 +346,6 @@
       "doi": ""
     },
     {
-      "title": "FDA Approves NRx’s Preservative-Free Generic Ketamine, but Its Bid to Ban Rivals’ Products Remains Pending",
-      "url": "https://psychedelicalpha.com/news/fda-approves-nrxs-preservative-free-generic-ketamine-but-its-bid-to-ban-rivals-products-remains-pending/",
-      "source": "Psychedelic Alpha",
-      "abstract": "",
-      "date": "2026-10-30",
-      "authors": [],
-      "doi": ""
-    },
-    {
-      "title": "A dose of therapy with psilocybin - A meta-analysis of the relationship between the amount of therapy hours and treatment outcomes in psychedelic-assisted therapy",
-      "url": "http://urn.kb.se/resolve?urn=urn:nbn:se:su:diva-246664",
-      "source": "DiVA",
-      "abstract": "Background: Psilocybin-assisted therapy (PAT) has shown promising effects in treating depressive symptoms, but the role of the therapeutic component remains unclear. While most research has focused on the pharmacological effects of psilocybin, the contribution of therapy has been largely overlooked.ObjectiveThis meta-analysis investigated whether the amount of therapy hours provided is associated with treatment outcomes in psilocybin-assisted therapy for depression.Methods: A systematic search o",
-      "date": "2025-09-09",
-      "authors": [],
-      "doi": ""
-    },
-    {
-      "title": "A double-edged sword : Insights from practitioners on the short and long-term negative effects of psilocybin-assisted psychological interventions",
-      "url": "http://urn.kb.se/resolve?urn=urn:nbn:se:su:diva-233947",
-      "source": "DiVA",
-      "abstract": "Background and aims: Interest in psychedelic research has grown significantly in recent years and the naturally derived substance psilocybin, in combination with therapy, has shown promising results as a treatment for a range of psychiatric conditions. However, the negative effects and risks of psilocybin-assisted treatment are not well-established. The purpose of this study was to investigate the potential negative effects of psilocybin-assisted psychological interventions in both the short and",
-      "date": "2024-10-01",
-      "authors": [],
-      "doi": ""
-    },
-    {
-      "title": "A psilocybin haven : the use of comparison to legitimate transgression at a psychedelic retreat",
-      "url": "http://urn.kb.se/resolve?urn=urn:nbn:se:su:diva-238927",
-      "source": "DiVA",
-      "abstract": "Background: Currently, there are great hopes for psychedelic substances in treating psychiatric conditions and improving well-being. These substances are illegal in many countries, and we lack knowledge of how conflicting discourses shape psychedelic use in naturalistic settings. This study explores how psilocybin use is made meaningful by participants and staff at a retreat including psychedelic ceremonies aimed at personal growth. Methods: Ethnographic fieldwork was conducted at a psychedelic ",
-      "date": "2025-02-06",
-      "authors": [],
-      "doi": ""
-    },
-    {
-      "title": "A Relationally Informed Psychedelic Science : Conceptual framework and empirical studies",
-      "url": "http://urn.kb.se/resolve?urn=urn:nbn:se:su:diva-248522",
-      "source": "DiVA",
-      "abstract": "Recent years have seen a revival of neurobiological, psychiatric, and psychological research into psychedelics (i.e., 5-HT 2A receptor agonists), their effects on sensory perception, mood, and thought, their associated risks, and their therapeutic potential. However, evidence-based explanatory models are still nascent, and there is a need for comprehensive, widely agreed-upon theoretical frameworks to explain the underlying processes and mechanisms of change. This dissertation describes a relati",
-      "date": "2025-11-18",
-      "authors": [],
-      "doi": ""
-    },
-    {
-      "title": "Altered states of leadership : mindfulness meditation, psychedelic use, and leadership development",
-      "url": "http://urn.kb.se/resolve?urn=urn:nbn:se:su:diva-238959",
-      "source": "DiVA",
-      "abstract": "Background: Previous research suggests that mindfulness meditation and psychedelic substances show promise as mental health interventions, but relatively little remains known about their potential impact on leadership outcomes.Aims: This study aimed to investigate if and how mindfulness meditation and psychedelic use may impact leadership among respondents with a management position as their primary role at work.Methods: Using samples representative of the US and UK adult populations with regard",
-      "date": "2025-02-03",
-      "authors": [],
-      "doi": ""
-    },
-    {
-      "title": "Alternativa behandlingsmetoder för behandlingsresistent bipolär depression: en litteraturstudie",
-      "url": "http://urn.kb.se/resolve?urn=urn:nbn:se:lnu:diva-135665",
-      "source": "DiVA",
-      "abstract": "Introduktion: Bipolär sjukdom (BD) är en kronisk psykisk störning med återkommande episoder av mani, hypomani och depression. Sjukdomen delas in i två typer: BD-I och BD-II, där maniska och hypomaniska episoder är centrala. Personer med BD har hög självmordsrisk, och behandlingen består ofta av stämningsstabiliserande medel som litium och valproat samt antidepressiva läkemedel. Patienter med bipolär sjukdom kan utveckla behandlingsresistens. Alternativa behandlingar inkluderar psilocybin, ketami",
-      "date": "2025-01-31",
-      "authors": [],
-      "doi": ""
-    },
-    {
-      "title": "Assessing the risk of symptom worsening in psilocybin-assisted therapy for depression : A systematic review and individual participant data meta-analysis",
-      "url": "http://urn.kb.se/resolve?urn=urn:nbn:se:su:diva-219843",
-      "source": "DiVA",
-      "abstract": "We conducted a meta-analysis using individual participant data from three, two-dose psilocybin trials for depression (N = 102) with the aim of assessing the risk of symptom worsening. Clinically significant symptom worsening occurred for a minority of participants in the psilocybin and escitalopram conditions (∼10%) and for a majority of participants in the waitlist condition (63.6%). Using data from the two trials with control arms, the psilocybin arm showed a lower likelihood of symptom worsen",
-      "date": "2023-08-03",
-      "authors": [],
-      "doi": ""
-    },
-    {
-      "title": "Association between Lifetime Classic Psychedelic Use and Sick Leave in a Population-Based Sample",
-      "url": "http://urn.kb.se/resolve?urn=urn:nbn:se:su:diva-210355",
-      "source": "DiVA",
-      "abstract": "Objectives: Absenteeism from work due to illness, and related costs, has increased steadily during the past decades. In recent years, there has been a reemergence of research on the therapeutic effects of classic psychedelics showing associations with both physical and mental health. However, the association between classic psychedelics and sick leave remains unknown. The aim of this study is to investigate the association between lifetime classic psychedelic use and sick leave in the past 30 da",
-      "date": "2022-10-12",
-      "authors": [],
-      "doi": ""
-    },
-    {
-      "title": "Att möta Gud genom psykedeliska substanser : En innehållsanalytisk rapport av psykedeliska substansers effekt på människors livsåskådning och upplevelser av gudsmöten ur ett religionsvetenskapligt perspektiv",
-      "url": "http://urn.kb.se/resolve?urn=urn:nbn:se:kau:diva-74736",
-      "source": "DiVA",
-      "abstract": "Ändamålet med föreliggande rapport har varit att undersöka åtta personliga skildringar för att ta reda på hur deras livsåskådning ser ut efter att ha brukat psykedeliska substanser, samt undersöka huruvida något möte med Gud eller någon annan ”högre makt”, förekom under rusningstiden. För att besvara ändamålet har rapporten brutits ner till två frågeställningar, där den första hanterar vad som händer med livsåskådningen och det andra gudsmötet. För att besvara frågeställningarna har en kvalitati",
-      "date": "2019-09-18",
-      "authors": [],
-      "doi": ""
-    },
-    {
-      "title": "Att negera verkligheten - En utforskning av ontologisk chock och psykedeliska erfarenheter : En översiktsstudie",
-      "url": "http://urn.kb.se/resolve?urn=urn:nbn:se:kau:diva-99980",
-      "source": "DiVA",
-      "abstract": "Background: Psychedelics are currently undergoing a renaissance both within and outside healthcare contexts. There is general agreement that these substances have potential in healthcare, but the risks are still not fully understood. The concept of ontological shock is used sparingly and unclearly, especially for therapeutic purposes. Therefore, we believe there is a knowledge gap to illuminate, which this paper aims to do. Purpose: The purpose of the study is to explore and understand the pheno",
-      "date": "2024-07-01",
-      "authors": [],
-      "doi": ""
-    },
-    {
       "title": "A let-7a-5p-engineered extracellular vesicle-laden bioactive scaffold promotes immunomodulation and regeneration of segmental tracheal defects.",
       "url": "https://doi.org/10.1016/j.bioactmat.2026.10.008",
       "source": "Europe PMC",
@@ -462,6 +370,18 @@
         "Shishido T"
       ],
       "doi": "10.1002/deo2.70402"
+    },
+    {
+      "title": "Pain Management in the Trauma Patient.",
+      "url": "https://doi.org/10.1016/j.emc.2026.07.006",
+      "source": "Europe PMC",
+      "abstract": "Effective pain management in adult trauma patients is essential to improve recovery, reduce complications, and prevent long-term consequences such as chronic pain, depression, and PTSD. Multimodal analgesia combines medications and nonpharmacologic strategies to achieve better pain control while minimizing opioid use and associated risks. Key agents include acetaminophen, nonsteroidal anti-inflammatory agents, ketamine, topical and systemic lidocaine, gabapentinoids, muscle relaxants, and carefully selected opioids when necessary. Pain management should be individualized based on patient factors, including age, comorbidities, traumatic brain injury, and substance use disorders. Early assessment, regular reassessment, and coordinated multidisciplinary care optimize outcomes across trauma settings.",
+      "date": "2026-08-25",
+      "authors": [
+        "Coughlin RF",
+        "Couturier K."
+      ],
+      "doi": "10.1016/j.emc.2026.07.006"
     },
     {
       "title": "Tissue engineering polymeric formulations enable lymphangiogenesis for myocardial repair.",
@@ -516,6 +436,19 @@
       "doi": "10.1016/j.bioactmat.2026.09.006"
     },
     {
+      "title": "Rapid antidepressant-like effects of Chaihu Shugan San in female restraint-stressed mice: involvement of hippocampal TC2N and ERβ-eNOS-CaMKII-BDNF signaling.",
+      "url": "https://doi.org/10.1016/j.jep.2026.122427",
+      "source": "Europe PMC",
+      "abstract": "<h4>Ethnopharmacological relevance</h4>Chaihu Shugan San (CSS), a classical seven-herb formula from the Ming-dynasty text Jing-Yue Quanshu, is widely prescribed for depressive disorders in China. Previous preclinical studies reported antidepressant-like effects only after weeks of repeated administration, mostly in male animals. Whether a single dose of CSS can produce rapid antidepressant-like effects in female animals, and through what mechanism, remains unclear.<h4>Aim of the study</h4>To determine whether a single administration of CSS produces rapid antidepressant-like effects in female mice exposed to chronic restraint stress (CRS), and to explore the underlying hippocampal mechanism.<h4>Methods and materials</h4>CSS quality was controlled by HPLC quantification of four index components. Female CRS mice received a single dose of CSS (1, 2 or 4 g/kg, i. g.) or ketamine (10 mg/kg, i. p.), followed by behavioral testing (tail suspension, forced swimming, sucrose preference and open field tests) within 2-24 h. Hippocampal RNA sequencing, RT-qPCR, Western blotting and ELISA were used to identify and validate candidate targets; hippocampal AAV-mediated TC2N overexpression and pretreatment with the ERβ antagonist acolbifene or the CaMKII inhibitor KN-93 were used for interventional validation.<h4>Results</h4>Batch-to-batch variation of the four index components was below 10% (RSDs 3.51-5.66%), with naringin (313.07 ± 11.16 μg/mL) and hesperidin (196.40 ± 11.11 μg/mL) as the major constituents. Acute administration of CSS (2 and 4 g/kg), like ketamine, shortened immobility time in the tail suspension test at 2 h and in the forced swimming test at 12 h, and restored sucrose preference at 24 h, without affecting locomotor activity. Hippocampal transcriptomics identified Tc2n as up-regulated by CRS and down-regulated by CSS, with Esr2, Nos3 and Camk2a showing the opposite pattern; these changes were confirmed at the mRNA and protein levels within 2 h. Hippocampal TC2N overexpression or pretreatment with acolbifene or KN-93 abolished the rapid behavioral effects of CSS and the associated changes in ERβ-eNOS-CaMKII-BDNF signaling.<h4>Conclusion</h4>CSS produces rapid, ketamine-comparable antidepressant-like behavioral effects in female CRS-exposed mice, accompanied by down-regulation of hippocampal TC2N and involvement of ERβ, eNOS, CaMKII and BDNF. Because only female mice were studied, these findings are specific to females and support an estrogen-linked mechanism that warrants confirmation in male animals and further translational study.",
+      "date": "2026-09-22",
+      "authors": [
+        "Wu L",
+        "Cheng W",
+        "Xiang H"
+      ],
+      "doi": "10.1016/j.jep.2026.122427"
+    },
+    {
       "title": "Barcoded oligonucleotide system (BOLT) for targeted organ delivery.",
       "url": "https://doi.org/10.1016/j.bioactmat.2026.08.058",
       "source": "Europe PMC",
@@ -542,37 +475,11 @@
       "doi": "10.1016/j.bioactmat.2026.08.053"
     },
     {
-      "title": "A modular lentiviral system for multiplexed gene perturbation and functional analysis suggests interdependence of hormone receptors in breast cancer growth in vivo.",
-      "url": "https://doi.org/10.26508/lsa.202603911",
-      "source": "Europe PMC",
-      "abstract": "Precise and flexible control of gene expression is essential for dissecting gene function in complex biological systems. Although recent developments in genetic engineering and CRISPR/Cas9 technology have expanded tools for gene activation, suppression, and editing, their application in physiologically relevant models remains challenging, time-consuming, and expensive. Here, we present a modular, doxycycline-inducible vector system that integrates gene overexpression, shRNA-mediated knockdown, and CRISPR/Cas9-mediated regulation within a single, lentivirus-compatible system. The modular design allows rapid exchange of selection markers, epitope tags, and reporters via Gateway cloning, providing broad adaptability across experimental settings. In addition to standard fluorescent and luminescent reporters, the system includes advanced sensors, such as Fucci cell cycle reporters, to enable monitoring of cellular processes. By combining fluorescence barcoding with combinatorial genetic perturbations, the platform supports multiplexed analysis of gene function and genetic interactions through phenotypic characterization by fluorescence imaging or flow cytometry. We demonstrate its utility in vivo with breast cancer intraductal xenografts, which suggest that ER+ breast cancer cells (MCF7) rely on androgen, estrogen, and progesterone receptors for in vivo growth. This versatile gene perturbation system provides tight temporal control, streamlined implementation, and high-content phenotyping capacity facilitating efficient in vitro and in vivo studies while reducing the use of animals in in vivo validation experiments. It thus expands the experimental repertoire for dynamic, multigene interrogation in complex systems.",
-      "date": "2026-11-05",
-      "authors": [
-        "Alam S",
-        "Matvienko D",
-        "Boström J"
-      ],
-      "doi": "10.26508/lsa.202603911"
-    },
-    {
-      "title": "ATM inhibition attenuates ferroptosis-associated injury and reduces infarct volume in experimental stroke.",
-      "url": "https://doi.org/10.70401/fos.2026.0046",
-      "source": "Europe PMC",
-      "abstract": "<h4>Aims</h4>Ferroptosis, an iron-dependent form of regulated cell death, contributes to neuronal injury after ischemic stroke. Because our previous cancer-cell screens identified ataxia-telangiectasia mutated (ATM) kinase, as a ferroptosis regulator, we investigated whether ATM inhibition protects neural tissue after ischemic stroke and examined determinants of therapeutic response.<h4>Methods</h4>ATM inhibitors, including the brain-penetrant clinical compound AZD1390, were evaluated in cultured cancer and neuronal cells, oxygen-glucose-deprived rat and mouse brain slices, and permanent middle cerebral artery occlusion models using multiple inbred and Rabep2-genotype mouse strains. Cell viability, cytotoxicity, lipid peroxidation, ferroptosis-associated markers, infarct volume, and collateral vessel density were assessed. Topical AZD1390 was also tested in mice with impaired collateral networks.<h4>Results</h4>ATM inhibition reduced ferroptosis-associated lipid oxidative injury and protected neurons in multiple preclinical stroke models. AZD1390 decreased lipid peroxidation and neuronal death, and reduced infarct volume in B6/J and B6/NJ mice, but not in BALB mice. Treatment efficacy varied among strains and was correlated with collateral vascular density. Systemic AZD1390 was likewise ineffective in Rabep2-knockout mice with deficient collateral networks. Early topical administration also reduced infarct volume in mice with limited collateral networks; however, differences in treatment timing and route preclude direct attribution to improved local drug delivery.<h4>Conclusion</h4>ATM inhibition may attenuate ferroptosis-associated neuronal injury after ischemic stroke, while collateral vascular anatomy may influence therapeutic response. These findings support further mechanistic and translational evaluation of ferroptosis-targeting strategies in stroke.",
-      "date": "2026-09-22",
-      "authors": [
-        "Lee HK",
-        "Lin CC",
-        "Dunn DE"
-      ],
-      "doi": "10.70401/fos.2026.0046"
-    },
-    {
       "title": "CZ",
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2018-004480-31/CZ",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-11-16",
+      "date": "2026-11-17",
       "authors": [],
       "doi": ""
     },
@@ -581,7 +488,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2020-005037-32/CZ",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-11-16",
+      "date": "2026-11-17",
       "authors": [],
       "doi": ""
     },
@@ -590,7 +497,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2021-002909-10/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-11-16",
+      "date": "2026-11-17",
       "authors": [],
       "doi": ""
     },
@@ -599,7 +506,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2015-000550-37/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-11-16",
+      "date": "2026-11-17",
       "authors": [],
       "doi": ""
     },
@@ -608,7 +515,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2021-000041-40/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-11-16",
+      "date": "2026-11-17",
       "authors": [],
       "doi": ""
     },
@@ -617,7 +524,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2020-000829-55/DK",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-11-16",
+      "date": "2026-11-17",
       "authors": [],
       "doi": ""
     },
@@ -626,7 +533,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2020-002790-94/SE",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-11-16",
+      "date": "2026-11-17",
       "authors": [],
       "doi": ""
     },
@@ -635,7 +542,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2021-006200-33/FI",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-11-16",
+      "date": "2026-11-17",
       "authors": [],
       "doi": ""
     },
@@ -644,7 +551,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2019-004812-73/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-11-16",
+      "date": "2026-11-17",
       "authors": [],
       "doi": ""
     },
@@ -653,7 +560,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2022-002369-14/BE",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-11-16",
+      "date": "2026-11-17",
       "authors": [],
       "doi": ""
     },

@@ -3,13 +3,13 @@
     "PubMed": {
       "error_streak": 0,
       "zero_streak": 0,
-      "last_ok": "2026-11-17",
+      "last_ok": "2026-11-18",
       "alerted": false,
       "last_error": ""
     },
     "Semantic Scholar": {
       "error_streak": 0,
-      "zero_streak": 137,
+      "zero_streak": 138,
       "last_ok": "",
       "alerted": false,
       "last_error": ""
@@ -17,38 +17,38 @@
     "Psychedelic Alpha": {
       "error_streak": 0,
       "zero_streak": 0,
-      "last_ok": "2026-11-17",
+      "last_ok": "2026-11-18",
       "alerted": false,
       "last_error": ""
     },
     "DiVA": {
-      "error_streak": 1,
-      "zero_streak": 1,
-      "last_ok": "2026-11-16",
-      "alerted": false,
-      "last_error": "HTTPSConnectionPool(host='www.diva-portal.org', port=443): Read timed out. (read timeout=20)"
-    },
-    "Europe PMC": {
       "error_streak": 0,
       "zero_streak": 0,
-      "last_ok": "2026-11-17",
+      "last_ok": "2026-11-18",
       "alerted": false,
       "last_error": ""
+    },
+    "Europe PMC": {
+      "error_streak": 1,
+      "zero_streak": 1,
+      "last_ok": "2026-11-17",
+      "alerted": false,
+      "last_error": "HTTPSConnectionPool(host='www.ebi.ac.uk', port=443): Read timed out. (read timeout=20)"
     },
     "EU Clinical Trials Register": {
       "error_streak": 0,
       "zero_streak": 0,
-      "last_ok": "2026-11-17",
+      "last_ok": "2026-11-18",
       "alerted": false,
       "last_error": ""
     },
     "OpenAIRE": {
       "error_streak": 0,
       "zero_streak": 0,
-      "last_ok": "2026-11-17",
+      "last_ok": "2026-11-18",
       "alerted": false,
       "last_error": ""
     }
   },
-  "last_updated": "2026-11-17T15:29:03.860043+00:00"
+  "last_updated": "2026-11-18T15:04:20.229734+00:00"
 }

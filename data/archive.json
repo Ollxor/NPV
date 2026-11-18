@@ -1,6 +1,46 @@
 {
   "items": [
     {
+      "title": "Psychedelic experience intensity during ketamine treatment and antidepressant outcomes.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43045823/",
+      "source": "PubMed",
+      "date": "2026-11-18",
+      "authors": [
+        "Mathai David S",
+        "Goldy Sean P",
+        "Hull Thomas D"
+      ],
+      "doi": "10.1007/s00213-026-07219-0",
+      "summary_en": "Retrospective study of 3,637 adults with moderate-to-severe depression receiving up to 4 sublingual ketamine doses over 4 weeks. Subjective psychedelic intensity at midpoint (week 2), measured via the 5-item Mindbloom Psychedelic Intensity scale, was independently associated with greater depression symptom reduction, clinically significant improvement, and positive treatment trajectories at week 4.",
+      "notable": true,
+      "notable_reason": "Large retrospective cohort study (n=3,637) examining subjective phenomenology as a predictor of antidepressant outcomes, addressing an understudied mechanistic question in ketamine psychiatry.",
+      "study_type": "observational",
+      "substances": [
+        "ketamine"
+      ],
+      "added_at": "2026-11-18T15:52:41.200782+00:00"
+    },
+    {
+      "title": "Associations between use of psychedelic drugs and subsequent unhealthy alcohol use: a prospective cohort study of young Swiss men.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43045150/",
+      "source": "PubMed",
+      "date": "2026-11-17",
+      "authors": [
+        "Ciccone Clement",
+        "Bertholet Nicolas",
+        "Deligianni Marianthi Lousiana"
+      ],
+      "doi": "10.1136/bmjopen-2026-119042",
+      "summary_en": "Prospective cohort study examining associations between psychedelic use and subsequent unhealthy alcohol consumption in young Swiss men. The study tracks temporal relationships to clarify whether psychedelic use predicts later problematic drinking patterns in this population.",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "observational",
+      "substances": [
+        "other"
+      ],
+      "added_at": "2026-11-18T15:52:41.200782+00:00"
+    },
+    {
       "title": "Breaking: Helus’ Deuterated Psilocin Hits Primary Endpoint in First Phase 3",
       "url": "https://psychedelicalpha.com/news/breaking-helus-deuterated-psilocin-hits-primary-endpoint-in-first-phase-3/",
       "source": "Psychedelic Alpha",

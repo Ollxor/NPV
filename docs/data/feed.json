@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-17T16:19:52.609639+00:00",
+  "generated_at": "2026-11-18T15:53:12.079271+00:00",
   "items": [
     {
       "title": "Determination of Tryptamines in Biological Specimens.",
@@ -32,6 +32,78 @@
         "other"
       ],
       "added_at": "2026-11-02T16:23:16.533919+00:00"
+    },
+    {
+      "title": "Psychedelic experience intensity during ketamine treatment and antidepressant outcomes.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43045823/",
+      "source": "PubMed",
+      "date": "2026-11-18",
+      "authors": [
+        "Mathai David S",
+        "Goldy Sean P",
+        "Hull Thomas D"
+      ],
+      "doi": "10.1007/s00213-026-07219-0",
+      "summaries": {
+        "en": "Retrospective study of 3,637 adults with moderate-to-severe depression receiving up to 4 sublingual ketamine doses over 4 weeks. Subjective psychedelic intensity at midpoint (week 2), measured via the 5-item Mindbloom Psychedelic Intensity scale, was independently associated with greater depression symptom reduction, clinically significant improvement, and positive treatment trajectories at week 4.",
+        "sv": "Retrospektiv studie av 3 637 vuxna med måttlig till svår depression som fick upp till 4 doser sublingvalt ketamin under 4 veckor. Subjektiv psykedelisk intensitet vid behandlingens mittpunkt (vecka 2), mätt med Mindbloom Psychedelic Intensity-skalan, var oberoende associerad med större depressionsreduktion och större sannolikhet för kliniskt signifikant förbättring.",
+        "no": "Retrospektiv studie av 3 637 voksne med moderat til alvorlig depresjon som fikk opptil 4 doser sublingual ketamin over 4 uker. Subjektiv psykedelisk intensitet ved behandlingens midtpunkt (uke 2), målt med Mindbloom Psychedelic Intensity-skalaen, var uavhengig assosiert med større depresjonsreduksjon og større sannsynlighet for klinisk signifikant forbedring.",
+        "da": "Retrospektiv studie af 3.637 voksne med moderat til alvorlig depression, som modtog op til 4 doser sublingual ketamin over 4 uger. Subjektiv psykedelisk intensitet ved behandlingens midtpunkt (uge 2), målt med Mindbloom Psychedelic Intensity-skalaen, var uafhængigt associeret med større depressionsfald og større sandsynlighed for klinisk signifikant forbedring.",
+        "fi": "Retrospektiivinen tutkimus 3 637 keskivaikeasta tai vaikeasta masennuksesta kärsivältä aikuiselta, jotka saivat enintään 4 annosta sublingvaalista ketamiinia 4 viikon aikana. Psykedeelis kokemuksen subjektiivinen intensiteetti hoidon puolivälin kohdalla (viikko 2), mitattu Mindbloom Psychedelic Intensity -asteikolla, oli riippumattomasti yhteydessä suurempaan masennuksen oireista helpottumiseen.",
+        "is": "Retrospektíf rannsókn með 3.637 fullorðnum með meðalöng til alvarlega þunglyndi sem fengu allt að 4 skammta af sublingual ketamíni yfir 4 vikur. Huglæg sálkirknutimenningin við miðpunkt meðferðar (vika 2), mæld með Mindbloom Psychedelic Intensity-kvarðanum, var óháð tengd meiri minnkun á þunglyndiseinkennum og meiri líkum á klínískt marktækri bætingu.",
+        "et": "Retrospektiivne uuring 3 637 keskelt kuni raskelt depressiooni põdevast täiskasvanust, kes said 4 nädala jooksul kuni 4 doosi sublingvaalset ketamiini. Psühhedeelikate kogemuse subjektiivne intensiivsus ravi poolelolekul (nädal 2), mõõdetuna Mindbloom Psychedelic Intensity skaalaga, oli sõltumatu seotus suurema depressiooni sümptomite vähenemine ja suurema kliiniliselt olulise paranemise tõenäosusega.",
+        "lv": "Retrospektīvs pētījums ar 3 637 pieaugušajiem ar vidēju līdz smaganu depresiju, kuri saņēma līdz 4 ketamīna sublinguālajām devām 4 nedēļu laikā. Psihedēliskā pieredzes subjektīvais intensitāte ārstēšanas viduspunktā (2. nedēļa), mērīts Mindbloom Psychedelic Intensity skalā, bija neatkarīgi saistīts ar lielāku depresijas smaguma samazināšanos un lielāku klīniski nozīmīgas uzlabošanās iespējamību.",
+        "lt": "Retrospektyvi studija su 3 637 suaugusiais, turinčiais vidutinę ar sunkią depresiją, kurie gavo iki 4 ketamino sublingualinius dozes per 4 savaites. Psichedelinės patirties subjektyvus intensyvumas gydymo viduryje (2 savaitė), matuojamas Mindbloom Psychedelic Intensity skale, buvo nepriklausomai susijęs su didesniu depresijos simptomų sumažėjimu ir didesnė klinikinai reikšmingu pagerėjimu tikimybe."
+      },
+      "notable": true,
+      "notable_reasons": {
+        "en": "Large retrospective cohort study (n=3,637) examining subjective phenomenology as a predictor of antidepressant outcomes, addressing an understudied mechanistic question in ketamine psychiatry.",
+        "sv": "Stor retrospektiv kohortstudie (n=3,637) som undersöker subjektiv fenomenologi som prediktor för antidepressiva utfall och behandlar en understuderad mekanistisk fråga inom ketamin-psykiatri.",
+        "no": "Stor retrospektiv kohortstudie (n=3,637) som undersøker subjektiv fenomenologi som prediktor for antidepressiva utfall, og adresserer et lite studert mekanistisk spørsmål innen ketamin-psykiatri.",
+        "da": "Stor retrospektiv kohortstudie (n=3,637) der subjektiv fænomenologi undersøges som prediktor for antidepressiva-resultater, og som behandler et lidt studeret mekanistisk spørgsmål inden for ketamin-psykiatri.",
+        "fi": "Suuri retrospektiivinen kohorttitutkimus (n=3,637), joka tutkii subjektiivista fenomenologiaa antidepressiivisten tulosten ennustajaksi ja käsittelee vähän tutkittua mekanistista kysymystä ketamiinipsykiatriassa.",
+        "is": "Stór afturvirk samanburðarrannsókn (n=3,637) sem skoðar huglæga fyrirbærafræði sem forspá fyrir niðurstöðum geðrofa lyfja og fjallar um lítið rannsaka virkjunarmál í ketamín-geðlækningum.",
+        "et": "Suur retrospektiivne kohortuuring (n=3,637), mis uuritakse subjektiivset fenomenoloogiat antidepressantide tulemuste ennustajana, käsitletakse vähestudeeritud mehaanilist küsimust ketamiini psühhiaatrias.",
+        "lv": "Liela retrospektīva kohortas pētījuma (n=3,637), kas pārbauda subjektīvo fenomenoloģiju kā antidepresantu rezultātu prognozētāju, risina maz pētītu mehānismu jautājumu ketamīna psihiatrijas jomā.",
+        "lt": "Didelė retrospektyvi kohortos studija (n=3,637), kurioje subjektyvi fenomenologija nagrinėjama kaip antidepresantų rezultatų prognozė, sprendžiant mažai tyrinėtą mechanistinį klausimą ketamino psichiatrrijoje."
+      },
+      "relevance_score": 4,
+      "study_type": "observational",
+      "substances": [
+        "ketamine"
+      ],
+      "added_at": "2026-11-18T15:52:41.200782+00:00"
+    },
+    {
+      "title": "Associations between use of psychedelic drugs and subsequent unhealthy alcohol use: a prospective cohort study of young Swiss men.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43045150/",
+      "source": "PubMed",
+      "date": "2026-11-17",
+      "authors": [
+        "Ciccone Clement",
+        "Bertholet Nicolas",
+        "Deligianni Marianthi Lousiana"
+      ],
+      "doi": "10.1136/bmjopen-2026-119042",
+      "summaries": {
+        "en": "Prospective cohort study examining associations between psychedelic use and subsequent unhealthy alcohol consumption in young Swiss men. The study tracks temporal relationships to clarify whether psychedelic use predicts later problematic drinking patterns in this population.",
+        "sv": "Prospektiv kohortestudie som undersöker samband mellan användning av psykedelika och senare ohälsosam alkoholkonsumtion hos unga schweiziska män. Studien kartlägger tidssamband för att klargöra om psykedelikaanvändning förutsäger senare problematisk alkoholöverförbrukning.",
+        "no": "Prospektiv kohortestudie som undersøker forholdet mellom bruk av psykedelika og senere usunt alkoholforbruk hos unge sveitsiske menn. Studien kartlegger tidsmessige sammenhenger for å avklare om psykedelikabruk kan forutsi senere problematisk alkoholbruk.",
+        "da": "Prospektiv kohortstudie, der sammenhanget mellem brug af psykedelika og efterfølgende usundt alkoholforbrug blandt unge schweiziske mænd undersøges. Studien kortlægger tidsforløb for at præcisere, om psykedelikabrug forudsiger senere problematisk alkoholmisbrug.",
+        "fi": "Prospektiivinen kohorttitutkimus, joka tarkastelee psykedeelikäytön ja myöhemmän epäterveellisen alkoholinkäytön yhteyttä nuorilla sveitsiläisillä miehillä. Tutkimus kartoittaa ajallisia yhteyksiä selvittääkseen, ennustaako psykedeelikäyttö myöhempää ongelmallista alkoholinkäyttöä.",
+        "is": "Framtíðarannsókn sem kannar tengsl á milli notkunar sálkennandi efna og síðari óheilbrigðra áfengisnotkunar hjá ungum svissneska körlum. Rannsóknin kortleggur tímabundna tengsl til að skýra hvort notkun sálkennandi efna spáir fyrir um síðari erfið áfengisnotkun.",
+        "et": "Prospektiivne kohortuuring, mis uurib psühhedeelikute kasutamise ja hilisema tervisetu alkoholitarbimise vahelist seost noorte Šveitsi meeste seas. Uuring kaardistab ajalisi seoseid, et selgitada, kas psühhedeelikute kasutamine ennustab hilisemat probleemset alkoholitarbimist.",
+        "lv": "Prospektīvs kohortas pētījums, kas pēta psihedeliku lietošanas un vēlākā neatveselīgā alkohola lietošanas saistību jaunus Šveices vīrieši vidū. Pētījums kartē laika sakarības, lai noskaidrotu, vai psihedeliku lietošana prognozē vēlāku problēmisku alkohola lietošanu.",
+        "lt": "Prospektyvus kohortinis tyrimas, kuriame nagrinėjama psichedelikų vartojimo ir vėlesnio nesveiko alkoholio vartojimo sąsaja tarp jaunų šveicarų vyrų. Tyrimas nustato laiko ryšius, siekdamas išaiškinti, ar psichedelikų vartojimas numatvdo vėlesnį probleminį alkoholio vartojimą."
+      },
+      "notable": false,
+      "notable_reasons": null,
+      "relevance_score": 3,
+      "study_type": "observational",
+      "substances": [
+        "other"
+      ],
+      "added_at": "2026-11-18T15:52:41.200782+00:00"
     },
     {
       "title": "Breaking: Helus’ Deuterated Psilocin Hits Primary Endpoint in First Phase 3",
@@ -1870,68 +1942,6 @@
       "notable": false,
       "notable_reasons": null,
       "relevance_score": 4,
-      "study_type": "other",
-      "substances": [
-        "ketamine"
-      ],
-      "added_at": "2026-10-19T13:45:26.493638+00:00"
-    },
-    {
-      "title": "Investigation of the pharmacological and circuit basis for psychedelic drug effects on interval timing in mice.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42894023/",
-      "source": "PubMed",
-      "date": "2026-10-19",
-      "authors": [
-        "Klein Landon M",
-        "Kopelman Jared",
-        "Sharp Richard F"
-      ],
-      "doi": "10.1007/s00213-026-07181-x",
-      "summaries": {
-        "en": "Mouse study examined how psilocin alters interval timing using temporal discrimination tasks. At 0.8 mg/kg, psilocin reduced timing accuracy and precision similarly to DOI, effects blocked by 5-HT2A antagonism. Medial prefrontal cortex involvement suggests this region mediates psychedelic-induced temporal perception changes.",
-        "sv": "Möss exponerades för psilocin i en tidsdiskriminationsuppgift. Vid 0,8 mg/kg försämrade psilocin tidsnoggrannhet och precision på samma sätt som DOI, effekter som blockerades av 5-HT2A-antagonism. Resultaten tyder på att medianal prefrontal cortex förmedlar psykedelikas påverkan på tidsuppfattning.",
-        "no": "Museundersøkelse av hvordan psilocin endrer tidsintervalloppfattelse. Ved 0,8 mg/kg reduserte psilocin tidsnøyaktighet og presisjon tilsvarende DOI, effekter blokkert av 5-HT2A-antagonisme. Medial prefrontal cortex ser ut til å formidle psykedelikas virkning på tidsperepsjon.",
-        "da": "Musetudie undersøgte, hvordan psilocin ændrer tidsintervalperception. Ved 0,8 mg/kg reducerede psilocin tidsnøjagtighed og præcision som DOI, effekter blokeret af 5-HT2A-antagonisme. Medial præfrontal cortex formidler tilsyneladende psykedelikaers påvirkning af tidsperception.",
-        "fi": "Hiiritutkimus selvitti, kuinka psilosiini muuttaa aikavälin havaitsemista. Annoksella 0,8 mg/kg psilosiini vähensi aika-akuiteettia ja tarkkuutta vastaavasti kuin DOI, vaikutukset estettiin 5-HT2A-antagonismilla. Mediaali prefrontaaliset aivokuori näyttää välittävän psykedeliikan vaikutuksia ajankulun hahmottamiseen.",
-        "is": "Rannsókn á hvernig psilósín breytir tíðskila hjá mishöldum. Við 0,8 mg/kg minnkaði psilósín tíðnæmi og nákvæmni svipað og DOI, áhrif sem voru stöðvuð með 5-HT2A-mótefni. Miðlægur beinarstirni virðist miðla áhrifum geðhreyfingjamanna á tíðskila.",
-        "et": "Hiirte uuringus uuriti, kuidas psilotsiiin muudab ajaintervalide tajumist. Annusel 0,8 mg/kg vähendasid psilotsiiin ajaline täpsus ja presitsion sarnaselt DOI-le, mida takistasid 5-HT2A-antagonistid. Mediaalne prefrontaalne korteks näib olevat psühhedeelikumide mõju ajapertseptsioonile vahendavaks.",
-        "lv": "Peles pētījums pārbaudīja, kā psilocīns maina intervāla laika uztveri. Pie 0,8 mg/kg psilocīns samazināja laika precizitāti un precizitāti līdzīgi kā DOI, efektus bloķēja 5-HT2A antagonisti. Mediālā prefrontālā garozā varētu būt nozīme psihedeliku ietekmes uz laika uztveri starpniecībai.",
-        "lt": "Pelių tyrimas ištyrė, kaip psilocinas keičia intervalų laiko suvokimą. Esant 0,8 mg/kg, psilocinas sumažino laiko tikslumą ir tiesumą panašiai kaip DOI, efektai buvo užblokuoti 5-HT2A antagonistais. Mediaalinė prefrontalinė žievė tikriausiai tarpininkauja psichedelikų poveikiui laiko suvokimui."
-      },
-      "notable": false,
-      "notable_reasons": null,
-      "relevance_score": 4,
-      "study_type": "preclinical",
-      "substances": [
-        "psilocybin"
-      ],
-      "added_at": "2026-10-19T13:45:26.493638+00:00"
-    },
-    {
-      "title": "Buprenorphine Following Ketamine for Suicidal Ideation: A Bridge to Care from the Emergency Department.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42894304/",
-      "source": "PubMed",
-      "date": "2026-10-19",
-      "authors": [
-        "Thomas Ynhi T",
-        "Maguire Lindsay",
-        "Warrick Brandon J"
-      ],
-      "doi": "10.1176/appi.ajp.20260540",
-      "summaries": {
-        "en": "Study examines sequential use of ketamine followed by buprenorphine for acute suicidal ideation in emergency department settings. This approach aims to bridge immediate crisis intervention with sustained opioid-based treatment in vulnerable populations.",
-        "sv": "Studien undersöker sekventiell användning av ketamin följt av buprenorfin för akut suicidal ideation på akutmottagningar. Metoden syftar till att överbrygga omedelbar krisstöd med långsiktig opioidbaserad behandling.",
-        "no": "Studien undersøker sekvensiell bruk av ketamin etterfulgt av buprenorfin for akutt suicidal ideation på legevakten. Tilnærmingen søker å bygge bro mellom umiddelbar kriseintersaksjon og vedvarende opioidbasert behandling.",
-        "da": "Studien undersøger sekventiel anvendelse af ketamin efterfulgt af buprenorphin til akut suicidal ideation på skadestuen. Metoden sigter mod at forbinde umiddelbar kriseindsats med vedvarende opioidbaseret behandling.",
-        "fi": "Tutkimuksessa tarkastellaan ketamiinin ja buprenorfiinin peräkkäistä käyttöä akuutin itsemurhaisuuden hallintaan päivystyksessä. Lähestymistapa pyrkii yhdistämään välittömän kriisin hoidon pitkäaikaiseen opioidipohjaisen hoitoon.",
-        "is": "Rannsóknin skoðar röð notkun ketamíns og buprenorfíns við bráða sjálfsmorðshættu á bráðamóttöku. Þessi aðferð miðar að því að tengja tafarlausa kreppumeðferð við viðvarandi opioid-undirstaða meðferð.",
-        "et": "Uuring uurib ketamiini ja buprenorfiini järjestikust kasutamist itsemõrvahimu akuutsel juhtudel erakorralise abi osakondades. Lähenemisviis eesmärgiks on ühendada kohene kriisisekkumine jätkusuutliku opioidipõhise raviga.",
-        "lv": "Pētījumā pārbaudīta ketamīna un buprenorfīna secīga lietošana akūtas pašnāvniecības ideju gadījumos neatliekamās palīdzības nodaļās. Pieeja mērķē savienot tūlītēju krīzes iejaukšanos ar ilgstošu opioidiem balstītu ārstēšanu.",
-        "lt": "Tyrime tiriama ketamino ir buprenorfino nuosekli vartosena dėl akutaus savižudybės pageidavimo skubios pagalbos skyriuose. Šis metodas siekia sujungti tiesioginę krizės intervenciją su tęstine opioidais paremta gydymo."
-      },
-      "notable": false,
-      "notable_reasons": null,
-      "relevance_score": 3,
       "study_type": "other",
       "substances": [
         "ketamine"

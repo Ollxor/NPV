@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T15:53:12.079271+00:00",
+  "generated_at": "2026-11-19T15:58:32.403642+00:00",
   "items": [
     {
       "title": "Determination of Tryptamines in Biological Specimens.",
@@ -32,6 +32,99 @@
         "other"
       ],
       "added_at": "2026-11-02T16:23:16.533919+00:00"
+    },
+    {
+      "title": "Clinical Factors Associated With Response and Outcomes in Intravenous Ketamine Treatment for Depression: Insights From a Real-World Retrospective Study.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43049600/",
+      "source": "PubMed",
+      "date": "2026-11-19",
+      "authors": [
+        "Vichitkunakorn Thornthep",
+        "Rungnirundorn Teerayuth",
+        "Chiddaycha Mayteewat"
+      ],
+      "doi": "10.1097/JCP.0000000000002302",
+      "summaries": {
+        "en": "Retrospective study of 90 patients receiving subanesthetic ketamine infusions (2019-2023) identified predictors of treatment response for depression. 35 patients (39%) showed clinical response (≥50% MADRS reduction). Baseline suicidality and comorbid anxiety disorder significantly predicted response. Each additional session reduced depression and suicidality scores. Side effects were more common in nonresponders, suggesting baseline suicidality and anxiety as important selection criteria.",
+        "sv": "Retrospektiv studie av 90 patienter som fick subanesteisk ketamininfusion (2019-2023) identifierade prediktorer för behandlingsrespons vid depression. 35 patienter (39%) visade klinisk respons (≥50% MADRS-minskning). Baseline suicidalitet och komorbid ångeststörning förutsåg respons signifikant. Varje ytterligare session minskade deprimerings- och suicidalitetsvärden. Biverkningar var vanligare hos icke-respondenter, vilket föreslår baseline suicidalitet och ångest som viktiga urvalskriterier.",
+        "no": "Retrospektiv studie av 90 pasienter som fikk subanæstetisk ketaminfusion (2019-2023) identifiserte prediktorer for behandlingsrespons ved depresjon. 35 pasienter (39%) viste klinisk respons (≥50% MADRS-reduksjon). Baseline suicidalitet og komorbid angststørrelse predikerte respons signifikant. Hver ekstra sesjon reduserte deprasjons- og suicidalitetsskårer. Bivirkninger var vanligere hos non-respondenter, som foreslår baseline suicidalitet og angst som viktige utvelgelseskriterier.",
+        "da": "Retrospektiv studie af 90 patienter, der fik subanæstetisk ketaminfusion (2019-2023), identificerede prædiktorer for behandlingsrespons ved depression. 35 patienter (39%) viste klinisk respons (≥50% MADRS-reduktion). Baseline selvmordsfarlighed og komorbidittet angststørrelse prædikterede signifikant respons. Hver ekstra session reducerede deprimeringsscorer og selvmordsfarlighed. Bivirkninger var hyppigere hos non-respondenter, hvilket foreslår baseline selvmordsfarlighed og angst som vigtige udvalgskriterier.",
+        "fi": "Retrospektiivinen tutkimus 90 potilaasta, joille annettiin subanesteetista ketamiinin infuusiota (2019-2023), tunnisti ennustajia masennuksen hoitovastetta. 35 potilasta (39%) osoitti kliinisen vasteen (≥50% MADRS-vähenemä). Lähtötilanteen itsemurhariski ja samanaikainen ahdistuneisuushäiriö ennustivat vastetta merkitsevästi. Jokainen lisäistunto vähensi masennuksen ja itsemurhariski-pisteitä. Sivuvaikutukset olivat yleisempiä ei-vastanneiden keskuudessa, mikä viittaa lähtötilanteen itsemurhaariskiin ja ahdistukseen tärkeinä valintakriteereinä.",
+        "is": "Endurkönnun rannsókn á 90 sjúklingum sem fengu undirdrotnandi ketamín-innrennsli (2019-2023) greindi spágildi fyrir meðferðaviðbrögð við þunglyndi. 35 sjúklingar (39%) sýndu klíníska viðbrögð (≥50% MADRS-minnkun). Upphafsáhætta á sjálfsmorði og samhliða kvíðaröskun spáðu fyrir viðbrögðum marktækt. Hver viðbótarlota minnkaði þunglyndis- og sjálfsmorðsáhættuprjón. Aukaverkanir voru algengar meðal þeirra sem ekki svöruðu, sem bendir til þess að upphafsáhætta og kvíði séu mikilvæg valviðmið.",
+        "et": "Tagantjärele uuring 90 patsiendil, kes said subanesteetilisi ketamiini infuusioone (2019-2023), tuvastati depressiooni ravi vastuse ennustajad. 35 patsiendil (39%) oli kliiniline vastus (≥50% MADRS vähenemine). Algset suitsidiaalset riski ja kaasuvat ärevushäiret seostati märkimisväärselt ravivastusega. Iga täiendav seanss vähendas märkimisväärselt depressiooni ja suitsidaalse riski skoorid. Kõrvaltoimeid esines sagedasemalt mittevastanuteil, mis viitab algse suitsidaalse riski ja ärevuse olulisusele valikukriteeriumidena.",
+        "lv": "Retrospektīvs pētījums ar 90 pacientiem, kuri saņēma subanestēzisku ketamīna infūzijas (2019-2023), identificēja prognostiskos faktorus depresijas ārstēšanas atbildei. 35 pacientiem (39%) bija klīniska atbilde (≥50% MADRS samazinājums). Sākotnējais pašnāvniecības risks un blakus esoša trauksmes traucējums ļoti būtiski prognozēja atbildi. Katra papildu sesija ievērojami samazināja depresijas un pašnāvniecības riska rādītājus. Blakusparādības bija biežākas pacientiem bez atbildes, kas norāda uz sākotnējā pašnāvniecības riska un trauksmes nozīmi atlases kritērijos.",
+        "lt": "Retrospektyvus tyrimas su 90 pacientų, gavusių subanestezinę ketamino infuziją (2019-2023), nustatė depresijos gydymo atsakymo prediktyvuosius veiksnius. 35 pacientams (39%) buvo klininis atsakas (≥50% MADRS sumažėjimas). Pradinis savižudybės rizika ir lydinčias nerimo sutrikimas reikšmingai prognozavo atsaką. Kiekviena papildoma sesija reikšmingai sumažino depresijos ir savižudybės rizikos balus. Šalutiniai poveikiai dažniau pasireiškė neatsako patyrusių ligonių grupėje, o tai rodo pradinio savižudybės riziko ir nerimo reikšmę pasirenkant kandidatus."
+      },
+      "notable": false,
+      "notable_reasons": null,
+      "relevance_score": 4,
+      "study_type": "observational",
+      "substances": [
+        "ketamine"
+      ],
+      "added_at": "2026-11-19T15:56:36.654780+00:00"
+    },
+    {
+      "title": "Maintenance ketamine infusions for treatment-resistant bipolar depression: An open-label extension trial.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43051162/",
+      "source": "PubMed",
+      "date": "2026-11-18",
+      "authors": [
+        "Johnson Danica E",
+        "Orsini Diana K",
+        "Vasudeva Shreya"
+      ],
+      "doi": "10.1016/j.medj.2026.101361",
+      "summaries": {
+        "en": "Open-label 12-week extension trial of maintenance ketamine infusions in 36 treatment-resistant bipolar depression patients. Participants received up to 6 flexible doses (0.5-1.0 mg/kg) after responding to induction ketamine. MADRS depression scores improved significantly (19.8→15.6, p=0.009), with response rates increasing from 33.3% to 50% and remission from 27.8% to 36.1%. Suicidal ideation decreased from 54.3% to 20.7%.",
+        "sv": "Open-label 12-veckors förlängningsstudie av underhållsbehandling med ketamin hos 36 patienter med behandlingsresistent bipolär depression. Deltagarna fick upp till 6 flexibel doserade infusioner (0.5-1.0 mg/kg) efter respons på induktionsketamin. MADRS-poäng förbättrades signifikant (19.8→15.6, p=0.009), svarsfrekvensen ökade från 33.3% till 50% och remissionen från 27.8% till 36.1%. Suicidal ideation minskade från 54.3% till 20.7%.",
+        "no": "Åpen 12-ukers forlengelsesstudie av vedlikeholdsketamin hos 36 pasienter med behandlingsresistent bipolar depresjon. Deltakerne fikk opptil 6 fleksibelt doserte infusjoner (0.5-1.0 mg/kg) etter respons på induktiv ketamin. MADRS-depresjonsskår forbedret seg signifikant (19.8→15.6, p=0.009), responsrate økte fra 33.3% til 50% og remisjon fra 27.8% til 36.1%. Suicidal ideation redusert fra 54.3% til 20.7%.",
+        "da": "Åben 12-ugers forlængelsestudie af vedligeholdelsesketamin hos 36 patienter med behandlingsresistent bipolar depression. Deltagerne fik op til 6 fleksibelt doserede infusioner (0.5-1.0 mg/kg) efter respons på induktionsketamin. MADRS-depressionsscorer forbedret sig signifikant (19.8→15.6, p=0.009), responsrate steg fra 33.3% til 50% og remission fra 27.8% til 36.1%. Selvmordstanker faldt fra 54.3% til 20.7%.",
+        "fi": "Avoin 12 viikon jatkotutkimus ylläpitoketamiinin käytöstä 36 potilaan hoitoresistenttiin kaksisuuntaiseen masennukseen. Osallistujat saivat jopa 6 joustavasti annosteltua infuusiota (0.5-1.0 mg/kg) ketamiinin induktiovaiheen jälkeen. MADRS-masennuspisteet paranivat merkitsevästi (19.8→15.6, p=0.009), vastausprosentti nousi 33.3%:sta 50%:iin ja remissio 27.8%:sta 36.1%:iin. Itsemurhaajatusten esiintyvyys laski 54.3%:sta 20.7%:iin.",
+        "is": "Opin 12 vikna framlengingarnæmi á viðhaldskítamíni hjá 36 sjúklingum með meðferðaróhæfu tvískiptu þunglyndi. Þátttakendur fengu allt að 6 sveigjanleg inndælingar (0.5-1.0 mg/kg) eftir viðbrögð við upphafskítamíni. MADRS þunglyndisstig batnaðu marktækt (19.8→15.6, p=0.009), svörunarhlutfall jókst frá 33.3% í 50% og fullkomin endalok frá 27.8% í 36.1%. Sjálfsmorðshugsanir lækkuðu frá 54.3% í 20.7%.",
+        "et": "Avatud 12 nädala pikendatud uuring ketamiini hooldusraviga 36 raviresistentse bipolaarsel depressioonil haigetel. Osalejad said kuni 6 paindlikult doositud infusiooni (0.5-1.0 mg/kg) pärast vastust esialgsel ketamiini ravieel. MADRS depressiooninäitajad paranesid märkimisväärselt (19.8→15.6, p=0.009), reageeramisprotsent tõusis 33.3%-lt 50%-le ja remissioon 27.8%-lt 36.1%-le. Enesetapumõtted vähenesid 54.3%-lt 20.7%-le.",
+        "lv": "Atklāts 12 nedēļu pagarinājuma pētījums par ketamīna uzturošo terapiju 36 pacientiem ar ārstēšanai rezistentru bipolāro depresiju. Dalībnieki saņēma līdz 6 elastīgi dozētām infūzijām (0.5-1.0 mg/kg) pēc atbildes uz ierosinošo ketamīnu. MADRS depresijas rādītāji uzlabojās nozīmīgi (19.8→15.6, p=0.009), atsaucības likme pieauga no 33.3% līdz 50% un remisija no 27.8% līdz 36.1%. Pašnāvnieciskas idejas samazinājās no 54.3% līdz 20.7%.",
+        "lt": "Atvirtas 12 savaičių pratęstos studijos ketamino palaikymo terapija 36 pacientams su atsparia gydymui bipoliarinės depresijos. Dalyviai gavo iki 6 lanksčiai dozuojamų infuzijų (0,5-1,0 mg/kg) po atsako į pradinį ketaminą. MADRS depresijos balai pagerėjo reikšmingai (19,8→15,6, p=0,009), atsakymo dažnis padidėjo nuo 33,3% iki 50%, o remisija nuo 27,8% iki 36,1%. Savižudybinės idėjos sumažėjo nuo 54,3% iki 20,7%."
+      },
+      "notable": false,
+      "notable_reasons": null,
+      "relevance_score": 4,
+      "study_type": "other",
+      "substances": [
+        "ketamine"
+      ],
+      "added_at": "2026-11-19T15:56:36.654780+00:00"
+    },
+    {
+      "title": "Influence of CYP450 Polymorphisms on Analgesic Response to Continuous Ketamine Infusion in Patients with Refractory Migraine: An Exploratory Study.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43049176/",
+      "source": "PubMed",
+      "date": "2026-Nov-18",
+      "authors": [
+        "Owen-Oliner Leah",
+        "Denysenko Lex",
+        "Schwenk Eric S"
+      ],
+      "doi": "10.1002/jcph.70330",
+      "summaries": {
+        "en": "Retrospective study (n=52) examined how CYP450 genetic variants affect ketamine infusion efficacy in refractory migraine. CYP2B6 rapid metabolizers achieved ≥50% pain reduction faster than normal metabolizers (HR 3.21, p=0.007), though final outcomes were similar. CYP3A4/5 phenotype showed no significant association with response timing or pain reduction.",
+        "sv": "Retrospektiv studie (n=52) undersökte hur CYP450-genetiska varianter påverkar ketamininsfusions effektivitet vid refraktär migrän. CYP2B6-snabbmetabolisörer uppnådde ≥50% smärtminskning snabbare än normalmetabolisörer (HR 3,21, p=0,007), men slutresultaten var likartade. CYP3A4/5-fenotyp visade ingen signifikant association med responskimning eller smärtminskning.",
+        "no": "Retrospektiv studie (n=52) undersøkte hvordan CYP450-genetiske varianter påvirker ketamininokse-effektivitet ved refraktær migrene. CYP2B6-hurtigmetaboliserer oppnådde ≥50% smertereduksjon raskere enn normalmetaboliserer (HR 3,21, p=0,007), men sluttresultatet var lignende. CYP3A4/5-fenotype viste ingen signifikant assosiasjon med responstid eller smertereduksjon.",
+        "da": "Retrospektiv studie (n=52) undersøgte, hvordan CYP450-genetiske varianter påvirker ketamininsfusionseffektivitet ved refraktær migræne. CYP2B6-hurtigmetaboliserer opnåede ≥50% smertelindring hurtigere end normalmetaboliserer (HR 3,21, p=0,007), men slutresultatet var lignende. CYP3A4/5-fænotype viste ingen signifikant association med responsetid eller smertelindring.",
+        "fi": "Retrospektiivinen tutkimus (n=52) tutki, kuinka CYP450-geneettiset variantit vaikuttavat ketamiini-infuusion tehokkuuteen refraktaarissa migreeniassa. CYP2B6-nopeametaboloijat saavuttivat ≥50% kivunlievityksen nopeammin kuin normaalimedaboloijat (HR 3,21, p=0,007), mutta lopputulokkeet olivat samanlaisia. CYP3A4/5-fenotyyppi ei osoittanut merkitsevää yhteyttä vastausaikaan tai kivunlievitykseen.",
+        "is": "Endurkönnun rannsókn (n=52) kannaðist við hvernig CYP450-erfðabreytingar hafa áhrif á ketamín-innflautnir við þola migrena. CYP2B6-hraðbreytendur náðu ≥50% verkjaminnkun hraðar en venjulegir breytendur (HR 3,21, p=0,007), en lokaniðurstöður voru svipaðar. CYP3A4/5-erfðaform sýndu ekki marktæka tengingu við svörun eða verkjaminnkun.",
+        "et": "Tagasivaatav uuring (n=52) uuris, kuidas CYP450-geneetilised variandid mõjutavad ketamiini infusioonide tõhusust refraktaarsel migreeniga. CYP2B6-kiiretoimijad saavutasid ≥50% valu vähendamise kiiremini kui tavalised toimijad (HR 3,21, p=0,007), kuid lõpptulemused olid sarnased. CYP3A4/5-fenotüüp näitas märkimisväärset seost reaktsiooni ajaga ega valude vähendamisega.",
+        "lv": "Retrospektīvs pētījums (n=52) pārbaudīja, kā CYP450 ģenētiskās variācijas ietekmē ketamīna infūzijas efektivitāti refraktāras migrēnas gadījumā. CYP2B6 ātrie metabolizatori sasniedza ≥50% sāpju samazinājumu ātrāk nekā normālie metabolizatori (HR 3,21, p=0,007), taču gala rezultāti bija līdzīgi. CYP3A4/5 fenotips nebija nozīmīgi saistīts ar atbildes laiku vai sāpju samazinājumu.",
+        "lt": "Retrospektyviame tyrime (n=52) buvo nagrinėta, kaip CYP450 genetiniai variantai veikia ketamino infuzijos veiksmingumą refraktorinei migrėnai gydyti. CYP2B6 greiti metabolizatoriai pasiekė ≥50% skausmo sumažėjimą greičiau nei normalūs metabolizatoriai (HR 3,21, p=0,007), tačiau galutiniai rezultatai buvo panašūs. CYP3A4/5 fenotipas nerodė reikšmingos asociacijos su atsakymo laiku ar skausmo sumažėjimu."
+      },
+      "notable": false,
+      "notable_reasons": null,
+      "relevance_score": 3,
+      "study_type": "observational",
+      "substances": [
+        "ketamine"
+      ],
+      "added_at": "2026-11-19T15:56:36.654780+00:00"
     },
     {
       "title": "Psychedelic experience intensity during ketamine treatment and antidepressant outcomes.",
@@ -198,6 +291,48 @@
         "ibogaine"
       ],
       "added_at": "2026-11-16T16:12:45.369376+00:00"
+    },
+    {
+      "title": "Cost-effectiveness of psychedelic-assisted therapies for depression and post-traumatic stress disorder: A systematic review.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43050838/",
+      "source": "PubMed",
+      "date": "2026-11-13",
+      "authors": [
+        "Sheikhrobat Mohammad Veysi",
+        "Jaberi Nasim",
+        "Tahmasebi-Ghorrabi Ahmad"
+      ],
+      "doi": "10.1016/j.psychres.2026.117596",
+      "summaries": {
+        "en": "Systematic review of seven economic evaluations following PRISMA 2020 guidelines examined cost-effectiveness of psychedelic-assisted therapies for depression and PTSD. MDMA-assisted therapy for PTSD demonstrated cost-effectiveness relative to standard care in high-income countries across diverse model structures. Psilocybin-assisted therapy evidence for treatment-resistant depression remains limited and mixed. All studies showed high methodological quality using QHES assessment.",
+        "sv": "Systematisk granskning av sju ekonomiska utvärderingar enligt PRISMA 2020 undersökte kostnadseffektiviteten av psykedelika-assisterad terapi för depression och PTSD. MDMA-assisterad terapi för PTSD visade kostnadseffektivitet jämfört med standardbehandling i höginkomstländer. Psyklocybin-assisterad terapi för behandlingsresistent depression saknar fortfarande tillräcklig och motsägelsefull evidens. Alla studier hade höga metodologiska kvaliteter.",
+        "no": "Systematisk gjennomgang av sju økonomiske evalueringer etter PRISMA 2020-retningslinjer undersøkte kostnadseffektiviteten av psykedelika-assistert terapi for depresjon og PTSD. MDMA-assistert terapi for PTSD viste kostnadseffektivitet sammenlignet med standardbehandling i høyinntektsland. Psilocybin-assistert terapi for behandlingsresistent depresjon mangler fortsatt tilstrekkelig og motstridende evidens. Alle studier hadde høy metodologisk kvalitet.",
+        "da": "Systematisk gennemgang af syv økonomiske evalueringer efter PRISMA 2020-retningslinjer undersøgte omkostningseffektiviteten af psykedelika-assisteret terapi for depression og PTSD. MDMA-assisteret terapi for PTSD viste omkostningseffektivitet sammenlignet med standardbehandling i højtindkomstlande. Psilocybin-assisteret terapi for behandlingsresistent depression mangler stadig tilstrækkelig og modstridende evidens. Alle studier havde høj metodologisk kvalitet.",
+        "fi": "PRISMA 2020 -ohjeiden mukainen seitsemän taloudellisen arvioinnin järjestelmällinen katsaus tutki psykedeelejä sisältävien terapioiden kustannustehokkuutta masennukseen ja PTSD:hen. MDMA-avusteinen hoito PTSD:lle osoitti kustannustehokkuuden verrattuna tavanomaishoidon rinnalla korkeatuloisten maiden kontekstissa. Psylosibiini-avusteinen hoito hoitoresistenttiin masennukseen vaatii vielä vahvempaa tutkimusnäyttöä. Kaikissa tutkimuksissa oli korkea metodologinen laatu.",
+        "is": "Kerfræðileg endurskoðun á sjö efnahagslegum mati samkvæmt PRISMA 2020 leiðbeiningum kannaði hagkvæmni hallucinogens-aðstoðaðrar meðferðar við þunglyndi og PTSD. MDMA-aðstoðuð meðferð við PTSD sýndi hagkvæmni miðað við venjulega meðferð í há-tekjuríkjum. Psílóbín-aðstoðuð meðferð við meðferðarþolna þunglyndi skortir enn nægilegar og misvitnaðar sannanir. Allar rannsóknir höfðu mikla aðferðafræðilega gæði.",
+        "et": "PRISMA 2020 juhiste järgimisel viidi läbi seitse majanduslikku hindamist, mis uurisid psühhodeelse teraapia kuluefektiivsust depressiooni ja PTSD raviks. MDMA-abiline ravi PTSD-le näitas kuluefektiivsust võrreldes tavapärase raviga kõrgete tuludega riikides. Psülotsibiin-abiline ravi raviresistentse depressiooni jaoks vajab veel piisavaid ega vastuolulisi tõendeid. Kõigil uuringutel oli kõrge metodoloogiline kvaliteet.",
+        "lv": "Sistemātisks pārskats par septiņiem ekonomiskiem novērtējumiem saskaņā ar PRISMA 2020 vadlīnijām pārbaudīja psihedeliku-asistētas terapijas rentabilitāti depresijā un PTSD. MDMA-asistēta terapija PTSD parādīja rentabilitāti salīdzinājumā ar standarta aprūpi augsta ienākuma valstīs. Psilocibiīna-asistēta terapija ārstējamresistentai depresijai trūkst pietiekami un pretrunīgi pierādījumi. Visas pētījumus raksturo augsta metodologiskā kvalitāte.",
+        "lt": "Sistemingas septyniųekonominių vertinimų peržiūros pagal PRISMA 2020 gaires tikslas buvo įvertinti psichedeliko-pagalbinės terapijos našumą depresijoje ir PTSD. MDMA-pagalbinė terapija PTSD parodė efektyvumą, palyginti su standartine priežiūra aukšto pajamų šalyse. Psilocibino-pagalbinei terapijai, skirta terapijai atspariai depresijai, trūksta pakankamai ir prieštaringų įrodymų. Visi tyrimai pasižymėjo aukšta metodologine kokybe."
+      },
+      "notable": true,
+      "notable_reasons": {
+        "en": "Systematic review (PRISMA 2020 compliant) synthesizing cost-effectiveness evidence across multiple RCTs of MDMA-AT and psilocybin-assisted therapy for psychiatric disorders, addressing clinical implementation and policy considerations.",
+        "sv": "Systematic review (PRISMA 2020 compliant) synthesizing cost-effectiveness evidence across multiple RCTs of MDMA-AT and psilocybin-assisted therapy for psychiatric disorders, addressing clinical implementation and policy considerations.",
+        "no": "Systematic review (PRISMA 2020 compliant) synthesizing cost-effectiveness evidence across multiple RCTs of MDMA-AT and psilocybin-assisted therapy for psychiatric disorders, addressing clinical implementation and policy considerations.",
+        "da": "Systematic review (PRISMA 2020 compliant) synthesizing cost-effectiveness evidence across multiple RCTs of MDMA-AT and psilocybin-assisted therapy for psychiatric disorders, addressing clinical implementation and policy considerations.",
+        "fi": "Systematic review (PRISMA 2020 compliant) synthesizing cost-effectiveness evidence across multiple RCTs of MDMA-AT and psilocybin-assisted therapy for psychiatric disorders, addressing clinical implementation and policy considerations.",
+        "is": "Systematic review (PRISMA 2020 compliant) synthesizing cost-effectiveness evidence across multiple RCTs of MDMA-AT and psilocybin-assisted therapy for psychiatric disorders, addressing clinical implementation and policy considerations.",
+        "et": "Systematic review (PRISMA 2020 compliant) synthesizing cost-effectiveness evidence across multiple RCTs of MDMA-AT and psilocybin-assisted therapy for psychiatric disorders, addressing clinical implementation and policy considerations.",
+        "lv": "Systematic review (PRISMA 2020 compliant) synthesizing cost-effectiveness evidence across multiple RCTs of MDMA-AT and psilocybin-assisted therapy for psychiatric disorders, addressing clinical implementation and policy considerations.",
+        "lt": "Systematic review (PRISMA 2020 compliant) synthesizing cost-effectiveness evidence across multiple RCTs of MDMA-AT and psilocybin-assisted therapy for psychiatric disorders, addressing clinical implementation and policy considerations."
+      },
+      "relevance_score": 4,
+      "study_type": "review",
+      "substances": [
+        "mdma",
+        "psilocybin"
+      ],
+      "added_at": "2026-11-19T15:56:36.654780+00:00"
     },
     {
       "title": "Roots to Thrive risk and readiness assessment: a practice-based intake and decision-support framework for psychedelic-assisted therapy.",
@@ -1826,127 +1961,6 @@
         "ketamine"
       ],
       "added_at": "2026-10-28T13:18:57.276933+00:00"
-    },
-    {
-      "title": "Bridging Suicidal Crisis to Outpatient Care: Could Ketamine Plus Buprenorphine Shift the Paradigm?",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42925111/",
-      "source": "PubMed",
-      "date": "2026-10-19",
-      "authors": [
-        "Maguire Lindsay A",
-        "Jha Manish K",
-        "Murphy Nicholas"
-      ],
-      "doi": "10.4088/JCP.26ac16639",
-      "summaries": {
-        "en": "This article explores whether combining ketamine with buprenorphine could improve transitions from acute suicidal crises to outpatient treatment. The review examines potential synergistic effects of these pharmacological interventions in crisis management and ongoing care continuity.",
-        "sv": "Artikeln undersöker om kombinationen ketamin och buprenorfin kan förbättra övergången från akut suicidrisk till öppenvård. Granskningen analyserar potentiella synergistiska effekter av dessa psykedelika och läkemedel i krishantering och fortsatt vård.",
-        "no": "Artikkelen utforsker om kombinasjonen ketamin og buprenorfin kan forbedre overgangen fra akutt selvmordskrise til poliklinisk behandling. Gjennomgangen undersøker potensielle synergistiske effekter av disse intervensjonene i krisehåndtering og kontinuitet i pasientbehandling.",
-        "da": "Artiklen udforsker, om kombinationen af ketamin og buprenorfin kunne forbedre overgangen fra akut selvmordskrise til ambulant behandling. Oversigten analyserer potentielle synergistiske effekter af disse farmakologiske interventioner i krisetilstand og kontinuitet i patientbehandling.",
-        "fi": "Artikkelissa tutkitaan, voiko ketamiinin ja buprenorfiinin yhdistelmä parantaa siirtymistä akuutista itsemurhariski­tilanteesta poliklinikkahoi­toon. Katsaus analysoi näiden interventioiden mahdollisia synergistisia vaikutuksia kriisien hallintaan ja hoidon jatkuvuuteen.",
-        "is": "Greinin kannar hvort samsetning ketamíns og buprenorphíns gæti bætt breytingu frá berskjaldri sjálfsmorðskreppu til ambulantsmeðferðar. Endurýtingin greinir hugsanlega samverkandi áhrif þessara sáleinflugaefna í kreppumeðferð og samfellu meðferðar.",
-        "et": "Artikkel uurib, kas ketamiini ja buprenorfiini kombinatsioon võiks parandada üleminekut ägetest enesetapu kriisist ambulantoomsele ravile. Ülevaade analüüsib nende psühhedeelsete ainete võimalikke sünergilisi mõjusid kriisihalduses ja ravi järjepidevuses.",
-        "lv": "Raksts pēta, vai ketamīna un buprenorfīna kombinācija varētu uzlabot pāreju no asas pašnāvniecības krīzes uz ambulanto aprūpi. Pārskats analizē šo psihodelisko vielu potenciālos sinergiskos efektus krīzes pārvaldībā un aprūpes nepārtrauktībā.",
-        "lt": "Straipsnis nagrinėja, ar ketamino ir buprenorfino derinys galėtų pagerinti perėjimą iš ūmios savižudybės krizės į ambulator­inę priežiūrą. Apžvalga analizuoja šių psichedelinių medžiagų potencialius sinergišk­us efektus krizės valdymui ir tęstinėje paciento priežiūroje."
-      },
-      "notable": false,
-      "notable_reasons": null,
-      "relevance_score": 3,
-      "study_type": "other",
-      "substances": [
-        "ketamine"
-      ],
-      "added_at": "2026-10-25T11:52:55.575878+00:00"
-    },
-    {
-      "title": "Depression: Ketamine quiets an unruly habenula.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42896518/",
-      "source": "PubMed",
-      "date": "2026-Oct-19",
-      "authors": [
-        "Krystal John H"
-      ],
-      "doi": "10.1016/j.cub.2026.09.027",
-      "summaries": {
-        "en": "A study examining ketamine's antidepressant mechanism found that 24 hours after a single dose, the habenula—a brain region involved in negative reward processing—shows reduced activation in healthy subjects, accompanied by decreased aversive learning. This timing aligns with ketamine's rapid antidepressant effects.",
-        "sv": "En studie av ketamins antidepressiv mekanism visar att 24 timmar efter en enstaka dos minskar aktiviteten i habenula—en hjärnregion involverad i negativ belöningsbearbetning—hos friska försökspersoner, tillsammans med reducerat negativt lärande. Detta sammanfaller med ketamins snabba antidepressiva effekter.",
-        "no": "En studie av ketamins antidepressive mekanisme viser at 24 timer etter en enkelt dose reduseres aktiviteten i habenula—en hjernregion involvert i negativ belønningsbehandling—hos friske forsøkspersoner, sammen med redusert aversivt læring. Dette sammenfaller med ketamins raske antidepressive effekter.",
-        "da": "En undersøgelse af ketamins antidepressive mekanisme viser, at 24 timer efter en enkelt dosis reduceres aktiviteten i habenula—en hjernregion involveret i negativ belønningsbehandling—hos raske forsøgspersoner, sammen med reduceret aversiv læring. Dette stemmer overens med ketamins hurtige antidepressive effekter.",
-        "fi": "Ketamiinin masennuslääkkeisen vaikutusmekanismin tutkimus osoittaa, että 24 tunnin kuluttua yhdestä annoksesta habenula—aivojen negatiiviseen palkitsemiskäsittelyyn osallistuva alue—näyttää vähentynyttä aktivaatiota terveillä koehenkilöillä, samanaikaisesti vähenevän aversiivisen oppimisen kanssa. Tämä ajoittuu ketamiinin nopeisiin masennuslääkkeisiin vaikutuksiin.",
-        "is": "Rannsókn á virknikerfi ketamíns sem þunglyndislyfs sýnir að 24 klst eftir eina skammta minnkar virkni í habenula—heilasvæði sem tekur þátt í neikvæðri verðlaunameðferð—hjá heilbrigðum tilraunaþátttakendum, ásamt minni skaðlegri námi. Þetta fellur saman við hraða þunglyndislyfjamerkingu ketamíns.",
-        "et": "Ketamiini depressioonivastase mehhanismi uuringu kohaselt väheneb 24 tunni pärast ühte doosi habenula—aju piirkond, mis osaleb negatiivse tasustamise töötlemisel—aktiivsus tervetel katseisikutel, samal ajal vähenedes aversiivsele õppimisele. See ajastub ketamiini kiire depressioonivastase toimega.",
-        "lv": "Ketamīna antidepresīvo mehānismu pētījums parāda, ka 24 stundu laikā pēc vienas devas habenula—smadzeņu reģions, kas iesaistīts negatīvā atlīdzības apstrādē—aktivitāte samazinās veseliem dalībniekiem, vienlaikus samazinoties neietekmīgam mācībām. Tas sakrīt ar ketamīna ātrajiem antidepresīvajiem efektiem.",
-        "lt": "Ketamino antidepresinio mechanizmo tyrimas rodo, kad praėjus 24 valandom po vienos dozės habenula—smegenų regionas, susijęs su neigiama atlygintimi—aktyvumas mažėja sveikiems dalyviams, kartu su sumažėjusia aversyviu mokymu. Tai sutampa su ketamino greitais antidepresyviniais efektais."
-      },
-      "notable": false,
-      "notable_reasons": null,
-      "relevance_score": 4,
-      "study_type": "preclinical",
-      "substances": [
-        "ketamine"
-      ],
-      "added_at": "2026-10-20T11:54:54.617576+00:00"
-    },
-    {
-      "title": "Buprenorphine After Ketamine for Suicidal Ideation: Durability, Specificity, and Confounding.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42894302/",
-      "source": "PubMed",
-      "date": "2026-10-19",
-      "authors": [
-        "Lengvenytė Aistė",
-        "Olié Emilie",
-        "Courtet Philippe"
-      ],
-      "doi": "10.1176/appi.ajp.20260564",
-      "summaries": {
-        "en": "Study examines the durability and specificity of suicidal ideation reduction following ketamine treatment, and investigates potential confounding effects when buprenorphine is administered subsequently. Research design and quantitative outcomes not detailed in available abstract.",
-        "sv": "Studien undersöker hur långvarigt ketamins effekt på suicidal ideation är, samt om denna effekt är specifik för ketamin. Forskarna analyserar också potentiell förvirring från efterföljande buprenorphinbehandling. Studiedesign och resultat framgår inte från sammanfattningen.",
-        "no": "Studien undersøker hvor lenge effekten av ketamin på suicidal ideation varer, og om denne effekten er spesifikk for ketamin. Forsker analyserer også potensielle konfunderende effekter fra påfølgende buprenorphinbehandling. Studiedesign og resultater er ikke tilgjengelig i sammendraget.",
-        "da": "Studien undersøger varigheden og specificitet af ketamins effekt på suicidal ideation samt potentielle forvirrende effekter fra efterfølgende buprenorphinbehandling. Studiedesign og kvantitative resultater er ikke tilgængelige i det offentliggjorte resumé.",
-        "fi": "Tutkimus selvittää ketamiinin vaikutuksen kestävyyttä itsemurhaajatusten lievityksessä ja sitä, onko vaikutus spesifinen ketamiinille. Tutkijat analysoivat myös mahdollisia sekoittavia tekijöitä, joita aiheutuu seuraavasta buprenorfiinihoidosta. Tutkimusasetelma ja tulokset eivät selviä saatavilla olevasta tiivistelmästä.",
-        "is": "Rannsóknin kannar endingu og sértækni áhrifa ketamíns á sjálfsmorðshugsanir og hugsanleg truflandi áhrif þess að setja buprenorphin á eftir. Rannsóknarhönnun og megindleg gögn eru ekki tilgreind í fáanlegri útdrætti.",
-        "et": "Uuring uurib ketamiini mõju isemorvasoovide vähendamisele selle kestlikkuse ja spetsiifilisuse osas ning analüüsib hilisemat buprenorfiini mõju potentsiaalsete segavate teguritena. Uuringu disain ja kvantitatiivset andmeid ei ole saadaolevas kokkuvõttes.",
-        "lv": "Pētījums analizē ketamīna iedarbības ilgums uz pašnāvnieciskas ideācijas mazināšanu un potenciālos traucējošos faktorus, kas saistīti ar turpmāku bupreneorfīna lietošanu. Pētījuma dizains un kvantitatīvie dati nav pieejami pieejamajā kopsavilkumā.",
-        "lt": "Tyrimas nagrinėja ketamino poveikio savižudybės ideacijai nuolatumą ir specifišką poveikį, taip pat analizuoja potencialiai sumaišančius veiksnius iš tolesnio buprenorfino skaičiavimo. Tyrimo dizainas ir kiekybiniai duomenys nėra prieinami esamame santraukoje."
-      },
-      "notable": false,
-      "notable_reasons": null,
-      "relevance_score": 4,
-      "study_type": "other",
-      "substances": [
-        "ketamine"
-      ],
-      "added_at": "2026-10-19T13:45:26.493638+00:00"
-    },
-    {
-      "title": "Low-Dose Buprenorphine Significantly Prolonging the Antisuicidal Effects of Ketamine Infusion in Major Depressive Disorder: Relationship Between Antidepressant and Antisuicidal Effects.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42894301/",
-      "source": "PubMed",
-      "date": "2026-10-19",
-      "authors": [
-        "Hao Wei",
-        "Tan Luying"
-      ],
-      "doi": "10.1176/appi.ajp.20260656",
-      "summaries": {
-        "en": "A study examines how low-dose buprenorphine extends ketamine's antisuicidal effects in major depressive disorder. The research investigates the relationship between antidepressant and antisuicidal mechanisms, suggesting combination treatment may provide sustained benefit beyond ketamine infusion alone.",
-        "sv": "En studie undersöker hur låg dos buprenorfin förlänger ketamins antisuicidala effekter vid svår depression. Forskningen utforskar sambandet mellan antidepressiva och antisuicidala mekanismer, vilket tyder på att kombinationsbehandling kan ge varaktiga effekter även efter ketamininfusion.",
-        "no": "En studie undersøker hvordan lav dose buprenorfin forlenger ketamins antisuidale effekter ved alvorlig depresjon. Forskningen utforsker sammenhengen mellom antidepressive og antisuidale mekanismer, noe som antyder at kombinasjonsbehandling kan gi vedvarende effekt utover ketamininfusjon alene.",
-        "da": "Et studie undersøger, hvordan lav dosis buprenorphin forlænger ketamins antisuicidalt effekt ved alvorlig depression. Forskningen udforsker forholdet mellem antidepressive og antisuicidalt mekanismer, hvilket tyder på, at kombinationsbehandling kan give varig effekt ud over ketamininfusion alene.",
-        "fi": "Tutkimuksessa tarkastellaan, kuinka matala annos buprenorfiinia pidentää ketamiinin itsetuhoisia vaikutuksia syvälle masennukselle. Tutkimus tutkii antidepressiivisten ja itsetuhoisia vaikutuksista, mikä viittaa siihen, että yhdistelmähoito voi tarjota kestäviä vaikutuksia pelkän ketamiiniinfuusion jälkeen.",
-        "is": "Rannsókn kannar hvernig lág skammtar af buprenorfíni framlengja andóðkir áhrif ketamíns við alvarlega þunglyndi. Rannsóknin könnun sambandið milli andóðkra og andóðkra virkni, sem bendir til þess að sambindingarmeðferð gæti veitt langvarandi áhrif umfram ketamínísoðun einni sér.",
-        "et": "Uuringus vaadeldakse, kuidas madal buprenorfiini annus pikendab ketamiini enesetapu vastaseid mõjusid raskel depressioonil. Uurimistöö uurib antidepressiivsete ja enesetapu vastaste mehhanismide vahelist seost, mis viitab sellele, et kombineeritud ravi võib anda pikaajalisi mõjusid ainuüksi ketamiiniinfusioonist kauemale.",
-        "lv": "Pētījumā tiek pētīts, kā zema buprenorfīna doza pagarina ketamīna pašnāvības pretiedarbību vidējā depresijā. Pētniecība pēta antidepresīvo un pašnāvības pretiedarbības mehānismu saistību, kas liecina, ka kombinētā ārstēšana var nodrošināt ilgstošu ietekmi pāri vienīgajam ketamīna infūzijam.",
-        "lt": "Tyrime nagrinėjama, kaip žema buprenorfino dozė pratęsia ketamino savižudybės prevencijos poveikį esant sunkiai depresijai. Tyrime tiriamas antidepresyvaus ir savižudybės prevencijos mechanizmų ryšys, kuris rodo, kad kombinuotasis gydymas gali suteikti ilgalaikį poveikį, viršijantį vien ketamino infūziją."
-      },
-      "notable": false,
-      "notable_reasons": null,
-      "relevance_score": 4,
-      "study_type": "other",
-      "substances": [
-        "ketamine"
-      ],
-      "added_at": "2026-10-19T13:45:26.493638+00:00"
     }
   ]
 }

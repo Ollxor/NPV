@@ -1,6 +1,126 @@
 {
   "items": [
     {
+      "title": "Maintenance ketamine infusions for treatment-resistant bipolar depression: An open-label extension trial.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43051162/",
+      "source": "PubMed",
+      "date": "2026-11-18",
+      "authors": [
+        "Johnson Danica E",
+        "Orsini Diana K",
+        "Vasudeva Shreya"
+      ],
+      "doi": "10.1016/j.medj.2026.101361",
+      "summary_en": "Open-label 12-week extension trial of maintenance ketamine infusions in 36 treatment-resistant bipolar depression patients. Participants received up to 6 flexible doses (0.5-1.0 mg/kg) after responding to induction ketamine. MADRS depression scores improved significantly (19.8→15.6, p=0.009), with response rates increasing from 33.3% to 50% and remission from 27.8% to 36.1%. Suicidal ideation decreased from 54.3% to 20.7%.",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "other",
+      "substances": [
+        "ketamine"
+      ],
+      "added_at": "2026-11-19T15:56:36.654780+00:00"
+    },
+    {
+      "title": "Cost-effectiveness of psychedelic-assisted therapies for depression and post-traumatic stress disorder: A systematic review.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43050838/",
+      "source": "PubMed",
+      "date": "2026-11-13",
+      "authors": [
+        "Sheikhrobat Mohammad Veysi",
+        "Jaberi Nasim",
+        "Tahmasebi-Ghorrabi Ahmad"
+      ],
+      "doi": "10.1016/j.psychres.2026.117596",
+      "summary_en": "Systematic review of seven economic evaluations following PRISMA 2020 guidelines examined cost-effectiveness of psychedelic-assisted therapies for depression and PTSD. MDMA-assisted therapy for PTSD demonstrated cost-effectiveness relative to standard care in high-income countries across diverse model structures. Psilocybin-assisted therapy evidence for treatment-resistant depression remains limited and mixed. All studies showed high methodological quality using QHES assessment.",
+      "notable": true,
+      "notable_reason": "Systematic review (PRISMA 2020 compliant) synthesizing cost-effectiveness evidence across multiple RCTs of MDMA-AT and psilocybin-assisted therapy for psychiatric disorders, addressing clinical implementation and policy considerations.",
+      "study_type": "review",
+      "substances": [
+        "mdma",
+        "psilocybin"
+      ],
+      "added_at": "2026-11-19T15:56:36.654780+00:00"
+    },
+    {
+      "title": "Clinical Factors Associated With Response and Outcomes in Intravenous Ketamine Treatment for Depression: Insights From a Real-World Retrospective Study.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43049600/",
+      "source": "PubMed",
+      "date": "2026-11-19",
+      "authors": [
+        "Vichitkunakorn Thornthep",
+        "Rungnirundorn Teerayuth",
+        "Chiddaycha Mayteewat"
+      ],
+      "doi": "10.1097/JCP.0000000000002302",
+      "summary_en": "Retrospective study of 90 patients receiving subanesthetic ketamine infusions (2019-2023) identified predictors of treatment response for depression. 35 patients (39%) showed clinical response (≥50% MADRS reduction). Baseline suicidality and comorbid anxiety disorder significantly predicted response. Each additional session reduced depression and suicidality scores. Side effects were more common in nonresponders, suggesting baseline suicidality and anxiety as important selection criteria.",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "observational",
+      "substances": [
+        "ketamine"
+      ],
+      "added_at": "2026-11-19T15:56:36.654780+00:00"
+    },
+    {
+      "title": "The inner healer: Emergent self-organization in psychedelic psychotherapy.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43050893/",
+      "source": "PubMed",
+      "date": "2026-10-10",
+      "authors": [
+        "Shannon Scott"
+      ],
+      "doi": "10.1016/j.explore.2026.103541",
+      "summary_en": "This theoretical paper reframes the 'Inner Healer' concept in psychedelic-assisted therapy as the capacity for self-organization and adaptive change. Rather than attributing healing solely to the substance or therapist, the authors propose that psychedelics may facilitate change by temporarily reducing psychological rigidity. Three clinical cases illustrate the framework: one non-pharmacological example and two involving MDMA and psilocybin. The model emphasizes psychological flexibility, agency, and meaning-making as markers of successful change, while noting that increased openness does not guarantee improvement.",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "case_report",
+      "substances": [
+        "mdma",
+        "psilocybin"
+      ],
+      "added_at": "2026-11-19T15:56:36.654780+00:00"
+    },
+    {
+      "title": "Influence of CYP450 Polymorphisms on Analgesic Response to Continuous Ketamine Infusion in Patients with Refractory Migraine: An Exploratory Study.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43049176/",
+      "source": "PubMed",
+      "date": "2026-Nov-18",
+      "authors": [
+        "Owen-Oliner Leah",
+        "Denysenko Lex",
+        "Schwenk Eric S"
+      ],
+      "doi": "10.1002/jcph.70330",
+      "summary_en": "Retrospective study (n=52) examined how CYP450 genetic variants affect ketamine infusion efficacy in refractory migraine. CYP2B6 rapid metabolizers achieved ≥50% pain reduction faster than normal metabolizers (HR 3.21, p=0.007), though final outcomes were similar. CYP3A4/5 phenotype showed no significant association with response timing or pain reduction.",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "observational",
+      "substances": [
+        "ketamine"
+      ],
+      "added_at": "2026-11-19T15:56:36.654780+00:00"
+    },
+    {
+      "title": "Ceremonial Psychedelic Experiences and Changes in Mental Health Outcomes in Those with Adverse Childhood Experiences.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43048491/",
+      "source": "PubMed",
+      "date": "2025-12-15",
+      "authors": [
+        "Mehmood Maryam K",
+        "Bremler Rebecka",
+        "Spriggs Meg J"
+      ],
+      "doi": "10.1177/28314425251392251",
+      "summary_en": "Prospective observational study examining ceremonial psychedelic use in 1,110 participants with varying adverse childhood experiences (ACEs). Regression analysis found ACEs moderated mental health improvements over time, with higher ACEs associated with greater gains. ACEs positively correlated with emotional breakthroughs and mystical experiences, both linked to sustained mental health improvement. Limitations include convenience sampling and lack of control group.",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "observational",
+      "substances": [
+        "other"
+      ],
+      "added_at": "2026-11-19T15:56:36.654780+00:00"
+    },
+    {
       "title": "Psychedelic experience intensity during ketamine treatment and antidepressant outcomes.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/43045823/",
       "source": "PubMed",

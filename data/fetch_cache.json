@@ -1,7 +1,96 @@
 {
-  "date": "2026-11-18",
-  "cached_at": "2026-11-18T15:04:20.230200+00:00",
+  "date": "2026-11-19",
+  "cached_at": "2026-11-19T15:13:53.382865+00:00",
   "articles": [
+    {
+      "title": "Maintenance ketamine infusions for treatment-resistant bipolar depression: An open-label extension trial.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43051162/",
+      "source": "PubMed",
+      "abstract": "Antidepressant effects of intravenous (i.v.) ketamine for major depressive disorder (MDD) have been demonstrated, although relapse after an induction course of ketamine is common. Maintenance ketamine doses have been shown to sustain antidepressant effects in MDD; however, safety and efficacy in bipolar depression remain understudied. This single-arm, open-label 12-week extension trial enrolled participants with treatment-resistant bipolar depression (TRBD) who benefited from an induction course of i.v. ketamine. During maintenance, participants received up to six flexibly dosed infusions (0.5-1.0 mg/kg). The primary outcome was change in Montgomery-Åsberg Depression Rating Scale (MADRS) score from maintenance baseline to week 12, analyzed via linear mixed-effects model. Safety, tolerability, and secondary outcomes (anxiety, suicidality, and well-being) were assessed. This study was registered at ClinicalTrials.gov (NCT05339074; 2022-04-13). Thirty-six participants entered the maintenance phase and received a mean of 5.14 (SD = 1.31) booster infusions. Estimated marginal mean MADRS scores decreased significantly from 19.8 (95% CI, 16.2-23.4) at maintenance baseline to 15.6 (95% CI, 11.9-19.3) at week 12 (mean difference = -4.20; 95% CI, -7.34 to -1.06; p = 0.009). Response and remission rates increased over the maintenance phase, from 33.3% to 50% and 27.8% to 36.1%, respectively. Suicidal ideation declined from 54.3% to 20.7% of participants, with parallel improvements in anxiety and well-being. Infusions were well tolerated, with no treatment-emergent mania or psychosis. In TRBD, maintenance ketamine infusions were well tolerated and sustained antidepressant benefits, providing the first clinical trial evidence for maintenance treatment in this population. This study was funded by Physicians' Services Inc. and Canadian Institute of Health Research.",
+      "date": "2026-11-18",
+      "authors": [
+        "Johnson Danica E",
+        "Orsini Diana K",
+        "Vasudeva Shreya"
+      ],
+      "doi": "10.1016/j.medj.2026.101361"
+    },
+    {
+      "title": "The inner healer: Emergent self-organization in psychedelic psychotherapy.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43050893/",
+      "source": "PubMed",
+      "abstract": "The \"Inner Healer\" is a common concept in psychedelic-assisted therapy, but it is often poorly defined. This paper proposes a simpler interpretation: the Inner Healer can be understood as the person's capacity for self-organization and adaptive change. From this perspective, healing does not come only from the drug or the therapist. It can also emerge when rigid patterns of thought, emotion, and behavior become more flexible and new responses become possible. Psychedelics may support this process by temporarily reducing the stability of established psychological patterns. This increased openness, however, does not guarantee improvement. Change can move in helpful, neutral, or harmful directions, depending on the person, the therapeutic relationship, the setting, and what happens after the experience. Three clinical cases are used to illustrate the model. One shows self-organizing change without psychedelics, while two others describe MDMA- and psilocybin-assisted treatment. Across the cases, important therapeutic material emerged in ways that were not fully predicted or directed by the clinician. The Inner Healer is therefore presented not as a separate inner entity or proven mechanism, but as a clinical framework for understanding adaptive reorganization. The model emphasizes psychological flexibility, agency, meaning, and consolidation as possible markers of successful change. It also suggests testable questions about when greater openness leads to durable improvement and how clinicians can support that process without over-directing it.",
+      "date": "2026-10-10",
+      "authors": [
+        "Shannon Scott"
+      ],
+      "doi": "10.1016/j.explore.2026.103541"
+    },
+    {
+      "title": "Cost-effectiveness of psychedelic-assisted therapies for depression and post-traumatic stress disorder: A systematic review.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43050838/",
+      "source": "PubMed",
+      "abstract": "Psychiatric disorders impose substantial clinical and economic burdens. Psychedelic-assisted therapies, including methylenedioxymethamphetamine (MDMA) and psilocybin-assisted therapy (PAT), have shown promising clinical outcomes but require resource-intensive delivery. This study aimed to systematically review and synthesize the available evidence on the cost-effectiveness of psychedelic-assisted therapy for depression and post-traumatic stress disorder (PTSD). Following the PRISMA 2020 guidelines, PubMed, Scopus, Web of Science, and Embase were searched to identify full economic evaluations of psychedelic-assisted therapies for depression and PTSD. Study quality was appraised using the Quality of Health Economic Studies (QHES) instrument. All incremental cost-effectiveness ratios (ICERs) were converted to 2024 U.S. dollars. Of the 672 records identified, seven studies met the inclusion criteria five evaluated MDMA-assisted therapy (MDMA-AT) for PTSD and two evaluated PAT for severe or treatment-Resistant Depression (TRD). All studies showed high methodological quality. Across diverse model structures and analytic perspectives, MDMA-AT was generally cost-effective relative to the standard of care in high-income countries and under established willingness-to-pay (WTP) thresholds. However, evidence regarding PAT remains limited and mixed. Current evidence suggests that psychedelic-assisted therapy can generate economic value for PTSD, However, whereas the cost-effectiveness of PAT for severe or TRD depression remains more uncertain and context dependent. Additional high-quality, context-specific evaluations, particularly in low- and middle-income countries, are required to inform equitable and sustainable adoption.",
+      "date": "2026-11-13",
+      "authors": [
+        "Sheikhrobat Mohammad Veysi",
+        "Jaberi Nasim",
+        "Tahmasebi-Ghorrabi Ahmad"
+      ],
+      "doi": "10.1016/j.psychres.2026.117596"
+    },
+    {
+      "title": "Astrocytes as a Convergence Point for Neuroprotection and Drug Repurposing in Long COVID Comorbidities.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43049828/",
+      "source": "PubMed",
+      "abstract": "Astrocytes are central regulators of metabolic homeostasis, redox balance, and neuroimmune signaling within the central nervous system, and accumulating evidence implicates these cells as key mediators of the neurological sequelae associated with long COVID. SARS-CoV-2 has been shown to infect neural cells, inducing substantial alterations in these regulatory parameters and promoting a sustained reactive astrocyte phenotype that compromises synaptic plasticity, blood-brain barrier integrity, and metabolic support, thereby contributing to neurometabolic and neuropsychiatric dysfunction. Despite the convergence of these findings, no review has addressed the interplay between astrocyte biology, systemic metabolic and psychiatric comorbidities, and the potential for drug repurposing within a gliopharmacological context in long COVID. In this review, we propose an astrocyte-centered model in which long COVID arises from the convergence of direct viral injury and pre-existing disorders. We then critically examine the repurposing potential of three pharmacological categories, each selected on the basis of their documented actions on astrocytic metabolic, redox, or inflammatory pathways: systemic medications already in wide clinical use for metabolic and cardiovascular indications, including metformin, angiotensin II receptor blockers, calcium-channel blockers, and statins; centrally acting agents with established or emerging use in psychiatry, such as selective serotonin reuptake inhibitors and ketamine; and the glioprotective polyphenol resveratrol. Accordingly, we delineate a translational rationale for repurposing existing therapeutics to target astrocyte-mediated pathways in long COVID. This manuscript, therefore, reinforces astrocytes as central mediators of neuroprotection and supports gliopharmacological approaches as a rational strategy to mitigate neurological dysfunction in long COVID associated with neurometabolic and neuropsychiatric comorbidities.",
+      "date": "2026-11-18",
+      "authors": [
+        "Bezerra Caio César Ramalho",
+        "Dias Filipe Renato Pereira",
+        "Schmitz Izaviany"
+      ],
+      "doi": "10.1007/s12035-026-06328-3"
+    },
+    {
+      "title": "Clinical Factors Associated With Response and Outcomes in Intravenous Ketamine Treatment for Depression: Insights From a Real-World Retrospective Study.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43049600/",
+      "source": "PubMed",
+      "abstract": "This study aimed to explore the clinical factors associated with response in patients receiving ketamine, evaluating changes in suicidality in each treatment session and the side effects of ketamine infusion therapy for depression. A retrospective descriptive study was conducted using electronic medical records from 90 patients treated with subanesthetic ketamine infusions between 2019 and 2023. Depression and suicidality scores were measured by the Montgomery-Åsberg Depression Rating Scale (MADRS). Clinical response was defined as a 50% or greater reduction in MADRS score at the final treatment session. The primary outcome was clinical factors associated with response in patients treated with ketamine. Of the 90 patients, 35 were classified as responders. Logistic regression analysis identified baseline suicidality scores on MADRS (adjusted OR: 1.46, P=0.019) and comorbid anxiety disorder (adjusted OR: 4.39, P=0.048) as significantly associated with treatment response. Generalized estimating equation analysis revealed that each additional ketamine session was associated with a significant reduction in MADRS (coefficient =-1.11, P<0.001) and suicidality scores (coefficient =-0.14, P<0.001). Side effects occurred more frequently in nonresponders. These findings suggest that baseline suicidality and comorbid anxiety disorders are important factors to consider when selecting candidates for ketamine therapy. Future research should aim to further elucidate the factors contributing to the efficacy and safety of ketamine as a treatment for depression.",
+      "date": "2026-11-19",
+      "authors": [
+        "Vichitkunakorn Thornthep",
+        "Rungnirundorn Teerayuth",
+        "Chiddaycha Mayteewat"
+      ],
+      "doi": "10.1097/JCP.0000000000002302"
+    },
+    {
+      "title": "Influence of CYP450 Polymorphisms on Analgesic Response to Continuous Ketamine Infusion in Patients with Refractory Migraine: An Exploratory Study.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43049176/",
+      "source": "PubMed",
+      "abstract": "Continuous intravenous ketamine infusion is an emerging treatment for patients with refractory migraine, but substantial interindividual variability in the timing of analgesic response has been observed. Ketamine is metabolized primarily through CYP2B6 and, to a lesser extent, CYP3A4/5, and genetic variation in these enzymes may contribute to variability in ketamine disposition and downstream metabolite exposure. We hypothesized that CYP metabolic phenotype would be associated with the timing and magnitude of analgesic response and the frequency of ketamine-associated adverse effects. In this retrospective cohort study, 52 inpatients treated with continuous ketamine infusion for refractory migraine were stratified by CYP2B6 and CYP3A4/5 metabolic phenotype. Longitudinal headache pain was evaluated using linear mixed-effects models, piecewise cumulative dose-response models, and time-to-response analyses. Ketamine-associated adverse effects were compared categorically across phenotypes. CYP2B6 rapid metabolizer phenotype was associated with earlier achievement of a ≥50% reduction in headache pain compared with normal metabolizer phenotype (HR 3.21; 95% CI, 1.39-7.45; p = 0.007), but overall cumulative dose-response trajectories and pain reduction by the end of treatment were similar across CYP2B6 phenotypes. CYP3A4/5 phenotype was not significantly associated with time to response or overall pain reduction; however, the low-activity subgroup demonstrated a flatter late-phase cumulative dose-response trajectory in an exploratory analysis. Adverse-effect frequency did not differ significantly across phenotypes after multiple-comparison correction. These findings suggest that CYP2B6 phenotype may influence the timing rather than the magnitude of analgesic response to continuous ketamine infusion. Prospective studies incorporating pharmacokinetic and pharmacodynamic measurements are needed to determine the mechanisms underlying this association.",
+      "date": "2026-Nov-18",
+      "authors": [
+        "Owen-Oliner Leah",
+        "Denysenko Lex",
+        "Schwenk Eric S"
+      ],
+      "doi": "10.1002/jcph.70330"
+    },
+    {
+      "title": "Ceremonial Psychedelic Experiences and Changes in Mental Health Outcomes in Those with Adverse Childhood Experiences.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43048491/",
+      "source": "PubMed",
+      "abstract": "Adverse childhood experiences (ACEs) are known to contribute to mental health issues and interfere with response to mental health interventions. Psychedelics have been found to improve mental health outcomes; however, the exploration of the effects of psychedelics on mental health in those with higher ACEs remains limited. The present study aimed to examine mental health outcomes and acute subjective effects of ceremonial psychedelic use across the spectrum of ACE severity. Prospective observational survey data were collected from a convenience sample ( A regression analysis found that ACEs significantly moderated the relationship between time and mental health outcomes. Relative to lower ACEs, higher ACEs were associated with greater improvements in mental health across time, corrected for baseline. Spearman's correlation showed that ACEs were significantly positively correlated with emotional breakthrough ( ACEs were associated with improvements in mental health following psychedelic experiences. ACEs were positively correlated with emotional breakthrough and mystical experiences, which were associated with improved longer term mental health. Study limitations include the use of a convenience sample and noncontrolled design. This study's findings tentatively inform the development of psychedelic therapy in those reporting ACEs.",
+      "date": "2025-12-15",
+      "authors": [
+        "Mehmood Maryam K",
+        "Bremler Rebecka",
+        "Spriggs Meg J"
+      ],
+      "doi": "10.1177/28314425251392251"
+    },
     {
       "title": "Psychedelic experience intensity during ketamine treatment and antidepressant outcomes.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/43045823/",
@@ -166,94 +255,6 @@
         "Johansson Robert"
       ],
       "doi": "10.3389/fpsyt.2026.1924069"
-    },
-    {
-      "title": "From Rapid Synaptic Events to Lasting Antidepressant States: Convergent and Divergent Mechanisms of Ketamine and Psychedelics.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43015122/",
-      "source": "PubMed",
-      "abstract": "Rapid-acting antidepressants have challenged the long-standing view that therapeutic improvement in major depressive disorder requires chronic treatment with monoaminergic agents. Ketamine and classical psychedelics act through distinct proximal targets, yet both can produce rapid and persistent behavioral effects that implicate synaptic and circuit plasticity as the core mechanisms of antidepressant action. This review, based on a minisymposium presented at the 2026 Society for Neuroscience meeting, examines how brief pharmacological perturbations translate into lasting changes in mood-related networks. We first discuss hippocampal mechanisms underlying ketamine action, which include brain-derived neurotrophic factor (BDNF)/tropomyosin receptor kinase B (TrkB)-dependent homeostatic potentiation, TrkB cross talk with metabotropic glutamate receptor 5 (mGluR5) at CA3→CA1 synapses, extracellular signal-regulated kinase (ERK)-dual-specificity phosphatase 6 (DUSP6)-mediated extension of synaptic metaplasticity, and BDNF release at mossy fiber synapses and dentate gyrus neuronal maturation. We then consider how these local plasticity mechanisms interface with distributed circuits that regulate motivation, stress coping, and reward. Across brain regions, emerging work highlights the importance of cell type- and region-specific mechanisms that mediate ketamine's therapeutic actions. We expand on local prefrontal cortical inhibitory cellular signaling dynamics, including the interplay of various G-protein-coupled receptors (GPCRs) in cortical somatostatin interneurons and input-specific adaptations in accumbal circuits. Finally, we compare ketamine with psilocybin, an emerging therapeutic classic psychedelic for treatment-resistant depression that targets the 5-hydroxytryptamine 2A (5-HT2A) receptor primarily. A recurring theme is that an interplay of GPCRs can help shape the timing, localization, and persistence of ketamine-induced neuroplasticity. Together, these studies suggest that antidepressant efficacy arises not from a single pathway or brain region but from coordinated, temporally staged plasticity across molecules, synapses, cells, and circuits.",
-      "date": "2026-11-11",
-      "authors": [
-        "Kim Jihye",
-        "Fogaca Manoela V",
-        "Munguba Hermany"
-      ],
-      "doi": "10.1523/JNEUROSCI.1198-26.2026"
-    },
-    {
-      "title": "Parallel Claustral Networks for Behavioral Control in Health and Disease.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43015106/",
-      "source": "PubMed",
-      "abstract": "The claustrum is among the most highly interconnected structures in the mammalian brain, with reciprocal projections spanning the cortical mantle and a growing roster of functions that range from sleep regulation to attentional control. Here we review current understanding of claustral circuit organization and function, synthesizing findings from anatomical, physiological, computational, and behavioral studies. We argue that a unifying logic underlies the apparent diversity of claustral functions: the claustrum operates through projection-defined subnetworks whose input selectivity, output targets, and local circuit interactions collectively determine their functional contribution and whose impact on cortical targets varies with arousal and ongoing brain state. Corticoclaustral connectivity is organized into matched input-output modules, local inhibitory circuits confer spatial filtering properties that amplify strong cortical signals while suppressing weaker ones and claustral output populations differ in their laminar targets, postsynaptic cell-type preferences, and molecular properties, producing diverse and context-dependent effects on cortical dynamics. These circuit properties translate into claustral regulation of cortical population dynamics across multiple timescales, from the moment-to-moment coordination of brain states to the consolidation of frontal control strategies. In pain and addiction, specific claustral projection populations are selectively dysregulated, and distinct subnetworks exert opposing influences on nociceptive sensitivity and drug-related behavior according to their cortical targets. Together, these findings position the claustrum as a modular subcortical hub for the selective regulation of distributed cortical networks and identify it as a candidate therapeutic target for disorders characterized by dysregulated cortical network activity, including chronic pain, addiction, and impulsivity.",
-      "date": "2026-11-11",
-      "authors": [
-        "Citri Ami",
-        "Wulff Andreas B",
-        "Faig Christian"
-      ],
-      "doi": "10.1523/JNEUROSCI.1083-26.2026"
-    },
-    {
-      "title": "Fifty years at the addiction bench and bedside: from withdrawal syndromes to adaptive brain states.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43011373/",
-      "source": "PubMed",
-      "abstract": "Over the past half-century, addiction medicine has moved from moral and symptom-based explanations toward a neuroscience of adaptation, learning, motivation, and recovery. This Perspective uses several linked translational programs-opioid withdrawal and the locus coeruleus, cocaine dependence and dopamine, environmental drug exposure, physician health, and food reward-to illustrate how observations at the bedside can generate mechanistic studies and how laboratory findings can, in turn, change treatment and public health. LC stimulation produced signs and symptoms that looked to me like opioid withdrawal. So, we thought that noradrenergic hyperactivity in opioid withdrawal caused symptoms, and while methadone or morphine could treat these, we could also treat them with a non-opioid, clonidine. Earlier noradrenergic interventions had been attempted with limited clinical success. Our work provided the first hypothesis-driven, double-blind, placebo-controlled demonstration that a non-opioid medication could suppress the acute human opioid withdrawal syndrome. This mechanism-based treatment was greeted with considerable interest because some clinicians had assumed that any medication capable of reversing opioid withdrawal distress must itself be an opioid. Clonidine and later lofexidine did just that and facilitated transition to naltrexone. Recognition that cocaine could produce compulsive use without a dramatic physical withdrawal syndrome helped shift the field toward reward circuitry, craving, pathological attraction, anhedonia, and relapse. Studies of tobacco, cannabis, and opioid smoke broadened prevention by showing that involuntary second- and third-hand exposure can be biologically detected and, most clearly for tobacco, can produce biologically meaningful effects. Third-hand exposure refers to residual drug-related contaminants that persist on indoor surfaces, dust, clothing, or other materials after active smoking has ended. Contemporary work on neuromodulation, exercise, psychedelics, and GLP-1 metabolic-reward pathways extends the same translational logic. Addiction is best understood as an acquired adaptive brain state supported by anti-survival or bad learning, development, and environment; recovery is active neurobehavioral relearning, not simply detoxification or drug clearance. Public health should therefore join brain sciences, work to delay initiation, identify emerging risk before a severe substance use disorder develops, prevent involuntary exposure, and provide rapid access to mechanism-based treatment, recovery-supportive environments, and outcomes measured over 5 years or longer.",
-      "date": "2026-10-27",
-      "authors": [
-        "Gold Mark S"
-      ],
-      "doi": "10.3389/fpubh.2026.1969403"
-    },
-    {
-      "title": "Psychedelic ego-dissolution: a philosophical and qualitative critique.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43007826/",
-      "source": "PubMed",
-      "abstract": "Ego-dissolution is a phenomenon of central interest across interdisciplinary research on psychedelics. In this paper, we present a philosophical and qualitative critique of the claim that ego-dissolution can result in conscious states with no phenomenal sense of self, i.e., states that completely lack any form of self-consciousness. We first turn to recent publications by Chris Letheby and Raphaël Millière, for whom trip reports of experiences induced by 5-MeO-DMT (5-methoxy-N,N-dimethyltryptamine) present clear evidence for the existence of totally selfless experiential states. Their claim is undermined, we argue, by the fact that they operate with overinflated notions of 'self' and 'self-consciousness,' meaning that more minimal forms are available and arguably still present in 5-MeO-DMT experiences. We then perform a qualitative thematic analysis of 411 5-MeO-DMT trip reports. Pointing to the ambiguous language of the trip reports, the self-admitted inadequacy of the descriptions and the affective dimension of the reported experiences, we argue that claims concerning total selflessness are unwarranted and instead offer an alternative interpretation: extreme ego-dissolution during 5-MeO-DMT experiences involves a radically minimal form of self-consciousness, one in which the identity of the subject is experienced as unfamiliar and underdetermined. This article is part of the discussion meeting issue 'From being to identity: analysis and synthesis of the self'.",
-      "date": "2026-Nov-10",
-      "authors": [
-        "Day Jason K",
-        "Zahavi Dan"
-      ],
-      "doi": "10.1098/rstb.2025.0154"
-    },
-    {
-      "title": "Changes in self-related cognitive processes and depressive symptom severity following a single, moderate dose of psilocybin in depressed patients.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43007824/",
-      "source": "PubMed",
-      "abstract": "Psychedelic-assisted therapy, particularly with psilocybin, is increasingly proposed as a treatment for major depressive disorder, yet the neural and psychological mechanisms underlying its effects remain under investigation. In a randomized, double-blind, placebo-controlled clinical trial, individuals diagnosed with major depressive disorder received a single, moderate dose of psilocybin (0.215 mg kg-1) or placebo, with the same psychological support. We analysed N = 37 individuals with major depressive disorder undergoing assessments of depressive symptoms (Beck's depression inventory and Montgomery-Åsberg depression rating scale), self-concept (Frankfurt self-concept scale) and neural markers of self-referential processing using an fMRI-based task. Compared with placebo, the psilocybin group exhibited significant reductions in depressive symptoms and a significant increase in positive self-concept two weeks after substance administration. Changes in self-concept were significantly correlated with decreased depressive scores. Neuroimaging revealed psilocybin-associated modulation of caudate activation during externally oriented attention after two weeks, contrasting with placebo-induced caudate changes during self-referential processing. These findings extend prior evidence linking psychedelics to changes in self-referential processing and self-concept and demonstrate that such changes occur concurrently with reductions in depressive symptoms. Future research should aim to replicate and extend these results and refine therapy protocols targeting self-processing and self-concept in psychedelic-assisted therapy in major depressive disorder. This article is part of the discussion meeting issue 'From being to identity: analysis and synthesis of the self'.",
-      "date": "2026-Nov-10",
-      "authors": [
-        "Belinger Lydia",
-        "Moujaes Flora",
-        "von Rotz Robin"
-      ],
-      "doi": "10.1098/rstb.2025.0168"
-    },
-    {
-      "title": "Is ibogaine treatment durable? 12-month follow-up of magnesium-ibogaine therapy (MISTIC) in special operations veterans with traumatic brain injuries.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43003815/",
-      "source": "PubMed",
-      "abstract": "Traumatic brain injury (TBI) can result in chronic functional disability and is associated with persistent psychiatric symptoms, including posttraumatic stress disorder (PTSD), depression, and anxiety. Ibogaine, an oneirogenic alkaloid with unique pharmacological properties, has shown initial promise as a potential treatment for TBI-related sequelae. We previously observed large improvements in functional and psychiatric outcomes up to one month after a single treatment with magnesium-ibogaine in male U.S. Special Operations Veterans with a history of TBI. However, further evidence on the durability of these effects is needed. In this prospective long-term follow-up study, we evaluated the persistence of these clinical improvements over the subsequent year. Participants underwent comprehensive baseline and post-treatment assessments, with follow-up evaluations conducted at 3, 6, 9, and 12 months. Of 30 participants treated with magnesium-ibogaine, 25 completed the 12-month follow-up assessments. Outcome measures included a self-report measure of functional disability and clinician-administered assessments of psychiatric symptoms. Linear mixed-effects models demonstrated robust and sustained reductions in disability, PTSD, depression, and anxiety symptoms through 12 months post-treatment (all p < 0.001 after correction for multiple comparisons), with large effect sizes (Cohen's d ≥ 2.18 at 12 months). In participants who achieved remission immediately post-treatment, survival analyses estimated the probability of sustained remission at 12 months as 84% for PTSD, 66% for depression, and 61% for anxiety. Notably, most participants reported using other psychedelic substances or pursuing other interventions during the follow-up period, which should be considered when interpreting long-term symptom trajectories. In this naturalistic cohort, durable, clinically meaningful symptom improvements were observed in individuals with TBI up to 12 months after ibogaine treatment. Further investigation through randomized controlled trials is warranted to validate these promising preliminary results and clarify the causal contributions of ibogaine treatment, subsequent interventions, and their combination.",
-      "date": "2026-08-12",
-      "authors": [
-        "Faerman Afik",
-        "Lissemore Jennifer I",
-        "Geoly Andrew D"
-      ],
-      "doi": "10.1038/s41398-026-04327-5"
-    },
-    {
-      "title": "Ketamine for co-occurring chronic pain and depression: A scoping review highlighting the dual-outcome evidence gap and its treatment and research implications.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43003322/",
-      "source": "PubMed",
-      "abstract": "Chronic pain and depression frequently co-occur, share clinical features, and involve shared neurobiological substrates. Ketamine, an NMDA-receptor antagonist, has established antidepressant efficacy, whereas its analgesic efficacy for chronic pain remains uncertain. Given the overlap between chronic pain and depression, ketamine may serve as a potential dual-action treatment. We conducted a scoping review of studies in which pain and depressive outcomes were both assessed longitudinally after ketamine treatment. Following PRISMA-ScR guidelines, we searched MEDLINE, Embase, Web of Science, and Scopus through August 2026. Experimental and observational studies reporting post-treatment pain and depression outcomes were included; acute, perioperative, perinatal, and cancer-related pain were excluded. Of 2187 records screened, 12 studies met inclusion criteria (2007-2025). Eight enrolled patients with consensus-based chronic pain (≥3 months); among these, only two used clinical diagnoses to characterize depression (one being retrospective chart review), whereas the remainder used symptom scales. Four depression-primary studies enrolled patients with major depressive disorder, treatment-resistant depression, or bipolar depression but did not rigorously establish chronic pain duration. Most studies reported concurrent improvement in pain and depressive symptoms, but heterogeneity in population definitions, ketamine administration regimens, study design, and psychiatric comorbidity precludes inference that depression modifies ketamine's analgesic effect. Prospective randomized studies using standardized chronic pain and depression measures are needed to clarify ketamine's efficacy and real-world applicability. REGISTRATION: This protocol was registered on the Open Science Framework (OSF) (registration: OSF.IO/3ER5W) PERSPECTIVE: This review maps studies that assessed pain and depressive symptoms longitudinally during ketamine treatment. Concurrent improvement was commonly reported, but inconsistent depression ascertainment, pain phenotyping, dosing, and study design prevent conclusions about depression-specific analgesic effects. Prospective trials with clinically defined comorbidity are needed.",
-      "date": "2026-11-09",
-      "authors": [
-        "Asnes Simon",
-        "Nunes Julio C",
-        "Suh Rebecca"
-      ],
-      "doi": "10.1016/j.jpain.2026.106491"
     },
     {
       "title": "Breaking: Helus’ Deuterated Psilocin Hits Primary Endpoint in First Phase 3",
@@ -440,7 +441,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2018-004480-31/CZ",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-11-18",
+      "date": "2026-11-19",
       "authors": [],
       "doi": ""
     },
@@ -449,7 +450,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2020-005037-32/CZ",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-11-18",
+      "date": "2026-11-19",
       "authors": [],
       "doi": ""
     },
@@ -458,7 +459,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2021-002909-10/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-11-18",
+      "date": "2026-11-19",
       "authors": [],
       "doi": ""
     },
@@ -467,7 +468,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2015-000550-37/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-11-18",
+      "date": "2026-11-19",
       "authors": [],
       "doi": ""
     },
@@ -476,7 +477,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2021-000041-40/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-11-18",
+      "date": "2026-11-19",
       "authors": [],
       "doi": ""
     },
@@ -485,7 +486,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2020-000829-55/DK",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-11-18",
+      "date": "2026-11-19",
       "authors": [],
       "doi": ""
     },
@@ -494,7 +495,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2020-002790-94/SE",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-11-18",
+      "date": "2026-11-19",
       "authors": [],
       "doi": ""
     },
@@ -503,7 +504,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2021-006200-33/FI",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-11-18",
+      "date": "2026-11-19",
       "authors": [],
       "doi": ""
     },
@@ -512,7 +513,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2019-004812-73/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-11-18",
+      "date": "2026-11-19",
       "authors": [],
       "doi": ""
     },
@@ -521,7 +522,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2022-002369-14/BE",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-11-18",
+      "date": "2026-11-19",
       "authors": [],
       "doi": ""
     },

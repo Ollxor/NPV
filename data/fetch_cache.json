@@ -1,7 +1,124 @@
 {
-  "date": "2026-11-19",
-  "cached_at": "2026-11-19T15:13:53.382865+00:00",
+  "date": "2026-11-20",
+  "cached_at": "2026-11-20T14:52:32.837143+00:00",
   "articles": [
+    {
+      "title": "A state-dependent glymphatic dimension in major depressive disorder: implications for treatment resistance.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43058178/",
+      "source": "PubMed",
+      "abstract": "The glymphatic system refers to cerebrospinal fluid-interstitial fluid exchange and proposed drainage pathways shaped by sleep, arousal, vascular dynamics, and astrocytic organization. This physiology offers a way to connect disturbances that often coexist in major depressive disorder (MDD): disrupted sleep, fatigue, cognitive slowing, and stress-related abnormalities. We propose that difficulty establishing or maintaining a coordinated sleep-astrocyte-vascular state may contribute to illness persistence in some patients. Treatment-resistant depression (TRD) provides a setting in which this possibility can be examined across the course of treatment. Preclinical studies link stress and depressive-like behavior to astrocytic injury, aquaporin-4 dysregulation, and altered fluid transport. Human imaging findings vary across depressive phenotypes. In a dedicated TRD study, a higher diffusion tensor imaging along the perivascular space (DTI-ALPS) ratio was partly driven by reduced denominator diffusivity, illustrating the importance of interpreting this indirect index at component level. Whole-brain spatiotemporal models provide a complementary account of the neural activity accompanying these physiological states. Ketamine/esketamine, transcranial magnetic stimulation, and chronobiological interventions offer different ways to investigate treatment-related change; serotonergic psychedelics provide an exploratory extension. Longitudinal studies can establish how changes in sleep, fluid-sensitive imaging, and neural dynamics relate temporally to clinical recovery. This Perspective therefore develops a potentially modifiable physiological dimension of persistent depressive illness and defines how it can be tested.",
+      "date": "2026-11-19",
+      "authors": [
+        "Barlattani Tommaso",
+        "Pettorruso Mauro",
+        "Di Lorenzo Giorgio"
+      ],
+      "doi": "10.1038/s41380-026-03974-w"
+    },
+    {
+      "title": "Animal models in psychedelic research - Tripping over translation.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43058087/",
+      "source": "PubMed",
+      "abstract": "Psychedelic substances show promise for treating psychiatric disorders including depression, anxiety, and PTSD, but the neurobiological mechanisms underlying their therapeutic effects remain poorly understood. Preclinical findings have so far been inconsistent, limiting mechanistic insights. We argue this translational gap is exacerbated by systematic disconnects between conditions thought to shape therapeutic outcomes in humans and those employed in animal research. In this review, we analyse 266 rodent psychedelic studies published between 2014 and 2026 in order to generate a systematic audit of experimental conditions and behavioural assays currently applied in the field. Specifically, we first assessed adherence to welfare practices paralleling \"set and setting\" factors critical to human therapy. We found that most studies contained stress-inducing factors: only a minority reported active-phase testing (14%), environmental enrichment (7%), or refined handling protocols (21%), while drug administration almost universally relied on stress-inducing, restraint-requiring methods. Second, we evaluated the capacity of behavioural assays to capture experiential dynamics, revealing that most studies rely on brief, constrained testing with isolated behavioural markers that fail to capture the multidimensional, temporally evolving nature of psychedelic states. Beyond these methodological gaps, we identify a third critical factor largely absent from preclinical research: individual differences and social context. Most animal studies use group-level, cross-sectional designs that cannot characterize heterogeneous treatment responses or social mechanisms implicated in therapeutic change. We propose that improving translation requires a fundamental reorientation: from brief testing of stressed, isolated animals toward longitudinal tracking of individuals in enriched social environments using comprehensive behavioural characterization. We end by offering practical advice on how to implement some of these considerations in animal psychedelic research.",
+      "date": "2026-11-19",
+      "authors": [
+        "Abd El Hay Muad Y",
+        "Cukić Ana",
+        "Schölvinck Marieke L"
+      ],
+      "doi": "10.1038/s41398-026-04589-z"
+    },
+    {
+      "title": "Psychedelic-assisted treatment for substance use disorders: Evidence and uncertainties.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43057215/",
+      "source": "PubMed",
+      "abstract": "",
+      "date": "2026-11-19",
+      "authors": [
+        "Marsden John",
+        "Hall Wayne D",
+        "Andrews Christina M"
+      ],
+      "doi": "10.1111/add.70717"
+    },
+    {
+      "title": "Targeting CGRP signaling reverses maladaptive neurogenic immunosuppression in head and neck squamous cell carcinoma models.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43056154/",
+      "source": "PubMed",
+      "abstract": "Neurogenic inflammation is one component that sculpts the immune milieu of solid tumors. However, it remains unclear how the sensory-neuroimmune axis shapes the immune microenvironment in cold tumors to bolster treatment resistance. Using orthotopic head and neck squamous cell carcinoma (HNSCC) models, we demonstrate tumor growth-induced sensory hyperexcitability, and that surgical sensory signaling interruption reduced tumor growth. Genetic knockout of a key neuropeptide released by sensory neurons, calcitonin gene-related peptide (CGRP), encoded by Calca, produced eradication when paired with radioimmunotherapy. Such treatment reduced Treg infiltration and immunosuppressive function in Calca knockout mice. We also observed that high-dose psilocybin functions as a CGRP inhibitor and transiently reduces tumor growth by increasing antitumor immunity. Additionally, psilocybin increased circulating serotonin, which was partially reversed with platelet activation inhibitor, clopidogrel. We observed differential effects on CD8 and Treg functionality by psilocin in vitro. Correlational analyses in plasma from human subjects following a single-dose psilocybin corroborated these findings. Together, this work underscores the complex interaction of neurogenic inflammation and the tumor immune microenvironment, highlighting a potential therapeutic avenue for HNSCC and other solid tumors.",
+      "date": "2026-11-19",
+      "authors": [
+        "Idlett-Ali Shaquia L",
+        "Nguyen Alexander Th",
+        "Abdelazeem Khalid Nm"
+      ],
+      "doi": "10.1172/JCI204965"
+    },
+    {
+      "title": "The American Society of Clinical Psychopharmacology Task Force Consensus Statement on Combination Psychopharmacology.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43055664/",
+      "source": "PubMed",
+      "abstract": "",
+      "date": "2026-11-09",
+      "authors": [
+        "Goldberg Joseph F",
+        "Malhi Gin S",
+        "Jha Manish K"
+      ],
+      "doi": "10.4088/JCP.26cs16574"
+    },
+    {
+      "title": "Methodological Considerations in Clinical Trials for Postpartum Depression: Beyond Traditional Antidepressant Trial Design.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43055648/",
+      "source": "PubMed",
+      "abstract": "",
+      "date": "2026-11-18",
+      "authors": [
+        "Freeman Marlene P",
+        "Fava Maurizio",
+        "Pani Luca"
+      ],
+      "doi": "10.4088/JCP.26com16649"
+    },
+    {
+      "title": "Changes in Eating Disorder and General Psychopathology During Olanzapine Treatment in Young People with Anorexia Nervosa: Exploratory Results from OPEN.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43055037/",
+      "source": "PubMed",
+      "abstract": "",
+      "date": "2026-10-11",
+      "authors": [
+        "Morris Rebecca",
+        "Stringer Dominic",
+        "Said Olena"
+      ],
+      "doi": "10.65801/pcp.3574"
+    },
+    {
+      "title": "Early brain functional connectivity changes induced by antidepressants and placebo.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43054784/",
+      "source": "PubMed",
+      "abstract": "Major depressive disorder (MDD) is a highly prevalent psychiatric disorder associated with substantial morbidity and mortality. Despite its prevalence, the neural mechanisms underlying MDD and its treatment remain insufficiently understood, contributing to limited treatment efficacy and trial-and-error clinical practice. Although pretreatment brain signatures have been associated with MDD diagnosis and antidepressant response, the precise neural circuits underlying these associations remain elusive. Here, to bridge this gap, we systematically characterize early treatment-induced changes in functional connectivity (FC) following 1 or 2 weeks of antidepressant or placebo administration using two independent cohorts of patients with MDD who are receiving medication (",
+      "date": "2026-09-18",
+      "authors": [
+        "Tong Xiaoyu",
+        "Fonzo Gregory A",
+        "Carlisle Nancy B"
+      ],
+      "doi": "10.1038/s44220-026-00729-y"
+    },
+    {
+      "title": "Psychedelics and Sleep: Preclinical and Human Studies-A Systematic Review.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43054774/",
+      "source": "PubMed",
+      "abstract": "",
+      "date": "2026-10-11",
+      "authors": [
+        "Supit Kim",
+        "Rossi Giordano N",
+        "Reis José Augusto S"
+      ],
+      "doi": "10.65801/pcp.3606"
+    },
     {
       "title": "Maintenance ketamine infusions for treatment-resistant bipolar depression: An open-label extension trial.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/43051162/",
@@ -108,7 +225,7 @@
       "title": "Associations between use of psychedelic drugs and subsequent unhealthy alcohol use: a prospective cohort study of young Swiss men.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/43045150/",
       "source": "PubMed",
-      "abstract": "",
+      "abstract": "To examine associations of first psychedelic use at age 21 with unhealthy alcohol use (UAU) and moderate-to-severe alcohol use disorder (AUD) at age 25 in young Swiss men with prior UAU at age 20. We hypothesised lower odds of subsequent UAU. Exploratory prospective cohort study with 5-year follow-up. Logistic regression estimated associations between first psychedelic use and alcohol use outcomes using partially and fully adjusted models. Analyses and outcomes were not preregistered. Switzerland-based nationwide cohort of young Swiss men enrolled during mandatory army recruitment screening. Of 5987 participants completing baseline assessment, 1940 with UAU (defined as >21 standard drinks per week or ≥6 standard drinks on a single occasion ≥once per month) at age 20, no previous psychedelic use and complete data were included for analysis. At age 21, 74 participants (3.8%) reported first psychedelic use. Primary outcome was UAU at age 25, assessed from self-reported alcohol consumption. Secondary outcome was moderate-to-severe AUD at age 25, defined according to the Diagnostic and Statistical Manual of Mental Disorders, fifth edition (DSM-5) criteria. At age 25, 1141 (58.8%) participants reported UAU, and 257 (13.2%) had moderate or severe AUD. First psychedelic use was associated with lower odds of subsequent UAU compared with no psychedelic use in both partially adjusted (OR=0.58, 95% CI 0.36 to 0.96) and fully adjusted models (OR=0.54, 95% CI 0.31 to 0.93). Association with subsequent AUD did not reach statistical significance in either partially adjusted (OR=0.81, 95% CI 0.41 to 1.60) or fully adjusted models (OR=0.52, 95% CI 0.24 to 1.10). In this exploratory analysis, first psychedelic use at age 21 among Swiss men with prior UAU was significantly associated with lower odds of subsequent UAU, but not conclusively with AUD. Residual confounding cannot be excluded. Replication in diverse cohorts, including women, and randomised controlled trials are needed.",
       "date": "2026-11-17",
       "authors": [
         "Ciccone Clement",
@@ -142,119 +259,13 @@
       "doi": "10.1136/bmjoq-2026-004275"
     },
     {
-      "title": "Baseline suicidal thoughts are associated with ECT non-remission and cognitive side effects: A network outcome analysis.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43033988/",
-      "source": "PubMed",
-      "abstract": "Electroconvulsive therapy (ECT) is effective for severe depression, yet remission is not universal and cognitive side effects remain a concern. Individual depressive symptoms may provide prognostic information beyond overall severity scores. In a multicentre cohort from the Dutch ECT Consortium, we applied network outcome analysis to seven symptoms harmonized across the Hamilton Depression Rating Scale and Montgomery-Åsberg Depression Rating Scale (MADRS). Outcomes were remission (N = 792) and in exploratory analysis, cognitive side effects (N = 100). Robustness was assessed through bootstrapping and sensitivity analyses, including established clinical predictors, an alternative remission definition, and multivariable logistic regression. Suicidal thoughts were associated with lower odds of remission (OR 0.77, bootstrapped confidence interval [bCI] 0.68-0.84) and higher odds of cognitive side effects (OR 1.34, bCI 1.15-2.02), with 98-100% and 72-91% bootstrap edge presence across sensitivity analyses, respectively. Reduced appetite was associated with higher remission odds (OR 1.08, bCI 1.03-1.22), with 70-94% bootstrap edge presence across sensitivity analyses, but the association was absent in the MADRS-specific analysis. Tension/anxiety was associated with higher odds of cognitive side effects (OR 1.26, bCI 1.14-1.92), with 77-84% bootstrap edge presence. After simultaneous covariate adjustment, logistic regression supported associations of suicidal thoughts with both outcomes and tension/anxiety with cognitive side effects; the adjusted cognitive model was exploratory. Baseline symptoms showed distinct associations with ECT outcomes. Suicidal thoughts were associated with both lower remission likelihood and higher odds of cognitive side effects, suggesting potential relevance for clinical monitoring and counselling.",
-      "date": "2026-11-14",
-      "authors": [
-        "Zandstra Melissa G",
-        "Somers Metten",
-        "Angevaare Milou"
-      ],
-      "doi": "10.1016/j.jad.2026.122749"
-    },
-    {
-      "title": "Mitochondrial respiratory chain activity in the brain of young male rats subjected to alloxan-induced diabetes and a ketamine-induced schizophrenia-like model.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43033722/",
-      "source": "PubMed",
-      "abstract": "Type 1 diabetes mellitus (T1D) and schizophrenia (SZ) have both been associated with impaired brain energy metabolism. We investigated whether alloxan-induced insulin-deficient diabetes modifies the effects of a ketamine-induced schizophrenia-like model on the activity of brain mitochondrial respiratory chain enzymes. Male Wistar rats (23 days old) were assigned to four groups in a 2 × 2 factorial design: Control, Alloxan, Ketamine, and Ketamine + Alloxan. Diabetes was induced by a single intraperitoneal (i.p.) injection of alloxan (150 mg/kg), and ketamine (25 mg/kg, i.p.) or saline was administered daily from day 4 to day 10. The activities of complexes I, II, II-III and IV were measured in tissue homogenates of the frontal cortex, hippocampus and striatum (n = 4 per group) and analyzed by two-way ANOVA, with correction for multiple testing across all outcomes. No observation was excluded from any analysis. Three effects remained significant after correction for multiple testing: alloxan was associated with lower complex II-III activity in the hippocampus (q = 0.016) and striatum (q = 0.016), and an alloxan × ketamine interaction was observed for complex I in the hippocampus (q = 0.016), where alloxan and ketamine each increased activity compared with controls whereas their combination did not. Before correction, ketamine was also associated with higher complex II activity in the hippocampus (p = 0.006) and interactions were detected for complex II-III (p = 0.046) and complex IV (p = 0.019) in the hippocampus and for complex I in the striatum (p = 0.031); these uncorrected findings should be regarded as exploratory. No significant effect of alloxan, ketamine or their interaction was detected for any enzyme in the frontal cortex. In this exploratory study, alloxan-induced diabetes and ketamine were associated with region- and enzyme-specific differences in respiratory chain enzyme activity in the hippocampus and striatum, with alloxan attenuating some ketamine-associated increases. These findings require replication in adequately powered studies including both sexes and complementary measures of mitochondrial function.",
-      "date": "2026-11-11",
-      "authors": [
-        "Wessler Patricia Gomes",
-        "Mastella Gustavo Antunes",
-        "Gress Katia"
-      ],
-      "doi": "10.1016/j.jpsychires.2026.11.026"
-    },
-    {
-      "title": "Simultaneous EEG-fMRI in major depressive disorder: A systematic review of brain networks, neurovascular coupling, and clinical correlates.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43033641/",
-      "source": "PubMed",
-      "abstract": "Simultaneous electroencephalography-functional magnetic resonance imaging (EEG-fMRI) offers unique potential to characterize brain network dysfunction and neurovascular coupling in major depressive disorder (MDD). However, the field lacks a rigorous synthesis restricted to strictly defined MDD populations with true multimodal integration. Following PRISMA 2020 guidelines (PROSPERO: CRD420261292902), we searched PubMed, Scopus, CENTRAL, and Google Scholar (inception to March 2026) for simultaneous EEG-fMRI studies in adults (≥18 years) with MDD. We excluded subclinical samples, healthy-only populations, and sequential acquisitions to ensure diagnostic specificity. Primary outcomes were network dysfunction, neurovascular coupling, and clinical associations. Narrative synthesis was performed due to data paucity (<3 studies/outcome). Risk of bias was assessed using modified ROB2, ROBINS-I, and JBI tools. Nine studies (eight cohorts; N=377) met strict criteria. Two reports from one cohort investigating anhedonia via neurofeedback (Zotev et al.) showed moderate-to-strong correlations between EEG-fMRI metrics and severity (r = 0.47 and 0.69). Single-study findings reported effect sizes for anxiety (r = 0.74), depression change (r = -0.38 to 0.90), and rumination (r = 0.20). Analytical heterogeneity was substantial. Evidence certainty was low due to bias risk and imprecision. Small sample sizes, methodological fragmentation, and reliance on single cohorts for specific outcomes limit generalizability. Simultaneous EEG-fMRI identifies strong neurophysiological correlates (e.g., anhedonia, treatment response) in active contexts (e.g., neurofeedback, ketamine), but evidence for generalizable resting-state biomarkers remains insufficient. Future efforts must prioritize standardized pipelines and large-scale cohorts to transition this technique to a clinical biomarker.",
-      "date": "2026-11-12",
-      "authors": [
-        "Sahu Vihaan",
-        "Jape Tanmay",
-        "Balakrishnan Mohith"
-      ],
-      "doi": "10.1016/j.psychres.2026.117592"
-    },
-    {
-      "title": "Substance use to DSM-5 substance-specific and any substance use disorder in the U.S., 2021-2024.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43033560/",
-      "source": "PubMed",
-      "abstract": "To estimate the number of U.S. individuals with Diagnostic and Statistical Manual of Mental Disorders, Fifth Edition (DSM-5) substance-specific substance use disorder (SUD) versus any DSM-5 SUD across 12 substances and assess SUD severity by polysubstance use. This cross-sectional study examined nationally representative data from the National Survey on Drug Use and Health collected annually in U.S. households from 2021 to 2024 among noninstitutionalized individuals aged ≥ 12 years (N = 232,441). Outcomes were DSM-5 substance-specific SUD, any SUD, and SUD severity estimates for individuals who reported past-year use of alcohol, cannabis, crack cocaine, other cocaine, hallucinogens, heroin, inhalants, methamphetamine, prescription opioids, sedatives, stimulants, and tranquilizers. Past-year substance-specific DSM-5 SUD prevalence ranged by substance used (5.2 % for prescription tranquilizers to 79.1 % for heroin). Most people who used substances other than alcohol or cannabis, or misused prescription medications met criteria for any SUD (59.7 % for inhalants to 92.1 % for heroin). Over 75 % of people reporting illicit stimulant use met criteria for any SUD. For past-year hallucinogen use, 5.3 % had a hallucinogen use disorder while 68.3 % had any SUD. Among people with SUD, mild severity was most common with 1-3 substances used (70.8 % for one; 52.7 % for three), while severe SUD was most prevalent among those using ≥ 5 substances (44.4 %). SUD prevalence was higher with polysubstance use versus single-substance use (34.3 % [≈37.2 million] versus 10.5 % [≈10.9 million]). DSM-5 SUD profiles vary across substances. Findings suggest the need for comprehensive assessment for DSM-5 SUD across all substances, especially with stimulant or polysubstance use.",
-      "date": "2026-11-09",
-      "authors": [
-        "McCabe Sean Esteban",
-        "McCabe Vita V",
-        "Dickinson Kara"
-      ],
-      "doi": "10.1016/j.addbeh.2026.108907"
-    },
-    {
-      "title": "Domain-level symptom improvement after ketamine and TMS-based stimulation in treatment-resistant depression: a post hoc pooled analysis.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43025276/",
-      "source": "PubMed",
-      "abstract": "We examined short-term symptom-domain improvement after ketamine and transcranial magnetic stimulation (TMS) in a post hoc pooled analysis of 159 active-treatment participants from three trials. Participants received a single ketamine infusion (n = 89) or a two-week TMS course (n = 70); nine had recorded bipolar diagnoses. Source trials used different treatment-resistance thresholds. We analyzed Depression, Anxiety, Insomnia, and Somatic indices derived from the Hamilton Depression Rating Scale. The primary analysis compared adjusted mean improvements across domains at day 14, with changes scaled by each domain's baseline standard deviation (SD). Models adjusted for baseline domain scores, age, and sex and used participant-cluster inference. Secondary analyses estimated baseline-adjusted correlations between continuous domain improvements. Mean improvement differed across domains within both modalities (both Holm-adjusted p < 0.001). Adjusted improvements for Depression, Anxiety, Insomnia, and Somatic were 1.48, 0.96, 0.46, and 0.45 SD units after ketamine and 1.71, 1.10, 0.72, and 0.78 after TMS. Main-model between-modality mean contrasts did not meet the adjusted threshold (p = 0.063-0.656); the Somatic contrast did so after adjustment for treatment-resistance categories. Direct correlation differences also did not meet the adjusted threshold (all p ≥ 0.085). These findings describe domain-specific improvement under different treatment regimens. Cross-modality comparisons remain exploratory and do not establish equivalence or guide treatment selection. UMIN000016985, UMIN000033916, UMIN000033760, and UMIN000020892.",
-      "date": "2026-11-07",
-      "authors": [
-        "Liu Kuan-I",
-        "Su Tung-Ping",
-        "Cheng Chih-Ming"
-      ],
-      "doi": "10.1016/j.psychres.2026.117571"
-    },
-    {
-      "title": "Oral Ketamine-Assisted Psychotherapy Leading to Prolonged Remission in Recurrent Dissociative Neurological Symptom Disorder With Mutism: A Case Report.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43023124/",
-      "source": "PubMed",
-      "abstract": "Dissociative neurological symptom disorder (DNSD), termed functional neurological symptom disorder in the Diagnostic and Statistical Manual of Mental Disorders, Fifth Edition, Text Revision (DSM-5-TR), presents with neurological symptoms not explained by structural disease. The first line treatment of DNSD is psychotherapy, but when the conflict maintaining the symptoms cannot be put into words, psychotherapy often stalls. This report describes a 56-year-old woman with a four-year history of episodic loss of consciousness and progressive speech loss, with normal neurological investigations. Escitalopram, intravenous ketamine infusions given without psychotherapy, and venlafaxine produced no meaningful benefit. A 30-day inpatient program of psychotherapy, family therapy, and speech therapy restored her speech, but she relapsed into complete mutism four months after discharge, and no stressor could be identified. A lorazepam-assisted interview produced sedation without speech. She then received six alternate-day sessions of oral ketamine-assisted psychotherapy, titrated from 50 mg to 150 mg, within a psychodynamically informed frame; while venlafaxine 225 mg/day was continued and family therapy was delivered alongside. She spoke a few words in the third session (100 mg) and conversed spontaneously in the fourth (150 mg), describing a conflict between a rigid moral self-image of never being greedy and unspoken distress over a family property dispute. Speech has been sustained for more than one year, and all psychotropic medication has since been withdrawn. The report proposes that, this single case is hypothesis-generating. It suggests that ketamine may be a useful and a better abreactive agent in selected patients with treatment-resistant DNSD, and that the therapeutic frame is also essential for the improvement to happen, and further controlled comparison with benzodiazepine-assisted interviews is warranted in the future.",
-      "date": "2026-10-12",
-      "authors": [
-        "Bakam Anirudh"
-      ],
-      "doi": "10.7759/cureus.117827"
-    },
-    {
-      "title": "A multiple Arc tagging approach for tracking neuronal ensembles across experiences.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43019055/",
-      "source": "PubMed",
-      "abstract": "Engrams, or memory traces, are the neuronal ensembles that collectively store individual experiences. Genetic strategies based on immediate early genes (IEGs), such as Arc/Arg3.1, allow for the ensembles active during memory encoding to be tagged and compared to those active during retrieval. However, these strategies only allow for the tagging of one neural ensemble. Here, we developed a multiple Arc (mArc) system that allows for the tagging of two Arc",
-      "date": "2026-11-12",
-      "authors": [
-        "Stackmann Michelle",
-        "Franceschini Alessandra",
-        "Bulthuis Nicholas E"
-      ],
-      "doi": "10.1016/j.celrep.2026.118278"
-    },
-    {
-      "title": "PROPOFOL VERSUS WITH PROPOFOL-KETAMINE MIXTURE AS ANAESTHETIC AGENT FOR ELECTROCONVULSIVE THERAPY: A RANDOMIZED CONTROLLED TRIAL.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43017194/",
-      "source": "PubMed",
-      "abstract": "Ketamine either alone or as an adjuvant is associated with an acute reduction in the severity of depression, while its effect on cognitive profile is is equivocal. This study compared the mood-elevating and cognitive outcomes of ketamine in combination with propofol versus propofol alone as anaesthetic agents in ECT. In this randomised-controlled study, 70 patients, aged 18-65years, undergoing ECT for DSM-V major depressive disorder were randomised into two groups. The ketamine-propofol group received intravenous propofol 0.6mg/kg and ketamine 0.6mg/kg, while the second group received intravenous propofol 1.2mg/kg only. Hamilton Depression Rating Scale (HAM-D) was used to assess the severity of depression, the Mini-Mental State Examination (MMSE) was used to assess cognitive performance, pre-ECT (T1), post-1st ECT (T2) and post-3rd ECT course (T3). The Analysis of Covariance and the mixed model linear regression were used to analyse the effect of the intervention. Analyses were by SPSS at 95% CI, p < 0.05. There was a significant reduction in HAM-D score post-3rd ECT in the ketamine-propofol group versus propofol group, F (1,58) = 23.24, p = 0.000, h = 0.286. There was no significant group difference on post-ECT course HAM-D score, F (1) = 0.004, p = 0.9. There was no significant group difference on post-ECT course MMSE scores, F (1) = 2.3, p = 0.1. There was no significant group difference on post-3rd ECT MMSE score, F (1,56) = 0.382, P = 0.5, 5?2 = 0.007, no significant group difference on post-ECT course MMSE scores, (F(1) = 2.3, p = 0.1. Ketamine-propofol anaesthesia in ECT is associated with temporary improvement of depressive symptoms, without any superiority to propofol in cognitive outcome at any level of ECT treatment.",
-      "date": "2026-Aug-31",
-      "authors": [
-        "Koleosho-Ademua O A",
-        "Sanusi A A",
-        "Sonaike M T"
-      ],
+      "title": "From Approvals to Appointments: Who Pays for Psychedelic Therapy, and How?",
+      "url": "https://psychedelicalpha.com/news/from-approvals-to-appointments-who-pays-for-psychedelic-therapy-and-how/",
+      "source": "Psychedelic Alpha",
+      "abstract": "At The Psychedelic Healthcare Forum, co-hosted by Psychedelic Alpha and Horizons in New York on October 15th, we dedicated a significant portion of our afternoon programming to a question that has loomed large in the field of late: Once a psychedelic is approved, how does it actually reach patients, and who pays? The block was […]",
+      "date": "2026-11-20",
+      "authors": [],
       "doi": ""
-    },
-    {
-      "title": "Connectedness as a candidate pathway linking psilocybin retreat experiences to sustained wellbeing: a prospective naturalistic study.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43016926/",
-      "source": "PubMed",
-      "abstract": "Psychedelic retreats are increasingly used to promote wellbeing outside clinical settings, yet the psychological processes associated with sustained improvements in wellbeing remain poorly understood. From a public mental health perspective, identifying mechanisms that support positive mental health beyond symptom reduction is of growing importance. This naturalistic longitudinal study followed 173 participants attending guided psilocybin retreats conducted within a structured framework of preparation, dosing, and integration. Mental wellbeing was reported before the retreat and across a 12-month follow-up period. Longitudinal changes were examined using linear mixed-effects models. Mediation analyses investigated whether changes in connectedness, neuroticism (anxiety facet), spiritual transcendence, and absorption were associated with changes in wellbeing. Mystical-type experiences were examined as potential predictors of these psychological changes. Participants reported substantial and sustained improvements in mental wellbeing over 12 months, moving from levels below Swedish population norms at baseline toward comparable levels at follow-up. Connectedness showed the strongest statistical association with improvements in wellbeing and accounted for the largest proportion of variance in wellbeing change, followed by reductions in the anxiety facet of neuroticism and absorption. Spiritual transcendence was associated with wellbeing improvements when examined separately but did not retain unique effects in the multiple mediation model. More intense mystical-type experiences predicted greater increases in connectedness, spirituality, and absorption, as well as greater reductions in neuroticism (trait anxiety). The association between mystical experiences and wellbeing was substantially attenuated when connectedness was included in the model, suggesting that connectedness may act as a candidate mediator linking mystical-type experiences to longer-term wellbeing, though the observational design precludes causal inference. These findings extend prior work on psychedelic-assisted therapy to naturalistic retreat settings, suggesting that connectedness may represent a key psychological process linking psychedelic retreat experiences to sustained improvements in mental wellbeing. From a public mental health perspective, the results highlight the potential importance of social and relational factors in promoting wellbeing beyond the treatment of mental illness. Future controlled studies are needed to clarify the relative contributions of psychedelic, social, and contextual components.",
-      "date": "2026-10-28",
-      "authors": [
-        "Åkesson Maria",
-        "Granqvist Pehr",
-        "Johansson Robert"
-      ],
-      "doi": "10.3389/fpsyt.2026.1924069"
     },
     {
       "title": "Breaking: Helus’ Deuterated Psilocin Hits Primary Endpoint in First Phase 3",
@@ -333,15 +344,6 @@
       "url": "https://psychedelicalpha.com/news/podcast-usona-files-psilocybin-application-we-review-610-comments-submitted-to-fda-and-fda-approves-nrxs-generic-ketamine/",
       "source": "Psychedelic Alpha",
       "abstract": "",
-      "date": "2026-11-02",
-      "authors": [],
-      "doi": ""
-    },
-    {
-      "title": "Usona Files Psilocybin for Depression NDA as Race With Compass Tightens",
-      "url": "https://psychedelicalpha.com/news/usona-files-psilocybin-for-depression-nda-as-race-with-compass-tightens/",
-      "source": "Psychedelic Alpha",
-      "abstract": "Reporting by Josh Hardman and Noah Smith. Nonprofit psychedelic research organisation Usona Institute has completed its submission of a new drug application (NDA) to the U.S. Food and Drug Administration (FDA) concerning its psilocybin candidate for major depressive disorder (MDD), Psychedelic Alpha understands. It means it’s the second psychedelic NDA under review by the agency […]",
       "date": "2026-11-02",
       "authors": [],
       "doi": ""
@@ -437,11 +439,140 @@
       "doi": ""
     },
     {
+      "title": "A let-7a-5p-engineered extracellular vesicle-laden bioactive scaffold promotes immunomodulation and regeneration of segmental tracheal defects.",
+      "url": "https://doi.org/10.1016/j.bioactmat.2026.10.008",
+      "source": "Europe PMC",
+      "abstract": "Segmental tracheal defects resulting from trauma, tumor resection, or congenital malformations pose significant challenges for reconstruction. Persistent post-injury inflammation, inadequate neovascularization, and delayed epithelial restoration contribute to the formation of granulation tissue and subsequent graft failure. In this study, we developed a bioactive tracheal scaffold for sustained local delivery of let-7a-5p-engineered extracellular vesicles (let-7a-5p-EVs) to modulate the regenerative microenvironment during tracheal repair. The scaffold was constructed by integrating a mechanically optimized polycaprolactone (PCL) framework with a 20% Pluronic F127 hydrogel, which served as a local reservoir for EV retention and sustained release. Let-7a-5p-EVs were generated from lentivirally engineered human gingiva-derived mesenchymal stem cells and showed typical EV morphology, representative EV marker expression, and efficient uptake by airway epithelial cells. In vitro, let-7a-5p-EVs enhanced airway epithelial cell migration and shifted lipopolysaccharide (LPS)-induced macrophages from a pro-inflammatory M1-like phenotype toward a reparative M2-like phenotype, accompanied by reduced inflammatory cytokine expression. In a rabbit segmental tracheal defect model, the let-7a-5p-EV-laden scaffold enhanced neovascularization, mitigated local inflammatory responses, promoted mucociliary epithelial reconstruction, and maintained airway patency. The let-7a-5p-EV scaffold improved biomechanical recovery, and increased survival rates. Transcriptomic profiling and molecular validation indicated that these effects were associated with the attenuation of nuclear factor kappa B (NF-κB)-associated inflammatory activation, as evidenced by reduced p65 phosphorylation and nuclear localization. These findings demonstrate that sustained local delivery of engineered EVs from a mechanically competent bioactive scaffold provides an effective immunomodulatory strategy for the regenerative repair of segmental tracheal defects and offers translational potential for functional airway reconstruction.",
+      "date": "2026-10-30",
+      "authors": [
+        "Liu B",
+        "Wei N",
+        "Liang L"
+      ],
+      "doi": "10.1016/j.bioactmat.2026.10.008"
+    },
+    {
+      "title": "Update on Sedation for Upper Gastrointestinal Endoscopy in Japan: Current Evidence on Remimazolam.",
+      "url": "https://doi.org/10.1002/deo2.70402",
+      "source": "Europe PMC",
+      "abstract": "Sedation is an essential component of upper gastrointestinal endoscopy because it reduces patient discomfort and anxiety while improving patient acceptance and procedural quality. In Japan, benzodiazepines such as midazolam and opioid analgesics have long been widely used in routine clinical practice; however, many of these agents historically lacked formal insurance approval for sedation during gastrointestinal endoscopy. Propofol is also a useful sedative because of its rapid onset and recovery, but its use in Japan has been limited because of concerns regarding respiratory and cardiovascular depression and the need for management by anesthesia-trained personnel. Against this background, the approval of remimazolam for sedation during gastrointestinal endoscopy in June 2025 represented a major turning point in Japanese endoscopic sedation practice. Remimazolam is an ultra-short-acting benzodiazepine rapidly metabolized by carboxylesterases and reversible with flumazenil. Japanese phase III trials demonstrated high sedation success rates and rapid recovery during upper gastrointestinal endoscopy, including in elderly patients. Compared with midazolam, remimazolam shortened awakening and ambulation times, whereas compared with propofol, it may cause fewer respiratory and cardiovascular adverse events. This review summarizes the current status of upper gastrointestinal endoscopic sedation in Japan, focusing on the clinical evidence and positioning of the newly approved ultra-short-acting benzodiazepine, remimazolam.",
+      "date": "2026-08-12",
+      "authors": [
+        "Ichijima R",
+        "Toyama M",
+        "Shishido T"
+      ],
+      "doi": "10.1002/deo2.70402"
+    },
+    {
+      "title": "Pain Management in the Trauma Patient.",
+      "url": "https://doi.org/10.1016/j.emc.2026.07.006",
+      "source": "Europe PMC",
+      "abstract": "Effective pain management in adult trauma patients is essential to improve recovery, reduce complications, and prevent long-term consequences such as chronic pain, depression, and PTSD. Multimodal analgesia combines medications and nonpharmacologic strategies to achieve better pain control while minimizing opioid use and associated risks. Key agents include acetaminophen, nonsteroidal anti-inflammatory agents, ketamine, topical and systemic lidocaine, gabapentinoids, muscle relaxants, and carefully selected opioids when necessary. Pain management should be individualized based on patient factors, including age, comorbidities, traumatic brain injury, and substance use disorders. Early assessment, regular reassessment, and coordinated multidisciplinary care optimize outcomes across trauma settings.",
+      "date": "2026-08-25",
+      "authors": [
+        "Coughlin RF",
+        "Couturier K."
+      ],
+      "doi": "10.1016/j.emc.2026.07.006"
+    },
+    {
+      "title": "A psychedelic-rich alkaloid fraction obtained from Mimosa tenuiflora (Willd.) Poir attenuates somatic and affective symptoms of naloxone-precipitated morphine withdrawal in C57BL/6 mice.",
+      "url": "https://doi.org/10.1016/j.jep.2026.122602",
+      "source": "Europe PMC",
+      "abstract": "<h4>Ethnopharmacological relevance</h4>Mimosa tenuiflora (Willd.) Poir. root bark is traditionally used in northeastern Brazil to prepare \"Jurema wine\", a beverage employed to relieve emotional distress and restore psychological well-being. However, validating its traditional preparations in central substance withdrawal states remains underexplored.<h4>Aim of the study</h4>To evaluate the ethnopharmacological potential of M. tenuiflora, we investigated the effects of an alkaloid fraction (AF II) from its root bark on somatic and affective morphine withdrawal symptoms in mice, without compromising analgesia.<h4>Materials and methods</h4>Male C57BL/6 mice were used for the tests. Possible interference with morphine-induced analgesia was assessed using the acetic acid-induced writhing test. The animals were made morphine-dependent using a dose-escalation regimen, and withdrawal syndrome was precipitated with naloxone. AF II (3, 6, or 9 mg/kg, s.c.) was administered before withdrawal induction.<h4>Results</h4>AF II did not interfere with morphine analgesia. AF II significantly reduced key somatic signs of morphine withdrawal, decreasing jumping and paw tremor without affecting Walk in reverse. During withdrawal, AF II increased exploratory behavior in the open field and modulated anxiety-related parameters.<h4>Conclusions</h4>The AF II from Mimosa tenuiflora, rich in serotonergic compounds, selectively attenuates somatic and affective components of opioid withdrawal in mice without compromising opioid analgesia, supporting its potential as a preliminary candidate for acute opioid withdrawal modulation. These findings provide scientific support for the traditional knowledge surrounding the central psychoactive and restorative properties of M. tenuiflora preparations.",
+      "date": "2026-11-03",
+      "authors": [
+        "da Silva TR",
+        "Machado KLB",
+        "Carvalho IMM"
+      ],
+      "doi": "10.1016/j.jep.2026.122602"
+    },
+    {
+      "title": "Tissue engineering polymeric formulations enable lymphangiogenesis for myocardial repair.",
+      "url": "https://doi.org/10.1016/j.bioactmat.2026.08.048",
+      "source": "Europe PMC",
+      "abstract": "<h4>Purpose</h4>Emerging evidence emphasizes the pivotal contribution of cardiac lymphatic activation following ischemic heart injury, with induced lymphangiogenesis driving edema resolution and inflammatory cell clearance. The aim of this study was to identify a bioactive small molecule with pro-lymphangiogenic activity and to develop a tissue engineering polymeric formulation for sustained local delivery in myocardial repair.<h4>Methods</h4>Through a high-throughput screen, we identified the bioactive molecule β-(3,4-dihydroxyphenyl) lactic acid (3,4-DHPLA) as a potent stimulator of lymphatic endothelial cells (LECs). To leverage this finding, we engineered a tissue engineering polymeric formulation (TEPF) to promote lymphangiogenesis during myocardial repair. The TEPF was fabricated via an integrated strategy combining 3D printing and near-field electrospinning to incorporate 3,4-DHPLA into a biodegradable polyurethane scaffold. The resulting structure mimics the microstructure of the cardiac extracellular matrix while supporting the microenvironment-responsive release of 3,4-DHPLA.<h4>Results</h4>We evaluated the therapeutic efficacy of TEPF in rat and porcine ischemia/reperfusion injury models, which markedly improved cardiac function and significantly attenuated adverse ventricular remodeling. Single-cell RNA sequencing and <i>in vitro</i> data further revealed the dual mechanisms of TEPF, not only promoting lymphangiogenesis but also orchestrating a pro-regenerative niche via expansion of Tregs, M2 macrophages, and pro-regenerative fibroblasts (COL12A1<sup>+</sup>, COL11A1<sup>+</sup>, NRG1<sup>+</sup>).<h4>Conclusions</h4>Thus, the tissue engineering polymeric formulations may enable sustained drug release during myocardial tissue repair, thereby alleviating the pain of injection administration for patients with cardiovascular diseases and potentially facilitating patient-friendly use of other functional molecules-based therapeutic tissue engineering formulations through durable delivery.",
+      "date": "2026-10-12",
+      "authors": [
+        "Liu Z",
+        "Li R",
+        "Huang W"
+      ],
+      "doi": "10.1016/j.bioactmat.2026.08.048"
+    },
+    {
+      "title": "Glis1 regulates metabolic programming by promoting H3K18 lactylation to alleviate neuronal senescence following spinal cord injury.",
+      "url": "https://doi.org/10.1016/j.gendis.2026.102382",
+      "source": "Europe PMC",
+      "abstract": "Neuronal senescence is a significant factor impeding spinal cord injury (SCI) repair. Research indicates that Glis1, a Kruppel-like zinc finger transcription factor, is pivotal in reprogramming senescent cells and enhancing genomic stability via lactylation. Histone lactylation, an epigenetic modification using lactate as a substrate, becomes prominent post-SCI due to increased neuronal lactate levels. However, the mechanisms linking neuronal senescence and histone lactylation following SCI remain poorly understood. This study elucidates the roles of Glis1, H3K18 lactylation, and neuronal senescence through comprehensive <i>in vivo</i> and <i>in vitro</i> investigations. The findings reveal a post-SCI rise in neuronal lactate levels, accompanied by cellular senescence. Furthermore, upregulation of Glis1 attenuates senescence and promotes histone lactylation. The downstream target secretogranin II (SCG2), identified via ChIP-seq and RNA-seq, was found to exert negative feedback on glycolytic metabolism and lactylation, thereby suppressing neuronal senescence. These results unveil a novel regulatory mechanism of Glis1 in neuronal senescence following SCI through the p300/H3K18la/SCG2 axis, offering a new therapeutic target for spinal cord repair.",
+      "date": "2026-07-23",
+      "authors": [
+        "Li D",
+        "Lu X",
+        "Gong Z"
+      ],
+      "doi": "10.1016/j.gendis.2026.102382"
+    },
+    {
+      "title": "Unveiling Ayahuasca: Comprehensive study of botanical and chemical diversity.",
+      "url": "https://doi.org/10.1016/j.jep.2026.122404",
+      "source": "Europe PMC",
+      "abstract": "Ayahuasca is an entheogenic beverage traditionally used by Indigenous peoples and local communities throughout Amazonia. Its preparation typically involves the vine Banisteriopsis caapi and the leaves of Psychotria viridis, widely recognized as its principal ingredients. Other plant species and ethnotaxa have also been historically reported in association with ayahuasca preparation, but their identities and supporting evidence remain unclear.<h4>Aim of the study</h4>This study compiles plant species and ethnotaxa historically reported in association with ayahuasca preparation and evaluates the ethnobotanical, taxonomic, and phytochemical evidence supporting these records.<h4>Materials and methods</h4>A narrative review of ethnobotanical and phytochemical literature was integrated with herbarium voucher data. Species were assessed according to the strength of available evidence, including peer-reviewed records, herbarium voucher records associated with vernacular names, and current taxonomic concepts. This framework distinguished taxa with robust support from those with limited documentation.<h4>Results</h4>Twenty-four vine species (Malpighiaceae) and thirteen species reported as leaf ingredients (Malpighiaceae and Rubiaceae) were identified, together with 119 B. caapi and two P. viridis ethnotaxa. Five vine and four leaf species were supported by both literature and voucher records and classified as historically confirmed ingredients. Ten vine and three leaf species were supported only by voucher records and classified as putative ayahuasca-associated taxa, whereas nine vine and six leaf species lacked sufficient evidence and were excluded. In addition, eighty species were identified as occasional additives to the ayahuasca beverage. Phytochemical data remain heavily concentrated on B. caapi and P. viridis.<h4>Conclusions</h4>Ayahuasca is associated with greater botanical diversity than is currently recognized, although supporting evidence varies among taxa. An evidence-based framework is essential for distinguishing historically supported ingredients from putative taxa and for guiding future research.",
+      "date": "2026-09-24",
+      "authors": [
+        "Saavedra-Saenz YC",
+        "E Silva MS",
+        "Estrada Semprun OE"
+      ],
+      "doi": "10.1016/j.jep.2026.122404"
+    },
+    {
+      "title": "A bioactivity-enhanced thermosensitive amnion-derived hydrogel with sustained IGF-1 release: A multitargeted and efficient strategy for corneal injury repair.",
+      "url": "https://doi.org/10.1016/j.bioactmat.2026.09.003",
+      "source": "Europe PMC",
+      "abstract": "Corneal alkali burn (CAB) remains difficult to treat because rapid tear clearance limits topical drug exposure, while the injured cornea develops a complex microenvironment involving inflammation, neovascularization, fibrosis, epithelial barrier loss, and impaired nerve repair. Here, we developed a human amniotic membrane-derived thermosensitive hydrogel (hAMgel) and loaded it with insulin-like growth factor-1 (IGF-1) to create a bioactive sustained-release system (IGF1@hAMgel) for CAB repair. The hAMgel transformed from a flowable precursor into a semi-transparent film on the ocular surface within 1-2 min and IGF1@hAMgel released approximately 90% of loaded IGF-1 over 24 h, with corneal IGF-1 concentration peaking at 2 h post-dose (378.5 pg/mg protein) and remaining detectable over 24 h, supporting sustained topical exposure. In a rat CAB model, IGF1@hAMgel accelerated epithelial healing, reducing the fluorescein-stained area from 31.34 ± 2.83% in controls to 16.78 ± 2.87% at day 1. By day 14, IGF1@hAMgel reduced corneal opacity (0.67 ± 0.52 vs. 4.00 ± 0.00), resolved edema with central corneal thickness approaching baseline (187.7 ± 16.31 μm vs. 178.3 ± 5.89 μm), suppressed neovascularization (CD31-positive area 4.46 ± 1.69% vs. 24.33 ± 2.07%), and promoted corneal nerve regeneration. Proteomic analysis showed that hAMgel retained abundant extracellular matrix(ECM) components, including collagens, Lumican, and fibronectin, together with repair-related and immunomodulatory proteins. These findings identify IGF1@hAMgel as a sutureless, eye-drop-like bioactive ECM platform that integrates growth-factor delivery with amnion-derived reparative cues for multitargeted ocular surface repair.",
+      "date": "2026-09-16",
+      "authors": [
+        "Xie M",
+        "Li A",
+        "Sun X"
+      ],
+      "doi": "10.1016/j.bioactmat.2026.09.003"
+    },
+    {
+      "title": "A self-crosslinkable, adhesive intestine-derived extracellular matrix hydrogel enhances organoid retention and restores intestinal barrier integrity.",
+      "url": "https://doi.org/10.1016/j.bioactmat.2026.09.006",
+      "source": "Europe PMC",
+      "abstract": "Disruption of the intestinal barrier impairs essential functions of the gastrointestinal tract and triggers severe inflammation. Accordingly, transplantation of intestinal organoids restores the integrity of the injured intestinal barrier by promoting regeneration. However, the dynamic mucosal microenvironment of the intestine hinders effective retention of transplanted organoids, thereby limiting their therapeutic efficacy. To address this challenge, this study introduces a pyrogallol (PG)-conjugated intestine-derived extracellular matrix (IEM) (IEM-PG) as a scaffold for effective organoid transplantation. The dual crosslinking of IEM-based fibrillogenesis and oxidative PG coupling enabled IEM-PG to form a robust hydrogel scaffold without crosslinking agents under physiological conditions. Moreover, the IEM-PG hydrogel exhibited enhanced mechanical properties, superior bio-adhesion, and greater resistance to enzymatic degradation than the pristine IEM. The IEM-PG hydrogel was also highly biocompatible and did not adversely affect the viability and development of colonic organoids. The solution-type IEM-PG was readily injected into colonic tissue, thus allowing IEM-PG to initially spread along the intestinal lining. Transplantation of colonic organoids using IEM-PG in a mouse colonic ulcer model demonstrated effective cell retention in the intestinal tract, thereby restoring the structural integrity and function of the intestinal barrier. The study further demonstrated that the patch-type IEM-PG hydrogel was effective for the transplantation of colonic assembloids and the treatment of colonic perforation. Overall, this study presents the IEM engineered with an adhesive motif as a self-crosslinking hydrogel platform for organoid/assembloid transplantation and intestinal tissue repair.",
+      "date": "2026-09-15",
+      "authors": [
+        "Kim YS",
+        "Han SY",
+        "An S"
+      ],
+      "doi": "10.1016/j.bioactmat.2026.09.006"
+    },
+    {
+      "title": "Rapid antidepressant-like effects of Chaihu Shugan San in female restraint-stressed mice: involvement of hippocampal TC2N and ERβ-eNOS-CaMKII-BDNF signaling.",
+      "url": "https://doi.org/10.1016/j.jep.2026.122427",
+      "source": "Europe PMC",
+      "abstract": "<h4>Ethnopharmacological relevance</h4>Chaihu Shugan San (CSS), a classical seven-herb formula from the Ming-dynasty text Jing-Yue Quanshu, is widely prescribed for depressive disorders in China. Previous preclinical studies reported antidepressant-like effects only after weeks of repeated administration, mostly in male animals. Whether a single dose of CSS can produce rapid antidepressant-like effects in female animals, and through what mechanism, remains unclear.<h4>Aim of the study</h4>To determine whether a single administration of CSS produces rapid antidepressant-like effects in female mice exposed to chronic restraint stress (CRS), and to explore the underlying hippocampal mechanism.<h4>Methods and materials</h4>CSS quality was controlled by HPLC quantification of four index components. Female CRS mice received a single dose of CSS (1, 2 or 4 g/kg, i. g.) or ketamine (10 mg/kg, i. p.), followed by behavioral testing (tail suspension, forced swimming, sucrose preference and open field tests) within 2-24 h. Hippocampal RNA sequencing, RT-qPCR, Western blotting and ELISA were used to identify and validate candidate targets; hippocampal AAV-mediated TC2N overexpression and pretreatment with the ERβ antagonist acolbifene or the CaMKII inhibitor KN-93 were used for interventional validation.<h4>Results</h4>Batch-to-batch variation of the four index components was below 10% (RSDs 3.51-5.66%), with naringin (313.07 ± 11.16 μg/mL) and hesperidin (196.40 ± 11.11 μg/mL) as the major constituents. Acute administration of CSS (2 and 4 g/kg), like ketamine, shortened immobility time in the tail suspension test at 2 h and in the forced swimming test at 12 h, and restored sucrose preference at 24 h, without affecting locomotor activity. Hippocampal transcriptomics identified Tc2n as up-regulated by CRS and down-regulated by CSS, with Esr2, Nos3 and Camk2a showing the opposite pattern; these changes were confirmed at the mRNA and protein levels within 2 h. Hippocampal TC2N overexpression or pretreatment with acolbifene or KN-93 abolished the rapid behavioral effects of CSS and the associated changes in ERβ-eNOS-CaMKII-BDNF signaling.<h4>Conclusion</h4>CSS produces rapid, ketamine-comparable antidepressant-like behavioral effects in female CRS-exposed mice, accompanied by down-regulation of hippocampal TC2N and involvement of ERβ, eNOS, CaMKII and BDNF. Because only female mice were studied, these findings are specific to females and support an estrogen-linked mechanism that warrants confirmation in male animals and further translational study.",
+      "date": "2026-09-22",
+      "authors": [
+        "Wu L",
+        "Cheng W",
+        "Xiang H"
+      ],
+      "doi": "10.1016/j.jep.2026.122427"
+    },
+    {
       "title": "CZ",
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2018-004480-31/CZ",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-11-19",
+      "date": "2026-11-20",
       "authors": [],
       "doi": ""
     },
@@ -450,7 +581,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2020-005037-32/CZ",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-11-19",
+      "date": "2026-11-20",
       "authors": [],
       "doi": ""
     },
@@ -459,7 +590,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2021-002909-10/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-11-19",
+      "date": "2026-11-20",
       "authors": [],
       "doi": ""
     },
@@ -468,7 +599,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2015-000550-37/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-11-19",
+      "date": "2026-11-20",
       "authors": [],
       "doi": ""
     },
@@ -477,7 +608,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2021-000041-40/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-11-19",
+      "date": "2026-11-20",
       "authors": [],
       "doi": ""
     },
@@ -486,7 +617,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2020-000829-55/DK",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-11-19",
+      "date": "2026-11-20",
       "authors": [],
       "doi": ""
     },
@@ -495,7 +626,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2020-002790-94/SE",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-11-19",
+      "date": "2026-11-20",
       "authors": [],
       "doi": ""
     },
@@ -504,7 +635,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2021-006200-33/FI",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-11-19",
+      "date": "2026-11-20",
       "authors": [],
       "doi": ""
     },
@@ -513,7 +644,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2019-004812-73/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-11-19",
+      "date": "2026-11-20",
       "authors": [],
       "doi": ""
     },
@@ -522,7 +653,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2022-002369-14/BE",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-11-19",
+      "date": "2026-11-20",
       "authors": [],
       "doi": ""
     },

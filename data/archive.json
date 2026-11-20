@@ -1,6 +1,171 @@
 {
   "items": [
     {
+      "title": "A state-dependent glymphatic dimension in major depressive disorder: implications for treatment resistance.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43058178/",
+      "source": "PubMed",
+      "date": "2026-11-19",
+      "authors": [
+        "Barlattani Tommaso",
+        "Pettorruso Mauro",
+        "Di Lorenzo Giorgio"
+      ],
+      "doi": "10.1038/s41380-026-03974-w",
+      "summary_en": "Study examines the glymphatic system—cerebrospinal fluid clearance dependent on sleep, vascular function, and astrocytes—as a potential mechanism in treatment-resistant depression. Preclinical data link stress to astrocyte injury and fluid transport dysfunction. Brain imaging shows varied glymphatic markers across depressive subtypes. Ketamine, transcranial stimulation, and psychedelics offer avenues to investigate treatment-related glymphatic changes in longitudinal studies.",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "other",
+      "substances": [
+        "ketamine",
+        "psilocybin"
+      ],
+      "added_at": "2026-11-20T15:40:00.448250+00:00"
+    },
+    {
+      "title": "Animal models in psychedelic research - Tripping over translation.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43058087/",
+      "source": "PubMed",
+      "date": "2026-11-19",
+      "authors": [
+        "Abd El Hay Muad Y",
+        "Cukić Ana",
+        "Schölvinck Marieke L"
+      ],
+      "doi": "10.1038/s41398-026-04589-z",
+      "summary_en": "Animal models in psychedelic research - Tripping over translation.",
+      "notable": true,
+      "notable_reason": "Systematic audit of 266 rodent studies identifying major methodological gaps in how preclinical research models human therapeutic conditions (set/setting), with implications for clinical translation.",
+      "study_type": "review",
+      "substances": [
+        "psilocybin",
+        "lsd",
+        "mdma",
+        "other"
+      ],
+      "added_at": "2026-11-20T15:40:00.448250+00:00"
+    },
+    {
+      "title": "Psychedelic-assisted treatment for substance use disorders: Evidence and uncertainties.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43057215/",
+      "source": "PubMed",
+      "date": "2026-11-19",
+      "authors": [
+        "Marsden John",
+        "Hall Wayne D",
+        "Andrews Christina M"
+      ],
+      "doi": "10.1111/add.70717",
+      "summary_en": "Review examining psychedelic-assisted therapy for substance use disorders. Analyzes current evidence base while identifying key uncertainties in treatment mechanisms, optimal dosing protocols, patient selection criteria, and long-term outcomes. Emphasizes need for further rigorous clinical trials to establish efficacy and safety profiles.",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "review",
+      "substances": [
+        "psilocybin",
+        "lsd",
+        "mdma",
+        "ketamine",
+        "ibogaine",
+        "other"
+      ],
+      "added_at": "2026-11-20T15:40:00.448250+00:00"
+    },
+    {
+      "title": "Psychedelics and Sleep: Preclinical and Human Studies-A Systematic Review.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43054774/",
+      "source": "PubMed",
+      "date": "2026-10-11",
+      "authors": [
+        "Supit Kim",
+        "Rossi Giordano N",
+        "Reis José Augusto S"
+      ],
+      "doi": "10.65801/pcp.3606",
+      "summary_en": "A systematic review examining the relationship between psychedelics and sleep across preclinical and human studies. The review synthesizes available evidence on how classical psychedelics and related compounds affect sleep architecture, sleep quality, and sleep-related physiological processes. Findings contribute to understanding psychedelics' neurobiological mechanisms and potential therapeutic applications in sleep disorders.",
+      "notable": true,
+      "notable_reason": "Systematic review synthesizing evidence across multiple psychedelic compounds and sleep outcomes—a clinically relevant topic for understanding therapeutic mechanisms and side effects.",
+      "study_type": "review",
+      "substances": [
+        "other"
+      ],
+      "added_at": "2026-11-20T15:40:00.448250+00:00"
+    },
+    {
+      "title": "Targeting CGRP signaling reverses maladaptive neurogenic immunosuppression in head and neck squamous cell carcinoma models.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43056154/",
+      "source": "PubMed",
+      "date": "2026-11-19",
+      "authors": [
+        "Idlett-Ali Shaquia L",
+        "Nguyen Alexander Th",
+        "Abdelazeem Khalid Nm"
+      ],
+      "doi": "10.1172/JCI204965",
+      "summary_en": "Study in head and neck cancer models shows tumor-induced sensory nerve hyperactivity promotes immunosuppression. CGRP blockade—via genetic knockout or high-dose psilocybin—reduced tumor growth when combined with radioimmunotherapy by decreasing regulatory T cells. Psilocybin increased circulating serotonin and enhanced antitumor immunity. Findings suggest targeting neurogenic inflammation may improve solid tumor treatment.",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "preclinical",
+      "substances": [
+        "psilocybin"
+      ],
+      "added_at": "2026-11-20T15:40:00.448250+00:00"
+    },
+    {
+      "title": "From Approvals to Appointments: Who Pays for Psychedelic Therapy, and How?",
+      "url": "https://psychedelicalpha.com/news/from-approvals-to-appointments-who-pays-for-psychedelic-therapy-and-how/",
+      "source": "Psychedelic Alpha",
+      "date": "2026-11-20",
+      "authors": [],
+      "doi": "",
+      "summary_en": "A Psychedelic Healthcare Forum explored the practical and financial aspects of psychedelic-assisted therapy after regulatory approval. The discussion addressed key questions about patient access, treatment delivery mechanisms, and payment systems that will determine whether approved psychedelics reach clinical practice and who bears the costs.",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "other",
+      "substances": [
+        "other"
+      ],
+      "added_at": "2026-11-20T15:40:00.448250+00:00"
+    },
+    {
+      "title": "A psychedelic-rich alkaloid fraction obtained from Mimosa tenuiflora (Willd.) Poir attenuates somatic and affective symptoms of naloxone-precipitated morphine withdrawal in C57BL/6 mice.",
+      "url": "https://doi.org/10.1016/j.jep.2026.122602",
+      "source": "Europe PMC",
+      "date": "2026-11-03",
+      "authors": [
+        "da Silva TR",
+        "Machado KLB",
+        "Carvalho IMM"
+      ],
+      "doi": "10.1016/j.jep.2026.122602",
+      "summary_en": "An alkaloid fraction from Mimosa tenuiflora root bark, traditionally used in Brazilian folk medicine, was tested in morphine-dependent C57BL/6 mice. The fraction (3–9 mg/kg) significantly reduced somatic withdrawal symptoms including jumping and paw tremor, increased exploratory behavior, and modulated anxiety parameters, without affecting morphine analgesia. Results suggest ethnopharmacological potential for opioid withdrawal management.",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "preclinical",
+      "substances": [
+        "other"
+      ],
+      "added_at": "2026-11-20T15:40:00.448250+00:00"
+    },
+    {
+      "title": "Unveiling Ayahuasca: Comprehensive study of botanical and chemical diversity.",
+      "url": "https://doi.org/10.1016/j.jep.2026.122404",
+      "source": "Europe PMC",
+      "date": "2026-09-24",
+      "authors": [
+        "Saavedra-Saenz YC",
+        "E Silva MS",
+        "Estrada Semprun OE"
+      ],
+      "doi": "10.1016/j.jep.2026.122404",
+      "summary_en": "Comprehensive review of ayahuasca's botanical composition identified 24 vine species and 13 leaf species historically used in preparation alongside the established ingredients Banisteriopsis caapi and Psychotria viridis. Through narrative review combining ethnobotanical literature, phytochemical data, and herbarium records, researchers classified 5 vine and 4 leaf species as historically confirmed, 10 vine and 3 leaf species as probable, and remaining taxa as having limited documentation. This systematic assessment clarifies the chemical and botanical diversity of traditional ayahuasca preparations.",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "review",
+      "substances": [
+        "ayahuasca"
+      ],
+      "added_at": "2026-11-20T15:40:00.448250+00:00"
+    },
+    {
       "title": "Maintenance ketamine infusions for treatment-resistant bipolar depression: An open-label extension trial.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/43051162/",
       "source": "PubMed",

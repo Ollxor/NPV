@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-20T15:42:29.770854+00:00",
+  "generated_at": "2026-11-21T14:50:20.969167+00:00",
   "items": [
     {
       "title": "Determination of Tryptamines in Biological Specimens.",
@@ -32,6 +32,37 @@
         "other"
       ],
       "added_at": "2026-11-02T16:23:16.533919+00:00"
+    },
+    {
+      "title": "Ketamine promotes strategic and efficient approach-avoidance conflict resolution.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43064727/",
+      "source": "PubMed",
+      "date": "2026-11-20",
+      "authors": [
+        "Vestring Stefan",
+        "Pfauth Samuel",
+        "Galuba Viktoria"
+      ],
+      "doi": "10.1038/s43856-026-01998-5",
+      "summaries": {
+        "en": "Randomized crossover study (n=34) comparing ketamine (50 mg intranasal) and lorazepam (1 mg oral) on approach-avoidance conflict resolution. Participants completed a dynamic task varying threat probability and loss magnitude. Ketamine produced 57% higher token gains than control and 33% higher than lorazepam, suggesting enhanced strategic decision-making in motivational conflicts relevant to depression.",
+        "sv": "Randomiserad crossover-studie (n=34) jämförde ketamin (50 mg intranasal) och lorazepam (1 mg oralt) på lösning av närmelse-undvikande konflikter. Deltagarna genomförde en dynamisk uppgift med varierande hotrisker och förlustmagnitud. Ketamin gav 57% högre tokenvinster än kontroll och 33% högre än lorazepam, vilket tyder på förbättrat strategiskt beslutsfattande relevant för depression.",
+        "no": "Randomisert crossover-studie (n=34) som sammenlignet ketamin (50 mg intranasal) og lorazepam (1 mg oralt) på løsning av tilnærmelse-unngåelseskonflikter. Deltakerne gjennomførte en dynamisk oppgave med variert trusselssannsynlighet og tapsomfang. Ketamin gav 57% høyere tokengevinster enn kontroll og 33% høyere enn lorazepam, noe som tyder på forbedret strategisk beslutsfatting relevant for depresjon.",
+        "da": "Randomiseret crossover-studie (n=34) der ketamin (50 mg intranasal) og lorazepam (1 mg oralt) blev sammenlignet på løsning af tilnærmelse-undgåelseskonflikter. Deltagerne gennemførte en dynamisk opgave med varierende truselssandsynlighed og tabsstørrelse. Ketamin gav 57% højere tokengevinster end kontrol og 33% højere end lorazepam, hvilket tyder på forbedret strategisk beslutningstagning relevant for depression.",
+        "fi": "Satunnaistettu crossover-tutkimus (n=34), jossa vertailtiin ketamiinia (50 mg intranaali) ja loratsepaami (1 mg suun kautta) lähestymis-välttämiskonfliktien ratkaisuun. Osallistujat suorittivat dynaamisen tehtävän, jossa vaihtelivat uhkan todennäköisyys ja tappion suuruus. Ketamiini tuotti 57% korkeammat rahakeräykset kuin kontrolli ja 33% korkeammat kuin loratsepaami, mikä viittaa parempaan strategiseen päätöksentekoon masennuksessa.",
+        "is": "Handahóf crossover-rannsókn (n=34) sem bór ketamín (50 mg í nef) og lorazepam (1 mg með munn) við lausn átaka milli nálgunar og forða. Þátttakendur luku kvika verkefni með breytilegu hættuáliki og tapsumfangi. Ketamín skilaði 57% hærri táknabótum en viðmið og 33% hærri en lorazepam, sem bendir til betri stefnumótandi ákvarðanatöku við þunglyndi.",
+        "et": "Randomiseeritud crossover-uuring (n=34), kus võrreldi ketamiini (50 mg intranaasaalne) ja loratsepaami (1 mg suuline) lähenemis-vältimise konflikti lahendamisel. Osalejad sooritasid dünaamilist ülesannet, kus varieeriti ohutaseme tõenäosust ja kahjumi suurust. Ketamiin andis 57% kõrgemad märgiga sissetulekud kui kontroll ja 33% kõrgemad kui loratsepaami, mis viitab paremale strateegilisele otsustamisele depressiooni puhul.",
+        "lv": "Randomizēts crossover pētījums (n=34), kurā salīdzināti ketamīns (50 mg intranaziāli) un lorazepams (1 mg perorāli) pietuvinājuma-izvairīšanās konflikta risināšanai. Dalībnieki veica dinamisku uzdevumu ar mainīgiem draudu varbūtības un zaudējuma apmēra parametriem. Ketamīns radīja par 57% augstākus žetonu ieguvumus nekā kontrole un par 33% augstākus nekā lorazepams, kas liecina par uzlabotu stratēģisku lēmumu pieņemšanu depresijā.",
+        "lt": "Randomizuotas skersinis tyrimas (n=34), kuriame palygintas ketaminas (50 mg intranaziniu) ir lorazepamas (1 mg žande) artėjimo-vengimo konflikto sprendimui. Dalyviai atliko dinaminę užduotį su skirtingomis grėsmės tikimybėmis ir nuostolių dydžiais. Ketaminas davė 57% didesnius žetonų pelnus nei kontrolė ir 33% didesnius nei lorazepamas, o tai rodo geresnį strateginį sprendimų priėmimą depresijoje."
+      },
+      "notable": false,
+      "notable_reasons": null,
+      "relevance_score": 4,
+      "study_type": "rct",
+      "substances": [
+        "ketamine"
+      ],
+      "added_at": "2026-11-21T14:50:05.257047+00:00"
     },
     {
       "title": "From Approvals to Appointments: Who Pays for Psychedelic Therapy, and How?",
@@ -1951,36 +1982,6 @@
         "ketamine"
       ],
       "added_at": "2026-10-23T11:53:34.702057+00:00"
-    },
-    {
-      "title": "Integrating multi-receptor and neuron-glia mechanisms of ketamine's antidepressant action: a convergence framework for understanding efficacy.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42985291/",
-      "source": "PubMed",
-      "date": "2026-10-21",
-      "authors": [
-        "Sulej Zuzanna",
-        "Zielińska Magdalena"
-      ],
-      "doi": "10.3389/fnmol.2026.1950244",
-      "summaries": {
-        "en": "Integrative review examining ketamine's antidepressant mechanisms beyond NMDAR antagonism. Proposes multi-receptor convergence model involving disinhibition cascade, AMPA receptor activation, TrkB signaling, and glial cell contributions (astrocytes, microglia, oligodendrocytes). Discusses sigma-1 receptor's role in neuroplasticity. Suggests ketamine's rapid efficacy arises from coordinated actions across multiple receptor systems and neuron-glia interactions rather than single mechanism.",
-        "sv": "Integrerande översikt av ketamins antidepressiva mekanismer bortom NMDAR-antagonism. Föreslår flermottagarmodell med disinhibitionskaskad, AMPA-receptoraktivering, TrkB-signalering och gliacellers bidrag (astrocyter, microglia, oligodendrocyter). Diskuterar sigma-1-receptorns roll i neuroplasticitet. Antyder att ketamins snabba effekt kommer från samordnade åtgärder över flera receptorsystem och neuron-glia-interaktioner.",
-        "no": "Integrativ oversikt over ketamins antidepressive mekanismer utover NMDAR-antagonisme. Foreslår flermottaker-konvergensmodell med disinhibisjonskaskade, AMPA-reseptoraktivering, TrkB-signalering og gliacellbidrag (astrocytter, microglia, oligodendrocytter). Diskuterer sigma-1-reseptorens rolle i neuroplastisitet. Antyder at ketamins raske virkning stammer fra koordinerte handlinger på tvers av flere reseptorsystemer og nevron-glia-interaksjoner.",
-        "da": "Integrativ oversigt over ketamins antidepressive mekanismer ud over NMDAR-antagonisme. Foreslår flermottager-konvergensmodel med disinhibitionskaskade, AMPA-receptoraktivering, TrkB-signalering og glia-cellbidrag (astrocytter, microglia, oligodendrocytter). Diskuterer sigma-1-receptorens rolle i neuroplasticitet. Antyder, at ketamins hurtige effekt stammer fra koordinerede handlinger på tværs af flere receptorsystemer og neuron-glia-interaktioner.",
-        "fi": "Integroiva katsaus ketamiinin masennuslääkkeen mekanismeista NMDAR-antagonismin lisäksi. Ehdottaa multireseptori-konvergenssimallia, joka sisältää disinhibitio-kaskadin, AMPA-reseptorin aktivoinnin, TrkB-signaloinnin ja glia-solujen kontribuution (astrosyytit, microglia, oligodendrosyytit). Keskustelee sigma-1-reseptorin roolista neuroplastisiteetissa. Viittaa siihen, että ketamiinin nopea vaikutus johtuu koordinoiduista toiminnoista useiden reseptorisysteemien ja neuroniglia-vuorovaikutusten välillä.",
-        "is": "Samofnandi yfirlitið á sálgreinandi verkun ketamíns umfram NMDAR-mótsöfnun. Leggur til margmóta samruna líkan með óbeinni lokun, AMPA-viðtaka virkjun, TrkB-merki og gliakillna framlög (stjörnukillur, microglia, oligodendrocytes). Fjallar um sigma-1 viðtaka hlutverk í taugasveigjanleika. Bendir til þess að hröð áhrif ketamíns stafi frá samhæfðum aðgerðum yfir marga viðtakakerfla og taugaglia-víxlvirkni.",
-        "et": "Integraalne ülevaade ketamiini antidepressiivsete mehhanismide kohta väljaspool NMDAR-antagonismi. Pakub mitme retseptoriga konvergentsi mudelit, mis hõlmab disinhibitsiooni kaskaadi, AMPA-retseptori aktiveerimist, TrkB-signaliseerimist ja glia-rakkude panust (astrotsüüdid, mikroglia, oligodendrotsüüdid). Käsitleb sigma-1-retseptori rolli neuroplasstilisuses. Viitab, et ketamiini kiire toime tuleneb koordineeritud toimest mitme retseptorisüsteemi ja neuroni-glia-interaktsiooni ülal.",
-        "lv": "Integratīvs pārskats par ketamīna antidepresantu mehānismiem pāri NMDAR-antagonismam. Ierosina multi-receptoru konverģences modeli ar desinhibīcijas kaskādi, AMPA-receptoru aktivāciju, TrkB-signalizāciju un glijazīmju (astrocīti, mikroglia, oligodendrocīti) ieguldījumu. Apspriež sigma-1 receptora lomu neiroplastitātē. Norāda, ka ketamīna ātrā efektivitāte rodas no koordinētas darbības vairākas receptoru sistēmās un neuroņu-glijas mijiedarbībā.",
-        "lt": "Integracinė apžvalga ketamino antidepresinio poveikio mechanizmų, peržengiant NMDAR antagonizmą. Siūlo multirezeptorinį konvergencijos modelį su desinhibicijos kaskada, AMPA receptorių aktyvavimu, TrkB signalizavimu ir glija ląstelių indėliu (astrocitai, mikroglia, oligodendrocitai). Aptaria sigma-1 receptoriaus vaidmenį neuroplastitikoje. Rodo, kad ketamino greitis kyla iš suderintų veiksmų keliose receptorių sistemose ir neurono-glijos sąveikoje."
-      },
-      "notable": false,
-      "notable_reasons": null,
-      "relevance_score": 4,
-      "study_type": "review",
-      "substances": [
-        "ketamine"
-      ],
-      "added_at": "2026-11-06T14:28:41.212579+00:00"
     }
   ]
 }

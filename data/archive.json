@@ -1,6 +1,26 @@
 {
   "items": [
     {
+      "title": "Ketamine promotes strategic and efficient approach-avoidance conflict resolution.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43064727/",
+      "source": "PubMed",
+      "date": "2026-11-20",
+      "authors": [
+        "Vestring Stefan",
+        "Pfauth Samuel",
+        "Galuba Viktoria"
+      ],
+      "doi": "10.1038/s43856-026-01998-5",
+      "summary_en": "Randomized crossover study (n=34) comparing ketamine (50 mg intranasal) and lorazepam (1 mg oral) on approach-avoidance conflict resolution. Participants completed a dynamic task varying threat probability and loss magnitude. Ketamine produced 57% higher token gains than control and 33% higher than lorazepam, suggesting enhanced strategic decision-making in motivational conflicts relevant to depression.",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "rct",
+      "substances": [
+        "ketamine"
+      ],
+      "added_at": "2026-11-21T14:50:05.257047+00:00"
+    },
+    {
       "title": "A state-dependent glymphatic dimension in major depressive disorder: implications for treatment resistance.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/43058178/",
       "source": "PubMed",

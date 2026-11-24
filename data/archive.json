@@ -1,6 +1,26 @@
 {
   "items": [
     {
+      "title": "Intravenous ketamine for major depressive episodes in routine practice: a review of non-randomized evidence on effectiveness and safety.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43071461/",
+      "source": "PubMed",
+      "date": "2026-11-23",
+      "authors": [
+        "Wasolua Tychique T",
+        "McIntyre Roger S",
+        "Rhee Taeho Greg"
+      ],
+      "doi": "10.1080/17512433.2026.2768386",
+      "summary_en": "Intravenous ketamine for major depressive episodes in routine practice: a review of non-randomized evidence on effectiveness and safety.",
+      "notable": true,
+      "notable_reason": "Systematic review synthesizing 56 non-randomized studies on IV ketamine maintenance therapy, addressing a critical gap in long-term safety data and durability in routine clinical practice.",
+      "study_type": "review",
+      "substances": [
+        "ketamine"
+      ],
+      "added_at": "2026-11-24T18:01:20.174398+00:00"
+    },
+    {
       "title": "Beyond the Topline: Helus’ CMO on SAEs, Placebo Response and Support in First Phase 3",
       "url": "https://psychedelicalpha.com/news/beyond-the-topline-helus-cmo-on-saes-placebo-response-and-support-in-first-phase-3/",
       "source": "Psychedelic Alpha",

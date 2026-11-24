@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-23T18:33:46.823897+00:00",
+  "generated_at": "2026-11-24T18:01:53.924931+00:00",
   "items": [
     {
       "title": "Determination of Tryptamines in Biological Specimens.",
@@ -32,6 +32,47 @@
         "other"
       ],
       "added_at": "2026-11-02T16:23:16.533919+00:00"
+    },
+    {
+      "title": "Intravenous ketamine for major depressive episodes in routine practice: a review of non-randomized evidence on effectiveness and safety.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43071461/",
+      "source": "PubMed",
+      "date": "2026-11-23",
+      "authors": [
+        "Wasolua Tychique T",
+        "McIntyre Roger S",
+        "Rhee Taeho Greg"
+      ],
+      "doi": "10.1080/17512433.2026.2768386",
+      "summaries": {
+        "en": "Intravenous ketamine for major depressive episodes in routine practice: a review of non-randomized evidence on effectiveness and safety.",
+        "sv": "Intravenous ketamine for major depressive episodes in routine practice: a review of non-randomized evidence on effectiveness and safety.",
+        "no": "Intravenous ketamine for major depressive episodes in routine practice: a review of non-randomized evidence on effectiveness and safety.",
+        "da": "Intravenous ketamine for major depressive episodes in routine practice: a review of non-randomized evidence on effectiveness and safety.",
+        "fi": "Intravenous ketamine for major depressive episodes in routine practice: a review of non-randomized evidence on effectiveness and safety.",
+        "is": "Intravenous ketamine for major depressive episodes in routine practice: a review of non-randomized evidence on effectiveness and safety.",
+        "et": "Intravenous ketamine for major depressive episodes in routine practice: a review of non-randomized evidence on effectiveness and safety.",
+        "lv": "Intravenous ketamine for major depressive episodes in routine practice: a review of non-randomized evidence on effectiveness and safety.",
+        "lt": "Intravenous ketamine for major depressive episodes in routine practice: a review of non-randomized evidence on effectiveness and safety."
+      },
+      "notable": true,
+      "notable_reasons": {
+        "en": "Systematic review synthesizing 56 non-randomized studies on IV ketamine maintenance therapy, addressing a critical gap in long-term safety data and durability in routine clinical practice.",
+        "sv": "Systematisk översikt som syntetiserar 56 icke-randomiserade studier om IV ketamine underhållsterapi och fyller ett kritiskt gap gällande långtidssäkerhet och hållbarhet i vanlig klinisk praxis.",
+        "no": "Systematisk gjennomgang som syntetiserer 56 ikke-randomiserte studier om IV ketamine vedlikeholdsterapi, og adresserer et kritisk gap i langtidssikkerhetsdata og varighet i rutinemessig klinisk praksis.",
+        "da": "Systematisk oversigt der syntesiserer 56 ikke-randomiserede studier om IV ketamine vedligeholdelsesterapi og udfylder et kritisk hul i langsigtede sikkerhedsdata og varighed i rutinepraksis.",
+        "fi": "Systemaattinen katsaus, joka syntetisoi 56 ei-satunnaistetusta tutkimuksesta IV ketamiinin ylläpitohoitoa koskien ja käsittelee kriittistä puutetta pitkäaikaisen turvallisuuden ja kestävyyden tiedoissa rutiinokliinisessä käytännössä.",
+        "is": "Kerfræðileg endurskoðun sem myndar 56 óslembnum rannsóknir um IV ketamín viðhaldsendurvörpun og fjallar um mikilvægt eyði í gögnum um langtímöryggi og endingu í venjulegri klínískri iðkun.",
+        "et": "Süstemaatiline ülevaade, mis sünteesib 56 mittejuhuslikku uuringut IV ketamiini hooldusravil ning käsitleb kriitiliste lünkade täitmist pikaajaegu ohutuse andmete ja vastupidavuse osas tavapraktika kliinilises tegevuses.",
+        "lv": "Sistematisks pārskats, kas sintetizē 56 nejauši sadalītus pētījumus par IV ketamīna uzturošo terapiju, risinot kritiskas plaisu ilgtermiņa drošības datos un ilgtspējā klīniskajā praksē.",
+        "lt": "Sisteminė apžvalga, kurioje sintezuojami 56 neatsitiktiniai tyrimai dėl IV ketamino palaikomosios terapijos, sprendžiant kritinį spragą ilgalaikių saugumo duomenų ir atsparumo klinikinėje praktikoje."
+      },
+      "relevance_score": 4,
+      "study_type": "review",
+      "substances": [
+        "ketamine"
+      ],
+      "added_at": "2026-11-24T18:01:20.174398+00:00"
     },
     {
       "title": "Beyond the Topline: Helus’ CMO on SAEs, Placebo Response and Support in First Phase 3",
@@ -1955,37 +1996,6 @@
       "study_type": "rct",
       "substances": [
         "ketamine"
-      ],
-      "added_at": "2026-10-27T12:30:53.417560+00:00"
-    },
-    {
-      "title": "Sex-related differences in outcomes following psilocybin or escitalopram: a Bayesian secondary analysis.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42931904/",
-      "source": "PubMed",
-      "date": "2026-10-26",
-      "authors": [
-        "Frick Aline",
-        "Blest-Hopley Grace",
-        "Girn Manesh"
-      ],
-      "doi": "10.1007/s00213-026-07177-7",
-      "summaries": {
-        "en": "Secondary Bayesian analysis of a double-blind RCT (N=59) comparing psilocybin and escitalopram for major depression found limited sex differences. Females receiving psilocybin showed lower anxiety than males, though this varied across statistical priors. No significant sex differences emerged in depression or anhedonia outcomes. Results suggest comparable efficacy across sexes for both treatments.",
-        "sv": "Sekundäranalys med Bayesiansk metod av en dubbelblind RCT (N=59) som jämförde psilocybiner och escitalopram för depression visade begränsade könsskillnader. Kvinnor som fick psilocybiner hade lägre ångest än män, dock varierade resultatet mellan statistiska prior. Ingen signifikant könsskillnad sågs för depression eller anhedoni.",
-        "no": "Sekundær Bayesiansk analyse av en dobbelblind RCT (N=59) som sammenliknet psilocybiner og escitalopram for depresjon viste begrenset kjønnforskjeller. Kvinner som fikk psilocybiner hadde lavere angst enn menn, men resultatet varierte mellom statistiske prior. Ingen signifikant kjønnforskjell for depresjon eller anhedoni.",
-        "da": "Sekundær Bayesiansk analyse af et dobbeltblindet RCT (N=59) sammenlignende psilocybiner og escitalopram for depression viste begrænsede kønsforskelle. Kvinder, der fik psilocybiner, havde lavere angst end mænd, dog varierede resultatet mellem statistiske prior. Ingen signifikant kønsforskelle for depression eller anhedoni blev påvist.",
-        "fi": "Psykedeliikkojen ja escitalopraamin vertailevasta kaksoissokkoutetusta satunnaistetusta tutkimuksesta (N=59) tehdyssä Bayesin sekundaarianalyysissä ilmeni rajallisia sukupuolieroja masennuksessa. Psykedeliikkejä saaneet naiset kokivat vähemmän ahdistusta kuin miehet, vaikka tulos vaihteli tilastollisten priorien mukaan. Masennuksessa tai anhedoniassa ei havaittu merkitseviä sukupuolieroja.",
-        "is": "Afturraunir með Bayesinskri aðferð á tvöfaldri blindri tilviljunarkenndu rannsókn (N=59) sem bar saman psýlósýbína og escitalópram fyrir þunglyndi sýndu takmarkað kynjamun. Konur sem fengu psýlósýbína höfðu minni kvíða en karlar, þó niðurstaðan breytist eftir tölfræðilegum fyrirfram forsendum. Engin marktæk kynjamun komu fram við þunglyndi eða anhedóníu.",
-        "et": "Psühhedeelikumide ja escitalopraami võrdlusel tehtud kahekordses pimedas juhuslikustatud uuringus (N=59) teostatud Bayesi sekundaaranalüüs näitas piiratud sooline erinevusi. Psühhedeelikume saanud naised tundsid vähem ärevust kui mehed, kuid tulemus varieerus statistiliste priorite vahel. Depressiooni või anhedoonia osas märkimisväärseid sooseid erinevusi ei ilmnenud.",
-        "lv": "Psihedēliku un escitaloprama salīdzinošā dubultā aklajā randomizētajā kontrolējamajā pētījuma (N=59) Baijesa sekundārā analīze atklāja ierobežotas dzimuma atšķirības. Sievietes, kuras saņēma psihedēlikum, izjuta mazāk trauksmes nekā vīrieši, tomēr rezultāts mainījās atkarībā no statistiskajiem prioriem. Nozīmīgas dzimuma atšķirības depresijā vai anhedoņijā netika atrastas.",
-        "lt": "Antriniame Bayes'o atsitiktinės kontroliuojamos bandymo (N=59), lyginus psichiledikus ir escitalopramą depresijos gydymui, analizėje nustatyta ribota lyčių skirtumai. Moterys, gavusios psichedelikus, jautė mažiau nerimo nei vyrai, nors rezultatai skyrėsi priklausomai nuo statistinių priorinių. Reikšmingų lyčių skirtumų depresijoje ar anhedonijoje nenustatyta."
-      },
-      "notable": false,
-      "notable_reasons": null,
-      "relevance_score": 4,
-      "study_type": "rct",
-      "substances": [
-        "psilocybin"
       ],
       "added_at": "2026-10-27T12:30:53.417560+00:00"
     }

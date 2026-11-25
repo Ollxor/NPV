@@ -1,7 +1,20 @@
 {
-  "date": "2026-11-24",
-  "cached_at": "2026-11-24T16:57:34.747161+00:00",
+  "date": "2026-11-25",
+  "cached_at": "2026-11-25T16:46:08.272168+00:00",
   "articles": [
+    {
+      "title": "A signaling signature distinguishes hallucinogenic from non-hallucinogenic psychedelics.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43078812/",
+      "source": "PubMed",
+      "abstract": "Psychedelic drugs can induce intense changes in perception and thought, and some also promote long-lasting adaptations in brain circuits that are being explored for treatment of mood and anxiety disorders. How these compounds differ at the level of intracellular signaling, and how hallucinogenic drugs diverge from related non-hallucinogenic forms, is poorly understood. A central question is whether hallucinogenic serotonergic compounds are associated with intracellular signaling features that distinguish them from closely related non-hallucinogenic analogues. Here, we show that chemically diverse serotonergic psychedelics trigger a coordinated reorganization of phosphorylation patterns across many proteins in neural cells, and that this global response contains a distinct signature that separates hallucinogenic compounds from non-hallucinogenic counterparts of similar structure. We use phosphorylation of the glycolysis-regulating transcription factor FOXK2 as an example of biological follow-up from this signature and show that hallucinogenic compounds, but not their non-hallucinogenic analogues, enhance lactate accumulation. These findings indicate that hallucinogenic and non-hallucinogenic serotonergic compounds engage separable intracellular signalling architectures under defined in vitro conditions. The dataset is provided as a community resource to enable hypothesis generation and targeted mechanistic validation.",
+      "date": "2026-09-01",
+      "authors": [
+        "Martin-Guerrero Sandra M",
+        "Taddei-Tardon Marco",
+        "Maltman Jessica L"
+      ],
+      "doi": "10.1038/s41398-026-04390-y"
+    },
     {
       "title": "Intravenous ketamine for major depressive episodes in routine practice: a review of non-randomized evidence on effectiveness and safety.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/43071461/",
@@ -246,17 +259,13 @@
       "doi": "10.1097/JCP.0000000000002302"
     },
     {
-      "title": "Influence of CYP450 Polymorphisms on Analgesic Response to Continuous Ketamine Infusion in Patients with Refractory Migraine: An Exploratory Study.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43049176/",
-      "source": "PubMed",
-      "abstract": "Continuous intravenous ketamine infusion is an emerging treatment for patients with refractory migraine, but substantial interindividual variability in the timing of analgesic response has been observed. Ketamine is metabolized primarily through CYP2B6 and, to a lesser extent, CYP3A4/5, and genetic variation in these enzymes may contribute to variability in ketamine disposition and downstream metabolite exposure. We hypothesized that CYP metabolic phenotype would be associated with the timing and magnitude of analgesic response and the frequency of ketamine-associated adverse effects. In this retrospective cohort study, 52 inpatients treated with continuous ketamine infusion for refractory migraine were stratified by CYP2B6 and CYP3A4/5 metabolic phenotype. Longitudinal headache pain was evaluated using linear mixed-effects models, piecewise cumulative dose-response models, and time-to-response analyses. Ketamine-associated adverse effects were compared categorically across phenotypes. CYP2B6 rapid metabolizer phenotype was associated with earlier achievement of a ≥50% reduction in headache pain compared with normal metabolizer phenotype (HR 3.21; 95% CI, 1.39-7.45; p = 0.007), but overall cumulative dose-response trajectories and pain reduction by the end of treatment were similar across CYP2B6 phenotypes. CYP3A4/5 phenotype was not significantly associated with time to response or overall pain reduction; however, the low-activity subgroup demonstrated a flatter late-phase cumulative dose-response trajectory in an exploratory analysis. Adverse-effect frequency did not differ significantly across phenotypes after multiple-comparison correction. These findings suggest that CYP2B6 phenotype may influence the timing rather than the magnitude of analgesic response to continuous ketamine infusion. Prospective studies incorporating pharmacokinetic and pharmacodynamic measurements are needed to determine the mechanisms underlying this association.",
-      "date": "2026-Nov-18",
-      "authors": [
-        "Owen-Oliner Leah",
-        "Denysenko Lex",
-        "Schwenk Eric S"
-      ],
-      "doi": "10.1002/jcph.70330"
+      "title": "Pα+ Psychedelic Bulletin #235: Canada Outpaces U.S. on Ibogaine; Usona Pledges No Sales Reps; A Third of Spravato Prescribers Drive 80% of Volume; Will the VA Be Ready?",
+      "url": "https://psychedelicalpha.com/news/p%ce%b1-psychedelic-bulletin-235-canada-outpaces-u-s-on-ibogaine-usona-pledges-no-sales-reps-a-third-of-spravato-prescribers-drive-80-of-volume-will-the-va-be-ready/",
+      "source": "Psychedelic Alpha",
+      "abstract": "Is Canada Outpacing the U.S. on Ibogaine? Earlier this month, the U.S. Department of Health and Human Services and the Department of Veterans Affairs gathered the press to make a splashy announcement: Mark Cuban Cost Plus Drug Company would lead the effort to develop ibogaine for PTSD on American soil, with clinical development apparently buoyed […]",
+      "date": "2026-11-25",
+      "authors": [],
+      "doi": ""
     },
     {
       "title": "Beyond the Topline: Helus’ CMO on SAEs, Placebo Response and Support in First Phase 3",
@@ -336,15 +345,6 @@
       "source": "Psychedelic Alpha",
       "abstract": "",
       "date": "2026-11-09",
-      "authors": [],
-      "doi": ""
-    },
-    {
-      "title": "Pα+ Psychedelic Bulletin #234: Psychedelics After the Midterms; FDA Answers House Psychedelics Caucus; ICER to Review Compass’ Psilocybin; Terran v. Compass Gets Trial Date",
-      "url": "https://psychedelicalpha.com/news/p%ce%b1-psychedelic-bulletin-234-psychedelics-after-the-midterms-fda-answers-house-psychedelics-caucus-icer-to-review-compass-psilocybin-terran-v-compass-gets-trial-date/",
-      "source": "Psychedelic Alpha",
-      "abstract": "Psychedelics Beyond MAHA? Following the Democrats’ sweeping success in Tuesday’s elections, some in the field may wonder what the elections might mean for psychedelics and the support they appear to have found within the current administration. The Make America Healthy Again (MAHA) movement, which has championed psychedelics as one of its interest areas, also suffered […]",
-      "date": "2026-11-06",
       "authors": [],
       "doi": ""
     },
@@ -439,11 +439,140 @@
       "doi": ""
     },
     {
+      "title": "A let-7a-5p-engineered extracellular vesicle-laden bioactive scaffold promotes immunomodulation and regeneration of segmental tracheal defects.",
+      "url": "https://doi.org/10.1016/j.bioactmat.2026.10.008",
+      "source": "Europe PMC",
+      "abstract": "Segmental tracheal defects resulting from trauma, tumor resection, or congenital malformations pose significant challenges for reconstruction. Persistent post-injury inflammation, inadequate neovascularization, and delayed epithelial restoration contribute to the formation of granulation tissue and subsequent graft failure. In this study, we developed a bioactive tracheal scaffold for sustained local delivery of let-7a-5p-engineered extracellular vesicles (let-7a-5p-EVs) to modulate the regenerative microenvironment during tracheal repair. The scaffold was constructed by integrating a mechanically optimized polycaprolactone (PCL) framework with a 20% Pluronic F127 hydrogel, which served as a local reservoir for EV retention and sustained release. Let-7a-5p-EVs were generated from lentivirally engineered human gingiva-derived mesenchymal stem cells and showed typical EV morphology, representative EV marker expression, and efficient uptake by airway epithelial cells. In vitro, let-7a-5p-EVs enhanced airway epithelial cell migration and shifted lipopolysaccharide (LPS)-induced macrophages from a pro-inflammatory M1-like phenotype toward a reparative M2-like phenotype, accompanied by reduced inflammatory cytokine expression. In a rabbit segmental tracheal defect model, the let-7a-5p-EV-laden scaffold enhanced neovascularization, mitigated local inflammatory responses, promoted mucociliary epithelial reconstruction, and maintained airway patency. The let-7a-5p-EV scaffold improved biomechanical recovery, and increased survival rates. Transcriptomic profiling and molecular validation indicated that these effects were associated with the attenuation of nuclear factor kappa B (NF-κB)-associated inflammatory activation, as evidenced by reduced p65 phosphorylation and nuclear localization. These findings demonstrate that sustained local delivery of engineered EVs from a mechanically competent bioactive scaffold provides an effective immunomodulatory strategy for the regenerative repair of segmental tracheal defects and offers translational potential for functional airway reconstruction.",
+      "date": "2026-10-30",
+      "authors": [
+        "Liu B",
+        "Wei N",
+        "Liang L"
+      ],
+      "doi": "10.1016/j.bioactmat.2026.10.008"
+    },
+    {
+      "title": "Update on Sedation for Upper Gastrointestinal Endoscopy in Japan: Current Evidence on Remimazolam.",
+      "url": "https://doi.org/10.1002/deo2.70402",
+      "source": "Europe PMC",
+      "abstract": "Sedation is an essential component of upper gastrointestinal endoscopy because it reduces patient discomfort and anxiety while improving patient acceptance and procedural quality. In Japan, benzodiazepines such as midazolam and opioid analgesics have long been widely used in routine clinical practice; however, many of these agents historically lacked formal insurance approval for sedation during gastrointestinal endoscopy. Propofol is also a useful sedative because of its rapid onset and recovery, but its use in Japan has been limited because of concerns regarding respiratory and cardiovascular depression and the need for management by anesthesia-trained personnel. Against this background, the approval of remimazolam for sedation during gastrointestinal endoscopy in June 2025 represented a major turning point in Japanese endoscopic sedation practice. Remimazolam is an ultra-short-acting benzodiazepine rapidly metabolized by carboxylesterases and reversible with flumazenil. Japanese phase III trials demonstrated high sedation success rates and rapid recovery during upper gastrointestinal endoscopy, including in elderly patients. Compared with midazolam, remimazolam shortened awakening and ambulation times, whereas compared with propofol, it may cause fewer respiratory and cardiovascular adverse events. This review summarizes the current status of upper gastrointestinal endoscopic sedation in Japan, focusing on the clinical evidence and positioning of the newly approved ultra-short-acting benzodiazepine, remimazolam.",
+      "date": "2026-08-12",
+      "authors": [
+        "Ichijima R",
+        "Toyama M",
+        "Shishido T"
+      ],
+      "doi": "10.1002/deo2.70402"
+    },
+    {
+      "title": "Pain Management in the Trauma Patient.",
+      "url": "https://doi.org/10.1016/j.emc.2026.07.006",
+      "source": "Europe PMC",
+      "abstract": "Effective pain management in adult trauma patients is essential to improve recovery, reduce complications, and prevent long-term consequences such as chronic pain, depression, and PTSD. Multimodal analgesia combines medications and nonpharmacologic strategies to achieve better pain control while minimizing opioid use and associated risks. Key agents include acetaminophen, nonsteroidal anti-inflammatory agents, ketamine, topical and systemic lidocaine, gabapentinoids, muscle relaxants, and carefully selected opioids when necessary. Pain management should be individualized based on patient factors, including age, comorbidities, traumatic brain injury, and substance use disorders. Early assessment, regular reassessment, and coordinated multidisciplinary care optimize outcomes across trauma settings.",
+      "date": "2026-08-25",
+      "authors": [
+        "Coughlin RF",
+        "Couturier K."
+      ],
+      "doi": "10.1016/j.emc.2026.07.006"
+    },
+    {
+      "title": "A psychedelic-rich alkaloid fraction obtained from Mimosa tenuiflora (Willd.) Poir attenuates somatic and affective symptoms of naloxone-precipitated morphine withdrawal in C57BL/6 mice.",
+      "url": "https://doi.org/10.1016/j.jep.2026.122602",
+      "source": "Europe PMC",
+      "abstract": "<h4>Ethnopharmacological relevance</h4>Mimosa tenuiflora (Willd.) Poir. root bark is traditionally used in northeastern Brazil to prepare \"Jurema wine\", a beverage employed to relieve emotional distress and restore psychological well-being. However, validating its traditional preparations in central substance withdrawal states remains underexplored.<h4>Aim of the study</h4>To evaluate the ethnopharmacological potential of M. tenuiflora, we investigated the effects of an alkaloid fraction (AF II) from its root bark on somatic and affective morphine withdrawal symptoms in mice, without compromising analgesia.<h4>Materials and methods</h4>Male C57BL/6 mice were used for the tests. Possible interference with morphine-induced analgesia was assessed using the acetic acid-induced writhing test. The animals were made morphine-dependent using a dose-escalation regimen, and withdrawal syndrome was precipitated with naloxone. AF II (3, 6, or 9 mg/kg, s.c.) was administered before withdrawal induction.<h4>Results</h4>AF II did not interfere with morphine analgesia. AF II significantly reduced key somatic signs of morphine withdrawal, decreasing jumping and paw tremor without affecting Walk in reverse. During withdrawal, AF II increased exploratory behavior in the open field and modulated anxiety-related parameters.<h4>Conclusions</h4>The AF II from Mimosa tenuiflora, rich in serotonergic compounds, selectively attenuates somatic and affective components of opioid withdrawal in mice without compromising opioid analgesia, supporting its potential as a preliminary candidate for acute opioid withdrawal modulation. These findings provide scientific support for the traditional knowledge surrounding the central psychoactive and restorative properties of M. tenuiflora preparations.",
+      "date": "2026-11-03",
+      "authors": [
+        "da Silva TR",
+        "Machado KLB",
+        "Carvalho IMM"
+      ],
+      "doi": "10.1016/j.jep.2026.122602"
+    },
+    {
+      "title": "Tissue engineering polymeric formulations enable lymphangiogenesis for myocardial repair.",
+      "url": "https://doi.org/10.1016/j.bioactmat.2026.08.048",
+      "source": "Europe PMC",
+      "abstract": "<h4>Purpose</h4>Emerging evidence emphasizes the pivotal contribution of cardiac lymphatic activation following ischemic heart injury, with induced lymphangiogenesis driving edema resolution and inflammatory cell clearance. The aim of this study was to identify a bioactive small molecule with pro-lymphangiogenic activity and to develop a tissue engineering polymeric formulation for sustained local delivery in myocardial repair.<h4>Methods</h4>Through a high-throughput screen, we identified the bioactive molecule β-(3,4-dihydroxyphenyl) lactic acid (3,4-DHPLA) as a potent stimulator of lymphatic endothelial cells (LECs). To leverage this finding, we engineered a tissue engineering polymeric formulation (TEPF) to promote lymphangiogenesis during myocardial repair. The TEPF was fabricated via an integrated strategy combining 3D printing and near-field electrospinning to incorporate 3,4-DHPLA into a biodegradable polyurethane scaffold. The resulting structure mimics the microstructure of the cardiac extracellular matrix while supporting the microenvironment-responsive release of 3,4-DHPLA.<h4>Results</h4>We evaluated the therapeutic efficacy of TEPF in rat and porcine ischemia/reperfusion injury models, which markedly improved cardiac function and significantly attenuated adverse ventricular remodeling. Single-cell RNA sequencing and <i>in vitro</i> data further revealed the dual mechanisms of TEPF, not only promoting lymphangiogenesis but also orchestrating a pro-regenerative niche via expansion of Tregs, M2 macrophages, and pro-regenerative fibroblasts (COL12A1<sup>+</sup>, COL11A1<sup>+</sup>, NRG1<sup>+</sup>).<h4>Conclusions</h4>Thus, the tissue engineering polymeric formulations may enable sustained drug release during myocardial tissue repair, thereby alleviating the pain of injection administration for patients with cardiovascular diseases and potentially facilitating patient-friendly use of other functional molecules-based therapeutic tissue engineering formulations through durable delivery.",
+      "date": "2026-10-12",
+      "authors": [
+        "Liu Z",
+        "Li R",
+        "Huang W"
+      ],
+      "doi": "10.1016/j.bioactmat.2026.08.048"
+    },
+    {
+      "title": "Glis1 regulates metabolic programming by promoting H3K18 lactylation to alleviate neuronal senescence following spinal cord injury.",
+      "url": "https://doi.org/10.1016/j.gendis.2026.102382",
+      "source": "Europe PMC",
+      "abstract": "Neuronal senescence is a significant factor impeding spinal cord injury (SCI) repair. Research indicates that Glis1, a Kruppel-like zinc finger transcription factor, is pivotal in reprogramming senescent cells and enhancing genomic stability via lactylation. Histone lactylation, an epigenetic modification using lactate as a substrate, becomes prominent post-SCI due to increased neuronal lactate levels. However, the mechanisms linking neuronal senescence and histone lactylation following SCI remain poorly understood. This study elucidates the roles of Glis1, H3K18 lactylation, and neuronal senescence through comprehensive <i>in vivo</i> and <i>in vitro</i> investigations. The findings reveal a post-SCI rise in neuronal lactate levels, accompanied by cellular senescence. Furthermore, upregulation of Glis1 attenuates senescence and promotes histone lactylation. The downstream target secretogranin II (SCG2), identified via ChIP-seq and RNA-seq, was found to exert negative feedback on glycolytic metabolism and lactylation, thereby suppressing neuronal senescence. These results unveil a novel regulatory mechanism of Glis1 in neuronal senescence following SCI through the p300/H3K18la/SCG2 axis, offering a new therapeutic target for spinal cord repair.",
+      "date": "2026-07-23",
+      "authors": [
+        "Li D",
+        "Lu X",
+        "Gong Z"
+      ],
+      "doi": "10.1016/j.gendis.2026.102382"
+    },
+    {
+      "title": "Unveiling Ayahuasca: Comprehensive study of botanical and chemical diversity.",
+      "url": "https://doi.org/10.1016/j.jep.2026.122404",
+      "source": "Europe PMC",
+      "abstract": "Ayahuasca is an entheogenic beverage traditionally used by Indigenous peoples and local communities throughout Amazonia. Its preparation typically involves the vine Banisteriopsis caapi and the leaves of Psychotria viridis, widely recognized as its principal ingredients. Other plant species and ethnotaxa have also been historically reported in association with ayahuasca preparation, but their identities and supporting evidence remain unclear.<h4>Aim of the study</h4>This study compiles plant species and ethnotaxa historically reported in association with ayahuasca preparation and evaluates the ethnobotanical, taxonomic, and phytochemical evidence supporting these records.<h4>Materials and methods</h4>A narrative review of ethnobotanical and phytochemical literature was integrated with herbarium voucher data. Species were assessed according to the strength of available evidence, including peer-reviewed records, herbarium voucher records associated with vernacular names, and current taxonomic concepts. This framework distinguished taxa with robust support from those with limited documentation.<h4>Results</h4>Twenty-four vine species (Malpighiaceae) and thirteen species reported as leaf ingredients (Malpighiaceae and Rubiaceae) were identified, together with 119 B. caapi and two P. viridis ethnotaxa. Five vine and four leaf species were supported by both literature and voucher records and classified as historically confirmed ingredients. Ten vine and three leaf species were supported only by voucher records and classified as putative ayahuasca-associated taxa, whereas nine vine and six leaf species lacked sufficient evidence and were excluded. In addition, eighty species were identified as occasional additives to the ayahuasca beverage. Phytochemical data remain heavily concentrated on B. caapi and P. viridis.<h4>Conclusions</h4>Ayahuasca is associated with greater botanical diversity than is currently recognized, although supporting evidence varies among taxa. An evidence-based framework is essential for distinguishing historically supported ingredients from putative taxa and for guiding future research.",
+      "date": "2026-09-24",
+      "authors": [
+        "Saavedra-Saenz YC",
+        "E Silva MS",
+        "Estrada Semprun OE"
+      ],
+      "doi": "10.1016/j.jep.2026.122404"
+    },
+    {
+      "title": "A bioactivity-enhanced thermosensitive amnion-derived hydrogel with sustained IGF-1 release: A multitargeted and efficient strategy for corneal injury repair.",
+      "url": "https://doi.org/10.1016/j.bioactmat.2026.09.003",
+      "source": "Europe PMC",
+      "abstract": "Corneal alkali burn (CAB) remains difficult to treat because rapid tear clearance limits topical drug exposure, while the injured cornea develops a complex microenvironment involving inflammation, neovascularization, fibrosis, epithelial barrier loss, and impaired nerve repair. Here, we developed a human amniotic membrane-derived thermosensitive hydrogel (hAMgel) and loaded it with insulin-like growth factor-1 (IGF-1) to create a bioactive sustained-release system (IGF1@hAMgel) for CAB repair. The hAMgel transformed from a flowable precursor into a semi-transparent film on the ocular surface within 1-2 min and IGF1@hAMgel released approximately 90% of loaded IGF-1 over 24 h, with corneal IGF-1 concentration peaking at 2 h post-dose (378.5 pg/mg protein) and remaining detectable over 24 h, supporting sustained topical exposure. In a rat CAB model, IGF1@hAMgel accelerated epithelial healing, reducing the fluorescein-stained area from 31.34 ± 2.83% in controls to 16.78 ± 2.87% at day 1. By day 14, IGF1@hAMgel reduced corneal opacity (0.67 ± 0.52 vs. 4.00 ± 0.00), resolved edema with central corneal thickness approaching baseline (187.7 ± 16.31 μm vs. 178.3 ± 5.89 μm), suppressed neovascularization (CD31-positive area 4.46 ± 1.69% vs. 24.33 ± 2.07%), and promoted corneal nerve regeneration. Proteomic analysis showed that hAMgel retained abundant extracellular matrix(ECM) components, including collagens, Lumican, and fibronectin, together with repair-related and immunomodulatory proteins. These findings identify IGF1@hAMgel as a sutureless, eye-drop-like bioactive ECM platform that integrates growth-factor delivery with amnion-derived reparative cues for multitargeted ocular surface repair.",
+      "date": "2026-09-16",
+      "authors": [
+        "Xie M",
+        "Li A",
+        "Sun X"
+      ],
+      "doi": "10.1016/j.bioactmat.2026.09.003"
+    },
+    {
+      "title": "A self-crosslinkable, adhesive intestine-derived extracellular matrix hydrogel enhances organoid retention and restores intestinal barrier integrity.",
+      "url": "https://doi.org/10.1016/j.bioactmat.2026.09.006",
+      "source": "Europe PMC",
+      "abstract": "Disruption of the intestinal barrier impairs essential functions of the gastrointestinal tract and triggers severe inflammation. Accordingly, transplantation of intestinal organoids restores the integrity of the injured intestinal barrier by promoting regeneration. However, the dynamic mucosal microenvironment of the intestine hinders effective retention of transplanted organoids, thereby limiting their therapeutic efficacy. To address this challenge, this study introduces a pyrogallol (PG)-conjugated intestine-derived extracellular matrix (IEM) (IEM-PG) as a scaffold for effective organoid transplantation. The dual crosslinking of IEM-based fibrillogenesis and oxidative PG coupling enabled IEM-PG to form a robust hydrogel scaffold without crosslinking agents under physiological conditions. Moreover, the IEM-PG hydrogel exhibited enhanced mechanical properties, superior bio-adhesion, and greater resistance to enzymatic degradation than the pristine IEM. The IEM-PG hydrogel was also highly biocompatible and did not adversely affect the viability and development of colonic organoids. The solution-type IEM-PG was readily injected into colonic tissue, thus allowing IEM-PG to initially spread along the intestinal lining. Transplantation of colonic organoids using IEM-PG in a mouse colonic ulcer model demonstrated effective cell retention in the intestinal tract, thereby restoring the structural integrity and function of the intestinal barrier. The study further demonstrated that the patch-type IEM-PG hydrogel was effective for the transplantation of colonic assembloids and the treatment of colonic perforation. Overall, this study presents the IEM engineered with an adhesive motif as a self-crosslinking hydrogel platform for organoid/assembloid transplantation and intestinal tissue repair.",
+      "date": "2026-09-15",
+      "authors": [
+        "Kim YS",
+        "Han SY",
+        "An S"
+      ],
+      "doi": "10.1016/j.bioactmat.2026.09.006"
+    },
+    {
+      "title": "Rapid antidepressant-like effects of Chaihu Shugan San in female restraint-stressed mice: involvement of hippocampal TC2N and ERβ-eNOS-CaMKII-BDNF signaling.",
+      "url": "https://doi.org/10.1016/j.jep.2026.122427",
+      "source": "Europe PMC",
+      "abstract": "<h4>Ethnopharmacological relevance</h4>Chaihu Shugan San (CSS), a classical seven-herb formula from the Ming-dynasty text Jing-Yue Quanshu, is widely prescribed for depressive disorders in China. Previous preclinical studies reported antidepressant-like effects only after weeks of repeated administration, mostly in male animals. Whether a single dose of CSS can produce rapid antidepressant-like effects in female animals, and through what mechanism, remains unclear.<h4>Aim of the study</h4>To determine whether a single administration of CSS produces rapid antidepressant-like effects in female mice exposed to chronic restraint stress (CRS), and to explore the underlying hippocampal mechanism.<h4>Methods and materials</h4>CSS quality was controlled by HPLC quantification of four index components. Female CRS mice received a single dose of CSS (1, 2 or 4 g/kg, i. g.) or ketamine (10 mg/kg, i. p.), followed by behavioral testing (tail suspension, forced swimming, sucrose preference and open field tests) within 2-24 h. Hippocampal RNA sequencing, RT-qPCR, Western blotting and ELISA were used to identify and validate candidate targets; hippocampal AAV-mediated TC2N overexpression and pretreatment with the ERβ antagonist acolbifene or the CaMKII inhibitor KN-93 were used for interventional validation.<h4>Results</h4>Batch-to-batch variation of the four index components was below 10% (RSDs 3.51-5.66%), with naringin (313.07 ± 11.16 μg/mL) and hesperidin (196.40 ± 11.11 μg/mL) as the major constituents. Acute administration of CSS (2 and 4 g/kg), like ketamine, shortened immobility time in the tail suspension test at 2 h and in the forced swimming test at 12 h, and restored sucrose preference at 24 h, without affecting locomotor activity. Hippocampal transcriptomics identified Tc2n as up-regulated by CRS and down-regulated by CSS, with Esr2, Nos3 and Camk2a showing the opposite pattern; these changes were confirmed at the mRNA and protein levels within 2 h. Hippocampal TC2N overexpression or pretreatment with acolbifene or KN-93 abolished the rapid behavioral effects of CSS and the associated changes in ERβ-eNOS-CaMKII-BDNF signaling.<h4>Conclusion</h4>CSS produces rapid, ketamine-comparable antidepressant-like behavioral effects in female CRS-exposed mice, accompanied by down-regulation of hippocampal TC2N and involvement of ERβ, eNOS, CaMKII and BDNF. Because only female mice were studied, these findings are specific to females and support an estrogen-linked mechanism that warrants confirmation in male animals and further translational study.",
+      "date": "2026-09-22",
+      "authors": [
+        "Wu L",
+        "Cheng W",
+        "Xiang H"
+      ],
+      "doi": "10.1016/j.jep.2026.122427"
+    },
+    {
       "title": "CZ",
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2018-004480-31/CZ",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-11-24",
+      "date": "2026-11-25",
       "authors": [],
       "doi": ""
     },
@@ -452,7 +581,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2020-005037-32/CZ",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-11-24",
+      "date": "2026-11-25",
       "authors": [],
       "doi": ""
     },
@@ -461,7 +590,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2021-002909-10/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-11-24",
+      "date": "2026-11-25",
       "authors": [],
       "doi": ""
     },
@@ -470,7 +599,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2015-000550-37/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-11-24",
+      "date": "2026-11-25",
       "authors": [],
       "doi": ""
     },
@@ -479,7 +608,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2021-000041-40/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-11-24",
+      "date": "2026-11-25",
       "authors": [],
       "doi": ""
     },
@@ -488,7 +617,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2020-000829-55/DK",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-11-24",
+      "date": "2026-11-25",
       "authors": [],
       "doi": ""
     },
@@ -497,7 +626,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2020-002790-94/SE",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-11-24",
+      "date": "2026-11-25",
       "authors": [],
       "doi": ""
     },
@@ -506,7 +635,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2021-006200-33/FI",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-11-24",
+      "date": "2026-11-25",
       "authors": [],
       "doi": ""
     },
@@ -515,7 +644,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2019-004812-73/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-11-24",
+      "date": "2026-11-25",
       "authors": [],
       "doi": ""
     },
@@ -524,9 +653,137 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2022-002369-14/BE",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-11-24",
+      "date": "2026-11-25",
       "authors": [],
       "doi": ""
+    },
+    {
+      "title": "Subacute and long-term changes in cognitive functioning after administration of classic psychedelics, MDMA and ketamine: A systematic review of clinical and preclinical evidence",
+      "url": "https://doi.org/10.1016/j.neubiorev.2026.106911",
+      "source": "OpenAIRE",
+      "abstract": "Psychedelic agents induce a window of heightened neuroplasticity that extends beyond acute intoxication, during which neural circuits are more amenable to change. This period may facilitate changes in cognition relevant to the treatment of psychiatric disorders. This systematic review synthesised clinical and preclinical evidence of subacute and long-term (≥1 day) effects of classic and non-classic psychedelics on cognition. MEDLINE, EMBASE, APA PsycInfo and Web of Science were searched to identify human and animal studies investigating psychedelics and cognition (executive function, attention, decision-making). Sixty-seven (47 clinical, 20 preclinical) articles met inclusion criteria. Psilocybin demonstrated the most consistent evidence of subacute and longer-term cognitive improvement, particularly in cognitive flexibility and attention. Ketamine showed enhancement across cognitive domains, although findings were heterogeneous. LSD and DMT showed no consistent subacute changes, while MDMA was associated with transient cognitive impairments that resolved within days. Risk of bias assessments revealed selective outcome reporting, poor reporting of missing data and inadequate methodological detail, limiting the confidence of findings. Current evidence provides preliminary support for subacute changes in cognition following administration of select psychedelic agents. Cognitive improvements were more frequently seen in psychiatric populations than healthy subjects, which may re",
+      "date": "2026-11-01",
+      "authors": [
+        "Catherine Kelly",
+        "Bart J. Cooley",
+        "Lilith Zeng"
+      ],
+      "doi": "10.1016/j.neubiorev.2026.106911"
+    },
+    {
+      "title": "Psychedelics and autism spectrum disorder: Mechanistic insights, translational evidence and ethical challenges",
+      "url": "https://doi.org/10.1016/j.jpsychires.2026.06.035",
+      "source": "OpenAIRE",
+      "abstract": "Autism spectrum disorder (ASD) is a heterogeneous neurodevelopmental condition characterized by persistent deficits in social communication and interaction, restricted and repetitive patterns of behavior, and sensory processing alterations, frequently accompanied by anxiety, emotional dysregulation, and other psychiatric comorbidities. Despite advances in behavioral and pharmacological interventions, effective treatments for core ASD symptoms remain limited. Psychedelic compounds have recently emerged as potential therapeutic agents in psychiatry because of their ability to modulate serotonergic and glutamatergic signaling, enhance neuroplasticity, reorganize large-scale brain networks, and influence neurobiological pathways implicated in ASD. In this narrative review, we examine the mechanistic rationale supporting psychedelic-based approaches in ASD, including 5-HT2A receptor activation, oxytocin-serotonin interactions, excitation-inhibition dynamics, functional connectivity, and glutamatergic modulation associated with ketamine and related compounds. We also summarize current clinical and preclinical evidence involving substances such as psilocybin, lysergic acid diethylamide, 3,4-methylenedioxymethamphetamine, and ketamine. Particular attention is given to the distinction between core ASD symptoms and associated symptom domains. Current evidence does not support the direct treatment of core social communication deficits or restricted and repetitive behaviors; however, psy",
+      "date": "2026-10-01",
+      "authors": [
+        "Júlio César Claudino dos Santos",
+        "Sofia Januário Bolan",
+        "Guilherme Lodetti"
+      ],
+      "doi": "10.1016/j.jpsychires.2026.06.035"
+    },
+    {
+      "title": "Prevalence and Reasons for Microdosing Cannabis, Psilocybin, LSD, and MDMA Among U.S. Adults",
+      "url": "https://doi.org/10.1016/j.amepre.2026.108381",
+      "source": "OpenAIRE",
+      "abstract": "Microdosing involves consuming low doses of psychoactive substances, typically 1/5th to 1/20th of a recreational dose. Despite increasing public attention to cannabis and psychedelics amid evolving drug policies, epidemiological data on microdosing remain limited.A cross-sectional, web-based survey (Characterizing the Epidemiology of Cannabidiol Use Survey) of 1,525 US adults was conducted in October-November 2023 and analyzed in 2024-2025 using Ipsos KnowledgePanel. Participants reported lifetime microdosing of cannabis, psilocybin, lysergic acid diethylamide (LSD), and 3,4-Methylenedioxymethamphetamine (MDMA). Lifetime prevalence, frequency, and reasons for microdosing were assessed, along with associations with demographics, mental health, quality of life, and cannabis and psychedelic policy environments. Survey weights were applied to generate nationally representative estimates.Cannabis was the most commonly microdosed substance (9.4%; 95% CI=8.0, 10.7; 24.1 million adults), followed by psilocybin (5.3%; 95% CI=4.3, 6.3; 13.7 million adults), LSD (4.8%; 95% CI=3.8, 5.9; 12.4 million adults), and MDMA (2.2%; 95% CI=1.5, 2.9; 5.7 million adults). Cannabis (41.2%; 95% CI=33.3, 49.5) was primarily microdosed for medical purposes (e.g., \"to manage pain\"), while psilocybin (66.6%; 95% CI=56.9, 75.1), LSD (59.2%; 95% CI=46.5, 70.8) and MDMA (86.0%; 95% CI=68.8, 94.5) were more commonly microdosed for recreational purposes (e.g., \"to get less high\"). Across all substances, lifet",
+      "date": "2026-10-01",
+      "authors": [
+        "Kevin H. Yang",
+        "Nora Satybaldiyeva",
+        "Wayne Kepner"
+      ],
+      "doi": "10.1016/j.amepre.2026.108381"
+    },
+    {
+      "title": "Microdosing psychedelics: What, why, when, and how often? Insights from an international survey of people who use psychedelics",
+      "url": "https://doi.org/10.1016/j.drugpo.2026.105459",
+      "source": "OpenAIRE",
+      "abstract": "The interest in microdosing psychedelics continues to grow within academic and recreational contexts. However, microdosing practices have changed over time, and warrants examination of use patterns within a large, global sample of consumers.The Global Psychedelic Survey 2025 (GPS 2025) was an online, anonymous, cross-sectional survey conducted from May 1-23, 2025. The survey was available in 19 languages and inquired about a wide range of topics surrounding psychedelic use. This manuscript focuses on the primary outcomes for the microdosing component of the survey, examining the substances consumed, dosing regimens employed, reasons for use, as well as the typical 'set and setting' while microdosing.In this sample, 5399 participants reported microdosing during their lifetime, of whom 69.8% (n = 3768) used a microdose within the past year. Psilocybin was the most commonly microdosed substance (n = 4377; 81.1%, 95% CI: 80.0%-82.1%), followed by LSD (n = 2136; 39.6%, 95% CI: 38.3%-40.9%). This was consistent across global regions. The 'Fadiman protocol' (i.e. one day on, two days off) was the most reported dosing regimen among regular microdosers (n = 1203; 24.3%, 95% CI: 23.1%-25.6%). While microdosing, respondents reported often spending time in nature (n = 3087; 58.9%), focusing inwards (n = 2977; 56.8%), or spending leisure time (n = 2253; 43%), demonstrating preliminary evidence supporting the integration of set and setting in the context of microdosing.This study provides ",
+      "date": "2026-10-01",
+      "authors": [
+        "Rotem Petranker",
+        "Omer A. Syed",
+        "Valentyn Sobolenko"
+      ],
+      "doi": "10.1016/j.drugpo.2026.105459"
+    },
+    {
+      "title": "Blinding integrity in psychedelic research: Evidence from a comparative randomized controlled trial of psilocybin, MDMA, and methylphenidate in healthy volunteers",
+      "url": "https://doi.org/10.1016/j.euroneuro.2026.112879",
+      "source": "OpenAIRE",
+      "abstract": "Maintaining effective blinding is a major methodological challenge in psychedelic research. This study provides a comprehensive evaluation of blinding integrity in 120 healthy volunteers who received either psilocybin, MDMA, or methylphenidate (active placebo) in a double-blind, randomized controlled trial. Using a multi-level assessment incorporating forced-choice substance guesses, certainty ratings, decision factors, and subjective substance effects, the analyses characterize blinding integrity and its relation to the substance experience. Results indicate that overall blinding was insufficient, with psilocybin showing the highest rates of functional unblinding, MDMA moderate levels, and methylphenidate the lowest. As an active placebo, methylphenidate provided more effective blinding for MDMA than for psilocybin. Incorporating certainty levels of substance guesses revealed a more differentiated pattern, with lower functional unblinding rates. Decision factors and subjective substance experiences were associated with phenomenological substance effects. Prior substance experiences did not influence accuracy of forced-choice substance guesses. These findings provide empirical guidance for the design and reporting of blinding procedures in psychedelic trials and underscore the value of systematic, multi-level assessment of blinding integrity.",
+      "date": "2026-10-01",
+      "authors": [
+        "L. Belinger",
+        "N.M. Rieser",
+        "E.J.E. Engeli"
+      ],
+      "doi": "10.1016/j.euroneuro.2026.112879"
+    },
+    {
+      "title": "Considerations for Scaling Psychedelics: Context, Reimbursement, and the Role of the Pharmacy Benefit Manager",
+      "url": "https://doi.org/10.5281/zenodo.23025979",
+      "source": "OpenAIRE",
+      "abstract": "Psychedelic therapies have shown considerable promise in clinical trials, but their effects depend heavily on context—set, setting, therapeutic relationship, and integration—in ways that sit uneasily with health care systems built to finance discrete drugs and billable services. This white paper examines the institutional pathway through which psychedelic therapies may reach patients, from regulatory approval to clinical delivery, payment, and practical access. It reviews the emerging cost-effectiveness literature and identifies three challenges for coverage: valuation (what counts as benefit), duration (the Durability–Churn and Durability–Revenue dilemmas), and delivery (labor intensity and delivery design). It describes a Context–Reimbursement Paradox: the more central context is to therapeutic effect, the harder the intervention is to translate into units that existing payment systems recognize. It then analyzes where pharmacy benefit managers (PBMs) fit along a gradient of compatibility, from SSRIs to psilocybin therapy, and argues that drug pricing decisions will shape their role. It closes by considering Indigenous knowledge systems and non-medical pathways to access.",
+      "date": "2026-09-29",
+      "authors": [
+        "Lukacsko, Derek"
+      ],
+      "doi": "10.5281/zenodo.23025979"
+    },
+    {
+      "title": "Psilocybin and Contrasting Musical Compositions: Effects on Music-Evoked Emotional Responses in Healthy Adults",
+      "url": "https://doi.org/10.64898/2026.09.09.26362648",
+      "source": "OpenAIRE",
+      "abstract": "<jats:title>Abstract</jats:title>                 <jats:p>Music is a central component of psychedelic settings, yet little experimental work has examined how psilocybin and musical composition influence music-evoked emotional responses in healthy volunteers. This exploratory, double-blind, placebo-controlled study assessed these effects during the plateau phase of psilocybin and the corresponding time window in placebo sessions following oral administration of psilocybin (0.26 mg/kg) or placebo. The study consisted of two parts. In Part 1 (n = 19), a pilot stage, the first half of participants rated music-induced affective valence for eight compositions representing different genres/subgenres (Rock/Punk, Metal/Industrial Metal, Metal/Industrial Metal, Classical/Baroque, Electronic/Dub, Folk/Nordic Folk, Electronic/Techno, Electronic/Trance, Electronic/Psytrance) using a visual analogue scale (VAS). Based on Part 1, the classical composition with the highest overall affective valence and the psytrance composition with the largest psilocybin–placebo contrast (i.e., the composition most responsive to psilocybin) were selected for Part 2 (n = 17), in which the second half of participants assessed emotional responses to music using the Geneva Emotional Music Scale (GEMS-9). Psilocybin increased wonder, transcendence, and joyful activation across both contrasting compositions. Relative to each other, the classical composition elicited greater peacefulness, tenderness, and nostalgia",
+      "date": "2026-09-23",
+      "authors": [
+        "Dominika Dojčánová",
+        "Filip Tylš",
+        "Marek Nikolič"
+      ],
+      "doi": "10.64898/2026.09.09.26362648"
+    },
+    {
+      "title": "Acute psilocybin or ethocybin leads to a sustained increase in Pavlovian aversion memory in male mice",
+      "url": "https://doi.org/10.3389/fphar.2026.1918182",
+      "source": "OpenAIRE",
+      "abstract": "<jats:p>There is considerable interest in the concept that psychedelic compounds might facilitate reorganization of emotional processing with therapeutic benefit; in particular, amelioration of excessive focus on past, current and potential-future aversive events, a dominant emotional-cognitive state in stress-related affective disorders. Translational animal models can advance understanding of specific aspects of this concept, namely, those relating to subconscious emotional memories and their neurobiology. In male mice, chronic social stress (CSS) leads to excessive tone/context-foot shock Pavlovian aversion learning (PAL) and memory (PAM), measured as time spent in freezing behavior, and provides a model for generalized excessive focus on aversion. Sub-chronic administration of SSRI antidepressant between PAL and PAM reverses the excessive PAM of CSS mice. Here we applied the model to investigate acute and sustained behavioral and neurobiological effects of psilocybin (PSY) and ethocybin (ETH). In control male mice, both psychedelics at 3 mg/kg per os resulted in 1–2 h of blood-brain exposure to the respective major metabolites psilocin and ethocin, and to head twitch responses. In the main experiment, mice underwent either 15-day CSS or control handling (CON), followed 2 days later by PAL, 1 day later by PSY, ETH or vehicle (VEH), and 3 days later by PAM testing and then brain collection. Relative to VEH, PSY and ETH led to increased PAM expression as more time spent in f",
+      "date": "2026-09-22",
+      "authors": [
+        "David Ernst Hogg",
+        "Jennifer Romanos",
+        "Jamie Albiez"
+      ],
+      "doi": "10.3389/fphar.2026.1918182"
+    },
+    {
+      "title": "EFFICACY AND SAFETY OF PSILOCYBIN IN TREATMENT-RESISTANT DEPRESSION: A REVIEW",
+      "url": "https://doi.org/10.31435/ijitss.3(51).2026.6573",
+      "source": "OpenAIRE",
+      "abstract": "<jats:p>Major depressive disorder (MDD) is one of the leading causes of disability worldwide. A substantial proportion of patients fail to achieve remission through standard monoaminergic therapies, meeting the clinical criteria for treatment-resistant depression (TRD). TRD is associated with significant clinical morbidity and a profound economic burden on healthcare systems. This review evaluates the clinical efficacy, safety profile, and neurobiological mechanisms of psilocybin, a serotonergic psychedelic, as a targeted intervention for TRD. Current neurobiological evidence indicates that psilocybin, upon conversion to its active metabolite psilocin, acts primarily as a 5-HT2A receptor agonist. This mechanism promotes rapid structural neuroplasticity and modulates the aberrant functional connectivity characteristic of severe depression. Recent randomized clinical trials demonstrate that psilocybin, when administered in controlled settings with psychological support, produces rapid and clinically significant reductions in depressive symptoms. Comparative data indicate that its therapeutic efficacy is at least comparable to standard first-line treatments, such as SSRIs, while frequently offering a faster onset of action. Regarding safety, psilocybin is generally well-tolerated in clinical environments; adverse events are typically mild to moderate and transient. However, the strict requirement for concurrent psychological support and rigorous psychiatric screening highlights ",
+      "date": "2026-09-21",
+      "authors": [
+        "Mateusz Gawin",
+        "Emilia Koziara",
+        "Mateusz Gadzina"
+      ],
+      "doi": "10.31435/ijitss.3(51).2026.6573"
+    },
+    {
+      "title": "Development and Psychometric Validation of the ‘Psychedelic Flourishing Scale’",
+      "url": "https://doi.org/10.31234/osf.io/prmnj_v1",
+      "source": "OpenAIRE",
+      "abstract": "<p>Positive psychological changes following psychedelic experiences are widely studied, yet no validated instrument has been developed specifically to assess the breadth of enduring change that individuals attribute to those experiences. We therefore conducted a two-part programme of research to evaluate an existing measure and to develop and validate a more comprehensive scale. In Part 1, a preliminary psychometric analysis of the 11-item Mindset Questionnaire (MQ) was conducted using data from two psilocybin studies (N = 97). Its items were strongly intercorrelated (mean inter-item r = .63) and predominantly reflected a single, relatively narrow dimension of change. Part 2 followed established scale-development procedures to define the broader construct of psychedelic flourishing and develop the Psychedelic Flourishing Scale (PFS). A three-round Delphi study involving 17 experts established the construct definition and generated a 41-item pool. The PFS was then evaluated in a pre-registered cross-sectional survey of 1,296 adults who reported previous serotonergic (“classic”) psychedelic use. The sample was randomly divided for exploratory and confirmatory factor analyses, with the structure extracted in the exploratory half rather than specified in advance. In the confirmatory subsample, a model comprising five correlated facets showed good fit (RMSEA = .053, CFI = .965) and fitted better than a unidimensional model, although a four-factor model performed similarly. A full-",
+      "date": "2026-09-17",
+      "authors": [
+        "Frederick Pattisson",
+        "Sunjeev Kamboj",
+        "Devon Stoliker"
+      ],
+      "doi": "10.31234/osf.io/prmnj_v1"
     }
   ]
 }

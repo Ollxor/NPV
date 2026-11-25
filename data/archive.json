@@ -1,6 +1,46 @@
 {
   "items": [
     {
+      "title": "A signaling signature distinguishes hallucinogenic from non-hallucinogenic psychedelics.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43078812/",
+      "source": "PubMed",
+      "date": "2026-09-01",
+      "authors": [
+        "Martin-Guerrero Sandra M",
+        "Taddei-Tardon Marco",
+        "Maltman Jessica L"
+      ],
+      "doi": "10.1038/s41398-026-04390-y",
+      "summary_en": "Study identifies distinct intracellular signaling patterns separating hallucinogenic from non-hallucinogenic serotonergic psychedelics. Researchers analyzed phosphorylation changes in neural cells, finding that hallucinogenic compounds trigger unique protein reorganization signatures absent in structurally similar non-hallucinogenic analogues. FOXK2 phosphorylation and lactate accumulation were highlighted as key markers. Results suggest hallucinogenic and non-hallucinogenic compounds activate different cellular mechanisms, with implications for understanding therapeutic potential.",
+      "notable": true,
+      "notable_reason": "First study to identify a distinct phosphorylation signature differentiating hallucinogenic from non-hallucinogenic serotonergic compounds at the intracellular level, with potential implications for therapeutic development.",
+      "study_type": "preclinical",
+      "substances": [
+        "psilocybin",
+        "lsd",
+        "mescaline",
+        "other"
+      ],
+      "added_at": "2026-11-25T17:28:37.047887+00:00"
+    },
+    {
+      "title": "Pα+ Psychedelic Bulletin #235: Canada Outpaces U.S. on Ibogaine; Usona Pledges No Sales Reps; A Third of Spravato Prescribers Drive 80% of Volume; Will the VA Be Ready?",
+      "url": "https://psychedelicalpha.com/news/p%ce%b1-psychedelic-bulletin-235-canada-outpaces-u-s-on-ibogaine-usona-pledges-no-sales-reps-a-third-of-spravato-prescribers-drive-80-of-volume-will-the-va-be-ready/",
+      "source": "Psychedelic Alpha",
+      "date": "2026-11-25",
+      "authors": [],
+      "doi": "",
+      "summary_en": "Canada advances ibogaine development for PTSD while the U.S. pursues clinical trials through Mark Cuban Cost Plus Drug Company. Usona commits to avoiding sales representative models. Data shows concentrated prescribing: one-third of Spravato providers account for 80% of prescriptions. Questions remain about VA readiness for psychedelic-assisted treatments.",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "other",
+      "substances": [
+        "ibogaine",
+        "ketamine"
+      ],
+      "added_at": "2026-11-25T17:28:37.047887+00:00"
+    },
+    {
       "title": "Intravenous ketamine for major depressive episodes in routine practice: a review of non-randomized evidence on effectiveness and safety.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/43071461/",
       "source": "PubMed",

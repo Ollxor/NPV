@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-24T18:01:53.924931+00:00",
+  "generated_at": "2026-11-25T17:29:17.479397+00:00",
   "items": [
     {
       "title": "Determination of Tryptamines in Biological Specimens.",
@@ -32,6 +32,34 @@
         "other"
       ],
       "added_at": "2026-11-02T16:23:16.533919+00:00"
+    },
+    {
+      "title": "Pα+ Psychedelic Bulletin #235: Canada Outpaces U.S. on Ibogaine; Usona Pledges No Sales Reps; A Third of Spravato Prescribers Drive 80% of Volume; Will the VA Be Ready?",
+      "url": "https://psychedelicalpha.com/news/p%ce%b1-psychedelic-bulletin-235-canada-outpaces-u-s-on-ibogaine-usona-pledges-no-sales-reps-a-third-of-spravato-prescribers-drive-80-of-volume-will-the-va-be-ready/",
+      "source": "Psychedelic Alpha",
+      "date": "2026-11-25",
+      "authors": [],
+      "doi": "",
+      "summaries": {
+        "en": "Canada advances ibogaine development for PTSD while the U.S. pursues clinical trials through Mark Cuban Cost Plus Drug Company. Usona commits to avoiding sales representative models. Data shows concentrated prescribing: one-third of Spravato providers account for 80% of prescriptions. Questions remain about VA readiness for psychedelic-assisted treatments.",
+        "sv": "Kanada går före USA i utvecklingen av ibogain för PTSD, medan USA driver kliniska studier genom Mark Cuban Cost Plus Drug Company. Usona förbinder sig att inte använda säljrepresentanter. Data visar koncentrerad förskrivning: en tredjedel av Spravato-förskrivare står för 80% av volym. Frågor kvarstår om VA:s beredskap för psykedelika-assisterad behandling.",
+        "no": "Canada går foran USA i utviklingen av ibogain for PTSD, mens USA gjennomfører kliniske studier gjennom Mark Cuban Cost Plus Drug Company. Usona forplikter seg til å unngå salgsrepresentanter. Data viser konsentrert forskrivning: en tredjedel av Spravato-foreskrivere står for 80% av volumet. Spørsmål gjenstår om VA:s beredskap for psykedelika-assistert behandling.",
+        "da": "Canada går forrest i udviklingen af ibogain til PTSD, mens USA driver kliniske forsøg gennem Mark Cuban Cost Plus Drug Company. Usona forpligter sig til at undgå salgsrepræsentanter. Data viser koncentreret ordinering: en tredjedel af Spravato-ordinatorer tegner sig for 80% af volumen. Spørgsmål er tilbage om VA:s parathed til psykedelika-assisteret behandling.",
+        "fi": "Kanada etenee ibokainin kehittämisessä PTSD:n hoitoon, kun taas USA harjoittaa kliinisiä tutkimuksia Mark Cuban Cost Plus Drug Companyn kautta. Usona sitoutuu välttämään myyntiedustajien käyttöä. Tiedot osoittavat keskittynyttä määrääämistä: kolmasosa Spravato-määrääjistä vastaa 80 prosentista määrästä. Kysymykset jäävät VA:n valmiudesta psykedeeli-avusteiseen hoitoon.",
+        "is": "Kanada gengur Bandaríkjunum framar við þróun ibogains fyrir PTSD, en Bandaríkin stunda klínísk rannsóknir í gegnum Mark Cuban Cost Plus Drug Company. Usona skuldbindur sig til að forðast sölufulltrúa. Gögn sýna miðstýrða ávísun: þriðjungur Spravato-ávísenda stendur fyrir 80% af magni. Spurningar standa yfir um undirbúning VA fyrir sáleinkenni-stuðlað meðferð.",
+        "et": "Kanada ületab USA-d ibokaini arendamises PTSD-raviks, USA teostab kliinilisi uuringuid Mark Cuban Cost Plus Drug Company kaudu. Usona lubab vältida müügiesindajate kasutamist. Andmed näitavad kontsentreeritud määramist: kolmandik Spravato-määrajaid vastutab 80% mahust. Küsimused jäävad VA valmisolekust psühhedeelikumõju toetatud ravis.",
+        "lv": "Kanāda pārsvarā attīsta ibogaīnu PTSD ārstēšanai, turpretim USA veic klīniskos pētījumus Mark Cuban Cost Plus Drug Company vadībā. Usona apņemas izvairīties no pārdošanas pārstāvju lietošanas. Dati parāda koncentrētu nozīmēšanu: viena trešdaļa Spravato nozīmētāju veido 80% no apjoma. Rodas jautājumi par VA gatavību psihedeliku atbalstītai ārstēšanai.",
+        "lt": "Kanada lenkia JAV ibokaino vystymu PTSD gydymui, o JAV atlieka klininius tyrimus per Mark Cuban Cost Plus Drug Company. Usona įsipareigoja vengti pardavimo atstovų. Duomenys rodo sukoncentruotą skyrimo praktika: trečdalis Spravato skiriančiųjų sudaro 80% tūrio. Lieka klausimų apie VA pasirengimą psichiodelinei terapijai."
+      },
+      "notable": false,
+      "notable_reasons": null,
+      "relevance_score": 3,
+      "study_type": "other",
+      "substances": [
+        "ibogaine",
+        "ketamine"
+      ],
+      "added_at": "2026-11-25T17:28:37.047887+00:00"
     },
     {
       "title": "Intravenous ketamine for major depressive episodes in routine practice: a review of non-randomized evidence on effectiveness and safety.",
@@ -1965,37 +1993,6 @@
       "study_type": "rct",
       "substances": [
         "other"
-      ],
-      "added_at": "2026-10-27T12:30:53.417560+00:00"
-    },
-    {
-      "title": "Low-dose ketamine modulates brain entropy in treatment-resistant depression: Results from two neuroimaging clinical trials.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42933579/",
-      "source": "PubMed",
-      "date": "2026-10-26",
-      "authors": [
-        "Liou Ying-Jay",
-        "Cheng Li-Kai",
-        "Lin Wei-Chen"
-      ],
-      "doi": "10.1016/j.jad.2026.122673",
-      "summaries": {
-        "en": "Two randomized controlled trials examined how low-dose ketamine affects brain entropy in treatment-resistant depression. Patients received single infusions of ketamine (0.2–0.5 mg/kg) or control agents. Resting-state fMRI at baseline and day 3 showed ketamine increased entropy in frontolimbic, cerebellar, and neuromodulatory brain regions including the gyrus rectus, amygdala, and locus coeruleus. These rapid changes may underlie ketamine's antidepressant effects.",
-        "sv": "Två randomiserade kontrollerade studier undersökte hur låg dos ketamin påverkar hjärnans entropi vid depressionsresistent depression. Patienter fick enkel infusion av ketamin (0,2–0,5 mg/kg) eller kontrollsubstanser. Viloläge-fMRI vid bas och dag 3 visade att ketamin ökade entropin i frontolimbiska, cerebellära och neuromodulerande hjärnregioner inklusive gyrus rectus, amygdala och locus coeruleus. Dessa snabba förändringar kan ligga bakom ketamins antidepressiva effekt.",
-        "no": "To randomiserte kontrollerte studier undersøkte hvordan lav dose ketamin påvirker hjernens entropi ved behandlingsresistent depresjon. Pasienter fikk enkeltinfusjon av ketamin (0,2–0,5 mg/kg) eller kontrollsubstanser. Hvilelek-fMRI ved baseline og dag 3 viste at ketamin økte entropien i frontolimbiske, cerebellære og neuromodulatoriske hjerneregioner inkludert gyrus rectus, amygdala og locus coeruleus. Disse raske endringene kan ligge til grunn for ketamins antidepressiv virkning.",
-        "da": "To randomiserede kontrollerede studier undersøgte, hvordan lav dosis ketamin påvirker hjernesignalentropien ved behandlingsresistent depression. Patienter modtog enkeltinfusion af ketamin (0,2–0,5 mg/kg) eller kontrollstoffer. Hvile-fMRI ved baseline og dag 3 viste, at ketamin øgede entropien i frontolimbiske, cerebellære og neuromodulatoriske hjernområder, herunder gyrus rectus, amygdala og locus coeruleus. Disse hurtige ændringer kan være grundlaget for ketamins antidepressive virkning.",
-        "fi": "Kaksi satunnaistettua kontrolloitua tutkimusta tutkivat, kuinka pieni annos psykodeelisia aineita muuttaa aivojen entropiaa hoitoon vastustuskykyisessä masennuksessa. Potilaat saivat yksittäisen ketamiini-infuusion (0,2–0,5 mg/kg) tai kontrolliainetta. Lepotilan fMRI-kuvaus lähtötilanteessa ja 3. päivänä osoitti, että ketamiini lisäsi entropiaa frontolimbisissa, pikkuaivoissa ja neuromodulaattorissa alueilla, mukaan lukien gyrus rectus, amygdala ja locus coeruleus. Nämä nopeat muutokset saattavat selittää ketamiinin masennuksenvastaiset vaikutukset.",
-        "is": "Tvær handahófskenndar, eftirlitsstudíur rannsökuðu hvernig lítil skammta psykóaktífra efna breytir heila-entropy við meðferðarfælni þunglyndi. Sjúklingar fengu staka innsprautun af ketamíni (0,2–0,5 mg/kg) eða samanburðarefni. fMRI við hvíld við upphaf og 3. dag sýndi að ketamín jók entropy í frontolimbískum, litlum heila- og taugabreytandi svæðum, þar með talið gyrus rectus, tonsil og locus coeruleus. Þessar hraðar breytingar gætu útskýrt andstæðlega þunglyndisáhrif ketamíns.",
-        "et": "Kaks randomiseeritud kontrollitud uuringut uurisid, kuidas madal psühhedeelikumide doos mõjutab ajuentsroopiat ravi-vastupidavas depressioonis. Patsiendid said üksikinfusiooni ketamiinist (0,2–0,5 mg/kg) või kontrollainega. Puhkeasendis fMRI lähtejoonel ja 3. päeval näitas, et ketamiin suurendas entroopiat frontolimbilistes, väikeaju- ja neuromodulatoorsetes piirkondades, sealhulgas gyrus rectus, amügdala ja locus coeruleus. Need kiired muutused võivad selgitada ketamiini antidepressiivset toimet.",
-        "lv": "Divi randomizēti kontrolēti pētījumi pārbaudīja, kā zema deva psihedeliku ietekmē smadzeņu entropiju ārstēšanai rezistentā depresijā. Pacienti saņēma vienu ketamīna infūziju (0,2–0,5 mg/kg) vai kontroles vielu. fMRI miera stāvoklī sākumā un 3. dienā parādīja, ka ketamīns palielināja entropiju frontolimbiskos, mazā smadzeņu un neuromodulatoros reģionos, tostarp gyrus rectus, amigdalā un locus coeruleus. Šīs ātras izmaiņas var izskaidrot ketamīna antidepresīvo iedarbību.",
-        "lt": "Du atsitiktinuoti kontroliuoti tyrimai tiria, kaip žema psichedeliko dozė veikia smegenų entropiją gydymui atsparioje depresijoje. Pacientai gavo vieną ketamino infūziją (0,2–0,5 mg/kg) arba kontrolinę medžiagą. fMRI ramybės būsenoje pradžioje ir 3-ią dieną parodė, kad ketaminas padidino entropiją frontolimbinėse, mažųjų smegenų ir neuromoduliacinėse srityse, įskaitant gyrus rectus, amigdalą ir locus coeruleus. Šie greitai pasikeitę rodikliai gali paaiškinti ketamino antidepresyvinį poveikį."
-      },
-      "notable": false,
-      "notable_reasons": null,
-      "relevance_score": 4,
-      "study_type": "rct",
-      "substances": [
-        "ketamine"
       ],
       "added_at": "2026-10-27T12:30:53.417560+00:00"
     }

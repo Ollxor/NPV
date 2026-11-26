@@ -1,7 +1,97 @@
 {
-  "date": "2026-11-25",
-  "cached_at": "2026-11-25T16:46:08.272168+00:00",
+  "date": "2026-11-26",
+  "cached_at": "2026-11-26T16:21:52.643023+00:00",
   "articles": [
+    {
+      "title": "Association of Low-Dose Ketamine and Ketamine-Midazolam Administration with Postpartum Depressive Symptoms, Postoperative Pain, and Adverse Events in Cesarean Deliveries Under Spinal Anesthesia.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43091624/",
+      "source": "PubMed",
+      "abstract": "",
+      "date": "2026-11-13",
+      "authors": [
+        "Engin Feti Ahmet",
+        "Demiröz Duygu",
+        "Yağcı Neslihan Altunkaya"
+      ],
+      "doi": "10.3390/medicina62112228"
+    },
+    {
+      "title": "Psychedelics and Psychedelic-Inspired Compounds for Substance Use Disorders: Are We Treating the Disease or Opening a Learning Window?",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43088300/",
+      "source": "PubMed",
+      "abstract": "Substance use disorders remain a leading cause of preventable death, and existing care is better described as disease management than as cure. Medications for opioid, alcohol, and tobacco use disorders reduce substance use, and opioid agonist treatment reduces mortality, yet retention is poor and functional recovery is rarely measured. This review asks whether psychedelics treat addiction, or temporarily create a brain state in which treatment, learning, and recovery work differently. By evaluating each pharmacologically unique compound individually, we align cellular mechanisms, animal studies and human trial data across the full spectrum of substance use disorders. Relapse prevention is not a single construct: conditioned place preference, operant reinstatement, extinction learning, and clinical abstinence index different processes, and agreement at one level does not imply agreement at another. Translational concordance is therefore indication- and compound-specific rather than a class property, with the strongest human signals for psilocybin in tobacco and alcohol use disorders, though even the alcohol signal rests on two small randomized trials with discordant results. Risk is compound-specific too: ibogaine is gated by cardiotoxicity, and ketamine carries reinforcing properties and organ toxicity of its own. Plasticity is an opportunity, not an outcome.",
+      "date": "2026-10-29",
+      "authors": [
+        "Buciuc Adela G",
+        "Gold Mark S",
+        "Fuehrlein Brian"
+      ],
+      "doi": "10.3390/brainsci16111184"
+    },
+    {
+      "title": "Substantial Treatment-Seeking Interest, Narrow Eligibility: Diagnostic Heterogeneity and External Validity in the PRIDE Psilocybin Trial-Relevance to Precision Psychiatry.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43087296/",
+      "source": "PubMed",
+      "abstract": "Public and patient interest in psychedelic-assisted psychotherapy is increasing, but people seeking access to psychedelic trials may be more clinically heterogeneous than the populations these trials can enrol. We conducted a cross-sectional descriptive analysis of previously unreported aggregate telephone-screening data from the coordinating site of PRIDE, an ongoing Italian multicentre phase II randomized trial comparing psilocybin with personalized neuromodulation for treatment-resistant depression (TRD). Among 67 candidates screened between November 2025 and June 2026, 54 were excluded (80.6%), eight were enrolled and treated (11.9%), and five were preliminarily eligible (7.5%). The leading reason for exclusion was absence of protocol-defined TRD or another psychiatric diagnosis (27/54, 50.0%), followed by age outside the protocol range (18.5%), current suicidal or self-harm ideation (13.0%), and substance use disorder or dependence (9.3%). The diagnostic diversity of excluded candidates highlights the gap between a narrowly defined trial population and heterogeneous treatment-seeking individuals. These screening data do not address treatment response or individualized treatment selection, but they help contextualize recruitment yield and the external validity of psychedelic trials. Trial registration: Clinical Trials Information System, EU CT No. 2024-519844-34-03.",
+      "date": "2026-10-26",
+      "authors": [
+        "Inserra Antonio",
+        "Persico Luca",
+        "Rosati Arianna"
+      ],
+      "doi": "10.3390/bs16111997"
+    },
+    {
+      "title": "The nucleus accumbens: an emerging modulator in anxiety disorders.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43086324/",
+      "source": "PubMed",
+      "abstract": "Anxiety disorders are common mental health conditions that significantly reduce quality of life and strain healthcare systems worldwide. Although traditionally known for its central role in reward processing, the nucleus accumbens (NAc) is increasingly recognized as a critical integrative node linking stress responses and motivational networks to modulate anxiety-related behaviors. This review summarizes recent findings on the NAc's role in anxiety regulation, focusing on neurotransmitter systems, including opioid receptors, oxytocin, and the endocannabinoid system, as well as glial mechanisms involving microglia and astrocytes. Additionally, we discuss the neural circuits that connect the NAc to regions such as the ventral tegmental area, the bed nucleus of the stria terminalis, and the medial prefrontal cortex, providing circuit-level insights. Emerging treatments, including pharmacological approaches such as ketamine and non-pharmacological strategies like exercise and deep brain stimulation, highlight the potential to target the NAc in anxiety disorders. Emphasizing the integration of molecular, cellular, and circuit perspectives, this review underscores the NAc's central role in anxiety regulation and calls for further research to develop more precise treatments.",
+      "date": "2026-11-25",
+      "authors": [
+        "Liu Qingying",
+        "Wang Yueliang",
+        "Lu Zhongyuan"
+      ],
+      "doi": "10.1038/s41380-026-03963-z"
+    },
+    {
+      "title": "Soothing Pain After ChEmotherapy with Psilocybin As INtervention (SPACE-PAIN): protocol for a pilot feasibility randomised controlled trial in patients with chemotherapy-induced chronic neuropathic pain at a tertiary hospital in the Netherlands.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43085981/",
+      "source": "PubMed",
+      "abstract": "",
+      "date": "2026-11-25",
+      "authors": [
+        "van Strien Willem Wijnand Johannes",
+        "Wensing Carin",
+        "de Klerk Eline"
+      ],
+      "doi": "10.1136/bmjopen-2026-116605"
+    },
+    {
+      "title": "Reframing depression through astrocyte-mediated synaptic plasticity: molecular mechanisms and therapeutic perspectives.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43085715/",
+      "source": "PubMed",
+      "abstract": "Major depressive disorder (MDD) is increasingly recognized as a disorder of dysfunctional neural circuits rather than solely a consequence of neurotransmitter imbalance. Although impaired synaptic plasticity has emerged as a central pathological mechanism, most studies have focused primarily on neuronal dysfunction. Astrocytes regulate synapse formation, maturation, remodeling, and elimination through perisynaptic structural support, metabolic coupling, neurotransmitter homeostasis, regulated release of neuroactive molecules, neurotrophic signaling, and neuroimmune interactions. In depression, chronic stress disrupts astrocyte-synapse interactions, including glutamate uptake, Ca",
+      "date": "2026-11-25",
+      "authors": [
+        "Dwivedi Yogesh",
+        "Wang Qingzhong"
+      ],
+      "doi": "10.1016/j.pnpbp.2026.112018"
+    },
+    {
+      "title": "Participatory Drug Market Surveillance: Implications for Nursing Science and Practice.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43085308/",
+      "source": "PubMed",
+      "abstract": "The rapidly evolving illicit drug supply presents significant challenges for clinicians, public health surveillance systems, and policymakers. Many surveillance approaches rely on delayed administrative, mortality, or healthcare data, limiting the ability to identify emerging trends in near real time. Participatory surveillance systems may provide an important complementary source of information about evolving drug markets. This study examined longitudinal and cross-national patterns in unregulated drug markets using StreetRx, a participatory surveillance platform. Data included 438,277 StreetRx submissions collected between 2013 and 2024 across the United States, Canada, Australia, the United Kingdom, Spain, France, Italy, and Germany. Drugs were classified into 13 categories using a structured coding process based on pharmacologic class and reported effects. Analyses examined temporal trends, cross-national variation, and diversity across drug categories. Findings revealed substantial changes in reported drug market activity over time. Stimulant reports increased steadily and surpassed opioid reports in several recent years, while reports of psychedelics and dissociative anesthetics increased following 2019. Opioids and benzodiazepines declined as a proportion of total reports, while diversity across drug categories increased over time. Reports of medications used for opioid use disorder were consistently identified within opioid reports. Cross-national analyses demonstrated variation in reported drug categories across participating countries. Participatory surveillance may provide timely insight into evolving drug market conditions, emerging substances, and changing patterns of demand. For addiction nursing science and practice, these systems may complement existing drug monitoring efforts by informing clinical assessment, patient education, risk reduction strategies, and future research on substance use and treatment access.",
+      "date": "2026-07-10",
+      "authors": [
+        "Speight Chandra",
+        "Smirnova Olga",
+        "Ryan David H"
+      ],
+      "doi": "10.1097/JAN.0000000000000709"
+    },
     {
       "title": "A signaling signature distinguishes hallucinogenic from non-hallucinogenic psychedelics.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/43078812/",
@@ -20,7 +110,7 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/43071461/",
       "source": "PubMed",
       "abstract": "Randomized controlled trials (RCTs) have established the acute antidepressant efficacy of intravenous racemic ketamine. However, the evidence remains limited by short-term trial durations, few long-term controlled trials of repeated administration, and the absence of a systematic program for monitoring tolerability and safety. PubMed, Embase and PsycINFO were searched from inception to 30 September 2026 for non-randomized studies of intravenous racemic ketamine in adults with a major depressive episode (MDE). Fifty-six studies were included. After induction, response ranged from 26% to 71% and remission from 14% to 53%, broadly overlapping estimates from RCTs. Durability varied, with benefits waning within weeks in many patients and relapse occurring during maintenance. Attrition was high. Blood pressure elevations were transient, with mean increases varying nearly fivefold across services. Serious adverse events were unreported in 24 studies, and urinary and hepatic outcomes were rarely reported. Intravenous ketamine is often used as maintenance therapy, yet the durability of its benefits remains uncertain, and the risks of cumulative exposure remain unquantified. Systematic collection of safety and tolerability data is needed to assess long-term safety. Head-to-head comparisons with esketamine, psychedelics, and/or accelerated transcranial magnetic stimulation are needed, alongside maintenance trials and studies addressing comorbidities and/or integrating psychotherapy modalities.",
-      "date": "2026-11-23",
+      "date": "2026-11-26",
       "authors": [
         "Wasolua Tychique T",
         "McIntyre Roger S",
@@ -105,6 +195,19 @@
       "doi": "10.1038/s44220-026-00740-3"
     },
     {
+      "title": "How Does Psilocybin Affect Daily Life Experience and Behavior? Protocol For a Multimethod Ambulatory Assessment Study Within a Clinical Trial of Psilocybin for Depression.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43060227/",
+      "source": "PubMed",
+      "abstract": "Although psilocybin has shown promise for treating depression, responses vary considerably, with some individuals experiencing limiting improvement and even adverse effects. Research has largely relied on assessments conducted at discrete time points, providing limited insight into how post-psilocybin change unfolds in everyday life. The Dial-In study aims to characterize daily-life processes associated with differential responses to psilocybin, including factors associated with improvement or worsening following challenging dosing experiences. Dial-In is a prospective, observational, multi-method longitudinal study embedded within a clinical trial administering 25 mg of psilocybin to up to 141 adults with major depressive disorder. Ambulatory assessments combine ecological momentary assessment (EMA) and voice diaries for 14 days pre- and post- dosing, and passive audio sampling via the Electronically Activated Recorder (EAR) for three four-day periods to characterize everyday affect, behavior, reflections, and social interactions. Outcomes include depressive symptoms, psychological well-being, and psychedelic-related adverse effects assessed through eight weeks post-dose. Analyses will examine whether affective sudden gains and losses, social support, interpersonal conflict, conversational focus, reflection and rigidity predict differential outcomes. Additional analyses will test whether these factors moderate associations between challenging dosing experiences and clinical outcomes. The project was approved by WCG Institutional Review Board, with Emory University relying on WCG as the reviewing board. All participants provide written informed consent. Findings will be disseminated through peer-reviewed publications and scientific presentations. ClinicalTrials.gov, NCT06512194 (parent trial), OSF (https://osf.io/nx5ky/overview).",
+      "date": "2026-11-12",
+      "authors": [
+        "Sutu Andreea",
+        "Kaplan Deanna",
+        "Raison Charles L"
+      ],
+      "doi": "10.64898/2026.11.10.26367628"
+    },
+    {
       "title": "A state-dependent glymphatic dimension in major depressive disorder: implications for treatment resistance.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/43058178/",
       "source": "PubMed",
@@ -157,194 +260,92 @@
       "doi": "10.1172/JCI204965"
     },
     {
-      "title": "Changes in Eating Disorder and General Psychopathology During Olanzapine Treatment in Young People with Anorexia Nervosa: Exploratory Results from OPEN.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43055037/",
-      "source": "PubMed",
-      "abstract": "",
-      "date": "2026-10-11",
-      "authors": [
-        "Morris Rebecca",
-        "Stringer Dominic",
-        "Said Olena"
-      ],
-      "doi": "10.65801/pcp.3574"
-    },
-    {
-      "title": "Early brain functional connectivity changes induced by antidepressants and placebo.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43054784/",
-      "source": "PubMed",
-      "abstract": "Major depressive disorder (MDD) is a highly prevalent psychiatric disorder associated with substantial morbidity and mortality. Despite its prevalence, the neural mechanisms underlying MDD and its treatment remain insufficiently understood, contributing to limited treatment efficacy and trial-and-error clinical practice. Although pretreatment brain signatures have been associated with MDD diagnosis and antidepressant response, the precise neural circuits underlying these associations remain elusive. Here, to bridge this gap, we systematically characterize early treatment-induced changes in functional connectivity (FC) following 1 or 2 weeks of antidepressant or placebo administration using two independent cohorts of patients with MDD who are receiving medication (",
-      "date": "2026-09-18",
-      "authors": [
-        "Tong Xiaoyu",
-        "Fonzo Gregory A",
-        "Carlisle Nancy B"
-      ],
-      "doi": "10.1038/s44220-026-00729-y"
-    },
-    {
-      "title": "Psychedelics and Sleep: Preclinical and Human Studies-A Systematic Review.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43054774/",
-      "source": "PubMed",
-      "abstract": "",
-      "date": "2026-10-11",
-      "authors": [
-        "Supit Kim",
-        "Rossi Giordano N",
-        "Reis José Augusto S"
-      ],
-      "doi": "10.65801/pcp.3606"
-    },
-    {
-      "title": "Maintenance ketamine infusions for treatment-resistant bipolar depression: An open-label extension trial.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43051162/",
-      "source": "PubMed",
-      "abstract": "Antidepressant effects of intravenous (i.v.) ketamine for major depressive disorder (MDD) have been demonstrated, although relapse after an induction course of ketamine is common. Maintenance ketamine doses have been shown to sustain antidepressant effects in MDD; however, safety and efficacy in bipolar depression remain understudied. This single-arm, open-label 12-week extension trial enrolled participants with treatment-resistant bipolar depression (TRBD) who benefited from an induction course of i.v. ketamine. During maintenance, participants received up to six flexibly dosed infusions (0.5-1.0 mg/kg). The primary outcome was change in Montgomery-Åsberg Depression Rating Scale (MADRS) score from maintenance baseline to week 12, analyzed via linear mixed-effects model. Safety, tolerability, and secondary outcomes (anxiety, suicidality, and well-being) were assessed. This study was registered at ClinicalTrials.gov (NCT05339074; 2022-04-13). Thirty-six participants entered the maintenance phase and received a mean of 5.14 (SD = 1.31) booster infusions. Estimated marginal mean MADRS scores decreased significantly from 19.8 (95% CI, 16.2-23.4) at maintenance baseline to 15.6 (95% CI, 11.9-19.3) at week 12 (mean difference = -4.20; 95% CI, -7.34 to -1.06; p = 0.009). Response and remission rates increased over the maintenance phase, from 33.3% to 50% and 27.8% to 36.1%, respectively. Suicidal ideation declined from 54.3% to 20.7% of participants, with parallel improvements in anxiety and well-being. Infusions were well tolerated, with no treatment-emergent mania or psychosis. In TRBD, maintenance ketamine infusions were well tolerated and sustained antidepressant benefits, providing the first clinical trial evidence for maintenance treatment in this population. This study was funded by Physicians' Services Inc. and Canadian Institute of Health Research.",
-      "date": "2026-11-18",
-      "authors": [
-        "Johnson Danica E",
-        "Orsini Diana K",
-        "Vasudeva Shreya"
-      ],
-      "doi": "10.1016/j.medj.2026.101361"
-    },
-    {
-      "title": "The inner healer: Emergent self-organization in psychedelic psychotherapy.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43050893/",
-      "source": "PubMed",
-      "abstract": "The \"Inner Healer\" is a common concept in psychedelic-assisted therapy, but it is often poorly defined. This paper proposes a simpler interpretation: the Inner Healer can be understood as the person's capacity for self-organization and adaptive change. From this perspective, healing does not come only from the drug or the therapist. It can also emerge when rigid patterns of thought, emotion, and behavior become more flexible and new responses become possible. Psychedelics may support this process by temporarily reducing the stability of established psychological patterns. This increased openness, however, does not guarantee improvement. Change can move in helpful, neutral, or harmful directions, depending on the person, the therapeutic relationship, the setting, and what happens after the experience. Three clinical cases are used to illustrate the model. One shows self-organizing change without psychedelics, while two others describe MDMA- and psilocybin-assisted treatment. Across the cases, important therapeutic material emerged in ways that were not fully predicted or directed by the clinician. The Inner Healer is therefore presented not as a separate inner entity or proven mechanism, but as a clinical framework for understanding adaptive reorganization. The model emphasizes psychological flexibility, agency, meaning, and consolidation as possible markers of successful change. It also suggests testable questions about when greater openness leads to durable improvement and how clinicians can support that process without over-directing it.",
-      "date": "2026-10-10",
-      "authors": [
-        "Shannon Scott"
-      ],
-      "doi": "10.1016/j.explore.2026.103541"
-    },
-    {
-      "title": "Cost-effectiveness of psychedelic-assisted therapies for depression and post-traumatic stress disorder: A systematic review.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43050838/",
-      "source": "PubMed",
-      "abstract": "Psychiatric disorders impose substantial clinical and economic burdens. Psychedelic-assisted therapies, including methylenedioxymethamphetamine (MDMA) and psilocybin-assisted therapy (PAT), have shown promising clinical outcomes but require resource-intensive delivery. This study aimed to systematically review and synthesize the available evidence on the cost-effectiveness of psychedelic-assisted therapy for depression and post-traumatic stress disorder (PTSD). Following the PRISMA 2020 guidelines, PubMed, Scopus, Web of Science, and Embase were searched to identify full economic evaluations of psychedelic-assisted therapies for depression and PTSD. Study quality was appraised using the Quality of Health Economic Studies (QHES) instrument. All incremental cost-effectiveness ratios (ICERs) were converted to 2024 U.S. dollars. Of the 672 records identified, seven studies met the inclusion criteria five evaluated MDMA-assisted therapy (MDMA-AT) for PTSD and two evaluated PAT for severe or treatment-Resistant Depression (TRD). All studies showed high methodological quality. Across diverse model structures and analytic perspectives, MDMA-AT was generally cost-effective relative to the standard of care in high-income countries and under established willingness-to-pay (WTP) thresholds. However, evidence regarding PAT remains limited and mixed. Current evidence suggests that psychedelic-assisted therapy can generate economic value for PTSD, However, whereas the cost-effectiveness of PAT for severe or TRD depression remains more uncertain and context dependent. Additional high-quality, context-specific evaluations, particularly in low- and middle-income countries, are required to inform equitable and sustainable adoption.",
-      "date": "2026-11-13",
-      "authors": [
-        "Sheikhrobat Mohammad Veysi",
-        "Jaberi Nasim",
-        "Tahmasebi-Ghorrabi Ahmad"
-      ],
-      "doi": "10.1016/j.psychres.2026.117596"
-    },
-    {
-      "title": "Astrocytes as a Convergence Point for Neuroprotection and Drug Repurposing in Long COVID Comorbidities.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43049828/",
-      "source": "PubMed",
-      "abstract": "Astrocytes are central regulators of metabolic homeostasis, redox balance, and neuroimmune signaling within the central nervous system, and accumulating evidence implicates these cells as key mediators of the neurological sequelae associated with long COVID. SARS-CoV-2 has been shown to infect neural cells, inducing substantial alterations in these regulatory parameters and promoting a sustained reactive astrocyte phenotype that compromises synaptic plasticity, blood-brain barrier integrity, and metabolic support, thereby contributing to neurometabolic and neuropsychiatric dysfunction. Despite the convergence of these findings, no review has addressed the interplay between astrocyte biology, systemic metabolic and psychiatric comorbidities, and the potential for drug repurposing within a gliopharmacological context in long COVID. In this review, we propose an astrocyte-centered model in which long COVID arises from the convergence of direct viral injury and pre-existing disorders. We then critically examine the repurposing potential of three pharmacological categories, each selected on the basis of their documented actions on astrocytic metabolic, redox, or inflammatory pathways: systemic medications already in wide clinical use for metabolic and cardiovascular indications, including metformin, angiotensin II receptor blockers, calcium-channel blockers, and statins; centrally acting agents with established or emerging use in psychiatry, such as selective serotonin reuptake inhibitors and ketamine; and the glioprotective polyphenol resveratrol. Accordingly, we delineate a translational rationale for repurposing existing therapeutics to target astrocyte-mediated pathways in long COVID. This manuscript, therefore, reinforces astrocytes as central mediators of neuroprotection and supports gliopharmacological approaches as a rational strategy to mitigate neurological dysfunction in long COVID associated with neurometabolic and neuropsychiatric comorbidities.",
-      "date": "2026-11-18",
-      "authors": [
-        "Bezerra Caio César Ramalho",
-        "Dias Filipe Renato Pereira",
-        "Schmitz Izaviany"
-      ],
-      "doi": "10.1007/s12035-026-06328-3"
-    },
-    {
-      "title": "Clinical Factors Associated With Response and Outcomes in Intravenous Ketamine Treatment for Depression: Insights From a Real-World Retrospective Study.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43049600/",
-      "source": "PubMed",
-      "abstract": "This study aimed to explore the clinical factors associated with response in patients receiving ketamine, evaluating changes in suicidality in each treatment session and the side effects of ketamine infusion therapy for depression. A retrospective descriptive study was conducted using electronic medical records from 90 patients treated with subanesthetic ketamine infusions between 2019 and 2023. Depression and suicidality scores were measured by the Montgomery-Åsberg Depression Rating Scale (MADRS). Clinical response was defined as a 50% or greater reduction in MADRS score at the final treatment session. The primary outcome was clinical factors associated with response in patients treated with ketamine. Of the 90 patients, 35 were classified as responders. Logistic regression analysis identified baseline suicidality scores on MADRS (adjusted OR: 1.46, P=0.019) and comorbid anxiety disorder (adjusted OR: 4.39, P=0.048) as significantly associated with treatment response. Generalized estimating equation analysis revealed that each additional ketamine session was associated with a significant reduction in MADRS (coefficient =-1.11, P<0.001) and suicidality scores (coefficient =-0.14, P<0.001). Side effects occurred more frequently in nonresponders. These findings suggest that baseline suicidality and comorbid anxiety disorders are important factors to consider when selecting candidates for ketamine therapy. Future research should aim to further elucidate the factors contributing to the efficacy and safety of ketamine as a treatment for depression.",
-      "date": "2026-11-19",
-      "authors": [
-        "Vichitkunakorn Thornthep",
-        "Rungnirundorn Teerayuth",
-        "Chiddaycha Mayteewat"
-      ],
-      "doi": "10.1097/JCP.0000000000002302"
-    },
-    {
-      "title": "Pα+ Psychedelic Bulletin #235: Canada Outpaces U.S. on Ibogaine; Usona Pledges No Sales Reps; A Third of Spravato Prescribers Drive 80% of Volume; Will the VA Be Ready?",
-      "url": "https://psychedelicalpha.com/news/p%ce%b1-psychedelic-bulletin-235-canada-outpaces-u-s-on-ibogaine-usona-pledges-no-sales-reps-a-third-of-spravato-prescribers-drive-80-of-volume-will-the-va-be-ready/",
-      "source": "Psychedelic Alpha",
-      "abstract": "Is Canada Outpacing the U.S. on Ibogaine? Earlier this month, the U.S. Department of Health and Human Services and the Department of Veterans Affairs gathered the press to make a splashy announcement: Mark Cuban Cost Plus Drug Company would lead the effort to develop ibogaine for PTSD on American soil, with clinical development apparently buoyed […]",
-      "date": "2026-11-25",
-      "authors": [],
-      "doi": ""
-    },
-    {
-      "title": "Beyond the Topline: Helus’ CMO on SAEs, Placebo Response and Support in First Phase 3",
-      "url": "https://psychedelicalpha.com/news/beyond-the-topline-helus-cmo-on-saes-placebo-response-and-support-in-first-phase-3/",
-      "source": "Psychedelic Alpha",
-      "abstract": "Last Monday, Helus Pharma printed a positive topline readout from its first Phase 3 study (APPROACH), which trialled two 16 mg doses of its deuterated psilocin candidate (HLP003) as an adjunctive treatment for major depressive disorder (MDD). (See Breaking: Helus’ Deuterated Psilocin Hits Primary Endpoint in First Phase 3.) Later in the week, we spoke […]",
-      "date": "2026-11-23",
-      "authors": [],
-      "doi": ""
-    },
-    {
-      "title": "Similarly Situated? Anonymous Citizen Petition Takes Aim at Usona’s Psilocybin Application",
-      "url": "https://psychedelicalpha.com/news/similarly-situated-anonymous-citizen-petition-takes-aim-at-usonas-psilocybin-application/",
-      "source": "Psychedelic Alpha",
-      "abstract": "A new Citizen Petition filed with FDA on November 17th (PDF) by D.C. law firm Kleinfeld, Kaplan and Becker (KKB) on behalf of an unnamed client, states that it aims to “assure that psychedelic drug products are uniformly subject to the same rigorous medical and scientific approval framework applicable to other classes of drugs.” While […]",
-      "date": "2026-11-22",
-      "authors": [],
-      "doi": ""
-    },
-    {
-      "title": "From Approvals to Appointments: Who Pays for Psychedelic Therapy, and How?",
-      "url": "https://psychedelicalpha.com/news/from-approvals-to-appointments-who-pays-for-psychedelic-therapy-and-how/",
-      "source": "Psychedelic Alpha",
-      "abstract": "At The Psychedelic Healthcare Forum, co-hosted by Psychedelic Alpha and Horizons in New York on October 15th, we dedicated a significant portion of our afternoon programming to a question that has loomed large in the field of late: Once a psychedelic is approved, how does it actually reach patients, and who pays? The block was […]",
-      "date": "2026-11-20",
-      "authors": [],
-      "doi": ""
-    },
-    {
-      "title": "Breaking: Helus’ Deuterated Psilocin Hits Primary Endpoint in First Phase 3",
-      "url": "https://psychedelicalpha.com/news/breaking-helus-deuterated-psilocin-hits-primary-endpoint-in-first-phase-3/",
-      "source": "Psychedelic Alpha",
-      "abstract": "This morning, Helus Pharma (formerly Cybin) announced a positive topline readout from its first Phase 3 study of HLP003, a deuterated psilocin analog, for the adjunctive treatment of major depressive disorder (MDD). Here, we provide breaking coverage and rapid analysis. Trial Design Helus’ Phase 3 program, PARADIGM, trials HLP003 as an adjunctive treatment for MDD […]",
-      "date": "2026-11-16",
-      "authors": [],
-      "doi": ""
-    },
-    {
-      "title": "Podcast: Compass Files Psilocybin Application with FDA, U.S. Government Taps Mark Cuban to Develop Ibogaine, Psychedelics After the Midterms",
-      "url": "https://psychedelicalpha.com/news/podcast-compass-files-psilocybin-application-with-fda-u-s-government-taps-mark-cuban-to-develop-ibogaine-psychedelics-after-the-midterms/",
+      "title": "Video: Eli Lilly’s Carole Ho on Psychedelics",
+      "url": "https://psychedelicalpha.com/news/video-eli-lillys-carole-ho-on-psychedelics/",
       "source": "Psychedelic Alpha",
       "abstract": "",
-      "date": "2026-11-16",
+      "date": "2026-11-26",
       "authors": [],
       "doi": ""
     },
     {
-      "title": "Field Notes #6: Dispatches from D.C. as Three Psychedelics Land at FDA",
-      "url": "https://psychedelicalpha.com/news/field-notes-6-dispatches-from-d-c-as-three-psychedelics-land-at-fda/",
-      "source": "Psychedelic Alpha",
-      "abstract": "Welcome to our sixth Field Note. As a reminder, Field Notes are timely, candid voice notes from our Founder and Editor, Josh Hardman, that give our Pα+ readers a pulse on recent developments in psychedelic drug development, policy, and access. In this Field Note, Josh shares notes from a recent trip to Washington, D.C., where […]",
-      "date": "2026-11-13",
-      "authors": [],
-      "doi": ""
-    },
-    {
-      "title": "Breaking: U.S. Government Taps Mark Cuban’s Company to Develop Ibogaine for PTSD; Commits to Fund $20M Real-World Evidence Network",
-      "url": "https://psychedelicalpha.com/news/breaking-u-s-government-taps-mark-cubans-company-to-develop-ibogaine-for-ptsd-commits-to-fund-20m-real-world-evidence-network/",
-      "source": "Psychedelic Alpha",
-      "abstract": "This morning, the U.S. Department of Health and Human Services (HHS) provided an update on two psychedelics-related initiatives during a press conference hosted by its Secretary, RFK Jr. The Department of Veterans Affairs (VA) Secretary, Doug Collins, was unable to join the press conference due to a shooting in D.C. VA Senior Advisor Andrew Gradison […]",
-      "date": "2026-11-12",
-      "authors": [],
-      "doi": ""
-    },
-    {
-      "title": "220 Patients or 20,000? Clinics Split on Psychedelics’ First Year",
-      "url": "https://psychedelicalpha.com/news/220-patients-or-20000-clinics-split-on-psychedelics-first-year/",
+      "title": "Video: Are Clinics Ready for Psychedelics?",
+      "url": "https://psychedelicalpha.com/news/video-are-clinics-ready-for-psychedelics/",
       "source": "Psychedelic Alpha",
       "abstract": "",
-      "date": "2026-11-12",
+      "date": "2026-11-26",
       "authors": [],
       "doi": ""
     },
     {
-      "title": "Breaking: Compass Files Psilocybin for TRD New Drug Application with FDA",
-      "url": "https://psychedelicalpha.com/news/breaking-compass-files-psilocybin-for-trd-new-drug-application-with-fda/",
+      "title": "Video: Launching Psychedelic Therapies: A Roundtable",
+      "url": "https://psychedelicalpha.com/news/video-launching-psychedelic-therapies-a-roundtable/",
       "source": "Psychedelic Alpha",
       "abstract": "",
-      "date": "2026-11-09",
+      "date": "2026-11-26",
+      "authors": [],
+      "doi": ""
+    },
+    {
+      "title": "Video: Who Will Pay for Psychedelic Therapies, and When?",
+      "url": "https://psychedelicalpha.com/news/video-who-will-pay-for-psychedelic-therapies-and-when/",
+      "source": "Psychedelic Alpha",
+      "abstract": "",
+      "date": "2026-11-26",
+      "authors": [],
+      "doi": ""
+    },
+    {
+      "title": "Video: From FDA Approval to First Appointment",
+      "url": "https://psychedelicalpha.com/news/video-from-fda-approval-to-first-appointment/",
+      "source": "Psychedelic Alpha",
+      "abstract": "",
+      "date": "2026-11-26",
+      "authors": [],
+      "doi": ""
+    },
+    {
+      "title": "Video: AbbVie, Lilly and Definium on Psychedelic R&D",
+      "url": "https://psychedelicalpha.com/news/video-abbvie-lilly-and-definium-on-psychedelic-rd/",
+      "source": "Psychedelic Alpha",
+      "abstract": "",
+      "date": "2026-11-26",
+      "authors": [],
+      "doi": ""
+    },
+    {
+      "title": "Video: Courting Capital for Psychedelic Medicine",
+      "url": "https://psychedelicalpha.com/news/video-courting-capital-for-psychedelic-medicine/",
+      "source": "Psychedelic Alpha",
+      "abstract": "",
+      "date": "2026-11-26",
+      "authors": [],
+      "doi": ""
+    },
+    {
+      "title": "Video: FDA, VA and ARPA-H on Psychedelic Medicine",
+      "url": "https://psychedelicalpha.com/news/video-fda-va-and-arpa-h-on-psychedelic-medicine/",
+      "source": "Psychedelic Alpha",
+      "abstract": "",
+      "date": "2026-11-26",
+      "authors": [],
+      "doi": ""
+    },
+    {
+      "title": "Video: HHS’s Matt Zorn on Psychedelic Safety and Speed",
+      "url": "https://psychedelicalpha.com/news/video-hhss-matt-zorn-on-psychedelic-safety-and-speed/",
+      "source": "Psychedelic Alpha",
+      "abstract": "",
+      "date": "2026-11-26",
+      "authors": [],
+      "doi": ""
+    },
+    {
+      "title": "Video: The State of the Psychedelic Industry in 2026",
+      "url": "https://psychedelicalpha.com/news/video-the-state-of-the-psychedelic-industry-in-2026/",
+      "source": "Psychedelic Alpha",
+      "abstract": "",
+      "date": "2026-11-26",
       "authors": [],
       "doi": ""
     },
@@ -465,6 +466,19 @@
       "doi": "10.1002/deo2.70402"
     },
     {
+      "title": "3D printed Bouncy Bioglass enhances articular cartilage regeneration.",
+      "url": "https://doi.org/10.1016/j.bioactmat.2026.09.023",
+      "source": "Europe PMC",
+      "abstract": "Articular cartilage is an avascular tissue with limited intrinsic repair capacity, and untreated defects will deteriorate progressively over time. Lining the ends of bones, it plays a critical role in joint lubrication and shock absorption. Current surgical interventions, such as microfracture, typically result in the formation of mechanically inferior fibrocartilage. There remains a significant unmet clinical need for biomaterials that can support the regeneration of functional articular cartilage. We present a non-cytotoxic sol-gel hybrid scaffold, of composition silica/poly(tetrahydrofuran)/polycaprolactone (SiO<sub>2</sub>/PTHF/PCL-diCOOH), termed 'Bouncy Bioglass' to address that need. Our ovine model revealed that Bouncy Bioglass scaffolds with 250 μm channels stimulated hyaline cartilage regeneration. They outperformed scaffolds with 500 μm channel and microfracture alone, by improved integration and filling of the defect site with articular-like cartilage tissue. This tissue showed a significant increase in collagen type II and other primary components of healthy articular cartilage, compared to the tissue formed from the other two conditions. Our hybrid biomaterial, Bouncy Bioglass, enhances the regeneration of articular cartilage and may offer an 'off-the-shelf' synthetic implant option to treat localised articular defects and prevent their continued degeneration.",
+      "date": "2026-09-22",
+      "authors": [
+        "Heyraud A",
+        "Tallia F",
+        "Al-Jabri T"
+      ],
+      "doi": "10.1016/j.bioactmat.2026.09.023"
+    },
+    {
       "title": "Pain Management in the Trauma Patient.",
       "url": "https://doi.org/10.1016/j.emc.2026.07.006",
       "source": "Europe PMC",
@@ -475,6 +489,19 @@
         "Couturier K."
       ],
       "doi": "10.1016/j.emc.2026.07.006"
+    },
+    {
+      "title": "MDMA-assisted therapy for social anxiety disorder: A randomized, open-label, wait-list controlled trial.",
+      "url": "https://doi.org/10.1016/j.jad.2026.122710",
+      "source": "Europe PMC",
+      "abstract": "<h4>Background</h4>±3, 4-methylenedioxymethamphetamine (MDMA) has positive effects on socio-emotional processing and MDMA-Assisted Therapy (MDMA-AT) showed promise for treating Social Anxiety Disorder (SAD) in a previous placebo-controlled trial.<h4>Aims</h4>Develop a preliminary estimate of clinical response and safety for MDMA-AT versus waitlist in adults with SAD. Secondary aims included refinement of a standardized psychotherapy manual and assessment of candidate therapeutic processes.<h4>Method</h4>This randomized, open-label, wait-list controlled clinical trial recruited and enrolled 20 participants diagnosed with SAD from April 2022 to March 2024. They were randomly assigned to either immediate treatment with MDMA-AT or a 16-week waitlist condition followed by MDMA-AT equivalent to the immediate treatment arm. MDMA-AT consisted of three 90-min preparation sessions, two MDMA sessions, and six 90-min integration sessions. The preregistered primary outcome was the Liebowitz Social Anxiety Scale; secondary outcomes were functioning, shame, acceptance, belongingness, self-concealment, and self-compassion.<h4>Results</h4>Across 20 participants (45% women, 40% men, 15% transgender; 85% White; mean age 38) we observed a mean difference on the Liebowitz Social Anxiety Scale at 16-week primary outcome of -43.3 (SD = 14.7; 95% CI, -29.5 to -57.1; p < .0001; Hedges' g = 2.8) indicating greater improvement in the MDMA-AT condition. No serious adverse events occurred; adverse events were mild to moderate and transient.<h4>Conclusions</h4>MDMA-AT resulted in a significant reduction in social anxiety symptoms and improvement in functioning compared to waitlist. There were no serious adverse events. Findings provide preliminary data for clinical response, safety, and feasibility of MDMA-AT for SAD, supporting the need for further investigation. Trial Registration https://clinicaltrials.gov/study/NCT05138068.",
+      "date": "2026-11-06",
+      "authors": [
+        "Luoma JB",
+        "Lear MK",
+        "Pilecki B"
+      ],
+      "doi": "10.1016/j.jad.2026.122710"
     },
     {
       "title": "A psychedelic-rich alkaloid fraction obtained from Mimosa tenuiflora (Willd.) Poir attenuates somatic and affective symptoms of naloxone-precipitated morphine withdrawal in C57BL/6 mice.",
@@ -542,37 +569,11 @@
       "doi": "10.1016/j.bioactmat.2026.09.003"
     },
     {
-      "title": "A self-crosslinkable, adhesive intestine-derived extracellular matrix hydrogel enhances organoid retention and restores intestinal barrier integrity.",
-      "url": "https://doi.org/10.1016/j.bioactmat.2026.09.006",
-      "source": "Europe PMC",
-      "abstract": "Disruption of the intestinal barrier impairs essential functions of the gastrointestinal tract and triggers severe inflammation. Accordingly, transplantation of intestinal organoids restores the integrity of the injured intestinal barrier by promoting regeneration. However, the dynamic mucosal microenvironment of the intestine hinders effective retention of transplanted organoids, thereby limiting their therapeutic efficacy. To address this challenge, this study introduces a pyrogallol (PG)-conjugated intestine-derived extracellular matrix (IEM) (IEM-PG) as a scaffold for effective organoid transplantation. The dual crosslinking of IEM-based fibrillogenesis and oxidative PG coupling enabled IEM-PG to form a robust hydrogel scaffold without crosslinking agents under physiological conditions. Moreover, the IEM-PG hydrogel exhibited enhanced mechanical properties, superior bio-adhesion, and greater resistance to enzymatic degradation than the pristine IEM. The IEM-PG hydrogel was also highly biocompatible and did not adversely affect the viability and development of colonic organoids. The solution-type IEM-PG was readily injected into colonic tissue, thus allowing IEM-PG to initially spread along the intestinal lining. Transplantation of colonic organoids using IEM-PG in a mouse colonic ulcer model demonstrated effective cell retention in the intestinal tract, thereby restoring the structural integrity and function of the intestinal barrier. The study further demonstrated that the patch-type IEM-PG hydrogel was effective for the transplantation of colonic assembloids and the treatment of colonic perforation. Overall, this study presents the IEM engineered with an adhesive motif as a self-crosslinking hydrogel platform for organoid/assembloid transplantation and intestinal tissue repair.",
-      "date": "2026-09-15",
-      "authors": [
-        "Kim YS",
-        "Han SY",
-        "An S"
-      ],
-      "doi": "10.1016/j.bioactmat.2026.09.006"
-    },
-    {
-      "title": "Rapid antidepressant-like effects of Chaihu Shugan San in female restraint-stressed mice: involvement of hippocampal TC2N and ERβ-eNOS-CaMKII-BDNF signaling.",
-      "url": "https://doi.org/10.1016/j.jep.2026.122427",
-      "source": "Europe PMC",
-      "abstract": "<h4>Ethnopharmacological relevance</h4>Chaihu Shugan San (CSS), a classical seven-herb formula from the Ming-dynasty text Jing-Yue Quanshu, is widely prescribed for depressive disorders in China. Previous preclinical studies reported antidepressant-like effects only after weeks of repeated administration, mostly in male animals. Whether a single dose of CSS can produce rapid antidepressant-like effects in female animals, and through what mechanism, remains unclear.<h4>Aim of the study</h4>To determine whether a single administration of CSS produces rapid antidepressant-like effects in female mice exposed to chronic restraint stress (CRS), and to explore the underlying hippocampal mechanism.<h4>Methods and materials</h4>CSS quality was controlled by HPLC quantification of four index components. Female CRS mice received a single dose of CSS (1, 2 or 4 g/kg, i. g.) or ketamine (10 mg/kg, i. p.), followed by behavioral testing (tail suspension, forced swimming, sucrose preference and open field tests) within 2-24 h. Hippocampal RNA sequencing, RT-qPCR, Western blotting and ELISA were used to identify and validate candidate targets; hippocampal AAV-mediated TC2N overexpression and pretreatment with the ERβ antagonist acolbifene or the CaMKII inhibitor KN-93 were used for interventional validation.<h4>Results</h4>Batch-to-batch variation of the four index components was below 10% (RSDs 3.51-5.66%), with naringin (313.07 ± 11.16 μg/mL) and hesperidin (196.40 ± 11.11 μg/mL) as the major constituents. Acute administration of CSS (2 and 4 g/kg), like ketamine, shortened immobility time in the tail suspension test at 2 h and in the forced swimming test at 12 h, and restored sucrose preference at 24 h, without affecting locomotor activity. Hippocampal transcriptomics identified Tc2n as up-regulated by CRS and down-regulated by CSS, with Esr2, Nos3 and Camk2a showing the opposite pattern; these changes were confirmed at the mRNA and protein levels within 2 h. Hippocampal TC2N overexpression or pretreatment with acolbifene or KN-93 abolished the rapid behavioral effects of CSS and the associated changes in ERβ-eNOS-CaMKII-BDNF signaling.<h4>Conclusion</h4>CSS produces rapid, ketamine-comparable antidepressant-like behavioral effects in female CRS-exposed mice, accompanied by down-regulation of hippocampal TC2N and involvement of ERβ, eNOS, CaMKII and BDNF. Because only female mice were studied, these findings are specific to females and support an estrogen-linked mechanism that warrants confirmation in male animals and further translational study.",
-      "date": "2026-09-22",
-      "authors": [
-        "Wu L",
-        "Cheng W",
-        "Xiang H"
-      ],
-      "doi": "10.1016/j.jep.2026.122427"
-    },
-    {
       "title": "CZ",
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2018-004480-31/CZ",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-11-25",
+      "date": "2026-11-26",
       "authors": [],
       "doi": ""
     },
@@ -581,7 +582,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2020-005037-32/CZ",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-11-25",
+      "date": "2026-11-26",
       "authors": [],
       "doi": ""
     },
@@ -590,7 +591,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2021-002909-10/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-11-25",
+      "date": "2026-11-26",
       "authors": [],
       "doi": ""
     },
@@ -599,7 +600,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2015-000550-37/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-11-25",
+      "date": "2026-11-26",
       "authors": [],
       "doi": ""
     },
@@ -608,7 +609,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2021-000041-40/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-11-25",
+      "date": "2026-11-26",
       "authors": [],
       "doi": ""
     },
@@ -617,7 +618,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2020-000829-55/DK",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-11-25",
+      "date": "2026-11-26",
       "authors": [],
       "doi": ""
     },
@@ -626,7 +627,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2020-002790-94/SE",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-11-25",
+      "date": "2026-11-26",
       "authors": [],
       "doi": ""
     },
@@ -635,7 +636,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2021-006200-33/FI",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-11-25",
+      "date": "2026-11-26",
       "authors": [],
       "doi": ""
     },
@@ -644,7 +645,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2019-004812-73/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-11-25",
+      "date": "2026-11-26",
       "authors": [],
       "doi": ""
     },
@@ -653,7 +654,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2022-002369-14/BE",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-11-25",
+      "date": "2026-11-26",
       "authors": [],
       "doi": ""
     },

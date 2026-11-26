@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25T17:29:17.479397+00:00",
+  "generated_at": "2026-11-26T17:13:45.073597+00:00",
   "items": [
     {
       "title": "Determination of Tryptamines in Biological Specimens.",
@@ -32,6 +32,68 @@
         "other"
       ],
       "added_at": "2026-11-02T16:23:16.533919+00:00"
+    },
+    {
+      "title": "Soothing Pain After ChEmotherapy with Psilocybin As INtervention (SPACE-PAIN): protocol for a pilot feasibility randomised controlled trial in patients with chemotherapy-induced chronic neuropathic pain at a tertiary hospital in the Netherlands.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43085981/",
+      "source": "PubMed",
+      "date": "2026-11-25",
+      "authors": [
+        "van Strien Willem Wijnand Johannes",
+        "Wensing Carin",
+        "de Klerk Eline"
+      ],
+      "doi": "10.1136/bmjopen-2026-116605",
+      "summaries": {
+        "en": "SPACE-PAIN is a pilot randomized controlled trial investigating psilocybin as a treatment for chemotherapy-induced chronic neuropathic pain in Dutch patients. The study protocol outlines a feasibility assessment of this intervention at a tertiary hospital, examining whether psilocybin may alleviate persistent pain symptoms in cancer survivors.",
+        "sv": "SPACE-PAIN är en pilotöverstudie som undersöker psilocybin som behandling för kronisk neuropatisk smärta orsakad av kemoterapy hos holländska patienter. Studidesignen är en randomiserad kontrollerad försöksstudie som utvärderar möjligheten att använda psilocybin på ett sjukhus för att lindra ihållande smärtsymtom.",
+        "no": "SPACE-PAIN er en pilotstudie som undersøker psilocybin som behandling for kronisk nevropatisk smerte forårsaket av kjemoterapy hos nederlandske pasienter. Den randomiserte, kontrollerte designen vurderer gjennomførbarhet av intervensjonen ved et tertiærsykehus for å lindre vedvarende smerter.",
+        "da": "SPACE-PAIN er en pilotforsøg, der undersøger psilocybin som behandling for kronisk neuropatisk smerte induceret af kemoterapi hos hollandske patienter. Det randomiserede, kontrollerede studiedesign vurderer muligheden for denne intervention på et tertiært hospital til at lindre vedvarende smertesymptomer.",
+        "fi": "SPACE-PAIN on pilotti-tutkimus, joka tutkii psilosybiinia hoitona kemoterapian aiheuttamaan krooniiseen neuropaattiseen kipuun hollantilaisten potilaiden parissa. Satunnaistettu kontrolloitu tutkimusasetelma arvioi intervention toteutettavuutta tertiaarisairaalassa pitkittyneistä kivuista kärsivien syöpäpotilaiden hoidossa.",
+        "is": "SPACE-PAIN er tilraunastutti þar sem könnuð er notkun psýlósýbín gegn langvinnri taugaverkjum frá sýklalyfjameðferð hjá holnskum sjúklingum. Tilraunin metur framkvæmunarhæfni inngriparinnar á þriðja flokks sjúkrahúsi til að draga úr langvarandi verkvanda hjá krabbameinsmönnum.",
+        "et": "SPACE-PAIN on pilootkat­se, mis uurib psilosübiini kui ravi keemiaravi põhjustatud kroonilistele neuro­paatilistele valu­dele Hollandis. Juhuslik­ult kontrollitud uuringu disain hindab sekkumise praktilist teostamist kolmanda taseme haiglas pikaaegsete valuga patsientide ravis.",
+        "lv": "SPACE-PAIN ir pilota pētījums, kas pēta psilo­cibi­nu kā ārstēšanu hemoterāpijas izraisītai hroniskai neiropātiski bolai Nīderlandē. Randomizētā kontrolētā pētījuma noformējums novērtē intervences īstenojamību terciārā slimnīcā, lai mazinātu noturīgus sāpju simptomus.",
+        "lt": "SPACE-PAIN yra pilotinis atsitiktinis kontroliuojamas tyrimas, kuriame tiriamas psilocibinas gydant chemoterapijos sukeltą lėtinę neuropatinę skausmą Nyderlandoje. Tyrime vertinama šios intervencijos įgyvendinimo galimybė trečiojo lygio ligoninėje siekiant sušvelninti ilgalaikius skausmą."
+      },
+      "notable": false,
+      "notable_reasons": null,
+      "relevance_score": 4,
+      "study_type": "other",
+      "substances": [
+        "psilocybin"
+      ],
+      "added_at": "2026-11-26T17:11:18.527072+00:00"
+    },
+    {
+      "title": "The nucleus accumbens: an emerging modulator in anxiety disorders.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43086324/",
+      "source": "PubMed",
+      "date": "2026-11-25",
+      "authors": [
+        "Liu Qingying",
+        "Wang Yueliang",
+        "Lu Zhongyuan"
+      ],
+      "doi": "10.1038/s41380-026-03963-z",
+      "summaries": {
+        "en": "Review examines nucleus accumbens (NAc) role in anxiety disorders, shifting focus from its classical reward function. Integrates molecular, cellular, and circuit-level findings on opioid receptors, oxytocin, and endocannabinoids, alongside glial mechanisms. Discusses NAc connectivity with ventral tegmental area, bed nucleus of stria terminalis, and medial prefrontal cortex. Emerging treatments including ketamine, exercise, and deep brain stimulation show promise for targeting NAc in anxiety management.",
+        "sv": "Översikt undersöker nucleus accumbens (NAc) roll i ångeststörningar, utöver dess klassiska funktion i belöningsbearbetning. Integrerar molekylär-, cellulär- och kretsloppsbaserad forskning om opoidreceptorer, oxytocin och endokannabinoid-systemet, samt gliala mekanismer. Diskuterar NAc-anslutningar till ventrala tegmentala området, bed nucleus of stria terminalis och mediala prefrontala cortex. Nya behandlingar inklusive ketamin, träning och djup hjärnstimulering visar potential för målbehandling av ångest.",
+        "no": "Oversikt undersøker nucleus accumbens (NAc) rolle i angststørrelser, utover dets klassiske funksjon i belønningsbehandling. Integrerer molekylær-, cellulær- og kretsløpsnivå-funn om opioidreseptorer, oxytocin og endocannabinoid-systemet, samt gliale mekanismer. Diskuterer NAc-forbindelser til ventralt tegmentalt område, bed nucleus of stria terminalis og medialt prefrontalt cortex. Nye behandlinger inkludert ketamin, trening og dyp hjernestimulering viser potensial for målrettet angstbehandling.",
+        "da": "Gennemgang undersøger nucleus accumbens (NAc) rolle i angststørrelser, ud over dets klassiske funktion i belønningsbehandling. Integrerer molekylær-, cellulær- og kredsløbsniveau-resultater om opioidreceptorer, oxytocin og endocannabinoid-systemet, samt gliale mekanismer. Diskuterer NAc-forbindelser til ventral tegmental område, bed nucleus of stria terminalis og medialt præfrontalt cortex. Nye behandlinger omfattende ketamin, træning og dyb hjernestimulering viser potentiale for målrettet angstbehandling.",
+        "fi": "Katsaus tarkastelee nucleus accumbensin (NAc) roolia ahdistuneisuushäiriöissä perinteisen palkitsemisen käsittelyn lisäksi. Integraali molekylaari-, solu- ja piiri-tasoisista tuloksista opioidireseptoreista, oksitosiinista ja endokannabinoidijärjestelmästä sekä gliamekanismeista. Käsittelee NAc-yhteyksiä ventriaalisen tegmentaalisen alueen, stria terminalisin petisuolukseen ja mediaalisen prefrontaalisen kuoren kanssa. Uudet hoitomenetelmät ketamiini, liikunta ja syvä aivojen stimulaatio osoittavat potentiaaliin kohdistettuun ahdistuneisuuden hoitoon.",
+        "is": "Yfirlit skoðar hlutverk nucleus accumbens (NAc) í kvíastörfum, umfram hefðbundna hlutverka þess í verðlaunavinnslu. Samþættir niðurstöður á sameinda-, frumu- og rásastigi um opíóiðviðtaka, oxytósín og endókannabinóidakerfi, sem og glíakerfismótun. Fjallar um NAc-tengingar við framboða tegmentala svæði, beð kjarnann stria terminalis og miðvið fornbugða kortexinn. Ný meðferðir þar á meðal ketamín, hreyfing og djúp heilastimulun sýna möguleika á markvissum kvíaðilgum.",
+        "et": "Ülevaade käsitleb nucleus accumbens'i (NAc) rolli ärevushäirete korral, väljaspool tema klassikalist rollit tasuamenduses. Integreerib molekulaarse, rakuelundilise ja vooluringi taseme tulemusi opioidretseptorite, okstotsiini ja endokannabinoidsüsteemi ning gliamehanismide kohta. Arutleb NAc-ühendusi ventromedaalse tegmentaalse ala, stria terminaali voodi ja mediaalse prefrontaalse koorega. Uued ravimeetodid ketamiin, harjutus ja sügav aju stimulatsioon näitavad potentsiaali sihtotstarbelisele ärevuse ravimisel.",
+        "lv": "Pārskatā aplūkota nucleus accumbens (NAc) loma trauksmes traucējumos, pāri tā klasiskajam lomu atlīdzības apstrādē. Integrē molekulāra, šūnu un ķēdes līmeņa atklājumus par opiātu receptoriem, oksitocīnu un endokannabinoīdu sistēmu, kā arī glijas mehānismiem. Apspriež NAc savienojumus ar ventālās tegmentālās zonas, stria terminalis gultnei un mediālās prefront'ālās garozas. Jauni ārstēšanas paņēmieni, tostarp ketamīns, fiziskā aktivitāte un dziļa smadzeņu stimulācija, parāda potenciālu mērķtiecīgai trauksmes ārstēšanai.",
+        "lt": "Apžvalga nagrinėja branduolio akumuliacijos (NAc) vaidmenį nerimo sutrikimams, už jos klasikinio vaidmens atlygintinimo apdorojime. Integruoja molekulinių, ląstelinių ir grandinės lygio rezultatus apie opioidinių receptorių, oksitocino ir endokannabinoido sistemos bei glijų mechanizmų. Aptaria NAc ryšius su ventrolinės tegmentinės srities, stria terminalis lova ir medialinio prefrontalinio žievės. Nauji gydymo metodai, įskaitant ketaminą, fizinę veiklą ir giliają smegenų stimuliaciją, parodo potencialą tiksliniam nerimo gydymui."
+      },
+      "notable": false,
+      "notable_reasons": null,
+      "relevance_score": 3,
+      "study_type": "review",
+      "substances": [
+        "ketamine"
+      ],
+      "added_at": "2026-11-26T17:11:18.527072+00:00"
     },
     {
       "title": "Pα+ Psychedelic Bulletin #235: Canada Outpaces U.S. on Ibogaine; Usona Pledges No Sales Reps; A Third of Spravato Prescribers Drive 80% of Volume; Will the VA Be Ready?",
@@ -627,6 +689,37 @@
       "added_at": "2026-11-16T16:12:45.369376+00:00"
     },
     {
+      "title": "Association of Low-Dose Ketamine and Ketamine-Midazolam Administration with Postpartum Depressive Symptoms, Postoperative Pain, and Adverse Events in Cesarean Deliveries Under Spinal Anesthesia.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43091624/",
+      "source": "PubMed",
+      "date": "2026-11-13",
+      "authors": [
+        "Engin Feti Ahmet",
+        "Demiröz Duygu",
+        "Yağcı Neslihan Altunkaya"
+      ],
+      "doi": "10.3390/medicina62112228",
+      "summaries": {
+        "en": "A study examined low-dose ketamine and ketamine-midazolam combinations during spinal anesthesia for cesarean delivery, assessing effects on postpartum depression, postoperative pain, and adverse events. Results indicate potential benefits for mood and pain management in this surgical context.",
+        "sv": "En studie undersökte låg-dos ketamin och ketamin-midazolam under spinalanestesi vid kejsarsnitt, med fokus på effekter på postpartum depression, postoperativ smärta och biverkningar. Resultaten visar potentiella fördelar för humörreglering och smärtbehandling.",
+        "no": "En studie undersøkte lavdose ketamin og ketamin-midazolam under spinalanestesi ved keisersnitt, med vekt på effekter på postpartum depresjon, postoperativ smerte og bivirkninger. Resultatene indikerer potensielle fordeler for humørregulering og smertelindring.",
+        "da": "Et studie undersøgte lavdosis ketamin og ketamin-midazolam under spinalanæstesi ved kejsersnit med fokus på effekter på postpartum depression, postoperativ smerte og bivirkninger. Resultaterne indikerer potentielle fordele for stemningsregulering og smertelindring.",
+        "fi": "Tutkimuksessa tutkittiin matalan annoksen ketamiinia ja ketamiini-midatsolaamia spinaalipuudutuksen yhteydessä keisarinleikkauksissa. Arvioitiin vaikutuksia synnytyksen jälkeiseen masennukseen, postoperatiiviseen kipuun ja haittavaikutuksiin. Tulokset osoittavat mahdollisia hyötyjä mielialan ja kivunlievityksen kannalta.",
+        "is": "Rannsókn kannaði lágt skammta af ketamíni og ketamín-midazólam við snúrunarsvæfingu við keisaraskurði, með áherslu á áhrif á þunglyndi eftir fæðingu, sársauka eftir aðgerð og aukaverkanir. Niðurstöður benda til hugsanlegra gæða fyrir tilfinningastjórnun og verkjalindring.",
+        "et": "Uuringus uuriti madala annuse ketamiini ja ketamiini-midatsoloami kasutamist spinaalanestesiaas keisrilõikuse ajal, lähtudes postnataalse depressiooni, postoperatiivse valu ja kõrvaltoimete hindamisest. Tulemused näitavad võimalikke eeliseid meeleolu reguleerimise ja valukaitse suhtes.",
+        "lv": "Pētījumā tika pārbaudīti zems ketamīna un ketamīna-midazoļāma devas spinālās anestēzijas laikā cēzarsniedzes operācijās, vērtējot ietekmi uz pēcdzemdību depresiju, postoperatīvajām sāpēm un nevēlamajām blakusparādībām. Rezultāti norāda uz iespējamiem ieguvumiem garastāvokļa regulēšanā un sāpju mazināšanā.",
+        "lt": "Tyrime tiriami žemos ketamino ir ketamino-midazolamo dozės stuburo anestezijai esant cezariui, vertinant poveikį porodinei depresijai, postoperaciniam skausmui ir nepageidaujamiems poveikiams. Rezultatai rodo galimus pranašumus nuotaikos reguliavimui ir skausmo malšymui."
+      },
+      "notable": false,
+      "notable_reasons": null,
+      "relevance_score": 3,
+      "study_type": "rct",
+      "substances": [
+        "ketamine"
+      ],
+      "added_at": "2026-11-26T17:11:18.527072+00:00"
+    },
+    {
       "title": "Cost-effectiveness of psychedelic-assisted therapies for depression and post-traumatic stress disorder: A systematic review.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/43050838/",
       "source": "PubMed",
@@ -698,6 +791,37 @@
         "other"
       ],
       "added_at": "2026-11-15T14:10:37.607882+00:00"
+    },
+    {
+      "title": "How Does Psilocybin Affect Daily Life Experience and Behavior? Protocol For a Multimethod Ambulatory Assessment Study Within a Clinical Trial of Psilocybin for Depression.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43060227/",
+      "source": "PubMed",
+      "date": "2026-11-12",
+      "authors": [
+        "Sutu Andreea",
+        "Kaplan Deanna",
+        "Raison Charles L"
+      ],
+      "doi": "10.64898/2026.11.10.26367628",
+      "summaries": {
+        "en": "The Dial-In study investigates how psilocybin affects daily life in depression treatment. This prospective, observational study embeds ambulatory assessments within a clinical trial giving 25 mg psilocybin to 141 adults with major depressive disorder. Ecological momentary assessment, voice diaries, and passive audio sampling track everyday affect, behavior, and social interactions for 14 days pre- and post-dosing. Researchers will examine whether affective changes, social support, interpersonal factors, and reflection patterns predict differential treatment responses over eight weeks.",
+        "sv": "Dial-In-studien undersöker hur psykedelika påverkar dagliglivet vid behandling av depression. Denna prospektiv observationsstudie kombinerar ambulatoriska bedömningar med ett kliniskt försök där 25 mg psykedelika ges till 141 vuxna med större depressiv störning. Ekologisk momentan bedömning, röstdagböcker och passiv ljudsampling följer vardagligt humör, beteende och sociala interaktioner i 14 dagar före och efter dosering. Forskarna undersöker om affektiva förändringar, socialt stöd och reflektionsmönster förutsäger olika behandlingsresultat under åtta veckor.",
+        "no": "Dial-In-studien undersøker hvordan psykedelika påvirker dagliglivet ved depresjonsbehandling. Denne prospektive observasjonsstudien kombinerer ambulante vurderinger med et klinisk forsøk som gir 25 mg psykedelika til 141 voksne med større depressiv lidelse. Økologisk momentan vurdering, stemmedialoger og passiv lydsampling følger daglig affekt, atferd og sosiale interaksjoner i 14 dager før og etter dosering. Forskere vil undersøke om affektive endringer, sosialt støtte og refleksjonsmønster forutsier ulike behandlingsresultater over åtte uker.",
+        "da": "Dial-In-studien undersøger, hvordan psykedelika påvirker dagliglivet ved depressionbehandling. Denne prospektive observationsstudie kombinerer ambulante vurderinger med et klinisk forsøg, der 25 mg psykedelika gives til 141 voksne med større depressiv lidelse. Økologisk momentan vurdering, stemmebog og passiv lydsampling sporer dagligt humør, adfærd og sociale interaktioner i 14 dage før og efter dosering. Forskere vil undersøge, om affektive ændringer, socialt støtte og refleksionsmønstre forudsiger forskellige behandlingsresultater over otte uger.",
+        "fi": "Dial-In-tutkimus tutkii, kuinka psykedeelipitoiset aineet vaikuttavat päivittäiseen elämään masennuksen hoidossa. Tämä prospektiivinen havainnointitutkimus yhdistää ambulatorisia arviointeja kliiniseen tutkimukseen, jossa 141 aikuiselle pääkliinisen masennushäiriön kanssa annetaan 25 mg psykedeelipitoisuutta. Ekologinen hetkellinen arviointi, äänipäiväkirjat ja passiivinen äänisampaus seuraavat päivittäistä tunnelmaa, käyttäytymistä ja sosiaalisia vuorovaikutuksia 14 päivää ennen ja jälkeen annokseen. Tutkijat tutkivat, ennustavatko affektiivisten muutosten, sosiaalisen tuen ja reflektoinnin mallit erilaisia hoitotuloksia kahdeksaan viikkoon.",
+        "is": "Dial-In rannsóknin könnuðar hvernig geðhrif lyf hafa áhrif á daglegt líf við meðferð á þunglyndi. Þessi framtíðarmiðuð athugunarpróf sameinir flytjandi mat við klíníska rannsókn þar sem 25 mg geðhrifaefna eru gefin 141 fullorðnum með helstu þunglyndi. Vistfræðileg augnablikamæling, raddir dagbóka og óvirk hljóðsöfnun fylgjast með daglegu andlegu ástandi, hegðun og félagslegum samskiptum í 14 daga fyrir og eftir skammt. Rannsakendur munu kanna hvort tilfinningabreytingar, félagsleg stuðningur og hugsunarmynstur spá fyrir um mismunandi meðferðarárangur yfir átta vikur.",
+        "et": "Dial-In uuring uurib, kuidas psühhedeeliaineid sisaldavad ained mõjutavad igapäevaelu depressiooni ravi ajal. See prospektiivne vaatlusuuringus ühendab ambulatoorset hindamist kliinilise uuringuga, kus 141 täiskasvanutsele peamajor depressiivsete häirete diagnooosiga anta 25 mg psühhedeeliaineid. Ökoloogiline momendi hindamine, häälediariid ja passiivne heliproovimine jälgivad igapäevast meeleolu, käitumist ja sotsiaalseid interaktsioone 14 päeva enne ja pärast doosimist. Teadlased uurivad, kas tunnetusliku muutused, sotsiaalse toe ja mõtlemismustreid ennustavad erinevaid ravitulemusi kaheksa nädala jooksul.",
+        "lv": "Dial-In pētījums pēta, kā psihedelisko vielu saturoši vielas ietekmē ikdienas dzīvi depresijas ārstēšanas laikā. Šis prospektīvs novērojuma pētījums apvieno ambulatoro novērtēšanu klīniskajā pārbaudē, kurā 141 pieaugušajam ar galveno depresīvo traucējumu tiek ievadītas 25 mg psihedeliskās vielas. Ekoloģiskā momenta novērtēšana, balss dienasgrāmatas un pasīva skaņas paraugu ņemšana seko ikdienas noskaņojumam, uzvedībai un sociālajām mijiedarbībām 14 dienas pirms un pēc devuma. Pētnieki pārbauda, vai afektīvās izmaiņas, sociālais atbalsts un refleksijas modeļi prognozē dažādus ārstēšanas rezultātus astoņu nedēļu laikā.",
+        "lt": "Dial-In tyrimas tiria, kaip psichedelinės medžiagos veikia kasdienį gyvenimą depresijos gydymo metu. Šis prospektyvus stebėjimo tyrimas sujungia ambulatorinius vertinimus su klinikiniu tyrimu, kuriame 141 suaugusiajam su pagrindine depresyvine liga skirta 25 mg psichedelinių medžiagų. Ekologinis momentinis vertinimas, balso dienoraščiai ir pasyvus garso mėginių ėmimas seka kasdienei nuotaikai, elgesiui ir socialinėms sąveikoms 14 dienų prieš ir po dozės. Tyrėjai tiria, ar afektyvios pokyčiai, socialinė parama ir refleksijos šablonai nuspėja skirtingus gydymo rezultatus per aštuonias savaites."
+      },
+      "notable": false,
+      "notable_reasons": null,
+      "relevance_score": 4,
+      "study_type": "other",
+      "substances": [
+        "psilocybin"
+      ],
+      "added_at": "2026-11-26T17:11:18.527072+00:00"
     },
     {
       "title": "Mitochondrial respiratory chain activity in the brain of young male rats subjected to alloxan-induced diabetes and a ketamine-induced schizophrenia-like model.",
@@ -955,6 +1079,37 @@
         "ketamine"
       ],
       "added_at": "2026-11-14T13:42:08.249888+00:00"
+    },
+    {
+      "title": "MDMA-assisted therapy for social anxiety disorder: A randomized, open-label, wait-list controlled trial.",
+      "url": "https://doi.org/10.1016/j.jad.2026.122710",
+      "source": "Europe PMC",
+      "date": "2026-11-06",
+      "authors": [
+        "Luoma JB",
+        "Lear MK",
+        "Pilecki B"
+      ],
+      "doi": "10.1016/j.jad.2026.122710",
+      "summaries": {
+        "en": "Randomized controlled trial (n=20) of MDMA-assisted therapy versus waitlist for social anxiety disorder. Immediate treatment group showed significant improvement on Liebowitz Social Anxiety Scale (mean difference -43.3, p<0.0001, g=2.8) compared to waitlist. Treatment comprised three preparation sessions, two MDMA sessions, and six integration sessions. No serious adverse events reported. Results support further investigation of MDMA-assisted psychotherapy for social anxiety.",
+        "sv": "Randomiserad kontrollerad studie (n=20) av MDMA-assisterad terapi mot väntelista för social ångestsyndrom. Omedelbar behandlingsgrupp visade signifikant förbättring på Liebowitz Social Anxiety Scale (medelskillnad -43,3, p<0,0001, g=2,8) jämfört med väntelista. Behandlingen bestod av tre förberedelsesessioner, två MDMA-sessioner och sex integrationssessioner. Inga allvarliga biverkningar rapporterades. Resultaten stödjer vidare forskning om MDMA-assisterad psykoterapi för social ångest.",
+        "no": "Randomisert kontrollert studie (n=20) av psykedelika-assistert terapi mot venteliste for sosial angststørrelse. Gruppe med umiddelbar behandling viste signifikant forbedring på Liebowitz Social Anxiety Scale (gjennomsnittlig differanse -43,3, p<0,0001, g=2,8) sammenlignet med venteliste. Behandlingen besto av tre forberedelsesøkter, to psykedelika-økter og seks integrasjonssøkter. Ingen alvorlige bivirkninger rapportert. Resultatene støtter videre undersøkelse av psykedelika-assistert psykoterapi for sosial angst.",
+        "da": "Randomiseret kontrolleret studie (n=20) af psykedelika-assisteret terapi mod venteliste for social angststørrelse. Gruppe med øjeblikkelig behandling viste signifikant forbedring på Liebowitz Social Anxiety Scale (gennemsnitsforskael -43,3, p<0,0001, g=2,8) sammenlignet med venteliste. Behandlingen bestod af tre forberedelsessessioner, to psykedelika-sessioner og seks integrationssessioner. Ingen alvorlige bivirkninger rapporteret. Resultaterne understøtter yderligere undersøgelse af psykedelika-assisteret psykoterapi for social angst.",
+        "fi": "Satunnaistettu kontrolloitu tutkimus (n=20) psykedeeliavusteisuesta terapiasta odotuslistaa vastaan sosiaaliseen ahdistuneisuushäiriöön. Välitöntä hoitoa saaneet näyttivät merkittävää parannusta Liebowitz Social Anxiety Scale -asteikolla (keskimääräinen ero -43,3, p<0,0001, g=2,8) verrattuna odotuslistaan. Hoito koostui kolmesta valmistelukserrasta, kahdesta psykedeeliistunnosta ja kuudesta integraatiokserrasta. Vakavia haittavaikutuksia ei ilmoitettu. Tulokset tukevat psykedeeliavusteisen psykoterapian jatkotutkimuksia sosiaaliseen ahdistuneisuuteen.",
+        "is": "Handahóf stjórnað rannsókn (n=20) á sálarbreytandi-aðstoðuðri sálréttingu á móti biðlista fyrir félagslega kvíða. Hópur sem fékk tafarlaus meðferð sýndi marktæka bætingu á Liebowitz Social Anxiety Scale (meðaltal munur -43,3, p<0,0001, g=2,8) miðað við biðlista. Meðferð samanstóð af þremur undirbúningsfundum, tveimur sálarbreytandi-fundum og sex samþættingu-fundum. Engin alvarleg aukaáhrif tilkynnt. Niðurstöður styðja frekari rannsóknir á sálarbreytandi-aðstoðuðri sálréttingu fyrir félagslega kvíða.",
+        "et": "Randomiseeritud kontrollitud uuring (n=20) psühhedeeliga toetatud terapiast ootejärje vastu sotsiaalse ärevushäire korral. Vahetu ravi grupp näitas olulist paranemist Liebowitz Social Anxiety Scale'il (keskmine erinevus -43,3, p<0,0001, g=2,8) võrreldes ootejärjega. Ravi koosnes kolmest ettevalmistuse sessioonist, kahest psühhedeeliga sessioonist ja kuuest integratsiooni sessioonist. Tõsiseid kõrvaltoimeid ei teatatud. Tulemused toetavad psühhedeeliga toetatud psühhoteraapia edasist uurimist sotsiaalse ärevuse korral.",
+        "lv": "Randomizēts kontrolēts pētījums (n=20) par psihodeliski palīdzinātu terapiju pret gaidīšanas sarakstu sociālā trauksmes traucējumiem. Tūlītējās ārstēšanas grupa parādīja nozīmīgu uzlabojumu Liebowitz Social Anxiety Scale skalā (vidējā starpība -43,3, p<0,0001, g=2,8), salīdzinot ar gaidīšanas sarakstu. Ārstēšana sastāvēja no trim sagatavošanās sesijām, divām psihodeliski sesijām un sešām integrācijas sesijām. Nopietnās blakusparādības netika ziņotas. Rezultāti atbalsta turpmākus psihodelisks palīdzinātas psiholoģiskās terapijas pētījumus sociālā trauksmes ārstēšanai.",
+        "lt": "Randomizuotas kontroliuojamas tyrimas (n=20) psichedeliku palaikytos terapijos prieš laukimo sąrašą socialinio nerimo sutrikimui. Nedelsiant gydyta grupė parodė reikšmingą pagerinimą Liebowitz Social Anxiety Scale skalėje (vidutinis skirtumas -43,3, p<0,0001, g=2,8), palyginti su laukimo sąrašu. Gydymas susidėjo iš trijų pasirengimo sesijų, dviejų psichedeltų sesijų ir šešių integracijos sesijų. Nenurodyta rimtų nepageidautinų reiškinių. Rezultatai remia tolimesnius psichodeliku palaikytos psichoterapijos tyrimus socialinio nerimo gydymui."
+      },
+      "notable": false,
+      "notable_reasons": null,
+      "relevance_score": 5,
+      "study_type": "rct",
+      "substances": [
+        "mdma"
+      ],
+      "added_at": "2026-11-26T17:11:18.527072+00:00"
     },
     {
       "title": "MDMA-assisted therapy for social anxiety disorder: A randomized, open-label, wait-list controlled trial.",
@@ -1702,6 +1857,40 @@
       "added_at": "2026-10-31T12:54:21.169913+00:00"
     },
     {
+      "title": "Psychedelics and Psychedelic-Inspired Compounds for Substance Use Disorders: Are We Treating the Disease or Opening a Learning Window?",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43088300/",
+      "source": "PubMed",
+      "date": "2026-10-29",
+      "authors": [
+        "Buciuc Adela G",
+        "Gold Mark S",
+        "Fuehrlein Brian"
+      ],
+      "doi": "10.3390/brainsci16111184",
+      "summaries": {
+        "en": "Review examining whether hallucinogens treat substance use disorders or create a temporary brain state enabling recovery. Analysis of psilocybin, ibogaine, ketamine and others shows compound-specific effects: psilocybin shows strongest evidence for tobacco and alcohol use, but data remain limited. Relapse prevention involves distinct mechanisms (conditioning, extinction learning, abstinence). Risks vary by compound; translational success is indication- and drug-specific rather than class-wide.",
+        "sv": "Översikt av om psykedelika behandlar missbrukssjukdomar eller skapar ett tillfälligt hjärnstillstånd som möjliggör läkning. Analys av psilocybin, ibogain, ketamin och andra visar substansspecifika effekter: psilocybin visar starkast evidens för tobaks- och alkoholmissbruk, men data är begränsade. Återfallsprevention involverar olika mekanismer. Risker varierar per substans; translationell framgång är indikations- och läkemedelspecifik snarare än klassvid.",
+        "no": "Oversikt over hvorvidt hallusinogener behandler substansmisbrukslidelser eller skaper en midlertidig hjernestilstand som muliggjør bedring. Analyse av psilocybin, ibogain, ketamin og andre viser stoffspesifikke effekter: psilocybin viser sterkest evidens for tobakks- og alkoholmisbruk, men data er begrenset. Tilbakefallsproblemer involverer ulike mekanismer. Risiko varierer per stoff; translasjonell suksess er indikasjon- og stoffspesifikk snarere enn klasseomfattende.",
+        "da": "Oversigt over, hvorvidt psykedelika behandler misbrug eller skaber en midlertidig hjernentilstand, der muliggør helbredelse. Analyse af psilocybin, ibogain, ketamin og andre viser stoffspecifikke effekter: psilocybin viser stærkeste evidens for tobaks- og alkoholmisbrug, men data er begrænsede. Tilbagefaldsproblematik involverer forskellige mekanismer. Risici varierer pr. stof; translationel succes er indikations- og stoffspecifik snarere end klasseomfattende.",
+        "fi": "Katsaus siitä, hoitavatko psykedeelid riippuvuussairauksia vai luovatko väliaikaisen aivojen tilan, joka mahdollistaa paranemisen. Analyysi psilosybiinista, ibogaiiasta, ketamiinista ja muista osoittaa ainekohtaisia vaikutuksia: psilosybiinilla vahvin näyttö tupakka- ja alkoholiriippuvuudessa, mutta aineisto on rajallinen. Uusiintumisen estäminen sisältää eri mekanismeja. Riskit vaihtelevat aineiden mukaan; translatoriaalinen onnistuminen on indikaatio- ja ainejäännöskohtainen eikä luokkakohtainen.",
+        "is": "Yfirlit um hvort geislavirkir efnir meðhöndla fíkniefnavanda eða skapi tímabundinn heilaastandi sem gerir bata mögulegan. Greining á psýlósýbíni, íbógaíni, ketamíni og öðrum sýnir efnahlutbundnar áhrif: psýlósýbín sýnir sterkustu sönnun fyrir tóbaks- og alkóholmisnotkun, en gögn eru takmörkuð. Endurkoma felur í sér mismunandi virkni. Áhætta er efnahlutbundin; þýðingalegur árangur er tilvísun- og efnahlutbundinn frekar en flokkabreddan.",
+        "et": "Ülevaade sellest, kas psühhedeelikumid ravivad ainerastandi häireid või loovad ajutise aju oleku, mis võimaldab paranemist. Psilotsibiini, ibogaiini, ketamiini jms analüüs näitab ainerastaspetsiifilisi mõjusid: psilotsibiinile tugevaim tõend tubaka- ja alkoholikasutuse häirete korral, kuid andmed on piiratud. Tagasipöördumise ennetamine hõlmab erinevaid mehhanisme. Riskid on ainerahvaspetsiifilised; translatsiooniline edu on näidustus- ja ainerahvaspetsiifiline, mitte klassikraad.",
+        "lv": "Pārskatījums par to, vai psihedēliskās vielas ārstē vielu lietošanas traucējumus vai rada pagaidu smadzeņu stāvokli, kas iespējo atveseļošanos. Psilotsibīna, ibogaīna, ketamīna u.c. analīze rāda vielu-specifiskas ietekmes: psilotsibīnam spēcīgākais pierādījums tabakas un alkohola lietošanas traucējumiem, taču dati ir ierobežoti. Recidīvu profilakse ietver dažādus mehānismus. Riski ir vielu-specifiski; translācijas panākumi ir indikatīvi un vielu-specifiski, nevis klases plašumā.",
+        "lt": "Apžvalga, ar psichedelinės medžiagos gydо medžiagų vartojimo sutrikimus ar sukuria laikinę smegų būseną, leidžiančią pasveikimui. Psilocibin, ibogain, ketamin ir kitų analizė rodo medžiagai specifines efektas: psilocibin rodο stipriausią įrodymą tabako ir alkoholio vartojimo sutrikimams, tačiau duomenys yra riboти. Relapsų prevencija apima skirtingus mechanizmus. Rizikos yra medžiagai specifinės; transliacijų sėkmė yra indikacijai ir medžiagai specifinė, o ne klasei plati."
+      },
+      "notable": false,
+      "notable_reasons": null,
+      "relevance_score": 4,
+      "study_type": "review",
+      "substances": [
+        "psilocybin",
+        "ibogaine",
+        "ketamine",
+        "other"
+      ],
+      "added_at": "2026-11-26T17:11:18.527072+00:00"
+    },
+    {
       "title": "Exploring the durability of esketamine and ketamine's antidepressant effects in the maintenance phase of treatment: A systematic review.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42981896/",
       "source": "PubMed",
@@ -1799,202 +1988,6 @@
         "other"
       ],
       "added_at": "2026-10-29T13:27:14.687339+00:00"
-    },
-    {
-      "title": "Connectedness as a candidate pathway linking psilocybin retreat experiences to sustained wellbeing: a prospective naturalistic study.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43016926/",
-      "source": "PubMed",
-      "date": "2026-10-28",
-      "authors": [
-        "Åkesson Maria",
-        "Granqvist Pehr",
-        "Johansson Robert"
-      ],
-      "doi": "10.3389/fpsyt.2026.1924069",
-      "summaries": {
-        "en": "A 12-month naturalistic study of 173 psilocybin retreat participants found sustained wellbeing improvements. Linear mixed-effects models and mediation analyses identified connectedness as the primary mechanism linking psilocybin experiences to wellbeing gains, followed by reduced anxiety and increased absorption. Mystical experiences predicted these psychological changes. Results suggest that social connection may be a key pathway supporting mental health beyond symptom reduction.",
-        "sv": "En naturalistisk studie med 173 deltagare i psilo­cybin-reträtter visade varaktig välmåe-förbättring över 12 månader. Linjära blandade modeller och mediations­analyser identifierade sammanhang som den primära mekanismen mellan psilo­cybin-erfarenheter och välmåe-vinster, följt av minskad ångest och ökad absorption. Mystiska upplevelser förutsåg dessa psykologiska förändringar. Resultaten tyder på att social kontakt kan vara en nyckelbana för psykisk hälsa bortom symtomreduktion.",
-        "no": "En naturalistisk 12-måneders studie med 173 deltakere i psilocybin-retreater viste vedvarende forbedring av psykisk velvære. Lineære blandede modeller og medierings­analyser identifiserte tilknytning som hovedmekanismen mellom psilocybin-erfaringer og velværeforbedringer, etterfulgt av redusert angst og økt absorpsjon. Mystiske erfaringer forutslo disse psykologiske endringene. Resultatene tyder på at sosial kontakt kan være en nøkkelvei for psykisk helse utover symptomreduksjon.",
-        "da": "Et naturalistisk 12-måneders studie med 173 deltagere i psilocybin-retreater viste vedvarende forbedring af mentalt velvære. Lineære blandede modeller og medierings­analyser identificerede tilknytning som den primære mekanisme mellem psilocybin-oplevelser og velværeforbedringer, fulgt af reduceret angst og øget absorption. Mystiske oplevelser forudsagde disse psykologiske ændringer. Resultaterne tyder på, at social forbindelse kan være en nøglesti for psykisk sundhed ud over symptomreduktion.",
-        "fi": "12 kuukauden mittainen luonnollinen tutkimus 173 psilo­sybiini-retrettiin osallistuneella osoitti kestävää henkisen hyvinvoinnin paranemista. Lineaaristen sekamallien ja välitysanalyysit tunnistivat yhteyden­tunnon päämekanismiksi psilo­sybiini-kokemusten ja hyvinvoinnin paranemisen välillä, joita seurasivat alentunut ahdistus ja lisääntynyt imeyty­minen. Myyttiset kokemukset ennustivat näitä psykologisia muutoksia. Tulokset viittaavat siihen, että sosiaalinen yhteys voi olla avain­polku mielenterveyden edistämiselle oireiden lievityksen lisäksi.",
-        "is": "12 mánaða náttúruleg rannsókn með 173 þátttakendum í psilo­sybin-drekkaöfum sýndi viðvarandi bætingu á andlegri heilsu. Línuleg blönduð líkön og millimiðlunargreining skilgreindu tengsl sem aðal­kerfi psilocybin-reynslu og heilsubóta, fylgt eftir með minni kvíða og auknum samruna. Dularlegir minningar spáðu fyrir þessum sálrænni breyt­ingum. Niðurstöður benda til þess að félagslegt samband geti verið lykilleið fyrir andlega heilsu umfram einkennis­minnkun.",
-        "et": "12-kuuline naturaaluuringu 173 psilo­tsübiini-retretil osalenud näitas jätkusuutlikku vaimsete heaolu paranemist. Lineaarsed segamudelid ja vahe­analüüsid tuvastasid seotuse peamiseks mehhanismiks psilo­tsübiini-kogemuste ja heaolu paranemise vahel, millele järgnes vähenenud ärevus ja suurenenud neelamine. Müstilised kogemused ennustasid neid psühholoogilisi muutusi. Tulemused viitavad, et sotsiaalne ühendus võib olla võtmeteeks vaimsele tervisele sümptomide leevendamise kaudu.",
-        "lv": "12 mēnešu pētījumā ar 173 psilo­cibīna retrity dalībniekiem novēroja ilgtspējīgu gara labklājības uzlabošanos. Lineārie jauktie modeļi un vidēmes analīzes identificēja savienojumu kā galveno mehānismu starp psilo­cibīna pieredzi un labklājības uzlabošanos, kam sekoja samazināta trauksme un palielināta absorpcija. Mistiskas pieredzes paredzēja šīs psiholoģiskās izmaiņas. Rezultāti liecina, ka sociālie kontakti var būt atslēgceļš garīgajai veselībai aiz simptomu mazināšanas.",
-        "lt": "12 mėnesių natūralus tyrimas su 173 psilo­cibino retrity dalyviais parodė ilgalaikį psichinio gerovės pagerinimą. Tiesiniai sumaišyti modeliai ir mediavimo analizės nustatė ryšingumą kaip pagrindinį mechanizmą tarp psilo­cibino patirties ir gerovės pagerinimo, po kurio sekė sumažėjęs nerimas ir padidėjęs sugerimas. Mistiškos patirtys numatė šiuos psichologinius pokyčius. Rezultatai rodo, kad socialinis ryšys gali būti pagrindinė kelias psichikos sveikatai, viršijant simptomų mažinimą."
-      },
-      "notable": false,
-      "notable_reasons": null,
-      "relevance_score": 4,
-      "study_type": "observational",
-      "substances": [
-        "psilocybin"
-      ],
-      "added_at": "2026-11-13T14:45:49.731400+00:00"
-    },
-    {
-      "title": "Evolutionary neuropharmacology of serotonergic psychedelics: a cross-species perspective on mechanisms, consciousness, and therapeutic potential.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42957826/",
-      "source": "PubMed",
-      "date": "2026-10-28",
-      "authors": [
-        "Zhai Haojiang",
-        "Wang Hongshuang",
-        "Wang Yibo"
-      ],
-      "doi": "10.1038/s41380-026-03939-z",
-      "summaries": {
-        "en": "This review integrates evolutionary biology and neuroscience to examine serotonergic psychedelics across species. Using computational frameworks like predictive processing and REBUS, the authors explain how these substances reshape hierarchical inference and neural plasticity. While conserved receptor pharmacology exists across species, animal models reveal species-specific circuits rather than direct proxies for human experience, offering complementary platforms for investigating molecular and computational mechanisms underlying therapeutic potential.",
-        "sv": "Denna översikt integrerar evolutionär biologi och neurovetenskap för att undersöka serotonerg psykedelika på tvärs av arter. Med hjälp av beräkningsramar som prediktiv bearbetning och REBUS förklarar författarna hur dessa ämnen omformar hierarkisk inferens och neuroplasticitet. Även om konserverad receptorfarmakologi finns på tvärs av arter visar djurmodeller artspecifika kretsar snarare än direkta motsvarigheter till mänsklig erfarenhet, och erbjuder kompletterande plattformar för att undersöka molekylära och beräkningsmässiga mekanismer.",
-        "no": "Denne oversikten integrerer evolusjonær biologi og neurovitenskap for å undersøke serotonerge psykedelika på tvers av arter. Ved å bruke beregningsrammer som prediktiv prosessering og REBUS forklarer forfatterne hvordan disse stoffene omformer hierarkisk inferens og neuroplastisitet. Selv om konservert reseptorfarmakologi finnes på tvers av arter, viser dyremodeller artsspesifikke kretser snarere enn direkte paralleller til menneskelig erfaring, og tilbyr komplementære plattformer for å undersøke molekylære og beregningsbiolologiske mekanismer.",
-        "da": "Denne oversigt integrerer evolutionær biologi og neurovidenskab for at undersøge serotonerge psykedelika på tværs af arter. Ved hjælp af beregningsrammer som prædiktiv processing og REBUS forklarer forfatterne, hvordan disse stoffer omformer hierarkisk inferens og neuroplasticitet. Selvom konserveret receptorfarmakologi findes på tværs af arter, viser dyremodeller artspecifikke kredsløb snarere end direkte paralleller til menneskelig erfaring og tilbyder komplementære platforme til at undersøge molekylære og beregningstekniske mekanismer.",
-        "fi": "Tämä katsaus yhdistää evoluutiobiologian ja neurotieteen tutkiakseen serotonergisia psykedeleijä eri lajien välillä. Laskennallisia kehyksiä, kuten ennustava prosessointi ja REBUS-malli, käyttäen kirjoittajat selittävät, kuinka nämä aineet muokkaavat hierarkkista päättelyä ja neuroplastisuutta. Vaikka konservoitunut reseptorifarmakologia on olemassa eri lajien välillä, eläinmallit paljastavat lajispesifisiä piirejä ihmisen kokemuksen suoraan vastineena olevan sijasta ja tarjoavat täydentäviä alustoja molekyylimekanismien tutkimukselle.",
-        "is": "Þessi yfirlitið samþættir þróunarfræði og taugavísindir til að rannsaka serotonín-tengda geðlyfj í þvert um tegundir. Með því að nota reiknilegar ramma eins og fyrirspár úrvinnslu og REBUS-líkanið útskýra höfundar hvernig þessi efni endurskipulagða stigskipuð ályktunarferli og taugaplasticitet. Þótt varðveitt reseptorfarmakólógía sé til staðar á milli tegunda sýna dýraliðir tegundabundna hringrása frekar en beina hliðstæðu mannlegrar reynslu og bjóða upp á viðbótarvettvanga til rannsóknar.",
-        "et": "See ülevaade ühendab evolutsioonibioloogia ja neuroteedustega, et uurida serotonergilisi psühhedeelilisi aine liiki vahel. Arvutuslike raamistike, nagu ennustav töötlemine ja REBUS-mudel, kasutades selgitavad autorid, kuidas need ained muudavad hierarhilist järeldamist ja neuroplastilisust. Ehkki konserveeritud retseptorifarmakooloogia eksisteerib liigiti, näitavad loomamudelid liigispetsiifilisi vooluahelaid pigem kui inimese kogemuse otsese vastasena ja pakuvad täiendavaid platvorme molekulaarsete mehhanismide uurimiseks.",
-        "lv": "Šis pārskats integrē evolūcijas bioloģiju un neurozinatni, lai pētītu serotonerģiskos psihedelikus dažādu sugu starpā. Izmantojot skaitļošanas ietvarus, piemēram, paredzošu apstrādi un REBUS-modeli, autori izskaidro, kā šīs vielas pārveidē hierarhiskus secinājumus un neuropastu. Lai gan konservēta receptoru farmakoloģija pastāv starp sugām, dzīvnieku modeļi atklāj sugas specifiskos ķēdes drīzāk nekā tiešus cilvēka pieredzes ekvivalentus un piedāvā papildu platformas molekulāro mehānismu pētīšanai.",
-        "lt": "Šis apžvalga integruoja evoliucijos biologiją ir neuroanfarmakologiją, siekdama tirti serotoninergines psichedelines medžiagas skirtingose rūšyse. Naudodami skaičiavimo sistemas, tokias kaip numatytas apdorojimas ir REBUS modelis, autoriai paaiškina, kaip šios medžiagos perraukia hierarchinę išvadą ir neuroplastiškumą. Nors išsaugota receptorių farmakoligija egzistuoja skirtingose rūšyse, gyvūnų modeliai atskleidžia rūšies specifines schemas, o ne žmogaus patirties tiesiogius ekvivalentus, ir siūlo papildomus plotus molekuliniams mechanizmams tirti."
-      },
-      "notable": false,
-      "notable_reasons": null,
-      "relevance_score": 4,
-      "study_type": "review",
-      "substances": [
-        "psilocybin",
-        "lsd",
-        "other"
-      ],
-      "added_at": "2026-10-30T13:16:01.486794+00:00"
-    },
-    {
-      "title": "Adapted Massed Exposure Therapy Enhanced with MDMA for PTSD (aMETEMP): A randomized, double-masked protocol adapted for Veterans Affairs healthcare system.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42999641/",
-      "source": "PubMed",
-      "date": "2026-10-27",
-      "authors": [
-        "Morland L A",
-        "Chargin B",
-        "Rothbaum B"
-      ],
-      "doi": "10.1016/j.conctc.2026.101705",
-      "summaries": {
-        "en": "Randomized, double-masked pilot trial evaluating massed prolonged exposure therapy combined with MDMA for PTSD in US Veterans Affairs patients. Up to 20 veterans receive a 6-8 hour MDMA session (35-125 mg) integrated with 3-week massed exposure protocol, with additional virtual sessions. Total 28-30 hours over 11 visits. Study uses incomplete disclosure strategy and telehealth to improve access.",
-        "sv": "Randomiserad, dubbelblindad pilotstudie som utvärderar massiv exponeringsterapeuterapeutisk behandling kombinerad med MDMA för PTSD hos amerikanska veteraner. Upp till 20 veteraner får en 6-8 timmars MDMA-session (35-125 mg) integrerad med treväckors massiv exponeringsprotokoll och virtuella uppföljningssessioner. Totalt 28-30 timmar över 11 besök. Studien använder ofullständig upplysning och telehealth för att förbättra tillgängligheten.",
-        "no": "Randomisert, dobbeltblindet pilotstudie som evaluerer massiv eksponeringsbehandling kombinert med MDMA for PTSD hos amerikanske veteraner. Opptil 20 veteraner mottar en 6-8 timers MDMA-sesjon (35-125 mg) integrert med tre-ukers massiv eksponeringsprotokoll og virtuelle oppfølgingssesjoner. Totalt 28-30 timer over 11 besøk. Studien bruker ufullstendig informert samtykke og telehealth for å forbedre tilgjengelighet.",
-        "da": "Randomiseret, dobbeltblindet pilotstudie, der massiv eksponeringsbehandling kombineres med MDMA til behandling af PTSD hos amerikanske veteraner. Op til 20 veteraner modtager en 6-8 timers MDMA-session (35-125 mg) integreret med tre-ugers massiv eksponeringsprotokol samt virtuelle opfølgningssessioner. I alt 28-30 timer over 11 besøg. Studien anvender ufuldstændig oplysning og telehealth for at forbedre tilgængelighed.",
-        "fi": "Satunnaistettu, kaksoissokkoutettu pilotutkimus, jossa arvioidaan intensiivistä ekspositioterapiaa yhdistettynä MDMA:han veteraanien PTSD-oireiden hoitoon. Enintään 20 veteraania saa 6-8 tunnin MDMA-istunnon (35-125 mg) integroituna kolmen viikon intensiivieksposiitioprotokollaan sekä virtuaalisia seurantaistuntoja. Yhteensä 28-30 tuntia 11 käynnillä. Tutkimuksessa käytetään epätäydellistä tiedonantoa ja etäterveyspalveluja saavutettavuuden parantamiseksi.",
-        "is": "Handahóf, tvöfalt hulið tilraunarannsókn sem skoðar þétta útsetningu samtengt MDMA-meðferð fyrir PTSD hjá bandarískum vopnahljóðum. Allt að 20 vopnahljóðir fá 6-8 klst. MDMA-fundi (35-125 mg) samtengt þriggja vikna þéttri útsetningu ásamt sýndarfundum. Alls 28-30 klst. yfir 11 heimsóknir. Rannsóknin notar ótakmarkaða birtingu og fjarheilbrigðisþjónustu til að bæta aðgengi.",
-        "et": "Randomiseeritud, topelt-pimestu pilootuuringu, kus intensiivset ekspositsioonteraapiag kombineeritakse MDMA-ga veteranide PTSD-ga võitlemiseks. Kuni 20 veterani saavad 6-8 tunnise MDMA-seansi (35-125 mg), mis on integreeritud kolmenädalase intensiivsete ekspositsioonieprotokollga ja virtuaalse jälgimisega. Kokku 28-30 tundi 11 külastuse jooksul. Uuringus kasutatakse mittetäielikku teavitamist ja kaugmeditsiini teenuseid juurdepääsu parandamiseks.",
-        "lv": "Randomizēts, dubultaklots pilotpêtījums, kurā tiek novērtēta intensīva ekspozīcijas terapija kombinēta ar MDMA amerikāņu veterānu PTSD ārstēšanai. Līdz 20 veterāni saņem 6-8 stundu MDMA sesiju (35-125 mg), kas integrēta trīs nedēļu intensīvas ekspozīcijas protokolā ar virtuālām seansiem. Kopā 28-30 stundas 11 apmeklējumu laikā. Pêtījumā tiek izmantota nepilnīga informācija un tālmedicīna pakalpojumi pieejamības uzlabošanai.",
-        "lt": "Randomizuotas, dvigubai aklas pilotinis tyrimas, kuriame vertinamas intensyvus ekspozicijos terapijos metodas, sujungtas su MDMA, amerikiečių veteranų PTSD gydymui. Iki 20 veteranų gauna 6-8 valandų MDMA seansą (35-125 mg), integruotą į trijų savaičių intensyvaus ekspozicijos protokolą su virtualiais seansais. Iš viso 28-30 valandų per 11 vizitų. Tyrime naudojama nepilna informuota sutiktis ir nuotolinės sveikatos paslaugos prieinamumui pagerinti."
-      },
-      "notable": false,
-      "notable_reasons": null,
-      "relevance_score": 4,
-      "study_type": "rct",
-      "substances": [
-        "mdma"
-      ],
-      "added_at": "2026-11-09T16:42:33.336933+00:00"
-    },
-    {
-      "title": "Predictive value of EEG/ECG biomarkers for treatment response in depression.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42962321/",
-      "source": "PubMed",
-      "date": "2026-10-26",
-      "authors": [
-        "Provaznikova Barbora",
-        "de Bardeci Mateo",
-        "Altamiranda Enzo"
-      ],
-      "doi": "10.1016/j.clinph.2026.2112444",
-      "summaries": {
-        "en": "Retrospective study (n=153) examined whether EEG/ECG biomarker-guided treatment selection improved depression outcomes. Patients received ECT, rTMS, esketamine, or SSRIs (2022–2024). Concordant treatments showed higher response rates: ECT 70% vs 50%, rTMS 30% vs 13%, esketamine 31% vs 10%, SSRIs 100% vs 11%. Overall, 46% concordant vs 26% non-concordant patients responded (NNT≈5). EEG/ECG decision support warrants prospective confirmation.",
-        "sv": "Retrospektiv studie (n=153) undersökte om EEG/ECG-biomarkörguidad behandlingsval förbättrade depressionsutfall. Patienter behandlades med ECT, rTMS, esketamin eller SSRI (2022–2024). Överensstämmande behandlingar visade högre respons: ECT 70% vs 50%, rTMS 30% vs 13%, esketamin 31% vs 10%, SSRI 100% vs 11%. Totalt responderade 46% överensstämmande vs 26% icke-överensstämmande patienter (NNT≈5). EEG/ECG-beslutsstöd kräver prospektiv bekräftelse.",
-        "no": "Retrospektiv studie (n=153) undersøkte om EEG/ECG-biomarkørveiledet behandlingsvalg forbedret depresjonsutfall. Pasienter fikk ECT, rTMS, esketamin eller SSRI (2022–2024). Kongruente behandlinger viste høyere responsrater: ECT 70% vs 50%, rTMS 30% vs 13%, esketamin 31% vs 10%, SSRI 100% vs 11%. Totalt responderte 46% kongruente vs 26% ikke-kongruente pasienter (NNT≈5). EEG/ECG-beslutningsstøtte krever prospektiv bekrefting.",
-        "da": "Retrospektivt studie (n=153) undersøgte, om EEG/ECG-biomarkør-vejledt behandlingsvalg forbedrede depressionsresultater. Patienter blev behandlet med ECT, rTMS, esketamin eller SSRI (2022–2024). Konkordante behandlinger viste højere responsrater: ECT 70% vs 50%, rTMS 30% vs 13%, esketamin 31% vs 10%, SSRI 100% vs 11%. I alt responderede 46% konkordante vs 26% ikke-konkordante patienter (NNT≈5). EEG/ECG-beslutningsstøtte kræver prospektiv bekræftelse.",
-        "fi": "Retrospektiivinen tutkimus (n=153) tutki, paransivatko EEG/ECG-biomarkkerit ohjattu hoitovalinta masennuksen tuloksia. Potilaat saivat ECT-, rTMS-, esketamiini- tai SSRI-hoitoa (2022–2024). Yhteneväinen hoito osoitti korkeampia vastausprosentteja: ECT 70% vs 50%, rTMS 30% vs 13%, esketamiini 31% vs 10%, SSRI 100% vs 11%. Yhteensä 46% yhteneväisistä vs 26% epäyhteneväisistä potilaista vastasi (NNT≈5). EEG/ECG-päätöksentukituki vaatii prospektiivista vahvistusta.",
-        "is": "Afturkafandi rannsókn (n=153) kannaðist hvort EEG/ECG-svipbrotin stýrð meðferðarval bættu þunglyndisúrslok. Sjúklingar fengu ECT, rTMS, esketamín eða SSRI (2022–2024). Samhljóð meðferðir sýndu hærri svörunarhlutfall: ECT 70% vs 50%, rTMS 30% vs 13%, esketamín 31% vs 10%, SSRI 100% vs 11%. Alls svöruðu 46% samhljóðir vs 26% ósamhljóðir sjúklingar (NNT≈5). EEG/ECG-ákvörðunaraðstoð þarf prospektíva staðfestingu.",
-        "et": "Retrospektiivne uurimus (n=153) uuris, kas EEG/ECG-biomarkerite juhitud ravivalik parandas depressiooni tulemusi. Patsiendid said ECT, rTMS, esketamiini või SSRI ravi (2022–2024). Kongruentsed ravid näitasid kõrgemaid reageerimismäärasid: ECT 70% vs 50%, rTMS 30% vs 13%, esketamiin 31% vs 10%, SSRI 100% vs 11%. Kokku vastas 46% kongruentseist vs 26% mittekongruentseist patsientidest (NNT≈5). EEG/ECG-otsustugi vajab prospektiivset kinnitust.",
-        "lv": "Retrospektīvs pētījums (n=153) pārbaudīja, vai EEG/ECG-biemarķieru vadīta ārstēšanas izvēle uzlaboja depresijas rezultātus. Pacienti saņēma ECT, rTMS, esketamīnu vai SSRI (2022–2024). Saskanīga ārstēšana parādīja augstākas atbildes likmes: ECT 70% vs 50%, rTMS 30% vs 13%, esketamīns 31% vs 10%, SSRI 100% vs 11%. Kopumā atsaucās 46% saskanīgu vs 26% nesaskanīgu pacientu (NNT≈5). EEG/ECG lēmumu atbalsts prasa prospektīvu apstiprinājumu.",
-        "lt": "Retrospektyvi studija (n=153) tirinėjo, ar EEG/ECG-biomarkeriais vadovaujamas gydymo pasirinkimas pagerintų depresijos rezultatus. Pacientai gavo ECT, rTMS, esketaminą arba SSRI (2022–2024). Suderintas gydymas parodė aukštesnius atsakymo rodiklius: ECT 70% vs 50%, rTMS 30% vs 13%, esketaminas 31% vs 10%, SSRI 100% vs 11%. Iš viso reagavo 46% suderintų vs 26% nesuderintų pacientų (NNT≈5). EEG/ECG sprendimų palaikymas reikalingas prospektyvaus patvirtinimo."
-      },
-      "notable": false,
-      "notable_reasons": null,
-      "relevance_score": 3,
-      "study_type": "observational",
-      "substances": [
-        "ketamine"
-      ],
-      "added_at": "2026-10-31T12:54:21.169913+00:00"
-    },
-    {
-      "title": "Gut consciousness: a perspective on visceral phenomenal awareness.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42936312/",
-      "source": "PubMed",
-      "date": "2026-10-26",
-      "authors": [
-        "Hasler Gregor"
-      ],
-      "doi": "10.1093/nc/niag070",
-      "summaries": {
-        "en": "This theoretical paper argues that the enteric nervous system—400-600 million neurons in the gut—may sustain a form of consciousness. The authors synthesize evidence from neuroscience theories, interoception, immune signaling, and comparative biology to suggest the gut's neural substrate meets criteria for consciousness attribution. They distinguish between the gut contributing to whole-body consciousness versus constituting independent experience, and propose five investigative approaches to test these hypotheses.",
-        "sv": "Denna teoretisk studie hävdar att det enterala nervsystemet—400-600 miljoner neuroner i magen—kan upprätthålla en form av medvetande. Författarna sammanfattar evidens från neurovetenskap, interoception och immunsignalering för att föreslå att magans neurala substrat uppfyller kriterier för medvetandetillskrivning. De skiljer mellan magans bidrag till helkroppsmedvetande kontra oberoende erfarenhet, och föreslår fem forskningsmetoder.",
-        "no": "Denne teoretiske studien argumenterer for at det enterale nervsystemet—400-600 millioner neuroner i tarmen—kan opprettholde en form for bevissthet. Forfatterne syntetiserer bevis fra neurovitenskap, interocepsjon og immunsignalering for å foreslå at tarmens neurale substrat oppfyller kriterier for bevisstheitstilskriving. De skiller mellom tarmens bidrag til helkroppsbevissthet kontra uavhengig erfaring, og foreslår fem forskningsmetoder.",
-        "da": "Dette teoretiske arbejde argumenterer for, at det enterale nervsystem—400-600 millioner neuroner i tarmen—kan opretholde en form for bevidsthed. Forfatterne syntetiserer evidens fra neurovidenskab, interocepsion og immunsignalering for at foreslå, at tarmens neurale substrat opfylder kriterier for bevidsthedstilskrivning. De skelner mellem tarmens bidrag til hele-kroppens bevidsthed versus uafhængig erfaring.",
-        "fi": "Tässä teoreettisessa tutkimuksessa väitetään, että suolistohermoston—400-600 miljoonaa neuronia ruoansulatuskanavassa—voi ylläpitää tietoisuuden muotoa. Kirjoittajat syntetisoivat näyttöä neurotiedeistä, interosepstiosta ja immunisignaaloinnista ehdottaakseen, että suoliston neurale substraatti täyttää tietoisuuden kriteerit. He erottavat suoliston panoksen koko kehon tietoisuudelle itsenäisestä kokemuksesta.",
-        "is": "Þessi fræðileg rannsókn heldur því fram að magavefir taugakerfið—400-600 milljónir taugafrumur í maga—geti viðhaldið tegund meðvitundar. Höfundar setja saman sannanir frá taugafræði, innri tilfinningu og ónæmissignölum til að fullyrða að taugagrunnur maga uppfylli skilyrði fyrir meðvitundartilskrifun. Þeir greina á milli framhlutar maga til heilkroppsmeðvitundar og óháðrar reynslu.",
-        "et": "Käesolevas teoreetilises uuringus väidetakse, et seedetrakti närvisüsteem—400-600 miljonit neurooni seedetrakti seinas—võib säilitada teadvuse vormi. Autorid sünteesivad tõendeid neuroteadusest, interotseptsioonist ja immuunsignaaliseerimisest, et väita seedetrakti neuraalne substraat vastab teadvusele omistamise kriteeriumidele. Nad eristavad seedetrakti panust tervikkehha teadvusele iseseisvast kogemusest.",
-        "lv": "Šajā teorētiskajā pētījumā apgalvots, ka zarnu nervu sistēma—400-600 miljoni neironi gremošanas traktā—var uzturēt apziņas formu. Autori sintezē pierādījumus no neuroziņas, interocepcijas un imūnsignālēšanas, lai ierosinātų, ka zarnu neirālais substrāts atbilst apziņas atribūcijas kritērijiem. Viņi izšķir zarnu ieguldījumu veselas ķermeņa apziņā pret neatkarīgu pieredzi.",
-        "lt": "Šiame teoriniame darbe teigiama, kad žarnyno nervinė sistema—400-600 milijonų neuronų virškinimo takte—gali palaikyti sąmonės formą. Autoriai sintezuoja įrodymą iš neuronauko, interocepcijos ir imuninio signalizavimo, kad žarnyno neurinis substratų atitinka sąmonės priskyrimo kriterijus. Jie išskiria žarnyno indėlį į visos kūno sąmonę nuo nepriklausomos patirties."
-      },
-      "notable": false,
-      "notable_reasons": null,
-      "relevance_score": 3,
-      "study_type": "review",
-      "substances": [
-        "psilocybin"
-      ],
-      "added_at": "2026-10-28T13:18:57.276933+00:00"
-    },
-    {
-      "title": "Single Intranasal Administration of the Psychedelic Mebufotenin for Treatment-Resistant Depression: A Randomized Clinical Trial.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42931733/",
-      "source": "PubMed",
-      "date": "2026-10-26",
-      "authors": [
-        "Feifel David",
-        "Seynaeve Mathieu",
-        "Cubala Wieslaw Jerzy"
-      ],
-      "doi": "10.1001/jama.2026.18380",
-      "summaries": {
-        "en": "Phase 2b randomized trial (n=193) evaluated single intranasal mebufotenin doses (8mg, 12mg, or 0.3mg control) for treatment-resistant depression across 38 sites. Primary endpoint: MADRS score change at day 29 in 12mg vs control groups. The 5-HT1A/2A agonist offers shorter psychedelic experiences than psilocybin/LSD, potentially reducing monitoring burdens. Eight-week blinded follow-up completed April 2025.",
-        "sv": "Fas 2b-studie (n=193) med randomisering undersökte engångsdos intranasal mebufotenin (8mg, 12mg eller 0,3mg kontroll) för behandlingsresistent depression vid 38 center. Primär slutpunkt: MADRS-poäng dag 29 för 12mg mot kontroll. 5-HT1A/2A-agonisten ger kortare psykedeliska upplevelser än psilocybin/LSD, vilket kan minska behovet av övervakning. Åtta veckor blindad uppföljning slutfördes april 2025.",
-        "no": "Fase 2b randomisert studie (n=193) evaluerte enkeltdose intranasal mebufotenin (8mg, 12mg eller 0,3mg kontroll) for behandlingsresistent depresjon ved 38 sentre. Primært endepunkt: MADRS-skår dag 29 for 12mg versus kontroll. 5-HT1A/2A-agonisten gir kortere psykedeliske erfaringer enn psilocybin/LSD, noe som kan redusere overvåkingsbehov. Åtte ukers blindet oppfølging ble avsluttet april 2025.",
-        "da": "Fase 2b randomiseret studie (n=193) evaluerede enkeltdosis intranasal mebufotenin (8mg, 12mg eller 0,3mg kontrol) for behandlingsresistent depression på 38 centre. Primært endepunkt: MADRS-score dag 29 for 12mg versus kontrol. 5-HT1A/2A-agonisten giver kortere psykedeliske oplevelser end psilocybin/LSD, hvilket kan reducere monitoreringsbehov. Otte ugers blindet opfølgning blev afsluttet april 2025.",
-        "fi": "Vaihe 2b randomoitu tutkimus (n=193) arvioi yksittäistä intranasaalia mebufoteniiinia (8mg, 12mg tai 0,3mg kontrolli) hoitoon vastuuttomaan masennukseen 38 keskuksessa. Ensisijainen päätetapahtuma: MADRS-pisteet päivänä 29 12mg versus kontrolli-ryhmissä. 5-HT1A/2A-agonisti tuottaa lyhyempiä psykedeelikokemusja kuin psylosybiini/LSD, mikä voi vähentää valvontaresursseista. Kahdeksan viikon sokea seuranta valmistui huhtikuussa 2025.",
-        "is": "Stigi 2b handahóf rannsókn (n=193) mat staka skammlífu beinum bleytu mebufotenín (8mg, 12mg eða 0,3mg samanburður) fyrir meðferðarþolna þunglyndi á 38 stöðvum. Aðalendapunktur: MADRS skor dagur 29 fyrir 12mg á móti samanburði. 5-HT1A/2A-virkni veitir styttri sálkrækandi reynslu en psýlósýbín/LSD, sem gæti fækkað eftirlitstörfum. Átta vikna blindir eftirfylgni lauk apríl 2025.",
-        "et": "Faas 2b randomiseeritud uuring (n=193) hindas ühekordset intranaasaalset mebufoteniiini (8mg, 12mg või 0,3mg kontroll) raviravitusele vastupidavale depressioonile 38 keskuses. Esmane lõpp-punkt: MADRS-skoor päeval 29 12mg versus kontrollgrupi jaoks. 5-HT1A/2A-agonist tekitab lühemaid psühhedeelikaid kogemusi kui psülotsibiin/LSD, mis võib vähendada jälgimiskoormust. Kaheksanädalane pimestatud järelkontroll valmis aprillis 2025.",
-        "lv": "2b fāzes randomizēts pētījums (n=193) novērtēja vienu intranazo mebufotenīna devu (8mg, 12mg vai 0,3mg kontrole) ārstēšanai rezistentai depressijai 38 centros. Primārais galapunkts: MADRS punkti 29. dienā 12mg pret kontroli grupām. 5-HT1A/2A agonists nodrošina īsākas psihedeliskas pieredzes nekā psilocibīns/LSD, kas var samazināt uzraudzības nasta. Astoņu nedēļu akls pamatojums pabeigts aprīlī 2025.",
-        "lt": "2b fazės randomizuotas tyrimas (n=193) įvertino vieną intranasinę mebufotenino dozę (8mg, 12mg ar 0,3mg kontrole) gydymui atspariai depresijai 38 centruose. Pirminis tikslas: MADRS rezultatas 29-ąją dieną 12mg lyginant su kontrole. 5-HT1A/2A agonistas suteikia trumpesnes psichedelines patirtis nei psilocininas/LSD, galintis sumažinti stebėjimo apkrovą. Aštuonių savaičių aklas sekimas baigtas 2025 m. balandį."
-      },
-      "notable": true,
-      "notable_reasons": {
-        "en": "Phase 2b pivotal trial of first-in-human intranasal psychedelic route of administration for TRD, multicenter (38 sites across US, Europe, Australia), n=193, recently completed (April 2025).",
-        "sv": "Phase 2b pivotal trial av första intranasal psykedelisk administreringsväg hos människor för TRD, multicenterstudie (38 site i USA, Europa, Australien), n=193, nyligen slutförd (april 2025).",
-        "no": "Phase 2b pivotal trial av første intranasal psykedelisk administreringsvei hos mennesker for TRD, multisenterstudie (38 steder i USA, Europa, Australia), n=193, nylig avsluttet (april 2025).",
-        "da": "Phase 2b pivotal trial af første intranasal psykedelisk administrationsrute hos mennesker for TRD, multicenterstudie (38 steder i USA, Europa, Australien), n=193, nylig afsluttet (april 2025).",
-        "fi": "Phase 2b pivotal trial ensimmäisestä intranaalisesta psykedeelisesta antoreitistä ihmisillä TRD:n hoitoon, monisairaala-tutkimus (38 tutkimuspaikkaa USA:ssa, Euroopassa, Australiassa), n=193, äskettäin valmistunut (huhtikuu 2025).",
-        "is": "Phase 2b pivotal trial af fyrstu intranasal psýkedelísku leiðinni til stjórnunar fyrir TRD hjá mönnum, fjölmiðstöðvarannsókn (38 staðir í Bandaríkjum, Evrópu, Ástralíu), n=193, nýlega lokið (apríl 2025).",
-        "et": "Phase 2b pivotal trial esimesest intranaalsest psühhedeelilikust manustamisteest TRD-le inimestel, multisentrilise uuringu (38 uurimiskohta USA-s, Euroopas, Austraalias), n=193, hiljuti lõpetatud (aprill 2025).",
-        "lv": "Phase 2b pivotal trial pirmā intranaznā psihedeliskā ievadīšanas metode cilvēkiem TRD ārstēšanai, daudzcentru pētījums (38 vietas ASV, Eiropā, Austrālijā), n=193, nesen pabeigts (2025. gada aprīlis).",
-        "lt": "Phase 2b pivotal trial pirmojo intranakalinio psichedelinio aplikavimo būdo žmonėms TRD gydymui, daugiaklinikiniu tyrimu (38 centrai JAV, Europoje, Australijoje), n=193, neseniai baigtas (2025 m. balandis)."
-      },
-      "relevance_score": 5,
-      "study_type": "rct",
-      "substances": [
-        "other"
-      ],
-      "added_at": "2026-10-27T12:30:53.417560+00:00"
     }
   ]
 }

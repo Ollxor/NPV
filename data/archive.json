@@ -1,6 +1,170 @@
 {
   "items": [
     {
+      "title": "MDMA-assisted therapy for social anxiety disorder: A randomized, open-label, wait-list controlled trial.",
+      "url": "https://doi.org/10.1016/j.jad.2026.122710",
+      "source": "Europe PMC",
+      "date": "2026-11-06",
+      "authors": [
+        "Luoma JB",
+        "Lear MK",
+        "Pilecki B"
+      ],
+      "doi": "10.1016/j.jad.2026.122710",
+      "summary_en": "Randomized controlled trial (n=20) of MDMA-assisted therapy versus waitlist for social anxiety disorder. Immediate treatment group showed significant improvement on Liebowitz Social Anxiety Scale (mean difference -43.3, p<0.0001, g=2.8) compared to waitlist. Treatment comprised three preparation sessions, two MDMA sessions, and six integration sessions. No serious adverse events reported. Results support further investigation of MDMA-assisted psychotherapy for social anxiety.",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "rct",
+      "substances": [
+        "mdma"
+      ],
+      "added_at": "2026-11-26T17:11:18.527072+00:00"
+    },
+    {
+      "title": "Psychedelics and Psychedelic-Inspired Compounds for Substance Use Disorders: Are We Treating the Disease or Opening a Learning Window?",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43088300/",
+      "source": "PubMed",
+      "date": "2026-10-29",
+      "authors": [
+        "Buciuc Adela G",
+        "Gold Mark S",
+        "Fuehrlein Brian"
+      ],
+      "doi": "10.3390/brainsci16111184",
+      "summary_en": "Review examining whether hallucinogens treat substance use disorders or create a temporary brain state enabling recovery. Analysis of psilocybin, ibogaine, ketamine and others shows compound-specific effects: psilocybin shows strongest evidence for tobacco and alcohol use, but data remain limited. Relapse prevention involves distinct mechanisms (conditioning, extinction learning, abstinence). Risks vary by compound; translational success is indication- and drug-specific rather than class-wide.",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "review",
+      "substances": [
+        "psilocybin",
+        "ibogaine",
+        "ketamine",
+        "other"
+      ],
+      "added_at": "2026-11-26T17:11:18.527072+00:00"
+    },
+    {
+      "title": "Substantial Treatment-Seeking Interest, Narrow Eligibility: Diagnostic Heterogeneity and External Validity in the PRIDE Psilocybin Trial-Relevance to Precision Psychiatry.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43087296/",
+      "source": "PubMed",
+      "date": "2026-10-26",
+      "authors": [
+        "Inserra Antonio",
+        "Persico Luca",
+        "Rosati Arianna"
+      ],
+      "doi": "10.3390/bs16111997",
+      "summary_en": "The PRIDE trial screened 67 candidates for psilocylin-assisted psychotherapy for treatment-resistant depression, enrolling only 8 (11.9%). Of 54 excluded candidates, 50% lacked protocol-defined TRD, 18.5% fell outside age range, 13% had suicidal ideation, and 9.3% had substance use disorders. This gap between trial eligibility criteria and diverse treatment-seeking populations highlights external validity challenges for psychedelic trials.",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "observational",
+      "substances": [
+        "psilocybin"
+      ],
+      "added_at": "2026-11-26T17:11:18.527072+00:00"
+    },
+    {
+      "title": "Soothing Pain After ChEmotherapy with Psilocybin As INtervention (SPACE-PAIN): protocol for a pilot feasibility randomised controlled trial in patients with chemotherapy-induced chronic neuropathic pain at a tertiary hospital in the Netherlands.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43085981/",
+      "source": "PubMed",
+      "date": "2026-11-25",
+      "authors": [
+        "van Strien Willem Wijnand Johannes",
+        "Wensing Carin",
+        "de Klerk Eline"
+      ],
+      "doi": "10.1136/bmjopen-2026-116605",
+      "summary_en": "SPACE-PAIN is a pilot randomized controlled trial investigating psilocybin as a treatment for chemotherapy-induced chronic neuropathic pain in Dutch patients. The study protocol outlines a feasibility assessment of this intervention at a tertiary hospital, examining whether psilocybin may alleviate persistent pain symptoms in cancer survivors.",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "other",
+      "substances": [
+        "psilocybin"
+      ],
+      "added_at": "2026-11-26T17:11:18.527072+00:00"
+    },
+    {
+      "title": "How Does Psilocybin Affect Daily Life Experience and Behavior? Protocol For a Multimethod Ambulatory Assessment Study Within a Clinical Trial of Psilocybin for Depression.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43060227/",
+      "source": "PubMed",
+      "date": "2026-11-12",
+      "authors": [
+        "Sutu Andreea",
+        "Kaplan Deanna",
+        "Raison Charles L"
+      ],
+      "doi": "10.64898/2026.11.10.26367628",
+      "summary_en": "The Dial-In study investigates how psilocybin affects daily life in depression treatment. This prospective, observational study embeds ambulatory assessments within a clinical trial giving 25 mg psilocybin to 141 adults with major depressive disorder. Ecological momentary assessment, voice diaries, and passive audio sampling track everyday affect, behavior, and social interactions for 14 days pre- and post-dosing. Researchers will examine whether affective changes, social support, interpersonal factors, and reflection patterns predict differential treatment responses over eight weeks.",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "other",
+      "substances": [
+        "psilocybin"
+      ],
+      "added_at": "2026-11-26T17:11:18.527072+00:00"
+    },
+    {
+      "title": "Association of Low-Dose Ketamine and Ketamine-Midazolam Administration with Postpartum Depressive Symptoms, Postoperative Pain, and Adverse Events in Cesarean Deliveries Under Spinal Anesthesia.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43091624/",
+      "source": "PubMed",
+      "date": "2026-11-13",
+      "authors": [
+        "Engin Feti Ahmet",
+        "Demiröz Duygu",
+        "Yağcı Neslihan Altunkaya"
+      ],
+      "doi": "10.3390/medicina62112228",
+      "summary_en": "A study examined low-dose ketamine and ketamine-midazolam combinations during spinal anesthesia for cesarean delivery, assessing effects on postpartum depression, postoperative pain, and adverse events. Results indicate potential benefits for mood and pain management in this surgical context.",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "rct",
+      "substances": [
+        "ketamine"
+      ],
+      "added_at": "2026-11-26T17:11:18.527072+00:00"
+    },
+    {
+      "title": "The nucleus accumbens: an emerging modulator in anxiety disorders.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43086324/",
+      "source": "PubMed",
+      "date": "2026-11-25",
+      "authors": [
+        "Liu Qingying",
+        "Wang Yueliang",
+        "Lu Zhongyuan"
+      ],
+      "doi": "10.1038/s41380-026-03963-z",
+      "summary_en": "Review examines nucleus accumbens (NAc) role in anxiety disorders, shifting focus from its classical reward function. Integrates molecular, cellular, and circuit-level findings on opioid receptors, oxytocin, and endocannabinoids, alongside glial mechanisms. Discusses NAc connectivity with ventral tegmental area, bed nucleus of stria terminalis, and medial prefrontal cortex. Emerging treatments including ketamine, exercise, and deep brain stimulation show promise for targeting NAc in anxiety management.",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "review",
+      "substances": [
+        "ketamine"
+      ],
+      "added_at": "2026-11-26T17:11:18.527072+00:00"
+    },
+    {
+      "title": "Participatory Drug Market Surveillance: Implications for Nursing Science and Practice.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43085308/",
+      "source": "PubMed",
+      "date": "2026-07-10",
+      "authors": [
+        "Speight Chandra",
+        "Smirnova Olga",
+        "Ryan David H"
+      ],
+      "doi": "10.1097/JAN.0000000000000709",
+      "summary_en": "Participatory surveillance study analyzing 438,277 StreetRx submissions (2013-2024) across eight countries tracked illicit drug market trends. Stimulant reports increased steadily and surpassed opioids in recent years, while reports of hallucinogens and dissociative substances rose after 2019. Opioids and benzodiazepines declined proportionally, with increasing diversity across drug categories. This complementary approach provides near real-time market data beyond traditional surveillance systems.",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "observational",
+      "substances": [
+        "psilocybin",
+        "other"
+      ],
+      "added_at": "2026-11-26T17:11:18.527072+00:00"
+    },
+    {
       "title": "A signaling signature distinguishes hallucinogenic from non-hallucinogenic psychedelics.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/43078812/",
       "source": "PubMed",

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26T17:13:45.073597+00:00",
+  "generated_at": "2026-11-27T16:54:07.485929+00:00",
   "items": [
     {
       "title": "Determination of Tryptamines in Biological Specimens.",
@@ -32,6 +32,132 @@
         "other"
       ],
       "added_at": "2026-11-02T16:23:16.533919+00:00"
+    },
+    {
+      "title": "Esketamine for treatment-resistant depression: Comparing two maintenance schedules in an exploratory observational real-world study.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43099795/",
+      "source": "PubMed",
+      "date": "2026-11-27",
+      "authors": [
+        "Westenhöfer Samuel",
+        "Ehrt-Schäfer Yamina",
+        "Provaznikova Barbora"
+      ],
+      "doi": "10.1192/j.eurpsy.2026.12286",
+      "summaries": {
+        "en": "Real-world observational study comparing two esketamine maintenance schedules for treatment-resistant depression. This exploratory analysis examines dosing regimens in clinical practice to inform optimal treatment protocols.",
+        "sv": "Verklig observationsstudie som jämför två underhållsscheman för esketamin vid behandlingsresistent depression. Denna explorativ analys undersöker doseringsscheman i klinisk praxis för att optimera behandlingsprotokoll.",
+        "no": "Observasjonsstudie fra klinisk praksis som sammenligner to vedlikeholdsskjemaer for esketamin ved behandlingsresistent depresjon. Denne eksplorativ analysen undersøker doseringsskjemaer for å informere optimal behandling.",
+        "da": "Observationsstudie fra klinisk praksis, der to vedligeholdelsesskemaer for esketamin sammenlignes ved behandlingsresistent depression. Denne eksplorativ analyse undersøger doseringsordninger for at optimere behandlingsprotokoller.",
+        "fi": "Todellisen klinikan havainttutkimus, jossa verrataan kahta esketamiinin ylläpitoannoksien järjestelmää hoitoresistenttiin masennukseen. Tämä eksploratiivinen analyysi tutkii annostelusuunnitelmia kliinisen käytännön optimoimiseksi.",
+        "is": "Raunvísindi rannsókn sem ber saman tvö viðhaldskerfi fyrir esketamín við meðferðarþolna þunglyndi. Þessi könnunarrannsókn skoðar skammta- og tíðnikerfi til að bæta klíníska meðferð.",
+        "et": "Reaalsele kliinilisele praktikaele tuginev vaatluslik uuring, kus võrreldakse kahte esketamiini säilitusrežiimi raviresistentses depressioonis. Uuringu eesmärk on leida optimaalne ravi protokoll.",
+        "lv": "Novērošanas pētījums no klīniskās prakses, kurā salīdzina divas esketamīna uzturēšanas shēmas ārstēšanai rezistentai depresijai. Šis eksplorējošais pārskats pārbauda dozēšanas režīmus klīniskas prakses optimizēšanai.",
+        "lt": "Stebimasis tyrimas iš klinikos praktikos, lyginantis du esketamino palaikymo režimus gydymui rezistentiems depresijoms. Šis žvalgomasis tyrimas nagrinėja dozavimo schemas klininio gydymo optimizavimui."
+      },
+      "notable": false,
+      "notable_reasons": null,
+      "relevance_score": 3,
+      "study_type": "observational",
+      "substances": [
+        "ketamine"
+      ],
+      "added_at": "2026-11-27T16:52:47.012006+00:00"
+    },
+    {
+      "title": "Efficacy, location and kinetics at the 5-HT₂A receptor: A narrative review and testable framework for psychoplastogen design.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43098249/",
+      "source": "PubMed",
+      "date": "2026-11-26",
+      "authors": [
+        "Biswal Satyabrat",
+        "Panigrahi Debadash",
+        "Banerjee Mrityunjay"
+      ],
+      "doi": "10.1016/j.pnpbp.2026.112026",
+      "summaries": {
+        "en": "This narrative review examines how 5-HT₂A receptor activation mediates psychedelic effects and neuroplasticity in treating resistant depression. While classical psychedelics show rapid antidepressant effects, their perceptual side effects and safety concerns limit clinical development. The review challenges the proposed direct TrkB/BDNF pathway as an alternative mechanism, noting lack of reproducible evidence. Compounds like tabernanthalog and zalsupindole are discussed, though most supporting evidence remains preclinical with no established clinical safety or efficacy.",
+        "sv": "Denna narrativ översikt undersöker hur aktivering av 5-HT₂A-receptorn förmedlar psykedeliska effekter och neuroplasticitet vid behandling av resistenta depressioner. Även om klassiska psykedelika visar snabba antidepressiva effekter begränsar deras perceptuella bieffekter och säkerhetsfrågor klinisk utveckling. Översikten ifrågasätter den föreslagna direkta TrkB/BDNF-vägen som alternativ mekanism, med anledning av brist på reproducerbara bevis. Föreningar som tabernanthalog och zalsupindol diskuteras, men majoriteten av stödjande evidens är preklinisk utan etablerad klinisk säkerhet eller effektivitet.",
+        "no": "Denne narrative oversikten undersøker hvordan aktivering av 5-HT₂A-reseptoren formidler psykedeliske effekter og neuroplastisitet ved behandling av resistente depresjonssykdommer. Selv om klassiske psykedelika viser raske antidepressive effekter, begrenser deres perceptuelle bivirkninger og sikkerhetsproblemer klinisk utvikling. Oversikten bestrider den foreslåtte direkte TrkB/BDNF-mekanismen, ettersom reproduserbar evidens mangler. Forbindelser som tabernanthalog og zalsupindol diskuteres, men mest av støtteevidensen er preklinisk uten etablert klinisk sikkerhet eller effektivitet.",
+        "da": "Denne narrative oversigt undersøger, hvordan aktivering af 5-HT₂A-receptoren formidler psykedeliske effekter og neuroplasticitet ved behandling af behandlingsresistent depression. Selvom klassiske psykedelika viser hurtige antidepressive effekter, begrænser deres perceptuelle bivirkninger og sikkerhedsproblemer klinisk udvikling. Oversigten anfægter den foreslåede direkte TrkB/BDNF-vej som alternativ mekanisme, da reproducerbar evidens mangler. Forbindelser som tabernanthalog og zalsupindol diskuteres, men størstedelen af støtteevidensen er præ-klinisk uden etableret klinisk sikkerhed eller effektivitet.",
+        "fi": "Tämä narratiivinen katsaus tutkii, kuinka 5-HT₂A-reseptorin aktivaatio välittää psykedelia-aineista aiheutuvia vaikutuksia ja neuromuovaisuutta hoitoresistentin masennuksen hoidossa. Vaikka klassiset psykedelia-aineet osoittavat nopeita masennuslääkkeellisiä vaikutuksia, niiden aistinvaraiset sivuvaikutukset ja turvallisuusongelmia rajoittavat klinikkakehitystä. Katsaus kyseenalaistaa ehdotetun suoran TrkB/BDNF-polun, koska toistettavaa näyttöä puuttuu. Yhdisteitä kuten tabernanthalog ja zalsupindoli käsitellään, mutta suurin osa tukevasta näytöstä on esikliinista ilman vahvistettua kliinistä turvallisuutta tai tehoa.",
+        "is": "Þessi yfirlitsgreining skoðar hvernig virkjun 5-HT₂A-getunar miðlar sálkifeldum áhrifum og taugavörkuvun við meðferð á þungkalli þunglyndi. Þó að klassískar sálkifar sýni hröð geðlyfjaafleiðingar, takmarka aukaverkanir þeirra og öryggisáhyggjur klíníska þróun. Yfirlitið deilir um fyrirhugaða beina TrkB/BDNF-leið vegna skorts á endurframkvæmanlegum sönnunum. Efnasambönd eins og tabernanthalog og zalsupindol eru rædd, en flest stuðningsheimildir eru forklínískar án staðfestrar klínískrar öryggis eða virkni.",
+        "et": "See narratiivne ülevaade uurib, kuidas 5-HT₂A-retseptori aktiveerumine vahendab psühhedeelikaaluste mõjusid ja neuroplasteetsust ravi-resistentse depressiooni ravimisel. Kuigi klassikalised psühhedeelikaalused näitavad kiiret antidepressiivseid mõjusid, piiravad nende pertseptuaalsed kõrvaltoimed ja ohutusprobleeemid kliinilist arendamist. Ülevaade vaidlustab väidetavat otsest TrkB/BDNF-rajamit, kuna uuritavaid tõendeid puudub. Ühendeid nagu tabernanthalog ja zalsupindool käsitletakse, kuid enamus toetusjäädejatest on prekliinilised ilma tõestatud kliinilise ohutuse või efektiivsuseta.",
+        "lv": "Šis narratīvais pārskats pēta, kā 5-HT₂A receptora aktivācija mediē psihedeliku efektus un neuropLasticitāti ārstējot rezistenti depresiju. Lai arī klasiskie psihedeliki parāda ātru antidepresīvo efektu, to perceptuālie blakusefekti un drošības problēmas ierobežo klīnisko attīstību. Pārskats apstrīd ierosināto tiešo TrkB/BDNF ceļu, jo atkārtojami pierādījumi trūkst. Savienojumi kā tabernanthalog un zalsupindols tiek apspriesti, bet lielākā daļa atbalstošo pierādījumu ir preklinikai bez nozīmīgas klīniskās drošības vai efektivitātes.",
+        "lt": "Šis aprašomasis apžvalga tiria, kaip 5-HT₂A receptoriaus aktyvacija tarpininkauja psichedelinių medžiagų efektus ir neuroplastiškumą gydant rezistentinę depresiją. Nors klasikinės psichedelinės medžiagos rodo greitą antidepresyvų efektą, jų sensoriniai šalutiniai poveikiai ir saugumo problemos riboja klinikinius tyrimu. Apžvalga suabejoja siūlomą tiesioginį TrkB/BDNF kelią dėl pakartojamų įrodymų trūkumo. Junginiai tokie kaip tabernanthalog ir zalsupindolas aptariami, bet dauguma pagrindžiančių įrodymų yra preklinikalūs be nustatyto klinikiško saugumo ar veiksmingumo."
+      },
+      "notable": false,
+      "notable_reasons": null,
+      "relevance_score": 4,
+      "study_type": "review",
+      "substances": [
+        "psilocybin",
+        "lsd",
+        "other"
+      ],
+      "added_at": "2026-11-27T16:52:47.012006+00:00"
+    },
+    {
+      "title": "A longitudinal data-driven approach to cluster tnreatment-resistant depressed patients treated with ketamine using immunomethylomics with 12 estimated immunological cell types.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43098226/",
+      "source": "PubMed",
+      "date": "2026-11-26",
+      "authors": [
+        "Assche Evelien Van",
+        "Hohoff Christa",
+        "Atil Ecem Su"
+      ],
+      "doi": "10.1016/j.bbi.2026.107286",
+      "summaries": {
+        "en": "Longitudinal RCT examining 91 treatment-resistant depression patients (40 ketamine, 51 midazolam) using DNA methylation to estimate 12 immune cell types from blood samples at baseline, day 1, end of treatment, and 4-week follow-up. Multivariate functional principal component analysis identified three distinct immune profiles with significant cluster-by-treatment interactions, suggesting immunological markers may help stratify ketamine response.",
+        "sv": "Longitudinell RCT med 91 patienter med behandlingsresistent depression (40 ketamin, 51 midazolam) där DNA-metylering användes för att uppskatta 12 immunologiska celltyper från blodprover vid baseline, dag 1, behandlingsslut och 4-veckorsuppföljning. Multivariat funktionell huvudkomponentanalys identifierade tre distinkta immunologiska profiler med signifikant kluster-behandlingsinteraktion, vilket tyder på att immunologiska markörer kan stratifiera ketaminresponsen.",
+        "no": "Longitudinell RCT med 91 pasienter med behandlingsresistent depresjon (40 ketamin, 51 midazolam) der DNA-metylering ble brukt til å estimere 12 immunologiske celletyper fra blodprøver ved baseline, dag 1, behandlingsavslutning og 4-ukers oppfølging. Multivariat funksjonell hovedkomponentanalyse identifiserte tre distinkte immunologiske profiler med signifikant kluster-behandlingsinteraksjon, som tyder på at immunologiske markører kan stratifisere ketaminrespons.",
+        "da": "Longitudinelt RCT med 91 patienter med behandlingsresistent depression (40 ketamin, 51 midazolam), hvor DNA-methylering blev brugt til at estimere 12 immunologiske celletyper fra blodprøver ved baseline, dag 1, behandlingsafslutning og 4-ugers opfølgning. Multivariat funktionel hovedkomponentanalyse identificerede tre forskellige immunologiske profiler med signifikant kluster-behandlingsinteraktion, hvilket tyder på, at immunologiske markører kan stratificere ketaminresponsen.",
+        "fi": "Pitkittäistutkimus (RCT), jossa 91 hoitoresistentin depression potilasta (40 ketamiinia, 51 midatsiolaamia) analysoitiin DNA-metylöinnin avulla 12 immunologisen solutyypin määrittämiseksi näytteistä baseline-, päivä 1-, hoitojakson loppu- ja 4 viikon seurantapisteiden osalta. Monimuuttujainen funktionaalinen pääkomponenttianalyysi tunnisti kolme erillistä immunologista profiilia merkitsevällä klusterin ja käsittelyn vuorovaikutuksella, mikä viittaa immunologisten markkerieiden mahdollisuuksiin ketamiinivasteen stratifikaatioon.",
+        "is": "Langvarandi slembiraðað stýrð rannsókn (RCT) með 91 sjúklingum með meðferðarþolin þunglyndi (40 ketamín, 51 midazólam) þar sem DNA-methylering var notað til að meta 12 ónæmisfrumutegund úr blóðsýnum við útgangspunkt, dag 1, lok meðferðar og 4 vikna eftirfylgni. Fjölbreytu virk aðalhlutagreining benti til þriggja sérstakra ónæmissnið með marktækri víxlhrifum milli hópa og meðferðar, sem bendir til þess að ónæmismerki geti skipt ketamínsvarinu.",
+        "et": "Pikaajaline RCT-uuringus 91 ravi-resistentse depressiooniga patsiendiga (40 ketamiin, 51 midatsoolaam), kasutades DNA-metüüleerimist 12 immuunrakkutüübi hinnangute andmiseks veiniproovides alusjaama, päev 1, ravi lõpp ja 4 nädala jälgimispunktides. Multimuutuja funktsionaalne põhikomponentide analüüs tuvastati kolm erinevat immuunprofiiliga märkimisväärse klastri-ravi interaktsiooniga, mis viitab immuunmarkerite potentsiaalile ketamiini reaktsiooni stratifitseerimisel.",
+        "lv": "Garajlaika RCT ar 91 ārstēšanas rezistentās depresijas pacientiem (40 ketamīns, 51 midazolāms), izmantojot DNS metilēšanu, lai novērtētu 12 imūnologiskās šūnu tipus no asiņu paraugiem pamatlīnijā, 1. dienā, ārstēšanas beigās un 4 nedēļu uzraudzības punktos. Daudzfaktoru funkcionālā galveno komponenšu analīze identificēja trīs atšķirīgus imūnprofilus ar nozīmīgu klasteru-ārstēšanas mijiedarbību, kas liecina, ka imūnmarķieri var lietderīgi stratificēt ketamīna atbildi.",
+        "lt": "Ilgalaikis RCT su 91 gydymui atsparia depresija sergančiu pacientu (40 ketamino, 51 midazolamo), naudojant DNR metilacijos metodą 12 imunologinių ląstelių tipams iš kraujo mėginių nustatyti baziniame, 1 dienoje, gydymo pabaigoje ir 4 savaičių stebėjimo taškuose. Daugiamatė funkcinė pagrindinių komponentų analizė nustatė tris atskirus imunologinius profilius su reikšminga klasterio-gydymo sąveika, sugeriant, kad imunologiniai žymenys gali padėti stratifikuoti ketamino atsaką."
+      },
+      "notable": false,
+      "notable_reasons": null,
+      "relevance_score": 4,
+      "study_type": "rct",
+      "substances": [
+        "ketamine"
+      ],
+      "added_at": "2026-11-27T16:52:47.012006+00:00"
+    },
+    {
+      "title": "A license to use? Evaluating consumer licensure for psychedelics.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43097936/",
+      "source": "PubMed",
+      "date": "2026-11-26",
+      "authors": [
+        "Cheung Katherine",
+        "Jacobs Edward",
+        "Yaden David B"
+      ],
+      "doi": "10.1016/j.drugpo.2026.105615",
+      "summaries": {
+        "en": "Policy analysis examining consumer licensure for psychedelics, requiring adults to demonstrate safety knowledge before purchase. The article identifies unresolved empirical and ethical questions: whether safety education reduces harms, if licensure is the least restrictive approach, equitable implementation feasibility, and curriculum design. Provides guidance for policymakers balancing public safety with individual autonomy.",
+        "sv": "Policyanalys som granskar konsumentlicensering för psykedelika, där vuxna skulle behöva visa kunskap om säkerhet före köp. Artikeln identifierar olösta empiriska och etiska frågor: om säkerhetsinformation minskar skador, om licensering är det minst restriktiva sättet, genomförbarhet med rättvisa och utformning av läroplan. Vägledning för beslutsfattare.",
+        "no": "Policyanalyse som vurderer forbrukerlisens for psykedelika, der voksne må demonstrere sikkerhetskunnskap før kjøp. Artikkelen identifiserer uløste empiriske og etiske spørsmål: om sikkerhetsinformasjon reduserer skader, om lisens er minst restriktivt, mulig rettferdig gjennomføring og læreplandesign. Veiledning for beslutningstakere.",
+        "da": "Politikanalyse der undersøger forbrugerlicenser for psykedelika, hvor voksne skal demonstrere sikkerhedsviden før køb. Artiklen identificerer uløste empiriske og etiske spørgsmål: om sikkerhedsoplysning reducerer skader, om licensering er mindst restriktivt, mulig retfærdig gennemførelse og læreplandesign. Vejledning for politikere.",
+        "fi": "Politiikka-analyysi, joka tarkastelee kuluttajalisensointia psykedeelistä edellyttäen aikuisilta turvallisuustietämystä ennen ostoa. Artikkelissa tunnistetaan ratkaisemattomia empiirisiä ja eettisiä kysymyksiä: vähentääkö turvallisuuskoulutus haittoja, onko lisensiointi vähiten rajoittava keino, tasapuolinen toteutus ja opetussuunnitelmasuunnittelu. Ohjeita päätöksentekijöille.",
+        "is": "Stefnugreiningu um neytandaleyfi fyrir sálkirtla, þar sem fullorðnir verða að sýna fram á þekkingu á öryggi fyrir kaup. Greinin bendir á óleysta reynslufræðilega og siðfræðilega spurningar: hvort öryggismenntun minnki skaða, hvort leyfi sé minnst takmarkandi leið og sanngjarnt útfærslu. Leiðbeiningar fyrir stefnumótendur.",
+        "et": "Poliitikaaanalüüs, mis uurib tarbija litsentsieerimist psühhodeeliliste ainete jaoks, kus täiskasvanud peavad enne ostmist näitama turvatealaseid teadmisi. Artikkel tuvastab lahendamata empiirilisi ja eetilisi küsimusi: kas turvaharidus vähendab kahjusid, kas litsentseerimine on kõige vähem piirav vahend ja õiglane rakendamine. Juhised otsustajatele.",
+        "lv": "Politikas analīze par patērētāju licencēšanu psihedelikas, kur pieaugušajiem pirms pirkuma jāpierāda drošības zināšanas. Raksts identificē neatrisinātos empīriskos un ētiskos jautājumus: vai drošības izglītība samazina kaitējumus, vai licencēšana ir vismazāk ierobežojošais līdzeklis un taisnīga īstenošana. Vadlīnijas lēmējiem.",
+        "lt": "Politikos analizė, vertinanti vartotojų licenciavimą psichedelikams, kai suaugusieji turi įrodyti žinias apie saugumą prieš pirkimą. Straipsnis nustatyta neišsprustas empirines ir etines klausimus: ar saugumo edukacija sumažina žalą, ar licenciavimas yra mažiausiai ribojantis būdas ir sąžininga įgyvendinimas. Gairės sprendimų priėmėjams."
+      },
+      "notable": false,
+      "notable_reasons": null,
+      "relevance_score": 4,
+      "study_type": "other",
+      "substances": [
+        "other"
+      ],
+      "added_at": "2026-11-27T16:52:47.012006+00:00"
     },
     {
       "title": "Soothing Pain After ChEmotherapy with Psilocybin As INtervention (SPACE-PAIN): protocol for a pilot feasibility randomised controlled trial in patients with chemotherapy-induced chronic neuropathic pain at a tertiary hospital in the Netherlands.",
@@ -227,6 +353,36 @@
         "psilocybin"
       ],
       "added_at": "2026-11-22T14:46:01.993229+00:00"
+    },
+    {
+      "title": "Development and internal evaluation of baseline and pre-dose prognostic models for early response and remission during extended-release oral ketamine treatment in treatment-resistant depression: a secondary analysis of BEDROC.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43097803/",
+      "source": "PubMed",
+      "date": "2026-11-20",
+      "authors": [
+        "Long Yuefeng",
+        "Surman Peter"
+      ],
+      "doi": "10.1016/j.psychres.2026.117620",
+      "summaries": {
+        "en": "Development and internal evaluation of baseline and pre-dose prognostic models for early response and remission during extended-release oral ketamine treatment in treatment-resistant depression: a secondary analysis of BEDROC.",
+        "sv": "Development and internal evaluation of baseline and pre-dose prognostic models for early response and remission during extended-release oral ketamine treatment in treatment-resistant depression: a secondary analysis of BEDROC.",
+        "no": "Development and internal evaluation of baseline and pre-dose prognostic models for early response and remission during extended-release oral ketamine treatment in treatment-resistant depression: a secondary analysis of BEDROC.",
+        "da": "Development and internal evaluation of baseline and pre-dose prognostic models for early response and remission during extended-release oral ketamine treatment in treatment-resistant depression: a secondary analysis of BEDROC.",
+        "fi": "Development and internal evaluation of baseline and pre-dose prognostic models for early response and remission during extended-release oral ketamine treatment in treatment-resistant depression: a secondary analysis of BEDROC.",
+        "is": "Development and internal evaluation of baseline and pre-dose prognostic models for early response and remission during extended-release oral ketamine treatment in treatment-resistant depression: a secondary analysis of BEDROC.",
+        "et": "Development and internal evaluation of baseline and pre-dose prognostic models for early response and remission during extended-release oral ketamine treatment in treatment-resistant depression: a secondary analysis of BEDROC.",
+        "lv": "Development and internal evaluation of baseline and pre-dose prognostic models for early response and remission during extended-release oral ketamine treatment in treatment-resistant depression: a secondary analysis of BEDROC.",
+        "lt": "Development and internal evaluation of baseline and pre-dose prognostic models for early response and remission during extended-release oral ketamine treatment in treatment-resistant depression: a secondary analysis of BEDROC."
+      },
+      "notable": false,
+      "notable_reasons": null,
+      "relevance_score": 4,
+      "study_type": "other",
+      "substances": [
+        "ketamine"
+      ],
+      "added_at": "2026-11-27T16:52:47.012006+00:00"
     },
     {
       "title": "Ketamine promotes strategic and efficient approach-avoidance conflict resolution.",
@@ -1814,180 +1970,6 @@
         "other"
       ],
       "added_at": "2026-10-31T12:54:21.169913+00:00"
-    },
-    {
-      "title": "Efficacy, safety, and tolerability of lysergic acid diethylamide for the treatment of depressive symptoms: A meta-analysis and systematic review.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42960975/",
-      "source": "PubMed",
-      "date": "2026-10-30",
-      "authors": [
-        "Chiorean Andreea",
-        "Kim Helena K",
-        "Lustig Andrew"
-      ],
-      "doi": "10.1177/02698811261488460",
-      "summaries": {
-        "en": "Meta-analysis of 5 RCTs examined LSD's efficacy for depression in adults with mental disorders. Results indicate LSD, with or without psychological support, reduces depression scores in clinical populations. However, small sample sizes limit conclusions. Well-designed trials are needed to establish safety and efficacy for depression treatment.",
-        "sv": "Metaanalys av 5 randomiserade kontrollerade studier undersökte LSD:s effektivitet för depression hos vuxna med psykiska störningar. Resultaten visar att LSD, med eller utan psykologiskt stöd, minskar depressionspoäng i kliniska populationer. Små urvalsstorlekar begränsar slutsatserna. Väldesignade studier krävs för att fastställa säkerhet och effektivitet.",
-        "no": "Metaanalyse av 5 randomiserte kontrollerte studier undersøkte LSD sin effektivitet for depresjon hos voksne med psykiske lidelser. Resultater viser at LSD, med eller uten psykologisk støtte, reduserer depresjonsscore i kliniske populasjoner. Små utvalgsstørrelser begrenser konklusjonene. Veldesignede studier er nødvendige for å etablere sikkerhet og effektivitet.",
-        "da": "Metaanalyse af 5 randomiserede kontrollerede studier undersøgte LSD's effektivitet for depression hos voksne med psykiske lidelser. Resultaterne viser, at LSD med eller uden psykologisk støtte reducerer depressionsscores i kliniske populationer. Små stikprøvestørrelser begrænser konklusionerne. Veldesignede studier er nødvendige for at fastslå sikkerhed og effektivitet.",
-        "fi": "Viiden satunnaistetun kontrolloitavan tutkimuksen metaanalyysi tutki LSD:n tehokkuutta masennuksen hoidossa aikuisilla, joilla on psyykkisiä häiriöitä. Tulokset osoittavat, että LSD vähentää masennusoireita kliinisillä potilailla, psykologisen tuen kanssa tai ilman. Pienet otoskoot rajoittavat johtopäätöksiä. Hyvin suunnitellut tutkimukset ovat välttämättömiä turvallisuuden ja tehokkuuden osoittamiseksi.",
-        "is": "Greiningarrannsókn á 5 tilviljunarkennum samanburðarrannsóknum skoðaði verkun LSD við þunglyndi hjá fullorðnum með geðsjúkdómum. Niðurstöður benda til þess að LSD, með eða án sálrænnar stuðnings, minnki þunglyndisstiga í klínískum hópum. Litlir sýnishornamagnir takmarka ályktanir. Þarf að framkvæma vel hönnuð rannsóknir til að staðfesta öryggi og verkun.",
-        "et": "Viie randomiseeritud kontrollitud uuringu metaanalüüs uuris LSD-d depressiooni raviks täiskasvanutel psühhikahäiretega. Tulemused näitavad, et LSD vähendab depressiooni skoore kliinilistes populatsioonides, psühholoogilise toe juuresolekul või ilma. Väikesed valimi suurused piiravad järeldusi. Hästi kavandatud uuringud on vajalikud ohutuse ja tõhususe kindlakstegemiseks.",
-        "lv": "Piecu randomizētu kontrolēto pētījumu metaanalīze pārbaudīja LSD efektivitāti depresijas ārstēšanā pieaugušiem ar psihiskiem traucējumiem. Rezultāti liecina, ka LSD ar vai bez psihosociālā atbalsta samazina depresijas skaitļus klīniskajās populācijās. Mazi izlases lielumi ierobežo secinājumus. Nepieciešami labi izstrādāti pētījumi drošības un efektivitātes noskaidrošanai.",
-        "lt": "Penkių randomizuotų kontroliuojamų tyrimų metaanalizė tyrinėjo LSD veiksmingumą depresijos gydymui suaugusiems žmonėms su psichiniais sutrikimai. Rezultatai rodo, kad LSD sumažina depresijos rodiklius klinikiniu populacijoms, nesvarbu, ar yra psichologinės paramos, ar ne. Maži imties dydžiai riboja išvadas. Būtini gerai suprojektuoti tyrimai saugumui ir veiksmingumui nustatyti."
-      },
-      "notable": true,
-      "notable_reasons": {
-        "en": "Systematic review and meta-analysis synthesizing RCT evidence on LSD for depression; mentions FDA breakthrough designation for anxiety; addresses clinical efficacy and safety in regulated mental health context.",
-        "sv": "Systematisk översikt och metaanalys som syntetiserar RCT-evidens om LSD för depression; nämner FDA breakthrough designation för ångest; behandlar klinisk effektivitet och säkerhet i reglerad psykiatrisk kontext.",
-        "no": "Systematisk gjennomgang og metaanalyse som syntetiserer RCT-evidens om LSD for depresjon; nevner FDA breakthrough designation for angst; adresserer klinisk effektivitet og sikkerhet i regulert psykiatrisk kontekst.",
-        "da": "Systematisk gennemgang og metaanalyse, der syntetiserer RCT-evidens om LSD for depression; nævner FDA breakthrough designation for angst; behandler klinisk effektivitet og sikkerhed i reguleret psykiatrisk kontekst.",
-        "fi": "Järjestelmällinen katsaus ja metaanalyysi, joka syntetisoi RCT-näyttöä LSD:stä masennuksessa; mainitsee FDA breakthrough designation -määrityksen ahdistukselle; käsittelee kliinistä tehokkuutta ja turvallisuutta säänneltyjen mielenterveyspalvelujen yhteydessä.",
-        "is": "Kerfræðileg yfirlit og metatuning sem tekur saman RCT-sönnunargögn um LSD fyrir þunglyndi; nefnir FDA breakthrough designation fyrir kvíða; fjallar um klíníska verkun og öryggi í stærðum geðheilbrigðissamhengi.",
-        "et": "Süstemaatiline ülevaade ja metaanalüüs, mis ühendab RCT-tõendeid LSD kohta depressiooni puhul; mainib FDA breakthrough designation'i ärevuse puhul; käsitleb kliinilist tõhusust ja ohutust reguleeritud psühhiaatrilises kontekstis.",
-        "lv": "Sistemātisks pārskats un metaanalīze, kas sintetizē RCT pierādījumus par LSD depresijas ārstēšanai; piemin FDA breakthrough designation par trauksmi; aplūko klīnisko efektivitāti un drošību regulētā psihiatriskā kontekstā.",
-        "lt": "Sistemingas apžvalga ir metaanalizė, susumuojanti RCT įrodymų apie LSD nuo depresijos; paminima FDA breakthrough designation dėl nerimo; nagrinėja klininę veiksmingumą ir saugumą reguliuojamame psichikos sveikatos kontekste."
-      },
-      "relevance_score": 4,
-      "study_type": "review",
-      "substances": [
-        "lsd"
-      ],
-      "added_at": "2026-10-31T12:54:21.169913+00:00"
-    },
-    {
-      "title": "Psychedelics and Psychedelic-Inspired Compounds for Substance Use Disorders: Are We Treating the Disease or Opening a Learning Window?",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43088300/",
-      "source": "PubMed",
-      "date": "2026-10-29",
-      "authors": [
-        "Buciuc Adela G",
-        "Gold Mark S",
-        "Fuehrlein Brian"
-      ],
-      "doi": "10.3390/brainsci16111184",
-      "summaries": {
-        "en": "Review examining whether hallucinogens treat substance use disorders or create a temporary brain state enabling recovery. Analysis of psilocybin, ibogaine, ketamine and others shows compound-specific effects: psilocybin shows strongest evidence for tobacco and alcohol use, but data remain limited. Relapse prevention involves distinct mechanisms (conditioning, extinction learning, abstinence). Risks vary by compound; translational success is indication- and drug-specific rather than class-wide.",
-        "sv": "Översikt av om psykedelika behandlar missbrukssjukdomar eller skapar ett tillfälligt hjärnstillstånd som möjliggör läkning. Analys av psilocybin, ibogain, ketamin och andra visar substansspecifika effekter: psilocybin visar starkast evidens för tobaks- och alkoholmissbruk, men data är begränsade. Återfallsprevention involverar olika mekanismer. Risker varierar per substans; translationell framgång är indikations- och läkemedelspecifik snarare än klassvid.",
-        "no": "Oversikt over hvorvidt hallusinogener behandler substansmisbrukslidelser eller skaper en midlertidig hjernestilstand som muliggjør bedring. Analyse av psilocybin, ibogain, ketamin og andre viser stoffspesifikke effekter: psilocybin viser sterkest evidens for tobakks- og alkoholmisbruk, men data er begrenset. Tilbakefallsproblemer involverer ulike mekanismer. Risiko varierer per stoff; translasjonell suksess er indikasjon- og stoffspesifikk snarere enn klasseomfattende.",
-        "da": "Oversigt over, hvorvidt psykedelika behandler misbrug eller skaber en midlertidig hjernentilstand, der muliggør helbredelse. Analyse af psilocybin, ibogain, ketamin og andre viser stoffspecifikke effekter: psilocybin viser stærkeste evidens for tobaks- og alkoholmisbrug, men data er begrænsede. Tilbagefaldsproblematik involverer forskellige mekanismer. Risici varierer pr. stof; translationel succes er indikations- og stoffspecifik snarere end klasseomfattende.",
-        "fi": "Katsaus siitä, hoitavatko psykedeelid riippuvuussairauksia vai luovatko väliaikaisen aivojen tilan, joka mahdollistaa paranemisen. Analyysi psilosybiinista, ibogaiiasta, ketamiinista ja muista osoittaa ainekohtaisia vaikutuksia: psilosybiinilla vahvin näyttö tupakka- ja alkoholiriippuvuudessa, mutta aineisto on rajallinen. Uusiintumisen estäminen sisältää eri mekanismeja. Riskit vaihtelevat aineiden mukaan; translatoriaalinen onnistuminen on indikaatio- ja ainejäännöskohtainen eikä luokkakohtainen.",
-        "is": "Yfirlit um hvort geislavirkir efnir meðhöndla fíkniefnavanda eða skapi tímabundinn heilaastandi sem gerir bata mögulegan. Greining á psýlósýbíni, íbógaíni, ketamíni og öðrum sýnir efnahlutbundnar áhrif: psýlósýbín sýnir sterkustu sönnun fyrir tóbaks- og alkóholmisnotkun, en gögn eru takmörkuð. Endurkoma felur í sér mismunandi virkni. Áhætta er efnahlutbundin; þýðingalegur árangur er tilvísun- og efnahlutbundinn frekar en flokkabreddan.",
-        "et": "Ülevaade sellest, kas psühhedeelikumid ravivad ainerastandi häireid või loovad ajutise aju oleku, mis võimaldab paranemist. Psilotsibiini, ibogaiini, ketamiini jms analüüs näitab ainerastaspetsiifilisi mõjusid: psilotsibiinile tugevaim tõend tubaka- ja alkoholikasutuse häirete korral, kuid andmed on piiratud. Tagasipöördumise ennetamine hõlmab erinevaid mehhanisme. Riskid on ainerahvaspetsiifilised; translatsiooniline edu on näidustus- ja ainerahvaspetsiifiline, mitte klassikraad.",
-        "lv": "Pārskatījums par to, vai psihedēliskās vielas ārstē vielu lietošanas traucējumus vai rada pagaidu smadzeņu stāvokli, kas iespējo atveseļošanos. Psilotsibīna, ibogaīna, ketamīna u.c. analīze rāda vielu-specifiskas ietekmes: psilotsibīnam spēcīgākais pierādījums tabakas un alkohola lietošanas traucējumiem, taču dati ir ierobežoti. Recidīvu profilakse ietver dažādus mehānismus. Riski ir vielu-specifiski; translācijas panākumi ir indikatīvi un vielu-specifiski, nevis klases plašumā.",
-        "lt": "Apžvalga, ar psichedelinės medžiagos gydо medžiagų vartojimo sutrikimus ar sukuria laikinę smegų būseną, leidžiančią pasveikimui. Psilocibin, ibogain, ketamin ir kitų analizė rodo medžiagai specifines efektas: psilocibin rodο stipriausią įrodymą tabako ir alkoholio vartojimo sutrikimams, tačiau duomenys yra riboти. Relapsų prevencija apima skirtingus mechanizmus. Rizikos yra medžiagai specifinės; transliacijų sėkmė yra indikacijai ir medžiagai specifinė, o ne klasei plati."
-      },
-      "notable": false,
-      "notable_reasons": null,
-      "relevance_score": 4,
-      "study_type": "review",
-      "substances": [
-        "psilocybin",
-        "ibogaine",
-        "ketamine",
-        "other"
-      ],
-      "added_at": "2026-11-26T17:11:18.527072+00:00"
-    },
-    {
-      "title": "Exploring the durability of esketamine and ketamine's antidepressant effects in the maintenance phase of treatment: A systematic review.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42981896/",
-      "source": "PubMed",
-      "date": "2026-10-29",
-      "authors": [
-        "Vasudeva Shreya",
-        "Orsini Diana K",
-        "Lovell Gabrielle F M"
-      ],
-      "doi": "10.1016/j.psychres.2026.117556",
-      "summaries": {
-        "en": "Systematic review of 43 studies examining ketamine and esketamine maintenance treatment for mood disorders. Both substances showed sustained antidepressant effects during ongoing treatment, with reduced relapse rates in randomized trials. However, relapse commonly occurred after discontinuation, and observational studies showed variable long-term outcomes. Findings suggest continued treatment may preserve benefits, though durability varies.",
-        "sv": "Systematisk granskning av 43 studier om ketamin och esketamin i underhållsbehandling för stämningsstörningar. Båda substanserna visade varaktiga antidepressiva effekter under pågående behandling, med minskad återfallshastighet i randomiserade försök. Återfall var vanligt efter avslutad behandling, och observationsstudier visade varierande långtidsresultat. Resultaten tyder på att fortsatt behandling kan bevara effekterna.",
-        "no": "Systematisk gjennomgang av 43 studier om ketamin og esketamin i vedlikeholdsbehandling for stemmingslidelser. Begge substanser viste vedvarende antidepressiv effekt under pågående behandling, med redusert tilbakefallsrate i randomiserte forsøk. Tilbakefall var vanlig etter behandlingsavslutning, og observasjonsstudier viste varierende langtidsresultater. Funnene tyder på at fortsatt behandling kan bevare effektene.",
-        "da": "Systematisk gennemgang af 43 studier om ketamin og esketamin i vedligeholdelsesbehhandling for stemningslidelser. Begge stoffer viste vedvarende antidepressiv effekt under igangværende behandling med reducerede tilbagefaldshastigheder i randomiserede forsøg. Tilbagefald var hyppigt efter behandlingsophør, og observationsstudier viste varierende langtidsresultater. Funnene antyder, at fortsat behandling kan bevare effekterne.",
-        "fi": "Systemaattinen katsaus 42 tutkimuksesta ketamiinin ja eskeetamiinin ylläpitohoidosta mielialahäiriöissä. Molemmat aineet osoittivat pysyviä antidepressiivisiä vaikutuksia jatkuvan hoidon aikana, ja satunnaistetuissa tutkimuksissa ilmeni pienempi uusintahäiriöiden määrä. Uusintahäiriöt olivat yleisiä hoidon lopettamisen jälkeen, ja havainnointitutkimuksissa näkyi vaihtelevat pitkäaikaisvaikutukset. Tulokset viittaavat siihen, että jatkuva hoito voi säilyttää terapeutiset hyödyt.",
-        "is": "Kerfbundin yfirlit yfir 43 rannsóknir um ketamín og esketamín í viðhaldslækningum fyrir geðraskanir. Báðir efnir sýndu viðvarandi andaðhvarfsáhrif meðan á meðferð stóð, með minni endurtekningum í tilviljanakenndum rannsóknum. Endurteking var algeng eftir lok meðferðar og athugunirrannsóknir sýndu breytilegar langtímaniðurstöður. Niðurstöður benda til að áframhaldandi meðferð geti varðveitt áhrifin.",
-        "et": "Süstemaatiline ülevaade 43 uuringust ketamiini ja eskeetamiini säilitusravi kohta meeleoluhäirete puhul. Mõlemad ained näitasid püsivat antidepressantse mõju käimasoleva ravi ajal, randomiseeritud uuringutes oli vähem taandarenguid. Taandtulek oli pärast ravi lõpetamist sage, vaatlusuuringutes olid pikaajalised tulemused erinevad. Tulemused viitavad sellele, et jatkuv ravi võib säilitada terapeutilise kasu.",
-        "lv": "Sistematisks pārskats par 43 pētījumiem par ketamīnu un esketamīnu uzturošās ārstēšanas laikā garastāvokļa traucējumiem. Abu vielu efekti bija ilgtermiņa antidepresanti, turpinot ārstēšanu, ar samazinātu atkārtošanās biežumu randomizētos pētījumos. Atkārtošanās bija izplatīta ārstēšanas pārtraukšanas pēc, novērojuma pētījumiem bija dažādi ilgtermiņa rezultāti. Atklājumi liecina, ka nepārtraukta ārstēšana var saglabāt terapeitiskās priekšrocības.",
-        "lt": "Sisteminė 43 tyrimų apžvalga apie ketaminą ir eskitaminą išlaikomajai gydymui nuo nuotaikos sutrikimų. Abu medžiagos parodė ilgalaikius antidepresyvinius efektus tęsiant gydymą, randomizuotuose tyrimuose sumažėjo recidyvų dažnis. Recidyvai buvo dažni sustabdžius gydymą, o stebėjimuose buvo įvairūs ilgalaikiai rezultatai. Rezultatai rodo, kad tęstinas gydymas gali išsaugoti terapinius privalumus."
-      },
-      "notable": true,
-      "notable_reasons": {
-        "en": "Systematic review synthesizing 43 studies (including 8 RCTs) on maintenance-phase outcomes for FDA-approved esketamine and rapid-acting ketamine in treatment-resistant depression.",
-        "sv": "Systematisk översikt som syntetiserar 43 studier (inklusive 8 RCTs) om resultat i underhållsfasen för FDA-godkänd esketamin och snabbverkande ketamin vid behandlingsresistent depression.",
-        "no": "Systematisk oversikt som syntetiserer 43 studier (inkludert 8 RCTs) om vedlikeholdsfase-resultater for FDA-godkjent esketamin og hurtigvirkende ketamin ved behandlingsresistent depresjon.",
-        "da": "Systematisk oversigt der syntetiserer 43 studier (inklusiv 8 RCTs) om vedligeholdsfase-resultater for FDA-godkendt esketamin og hurtigt virkende ketamin ved behandlingsresistent depression.",
-        "fi": "Systemaattinen katsaus, joka syntetisoi 43 tutkimusta (mukaan lukien 8 RCT:tä) ylläpitovaiheen tuloksista FDA-hyväksynnän saaneelle esketamiinille ja nopeasti vaikuttavalle ketamiinille hoitoresistenteissa masennuksissa.",
-        "is": "Kerfisbundin endurskoðun sem gerir saman 43 rannsóknir (með 8 RCTs) um niðurstöður viðhaldsfasa fyrir FDA-samþykkta esketamín og hraðverkandi ketamín við meðferðarþolna þunglyndi.",
-        "et": "Süstemaatiline ülevaade, mis ühendab 43 uuringut (sealhulgas 8 RCT-d) säilitamisfaasi tulemuste kohta FDA-heaks kiidetud esketamiini ja kiiresti toimiva ketamiini kasutamise kohta ravile resistentses depressioonis.",
-        "lv": "Sistematisks pārskats, kas sintezē 43 pētījumus (tostarp 8 RCT), par uzturēšanas fāzes rezultātiem FDA apstiprinātu esketamīnu un ātri darbojošos ketamīnu izmantošanai ārstēšanai rezistentā depresijā.",
-        "lt": "Sisteminė apžvalga, apibendrinanti 43 tyrimus (įskaitant 8 RCT), apie palaikomosios fazės rezultatus FDA patvirtintam esketaminui ir greitai veikiančiam ketaminui gydymui atsparioje deresijoje."
-      },
-      "relevance_score": 4,
-      "study_type": "review",
-      "substances": [
-        "ketamine"
-      ],
-      "added_at": "2026-11-05T14:51:05.264252+00:00"
-    },
-    {
-      "title": "Oral Esketamine Maintenance Treatment for Treatment-Resistant Depression: Clinical Outcomes During an Off-Label Treatment Program.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42964271/",
-      "source": "PubMed",
-      "date": "2026-10-29",
-      "authors": [
-        "Smith-Apeldoorn Sanne Y",
-        "Veraart Jolien K E",
-        "Spijker Jan"
-      ],
-      "doi": "10.1155/da/8320239",
-      "summaries": {
-        "en": "Observational study (n=93) examining oral esketamine maintenance for treatment-resistant depression. Patients received individually titrated doses (max 3.0 mg/kg twice weekly) at home following 6-week clinic-based induction. Primary outcome: depression severity change measured by HDRS-17. Study enrolled 221 patients June 2017–March 2024, with 93 continuing to maintenance phase. Results support feasibility of long-term esketamine treatment, though optimization of outcomes requires further investigation.",
-        "sv": "Observationsstudie (n=93) om oral esketamin-underhållsbehandling för behandlingsresistent depression. Patienter fick individuellt titrerade doser (max 3,0 mg/kg två gånger veckovis) hemma efter 6 veckors klinisk induktionsfas. Primär effektmått: depressiv symptomatologi mätt med HDRS-17. Studien omfattade 221 patienter juni 2017–mars 2024, varav 93 fortsatte till underhållsfas. Resultaten stödjer genomförbarhet av långvarig psykedelika-behandling, men optimering av utfall kräver vidare forskning.",
-        "no": "Observasjonsstudie (n=93) om oral esketaminvedlikehold for behandlingsresistent depresjon. Pasienter fikk individuelt titrerte doser (maks 3,0 mg/kg to ganger ukentlig) hjemme etter 6 uker klinisk induksjonsfase. Primærutfall: endring i depressiv symptomatologi målt med HDRS-17. Studien omfattet 221 pasienter juni 2017–mars 2024, hvorav 93 fortsatte til vedlikeholdsfase. Resultatene støtter gjennomførbarheten av langtidsbehandling med psykedelika, men optimalisering av utfall krever videre forskning.",
-        "da": "Observationsstudie (n=93) om oral esketamin-vedligeholdelsebehandling for behandlingsresistent depression. Patienter modtog individuelt titrerede doser (maks 3,0 mg/kg to gange ugentligt) derhjemme efter 6 ugers klinisk induktionsfase. Primært effektmål: ændring i depressiv symptombyrde målt med HDRS-17. Studien omfattede 221 patienter juni 2017–marts 2024, heraf 93 fortsatte til vedligeholdelsesfasen. Resultater understøtter gennemførlighed af langtidsbehandling med psykedelika, men optimering af resultater kræver yderligere forskning.",
-        "fi": "Havaintoututkimus (n=93) suun kautta annetun esketamiinin ylläpitohoitoa koskien hoitoresistentille masennukselle. Potilaat saivat yksilöllisesti titrattuja annoksia (enint. 3,0 mg/kg kahdesti viikossa) kotona 6 viikon kliinisen induktiovaiheen jälkeen. Päätulosmuuttuja: masennusoireiden vaikeusasteen muutos mitattu HDRS-17-asteikolla. Tutkimus käsitti 221 potilasta kesäkuu 2017–maaliskuu 2024, joista 93 jatkoi ylläpitovaiheeseen. Tulokset tukevat psykedelijoiden pitkäaikaishoitojen toteutettavuutta, mutta tulosten optimoiminen vaatii lisätutkimusta.",
-        "is": "Athugunarrannsókn (n=93) um reglubundna meðferð með munnlegri esketamíni fyrir þunglyndi sem þolir ekki hefðbundinnar meðferðar. Sjúklingar fengu einstaklingslega stillta skammta (hámark 3,0 mg/kg tvisvar í viku) heima eftir 6 vikna klínískan innleiðingarstig. Aðal útkomustuðill: breyting á þunglyndiseinkennum mæld með HDRS-17. Rannsóknin náði til 221 sjúklings frá júní 2017–mars 2024, og 43 héldu áfram á viðhaldsstigi. Niðurstöður styðja framkvæmun langtímabehandlingar með psykedelikalyfjum, en frekari rannsóknir eru nauðsynlegar.",
-        "et": "Vaatlusuuringu (n=93) oraalsest esketamiini säilitusraviga ravile mittereageeriva depressiooni korral. Patsiendid saivad individuaalselt titreeritud doose (maksimaalselt 3,0 mg/kg kahdesti nädalas) kodus pärast 6-nädalast kliinilist induktsioonifaasi. Esmane tulemuse näitaja: depressiivsete sümptomite raskusastme muutus, mõõdetud HDRS-17 skaalal. Uuringus osales 221 patsienti juunist 2017 märtsini 2024, neist 93 jätkas säilitamisfaasi. Tulemused toetavad psühhedeelide pikaajaline ravi teostamise võimalikkust, kuid tulemuste optimeerimine nõuab edasist uurimist.",
-        "lv": "Observācijas pētījums (n=93) par orālu esketamīna uzturēšanas ārstēšanu ar ārstēšanu rezistentai depresijei. Pacienti saņēma individuāli titrētas devas (maksimāli 3,0 mg/kg divas reizes nedēļā) mājās pēc 6 nedēļu klīniskās indukcijas fāzes. Primārais rezultāts: depresijas simptomu smagsuma izmaiņas, mērot ar HDRS-17. Pētījumā piedalījās 221 pacients no 2017. gada jūnija līdz 2024. gada martam, no kuriem 93 turpināja uzturēšanas fāzi. Rezultāti atbalsta psihedeliku ilgtermiņa ārstēšanas iespējamību, taču rezultātu optimizēšanai nepieciešami turpmāki pētījumi.",
-        "lt": "Stebimasis tyrimas (n=93) dėl oralinės esketamino palaikomosios terapijos gydymui atspariojoje depresijoje. Pacientai gavo individualiai titruo­tas dozes (maks. 3,0 mg/kg du kartus per savaitę) namie po 6 savaičių klini­kinio indukcijos etapo. Pirminis rezultato rodiklis: depresijos simptomų sunkumo pokyčiai, matuojami HDRS-17 skale. Tyrime dalyvavo 221 pacientas nuo 2017 m. birželio iki 2024 m. kovo, iš kurių 93 tęsė palaikomąjį etapą. Rezultatai remia psichedelių ilgalaikės gydymo įgyvendina­mum­ą, tačiau rezultatų optimizavimui reikalingi tolesni tyrimai."
-      },
-      "notable": false,
-      "notable_reasons": null,
-      "relevance_score": 4,
-      "study_type": "observational",
-      "substances": [
-        "ketamine"
-      ],
-      "added_at": "2026-10-31T12:54:21.169913+00:00"
-    },
-    {
-      "title": "How personalization and psychedelics are revitalizing psychiatry.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42951954/",
-      "source": "PubMed",
-      "date": "2026-Oct-29",
-      "authors": [],
-      "doi": "10.1038/d41586-026-03402-7",
-      "summaries": {
-        "en": "This article examines how personalized approaches combined with hallucinogens are transforming psychiatric treatment. The piece discusses integration of tailored interventions with psychedelic-assisted therapy to improve patient outcomes in mental health care.",
-        "sv": "Artikeln undersöker hur personaliserade behandlingsmetoder tillsammans med psykedelika förändrar psykiatrin. Texten diskuterar hur skräddarsydda interventioner integreras med psykedelika-assisterad terapi för att förbättra resultat inom mentalvården.",
-        "no": "Artikkelen undersøker hvordan personaliserte tilnærminger kombinert med psykedelika transformerer psykiatrisk behandling. Teksten diskuterer integrasjonen av tilpassede intervensjoner med psykedelika-assistert terapi for å forbedre pasientresultater innen psykisk helse.",
-        "da": "Artiklen undersøger, hvordan personaliserede tilgange kombineret med psykedelika transformerer psykiatrisk behandling. Teksten diskuterer integration af skræddersyede interventioner med psykedelika-assisteret terapi for at forbedre patientresultater inden for mental sundhed.",
-        "fi": "Artikkelissa tutkitaan, kuinka personoidut lähestymistavat yhdessä psykedeelisten aineiden kanssa muuttavat psykiatrian hoitoa. Tekstissä käsitellään räätälöityjen interventioiden ja psykedeliini-avusteisen terapian integroimista potilastulosten parantamiseksi mielenterveyshoidossa.",
-        "is": "Greinin skoðar hvernig persónuleg nálgun ásamt geðflöktum umbreyta geðlækningum. Textinn fjallar um samþættingu sérsniðinna inngripa með geðflöktastu-studdri meðferð til að bæta heilabiluðir sjúklinga á sviði geðheilsu.",
-        "et": "Artikkel uurib, kuidas personaliseeritud lähenemised koos psühhedeelikumidega muudavad psühhiaatrilist ravi. Tekstis arutatakse kohandatud sekkumiste integreerimist psühhedeliikum-abistatud terapiaga patsientide tulemuste parandamiseks vaimse tervise valdkonnas.",
-        "lv": "Raksts pēta, kā personalizētas pieejas kopā ar psihedelikiem pārveidojot psihiatrijas ārstēšanu. Tekstā tiek apspriesta pielāgotu intervenciju integrēšana ar psihedeliku-palīdzinātu terapiju, lai uzlabotu pacientu rezultātus psihiskās veselības aprūpē.",
-        "lt": "Straipsnyje nagrinėjama, kaip personalizuoti metodai kartu su psichedelikais transformuoja psichiatrijos gydymą. Tekste aptariama pritaikytos intervencijos integravimas su psichedelikų-palaikytu terapija, siekiant pagerinti ligonių rezultatus psichikos sveikatos priežiūroje."
-      },
-      "notable": false,
-      "notable_reasons": null,
-      "relevance_score": 3,
-      "study_type": "other",
-      "substances": [
-        "other"
-      ],
-      "added_at": "2026-10-29T13:27:14.687339+00:00"
     }
   ]
 }

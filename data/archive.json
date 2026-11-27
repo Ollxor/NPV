@@ -1,6 +1,107 @@
 {
   "items": [
     {
+      "title": "Efficacy, location and kinetics at the 5-HT₂A receptor: A narrative review and testable framework for psychoplastogen design.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43098249/",
+      "source": "PubMed",
+      "date": "2026-11-26",
+      "authors": [
+        "Biswal Satyabrat",
+        "Panigrahi Debadash",
+        "Banerjee Mrityunjay"
+      ],
+      "doi": "10.1016/j.pnpbp.2026.112026",
+      "summary_en": "This narrative review examines how 5-HT₂A receptor activation mediates psychedelic effects and neuroplasticity in treating resistant depression. While classical psychedelics show rapid antidepressant effects, their perceptual side effects and safety concerns limit clinical development. The review challenges the proposed direct TrkB/BDNF pathway as an alternative mechanism, noting lack of reproducible evidence. Compounds like tabernanthalog and zalsupindole are discussed, though most supporting evidence remains preclinical with no established clinical safety or efficacy.",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "review",
+      "substances": [
+        "psilocybin",
+        "lsd",
+        "other"
+      ],
+      "added_at": "2026-11-27T16:52:47.012006+00:00"
+    },
+    {
+      "title": "A longitudinal data-driven approach to cluster tnreatment-resistant depressed patients treated with ketamine using immunomethylomics with 12 estimated immunological cell types.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43098226/",
+      "source": "PubMed",
+      "date": "2026-11-26",
+      "authors": [
+        "Assche Evelien Van",
+        "Hohoff Christa",
+        "Atil Ecem Su"
+      ],
+      "doi": "10.1016/j.bbi.2026.107286",
+      "summary_en": "Longitudinal RCT examining 91 treatment-resistant depression patients (40 ketamine, 51 midazolam) using DNA methylation to estimate 12 immune cell types from blood samples at baseline, day 1, end of treatment, and 4-week follow-up. Multivariate functional principal component analysis identified three distinct immune profiles with significant cluster-by-treatment interactions, suggesting immunological markers may help stratify ketamine response.",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "rct",
+      "substances": [
+        "ketamine"
+      ],
+      "added_at": "2026-11-27T16:52:47.012006+00:00"
+    },
+    {
+      "title": "A license to use? Evaluating consumer licensure for psychedelics.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43097936/",
+      "source": "PubMed",
+      "date": "2026-11-26",
+      "authors": [
+        "Cheung Katherine",
+        "Jacobs Edward",
+        "Yaden David B"
+      ],
+      "doi": "10.1016/j.drugpo.2026.105615",
+      "summary_en": "Policy analysis examining consumer licensure for psychedelics, requiring adults to demonstrate safety knowledge before purchase. The article identifies unresolved empirical and ethical questions: whether safety education reduces harms, if licensure is the least restrictive approach, equitable implementation feasibility, and curriculum design. Provides guidance for policymakers balancing public safety with individual autonomy.",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "other",
+      "substances": [
+        "other"
+      ],
+      "added_at": "2026-11-27T16:52:47.012006+00:00"
+    },
+    {
+      "title": "Development and internal evaluation of baseline and pre-dose prognostic models for early response and remission during extended-release oral ketamine treatment in treatment-resistant depression: a secondary analysis of BEDROC.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43097803/",
+      "source": "PubMed",
+      "date": "2026-11-20",
+      "authors": [
+        "Long Yuefeng",
+        "Surman Peter"
+      ],
+      "doi": "10.1016/j.psychres.2026.117620",
+      "summary_en": "Development and internal evaluation of baseline and pre-dose prognostic models for early response and remission during extended-release oral ketamine treatment in treatment-resistant depression: a secondary analysis of BEDROC.",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "other",
+      "substances": [
+        "ketamine"
+      ],
+      "added_at": "2026-11-27T16:52:47.012006+00:00"
+    },
+    {
+      "title": "Esketamine for treatment-resistant depression: Comparing two maintenance schedules in an exploratory observational real-world study.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43099795/",
+      "source": "PubMed",
+      "date": "2026-11-27",
+      "authors": [
+        "Westenhöfer Samuel",
+        "Ehrt-Schäfer Yamina",
+        "Provaznikova Barbora"
+      ],
+      "doi": "10.1192/j.eurpsy.2026.12286",
+      "summary_en": "Real-world observational study comparing two esketamine maintenance schedules for treatment-resistant depression. This exploratory analysis examines dosing regimens in clinical practice to inform optimal treatment protocols.",
+      "notable": false,
+      "notable_reason": null,
+      "study_type": "observational",
+      "substances": [
+        "ketamine"
+      ],
+      "added_at": "2026-11-27T16:52:47.012006+00:00"
+    },
+    {
       "title": "MDMA-assisted therapy for social anxiety disorder: A randomized, open-label, wait-list controlled trial.",
       "url": "https://doi.org/10.1016/j.jad.2026.122710",
       "source": "Europe PMC",

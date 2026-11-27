@@ -1,7 +1,84 @@
 {
-  "date": "2026-11-26",
-  "cached_at": "2026-11-26T16:21:52.643023+00:00",
+  "date": "2026-11-27",
+  "cached_at": "2026-11-27T16:06:04.761549+00:00",
   "articles": [
+    {
+      "title": "Esketamine for treatment-resistant depression: Comparing two maintenance schedules in an exploratory observational real-world study.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43099795/",
+      "source": "PubMed",
+      "abstract": "",
+      "date": "2026-11-27",
+      "authors": [
+        "Westenhöfer Samuel",
+        "Ehrt-Schäfer Yamina",
+        "Provaznikova Barbora"
+      ],
+      "doi": "10.1192/j.eurpsy.2026.12286"
+    },
+    {
+      "title": "Efficacy, location and kinetics at the 5-HT₂A receptor: A narrative review and testable framework for psychoplastogen design.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43098249/",
+      "source": "PubMed",
+      "abstract": "Treatment-resistant depression (TRD) remains a major clinical problem and has driven interest in rapid-acting antidepressant approaches. Classical serotonergic psychedelics can produce rapid remission of depressive symptoms and promote neuroplasticity, but acute perceptual effects, cardiovascular and psychiatric risks, the need for supervised administration and limited long-term safety data complicate their development as conventional drugs. The 5-HT₂A receptor has long been considered the primary target mediating psychedelic effects, yet the relationship between its activation, the psychedelic experience and therapeutic neuroplasticity is more complex than a simple on/off or G-protein versus β-arrestin model. Direct binding of some psychedelics to tropomyosin receptor kinase B (TrkB), the receptor for brain-derived neurotrophic factor (BDNF), has been proposed as an alternative or parallel route to neuroplasticity. This proposal is disputed, as independent attempts to date have not reproduced it, and its sufficiency and clinical relevance are uncertain. Tabernanthalog, zalsupindole, 2-bromo-LSD and 25C-NBF are discussed as medicinal chemistry examples that differ widely in supporting evidence. Most of this evidence is preclinical, and none of it establishes clinical non-hallucinogenicity or therapeutic efficacy. No quantitative or transferable structure-activity relationship is asserted; scaffold-level design logic is identified instead. We propose the term \"spatiotemporal signalling phenotype\" for a set of components spanning receptor localisation, signalling efficacy, G-protein subtype engagement, receptor trafficking, signal duration and downstream pathway convergence. Each component is paired with a candidate experimental readout and an explicit falsification criterion. This is a hypothesis-generating medicinal chemistry framework, not a validated biological mechanism or a causal model of clinical antidepressant action.",
+      "date": "2026-11-26",
+      "authors": [
+        "Biswal Satyabrat",
+        "Panigrahi Debadash",
+        "Banerjee Mrityunjay"
+      ],
+      "doi": "10.1016/j.pnpbp.2026.112026"
+    },
+    {
+      "title": "A longitudinal data-driven approach to cluster tnreatment-resistant depressed patients treated with ketamine using immunomethylomics with 12 estimated immunological cell types.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43098226/",
+      "source": "PubMed",
+      "abstract": "As the understanding of the involvement of immunological processes in the cause and treatment of depression increases, immunological markers become more relevant for response stratification. Based on cell type-specific DNA methylation, cell type compositions can be estimated for immunological cells. We used the DNA-methylation-based cell type estimates of 12 immunological cell types and tested whether these immune-based parameters can be useful for patient profiling. We then tested these profiles and their validity in the context of treatment response for a sample with treatment-resistant depression (TRD) treated with ketamine as part of a randomized controlled trial. From a sample of 181 participants with depression, 113 participants had blood available for biomarker research. Participants were treated with midazolam or ketamine as part of a randomized controlled trial (RCT). Blood and phenotype data were collected at multiple time points. We estimated multivariate functional principal components (PC) over 12 DNA-methylation-based cell type proportion estimates over the course of 4 time points (Baseline, Day 1, End of RCT, and 4 weeks Follow-up) based on the individuals with at least two measuring time points available (N = 91: 40 individuals received ketamine, 51 received midazolam; 32% female; M Our multivariate functional principal components analysis returned seven PCs. These seven PCs were mapped back onto three distinct clusters. There was a significant cluster-by-treatment interaction: individuals of cluster 1 benefited significantly more from treatment with ketamine (F Immunomethylomics based on 12 DNA-methylation-based cell type proportion estimates provides a useful tool to investigate immunological involvement in major depressive disorder and treatment response. By summarizing the longitudinal course of each of the cell types into PCs, we could build patient clusters, which were related to treatment response, particularly for individuals receiving ketamine. Our data contribute to the growing evidence that immune-related markers, including immunomethylomics, can contribute to patient stratification for treatment optimization.",
+      "date": "2026-11-26",
+      "authors": [
+        "Assche Evelien Van",
+        "Hohoff Christa",
+        "Atil Ecem Su"
+      ],
+      "doi": "10.1016/j.bbi.2026.107286"
+    },
+    {
+      "title": "A license to use? Evaluating consumer licensure for psychedelics.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43097936/",
+      "source": "PubMed",
+      "abstract": "As psychedelic policy continues to evolve, policymakers face the challenge of balancing the promotion of public safety with respect for individual autonomy. This article examines consumer licensure as a potential method of promoting public safety, under which licensure would require adults to demonstrate basic knowledge of psychedelics' risks and safety practices before purchase. We identify several unresolved empirical and ethical questions that would need to be addressed before such a policy could be justified, including whether safety education reduces the harms associated with psychedelic use, whether licensure is the least restrictive means of achieving safety and education goals, whether it can be implemented equitably, and how the safety curriculum for licensure should be designed. As an increasing number of jurisdictions consider enacting policies to facilitate access to psychedelics, these considerations can help policymakers assess whether consumer licensure offers an appropriate and proportionate means for reducing the harms associated with psychedelic use.",
+      "date": "2026-11-26",
+      "authors": [
+        "Cheung Katherine",
+        "Jacobs Edward",
+        "Yaden David B"
+      ],
+      "doi": "10.1016/j.drugpo.2026.105615"
+    },
+    {
+      "title": "Development and internal evaluation of baseline and pre-dose prognostic models for early response and remission during extended-release oral ketamine treatment in treatment-resistant depression: a secondary analysis of BEDROC.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43097803/",
+      "source": "PubMed",
+      "abstract": "This post-hoc analysis tested whether routine baseline and pre-dose measures improved prediction of Day-8 outcomes beyond baseline depression severity and prior treatment failures during extended-release oral ketamine (R-107) treatment in BEDROC. Of 231 open-label participants, 224 had observed Day-1 and Day-8 Montgomery-Åsberg Depression Rating Scale (MADRS) scores. Response (≥50% reduction) occurred in 172 (76.8%) and point remission (MADRS ≤10) in 132 (58.9%). Elastic-net models used five outer and five inner cross-validation folds within each feature tier. The originally reported tiers were chosen using the outer-fold results. When tier selection was moved inside the outer training folds, the area under the receiver operating characteristic curve (AUC) was 0.58 for response and 0.67 for remission, with calibration slopes of 0.02 and 0.63, respectively. Compared with the two-variable benchmark evaluated on the same folds, the AUC and Brier score differences were -0.051 and +0.023 for response and +0.064 and -0.009 for remission. Both remission intervals included zero in paired bootstraps conditional on fixed out-of-fold predictions. The single-arm analysis estimates prognosis during treatment. Response prediction was weak, and the incremental value for remission was uncertain. Independent validation is needed to determine whether routine pretreatment measures improve prediction enough to inform clinical decisions.",
+      "date": "2026-11-20",
+      "authors": [
+        "Long Yuefeng",
+        "Surman Peter"
+      ],
+      "doi": "10.1016/j.psychres.2026.117620"
+    },
+    {
+      "title": "The neurobiological complexity of brain dynamics: The neurogliovascular unit and its relevance for psychiatry.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43095289/",
+      "source": "PubMed",
+      "abstract": "Modern neuroscience understands the brain as a complex system whose functional properties are determined by the myriad of interactions of its cellular components. In the difficult route to obtain better understanding of this organ, mathematical tools have become ever more effective, and we are now able to simulate the dynamics of brain signals from digital representations that have high fidelity to experimental data. However, these simulations are generated by inherently simple neuronal models that contain assumptions that, by necessity, can be at times far removed from the underlying neurobiology. Here, we develop an integrated view of brain dynamics that describes how the neurovascular units-made of neurons, capillaries, and glia-collectively determine the development of the functional properties of brain neuronal populations and maintain their homeostatic control. These interactions are instructed by genetic programs modulated by local environmental conditions. These complexities can be integrated into generative models and supply helpful analytics able to link the observable data to neurobiological entities if detailed brain mappings of molecular and cellular components are available. We further highlight how the development of these generative models could be relevant to the understanding of psychiatric conditions.",
+      "date": "2026-10-22",
+      "authors": [
+        "Turkheimer Federico E",
+        "Hancock Fran",
+        "Rosas Fernando E"
+      ],
+      "doi": "10.1162/NETN.a.588"
+    },
     {
       "title": "Association of Low-Dose Ketamine and Ketamine-Midazolam Administration with Postpartum Depressive Symptoms, Postoperative Pain, and Adverse Events in Cesarean Deliveries Under Spinal Anesthesia.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/43091624/",
@@ -58,7 +135,7 @@
       "title": "Soothing Pain After ChEmotherapy with Psilocybin As INtervention (SPACE-PAIN): protocol for a pilot feasibility randomised controlled trial in patients with chemotherapy-induced chronic neuropathic pain at a tertiary hospital in the Netherlands.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/43085981/",
       "source": "PubMed",
-      "abstract": "",
+      "abstract": "Chemotherapy-induced peripheral neuropathy is a common and debilitating side effect of cancer treatment, often resulting in chronic neuropathic pain with limited options for relief. Psilocybin is a classic serotonergic psychedelic showing promise as a novel therapy for patients with chemotherapy-induced chronic neuropathic pain. This pilot feasibility randomised controlled trial has a double-blind, parallel-group design. It aims to assess feasibility and explore clinical effects in adults with chemotherapy-induced chronic neuropathic pain, particularly pain-related interference with daily functioning. Participants (n=50) will be randomised (1:1) to a single oral dose of 25 mg psilocybin or 1 mg psilocybin (control), administered in a clinical setting under direct supervision of a therapist (all qualified psychologists with relevant expertise), at the Amsterdam University Medical Centre (UMC), a tertiary teaching hospital in the Netherlands. The protocol (V.3.0, 12 January 2025) received approval from the Amsterdam UMC medical research ethics committee in January 2025 (approval number 2025.0022). Findings will be communicated through peer-reviewed publications and (inter)national conferences. Clinical Trials Information System, European Union Clinical Trial (EUCT) number 2024-516936-93-02, including the WHO Trial Registration Data Set items. Registered on 16 December 2024, first participant enrolled on 4 November 2025.",
       "date": "2026-11-25",
       "authors": [
         "van Strien Willem Wijnand Johannes",
@@ -180,84 +257,6 @@
         "Yao Wentao"
       ],
       "doi": "10.1016/j.jpsychires.2026.11.031"
-    },
-    {
-      "title": "Deep learning of brain-behavior dimensions identifies transdiagnostic biotypes in youth with ADHD and anxiety disorders.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43061158/",
-      "source": "PubMed",
-      "abstract": "Attention-deficit/hyperactivity disorder and anxiety disorders are highly prevalent in youth and frequently co-occur, yet substantial within- and cross-disorder heterogeneity limits neurobiological specificity and complicates treatment selection. Here we conducted an observational cohort analysis and developed a deep learning framework that integrates clinically salient functional connectivity with cognitive and behavioral measures to identify interpretable transdiagnostic dimensions and biologically grounded biotypes. In 3,508 children aged 9-11 years from the Adolescent Brain Cognitive Development study, the model revealed two reproducible brain-behavior dimensions reflecting cognitive control and emotion-attention regulation. These dimensions yielded three biotypes (externalizing-disinhibited, internalizing-distressed and mixed dysregulation) with distinct symptom profiles, network organization and brain development. They generalized to 224 age-matched Healthy Brain Network participants and were detectable before symptom onset, indicating preclinical expression. These findings support brain-behavior dimensions for parsing transdiagnostic heterogeneity and motivating early risk stratification and mechanism-informed intervention in youth mental health.",
-      "date": "2026-10-16",
-      "authors": [
-        "Jiao Yong",
-        "Tong Xiaoyu",
-        "Fonzo Gregory A"
-      ],
-      "doi": "10.1038/s44220-026-00740-3"
-    },
-    {
-      "title": "How Does Psilocybin Affect Daily Life Experience and Behavior? Protocol For a Multimethod Ambulatory Assessment Study Within a Clinical Trial of Psilocybin for Depression.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43060227/",
-      "source": "PubMed",
-      "abstract": "Although psilocybin has shown promise for treating depression, responses vary considerably, with some individuals experiencing limiting improvement and even adverse effects. Research has largely relied on assessments conducted at discrete time points, providing limited insight into how post-psilocybin change unfolds in everyday life. The Dial-In study aims to characterize daily-life processes associated with differential responses to psilocybin, including factors associated with improvement or worsening following challenging dosing experiences. Dial-In is a prospective, observational, multi-method longitudinal study embedded within a clinical trial administering 25 mg of psilocybin to up to 141 adults with major depressive disorder. Ambulatory assessments combine ecological momentary assessment (EMA) and voice diaries for 14 days pre- and post- dosing, and passive audio sampling via the Electronically Activated Recorder (EAR) for three four-day periods to characterize everyday affect, behavior, reflections, and social interactions. Outcomes include depressive symptoms, psychological well-being, and psychedelic-related adverse effects assessed through eight weeks post-dose. Analyses will examine whether affective sudden gains and losses, social support, interpersonal conflict, conversational focus, reflection and rigidity predict differential outcomes. Additional analyses will test whether these factors moderate associations between challenging dosing experiences and clinical outcomes. The project was approved by WCG Institutional Review Board, with Emory University relying on WCG as the reviewing board. All participants provide written informed consent. Findings will be disseminated through peer-reviewed publications and scientific presentations. ClinicalTrials.gov, NCT06512194 (parent trial), OSF (https://osf.io/nx5ky/overview).",
-      "date": "2026-11-12",
-      "authors": [
-        "Sutu Andreea",
-        "Kaplan Deanna",
-        "Raison Charles L"
-      ],
-      "doi": "10.64898/2026.11.10.26367628"
-    },
-    {
-      "title": "A state-dependent glymphatic dimension in major depressive disorder: implications for treatment resistance.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43058178/",
-      "source": "PubMed",
-      "abstract": "The glymphatic system refers to cerebrospinal fluid-interstitial fluid exchange and proposed drainage pathways shaped by sleep, arousal, vascular dynamics, and astrocytic organization. This physiology offers a way to connect disturbances that often coexist in major depressive disorder (MDD): disrupted sleep, fatigue, cognitive slowing, and stress-related abnormalities. We propose that difficulty establishing or maintaining a coordinated sleep-astrocyte-vascular state may contribute to illness persistence in some patients. Treatment-resistant depression (TRD) provides a setting in which this possibility can be examined across the course of treatment. Preclinical studies link stress and depressive-like behavior to astrocytic injury, aquaporin-4 dysregulation, and altered fluid transport. Human imaging findings vary across depressive phenotypes. In a dedicated TRD study, a higher diffusion tensor imaging along the perivascular space (DTI-ALPS) ratio was partly driven by reduced denominator diffusivity, illustrating the importance of interpreting this indirect index at component level. Whole-brain spatiotemporal models provide a complementary account of the neural activity accompanying these physiological states. Ketamine/esketamine, transcranial magnetic stimulation, and chronobiological interventions offer different ways to investigate treatment-related change; serotonergic psychedelics provide an exploratory extension. Longitudinal studies can establish how changes in sleep, fluid-sensitive imaging, and neural dynamics relate temporally to clinical recovery. This Perspective therefore develops a potentially modifiable physiological dimension of persistent depressive illness and defines how it can be tested.",
-      "date": "2026-11-19",
-      "authors": [
-        "Barlattani Tommaso",
-        "Pettorruso Mauro",
-        "Di Lorenzo Giorgio"
-      ],
-      "doi": "10.1038/s41380-026-03974-w"
-    },
-    {
-      "title": "Animal models in psychedelic research - Tripping over translation.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43058087/",
-      "source": "PubMed",
-      "abstract": "Psychedelic substances show promise for treating psychiatric disorders including depression, anxiety, and PTSD, but the neurobiological mechanisms underlying their therapeutic effects remain poorly understood. Preclinical findings have so far been inconsistent, limiting mechanistic insights. We argue this translational gap is exacerbated by systematic disconnects between conditions thought to shape therapeutic outcomes in humans and those employed in animal research. In this review, we analyse 266 rodent psychedelic studies published between 2014 and 2026 in order to generate a systematic audit of experimental conditions and behavioural assays currently applied in the field. Specifically, we first assessed adherence to welfare practices paralleling \"set and setting\" factors critical to human therapy. We found that most studies contained stress-inducing factors: only a minority reported active-phase testing (14%), environmental enrichment (7%), or refined handling protocols (21%), while drug administration almost universally relied on stress-inducing, restraint-requiring methods. Second, we evaluated the capacity of behavioural assays to capture experiential dynamics, revealing that most studies rely on brief, constrained testing with isolated behavioural markers that fail to capture the multidimensional, temporally evolving nature of psychedelic states. Beyond these methodological gaps, we identify a third critical factor largely absent from preclinical research: individual differences and social context. Most animal studies use group-level, cross-sectional designs that cannot characterize heterogeneous treatment responses or social mechanisms implicated in therapeutic change. We propose that improving translation requires a fundamental reorientation: from brief testing of stressed, isolated animals toward longitudinal tracking of individuals in enriched social environments using comprehensive behavioural characterization. We end by offering practical advice on how to implement some of these considerations in animal psychedelic research.",
-      "date": "2026-11-19",
-      "authors": [
-        "Abd El Hay Muad Y",
-        "Cukić Ana",
-        "Schölvinck Marieke L"
-      ],
-      "doi": "10.1038/s41398-026-04589-z"
-    },
-    {
-      "title": "Psychedelic-assisted treatment for substance use disorders: Evidence and uncertainties.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43057215/",
-      "source": "PubMed",
-      "abstract": "",
-      "date": "2026-11-19",
-      "authors": [
-        "Marsden John",
-        "Hall Wayne D",
-        "Andrews Christina M"
-      ],
-      "doi": "10.1111/add.70717"
-    },
-    {
-      "title": "Targeting CGRP signaling reverses maladaptive neurogenic immunosuppression in head and neck squamous cell carcinoma models.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43056154/",
-      "source": "PubMed",
-      "abstract": "Neurogenic inflammation is one component that sculpts the immune milieu of solid tumors. However, it remains unclear how the sensory-neuroimmune axis shapes the immune microenvironment in cold tumors to bolster treatment resistance. Using orthotopic head and neck squamous cell carcinoma (HNSCC) models, we demonstrate tumor growth-induced sensory hyperexcitability, and that surgical sensory signaling interruption reduced tumor growth. Genetic knockout of a key neuropeptide released by sensory neurons, calcitonin gene-related peptide (CGRP), encoded by Calca, produced eradication when paired with radioimmunotherapy. Such treatment reduced Treg infiltration and immunosuppressive function in Calca knockout mice. We also observed that high-dose psilocybin functions as a CGRP inhibitor and transiently reduces tumor growth by increasing antitumor immunity. Additionally, psilocybin increased circulating serotonin, which was partially reversed with platelet activation inhibitor, clopidogrel. We observed differential effects on CD8 and Treg functionality by psilocin in vitro. Correlational analyses in plasma from human subjects following a single-dose psilocybin corroborated these findings. Together, this work underscores the complex interaction of neurogenic inflammation and the tumor immune microenvironment, highlighting a potential therapeutic avenue for HNSCC and other solid tumors.",
-      "date": "2026-11-19",
-      "authors": [
-        "Idlett-Ali Shaquia L",
-        "Nguyen Alexander Th",
-        "Abdelazeem Khalid Nm"
-      ],
-      "doi": "10.1172/JCI204965"
     },
     {
       "title": "Video: Eli Lilly’s Carole Ho on Psychedelics",
@@ -573,7 +572,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2018-004480-31/CZ",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-11-26",
+      "date": "2026-11-27",
       "authors": [],
       "doi": ""
     },
@@ -582,7 +581,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2020-005037-32/CZ",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-11-26",
+      "date": "2026-11-27",
       "authors": [],
       "doi": ""
     },
@@ -591,7 +590,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2021-002909-10/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-11-26",
+      "date": "2026-11-27",
       "authors": [],
       "doi": ""
     },
@@ -600,7 +599,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2015-000550-37/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-11-26",
+      "date": "2026-11-27",
       "authors": [],
       "doi": ""
     },
@@ -609,7 +608,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2021-000041-40/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-11-26",
+      "date": "2026-11-27",
       "authors": [],
       "doi": ""
     },
@@ -618,7 +617,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2020-000829-55/DK",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-11-26",
+      "date": "2026-11-27",
       "authors": [],
       "doi": ""
     },
@@ -627,7 +626,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2020-002790-94/SE",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-11-26",
+      "date": "2026-11-27",
       "authors": [],
       "doi": ""
     },
@@ -636,7 +635,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2021-006200-33/FI",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-11-26",
+      "date": "2026-11-27",
       "authors": [],
       "doi": ""
     },
@@ -645,7 +644,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2019-004812-73/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-11-26",
+      "date": "2026-11-27",
       "authors": [],
       "doi": ""
     },
@@ -654,7 +653,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2022-002369-14/BE",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-11-26",
+      "date": "2026-11-27",
       "authors": [],
       "doi": ""
     },

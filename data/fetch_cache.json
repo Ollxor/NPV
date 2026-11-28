@@ -1,7 +1,59 @@
 {
-  "date": "2026-11-27",
-  "cached_at": "2026-11-27T16:06:04.761549+00:00",
+  "date": "2026-11-28",
+  "cached_at": "2026-11-28T15:00:33.723067+00:00",
   "articles": [
+    {
+      "title": "Impact of hormonal changes on functional neurological disorder: an international online survey.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43105247/",
+      "source": "PubMed",
+      "abstract": "Functional neurological disorder (FND) affects women approximately three times more often than men. This disparity has largely been attributed to higher trauma prevalence and diagnostic bias while the potential contribution of hormonal influences has received little attention. An online questionnaire was distributed through FND clinics in 13 countries, assessing self-reported symptom change across five hormonal events: hormonal contraception, pregnancy, the menstrual cycle, menopause and gender-affirming hormone therapy. Eligible participants were cisgender women with a diagnosis of FND or gender minority individuals (transgender or non-binary). Perceived symptom change was rated on a 5-point scale ranging from large improvement to large worsening. Among 262 respondents (96% female; mean age 39 years), several hormonal contexts were associated with self-reported symptom changes. Overall, hormonal contraception and pregnancy were frequently associated with worsening of motor and cognitive symptoms and menopause with worsening across all symptom domains. Menstrual cycle analysis revealed a phase-dependent pattern: worsening was most frequently reported during menstruation and the luteal phase whereas improvement was most frequent during the follicular phase. Reported changes were not uniform, with a substantial proportion of participants describing no change or improvement. Self-reported FND symptom severity appears to vary with hormonal context, with motor and cognitive symptoms most consistently affected. Given the retrospective, self-report design, these findings are hypothesis-generating and support prospective research into the role of hormonal transitions in FND.",
+      "date": "2026-11-26",
+      "authors": [
+        "Von Der Weid Laure",
+        "Concetti Cristina",
+        "Antonella Di Vico Ilaria"
+      ],
+      "doi": "10.1136/bmjno-2026-001876"
+    },
+    {
+      "title": "Hallucinating Together: AI Chatbots in Psychedelic Therapy.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43104923/",
+      "source": "PubMed",
+      "abstract": "",
+      "date": "2026-11-26",
+      "authors": [
+        "Poppe Christopher",
+        "Repantis Dimitris",
+        "Gülegen Bengican"
+      ],
+      "doi": "10.1177/28314425261512548"
+    },
+    {
+      "title": "The metacognitive paradox of OCD: confidence is globally reduced but shows increased sensitivity to local evidence.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43104010/",
+      "source": "PubMed",
+      "abstract": "Confidence is a critical metacognitive signal that guides behavior. Biases in confidence, such as excessive doubt, are hallmark features of mental health disorders, especially obsessive-compulsive disorder (OCD). Yet the underlying neurocognitive mechanisms and how they link to learning and decision-making remain elusive. We asked patients with OCD and matched healthy controls to perform a novel rule-shifting task that incorporated trial-by-trial confidence ratings. Using a Bayesian observer model as a benchmark, we identified two distinct confidence characteristics: while patients with OCD indicated lower overall confidence, their trial-by-trial confidence ratings more accurately tracked task-relevant information, rendering their confidence reports more closely aligned with the Bayesian benchmark than those of controls. These findings challenge the idea of a simple, unified metacognitive impairment in OCD. Instead, they suggest that OCD is linked to an enhanced responsiveness to environmental evidence and feedback during decision-making.",
+      "date": "2026-09-03",
+      "authors": [
+        "Loosen Alisa M",
+        "Zaboski Brian A",
+        "Moore Avalon S"
+      ],
+      "doi": "10.1038/s41398-026-04399-3"
+    },
+    {
+      "title": "Hormones, plasticity and rapid antidepressant response in women: a neuroendocrine framework for ketamine and esketamine.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43103547/",
+      "source": "PubMed",
+      "abstract": "Reproductive endocrine biology may contribute to heterogeneity in ketamine and esketamine response, but concentrations, within-person fluctuations and sensitivity to hormonal change are distinct constructs. This critical narrative review integrates mechanistic, preclinical, pharmacokinetic and clinical evidence within a bounded evidence map. Selected animal experiments support context-dependent hormone sensitivity but do not establish human thresholds or cycle-based prescribing. Human evidence includes baseline endocrine interaction tests, reproductive-stage subgroups and treated-cohort predictor analyses; null findings do not demonstrate equivalence, and the appraised evidence does not establish an endocrine-guided treatment rule. We refine the Reproductive Endocrine Response Framework around observable dimensions, measurement timing, exposure and the active-versus-control contrast. Its tabular representation distinguishes experimental support from untested clinical interactions. Evidence categories organise questions rather than provide a validated score. Future trials should separate baseline effect modification from post-treatment mechanisms and avoid identifying pharmacodynamics through exposure adjustment alone. Incomplete assessment of supplementary search results limits the coverage of the synthesis. The framework specifies a research agenda, not a clinical prescribing algorithm.",
+      "date": "2026-11-27",
+      "authors": [
+        "Rescalli Maria Beatrice",
+        "Fagiolini Andrea",
+        "Pinzi Mario"
+      ],
+      "doi": "10.1016/j.yfrne.2026.101298"
+    },
     {
       "title": "Esketamine for treatment-resistant depression: Comparing two maintenance schedules in an exploratory observational real-world study.",
       "url": "https://pubmed.ncbi.nlm.nih.gov/43099795/",
@@ -207,56 +259,6 @@
         "Jha Manish K"
       ],
       "doi": "10.4088/JCP.26cs16574"
-    },
-    {
-      "title": "Methodological Considerations in Clinical Trials for Postpartum Depression: Beyond Traditional Antidepressant Trial Design.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43055648/",
-      "source": "PubMed",
-      "abstract": "",
-      "date": "2026-11-18",
-      "authors": [
-        "Freeman Marlene P",
-        "Fava Maurizio",
-        "Pani Luca"
-      ],
-      "doi": "10.4088/JCP.26com16649"
-    },
-    {
-      "title": "The infinity object: neurophenomenology and psychoanalytic corollaries of near-death experiences.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43066009/",
-      "source": "PubMed",
-      "abstract": "As technological advances have occurred in medicine, including improvements in rates of resuscitation, descriptions of near-death experiences (NDEs) have increased significantly. However, NDEs have been present within religious, literary, and biographical texts for centuries. The phenomenology of NDEs encompasses an inward journey wherein review of one's life, seeing the dead, and an encounter with a spiritually powerful \"being of light\" may be reported. The subjective transformations that take place in survivors, as well as the insights generated from NDEs, can be linked with dimensions of the depressive position and Bion's concept of",
-      "date": "2026-11-06",
-      "authors": [
-        "Miller Christopher W T"
-      ],
-      "doi": "10.3389/fpsyt.2026.1951380"
-    },
-    {
-      "title": "Ketamine promotes strategic and efficient approach-avoidance conflict resolution.",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43064727/",
-      "source": "PubMed",
-      "abstract": "Adaptive behavior requires flexibly balancing approach and avoidance in risky or threatening environments, a flexibility disrupted in depression and other disorders marked by excessive avoidance. Benzodiazepines such as lorazepam broadly dampen neural excitability and synaptic plasticity, whereas ketamine may enhance both. We therefore asked whether ketamine promotes more strategic and efficient motivational behavior. In this completed randomized crossover study, 34 healthy participants with no lifetime neurological or psychiatric disorders and no regular medication use were assessed at the University Medical Center Freiburg (DRKS00025471). Participants completed three visits separated by seven days: a control visit without medication, followed by intranasal ketamine (50 mg) and oral lorazepam (1 mg) in randomized, counterbalanced order. Threat probability and loss magnitude were varied independently in a dynamic approach-avoidance conflict task conducted after ketamine's acute dissociative phase. Reported behavioral outcomes were net token gain, approach behavior, and approach and withdrawal latencies. Behavioral assessors were blinded to condition; participants and physicians were not. Mixed-effects models were used. All 34 randomized participants completed each condition and were analyzed. Ketamine yielded 57% higher token gains than control (β = 0.09, 95% confidence interval 0.05 to 0.13; p < 0.001) and 33% higher gains than lorazepam (β = 0.05, 0.01 to 0.09; p = 0.009). Behavior following ketamine was more strongly guided by outcome value than threat probability and showed faster approach and withdrawal responses. Lorazepam produced a less selective increase in approach behavior. No unexpected adverse events occurred. In healthy participants, ketamine was associated with more efficient and value-sensitive approach-avoidance behavior than control and lorazepam. Many everyday decisions involve weighing a possible gain against a possible harm. In depression, this balance shifts toward avoidance, and people withdraw from rewarding opportunities. Ketamine is a fast-acting antidepressant, but how it restores motivation is unclear. We asked 34 healthy volunteers to play a computer game in which they collected coins while avoiding a virtual attacker, once without medication, once after ketamine and once after lorazepam, a widely used calming medicine. After ketamine, volunteers earned far more coins. They acted more quickly and judged each situation better, taking chances when little could be lost and holding back when much could. Lorazepam did not produce this selective pattern. Ketamine may therefore work in depression by restoring flexible, goal-directed engagement with the environment.",
-      "date": "2026-11-20",
-      "authors": [
-        "Vestring Stefan",
-        "Pfauth Samuel",
-        "Galuba Viktoria"
-      ],
-      "doi": "10.1038/s43856-026-01998-5"
-    },
-    {
-      "title": "Corrigendum to \"Rapid antidepressant effects of ketamine combined with selective serotonin reuptake inhibitors: Mechanisms and outlook\" [J. Psychiatr. Res. 204, 380-385].",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/43063586/",
-      "source": "PubMed",
-      "abstract": "",
-      "date": "2026-11-20",
-      "authors": [
-        "Xiao Chunfeng",
-        "Xu Xinpeng",
-        "Yao Wentao"
-      ],
-      "doi": "10.1016/j.jpsychires.2026.11.031"
     },
     {
       "title": "Video: Eli Lilly’s Carole Ho on Psychedelics",
@@ -572,7 +574,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2018-004480-31/CZ",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-11-27",
+      "date": "2026-11-28",
       "authors": [],
       "doi": ""
     },
@@ -581,7 +583,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2020-005037-32/CZ",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-11-27",
+      "date": "2026-11-28",
       "authors": [],
       "doi": ""
     },
@@ -590,7 +592,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2021-002909-10/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-11-27",
+      "date": "2026-11-28",
       "authors": [],
       "doi": ""
     },
@@ -599,7 +601,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2015-000550-37/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-11-27",
+      "date": "2026-11-28",
       "authors": [],
       "doi": ""
     },
@@ -608,7 +610,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2021-000041-40/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-11-27",
+      "date": "2026-11-28",
       "authors": [],
       "doi": ""
     },
@@ -617,7 +619,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2020-000829-55/DK",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-11-27",
+      "date": "2026-11-28",
       "authors": [],
       "doi": ""
     },
@@ -626,7 +628,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2020-002790-94/SE",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-11-27",
+      "date": "2026-11-28",
       "authors": [],
       "doi": ""
     },
@@ -635,7 +637,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2021-006200-33/FI",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-11-27",
+      "date": "2026-11-28",
       "authors": [],
       "doi": ""
     },
@@ -644,7 +646,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2019-004812-73/NL",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-11-27",
+      "date": "2026-11-28",
       "authors": [],
       "doi": ""
     },
@@ -653,7 +655,7 @@
       "url": "https://www.clinicaltrialsregister.eu/ctr-search/trial/2022-002369-14/BE",
       "source": "EU Clinical Trials Register",
       "abstract": "",
-      "date": "2026-11-27",
+      "date": "2026-11-28",
       "authors": [],
       "doi": ""
     },
